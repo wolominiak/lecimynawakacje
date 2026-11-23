@@ -1,0 +1,201 @@
+{
+  "slug": "gujana",
+  "loc": "w Gujanie",
+  "to": "do Gujany",
+  "capital": "Georgetown",
+  "popularity": 8,
+  "touroperator": false,
+  "gygQuery": "Guyana",
+  "teaser": "Gujana to dzika perła Ameryki Południowej, idealna dla poszukiwaczy przygód i dziewiczej natury. Tu zobaczysz jeden z najpotężniejszych wodospadów świata.",
+  "intro": [
+    "Gujana to kraj dla prawdziwych odkrywców, którzy szukają autentycznych wrażeń z dala od masowej turystyki. To miejsce, gdzie dzika przyroda Amazonii, potężne wodospady i bogata kultura rdzennych mieszkańców stanowią główną atrakcję. Jeśli marzysz o ekoturystyce, obserwacji rzadkich gatunków zwierząt i poznawaniu życia w harmonii z naturą, Gujana może być Twoim kolejnym celem.",
+    "Kraj oferuje niezapomniane doświadczenia, takie jak wyprawy do lasów deszczowych, rejsy po rzekach pełnych kajmanów czy wizyty w wioskach ludów rdzennych. Infrastruktura turystyczna jest skromna, co tylko dodaje uroku i autentyczności podróży. To kierunek dla osób, które cenią sobie przygodę i są gotowe na wyzwania związane z eksploracją mało odkrytych terenów.",
+    "Podróż z Polski do Gujany wymaga planowania i cierpliwości, ponieważ brak jest bezpośrednich połączeń. Zazwyczaj konieczne są co najmniej dwie przesiadki, na przykład w Europie, a następnie w Ameryce Północnej lub na Karaibach. Cała podróż lotnicza może zająć od 15 do 20 godzin. Dla obywateli Polski wiza turystyczna na pobyty do 90 dni nie jest wymagana, ale zawsze warto sprawdzić aktualne przepisy przed wylotem."
+  ],
+  "highlights": [
+    "Potężne wodospady Kaieteur",
+    "Dzika Amazonia i lasy deszczowe",
+    "Bogactwo rzadkich gatunków zwierząt",
+    "Kultura rdzennych mieszkańców",
+    "Słynna Katedra św. Jerzego w Georgetown",
+    "Przygody poza utartym szlakiem"
+  ],
+  "bestTime": {
+    "text": "Gujana leży w strefie klimatu równikowego, charakteryzującego się wysokimi temperaturami i wilgotnością przez cały rok. Występują dwie pory suche, które są najlepszym czasem na podróż. Krótsza pora sucha trwa od lutego do kwietnia, a dłuższa od sierpnia do listopada. W tych okresach opady są mniej intensywne, co sprzyja zwiedzaniu i obserwacji dzikiej przyrody. Pory deszczowe, od maja do połowy sierpnia oraz od połowy listopada do stycznia, mogą utrudniać podróżowanie.",
+    "best": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      11,
+      12,
+      1,
+      5,
+      6,
+      7
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      32,
+      32,
+      32,
+      31,
+      30
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28
+    ],
+    "note": "Georgetown"
+  },
+  "practical": {
+    "flight": "około 15-20 h z przesiadkami",
+    "timeDiff": "6 godzin zimą, 7 godzin latem",
+    "documents": "Paszport ważny minimum 6 miesięcy. Wiza nie jest wymagana na pobyty turystyczne do 90 dni, ale zawsze sprawdź aktualne przepisy przed wyjazdem.",
+    "money": "Walutą jest dolar gujański (GYD). W stolicy akceptowane są karty, poza nią tylko gotówka. Warto mieć USD.",
+    "plugs": "Typ A, B, D i G. Potrzebny adapter.",
+    "language": "angielski",
+    "safety": "Kraj o podwyższonym ryzyku przestępczości, szczególnie w Georgetown. Zachowaj ostrożność, unikaj samotnych spacerów po zmroku i nie afiszuj się z kosztownościami. Warto wykupić kompleksowe ubezpieczenie."
+  },
+  "regions": [
+    {
+      "slug": "kaieteur-national-park",
+      "name": "Park Narodowy Kaieteur",
+      "loc": "w Parku Narodowym Kaieteur",
+      "type": "park narodowy",
+      "gygQuery": "Kaieteur Falls",
+      "airport": "KAI",
+      "forWhom": "To obowiązkowy punkt dla każdego, kto odwiedza Gujanę, oferujący spektakularne widoki na jeden z najpotężniejszych wodospadów świata.",
+      "intro": [
+        "Park jest domem dla wodospadu Kaieteur, który jest cztery razy wyższy niż Niagara i dwukrotnie wyższy od Wiktorii. Woda spada z wysokości 226 metrów wprost do gęstego lasu deszczowego, tworząc niezapomniany spektakl. Dostęp do parku jest ograniczony i zazwyczaj odbywa się małymi samolotami z Georgetown, co samo w sobie jest przygodą.",
+        "Poza samym wodospadem, park oferuje możliwość obserwacji unikalnej fauny i flory, w tym rzadkich gatunków ptaków i płazów. To miejsce, gdzie poczujesz prawdziwą potęgę natury i odosobnienie od cywilizacji."
+      ],
+      "highlights": [
+        "Wodospad Kaieteur, cud natury",
+        "Lot widokowy nad dżunglą",
+        "Obserwacja rzadkich ptaków",
+        "Dzika, nienaruszona przyroda"
+      ]
+    },
+    {
+      "slug": "georgetown",
+      "name": "Georgetown",
+      "loc": "w Georgetown",
+      "type": "miasto",
+      "gygQuery": "Georgetown Guyana",
+      "airport": "GEO",
+      "forWhom": "Stolica Gujany to brama do kraju i miejsce, gdzie można poczuć kolonialną atmosferę oraz poznać lokalne życie.",
+      "intro": [
+        "Georgetown, położone u ujścia rzeki Demerara, jest największym miastem i głównym portem Gujany. Charakteryzuje się unikalną architekturą kolonialną, z wieloma drewnianymi budynkami z XIX wieku. Mimo że miasto boryka się z wyzwaniami, takimi jak wysoka przestępczość, oferuje ciekawe miejsca do zwiedzania.",
+        "Warto zobaczyć Katedrę św. Jerzego, jeden z najwyższych drewnianych kościołów na świecie, oraz ogrody botaniczne z egzotyczną florą. Spacer po ulicach Georgetown pozwala poczuć puls kraju, ale zawsze z zachowaniem ostrożności."
+      ],
+      "highlights": [
+        "Katedra św. Jerzego (drewniana)",
+        "Ogrody Botaniczne i Zoo",
+        "Muzeum Narodowe Gujany",
+        "Targ Stabroek Market"
+      ]
+    },
+    {
+      "slug": "rupununi-savannah",
+      "name": "Sawanna Rupununi",
+      "loc": "na Sawannie Rupununi",
+      "type": "region",
+      "gygQuery": "Rupununi",
+      "airport": "LTM",
+      "forWhom": "Ten rozległy region to raj dla miłośników dzikiej przyrody, safari i autentycznych spotkań z kulturą rdzennych ludów.",
+      "intro": [
+        "Sawanna Rupununi, położona na południu Gujany, to rozległe tereny trawiaste przeplatane lasami galeriowymi i rzekami, graniczące z Brazylią. Jest to jeden z najbardziej dziewiczych obszarów Ameryki Południowej, słynący z bogactwa fauny, w tym jaguarów, kajmanów, gigantycznych wydr i niezliczonych gatunków ptaków. Region jest zamieszkany głównie przez rdzennych mieszkańców, którzy pielęgnują swoje tradycje.",
+        "Podróżowanie po Rupununi to prawdziwa ekspedycja, często z noclegami w ekologicznych lodge'ach prowadzonych przez lokalne społeczności. To idealne miejsce na obserwację zwierząt, wędkowanie i poznawanie życia w harmonii z naturą."
+      ],
+      "highlights": [
+        "Safari i obserwacja zwierząt",
+        "Spotkania z rdzenną ludnością",
+        "Ekoturystyka w lodge'ach",
+        "Malownicze krajobrazy sawanny"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kaieteur Falls",
+      "text": "Potężny wodospad, cztery razy wyższy niż Niagara, spadający do dziewiczej dżungli, oferujący spektakularne widoki.",
+      "gygQuery": "Kaieteur Falls"
+    },
+    {
+      "name": "Katedra św. Jerzego",
+      "text": "Jeden z najwyższych drewnianych kościołów na świecie, imponujący przykład kolonialnej architektury w Georgetown.",
+      "gygQuery": "St George's Cathedral Georgetown"
+    },
+    {
+      "name": "Iwokrama Forest",
+      "text": "Rozległy obszar chroniony, dom dla bogatej fauny i flory, idealny do ekoturystyki i obserwacji zwierząt w ich naturalnym środowisku.",
+      "gygQuery": "Iwokrama Forest"
+    },
+    {
+      "name": "Shell Beach",
+      "text": "Unikalna plaża na północnym wybrzeżu, znana jako lęgowisko czterech gatunków żółwi morskich, w tym gigantycznych żółwi skórzastych.",
+      "gygQuery": "Shell Beach Guyana"
+    },
+    {
+      "name": "Georgetown Botanical Gardens",
+      "text": "Spokojna oaza w stolicy, z egzotycznymi roślinami, palmami, jeziorem pełnym lilii wodnych i różnorodnym ptactwem.",
+      "gygQuery": "Georgetown Botanical Gardens"
+    },
+    {
+      "name": "Orinduik Falls",
+      "text": "Malownicze wodospady na granicy z Brazylią, z kaskadami spadającymi po jaspisowych skałach, idealne do kąpieli w naturalnych basenach.",
+      "gygQuery": "Orinduik Falls"
+    },
+    {
+      "name": "Rzeka Essequibo",
+      "text": "Jedna z najdłuższych rzek w Gujanie, oferująca rejsy po dziewiczych terenach i możliwość odkrywania małych wysp oraz lokalnych społeczności.",
+      "gygQuery": "Essequibo River"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia gujańska to fascynująca mieszanka wpływów afrykańskich, indyjskich, chińskich, kreolskich i europejskich, odzwierciedlająca bogatą historię kraju. Podstawą wielu dań jest ryż, często podawany z pikantnymi curry, gulaszami takimi jak narodowe danie pepperpot (mięsny gulasz z manioku), lub świeżymi owocami morza i rybami z rzek. Warto spróbować roti z różnymi nadzieniami, a także świeżych owoców tropikalnych i lokalnych soków. Dania są często aromatyczne, z użyciem lokalnych przypraw i chili, co nadaje im wyrazisty smak."
+  ],
+  "faq": [
+    {
+      "q": "Czy Gujana jest bezpieczna dla turystów?",
+      "a": "Gujana, zwłaszcza Georgetown, ma wyższy wskaźnik przestępczości niż wiele innych krajów. Zaleca się zachowanie szczególnej ostrożności, unikanie samotnych spacerów po zmroku i nie afiszowanie się z kosztownościami. Poza stolicą ryzyko jest mniejsze, ale zawsze należy być czujnym."
+    },
+    {
+      "q": "Jak dostać się do Gujany z Polski?",
+      "a": "Z Polski nie ma bezpośrednich lotów do Gujany. Podróż wymaga co najmniej dwóch przesiadek, najczęściej w Europie (np. Amsterdam, Londyn) i dalej w Ameryce Północnej lub na Karaibach. Cała podróż trwa zazwyczaj od 15 do 20 godzin."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Gujanie i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest dolar gujański (GYD). W Georgetown i większych miastach można płacić kartą w niektórych hotelach i restauracjach, ale poza nimi gotówka jest niezbędna. Warto mieć przy sobie dolary amerykańskie (USD), które są szeroko akceptowane."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Gujany, aby uniknąć deszczu?",
+      "a": "Najlepszy czas na podróż to krótsza pora sucha od lutego do kwietnia lub dłuższa od sierpnia do listopada. W tych okresach jest mniej opadów i lepsze warunki do zwiedzania i obserwacji dzikiej przyrody."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

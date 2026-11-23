@@ -1,0 +1,205 @@
+{
+  "slug": "kiribati",
+  "loc": "na Kiribati",
+  "to": "na Kiribati",
+  "capital": "Tarawa Południowa",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Kiribati",
+  "teaser": "Kiribati to kraj wyspiarski rozrzucony na Pacyfiku, idealny dla poszukiwaczy autentycznych wrażeń i dziewiczej natury.",
+  "intro": [
+    "Kiribati, a właściwie Republika Kiribati, to państwo składające się z 33 atoli i wysp koralowych, rozsianych na ogromnym obszarze Oceanu Spokojnego, przecinającego równik. To jedno z najbardziej odległych i najmniej odwiedzanych miejsc na świecie, co czyni je prawdziwą gratką dla podróżników szukających ucieczki od masowej turystyki. Można tu doświadczyć życia w zgodzie z naturą, poznać autentyczną kulturę Mikronezji i podziwiać niezmienione krajobrazy.",
+    "Ten kierunek jest dla osób, które cenią sobie spokój, prostotę i bliski kontakt z lokalną społecznością. Nie znajdziesz tu luksusowych kurortów ani rozbudowanej infrastruktury turystycznej, ale za to poznasz prawdziwe oblicze Pacyfiku. Kiribati to raj dla wędkarzy, nurków i miłośników obserwacji ptaków, a także dla tych, którzy chcą zobaczyć, jak wygląda życie na wyspach zagrożonych zmianami klimatycznymi.",
+    "Podróż z Polski na Kiribati to długa i skomplikowana wyprawa, wymagająca wielu przesiadek, zazwyczaj przez Azję lub Australię. Trzeba przygotować się na co najmniej dwie-trzy przesiadki i kilkadziesiąt godzin spędzonych w podróży, co jest częścią przygody. Należy pamiętać o odpowiednim przygotowaniu logistycznym i cierpliwości, bo na Kiribati czas płynie wolniej, a spontaniczność i elastyczność są kluczowe."
+  ],
+  "highlights": [
+    "Autentyczna kultura Mikronezji",
+    "Plaże z białym piaskiem i turkusowa woda",
+    "Światowej klasy wędkarstwo muchowe",
+    "Nurkowanie i snorkeling w rafach koralowych",
+    "Pozostałości z II wojny światowej",
+    "Obserwacja rzadkich gatunków ptaków"
+  ],
+  "bestTime": {
+    "text": "Kiribati leży w strefie równikowej, co oznacza, że temperatury są wysokie przez cały rok. Najlepszy czas na podróż to miesiące suche, czyli od maja do października, kiedy jest mniej opadów i niższe ryzyko cyklonów. W tym okresie pogoda jest najbardziej stabilna, co sprzyja aktywnościom na świeżym powietrzu i eksploracji wysp.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31
+    ],
+    "sea": [
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29
+    ],
+    "note": "Tarawa"
+  },
+  "practical": {
+    "flight": "około 30-40 h z wieloma przesiadkami",
+    "timeDiff": "plus 10 lub 11 godzin, zależnie od pory roku w Polsce",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed wyjazdem. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych przepisów wizowych w ambasadzie lub konsulacie Kiribati przed podróżą.",
+    "money": "Oficjalną walutą jest dolar australijski (AUD) oraz dolar kiribatyjski (KID), który jest powiązany z AUD w stosunku 1:1. Karty kredytowe są akceptowane w bardzo ograniczonym zakresie, głównie w większych hotelach na Tarawie. Konieczne jest posiadanie gotówki.",
+    "plugs": "Typ I (australijski). Warto zabrać ze sobą odpowiedni adapter.",
+    "language": "Językami urzędowymi są angielski i gilbertański (i-Kiribati). Angielski jest szeroko rozumiany, zwłaszcza w obszarach turystycznych i urzędach, ale znajomość podstawowych zwrotów w języku gilbertańskim z pewnością zostanie doceniona.",
+    "safety": "Kiribati jest generalnie krajem bezpiecznym, ale ze względu na jego odległość i ograniczoną infrastrukturę, należy zachować podstawowe środki ostrożności. Opieka medyczna jest bardzo podstawowa. Występuje ryzyko chorób tropikalnych, takich jak denga. Należy uważać na silne prądy morskie i rekina. Okresowo występują zagrożenia związane z cyklonami tropikalnymi. Zawsze warto mieć aktualne ubezpieczenie podróżne."
+  },
+  "regions": [
+    {
+      "slug": "tarawa",
+      "name": "Tarawa",
+      "loc": "na Tarawie",
+      "type": "atol",
+      "gygQuery": "Tarawa Kiribati",
+      "airport": "TRW",
+      "forWhom": "Tarawa to serce Kiribati, gdzie historia spotyka się z codziennym życiem i jest punktem wjazdu do kraju.",
+      "intro": [
+        "Tarawa to główny atol Kiribati i miejsce, gdzie znajduje się stolica, Tarawa Południowa. Jest to najbardziej zaludniony i rozwinięty region kraju, oferujący wgląd w lokalne życie, rynek i administrację. Można tu zobaczyć pozostałości po bitwie o Tarawę z II wojny światowej, w tym bunkry i wraki, które są świadectwem burzliwej historii Pacyfiku.",
+        "Mimo że Tarawa jest najbardziej miejska, nadal oferuje piękne plaże i możliwości do snorkelingu. Jest to także najlepsze miejsce, aby poznać lokalną kulturę, odwiedzając tradycyjne domy spotkań (maneaba) i obserwując codzienne życie mieszkańców. To idealny punkt startowy do dalszej eksploracji bardziej odległych atoli."
+      ],
+      "highlights": [
+        "Pozostałości z bitwy o Tarawę",
+        "Maneaba - tradycyjne domy spotkań",
+        "Lokalne targi i życie codzienne",
+        "Plaże i możliwości snorkelingu"
+      ]
+    },
+    {
+      "slug": "kiritimati",
+      "name": "Kiritimati (Wyspa Bożego Narodzenia)",
+      "loc": "na Kiritimati",
+      "type": "atol",
+      "gygQuery": "Kiritimati Kiribati",
+      "airport": "CXI",
+      "forWhom": "Kiritimati to raj dla wędkarzy i miłośników ptaków, oferujący jedne z najlepszych łowisk na świecie.",
+      "intro": [
+        "Kiritimati, znana również jako Wyspa Bożego Narodzenia, jest największym atolem na świecie pod względem powierzchni lądowej i znajduje się w archipelagu Line Islands. To mekka dla wędkarzy muchowych, którzy przybywają tu, aby łowić bonefisha, trevally i inne gatunki. Ogromne, płytkie laguny i dziewicze rafy koralowe tworzą idealne środowisko dla bogatego życia morskiego.",
+        "Oprócz wędkarstwa, Kiritimati jest domem dla ogromnych kolonii ptaków morskich, co czyni ją ważnym miejscem dla ornitologów i miłośników przyrody. Można tu obserwować rzadkie gatunki, takie jak rybitwa czarnogrzbieta czy fregata wielka. Jest to miejsce, gdzie można naprawdę odciąć się od świata i zanurzyć w dziewiczej naturze Pacyfiku."
+      ],
+      "highlights": [
+        "Światowej klasy wędkarstwo muchowe",
+        "Największy atol na świecie",
+        "Obserwacja rzadkich ptaków morskich",
+        "Dziewicze rafy koralowe"
+      ]
+    },
+    {
+      "slug": "phoenix-islands-protected-area",
+      "name": "Obszar Chroniony Wysp Phoenix (PIPA)",
+      "loc": "w Obszarze Chronionym Wysp Phoenix",
+      "type": "park narodowy",
+      "gygQuery": "Phoenix Islands Protected Area",
+      "airport": null,
+      "forWhom": "PIPA to odległy, morski park narodowy UNESCO, idealny dla badaczy i nurków szukających nietkniętych ekosystemów.",
+      "intro": [
+        "Obszar Chroniony Wysp Phoenix (PIPA) to jeden z największych i najgłębszych morskich obszarów chronionych na świecie, wpisany na Listę Światowego Dziedzictwa UNESCO. Obejmuje osiem atoli i dwie podwodne góry, tworząc niezwykły ekosystem morski, który pozostaje w dużej mierze nietknięty przez działalność człowieka. Dostęp do tego obszaru jest ściśle kontrolowany, co chroni jego unikalną bioróżnorodność.",
+        "PIPA jest domem dla ponad 200 gatunków koralowców, 500 gatunków ryb i wielu gatunków ptaków morskich. To prawdziwy raj dla nurków i naukowców, którzy mają okazję podziwiać nieskazitelne rafy koralowe i bogate życie morskie, w tym rekiny, żółwie i delfiny. Wizyta w PIPA to wyjątkowe doświadczenie dla tych, którzy cenią sobie ochronę przyrody i chcą zobaczyć, jak wygląda ocean w jego najczystszej formie."
+      ],
+      "highlights": [
+        "Miejsce UNESCO",
+        "Nietknięte rafy koralowe",
+        "Bogactwo życia morskiego",
+        "Rzadkie gatunki ptaków"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wyspa Betio",
+      "text": "Część atolu Tarawa, słynąca z pozostałości po krwawej bitwie o Tarawę z 1943 roku, w tym bunkrów, dział i wraków czołgów.",
+      "gygQuery": "Betio Tarawa WWII"
+    },
+    {
+      "name": "Maneaba",
+      "text": "Tradycyjne domy spotkań, gdzie odbywają się lokalne ceremonie, narady i spotkania społeczności, dając wgląd w kulturę Kiribati.",
+      "gygQuery": "Maneaba Kiribati"
+    },
+    {
+      "name": "Laguna Kiritimati",
+      "text": "Ogromna laguna na Wyspie Bożego Narodzenia, słynąca z płytkich wód i doskonałych warunków do wędkarstwa muchowego na bonefisha.",
+      "gygQuery": "Kiritimati Lagoon fishing"
+    },
+    {
+      "name": "Rezerwaty ptaków na Kiritimati",
+      "text": "Schronienie dla milionów ptaków morskich, w tym rzadkich gatunków, idealne dla miłośników ornitologii.",
+      "gygQuery": "Kiritimati bird sanctuary"
+    },
+    {
+      "name": "Rafy koralowe atoli Gilberta",
+      "text": "Podwodne ogrody pełne kolorowych koralowców i bogatego życia morskiego, doskonałe do nurkowania i snorkelingu.",
+      "gygQuery": "Gilbert Islands coral reefs"
+    },
+    {
+      "name": "Wyspa Abaiang",
+      "text": "Spokojny atol na północ od Tarawy, oferujący idylliczne plaże, tradycyjne wioski i autentyczne doświadczenia wyspiarskie.",
+      "gygQuery": "Abaiang Atoll Kiribati"
+    },
+    {
+      "name": "Wyspa Banaba (Ocean Island)",
+      "text": "Wyspa o bogatej historii wydobycia fosforanów, dziś oferująca unikalne krajobrazy i wgląd w przeszłość kolonialną.",
+      "gygQuery": "Banaba Ocean Island Kiribati"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Kiribati opiera się głównie na darach oceanu i lokalnych produktach rolnych. Królują tu ryby i owoce morza, często spożywane świeże, grillowane lub w formie ceviche (ika mata). Podstawą diety są również kokosy, taro, chlebowiec i pandan. Dania są proste, świeże i pełne naturalnych smaków. Warto spróbować świeżo złowionych ryb, kokosowych kremów i lokalnych owoców. Na Tarawie można znaleźć kilka małych restauracji, ale na odleglejszych wyspach dominują posiłki przygotowywane w domach gościnnych."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kiribati jest bezpieczne dla turystów?",
+      "a": "Kiribati jest generalnie bezpiecznym krajem, ale ze względu na ograniczoną infrastrukturę i odległość, należy zachować ostrożność. Ważne jest ubezpieczenie podróżne i świadomość lokalnych zagrożeń, takich jak silne prądy morskie."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży na Kiribati z Polski?",
+      "a": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed wyjazdem. Wymagany jest również paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze warto sprawdzić aktualne wymogi wizowe."
+    },
+    {
+      "q": "Jaka jest waluta na Kiribati i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest dolar australijski (AUD) oraz dolar kiribatyjski (KID). Karty kredytowe są akceptowane bardzo rzadko, głównie na Tarawie. Konieczne jest posiadanie wystarczającej ilości gotówki."
+    },
+    {
+      "q": "Jak dostać się na Kiribati z Polski?",
+      "a": "Podróż z Polski na Kiribati wymaga wielu przesiadek, zazwyczaj przez Azję lub Australię, i zajmuje około 30-40 godzin. Nie ma bezpośrednich połączeń, a loty są rzadkie i drogie."
+    },
+    {
+      "q": "Co warto zobaczyć na Kiribati?",
+      "a": "Warto zobaczyć pozostałości z II wojny światowej na Tarawie, obserwować ptaki i łowić ryby na Kiritimati, a także nurkować w dziewiczych rafach koralowych w Obszarze Chronionym Wysp Phoenix."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

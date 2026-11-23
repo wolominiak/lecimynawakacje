@@ -1,0 +1,184 @@
+{
+  "slug": "liechtenstein",
+  "loc": "w Liechtensteinie",
+  "to": "do Liechtensteinu",
+  "capital": "Vaduz",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Liechtenstein",
+  "teaser": "Malutkie, alpejskie księstwo, które zachwyca górskimi krajobrazami, spokojem i elegancją. Idealne na krótki wypad dla miłośników natury i nietypowych destynacji.",
+  "intro": [
+    "Liechtenstein to jedno z najmniejszych państw na świecie, położone w sercu Alp między Szwajcarią a Austrią. Choć często pomijany na turystycznych mapach, oferuje zaskakująco wiele - od majestatycznych górskich szlaków, przez urokliwe miasteczka, po bogatą kulturę i historię. To kraj, który udowadnia, że wielkość nie zawsze idzie w parze z atrakcyjnością, a jego kameralny charakter jest ogromnym atutem.",
+    "Księstwo jest doskonałym wyborem dla osób szukających spokoju, pięknych widoków i aktywnego wypoczynku na łonie natury. Miłośnicy górskich wędrówek, narciarze, rowerzyści oraz ci, którzy cenią sobie wysoką jakość usług i bezpieczeństwo, z pewnością znajdą tu coś dla siebie. Nie jest to jednak miejsce dla fanów głośnych imprez czy masowej turystyki, raczej dla tych, którzy doceniają kameralną atmosferę i możliwość obcowania z nieskażoną przyrodą.",
+    "Podróż z Polski do Liechtensteinu wymaga przesiadki, ponieważ nie ma bezpośrednich lotów. Najwygodniej jest dolecieć do Zurychu (Szwajcaria) lub Memmingen/Friedrichshafen (Niemcy), a stamtąd kontynuować podróż pociągiem lub autobusem. Jako członek strefy Schengen, Liechtenstein nie wymaga wiz od obywateli Polski, wystarczy dowód osobisty lub paszport. Różnica czasu względem Polski nie występuje, co ułatwia aklimatyzację."
+  ],
+  "highlights": [
+    "Odkryj zamek w Vaduz, symbol księstwa",
+    "Wędruj malowniczymi szlakami Alp",
+    "Spróbuj lokalnych win w książęcej winnicy",
+    "Odwiedź muzea w stolicy",
+    "Zrelaksuj się w górskim kurorcie Malbun",
+    "Podziwiaj widoki z wioski Triesenberg"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę w Liechtensteinie zależy od preferencji. Miłośnicy sportów zimowych powinni wybrać się między grudniem a marcem, kiedy kurorty narciarskie tętnią życiem. Dla pieszych wędrówek i podziwiania zielonych krajobrazów idealne będzie lato, od czerwca do września. Wiosna i jesień oferują łagodniejsze temperatury i piękne kolory, choć pogoda bywa zmienna.",
+    "best": [
+      7,
+      8,
+      2,
+      3
+    ],
+    "ok": [
+      5,
+      6,
+      9,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      2,
+      4,
+      9,
+      14,
+      19,
+      22,
+      24,
+      23,
+      19,
+      13,
+      7,
+      3
+    ],
+    "sea": null,
+    "note": "dla Vaduz"
+  },
+  "practical": {
+    "flight": "około 2 h do Zurychu/Memmingen, potem dojazd około 1-2 h",
+    "timeDiff": "brak",
+    "documents": "Dla obywateli Polski wystarczy dowód osobisty lub paszport. Liechtenstein należy do strefy Schengen. Zawsze zalecamy sprawdzenie aktualnych wymogów przed wyjazdem.",
+    "money": "Walutą jest frank szwajcarski (CHF). Płatności kartą są powszechne, ale warto mieć przy sobie trochę gotówki na drobne wydatki.",
+    "plugs": "Typy C i J. Do gniazdek typu J potrzebna jest przejściówka (szwajcarska).",
+    "language": "Oficjalnym językiem jest niemiecki. W miejscach turystycznych i hotelach bez problemu porozumiesz się po angielsku.",
+    "safety": "Liechtenstein jest jednym z najbezpieczniejszych krajów na świecie. Przestępczość jest minimalna. Opieka zdrowotna stoi na bardzo wysokim poziomie."
+  },
+  "regions": [
+    {
+      "slug": "vaduz",
+      "name": "Vaduz",
+      "loc": "w Vaduz",
+      "type": "miasto",
+      "gygQuery": "Vaduz",
+      "airport": "ZRH",
+      "forWhom": "Idealne dla miłośników kultury, historii i spokojnych spacerów po stolicy.",
+      "intro": [
+        "Vaduz to urokliwa stolica Liechtensteinu, położona nad Renem u stóp Alp. Choć niewielka, oferuje wiele atrakcji kulturalnych i historycznych. Dominującym punktem jest średniowieczny zamek, rezydencja książęcej rodziny, który góruje nad miastem i stanowi jego symbol. Niestety, zamek nie jest dostępny dla zwiedzających, ale można podziwiać go z zewnątrz i z pobliskich punktów widokowych.",
+        "W centrum Vaduz znajdziesz liczne muzea, galerie sztuki oraz urokliwe uliczki. Muzeum Sztuki (Kunstmuseum Liechtenstein) prezentuje sztukę nowoczesną i współczesną, natomiast Muzeum Narodowe (Landesmuseum) przybliża historię i kulturę księstwa. Warto również przespacerować się wzdłuż Renu i odwiedzić książęcą winnicę, aby spróbować lokalnych win."
+      ],
+      "highlights": [
+        "Zamek Vaduz",
+        "Kunstmuseum Liechtenstein",
+        "Muzeum Narodowe Liechtensteinu",
+        "Książęce Winnice Hofkellerei"
+      ]
+    },
+    {
+      "slug": "malbun",
+      "name": "Malbun",
+      "loc": "w Malbun",
+      "type": "kurort",
+      "gygQuery": "Malbun",
+      "airport": "ZRH",
+      "forWhom": "Raj dla narciarzy zimą i entuzjastów górskich wędrówek latem.",
+      "intro": [
+        "Malbun to jedyny kurort narciarski w Liechtensteinie, położony na wysokości około 1600 m n.p.m. Zimą zamienia się w tętniące życiem centrum sportów zimowych, oferując trasy narciarskie dla każdego poziomu zaawansowania, szkółki narciarskie i snowpark. Jest to idealne miejsce dla rodzin z dziećmi, ze względu na kameralną atmosferę i dobrze przygotowaną infrastrukturę.",
+        "Latem Malbun staje się bazą wypadową dla pieszych wędrówek i rowerowych wycieczek. Liczne szlaki prowadzą przez malownicze alpejskie krajobrazy, oferując zapierające dech w piersiach widoki. Możesz wybrać się na łatwy spacer lub ambitną wspinaczkę, a po wysiłku zrelaksować się w jednej z górskich restauracji, delektując się lokalnymi przysmakami."
+      ],
+      "highlights": [
+        "Stoki narciarskie i trasy biegowe",
+        "Górskie szlaki turystyczne",
+        "Kolejka krzesełkowa Sareis",
+        "Park linowy i plac zabaw dla dzieci"
+      ]
+    },
+    {
+      "slug": "triesenberg",
+      "name": "Triesenberg",
+      "loc": "w Triesenberg",
+      "type": "miasto",
+      "gygQuery": "Triesenberg",
+      "airport": "ZRH",
+      "forWhom": "Dla tych, którzy szukają autentycznego górskiego klimatu i pięknych panoram.",
+      "intro": [
+        "Triesenberg to urokliwa górska wioska, położona wysoko ponad doliną Renu, znana z zachowanego dialektu Walserów i tradycyjnej architektury. To doskonałe miejsce, aby poczuć prawdziwą atmosferę Liechtensteinu, podziwiać drewniane domy i cieszyć się spokojem alpejskiej miejscowości. Z Triesenberg rozciągają się fantastyczne widoki na całą dolinę i otaczające góry.",
+        "Wioska jest świetną bazą wypadową do dalszych wędrówek po górach. Warto odwiedzić Muzeum Walserów, aby poznać historię i kulturę tej specyficznej grupy etnicznej. W okolicy znajdziesz też liczne restauracje serwujące lokalne specjały, w tym słynne sery alpejskie."
+      ],
+      "highlights": [
+        "Muzeum Walserów",
+        "Kościół św. Józefa",
+        "Panoramiczne widoki na dolinę",
+        "Tradycyjna architektura alpejska"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Zamek Vaduz",
+      "text": "Oficjalna rezydencja książęcej rodziny Liechtensteinu, górująca nad stolicą. Choć zamknięty dla zwiedzających, stanowi wspaniały punkt widokowy i symbol kraju.",
+      "gygQuery": "Vaduz Castle"
+    },
+    {
+      "name": "Kunstmuseum Liechtenstein",
+      "text": "Muzeum Sztuki Nowoczesnej i Współczesnej, którego minimalistyczna bryła sama w sobie jest dziełem sztuki. Posiada imponującą kolekcję sztuki międzynarodowej.",
+      "gygQuery": "Kunstmuseum Liechtenstein"
+    },
+    {
+      "name": "Muzeum Narodowe Liechtensteinu (Landesmuseum)",
+      "text": "Prezentuje historię, kulturę i przyrodę księstwa, od czasów prehistorycznych po współczesność. To świetne miejsce, aby poznać kraj w pigułce.",
+      "gygQuery": "Liechtenstein National Museum"
+    },
+    {
+      "name": "Szlak Książęcy (Fürstensteig Trail)",
+      "text": "Jedna z najbardziej spektakularnych tras trekkingowych w Alpach, oferująca zapierające dech w piersiach widoki. Wymaga dobrej kondycji i doświadczenia górskiego.",
+      "gygQuery": "Fürstensteig Trail Liechtenstein"
+    },
+    {
+      "name": "Książęce Winnice Hofkellerei",
+      "text": "Miejsce, gdzie można poznać historię winiarstwa w Liechtensteinie i spróbować win produkowanych przez książęcą rodzinę. Oferują degustacje i sprzedaż.",
+      "gygQuery": "Hofkellerei des Fürsten von Liechtenstein"
+    },
+    {
+      "name": "Stary Most na Renie (Alte Rheinbrücke)",
+      "text": "Drewniany most łączący Liechtenstein ze Szwajcarią, ostatni zachowany drewniany most na Renie. Idealny na spacer i podziwianie rzeki.",
+      "gygQuery": "Alte Rheinbrücke Vaduz"
+    },
+    {
+      "name": "Górski kurort Malbun",
+      "text": "Główny ośrodek narciarski i letnia baza wypadowa dla pieszych wędrówek. Oferuje piękne krajobrazy i aktywny wypoczynek przez cały rok.",
+      "gygQuery": "Malbun ski resort"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Liechtensteinu jest silnie związana z tradycjami alpejskimi i ma wiele wspólnego z kuchnią szwajcarską i austriacką. Królują tu dania sycące, idealne po dniu spędzonym w górach. Warto spróbować Käsknöpfle, czyli małych kluseczek z serem i smażoną cebulką, często podawanych z musem jabłkowym. Popularne są także Rösti, czyli placki ziemniaczane, oraz różnorodne dania mięsne, zwłaszcza dziczyzna i potrawy z wołowiny. Nie brakuje też wyśmienitych serów alpejskich i lokalnych win, produkowanych w książęcych winnicach. Na deser polecamy Apfelstrudel lub inne ciasta z owocami."
+  ],
+  "faq": [
+    {
+      "q": "Czy Liechtenstein jest drogi?",
+      "a": "Tak, Liechtenstein, podobnie jak sąsiednia Szwajcaria, jest krajem o wysokich cenach. Należy przygotować się na wyższe koszty zakwaterowania, wyżywienia i atrakcji turystycznych."
+    },
+    {
+      "q": "Jak najlepiej dojechać do Liechtensteinu z Polski?",
+      "a": "Najwygodniej jest dolecieć samolotem do Zurychu (Szwajcaria) lub Memmingen/Friedrichshafen (Niemcy), a stamtąd kontynuować podróż pociągiem lub autobusem. Wynajęcie samochodu również jest dobrym rozwiązaniem."
+    },
+    {
+      "q": "Co warto zobaczyć w Liechtensteinie?",
+      "a": "Koniecznie odwiedź stolicę Vaduz z zamkiem i muzeami, wybierz się na górskie wędrówki w Malbun lub na Szlaku Książęcym, spróbuj lokalnych win i poznaj tradycje w wiosce Triesenberg."
+    },
+    {
+      "q": "Czy Liechtenstein to kraj dla rodzin z dziećmi?",
+      "a": "Tak, Liechtenstein jest bardzo bezpieczny i oferuje wiele atrakcji dla rodzin, zwłaszcza miłośników natury. Kurort Malbun ma udogodnienia dla dzieci, a liczne szlaki są odpowiednie na rodzinne spacery."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

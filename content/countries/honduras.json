@@ -1,0 +1,201 @@
+{
+  "slug": "honduras",
+  "loc": "w Hondurasie",
+  "to": "do Hondurasu",
+  "capital": "Tegucigalpa",
+  "popularity": 10,
+  "touroperator": false,
+  "gygQuery": "Honduras",
+  "teaser": "Honduras to kraj dla poszukiwaczy przygód, oferujący starożytne ruiny Majów, rajskie wyspy karaibskie z nurkowaniem oraz dziką, tropikalną przyrodę.",
+  "intro": [
+    "Honduras, położony w sercu Ameryki Środkowej, to kierunek dla podróżników szukających autentycznych doświadczeń z dala od masowej turystyki. Kraj ten przyciąga przede wszystkim miłośników nurkowania i snorkelingu, dzięki koralowym rafom Wysp Zatoki, szczególnie Roatán i Utila, które są częścią drugiej co do wielkości bariery koralowej na świecie. Dodatkowo, Honduras oferuje fascynujące ruiny Majów w Copán, wpisane na listę UNESCO, oraz bujną, dziewiczą przyrodę, w tym góry, wodospady i lasy deszczowe.",
+    "To propozycja dla doświadczonych i niezależnych podróżników, którzy cenią sobie eksplorację poza utartymi szlakami i są świadomi wyzwań związanych z bezpieczeństwem. Honduras to idealne miejsce dla nurków, miłośników historii prekolumbijskiej oraz entuzjastów ekoturystyki i aktywnego wypoczynku, gotowych na przygodę. Kraj ten nie jest jeszcze masowo odwiedzany przez turystów, co pozwala na głębsze zanurzenie się w lokalną kulturę i prawdziwe doświadczenia.",
+    "Podróż z Polski do Hondurasu wymaga zazwyczaj co najmniej jednej, a często dwóch przesiadek, najczęściej w Stanach Zjednoczonych lub innych hubach Ameryki Północnej. Ze względu na brak bezpośrednich połączeń, loty są długie i trwają od 15 do 20 godzin. Warto zaplanować podróż z wyprzedzeniem, uwzględniając czas na przesiadki oraz ewentualne formalności wizowe, jeśli przesiadka odbywa się w USA."
+  ],
+  "highlights": [
+    "Nurkowanie i snorkeling na Wyspach Zatoki",
+    "Odkrywanie starożytnych ruin Majów w Copán",
+    "Relaks na karaibskich plażach Roatánu",
+    "Trekking i obserwacja ptaków w parkach narodowych",
+    "Poznawanie autentycznej kultury Ameryki Środkowej",
+    "Przygody w dżungli i spływy rzeczne"
+  ],
+  "bestTime": {
+    "text": "Honduras leży w strefie klimatu tropikalnego, z wyraźną porą suchą i deszczową. Najlepszy czas na podróż to pora sucha, która trwa od listopada do kwietnia. W tym okresie panują słoneczne dni, niższa wilgotność i mniej opadów, co sprzyja zwiedzaniu ruin, trekkingowi oraz aktywnościom wodnym na wyspach. Od maja do października trwa pora deszczowa, charakteryzująca się intensywnymi, choć często krótkotrwałymi opadami, zwłaszcza w głębi lądu.",
+    "best": [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      27,
+      28,
+      30,
+      31,
+      30,
+      29,
+      28,
+      28,
+      28,
+      27,
+      27,
+      27
+    ],
+    "sea": [
+      26,
+      26,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      28,
+      27,
+      27
+    ],
+    "note": "dla Tegucigalpy i wybrzeża Morza Karaibskiego"
+  },
+  "practical": {
+    "flight": "około 15-20 h z co najmniej jedną przesiadką",
+    "timeDiff": "minus 7 godzin (UTC-6)",
+    "documents": "Paszport ważny co najmniej 6 miesięcy. Wiza nie jest wymagana dla pobytów turystycznych do 90 dni. Zawsze sprawdź aktualne wymogi przed wyjazdem w ambasadzie lub konsulacie.",
+    "money": "Walutą jest lempira honduraska (HNL). Płatności kartą są możliwe w większych miastach i ośrodkach turystycznych, ale gotówka jest niezbędna poza nimi. Dolary amerykańskie bywają akceptowane na Wyspach Zatoki.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły), napięcie 110V. Wymagany adapter i przejściówka.",
+    "language": "Hiszpański jest językiem urzędowym. W regionach turystycznych, zwłaszcza na wyspach, można porozumieć się po angielsku.",
+    "safety": "Honduras ma wysoki wskaźnik przestępczości, zwłaszcza w większych miastach. Należy zachować szczególną ostrożność, unikać samotnego podróżowania po zmroku, nie afiszować się z wartościowymi przedmiotami. Zaleca się śledzenie komunikatów MSZ przed wyjazdem i unikanie ryzykownych dzielnic."
+  },
+  "regions": [
+    {
+      "slug": "roatan",
+      "name": "Roatán",
+      "loc": "na Roatánie",
+      "type": "wyspa",
+      "gygQuery": "Roatan",
+      "airport": "RTB",
+      "forWhom": "Idealny dla nurków, miłośników słońca i spokojnego wypoczynku na karaibskiej wyspie.",
+      "intro": [
+        "Roatán to największa i najbardziej rozwinięta turystycznie z Wysp Zatoki, słynąca z krystalicznie czystych wód, bujnych raf koralowych i białych, piaszczystych plaż. Jest to jedno z najlepszych miejsc na świecie do nurkowania i snorkelingu, oferujące niezliczone miejsca do eksploracji podwodnego świata, w tym wraki statków. Wyspa ma też rozwiniętą infrastrukturę turystyczną z hotelami, restauracjami i szkołami nurkowania.",
+        "Poza nurkowaniem, Roatán oferuje wiele innych atrakcji, takich jak parki ekologiczne, ogrody botaniczne, zip-lining czy pływanie z delfinami. Mimo swojej popularności, wyspa wciąż zachowuje swój karaibski urok i pozwala na ucieczkę od zgiełku. West Bay i West End to najpopularniejsze miejscowości z największą koncentracją usług turystycznych."
+      ],
+      "highlights": [
+        "Nurkowanie na rafie koralowej",
+        "Relaks na plażach West Bay",
+        "Snorkeling w krystalicznych wodach",
+        "Wizyta w parku iguana"
+      ]
+    },
+    {
+      "slug": "copan-ruinas",
+      "name": "Copán Ruinas",
+      "loc": "w Copán Ruinas",
+      "type": "miasto",
+      "gygQuery": "Copan Ruins",
+      "airport": "SAP",
+      "forWhom": "Obowiązkowy punkt dla miłośników historii, archeologii i kultury Majów.",
+      "intro": [
+        "Copán Ruinas to urocze miasteczko w zachodnim Hondurasie, znane przede wszystkim z pobliskich ruin starożytnego miasta Majów, wpisanych na listę światowego dziedzictwa UNESCO. Ruiny Copán są uważane za jedno z najważniejszych stanowisk archeologicznych cywilizacji Majów, słynące z niezwykle szczegółowych rzeźb, hieroglifów i monumentalnych stel.",
+        "Samo miasteczko Copán Ruinas jest przyjemną bazą wypadową, oferującą kolonialną architekturę, brukowane uliczki, lokalne restauracje i muzea. W okolicy można również odwiedzić rezerwat ptaków Macaw Mountain, gdzie można podziwiać kolorowe ary i inne tropikalne ptaki, a także plantacje kawy."
+      ],
+      "highlights": [
+        "Zwiedzanie ruin Majów",
+        "Podziwianie stel i ołtarzy",
+        "Wizyta w muzeum rzeźb",
+        "Obserwacja ar w Macaw Mountain"
+      ]
+    },
+    {
+      "slug": "la-ceiba-pico-bonito",
+      "name": "La Ceiba i Park Narodowy Pico Bonito",
+      "loc": "w La Ceiba",
+      "type": "miasto i park narodowy",
+      "gygQuery": "La Ceiba",
+      "airport": "LCE",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników ekoturystyki i aktywnego wypoczynku w tropikalnej scenerii.",
+      "intro": [
+        "La Ceiba to tętniące życiem miasto portowe na północnym wybrzeżu Hondurasu, często nazywane \"stolicą turystyki przygodowej\". Jest to główna brama do Wysp Zatoki, ale samo miasto i jego okolice oferują mnóstwo atrakcji. La Ceiba jest doskonałą bazą do eksploracji pobliskiego Parku Narodowego Pico Bonito, jednego z najbardziej spektakularnych obszarów chronionych w kraju.",
+        "Park Narodowy Pico Bonito to raj dla miłośników przyrody, oferujący bujne lasy deszczowe, wodospady, rzeki idealne do raftingu oraz bogatą faunę i florę. Można tu uprawiać trekking, canyoning, obserwować ptaki i podziwiać dziką, nienaruszoną przyrodę. W okolicy La Ceiba znajdują się również gorące źródła i możliwość poznania kultury Garifuna."
+      ],
+      "highlights": [
+        "Rafting na rzece Cangrejal",
+        "Trekking w Parku Pico Bonito",
+        "Wizyta w gorących źródłach",
+        "Poznawanie kultury Garifuna"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Ruiny Majów w Copán",
+      "text": "Jedno z najważniejszych stanowisk archeologicznych cywilizacji Majów, słynące z imponujących rzeźb, stel i hieroglificznych schodów, wpisane na listę UNESCO.",
+      "gygQuery": "Copan Ruins"
+    },
+    {
+      "name": "Wyspy Zatoki (Roatán, Utila, Guanaja)",
+      "text": "Raj dla nurków i miłośników plażowania, oferujący jedne z najlepszych raf koralowych na świecie, krystalicznie czyste wody i relaksującą atmosferę.",
+      "gygQuery": "Bay Islands Honduras"
+    },
+    {
+      "name": "Park Narodowy Pico Bonito",
+      "text": "Rozległy obszar chroniony z dziewiczym lasem deszczowym, majestatycznymi wodospadami, rzekami idealnymi do raftingu i bogactwem dzikiej fauny.",
+      "gygQuery": "Pico Bonito National Park"
+    },
+    {
+      "name": "Jezioro Yojoa",
+      "text": "Największe naturalne jezioro Hondurasu, otoczone parkami narodowymi, idealne do obserwacji ptaków, wędkowania i wizyt w pobliskich jaskiniach oraz plantacjach kawy.",
+      "gygQuery": "Lake Yojoa"
+    },
+    {
+      "name": "Wodospady Pulhapanzak",
+      "text": "Jedne z najwyższych i najbardziej imponujących wodospadów w Ameryce Środkowej, oferujące możliwość kąpieli i ekscytujących wycieczek za kurtyną wody.",
+      "gygQuery": "Pulhapanzak Waterfalls"
+    },
+    {
+      "name": "Rezerwat Biosfery Río Plátano",
+      "text": "Rozległy obszar dziewiczej dżungli i wybrzeża karaibskiego, wpisany na listę UNESCO, dom dla wielu zagrożonych gatunków i rdzennych społeczności Miskito.",
+      "gygQuery": "Rio Platano Biosphere Reserve"
+    },
+    {
+      "name": "Tegucigalpa",
+      "text": "Stolica Hondurasu, oferująca wgląd w kolonialną historię kraju, z zabytkowymi kościołami, muzeami i tętniącymi życiem rynkami.",
+      "gygQuery": "Tegucigalpa"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia honduraska, podobnie jak w innych krajach Ameryki Środkowej, opiera się na prostych, świeżych składnikach, takich jak kukurydza, ryż, fasola i lokalne warzywa. Podstawą wielu dań są tortille, często podawane z grillowanym mięsem (carne asada), kurczakiem (pollo asado) lub rybą. Popularne są baleady, czyli grube tortille pszenne wypełnione fasolą, serem i śmietaną, często z dodatkiem jajka czy awokado. Na wybrzeżu królują owoce morza i świeże ryby, często przygotowywane w stylu karaibskim, z mlekiem kokosowym. Warto spróbować również lokalnych owoców, takich jak mango, papaja czy marakuja."
+  ],
+  "faq": [
+    {
+      "q": "Czy Honduras jest bezpieczny dla turystów?",
+      "a": "Honduras ma wysoki wskaźnik przestępczości. Zaleca się zachowanie szczególnej ostrożności, unikanie niebezpiecznych dzielnic, nie podróżowanie samotnie po zmroku i śledzenie komunikatów MSZ."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Hondurasu dla Polaków?",
+      "a": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy. Wiza turystyczna nie jest wymagana dla pobytów do 90 dni. Zawsze sprawdź aktualne wymogi przed wyjazdem."
+    },
+    {
+      "q": "Jak dostać się na wyspę Roatán?",
+      "a": "Na Roatán można dolecieć bezpośrednio z kilku miast w USA lub z San Pedro Sula (SAP) w Hondurasie. Alternatywnie, z La Ceiba kursują promy na wyspę."
+    },
+    {
+      "q": "Czy w Hondurasie można płacić kartą?",
+      "a": "Płatności kartą są akceptowane w większych hotelach, restauracjach i sklepach w miastach oraz na popularnych wyspach. Poza tymi miejscami niezbędna jest gotówka (lempira honduraska, HNL)."
+    },
+    {
+      "q": "Jaka jest różnica czasu między Polską a Hondurusem?",
+      "a": "Honduras znajduje się w strefie czasowej UTC-6, co oznacza, że różnica czasu względem Polski wynosi minus 7 godzin (gdy w Polsce jest 12:00, w Hondurasie jest 5:00 rano)."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "korea-polnocna",
+  "loc": "w Korei Północnej",
+  "to": "do Korei Północnej",
+  "capital": "Pjongjang",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "North Korea",
+  "teaser": "Podróż do Korei Północnej to wyprawa w nieznane, oferująca unikalne spojrzenie na jeden z najbardziej odizolowanych krajów świata.",
+  "intro": [
+    "Korea Północna, oficjalnie Koreańska Republika Ludowo-Demokratyczna, to kraj, który nie jest typowym celem turystycznym. Podróżowanie tutaj jest ściśle kontrolowane i możliwe wyłącznie w ramach zorganizowanych wycieczek, pod stałym nadzorem przewodników. To propozycja dla bardzo specyficznego typu podróżnika, szukającego doświadczeń poza utartymi szlakami i gotowego na pełne podporządkowanie się lokalnym zasadom.",
+    "Kraj przyciąga przede wszystkim tych, którzy chcą na własne oczy zobaczyć, jak funkcjonuje państwo o tak unikalnym ustroju politycznym i społecznym. Nie ma tu mowy o swobodnej eksploracji czy spontanicznych spotkaniach z mieszkańcami. Każdy element wycieczki jest zaplanowany, a trasa i odwiedzane miejsca są starannie wyselekcjonowane przez władze. To podróż, która zmusza do refleksji i oferuje perspektywę, której nie znajdziesz nigdzie indziej.",
+    "Loty z Polski do Korei Północnej nie są bezpośrednie. Zazwyczaj wymagana jest co najmniej jedna, a często dwie przesiadki, najczęściej w Pekinie, skąd kursują nieliczne loty do Pjongjangu. Cała podróż, wliczając czas na przesiadki, to co najmniej kilkanaście godzin. Przed wyjazdem należy dokładnie zapoznać się z wymogami wizowymi i zasadami obowiązującymi na miejscu, które są bardzo restrykcyjne dla zagranicznych turystów."
+  ],
+  "highlights": [
+    "Zwiedzanie Pjongjangu i jego monumentalnej architektury",
+    "Obserwacja życia w jednym z najbardziej zamkniętych krajów",
+    "Wizyta w Strefie Zdemilitaryzowanej (DMZ) od strony północnej",
+    "Podziwianie krajobrazów gór Myohyang",
+    "Zapoznanie się z ideologią Dżucze",
+    "Unikalne doświadczenie kulturowe i polityczne"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Korei Północnej to wiosna (kwiecień-maj) lub jesień (wrzesień-październik). Unikniesz wtedy skrajnych temperatur - upalnego i wilgotnego lata oraz mroźnej zimy. Wiosną kraj budzi się do życia, a jesienią liście mienią się kolorami, co sprzyja zwiedzaniu i podziwianiu krajobrazów. Lato może być bardzo deszczowe ze względu na porę monsunową.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      6,
+      7,
+      8
+    ]
+  },
+  "climate": {
+    "air": [
+      -3,
+      0,
+      7,
+      15,
+      21,
+      25,
+      28,
+      28,
+      23,
+      16,
+      8,
+      0
+    ],
+    "sea": null,
+    "note": "dla Pjongjangu"
+  },
+  "practical": {
+    "flight": "około 12-15 h z 1-2 przesiadkami (zazwyczaj w Pekinie)",
+    "timeDiff": "+8 h zimą, +7 h latem (względem czasu polskiego)",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać za pośrednictwem autoryzowanego biura podróży organizującego wycieczkę. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Przed podróżą należy bezwzględnie sprawdzić aktualne wymogi wizowe w ambasadzie KRLD.",
+    "money": "Oficjalną walutą jest won północnokoreański (KPW), ale turyści nie mają do niego dostępu. Płatności dokonuje się w walutach wymienialnych (EUR, CNY, USD) w specjalnie wyznaczonych miejscach. Karty płatnicze i bankomaty są niedostępne dla turystów.",
+    "plugs": "Typ C i F. Warto mieć ze sobą uniwersalny adapter, choć w hotelach dla turystów często dostępne są różne typy gniazdek.",
+    "language": "koreański",
+    "safety": "Korea Północna jest krajem o wysokim poziomie bezpieczeństwa wewnętrznego, ale dla turystów obowiązują bardzo surowe zasady. Należy bezwzględnie przestrzegać wszystkich instrukcji przewodników, unikać samodzielnego oddalania się od grupy, nie robić zdjęć bez zgody, szczególnie obiektów wojskowych czy osób. Za naruszenie przepisów grożą poważne konsekwencje. Opieka medyczna dla turystów jest bardzo ograniczona, zaleca się wykupienie kompleksowego ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "pjongjang",
+      "name": "Pjongjang",
+      "loc": "w Pjongjangu",
+      "type": "miasto",
+      "gygQuery": "Pyongyang",
+      "airport": "FNJ",
+      "forWhom": "Dla każdego turysty odwiedzającego Koreę Północną, jako centralny punkt każdej wycieczki.",
+      "intro": [
+        "Pjongjang to stolica i największe miasto Korei Północnej, centrum polityczne, gospodarcze i kulturalne kraju. Charakteryzuje się monumentalną architekturą, szerokimi alejami i licznymi pomnikami upamiętniającymi przywódców oraz osiągnięcia ideologii Dżucze. Miasto jest skrupulatnie utrzymane i prezentuje się jako wizytówka państwa.",
+        "Podczas wizyty w Pjongjangu turyści mają okazję zobaczyć najważniejsze atrakcje, takie jak Wieża Dżucze, Łuk Triumfu, Plac Kim Ir Sena czy Mauzoleum Kumsusan. Wszystkie te miejsca są częścią zorganizowanego programu zwiedzania, który ma na celu przedstawienie oficjalnej narracji i historii kraju. Poruszanie się po mieście jest możliwe tylko pod opieką przewodników."
+      ],
+      "highlights": [
+        "Wieża Idei Dżucze",
+        "Łuk Triumfu",
+        "Plac Kim Ir Sena",
+        "Metro w Pjongjangu"
+      ]
+    },
+    {
+      "slug": "kaesong",
+      "name": "Kaesong",
+      "loc": "w Kaesongu",
+      "type": "miasto",
+      "gygQuery": "Kaesong",
+      "airport": "FNJ",
+      "forWhom": "Dla osób zainteresowanych historią Korei i konfliktem na Półwyspie.",
+      "intro": [
+        "Kaesong to miasto położone niedaleko granicy z Koreą Południową, znane z historycznego znaczenia jako dawna stolica Królestwa Koryo. Jest to jedno z niewielu miast, które uniknęło zniszczeń podczas wojny koreańskiej, co pozwoliło zachować wiele zabytkowych budowli. To tutaj znajduje się słynna Strefa Zdemilitaryzowana (DMZ), którą turyści odwiedzają od strony północnokoreańskiej.",
+        "W Kaesongu turyści mogą zobaczyć m.in. Grobowiec Króla Kongmina, Konfucjańską Akademię Sungkyunkwan oraz oczywiście słynne Panmundżom, gdzie podpisano zawieszenie broni. Wizyta w DMZ to jedno z najbardziej intrygujących doświadczeń, pozwalające na bezpośrednie spojrzenie na podział Półwyspu Koreańskiego."
+      ],
+      "highlights": [
+        "Strefa Zdemilitaryzowana (DMZ)",
+        "Grobowiec Króla Kongmina",
+        "Konfucjańska Akademia Sungkyunkwan",
+        "Most Niepowrotu"
+      ]
+    },
+    {
+      "slug": "gory-myohyang",
+      "name": "Góry Myohyang",
+      "loc": "w Górach Myohyang",
+      "type": "region",
+      "gygQuery": "Mount Myohyang",
+      "airport": "FNJ",
+      "forWhom": "Dla miłośników przyrody i kultury, poszukujących spokojniejszych widoków.",
+      "intro": [
+        "Góry Myohyang, znane jako 'Góry Tajemnicznego Zapachu', to malowniczy region w północnej części Korei Północnej, słynący z pięknych krajobrazów, bujnej roślinności i starożytnych świątyń buddyjskich. Jest to popularne miejsce wypoczynku dla mieszkańców i cel wycieczek dla turystów, oferujące odskocznię od miejskiego zgiełku.",
+        "Główną atrakcją regionu jest Międzynarodowa Wystawa Przyjaźni, prezentująca dary otrzymane przez przywódców Korei Północnej od zagranicznych delegacji. Oprócz tego turyści mogą odwiedzić świątynię Pohyon, podziwiać wodospady i cieszyć się spokojem górskiego otoczenia, zawsze w towarzystwie przewodników."
+      ],
+      "highlights": [
+        "Międzynarodowa Wystawa Przyjaźni",
+        "Świątynia Pohyon",
+        "Malownicze górskie krajobrazy",
+        "Wodospady"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wieża Idei Dżucze",
+      "text": "Monumentalna wieża w Pjongjangu, symbolizująca samowystarczalność narodu koreańskiego. Oferuje widok na miasto z tarasu widokowego.",
+      "gygQuery": "Juche Tower Pyongyang"
+    },
+    {
+      "name": "Łuk Triumfu w Pjongjangu",
+      "text": "Drugi co do wielkości łuk triumfalny na świecie, upamiętniający opór przeciwko japońskiej okupacji i powrót Kim Ir Sena do Korei.",
+      "gygQuery": "Arch of Triumph Pyongyang"
+    },
+    {
+      "name": "Plac Kim Ir Sena",
+      "text": "Centralny plac w Pjongjangu, miejsce najważniejszych uroczystości państwowych, defilad i masowych zgromadzeń.",
+      "gygQuery": "Kim Il Sung Square"
+    },
+    {
+      "name": "Mauzoleum Kumsusan",
+      "text": "Miejsce spoczynku Wielkiego Wodza Kim Ir Sena i Drogiego Przywódcy Kim Dzong Ila. Obowiązują tu bardzo surowe zasady zachowania i ubioru.",
+      "gygQuery": "Kumsusan Palace of the Sun"
+    },
+    {
+      "name": "Strefa Zdemilitaryzowana (DMZ)",
+      "text": "Granica między Koreą Północną a Południową, symbol podziału Półwyspu Koreańskiego. Odwiedzana od strony północnej w Panmundżom.",
+      "gygQuery": "DMZ North Korea"
+    },
+    {
+      "name": "Metro w Pjongjangu",
+      "text": "Jedno z najgłębszych na świecie, stacje są bogato zdobione i pełne socrealistycznej sztuki, często nazywane podziemnymi pałacami.",
+      "gygQuery": "Pyongyang Metro"
+    },
+    {
+      "name": "Międzynarodowa Wystawa Przyjaźni",
+      "text": "Muzeum w Górach Myohyang, prezentujące tysiące darów otrzymanych przez Kim Ir Sena i Kim Dzong Ila od zagranicznych delegacji.",
+      "gygQuery": "International Friendship Exhibition"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia północnokoreańska bazuje na tradycyjnych daniach koreańskich, choć w wersji bardziej surowej i mniej zróżnicowanej niż na południu. Turyści mają okazję spróbować takich potraw jak kimchi (fermentowane warzywa), bibimbap (ryż z warzywami i mięsem), bulgogi (marynowana wołowina) czy naengmyeon (zimny makaron). Posiłki dla turystów są zazwyczaj serwowane w wyznaczonych restauracjach hotelowych lub państwowych, a ich jakość i różnorodność mogą być ograniczone. Warto pamiętać, że dostęp do lokalnych sklepów spożywczych jest dla turystów praktycznie niemożliwy."
+  ],
+  "faq": [
+    {
+      "q": "Czy Polacy mogą podróżować do Korei Północnej?",
+      "a": "Tak, Polacy mogą podróżować do Korei Północnej, ale wyłącznie w ramach zorganizowanych wycieczek, za pośrednictwem autoryzowanych biur podróży i po uzyskaniu wizy."
+    },
+    {
+      "q": "Jakie są główne ograniczenia dla turystów w Korei Północnej?",
+      "a": "Turyści są pod stałym nadzorem przewodników, nie mogą swobodnie poruszać się po kraju, robić zdjęć bez zgody, rozmawiać z mieszkańcami czy oddalać się od grupy. Obowiązuje zakaz wwożenia literatury religijnej czy politycznej."
+    },
+    {
+      "q": "Czy w Korei Północnej jest dostęp do internetu i telefonu?",
+      "a": "Dostęp do internetu jest dla turystów bardzo ograniczony lub niemożliwy. Telefony komórkowe zazwyczaj działają tylko w sieci północnokoreańskiej, a międzynarodowe połączenia są drogie i ściśle kontrolowane. Warto przygotować się na całkowity brak łączności ze światem zewnętrznym."
+    },
+    {
+      "q": "Ile kosztuje wycieczka do Korei Północnej?",
+      "a": "Koszt wycieczki jest zróżnicowany i zależy od długości pobytu oraz standardu zakwaterowania, ale zazwyczaj wynosi od 1500 do 3000 euro za osobę, nie wliczając kosztów lotów z Polski. W cenę wliczone są zazwyczaj wszystkie posiłki, transport i opieka przewodników."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

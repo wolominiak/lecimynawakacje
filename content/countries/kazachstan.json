@@ -1,0 +1,206 @@
+{
+  "slug": "kazachstan",
+  "loc": "w Kazachstanie",
+  "to": "do Kazachstanu",
+  "capital": "Astana",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Kazakhstan",
+  "teaser": "Odkryj Kazachstan, kraj bezkresnych stepów, gór Tien-Szan i nowoczesnych miast. Idealny dla poszukiwaczy przygód i autentycznych doświadczeń.",
+  "intro": [
+    "Kazachstan to kraj kontrastów, gdzie bezkresne stepy spotykają się z majestatycznymi szczytami gór Tien-Szan, a starożytne szlaki handlowe krzyżują się z futurystyczną architekturą. To dziewiąty co do wielkości kraj na świecie, oferujący ogromną różnorodność krajobrazów, od pustyń po lodowce, od głębokich kanionów po turkusowe jeziora. Jego bogata historia, związana z kulturą koczowniczą i Jedwabnym Szlakiem, przeplata się z dynamicznym rozwojem i nowoczesnością.",
+    "Kraj ten jest idealny dla doświadczonych podróżników szukających autentycznych doświadczeń poza utartymi szlakami turystycznymi. To doskonały kierunek dla miłośników przyrody, trekkingu i pieszych wędrówek, a także dla tych, którzy fascynują się historią, kulturą Azji Centralnej i podbojem kosmosu. Kazachstan z pewnością zadowoli osoby pragnące odkrywać nieznane i mierzyć się z rozległością przestrzeni.",
+    "Podróż z Polski do Kazachstanu zazwyczaj wymaga przesiadki, najczęściej w jednym z europejskich lub bliskowschodnich hubów, takich jak Frankfurt, Stambuł czy Dubaj. Całkowity czas lotu, wraz z oczekiwaniem na przesiadkę, wynosi zazwyczaj od 7 do 10 godzin. Obywatele Polski nie potrzebują wizy na pobyt do 30 dni, co ułatwia spontaniczne planowanie podróży i eksplorację tego fascynującego państwa."
+  ],
+  "highlights": [
+    "Majestatyczne góry Tien-Szan",
+    "Malownicze jeziora Kolsay i Kaindy",
+    "Spektakularny Kanion Szaryński",
+    "Kosmodrom Bajkonur - brama do kosmosu",
+    "Futurystyczna architektura Astany",
+    "Almaty - zielone miasto u podnóża gór"
+  ],
+  "bestTime": {
+    "text": "Ze względu na kontynentalny klimat, Kazachstan charakteryzuje się gorącymi latami i mroźnymi zimami. Najlepszy czas na podróż to wiosna (maj) i wczesna jesień (wrzesień), kiedy temperatury są umiarkowane, a przyroda zachwyca. Lato (czerwiec-sierpień) jest dobre na wycieczki w góry, ale na nizinach i stepach może być bardzo upalnie. Zima jest idealna dla miłośników sportów zimowych w okolicach Almaty, ale utrudnia zwiedzanie reszty kraju.",
+    "best": [
+      5,
+      9
+    ],
+    "ok": [
+      4,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      -2,
+      0,
+      7,
+      17,
+      22,
+      27,
+      30,
+      28,
+      23,
+      15,
+      6,
+      0
+    ],
+    "sea": null,
+    "note": "dla Almaty"
+  },
+  "practical": {
+    "flight": "około 7-10 h z przesiadką",
+    "timeDiff": "od +3 do +4 godzin, w zależności od pory roku w Polsce",
+    "documents": "Wiza nie jest wymagana dla obywateli Polski na pobyt do 30 dni. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze sprawdzaj aktualne wymogi wizowe przed podróżą w ambasadzie lub konsulacie.",
+    "money": "Walutą jest tenge kazachskie (KZT). Płatności kartą są powszechne w dużych miastach i supermarketach, ale poza głównymi ośrodkami warto mieć gotówkę. Bankomaty są dostępne w miastach.",
+    "plugs": "Typ C i F (europejskie). Nie potrzeba adapterów.",
+    "language": "Oficjalne języki to kazachski i rosyjski. Rosyjski jest szeroko używany, zwłaszcza w miastach i jako język komunikacji międzyetnicznej. Angielski jest coraz popularniejszy w sektorze turystycznym, ale poza nim znajomość może być ograniczona.",
+    "safety": "Kazachstan jest generalnie bezpiecznym krajem, ale należy zachować podstawowe środki ostrożności, zwłaszcza w dużych miastach, gdzie zdarzają się drobne kradzieże. Ruch drogowy bywa chaotyczny, a jakość dróg poza głównymi trasami może być niska. Zaleca się wykupienie kompleksowego ubezpieczenia medycznego i podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "almaty",
+      "name": "Almaty",
+      "loc": "w Ałmaty",
+      "type": "miasto",
+      "gygQuery": "Almaty",
+      "airport": "Almaty International Airport (ALA)",
+      "forWhom": "Dla miłośników natury, kultury i miejskiego życia u podnóża majestatycznych gór Tien-Szan.",
+      "intro": [
+        "Almaty, dawna stolica Kazachstanu, to tętniące życiem miasto otoczone przez spektakularne góry. Znane jest z zielonych parków, szerokich bulwarów i bogatej oferty kulturalnej. To idealna baza wypadowa do odkrywania okolicznych cudów natury.",
+        "W Almaty można podziwiać drewnianą Katedrę Zenkowa, spacerować po Parku Panfiłowa, wjechać kolejką na wzgórze Kok-Tobe, aby podziwiać panoramę miasta, lub wybrać się na wycieczkę do słynnego lodowiska Medeu i ośrodka narciarskiego Shymbulak."
+      ],
+      "highlights": [
+        "Katedra Zenkowa",
+        "Park Panfiłowa",
+        "Wzgórze Kok-Tobe",
+        "Lodowisko Medeu"
+      ]
+    },
+    {
+      "slug": "astana",
+      "name": "Astana",
+      "loc": "w Astanie",
+      "type": "miasto",
+      "gygQuery": "Astana",
+      "airport": "Nursultan Nazarbayev International Airport (NQZ)",
+      "forWhom": "Dla tych, którzy chcą zobaczyć futurystyczną architekturę i nowoczesne oblicze Kazachstanu.",
+      "intro": [
+        "Astana, obecna stolica Kazachstanu, to miasto, które powstało praktycznie od podstaw na stepie, stając się symbolem ambicji i nowoczesności kraju. Jej futurystyczna architektura, zaprojektowana przez światowej sławy architektów, jest prawdziwym cudem inżynierii i designu.",
+        "W Astanie warto zobaczyć kultową Wieżę Bajterek, symbolizującą drzewo życia, Pałac Pokoju i Pojednania w kształcie piramidy, czy imponujący Meczet Hazret Sułtan. Miasto oferuje również liczne muzea, centra handlowe i parki, które świadczą o jego dynamicznym rozwoju."
+      ],
+      "highlights": [
+        "Wieża Bajterek",
+        "Pałac Pokoju i Pojednania",
+        "Meczet Hazret Sułtan",
+        "Bulwar Nurzhol"
+      ]
+    },
+    {
+      "slug": "kanion-szarynski",
+      "name": "Kanion Szaryński",
+      "loc": "w Kanionie Szaryńskim",
+      "type": "park narodowy",
+      "gygQuery": "Charyn Canyon",
+      "airport": "Almaty International Airport (ALA)",
+      "forWhom": "Dla poszukiwaczy spektakularnych krajobrazów, pieszych wędrówek i geologicznych cudów natury.",
+      "intro": [
+        "Kanion Szaryński, często nazywany 'Mniejszym Bratem Wielkiego Kanionu', to jeden z najbardziej imponujących cudów natury Kazachstanu. Jego czerwone formacje skalne, wyrzeźbione przez rzekę Szaryn na przestrzeni milionów lat, tworzą niezwykłe kształty i labirynty, zwłaszcza w 'Dolinie Zamków'.",
+        "To idealne miejsce na jednodniową wycieczkę z Almaty, oferujące szlaki trekkingowe, punkty widokowe i możliwość biwakowania pod gwiazdami. Kanion jest domem dla unikalnej flory i fauny, w tym rzadkiego jesionu sogdyjskiego, co czyni go atrakcyjnym dla miłośników przyrody."
+      ],
+      "highlights": [
+        "Dolina Zamków",
+        "Czerwone formacje skalne",
+        "Rzeka Szaryn",
+        "Szlaki trekkingowe"
+      ]
+    },
+    {
+      "slug": "jeziora-kolsay-kaindy",
+      "name": "Jeziora Kolsay i Kaindy",
+      "loc": "nad jeziorami Kolsay i Kaindy",
+      "type": "region",
+      "gygQuery": "Kolsay Lakes, Lake Kaindy",
+      "airport": "Almaty International Airport (ALA)",
+      "forWhom": "Dla miłośników górskich jezior, dziewiczej przyrody i unikalnych widoków, szukających spokoju i aktywności na łonie natury.",
+      "intro": [
+        "Jeziora Kolsay, nazywane 'Perłami Tien-Szan', to seria trzech malowniczych jezior górskich o krystalicznie czystej wodzie, otoczonych gęstymi lasami iglastymi. Oferują one idylliczne krajobrazy i są doskonałym miejscem na piesze wycieczki, pływanie łódką czy pikniki.",
+        "Niedaleko znajduje się unikalne Jezioro Kaindy, znane z zatopionego lasu. Po trzęsieniu ziemi w 1911 roku, drzewa świerkowe zostały zalane, a ich pnie wystają teraz z turkusowej wody, tworząc surrealistyczny i niezapomniany widok. To popularne miejsce do nurkowania i fotografowania."
+      ],
+      "highlights": [
+        "Trzy jeziora Kolsay",
+        "Zatopiony las w Jeziorze Kaindy",
+        "Turkusowe wody jezior",
+        "Dziewicza przyroda Tien-Szan"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kosmodrom Bajkonur",
+      "text": "Wyrusz w podróż do historii podboju kosmosu, odwiedzając najstarszy i największy kosmodrom na świecie, z którego startowały misje Sputnika i Gagarina. Wizyta wymaga specjalnych zezwoleń i często jest organizowana w ramach wycieczek.",
+      "gygQuery": "Baikonur Cosmodrome"
+    },
+    {
+      "name": "Park Narodowy Ałtyn-Emel",
+      "text": "Odkryj śpiewające wydmy Akkum-Kalkam i malownicze góry Aktau i Katutau w tym rozległym parku narodowym, oferującym unikalne krajobrazy, które zmieniają kolory w zależności od pory dnia.",
+      "gygQuery": "Altyn-Emel National Park"
+    },
+    {
+      "name": "Medeu (koło Almaty)",
+      "text": "Zrelaksuj się w najwyżej położonym lodowisku na świecie, otoczonym majestatycznymi szczytami górskimi, popularnym miejscem rekreacji i sportów zimowych, dostępnym łatwo z Almaty.",
+      "gygQuery": "Medeu"
+    },
+    {
+      "name": "Wieża Bajterek w Astanie",
+      "text": "Podziwiaj symbol Astany, futurystyczną wieżę z punktem widokowym, która reprezentuje drzewo życia i mitycznego ptaka szczęścia Samruk, oferującą panoramiczne widoki na stolicę.",
+      "gygQuery": "Bayterek Tower Astana"
+    },
+    {
+      "name": "Meczet Hazret Sułtan w Astanie",
+      "text": "Odwiedź jeden z największych meczetów w Azji Środkowej, imponującą budowlę o białych kopułach i bogatych zdobieniach, świadczącą o duchowym dziedzictwie kraju.",
+      "gygQuery": "Hazret Sultan Mosque"
+    },
+    {
+      "name": "Park Panfiłowa i Katedra Zenkowa w Almaty",
+      "text": "Spaceruj po zielonym parku, podziwiając drewnianą Katedrę Wniebowstąpienia Pańskiego, zbudowaną bez użycia gwoździ, będącą ikoną miasta i przykładem niezwykłej architektury.",
+      "gygQuery": "Panfilov Park, Zenkov Cathedral Almaty"
+    },
+    {
+      "name": "Mauzoleum Hodży Ahmeda Jasawiego w Turkiestanie",
+      "text": "Poznaj wpisane na listę UNESCO mauzoleum, perłę architektury timurydzkiej i ważne miejsce pielgrzymek w Azji Centralnej, będące świadectwem bogatej historii regionu.",
+      "gygQuery": "Khoja Ahmed Yasawi Mausoleum"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia kazachska jest silnie zakorzeniona w tradycjach koczowniczych, dlatego dominują w niej dania mięsne, zwłaszcza z koniny i baraniny. Flagowym daniem jest beszbarmak, czyli gotowane mięso z szerokimi płatami makaronu. Popularne są także lagman (makaron z mięsem i warzywami), pilaw oraz samsa (pierogi pieczone w piecu tandoor). Narodowym napojem jest kumys, czyli sfermentowane mleko klaczy. W miastach można znaleźć również wpływy kuchni rosyjskiej i uzbeckiej."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kazachstan jest bezpieczny dla turystów z Polski?",
+      "a": "Tak, Kazachstan jest generalnie bezpiecznym krajem dla turystów, choć zawsze zaleca się zachowanie podstawowych środków ostrożności, zwłaszcza w dużych miastach i na zatłoczonych targach."
+    },
+    {
+      "q": "Jaka jest waluta w Kazachstanie i czy można płacić kartą?",
+      "a": "Walutą jest tenge kazachskie (KZT). W większych miastach płatności kartą są powszechne, ale poza nimi i na mniejszych targach warto mieć przy sobie gotówkę."
+    },
+    {
+      "q": "Czy potrzebuję wizy, aby podróżować do Kazachstanu z Polski?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny w Kazachstanie trwający do 30 dni. Wymagany jest ważny paszport."
+    },
+    {
+      "q": "Kiedy jest najlepszy czas na podróż do Kazachstanu?",
+      "a": "Najlepsze miesiące na podróż to maj i wrzesień, kiedy temperatury są umiarkowane i sprzyjają zwiedzaniu oraz aktywnościom na świeżym powietrzu."
+    },
+    {
+      "q": "Jakie są główne atrakcje Kazachstanu?",
+      "a": "Do głównych atrakcji należą góry Tien-Szan, Kanion Szaryński, jeziora Kolsay i Kaindy, nowoczesne miasta Almaty i Astana, a także słynny Kosmodrom Bajkonur."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

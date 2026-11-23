@@ -1,0 +1,197 @@
+{
+  "slug": "gwinea-bissau",
+  "loc": "w Gwinei Bissau",
+  "to": "do Gwinei Bissau",
+  "capital": "Bissau",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Guinea Bissau",
+  "teaser": "Gwinea Bissau to kierunek dla prawdziwych odkrywców, szukających autentycznej Afryki Zachodniej, z dala od utartych szlaków turystycznych.",
+  "intro": [
+    "Gwinea Bissau, niewielki kraj na wybrzeżu Afryki Zachodniej, to miejsce, które wciąż czeka na odkrycie przez masową turystykę. Nie znajdziesz tu luksusowych kurortów ani rozbudowanej infrastruktury, ale za to doświadczysz Afryki w jej surowej, prawdziwej formie. To kraj o bogatej historii kolonialnej, z fascynującymi tradycjami i niezwykłą przyrodą, zwłaszcza w archipelagu Bijagós.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, którzy cenią sobie przygodę, autentyczność i są gotowi na wyzwania. Jeśli szukasz egzotycznych plaż, dziewiczych wysp i chcesz zanurzyć się w lokalnej kulturze, Gwinea Bissau może Cię zaskoczyć. Pamiętaj jednak, że to kierunek wymagający elastyczności, cierpliwości i otwartości na improwizację, a także świadomości lokalnych realiów.",
+    "Podróż z Polski do Gwinei Bissau wiąże się zazwyczaj z jedną lub dwiema przesiadkami, najczęściej w Lizbonie lub innym europejskim hubie. Całość zajmuje około 12-15 godzin. Ze względu na brak bezpośrednich połączeń i słabo rozwiniętą infrastrukturę, planowanie podróży wymaga nieco więcej wysiłku niż w przypadku popularnych destynacji."
+  ],
+  "highlights": [
+    "Dziewiczy archipelag Bijagós",
+    "Autentyczna kultura Afryki Zachodniej",
+    "Kolonialna architektura w Bissau",
+    "Spokojne, piaszczyste plaże",
+    "Bogactwo lokalnych rynków",
+    "Tereny podmokłe i dzika przyroda"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Gwinei Bissau to sucha pora, która trwa od listopada do maja. W tym okresie temperatury są wysokie, ale wilgotność niska, co czyni zwiedzanie znacznie przyjemniejszym. Pora deszczowa, od czerwca do października, charakteryzuje się intensywnymi opadami i wysoką wilgotnością, co może utrudniać przemieszczanie się po kraju i dostęp do niektórych regionów.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      10,
+      6
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      33,
+      34,
+      34,
+      33,
+      31,
+      29,
+      29,
+      30,
+      31,
+      31,
+      30
+    ],
+    "sea": [
+      24,
+      24,
+      25,
+      26,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27,
+      26
+    ],
+    "note": "dla Bissau"
+  },
+  "practical": {
+    "flight": "Około 12-15 godzin z jedną lub dwiema przesiadkami",
+    "timeDiff": "W zimie -1 godzina, w lecie -2 godziny względem czasu polskiego",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu) oraz wizy. Wizę można uzyskać w ambasadzie Gwinei Bissau (najbliższa w Lizbonie) lub na lotnisku po przylocie (Visa on Arrival), choć ta opcja wymaga wcześniejszego kontaktu z władzami imigracyjnymi lub lokalnym biurem podróży. Zawsze zaleca się sprawdzenie aktualnych wymagań wizowych przed podróżą w ambasadzie lub konsulacie.",
+    "money": "Walutą jest frank CFA (XOF), używany w kilku krajach Afryki Zachodniej. Płatności kartą są rzadko akceptowane, głównie w kilku większych hotelach w Bissau. W większości miejsc konieczna jest gotówka. Bankomaty są nieliczne i często zawodne, dlatego zaleca się zabranie wystarczającej ilości gotówki (najlepiej euro, które można wymienić) oraz małych nominałów.",
+    "plugs": "Typ C i F (europejskie standardy), napięcie 220V, częstotliwość 50Hz.",
+    "language": "Oficjalnym językiem jest portugalski, ale większość mieszkańców posługuje się kreolskim językiem górnogwinejskim (Crioulo). W turystyce i biznesie przydatny może być również francuski, a angielski jest bardzo rzadko używany.",
+    "safety": "Gwinea Bissau jest krajem o podwyższonym ryzyku. Należy zachować szczególną ostrożność ze względu na niestabilną sytuację polityczną, wysoki poziom przestępczości (kradzieże, napady) oraz zagrożenia zdrowotne. Zdecydowanie zaleca się szczepienia przeciwko żółtej febrze (wymagane), tężcowi, błonicy, polio, durowi brzusznemu i WZW A i B. Należy stosować profilaktykę antymalaryczną. Pij tylko wodę butelkowaną. Unikaj podróżowania po zmroku i poruszania się samotnie. Zaleca się wykupienie kompleksowego ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "bissau",
+      "name": "Bissau",
+      "loc": "w Bissau",
+      "type": "miasto",
+      "gygQuery": "Bissau city tour",
+      "airport": "BXO",
+      "forWhom": "Stolica kraju oferuje wgląd w kolonialną historię i codzienne życie mieszkańców Gwinei Bissau.",
+      "intro": [
+        "Bissau, stolica Gwinei Bissau, to miasto pełne kontrastów, gdzie kolonialna architektura powoli ustępuje miejsca współczesnym budowlom. Spacerując po ulicach, można podziwiać pozostałości portugalskiej przeszłości, takie jak Fortaleza d'Amura czy Pałac Prezydencki, które mimo upływu lat wciąż świadczą o dawnej świetności. Miasto jest tętniącym życiem centrum handlu i kultury.",
+        "Największym magnesem Bissau jest Mercado de Bandim, jeden z największych i najbardziej chaotycznych rynków w Afryce Zachodniej. To prawdziwa uczta dla zmysłów, gdzie można kupić wszystko, od świeżych owoców i warzyw, po rękodzieło i lokalne przyprawy. Wieczorem warto spróbować lokalnej kuchni w jednej z licznych restauracji i poczuć rytm afrykańskiej muzyki."
+      ],
+      "highlights": [
+        "Fortaleza d'Amura",
+        "Mercado de Bandim",
+        "Pałac Prezydencki",
+        "Muzeum Narodowe"
+      ]
+    },
+    {
+      "slug": "archipelag-bijagos",
+      "name": "Archipelag Bijagós",
+      "loc": "na Archipelagu Bijagós",
+      "type": "region",
+      "gygQuery": "Bijagos Archipelago tour",
+      "airport": "BXO",
+      "forWhom": "To raj dla miłośników dzikiej przyrody, dziewiczych plaż i unikalnych kultur plemiennych.",
+      "intro": [
+        "Archipelag Bijagós to grupa około 88 wysp i wysepek, z których tylko kilkanaście jest zamieszkanych. W 1996 roku UNESCO uznało go za rezerwat biosfery ze względu na jego wyjątkową bioróżnorodność. To miejsce, gdzie czas płynie wolniej, a natura dominuje nad człowiekiem. Wyspy oferują spektakularne, piaszczyste plaże, lasy namorzynowe i bogate życie morskie.",
+        "Bijagós jest domem dla ludu Bijagós, który zachował swoje unikalne tradycje i matrylinearne struktury społeczne. Odwiedzając te wyspy, można poznać ich fascynujące rytuały, takie jak kult świętych żółwi czy misterne maski używane podczas ceremonii. To także doskonałe miejsce do obserwacji ptaków, delfinów i hipopotamów morskich, które zamieszkują niektóre z wysp."
+      ],
+      "highlights": [
+        "Dziewicze plaże",
+        "Unikalna kultura Bijagós",
+        "Obserwacja dzikiej przyrody",
+        "Nurkowanie i snorkeling"
+      ]
+    },
+    {
+      "slug": "bolama",
+      "name": "Bolama",
+      "loc": "na Bolamie",
+      "type": "wyspa",
+      "gygQuery": "Bolama Island tour",
+      "airport": "BXO",
+      "forWhom": "Pierwsza stolica Gwinei Portugalskiej, oferująca wgląd w kolonialną przeszłość i opuszczone budowle.",
+      "intro": [
+        "Wyspa Bolama była pierwszą stolicą Gwinei Portugalskiej, a dziś jest świadectwem dawnej świetności i powolnego zapomnienia. Jej ulice są wciąż wybrukowane kamieniami z epoki kolonialnej, a opuszczone, lecz wciąż imponujące budynki, takie jak dawny Pałac Gubernatora czy ratusz, opowiadają historie minionych wieków. To miejsce ma niezwykłą, nieco melancholijną atmosferę.",
+        "Bolama to idealne miejsce dla tych, którzy cenią sobie historię i chcą zobaczyć, jak natura powoli odzyskuje swoje terytorium. Wyspa jest także częścią archipelagu Bijagós i oferuje piękne krajobrazy, choć jej główną atrakcją są właśnie te kolonialne ruiny. Można tu spędzić dzień na spokojnym spacerze, eksplorując zakamarki i wyobrażając sobie życie sprzed dekad."
+      ],
+      "highlights": [
+        "Kolonialne ruiny",
+        "Pałac Gubernatora",
+        "Historyczne ulice",
+        "Spokojna atmosfera"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Fortaleza d'Amura",
+      "text": "Historyczna forteca w Bissau, będąca świadkiem kolonialnej przeszłości kraju i ważnym punktem orientacyjnym w stolicy.",
+      "gygQuery": "Fortaleza d'Amura Bissau"
+    },
+    {
+      "name": "Mercado de Bandim",
+      "text": "Jeden z największych i najbardziej tętniących życiem rynków w Afryce Zachodniej, oferujący autentyczne doświadczenia i szeroki wybór lokalnych produktów.",
+      "gygQuery": "Bandim Market Bissau"
+    },
+    {
+      "name": "Archipelag Bijagós",
+      "text": "Rezerwat biosfery UNESCO, słynący z dziewiczych plaż, unikalnej kultury ludu Bijagós i bogatej fauny, w tym hipopotamów morskich.",
+      "gygQuery": "Bijagos Archipelago tour"
+    },
+    {
+      "name": "Parque Natural das Lagoas de Cufada",
+      "text": "Pierwszy park narodowy Gwinei Bissau, chroniący rozległe tereny podmokłe, lasy namorzynowe i różnorodność biologiczną, w tym liczne gatunki ptaków.",
+      "gygQuery": "Cufada Lagoons Park"
+    },
+    {
+      "name": "Bolama",
+      "text": "Dawna stolica Gwinei Portugalskiej, dziś wyspa pełna urokliwych, choć podupadłych, kolonialnych budynków, świadczących o bogatej historii.",
+      "gygQuery": "Bolama Island"
+    },
+    {
+      "name": "Palácio Presidencial",
+      "text": "Imponujący pałac prezydencki w Bissau, przykład kolonialnej architektury, choć często niedostępny dla zwiedzających z bliska.",
+      "gygQuery": "Presidential Palace Bissau"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Gwinei Bissau to mieszanka wpływów portugalskich i zachodnioafrykańskich, oparta na świeżych składnikach. Podstawą diety jest ryż, często podawany z różnego rodzaju sosami na bazie orzeszków ziemnych, palmy lub pomidorów, z dodatkiem ryb lub kurczaka. Popularne są świeże owoce morza, zwłaszcza na wybrzeżu i wyspach. Warto spróbować 'caldo de mancarra' (sos z orzeszków ziemnych) czy 'churrasco' (grillowane mięso). Jedzenie jest często pikantne, a lokalne napoje to świeże soki owocowe i piwo. Pamiętaj, aby jeść w miejscach, które wyglądają na czyste i unikać surowych warzyw."
+  ],
+  "faq": [
+    {
+      "q": "Czy Gwinea Bissau jest bezpieczna dla turystów?",
+      "a": "Gwinea Bissau jest krajem o podwyższonym ryzyku. Należy zachować szczególną ostrożność ze względu na niestabilną sytuację polityczną i przestępczość. Zawsze sprawdzaj aktualne ostrzeżenia MSZ przed wyjazdem i wykup ubezpieczenie."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane do Gwinei Bissau?",
+      "a": "Szczepienie przeciwko żółtej febrze jest obowiązkowe i należy posiadać międzynarodową książeczkę szczepień. Zalecane są również szczepienia przeciwko tężcowi, durowi brzusznemu, WZW A i B oraz profilaktyka antymalaryczna. Skonsultuj się z lekarzem medycyny podróży."
+    },
+    {
+      "q": "Jak poruszać się po Gwinei Bissau?",
+      "a": "Transport publiczny jest słabo rozwinięty. Po Bissau można poruszać się taksówkami lub 'candongami' (wspólne taksówki). Na dłuższe trasy dostępne są minibusy, ale ich stan bywa różny. Na wyspy Bijagós kursują promy i łodzie, ale ich rozkład jest często nieregularny. Wynajem samochodu z kierowcą jest zalecany."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Gwinei Bissau?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Gwinei Bissau. Można ją uzyskać w ambasadzie (np. w Lizbonie) lub, w niektórych przypadkach, na lotnisku po przylocie, ale tę opcję należy wcześniej potwierdzić. Zawsze sprawdź aktualne wymagania wizowe przed wyjazdem."
+    },
+    {
+      "q": "Jaka jest waluta w Gwinei Bissau i czy można płacić kartą?",
+      "a": "Walutą jest frank CFA (XOF). Płatności kartą są bardzo rzadko akceptowane, głównie w kilku większych hotelach. W większości miejsc konieczna jest gotówka. Zaleca się zabranie euro do wymiany oraz małych nominałów XOF na codzienne wydatki."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

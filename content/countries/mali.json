@@ -1,0 +1,186 @@
+{
+  "slug": "mali",
+  "loc": "w Mali",
+  "to": "do Mali",
+  "capital": "Bamako",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Mali",
+  "teaser": "Mali to kraj o bogatej historii i kulturze, dom słynnych miast Timbuktu i Djenné. Podróż wymaga przygotowania ze względu na sytuację bezpieczeństwa.",
+  "intro": [
+    "Mali, położone w sercu Afryki Zachodniej, to kraj o niezwykle bogatej historii i kulturze, będący spadkobiercą potężnych imperiów Ghany, Mali i Songhaju. To tutaj leżą legendarne miasta takie jak Timbuktu i Djenné, słynące z unikalnej architektury ziemnej i starożytnych manuskryptów. Kraj przyciąga przede wszystkim podróżników zainteresowanych głębokim zanurzeniem w afrykańską historię, muzykę i tradycje, oferując spojrzenie na życie wzdłuż potężnej rzeki Niger.",
+    "Podróż do Mali to propozycja dla doświadczonych, odważnych turystów, którzy są gotowi na wyzwania i świadomi aktualnej sytuacji bezpieczeństwa. Nie jest to kierunek na typowe wakacje, lecz raczej na ekspedycję o charakterze kulturowym i historycznym. Osoby zafascynowane antropologią, muzyką bluesową i pustynnymi krajobrazami znajdą tu wiele do odkrycia, o ile podejmą odpowiednie środki ostrożności i zapoznają się z aktualnymi ostrzeżeniami dla podróżnych.",
+    "Dostanie się do Mali z Polski wymaga zazwyczaj lotów z co najmniej jedną, a często dwiema przesiadkami, najczęściej w dużych europejskich hubach, takich jak Paryż czy Stambuł. Podróż jest długa i wymaga odpowiedniego planowania logistycznego. Przed wyjazdem niezbędne jest uzyskanie wizy, a także szereg szczepień. Ważne jest, aby na bieżąco śledzić komunikaty Ministerstwa Spraw Zagranicznych, które odradza podróże do Mali ze względu na wysokie zagrożenie terrorystyczne i porwaniami."
+  ],
+  "highlights": [
+    "Legendarne miasto Timbuktu",
+    "Wielki Meczet w Djenné",
+    "Kraj Dogonów i ich unikalna kultura",
+    "Rejsy po rzece Niger",
+    "Muzyka malijska i festiwale",
+    "Targi rzemieślnicze w Bamako"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Mali to sucha pora, czyli miesiące od listopada do lutego. Temperatury są wtedy bardziej znośne, a wilgotność niska. Od marca do maja panują ekstremalne upały, a od czerwca do października trwa pora deszczowa, która utrudnia podróżowanie po drogach gruntowych i zwiększa ryzyko chorób.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      10,
+      3
+    ]
+  },
+  "climate": {
+    "air": [
+      33,
+      36,
+      39,
+      39,
+      38,
+      35,
+      32,
+      31,
+      32,
+      34,
+      34,
+      33
+    ],
+    "sea": null,
+    "note": "dla Bamako"
+  },
+  "practical": {
+    "flight": "około 10-15 h z 1-2 przesiadkami",
+    "timeDiff": "-1 godzina (czas zimowy w Polsce), -2 godziny (czas letni w Polsce)",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (minimum 6 miesięcy ważności) oraz wizy, którą należy uzyskać przed wyjazdem w przedstawicielstwie dyplomatycznym Mali. Obowiązkowe jest posiadanie międzynarodowej książeczki szczepień z potwierdzonym szczepieniem przeciwko żółtej febrze. Zawsze należy sprawdzić aktualne wymogi wizowe i zdrowotne przed podróżą.",
+    "money": "Oficjalną walutą jest frank CFA Afryki Zachodniej (XOF). W większych miastach, zwłaszcza w Bamako, można znaleźć bankomaty, ale płatności kartą są rzadko akceptowane poza nielicznymi hotelami. Zaleca się posiadanie gotówki. Wymiana walut jest możliwa w bankach i kantorach.",
+    "plugs": "Typ C i E. Napięcie 220 V, częstotliwość 50 Hz.",
+    "language": "Oficjalnym językiem jest francuski, ale w codziennej komunikacji dominują języki lokalne, zwłaszcza bambara. Znajomość podstaw francuskiego będzie bardzo pomocna.",
+    "safety": "Sytuacja bezpieczeństwa w Mali jest bardzo trudna. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do Mali. Istnieje wysokie ryzyko ataków terrorystycznych, porwań oraz przestępczości pospolitej, zwłaszcza poza stolicą. W kraju występują również liczne zagrożenia zdrowotne, takie jak malaria, dur brzuszny czy cholera. Przed wyjazdem należy skonsultować się z lekarzem w sprawie profilaktyki i szczepień."
+  },
+  "regions": [
+    {
+      "slug": "bamako",
+      "name": "Bamako",
+      "loc": "w Bamako",
+      "type": "miasto",
+      "gygQuery": "Bamako",
+      "airport": "BKO",
+      "forWhom": "Dla podróżników rozpoczynających wyprawę po Mali, szukających miejskiego życia i kultury.",
+      "intro": [
+        "Bamako, stolica Mali, to dynamiczne i tętniące życiem miasto położone nad rzeką Niger. Jest to główny punkt wejścia do kraju i centrum jego gospodarczego oraz kulturalnego życia. Miasto oferuje wgląd w współczesne Mali, z jego zatłoczonymi targowiskami, ulicznym handlem i dźwiękami afrykańskiej muzyki.",
+        "W Bamako można odwiedzić Muzeum Narodowe Mali, które prezentuje bogatą historię i różnorodność etniczną kraju, a także Wielki Meczet. Warto poświęcić czas na spacer po ruchliwym Grand Marché, gdzie można kupić lokalne produkty, tkaniny i rękodzieło. Miasto stanowi bazę wypadową do dalszych, bardziej wymagających podróży w głąb kraju."
+      ],
+      "highlights": [
+        "Grand Marché (Wielki Targ)",
+        "Muzeum Narodowe Mali",
+        "Wielki Meczet w Bamako",
+        "Wzgórze Point G z widokiem na miasto"
+      ]
+    },
+    {
+      "slug": "timbuktu",
+      "name": "Timbuktu",
+      "loc": "w Timbuktu",
+      "type": "miasto",
+      "gygQuery": "Timbuktu",
+      "airport": "TBT",
+      "forWhom": "Dla entuzjastów historii i kultury, którzy są świadomi wysokiego ryzyka bezpieczeństwa i niemożności bezpiecznego dotarcia.",
+      "intro": [
+        "Timbuktu, legendarne miasto na skraju Sahary, przez wieki było ważnym centrum handlu, nauki i islamu. Jego nazwa jest synonimem odległości i tajemnicy. To tutaj znajdowały się liczne biblioteki przechowujące tysiące starożytnych manuskryptów, świadectwo intelektualnego dziedzictwa Afryki. Miasto, wpisane na listę UNESCO, kusiło podróżników z całego świata.",
+        "Niestety, ze względu na obecną sytuację bezpieczeństwa, podróż do Timbuktu jest obecnie niemożliwa i skrajnie niebezpieczna. Region jest objęty ostrzeżeniami przed podróżami ze względu na działalność grup terrorystycznych. Mimo historycznego znaczenia i niezaprzeczalnego uroku, miasto pozostaje poza zasięgiem bezpiecznej turystyki."
+      ],
+      "highlights": [
+        "Meczet Djinguereber",
+        "Biblioteki Timbuktu (historyczne)",
+        "Sankoré University (historyczne)",
+        "Historyczne centrum miasta"
+      ]
+    },
+    {
+      "slug": "djenne",
+      "name": "Djenné",
+      "loc": "w Djenné",
+      "type": "miasto",
+      "gygQuery": "Djenné",
+      "airport": "MZI",
+      "forWhom": "Dla osób zafascynowanych architekturą ziemną, akceptujących podwyższone ryzyko, ale z zaleceniem unikania podróży.",
+      "intro": [
+        "Djenné, kolejne miasto wpisane na listę światowego dziedzictwa UNESCO, słynie z Wielkiego Meczetu, największej na świecie budowli z cegły mułowej. Całe miasto jest wspaniałym przykładem tradycyjnej architektury sudańskiej, z domami zbudowanymi z gliny i drewna. Co poniedziałek odbywa się tu barwny targ, który przyciąga mieszkańców z okolicznych wiosek.",
+        "Podobnie jak w przypadku Timbuktu, podróż do Djenné jest obecnie odradzana ze względu na niestabilną sytuację bezpieczeństwa w regionie. Chociaż miasto jest architektonicznym klejnotem, ryzyko dla turystów jest zbyt wysokie, aby rekomendować jego odwiedzenie w obecnych warunkach."
+      ],
+      "highlights": [
+        "Wielki Meczet w Djenné",
+        "Targ poniedziałkowy",
+        "Stare Miasto i architektura ziemna",
+        "Tradycyjne domy z gliny"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wielki Meczet w Djenné",
+      "text": "Największa na świecie budowla z cegły mułowej, wpisana na listę UNESCO, będąca ikoną architektury sudańskiej.",
+      "gygQuery": "Great Mosque Djenné"
+    },
+    {
+      "name": "Meczet Djinguereber w Timbuktu",
+      "text": "Jeden z trzech historycznych meczetów w Timbuktu, symbol dawnej świetności miasta jako centrum nauki i islamu.",
+      "gygQuery": "Djinguereber Mosque Timbuktu"
+    },
+    {
+      "name": "Muzeum Narodowe Mali w Bamako",
+      "text": "Prezentuje bogate dziedzictwo kulturowe i historyczne Mali, od prehistorii po sztukę współczesną.",
+      "gygQuery": "National Museum of Mali Bamako"
+    },
+    {
+      "name": "Kraj Dogonów (Pays Dogon)",
+      "text": "Region słynący z unikalnej kultury ludu Dogonów, ich tradycyjnych wiosek na klifach Bandiagara oraz tańców maskowych (obecnie bardzo niebezpieczny).",
+      "gygQuery": "Dogon Country Mali"
+    },
+    {
+      "name": "Rejsy po rzece Niger",
+      "text": "Możliwość obserwacji życia na brzegach rzeki, tradycyjnych łodzi pinasses i lokalnych wiosek (bezpieczne obszary są ograniczone).",
+      "gygQuery": "Niger River cruise Mali"
+    },
+    {
+      "name": "Wielki Targ w Bamako (Grand Marché)",
+      "text": "Tętniące życiem centrum handlowe stolicy, gdzie można znaleźć wszystko, od jedzenia po rękodzieło i tkaniny.",
+      "gygQuery": "Grand Marché Bamako"
+    },
+    {
+      "name": "Park Narodowy Mali (Bamako)",
+      "text": "Oaza zieleni w stolicy, oferująca tereny rekreacyjne, ogrody botaniczne i zoo.",
+      "gygQuery": "Mali National Park Bamako"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia malijska opiera się na prostych, ale sycących składnikach, takich jak proso, ryż, orzeszki ziemne i ryby z rzeki Niger. Typowe dania to ryż z różnymi sosami, często na bazie orzeszków ziemnych (mafé) lub liści baobabu. Popularne jest również mięso, głównie kurczak i jagnięcina, podawane z warzywami. Warto spróbować 'tô', gęstej papki z prosa lub sorgo, serwowanej z gulaszem. Świeże owoce, takie jak mango, banany i papaje, są łatwo dostępne. Ze względu na muzułmański charakter kraju, alkohol jest mniej powszechny, a popularne są słodkie herbaty miętowe."
+  ],
+  "faq": [
+    {
+      "q": "Czy Mali jest bezpieczne dla turystów?",
+      "a": "Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do Mali ze względu na bardzo wysokie ryzyko ataków terrorystycznych, porwań i przestępczości. Sytuacja bezpieczeństwa jest niestabilna, szczególnie poza stolicą."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Mali z Polski?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu (min. 6 miesięcy ważności) oraz wizy, którą należy uzyskać w przedstawicielstwie dyplomatycznym Mali przed wyjazdem. Obowiązkowe jest również posiadanie międzynarodowej książeczki szczepień z potwierdzonym szczepieniem przeciwko żółtej febrze."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane przed wyjazdem do Mali?",
+      "a": "Obowiązkowe jest szczepienie przeciwko żółtej febrze. Zaleca się również szczepienia przeciwko durowi brzusznemu, tężcowi, błonicy, polio, wirusowemu zapaleniu wątroby typu A i B oraz profilaktykę antymalaryczną. Należy skonsultować się z lekarzem medycyny podróży."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Mali i czy można płacić kartą?",
+      "a": "Walutą jest frank CFA Afryki Zachodniej (XOF). Płatności kartą są rzadko akceptowane poza nielicznymi hotelami w Bamako. Zaleca się posiadanie gotówki, którą można wymienić w bankach lub kantorach."
+    },
+    {
+      "q": "Jaka jest różnica czasu między Mali a Polską?",
+      "a": "W Mali obowiązuje czas UTC+0. Oznacza to, że w stosunku do Polski różnica wynosi -1 godzinę (gdy w Polsce jest czas zimowy) lub -2 godziny (gdy w Polsce jest czas letni)."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

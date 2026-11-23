@@ -1,0 +1,225 @@
+{
+  "slug": "gwatemala",
+  "loc": "w Gwatemali",
+  "to": "do Gwatemali",
+  "capital": "Gwatemala (Miasto Gwatemala)",
+  "popularity": 15,
+  "touroperator": false,
+  "gygQuery": "Guatemala",
+  "teaser": "Gwatemala to kraj dla poszukiwaczy autentycznych wrażeń. Oferuje majestatyczne wulkany, starożytne ruiny Majów i tętniące życiem rynki.",
+  "intro": [
+    "Gwatemala to esencja Ameryki Środkowej, kraj, który wciąga swoją autentycznością i różnorodnością. Od majestatycznych wulkanów, przez szmaragdowe jeziora otoczone wioskami Majów, po starożytne ruiny skryte w dżungli - Gwatemala oferuje znacznie więcej niż typowe turystyczne szlaki. To miejsce, gdzie historia Majów splata się z kolonialną architekturą i żywą, barwną kulturą. Przygotuj się na podróż, która pobudzi wszystkie zmysły i zostanie w pamięci na długo.",
+    "Ten kraj jest idealny dla doświadczonych podróżników, poszukujących głębokich wrażeń kulturowych i przygody z dala od zorganizowanych kurortów. Gwatemala to raj dla miłośników trekkingu, archeologii, fotografii i autentycznego kontaktu z lokalną społecznością. Nie jest to cel dla osób oczekujących luksusowych hoteli i beztroskiego plażowania, lecz dla tych, którzy cenią sobie niezależność i gotowi są na pewne wyzwania logistyczne.",
+    "Podróż z Polski do Gwatemali to zazwyczaj długa wyprawa, wymagająca co najmniej dwóch przesiadek, najczęściej w Europie i USA lub Meksyku. Całość lotu z oczekiwaniem na przesiadki może zająć od 15 do nawet 20 godzin. Nie ma bezpośrednich połączeń, więc planowanie podróży wymaga cierpliwości i elastyczności. Warto szukać połączeń do Gwatemala City (GUA), które jest główną bramą do kraju."
+  ],
+  "highlights": [
+    "Odkryj starożytne miasto Majów Tikal",
+    "Podziwiaj wulkany nad jeziorem Atitlán",
+    "Spaceruj po kolonialnej Antigui",
+    "Trekking na aktywny wulkan Pacaya",
+    "Poznaj barwne rynki, np. w Chichicastenango",
+    "Zanurz się w naturalnych basenach Semuc Champey"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Gwatemali to pora sucha, trwająca od listopada do kwietnia. W tym okresie pogoda jest stabilna, słoneczna, a opady deszczu są rzadkością, co sprzyja zwiedzaniu i trekkingom. Maj i październik to miesiące przejściowe, kiedy deszcze stają się częstsze, ale nadal można komfortowo podróżować. Pora deszczowa, od czerwca do września, charakteryzuje się intensywnymi, choć często krótkotrwałymi popołudniowymi ulewami, które mogą utrudniać niektóre aktywności.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      24,
+      25,
+      27,
+      28,
+      27,
+      26,
+      25,
+      25,
+      25,
+      24,
+      24,
+      23
+    ],
+    "sea": [
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      27
+    ],
+    "note": "dla Gwatemala City (temperatura powietrza) i wybrzeża karaibskiego (temperatura wody)"
+  },
+  "practical": {
+    "flight": "około 12-15 h z dwiema przesiadkami",
+    "timeDiff": "UTC-6, czyli -7 godzin zimą, -8 godzin latem względem Polski",
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze sprawdź aktualne wymogi wizowe i paszportowe przed wyjazdem w Ministerstwie Spraw Zagranicznych RP.",
+    "money": "Oficjalną walutą jest quetzal gwatemalski (GTQ). W większych miastach i turystycznych ośrodkach można płacić kartą, ale gotówka jest niezbędna poza nimi. Bankomaty są dostępne w miastach. Warto mieć przy sobie drobne nominały.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły), napięcie 120V, częstotliwość 60Hz. Potrzebna jest przejściówka i ewentualnie adapter napięcia.",
+    "language": "Oficjalnym językiem jest hiszpański. W wielu regionach Gwatemali używane są również liczne języki Majów, takie jak K'iche', Kaqchikel czy Q'eqchi'.",
+    "safety": "Gwatemala wymaga zachowania podwyższonej ostrożności. W dużych miastach, zwłaszcza w Gwatemala City, oraz w niektórych regionach, występuje przestępczość pospolita. Unikaj samotnych podróży po zmroku, korzystaj z zaufanych środków transportu i nie afiszuj się z drogocennymi przedmiotami. Zaleca się wykupienie kompleksowego ubezpieczenia podróżnego i śledzenie aktualnych ostrzeżeń MSZ przed wyjazdem."
+  },
+  "regions": [
+    {
+      "slug": "antigua-gwatemala",
+      "name": "Antigua Guatemala",
+      "loc": "w Antigui Gwatemali",
+      "type": "miasto",
+      "gygQuery": "Antigua Guatemala",
+      "airport": "GUA",
+      "forWhom": "Idealna dla miłośników kolonialnej architektury, historii i wulkanicznych krajobrazów.",
+      "intro": [
+        "Antigua, dawna stolica Gwatemali, to jedno z najpiękniejszych miast kolonialnych w Ameryce Środkowej, wpisane na listę UNESCO. Otoczona trzema wulkanami, oferuje malownicze brukowane uliczki, barwne fasady budynków, zabytkowe kościoły i klasztory. To świetna baza wypadowa do eksploracji okolicznych atrakcji, w tym trekkingu na wulkany.",
+        "Miasto tętni życiem, oferując liczne restauracje, kawiarnie i sklepy z rękodziełem. Jest to także popularne miejsce do nauki hiszpańskiego, z wieloma szkołami językowymi. Pomimo turystycznego charakteru, Antigua zachowuje swój autentyczny urok i spokojną atmosferę, zwłaszcza poza głównymi placami."
+      ],
+      "highlights": [
+        "Kolonialna architektura UNESCO",
+        "Wulkan Agua, Fuego i Acatenango",
+        "Uliczki pełne kawiarni i sklepów",
+        "Baza do wycieczek po regionie"
+      ]
+    },
+    {
+      "slug": "jezioro-atitlan",
+      "name": "Jezioro Atitlán",
+      "loc": "nad jeziorem Atitlán",
+      "type": "region",
+      "gygQuery": "Lake Atitlan",
+      "airport": "GUA",
+      "forWhom": "Dla szukających spektakularnych widoków, relaksu i kontaktu z kulturą Majów.",
+      "intro": [
+        "Jezioro Atitlán, otoczone trzema majestatycznymi wulkanami i licznymi wioskami Majów, jest uznawane za jedno z najpiękniejszych jezior świata. Każda z wiosek ma swój unikalny charakter, dialekt i tradycyjne stroje, co sprawia, że podróżowanie między nimi łodzią to fascynujące doświadczenie. Panajachel to główna brama do regionu, ale warto odwiedzić także San Pedro La Laguna, Santiago Atitlán czy San Juan La Laguna.",
+        "Region oferuje wiele aktywności, od kajakarstwa i pływania, przez trekkingi na okoliczne wulkany, po warsztaty rękodzieła i ceremonie Majów. To miejsce, gdzie czas płynie wolniej, a widoki zapierają dech w piersiach o każdej porze dnia. Atmosfera jest spokojna, sprzyjająca refleksji i głębszemu poznaniu lokalnej kultury."
+      ],
+      "highlights": [
+        "Wulkany i malownicze krajobrazy",
+        "Wioski Majów i ich kultura",
+        "Relaks i aktywności wodne",
+        "Trekkingi i warsztaty lokalne"
+      ]
+    },
+    {
+      "slug": "peten",
+      "name": "Petén (Tikal)",
+      "loc": "w Petén",
+      "type": "region",
+      "gygQuery": "Tikal",
+      "airport": "FRS",
+      "forWhom": "Obowiązkowy punkt dla miłośników archeologii, historii Majów i dzikiej przyrody dżungli.",
+      "intro": [
+        "Region Petén, położony na północy Gwatemali, jest domem dla jednych z najbardziej imponujących ruin cywilizacji Majów, z Tikal na czele. To rozległe stanowisko archeologiczne, skryte w gęstej dżungli, pozwala poczuć się jak odkrywca. Majestatyczne piramidy i świątynie wznoszą się ponad korony drzew, oferując niezapomniane widoki, zwłaszcza o wschodzie lub zachodzie słońca.",
+        "Oprócz Tikal, region Petén oferuje także inne, mniej znane, ale równie fascynujące ruiny, takie jak Yaxhá czy El Mirador, dostępne często po kilkudniowych trekkingach. Sama baza wypadowa, miasteczko Flores, położone na wyspie na jeziorze Petén Itzá, jest urokliwym miejscem do odpoczynku przed lub po eksploracji dżungli."
+      ],
+      "highlights": [
+        "Imponujące ruiny Majów Tikal",
+        "Dżungla pełna dzikiej fauny",
+        "Wschody słońca nad piramidami",
+        "Miasteczko Flores na jeziorze"
+      ]
+    },
+    {
+      "slug": "quetzaltenango",
+      "name": "Quetzaltenango (Xela)",
+      "loc": "w Quetzaltenango",
+      "type": "miasto",
+      "gygQuery": "Quetzaltenango",
+      "airport": "GUA",
+      "forWhom": "Dla tych, którzy chcą doświadczyć autentycznego życia Gwatemali poza głównymi szlakami turystycznymi.",
+      "intro": [
+        "Quetzaltenango, znane lokalnie jako Xela, to drugie co do wielkości miasto Gwatemali, położone w zachodnich górach. Jest to centrum kultury Majów i ważne miasto handlowe, oferujące bardziej autentyczne doświadczenie Gwatemali niż Antigua. Xela słynie z licznych szkół języka hiszpańskiego, co przyciąga studentów z całego świata.",
+        "Miasto jest doskonałą bazą wypadową do odkrywania okolicznych wiosek Majów, gorących źródeł Fuentes Georginas oraz trekkingu na wulkany, takie jak Santa María czy Tajumulco, najwyższy szczyt Ameryki Środkowej. Mimo swojej wielkości, Xela zachowuje prowincjonalny urok i jest znacznie mniej skomercjalizowana niż inne turystyczne ośrodki."
+      ],
+      "highlights": [
+        "Autentyczne życie Gwatemali",
+        "Baza do trekkingu na wulkany",
+        "Gorące źródła Fuentes Georginas",
+        "Centrum nauki hiszpańskiego"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Tikal",
+      "text": "Jedno z największych i najbardziej imponujących stanowisk archeologicznych Majów, wpisane na listę UNESCO, skryte w sercu dżungli Petén.",
+      "gygQuery": "Tikal"
+    },
+    {
+      "name": "Jezioro Atitlán",
+      "text": "Malownicze jezioro wulkaniczne otoczone wioskami Majów, oferujące spektakularne widoki i bogactwo lokalnej kultury.",
+      "gygQuery": "Lake Atitlan"
+    },
+    {
+      "name": "Antigua Guatemala",
+      "text": "Kolonialna perła Gwatemali, wpisana na listę UNESCO, z brukowanymi uliczkami, barwnymi budynkami i wulkanami w tle.",
+      "gygQuery": "Antigua Guatemala"
+    },
+    {
+      "name": "Wulkan Pacaya",
+      "text": "Jeden z najbardziej dostępnych aktywnych wulkanów, na który można odbyć trekking, aby zobaczyć płynącą lawę (jeśli jest aktywna) i upiec pianki.",
+      "gygQuery": "Pacaya Volcano"
+    },
+    {
+      "name": "Rynek w Chichicastenango",
+      "text": "Jeden z największych i najbardziej kolorowych rynków w Ameryce Środkowej, odbywający się w czwartki i niedziele, oferujący rękodzieło, tekstylia i lokalne produkty.",
+      "gygQuery": "Chichicastenango Market"
+    },
+    {
+      "name": "Semuc Champey",
+      "text": "Seria wapiennych tarasów z naturalnymi, turkusowymi basenami rzecznymi, idealne miejsce na orzeźwiającą kąpiel w otoczeniu dżungli.",
+      "gygQuery": "Semuc Champey"
+    },
+    {
+      "name": "Livingston",
+      "text": "Unikalne miasteczko na karaibskim wybrzeżu, dostępne tylko łodzią, słynące z kultury Garifuna, muzyki reggae i egzotycznej atmosfery.",
+      "gygQuery": "Livingston Guatemala"
+    },
+    {
+      "name": "Yaxhá",
+      "text": "Mniej znane, ale równie fascynujące ruiny Majów, położone między dwoma jeziorami, idealne na podziwianie zachodów słońca z piramid.",
+      "gygQuery": "Yaxha"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia gwatemalska to smaki proste, ale sycące, bazujące na kukurydzy, fasoli i ryżu. Podstawą są tortille, często podawane do każdego posiłku. Warto spróbować tamales, czyli farszu z mięsa i warzyw zawiniętego w liście kukurydzy i gotowanego na parze, oraz pepián, gęstego gulaszu z mięsem i warzywami. Popularne są także plantany, zarówno smażone na słodko, jak i gotowane. Nie brakuje świeżych owoców, pysznej kawy i lokalnych soków. Pamiętaj, aby pić tylko wodę butelkowaną."
+  ],
+  "faq": [
+    {
+      "q": "Czy Gwatemala jest bezpieczna dla turystów?",
+      "a": "Gwatemala wymaga zachowania ostrożności. W dużych miastach i niektórych regionach występuje przestępczość pospolita. Zaleca się unikanie samotnych spacerów po zmroku, korzystanie z zaufanych taksówek i nieafiszowanie się z drogocennymi przedmiotami. Przed wyjazdem sprawdź aktualne ostrzeżenia MSZ."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Gwatemali?",
+      "a": "Najpopularniejszym środkiem transportu są autobusy, w tym tzw. 'chicken busy' (kolorowe, przerobione amerykańskie autobusy szkolne), które są tanie, ale często zatłoczone. Wygodniejsze są autobusy turystyczne lub prywatne transfery. Na jeziorze Atitlán kursują łodzie, a do Tikal latają samoloty z Gwatemala City."
+    },
+    {
+      "q": "Jaka jest najlepsza pora na podróż do Gwatemali?",
+      "a": "Najlepsza pora to pora sucha, od listopada do kwietnia. Wtedy pogoda jest najbardziej stabilna i słoneczna, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Unikaj szczytu pory deszczowej (czerwiec-wrzesień), która może utrudniać podróżowanie."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Gwatemali jako obywatel Polski?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport (ważny co najmniej 6 miesięcy od daty wjazdu). Zawsze jednak przed podróżą zweryfikuj aktualne wymogi wizowe w Ministerstwie Spraw Zagranicznych RP."
+    },
+    {
+      "q": "Co warto kupić jako pamiątkę z Gwatemali?",
+      "a": "Gwatemala słynie z pięknego rękodzieła. Warto kupić tradycyjne tekstylia Majów, takie jak huipile (bluzki), szale, torby czy obrusy. Popularne są także wyroby z drewna, ceramika, biżuteria z jadeitu oraz oczywiście gwatemalska kawa."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

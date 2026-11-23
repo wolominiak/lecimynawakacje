@@ -1,0 +1,226 @@
+{
+  "slug": "malawi",
+  "loc": "w Malawi",
+  "to": "do Malawi",
+  "capital": "Lilongwe",
+  "popularity": 10,
+  "touroperator": false,
+  "gygQuery": "Malawi",
+  "teaser": "Malawi, \"Ciepłe Serce Afryki\", to kraj jezior, gór i spotkań z autentyczną Afryką. Idealny dla poszukujących przygody poza utartymi szlakami.",
+  "intro": [
+    "Malawi to klejnot Afryki Wschodniej, często pomijany przez masową turystykę, co czyni go idealnym miejscem dla osób pragnących doświadczyć prawdziwej, nieskażonej Afryki. Kraj ten słynie przede wszystkim z ogromnego i krystalicznie czystego Jeziora Malawi, które jest domem dla tysięcy gatunków endemicznych ryb, w tym barwnych pielęgnic. Poza jeziorem Malawi oferuje malownicze góry, różnorodne parki narodowe z dziką zwierzyną oraz niezwykle gościnnych mieszkańców.",
+    "Podróż do Malawi to propozycja dla doświadczonych podróżników, którzy cenią sobie autentyczność, bliskość z naturą i kulturą, a także są gotowi na przygodę poza luksusowymi resortami. To kierunek dla tych, którzy chcą zanurzyć się w lokalnym życiu, odkrywać ukryte zakątki i aktywnie spędzać czas, czy to nurkując, wędrując po górach, czy obserwując dzikie zwierzęta na safari. Malawi to także kraj, który uczy pokory i otwiera oczy na inną perspektywę życia.",
+    "Podróż z Polski do Malawi to długa wyprawa, zazwyczaj wymagająca co najmniej jednej, a często dwóch przesiadek, najczęściej w dużych hubach europejskich lub afrykańskich. Nie ma bezpośrednich lotów, więc trzeba liczyć się z czasem podróży wynoszącym około 12-15 godzin. Po przylocie do Lilongwe lub Blantyre, poruszanie się po kraju odbywa się głównie lokalnymi autobusami, minibusami (matolami) lub wynajętymi samochodami z kierowcą, co samo w sobie jest częścią afrykańskiego doświadczenia."
+  ],
+  "highlights": [
+    "Jezioro Malawi - nurkowanie i relaks",
+    "Safari w parkach narodowych",
+    "Wędrówki po górach Mulanje",
+    "Autentyczna afrykańska kultura",
+    "Spotkania z życzliwymi ludźmi",
+    "Unikalne krajobrazy i przyroda"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Malawi to pora sucha, trwająca od maja do października. W tym okresie temperatury są umiarkowane, a opady deszczu minimalne, co sprzyja obserwacji dzikiej zwierzyny, ponieważ zwierzęta gromadzą się wokół nielicznych źródeł wody. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wysoką wilgotnością i upałami, ale kraj jest wtedy bujnie zielony, a ptaki szczególnie aktywne, choć niektóre drogi mogą być trudno przejezdne.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      26,
+      26,
+      26,
+      25,
+      24,
+      22,
+      22,
+      25,
+      28,
+      30,
+      29,
+      27
+    ],
+    "sea": null,
+    "note": "dla Lilongwe"
+  },
+  "practical": {
+    "flight": "około 12-15 h z 1-2 przesiadkami",
+    "timeDiff": "+1 godzina w stosunku do czasu zimowego w Polsce, brak różnicy w lecie",
+    "documents": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu oraz wizy. Wizę turystyczną można uzyskać online (e-wiza). Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie Malawi lub na stronie MSZ.",
+    "money": "Walutą jest Kwacha Malawi (MWK). W większych miastach dostępne są bankomaty, ale płatności kartą są ograniczone, zwłaszcza poza hotelami i dużymi sklepami. Warto mieć przy sobie gotówkę, najlepiej w mniejszych nominałach. Dolary amerykańskie są akceptowane w niektórych miejscach.",
+    "plugs": "Typ G (brytyjski, trzy prostokątne bolce), rzadziej C/F (europejskie). Potrzebny będzie adapter.",
+    "language": "Oficjalnym językiem jest angielski, używany w urzędach i turystyce. Językiem narodowym jest Chichewa (Nyanja), którym posługuje się większość mieszkańców.",
+    "safety": "Malawi jest generalnie krajem bezpiecznym, ale zaleca się zachowanie ostrożności, zwłaszcza w większych miastach (Lilongwe, Blantyre) po zmroku oraz w rejonach targowych, gdzie zdarzają się drobne kradzieże. Występuje zagrożenie malarią, dlatego zaleca się profilaktykę antymalaryczną i stosowanie repelentów. Drogi bywają w złym stanie, a ruch drogowy chaotyczny, szczególnie poza miastami."
+  },
+  "regions": [
+    {
+      "slug": "jezioro-malawi",
+      "name": "Jezioro Malawi",
+      "loc": "nad Jeziorem Malawi",
+      "type": "region",
+      "gygQuery": "Lake Malawi",
+      "airport": "Lilongwe (LLW) lub Blantyre (BLZ)",
+      "forWhom": "Dla miłośników sportów wodnych, relaksu i podwodnego świata.",
+      "intro": [
+        "Jezioro Malawi to ogromne, krystalicznie czyste jezioro, trzecie co do wielkości w Afryce. Jest ono wpisane na listę światowego dziedzictwa UNESCO i znane z niezwykłej różnorodności biologicznej, zwłaszcza endemicznych pielęgnic (cichlids), co czyni je rajem dla nurków i miłośników snorkelingu. Wzdłuż brzegów jeziora znajdziesz urocze wioski rybackie i spokojne plaże, idealne do relaksu i chłonięcia afrykańskiej atmosfery.",
+        "Można tu popływać kajakiem, żeglować czy po prostu odpocząć, obserwując codzienne życie lokalnych społeczności. Jezioro Malawi jest tętniącym życiem sercem kraju, gdzie lokalna kultura miesza się z turystycznym relaksem. To idealne miejsce, aby zwolnić tempo i cieszyć się pięknem natury."
+      ],
+      "highlights": [
+        "Nurkowanie i snorkeling",
+        "Rejsy łodzią po jeziorze",
+        "Wioski rybackie i lokalna kultura",
+        "Relaks na piaszczystych plażach"
+      ]
+    },
+    {
+      "slug": "park-narodowy-liwonde",
+      "name": "Park Narodowy Liwonde",
+      "loc": "w Parku Narodowym Liwonde",
+      "type": "park narodowy",
+      "gygQuery": "Liwonde National Park",
+      "airport": "Blantyre (BLZ)",
+      "forWhom": "Dla poszukujących autentycznego safari z dużą szansą na obserwację słoni i hipopotamów.",
+      "intro": [
+        "Park Narodowy Liwonde to jeden z najlepszych parków narodowych Malawi, położony wzdłuż malowniczej rzeki Shire. Słynie z dużej populacji słoni, hipopotamów i krokodyli, a także niezwykłej różnorodności ptaków, co czyni go rajem dla ornitologów. Możliwe są tu safari łodzią, co pozwala na unikalne perspektywy obserwacji dzikiej przyrody bezpośrednio z wody.",
+        "Park przeszedł udaną reintrodukcję lwów i nosorożców, co czyni go coraz bardziej kompletnym doświadczeniem safari. To idealne miejsce na kilkudniowy wypad, oferujący zarówno tradycyjne safari jeepem, jak i niezapomniane rejsy rzeką, dające szansę na bliskie spotkania z dziką fauną."
+      ],
+      "highlights": [
+        "Safari łodzią na rzece Shire",
+        "Obserwacja słoni i hipopotamów",
+        "Bogactwo ptaków",
+        "Reintrodukowane lwy i nosorożce"
+      ]
+    },
+    {
+      "slug": "masyw-mulanje",
+      "name": "Masyw Mulanje",
+      "loc": "w Masywie Mulanje",
+      "type": "region",
+      "gygQuery": "Mount Mulanje",
+      "airport": "Blantyre (BLZ)",
+      "forWhom": "Dla miłośników górskich wędrówek i spektakularnych widoków.",
+      "intro": [
+        "Masyw Mulanje to imponujący masyw górski w południowym Malawi, z najwyższym szczytem Sapitwa (3002 m n.p.m.). Jest to raj dla trekkingowców, oferujący wiele szlaków o różnym stopniu trudności, prowadzących przez lasy, wrzosowiska i skaliste tereny. Wędrówki są często wielodniowe, z noclegami w prostych schroniskach, co pozwala na pełne zanurzenie się w naturze i podziwianie unikalnej flory.",
+        "Okolice Mulanje słyną również z malowniczych plantacji herbaty, które dodają uroku krajobrazowi i są doskonałym tłem do fotografii. Wędrówka na szczyt Sapitwa to wyzwanie, ale nagrodą są zapierające dech w piersiach panoramiczne widoki na cały region. To miejsce, gdzie można poczuć dzikość afrykańskich gór."
+      ],
+      "highlights": [
+        "Trekking na szczyt Sapitwa",
+        "Malownicze plantacje herbaty",
+        "Wielodniowe wędrówki górskie",
+        "Unikalna flora i fauna"
+      ]
+    },
+    {
+      "slug": "lilongwe",
+      "name": "Lilongwe",
+      "loc": "w Lilongwe",
+      "type": "miasto",
+      "gygQuery": "Lilongwe",
+      "airport": "Lilongwe (LLW)",
+      "forWhom": "Stolica kraju, punkt tranzytowy i miejsce do poznania miejskiego życia Malawi.",
+      "intro": [
+        "Lilongwe, stolica Malawi, jest miastem podzielonym na Starą i Nową Część. Stara Część to tętniący życiem targ, gdzie można poczuć prawdziwy puls Afryki, kupić lokalne rękodzieło i świeże produkty. Jest to miejsce pełne gwaru, zapachów i kolorów, gdzie można obserwować codzienne życie mieszkańców i spróbować lokalnych przysmaków.",
+        "Nowa Część to dzielnica rządowa i biznesowa, bardziej nowoczesna i uporządkowana. Mimo że Lilongwe nie jest typowym celem stricte turystycznym, stanowi ważny węzeł komunikacyjny i bazę wypadową do dalszych podróży po kraju. Warto odwiedzić tu Lilongwe Wildlife Centre, by wesprzeć lokalne działania na rzecz ochrony zwierząt."
+      ],
+      "highlights": [
+        "Tętniący życiem lokalny targ",
+        "Centrum rzemiosła i pamiątek",
+        "Rezerwat Dzikiej Przyrody Lilongwe",
+        "Brama do dalszych podróży"
+      ]
+    },
+    {
+      "slug": "park-narodowy-nyika",
+      "name": "Park Narodowy Nyika",
+      "loc": "w Parku Narodowym Nyika",
+      "type": "park narodowy",
+      "gygQuery": "Nyika National Park",
+      "airport": "Mzuzu (ZZU)",
+      "forWhom": "Dla poszukujących safari w unikalnym, wysokogórskim krajobrazie.",
+      "intro": [
+        "Park Narodowy Nyika to największy park narodowy Malawi, położony na płaskowyżu Nyika, na wysokości ponad 2000 m n.p.m. Wyróżnia się unikalnym krajobrazem - trawiaste równiny przeplatane lasami, przypominające szkockie wrzosowiska, co stanowi niezwykłe tło dla afrykańskiego safari. Jest domem dla wielu gatunków antylop, zebr, lampartów i bogactwa ptaków.",
+        "To idealne miejsce na piesze safari, obserwację ptaków i podziwianie panoramicznych widoków, z dala od tłumów. Park oferuje również możliwość jazdy na rowerze górskim i wędkowania, co czyni go atrakcyjnym dla aktywnych podróżników. Nyika to prawdziwa oaza spokoju i dzikiej przyrody, oferująca zupełnie inne doświadczenie niż typowe afrykańskie parki."
+      ],
+      "highlights": [
+        "Wysokogórskie safari",
+        "Obserwacja antylop i zebr",
+        "Piesze wędrówki i trekking",
+        "Malownicze, wrzosowiskowe krajobrazy"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Cape Maclear",
+      "text": "Malownicza wioska nad Jeziorem Malawi, idealna do snorkelingu, nurkowania i relaksu na plaży. To popularne miejsce do podziwiania endemicznych pielęgnic.",
+      "gygQuery": "Cape Maclear"
+    },
+    {
+      "name": "Chongoni Rock Art Area",
+      "text": "Obszar wpisany na listę UNESCO, słynący z unikalnych malowideł naskalnych ludu Chewa. Oferuje wgląd w starożytną kulturę regionu.",
+      "gygQuery": "Chongoni Rock Art Area"
+    },
+    {
+      "name": "Lilongwe Wildlife Centre",
+      "text": "Centrum ratunkowe dla dzikich zwierząt, oferujące schronienie i rehabilitację. Można tu zobaczyć uratowane zwierzęta i dowiedzieć się o ochronie przyrody.",
+      "gygQuery": "Lilongwe Wildlife Centre"
+    },
+    {
+      "name": "Płaskowyż Zomba (Zomba Plateau)",
+      "text": "Wysoki płaskowyż z bujnymi lasami, wodospadami i panoramicznymi widokami. Idealne miejsce na piesze wędrówki, jazdę konną i pikniki.",
+      "gygQuery": "Zomba Plateau"
+    },
+    {
+      "name": "Misja Livingstonia",
+      "text": "Historyczna szkocka misja założona w 1894 roku, położona na malowniczym wzgórzu z widokiem na Jezioro Malawi. Fascynujące miejsce z kolonialną architekturą.",
+      "gygQuery": "Livingstonia Mission"
+    },
+    {
+      "name": "Nkhata Bay",
+      "text": "Tętniące życiem miasteczko portowe nad Jeziorem Malawi, popularne wśród podróżników. Oferuje piękne plaże, nurkowanie i lokalne targi.",
+      "gygQuery": "Nkhata Bay"
+    },
+    {
+      "name": "Rezerwat Przyrody Majete",
+      "text": "Jeden z największych sukcesów reintrodukcji dzikich zwierząt w Afryce. Po intensywnych działaniach ochronnych, obecnie można tu spotkać całą Wielką Piątkę.",
+      "gygQuery": "Majete Wildlife Reserve"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Malawi jest prosta, sycąca i opiera się głównie na lokalnych produktach. Podstawą diety jest nsima, gęsta papka z mąki kukurydzianej, podawana zazwyczaj z różnymi dodatkami. Najpopularniejsze to ryby z Jeziora Malawi, takie jak chambo (gatunek tilapii), przygotowywane na wiele sposobów: grillowane, smażone lub suszone. Często podaje się również gulasze warzywne, kurczaka lub kozinę. Warto spróbować lokalnych owoców, takich jak mango, banany czy ananasy, które są świeże i soczyste."
+  ],
+  "faq": [
+    {
+      "q": "Czy Malawi jest bezpieczne dla turystów?",
+      "a": "Malawi jest generalnie bezpiecznym krajem, ale zaleca się ostrożność, zwłaszcza w większych miastach i na targowiskach, gdzie zdarzają się drobne kradzieże. Unikaj samotnych spacerów po zmroku i dbaj o swoje wartościowe przedmioty."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Malawi?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu (min. 6 miesięcy ważności od daty wyjazdu) oraz wizy. Wizę turystyczną można uzyskać online w formie e-wizy. Zawsze sprawdź aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Co warto zjeść w Malawi?",
+      "a": "Koniecznie spróbuj nsima, czyli gęstej papki kukurydzianej, podawanej z rybą chambo z Jeziora Malawi. Warto też skosztować lokalnych gulaszy z kurczaka lub warzyw oraz świeżych, soczystych owoców."
+    },
+    {
+      "q": "Jakie gniazdka elektryczne są w Malawi?",
+      "a": "W Malawi dominują gniazdka typu G, czyli brytyjskie, z trzema prostokątnymi bolcami. Rzadziej spotyka się typy C/F. Należy zabrać ze sobą odpowiedni adapter."
+    },
+    {
+      "q": "Czy w Malawi jest malaria?",
+      "a": "Tak, w Malawi występuje ryzyko malarii. Zaleca się stosowanie profilaktyki antymalarycznej, używanie repelentów, spanie pod moskitierą i noszenie długich rękawów i nogawek, zwłaszcza po zmroku."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

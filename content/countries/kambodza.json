@@ -1,0 +1,199 @@
+{
+  "slug": "kambodza",
+  "loc": "w Kambodży",
+  "to": "do Kambodży",
+  "capital": "Phnom Penh",
+  "popularity": 30,
+  "touroperator": false,
+  "gygQuery": "Cambodia",
+  "teaser": "Kambodża to kraj bogatej historii i kultury, znany głównie z majestatycznych świątyń Angkor Wat. Oferuje również piękne plaże i autentyczne doświadczenia.",
+  "intro": [
+    "Kambodża, położona w sercu Azji Południowo-Wschodniej, to kraj, który choć naznaczony trudną historią, dziś zachwyca swoją autentycznością i niezwykłym dziedzictwem kulturowym. Głównym magnesem przyciągającym turystów są oczywiście świątynie Angkor, w tym słynny Angkor Wat, które stanowią jeden z najbardziej imponujących kompleksów archeologicznych na świecie. Ale Kambodża to znacznie więcej niż tylko Angkor; to także tętniące życiem miasta, malownicze wioski, dziewicze plaże i serdeczni ludzie, którzy z uśmiechem witają podróżnych.",
+    "Ten kraj jest idealny dla poszukiwaczy przygód, miłośników historii i kultury, a także dla tych, którzy chcą poznać Azję Południowo-Wschodnią z innej perspektywy niż popularne Tajlandia czy Wietnam. Podróżowanie po Kambodży jest stosunkowo niedrogie, co czyni ją atrakcyjną opcją dla budżetowych podróżników i backpackerów. Można tu spędzić czas na zwiedzaniu starożytnych ruin, relaksie na tropikalnych wyspach, odkrywaniu lokalnej kuchni czy poznawaniu współczesnej, złożonej historii kraju.",
+    "Podróż do Kambodży z Polski wymaga co najmniej jednej przesiadki, zazwyczaj w dużych hubach lotniczych Azji, takich jak Dubaj, Doha, Bangkok czy Kuala Lumpur. Całkowity czas lotu, wraz z przesiadkami, wynosi zazwyczaj od 12 do 15 godzin. Polscy obywatele potrzebują wizy, którą można uzyskać online (e-Visa) lub na lotnisku po przylocie. Warto zaplanować podróż z wyprzedzeniem, aby w pełni wykorzystać czas i cieszyć się urokami tego fascynującego kraju."
+  ],
+  "highlights": [
+    "Odkryj majestatyczne świątynie Angkor Wat",
+    "Poznaj historię Phnom Penh i Pol Pota",
+    "Odpocznij na rajskich plażach Koh Rong",
+    "Spróbuj aromatycznej kuchni khmerskiej",
+    "Rejs po rzece Mekong i obserwacja delfinów",
+    "Zanurz się w lokalnej kulturze i tradycjach"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Kambodży to sucha i chłodniejsza pora, która trwa od listopada do lutego. Temperatury są wtedy przyjemne, a wilgotność niska, co sprzyja zwiedzaniu. Od marca do maja robi się bardzo gorąco, a od czerwca do października trwa pora deszczowa. Deszcze są zazwyczaj intensywne, ale krótkotrwałe, a krajobraz staje się bujnie zielony. Podróż w porze deszczowej może być dobrym pomysłem dla tych, którzy szukają niższych cen i mniejszej liczby turystów, ale trzeba być przygotowanym na opady.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      33,
+      34,
+      35,
+      33,
+      32,
+      31,
+      31,
+      31,
+      30,
+      30,
+      30
+    ],
+    "sea": [
+      27,
+      27,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27
+    ],
+    "note": "dane dla Phnom Penh (powietrze) i Sihanoukville (morze)"
+  },
+  "practical": {
+    "flight": "około 12-15 h z 1-2 przesiadkami",
+    "timeDiff": "+5 h (czas zimowy w Polsce), +6 h (czas letni w Polsce)",
+    "documents": "Obywatele Polski potrzebują wizy. Można ją uzyskać online (e-Visa) lub na lotnisku po przylocie. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie Kambodży lub na stronie MSZ.",
+    "money": "Oficjalną walutą jest riel kambodżański (KHR), ale dolar amerykański (USD) jest powszechnie akceptowany i często używany do większych transakcji. W mniejszych miejscowościach przydadzą się riele. Bankomaty są dostępne w większych miastach, a płatności kartą są możliwe w droższych hotelach i restauracjach. Warto mieć przy sobie drobne dolary na codzienne wydatki.",
+    "plugs": "Typy gniazdek elektrycznych: A, C, G. Warto zabrać ze sobą uniwersalny adapter.",
+    "language": "Oficjalnym językiem jest khmerski. W obszarach turystycznych i większych miastach można porozumieć się po angielsku, zwłaszcza z młodym pokoleniem.",
+    "safety": "Kambodża jest generalnie bezpiecznym krajem dla turystów, ale należy zachować podstawowe środki ostrożności. Występują drobne kradzieże, zwłaszcza w zatłoczonych miejscach. Ruch drogowy jest chaotyczny. Warto uważać na oszustwa. W odległych, wiejskich rejonach nadal mogą znajdować się niewybuchy i miny lądowe, dlatego zawsze należy trzymać się wyznaczonych szlaków. Zaleca się szczepienia przeciwko tężcowi, błonicy, polio, durowi brzusznemu i wirusowemu zapaleniu wątroby typu A i B. Ryzyko malarii i dengi występuje w niektórych regionach."
+  },
+  "regions": [
+    {
+      "slug": "siem-reap",
+      "name": "Siem Reap",
+      "loc": "w Siem Reap",
+      "type": "miasto",
+      "gygQuery": "Siem Reap",
+      "airport": "REP",
+      "forWhom": "Dla miłośników historii, kultury i starożytnych cywilizacji.",
+      "intro": [
+        "Siem Reap to brama do cudów Angkoru, tętniące życiem miasto, które służy jako baza wypadowa do zwiedzania słynnych kompleksów świątynnych. Poza świątyniami, Siem Reap oferuje również bogate życie nocne na Pub Street, liczne markety z pamiątkami, a także możliwość poznania lokalnej kultury poprzez przedstawienia Apsara i tradycyjne warsztaty. Rozwój turystyki sprawił, że miasto dysponuje szeroką bazą noclegową i gastronomiczną.",
+        "Warto poświęcić co najmniej kilka dni na eksplorację okolic Siem Reap, aby w pełni docenić majestat i różnorodność świątyń. Oprócz głównych atrakcji, takich jak Angkor Wat i Angkor Thom, można odkryć mniej znane, ale równie fascynujące ruiny, a także odwiedzić pływające wioski na jeziorze Tonle Sap, co stanowi unikalne doświadczenie kulturowe. To miejsce, gdzie historia splata się z codziennym życiem."
+      ],
+      "highlights": [
+        "Zwiedzanie Angkor Wat o wschodzie słońca",
+        "Odkrywanie świątyni Bayon w Angkor Thom",
+        "Spacer po Pub Street wieczorem",
+        "Wizyta w pływającej wiosce na Tonle Sap"
+      ]
+    },
+    {
+      "slug": "phnom-penh",
+      "name": "Phnom Penh",
+      "loc": "w Phnom Penh",
+      "type": "miasto",
+      "gygQuery": "Phnom Penh",
+      "airport": "PNH",
+      "forWhom": "Dla zainteresowanych historią, kulturą i współczesnym życiem Kambodży.",
+      "intro": [
+        "Phnom Penh, stolica Kambodży, to miasto kontrastów, które dynamicznie się rozwija, jednocześnie pamiętając o swojej bolesnej przeszłości. Jest to miejsce, gdzie można podziwiać wspaniałe zabytki, takie jak Pałac Królewski i Srebrna Pagoda, a także zmierzyć się z trudną historią reżimu Czerwonych Khmerów, odwiedzając Muzeum Ludobójstwa Tuol Sleng i Pola Śmierci Choeung Ek. To miasto, które zmusza do refleksji, ale też inspiruje odpornością i duchem narodu.",
+        "Stolica oferuje również wiele innych atrakcji, od tętniących życiem rynków, takich jak Central Market czy Russian Market, po spokojne rejsy po rzece Mekong. Można tu spróbować autentycznej kuchni ulicznej, podziwiać kolonialną architekturę i poczuć puls współczesnej Kambodży. Phnom Penh to obowiązkowy punkt na mapie każdego, kto chce zrozumieć ten kraj w całej jego złożoności."
+      ],
+      "highlights": [
+        "Wizyta w Pałacu Królewskim i Srebrnej Pagodzie",
+        "Poznanie historii w Tuol Sleng i na Polach Śmierci",
+        "Rejs po rzece Mekong o zachodzie słońca",
+        "Zakupy na lokalnych rynkach"
+      ]
+    },
+    {
+      "slug": "sihanoukville-i-koh-rong",
+      "name": "Sihanoukville i Koh Rong",
+      "loc": "w Sihanoukville i na Koh Rong",
+      "type": "kurort i wyspa",
+      "gygQuery": "Koh Rong",
+      "airport": "KOS",
+      "forWhom": "Dla szukających relaksu na plaży, nurkowania i imprez na wyspach.",
+      "intro": [
+        "Sihanoukville, niegdyś spokojne miasto portowe, przechodzi obecnie dynamiczne zmiany, stając się centrum inwestycji. Choć samo miasto może nie zachwycać, jest ono główną bramą do rajskich wysp Kambodży, takich jak Koh Rong i Koh Rong Sanloem. To właśnie tam można znaleźć dziewicze plaże z białym piaskiem, turkusową wodę i idealne warunki do nurkowania oraz snorkelingu. Wyspy oferują zarówno spokojne zakątki, jak i miejsca z barami i imprezami.",
+        "Koh Rong to większa z wysp, znana z różnorodnych plaż i możliwości aktywnego wypoczynku, od wędrówek po dżungli po nurkowanie. Koh Rong Sanloem jest nieco spokojniejsza, idealna dla tych, którzy szukają ucieczki od zgiełku i chcą po prostu zrelaksować się w hamaku. Obie wyspy są łatwo dostępne promami z Sihanoukville i stanowią doskonałe uzupełnienie kulturalnej podróży po Kambodży."
+      ],
+      "highlights": [
+        "Relaks na plażach Koh Rong",
+        "Nurkowanie i snorkeling w krystalicznych wodach",
+        "Oglądanie bioluminescencyjnego planktonu nocą",
+        "Wycieczki łodzią po okolicznych wyspach"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Angkor Wat",
+      "text": "Największa i najbardziej znana świątynia w kompleksie Angkor, symbol Kambodży i arcydzieło architektury khmerskiej. Najlepiej podziwiać ją o wschodzie słońca.",
+      "gygQuery": "Angkor Wat"
+    },
+    {
+      "name": "Angkor Thom i świątynia Bayon",
+      "text": "Starożytne miasto królewskie z intrygującymi kamiennymi twarzami Buddy, które spoglądają z wież świątyni Bayon. To fascynujące miejsce pełne tajemniczych uśmiechów.",
+      "gygQuery": "Angkor Thom Bayon"
+    },
+    {
+      "name": "Muzeum Ludobójstwa Tuol Sleng (S-21) i Pola Śmierci Choeung Ek",
+      "text": "Miejsca pamięci o ofiarach reżimu Czerwonych Khmerów, oferujące poruszający wgląd w tragiczną historię Kambodży. Wizyta jest trudna, ale niezbędna do zrozumienia kraju.",
+      "gygQuery": "Tuol Sleng Killing Fields"
+    },
+    {
+      "name": "Pałac Królewski i Srebrna Pagoda w Phnom Penh",
+      "text": "Oficjalna rezydencja króla Kambodży z pięknymi ogrodami i Srebrną Pagodą, której podłoga wyłożona jest ponad 5000 srebrnych płytek.",
+      "gygQuery": "Royal Palace Silver Pagoda Phnom Penh"
+    },
+    {
+      "name": "Wyspa Koh Rong",
+      "text": "Jedna z najpiękniejszych wysp Kambodży, oferująca białe plaże, turkusową wodę i bujną dżunglę, idealna do relaksu i aktywnego wypoczynku.",
+      "gygQuery": "Koh Rong"
+    },
+    {
+      "name": "Rejs po rzece Mekong w Kratie",
+      "text": "Możliwość obserwacji rzadkich delfinów irawadyjskich, które zamieszkują słodkie wody Mekongu. To spokojne doświadczenie w sercu natury.",
+      "gygQuery": "Kratie Mekong dolphin"
+    },
+    {
+      "name": "Świątynia Preah Vihear",
+      "text": "Spektakularna świątynia hinduistyczna położona na szczycie klifu na granicy z Tajlandią, oferująca zapierające dech w piersiach widoki i bogatą historię.",
+      "gygQuery": "Preah Vihear Temple"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia khmerska, choć często porównywana do tajskiej czy wietnamskiej, ma swój unikalny charakter, charakteryzujący się łagodniejszymi smakami i większym wykorzystaniem świeżych ziół oraz pasty rybnej 'prahok'. Podstawą jest ryż, a popularne dania to 'Amok', czyli ryba lub kurczak gotowane na parze w sosie kokosowym z trawą cytrynową i galangalem, oraz 'Lok Lak', czyli marynowana wołowina podawana z ryżem i sosem limonkowo-pieprzowym. Warto spróbować też świeżych owoców morza, zup 'Samlor' i różnorodnych potraw ulicznych, które są smaczne i niedrogie. Wpływy francuskie widoczne są w popularności bagietek i kawy."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Kambodży?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Kambodży. Można ją uzyskać online (e-Visa) przed podróżą lub po przylocie na głównych lotniskach. Paszport musi być ważny co najmniej 6 miesięcy."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Kambodży?",
+      "a": "Najlepszy czas na podróż to sucha i chłodniejsza pora od listopada do lutego. Temperatury są wtedy przyjemniejsze, a wilgotność niższa, co sprzyja zwiedzaniu świątyń i relaksowi na plażach."
+    },
+    {
+      "q": "Jaka waluta jest używana w Kambodży?",
+      "a": "Oficjalną walutą jest riel kambodżański (KHR), ale dolar amerykański (USD) jest powszechnie akceptowany i używany do większości transakcji. Warto mieć drobne dolary i trochę rieli na mniejsze wydatki."
+    },
+    {
+      "q": "Czy Kambodża jest bezpieczna dla turystów?",
+      "a": "Kambodża jest generalnie bezpieczna, ale należy zachować ostrożność, zwłaszcza w kwestii drobnych kradzieży i ruchu drogowego. Warto unikać odległych, nieoznakowanych terenów ze względu na miny lądowe. Zaleca się podstawowe szczepienia ochronne."
+    },
+    {
+      "q": "Jak dostać się do Angkor Wat?",
+      "a": "Angkor Wat znajduje się w pobliżu miasta Siem Reap. Najłatwiej dotrzeć tam taksówką, tuk-tukiem lub wynajętym rowerem. Wiele hoteli i agencji oferuje zorganizowane wycieczki z przewodnikiem."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

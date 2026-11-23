@@ -1,0 +1,219 @@
+{
+  "slug": "jamajka",
+  "loc": "na Jamajce",
+  "to": "na Jamajkę",
+  "capital": "Kingston",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Jamaica",
+  "teaser": "Jamajka to wyspa reggae, słońca i bujnej przyrody. Idealna na relaks i poznawanie karaibskiej kultury.",
+  "intro": [
+    "Jamajka, serce Karaibów, kusi przede wszystkim słynnymi piaszczystymi plażami, turkusową wodą i wszechobecnymi rytmami reggae. To kraj, gdzie czas płynie wolniej, a uśmiechnięci mieszkańcy z łatwością zarażają swoim pozytywnym nastawieniem. Poza idyllicznymi wybrzeżami, wyspa oferuje górzyste krajobrazy, wodospady i tropikalną roślinność. Jest to miejsce, gdzie natura i kultura splatają się w niezwykłą mozaikę.",
+    "Jamajka to idealny kierunek dla tych, którzy szukają zarówno beztroskiego wypoczynku na plaży, jak i aktywnego odkrywania wyspy. Fani muzyki Boba Marleya znajdą tu wiele miejsc związanych z jego życiem i twórczością. Entuzjaści przyrody docenią bujną roślinność, wodospady i możliwość trekkingu w górach. To także świetna opcja dla osób ceniących bezpośredni kontakt z lokalną kulturą i kuchnią.",
+    "Podróż z Polski na Jamajkę wymaga zazwyczaj jednej przesiadki, najczęściej w jednym z większych europejskich lub amerykańskich hubów lotniczych. Całkowity czas lotu to około 12-14 godzin, co jest standardem dla tak dalekich kierunków. Wiele polskich biur podróży ma Jamajkę w swojej ofercie, co ułatwia organizację wczasów pakietowych. Niezależnie od wybranej formy podróży, warto przygotować się na dawkę karaibskiego luzu."
+  ],
+  "highlights": [
+    "Słoneczne plaże i turkusowa woda",
+    "Kolebka muzyki reggae",
+    "Malownicze wodospady",
+    "Bujna tropikalna roślinność",
+    "Wyjątkowa kuchnia jerk",
+    "Przyjaźni i uśmiechnięci mieszkańcy"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Jamajce przypada na porę suchą, czyli od grudnia do kwietnia. W tym okresie panują słoneczne dni, niższa wilgotność i przyjemne temperatury, co sprzyja plażowaniu i zwiedzaniu. Od maja do listopada trwa pora deszczowa, z większym ryzykiem opadów i możliwością wystąpienia huraganów, zwłaszcza od sierpnia do października.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      32,
+      32,
+      31,
+      31,
+      30,
+      29
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "dla Montego Bay"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "minus 6 lub 7 godzin (w zależności od czasu letniego w Polsce)",
+    "documents": "Obywatele Polski mogą podróżować na Jamajkę bez wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport, którego ważność powinna wynosić co najmniej 6 miesięcy od daty planowanego wyjazdu. Przed podróżą zawsze zaleca się sprawdzenie aktualnych wymogów w Ministerstwie Spraw Zagranicznych lub w ambasadzie Jamajki.",
+    "money": "Oficjalną walutą jest dolar jamajski (JMD), ale dolary amerykańskie (USD) są powszechnie akceptowane w miejscach turystycznych. W większych miastach i kurortach można płacić kartami kredytowymi, bankomaty są dostępne. Warto mieć przy sobie drobne JMD na mniejsze zakupy i napiwki.",
+    "plugs": "Na Jamajce używa się gniazdek typu A i B (amerykańskie). Napięcie wynosi 110V. Wymagany jest adapter, a często także przetwornica napięcia dla urządzeń z Europy.",
+    "language": "Oficjalnym językiem jest angielski, który jest powszechnie używany. Mieszkańcy posługują się również jamajskim patois, lokalnym dialektem opartym na angielskim, ale z wyraźnymi wpływami afrykańskimi.",
+    "safety": "Jamajka, jak wiele krajów karaibskich, ma zróżnicowany poziom bezpieczeństwa. W rejonach turystycznych, takich jak Montego Bay, Negril czy Ocho Rios, jest stosunkowo bezpiecznie, ale zawsze należy zachować podstawowe środki ostrożności. Unikaj samotnych spacerów po zmroku, zwłaszcza w mniej uczęszczanych miejscach. W większych miastach, szczególnie w Kingston, niektóre dzielnice mogą być niebezpieczne. Zaleca się picie wody butelkowanej i ochronę przed słońcem."
+  },
+  "regions": [
+    {
+      "slug": "montego-bay",
+      "name": "Montego Bay",
+      "loc": "w Montego Bay",
+      "type": "miasto/kurort",
+      "gygQuery": "Montego Bay",
+      "airport": "MBJ",
+      "forWhom": "Idealne dla tych, którzy szukają tętniącego życiem kurortu z łatwym dostępem do plaż i atrakcji.",
+      "intro": [
+        "Montego Bay, często nazywane MoBay, to główna brama turystyczna Jamajki i tętniące życiem miasto na północnym wybrzeżu. Słynie z pięknych plaż, takich jak Doctor's Cave Beach, oraz bogatej oferty hoteli all-inclusive. To doskonała baza wypadowa do zwiedzania zachodniej części wyspy, oferująca wiele możliwości rozrywki i relaksu.",
+        "Oprócz plażowania, MoBay oferuje pola golfowe, centra handlowe oraz liczne restauracje i bary. Można stąd łatwo zorganizować wycieczki do pobliskich atrakcji, takich jak wodospady Dunn's River czy Luminous Lagoon. Miasto ma swój unikalny klimat, łączący karaibski luz z nowoczesną infrastrukturą turystyczną."
+      ],
+      "highlights": [
+        "Doctor's Cave Beach",
+        "Hip Strip (Gloucester Ave)",
+        "Rose Hall Great House",
+        "Rejsy katamaranem"
+      ]
+    },
+    {
+      "slug": "negril",
+      "name": "Negril",
+      "loc": "w Negril",
+      "type": "kurort",
+      "gygQuery": "Negril",
+      "airport": "MBJ",
+      "forWhom": "Raj dla miłośników długich plaż, spektakularnych zachodów słońca i swobodnej atmosfery.",
+      "intro": [
+        "Negril leży na zachodnim krańcu Jamajki i jest znane z jednej z najpiękniejszych plaż na Karaibach - Seven Mile Beach. To miejsce, gdzie życie płynie niespiesznie, a zachody słońca podziwiane z klifów są legendarnym doświadczeniem. Kurort oferuje zarówno luksusowe hotele, jak i kameralne pensjonaty.",
+        "Poza słynną plażą, Negril słynie z wysokich klifów, z których śmiałkowie skaczą do turkusowej wody, zwłaszcza w Rick's Cafe. To idealne miejsce na snorkeling, nurkowanie i relaks w prawdziwie karaibskim stylu. Panuje tu bardziej zrelaksowana i bohemska atmosfera niż w Montego Bay."
+      ],
+      "highlights": [
+        "Seven Mile Beach",
+        "Klify Negril",
+        "Rick's Cafe",
+        "Latarnia morska Negril"
+      ]
+    },
+    {
+      "slug": "ocho-rios",
+      "name": "Ocho Rios",
+      "loc": "w Ocho Rios",
+      "type": "miasto/kurort",
+      "gygQuery": "Ocho Rios",
+      "airport": "MBJ",
+      "forWhom": "Dla tych, którzy szukają połączenia relaksu z aktywnościami wodnymi i przygodami w dżungli.",
+      "intro": [
+        "Ocho Rios, położone na północnym wybrzeżu, jest popularnym portem dla statków wycieczkowych i centrum wielu przyrodniczych atrakcji. To tutaj znajdują się słynne wodospady Dunn's River Falls, które można wspinać się z przewodnikiem. Miasto otoczone jest bujną tropikalną roślinnością i malowniczymi zatokami.",
+        "Oprócz wodospadów, w okolicy Ocho Rios można odwiedzić Dolphin Cove, gdzie pływa się z delfinami, oraz Mystic Mountain z kolejką linową i zjazdem bobslejowym. Kurort oferuje różnorodne zakwaterowanie i jest doskonałym miejscem do odkrywania naturalnego piękna Jamajki."
+      ],
+      "highlights": [
+        "Dunn's River Falls",
+        "Mystic Mountain",
+        "Dolphin Cove",
+        "Konno do morza"
+      ]
+    },
+    {
+      "slug": "kingston",
+      "name": "Kingston",
+      "loc": "w Kingston",
+      "type": "stolica/miasto",
+      "gygQuery": "Kingston Jamaica",
+      "airport": "KIN",
+      "forWhom": "Dla miłośników kultury, historii i muzyki reggae, chcących poczuć autentyczny puls Jamajki.",
+      "intro": [
+        "Kingston to tętniąca życiem stolica Jamajki i kulturalne serce wyspy, położone u podnóża Gór Błękitnych. To tutaj narodziło się reggae i to tutaj można poczuć prawdziwy, autentyczny klimat Jamajki. Miasto jest pełne kontrastów, od zabytkowych budynków po nowoczesne biurowce.",
+        "W Kingston znajduje się słynne Muzeum Boba Marleya, które jest obowiązkowym punktem dla każdego fana muzyki. Warto również odwiedzić Devon House, piękną rezydencję z epoki kolonialnej, oraz galerię sztuki National Gallery of Jamaica. Stolica to także doskonała baza wypadowa do wycieczek w Góry Błękitne."
+      ],
+      "highlights": [
+        "Muzeum Boba Marleya",
+        "Devon House",
+        "National Gallery of Jamaica",
+        "Góry Błękitne (Blue Mountains)"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Dunn's River Falls",
+      "text": "Słynne kaskadowe wodospady, które można wspinać się z przewodnikiem, tworząc żywy łańcuch ludzi. To jedna z najbardziej rozpoznawalnych atrakcji Jamajki, łącząca przygodę z orzeźwiającą kąpielą.",
+      "gygQuery": "Dunn's River Falls"
+    },
+    {
+      "name": "Seven Mile Beach",
+      "text": "Rozległa, piaszczysta plaża w Negril, znana z białego piasku, turkusowej wody i spokojnej atmosfery. Idealna na długie spacery, relaks i podziwianie zachodów słońca.",
+      "gygQuery": "Seven Mile Beach Negril"
+    },
+    {
+      "name": "Bob Marley Museum",
+      "text": "Muzeum w Kingston, mieszczące się w dawnym domu i studiu nagraniowym legendy reggae. Pozwala zanurzyć się w życie i twórczość Boba Marleya, poznając historię jego muzyki i filozofii.",
+      "gygQuery": "Bob Marley Museum"
+    },
+    {
+      "name": "Góry Błękitne (Blue Mountains)",
+      "text": "Majestatyczne pasmo górskie, słynące z upraw kawy Blue Mountain i malowniczych szlaków trekkingowych. Oferuje zapierające dech w piersiach widoki i ucieczkę od upałów wybrzeża.",
+      "gygQuery": "Blue Mountains Jamaica"
+    },
+    {
+      "name": "Rick's Cafe",
+      "text": "Kultowy bar i restauracja na klifach Negril, znany z zapierających dech w piersiach zachodów słońca i możliwości skoków do wody z wysokich skał. To idealne miejsce na drinka i podziwianie widoków.",
+      "gygQuery": "Rick's Cafe Negril"
+    },
+    {
+      "name": "Glistening Waters Luminous Lagoon",
+      "text": "Jedna z czterech na świecie lagun, w której nocą świecą mikroorganizmy, tworząc magiczny, bioluminescencyjny efekt. Niezwykłe doświadczenie podczas wieczornego rejsu.",
+      "gygQuery": "Luminous Lagoon"
+    },
+    {
+      "name": "Port Antonio i Blue Lagoon",
+      "text": "Spokojne miasteczko na wschodnim wybrzeżu, otoczone bujną roślinnością i słynne z malowniczej Blue Lagoon o intensywnie turkusowej wodzie. Idealne dla szukających autentycznej Jamajki.",
+      "gygQuery": "Blue Lagoon Port Antonio"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia jamajska to prawdziwa uczta dla zmysłów, pełna intensywnych smaków i aromatów. Jej wizytówką jest \"jerk chicken\" lub \"jerk pork\", czyli mięso marynowane w pikantnej mieszance przypraw i grillowane, często podawane z ryżem i groszkiem. Koniecznie spróbujcie narodowego dania \"ackee and saltfish\", czyli owocu aki z solonym dorszem, podawanego na śniadanie. Popularne są też \"patties\" - pikantne pierożki z różnym nadzieniem, oraz świeże owoce morza. Całość uzupełnia soczysta, tropikalna roślinność i oczywiście słynny jamajski rum."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Jamajkę?",
+      "a": "Obywatele Polski mogą podróżować na Jamajkę bez wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport. Zawsze zaleca się sprawdzenie aktualnych wymogów przed wyjazdem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Jamajce?",
+      "a": "Oficjalną walutą jest dolar jamajski (JMD), ale dolary amerykańskie (USD) są powszechnie akceptowane, szczególnie w obszarach turystycznych. Warto mieć obie waluty."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Jamajkę?",
+      "a": "Najlepszy czas na podróż to pora sucha, od grudnia do kwietnia, kiedy panują słoneczne dni i niższa wilgotność. Unikaj pory huraganów, zwłaszcza od sierpnia do października."
+    },
+    {
+      "q": "Czy Jamajka jest bezpieczna dla turystów?",
+      "a": "W rejonach turystycznych jest stosunkowo bezpiecznie, ale należy zachować ostrożność, zwłaszcza po zmroku. Unikaj samotnych spacerów w nieznanych miejscach i zawsze dbaj o swoje rzeczy."
+    },
+    {
+      "q": "Jakie są główne atrakcje Jamajki?",
+      "a": "Do głównych atrakcji należą wodospady Dunn's River Falls, plaża Seven Mile Beach w Negril, Muzeum Boba Marleya w Kingston oraz malownicze Góry Błękitne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

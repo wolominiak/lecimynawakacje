@@ -1,0 +1,196 @@
+{
+  "slug": "hongkong",
+  "loc": "w Hongkongu",
+  "to": "do Hongkongu",
+  "capital": "Hongkong",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Hong Kong",
+  "teaser": "Miasto drapaczy chmur i zielonych wzgórz, gdzie Wschód spotyka Zachód. Hongkong to dynamiczna metropolia pełna smaków i niezapomnianych widoków.",
+  "intro": [
+    "Hongkong to fascynująca metropolia, gdzie nowoczesne drapacze chmur stykają się z tradycyjnymi świątyniami i zielonymi wzgórzami. To miasto, które nigdy nie śpi, oferując niezliczone możliwości odkrywania - od kulinarnych podróży po tętniące życiem targowiska i spokojne oazy natury. Jest to miejsce, gdzie kultura Wschodu i Zachodu splatają się w unikalną mozaikę. Przyciąga swoją energią, różnorodnością i spektakularnymi widokami.",
+    "Hongkong to idealny cel dla osób ceniących intensywne doświadczenia miejskie, miłośników azjatyckiej kuchni i tych, którzy szukają egzotyki w komfortowych warunkach. Spodoba się zarówno fanom zakupów, jak i poszukiwaczom kulturowych wrażeń, którzy chcą zanurzyć się w azjatyckim tyglu. To także świetna destynacja dla podróżujących solo czy par, które chcą poczuć puls prawdziwej metropolii.",
+    "Podróż z Polski do Hongkongu wymaga przesiadki, najczęściej w jednym z europejskich lub bliskowschodnich hubów lotniczych. Całkowity czas lotu, wliczając przesiadkę, wynosi zazwyczaj od 12 do 14 godzin. Linie lotnicze takie jak Emirates, Qatar Airways, Lufthansa czy KLM oferują dogodne połączenia. Warto szukać biletów z wyprzedzeniem, aby znaleźć atrakcyjne ceny."
+  ],
+  "highlights": [
+    "Panorama z Victoria Peak",
+    "Uliczne jedzenie w Mong Kok",
+    "Rejs Star Ferry po zatoce",
+    "Wyspa Lantau i Wielki Budda",
+    "Spacer po Tsim Sha Tsui",
+    "Targi uliczne i dzielnice handlowe"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę w Hongkongu to okres od października do lutego. Wtedy panują umiarkowane temperatury, niższa wilgotność i mniej opadów, co sprzyja zwiedzaniu. Marzec i kwiecień również są dobrymi miesiącami, choć temperatura i wilgotność zaczynają rosnąć. Od maja do września panuje pora deszczowa, wysokie temperatury i duża wilgotność, a także ryzyko tajfunów, co może utrudnić podróżowanie.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      4
+    ]
+  },
+  "climate": {
+    "air": [
+      20,
+      20,
+      22,
+      26,
+      29,
+      31,
+      32,
+      32,
+      31,
+      29,
+      25,
+      21
+    ],
+    "sea": [
+      20,
+      19,
+      20,
+      22,
+      25,
+      27,
+      28,
+      28,
+      27,
+      26,
+      24,
+      22
+    ],
+    "note": "Hongkong"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "Plus 7 godzin zimą, plus 6 godzin latem",
+    "documents": "Dla obywateli Polski podróżujących do Hongkongu w celach turystycznych wiza nie jest wymagana na pobyt do 90 dni. Należy posiadać ważny paszport, którego termin ważności powinien przekraczać co najmniej 6 miesięcy planowaną datę wyjazdu z Hongkongu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych lub w konsulacie Hongkongu przed planowaną podróżą, gdyż przepisy mogą ulec zmianie.",
+    "money": "Walutą jest dolar hongkoński (HKD). Płatności kartą są powszechne w większych sklepach, restauracjach i hotelach. Warto mieć przy sobie gotówkę na targowiskach, w mniejszych knajpkach czy na transport publiczny. Dobrym rozwiązaniem jest zakup karty Octopus, którą można doładować i używać do płatności w komunikacji miejskiej, sklepach spożywczych czy nawet w niektórych restauracjach.",
+    "plugs": "W Hongkongu używane są gniazdka elektryczne typu G (brytyjskie), rzadziej D i M. Napięcie wynosi 220V przy częstotliwości 50Hz. Konieczne jest zabranie ze sobą odpowiedniego adaptera, aby móc korzystać z polskich urządzeń elektronicznych. Wiele hoteli oferuje adaptery, ale lepiej mieć swój.",
+    "language": "angielski, kantoński (chiński)",
+    "safety": "Hongkong jest generalnie bezpiecznym miastem. Należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach i na targowiskach, gdzie mogą działać kieszonkowcy. W sezonie tajfunów (od maja do września) należy śledzić komunikaty pogodowe. Ruch uliczny jest intensywny, a kierowcy jeżdżą po lewej stronie, więc trzeba uważać przy przechodzeniu przez ulicę."
+  },
+  "regions": [
+    {
+      "slug": "hong-kong-island",
+      "name": "Wyspa Hongkong",
+      "loc": "na Wyspie Hongkong",
+      "type": "wyspa",
+      "gygQuery": "Hong Kong Island",
+      "airport": "HKG",
+      "forWhom": "Dla miłośników miejskiego zgiełku, luksusu i spektakularnych widoków.",
+      "intro": [
+        "Wyspa Hongkong to bijące serce metropolii, gdzie nowoczesność spotyka się z historią. Znajdziesz tu finansowe centra, luksusowe butiki w Central, kolonialne budynki i tętniące życiem dzielnice jak Wan Chai czy Causeway Bay. To także miejsce, z którego roztaczają się najbardziej ikoniczne panoramy miasta, zwłaszcza z Victoria Peak.",
+        "Wyspa oferuje zarówno tętniący życiem miejski krajobraz, jak i spokojniejsze zakątki, takie jak plaże Repulse Bay. Możesz tu podziwiać imponującą architekturę, delektować się wykwintną kuchnią i odkrywać urokliwe uliczki pełne galerii i kawiarni."
+      ],
+      "highlights": [
+        "Victoria Peak z widokiem na miasto",
+        "Luksusowe butiki w Central",
+        "Plaże Repulse Bay i Stanley",
+        "Tramwaj \"Ding Ding\""
+      ]
+    },
+    {
+      "slug": "kowloon",
+      "name": "Kowloon",
+      "loc": "w Kowloon",
+      "type": "dzielnica",
+      "gygQuery": "Kowloon Hong Kong",
+      "airport": "HKG",
+      "forWhom": "Idealne dla poszukujących autentycznych wrażeń, targowisk i tętniącego życiem miasta.",
+      "intro": [
+        "Kowloon to dynamiczna część Hongkongu, znana z tętniących życiem ulic, kolorowych targowisk i autentycznej atmosfery. To tutaj poczujesz prawdziwy puls miasta, spacerując po zatłoczonych dzielnicach takich jak Mong Kok czy Tsim Sha Tsui. Kowloon oferuje niezliczone możliwości zakupów, od luksusowych centrów handlowych po tradycyjne targi uliczne, gdzie można znaleźć wszystko, od ubrań po elektronikę.",
+        "Jest to także doskonałe miejsce do spróbowania lokalnej kuchni w ulicznych restauracjach i do podziwiania panoramy Wyspy Hongkong z Promenady Tsim Sha Tsui. Kowloon to kwintesencja azjatyckiego zgiełku i kulturowej różnorodności."
+      ],
+      "highlights": [
+        "Promenada Tsim Sha Tsui",
+        "Targ Ladies' Market w Mong Kok",
+        "Targ Nocny Temple Street",
+        "Muzea i centra kultury"
+      ]
+    },
+    {
+      "slug": "lantau-island",
+      "name": "Wyspa Lantau",
+      "loc": "na Wyspie Lantau",
+      "type": "wyspa",
+      "gygQuery": "Lantau Island",
+      "airport": "HKG",
+      "forWhom": "Dla tych, którzy szukają oddechu od miejskiego zgiełku i duchowych doświadczeń.",
+      "intro": [
+        "Wyspa Lantau to największa wyspa Hongkongu, oferująca ucieczkę od miejskiego zgiełku i kontakt z naturą oraz duchowością. To tutaj znajduje się słynny Wielki Budda Tian Tan i klasztor Po Lin, będące ważnymi centrami buddyzmu. Oprócz atrakcji religijnych, Lantau to także malownicze szlaki turystyczne, urokliwe wioski rybackie jak Tai O.",
+        "Wyspa jest łatwo dostępna dzięki kolejce linowej Ngong Ping 360, oferującej spektakularne widoki na góry i morze. Dla rodzin z dziećmi atrakcją będzie Hong Kong Disneyland, również położony na tej wyspie."
+      ],
+      "highlights": [
+        "Wielki Budda i klasztor Po Lin",
+        "Kolejka linowa Ngong Ping 360",
+        "Wioska rybacka Tai O",
+        "Hong Kong Disneyland"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Victoria Peak",
+      "text": "Najwyższy punkt na Wyspie Hongkong, oferujący zapierające dech w piersiach panoramiczne widoki na miasto, zatokę i Kowloon. Warto wjechać zabytkowym tramwajem Peak Tram.",
+      "gygQuery": "Victoria Peak Hong Kong"
+    },
+    {
+      "name": "Star Ferry",
+      "text": "Kultowy prom, który od ponad stu lat łączy Kowloon z Wyspą Hongkong, oferując jeden z najpiękniejszych i najtańszych rejsów widokowych na świecie.",
+      "gygQuery": "Star Ferry Hong Kong"
+    },
+    {
+      "name": "Ngong Ping 360 i Wielki Budda",
+      "text": "Spektakularna przejażdżka kolejką linową na Wyspę Lantau, prowadząca do monumentalnego posągu Wielkiego Buddy Tian Tan i klasztoru Po Lin.",
+      "gygQuery": "Ngong Ping 360 Big Buddha"
+    },
+    {
+      "name": "Targi uliczne w Mong Kok",
+      "text": "Tętniące życiem targi takie jak Ladies' Market czy Flower Market, gdzie można poczuć prawdziwy puls lokalnego handlu i znaleźć pamiątki.",
+      "gygQuery": "Mong Kok markets"
+    },
+    {
+      "name": "Promenada Tsim Sha Tsui",
+      "text": "Idealne miejsce na wieczorny spacer z widokiem na panoramę Wyspy Hongkong, zwłaszcza podczas pokazu świateł \"Symphony of Lights\".",
+      "gygQuery": "Tsim Sha Tsui Promenade"
+    },
+    {
+      "name": "Dzielnica Sheung Wan",
+      "text": "Znana z ulicznej sztuki, galerii, tradycyjnych sklepów z ziołami i antykami, oferująca bardziej artystyczną i hipsterską atmosferę.",
+      "gygQuery": "Sheung Wan Hong Kong"
+    },
+    {
+      "name": "Wong Tai Sin Temple",
+      "text": "Kolorowa i tętniąca życiem świątynia taoistyczna, buddyjska i konfucjańska, gdzie wierni modlą się o szczęście i wróżą przyszłość.",
+      "gygQuery": "Wong Tai Sin Temple"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia hongkońska to przede wszystkim kuchnia kantońska, słynąca z delikatnych smaków i świeżych składników. Obowiązkowo trzeba spróbować dim sum - małych przekąsek serwowanych w koszyczkach, takich jak har gow (pierogi z krewetkami) czy siu mai (pierogi z wieprzowiną). Warto także poszukać ulicznych straganów z jajecznymi tartami, ryżem z pieczoną gęsią lub wieprzowiną char siu. Hongkong to raj dla smakoszy, gdzie na każdym kroku można znaleźć zarówno luksusowe restauracje, jak i autentyczne, lokalne knajpki."
+  ],
+  "faq": [
+    {
+      "q": "Czy Hongkong jest drogim miastem dla turystów?",
+      "a": "Hongkong uchodzi za jedno z droższych miast na świecie, zwłaszcza jeśli chodzi o zakwaterowanie i luksusowe zakupy. Można jednak podróżować budżetowo, korzystając z lokalnego transportu, jedząc na targach i w mniejszych restauracjach."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Hongkongu?",
+      "a": "Najlepszym sposobem na poruszanie się po Hongkongu jest rozbudowana sieć metra (MTR), tramwaje, autobusy i promy. Warto kupić kartę Octopus, która ułatwia płatności w komunikacji miejskiej i wielu sklepach. Taksówki są również dostępne i stosunkowo niedrogie."
+    },
+    {
+      "q": "Czy potrzebuję wizy, aby odwiedzić Hongkong jako Polak?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyt turystyczny w Hongkongu do 90 dni. Wymagany jest jedynie ważny paszport, ważny co najmniej 6 miesięcy od daty wyjazdu."
+    },
+    {
+      "q": "Kiedy jest najlepszy czas na wyjazd do Hongkongu?",
+      "a": "Najlepszy czas na wizytę w Hongkongu to okres od października do lutego, kiedy panują przyjemne temperatury, niska wilgotność i mniej opadów, co sprzyja zwiedzaniu."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

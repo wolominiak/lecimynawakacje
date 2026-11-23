@@ -1,0 +1,197 @@
+{
+  "slug": "kongo",
+  "loc": "w Kongo",
+  "to": "do Konga",
+  "capital": "Brazzaville",
+  "popularity": 8,
+  "touroperator": false,
+  "gygQuery": "Republic of the Congo",
+  "teaser": "Kongo to kraj dla prawdziwych poszukiwaczy przygód, oferujący dziką przyrodę i autentyczne spotkania kulturowe.",
+  "intro": [
+    "Republika Konga, często mylona z sąsiednią Demokratyczną Republiką Konga, to kraj w zachodniej Afryce, który przyciąga przede wszystkim dziewiczą naturą i możliwością bliskiego kontaktu z dzikimi zwierzętami, w tym gorylami nizinnymi. Przepływająca przez kraj rzeka Kongo, bujne lasy deszczowe i niewielkie wybrzeże Atlantyku tworzą krajobraz pełen wyzwań i unikalnych doświadczeń. To miejsce, gdzie autentyczność afrykańskiego życia jest na wyciągnięcie ręki, z dala od masowej turystyki.",
+    "Podróż do Konga to propozycja dla doświadczonych globtroterów, otwartych na przygodę i gotowych na pewne niedogodności. Nie jest to cel dla osób szukających luksusowych kurortów czy zorganizowanych wycieczek, ale raczej dla tych, którzy pragną zanurzyć się w kulturze, eksplorować dziką przyrodę i cenią sobie autentyczne, niepowtarzalne spotkania. Kraj oferuje unikalne doświadczenia, takie jak trekking w poszukiwaniu goryli czy rejsy po rzece, które na długo pozostają w pamięci.",
+    "Loty z Polski do Konga zazwyczaj wymagają jednej lub dwóch przesiadek, najczęściej w europejskich hubach, takich jak Paryż, Stambuł czy Addis Abeba. Cała podróż zajmuje zwykle od 12 do 15 godzin. Przed wyjazdem niezbędne jest uzyskanie wizy oraz dopełnienie wszelkich formalności zdrowotnych, w tym wymaganych szczepień. Infrastruktura turystyczna jest ograniczona, co oznacza, że planowanie podróży wymaga staranności i elastyczności, ale nagrodą jest prawdziwa afrykańska przygoda."
+  ],
+  "highlights": [
+    "Trekking z gorylami nizinnymi w Odzala-Kokoua",
+    "Rejsy po majestatycznej rzece Kongo",
+    "Odkrywanie tętniącej życiem stolicy, Brazzaville",
+    "Relaks na plażach Pointe-Noire",
+    "Spotkania z Les Sapeurs i ich elegancją",
+    "Podziwianie dzikiej przyrody lasów deszczowych"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Konga to okresy suche, które charakteryzują się mniejszą wilgotnością i niższymi temperaturami, co ułatwia eksplorację. Szczególnie polecane są miesiące od czerwca do września oraz od grudnia do lutego. W tych okresach warunki do obserwacji dzikiej przyrody, zwłaszcza goryli, są najbardziej sprzyjające, a podróżowanie po drogach jest mniej utrudnione przez deszcze. Pamiętaj jednak, że nawet w porze suchej mogą występować przelotne opady.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      1,
+      2,
+      5,
+      9,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      32,
+      32,
+      32,
+      31,
+      29,
+      28,
+      29,
+      30,
+      31,
+      31,
+      30
+    ],
+    "sea": [
+      27,
+      28,
+      28,
+      29,
+      28,
+      25,
+      23,
+      22,
+      23,
+      25,
+      26,
+      27
+    ],
+    "note": "Dane dla Brazzaville (temperatura powietrza) i Pointe-Noire (temperatura morza)."
+  },
+  "practical": {
+    "flight": "około 12-15 h z 1-2 przesiadkami",
+    "timeDiff": "0 lub -1 godzina względem Polski, zależnie od pory roku",
+    "documents": "Paszport ważny min. 6 miesięcy. Wiza jest obowiązkowa i należy ją uzyskać w ambasadzie Konga przed wyjazdem. Zaleca się sprawdzenie aktualnych wymagań wizowych oraz zdrowotnych (np. szczepienie na żółtą febrę) w ambasadzie lub konsulacie przed podróżą.",
+    "money": "Walutą jest frank CFA (XAF). Płatności kartą są bardzo ograniczone, głównie w większych hotelach. Zaleca się posiadanie gotówki. Bankomaty są rzadkie, a wymiana walut poza stolicą może być trudna.",
+    "plugs": "Typ C i E (europejskie, takie jak w Polsce).",
+    "language": "Francuski jest językiem urzędowym. Powszechnie używane są również języki lokalne, takie jak kongo i lingala.",
+    "safety": "Kongo to kraj o podwyższonym ryzyku. Zaleca się zachowanie szczególnej ostrożności, unikanie podróży po zmroku i monitorowanie sytuacji politycznej. Występuje ryzyko malarii i innych chorób tropikalnych, konsultacja lekarska przed wyjazdem jest niezbędna."
+  },
+  "regions": [
+    {
+      "slug": "brazzaville",
+      "name": "Brazzaville",
+      "loc": "w Brazzaville",
+      "type": "miasto",
+      "gygQuery": "Brazzaville",
+      "airport": "BZV",
+      "forWhom": "Dla tych, którzy chcą poczuć puls kraju i zobaczyć jego kulturalne centrum.",
+      "intro": [
+        "Brazzaville, stolica Republiki Konga, leży na prawym brzegu rzeki Kongo, naprzeciwko Kinszasy. To tętniące życiem miasto, które oferuje wgląd w kongijską kulturę i historię. Warto zobaczyć Bazylikę św. Anny, pomnik Pierre'a Savorgnana de Brazzy oraz spacerować po rynkach, gdzie można kupić lokalne wyroby i spróbować ulicznego jedzenia.",
+        "Miasto jest znane z 'Les Sapeurs', czyli elegancko ubranych dżentelmenów, którzy z dumą prezentują swój styl. Brazzaville to także punkt wypadowy do eksploracji rzeki Kongo i okolicznych terenów. Mimo miejskiego zgiełku, można tu znaleźć spokojne miejsca, takie jak ogród zoologiczny czy tereny zielone, oferujące chwilę wytchnienia."
+      ],
+      "highlights": [
+        "Bazylika św. Anny Konga",
+        "Pomnik Pierre'a Savorgnana de Brazzy",
+        "Targ Poto-Poto",
+        "Obserwacja rzeki Kongo"
+      ]
+    },
+    {
+      "slug": "pointe-noire",
+      "name": "Pointe-Noire",
+      "loc": "w Pointe-Noire",
+      "type": "miasto",
+      "gygQuery": "Pointe-Noire",
+      "airport": "PNR",
+      "forWhom": "Idealne dla osób szukających nadmorskiego klimatu i relaksu pośród lokalnego życia.",
+      "intro": [
+        "Pointe-Noire, drugie co do wielkości miasto Konga, to jego główne centrum gospodarcze i portowe, położone nad Oceanem Atlantyckim. Znane jest z przemysłu naftowego, ale oferuje również urokliwe plaże i bardziej zrelaksowaną atmosferę niż stolica. To dobre miejsce na odpoczynek po intensywnej podróży w głąb lądu.",
+        "Miasto ma swoją specyficzną energię, z mieszanką nowoczesności i tradycji. Można tu spacerować po szerokich plażach, obserwować lokalnych rybaków czy odwiedzić targi. Pointe-Noire jest również bazą wypadową do odkrywania pobliskich atrakcji przyrodniczych, takich jak Diosso Gorge, imponujący kanion z czerwonej ziemi."
+      ],
+      "highlights": [
+        "Plaże Atlantyku",
+        "Port Pointe-Noire",
+        "Targ centralny",
+        "Wizyta w Diosso Gorge"
+      ]
+    },
+    {
+      "slug": "odzala-kokoua-national-park",
+      "name": "Park Narodowy Odzala-Kokoua",
+      "loc": "w Parku Narodowym Odzala-Kokoua",
+      "type": "park narodowy",
+      "gygQuery": "Odzala-Kokoua National Park",
+      "airport": "BZV",
+      "forWhom": "Niezbędny punkt dla miłośników dzikiej przyrody i obserwacji goryli nizinnych.",
+      "intro": [
+        "Park Narodowy Odzala-Kokoua to jeden z najstarszych parków narodowych w Afryce i prawdziwa perła Konga, słynąca z bogactwa fauny, w tym największej populacji goryli nizinnych zachodnich. To obszar dziewiczych lasów deszczowych, bagien i rzek, oferujący niezapomniane doświadczenia związane z obserwacją dzikiej przyrody w jej naturalnym środowisku.",
+        "Odzala-Kokoua to raj dla ekoturystów i badaczy. Trekking w poszukiwaniu goryli jest główną atrakcją, ale park jest także domem dla słoni leśnych, bawołów, szympansów i wielu gatunków ptaków. Wizyta tutaj to szansa na głębokie zanurzenie się w ekosystemie lasu deszczowego i wsparcie lokalnych inicjatyw konserwatorskich."
+      ],
+      "highlights": [
+        "Trekking z gorylami nizinnymi",
+        "Obserwacja słoni leśnych",
+        "Rejsy po rzekach w poszukiwaniu hipopotamów",
+        "Noclegi w ekologicznych lodge'ach"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Rzeka Kongo",
+      "text": "Majestatyczna rzeka, druga co do długości w Afryce, oferuje rejsy i widoki na codzienne życie mieszkańców. Jest naturalną granicą i arterią komunikacyjną.",
+      "gygQuery": "Congo River"
+    },
+    {
+      "name": "Bazylika św. Anny Konga w Brazzaville",
+      "text": "Imponująca budowla sakralna o charakterystycznej zielonej, łupkowej kopule, będąca ważnym punktem orientacyjnym i architektonicznym w stolicy.",
+      "gygQuery": "Basilica of St. Anne of the Congo"
+    },
+    {
+      "name": "Pomnik Pierre'a Savorgnana de Brazzy",
+      "text": "Miejsce upamiętniające założyciela Brazzaville, oferujące wgląd w historię kolonialną i piękne widoki na rzekę Kongo.",
+      "gygQuery": "Pierre Savorgnan de Brazza Memorial"
+    },
+    {
+      "name": "Plaże Pointe-Noire",
+      "text": "Rozległe piaszczyste wybrzeża nad Oceanem Atlantyckim, idealne do spacerów, obserwacji zachodów słońca i lokalnego życia.",
+      "gygQuery": "Pointe-Noire beaches"
+    },
+    {
+      "name": "Diosso Gorge",
+      "text": "Spektakularny czerwony kanion niedaleko Pointe-Noire, oferujący malownicze krajobrazy i możliwości pieszych wędrówek.",
+      "gygQuery": "Diosso Gorge"
+    },
+    {
+      "name": "Les Sapeurs",
+      "text": "Unikalne zjawisko kulturowe w Brazzaville, gdzie mężczyźni z pasją prezentują ekstrawagancki styl ubioru, celebrując modę i elegancję.",
+      "gygQuery": "Les Sapeurs Brazzaville"
+    },
+    {
+      "name": "Wodospady Loufoulakari",
+      "text": "Seria pięknych wodospadów położonych niedaleko Brazzaville, oferujących orzeźwienie i kontakt z naturą.",
+      "gygQuery": "Loufoulakari Falls"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia kongijska opiera się na prostych, lokalnych składnikach. Podstawą są maniok, bataty, ryż i plantany, często podawane z sosami na bazie orzeszków ziemnych lub liści. Popularne są ryby z rzeki Kongo oraz dania z kurczaka. Dla odważnych dostępne jest również mięso z buszu, choć jego legalność i pochodzenie bywają wątpliwe. Warto spróbować 'poulet moambe' - kurczaka w sosie z palmy olejowej, który jest uważany za narodowe danie. Pamiętaj, aby zawsze dbać o higienę jedzenia i picia, unikając nieprzegotowanej wody."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kongo jest bezpiecznym krajem dla turystów?",
+      "a": "Kongo jest krajem o podwyższonym ryzyku. Zaleca się zachowanie szczególnej ostrożności, unikanie podróży po zmroku i śledzenie bieżącej sytuacji politycznej. Przed wyjazdem warto zapoznać się z aktualnymi ostrzeżeniami dla podróżujących."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane przed podróżą do Konga?",
+      "a": "Obowiązkowe jest szczepienie przeciwko żółtej febrze, a dowód szczepienia może być wymagany przy wjeździe. Zalecane są również szczepienia na tężec, błonicę, polio, dur brzuszny i WZW A i B. Należy skonsultować się z lekarzem medycyny podróży."
+    },
+    {
+      "q": "Jak uzyskać wizę do Konga dla obywateli Polski?",
+      "a": "Wiza do Konga jest obowiązkowa i należy ją uzyskać przed wyjazdem w ambasadzie Republiki Konga. Proces może być czasochłonny, dlatego warto złożyć wniosek z odpowiednim wyprzedzeniem."
+    },
+    {
+      "q": "Jakie języki są używane w Kongu?",
+      "a": "Oficjalnym językiem jest francuski. Powszechnie używane są również języki lokalne, takie jak kongo i lingala. Znajomość podstaw francuskiego znacznie ułatwi komunikację poza głównymi ośrodkami turystycznymi."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "lesotho",
+  "loc": "w Lesotho",
+  "to": "do Lesotho",
+  "capital": "Maseru",
+  "popularity": 8,
+  "touroperator": false,
+  "gygQuery": "Lesotho",
+  "teaser": "Lesotho to górskie królestwo w sercu Południowej Afryki, oferujące spektakularne krajobrazy, unikalną kulturę i prawdziwą przygodę.",
+  "intro": [
+    "Lesotho, nazywane \"Królestwem na Niebie\", to jeden z najbardziej niezwykłych krajów Afryki. W całości otoczone terytorium Republiki Południowej Afryki, jest jedynym państwem na świecie, którego całe terytorium leży powyżej 1000 metrów nad poziomem morza. To prawdziwa gratka dla miłośników gór, pieszych wędrówek i dziewiczej przyrody, którzy szukają autentycznych doświadczeń z dala od masowej turystyki. Lesotho to kraj, gdzie czas płynie wolniej, a tradycje są głęboko zakorzenione w codziennym życiu.",
+    "Podróż do Lesotho to wyprawa dla osób ceniących aktywny wypoczynek i kontakt z naturą. Znajdziesz tu strzeliste szczyty Gór Smoczych, głębokie doliny, wodospady i malownicze wioski, do których często dociera się wyłącznie konno. Kraj ten oferuje unikalną kulturę Basotho, ich charakterystyczne stożkowe chaty i słynne koce. Jest to kierunek dla tych, którzy chcą odkrywać, a nie tylko podziwiać zza szyby autokaru. Przygotuj się na niezapomniane widoki i gościnność lokalnej społeczności.",
+    "Z Polski do Lesotho nie ma bezpośrednich lotów. Podróż wymaga co najmniej jednej przesiadki, zazwyczaj w jednym z europejskich hubów, a następnie lotu do Johannesburga (RPA). Z Johannesburga do Maseru, stolicy Lesotho, można dolecieć samolotem, skorzystać z autobusów lub wynająć samochód. Cała podróż, wliczając przesiadki, to zazwyczaj około 15-20 godzin. Pamiętaj o sprawdzeniu wymogów wizowych i zdrowotnych przed wyjazdem, aby uniknąć niespodzianek."
+  ],
+  "highlights": [
+    "Górskie krajobrazy i szlaki trekkingowe",
+    "Unikalna kultura ludu Basotho",
+    "Przejazd przez słynną Sani Pass",
+    "Malownicze wodospady, np. Maletsunyane",
+    "Jazda konna po górach Lesotho",
+    "Odkrywanie tradycyjnych wiosek"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Lesotho to miesiące letnie na półkuli południowej, czyli od października do kwietnia. Wtedy panują najwyższe temperatury i jest najwięcej słońca, co sprzyja trekkingowi i zwiedzaniu gór. Należy jednak pamiętać, że jest to również pora deszczowa, choć opady zazwyczaj są krótkotrwałe i intensywne. Poza tym okresem, zwłaszcza zimą (czerwiec-sierpień), temperatury w górach mogą spadać poniżej zera, a niektóre drogi stają się nieprzejezdne z powodu śniegu.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      28,
+      27,
+      25,
+      22,
+      19,
+      16,
+      16,
+      19,
+      23,
+      25,
+      26,
+      28
+    ],
+    "sea": null,
+    "note": "dla Maseru"
+  },
+  "practical": {
+    "flight": "około 15-20 h z przesiadką",
+    "timeDiff": "W polskiej zimie +1 godzina, w lecie czas jest taki sam.",
+    "documents": "Wiza jest wymagana. Obywatele RP mogą ubiegać się o wizę elektroniczną (e-wiza) lub wizę tradycyjną w placówce dyplomatycznej Lesotho (np. w Berlinie). Zawsze sprawdź aktualne wymogi wizowe na stronie MSZ przed wyjazdem.",
+    "money": "Oficjalną walutą jest LSL (Loti Lesotho), ale ZAR (Rand Południowoafrykański) jest akceptowany zamiennie w stosunku 1:1. Płatności kartą są możliwe w większych miastach, ale poza nimi niezbędna jest gotówka.",
+    "plugs": "Typ M, D, N (trzy okrągłe bolce, często grube). Wymagany adapter.",
+    "language": "Angielski, sotho południowy.",
+    "safety": "Lesotho jest krajem stosunkowo bezpiecznym, ale należy zachować podstawowe środki ostrożności, zwłaszcza po zmroku w miastach. Występuje ryzyko przestępczości pospolitej. Zaleca się wykupienie kompleksowego ubezpieczenia medycznego i podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "maseru",
+      "name": "Maseru",
+      "loc": "w Maseru",
+      "type": "miasto",
+      "gygQuery": "Maseru",
+      "airport": "MSU",
+      "forWhom": "Dla tych, którzy chcą poznać stolicę i punkt startowy do dalszych podróży po kraju.",
+      "intro": [
+        "Maseru to stolica i największe miasto Lesotho, położone nad rzeką Caledon, na granicy z Republiką Południowej Afryki. Choć nie jest to typowe miasto turystyczne, stanowi ważny punkt przesiadkowy i bazę wypadową do zwiedzania reszty kraju. Znajdziesz tu podstawową infrastrukturę, taką jak hotele, restauracje i sklepy, a także lokalne targowiska, gdzie można poczuć autentyczną atmosferę Lesotho.",
+        "W Maseru warto odwiedzić Katedrę Matki Boskiej Zwycięskiej, Pałac Królewski (widok z zewnątrz), a także lokalne rynki, gdzie sprzedawane są tradycyjne wyroby rzemieślnicze, takie jak słynne koce Basotho. Miasto może być nieco chaotyczne, ale oferuje wgląd w codzienne życie mieszkańców. To dobre miejsce na zaopatrzenie się w prowiant i przygotowanie do górskich ekspedycji."
+      ],
+      "highlights": [
+        "Lokalne targowiska i rzemiosło",
+        "Katedra Matki Boskiej Zwycięskiej",
+        "Pałac Królewski (widok z zewnątrz)",
+        "Punkt startowy do dalszych podróży"
+      ]
+    },
+    {
+      "slug": "maluti-mountains",
+      "name": "Góry Maluti",
+      "loc": "w Górach Maluti",
+      "type": "region",
+      "gygQuery": "Maluti Mountains Lesotho",
+      "airport": "MSU",
+      "forWhom": "Idealne dla miłośników trekkingu, jazdy konnej i spektakularnych górskich widoków.",
+      "intro": [
+        "Góry Maluti, będące częścią większego pasma Gór Smoczych, to serce Lesotho i jego największa atrakcja turystyczna. Region ten charakteryzuje się surowymi, ale pięknymi krajobrazami, strzelistymi szczytami, głębokimi dolinami i ukrytymi wodospadami. To tutaj znajduje się słynna Sani Pass, jedna z najbardziej wymagających dróg górskich na świecie, dostępna tylko dla pojazdów 4x4, prowadząca do najwyżej położonego pubu w Afryce.",
+        "Góry Maluti to raj dla piechurów i jeźdźców konnych. Tradycyjne wycieczki na kucykach Basotho to niezapomniany sposób na poznanie odległych wiosek i podziwianie panoramy. W regionie znajdują się również takie cuda natury jak wodospad Maletsunyane, jeden z najwyższych wodospadów w Afryce, oraz imponująca tama Katse, będąca częścią projektu Lesotho Highlands Water Project. To miejsce, gdzie poczujesz prawdziwą dzikość Afryki."
+      ],
+      "highlights": [
+        "Sani Pass i najwyższy pub w Afryce",
+        "Trekking i jazda konna",
+        "Wodospad Maletsunyane",
+        "Tama Katse"
+      ]
+    },
+    {
+      "slug": "sehlabathebe-national-park",
+      "name": "Park Narodowy Sehlabathebe",
+      "loc": "w Parku Narodowym Sehlabathebe",
+      "type": "park narodowy",
+      "gygQuery": "Sehlabathebe National Park",
+      "airport": "MSU",
+      "forWhom": "Dla poszukiwaczy dzikiej przyrody, spokoju i unikalnych formacji skalnych.",
+      "intro": [
+        "Park Narodowy Sehlabathebe to pierwszy park narodowy Lesotho i obiekt wpisany na Listę Światowego Dziedzictwa UNESCO, jako część obszaru Maloti-Drakensberg Park. Położony w odległym, południowo-wschodnim zakątku kraju, jest prawdziwą perłą dla miłośników przyrody. Park słynie z niezwykłych formacji skalnych, jaskiń z malowidłami naskalnymi, krystalicznie czystych rzek i bogatej fauny, w tym rzadkich gatunków ptaków i antylop.",
+        "Dostęp do parku jest wyzwaniem, co tylko dodaje mu uroku i sprawia, że pozostaje miejscem dzikim i niezmienionym przez masową turystykę. Oferuje on doskonałe warunki do pieszych wędrówek, obserwacji ptaków i biwakowania. To idealne miejsce, aby uciec od zgiełku cywilizacji i zanurzyć się w ciszy i pięknie górskiego krajobrazu Lesotho. Pamiętaj o zabraniu odpowiedniego sprzętu i zapasów, gdyż infrastruktura jest tu bardzo ograniczona."
+      ],
+      "highlights": [
+        "Formacje skalne i malowidła naskalne",
+        "Dzika przyroda i rzadkie ptaki",
+        "Trekking w dziewiczym krajobrazie",
+        "Część światowego dziedzictwa UNESCO"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Sani Pass",
+      "text": "Legendarna, kręta droga górska łącząca Lesotho z RPA, dostępna tylko dla pojazdów 4x4, prowadząca do najwyżej położonego pubu w Afryce.",
+      "gygQuery": "Sani Pass"
+    },
+    {
+      "name": "Wodospad Maletsunyane",
+      "text": "Jeden z najwyższych wodospadów w Afryce, o wysokości 192 metrów, oferujący spektakularne widoki i możliwość zjazdu na linie (abseiling).",
+      "gygQuery": "Maletsunyane Falls"
+    },
+    {
+      "name": "Tama Katse",
+      "text": "Imponująca tama łukowa, będąca częścią projektu Lesotho Highlands Water Project, otoczona malowniczymi górami i oferująca wycieczki z przewodnikiem.",
+      "gygQuery": "Katse Dam"
+    },
+    {
+      "name": "Thaba-Bosiu",
+      "text": "Historyczne wzgórze i dawna forteca króla Moshoeshoe I, ważne centrum kultury i dziedzictwa Basotho, oferujące wgląd w historię kraju.",
+      "gygQuery": "Thaba-Bosiu"
+    },
+    {
+      "name": "Park Narodowy Sehlabathebe",
+      "text": "Pierwszy park narodowy Lesotho, wpisany na listę UNESCO, słynący z unikalnych formacji skalnych, jaskiń z malowidłami i dzikiej przyrody.",
+      "gygQuery": "Sehlabathebe National Park"
+    },
+    {
+      "name": "Jazda konna na kucykach Basotho",
+      "text": "Tradycyjny sposób podróżowania po górach Lesotho, pozwalający na dotarcie do odległych wiosek i podziwianie krajobrazów z perspektywy lokalnego mieszkańca.",
+      "gygQuery": "Lesotho pony trekking"
+    },
+    {
+      "name": "Tradycyjne wioski Basotho",
+      "text": "Odwiedziny w autentycznych wioskach, gdzie można poznać codzienne życie, kulturę i zwyczaje ludu Basotho, często w towarzystwie lokalnych przewodników.",
+      "gygQuery": "Basotho cultural village"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Lesotho jest prosta, sycąca i opiera się na podstawowych składnikach dostępnych w górskim klimacie. Typowe dania to pap (gęsta owsianka z mąki kukurydzianej), chakalaka (pikantny gulasz warzywny), moroho (gotowane zielone warzywa liściaste) oraz mięso, najczęściej wołowina lub baranina. Popularne są także potrawy z fasoli i dyni. Tradycyjny chleb chapatis jest często podawany do posiłków. Nie oczekuj wyrafinowanych restauracji poza Maseru; w górach kuchnia jest domowa i przygotowywana z lokalnych produktów."
+  ],
+  "faq": [
+    {
+      "q": "Czy Lesotho jest bezpieczne dla turystów?",
+      "a": "Lesotho jest generalnie bezpiecznym krajem, ale jak wszędzie, należy zachować podstawowe środki ostrożności. Unikaj spacerów po zmroku w miastach i dbaj o swoje wartościowe przedmioty. W górach ryzyko jest mniejsze, ale zawsze informuj kogoś o swoich planach."
+    },
+    {
+      "q": "Jak dostać się do Lesotho z Polski?",
+      "a": "Z Polski do Lesotho nie ma bezpośrednich lotów. Najpierw trzeba dolecieć do Johannesburga w RPA (z przesiadką w Europie), a stamtąd autobusem, wynajętym samochodem lub lokalnym lotem do Maseru."
+    },
+    {
+      "q": "Czy potrzebna jest wiza do Lesotho dla Polaków?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać do Lesotho. Można ją uzyskać elektronicznie (e-wiza) lub w placówce dyplomatycznej, np. w Ambasadzie Lesotho w Berlinie. Zawsze sprawdź aktualne wymogi przed podróżą."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Lesotho i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest Loti Lesotho (LSL), ale Rand Południowoafrykański (ZAR) jest akceptowany zamiennie. W większych miastach można płacić kartą, ale poza nimi niezbędna jest gotówka."
+    },
+    {
+      "q": "Co warto zobaczyć w Lesotho?",
+      "a": "Do najważniejszych atrakcji należą Sani Pass, wodospad Maletsunyane, tama Katse, historyczne wzgórze Thaba-Bosiu oraz Park Narodowy Sehlabathebe. Warto też spróbować jazdy konnej na kucykach Basotho."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

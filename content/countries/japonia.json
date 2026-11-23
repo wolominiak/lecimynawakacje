@@ -1,0 +1,216 @@
+{
+  "slug": "japonia",
+  "loc": "w Japonii",
+  "to": "do Japonii",
+  "capital": "Tokio",
+  "popularity": 45,
+  "touroperator": false,
+  "gygQuery": "Japan",
+  "teaser": "Kraj kwitnącej wiśni to fascynujące połączenie starożytnych tradycji z futurystyczną nowoczesnością. Odkryj unikalną kulturę i zachwycającą przyrodę.",
+  "intro": [
+    "Japonia przyciąga podróżników swoją niezwykłą kulturą, która harmonijnie łączy wiekowe rytuały z najnowszymi technologiami. Od spokojnych świątyń i ogrodów zen, po tętniące życiem metropolie z drapaczami chmur i neonami, każdy znajdzie tu coś dla siebie. To kraj, gdzie szacunek do tradycji i natury jest tak samo ważny, jak innowacyjność i dążenie do perfekcji. Japońska kuchnia, sztuka i gościnność to kolejne powody, dla których warto odwiedzić ten odległy zakątek świata.",
+    "Ten kierunek jest idealny dla osób ceniących podróże pełne odkryć, poszukujących głębokich doświadczeń kulturowych i kulinarnych. Japonia to także raj dla miłośników nowoczesnej architektury, technologii i popkultury, a także dla tych, którzy pragną podziwiać zapierające dech w piersiach krajobrazy, od wulkanicznych gór po tropikalne wyspy. Jest to destynacja odpowiednia dla podróżników niezależnych, ale także dla tych, którzy wolą zorganizowane wycieczki tematyczne.",
+    "Podróż do Japonii z Polski zazwyczaj wiąże się z jednym międzylądowaniem, najczęściej w jednym z większych europejskich lub bliskowschodnich hubów. Loty są dostępne z Warszawy, Krakowa czy innych miast, choć zawsze z przesiadką. Cała podróż trwa zazwyczaj około 12-14 godzin, wliczając w to czas na przesiadkę. Po przylocie czeka nas spora różnica czasu, ale dobrze rozwinięta sieć transportowa, zwłaszcza superszybkie pociągi Shinkansen, pozwala na komfortowe przemieszczanie się po kraju."
+  ],
+  "highlights": [
+    "Odwiedź tradycyjne świątynie i ogrody zen",
+    "Podziwiaj kwitnące wiśnie lub jesienne klony",
+    "Przejedź się superszybkim pociągiem Shinkansen",
+    "Spróbuj autentycznego sushi, ramenu i tempury",
+    "Poznaj futurystyczne Tokio i historyczne Kioto",
+    "Zrelaksuj się w gorących źródłach onsen"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Japonii to wiosna (kwiecień-maj) ze względu na kwitnące wiśnie i przyjemne temperatury, oraz jesień (październik-listopad), kiedy liście klonów mienią się czerwienią i złotem. Lato (czerwiec-sierpień) bywa gorące i wilgotne, często z opadami deszczu, zwłaszcza na południu. Zima (grudzień-marzec) jest chłodna, ale oferuje świetne warunki do jazdy na nartach i mniejszą liczbę turystów.",
+    "best": [
+      4,
+      5,
+      10,
+      11
+    ],
+    "ok": [
+      3,
+      6,
+      9,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      10,
+      10,
+      14,
+      19,
+      23,
+      26,
+      29,
+      31,
+      27,
+      22,
+      16,
+      12
+    ],
+    "sea": [
+      15,
+      14,
+      14,
+      16,
+      19,
+      22,
+      25,
+      26,
+      25,
+      23,
+      20,
+      17
+    ],
+    "note": "dla Tokio"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "7 lub 8 godzin do przodu (w zależności od czasu letniego/zimowego w Polsce)",
+    "documents": "Obywatele Polski mogą podróżować do Japonii bez wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych i paszportowych przed wyjazdem na stronie MSZ lub ambasady.",
+    "money": "Walutą jest jen japoński (JPY). Płatności kartą są powszechne w dużych miastach i hotelach, ale w mniejszych miejscowościach, restauracjach czy sklepach często preferowana jest gotówka. Bankomaty są dostępne, zwłaszcza w sklepach typu \"konbini\" (convenience stores).",
+    "plugs": "Typ A i B (takie same jak w USA). Napięcie 100 V, częstotliwość 50/60 Hz. Potrzebny jest adapter i ewentualnie konwerter napięcia dla niektórych urządzeń.",
+    "language": "Oficjalnym językiem jest japoński. W większych miastach i popularnych miejscach turystycznych można porozumieć się po angielsku, ale poza nimi znajomość podstawowych zwrotów japońskich jest bardzo pomocna.",
+    "safety": "Japonia jest jednym z najbezpieczniejszych krajów na świecie, z bardzo niskim wskaźnikiem przestępczości. Opieka zdrowotna jest na wysokim poziomie, ale koszty leczenia są wysokie, dlatego posiadanie ubezpieczenia podróżnego jest absolutnie kluczowe. Należy pamiętać o ryzyku trzęsień ziemi i tsunami, choć budynki są dobrze przystosowane."
+  },
+  "regions": [
+    {
+      "slug": "tokio",
+      "name": "Tokio",
+      "loc": "w Tokio",
+      "type": "miasto",
+      "gygQuery": "Tokyo",
+      "airport": "NRT, HND",
+      "forWhom": "Dla miłośników nowoczesności, technologii, zakupów i tętniącego życia metropolii.",
+      "intro": [
+        "Tokio to bijące serce Japonii, miasto, które nigdy nie śpi i które nieustannie zaskakuje. Od futurystycznych dzielnic, takich jak Shinjuku z drapaczami chmur i neonami, po tradycyjne świątynie w Asakusa, Tokio oferuje niezliczone atrakcje. To tutaj można doświadczyć japońskiej popkultury w Harajuku, zjeść sushi na słynnym targu Tsukiji (obecnie Toyosu) lub podziwiać panoramę miasta z Tokyo Skytree. Miasto jest doskonale skomunikowane metrem i pociągami, co ułatwia zwiedzanie.",
+        "Tokio to także centrum kulinarnych doznań, od ekskluzywnych restauracji z gwiazdkami Michelin po małe, lokalne bary ramen. Można tu spędzić dni na odkrywaniu muzeów, parków, ogrodów i galerii sztuki. To miasto, które potrafi zmęczyć, ale jednocześnie nie pozwala się nudzić, oferując niezapomniane wrażenia na każdym kroku. Przygotuj się na tłumy, ale też na niesamowitą organizację i czystość, które są wizytówką japońskiej stolicy."
+      ],
+      "highlights": [
+        "Wjedź na Tokyo Skytree",
+        "Odwiedź dzielnicę Shibuya i przejście",
+        "Zwiedź świątynię Senso-ji w Asakusa",
+        "Poznaj ogrody cesarskie"
+      ]
+    },
+    {
+      "slug": "kioto",
+      "name": "Kioto",
+      "loc": "w Kioto",
+      "type": "miasto",
+      "gygQuery": "Kyoto",
+      "airport": "KIX",
+      "forWhom": "Dla poszukiwaczy tradycyjnej Japonii, świątyń, ogrodów i gejsz.",
+      "intro": [
+        "Kioto, dawna stolica Japonii, to miasto, które przenosi w czasie do epoki samurajów i gejsz. Jest to skarbnica dziedzictwa kulturowego, z ponad dwoma tysiącami świątyń i sanktuariów, w tym słynnymi Kinkaku-ji (Złoty Pawilon) i Fushimi Inari-taisha z tysiącami bram torii. Spacerując po dzielnicy Gion, można poczuć atmosferę dawnej Japonii i, przy odrobinie szczęścia, spotkać prawdziwą gejszę. Kioto to esencja japońskiej estetyki i spokoju.",
+        "Miasto słynie z pięknych ogrodów zen, tradycyjnych herbaciarni i warsztatów rzemieślniczych, gdzie można poznać sztukę ikebany czy ceremonii parzenia herbaty. Wiosną Kioto tonie w różu kwitnących wiśni, a jesienią zachwyca paletą barw klonów. To idealne miejsce na wyciszenie i głębsze poznanie japońskiej filozofii życia. Kioto jest łatwo dostępne z Tokio dzięki Shinkansenowi."
+      ],
+      "highlights": [
+        "Odwiedź Złoty Pawilon (Kinkaku-ji)",
+        "Przejdź przez Fushimi Inari-taisha",
+        "Spaceruj po bambusowym lesie Arashiyama",
+        "Poznaj dzielnicę gejsz Gion"
+      ]
+    },
+    {
+      "slug": "hokkaido",
+      "name": "Hokkaido",
+      "loc": "na Hokkaido",
+      "type": "wyspa",
+      "gygQuery": "Hokkaido",
+      "airport": "CTS",
+      "forWhom": "Dla miłośników natury, sportów zimowych i otwartych przestrzeni.",
+      "intro": [
+        "Hokkaido to najbardziej wysunięta na północ z głównych wysp Japonii, znana z dzikiej przyrody, surowych krajobrazów i doskonałych warunków do sportów zimowych. Latem wyspa oferuje malownicze pola lawendy, parki narodowe z wulkanami i gorącymi źródłami, a także możliwość trekkingu i obserwacji dzikich zwierząt. To idealne miejsce dla tych, którzy szukają ucieczki od zgiełku miast i chcą podziwiać Japonię z innej perspektywy.",
+        "Zimą Hokkaido przekształca się w raj dla narciarzy i snowboardzistów, z takimi ośrodkami jak Niseko, które słyną z obfitych opadów puszystego śniegu. Stolica wyspy, Sapporo, jest znana z festiwalu śniegu i lokalnego piwa. Kuchnia Hokkaido to świeże owoce morza, nabiał i ramen. Wyspa jest mniej zaludniona i oferuje unikalne doświadczenia kulturowe, w tym poznanie kultury Ainu, rdzennych mieszkańców Japonii."
+      ],
+      "highlights": [
+        "Jeździj na nartach w Niseko",
+        "Odwiedź Park Narodowy Daisetsuzan",
+        "Spróbuj świeżych owoców morza",
+        "Zwiedź Sapporo i festiwal śniegu"
+      ]
+    },
+    {
+      "slug": "hiroshima",
+      "name": "Hiroszima",
+      "loc": "w Hiroszimie",
+      "type": "miasto",
+      "gygQuery": "Hiroshima",
+      "airport": "HIJ",
+      "forWhom": "Dla tych, którzy chcą poznać historię i refleksyjnie spojrzeć na tragiczne wydarzenia.",
+      "intro": [
+        "Hiroszima to miasto, które stało się symbolem pokoju i odrodzenia po tragicznych wydarzeniach II wojny światowej. Dziś jest to nowoczesna metropolia, która z godnością upamiętnia swoją przeszłość, jednocześnie patrząc w przyszłość. Główną atrakcją jest Park Pokoju i Muzeum Pokoju, które w poruszający sposób opowiadają historię bombardowania atomowego i jego konsekwencji, będąc jednocześnie apelem o pokój na świecie.",
+        "Oprócz miejsc pamięci, Hiroszima oferuje także inne atrakcje, takie jak zamek Hiroszima czy piękny ogród Shukkei-en. Z Hiroszimy łatwo dostać się na pobliską wyspę Miyajima, gdzie znajduje się słynna pływająca brama torii świątyni Itsukushima, będąca jednym z najbardziej ikonicznych widoków Japonii. Miyajima to także miejsce, gdzie można spotkać swobodnie wędrujące jelenie i podziwiać piękne krajobrazy."
+      ],
+      "highlights": [
+        "Odwiedź Park Pokoju w Hiroszimie",
+        "Zobacz Bramę Torii na Miyajimie",
+        "Zwiedź Muzeum Pokoju",
+        "Spróbuj lokalnego okonomiyaki"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Góra Fudżi",
+      "text": "Najwyższy szczyt Japonii i święta góra, często uwieczniana na pocztówkach. Widoczna z wielu miejsc, zwłaszcza z okolicznych jezior i miasteczek.",
+      "gygQuery": "Mount Fuji"
+    },
+    {
+      "name": "Kwitnące Wiśnie (Sakura)",
+      "text": "Coroczne spektakularne zjawisko, kiedy cała Japonia pokrywa się różowymi i białymi kwiatami wiśni. Czas pikników i świętowania.",
+      "gygQuery": "Cherry Blossoms Japan"
+    },
+    {
+      "name": "Świątynie i Sanktuaria",
+      "text": "Tysiące buddyjskich świątyń i shintoistycznych sanktuariów rozsianych po całym kraju. Odwiedzenie ich to podróż w głąb japońskiej duchowości.",
+      "gygQuery": "Japanese Temples and Shrines"
+    },
+    {
+      "name": "Onsen (Gorące Źródła)",
+      "text": "Naturalne gorące źródła, często zlokalizowane w malowniczych górskich sceneriach. Relaks w onsen to ważny element japońskiej kultury.",
+      "gygQuery": "Onsen Japan"
+    },
+    {
+      "name": "Shinkansen (Pociągi-Kule)",
+      "text": "Superszybkie pociągi, które łączą główne miasta Japonii. Podróż nimi to nie tylko środek transportu, ale też atrakcja sama w sobie, oferująca komfort i punktualność.",
+      "gygQuery": "Shinkansen Experience"
+    },
+    {
+      "name": "Dzielnica Gion w Kioto",
+      "text": "Historyczna dzielnica gejsz w Kioto, gdzie można poczuć atmosferę dawnej Japonii, podziwiać tradycyjne domy i, przy szczęściu, spotkać gejszę.",
+      "gygQuery": "Gion Kyoto"
+    },
+    {
+      "name": "Park Narodowy Nara",
+      "text": "Słynny park w Narze, gdzie swobodnie wędrują oswojone jelenie. Znajduje się tu także Tōdai-ji, jedna z największych drewnianych budowli na świecie.",
+      "gygQuery": "Nara Park"
+    }
+  ],
+  "cuisine": [
+    "Japońska kuchnia to prawdziwa uczta dla zmysłów, znana z dbałości o jakość składników, estetykę podania i wyrafinowane smaki. Oczywiście, sushi i sashimi to tylko wierzchołek góry lodowej. Koniecznie spróbuj ramenu, czyli aromatycznego bulionu z makaronem i dodatkami, który różni się w zależności od regionu. Tempura, delikatnie smażone warzywa i owoce morza, oraz okonomiyaki, rodzaj pikantnego naleśnika, to kolejne klasyki. Nie zapomnij o yakitori (szaszłyki z kurczaka), udonie i soba (rodzaje makaronu). Japończycy cenią sobie także zieloną herbatę, sake i różnorodne słodycze, w tym mochi. Warto spróbować lokalnych specjałów, które często są dumą danego regionu."
+  ],
+  "faq": [
+    {
+      "q": "Czy Japonia jest droga?",
+      "a": "Japonia uważana jest za kraj drogi, ale odpowiednie planowanie i korzystanie z lokalnych restauracji czy transportu publicznego pozwala ograniczyć koszty. Noclegi i transport (zwłaszcza Shinkansen) są znaczącym wydatkiem, ale można kupić Japan Rail Pass. Jedzenie bywa tańsze niż w Europie, jeśli je się w małych barach."
+    },
+    {
+      "q": "Jaki jest najlepszy sposób poruszania się po Japonii?",
+      "a": "Najlepszym sposobem na podróżowanie między miastami jest superszybki pociąg Shinkansen. W miastach dominuje sprawnie działające metro i sieć pociągów podmiejskich. Dla turystów planujących intensywne zwiedzanie kilku regionów często opłacalny jest Japan Rail Pass."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Japonii?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne w Japonii trwające do 90 dni. Wymagany jest jedynie ważny paszport. Zawsze warto sprawdzić aktualne przepisy przed wyjazdem, na przykład na stronie polskiego Ministerstwa Spraw Zagranicznych."
+    },
+    {
+      "q": "Czy w Japonii można płacić kartą?",
+      "a": "W dużych miastach, hotelach i większych sklepach płatności kartą są powszechne. Jednak w mniejszych miejscowościach, lokalnych restauracjach, świątyniach czy małych sklepach gotówka jest nadal często preferowana lub wręcz jedyną akceptowaną formą płatności. Warto mieć przy sobie jeny."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

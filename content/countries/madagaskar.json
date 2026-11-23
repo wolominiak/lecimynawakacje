@@ -1,0 +1,239 @@
+{
+  "slug": "madagaskar",
+  "loc": "na Madagaskarze",
+  "to": "na Madagaskar",
+  "capital": "Antananarywa",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Madagascar",
+  "teaser": "Madagaskar to wyspa niezwykłej przyrody, endemicznych gatunków i unikalnej kultury. Idealny dla poszukiwaczy przygód i dzikich krajobrazów.",
+  "intro": [
+    "Madagaskar, czwarta co do wielkości wyspa świata, to prawdziwa perła Oceanu Indyjskiego, która przyciąga przede wszystkim miłośników natury i ekoturystyki. To tutaj znajdziemy 90% endemicznych gatunków flory i fauny, w tym słynne lemury, kameleony i baobaby, których nie spotkamy nigdzie indziej na świecie. Kraj oferuje niezliczone możliwości do odkrywania dzikich parków narodowych, różnorodnych krajobrazów - od lasów deszczowych po suche pustynie - oraz pięknych plaż.",
+    "Podróż na Madagaskar to wyprawa dla osób otwartych na przygodę, które cenią autentyczność i są gotowe na wyzwania. Infrastruktura turystyczna, choć rozwijająca się, wciąż jest daleka od standardów znanych z popularnych destynacji. Wymaga to cierpliwości i elastyczności, ale w zamian oferuje niezapomniane spotkania z lokalną kulturą i niezwykłą gościnnością mieszkańców, którzy mimo trudności, zawsze witają z uśmiechem.",
+    "Z Polski na Madagaskar dostaniemy się lotami z przesiadkami, najczęściej w Paryżu, Stambule lub Addis Abebie, a cała podróż zajmuje zazwyczaj kilkanaście godzin. Przed wyjazdem należy pamiętać o konieczności uzyskania wizy. Madagaskar nie jest miejscem na typowe wczasy z biurem podróży, to raczej kierunek dla tych, którzy wolą planować podróż samodzielnie lub z pomocą wyspecjalizowanych, lokalnych agencji, co pozwala na głębsze poznanie wyspy."
+  ],
+  "highlights": [
+    "Obserwacja lemurów w ich naturalnym środowisku",
+    "Spacer po słynnej Alei Baobabów",
+    "Nurkowanie i snorkeling w krystalicznych wodach",
+    "Odkrywanie endemicznej flory i fauny",
+    "Wędrówki po Parku Narodowym Isalo",
+    "Relaks na plażach wyspy Nosy Be"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Madagaskar to sucha pora, czyli okres od maja do października. Wtedy temperatury są przyjemniejsze, a ryzyko opadów minimalne, co ułatwia eksplorację parków narodowych i dróg. Unikać należy pory deszczowej, trwającej od grudnia do marca, kiedy to obfite opady mogą utrudniać podróżowanie, a na wschodnim wybrzeżu istnieje ryzyko cyklonów.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      26,
+      26,
+      26,
+      25,
+      23,
+      21,
+      20,
+      21,
+      24,
+      26,
+      27,
+      26
+    ],
+    "sea": [
+      29,
+      29,
+      29,
+      28,
+      27,
+      26,
+      25,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "note": "dla Antananarywy (temperatura powietrza) i wybrzeża (temperatura morza)"
+  },
+  "practical": {
+    "flight": "około 12-15 godzin z przesiadką",
+    "timeDiff": "plus 2 godziny w czasie zimowym, plus 1 godzina w czasie letnim",
+    "documents": "Wiza jest wymagana. Można ją uzyskać online (e-wiza) lub po przylocie na lotnisku. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze sprawdź aktualne wymogi przed podróżą na stronie MSZ.",
+    "money": "Walutą jest ariary malgaskie (MGA). Płatności kartą są możliwe w większych hotelach i restauracjach, ale gotówka jest niezbędna poza nimi. Bankomaty są dostępne w miastach. Warto mieć ze sobą dolary lub euro na wymianę.",
+    "plugs": "Typ C, E (europejskie dwubolcowe) oraz D, J, K. Warto mieć uniwersalny adapter.",
+    "language": "Francuski i malgaski. Angielski jest rzadko używany poza branżą turystyczną w niektórych miejscach.",
+    "safety": "Madagaskar jest krajem o wysokim poziomie przestępczości pospolitej, zwłaszcza w miastach i popularnych miejscach turystycznych. Należy zachować szczególną ostrożność, unikać samotnych spacerów po zmroku, nie afiszować się z wartościowymi przedmiotami. Ryzyko chorób tropikalnych (malaria, denga), zalecane szczepienia i profilaktyka antymalaryczna. Przed wyjazdem skonsultuj się z lekarzem i sprawdź ostrzeżenia MSZ."
+  },
+  "regions": [
+    {
+      "slug": "antananarywa",
+      "name": "Antananarywa",
+      "loc": "w Antananarywie",
+      "type": "miasto",
+      "gygQuery": "Antananarivo",
+      "airport": "Ivato (TNR)",
+      "forWhom": "Dla podróżników rozpoczynających przygodę z Madagaskarem i chcących poczuć puls jego stolicy.",
+      "intro": [
+        "Antananarywa, często nazywana w skrócie Tana, to stolica Madagaskaru, położona na wzgórzach centralnej części wyspy. Jest to miasto pełne życia, o chaotycznej, ale fascynującej atmosferze, z wąskimi uliczkami, kolorowymi targowiskami i architekturą łączącą wpływy francuskie i tradycyjne malgaskie. Stanowi główny punkt przylotów i często bazę wypadową do dalszych eksploracji wyspy.",
+        "W Antananarywie warto odwiedzić Pałac Królewski Rova, położony na najwyższym wzgórzu miasta, oferujący panoramiczne widoki. Spacer po tętniących życiem rynkach, takich jak Analakely, pozwala zanurzyć się w lokalnej kulturze i spróbować regionalnych przysmaków. Miasto to także dobre miejsce na zaopatrzenie się w pamiątki i przygotowanie do dalszej podróży w bardziej odległe rejony Madagaskaru."
+      ],
+      "highlights": [
+        "Pałac Królewski Rova",
+        "Targ Analakely",
+        "Wzgórza z widokiem na miasto",
+        "Muzeum Piratów"
+      ]
+    },
+    {
+      "slug": "nosy-be",
+      "name": "Nosy Be",
+      "loc": "na Nosy Be",
+      "type": "wyspa",
+      "gygQuery": "Nosy Be",
+      "airport": "Fascene (NOS)",
+      "forWhom": "Idealna dla miłośników plażowania, sportów wodnych i relaksu w tropikalnym otoczeniu.",
+      "intro": [
+        "Nosy Be, czyli \"Wielka Wyspa\" w języku malgaskim, to najbardziej znany i rozwinięty turystycznie region Madagaskaru. Oferuje piękne piaszczyste plaże, krystalicznie czyste wody Oceanu Indyjskiego oraz bogate życie podwodne, idealne do nurkowania i snorkelingu. To tutaj znajdziesz luksusowe resorty, ale także mniejsze, klimatyczne pensjonaty.",
+        "Oprócz relaksu na plaży, wyspa słynie z plantacji ylang-ylang, wanilii i kawy, których zapach unosi się w powietrzu. Można wybrać się na wycieczki łodzią na okoliczne wysepki, takie jak Nosy Iranja czy Nosy Komba, by podziwiać lemury i bezludne plaże. Nosy Be to doskonała baza wypadowa do odkrywania północnego Madagaskaru."
+      ],
+      "highlights": [
+        "Plaże i kąpiele morskie",
+        "Nurkowanie i snorkeling",
+        "Plantacje ylang-ylang",
+        "Wycieczki na okoliczne wyspy"
+      ]
+    },
+    {
+      "slug": "aleja-baobabow-morondawa",
+      "name": "Aleja Baobabów i Morondawa",
+      "loc": "w okolicach Morondawy",
+      "type": "region",
+      "gygQuery": "Avenue of the Baobabs",
+      "airport": "Morondava (MOQ)",
+      "forWhom": "Dla poszukiwaczy najbardziej ikonicznych krajobrazów Madagaskaru i niezwykłych zdjęć.",
+      "intro": [
+        "Aleja Baobabów to jedno z najbardziej rozpoznawalnych miejsc na Madagaskarze i obowiązkowy punkt każdej podróży. Ta malownicza droga, obsadzona majestatycznymi baobabami Adansonia grandidieri, jest szczególnie piękna o wschodzie i zachodzie słońca, kiedy drzewa rzucają długie cienie, a niebo mieni się odcieniami pomarańczu i różu. To magiczne miejsce, które zapada w pamięć.",
+        "W pobliżu znajduje się miasto Morondawa, które stanowi bazę wypadową do Alei Baobabów oraz dalszych eksploracji zachodniego wybrzeża. Sama Morondawa to portowe miasto z lokalnym rynkiem i możliwością obserwacji życia rybaków. Region oferuje również dostęp do lasów mangrowych i odległych wiosek, gdzie można poznać codzienne życie mieszkańców."
+      ],
+      "highlights": [
+        "Aleja Baobabów o zachodzie słońca",
+        "Baobaby \"Zakochane\"",
+        "Morondawa i jej port",
+        "Lokalne wioski rybackie"
+      ]
+    },
+    {
+      "slug": "park-narodowy-isalo",
+      "name": "Park Narodowy Isalo",
+      "loc": "w Parku Narodowym Isalo",
+      "type": "park narodowy",
+      "gygQuery": "Isalo National Park",
+      "airport": "Fianarantsoa (FNC) lub Toliara (TLE)",
+      "forWhom": "Idealny dla miłośników trekkingu, geologii i unikalnych formacji skalnych.",
+      "intro": [
+        "Park Narodowy Isalo to jeden z najbardziej spektakularnych parków Madagaskaru, słynący z księżycowych krajobrazów, głębokich kanionów, piaskowcowych formacji skalnych i naturalnych basenów. To raj dla miłośników pieszych wędrówek, oferujący trasy o różnym stopniu trudności, prowadzące przez sawanny i skalne labirynty. W parku można spotkać lemury katta, brązowe i sifaki Verreauxa.",
+        "Region ten jest również ważny kulturowo dla plemienia Bara, które tradycyjnie grzebie swoich zmarłych w jaskiniach skalnych. Podczas wędrówek można podziwiać wodospady, takie jak Wodospad Nimf, i orzeźwiające, naturalne baseny, idealne do kąpieli po długiej wędrówce. Isalo to miejsce, które łączy aktywny wypoczynek z podziwianiem niezwykłej przyrody i geologii."
+      ],
+      "highlights": [
+        "Kaniony i formacje piaskowcowe",
+        "Naturalne baseny i wodospady",
+        "Obserwacja lemurów katta",
+        "Trekking po malowniczych szlakach"
+      ]
+    },
+    {
+      "slug": "andasibe-mantadia-national-park",
+      "name": "Park Narodowy Andasibe-Mantadia",
+      "loc": "w Parku Narodowym Andasibe-Mantadia",
+      "type": "park narodowy",
+      "gygQuery": "Andasibe-Mantadia National Park",
+      "airport": "Antananarywa (TNR)",
+      "forWhom": "Dla tych, którzy chcą zanurzyć się w tropikalnym lesie deszczowym i posłuchać śpiewu indri.",
+      "intro": [
+        "Park Narodowy Andasibe-Mantadia, położony niedaleko Antananarywy, to jeden z najlepiej dostępnych parków deszczowych Madagaskaru. Jest domem dla największego lemura, indri, którego charakterystyczne, głośne nawoływania niosą się echem po lesie, tworząc niezapomniane wrażenie. Park składa się z dwóch głównych części: Analamazaotra Special Reserve i Mantadia National Park.",
+        "Oprócz indri, w parku można spotkać wiele innych gatunków lemurów, ptaków, kameleonów i niezliczoną ilość owadów. Trasy trekkingowe prowadzą przez gęsty las, oferując możliwość bliskiego kontaktu z naturą. To idealne miejsce na kilkudniową wyprawę, aby poczuć prawdziwą atmosferę madagaskarskiego lasu deszczowego i podziwiać jego bioróżnorodność."
+      ],
+      "highlights": [
+        "Słuchanie śpiewu indri",
+        "Obserwacja kameleonów i ptaków",
+        "Wędrówki po lesie deszczowym",
+        "Poznawanie endemicznej flory"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Aleja Baobabów",
+      "text": "Ikoniczna droga gruntowa w zachodniej części Madagaskaru, obsadzona majestatycznymi baobabami, szczególnie piękna o wschodzie i zachodzie słońca.",
+      "gygQuery": "Avenue of the Baobabs"
+    },
+    {
+      "name": "Park Narodowy Isalo",
+      "text": "Wspaniały park z kanionami, formacjami piaskowcowymi, naturalnymi basenami i lemurami, idealny do trekkingu.",
+      "gygQuery": "Isalo National Park"
+    },
+    {
+      "name": "Park Narodowy Ranomafana",
+      "text": "Wilgotny las deszczowy, wpisany na listę UNESCO, słynący z dużej różnorodności lemurów i innych endemicznych gatunków.",
+      "gygQuery": "Ranomafana National Park"
+    },
+    {
+      "name": "Park Narodowy Andasibe-Mantadia",
+      "text": "Jeden z najlepiej dostępnych parków deszczowych, dom dla największych lemurów - indri, których śpiew jest niezapomniany.",
+      "gygQuery": "Andasibe-Mantadia National Park"
+    },
+    {
+      "name": "Nosy Be",
+      "text": "Najpopularniejsza wyspa turystyczna z pięknymi plażami, doskonałymi warunkami do nurkowania i plantacjami ylang-ylang.",
+      "gygQuery": "Nosy Be"
+    },
+    {
+      "name": "Rezerwat Tsingy de Bemaraha",
+      "text": "Unikalny rezerwat przyrody UNESCO z ostrymi, wapiennymi formacjami skalnymi (tsingy) i bogatą fauną, dostępny dla odważnych podróżników.",
+      "gygQuery": "Tsingy de Bemaraha"
+    },
+    {
+      "name": "Antananarywa",
+      "text": "Stolica Madagaskaru, miasto na wzgórzach z Pałacem Królewskim Rova, tętniącymi życiem targowiskami i kolonialną architekturą.",
+      "gygQuery": "Antananarivo"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia malgaska opiera się głównie na ryżu, który jest podstawą każdego posiłku, często podawanym z różnymi dodatkami zwanymi \"laoka\". Popularne \"laoka\" to gulasze mięsne (wołowe, drobiowe, wieprzowe) lub rybne, często z dodatkiem warzyw, takich jak liście manioku czy pomidory. Jednym z najbardziej znanych dań jest \"Romazava\", czyli gulasz z mięsa i zielonych warzyw. Warto spróbować także \"Ravitoto\" - wieprzowiny gotowanej z liśćmi manioku. Kuchnia jest aromatyczna, często używa się wanilii, imbiru, czosnku i cebuli. Na wybrzeżu królują świeże owoce morza i ryby. Pamiętaj, aby zawsze pić wodę butelkowaną i unikać surowych warzyw w mniej sprawdzonych miejscach."
+  ],
+  "faq": [
+    {
+      "q": "Czy Madagaskar jest bezpieczny dla turystów?",
+      "a": "Madagaskar jest krajem o podwyższonym ryzyku przestępczości pospolitej, zwłaszcza w miastach. Należy zachować szczególną ostrożność, unikać samotnych spacerów po zmroku i nie afiszować się z wartościowymi przedmiotami. Zawsze sprawdzaj aktualne ostrzeżenia MSZ przed wyjazdem."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Madagaskar?",
+      "a": "Najlepszy czas na podróż to sucha pora, od maja do października. Wtedy pogoda jest najbardziej stabilna, a temperatury przyjemne, co sprzyja eksploracji parków narodowych i podróżowaniu po wyspie."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane na Madagaskar?",
+      "a": "Nie ma obowiązkowych szczepień, ale zalecane są szczepienia przeciwko żółtej febrze (jeśli przylatujesz z regionu endemicznego), tężcowi, błonicy, polio, durowi brzusznemu i WZW A i B. Zaleca się również profilaktykę antymalaryczną. Przed wyjazdem skonsultuj się z lekarzem medycyny podróży."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Madagaskar?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać na Madagaskar. Można ją uzyskać online (e-wiza) przed podróżą lub po przylocie na lotnisku. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu."
+    },
+    {
+      "q": "Jak poruszać się po Madagaskarze?",
+      "a": "Transport publiczny jest słabo rozwinięty i często niewygodny. Najpopularniejsze są wynajem samochodu z kierowcą, korzystanie z taksówek (w miastach) lub lokalnych \"taksibrousse\" (busów). Na dłuższe dystanse można rozważyć loty krajowe. Warto korzystać z usług sprawdzonych lokalnych biur podróży."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

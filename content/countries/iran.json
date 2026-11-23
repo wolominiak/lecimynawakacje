@@ -1,0 +1,211 @@
+{
+  "slug": "iran",
+  "loc": "w Iranie",
+  "to": "do Iranu",
+  "capital": "Teheran",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Iran",
+  "teaser": "Odkryj starożytną Persję, kraj bogatej historii, zachwycającej architektury i niezwykłej gościnności. Iran to podróż w czasie do kolebki cywilizacji.",
+  "intro": [
+    "Iran to kraj, który przyciąga przede wszystkim miłośników historii i kultury. Jego dziedzictwo, sięgające tysięcy lat wstecz, objawia się w majestatycznych ruinach Persepolis, bajkowych meczetach Isfahanu czy glinianych miastach Jazdu. To miejsce, gdzie starożytne tradycje splatają się z codziennym życiem, oferując autentyczne doświadczenia, dalekie od masowej turystyki. Architektura, sztuka i poezja są tu na wyciągnięcie ręki, a krajobrazy zmieniają się od pustynnych wydm po zielone góry.",
+    "Podróż do Iranu jest idealna dla osób szukających głębokich wrażeń, gotowych na kulturowe zanurzenie i otwartych na poznawanie odmiennych obyczajów. To kierunek dla tych, którzy cenią sobie niezależne eksplorowanie, kontakt z lokalnymi mieszkańcami i odkrywanie miejsc poza utartymi szlakami. Iran nie jest typowym celem na wczasy all-inclusive czy plażowanie, ale raczej na intensywną podróż poznawczą, pełną spotkań i opowieści. Kraj ten oferuje zarówno tętniące życiem miasta, jak i spokojne wioski, a także surowe piękno pustyni.",
+    "Z Polski do Iranu najczęściej lata się z przesiadką, zazwyczaj w jednym z europejskich hubów lub na Bliskim Wschodzie. Obywatele Polski potrzebują wizy, którą można uzyskać w ambasadzie lub, w niektórych przypadkach, na lotnisku po przylocie. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi wizowe. Różnica kulturowa jest znacząca, dlatego ważne jest wcześniejsze zapoznanie się z lokalnymi zwyczajami i zasadami, zwłaszcza dotyczącymi ubioru i zachowania w miejscach publicznych. Przygotowanie się na tę podróż to klucz do czerpania z niej pełni satysfakcji."
+  ],
+  "highlights": [
+    "Majestatyczne ruiny Persepolis",
+    "Plac Naqsh-e Jahan w Isfahanie",
+    "Bajkowe meczety i ogrody",
+    "Gliniane miasto Jazd",
+    "Niezwykła gościnność Irańczyków",
+    "Pustynne krajobrazy i oazy"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Iranu to wiosna (kwiecień-maj) oraz jesień (wrzesień-październik). W tych miesiącach pogoda jest najbardziej sprzyjająca, z umiarkowanymi temperaturami, które pozwalają na komfortowe zwiedzanie zarówno miast, jak i pustynnych regionów. Lato bywa ekstremalnie gorące, zwłaszcza na południu i w centrum kraju, a zima może być chłodna, szczególnie na północy i w górach, choć z mniejszą liczbą turystów.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      7,
+      10,
+      15,
+      21,
+      27,
+      33,
+      36,
+      35,
+      31,
+      24,
+      15,
+      9
+    ],
+    "sea": null,
+    "note": "dla Teheranu"
+  },
+  "practical": {
+    "flight": "około 6-8 h z przesiadką",
+    "timeDiff": "różnica czasu do Polski to +2,5 godziny (zimą) lub +1,5 godziny (latem)",
+    "documents": "Obywatele Polski potrzebują wizy. Można ją uzyskać w ambasadzie lub na lotnisku (Visa on Arrival) dla pobytów turystycznych. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze należy sprawdzić aktualne wymogi wizowe przed wyjazdem w Ambasadzie Iranu.",
+    "money": "Walutą jest Rial Irański (IRR), ale w codziennym użyciu często spotyka się Toman (1 Toman = 10 Rialów). Płatności kartami międzynarodowymi są rzadko możliwe, dlatego należy zabrać ze sobą gotówkę (USD lub EUR) do wymiany na miejscu.",
+    "plugs": "Typ C i F, takie same jak w Polsce.",
+    "language": "Oficjalnym językiem jest perski (farsi). W większych miastach i miejscach turystycznych można porozumieć się po angielsku.",
+    "safety": "Iran jest krajem stosunkowo bezpiecznym dla turystów, jednak należy zachować ostrożność, zwłaszcza w kontekście politycznym. Bezwzględnie należy przestrzegać lokalnych przepisów i zwyczajów, w tym zasad ubioru i zachowania. Przed wyjazdem zawsze zaleca się sprawdzenie aktualnych ostrzeżeń Ministerstwa Spraw Zagranicznych."
+  },
+  "regions": [
+    {
+      "slug": "teheran",
+      "name": "Teheran",
+      "loc": "w Teheranie",
+      "type": "miasto",
+      "gygQuery": "Tehran",
+      "airport": "IKA",
+      "forWhom": "Dla miłośników miejskiego zgiełku, muzeów i kontrastów nowoczesności ze starożytnością.",
+      "intro": [
+        "Stolica Iranu to tętniące życiem megamiasto, które początkowo może przytłoczyć, ale kryje w sobie wiele skarbów. Odwiedzając Teheran, warto poświęcić czas na eksplorację Pałacu Golestan, kompleksu pałacowego wpisanego na listę UNESCO, który zachwyca misternymi zdobieniami i lustrzanymi salami. Miasto oferuje również liczne muzea, takie jak Muzeum Narodowe Iranu czy Muzeum Klejnotów, prezentujące bogactwo perskiej historii i kultury.",
+        "Teheran to także miejsce, gdzie można poczuć puls współczesnego Iranu. Wielki Bazar to labirynt uliczek, pełen zapachów przypraw, tkanin i rękodzieła, idealny do obserwowania codziennego życia. Wieża Azadi i Wieża Milad stanowią nowoczesne symbole miasta, oferując panoramy na rozległą metropolię. Pomimo swojego nowoczesnego charakteru, Teheran jest doskonałą bazą wypadową do dalszych podróży po kraju."
+      ],
+      "highlights": [
+        "Pałac Golestan",
+        "Wielki Bazar",
+        "Muzeum Narodowe Iranu",
+        "Wieża Azadi"
+      ]
+    },
+    {
+      "slug": "isfahan",
+      "name": "Isfahan",
+      "loc": "w Isfahanie",
+      "type": "miasto",
+      "gygQuery": "Isfahan",
+      "airport": "IFN",
+      "forWhom": "Dla tych, którzy szukają kwintesencji perskiej architektury i sztuki islamu.",
+      "intro": [
+        "Isfahan, często nazywany połową świata, to perła perskiej architektury i jedno z najpiękniejszych miast Iranu. Jego sercem jest Plac Naqsh-e Jahan, wpisany na listę UNESCO, otoczony przez majestatyczny Meczet Imama, delikatny Meczet Lotfollaha oraz Pałac Ali Qapu. Spacer po placu, podziwianie misternych mozaik i relaks w cieniu arkad to niezapomniane doświadczenie, przenoszące w czasy świetności Imperium Safawidów.",
+        "Poza placem, Isfahan oferuje również historyczne mosty, takie jak Most Khaju czy Most Si-o-se Pol, które wieczorami tętnią życiem i są ulubionym miejscem spotkań mieszkańców. Warto również odwiedzić Wielki Bazar Qeysarieh, gdzie można znaleźć tradycyjne rękodzieło, takie jak dywany, miniatury czy wyroby z miedzi. Miasto to jest obowiązkowym punktem na mapie każdego, kto chce poznać bogactwo perskiej kultury."
+      ],
+      "highlights": [
+        "Plac Naqsh-e Jahan",
+        "Meczet Imama",
+        "Meczet Lotfollaha",
+        "Most Khaju"
+      ]
+    },
+    {
+      "slug": "sziraz",
+      "name": "Shiraz",
+      "loc": "w Szirazie",
+      "type": "miasto",
+      "gygQuery": "Shiraz",
+      "airport": "SYZ",
+      "forWhom": "Miasto poetów i ogrodów, idealne dla romantyków, historyków i poszukiwaczy piękna.",
+      "intro": [
+        "Shiraz to miasto, które urzeka swoją poetycką atmosferą, pięknymi ogrodami i bogatą historią. To tutaj urodzili się słynni perscy poeci Hafiz i Saadi, a ich grobowce są dziś miejscami pielgrzymek i refleksji. Ogrody, takie jak Ogród Eram czy Ogród Naranjestan, stanowią oazy spokoju i piękna, gdzie można podziwiać perską sztukę ogrodową i odpocząć od zgiełku miasta. Shiraz jest kwintesencją perskiego romantyzmu.",
+        "Niedaleko Shiraz znajduje się jedno z najważniejszych historycznych miejsc Iranu - Persepolis, starożytna stolica Imperium Perskiego, wpisana na listę UNESCO. Ruiny Persepolis to świadectwo potęgi i splendoru dawnej Persji. W samym Shiraz warto również odwiedzić Meczet Nasir al-Mulk, znany jako Różowy Meczet, którego wnętrze o poranku wypełnia się magicznymi barwami dzięki witrażom. To miasto to prawdziwa uczta dla zmysłów i duszy."
+      ],
+      "highlights": [
+        "Persepolis",
+        "Grobowiec Hafiza",
+        "Meczet Nasir al-Mulk",
+        "Ogród Eram"
+      ]
+    },
+    {
+      "slug": "jazd",
+      "name": "Jazd",
+      "loc": "w Jazdzie",
+      "type": "miasto",
+      "gygQuery": "Yazd",
+      "airport": "AZD",
+      "forWhom": "Dla poszukiwaczy unikalnej architektury pustynnej, starożytnych tradycji i zoroastryzmu.",
+      "intro": [
+        "Jazd to jedno z najstarszych miast świata, położone na pustyni, słynące z unikalnej glinianej architektury i systemu qanatów. Jego Stare Miasto, wpisane na listę UNESCO, to labirynt wąskich uliczek, tradycyjnych domów z gliny i charakterystycznych wież wiatrowych (badgirów), które służą jako naturalne klimatyzatory. Spacer po Jazdzie to podróż w czasie, pozwalająca poczuć autentyczną atmosferę dawnej Persji.",
+        "Miasto jest również centrum zoroastryzmu, starożytnej religii perskiej. Można tu odwiedzić Świątynię Ognia, gdzie płonie wieczny ogień, oraz Wieże Milczenia, dawne miejsca pochówku zoroastrian. Jazd oferuje fascynujący wgląd w tradycje i historię, które przetrwały wieki. To idealne miejsce dla tych, którzy chcą odkryć mniej znane, ale równie fascynujące oblicza Iranu."
+      ],
+      "highlights": [
+        "Stare Miasto w Jazdzie",
+        "Wieże Wiatrowe (badgiry)",
+        "Świątynia Ognia Zoroastrian",
+        "Wieże Milczenia"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Persepolis",
+      "text": "Starożytna stolica Imperium Perskiego, wpisana na listę UNESCO, to majestatyczne ruiny, które świadczą o potędze i splendorze dawnej cywilizacji.",
+      "gygQuery": "Persepolis"
+    },
+    {
+      "name": "Plac Naqsh-e Jahan w Isfahanie",
+      "text": "Jeden z największych placów miejskich na świecie, otoczony przez arcydzieła perskiej architektury, takie jak Meczet Imama i Pałac Ali Qapu.",
+      "gygQuery": "Naqsh-e Jahan Square"
+    },
+    {
+      "name": "Meczet Nasir al-Mulk w Shiraz",
+      "text": "Znany jako Różowy Meczet, zachwyca grą świateł i kolorów, które o poranku tworzą magiczny spektakl dzięki witrażom.",
+      "gygQuery": "Nasir ol Molk Mosque"
+    },
+    {
+      "name": "Pałac Golestan w Teheranie",
+      "text": "Kompleks pałacowy wpisany na listę UNESCO, prezentujący perską sztukę i architekturę z czasów dynastii Kadżarów, z bogato zdobionymi salami.",
+      "gygQuery": "Golestan Palace"
+    },
+    {
+      "name": "Wielki Bazar w Teheranie",
+      "text": "Ogromny, tętniący życiem bazar, labirynt uliczek pełen sklepów, restauracji i meczetów, idealny do poczucia lokalnej atmosfery.",
+      "gygQuery": "Grand Bazaar Tehran"
+    },
+    {
+      "name": "Stare Miasto w Jazdzie",
+      "text": "Wpisane na listę UNESCO gliniane miasto z unikalną architekturą pustynną, wąskimi uliczkami i charakterystycznymi wieżami wiatrowymi.",
+      "gygQuery": "Yazd Old City"
+    },
+    {
+      "name": "Wieże Milczenia w Jazdzie",
+      "text": "Dwa wzgórza z pozostałościami starożytnych miejsc pochówku zoroastrian, oferujące fascynujący wgląd w ich tradycje i piękne widoki na pustynię.",
+      "gygQuery": "Towers of Silence Yazd"
+    },
+    {
+      "name": "Ogród Eram w Shiraz",
+      "text": "Jeden z najpiękniejszych perskich ogrodów, wpisany na listę UNESCO, z pięknym pałacem i różnorodną roślinnością, idealny na relaks.",
+      "gygQuery": "Eram Garden Shiraz"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia irańska to uczta dla zmysłów, oparta na ryżu, świeżych ziołach, warzywach i mięsie. Charakterystyczne są tu różnorodne kebaby, podawane z ryżem basmati (chelow) oraz gęste gulasze (khoresh) z jagnięciny lub wołowiny, często z dodatkiem suszonych owoców i orzechów. Szafran, pistacje i daktyle są wszechobecne w daniach i deserach. Popularne są również zupy (ash) i świeżo pieczony chleb. Do posiłków często podaje się jogurt i marynowane warzywa. W Iranie powszechnie pije się herbatę, która jest ważnym elementem kultury i gościnności."
+  ],
+  "faq": [
+    {
+      "q": "Czy Iran jest bezpieczny dla turystów?",
+      "a": "Iran jest ogólnie bezpiecznym krajem dla turystów, o ile przestrzega się lokalnych przepisów i zwyczajów. Należy jednak zachować ostrożność i śledzić komunikaty MSZ, zwłaszcza w kontekście sytuacji politycznej."
+    },
+    {
+      "q": "Jakie są zasady ubioru w Iranie?",
+      "a": "Kobiety muszą nosić hidżab (chustę zakrywającą włosy) oraz luźne ubrania zakrywające ramiona i nogi. Mężczyźni powinni unikać krótkich spodenek w miejscach publicznych. Szacunek dla lokalnych norm jest kluczowy."
+    },
+    {
+      "q": "Czy można pić alkohol w Iranie?",
+      "a": "W Iranie obowiązuje całkowity zakaz spożywania, posiadania i sprzedaży alkoholu. Jest to prawo religijne, którego należy bezwzględnie przestrzegać."
+    },
+    {
+      "q": "Jak płacić w Iranie?",
+      "a": "Międzynarodowe karty płatnicze zazwyczaj nie działają w Iranie. Należy zabrać ze sobą gotówkę (USD lub EUR) i wymieniać ją na riale irańskie w kantorach lub bankach. Warto mieć mniejsze nominały na codzienne wydatki."
+    },
+    {
+      "q": "Czy kobiety mogą podróżować samotnie w Iranie?",
+      "a": "Tak, kobiety mogą podróżować samotnie w Iranie i jest to stosunkowo bezpieczne. Należy jednak przestrzegać zasad ubioru i zachowania, a także być przygotowanym na zwiększone zainteresowanie i pytania ze strony lokalnych mieszkańców."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

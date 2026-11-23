@@ -1,0 +1,218 @@
+{
+  "slug": "litwa",
+  "loc": "na Litwie",
+  "to": "na Litwę",
+  "capital": "Wilno",
+  "popularity": 40,
+  "touroperator": false,
+  "gygQuery": "Lithuania",
+  "teaser": "Blisko, kulturowo blisko, a jednak inaczej. Litwa to idealny kierunek na krótki wypad, pełen historii i zielonych krajobrazów.",
+  "intro": [
+    "Litwa, nasz północny sąsiad, to kraj, który choć geograficznie bliski, potrafi zaskoczyć. Przyciąga przede wszystkim bogatą historią, urokliwymi miastami, takimi jak Wilno czy Kowno, oraz piękną, często dziką przyrodą. To miejsce, gdzie wciąż czuć echa dawnej Rzeczypospolitej, przeplatające się z nowoczesnością i bałtyckim duchem. Ceny są tu zazwyczaj przystępne, co czyni ją atrakcyjną alternatywą dla droższych kierunków.",
+    "Kraj ten jest doskonały dla osób szukających weekendowego wypadu do miasta, miłośników historii i architektury, a także dla tych, którzy cenią sobie aktywny wypoczynek na łonie natury. Litwa sprawdzi się również dla rodzin z dziećmi, oferując wiele atrakcji edukacyjnych i rekreacyjnych. Jeśli niekoniecznie marzysz o plażowaniu pod palmami, a zamiast tego wolisz odkrywać europejską kulturę i podziwiać malownicze krajobrazy, Litwa będzie strzałem w dziesiątkę.",
+    "Podróż z Polski na Litwę jest prosta i szybka. Do Wilna i Kowna regularnie latają samoloty z kilku polskich miast, a lot trwa zazwyczaj nieco ponad godzinę. Alternatywą jest podróż samochodem, co pozwala na większą swobodę w zwiedzaniu i dotarcie do mniej znanych zakątków. Dostępne są również połączenia autobusowe, które są ekonomiczną opcją. Brak różnicy czasu i wspólna waluta EUR dodatkowo ułatwiają planowanie wyjazdu."
+  ],
+  "highlights": [
+    "Wilno - Stare Miasto UNESCO",
+    "Zamek w Trokach nad jeziorem",
+    "Mierzeja Kurońska i jej wydmy",
+    "Góra Krzyży pod Szawlami",
+    "Kowno - Europejska Stolica Kultury",
+    "Park Narodowy Auksztocki"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Litwie to miesiące letnie, od czerwca do sierpnia, kiedy pogoda sprzyja zwiedzaniu miast i aktywnościom na świeżym powietrzu. Wiosna (maj) i wczesna jesień (wrzesień, początek października) również są dobrymi terminami, oferując przyjemne temperatury i mniej turystów. Zimą, choć bywa mroźnie, Wilno i inne miasta mają swój urok, zwłaszcza w okresie świątecznym.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      -2,
+      -1,
+      4,
+      12,
+      18,
+      21,
+      23,
+      22,
+      16,
+      9,
+      3,
+      -1
+    ],
+    "sea": [
+      2,
+      1,
+      2,
+      5,
+      9,
+      14,
+      17,
+      18,
+      15,
+      11,
+      7,
+      4
+    ],
+    "note": "dla Wilna i wybrzeża bałtyckiego (Kłajpeda)"
+  },
+  "practical": {
+    "flight": "około 1-1,5 h",
+    "timeDiff": "brak",
+    "documents": "dowód osobisty lub paszport, zaleca się sprawdzenie aktualnych wymogów przed wyjazdem",
+    "money": "EUR, płatności kartą powszechne",
+    "plugs": "typ F (europejski), jak w Polsce",
+    "language": "litewski, w turystyce angielski, często rosyjski i polski",
+    "safety": "kraj bezpieczny, standardowe środki ostrożności, szczególnie w miastach"
+  },
+  "regions": [
+    {
+      "slug": "wilno",
+      "name": "Wilno",
+      "loc": "w Wilnie",
+      "type": "miasto",
+      "gygQuery": "Vilnius",
+      "airport": "VNO",
+      "forWhom": "Idealne dla miłośników historii, architektury i kultury, szukających miejskiego wypoczynku.",
+      "intro": [
+        "Wilno, stolica Litwy, to miasto o bogatej historii, silnie związanej z Polską. Jego Stare Miasto, wpisane na listę UNESCO, zachwyca labiryntem brukowanych uliczek, barokowymi kościołami i urokliwymi dziedzińcami. To miejsce, gdzie na każdym kroku czuć dawne wpływy, a jednocześnie widać dynamiczny rozwój i nowoczesność. Warto poświęcić tu co najmniej dwa dni na spokojne zwiedzanie.",
+        "Oprócz zabytków, Wilno oferuje tętniące życiem kawiarnie, restauracje serwujące litewskie specjały oraz liczne galerie i muzea. Miasto jest również znane z artystycznej dzielnicy Zarzecze (Užupis), która ogłosiła się niezależną republiką. Wieczorami Wilno rozkwita, oferując szeroki wybór barów i klubów, szczególnie w okolicach Starego Miasta."
+      ],
+      "highlights": [
+        "Stare Miasto UNESCO",
+        "Ostra Brama",
+        "Katedra Wileńska",
+        "Wieża Giedymina"
+      ]
+    },
+    {
+      "slug": "kowno",
+      "name": "Kowno",
+      "loc": "w Kownie",
+      "type": "miasto",
+      "gygQuery": "Kaunas",
+      "airport": "KUN",
+      "forWhom": "Miasto kultury i sztuki, idealne dla tych, którzy chcą odkryć alternatywne oblicze Litwy.",
+      "intro": [
+        "Kowno, druga co do wielkości miasto Litwy, było tymczasową stolicą kraju w okresie międzywojennym i właśnie z tego okresu pochodzi wiele imponujących budynków w stylu Art Deco. W 2022 roku Kowno pełniło rolę Europejskiej Stolicy Kultury, co dodatkowo podkreśliło jego artystyczny i dynamiczny charakter. Stare Miasto jest mniejsze niż w Wilnie, ale równie urokliwe, z zamkiem i ratuszem.",
+        "Miasto słynie z Alei Wolności (Laisvės alėja), długiego deptaku pełnego sklepów, kawiarni i restauracji. Kowno to także ośrodek muzealny, z nietypowym Muzeum Diabłów, które gromadzi tysiące eksponatów przedstawiających diabły z różnych kultur. To świetna opcja na jednodniową wycieczkę z Wilna lub jako baza wypadowa do zwiedzania centralnej Litwy."
+      ],
+      "highlights": [
+        "Stare Miasto w Kownie",
+        "Zamek Kowieński",
+        "Aleja Wolności",
+        "Muzeum Diabłów"
+      ]
+    },
+    {
+      "slug": "mierzeja-kuronska",
+      "name": "Mierzeja Kurońska",
+      "loc": "na Mierzei Kurońskiej",
+      "type": "region/park narodowy",
+      "gygQuery": "Curonian Spit",
+      "airport": "PLQ",
+      "forWhom": "Raj dla miłośników przyrody, spokoju, plażowania i aktywnego wypoczynku.",
+      "intro": [
+        "Mierzeja Kurońska to niezwykły, piaszczysty półwysep, wpisany na listę UNESCO, dzielony między Litwę a Rosję (obwód kaliningradzki). Charakteryzuje się imponującymi ruchomymi wydmami, sosnowymi lasami i szerokimi, dziewiczymi plażami. To idealne miejsce na ucieczkę od zgiełku, gdzie można podziwiać unikalny krajobraz i cieszyć się spokojem Bałtyku. Wstęp na Mierzeję jest płatny.",
+        "Po litewskiej stronie Mierzei znajdują się urokliwe wioski rybackie, takie jak Nida, znana z kolorowych domów i Muzeum Bursztynu. Można tu spacerować po wydmach, jeździć na rowerze po malowniczych ścieżkach, obserwować ptaki lub po prostu relaksować się na plaży. To prawdziwa perła litewskiej przyrody, oferująca niezapomniane widoki i świeże powietrze."
+      ],
+      "highlights": [
+        "Wielkie Wydmy",
+        "Miasteczko Nida",
+        "Muzeum Bursztynu",
+        "Szerokie plaże Bałtyku"
+      ]
+    },
+    {
+      "slug": "troki",
+      "name": "Troki",
+      "loc": "w Trokach",
+      "type": "miasto/region",
+      "gygQuery": "Trakai",
+      "airport": "VNO",
+      "forWhom": "Obowiązkowy punkt dla każdego, kto ceni historię, zamki i piękne jeziorne krajobrazy.",
+      "intro": [
+        "Troki to niewielkie miasteczko położone zaledwie 30 km od Wilna, słynące przede wszystkim z malowniczego zamku na wyspie. Jest to jeden z najbardziej rozpoznawalnych symboli Litwy i dawna rezydencja Wielkich Książąt Litewskich. Zamek, otoczony wodami jeziora Galwe, prezentuje się imponująco o każdej porze roku, a jego wnętrza kryją ciekawe wystawy historyczne.",
+        "Oprócz zamku, Troki są znane z kultury karaimskiej - niewielkiej grupy etnicznej, która osiedliła się tu wieki temu. Ich tradycyjne drewniane domy z trzema oknami od frontu oraz specjały kulinarne, takie jak kibiny, są integralną częścią lokalnego dziedzictwa. Po jeziorach można pływać łódkami, kajakami lub wybrać się na rejs statkiem, podziwiając okoliczne wysepki i przyrodę."
+      ],
+      "highlights": [
+        "Zamek na wyspie",
+        "Jeziora Galwe i Totoriškių",
+        "Karaimskie domy",
+        "Rejsy łodzią"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Zamek w Trokach",
+      "text": "Imponujący średniowieczny zamek położony na wyspie na jeziorze Galwe, dawna siedziba Wielkich Książąt Litewskich. To jeden z najbardziej malowniczych zabytków Litwy, który warto odwiedzić.",
+      "gygQuery": "Trakai Castle"
+    },
+    {
+      "name": "Góra Krzyży",
+      "text": "Niezwykłe miejsce pielgrzymkowe niedaleko Szawli, na którym zgromadzono setki tysięcy krzyży. Symbol oporu i wiary, robi ogromne wrażenie na odwiedzających.",
+      "gygQuery": "Hill of Crosses"
+    },
+    {
+      "name": "Stare Miasto w Wilnie",
+      "text": "Jeden z największych i najlepiej zachowanych średniowiecznych zespołów miejskich w Europie Wschodniej, wpisany na listę UNESCO. Pełne barokowych kościołów, urokliwych uliczek i kawiarni.",
+      "gygQuery": "Vilnius Old Town"
+    },
+    {
+      "name": "Mierzeja Kurońska",
+      "text": "Unikalny piaszczysty półwysep z ruchomymi wydmami, sosnowymi lasami i dziewiczymi plażami Bałtyku. Idealne miejsce dla miłośników przyrody i spokoju.",
+      "gygQuery": "Curonian Spit"
+    },
+    {
+      "name": "Ostra Brama w Wilnie",
+      "text": "Jedna z najważniejszych bram miejskich Wilna, słynąca z obrazu Matki Boskiej Ostrobramskiej, miejsca kultu dla katolików i prawosławnych.",
+      "gygQuery": "Gate of Dawn Vilnius"
+    },
+    {
+      "name": "Park Narodowy Auksztocki",
+      "text": "Najstarszy park narodowy Litwy, pełen jezior, lasów i tradycyjnych drewnianych wiosek. Idealny do aktywnego wypoczynku, kajakarstwa i pieszych wędrówek.",
+      "gygQuery": "Aukštaitija National Park"
+    },
+    {
+      "name": "Muzeum Diabłów w Kownie",
+      "text": "Jedyna taka placówka na świecie, gromadząca ponad 3000 eksponatów przedstawiających diabły z różnych kultur i epok. To nietypowa i fascynująca atrakcja.",
+      "gygQuery": "Devils' Museum Kaunas"
+    }
+  ],
+  "cuisine": [
+    "Litewska kuchnia jest sycąca i opiera się na prostych, lokalnych składnikach, często z wykorzystaniem ziemniaków, mięsa i produktów mlecznych. Królują tu cepeliny, czyli duże kluski ziemniaczane z mięsnym farszem, podawane z sosem śmietanowo-boczowym. Obowiązkowo trzeba spróbować chłodnika litewskiego (šaltibarščiai) w upalne dni, a także kibinów - pierogów z ciasta drożdżowego z farszem, popularnych w Trokach. Wpływy kuchni polskiej, rosyjskiej i bałtyckiej są wyraźnie wyczuwalne, co sprawia, że jedzenie na Litwie jest znajome, ale jednocześnie intrygujące. Nie brakuje też lokalnych piw i tradycyjnych napojów, takich jak kwas chlebowy."
+  ],
+  "faq": [
+    {
+      "q": "Czy na Litwie można płacić w złotówkach?",
+      "a": "Nie, oficjalną walutą na Litwie jest euro (EUR). Płatności kartą są powszechne, ale warto mieć przy sobie trochę gotówki na mniejsze wydatki."
+    },
+    {
+      "q": "Czy na Litwie jest drogo?",
+      "a": "Litwa jest zazwyczaj tańsza niż kraje Europy Zachodniej, ale ceny w Wilnie mogą być porównywalne do tych w większych miastach Polski. Poza stolicą bywa znacznie taniej, zwłaszcza jeśli chodzi o jedzenie i zakwaterowanie."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Wilna?",
+      "a": "Na podstawowe zwiedzanie Wilna, obejmujące najważniejsze zabytki Starego Miasta, warto przeznaczyć co najmniej 2 pełne dni. Jeśli planujesz wizytę w muzeach lub wycieczkę do Trok, dolicz kolejny dzień."
+    },
+    {
+      "q": "Jak dojechać z Polski na Litwę?",
+      "a": "Z Polski na Litwę można dotrzeć samolotem (bezpośrednie loty do Wilna i Kowna), samochodem (droga S61/Via Baltica) lub autobusem. Podróż samochodem z Warszawy do Wilna zajmuje około 5-6 godzin."
+    },
+    {
+      "q": "Czy na Litwie dogadam się po polsku?",
+      "a": "W niektórych rejonach Litwy, zwłaszcza w Wilnie i okolicach, gdzie mieszka Polonia, można spotkać osoby mówiące po polsku. Młodsze pokolenie częściej posługuje się angielskim, a starsze rosyjskim."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "korea-poludniowa",
+  "loc": "w Korei Południowej",
+  "to": "do Korei Południowej",
+  "capital": "Seul",
+  "popularity": 40,
+  "touroperator": false,
+  "gygQuery": "South Korea",
+  "teaser": "Odkryj fascynujące połączenie starożytnej tradycji z futurystyczną technologią, tętniące życiem miasta i malowniczą naturę.",
+  "intro": [
+    "Korea Południowa to kraj, który z roku na rok zyskuje na popularności, zwłaszcza wśród młodszych podróżników, ale nie tylko. Przyciąga dynamicznym rozwojem, innowacyjnością, globalnym fenomenem K-popu i K-dram, a także niezwykle bogatą historią i kulturą. Od tętniących życiem metropolii, przez spokojne świątynie ukryte w górach, po urokliwe wioski rybackie i wulkaniczne krajobrazy wyspy Jeju - Korea oferuje różnorodność, która potrafi zaskoczyć i zachwycić. To miejsce, gdzie nowoczesne drapacze chmur sąsiadują z pałacami dynastii Joseon, a uliczne jedzenie dorównuje najlepszym restauracjom.",
+    "Kraj jest idealny dla tych, którzy szukają czegoś więcej niż typowego wypoczynku. To raj dla smakoszy, miłośników historii i architektury, fanów popkultury, a także dla aktywnych podróżników ceniących trekking po górach czy eksplorację parków narodowych. Korea Południowa to także świetny kierunek dla osób, które cenią sobie bezpieczeństwo, czystość i sprawną infrastrukturę. Jeśli lubisz poznawać nowe kultury, jesteś otwarty na odmienne smaki i nie boisz się podróżować na własną rękę, to Korea Południowa z pewnością spełni Twoje oczekiwania.",
+    "Podróż z Polski do Korei Południowej to zazwyczaj lot z jedną przesiadką, trwający około 12-14 godzin. Najczęściej lata się z Warszawy do Seulu (lotnisko Incheon) z przesiadkami w dużych hubach europejskich lub bliskowschodnich. Połączenia są liczne i komfortowe, a samo lotnisko Incheon jest regularnie uznawane za jedno z najlepszych na świecie. Warto zarezerwować bilety z wyprzedzeniem, zwłaszcza jeśli planujesz podróż w szczycie sezonu. Na miejscu transport publiczny, zwłaszcza metro w Seulu, jest niezwykle efektywny i łatwy w obsłudze, co ułatwia samodzielne poruszanie się po kraju."
+  ],
+  "highlights": [
+    "Futurystyczny Seul i jego kontrast z tradycją",
+    "Wyśmienita kuchnia uliczna i restauracyjna",
+    "Malownicza wyspa Jeju z wulkanicznymi krajobrazami",
+    "Historyczne świątynie i pałace dynastii Joseon",
+    "Wizyta w strefie zdemilitaryzowanej (DMZ)",
+    "Zakupy i rozrywka w stylu K-pop"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Korei Południowej to wiosna (kwiecień-maj) oraz jesień (wrzesień-październik). Wiosną kraj rozkwita, kwitną wiśnie, a temperatury są przyjemne, idealne do zwiedzania. Jesień przynosi piękne kolory liści i również stabilną, słoneczną pogodę. Lato (czerwiec-sierpień) bywa gorące i wilgotne, z częstymi opadami monsunowymi, natomiast zima (grudzień-luty) jest chłodna i sucha, z temperaturami spadającymi poniżej zera, ale to dobry czas na sporty zimowe w górach.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      0,
+      2,
+      8,
+      15,
+      21,
+      25,
+      28,
+      29,
+      24,
+      18,
+      10,
+      3
+    ],
+    "sea": [
+      13,
+      13,
+      14,
+      17,
+      20,
+      23,
+      26,
+      27,
+      25,
+      22,
+      18,
+      14
+    ],
+    "note": "dla Seulu (temperatura powietrza) i Busan (temperatura wody)"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "7 lub 8 godzin do przodu, zależnie od pory roku w Polsce",
+    "documents": "Obywatele Polski mogą przebywać w Korei Południowej bez wizy do 90 dni w celach turystycznych. Wymagany jest ważny paszport. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest won południowokoreański (KRW). Płatności kartą są bardzo powszechne, nawet w małych sklepach i na targach. Bankomaty są dostępne w większych miastach.",
+    "plugs": "Typ F (europejski), często też typ C. Adapter nie zawsze jest potrzebny, ale warto mieć go ze sobą dla pewności.",
+    "language": "Oficjalnym językiem jest koreański. W większych miastach i miejscach turystycznych można porozumieć się po angielsku, zwłaszcza z młodymi ludźmi.",
+    "safety": "Korea Południowa jest jednym z najbezpieczniejszych krajów na świecie. Przestępczość jest bardzo niska. Standardy higieny są wysokie. Warto wykupić ubezpieczenie turystyczne na wypadek problemów zdrowotnych."
+  },
+  "regions": [
+    {
+      "slug": "seul",
+      "name": "Seul",
+      "loc": "w Seulu",
+      "type": "miasto",
+      "gygQuery": "Seoul",
+      "airport": "ICN",
+      "forWhom": "Idealny dla miłośników kultury, nowoczesności, zakupów i życia nocnego.",
+      "intro": [
+        "Seul to bijące serce Korei Południowej, miasto, które nigdy nie śpi i które perfekcyjnie łączy starożytne tradycje z futurystyczną innowacyjnością. Znajdziesz tu zarówno majestatyczne pałace dynastii Joseon, jak i szklane drapacze chmur, tętniące życiem centra handlowe i spokojne świątynie. To miasto, w którym na każdym kroku odkryjesz coś nowego, od targu rybnego Noryangjin po luksusowe butiki w Gangnam.",
+        "System metra w Seulu jest jednym z najlepszych na świecie, co sprawia, że poruszanie się po mieście jest proste i efektywne. Możesz spędzić dni na zwiedzaniu muzeów, galerii sztuki, parków narodowych w obrębie miasta, a wieczory na próbowaniu ulicznego jedzenia w Myeongdong lub podziwianiu panoramy z N Seoul Tower. Seul to także epicentrum K-popu i mody, więc przygotuj się na spotkanie z najnowszymi trendami."
+      ],
+      "highlights": [
+        "Pałac Gyeongbokgung",
+        "Dzielnica Myeongdong",
+        "Wieża N Seoul Tower",
+        "Wioska Bukchon Hanok"
+      ]
+    },
+    {
+      "slug": "busan",
+      "name": "Busan",
+      "loc": "w Busan",
+      "type": "miasto",
+      "gygQuery": "Busan",
+      "airport": "PUS",
+      "forWhom": "Dla tych, którzy szukają nadmorskiego klimatu, targów rybnych i górskich świątyń.",
+      "intro": [
+        "Busan to drugie co do wielkości miasto Korei Południowej, słynące z pięknych plaż, tętniących życiem targów rybnych i malowniczych świątyń wtopionych w górskie krajobrazy. To idealne miejsce na relaks nad morzem, a jednocześnie doskonała baza wypadowa do zwiedzania okolicznych atrakcji. Atmosfera w Busan jest bardziej swobodna niż w Seulu, co sprzyja odpoczynkowi.",
+        "Warto odwiedzić słynną plażę Haeundae, kolorową wioskę Gamcheon Culture Village, która przypomina Santorini, oraz największy w Korei targ rybny Jagalchi. Nie zapomnij też o świątyni Beomeosa, położonej u podnóża góry Geumjeong. Kuchnia w Busan to przede wszystkim świeże owoce morza, więc przygotuj się na kulinarne doznania."
+      ],
+      "highlights": [
+        "Plaża Haeundae",
+        "Wioska Gamcheon Culture Village",
+        "Targ rybny Jagalchi",
+        "Świątynia Beomeosa"
+      ]
+    },
+    {
+      "slug": "wyspa-jeju",
+      "name": "Wyspa Jeju",
+      "loc": "na wyspie Jeju",
+      "type": "wyspa",
+      "gygQuery": "Jeju Island",
+      "airport": "CJU",
+      "forWhom": "Dla miłośników natury, trekkingu i pięknych krajobrazów wulkanicznych.",
+      "intro": [
+        "Wyspa Jeju, często nazywana 'koreańskim Hawajami', to wulkaniczna wyspa wpisana na listę światowego dziedzictwa UNESCO, oferująca spektakularne krajobrazy i unikalną florę i faunę. Jest to popularne miejsce wypoczynku zarówno dla Koreańczyków, jak i turystów zagranicznych, słynące z łagodnego klimatu i pięknych widoków. Jeju to idealny kierunek dla tych, którzy chcą uciec od zgiełku miasta i zanurzyć się w naturze.",
+        "Na wyspie znajdziesz najwyższy szczyt Korei Południowej, wulkan Hallasan, liczne wodospady, jaskinie lawowe, a także unikalne formacje skalne. Warto wybrać się na trekking jednym ze szlaków Olle, podziwiać wschód słońca na szczycie Seongsan Ilchulbong i spróbować lokalnych specjałów, takich jak czarna wieprzowina czy owoce morza. Jeju to także dom dla słynnych nurkujących kobiet Haenyeo."
+      ],
+      "highlights": [
+        "Wulkan Hallasan",
+        "Szczyt Seongsan Ilchulbong",
+        "Wodospady Cheonjiyeon",
+        "Jaskinie lawowe Manjanggul"
+      ]
+    },
+    {
+      "slug": "gyeongju",
+      "name": "Gyeongju",
+      "loc": "w Gyeongju",
+      "type": "miasto",
+      "gygQuery": "Gyeongju",
+      "airport": "PUS",
+      "forWhom": "Dla pasjonatów historii i kultury, którzy chcą poznać dawne królestwo Silla.",
+      "intro": [
+        "Gyeongju to dawna stolica starożytnego królestwa Silla, często nazywana 'muzeum bez ścian' ze względu na niezliczoną ilość zabytków i stanowisk archeologicznych. Miasto jest wpisane na listę światowego dziedzictwa UNESCO i oferuje unikalną podróż w czasie, pozwalając zanurzyć się w bogatej historii Korei. To spokojniejsze miejsce niż Seul, idealne do kontemplacji i poznawania kultury.",
+        "W Gyeongju można podziwiać imponujące kopce grobowe, starożytne pałace, buddyjskie świątynie i obserwatoria astronomiczne. Do najważniejszych atrakcji należą świątynia Bulguksa i grota Seokguram, które są arcydziełami buddyjskiej sztuki. Warto wynająć rower i zwiedzić miasto, odkrywając jego ukryte skarby i ciesząc się spokojną atmosferą."
+      ],
+      "highlights": [
+        "Świątynia Bulguksa",
+        "Grota Seokguram",
+        "Park Tumuli i Cheonmachong",
+        "Obserwatorium Cheomseongdae"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Pałac Gyeongbokgung",
+      "text": "Największy i najpiękniejszy z pięciu wielkich pałaców Seulu, będący świadectwem potęgi dynastii Joseon. Warto zobaczyć ceremonię zmiany warty.",
+      "gygQuery": "Gyeongbokgung Palace"
+    },
+    {
+      "name": "Strefa Zdemilitaryzowana (DMZ)",
+      "text": "Granica między Koreą Północną a Południową, miejsce o ogromnym znaczeniu historycznym i politycznym. Wizyta z przewodnikiem to unikalne doświadczenie.",
+      "gygQuery": "DMZ tour South Korea"
+    },
+    {
+      "name": "N Seoul Tower",
+      "text": "Ikoniczna wieża widokowa na górze Namsan, oferująca panoramiczne widoki na Seul, szczególnie piękne o zachodzie słońca i nocą.",
+      "gygQuery": "N Seoul Tower"
+    },
+    {
+      "name": "Wioska Bukchon Hanok",
+      "text": "Tradycyjna wioska koreańska w Seulu, gdzie można podziwiać doskonale zachowane domy hanok i poczuć atmosferę dawnej Korei.",
+      "gygQuery": "Bukchon Hanok Village"
+    },
+    {
+      "name": "Myeongdong",
+      "text": "Tętniąca życiem dzielnica handlowa Seulu, raj dla miłośników mody, kosmetyków i ulicznego jedzenia. Idealne miejsce na wieczorne spacery i zakupy.",
+      "gygQuery": "Myeongdong Seoul"
+    },
+    {
+      "name": "Świątynia Bulguksa i Grota Seokguram",
+      "text": "Arcydzieła buddyjskiej sztuki z czasów królestwa Silla, wpisane na listę UNESCO, znajdujące się w Gyeongju. To miejsca o głębokim znaczeniu duchowym.",
+      "gygQuery": "Bulguksa Temple Seokguram Grotto"
+    },
+    {
+      "name": "Wulkan Hallasan",
+      "text": "Najwyższy szczyt Korei Południowej, położony na wyspie Jeju. Oferuje spektakularne szlaki trekkingowe i widoki na kraterowe jezioro.",
+      "gygQuery": "Hallasan National Park"
+    }
+  ],
+  "cuisine": [
+    "Koreańska kuchnia to prawdziwa uczta dla zmysłów, znana z intensywnych smaków, świeżych składników i zdrowych potraw. Obowiązkowym punktem jest kimchi - fermentowana kapusta, podawana niemal do każdego dania. Warto spróbować bibimbap (ryż z warzywami, mięsem i jajkiem), bulgogi (marynowana wołowina), tteokbokki (pikantne kluski ryżowe) czy różnorodnych zup i gulaszy. Korea Południowa słynie również z wyśmienitego street foodu, który jest dostępny na każdym kroku i stanowi świetną okazję do spróbowania lokalnych przysmaków. Nie zapomnij o koreańskim grillu, gdzie samemu pieczesz mięso przy stole."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Korei Południowej?",
+      "a": "Obywatele Polski nie potrzebują wizy do Korei Południowej na pobyty turystyczne do 90 dni. Wymagany jest jedynie ważny paszport. Zawsze warto sprawdzić aktualne wymogi przed podróżą."
+    },
+    {
+      "q": "Jaka jest waluta i czy mogę płacić kartą w Korei Południowej?",
+      "a": "Walutą jest won południowokoreański (KRW). Płatności kartą są bardzo powszechne i akceptowane niemal wszędzie, nawet w małych sklepach i na targach. Gotówka przyda się na drobne zakupy i w niektórych miejscach ulicznego jedzenia."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Korei Południowej?",
+      "a": "Najlepszy czas na podróż to wiosna (kwiecień-maj) lub jesień (wrzesień-październik). Wtedy panują przyjemne temperatury, a krajobrazy są najpiękniejsze, odpowiednio z kwitnącymi wiśniami lub jesiennymi liśćmi."
+    },
+    {
+      "q": "Czy Korea Południowa jest bezpieczna dla turystów?",
+      "a": "Korea Południowa jest jednym z najbezpieczniejszych krajów na świecie. Przestępczość jest bardzo niska, a turyści mogą czuć się swobodnie nawet w nocy. Standardy higieny są wysokie, a infrastruktura bardzo rozwinięta."
+    },
+    {
+      "q": "Jak poruszać się po Korei Południowej?",
+      "a": "Transport publiczny w Korei jest bardzo efektywny. W miastach takich jak Seul metro jest najlepszym środkiem transportu. Między miastami kursują szybkie pociągi KTX oraz autobusy, które są punktualne i komfortowe."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

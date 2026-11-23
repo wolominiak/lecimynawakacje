@@ -1,0 +1,205 @@
+{
+  "slug": "kajmany",
+  "loc": "na Kajmanach",
+  "to": "na Kajmany",
+  "capital": "George Town",
+  "popularity": 15,
+  "touroperator": false,
+  "gygQuery": "Cayman Islands",
+  "teaser": "Kajmany to luksusowe wyspy na Karaibach, idealne dla nurków, miłośników słońca i spokoju. Krystaliczne wody, rafy koralowe i plaże czekają.",
+  "intro": [
+    "Kajmany, brytyjskie terytorium zamorskie na Morzu Karaibskim, to synonim luksusu, rajskich plaż i światowej klasy nurkowania. Archipelag trzech wysp - Grand Cayman, Cayman Brac i Little Cayman - słynie z krystalicznie czystej wody, bogatej fauny morskiej i statusu międzynarodowego centrum finansowego. To idealne miejsce dla tych, którzy szukają spokoju, ekskluzywnego wypoczynku oraz niezapomnianych podwodnych przygód.",
+    "Dla kogo są Kajmany? Przede wszystkim dla miłośników nurkowania i snorkelingu, którzy znajdą tu spektakularne rafy koralowe, wraki statków i słynne Stingray City. Wyspy przyciągają również osoby ceniące sobie wysoki standard usług, luksusowe hotele i wykwintną kuchnię. To także doskonała destynacja na romantyczny wyjazd, podróż poślubną czy po prostu ucieczkę od zgiełku codzienności w otoczeniu karaibskiej przyrody.",
+    "Podróż z Polski na Kajmany wymaga zazwyczaj co najmniej jednej, a często dwóch przesiadek, najczęściej w dużych miastach Europy lub USA. Loty są długie, a ceny biletów bywają wysokie, co sprawia, że Kajmany nie są masową destynacją turystyczną dla Polaków. Należy pamiętać o odpowiednim zaplanowaniu podróży, w tym o ewentualnych wymaganiach wizowych przy przesiadkach w USA. Mimo to, wysiłek jest wynagradzany widokami i atmosferą, której próżno szukać gdzie indziej."
+  ],
+  "highlights": [
+    "Światowej klasy nurkowanie i snorkeling",
+    "Słynna plaża Seven Mile Beach",
+    "Interakcja z płaszczkami w Stingray City",
+    "Luksusowe kurorty i hotele",
+    "Kuchnia karaibska z owocami morza",
+    "Spokojna atmosfera i piękne widoki"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Kajmany to sucha pora, która trwa od grudnia do kwietnia. W tych miesiącach pogoda jest słoneczna, wilgotność niska, a temperatury przyjemne. Od czerwca do listopada trwa pora deszczowa i sezon huraganów, co może zakłócić plany podróży. Warto to uwzględnić planując wyjazd.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      32,
+      32,
+      31,
+      30,
+      29,
+      29
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      29,
+      29,
+      29,
+      30,
+      30,
+      29,
+      28,
+      28
+    ],
+    "note": "George Town, Grand Cayman"
+  },
+  "practical": {
+    "flight": "około 12-16 h z 1-2 przesiadkami",
+    "timeDiff": "6 lub 7 godzin wstecz względem Polski (w zależności od pory roku i czasu letniego)",
+    "documents": "Paszport jest wymagany. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 6 miesięcy. Warto jednak sprawdzić aktualne przepisy przed wyjazdem, zwłaszcza jeśli planowane są przesiadki w krajach wymagających tranzytowej wizy (np. USA).",
+    "money": "Oficjalną walutą jest dolar kajmański (KYD), sztywno powiązany z dolarem amerykańskim (1 KYD = 1.20 USD). Dolar amerykański jest powszechnie akceptowany. Płatności kartą są standardem w większości miejsc.",
+    "plugs": "Typ A i B (amerykańskie), napięcie 120V. Konieczna przejściówka.",
+    "language": "Angielski jest językiem urzędowym i powszechnie używanym.",
+    "safety": "Kajmany są uważane za bezpieczne miejsce dla turystów. Warto zachować podstawowe środki ostrożności, zwłaszcza po zmroku. Głównym zagrożeniem naturalnym są huragany w sezonie od czerwca do listopada."
+  },
+  "regions": [
+    {
+      "slug": "grand-cayman",
+      "name": "Grand Cayman",
+      "loc": "na Grand Cayman",
+      "type": "wyspa",
+      "gygQuery": "Grand Cayman",
+      "airport": "GCM",
+      "forWhom": "Idealna dla miłośników luksusu, nurkowania, plażowania i życia nocnego.",
+      "intro": [
+        "Największa i najbardziej rozwinięta z wysp, Grand Cayman, jest sercem archipelagu. To tutaj znajduje się stolica George Town, słynna Seven Mile Beach i większość luksusowych kurortów. Wyspa oferuje szeroki wachlarz atrakcji, od światowej klasy restauracji po sklepy wolnocłowe.",
+        "Grand Cayman to także baza wypadowa do najpopularniejszych atrakcji, takich jak Stingray City, gdzie można pływać z dzikimi płaszczkami, oraz Centrum Żółwi Kajmańskich. Infrastruktura turystyczna jest na najwyższym poziomie, zapewniając komfortowy i pełen atrakcji wypoczynek."
+      ],
+      "highlights": [
+        "Seven Mile Beach",
+        "Stingray City",
+        "George Town",
+        "Cayman Turtle Centre"
+      ]
+    },
+    {
+      "slug": "cayman-brac",
+      "name": "Cayman Brac",
+      "loc": "na Cayman Brac",
+      "type": "wyspa",
+      "gygQuery": "Cayman Brac",
+      "airport": "CYB",
+      "forWhom": "Wyspa dla poszukujących spokoju, nurków i miłośników aktywnego wypoczynku w naturze.",
+      "intro": [
+        "Cayman Brac to druga co do wielkości wyspa, znana z majestatycznego klifu 'The Bluff', który wznosi się na wschodnim krańcu. Jest to raj dla nurków, oferujący liczne wraki, w tym rosyjski fregatę M/V Capt. Keith Tibbetts, oraz jaskinie i podwodne formacje skalne.",
+        "Poza nurkowaniem, Cayman Brac zachęca do eksploracji lądowej. Można tu podziwiać endemiczną florę i faunę, wędrować po szlakach turystycznych, odkrywać jaskinie i obserwować ptaki. Atmosfera jest znacznie spokojniejsza niż na Grand Cayman, co sprzyja relaksowi."
+      ],
+      "highlights": [
+        "Nurkowanie przy wrakach",
+        "Klif The Bluff",
+        "Jaskinie i szlaki piesze",
+        "Obserwacja ptaków"
+      ]
+    },
+    {
+      "slug": "little-cayman",
+      "name": "Little Cayman",
+      "loc": "na Little Cayman",
+      "type": "wyspa",
+      "gygQuery": "Little Cayman",
+      "airport": "LYB",
+      "forWhom": "Najmniejsza i najbardziej dziewicza wyspa, idealna dla nurków i uciekinierów od cywilizacji.",
+      "intro": [
+        "Little Cayman to najmniejsza i najmniej zaludniona z wysp, często określana jako nurkowy raj. Jej dziewicze rafy koralowe, w tym słynna Bloody Bay Wall, są uznawane za jedne z najlepszych na świecie. Podwodny świat jest tu niezwykle bogaty i kolorowy.",
+        "Wyspa oferuje autentyczne karaibskie doświadczenie, z ograniczoną liczbą hoteli i restauracji. Jest to miejsce, gdzie czas płynie wolniej, a główną atrakcją jest bliskość natury, nurkowanie, snorkeling i relaks na pustych plażach. Idealna dla tych, którzy szukają prawdziwego odosobnienia."
+      ],
+      "highlights": [
+        "Bloody Bay Wall (nurkowanie)",
+        "Dziewicze rafy koralowe",
+        "Raj dla nurków",
+        "Spokój i odosobnienie"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stingray City",
+      "text": "Pływanie i interakcja z przyjaznymi dzikimi płaszczkami na płytkiej ławicy piasku to unikalne doświadczenie, które stało się wizytówką Kajmanów.",
+      "gygQuery": "Stingray City Grand Cayman"
+    },
+    {
+      "name": "Seven Mile Beach",
+      "text": "Jedna z najpiękniejszych plaż Karaibów, oferująca biały piasek, turkusową wodę i idealne warunki do pływania, opalania i sportów wodnych.",
+      "gygQuery": "Seven Mile Beach Grand Cayman"
+    },
+    {
+      "name": "Cayman Turtle Centre",
+      "text": "Centrum ochrony żółwi morskich, gdzie można poznać różne gatunki żółwi, a nawet popływać z nimi w specjalnych basenach.",
+      "gygQuery": "Cayman Turtle Centre"
+    },
+    {
+      "name": "Pedro St. James Castle",
+      "text": "Najstarszy kamienny budynek na Kajmanach, często nazywany 'miejscem narodzin demokracji' na wyspach, oferujący wgląd w historię i kulturę.",
+      "gygQuery": "Pedro St. James Castle"
+    },
+    {
+      "name": "Crystal Caves",
+      "text": "Odkryte niedawno jaskinie wapienne na Grand Cayman, z imponującymi stalaktytami, stalagmitami i podziemnymi jeziorami, dostępne dla zwiedzających.",
+      "gygQuery": "Crystal Caves Grand Cayman"
+    },
+    {
+      "name": "Diving na Bloody Bay Wall",
+      "text": "Słynna podwodna ściana na Little Cayman, uznawana za jedno z najlepszych miejsc nurkowych na świecie, z niezliczonymi gatunkami morskimi.",
+      "gygQuery": "Bloody Bay Wall Little Cayman diving"
+    },
+    {
+      "name": "Queen Elizabeth II Botanic Park",
+      "text": "Piękny park botaniczny na Grand Cayman, prezentujący endemiczną florę i faunę, w tym rzadkie niebieskie iguany.",
+      "gygQuery": "Queen Elizabeth II Botanic Park"
+    },
+    {
+      "name": "Starfish Point",
+      "text": "Płytka zatoka na Grand Cayman, gdzie można podziwiać setki rozgwiazd w ich naturalnym środowisku, pamiętając o ich ochronie.",
+      "gygQuery": "Starfish Point Grand Cayman"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Kajmanów to fascynujące połączenie smaków karaibskich, afrykańskich i brytyjskich, z dominującą rolą świeżych owoców morza. Koniecznie spróbujcie dania z konchy (conch), serwowanej na wiele sposobów - w zupach, gulaszach, smażonej czy jako sałatka. Popularne są także świeże ryby, takie jak mahi-mahi czy grouper, często grillowane lub smażone. Nie brakuje tu również tropikalnych owoców, warzyw korzeniowych i tradycyjnych brytyjskich akcentów, jak np. puddingi. Warto też skosztować lokalnych rumów i koktajli, które doskonale uzupełniają karaibskie smaki."
+  ],
+  "faq": [
+    {
+      "q": "Czy Polacy potrzebują wizy na Kajmany?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne na Kajmanach trwające do 6 miesięcy. Wymagany jest ważny paszport. Zawsze warto jednak sprawdzić aktualne przepisy przed podróżą."
+    },
+    {
+      "q": "Jakie są ceny na Kajmanach?",
+      "a": "Kajmany są uznawane za jeden z droższych kierunków na Karaibach. Ceny zakwaterowania, jedzenia i atrakcji są wysokie, porównywalne z dużymi miastami w USA lub Europie Zachodniej. Warto zaplanować odpowiedni budżet."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Kajmany?",
+      "a": "Najlepszy czas na podróż to sucha pora, od grudnia do kwietnia/maja, kiedy pogoda jest słoneczna, a wilgotność niska. Warto unikać sezonu huraganów, który trwa od czerwca do listopada."
+    },
+    {
+      "q": "Czy Kajmany są bezpieczne dla turystów?",
+      "a": "Kajmany są ogólnie bardzo bezpiecznym miejscem dla turystów. Wskaźnik przestępczości jest niski. Należy jednak zachować podstawowe środki ostrożności, jak w każdym innym miejscu na świecie, i uważać na ruch drogowy."
+    },
+    {
+      "q": "Jaka jest waluta na Kajmanach i czy można płacić USD?",
+      "a": "Oficjalną walutą jest dolar kajmański (KYD), ale dolar amerykański (USD) jest powszechnie akceptowany. Warto mieć przy sobie trochę gotówki, choć płatności kartą są szeroko dostępne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "kostaryka",
+  "loc": "w Kostaryce",
+  "to": "do Kostaryki",
+  "capital": "San José",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Costa Rica",
+  "teaser": "Kostaryka to kraj bujnej przyrody, wulkanów i dzikich plaż. Idealny dla miłośników ekoturystyki i aktywnego wypoczynku.",
+  "intro": [
+    "Kostaryka, niewielki kraj w Ameryce Środkowej, to prawdziwa perła dla każdego, kto szuka bliskiego kontaktu z naturą. Słynie z niesamowitej bioróżnorodności, chronionej w licznych parkach narodowych i rezerwatach. Od wulkanicznych krajobrazów, przez mgliste lasy, aż po rajskie plaże oblewane wodami Pacyfiku i Morza Karaibskiego - tu każdy dzień to nowa przygoda. Filozofia 'Pura Vida' - czystego życia - odzwierciedla lokalny styl bycia, pełen spokoju i harmonii z otoczeniem.",
+    "Ten kierunek jest idealny dla aktywnych podróżników, miłośników ekoturystyki, obserwatorów ptaków i dzikich zwierząt, a także dla tych, którzy cenią sobie surfing, rafting czy trekking. Kostaryka nie jest typowym miejscem na wczasy all-inclusive, choć znajdziesz tu luksusowe eko-resorty. To kraj, który zachęca do eksploracji, odkrywania ukrytych wodospadów i podziwiania egzotycznej fauny w jej naturalnym środowisku. Przygotuj się na niezapomniane spotkania z małpami, leniwcami czy kolorowymi tukanami.",
+    "Podróż z Polski do Kostaryki wymaga cierpliwości ze względu na brak bezpośrednich połączeń. Zazwyczaj czeka Cię jedna lub dwie przesiadki, najczęściej w dużych hubach europejskich lub amerykańskich, co wydłuża podróż do około 14-18 godzin. Mimo to, trud dotarcia jest w pełni rekompensowany przez to, co oferuje ten zielony raj. Pamiętaj o wcześniejszym zaplanowaniu trasy i rezerwacji noclegów, zwłaszcza w szczycie sezonu, aby w pełni cieszyć się urokami Kostaryki."
+  ],
+  "highlights": [
+    "Bujna dżungla i lasy deszczowe",
+    "Obserwacja dzikich zwierząt",
+    "Aktywne wulkany i gorące źródła",
+    "Plaże Pacyfiku i Morza Karaibskiego",
+    "Rafting, surfing, zipline",
+    "Filozofia życia 'Pura Vida'"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Kostaryki to pora sucha, trwająca od grudnia do kwietnia. W tym okresie pogoda jest najbardziej stabilna, z dużą ilością słońca i mniejszym ryzykiem opadów, co sprzyja eksploracji i aktywnościom na świeżym powietrzu. Od maja do listopada trwa pora deszczowa, charakteryzująca się intensywnymi, choć często krótkimi, popołudniowymi ulewami. W tym czasie kraj jest bujnie zielony, a ceny niższe, co może być atrakcyjne dla osób szukających spokoju i bardziej kameralnej atmosfery.",
+    "best": [
+      1,
+      2,
+      3,
+      12
+    ],
+    "ok": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      25,
+      26,
+      27,
+      27,
+      26,
+      26,
+      25,
+      25,
+      26,
+      26,
+      25,
+      25
+    ],
+    "sea": [
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "Dane dla San José, temperatury na wybrzeżach są wyższe."
+  },
+  "practical": {
+    "flight": "około 14-18 h z jedną lub dwiema przesiadkami",
+    "timeDiff": "-8 godzin",
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty wjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze sprawdzaj aktualne wymogi przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest colon kostarykański (CRC). Powszechne jest płacenie dolarami amerykańskimi (USD), zwłaszcza w miejscach turystycznych. Karty płatnicze są akceptowane w większych miastach i hotelach, ale warto mieć gotówkę na drobne wydatki i w mniejszych miejscowościach.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Napięcie 120V, częstotliwość 60Hz. Potrzebny jest adapter.",
+    "language": "Oficjalnym językiem jest hiszpański. W miejscach turystycznych i hotelach można porozumieć się po angielsku.",
+    "safety": "Kostaryka jest stosunkowo bezpieczna, ale zdarzają się drobne kradzieże, zwłaszcza w zatłoczonych miejscach i na plażach. Należy zachować ostrożność, nie eksponować wartościowych przedmiotów. Zaleca się picie wody butelkowanej. Warto mieć ubezpieczenie turystyczne obejmujące leczenie i ewentualny transport medyczny."
+  },
+  "regions": [
+    {
+      "slug": "arenal-la-fortuna",
+      "name": "Wulkan Arenal i La Fortuna",
+      "loc": "w rejonie Wulkanu Arenal i La Fortuna",
+      "type": "region",
+      "gygQuery": "Arenal Volcano",
+      "airport": "SJO",
+      "forWhom": "Idealne miejsce dla poszukiwaczy przygód i miłośników wulkanicznych krajobrazów.",
+      "intro": [
+        "Region wokół aktywnego wulkanu Arenal to centrum przygód i relaksu. Możesz podziwiać majestatyczny stożek wulkanu, który wieczorami bywa podświetlony przez czerwoną lawę (choć jego aktywność jest zmienna). Okolica oferuje liczne gorące źródła geotermalne, z których wiele zostało zagospodarowanych w luksusowe spa, idealne do odprężenia po dniu pełnym wrażeń.",
+        "La Fortuna, urocze miasteczko u podnóża wulkanu, stanowi doskonałą bazę wypadową. Stąd łatwo dotrzesz do wodospadów, rzek idealnych na rafting i miejsc do uprawiania zipline'u. To także świetna okazja do obserwacji dzikich zwierząt, takich jak małpy, tukany i leniwce, które często pojawiają się w pobliżu szlaków turystycznych."
+      ],
+      "highlights": [
+        "Podziwianie Wulkanu Arenal",
+        "Relaks w gorących źródłach",
+        "Przygody: rafting, zipline",
+        "Odwiedziny wodospadu La Fortuna"
+      ]
+    },
+    {
+      "slug": "monteverde",
+      "name": "Monteverde Cloud Forest",
+      "loc": "w Monteverde",
+      "type": "region",
+      "gygQuery": "Monteverde Cloud Forest",
+      "airport": "SJO",
+      "forWhom": "To obowiązkowy punkt dla ornitologów i każdego, kto pragnie zanurzyć się w mglistym lesie pełnym życia.",
+      "intro": [
+        "Monteverde to słynny rezerwat mglistego lasu, gdzie chmury dosłownie dotykają koron drzew, tworząc unikalny ekosystem. Jest to jeden z najbardziej bioróżnorodnych obszarów na świecie, dom dla tysięcy gatunków roślin i zwierząt, w tym rzadkiego ketsala herbowego. Spacer po wiszących mostach to niezapomniane doświadczenie, pozwalające podziwiać las z innej perspektywy i dostrzec ukryte piękno.",
+        "Oprócz wiszących mostów, Monteverde oferuje również trasy zipline, ogrody kolibrów, motylarnie oraz nocne spacery z przewodnikiem, które ujawniają tajemnice lasu po zmroku. Choć pogoda bywa tu kapryśna i często pada deszcz, to właśnie wilgotność tworzy ten magiczny, mglisty krajobraz, który przyciąga podróżników z całego świata."
+      ],
+      "highlights": [
+        "Spacer po wiszących mostach",
+        "Obserwacja rzadkich ptaków",
+        "Ekscytujące trasy zipline",
+        "Odkrywanie mglistego lasu"
+      ]
+    },
+    {
+      "slug": "manuel-antonio",
+      "name": "Park Narodowy Manuel Antonio",
+      "loc": "w Parku Narodowym Manuel Antonio",
+      "type": "park narodowy",
+      "gygQuery": "Manuel Antonio National Park",
+      "airport": "SJO",
+      "forWhom": "Doskonały wybór dla tych, którzy chcą połączyć relaks na rajskich plażach z obserwacją dzikiej przyrody.",
+      "intro": [
+        "Park Narodowy Manuel Antonio to jeden z najmniejszych, ale jednocześnie najbardziej popularnych parków w Kostaryce. Łączy w sobie gęsty las deszczowy z przepięknymi, białymi plażami, tworząc idealne środowisko dla bogactwa dzikiej fauny. Już na szlakach możesz spotkać małpy kapucynki, wyjce, leniwce czy legwany, które swobodnie poruszają się po okolicy.",
+        "Park jest doskonale przystosowany do turystyki, oferując dobrze utrzymane ścieżki i punkty widokowe. Poza spacerami po dżungli, możesz odpocząć na jednej z urokliwych plaż, takich jak Playa Manuel Antonio czy Playa Espadilla, które są idealne do pływania i snorkelingu. Pamiętaj, aby nie karmić zwierząt i dbać o czystość, by chronić ten wyjątkowy ekosystem."
+      ],
+      "highlights": [
+        "Relaks na białych plażach",
+        "Spotkania z małpami i leniwcami",
+        "Wędrówki po lesie deszczowym",
+        "Snorkeling w czystych wodach"
+      ]
+    },
+    {
+      "slug": "tortuguero",
+      "name": "Park Narodowy Tortuguero",
+      "loc": "w Parku Narodowym Tortuguero",
+      "type": "park narodowy",
+      "gygQuery": "Tortuguero National Park",
+      "airport": "SJO",
+      "forWhom": "Unikalne miejsce dla miłośników przyrody, zwłaszcza obserwacji żółwi morskich w ich naturalnym środowisku.",
+      "intro": [
+        "Park Narodowy Tortuguero, położony na wybrzeżu Karaibów, to prawdziwy labirynt rzek i kanałów, otoczony gęstą dżunglą. Jest to jedno z najważniejszych miejsc lęgowych żółwi zielonych na świecie, a także innych gatunków żółwi morskich. Do parku można dotrzeć wyłącznie łodzią lub samolotem, co dodaje mu odległego i dziewiczego charakteru.",
+        "Główną atrakcją jest obserwacja żółwi składających jaja na plażach (sezon od lipca do października) lub wykluwających się młodych (kilka tygodni później). Poza żółwiami, podczas rejsów po kanałach można zobaczyć kajmany, manaty, małpy, leniwce i niezliczone gatunki ptaków. To idealne miejsce dla tych, którzy szukają autentycznego doświadczenia z dziką przyrodą, z dala od zgiełku cywilizacji."
+      ],
+      "highlights": [
+        "Obserwacja żółwi morskich",
+        "Rejsy po kanałach dżungli",
+        "Spotkania z kajmanami i małpami",
+        "Dziewicza przyroda Karaibów"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan Arenal",
+      "text": "Jeden z najbardziej aktywnych wulkanów Kostaryki, oferujący spektakularne widoki i szlaki trekkingowe. Jego stożkowy kształt dominuje nad okolicznym krajobrazem.",
+      "gygQuery": "Arenal Volcano"
+    },
+    {
+      "name": "Wodospad La Fortuna",
+      "text": "Malowniczy wodospad o wysokości 70 metrów, zasilany rzeką Tenorio. Kąpiel w jego orzeźwiających, turkusowych wodach to idealny sposób na ochłodę po trekkingu.",
+      "gygQuery": "La Fortuna Waterfall"
+    },
+    {
+      "name": "Gorące źródła Tabacón",
+      "text": "Luksusowy kompleks naturalnych gorących źródeł, zasilanych przez wulkan Arenal. To idealne miejsce na relaks w otoczeniu bujnej tropikalnej roślinności.",
+      "gygQuery": "Tabacon Hot Springs"
+    },
+    {
+      "name": "Mosty wiszące w Monteverde",
+      "text": "System mostów zawieszonych wysoko nad koronami drzew w mglistym lesie. Pozwalają na podziwianie unikalnej flory i fauny z perspektywy ptaka.",
+      "gygQuery": "Monteverde Hanging Bridges"
+    },
+    {
+      "name": "Park Narodowy Corcovado",
+      "text": "Uważany za jeden z najbardziej bioróżnorodnych obszarów na świecie, chroni dziewiczy las deszczowy na Półwyspie Osa. Idealny dla poszukiwaczy prawdziwej dziczy.",
+      "gygQuery": "Corcovado National Park"
+    },
+    {
+      "name": "Wodospad Río Celeste",
+      "text": "Słynie z niezwykłego, turkusowego koloru wody, wynikającego z reakcji chemicznych minerałów w rzece. Szlak do wodospadu prowadzi przez piękny las deszczowy.",
+      "gygQuery": "Rio Celeste Waterfall"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia kostarykańska, choć prosta, jest niezwykle smaczna i opiera się na świeżych, lokalnych składnikach. Podstawą wielu dań jest ryż i fasola, często podawane razem jako 'gallo pinto' - tradycyjne śniadanie. Popularne 'casado' to kompletny posiłek składający się z ryżu, fasoli, plantanów, sałatki i wybranego mięsa lub ryby. Nie brakuje tu świeżych owoców tropikalnych, takich jak ananasy, mango czy papaje, oraz doskonałej kawy. Warto spróbować 'ceviche' - marynowanej ryby lub owoców morza, a także świeżych soków owocowych ('frescos')."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kostaryka jest bezpieczna dla turystów?",
+      "a": "Kostaryka jest stosunkowo bezpiecznym krajem, ale jak wszędzie, należy zachować ostrożność. Zdarzają się drobne kradzieże, zwłaszcza w miejscach turystycznych i na plażach. Zaleca się nie eksponować wartościowych przedmiotów i dbać o swoje rzeczy."
+    },
+    {
+      "q": "Jaka jest najlepsza pora na podróż do Kostaryki?",
+      "a": "Najlepszy czas na podróż to pora sucha, od grudnia do kwietnia, kiedy pogoda jest najbardziej słoneczna i stabilna. Pora deszczowa (maj-listopad) oferuje bujniejszą zieleń i niższe ceny, ale z częstymi popołudniowymi opadami."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Kostaryki jako obywatel Polski?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne w Kostaryce trwające do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Kostaryki."
+    },
+    {
+      "q": "Jak poruszać się po Kostaryce?",
+      "a": "Po Kostaryce można poruszać się autobusami, które są tanie i efektywne, choć mogą być wolne. Popularne jest również wynajmowanie samochodów 4x4, co daje większą swobodę, zwłaszcza na drogach poza głównymi szlakami. Dostępne są też taksówki i prywatne transfery."
+    },
+    {
+      "q": "Jakie zwierzęta można zobaczyć w Kostaryce?",
+      "a": "Kostaryka to raj dla miłośników dzikiej przyrody. Można tu spotkać małpy (wyjce, kapucynki, czepiaki), leniwce, tukany, ary, kolibry, kajmany, a także rzadkie gatunki, takie jak ketsal herbowy czy żółwie morskie."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

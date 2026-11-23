@@ -1,0 +1,210 @@
+{
+  "slug": "kanada",
+  "loc": "w Kanadzie",
+  "to": "do Kanady",
+  "capital": "Ottawa",
+  "popularity": 40,
+  "touroperator": false,
+  "gygQuery": "Canada",
+  "teaser": "Kanada to kraj bezkresnych krajobrazów, od majestatycznych gór po tętniące życiem metropolie. Idealna dla miłośników natury i miejskich przygód.",
+  "intro": [
+    "Kanada to olbrzymi kraj, oferujący niezwykłą różnorodność - od skalistych szczytów Gór Skalistych, przez gęste lasy i tysiące jezior, po tętniące życiem, kosmopolityczne miasta. Przyciąga przede wszystkim miłośników aktywnego wypoczynku, trekkingu, kajakarstwa i obserwacji dzikiej przyrody, ale także tych, którzy szukają unikalnych doświadczeń kulturowych w miastach takich jak Montreal czy Vancouver. To miejsce, gdzie można poczuć prawdziwą wolność i przestrzeń, a jednocześnie cieszyć się komfortem i bezpieczeństwem rozwiniętego kraju.",
+    "Kraj ten jest idealny dla podróżników szukających kontaktu z naturą, ale też dla rodzin i par, które docenią dobrze rozwiniętą infrastrukturę turystyczną i szeroki wybór atrakcji. Kanada to również raj dla fanów sportów zimowych, oferujący światowej klasy ośrodki narciarskie. Warto przygotować się na długie dystanse między poszczególnymi regionami, co wymaga dobrego planowania logistycznego, ale każda podróż przez te bezkresne tereny to niezapomniane widoki i doświadczenia.",
+    "Podróż z Polski do Kanady to zazwyczaj loty z przesiadką, trwające około 10-14 godzin w zależności od wybranego połączenia i lotniska docelowego. Najczęściej ląduje się w Toronto, Montrealu lub Vancouver. Obywatele Polski potrzebują Elektronicznej Autoryzacji Podróży (eTA), którą należy wyrobić online przed wyjazdem. Różnica czasu jest znacząca, Kanada ma aż sześć stref czasowych, więc warto wziąć pod uwagę jet lag po przylocie."
+  ],
+  "highlights": [
+    "Majestatyczne Góry Skaliste",
+    "Wodospad Niagara - potęga natury",
+    "Kosmopolityczny Vancouver i Toronto",
+    "Francuskojęzyczny Quebec i Montreal",
+    "Bezkresne lasy i tysiące jezior",
+    "Obserwacja dzikiej przyrody"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Kanady zależy od planowanych aktywności. Lato (czerwiec-wrzesień) to idealny okres na zwiedzanie parków narodowych, trekking i podziwianie krajobrazów, z przyjemnymi temperaturami w większości regionów. Wiosna i jesień oferują piękne kolory, mniej tłumów i niższe ceny, choć pogoda bywa zmienna. Zima to raj dla miłośników sportów zimowych, zwłaszcza w Górach Skalistych i Kolumbii Brytyjskiej.",
+    "best": [
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      6,
+      9,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      -1,
+      0,
+      5,
+      12,
+      18,
+      24,
+      27,
+      26,
+      21,
+      14,
+      7,
+      1
+    ],
+    "sea": null,
+    "note": "średnie maks. temp. dzienne dla Toronto"
+  },
+  "practical": {
+    "flight": "około 10-14 h z przesiadką",
+    "timeDiff": "od -6 do -9 h względem Polski (zależnie od strefy czasowej)",
+    "documents": "Obywatele Polski potrzebują Elektronicznej Autoryzacji Podróży (eTA) do wjazdu samolotem. Paszport musi być ważny co najmniej 6 miesięcy dłużej niż planowany pobyt. Zawsze sprawdź aktualne wymogi przed wyjazdem na stronie rządu Kanady lub MSZ.",
+    "money": "Walutą jest dolar kanadyjski (CAD). Płatności kartą są powszechne, gotówka przydaje się rzadziej. Bankomaty są łatwo dostępne.",
+    "plugs": "Typ A i B (amerykańskie), wymagany adapter. Napięcie 120 V, częstotliwość 60 Hz.",
+    "language": "Angielski i francuski to języki urzędowe. Angielski dominuje w większości kraju, francuski w prowincji Quebec.",
+    "safety": "Kanada jest krajem bardzo bezpiecznym. W dużych miastach należy zachować standardową ostrożność. Podczas wędrówek w parkach narodowych pamiętaj o dzikich zwierzętach (niedźwiedzie, łosie) i zawsze informuj kogoś o swoich planach. Ubezpieczenie podróżne jest wysoce zalecane."
+  },
+  "regions": [
+    {
+      "slug": "kolumbia-brytyjska",
+      "name": "Kolumbia Brytyjska",
+      "loc": "w Kolumbii Brytyjskiej",
+      "type": "region",
+      "gygQuery": "British Columbia",
+      "airport": "YVR",
+      "forWhom": "Idealna dla miłośników gór, oceanu, sportów zimowych i tętniących życiem miast.",
+      "intro": [
+        "Kolumbia Brytyjska, położona na zachodnim wybrzeżu Kanady, to prowincja o niezwykłej różnorodności krajobrazowej. Znajdziesz tu majestatyczne Góry Skaliste, rozległe lasy deszczowe, malownicze wybrzeże Pacyfiku z licznymi wyspami oraz nowoczesne, kosmopolityczne miasta. To raj dla aktywnych podróżników, oferujący niezliczone szlaki trekkingowe, możliwości kajakarstwa, narciarstwa i obserwacji dzikiej przyrody, w tym wielorybów.",
+        "Stolicą regionu jest Victoria, ale największym i najbardziej znanym miastem jest Vancouver, często uznawane za jedno z najlepszych miejsc do życia na świecie. Vancouver łączy miejski styl z bliskością natury - zaledwie kilkanaście minut od centrum można znaleźć się na górskim szlaku. Warto odwiedzić także Whistler, znane z ośrodków narciarskich, oraz Park Narodowy Pacific Rim na Wyspie Vancouver."
+      ],
+      "highlights": [
+        "Vancouver - miasto i natura",
+        "Wyspa Vancouver i Victoria",
+        "Whistler - raj dla narciarzy",
+        "Park Narodowy Pacific Rim"
+      ]
+    },
+    {
+      "slug": "ontario",
+      "name": "Ontario",
+      "loc": "w Ontario",
+      "type": "region",
+      "gygQuery": "Ontario",
+      "airport": "YYZ",
+      "forWhom": "Dla tych, którzy chcą zobaczyć Wodospad Niagara, poznać miejskie życie i historię Kanady.",
+      "intro": [
+        "Ontario to najbardziej zaludniona i ekonomicznie najważniejsza prowincja Kanady, dom dla największego miasta, Toronto, oraz stolicy kraju, Ottawy. To tutaj znajduje się jeden z najbardziej rozpoznawalnych symboli Kanady - Wodospad Niagara, który co roku przyciąga miliony turystów. Prowincja oferuje także liczne jeziora (w tym Wielkie Jeziora), parki narodowe i prowincjonalne, idealne do wypoczynku na łonie natury.",
+        "Toronto to tętniąca życiem metropolia z ikoniczną wieżą CN Tower, bogatą sceną kulturalną i kulinarną, oraz różnorodnością etniczną. Ottawa, jako stolica, zachwyca historyczną architekturą, muzeami i kanałem Rideau, który zimą zamienia się w największe naturalne lodowisko na świecie. Ontario to także region winiarski Niagara-on-the-Lake, oferujący degustacje win i urokliwe miasteczka."
+      ],
+      "highlights": [
+        "Wodospad Niagara - must-see",
+        "Toronto - metropolia i kultura",
+        "Ottawa - stolica i historia",
+        "Wielkie Jeziora i Park Algonquin"
+      ]
+    },
+    {
+      "slug": "quebec",
+      "name": "Quebec",
+      "loc": "w Quebecu",
+      "type": "region",
+      "gygQuery": "Quebec",
+      "airport": "YUL",
+      "forWhom": "Dla poszukujących europejskiego uroku, francuskiej kultury i pięknych krajobrazów.",
+      "intro": [
+        "Quebec to prowincja o unikalnym charakterze, gdzie język francuski i kultura frankofońska są dominujące, nadając jej wyraźnie europejski, a zwłaszcza francuski, klimat. To tutaj znajdziesz urokliwe, brukowane uliczki Starego Quebecu (wpisanego na listę UNESCO), który przenosi w czasie do kolonialnej przeszłości. Prowincja oferuje również wspaniałe krajobrazy, od rozległych lasów po rzekę Świętego Wawrzyńca.",
+        "Montreal, największe miasto Quebecu, to dynamiczne centrum kultury, sztuki i gastronomii, z fascynującą mieszanką starej i nowej architektury. Warto odwiedzić również regiony takie jak Laurentian Mountains, idealne do narciarstwa i pieszych wycieczek, czy Gaspé Peninsula z malowniczymi wioskami rybackimi i Parkiem Narodowym Forillon. Quebec to prawdziwa gratka dla smakoszy i miłośników historii."
+      ],
+      "highlights": [
+        "Stary Quebec - UNESCO",
+        "Montreal - francuski urok",
+        "Laurentian Mountains - natura",
+        "Rzeka Świętego Wawrzyńca"
+      ]
+    },
+    {
+      "slug": "alberta",
+      "name": "Alberta",
+      "loc": "w Albercie",
+      "type": "region",
+      "gygQuery": "Alberta",
+      "airport": "YYC",
+      "forWhom": "Dla miłośników górskich krajobrazów, parków narodowych i dzikiej przyrody.",
+      "intro": [
+        "Alberta to prowincja, która słynie przede wszystkim z zapierających dech w piersiach Gór Skalistych Kanadyjskich. To tutaj znajdują się jedne z najbardziej ikonicznych parków narodowych, takie jak Banff i Jasper, z ich turkusowymi jeziorami, lodowcami i obfitością dzikiej zwierzyny. Krajobrazy Alberty to kwintesencja kanadyjskiej dziczy, idealne do trekkingu, wspinaczki, kajakarstwa i fotografii.",
+        "Główne miasta to Calgary, znane z corocznego rodeo Calgary Stampede, oraz Edmonton, będące bramą do północnych regionów. Jednak to parki narodowe są prawdziwymi gwiazdami. Jezioro Louise, jezioro Moraine, Icefields Parkway - to tylko niektóre z miejsc, które koniecznie trzeba zobaczyć. Alberta to idealne miejsce, aby poczuć potęgę i piękno kanadyjskiej natury."
+      ],
+      "highlights": [
+        "Park Narodowy Banff",
+        "Jezioro Louise i Moraine",
+        "Park Narodowy Jasper",
+        "Icefields Parkway"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wodospad Niagara",
+      "text": "Jeden z najbardziej spektakularnych cudów natury na świecie, potężne kaskady wody na granicy z USA. Można podziwiać go z tarasów widokowych, statków lub z lotu ptaka.",
+      "gygQuery": "Niagara Falls"
+    },
+    {
+      "name": "Park Narodowy Banff",
+      "text": "Najstarszy park narodowy Kanady, serce Gór Skalistych, słynący z turkusowych jezior (jak Jezioro Louise), lodowców i bogatej fauny. Idealny do trekkingu i podziwiania krajobrazów.",
+      "gygQuery": "Banff National Park"
+    },
+    {
+      "name": "Vancouver",
+      "text": "Kosmopolityczne miasto na zachodnim wybrzeżu, otoczone górami i oceanem. Oferuje park Stanley, tętniące życiem dzielnice i bliskość natury.",
+      "gygQuery": "Vancouver"
+    },
+    {
+      "name": "Montreal",
+      "text": "Drugie co do wielkości miasto Kanady, z wyraźnym francuskim charakterem. Stary Montreal, bazylika Notre-Dame i bogata scena kulturalna to jego wizytówki.",
+      "gygQuery": "Montreal"
+    },
+    {
+      "name": "Quebec City",
+      "text": "Stolica prowincji Quebec, jedyne ufortyfikowane miasto w Ameryce Północnej, wpisane na listę UNESCO. Urzeka brukowanymi uliczkami i historyczną architekturą.",
+      "gygQuery": "Quebec City"
+    },
+    {
+      "name": "CN Tower w Toronto",
+      "text": "Ikoniczna wieża w Toronto, oferująca zapierające dech w piersiach widoki na miasto i Jezioro Ontario. Dla odważnych - spacer po zewnętrznej krawędzi (Edgewalk).",
+      "gygQuery": "CN Tower Toronto"
+    },
+    {
+      "name": "Icefields Parkway",
+      "text": "Malownicza droga łącząca Parki Narodowe Banff i Jasper, oferująca spektakularne widoki na lodowce, jeziora i góry. Warto zaplanować wiele postojów.",
+      "gygQuery": "Icefields Parkway"
+    },
+    {
+      "name": "Jezioro Moraine",
+      "text": "Często uznawane za jedno z najpiękniejszych jezior Kanady, położone w Dolinie Dziesięciu Szczytów w Parku Narodowym Banff. Jego turkusowa woda hipnotyzuje.",
+      "gygQuery": "Moraine Lake"
+    }
+  ],
+  "cuisine": [
+    "Kanadyjska kuchnia to mieszanka wpływów brytyjskich, francuskich i rdzennych, z silnym akcentem na lokalne produkty. Absolutnym klasykiem jest poutine - frytki z serem typu curd i sosem gravy. Warto spróbować syropu klonowego w każdej postaci, od słodkich deserów po glazury do mięs. Inne specjały to tourtière (mięsna tarta z Quebecu), butter tarts, Nanaimo bars oraz świeże owoce morza na wybrzeżach. Nie zapomnij o piwie rzemieślniczym i winach lodowych z regionu Niagara."
+  ],
+  "faq": [
+    {
+      "q": "Czy Polacy potrzebują wizy do Kanady?",
+      "a": "Nie, obywatele Polski są zwolnieni z obowiązku wizowego, ale muszą uzyskać Elektroniczną Autoryzację Podróży (eTA) przed wylotem do Kanady samolotem. Wniosek składa się online."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Kanady?",
+      "a": "Lato (czerwiec-wrzesień) to najlepszy czas na zwiedzanie większości kraju i parków narodowych. Na sporty zimowe idealna jest zima (grudzień-marzec), szczególnie w Górach Skalistych."
+    },
+    {
+      "q": "Jakie są koszty podróży po Kanadzie?",
+      "a": "Kanada jest krajem stosunkowo drogim, zwłaszcza jeśli chodzi o zakwaterowanie i transport. Ceny są porównywalne do zachodnioeuropejskich. Warto rezerwować noclegi z wyprzedzeniem, szczególnie w popularnych parkach narodowych."
+    },
+    {
+      "q": "Czy w Kanadzie jest bezpiecznie?",
+      "a": "Kanada jest jednym z najbezpieczniejszych krajów na świecie. Należy zachować standardową ostrożność w dużych miastach. W parkach narodowych trzeba uważać na dzikie zwierzęta i przestrzegać zasad bezpieczeństwa."
+    },
+    {
+      "q": "Jak poruszać się po Kanadzie?",
+      "a": "Ze względu na ogromne odległości, najefektywniejsze są loty wewnętrzne. Wynajem samochodu to świetny sposób na zwiedzanie regionów. Dostępne są też autobusy dalekobieżne i pociągi, choć te ostatnie bywają drogie."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

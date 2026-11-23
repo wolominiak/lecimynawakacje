@@ -1,0 +1,186 @@
+{
+  "slug": "katar",
+  "loc": "w Katarze",
+  "to": "do Kataru",
+  "capital": "Doha",
+  "popularity": 30,
+  "touroperator": true,
+  "gygQuery": "Qatar",
+  "teaser": "Katar to kraj, gdzie nowoczesność spotyka się z tradycją. Odkryj futurystyczną Dohę, pustynne krajobrazy i luksusowe kurorty nad Zatoką Perską.",
+  "intro": [
+    "Katar, choć niewielki, oferuje podróżnym fascynujące połączenie ultranowoczesnej architektury, bogatej kultury i zapierających dech w piersiach pustynnych krajobrazów. To miejsce, gdzie drapacze chmur wyrastają z piasków pustyni, a tradycyjne suki tętnią życiem obok luksusowych butików. Kraj ten dynamicznie rozwija się jako cel turystyczny, przyciągając zarówno miłośników miejskich atrakcji, jak i poszukiwaczy przygód na bezkresnych wydmach.",
+    "Katar jest idealny dla osób ceniących komfort, luksus i wysokiej klasy usługi. To doskonały kierunek na zimowy wypoczynek, kiedy w Europie panuje chłód, a tutaj słońce świeci bezchmurnie. Spodoba się także tym, którzy szukają ciekawej opcji na kilkudniowy stopover w drodze do Azji czy Australii, oferując intrygującą mieszankę bliskowschodniej kultury i globalnego przepychu. Kraj ten oferuje również świetne warunki dla rodzin z dziećmi, dzięki bezpiecznym i dobrze zorganizowanym atrakcjom.",
+    "Podróż z Polski do Kataru jest coraz łatwiejsza. Istnieją bezpośrednie połączenia lotnicze z Warszawy do Dohy, trwające około 5-6 godzin. Wiele linii lotniczych oferuje również loty z przesiadkami, co daje elastyczność w planowaniu. Coraz więcej polskich biur podróży włącza Katar do swojej zimowej oferty, co świadczy o rosnącej popularności tego kierunku. Przed wyjazdem warto zapoznać się z lokalnymi zwyczajami i przepisami, aby w pełni cieszyć się podróżą."
+  ],
+  "highlights": [
+    "Futurystyczna architektura Dohy",
+    "Pustynne safari i wydmy Khor Al Adaid",
+    "Muzeum Sztuki Islamskiej i Narodowe Muzeum",
+    "Tradycyjny Souq Waqif",
+    "Luksusowe hotele i kurorty",
+    "Rejsy dhow po Zatoce Perskiej"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Kataru to okres od listopada do marca. W tych miesiącach temperatury są przyjemne, oscylując wokół 20-30°C, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Od kwietnia do października panuje tu palące słońce i bardzo wysokie temperatury, często przekraczające 40°C, co może być uciążliwe dla europejskiego turysty. Unikaj podróży w miesiącach letnich, chyba że planujesz spędzać czas wyłącznie w klimatyzowanych pomieszczeniach.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      22,
+      23,
+      27,
+      33,
+      39,
+      42,
+      42,
+      41,
+      39,
+      35,
+      29,
+      24
+    ],
+    "sea": [
+      21,
+      20,
+      22,
+      25,
+      28,
+      30,
+      32,
+      32,
+      31,
+      29,
+      26,
+      23
+    ],
+    "note": "dla Dohy"
+  },
+  "practical": {
+    "flight": "około 5-6 h lotu bezpośredniego",
+    "timeDiff": "+1 lub +2 godziny względem Polski (w zależności od pory roku)",
+    "documents": "Obywatele Polski otrzymują bezpłatną wizę turystyczną po przylocie, ważną do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych przed podróżą na stronie MSZ.",
+    "money": "Walutą jest rial katarski (QAR). Płatności kartą są powszechne, zwłaszcza w większych miastach i centrach handlowych. Warto mieć trochę gotówki na mniejsze zakupy na sukach czy w lokalnych kawiarniach.",
+    "plugs": "Typ G (brytyjski standard, trzy prostokątne bolce). Zalecamy zabranie adaptera.",
+    "language": "Oficjalnym językiem jest arabski, ale angielski jest powszechnie używany w biznesie, turystyce i handlu. Nie ma problemu z komunikacją w języku angielskim.",
+    "safety": "Katar jest krajem bardzo bezpiecznym z niskim wskaźnikiem przestępczości. Należy jednak pamiętać o szacunku dla lokalnych zwyczajów i kultury. Obowiązują surowe przepisy dotyczące alkoholu i ubioru, zwłaszcza w miejscach publicznych. Kobiety powinny ubierać się skromnie, zakrywając ramiona i kolana."
+  },
+  "regions": [
+    {
+      "slug": "doha",
+      "name": "Doha",
+      "loc": "w Ad-Dausze",
+      "type": "miasto",
+      "gygQuery": "Doha",
+      "airport": "Doha (DOH)",
+      "forWhom": "Dla miłośników nowoczesnej architektury, kultury i luksusowego wypoczynku.",
+      "intro": [
+        "Doha to bijące serce Kataru, miasto, które w ostatnich dekadach przeszło spektakularną transformację. Jej futurystyczna panorama, z wieżowcami wznoszącymi się nad Zatoką Perską, jest wizytówką dynamicznego rozwoju kraju. Spacer po Corniche, nadmorskiej promenadzie, oferuje niezapomniane widoki, zwłaszcza o zachodzie słońca.",
+        "Miasto jest domem dla światowej klasy muzeów, takich jak Muzeum Sztuki Islamskiej czy Narodowe Muzeum Kataru, które prezentują bogate dziedzictwo regionu. Tradycyjny Souq Waqif to z kolei miejsce, gdzie można poczuć autentyczną atmosferę, kupić przyprawy, pamiątki i spróbować lokalnych przysmaków. Luksusowe centra handlowe i restauracje z kuchnią z całego świata dopełniają obraz metropolii."
+      ],
+      "highlights": [
+        "Muzeum Sztuki Islamskiej",
+        "Promenada Corniche",
+        "Tradycyjny Souq Waqif",
+        "Wioska Kultury Katara"
+      ]
+    },
+    {
+      "slug": "pustynia-i-poludnie",
+      "name": "Pustynia i Południe",
+      "loc": "na południu Kataru",
+      "type": "region",
+      "gygQuery": "Qatar desert safari",
+      "airport": "Doha (DOH)",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników natury i niezapomnianych widoków.",
+      "intro": [
+        "Poza zgiełkiem Dohy, Katar oferuje rozległe tereny pustynne, które są idealne do eksploracji. Pustynne safari to jedna z najpopularniejszych atrakcji, pozwalająca doświadczyć adrenaliny podczas jazdy po wydmach (tzw. dune bashing). To świetna okazja, aby zobaczyć inny, bardziej surowy krajobraz kraju.",
+        "Na południu kraju znajduje się Khor Al Adaid, znane jako Wewnętrzne Morze - unikalne zjawisko, gdzie morze wdziera się głęboko w pustynię, tworząc malownicze laguny otoczone wydmami. To idealne miejsce na piknik, obserwację ptaków czy po prostu podziwianie ciszy i spokoju pustyni. Można tu również spędzić noc w tradycyjnym beduińskim obozie."
+      ],
+      "highlights": [
+        "Khor Al Adaid (Wewnętrzne Morze)",
+        "Pustynne safari i dune bashing",
+        "Sandboarding na wydmach",
+        "Fort Al Zubarah (UNESCO)"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Muzeum Sztuki Islamskiej (MIA)",
+      "text": "Zaprojektowane przez I.M. Pei, to ikoniczne muzeum prezentuje ponad 14 wieków sztuki islamskiej. Jego architektura i położenie na sztucznej wyspie są równie imponujące, co eksponaty.",
+      "gygQuery": "Museum of Islamic Art Doha"
+    },
+    {
+      "name": "Souq Waqif",
+      "text": "Tradycyjny targ, gdzie można kupić przyprawy, biżuterię, pamiątki i rękodzieło. To idealne miejsce, aby poczuć lokalną atmosferę, zjeść tradycyjny posiłek i obserwować codzienne życie.",
+      "gygQuery": "Souq Waqif Doha"
+    },
+    {
+      "name": "Corniche",
+      "text": "Siedmiokilometrowa promenada nad Zatoką Perską, oferująca spektakularne widoki na panoramę Dohy. Idealna na wieczorny spacer, jogging lub rejs tradycyjną łodzią dhow.",
+      "gygQuery": "Doha Corniche"
+    },
+    {
+      "name": "Wioska Kultury Katara",
+      "text": "Centrum kultury, sztuki i dziedzictwa Kataru, z amfiteatrem, galeriami, restauracjami i prywatną plażą. Często odbywają się tu festiwale i wydarzenia kulturalne.",
+      "gygQuery": "Katara Cultural Village"
+    },
+    {
+      "name": "The Pearl-Qatar",
+      "text": "Luksusowa sztuczna wyspa z ekskluzywnymi butikami, restauracjami, marinami i rezydencjami. To symbol nowoczesnego przepychu i stylu życia w Katarze.",
+      "gygQuery": "The Pearl-Qatar"
+    },
+    {
+      "name": "Narodowe Muzeum Kataru (NMoQ)",
+      "text": "Zaprojektowane przez Jeana Nouvela, przypomina różę pustyni i opowiada historię Kataru od prehistorii po współczesność. To fascynująca podróż przez dziedzictwo kraju.",
+      "gygQuery": "National Museum of Qatar"
+    },
+    {
+      "name": "Khor Al Adaid (Wewnętrzne Morze)",
+      "text": "Unikalny rezerwat przyrody, gdzie morze wdziera się głęboko w pustynię, tworząc zapierające dech w piersiach laguny. Dostępne tylko pojazdami 4x4, często w ramach pustynnego safari.",
+      "gygQuery": "Khor Al Adaid"
+    },
+    {
+      "name": "Fort Al Zubarah",
+      "text": "Zabytkowy fort, wpisany na Listę Światowego Dziedzictwa UNESCO, będący najlepiej zachowanym przykładem XVIII-wiecznej osady handlowej w regionie. Świadectwo bogatej historii Kataru.",
+      "gygQuery": "Al Zubarah Fort"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia katarska, podobnie jak w innych krajach Zatoki Perskiej, opiera się na tradycyjnych daniach arabskich z wpływami indyjskimi i perskimi. Podstawą są ryż, mięso (głównie jagnięcina i kurczak) oraz świeże ryby i owoce morza. Koniecznie spróbuj narodowego dania machboos, czyli ryżu gotowanego z mięsem i przyprawami, oraz harees - pszenicy gotowanej z mięsem. Popularne są także hummus, tabbouleh i świeże pieczywo. W Katarze znajdziesz również szeroki wybór luksusowych restauracji serwujących kuchnie z całego świata, od śródziemnomorskiej po azjatycką."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Kataru?",
+      "a": "Obywatele Polski mogą otrzymać bezpłatną wizę turystyczną po przylocie, ważną do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów przed podróżą."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć do Kataru?",
+      "a": "Najlepszy czas na podróż to miesiące od listopada do marca, kiedy temperatury są przyjemne i sprzyjają zwiedzaniu. Unikaj okresu od maja do września ze względu na bardzo wysokie upały."
+    },
+    {
+      "q": "Jakie są zasady ubioru w Katarze?",
+      "a": "W miejscach publicznych zaleca się skromny ubiór, zwłaszcza dla kobiet. Ramiona i kolana powinny być zakryte. W hotelach i kurortach zasady są bardziej liberalne, ale warto pamiętać o szacunku dla lokalnej kultury."
+    },
+    {
+      "q": "Czy w Katarze można pić alkohol?",
+      "a": "Spożywanie alkoholu jest dozwolone wyłącznie w licencjonowanych hotelach, restauracjach i barach. Publiczne spożywanie alkoholu i jego import są surowo zabronione. Warto pamiętać o umiarze i szacunku dla lokalnych przepisów."
+    },
+    {
+      "q": "Czy Katar jest bezpieczny?",
+      "a": "Katar jest jednym z najbezpieczniejszych krajów na świecie, z bardzo niskim wskaźnikiem przestępczości. Należy jednak zawsze zachować podstawowe środki ostrożności i szanować lokalne prawa oraz zwyczaje."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

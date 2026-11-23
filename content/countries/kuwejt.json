@@ -1,0 +1,205 @@
+{
+  "slug": "kuwejt",
+  "loc": "w Kuwejcie",
+  "to": "do Kuwejtu",
+  "capital": "Kuwejt",
+  "popularity": 7,
+  "touroperator": false,
+  "gygQuery": "Kuwait",
+  "teaser": "Odkryj Kuwejt, kraj bogatej historii i nowoczesności, gdzie tradycja spotyka się z pustynnym krajobrazem i architektonicznymi cudami.",
+  "intro": [
+    "Kuwejt, kraj położony nad Zatoką Perską, to fascynujące połączenie głęboko zakorzenionej kultury arabskiej z ultranowoczesnym rozwojem napędzanym bogactwem ropy naftowej. Nie jest to typowy kierunek masowej turystyki, co czyni go atrakcyjnym dla podróżników szukających autentycznych doświadczeń i poznawania Bliskiego Wschodu z innej perspektywy. Znajdziesz tu imponujące drapacze chmur, luksusowe centra handlowe, ale także tradycyjne souki i ślady starożytnych cywilizacji.",
+    "To idealne miejsce dla osób ciekawych świata, które cenią sobie odkrywanie mniej uczęszczanych szlaków i zanurzanie się w lokalnej kulturze. Kuwejt oferuje unikalną mieszankę nowoczesności i tradycji, z możliwością poznania historii regionu, podziwiania pustynnych krajobrazów i delektowania się wyśmienitą kuchnią. Nie spodziewaj się tu jednak rozrywek typowych dla kurortów, raczej spokojnego odkrywania i obcowania z lokalnym życiem.",
+    "Podróż z Polski do Kuwejtu zazwyczaj wymaga jednej przesiadki, najczęściej w Stambule, Dubaju lub Dosze, a czas lotu wynosi około 6-8 godzin. Obywatele Polski potrzebują wizy, którą można uzyskać elektronicznie przed wylotem, co znacznie ułatwia proces. Pamiętaj, aby przed wyjazdem sprawdzić aktualne wymogi wizowe na stronach rządowych, gdyż mogą one ulec zmianie."
+  ],
+  "highlights": [
+    "Ikoniczne Kuwejt Towers",
+    "Tradycyjny Souk Al-Mubarakiya",
+    "Imponujący Wielki Meczet",
+    "Historia na Wyspie Failaka",
+    "Pustynne safari i beduińskie tradycje",
+    "Nowoczesne muzea i centra kultury"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Kuwejtu to miesiące zimowe, od listopada do marca, kiedy temperatury są umiarkowane i przyjemne do zwiedzania. Lato, od maja do września, charakteryzuje się ekstremalnymi upałami, często przekraczającymi 45 stopni Celsjusza, co czyni zwiedzanie bardzo męczącym. Wiosna i jesień (kwiecień, październik) również są akceptowalne, choć temperatury zaczynają już rosnąć lub jeszcze są wysokie.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      10,
+      4
+    ]
+  },
+  "climate": {
+    "air": [
+      19,
+      22,
+      27,
+      34,
+      40,
+      45,
+      47,
+      47,
+      43,
+      37,
+      28,
+      22
+    ],
+    "sea": [
+      18,
+      17,
+      20,
+      24,
+      28,
+      30,
+      32,
+      33,
+      32,
+      29,
+      24,
+      20
+    ],
+    "note": "dla miasta Kuwejt"
+  },
+  "practical": {
+    "flight": "około 6-8 h z przesiadką",
+    "timeDiff": "Kuwejt: UTC+3. Względem Polski: +2h zimą, +1h latem.",
+    "documents": "Obywatele Polski potrzebują wizy, którą można uzyskać online (e-wiza) przed wylotem. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych RP lub ambasady Kuwejtu przed podróżą.",
+    "money": "Walutą jest dinar kuwejcki (KWD), jedna z najmocniejszych walut na świecie. Płatności kartą są powszechne w większych sklepach, restauracjach i hotelach. Na lokalnych targach i w mniejszych punktach usługowych przyda się gotówka. Bankomaty są łatwo dostępne.",
+    "plugs": "Typ G (brytyjski), z trzema prostokątnymi bolcami. Warto zabrać ze sobą adapter.",
+    "language": "Oficjalnym językiem jest arabski. Angielski jest szeroko używany w biznesie, turystyce i wśród młodszych pokoleń, więc komunikacja nie powinna stanowić problemu.",
+    "safety": "Kuwejt jest krajem stosunkowo bezpiecznym dla turystów. Należy jednak zachować podstawowe środki ostrożności, unikać zgromadzeń publicznych i manifestacji. Ważne jest przestrzeganie lokalnych norm kulturowych, zwłaszcza w kwestii ubioru i zachowania w miejscach publicznych. Kobiety powinny ubierać się skromnie, zakrywając ramiona i kolana. Ryzyko zdrowotne jest niskie, głównie związane z upałem w lecie. Zaleca się picie dużej ilości wody butelkowanej."
+  },
+  "regions": [
+    {
+      "slug": "miasto-kuwejt",
+      "name": "Miasto Kuwejt",
+      "loc": "w Mieście Kuwejt",
+      "type": "miasto",
+      "gygQuery": "Kuwait City",
+      "airport": "KWI",
+      "forWhom": "Idealne dla miłośników nowoczesnej architektury, kultury i tradycyjnych rynków.",
+      "intro": [
+        "Stolica Kuwejtu to tętniące życiem centrum kraju, gdzie nowoczesne drapacze chmur wznoszą się obok historycznych budowli. Miasto jest domem dla ikonicznych Kuwejt Towers, symbolu postępu i rozwoju, które oferują panoramiczne widoki na Zatokę Perską. To tutaj znajdziesz również Wielki Meczet, imponujące centrum islamskiej architektury i duchowości, otwarte dla zwiedzających poza godzinami modlitw.",
+        "Miasto Kuwejt to także miejsce, gdzie można poczuć puls tradycyjnego życia na Souk Al-Mubarakiya, jednym z najstarszych rynków w regionie. Można tu kupić przyprawy, perfumy, złoto, a także spróbować lokalnych przysmaków. Liczne muzea, takie jak Muzeum Narodowe Kuwejtu czy Dar Al Athar Al Islamiyyah, oferują wgląd w bogatą historię i dziedzictwo kulturowe kraju."
+      ],
+      "highlights": [
+        "Kuwejt Towers",
+        "Souk Al-Mubarakiya",
+        "Wielki Meczet",
+        "Muzeum Narodowe Kuwejtu"
+      ]
+    },
+    {
+      "slug": "wyspa-failaka",
+      "name": "Wyspa Failaka",
+      "loc": "na Wyspie Failaka",
+      "type": "wyspa",
+      "gygQuery": "Failaka Island",
+      "airport": "KWI",
+      "forWhom": "Dla poszukiwaczy historii i spokoju, uciekających od zgiełku miasta.",
+      "intro": [
+        "Wyspa Failaka, położona około 20 km od wybrzeży Kuwejtu, to miejsce o niezwykłej historii, sięgającej czasów starożytnych cywilizacji Dilmun i Mezopotamii. Była ważnym ośrodkiem handlowym i strategicznym, a ślady obecności Greków, w tym ruiny świątyń i fortec, świadczą o jej znaczeniu w epoce hellenistycznej. Dziś wyspa jest świadectwem burzliwej przeszłości, w tym zniszczeń z czasów inwazji Iraku.",
+        "Podróż na Failakę to okazja do zobaczenia opuszczonych wiosek, zrujnowanych budynków i pozostałości po dawnych mieszkańcach, co nadaje jej nieco melancholijny, ale fascynujący charakter. Wyspa jest dostępna promem z Kuwejtu i stanowi ciekawe miejsce na jednodniową wycieczkę dla tych, którzy chcą połączyć relaks z odkrywaniem archeologicznych skarbów i spokojnej atmosfery."
+      ],
+      "highlights": [
+        "Ruiny greckie i Dilmun",
+        "Opuszczone wioski",
+        "Plażowanie i spokój",
+        "Rejs promem po Zatoce"
+      ]
+    },
+    {
+      "slug": "al-jahra",
+      "name": "Al-Jahra",
+      "loc": "w Al-Jahra",
+      "type": "miasto",
+      "gygQuery": "Al Jahra Kuwait",
+      "airport": "KWI",
+      "forWhom": "Dla zainteresowanych historią Kuwejtu i obserwacją ptaków w rezerwatach.",
+      "intro": [
+        "Al-Jahra to historyczne miasto położone na zachód od stolicy, znane z ważnej roli w historii Kuwejtu, w tym z bitwy pod Jahra w 1920 roku. Centralnym punktem jest tu Czerwony Fort, symbol oporu i dziedzictwa narodowego, który dziś pełni funkcję muzeum. Miasto oferuje wgląd w bardziej tradycyjny styl życia niż nowoczesna stolica, z własnym, tętniącym życiem soukiem.",
+        "Okolice Al-Jahra są również atrakcyjne dla miłośników przyrody, ze względu na bliskość rezerwatów przyrody, takich jak Jahra Pools Nature Reserve. Jest to ważne miejsce dla ptaków wędrownych i lokalnej fauny, oferujące doskonałe możliwości do obserwacji ptaków. To dobry kierunek dla tych, którzy chcą poznać Kuwejt poza miejskimi atrakcjami i zanurzyć się w jego historycznym i naturalnym krajobrazie."
+      ],
+      "highlights": [
+        "Czerwony Fort",
+        "Rezerwat Jahra Pools",
+        "Tradycyjny souk Al-Jahra",
+        "Historia bitwy pod Jahra"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kuwejt Towers",
+      "text": "Trzy ikoniczne wieże, symbol Kuwejtu, oferujące restauracje i platformę widokową z zapierającymi dech w piersiach panoramami miasta i Zatoki Perskiej.",
+      "gygQuery": "Kuwait Towers"
+    },
+    {
+      "name": "Souk Al-Mubarakiya",
+      "text": "Jeden z najstarszych i najbardziej autentycznych rynków w Kuwejcie, gdzie można kupić przyprawy, złoto, perfumy, ubrania i spróbować lokalnych potraw.",
+      "gygQuery": "Souk Al-Mubarakiya"
+    },
+    {
+      "name": "Wielki Meczet (Grand Mosque)",
+      "text": "Największy meczet w Kuwejcie, imponujący przykład architektury islamskiej, dostępny dla zwiedzających (z zachowaniem odpowiedniego stroju).",
+      "gygQuery": "Grand Mosque Kuwait"
+    },
+    {
+      "name": "Muzeum Narodowe Kuwejtu",
+      "text": "Muzeum prezentujące historię, kulturę i archeologię Kuwejtu, z kolekcjami artefaktów z czasów prehistorycznych po współczesność.",
+      "gygQuery": "Kuwait National Museum"
+    },
+    {
+      "name": "Dar Al Athar Al Islamiyyah (Tareq Rajab Museum)",
+      "text": "Prywatne muzeum z imponującą kolekcją sztuki islamskiej, ceramiki, biżuterii, manuskryptów i instrumentów muzycznych z całego świata islamskiego.",
+      "gygQuery": "Tareq Rajab Museum"
+    },
+    {
+      "name": "The Avenues Mall",
+      "text": "Jedno z największych centrów handlowych na Bliskim Wschodzie, oferujące luksusowe butiki, restauracje, kino i rozrywkę - przykład nowoczesności Kuwejtu.",
+      "gygQuery": "The Avenues Mall Kuwait"
+    },
+    {
+      "name": "Scientific Center",
+      "text": "Kompleks edukacyjno-rozrywkowy z akwarium, centrum odkryć naukowych i kinem IMAX, idealny dla rodzin i ciekawych świata.",
+      "gygQuery": "Scientific Center Kuwait"
+    },
+    {
+      "name": "Pustynne Safari",
+      "text": "Wycieczka na pustynię, by doświadczyć tradycyjnego życia Beduinów, przejechać się po wydmach i podziwiać gwieździste niebo.",
+      "gygQuery": "Kuwait desert safari"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia kuwejcka to fascynująca mieszanka wpływów arabskich, perskich i indyjskich, z dużą ilością świeżych owoców morza. Podstawą wielu dań jest ryż, często podawany z jagnięciną, kurczakiem lub rybą. Jednym z najbardziej znanych dań jest machboos, czyli ryż gotowany z przyprawami i mięsem. Popularne są także harees (gęsta owsianka z pszenicy i mięsa) oraz gabout (pierogi w sosie warzywnym). Nie brakuje tu również świeżych warzyw, chleba pita i różnorodnych słodyczy, często na bazie daktyli i orzechów. Do posiłków często podaje się mocną kawę arabską lub herbatę."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kuwejt jest bezpieczny dla turystów?",
+      "a": "Tak, Kuwejt jest uważany za bezpieczny kraj dla turystów. Należy jednak przestrzegać lokalnych zwyczajów, unikać demonstracji i zachować ostrożność, jak w każdym innym miejscu."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Kuwejtu?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Kuwejtu. Można ją uzyskać elektronicznie (e-wiza) przed podróżą, co jest najwygodniejszą opcją. Zawsze sprawdź aktualne wymogi wizowe przed wyjazdem."
+    },
+    {
+      "q": "Jak się ubrać w Kuwejcie?",
+      "a": "W Kuwejcie zaleca się skromny strój, zwłaszcza w miejscach publicznych i sakralnych. Kobiety powinny zakrywać ramiona i kolana, a mężczyźni unikać krótkich spodenek. W hotelach i prywatnych obiektach zasady są luźniejsze."
+    },
+    {
+      "q": "Jaka jest waluta w Kuwejcie i czy płatności kartą są popularne?",
+      "a": "Walutą jest dinar kuwejcki (KWD). Płatności kartą są szeroko akceptowane w większych sklepach, restauracjach i hotelach. Na targach i w mniejszych punktach warto mieć gotówkę. Bankomaty są łatwo dostępne."
+    },
+    {
+      "q": "Czy Kuwejt to dobry kierunek na wakacje z dziećmi?",
+      "a": "Kuwejt może być ciekawym kierunkiem dla rodzin z dziećmi, oferującym centra naukowe, akwaria i parki. Ważne jest jednak, aby unikać podróży w miesiącach letnich z powodu ekstremalnych upałów."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,216 @@
+{
+  "slug": "libia",
+  "loc": "w Libii",
+  "to": "do Libii",
+  "capital": "Trypolis",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Libya",
+  "teaser": "Libia to kraj o bogatej historii i imponujących ruinach, ale obecnie podróżowanie tam jest bardzo utrudnione i niebezpieczne.",
+  "intro": [
+    "Libia, kraj o niezwykłym dziedzictwie historycznym, od starożytnych ruin rzymskich i greckich po rozległe obszary Sahary, zawsze intrygowała podróżników. Niestety, od wielu lat pozostaje poza zasięgiem typowej turystyki, borykając się z poważnymi problemami wewnętrznymi. Potencjał tego miejsca jest ogromny, ale obecna sytuacja bezpieczeństwa sprawia, że jest to kierunek ekstremalny. Krajobrazy wybrzeża Morza Śródziemnego kontrastują tu z bezkresnymi wydmami, tworząc unikalne połączenie kultury i natury.",
+    "Obecnie Libia nie jest celem podróży dla przeciętnego turysty. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do tego kraju ze względu na niestabilną sytuację polityczną, konflikty zbrojne oraz wysokie ryzyko terroryzmu i porwań. Jest to kierunek wyłącznie dla bardzo doświadczonych podróżników, badaczy czy dziennikarzy, którzy są świadomi zagrożeń i mają zapewnione profesjonalne wsparcie na miejscu. Brak opieki konsularnej dodatkowo komplikuje sytuację.",
+    "Podróż z Polski do Libii jest obecnie bardzo skomplikowana i niezalecana. Brak bezpośrednich połączeń lotniczych wymusza przesiadki, a uzyskanie wizy jest niezwykle trudne i wymaga specjalnego zaproszenia. Nawet po wjeździe, poruszanie się po kraju bez lokalnego przewodnika i ochrony jest niebezpieczne i odradzane. Zdecydowanie należy śledzić aktualne komunikaty MSZ przed podjęciem jakichkolwiek decyzji o podróży."
+  ],
+  "highlights": [
+    "Ruiny Leptis Magna (UNESCO)",
+    "Starożytne miasto Sabrata (UNESCO)",
+    "Pustynia Sahara i oazy",
+    "Muzeum Czerwonego Zamku w Trypolisie",
+    "Ghadames - miasto oazowe (UNESCO)",
+    "Greckie ruiny Cyreny (UNESCO)"
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na podróż do Libii są miesiące wiosenne (marzec, kwiecień) oraz jesienne (październik, listopad). W tym okresie temperatury są umiarkowane i sprzyjają zwiedzaniu. Lato jest bardzo gorące, zwłaszcza w głębi lądu, a zima może przynieść deszcze, szczególnie na wybrzeżu. Odradza się podróże w szczycie lata.",
+    "best": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "ok": [
+      2,
+      5,
+      9,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      18,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34,
+      34,
+      32,
+      29,
+      24,
+      19
+    ],
+    "sea": [
+      17,
+      16,
+      17,
+      18,
+      20,
+      23,
+      26,
+      27,
+      27,
+      25,
+      22,
+      19
+    ],
+    "note": "dla Trypolisu"
+  },
+  "practical": {
+    "flight": "Brak bezpośrednich lotów z Polski, podróż z przesiadkami, czas lotu to około 8-12 godzin w zależności od połączeń.",
+    "timeDiff": "GMT+2, czyli +1 godzina względem Polski w okresie czasu zimowego w Polsce. W okresie letnim czas jest taki sam.",
+    "documents": "Wiza jest wymagana. Proces uzyskania wizy jest skomplikowany i wymaga zaproszenia. Należy bezwzględnie sprawdzić aktualne wymogi wizowe w Ambasadzie Libii przed planowaną podróżą. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu.",
+    "money": "Waluta to dinar libijski (LYD). Płatności kartą są bardzo ograniczone, dominują transakcje gotówkowe. Wymiana walut możliwa w bankach.",
+    "plugs": "Typ C, D, F, G, L. Zalecany adapter uniwersalny.",
+    "language": "Arabski jest językiem urzędowym. Angielski jest rzadziej używany, głównie w biznesie.",
+    "safety": "MSZ odradza wszelkie podróże do Libii. Sytuacja bezpieczeństwa jest niestabilna, istnieje wysokie ryzyko ataków terrorystycznych, porwań i konfliktów zbrojnych. Podróżowanie jest możliwe tylko z lokalnym przewodnikiem i ochroną. Brak opieki konsularnej. Należy bezwzględnie śledzić ostrzeżenia MSZ."
+  },
+  "regions": [
+    {
+      "slug": "trypolis",
+      "name": "Trypolis",
+      "loc": "w Trypolisie",
+      "type": "miasto",
+      "gygQuery": "Tripoli Libya",
+      "airport": "TIP",
+      "forWhom": "Dla podróżników zainteresowanych historią i kulturą, świadomych ryzyka.",
+      "intro": [
+        "Trypolis, stolica Libii, to miasto o bogatej historii, gdzie wpływy osmańskie, włoskie i arabskie splatają się w unikalną mozaikę. Jego medyna, wpisana na listę UNESCO, jest labiryntem wąskich uliczek, tętniących życiem suków i zabytkowych meczetów. Pomimo trudnej sytuacji, miasto wciąż kryje wiele architektonicznych perełek.",
+        "W sercu Trypolisu znajduje się Muzeum Czerwonego Zamku, które gromadzi artefakty z całej historii Libii, od czasów prehistorycznych po współczesność. Spacerując po Starym Mieście, można natknąć się na Łuk Marka Aureliusza, pozostałość po rzymskiej przeszłości miasta. Trypolis, choć obecnie niedostępny dla turystyki masowej, pozostaje ważnym ośrodkiem kulturalnym."
+      ],
+      "highlights": [
+        "Stare Miasto (Medyna)",
+        "Suk al-Mushir",
+        "Łuk Marka Aureliusza",
+        "Muzeum Czerwonego Zamku"
+      ]
+    },
+    {
+      "slug": "leptis-magna",
+      "name": "Leptis Magna",
+      "loc": "w Leptis Magna",
+      "type": "stanowisko archeologiczne",
+      "gygQuery": "Leptis Magna",
+      "airport": "TIP",
+      "forWhom": "Dla miłośników starożytnej historii i architektury rzymskiej.",
+      "intro": [
+        "Leptis Magna to jedno z najlepiej zachowanych starożytnych miast rzymskich na świecie, położone na wybrzeżu Morza Śródziemnego. Jego monumentalne ruiny, wpisane na listę światowego dziedzictwa UNESCO, świadczą o dawnej potędze i bogactwie. Miasto było ojczyzną cesarza Septymiusza Sewera, który hojnie je rozbudował.",
+        "Na terenie Leptis Magna można podziwiać imponujący teatr, ogromne forum, bazylikę, termy oraz łuk triumfalny. Spacerując po tych ruinach, można niemal poczuć atmosferę starożytnego Rzymu. Pomimo niestabilnej sytuacji w kraju, to miejsce pozostaje bezcennym świadectwem historii."
+      ],
+      "highlights": [
+        "Łuk Septymiusza Sewera",
+        "Teatr rzymski",
+        "Forum i Bazylika",
+        "Termy Hadriana"
+      ]
+    },
+    {
+      "slug": "sabrata",
+      "name": "Sabrata",
+      "loc": "w Sabracie",
+      "type": "stanowisko archeologiczne",
+      "gygQuery": "Sabratha",
+      "airport": "TIP",
+      "forWhom": "Dla entuzjastów starożytnych cywilizacji, szczególnie rzymskich teatrów.",
+      "intro": [
+        "Sabrata, kolejne starożytne miasto rzymskie na wybrzeżu Libii, jest znana przede wszystkim z doskonale zachowanego teatru. To imponujące dzieło architektury, z trzema piętrami kolumnady, jest jednym z najpiękniejszych w regionie. Miasto również znajduje się na liście światowego dziedzictwa UNESCO.",
+        "Oprócz teatru, w Sabracie znajdują się ruiny forum, świątyń oraz wczesnochrześcijańskich bazylik, świadczących o jej bogatej historii. Bliskość morza dodaje uroku temu miejscu, które niegdyś było ważnym portem handlowym. Archeologiczne odkrycia wciąż dostarczają nowych informacji o tej starożytnej osadzie."
+      ],
+      "highlights": [
+        "Teatr rzymski",
+        "Forum",
+        "Świątynia Antonina",
+        "Muzeum archeologiczne"
+      ]
+    },
+    {
+      "slug": "ghadames",
+      "name": "Ghadames",
+      "loc": "w Ghadames",
+      "type": "miasto oazowe",
+      "gygQuery": "Ghadames",
+      "airport": "GDM",
+      "forWhom": "Dla poszukiwaczy unikalnej architektury pustynnej i kultury Tuaregów.",
+      "intro": [
+        "Ghadames, nazywane \"Perłą Pustyni\", to unikatowe miasto oazowe położone na Saharze, blisko granicy z Tunezją i Algierią. Jego stare miasto, wpisane na listę UNESCO, wyróżnia się tradycyjną glinianą architekturą i labiryntem zadaszonych przejść. Ten system uliczek chroni mieszkańców przed palącym słońcem pustyni.",
+        "Miasto jest domem dla Tuaregów, a jego tradycyjna zabudowa pozwala na utrzymanie chłodu w upalne dni. Spacer po Ghadames to podróż w czasie, gdzie można podziwiać autentyczne domy i poczuć klimat dawnej oazy. To miejsce, choć trudno dostępne, oferuje niezwykłe doświadczenie kulturowe."
+      ],
+      "highlights": [
+        "Stare Miasto Ghadames",
+        "Tradycyjne domy Tuaregów",
+        "System zadaszonych uliczek",
+        "Oaza Ghadames"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Leptis Magna",
+      "text": "Imponujące ruiny rzymskiego miasta portowego, wpisane na listę UNESCO, z doskonale zachowanymi termami, teatrem i forami.",
+      "gygQuery": "Leptis Magna"
+    },
+    {
+      "name": "Sabrata",
+      "text": "Kolejne starożytne miasto rzymskie na wybrzeżu, słynące z monumentalnego teatru, który wciąż zachwyca swoją skalą i detalami.",
+      "gygQuery": "Sabratha"
+    },
+    {
+      "name": "Trypolis (Stare Miasto)",
+      "text": "Medyna w Trypolisie to labirynt wąskich uliczek, meczetów i suków, gdzie można poczuć puls dawnego życia miasta.",
+      "gygQuery": "Tripoli Old City"
+    },
+    {
+      "name": "Muzeum Czerwonego Zamku",
+      "text": "Ważne muzeum narodowe w Trypolisie, prezentujące bogatą historię Libii od czasów prehistorycznych po współczesność.",
+      "gygQuery": "Red Castle Museum Tripoli"
+    },
+    {
+      "name": "Ghadames (Stare Miasto)",
+      "text": "Unikatowe miasto oazowe na Saharze, znane z glinianej architektury i systemu podziemnych przejść chroniących przed upałem.",
+      "gygQuery": "Ghadames Old City"
+    },
+    {
+      "name": "Cyrena (Kyrene)",
+      "text": "Ruiny starożytnej greckiej kolonii, jednego z najważniejszych miast hellenistycznego świata, z pięknymi świątyniami i nekropoliami.",
+      "gygQuery": "Cyrene Libya"
+    },
+    {
+      "name": "Pustynia Sahara",
+      "text": "Rozległe obszary pustyni, w tym wydmy Erg Murzuq, oferują krajobrazy zapierające dech w piersiach, dostępne jednak tylko z dużą ostrożnością.",
+      "gygQuery": "Libyan Desert"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia libijska to mieszanka wpływów arabskich, berberyjskich i śródziemnomorskich. Podstawą są kuskus, ryż, warzywa, jagnięcina i kurczak. Popularne dania to bazin (rodzaj chleba z sosem), shurba (zupa) oraz tagine. Dużo używa się oliwy z oliwek, pomidorów i ostrych przypraw. Ze względu na przepisy religijne, alkohol jest niedostępny."
+  ],
+  "faq": [
+    {
+      "q": "Czy Libia jest bezpieczna dla turystów?",
+      "a": "Obecnie Libia jest krajem bardzo niebezpiecznym. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże. Istnieje wysokie ryzyko konfliktów zbrojnych, terroryzmu i porwań."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Libii?",
+      "a": "Wymagana jest wiza, której uzyskanie jest skomplikowane i wymaga zaproszenia. Paszport musi być ważny co najmniej 6 miesięcy. Należy sprawdzić aktualne wymogi w ambasadzie."
+    },
+    {
+      "q": "Czy można podróżować po Libii samodzielnie?",
+      "a": "Zdecydowanie nie jest to zalecane. Podróżowanie po Libii bez lokalnego przewodnika i odpowiedniej ochrony jest niezwykle ryzykowne i może prowadzić do poważnych konsekwencji."
+    },
+    {
+      "q": "Jaka jest waluta w Libii i czy można płacić kartą?",
+      "a": "Walutą jest dinar libijski (LYD). Płatności kartą są rzadkością, dominują transakcje gotówkowe. Warto mieć przy sobie wystarczającą ilość gotówki."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

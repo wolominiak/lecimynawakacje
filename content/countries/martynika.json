@@ -1,0 +1,199 @@
+{
+  "slug": "martynika",
+  "loc": "na Martynice",
+  "to": "na Martynikę",
+  "capital": "Fort-de-France",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Martinique",
+  "teaser": "Martynika to francuska elegancja w karaibskim wydaniu, idealna na egzotyczny urlop z nutką europejskiego komfortu. Odkryj wulkany, plaże i kreolską kulturę.",
+  "intro": [
+    "Martynika, zamorska część Francji, to prawdziwa perła Karaibów, która łączy europejski szyk z tropikalną swobodą. Przyciąga bujną, wulkaniczną scenerią, piaszczystymi plażami i unikalną kulturą kreolską. To idealne miejsce dla tych, którzy szukają egzotyki, ale cenią sobie dobrą infrastrukturę i wysokie standardy.",
+    "Wyspa jest doskonała dla miłośników aktywnego wypoczynku, pieszych wędrówek po górach i dżungli, a także dla amatorów sportów wodnych. Równie dobrze odnajdą się tu osoby pragnące relaksu na białych plażach i poznawania lokalnej kuchni. Martynika nie jest miejscem dla podróżników szukających bardzo budżetowych rozwiązań.",
+    "Podróż z Polski na Martynikę wymaga zazwyczaj jednej lub dwóch przesiadek, najczęściej w Paryżu. Nie ma bezpośrednich lotów, więc należy liczyć się z długą podróżą, trwającą około 12-14 godzin. Dzięki przynależności do Francji, obywatele Polski nie potrzebują wizy, a na miejscu obowiązuje waluta euro, co ułatwia planowanie wydatków."
+  ],
+  "highlights": [
+    "Wulkan Mont Pelée",
+    "Plaża Les Salines",
+    "Destylarnie rumu agricole",
+    "Ogrody Balata",
+    "Kreolska kuchnia",
+    "Sporty wodne"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Martynice to pora sucha, która trwa od grudnia do maja. W tym okresie panują idealne warunki pogodowe z niewielkimi opadami i przyjemnymi temperaturami. Od czerwca do listopada trwa pora deszczowa, a także sezon huraganów, z największym ryzykiem we wrześniu i październiku.",
+    "best": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      28,
+      28,
+      29,
+      30,
+      30,
+      30,
+      30,
+      31,
+      31,
+      30,
+      29,
+      28
+    ],
+    "sea": [
+      27,
+      26,
+      27,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27
+    ],
+    "note": "dla Fort-de-France"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "zimą -5 h, latem -6 h",
+    "documents": "Ważny paszport lub dowód osobisty. Brak wymogu wizy. Zawsze sprawdź aktualne wymogi przed podróżą.",
+    "money": "Euro (EUR). Płatności kartą są powszechne, ale gotówka przyda się na lokalnych targach i w mniejszych punktach.",
+    "plugs": "Typ E (jak w Polsce), 220V.",
+    "language": "Francuski (oficjalny), kreolski (używany lokalnie). Angielski sporadycznie w turystycznych miejscach.",
+    "safety": "Ogólnie bezpiecznie, ale zaleca się ostrożność, zwłaszcza po zmroku w niektórych dzielnicach Fort-de-France. Standard opieki zdrowotnej jest wysoki, jak we Francji. Zalecane ubezpieczenie podróżne."
+  },
+  "regions": [
+    {
+      "slug": "fort-de-france",
+      "name": "Fort-de-France",
+      "loc": "w Fort-de-France",
+      "type": "miasto",
+      "gygQuery": "Fort-de-France Martinique",
+      "airport": "FDF",
+      "forWhom": "Dla miłośników miejskiego zgiełku, historii i kultury, a także jako baza wypadowa.",
+      "intro": [
+        "Stolica Martyniki to tętniące życiem miasto, będące sercem wyspy. Znajdziemy tu kolonialną architekturę, lokalne targi i liczne restauracje, które oferują zarówno francuskie, jak i kreolskie specjały.",
+        "Miasto oferuje mieszankę francuskiej elegancji i karaibskiej swobody. Warto zobaczyć imponującą Bibliotekę Schoelchera, Katedrę św. Ludwika oraz Fort Saint-Louis z pięknymi widokami na zatokę."
+      ],
+      "highlights": [
+        "Targ Grand Marché",
+        "Fort Saint-Louis",
+        "Biblioteka Schoelchera",
+        "Muzeum Josephine"
+      ]
+    },
+    {
+      "slug": "polnocna-martynika",
+      "name": "Północna Martynika",
+      "loc": "na Północnej Martynice",
+      "type": "region",
+      "gygQuery": "Northern Martinique",
+      "airport": "FDF",
+      "forWhom": "Idealna dla aktywnych podróżników, miłośników natury, pieszych wędrówek i wulkanicznych krajobrazów.",
+      "intro": [
+        "Północ wyspy to królestwo bujnej, tropikalnej roślinności i majestatycznego wulkanu Mont Pelée. To tutaj znajdują się najbardziej spektakularne szlaki trekkingowe, wodospady i dzikie, czarne plaże wulkaniczne.",
+        "Region ten jest mniej zabudowany i oferuje autentyczne doświadczenia. Warto odwiedzić słynne destylarnie rumu, takie jak Habitation Saint-Étienne, aby poznać proces produkcji i skosztować lokalnych trunków."
+      ],
+      "highlights": [
+        "Wulkan Mont Pelée",
+        "Ogrody Balata",
+        "Szlaki trekkingowe",
+        "Destylarnie rumu"
+      ]
+    },
+    {
+      "slug": "poludniowa-martynika",
+      "name": "Południowa Martynika",
+      "loc": "na Południowej Martynice",
+      "type": "region",
+      "gygQuery": "Southern Martinique",
+      "airport": "FDF",
+      "forWhom": "Dla tych, którzy szukają słońca, białych plaż, sportów wodnych i relaksu w urokliwych zatoczkach.",
+      "intro": [
+        "Południe Martyniki to kwintesencja karaibskiego raju z białymi, piaszczystymi plażami i krystalicznie czystą wodą. Znajdziemy tu popularne kurorty, spokojne wioski rybackie i malownicze zatoczki idealne do kąpieli.",
+        "Region jest idealny do pływania, snorkelingu i windsurfingu. Warto odwiedzić Anse des Salines, jedną z najpiękniejszych plaż na wyspie, oraz podziwiać charakterystyczną skałę Rocher du Diamant."
+      ],
+      "highlights": [
+        "Plaża Les Salines",
+        "Le Diamant i Rocher du Diamant",
+        "Trois-Ilets",
+        "Sporty wodne"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Mont Pelée",
+      "text": "Aktywny wulkan, którego szczyt często spowijają chmury. Oferuje wymagające szlaki trekkingowe i spektakularne widoki na wyspę oraz Morze Karaibskie.",
+      "gygQuery": "Mount Pelee Martinique"
+    },
+    {
+      "name": "Jardin de Balata",
+      "text": "Przepiękny ogród botaniczny z tysiącami gatunków roślin tropikalnych, położony w sercu dżungli. Warto przejść się po wiszących mostach, aby podziwiać florę z góry.",
+      "gygQuery": "Jardin de Balata"
+    },
+    {
+      "name": "Plaża Les Salines",
+      "text": "Uważana za jedną z najpiękniejszych plaż na Karaibach, z drobnym, białym piaskiem i turkusową wodą, otoczona palmami kokosowymi. Idealna do relaksu i kąpieli.",
+      "gygQuery": "Anse des Salines Martinique"
+    },
+    {
+      "name": "Destylarnie rumu (np. Habitation Clément)",
+      "text": "Martynika słynie z produkcji doskonałego rumu agricole. W wielu destylarniach można zwiedzić plantacje, poznać proces produkcji i oczywiście spróbować lokalnych trunków.",
+      "gygQuery": "Martinique rum distillery tour"
+    },
+    {
+      "name": "Rocher du Diamant",
+      "text": "Charakterystyczna skała wulkaniczna wystająca z morza u wybrzeży południowej Martyniki. Jest to rezerwat przyrody i popularne miejsce do nurkowania z bogatym życiem morskim.",
+      "gygQuery": "Diamond Rock Martinique"
+    },
+    {
+      "name": "Saint-Pierre",
+      "text": "Historyczne miasto, które zostało zniszczone przez erupcję Mont Pelée w 1902 roku. Nazywane 'karaibskimi Pompejami', dziś oferuje ruiny i muzeum poświęcone katastrofie.",
+      "gygQuery": "Saint-Pierre Martinique"
+    },
+    {
+      "name": "Les Gorges de la Falaise",
+      "text": "Malowniczy wąwóz rzeki Falaise, gdzie można podziwiać wodospady i formacje skalne. To popularne miejsce do canyoningu i orzeźwiającej kąpieli w naturalnych basenach.",
+      "gygQuery": "Gorges de la Falaise Martinique"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Martyniki to fascynujące połączenie smaków francuskich i kreolskich, z silnym wpływem afrykańskim i indyjskim. Królują świeże owoce morza i ryby, podawane z tropikalnymi owocami i aromatycznymi przyprawami. Do popularnych dań należą accras (smażone placuszki z dorsza), boudin créole (kreolska kaszanka), colombo (lokalna wersja curry) oraz grillowane ryby i homary. Martynika jest również ojczyzną słynnego rumu agricole, który jest podstawą wielu koktajli i ważnym elementem kultury kulinarnej wyspy."
+  ],
+  "faq": [
+    {
+      "q": "Czy na Martynice jest bezpiecznie?",
+      "a": "Martynika jest ogólnie bezpiecznym kierunkiem turystycznym. Zaleca się jednak zachowanie podstawowych środków ostrożności, zwłaszcza w większych miastach i po zmroku, aby uniknąć drobnych kradzieży."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Martynice?",
+      "a": "Na Martynice, jako zamorskim departamencie Francji, obowiązuje euro (EUR). Płatności kartą są szeroko akceptowane, ale warto mieć przy sobie gotówkę na drobne wydatki."
+    },
+    {
+      "q": "Jak dostać się na Martynikę z Polski?",
+      "a": "Z Polski na Martynikę nie ma bezpośrednich lotów. Podróż wymaga zazwyczaj jednej lub dwóch przesiadek, najczęściej w Paryżu. Całkowity czas lotu wynosi około 12-14 godzin."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Martynikę?",
+      "a": "Najlepszy czas na wizytę na Martynice to pora sucha, trwająca od grudnia do maja. W tym okresie panują najbardziej stabilne warunki pogodowe z mniejszymi opadami i przyjemnymi temperaturami."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Martynikę?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy, aby wjechać na Martynikę. Wystarczy ważny paszport lub dowód osobisty, ponieważ wyspa jest częścią terytorium Francji."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

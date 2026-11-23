@@ -1,0 +1,209 @@
+{
+  "slug": "kirgistan",
+  "loc": "w Kirgistanie",
+  "to": "do Kirgistanu",
+  "capital": "Biszkek",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Kyrgyzstan",
+  "teaser": "Kirgistan to esencja Azji Centralnej: dzikie góry, szlaki Jedwabnego Szlaku i autentyczna kultura nomadów czekają na odkrycie.",
+  "intro": [
+    "Kirgistan, perła Azji Centralnej, to kraj, który przyciąga przede wszystkim dziewiczą naturą i autentycznym doświadczeniem. Ponad 90% jego powierzchni pokrywają góry, w tym potężny Tienszan, co czyni go rajem dla miłośników trekkingu, jazdy konnej i alpinizmu. To tutaj można poczuć prawdziwego ducha nomadów, nocując w jurtach i poznając tradycyjne życie pasterzy.",
+    "Ten kraj jest idealny dla doświadczonych podróżników szukających przygody poza utartymi szlakami, ceniących bliski kontakt z naturą i kulturą. Zapomnij o luksusowych kurortach; Kirgistan oferuje surowe piękno, gościnność mieszkańców i niezapomniane widoki. To destynacja dla tych, którzy chcą aktywnie spędzać czas i są gotowi na pewne wyzwania logistyczne.",
+    "Podróż z Polski do Kirgistanu zazwyczaj wymaga co najmniej jednej przesiadki, najczęściej w Stambule, Dubaju lub Moskwie, a cały lot trwa około 8-12 godzin. Po przylocie do Biszkeku, stolicy kraju, czeka nas już zupełnie inny świat. Kirgistan to kraj bezpieczny, ale wymaga podstawowej ostrożności i szacunku dla lokalnych zwyczajów, zwłaszcza w odległych regionach."
+  ],
+  "highlights": [
+    "Trekking w górach Tienszan i Pamir",
+    "Noclegi w tradycyjnych jurtach nomadów",
+    "Jazda konna po górskich szlakach",
+    "Odkrywanie jezior Issyk-Kul i Song-Kul",
+    "Poznawanie kultury Jedwabnego Szlaku",
+    "Degustacja lokalnej kuchni i kumysu"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Kirgistanu to miesiące letnie, od czerwca do września. W tym okresie pogoda w górach jest najbardziej stabilna i sprzyja trekkingowi oraz innym aktywnościom na świeżym powietrzu. Wiosna (maj) i jesień (październik) również są dobre, szczególnie jeśli planujesz zwiedzanie miast i niższych partii gór, unikając upałów i największych tłumów, choć wtedy może być chłodniej, a niektóre przełęcze mogą być jeszcze zamknięte.",
+    "best": [
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      6,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      0,
+      2,
+      9,
+      18,
+      23,
+      28,
+      31,
+      30,
+      25,
+      16,
+      8,
+      2
+    ],
+    "sea": null,
+    "note": "dla Biszkeku"
+  },
+  "practical": {
+    "flight": "około 8-12 h z przesiadką",
+    "timeDiff": "4-5 godzin do przodu względem Polski (UTC+6)",
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyty do 60 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie Kirgistanu.",
+    "money": "Walutą jest som kirgiski (KGS). W miastach można płacić kartą w większych sklepach i hotelach, ale poza nimi, zwłaszcza w górach i na bazarach, króluje gotówka. Warto mieć przy sobie mniejsze nominały. Bankomaty są dostępne w Biszkeku i większych miastach.",
+    "plugs": "Typ C i F, takie same jak w Polsce. Adapter nie jest potrzebny.",
+    "language": "Oficjalnymi językami są kirgiski i rosyjski. Rosyjski jest szeroko używany, zwłaszcza w miastach i wśród starszych pokoleń. Znajomość podstaw rosyjskiego bardzo ułatwia komunikację.",
+    "safety": "Kirgistan jest generalnie krajem bezpiecznym dla turystów, ale należy zachować podstawową ostrożność, zwłaszcza w odległych rejonach. Pamiętaj o ubezpieczeniu turystycznym, które pokrywa koszty leczenia i ratownictwa górskiego. Uważaj na chorobę wysokościową, jeśli planujesz wyprawy w wysokie góry. Drogi bywają w złym stanie, a ruch drogowy bywa chaotyczny."
+  },
+  "regions": [
+    {
+      "slug": "issyk-kul",
+      "name": "Jezioro Issyk-Kul",
+      "loc": "nad jeziorem Issyk-Kul",
+      "type": "region",
+      "gygQuery": "Issyk Kul Lake",
+      "airport": "Bishkek (FRU) lub Tamchy (IKU)",
+      "forWhom": "Dla szukających relaksu nad wodą, górskich szlaków i kultury nomadów.",
+      "intro": [
+        "Issyk-Kul to drugie co do wielkości jezioro wysokogórskie na świecie, często nazywane \"perłą Tienszanu\". Otoczone majestatycznymi górami, oferuje zarówno piaszczyste plaże, jak i dostęp do licznych szlaków trekkingowych. Wokół jeziora znajdziesz zarówno mniejsze, spokojne wioski, jak i bardziej rozwinięte kurorty.",
+        "Region ten to świetna baza wypadowa do odkrywania kanionów, takich jak Skazka (Bajkowy Kanion), czy do wizyt w tradycyjnych jurtach. Można tu spróbować jazdy konnej, popływać w słodkiej wodzie jeziora lub po prostu podziwiać zapierające dech w piersiach krajobrazy, które zmieniają się z każdym kilometrem."
+      ],
+      "highlights": [
+        "Plażowanie i kąpiele w jeziorze",
+        "Wyprawy do Kanionu Skazka",
+        "Jazda konna po okolicznych wzgórzach",
+        "Odwiedziny w jurtach i poznawanie tradycji"
+      ]
+    },
+    {
+      "slug": "naryn",
+      "name": "Region Naryn",
+      "loc": "w regionie Naryn",
+      "type": "region",
+      "gygQuery": "Naryn Kyrgyzstan",
+      "airport": "Bishkek (FRU)",
+      "forWhom": "Dla miłośników autentycznej kultury nomadów i wysokogórskich krajobrazów.",
+      "intro": [
+        "Region Naryn to serce kirgiskich gór, gdzie czas płynie wolniej, a życie toczy się zgodnie z rytmem natury. To tutaj doświadczysz prawdziwego życia nomadów, z dala od cywilizacji, nocując w jurtach i obserwując pasterzy wypasających stada. Krajobrazy są surowe, ale niezwykle malownicze, z rozległymi pastwiskami i ośnieżonymi szczytami.",
+        "Główną atrakcją regionu jest jezioro Song-Kul, otoczone wyłącznie jurtami, gdzie można spędzić kilka dni na totalnym odludziu. Warto także odwiedzić Tash Rabat, kamienny karawanseraj z XV wieku, ukryty w górach, będący świadectwem dawnego Jedwabnego Szlaku. Region ten to prawdziwa gratka dla poszukiwaczy przygód i ciszy."
+      ],
+      "highlights": [
+        "Jezioro Song-Kul i życie w jurtach",
+        "Starożytny karawanseraj Tash Rabat",
+        "Wysokogórskie trekkingi i konne przejażdżki",
+        "Poznawanie kultury i gościnności nomadów"
+      ]
+    },
+    {
+      "slug": "osh",
+      "name": "Osz",
+      "loc": "w Osz",
+      "type": "miasto",
+      "gygQuery": "Osh Kyrgyzstan",
+      "airport": "Osh (OSS)",
+      "forWhom": "Dla odkrywców starożytnych szlaków handlowych i południowej kultury Kirgistanu.",
+      "intro": [
+        "Osz to drugie co do wielkości miasto Kirgistanu i jedno z najstarszych w Azji Centralnej, z historią sięgającą ponad 3000 lat. Leży na Jedwabnym Szlaku i jest bramą do doliny Fergańskiej. Miasto ma zupełnie inny charakter niż Biszkek, jest bardziej tradycyjne i azjatyckie, z gwarnymi bazarami i mniejszą liczbą rosyjskich wpływów.",
+        "Główną atrakcją jest Sulaiman-Too, Święta Góra wpisana na listę UNESCO, z licznymi jaskiniami, meczetami i widokami na miasto. Osz to doskonałe miejsce, aby poczuć autentyczną atmosferę regionu, spróbować lokalnej kuchni i zanurzyć się w bogatej historii. Jest to także dobra baza wypadowa do dalszych podróży na południe kraju."
+      ],
+      "highlights": [
+        "Wspinaczka na Świętą Górę Sulaiman-Too",
+        "Zwiedzanie największego bazaru w Azji Centralnej",
+        "Poznawanie historii Jedwabnego Szlaku",
+        "Degustacja lokalnych potraw na targu"
+      ]
+    },
+    {
+      "slug": "ala-archa",
+      "name": "Park Narodowy Ala Archa",
+      "loc": "w Parku Narodowym Ala Archa",
+      "type": "park narodowy",
+      "gygQuery": "Ala Archa National Park",
+      "airport": "Bishkek (FRU)",
+      "forWhom": "Dla krótkich wypadów w góry niedaleko stolicy, idealnych na jednodniowe trekkingi.",
+      "intro": [
+        "Park Narodowy Ala Archa to łatwo dostępny górski raj, położony zaledwie 40 km od Biszkeku. Jest to idealne miejsce na jednodniową ucieczkę od miejskiego zgiełku i zanurzenie się w piękno gór Tienszan. Park oferuje różnorodne szlaki trekkingowe, od łatwych spacerów wzdłuż rzeki, po wymagające wspinaczki na lodowce i szczyty.",
+        "Malownicze krajobrazy, rwące rzeki, zielone doliny i ośnieżone szczyty sprawiają, że Ala Archa to popularne miejsce zarówno wśród mieszkańców, jak i turystów. To świetna opcja, aby \"rozgrzać się\" przed dłuższymi wyprawami w góry lub po prostu nacieszyć się świeżym powietrzem i górskimi widokami bez konieczności długiej podróży."
+      ],
+      "highlights": [
+        "Jednodniowe trekkingi i spacery",
+        "Podziwianie górskich krajobrazów",
+        "Piknik nad górską rzeką",
+        "Obserwacja lokalnej fauny i flory"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Jezioro Issyk-Kul",
+      "text": "Drugie co do wielkości jezioro wysokogórskie na świecie, oferujące zarówno plaże, jak i szlaki trekkingowe.",
+      "gygQuery": "Issyk Kul Lake"
+    },
+    {
+      "name": "Tash Rabat",
+      "text": "Kamienny karawanseraj z XV wieku, ukryty w górach, świadectwo dawnego Jedwabnego Szlaku.",
+      "gygQuery": "Tash Rabat"
+    },
+    {
+      "name": "Sulaiman-Too",
+      "text": "Święta Góra w Osz, wpisana na listę UNESCO, z licznymi jaskiniami i meczetami.",
+      "gygQuery": "Sulaiman Too"
+    },
+    {
+      "name": "Park Narodowy Ala Archa",
+      "text": "Blisko Biszkeku, idealny na jednodniowe wycieczki trekkingowe i podziwianie lodowców.",
+      "gygQuery": "Ala Archa National Park"
+    },
+    {
+      "name": "Jezioro Song-Kul",
+      "text": "Wysokogórskie jezioro otoczone jurtami, oferujące prawdziwe doświadczenie życia nomadów.",
+      "gygQuery": "Song Kul Lake"
+    },
+    {
+      "name": "Wieża Burana",
+      "text": "Minaret z XI wieku, pozostałość po dawnej stolicy Karachanidów, Balasagun.",
+      "gygQuery": "Burana Tower"
+    },
+    {
+      "name": "Dolina Jyrgalan",
+      "text": "Raj dla miłośników trekkingu i jazdy konnej, z malowniczymi dolinami i autentycznymi wioskami.",
+      "gygQuery": "Jyrgalan Valley"
+    },
+    {
+      "name": "Kanion Skazka (Fairy Tale Canyon)",
+      "text": "Niezwykłe formacje skalne przypominające bajkowe kształty, położone nad Issyk-Kul.",
+      "gygQuery": "Skazka Canyon"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia kirgiska jest prosta, sycąca i oparta na mięsie, nabiale oraz produktach zbożowych, co odzwierciedla nomadyczny styl życia. Koniecznie spróbuj beshbarmak, czyli gotowanego mięsa (często baraniny lub koniny) podawanego z szerokim makaronem i bulionem. Popularne są także lagman (makaron z mięsem i warzywami), manty (pierogi na parze) i samsa (pieczone pierożki z mięsem). Warto spróbować kumysu, sfermentowanego mleka klaczy, oraz ajranu, słonego jogurtu. Herbatę pije się tu często i w dużych ilościach, a posiłki są okazją do wspólnego spędzania czasu."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kirgistan jest bezpiecznym krajem do podróżowania?",
+      "a": "Tak, Kirgistan jest generalnie bezpieczny dla turystów. Należy jednak zachować podstawową ostrożność, zwłaszcza w odległych rejonach i na drogach. Warto mieć ubezpieczenie turystyczne."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Kirgistanu?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty do 60 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Kirgistanie?",
+      "a": "Po Kirgistanie najlepiej poruszać się wynajętym samochodem z kierowcą, marszrutkami (busami) lub taksówkami współdzielonymi. W górach popularne są trekkingi i jazda konna. Drogi bywają w złym stanie."
+    },
+    {
+      "q": "Co warto spakować na wyjazd do Kirgistanu?",
+      "a": "Koniecznie spakuj odzież warstwową, dobre buty trekkingowe, nakrycie głowy, krem z filtrem UV i okulary przeciwsłoneczne. Przyda się też apteczka, latarka czołówka i powerbank. Pamiętaj o gotówce."
+    },
+    {
+      "q": "Czy w Kirgistanie można płacić kartą?",
+      "a": "W Biszkeku i większych miastach płatności kartą są możliwe w większych sklepach i hotelach. Poza miastami, zwłaszcza w górach i na bazarach, gotówka jest niezbędna. Warto mieć przy sobie somy."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

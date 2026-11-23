@@ -1,0 +1,196 @@
+{
+  "slug": "haiti",
+  "loc": "na Haiti",
+  "to": "na Haiti",
+  "capital": "Port-au-Prince",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Haiti",
+  "teaser": "Haiti to kraj o bogatej historii i unikalnej kulturze kreolskiej, jednak borykający się z poważnymi problemami bezpieczeństwa i niestabilnością. Podróż tu wymaga dużej ostrożności.",
+  "intro": [
+    "Haiti, położone na zachodniej części wyspy Hispaniola, to kraj o fascynującej, choć często tragicznej historii. Było pierwszym niepodległym państwem Ameryki Łacińskiej, utworzonym przez zbuntowanych niewolników. To dziedzictwo przejawia się w żywej kulturze, sztuce i muzyce, które są unikalne w regionie Karaibów. Haiti przyciąga podróżników szukających autentycznych doświadczeń, dalekich od masowej turystyki, gotowych na wyzwania i głębokie zanurzenie w lokalne realia.",
+    "Kraj oferuje widoki na góry, dziewicze plaże i zabytki UNESCO, ale jest to destynacja dla doświadczonych i bardzo świadomych podróżników. Brak rozwiniętej infrastruktury turystycznej, niestabilna sytuacja polityczna oraz wysoki poziom przestępczości sprawiają, że Haiti nie jest typowym kierunkiem wakacyjnym. Podróżowanie po kraju wymaga starannego planowania, korzystania z usług lokalnych przewodników i ciągłego monitorowania sytuacji bezpieczeństwa.",
+    "Podróż z Polski na Haiti to długa wyprawa, zazwyczaj z dwoma lub więcej przesiadkami, najczęściej w Europie (np. Paryż, Madryt) i w USA lub Kanadzie. Całkowity czas lotu, wraz z oczekiwaniem na przesiadki, może wynieść od 15 do 20 godzin. Bezpośrednie połączenia z Polski nie istnieją, a koszty biletów są zazwyczaj wysokie. Przed wyjazdem należy dokładnie zapoznać się z aktualnymi ostrzeżeniami dla podróżnych, wydawanymi przez polskie Ministerstwo Spraw Zagranicznych."
+  ],
+  "highlights": [
+    "Odkryj potęgę Cytadeli Laferrière",
+    "Poznaj kreolską kulturę i sztukę",
+    "Spróbuj lokalnej kuchni o afrykańskich wpływach",
+    "Odwiedź historyczne miasto Cap-Haïtien",
+    "Zanurz się w rytmy haitańskiego Voodoo",
+    "Podziwiaj kolonialną architekturę Jacmel"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Haiti to okres od grudnia do marca. W tych miesiącach panuje pora sucha, co oznacza mniej opadów i przyjemniejsze temperatury. Unika się wtedy ryzyka huraganów, które występują głównie od czerwca do listopada. Pora deszczowa, zwłaszcza od kwietnia do czerwca i od sierpnia do listopada, charakteryzuje się większą wilgotnością i intensywnymi, choć krótkotrwałymi deszczami, które mogą utrudniać przemieszczanie się.",
+    "best": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      31,
+      32,
+      32,
+      33,
+      33,
+      34,
+      34,
+      33,
+      32,
+      32,
+      31
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "Port-au-Prince"
+  },
+  "practical": {
+    "flight": "około 15-20 h z przesiadkami",
+    "timeDiff": "-6 lub -7 godzin w zależności od pory roku w Polsce",
+    "documents": "Paszport ważny co najmniej 6 miesięcy. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze zalecamy sprawdzenie aktualnych wymogów przed wyjazdem w placówce dyplomatycznej Haiti lub na stronach rządowych.",
+    "money": "Walutą jest gourde haitańskie (HTG). Dolary amerykańskie (USD) są powszechnie akceptowane, zwłaszcza w większych miastach i miejscach turystycznych. Płatności kartą są rzadkością poza nielicznymi hotelami. Zaleca się posiadanie gotówki. Bankomaty są dostępne, ale ich niezawodność i bezpieczeństwo mogą być problematyczne.",
+    "plugs": "Typ A i B (amerykańskie), napięcie 110/120 V, częstotliwość 60 Hz. Konieczny adapter i ewentualnie przejściówka na napięcie.",
+    "language": "Oficjalne języki to francuski i kreolski haitański. Znajomość kreolskiego jest kluczowa poza turystycznymi enklawami, francuski jest bardziej powszechny w edukacji i administracji. Angielski jest rzadko używany.",
+    "safety": "Haiti jest krajem o bardzo wysokim poziomie przestępczości i niestabilności politycznej. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże na Haiti. Ryzyko porwań, napadów z bronią i innych aktów przemocy jest znaczne, zwłaszcza w Port-au-Prince i jego okolicach. Infrastruktura medyczna jest bardzo słaba. Należy zachować ekstremalną ostrożność, unikać samotnych podróży, poruszania się po zmroku i zawsze korzystać z usług zaufanych, lokalnych przewodników i transportu."
+  },
+  "regions": [
+    {
+      "slug": "port-au-prince",
+      "name": "Port-au-Prince",
+      "loc": "w Port-au-Prince",
+      "type": "miasto",
+      "gygQuery": "Port-au-Prince",
+      "airport": "PAP",
+      "forWhom": "Dla podróżników zainteresowanych kulturą i historią, gotowych na wyzwania związane z bezpieczeństwem.",
+      "intro": [
+        "Port-au-Prince to tętniąca życiem, choć chaotyczna stolica Haiti. Jest centrum kulturalnym i politycznym kraju, gdzie można poczuć prawdziwy puls haitańskiego życia. Miasto oferuje wgląd w lokalną sztukę, muzykę i codzienne życie, ale jednocześnie boryka się z ogromnymi problemami społecznymi i bezpieczeństwa.",
+        "W Port-au-Prince można odwiedzić Marché de Fer (Żelazny Targ), Muzeum Narodowe Haiti czy podziwiać sztukę w lokalnych galeriach. Należy jednak pamiętać, że poruszanie się po mieście wymaga dużej ostrożności, najlepiej z lokalnym przewodnikiem i zorganizowanym transportem, unikając niebezpiecznych dzielnic."
+      ],
+      "highlights": [
+        "Żelazny Targ (Marché de Fer)",
+        "Muzeum Narodowe Haiti",
+        "Galeria sztuki Centre d'Art",
+        "Katedra Notre Dame"
+      ]
+    },
+    {
+      "slug": "cap-haitien",
+      "name": "Cap-Haïtien",
+      "loc": "w Cap-Haïtien",
+      "type": "miasto",
+      "gygQuery": "Cap-Haitien",
+      "airport": "CAP",
+      "forWhom": "Dla miłośników historii i architektury kolonialnej, chcących zobaczyć najważniejsze zabytki Haiti.",
+      "intro": [
+        "Cap-Haïtien to historyczne miasto na północnym wybrzeżu Haiti, znane z dobrze zachowanej architektury kolonialnej. Jest to punkt startowy do najważniejszych zabytków kraju wpisanych na listę UNESCO: Cytadeli Laferrière i Pałacu Sans-Souci. Miasto jest nieco spokojniejsze niż stolica, ale nadal wymaga ostrożności.",
+        "Okolice Cap-Haïtien oferują wspaniałe widoki i możliwość zanurzenia się w bogatej historii Haiti. Wizyta w Cytadeli to niezapomniane doświadczenie, pozwalające zrozumieć ducha walki o niepodległość i potęgę dawnego królestwa Haiti."
+      ],
+      "highlights": [
+        "Cytadela Laferrière",
+        "Pałac Sans-Souci",
+        "Historyczne centrum miasta",
+        "Plaże w okolicy"
+      ]
+    },
+    {
+      "slug": "jacmel",
+      "name": "Jacmel",
+      "loc": "w Jacmel",
+      "type": "miasto",
+      "gygQuery": "Jacmel",
+      "airport": "PAP",
+      "forWhom": "Dla osób szukających artystycznej atmosfery, plaż i lokalnych festiwali.",
+      "intro": [
+        "Jacmel to urokliwe miasto portowe na południowym wybrzeżu Haiti, znane z wiktoriańskiej architektury i żywej sceny artystycznej. Jest to miejsce, gdzie można poczuć bardziej zrelaksowaną atmosferę niż w stolicy, a uliczki pełne są galerii i pracowni artystów. Jacmel słynie również z corocznego karnawału, jednego z najbardziej barwnych na Karaibach.",
+        "Poza miastem znajdują się piękne plaże i naturalne atrakcje, takie jak Bassin Bleu - seria turkusowych wodospadów i basenów. Jacmel to dobre miejsce na poznanie haitańskiej kultury poza zgiełkiem Port-au-Prince, choć nadal należy zachować czujność."
+      ],
+      "highlights": [
+        "Stare Miasto z wiktoriańską architekturą",
+        "Bassin Bleu (wodospady)",
+        "Lokalne galerie sztuki",
+        "Plaża Raymond Les Bains"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Cytadela Laferrière",
+      "text": "Imponująca forteca na szczycie góry, zbudowana na początku XIX wieku przez króla Henriego Christophe'a. Jest to największa fortyfikacja na półkuli zachodniej i symbol haitańskiej niepodległości, wpisana na listę UNESCO.",
+      "gygQuery": "Citadelle Laferrière"
+    },
+    {
+      "name": "Pałac Sans-Souci",
+      "text": "Ruiny królewskiego pałacu w Milot, niegdyś wspaniałej rezydencji króla Henriego Christophe'a, zniszczonej przez trzęsienie ziemi w 1842 roku. Pałac jest częścią kompleksu wpisanego na listę UNESCO, obok Cytadeli.",
+      "gygQuery": "Sans-Souci Palace Haiti"
+    },
+    {
+      "name": "Marché de Fer (Żelazny Targ)",
+      "text": "Jeden z najbardziej rozpoznawalnych budynków w Port-au-Prince, słynący z charakterystycznej metalowej konstrukcji. To tętniący życiem targ, gdzie można kupić lokalne produkty, rękodzieło i poczuć autentyczną atmosferę miasta.",
+      "gygQuery": "Iron Market Port-au-Prince"
+    },
+    {
+      "name": "Bassin Bleu",
+      "text": "Seria naturalnych basenów i wodospadów o krystalicznie czystej, turkusowej wodzie, położona niedaleko Jacmel. To popularne miejsce na relaks i pływanie, choć dotarcie do niego wymaga nieco wysiłku.",
+      "gygQuery": "Bassin Bleu Jacmel"
+    },
+    {
+      "name": "Muzeum Narodowe Haiti (MUPANAH)",
+      "text": "Muzeum w Port-au-Prince prezentujące historię Haiti od czasów prekolumbijskich, przez okres niewolnictwa i walki o niepodległość, aż po współczesność. Znajdują się tu cenne eksponaty związane z ważnymi postaciami historycznymi.",
+      "gygQuery": "National Museum of Haiti"
+    },
+    {
+      "name": "Galeria Centre d'Art",
+      "text": "Jedna z najważniejszych galerii sztuki w Port-au-Prince, promująca haitańskich artystów. To doskonałe miejsce, aby poznać bogactwo i różnorodność lokalnej twórczości, od malarstwa po rzeźbę.",
+      "gygQuery": "Centre d'Art Haiti"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia haitańska to fascynująca mieszanka wpływów afrykańskich, francuskich, hiszpańskich i Taino. Podstawą wielu dań jest ryż, fasola, kukurydza, bataty i maniok. Popularne są dania z koziny (kabrit), kurczaka (poul) i ryb, często podawane z ostrymi sosami pikliz. Koniecznie trzeba spróbować griot (smażona wieprzowina), tassot (suszone mięso) oraz akra (smażone placki z taro). Haiti słynie również z rumu, a lokalne soki z egzotycznych owoców są orzeźwiające. Jedzenie na ulicy jest powszechne, ale należy zachować ostrożność co do higieny."
+  ],
+  "faq": [
+    {
+      "q": "Czy Haiti jest bezpieczne dla turystów?",
+      "a": "Haiti jest krajem o bardzo wysokim poziomie przestępczości i niestabilności. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże. Podróżowanie jest ryzykowne i wymaga ekstremalnej ostrożności, najlepiej z zaufanym przewodnikiem."
+    },
+    {
+      "q": "Jaka jest waluta na Haiti?",
+      "a": "Oficjalną walutą jest gourde haitańskie (HTG). Dolary amerykańskie (USD) są powszechnie akceptowane. Zaleca się posiadanie gotówki, płatności kartą są rzadkością."
+    },
+    {
+      "q": "Jakie języki obowiązują na Haiti?",
+      "a": "Na Haiti obowiązują dwa języki urzędowe: francuski i kreolski haitański. Kreolski jest językiem codziennej komunikacji, a francuski jest używany w administracji i edukacji."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Haiti?",
+      "a": "Dla obywateli Polski wiza turystyczna nie jest wymagana na pobyty do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze należy sprawdzić aktualne wymogi przed podróżą."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

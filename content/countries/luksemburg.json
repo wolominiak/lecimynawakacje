@@ -1,0 +1,207 @@
+{
+  "slug": "luksemburg",
+  "loc": "w Luksemburgu",
+  "to": "do Luksemburga",
+  "capital": "Luksemburg",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Luxembourg",
+  "teaser": "Odkryj Luksemburg, kraj zamków, malowniczych dolin i nowoczesności. Idealny na weekendowy wypad, blisko Polski, a jednak z własnym, unikalnym charakterem.",
+  "intro": [
+    "Luksemburg, choć niewielki, to kraj o zaskakująco bogatej ofercie turystycznej. Leżący w sercu Europy, łączy w sobie średniowieczne zamki, urokliwe doliny rzeczne, gęste lasy oraz nowoczesną architekturę finansowej stolicy. To idealne miejsce na krótki, ale intensywny wypad, który pozwoli oderwać się od codzienności i odkryć różnorodność europejskiego dziedzictwa. Jego strategiczne położenie sprawia, że jest doskonałą bazą wypadową do zwiedzania sąsiednich krajów.",
+    "Luksemburg to świetny kierunek dla tych, którzy cenią sobie aktywny wypoczynek na łonie natury, zwiedzanie zabytków bez tłumów oraz wysoką jakość usług. Jest to kraj dla miłośników pieszych wędrówek, rowerzystów, entuzjastów historii i kultury, a także dla smakoszy wina. Dzięki kompaktowym rozmiarom, w ciągu kilku dni można zobaczyć wiele, od średniowiecznych fortyfikacji po nowoczesne dzielnice europejskie. To także dobry wybór dla podróżujących z dziećmi, oferujący wiele atrakcji edukacyjnych i rozrywkowych.",
+    "Podróż z Polski do Luksemburga jest prosta i szybka. Istnieją bezpośrednie połączenia lotnicze z Warszawy, które trwają około dwóch godzin, co czyni ten kierunek idealnym na weekendowy city break. Po wylądowaniu na międzynarodowym lotnisku w Luksemburgu, poruszanie się po kraju jest wyjątkowo łatwe dzięki doskonale rozwiniętej sieci transportu publicznego. Luksemburg jest w strefie Schengen, więc Polacy podróżują tam na podstawie dowodu osobistego lub paszportu, bez żadnych dodatkowych formalności."
+  ],
+  "highlights": [
+    "Stolica Luksemburg - UNESCO i nowoczesność",
+    "Malownicze zamki, w tym Zamek Vianden",
+    "Szlaki piesze w regionie Mullerthal (Mała Szwajcaria)",
+    "Urokliwa Dolina Mozeli i jej wina",
+    "Europejskie instytucje i dzielnica Kirchberg",
+    "Bezpłatny transport publiczny w całym kraju"
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na odwiedzenie Luksemburga jest wiosna (maj) i wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a krajobrazy zachwycają zielenią lub jesiennymi barwami. Lato (czerwiec-sierpień) również jest dobrym wyborem, choć temperatury bywają wyższe, a w stolicy może być więcej turystów. Zimą kraj ma swój urok, zwłaszcza w okresie jarmarków bożonarodzeniowych, ale wiele atrakcji przyrodniczych jest mniej dostępnych.",
+    "best": [
+      5,
+      9
+    ],
+    "ok": [
+      4,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      3,
+      5,
+      9,
+      13,
+      18,
+      21,
+      23,
+      23,
+      19,
+      14,
+      8,
+      4
+    ],
+    "sea": null,
+    "note": "Luksemburg (miasto)"
+  },
+  "practical": {
+    "flight": "około 2 h",
+    "timeDiff": "brak",
+    "documents": "Dowód osobisty lub paszport. Luksemburg jest w strefie Schengen. Zawsze sprawdź aktualne wymogi przed wyjazdem.",
+    "money": "Euro (EUR). Płatności kartą są powszechne. Bankomaty dostępne.",
+    "plugs": "Typ F (Schuko), taki sam jak w Polsce.",
+    "language": "Niemiecki, francuski, luksemburski. Angielski jest szeroko używany, zwłaszcza w stolicy i sektorze usług.",
+    "safety": "Kraj jest bardzo bezpieczny. Standardowe środki ostrożności wystarczą. Opieka zdrowotna na wysokim poziomie."
+  },
+  "regions": [
+    {
+      "slug": "luksemburg-miasto",
+      "name": "Luksemburg (miasto)",
+      "loc": "w Luksemburgu",
+      "type": "miasto",
+      "gygQuery": "Luxembourg City",
+      "airport": "LUX",
+      "forWhom": "Dla miłośników historii, kultury i nowoczesnej architektury.",
+      "intro": [
+        "Stolica Wielkiego Księstwa Luksemburga to miasto kontrastów, gdzie średniowieczne fortyfikacje wpisane na listę UNESCO sąsiadują z futurystycznymi budynkami instytucji europejskich i centrów finansowych. Spacerując po jego ulicach, można podziwiać imponujące mosty, takie jak Most Adolfa, oraz zanurzyć się w historii, odkrywając podziemne kazamaty Bock. Miasto jest również centrum życia kulturalnego, oferując liczne muzea, galerie i teatry.",
+        "Dzielnica Grund, położona w dolinie rzeki Alzette, zachwyca malowniczymi uliczkami i kameralnymi kawiarniami, stanowiąc idealne miejsce na relaks. Z kolei na płaskowyżu Kirchberg rozciąga się nowoczesna dzielnica biznesowa i europejska, z siedzibami Trybunału Sprawiedliwości Unii Europejskiej czy Europejskiego Banku Inwestycyjnego. Luksemburg to miasto, które doskonale łączy bogatą przeszłość z dynamiczną teraźniejszością."
+      ],
+      "highlights": [
+        "Kazamaty Bock i podziemia",
+        "Malownicza dzielnica Grund",
+        "Pałac Wielkich Książąt",
+        "Nowoczesna dzielnica Kirchberg"
+      ]
+    },
+    {
+      "slug": "mullerthal",
+      "name": "Mullerthal (Mała Szwajcaria)",
+      "loc": "w Mullerthal",
+      "type": "region",
+      "gygQuery": "Mullerthal",
+      "airport": "LUX",
+      "forWhom": "Idealny dla aktywnych turystów, miłośników pieszych wędrówek i niezwykłych krajobrazów.",
+      "intro": [
+        "Region Mullerthal, często nazywany \"Małą Szwajcarią Luksemburską\", to prawdziwy raj dla piechurów. Charakteryzuje się unikalnymi formacjami skalnymi z piaskowca, głębokimi wąwozami i bujnymi lasami, które tworzą krajobraz jak z bajki. To tutaj znajduje się słynny Mullerthal Trail, szlak pieszy o długości ponad 112 km, podzielony na trzy pętle, oferujący niezapomniane widoki i wyzwania dla każdego.",
+        "Centrum regionu stanowi urokliwe miasteczko Echternach z benedyktyńskim opactwem, które jest najstarszym miastem w Luksemburgu. Warto również odwiedzić wodospad Schiessentümpel, będący jednym z najbardziej rozpoznawalnych symboli Mullerthalu. Liczne ścieżki rowerowe i trasy wspinaczkowe uzupełniają ofertę dla aktywnych, zapewniając różnorodność form spędzania czasu na łonie natury."
+      ],
+      "highlights": [
+        "Mullerthal Trail - raj dla piechurów",
+        "Wodospad Schiessentümpel",
+        "Miasteczko Echternach i opactwo",
+        "Skały i wąwozy w okolicach Berdorf"
+      ]
+    },
+    {
+      "slug": "ardeny-luksemburskie",
+      "name": "Ardeny Luksemburskie (Éislek)",
+      "loc": "w Ardenach Luksemburskich",
+      "type": "region",
+      "gygQuery": "Luxembourg Ardennes",
+      "airport": "LUX",
+      "forWhom": "Dla tych, którzy szukają spokoju, zamków i zielonych lasów.",
+      "intro": [
+        "Północna część Luksemburga, zwana Ardenami lub Éislek, to kraina gęstych lasów, malowniczych dolin rzecznych i imponujących zamków, które świadczą o bogatej historii regionu. To idealne miejsce na ucieczkę od zgiełku miasta, oferujące liczne szlaki turystyczne i rowerowe. Region ten odegrał również kluczową rolę podczas II wojny światowej, co upamiętniają liczne muzea i pomniki.",
+        "Największą atrakcją jest majestatyczny Zamek Vianden, jeden z najlepiej zachowanych średniowiecznych zamków w Europie, malowniczo położony na wzgórzu z widokiem na rzekę Our. Inne warte odwiedzenia miejsca to urokliwe miasteczko Clervaux z jego opactwem i zamkiem, oraz Esch-sur-Sûre, malowniczo położone nad zakolem rzeki Sûre. Ardeny to kwintesencja luksemburskiego krajobrazu, łącząca naturę z historią."
+      ],
+      "highlights": [
+        "Majestatyczny Zamek Vianden",
+        "Miasteczko Clervaux i jego zamek",
+        "Malownicze Esch-sur-Sûre",
+        "Gęste lasy i szlaki turystyczne"
+      ]
+    },
+    {
+      "slug": "dolina-mozeli",
+      "name": "Dolina Mozeli",
+      "loc": "w Dolinie Mozeli",
+      "type": "region",
+      "gygQuery": "Moselle Valley Luxembourg",
+      "airport": "LUX",
+      "forWhom": "Dla smakoszy wina, poszukujących relaksu i malowniczych krajobrazów.",
+      "intro": [
+        "Dolina Mozeli, rozciągająca się wzdłuż granicy z Niemcami, to główny region winiarski Luksemburga, słynący z doskonałych win białych, zwłaszcza Rieslinga, Pinot Gris i Auxerrois. Wzgórza pokryte winnicami, urokliwe wioski i spokojny nurt rzeki tworzą idylliczny krajobraz, idealny na degustacje wina i relaksujące spacery. To także miejsce, gdzie narodziła się strefa Schengen.",
+        "Warto odwiedzić Schengen, niewielką miejscowość, która przeszła do historii jako symbol otwartych granic w Europie, gdzie znajduje się pomnik upamiętniający podpisanie porozumienia. Inne urokliwe miasteczka, takie jak Remich czy Grevenmacher, oferują promenady nad rzeką, liczne winiarnie i restauracje serwujące lokalne specjały. Rejsy statkiem po Mozeli to doskonały sposób na podziwianie piękna regionu z innej perspektywy."
+      ],
+      "highlights": [
+        "Winnice i degustacje wina",
+        "Miejscowość Schengen i jej historia",
+        "Promenady w Remich i Grevenmacher",
+        "Rejsy statkiem po rzece Mozeli"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kazamaty Bock",
+      "text": "Rozległy system podziemnych galerii i tuneli wykutych w skale, będący częścią dawnych fortyfikacji miasta Luksemburg, wpisany na listę UNESCO.",
+      "gygQuery": "Bock Casemates"
+    },
+    {
+      "name": "Zamek Vianden",
+      "text": "Jeden z najbardziej imponujących i najlepiej zachowanych średniowiecznych zamków w Europie, malowniczo położony na wzgórzu nad rzeką Our.",
+      "gygQuery": "Vianden Castle"
+    },
+    {
+      "name": "Mullerthal Trail",
+      "text": "Szlak pieszy o długości ponad 112 km, prowadzący przez unikalne formacje skalne, wąwozy i lasy regionu Mullerthal, znanego jako \"Mała Szwajcaria\".",
+      "gygQuery": "Mullerthal Trail"
+    },
+    {
+      "name": "Pałac Wielkich Książąt",
+      "text": "Oficjalna rezydencja Wielkiego Księcia Luksemburga w stolicy, z piękną fasadą i wnętrzami, otwarta dla zwiedzających w miesiącach letnich.",
+      "gygQuery": "Grand Ducal Palace Luxembourg"
+    },
+    {
+      "name": "Opactwo Echternach",
+      "text": "Historyczne opactwo benedyktyńskie w najstarszym mieście Luksemburga, Echternach, znane z bazyliki i corocznej procesji tanecznej.",
+      "gygQuery": "Echternach Abbey"
+    },
+    {
+      "name": "Most Adolfa",
+      "text": "Ikoniczny most łukowy w Luksemburgu, będący symbolem miasta i oferujący spektakularne widoki na dolinę Pétrusse.",
+      "gygQuery": "Adolphe Bridge Luxembourg"
+    },
+    {
+      "name": "Pomnik Porozumienia z Schengen",
+      "text": "Miejsce upamiętniające podpisanie historycznego porozumienia o otwartych granicach w Europie, położone w miejscowości Schengen.",
+      "gygQuery": "Schengen Agreement Monument"
+    },
+    {
+      "name": "Muzeum Narodowe Historii i Sztuki",
+      "text": "Główne muzeum w stolicy, prezentujące bogatą historię i dziedzictwo artystyczne Luksemburga od czasów prehistorycznych do współczesności.",
+      "gygQuery": "National Museum of History and Art Luxembourg"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia luksemburska to fascynująca mieszanka wpływów francuskich i niemieckich, z wyraźnym akcentem na obfite, sycące dania. Królują tu mięsa, ziemniaki i sezonowe warzywa. Warto spróbować \"Judd mat Gaardebounen\" (wędzona karkówka z bobem), \"Gromperekichelcher\" (placki ziemniaczane) czy \"Bouneschlupp\" (zupa fasolowa). Kraj słynie również z doskonałych win z Doliny Mozeli, zwłaszcza białych, oraz lokalnych piw i likierów. Desery często bazują na owocach, a w okresie świątecznym popularne są słodkie wypieki."
+  ],
+  "faq": [
+    {
+      "q": "Czy Luksemburg jest drogi dla turystów?",
+      "a": "Luksemburg jest uważany za jeden z droższych krajów w Europie, zwłaszcza jeśli chodzi o zakwaterowanie i restauracje. Ceny są porównywalne do tych w dużych miastach zachodniej Europy, ale można znaleźć tańsze opcje."
+    },
+    {
+      "q": "Ile dni potrzeba na zwiedzanie Luksemburga?",
+      "a": "Na zwiedzenie samej stolicy wystarczą 2-3 dni. Jeśli planujesz odkrywać również regiony takie jak Mullerthal czy Dolina Mozeli, warto przeznaczyć na podróż 4-7 dni, aby w pełni doświadczyć różnorodności kraju."
+    },
+    {
+      "q": "Jak poruszać się po Luksemburgu?",
+      "a": "Od 2020 roku cały transport publiczny (autobusy, tramwaje, pociągi) w Luksemburgu jest bezpłatny dla wszystkich pasażerów, co jest ogromnym udogodnieniem. To sprawia, że poruszanie się po kraju jest niezwykle łatwe i ekonomiczne."
+    },
+    {
+      "q": "Czy w Luksemburgu można płacić polską kartą?",
+      "a": "Tak, w Luksemburgu powszechnie akceptowane są karty płatnicze Visa i Mastercard. Można nimi płacić w większości sklepów, restauracji i hoteli. Bankomaty są łatwo dostępne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

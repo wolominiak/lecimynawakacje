@@ -1,0 +1,221 @@
+{
+  "slug": "izrael",
+  "loc": "w Izraelu",
+  "to": "do Izraela",
+  "capital": "Jerozolima",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Israel",
+  "teaser": "Izrael to kraj o niezwykłej historii, duchowości i różnorodności krajobrazów. Od starożytnych miast po nowoczesne metropolie, każdy znajdzie tu coś dla siebie.",
+  "intro": [
+    "Izrael to destynacja, która przyciąga przede wszystkim bogactwem historii i znaczeniem religijnym dla trzech wielkich wyznań. To tu znajdują się miejsca święte dla chrześcijan, żydów i muzułmanów, co czyni go unikalnym centrum pielgrzymkowym i kulturowym. Oprócz duchowej głębi, kraj oferuje niezwykłe krajobrazy, od pustynnych terenów Negewu, przez zielone wzgórza Galilei, po słoneczne plaże Morza Śródziemnego i Czerwonego. Można tu doświadczyć zarówno starożytności, jak i tętniącej życiem, nowoczesnej metropolii Tel Awiwu.",
+    "Kraj ten jest idealny dla szerokiego grona podróżników. Pielgrzymi znajdą tu niezliczone miejsca kultu, miłośnicy historii będą zachwyceni ruinami starożytnych cywilizacji, a poszukiwacze słońca i relaksu docenią Morze Martwe i kurort Eilat. Tel Awiw z kolei to raj dla tych, którzy szukają nowoczesnej architektury, sztuki, wyśmienitej kuchni i dynamicznego życia nocnego. Izrael to także świetne miejsce dla osób ceniących aktywny wypoczynek, oferując szlaki trekkingowe na pustyni czy nurkowanie w Morzu Czerwonym.",
+    "Podróż z Polski do Izraela jest stosunkowo prosta i szybka. Istnieją bezpośrednie loty z kilku polskich miast, które trwają około 3,5-4 godzin. Dla obywateli Polski wjazd jest bezwizowy na okres do 90 dni, wystarczy ważny paszport. Warto jednak pamiętać o wzmożonych kontrolach bezpieczeństwa na lotnisku, które są standardem. Izrael to kraj, który mimo swojej złożoności, jest dobrze przygotowany na przyjęcie turystów, oferując rozbudowaną infrastrukturę i szeroki wachlarz usług."
+  ],
+  "highlights": [
+    "Jerozolima - święte miasto trzech religii",
+    "Tel Awiw - nowoczesność i plaże",
+    "Morze Martwe - unikalne doświadczenie",
+    "Pustynia Negew - surowe piękno",
+    "Eilat - kurort nad Morzem Czerwonym",
+    "Masada - starożytna twierdza"
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na podróż do Izraela jest wiosna (od marca do maja) oraz jesień (od września do listopada). W tych miesiącach temperatury są przyjemne, idealne do zwiedzania i aktywności na świeżym powietrzu. Lato (czerwiec-sierpień) bywa bardzo gorące, szczególnie w rejonie Morza Martwego i na pustyni, co może utrudniać zwiedzanie. Zimą (grudzień-luty) jest łagodnie, ale mogą występować opady deszczu, zwłaszcza w północnej części kraju. Eilat nad Morzem Czerwonym jest atrakcyjny przez cały rok ze względu na ciepły klimat.",
+    "best": [
+      3,
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      2,
+      6,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      18,
+      19,
+      21,
+      24,
+      27,
+      29,
+      30,
+      30,
+      29,
+      28,
+      24,
+      20
+    ],
+    "sea": [
+      18,
+      17,
+      17,
+      18,
+      21,
+      24,
+      26,
+      28,
+      27,
+      26,
+      23,
+      20
+    ],
+    "note": "dla Tel Awiwu"
+  },
+  "practical": {
+    "flight": "około 3,5-4 h",
+    "timeDiff": "1 godzina do przodu względem Polski",
+    "documents": "Obywatele Polski mogą wjeżdżać do Izraela bez wizy na pobyt do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Przed podróżą zawsze zaleca się sprawdzenie aktualnych wymogów na stronie Ministerstwa Spraw Zagranicznych.",
+    "money": "Walutą jest nowy szekel izraelski (ILS). Płatności kartą są powszechne, a bankomaty łatwo dostępne. Warto mieć przy sobie trochę gotówki na drobne wydatki, zwłaszcza na targach.",
+    "plugs": "Typ H (trzy okrągłe bolce) oraz Typ C (dwa okrągłe bolce). Zaleca się zabranie adaptera.",
+    "language": "Oficjalne języki to hebrajski i arabski. W sektorze turystycznym oraz wśród młodszych pokoleń angielski jest szeroko używany i nie ma problemu z komunikacją.",
+    "safety": "Izrael jest krajem bezpiecznym dla turystów, jednak ze względu na złożoną sytuację geopolityczną, zaleca się zachowanie ostrożności, zwłaszcza w rejonach granicznych i na terytoriach palestyńskich. Należy śledzić komunikaty MSZ i unikać demonstracji czy zgromadzeń. W miastach obowiązują standardowe środki ostrożności, jak w każdej metropolii."
+  },
+  "regions": [
+    {
+      "slug": "jerozolima",
+      "name": "Jerozolima",
+      "loc": "w Jerozolimie",
+      "type": "miasto",
+      "gygQuery": "Jerusalem",
+      "airport": "Ben Gurion (TLV)",
+      "forWhom": "Idealna dla pielgrzymów, miłośników historii i kultury, poszukujących duchowych doświadczeń.",
+      "intro": [
+        "Jerozolima to miasto o niezwykłej głębi i znaczeniu, święte dla wyznawców judaizmu, chrześcijaństwa i islamu. Stare Miasto, otoczone murami, jest labiryntem wąskich uliczek, podzielonym na dzielnice, gdzie każda opowiada swoją historię. Można tu odwiedzić Ścianę Płaczu, Bazylikę Grobu Świętego czy Kopułę na Skale, poczuć atmosferę tysięcy lat historii i duchowości. Spacerując po Via Dolorosa, ścieżce, którą Jezus miał iść na ukrzyżowanie, można doświadczyć wyjątkowej atmosfery.",
+        "Poza Starym Miastem Jerozolima oferuje wiele innych atrakcji, takich jak Muzeum Izraela z Zwojami znad Morza Martwego, Yad Vashem - Instytut Pamięci Męczenników i Bohaterów Holokaustu, czy tętniący życiem targ Mahane Yehuda, gdzie można spróbować lokalnych przysmaków. To miasto, które nieustannie zaskakuje swoją różnorodnością i kontrastami, łącząc starożytność z nowoczesnością."
+      ],
+      "highlights": [
+        "Ściana Płaczu",
+        "Bazylika Grobu Świętego",
+        "Kopuła na Skale",
+        "Via Dolorosa"
+      ]
+    },
+    {
+      "slug": "tel-awiw",
+      "name": "Tel Awiw",
+      "loc": "w Tel Awiwie",
+      "type": "miasto",
+      "gygQuery": "Tel Aviv",
+      "airport": "Ben Gurion (TLV)",
+      "forWhom": "Dla szukających nowoczesności, życia nocnego, kultury i relaksu na miejskich plażach.",
+      "intro": [
+        "Tel Awiw to tętniąca życiem metropolia, często nazywana 'Białym Miastem' ze względu na unikalną architekturę Bauhausu, wpisaną na listę UNESCO. To miasto, które nigdy nie śpi, oferujące dynamiczne życie nocne, liczne galerie sztuki, modne kawiarnie i restauracje z kuchnią z całego świata. Długie, piaszczyste plaże nad Morzem Śródziemnym są idealne do relaksu, uprawiania sportów wodnych czy podziwiania zachodów słońca. Tel Awiw to nowoczesne, kosmopolityczne centrum Izraela.",
+        "Nieopodal Tel Awiwu znajduje się Stara Jaffa, jedno z najstarszych miast portowych na świecie, które dziś jest urokliwą dzielnicą artystów, pełną galerii, butików i restauracji z widokiem na morze. Spacer po jej wąskich uliczkach to podróż w czasie. W Tel Awiwie warto również odwiedzić targ Karmel, gdzie można poczuć prawdziwy lokalny klimat, spróbować świeżych produktów i pamiątek. Miasto to jest doskonałą bazą wypadową do zwiedzania centralnego Izraela."
+      ],
+      "highlights": [
+        "Plaża Gordon",
+        "Białe Miasto (architektura Bauhaus)",
+        "Stara Jaffa",
+        "Targ Karmel"
+      ]
+    },
+    {
+      "slug": "morze-martwe",
+      "name": "Morze Martwe",
+      "loc": "nad Morzem Martwym",
+      "type": "region",
+      "gygQuery": "Dead Sea",
+      "airport": "Ben Gurion (TLV)",
+      "forWhom": "Doskonałe dla relaksu, kąpieli błotnych, poszukiwaczy zdrowia i podziwiania niezwykłych krajobrazów.",
+      "intro": [
+        "Morze Martwe to unikalne jezioro o największym zasoleniu na świecie, położone w najniższym punkcie na Ziemi. Jego wody są tak gęste, że można swobodnie unosić się na powierzchni, co jest niezapomnianym doświadczeniem. Bogate w minerały błota i sole mają właściwości lecznicze i są wykorzystywane w kosmetyce oraz balneoterapii. To idealne miejsce na relaks i odnowę biologiczną, z dala od zgiełku miast, w otoczeniu surowych, pustynnych krajobrazów.",
+        "Region Morza Martwego to nie tylko kąpiele i błota. W pobliżu znajdują się inne fascynujące atrakcje, takie jak starożytna twierdza Masada, wpisana na listę UNESCO, do której można wjechać kolejką linową, czy oaza Ein Gedi z wodospadami i bujną roślinnością. Warto również odwiedzić Qumran, gdzie znaleziono słynne Zwoje znad Morza Martwego. To obszar, który łączy naturalne cuda z bogatą historią."
+      ],
+      "highlights": [
+        "Kąpiel w Morzu Martwym",
+        "Twierdza Masada",
+        "Park Narodowy Ein Gedi",
+        "Jaskinia Qumran"
+      ]
+    },
+    {
+      "slug": "eilat",
+      "name": "Eilat",
+      "loc": "w Eilacie",
+      "type": "kurort",
+      "gygQuery": "Eilat",
+      "airport": "Ramon (ETM)",
+      "forWhom": "Raj dla miłośników słońca, nurkowania, sportów wodnych i aktywnego wypoczynku w pustynnym klimacie.",
+      "intro": [
+        "Eilat to popularny kurort położony na południowym krańcu Izraela, nad Morzem Czerwonym. Słynie z pięknych raf koralowych, które przyciągają nurków i miłośników snorkelingu z całego świata. Ciepły klimat przez cały rok, słoneczne plaże i krystalicznie czysta woda sprawiają, że jest to idealne miejsce na wypoczynek. Miasto oferuje szeroki wachlarz atrakcji wodnych, od windsurfingu po rejsy statkiem ze szklanym dnem, pozwalające podziwiać podwodny świat.",
+        "Poza atrakcjami wodnymi, Eilat jest doskonałą bazą wypadową do odkrywania pustyni Negew i okolicznych parków narodowych, takich jak Park Timna z jego niezwykłymi formacjami skalnymi. W mieście znajduje się również Delfinarium, gdzie można pływać z delfinami, oraz Podwodne Obserwatorium, umożliwiające podziwianie życia morskiego bez wchodzenia do wody. Eilat to również strefa wolnocłowa, co sprzyja zakupom."
+      ],
+      "highlights": [
+        "Rafy koralowe Morza Czerwonego",
+        "Delfinarium Eilat",
+        "Park Timna",
+        "Podwodne Obserwatorium"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare Miasto w Jerozolimie",
+      "text": "Labirynt uliczek, gdzie spotykają się trzy wielkie religie, pełen historycznych miejsc i niezwykłej atmosfery.",
+      "gygQuery": "Jerusalem Old City"
+    },
+    {
+      "name": "Morze Martwe",
+      "text": "Unikalne jezioro o największym zasoleniu na świecie, oferujące niezapomniane doświadczenie unoszenia się na wodzie i lecznicze błota.",
+      "gygQuery": "Dead Sea"
+    },
+    {
+      "name": "Masada",
+      "text": "Starożytna twierdza na szczycie izolowanego płaskowyżu, będąca symbolem heroicznego oporu i oferująca spektakularne widoki.",
+      "gygQuery": "Masada"
+    },
+    {
+      "name": "Stara Jaffa",
+      "text": "Urokliwa, starożytna część Tel Awiwu, z wąskimi uliczkami, galeryjkami sztuki i portem o bogatej historii.",
+      "gygQuery": "Old Jaffa"
+    },
+    {
+      "name": "Jezioro Galilejskie (Kinneret)",
+      "text": "Malownicze jezioro słodkowodne, ważne miejsce dla chrześcijaństwa, otoczone zielonymi wzgórzami i historycznymi osadami.",
+      "gygQuery": "Sea of Galilee"
+    },
+    {
+      "name": "Cezarea Nadmorska",
+      "text": "Imponujące ruiny starożytnego rzymskiego miasta portowego, z akweduktem, teatrem i amfiteatrem, położone nad Morzem Śródziemnym.",
+      "gygQuery": "Caesarea National Park"
+    },
+    {
+      "name": "Pustynia Negew",
+      "text": "Rozległa, surowa pustynia, oferująca zapierające dech w piersiach krajobrazy, kratery i szlaki trekkingowe.",
+      "gygQuery": "Negev Desert"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia izraelska to fascynująca mieszanka wpływów bliskowschodnich i śródziemnomorskich, z silnym akcentem na świeże składniki, zioła i przyprawy. Obowiązują tu zasady koszerności, choć w Tel Awiwie znajdziemy wiele niekoszernych restauracji. Koniecznie trzeba spróbować falafela, czyli smażonych kulek z ciecierzycy, hummusu, szakszuki (jajka zapiekane w sosie pomidorowym) oraz sabicha, kanapki z bakłażanem i jajkiem. Wszędzie dostępne są świeże warzywa, owoce i pieczywo, a także wyśmienite sery i oliwki. Nie zabraknie też słodkości, takich jak chałwa czy baklava."
+  ],
+  "faq": [
+    {
+      "q": "Czy Izrael jest bezpieczny dla turystów?",
+      "a": "Izrael jest generalnie bezpieczny dla turystów, ale ze względu na sytuację geopolityczną, zawsze warto sprawdzić aktualne komunikaty MSZ przed wyjazdem. W miastach i popularnych miejscach turystycznych należy zachować standardowe środki ostrożności."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Izraela?",
+      "a": "Obywatele Polski mogą wjechać do Izraela bez wizy na pobyt do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Czy można płacić kartą w Izraelu?",
+      "a": "Tak, płatności kartą są bardzo powszechne w Izraelu, zarówno w sklepach, restauracjach, jak i hotelach. Bankomaty są łatwo dostępne w większych miastach i miejscowościach turystycznych."
+    },
+    {
+      "q": "Jaki jest najlepszy czas na podróż do Izraela?",
+      "a": "Najlepszy czas na podróż to wiosna (marzec-maj) i jesień (wrzesień-listopad), kiedy temperatury są umiarkowane i sprzyjają zwiedzaniu. Lato bywa bardzo gorące, a zima łagodna, ale z możliwymi opadami deszczu."
+    },
+    {
+      "q": "Czy Izrael jest drogim krajem?",
+      "a": "Izrael jest krajem stosunkowo drogim, porównywalnym cenowo z krajami Europy Zachodniej. Ceny zakwaterowania, transportu i jedzenia mogą być wyższe niż w Polsce, szczególnie w dużych miastach i popularnych kurortach."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

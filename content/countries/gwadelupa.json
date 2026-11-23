@@ -1,0 +1,201 @@
+{
+  "slug": "gwadelupa",
+  "loc": "na Gwadelupie",
+  "to": "na Gwadelupę",
+  "capital": "Basse-Terre",
+  "popularity": 25,
+  "touroperator": false,
+  "gygQuery": "Guadeloupe",
+  "teaser": "Odkryj Gwadelupę, francuską perłę Karaibów. Czekają na Ciebie wulkaniczne krajobrazy, tropikalne lasy i idylliczne plaże.",
+  "intro": [
+    "Gwadelupa, zamorski departament Francji na Karaibach, to miejsce pełne kontrastów. Z jednej strony oferuje bujną, wulkaniczną wyspę Basse-Terre, pokrytą gęstym lasem deszczowym i poprzecinaną wodospadami, idealną dla miłośników aktywnego wypoczynku i trekkingu. Z drugiej strony, płaska Grande-Terre kusi długimi, piaszczystymi plażami, turkusową wodą i tętniącymi życiem kurortami, doskonałymi do relaksu i sportów wodnych. Archipelag uzupełniają mniejsze, urokliwe wysepki, takie jak Les Saintes czy Marie-Galante, które zachwycają spokojem i autentycznym karaibskim klimatem.",
+    "Ten kierunek jest idealny dla podróżników szukających połączenia europejskich standardów z egzotyką Karaibów. Gwadelupa to świetny wybór dla par, rodzin z dziećmi oraz osób ceniących sobie różnorodność - od górskich wędrówek, przez nurkowanie w rezerwatach morskich, po leniwy wypoczynek na plaży. Dzięki statusowi departamentu francuskiego, infrastruktura turystyczna jest dobrze rozwinięta, a walutą jest euro, co ułatwia planowanie budżetu i płatności. To miejsce, gdzie można poczuć prawdziwą kreolską kulturę, jednocześnie korzystając z wygód znanych z Europy.",
+    "Podróż na Gwadelupę z Polski wymaga przesiadek, zazwyczaj w Paryżu, skąd regularnie latają samoloty. Cała podróż, w zależności od połączeń, zajmuje około 12-15 godzin. Choć Gwadelupa nie jest jeszcze masowym kierunkiem dla Polaków, coraz więcej osób odkrywa jej uroki na własną rękę. Nie znajdziesz tu wielu ofert polskich biur podróży, co sprzyja samodzielnemu planowaniu i eksploracji. Warto zarezerwować loty z wyprzedzeniem, zwłaszcza w szczycie sezonu, aby zapewnić sobie najlepsze ceny i dogodne połączenia."
+  ],
+  "highlights": [
+    "Wulkan La Soufrière i Park Narodowy Gwadelupy",
+    "Malownicze plaże Grande-Terre",
+    "Nurkowanie w Rezerwacie Cousteau",
+    "Kreolska kuchnia i lokalne rumy",
+    "Urokliwe wyspy Les Saintes i Marie-Galante",
+    "Wodospady Carbet Falls"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Gwadelupie to pora sucha, która trwa od grudnia do maja. W tym okresie panują słoneczne dni, niższa wilgotność i przyjemne temperatury, idealne do plażowania i zwiedzania. Od czerwca do listopada trwa pora deszczowa, charakteryzująca się wyższą wilgotnością, częstszymi, choć zazwyczaj krótkotrwałymi opadami i ryzykiem huraganów, zwłaszcza między sierpniem a październikiem. Mimo to, nawet w porze deszczowej często świeci słońce, a ceny są niższe.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      31,
+      31,
+      31,
+      31,
+      32,
+      31,
+      31,
+      30,
+      29
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "Pointe-à-Pitre"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "Różnica czasu to -5 lub -6 godzin względem Polski, w zależności od pory roku.",
+    "documents": "Obywatele Polski mogą wjechać na Gwadelupę na podstawie ważnego paszportu lub dowodu osobistego. Gwadelupa jest terytorium zamorskim Francji, więc obowiązują tu zasady strefy Schengen. Zawsze zalecamy sprawdzenie aktualnych wymogów przed wyjazdem na stronie MSZ.",
+    "money": "Obowiązującą walutą jest euro (EUR). Płatności kartą są powszechne w większych miastach i kurortach, ale zawsze warto mieć przy sobie gotówkę, zwłaszcza w mniejszych miejscowościach i na lokalnych targach.",
+    "plugs": "Typ C i E, takie same jak w Polsce i Francji.",
+    "language": "Oficjalnym językiem jest francuski. W sektorze turystycznym i większych miastach można porozumieć się po angielsku, ale znajomość podstaw francuskiego będzie bardzo pomocna.",
+    "safety": "Gwadelupa jest generalnie bezpiecznym kierunkiem turystycznym. Należy zachować podstawowe środki ostrożności, unikać samotnych spacerów po zmroku w mniej uczęszczanych miejscach i dbać o swoje wartościowe przedmioty. Warto zabezpieczyć się przed komarami, które mogą przenosić dengę lub chikungunya. Zaleca się picie wody butelkowanej."
+  },
+  "regions": [
+    {
+      "slug": "grande-terre",
+      "name": "Grande-Terre",
+      "loc": "na Grande-Terre",
+      "type": "wyspa",
+      "gygQuery": "Grande-Terre Guadeloupe",
+      "airport": "PTP",
+      "forWhom": "Idealna dla miłośników plażowania, sportów wodnych i aktywnego życia nocnego.",
+      "intro": [
+        "Grande-Terre to wschodnia, bardziej płaska część Gwadelupy, połączona z Basse-Terre wąskim przesmykiem. To tutaj znajdziesz większość turystycznych kurortów, luksusowe hotele i najpiękniejsze, piaszczyste plaże, takie jak Plage de la Caravelle czy Plage des Salines. Wyspa słynie z turkusowych lagun, idealnych do pływania, snorkelingu i windsurfingu. To także centrum życia nocnego, z licznymi restauracjami, barami i dyskotekami, szczególnie w okolicach Saint-François i Sainte-Anne.",
+        "Oprócz plaż, Grande-Terre oferuje ciekawe miejsca do zwiedzania, takie jak Pointe des Châteaux, malowniczy cypel z klifami i widokiem na mniejsze wyspy, czy pola trzciny cukrowej i destylarnie rumu. Główne miasto, Pointe-à-Pitre, to tętniący życiem port i centrum handlowe, gdzie warto odwiedzić lokalny targ i zabytkowe centrum. Jest to doskonała baza wypadowa do odkrywania pozostałych części archipelagu, dzięki dobrze rozwiniętej sieci dróg."
+      ],
+      "highlights": [
+        "Plaże Saint-François i Sainte-Anne",
+        "Pointe des Châteaux - malowniczy cypel",
+        "Targ w Pointe-à-Pitre",
+        "Destylarnie rumu"
+      ]
+    },
+    {
+      "slug": "basse-terre",
+      "name": "Basse-Terre",
+      "loc": "na Basse-Terre",
+      "type": "wyspa",
+      "gygQuery": "Basse-Terre Guadeloupe",
+      "airport": "PTP",
+      "forWhom": "Raj dla miłośników natury, trekkingu, wodospadów i bujnej roślinności.",
+      "intro": [
+        "Basse-Terre to zachodnia, górzysta i wulkaniczna część Gwadelupy, dominowana przez wulkan La Soufrière, najwyższy szczyt Małych Antyli. Wyspa jest w dużej mierze pokryta Parkiem Narodowym Gwadelupy, wpisanym na listę UNESCO, który chroni gęsty las deszczowy, liczne wodospady i gorące źródła. To idealne miejsce dla osób szukających przygód, z setkami kilometrów szlaków turystycznych prowadzących przez dziewiczą przyrodę. Możesz tu podziwiać egzotyczne rośliny i zwierzęta, a także kąpać się w naturalnych basenach pod wodospadami.",
+        "Na Basse-Terre znajdują się również słynne wodospady Carbet Falls, ogród botaniczny w Deshaies oraz rezerwat morski Cousteau Reserve (Malendure), który jest jednym z najlepszych miejsc do nurkowania i snorkelingu na Karaibach. Można tu podziwiać bogactwo podwodnego świata, w tym wraki statków i kolorowe rafy koralowe. Stolicą wyspy i całego departamentu jest miasto Basse-Terre, z kolonialną architekturą i spokojną atmosferą."
+      ],
+      "highlights": [
+        "Wulkan La Soufrière i trekking",
+        "Wodospady Carbet Falls",
+        "Rezerwat Cousteau (nurkowanie)",
+        "Ogród Botaniczny w Deshaies"
+      ]
+    },
+    {
+      "slug": "les-saintes",
+      "name": "Les Saintes",
+      "loc": "na Les Saintes",
+      "type": "archipelag wysp",
+      "gygQuery": "Les Saintes Guadeloupe",
+      "airport": "PTP (prom z Trois-Rivières)",
+      "forWhom": "Dla tych, którzy szukają spokoju, malowniczych widoków i urokliwych zatoczek.",
+      "intro": [
+        "Les Saintes to mały archipelag dziewięciu wysp na południe od Basse-Terre, z których dwie, Terre-de-Haut i Terre-de-Bas, są zamieszkane. To prawdziwa pocztówka z Karaibów, słynąca z jednej z najpiękniejszych zatok na świecie - Baie des Saintes. Wyspy charakteryzują się urokliwymi, kolorowymi domkami, spokojnymi plażami i wspaniałymi warunkami do snorkelingu i nurkowania. Na Terre-de-Haut warto wspiąć się na Fort Napoléon, skąd roztacza się panoramiczny widok na zatokę i okoliczne wyspy.",
+        "Dostaniesz się tu promem z Trois-Rivières na Basse-Terre. Na wyspach panuje spokojna atmosfera, a głównym środkiem transportu są skutery i rowery, co dodaje im uroku. Les Saintes to idealne miejsce na jednodniową wycieczkę lub kilkudniowy relaks z dala od zgiełku. Spróbuj lokalnych specjałów, takich jak tourment d'amour, małe ciastko kokosowe, i ciesz się sielankowym klimatem."
+      ],
+      "highlights": [
+        "Zatoka Baie des Saintes",
+        "Fort Napoléon na Terre-de-Haut",
+        "Spokojne plaże i snorkeling",
+        "Urokliwe miasteczka rybackie"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan La Soufrière",
+      "text": "Najwyższy szczyt Małych Antyli, oferujący wymagające szlaki trekkingowe i spektakularne widoki na cały archipelag. Warto przygotować się na zmienną pogodę i błotniste ścieżki.",
+      "gygQuery": "La Soufriere volcano Guadeloupe"
+    },
+    {
+      "name": "Wodospady Carbet Falls",
+      "text": "Trzy imponujące wodospady ukryte w sercu lasu deszczowego, dostępne poprzez malownicze szlaki. Drugi wodospad jest najłatwiej dostępny i najbardziej popularny.",
+      "gygQuery": "Carbet Falls Guadeloupe"
+    },
+    {
+      "name": "Rezerwat Cousteau (Malendure)",
+      "text": "Podwodny park narodowy, idealny do nurkowania i snorkelingu, z bogactwem raf koralowych, kolorowych ryb i żółwi morskich. Można tu podziwiać słynny pomnik Jacquesa Cousteau.",
+      "gygQuery": "Cousteau Reserve Guadeloupe"
+    },
+    {
+      "name": "Pointe des Châteaux",
+      "text": "Malowniczy cypel na wschodnim krańcu Grande-Terre, z formacjami skalnymi, klifami i zapierającymi dech w piersiach widokami na ocean i sąsiednie wyspy La Désirade.",
+      "gygQuery": "Pointe des Chateaux Guadeloupe"
+    },
+    {
+      "name": "Jardin Botanique de Deshaies",
+      "text": "Przepiękny ogród botaniczny, założony przez Coluche'a, prezentujący bogactwo flory Karaibów. Idealne miejsce na spacer wśród egzotycznych roślin i ptaków, w tym flamingów.",
+      "gygQuery": "Deshaies Botanical Garden"
+    },
+    {
+      "name": "Memorial ACTe",
+      "text": "Nowoczesne centrum pamięci w Pointe-à-Pitre, poświęcone historii handlu niewolnikami i jego wpływowi na Karaiby. Oferuje poruszające wystawy i architektonicznie imponujący budynek.",
+      "gygQuery": "Memorial ACTe Guadeloupe"
+    },
+    {
+      "name": "Plage de Grande Anse",
+      "text": "Jedna z najdłuższych i najpiękniejszych plaż na Basse-Terre, z delikatnym złotym piaskiem i palmami. Idealna do relaksu, pływania i podziwiania zachodów słońca.",
+      "gygQuery": "Grande Anse beach Guadeloupe"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Gwadelupy to fascynująca mieszanka wpływów afrykańskich, francuskich, indyjskich i kreolskich, charakteryzująca się intensywnymi smakami i świeżymi składnikami. Podstawą są świeże owoce morza i ryby, często grillowane lub duszone w aromatycznych sosach. Spróbuj accras (smażone pulpety z ryb lub warzyw), boudin créole (kreolska kaszanka), colombo de poulet (kurczak w curry z przyprawami indyjskimi) czy bokit (smażony chlebek nadziewany różnymi składnikami). Do posiłku często podaje się ryż, fasolę, maniok i lokalne warzywa. Nie zapomnij o świeżych owocach, takich jak mango, papaja czy marakuja, oraz o lokalnym rumie, który jest podstawą wielu koktajli, np. Ti' Punch."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Gwadelupę jako Polak?",
+      "a": "Nie, jako obywatel Polski nie potrzebujesz wizy na Gwadelupę. Wystarczy ważny paszport lub dowód osobisty, ponieważ Gwadelupa jest zamorskim departamentem Francji i częścią strefy Schengen."
+    },
+    {
+      "q": "Jaka jest waluta na Gwadelupie?",
+      "a": "Oficjalną walutą na Gwadelupie jest euro (EUR). Płatności kartą są szeroko akceptowane, ale warto mieć gotówkę na mniejsze zakupy i lokalne targi."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Gwadelupę?",
+      "a": "Najlepszy czas na podróż na Gwadelupę to pora sucha, od grudnia do maja. W tym okresie panują najbardziej stabilne warunki pogodowe, z mniejszą wilgotnością i dużą ilością słońca."
+    },
+    {
+      "q": "Jak poruszać się po Gwadelupie?",
+      "a": "Najlepszym sposobem na zwiedzanie Gwadelupy jest wynajęcie samochodu, co daje największą swobodę. Istnieje również sieć autobusów, ale ich rozkłady mogą być nieregularne. Na mniejsze wyspy kursują promy."
+    },
+    {
+      "q": "Czy na Gwadelupie jest bezpiecznie dla turystów?",
+      "a": "Gwadelupa jest ogólnie bezpiecznym miejscem dla turystów. Zaleca się zachowanie podstawowych środków ostrożności, takich jak dbanie o wartościowe przedmioty i unikanie samotnych spacerów po zmroku w nieznanych miejscach. Należy również pamiętać o ochronie przed komarami."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,229 @@
+{
+  "slug": "holandia",
+  "loc": "w Holandii",
+  "to": "do Holandii",
+  "capital": "Amsterdam",
+  "popularity": 48,
+  "touroperator": false,
+  "gygQuery": "Netherlands",
+  "teaser": "Kraj tulipanów, wiatraków i rowerów. Idealny na weekendowy wypad lub dłuższą podróż pełną kultury i urokliwych miasteczek.",
+  "intro": [
+    "Holandia to kraj, który mimo niewielkich rozmiarów oferuje niezwykłą różnorodność. Od tętniącego życiem Amsterdamu z jego kanałami i muzeami, przez nowoczesny Rotterdam z awangardową architekturą, po spokojne wioski z charakterystycznymi wiatrakami i rozległymi polami tulipanów. To idealne miejsce dla tych, którzy cenią sobie aktywny wypoczynek, kulturę, sztukę oraz bliskość natury, zwłaszcza tej ukształtowanej przez człowieka.",
+    "Kraj jest świetnie skomunikowany, co ułatwia podróżowanie pomiędzy miastami i atrakcjami. Holandia to raj dla rowerzystów - sieć ścieżek rowerowych jest imponująca, a rower to często najlepszy środek transportu. Kuchnia holenderska, choć może nie tak słynna jak francuska czy włoska, zaskakuje smakiem serów, śledzi i tradycyjnych przekąsek. To także kraj tolerancji i otwartości, gdzie każdy znajdzie coś dla siebie.",
+    "Podróż z Polski do Holandii jest bardzo prosta. Liczne połączenia lotnicze z głównych polskich miast do Amsterdamu (Schiphol) czy Eindhoven sprawiają, że lot trwa około 1,5-2 godzin. Dla obywateli Polski wystarczy dowód osobisty, a różnica czasu względem Polski nie występuje. To sprawia, że Holandia jest częstym wyborem na krótki city-break lub dłuższy urlop bez skomplikowanych przygotowań."
+  ],
+  "highlights": [
+    "Kanały Amsterdamu i rejsy po nich",
+    "Pola tulipanów (kwiecień-maj)",
+    "Słynne muzea: Rijksmuseum, Van Gogh",
+    "Wiatraki w Kinderdijk i Zaanse Schans",
+    "Rowerowe wycieczki po płaskim terenie",
+    "Degustacja serów i śledzi"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę w Holandii to wiosna, szczególnie kwiecień i maj, kiedy kwitną tulipany, a pogoda jest łagodna i sprzyja zwiedzaniu. Lato (czerwiec-sierpień) również jest dobrym okresem, z cieplejszymi dniami idealnymi na spacery i jazdę na rowerze. Wiosną i jesienią trzeba liczyć się z większą ilością opadów, ale temperatury są przyjemne. Zimą bywa chłodno i wietrznie, ale miasta mają swój urok świąteczny.",
+    "best": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      3,
+      9,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      5,
+      5,
+      9,
+      12,
+      16,
+      19,
+      21,
+      21,
+      18,
+      14,
+      9,
+      6
+    ],
+    "sea": [
+      6,
+      5,
+      6,
+      8,
+      11,
+      14,
+      17,
+      18,
+      17,
+      14,
+      11,
+      8
+    ],
+    "note": "dla Amsterdamu"
+  },
+  "practical": {
+    "flight": "około 1,5-2 h",
+    "timeDiff": "brak różnicy czasu",
+    "documents": "Dowód osobisty lub paszport. Holandia należy do strefy Schengen. Przed wyjazdem zawsze zaleca się sprawdzenie aktualnych wymogów na stronach MSZ.",
+    "money": "Walutą jest euro (EUR). Płatności kartą są powszechne, często preferowane. W wielu miejscach, zwłaszcza w małych sklepach, akceptowane są tylko karty Maestro lub lokalne karty debetowe, dlatego warto mieć przy sobie trochę gotówki.",
+    "plugs": "Typ F (standard europejski, dwa okrągłe bolce).",
+    "language": "Oficjalnym językiem jest niderlandzki, ale prawie każdy Holender mówi biegle po angielsku, zwłaszcza w większych miastach i obszarach turystycznych. Niemiecki również jest często rozumiany.",
+    "safety": "Holandia jest krajem bezpiecznym. Należy zachować standardowe środki ostrożności, szczególnie w zatłoczonych miejscach turystycznych (kradzieże kieszonkowe). Ruch rowerowy jest intensywny, należy uważać na ścieżkach rowerowych. Opieka zdrowotna jest na wysokim poziomie, zaleca się posiadanie Europejskiej Karty Ubezpieczenia Zdrowotnego (EKUZ)."
+  },
+  "regions": [
+    {
+      "slug": "amsterdam",
+      "name": "Amsterdam",
+      "loc": "w Amsterdamie",
+      "type": "miasto",
+      "gygQuery": "Amsterdam",
+      "airport": "AMS",
+      "forWhom": "Dla miłośników kultury, sztuki, życia nocnego i spacerów wzdłuż malowniczych kanałów.",
+      "intro": [
+        "Stolica Holandii to miasto, które nie potrzebuje reklamy. Znane z gęstej sieci kanałów, wąskich kamienic, światowej klasy muzeów i swobodnej atmosfery, Amsterdam przyciąga miliony turystów każdego roku. Tu każdy znajdzie coś dla siebie - od podziwiania dzieł Rembrandta i Van Gogha, przez rejsy po kanałach, po wizytę w Domu Anny Frank czy relaks w Vondelparku.",
+        "Miasto jest idealne do zwiedzania pieszo lub, co bardziej holenderskie, na rowerze. Mimo swojej popularności, Amsterdam potrafi zachować swój urok i intymność w bocznych uliczkach. Wieczorem liczne bary i restauracje tętnią życiem, oferując różnorodne doznania kulinarne i rozrywkowe. Pamiętaj, aby zarezerwować bilety do najpopularniejszych atrakcji z wyprzedzeniem."
+      ],
+      "highlights": [
+        "Rijksmuseum i Muzeum Van Gogha",
+        "Rejs po kanałach Amsterdamu",
+        "Dom Anny Frank",
+        "Dzielnica Jordaan",
+        "Vondelpark",
+        "Rynek kwiatowy (Bloemenmarkt)"
+      ]
+    },
+    {
+      "slug": "haga",
+      "name": "Haga",
+      "loc": "w Hadze",
+      "type": "miasto",
+      "gygQuery": "The Hague",
+      "airport": "AMS",
+      "forWhom": "Dla tych, którzy szukają połączenia kultury, polityki i nadmorskiego relaksu.",
+      "intro": [
+        "Haga, choć nie jest stolicą, to siedziba holenderskiego rządu, parlamentu i króla, a także wielu międzynarodowych trybunałów. To eleganckie miasto oferuje imponujące budynki rządowe, takie jak Binnenhof, oraz światowej klasy muzea, na czele z Mauritshuis, gdzie podziwiać można 'Dziewczynę z perłą' Vermeera. Haga ma bardziej spokojny, arystokratyczny charakter niż Amsterdam.",
+        "Dodatkowym atutem Hagi jest jej bliskość do Morza Północnego. Scheveningen, popularna nadmorska dzielnica, oferuje szeroką plażę, molo i liczne restauracje, idealne na spacer czy kolację z widokiem na zachód słońca. Można tu poczuć prawdziwie nadmorski klimat, z dala od zgiełku wielkiego miasta."
+      ],
+      "highlights": [
+        "Binnenhof i Pałac Pokoju",
+        "Mauritshuis (Dziewczyna z perłą)",
+        "Plaża w Scheveningen",
+        "Madurodam (miniaturowa Holandia)",
+        "Pałac Noordeinde",
+        "Muzeum Escher w Pałacu"
+      ]
+    },
+    {
+      "slug": "rotterdam",
+      "name": "Rotterdam",
+      "loc": "w Rotterdamie",
+      "type": "miasto",
+      "gygQuery": "Rotterdam",
+      "airport": "RTM",
+      "forWhom": "Dla miłośników nowoczesnej architektury, innowacji i dynamicznego, miejskiego życia.",
+      "intro": [
+        "Rotterdam to miasto o zupełnie innym obliczu niż reszta Holandii. Zniszczone podczas II wojny światowej, odrodziło się jako centrum awangardowej architektury i designu. Znajdziesz tu futurystyczne budynki, takie jak Kubuswoningen (domy-kostki), Markthal czy most Erasmusbrug, które tworzą unikalny miejski krajobraz. To miasto, które stale się rozwija i zaskakuje nowymi projektami.",
+        "Rotterdam to także jeden z największych portów na świecie, co nadaje mu międzynarodowy i kosmopolityczny charakter. Można wybrać się na rejs po porcie, odwiedzić liczne galerie sztuki, modne kawiarnie i restauracje. To idealne miejsce dla tych, którzy szukają nowoczesności, innowacji i dynamicznej atmosfery, z dala od tradycyjnych holenderskich pocztówek."
+      ],
+      "highlights": [
+        "Kubuswoningen (domy-kostki)",
+        "Markthal (hala targowa)",
+        "Most Erasmusbrug",
+        "Rejs po porcie",
+        "Wieża Euromast",
+        "Muzeum Boijmans Van Beuningen"
+      ]
+    },
+    {
+      "slug": "utrecht",
+      "name": "Utrecht",
+      "loc": "w Utrechcie",
+      "type": "miasto",
+      "gygQuery": "Utrecht",
+      "airport": "AMS",
+      "forWhom": "Dla szukających urokliwego miasta uniwersyteckiego z pięknymi kanałami i bogatą historią.",
+      "intro": [
+        "Utrecht to jedno z najstarszych miast Holandii, często nazywane 'małym Amsterdamem', ale z własnym, unikalnym charakterem. Jego urok tkwi w dwupoziomowych kanałach, gdzie dawne piwnice magazynowe zostały przekształcone w klimatyczne kawiarnie i restauracje tuż nad wodą. Miasto jest tętniącym życiem ośrodkiem uniwersyteckim, co nadaje mu młodzieńczego, energicznego ducha.",
+        "Dominującą budowlą w Utrechcie jest wieża Domtoren, najwyższa wieża kościelna w Holandii, z której roztacza się wspaniały widok na okolicę. Wąskie uliczki, zabytkowe kościoły i urokliwe place sprawiają, że Utrecht jest idealnym miejscem na spokojne spacery i odkrywanie holenderskiej historii poza utartymi szlakami turystycznymi."
+      ],
+      "highlights": [
+        "Wieża Domtoren",
+        "Kanały z kawiarniami nad wodą",
+        "Muzeum Centralne",
+        "Katedra św. Marcina",
+        "Ogród Botaniczny Uniwersytetu",
+        "Domy Rietvelda i Schröderów"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Rijksmuseum",
+      "text": "Narodowe Muzeum Holandii w Amsterdamie, mieszczące bogate zbiory sztuki i historii, w tym 'Straż nocną' Rembrandta.",
+      "gygQuery": "Rijksmuseum tickets"
+    },
+    {
+      "name": "Muzeum Van Gogha",
+      "text": "W Amsterdamie, największa na świecie kolekcja dzieł Vincenta van Gogha, ukazująca jego życie i twórczość.",
+      "gygQuery": "Van Gogh Museum tickets"
+    },
+    {
+      "name": "Kanały Amsterdamu",
+      "text": "Urokliwa sieć wodnych dróg, wpisana na listę UNESCO, idealna do zwiedzania łodzią lub pieszo.",
+      "gygQuery": "Amsterdam canal cruise"
+    },
+    {
+      "name": "Dom Anny Frank",
+      "text": "Miejsce ukrycia Anny Frank i jej rodziny, dziś muzeum upamiętniające ich historię i Holocaust.",
+      "gygQuery": "Anne Frank House tickets"
+    },
+    {
+      "name": "Keukenhof",
+      "text": "Jeden z największych ogrodów kwiatowych na świecie, otwarty wiosną, słynący z milionów kwitnących tulipanów.",
+      "gygQuery": "Keukenhof tickets"
+    },
+    {
+      "name": "Wiatraki Kinderdijk",
+      "text": "Kompleks 19 zabytkowych wiatraków, wpisany na listę UNESCO, symbol holenderskiego krajobrazu.",
+      "gygQuery": "Kinderdijk windmills"
+    },
+    {
+      "name": "Delta Works",
+      "text": "Imponujący system zapór i tam, chroniący Holandię przed powodziami, uważany za jeden z cudów inżynierii.",
+      "gygQuery": "Delta Works tour"
+    },
+    {
+      "name": "Mauritshuis",
+      "text": "Muzeum sztuki w Hadze, dom dla 'Dziewczyny z perłą' Vermeera i innych holenderskich mistrzów.",
+      "gygQuery": "Mauritshuis tickets"
+    }
+  ],
+  "cuisine": [
+    "Holenderska kuchnia to przede wszystkim smaki proste, ale sycące. Obowiązkowo trzeba spróbować śledzia (haring), często podawanego na surowo z cebulką i ogórkiem. Królują tu sery - Gouda, Edam czy Maasdam to tylko niektóre z wielu rodzajów. Popularne są także frytki (patat) z różnymi sosami, zwłaszcza z majonezem. Na słodko warto spróbować stroopwafels (ciastek z syropem), poffertjes (mini-naleśników) czy appeltaart (szarlotki). Warto też poszukać tradycyjnych stamppot (tłuczonych ziemniaków z warzywami) czy hutspot (gulaszu). Ze względu na kolonialną przeszłość, w Holandii znajdziemy też doskonałą kuchnię indonezyjską, zwłaszcza rijsttafel - ucztę składającą się z wielu małych dań."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Holandii potrzebna jest wiza?",
+      "a": "Nie, obywatele Polski mogą podróżować do Holandii na podstawie dowodu osobistego lub paszportu. Holandia należy do strefy Schengen."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Holandii?",
+      "a": "Holandia ma doskonałą sieć kolejową, która łączy wszystkie większe miasta. W miastach najlepiej poruszać się na rowerze lub komunikacją miejską. Rower to narodowy środek transportu i świetny sposób na zwiedzanie."
+    },
+    {
+      "q": "Kiedy kwitną tulipany w Holandii?",
+      "a": "Tulipany kwitną zazwyczaj od końca marca do połowy maja, z apogeum kwitnienia w drugiej połowie kwietnia. Warto wtedy odwiedzić Keukenhof lub pola tulipanów w regionie Bollenstreek."
+    },
+    {
+      "q": "Czy Holandia jest drogim krajem dla turystów?",
+      "a": "Holandia, zwłaszcza Amsterdam, może być postrzegana jako kraj drogi, szczególnie jeśli chodzi o zakwaterowanie i restauracje. Ceny są porównywalne do innych krajów Europy Zachodniej. Można jednak znaleźć tańsze opcje, korzystając z supermarketów i lokalnych przekąsek."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

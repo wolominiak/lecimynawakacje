@@ -1,0 +1,174 @@
+{
+  "slug": "jemen",
+  "loc": "w Jemenie",
+  "to": "do Jemenu",
+  "capital": "Sana",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Yemen",
+  "teaser": "Jemen, kraj o bogatej historii i unikalnej architekturze, obecnie jest niestety niedostępny dla turystów z powodu konfliktu zbrojnego.",
+  "intro": [
+    "Jemen to kraj o fascynującej kulturze, starożytnych miastach i niezwykłych krajobrazach, zwłaszcza na wyspie Sokotra. Niestety, od kilku lat jest objęty intensywnym konfliktem zbrojnym, co czyni go jednym z najbardziej niebezpiecznych miejsc na świecie. Podróżowanie tam jest kategorycznie odradzane przez polskie Ministerstwo Spraw Zagranicznych.",
+    "Przed wybuchem wojny, Jemen przyciągał poszukiwaczy przygód i miłośników historii, oferując unikalne doświadczenia, takie jak zwiedzanie wieżowców z gliny w Shibam czy starych miast Sana i Zabid. Obecnie, ze względu na trwające walki, ryzyko porwań, ataków terrorystycznych i min lądowych, kraj ten jest całkowicie nieodpowiedni dla turystyki.",
+    "Loty z Polski do Jemenu byłyby skomplikowane i wymagałyby wielu przesiadek, często przez kraje regionu. Obecnie większość lotnisk jest zamknięta lub działa w ograniczonym zakresie, a przemieszczanie się po kraju jest skrajnie niebezpieczne. Marzenia o podróży do Jemenu muszą poczekać na stabilizację sytuacji."
+  ],
+  "highlights": [
+    "Unikalna architektura z gliny",
+    "Starożytne miasto Sana (UNESCO)",
+    "Wyspa Sokotra i jej endemity",
+    "Pustynne krajobrazy i wadi",
+    "Tradycyjne jemeńskie targi",
+    "Historia Królestwa Saby"
+  ],
+  "bestTime": {
+    "text": "Z uwagi na trwający konflikt zbrojny, obecnie nie ma bezpiecznego czasu na podróż do Jemenu. W przeszłości, najlepszym okresem na zwiedzanie była pora sucha, od października do kwietnia, kiedy temperatury były łagodniejsze, a opady rzadkie. Latem bywało bardzo gorąco, zwłaszcza na pustyniach.",
+    "best": [],
+    "ok": []
+  },
+  "climate": {
+    "air": [
+      21,
+      22,
+      25,
+      26,
+      28,
+      29,
+      28,
+      28,
+      27,
+      24,
+      22,
+      21
+    ],
+    "sea": null,
+    "note": "dla Sany, stolicy kraju"
+  },
+  "practical": {
+    "flight": "obecnie brak regularnych połączeń, przed konfliktem około 10-12 h z 1-2 przesiadkami",
+    "timeDiff": "UTC+3, czyli +2 h względem Polski w czasie zimowym i +1 h w czasie letnim.",
+    "documents": "Wizy są wymagane. Ze względu na konflikt zbrojny, uzyskanie wizy turystycznej jest obecnie niemożliwe. Polskie MSZ kategorycznie odradza wszelkie podróże do Jemenu i zaleca natychmiastowe opuszczenie kraju.",
+    "money": "Waluta to rial jemeński (YER). Płatności kartą są bardzo ograniczone, a dostęp do bankomatów utrudniony. Wymiana walut możliwa była w kantorach, ale obecnie system finansowy jest niestabilny.",
+    "plugs": "Typ A, D, G (brytyjski), C (europejski). Zalecany adapter uniwersalny.",
+    "language": "arabski",
+    "safety": "Jemen jest obecnie krajem objętym konfliktem zbrojnym. Poziom zagrożenia terrorystycznego, ryzyka porwań, przemocy i min lądowych jest ekstremalnie wysoki. Polskie Ministerstwo Spraw Zagranicznych kategorycznie odradza wszelkie podróże do Jemenu."
+  },
+  "regions": [
+    {
+      "slug": "sana",
+      "name": "Sana",
+      "loc": "w Sanie",
+      "type": "miasto",
+      "gygQuery": "Sana Yemen",
+      "airport": "SAH",
+      "forWhom": "Dla miłośników historii i unikalnej architektury, choć obecnie niedostępna.",
+      "intro": [
+        "Stolica Jemenu, Sana, to jedno z najstarszych nieprzerwanie zamieszkanych miast na świecie, wpisane na listę UNESCO. Jej Stare Miasto słynie z charakterystycznych, wielopiętrowych domów z cegły suszonej na słońcu, zdobionych białymi ornamentami. Spacerując po wąskich uliczkach, można było podziwiać meczety, łaźnie i tradycyjne targi, które tętniły życiem. Przed konfliktem była to perła architektury arabskiej.",
+        "Niestety, obecny konflikt zbrojny poważnie zniszczył wiele zabytkowych budynków i uniemożliwił bezpieczne zwiedzanie. Mimo to, jej dziedzictwo kulturowe pozostaje symbolem bogatej historii Jemenu. Sana jest sercem jemeńskiej kultury i tradycji, której unikalny charakter jest rozpoznawalny na całym świecie."
+      ],
+      "highlights": [
+        "Stare Miasto Sana (UNESCO)",
+        "Wielopiętrowe domy z gliny",
+        "Meczet Al-Saleh",
+        "Tradycyjne suki i bazary"
+      ]
+    },
+    {
+      "slug": "sokotra",
+      "name": "Sokotra",
+      "loc": "na Sokotrze",
+      "type": "wyspa",
+      "gygQuery": "Socotra Yemen",
+      "airport": "SCT",
+      "forWhom": "Dla poszukiwaczy unikalnej przyrody i odizolowanych krajobrazów.",
+      "intro": [
+        "Wyspa Sokotra, położona na Oceanie Indyjskim, to prawdziwy klejnot Jemenu, często nazywana \"Galapagos Oceanu Indyjskiego\". Słynie z endemicznych gatunków roślin i zwierząt, których nie znajdziemy nigdzie indziej na świecie, takich jak drzewo smoczej krwi czy drzewo butelkowe. Jej krajobrazy są niezwykłe, z piaszczystymi wydmami, wapiennymi płaskowyżami i krystalicznie czystymi wodami.",
+        "Sokotra jest wpisana na listę światowego dziedzictwa UNESCO ze względu na swoją wyjątkową bioróżnorodność. Mimo że jest częścią Jemenu, jej izolacja sprawia, że była stosunkowo mniej dotknięta konfliktem, jednak podróżowanie tam nadal wiąże się z ogromnym ryzykiem i jest odradzane. Była to oaza spokoju dla miłośników natury i nurkowania."
+      ],
+      "highlights": [
+        "Drzewa smoczej krwi",
+        "Endemiczna flora i fauna",
+        "Plaże i jaskinie",
+        "Nurkowanie i snorkeling"
+      ]
+    },
+    {
+      "slug": "shibam",
+      "name": "Shibam",
+      "loc": "w Shibam",
+      "type": "miasto",
+      "gygQuery": "Shibam Yemen",
+      "airport": "GXF",
+      "forWhom": "Dla podziwiających architekturę pustyni i historyczne fortyfikacje.",
+      "intro": [
+        "Shibam, znane jako \"Manhattan pustyni\", to starożytne miasto w dolinie Hadramaut, słynące z unikalnych, wielopiętrowych budynków z gliny. Te \"wieżowce\" o wysokości do siedmiu pięter, zbudowane z cegły suszonej na słońcu, tworzą imponującą, ufortyfikowaną osadę. Były one zaprojektowane do obrony przed atakami plemion i chroniły mieszkańców przed powodziami.",
+        "Miasto jest wpisane na listę UNESCO i stanowi niezwykły przykład urbanistyki i inżynierii z IV wieku. Mimo swojego historycznego znaczenia i niezwykłego wyglądu, obecnie jest niedostępne dla turystów ze względu na niestabilną sytuację bezpieczeństwa w regionie. Jego widok z oddali zapierał dech w piersiach."
+      ],
+      "highlights": [
+        "Manhattan pustyni",
+        "Wielopiętrowe gliniane domy",
+        "UNESCO World Heritage Site",
+        "Dolina Hadramaut"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare Miasto Sana",
+      "text": "Wpisane na listę UNESCO, słynie z unikalnych, wielopiętrowych domów z cegły suszonej na słońcu i tętniących życiem suków.",
+      "gygQuery": "Old City Sana'a"
+    },
+    {
+      "name": "Wyspa Sokotra",
+      "text": "Raj dla miłośników przyrody, znana z endemicznych drzew smoczej krwi i niezwykłej bioróżnorodności.",
+      "gygQuery": "Socotra Island"
+    },
+    {
+      "name": "Shibam, Manhattan Pustyni",
+      "text": "Starożytne miasto z imponującymi, wielopiętrowymi wieżowcami z gliny, chronionymi przez UNESCO.",
+      "gygQuery": "Shibam Mud Skyscrapers"
+    },
+    {
+      "name": "Wadi Hadramaut",
+      "text": "Malownicza dolina, dom dla tradycyjnych osad i zielonych oaz, niegdyś ważny szlak handlowy.",
+      "gygQuery": "Wadi Hadramaut"
+    },
+    {
+      "name": "Zabid",
+      "text": "Historyczne miasto uniwersyteckie, z charakterystyczną architekturą i licznymi meczetami, również na liście UNESCO.",
+      "gygQuery": "Zabid Yemen"
+    },
+    {
+      "name": "Dar al-Hajar (Pałac na Skale)",
+      "text": "Imponujący pałac zbudowany na szczycie skalnego wzniesienia w Wadi Dhar, symbol Jemenu.",
+      "gygQuery": "Dar al-Hajar"
+    },
+    {
+      "name": "Meczet Al-Saleh",
+      "text": "Nowoczesny, ale majestatyczny meczet w Sanie, jeden z największych w Jemenie, symbol współczesnej architektury.",
+      "gygQuery": "Al-Saleh Mosque Sana'a"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia jemeńska jest prosta, ale aromatyczna, bazująca na ryżu, chlebie, mięsie (głównie jagnięcina, kurczak) i warzywach. Popularne dania to *saltah* (gulasz z mięsa lub warzyw z kozieradką), *mandi* (ryż z pieczonym mięsem) oraz *lahoh* (rodzaj naleśnika). Często używa się przypraw takich jak kardamon, kumin i kolendra. Tradycyjnie posiłki spożywa się siedząc na podłodze, używając prawej ręki. Herbata i kawa to podstawowe napoje."
+  ],
+  "faq": [
+    {
+      "q": "Czy Jemen jest bezpieczny dla turystów?",
+      "a": "Absolutnie nie. Jemen jest obecnie krajem objętym konfliktem zbrojnym. Polskie MSZ kategorycznie odradza wszelkie podróże do tego kraju ze względu na ekstremalnie wysokie ryzyko."
+    },
+    {
+      "q": "Czy można polecieć na Sokotrę?",
+      "a": "Chociaż wyspa Sokotra jest stosunkowo mniej dotknięta konfliktem, połączenia lotnicze są nieregularne i niebezpieczne. Podróżowanie tam jest nadal odradzane przez władze polskie."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Jemenu?",
+      "a": "Wymagana jest wiza, ale ze względu na obecną sytuację, uzyskanie wizy turystycznej jest niemożliwe. Nawet w przypadku posiadania wizy, wjazd do kraju jest skrajnie niebezpieczny."
+    },
+    {
+      "q": "Co warto zobaczyć w Jemenie, gdyby był bezpieczny?",
+      "a": "Do najcenniejszych miejsc należą Stare Miasto Sana, wyspa Sokotra z unikalną przyrodą oraz gliniane wieżowce Shibam."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

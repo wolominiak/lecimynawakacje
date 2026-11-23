@@ -1,0 +1,219 @@
+{
+  "slug": "irlandia",
+  "loc": "w Irlandii",
+  "to": "do Irlandii",
+  "capital": "Dublin",
+  "popularity": 48,
+  "touroperator": false,
+  "gygQuery": "Ireland",
+  "teaser": "Zielona Wyspa to malownicze krajobrazy, tętniące życiem puby i fascynująca historia. Idealna na road trip i odkrywanie celtyckich korzeni.",
+  "intro": [
+    "Irlandia, nazywana często Zieloną Wyspą, to kraj, który urzeka przede wszystkim swoją dziką, nieskażoną naturą. Spektakularne klify, zielone wzgórza, malownicze jeziora i rozległe wrzosowiska tworzą krajobraz, który zapiera dech w piersiach. Do tego dochodzi bogata kultura celtycka, żywa tradycja muzyczna i wszechobecna gościnność mieszkańców, która sprawia, że każdy czuje się tu jak w domu. Irlandia to także kraj pełen historii, od starożytnych grobowców po średniowieczne zamki i ślady burzliwych dziejów.",
+    "Kraj ten jest idealny dla aktywnych podróżników, miłośników pieszych wędrówek, rowerzystów oraz tych, którzy cenią sobie kontakt z naturą i autentyczne doświadczenia. To świetne miejsce na road trip, pozwalający na swobodne odkrywanie urokliwych zakątków i małych miasteczek. Fani historii i kultury znajdą tu liczne muzea, galerie oraz zabytki, a wieczory można spędzać w tradycyjnych pubach, słuchając na żywo muzyki folkowej i delektując się lokalnymi trunkami. Irlandia oferuje zarówno zgiełk dużego miasta, jak i błogi spokój wiejskich krajobrazów.",
+    "Podróż do Irlandii z Polski jest prosta i wygodna. Bezpośrednie loty do Dublina, a często także do Cork czy Shannon, oferowane są przez kilku przewoźników, co sprawia, że dotarcie na Zieloną Wyspę zajmuje zaledwie około trzech godzin. Dla obywateli Polski, należącej do Unii Europejskiej, wjazd do Irlandii odbywa się na podstawie dowodu osobistego lub paszportu, bez konieczności posiadania wizy. Różnica czasu wynosi minus jedną godzinę w stosunku do czasu polskiego, co jest łatwe do zaadaptowania."
+  ],
+  "highlights": [
+    "Spektakularne Klify Moher",
+    "Tętniące życiem puby Dublina",
+    "Malownicza trasa Ring of Kerry",
+    "Zamek Blarney i Kamień Blarney",
+    "Degustacja Guinnessa w Dublinie",
+    "Autentyczna muzyka celtycka na żywo"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Irlandii to miesiące letnie, od czerwca do sierpnia, kiedy dni są najdłuższe, a temperatury najwyższe, choć nadal umiarkowane. Warto jednak pamiętać, że pogoda w Irlandii jest bardzo zmienna i deszcz może pojawić się w każdej chwili, niezależnie od pory roku. Wiosna (kwiecień-maj) i wczesna jesień (wrzesień-październik) to również dobre terminy, z mniejszą liczbą turystów i często przyjemnymi temperaturami, idealne na piesze wędrówki i zwiedzanie.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      4,
+      5,
+      9,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      8,
+      8,
+      10,
+      12,
+      15,
+      18,
+      20,
+      19,
+      17,
+      14,
+      10,
+      8
+    ],
+    "sea": [
+      9,
+      8,
+      8,
+      9,
+      11,
+      13,
+      15,
+      16,
+      15,
+      13,
+      11,
+      10
+    ],
+    "note": "dla Dublina"
+  },
+  "practical": {
+    "flight": "około 3 h",
+    "timeDiff": "-1 h",
+    "documents": "Dowód osobisty lub paszport. Irlandia jest członkiem Unii Europejskiej, więc obywatele Polski nie potrzebują wizy. Zawsze sprawdź aktualne wymogi przed wyjazdem.",
+    "money": "Walutą jest Euro (EUR). Płatności kartą są powszechne, gotówka przydaje się w mniejszych miejscowościach lub pubach.",
+    "plugs": "Typ G (brytyjski). Konieczny jest adapter.",
+    "language": "Angielski i irlandzki (gaelicki). Angielski jest powszechnie używany.",
+    "safety": "Irlandia jest generalnie bezpiecznym krajem. Należy zachować standardowe środki ostrożności, szczególnie w większych miastach, i uważać na kieszonkowców w zatłoczonych miejscach."
+  },
+  "regions": [
+    {
+      "slug": "dublin",
+      "name": "Dublin",
+      "loc": "w Dublinie",
+      "type": "miasto",
+      "gygQuery": "Dublin",
+      "airport": "DUB",
+      "forWhom": "Dla miłośników kultury, historii i tętniącego życia nocnego.",
+      "intro": [
+        "Stolica Irlandii, Dublin, to miasto o bogatej historii i niezwykle żywej atmosferze. Odwiedzający mogą podziwiać tu wspaniałe zabytki, takie jak Trinity College z Księgą z Kells, Zamek Dubliński czy katedry św. Patryka i Chrystusa. Miasto jest również domem dla licznych muzeów i galerii, które prezentują irlandzką sztukę i dziedzictwo.",
+        "Dublin słynie z kultowych pubów, gdzie wieczorami rozbrzmiewa tradycyjna muzyka na żywo. Dzielnica Temple Bar to serce nocnego życia, choć warto poszukać bardziej autentycznych lokali poza głównymi szlakami turystycznymi. Wizyta w Guinness Storehouse to obowiązkowy punkt programu dla wielu, oferujący wgląd w historię słynnego piwa i panoramiczny widok na miasto."
+      ],
+      "highlights": [
+        "Trinity College i Księga z Kells",
+        "Guinness Storehouse",
+        "Dzielnica Temple Bar",
+        "Katedra św. Patryka"
+      ]
+    },
+    {
+      "slug": "ring-of-kerry",
+      "name": "Ring of Kerry",
+      "loc": "na Pętli Kerry",
+      "type": "region",
+      "gygQuery": "Ring of Kerry",
+      "airport": "KIL",
+      "forWhom": "Idealny dla poszukiwaczy spektakularnych widoków i kontaktu z naturą.",
+      "intro": [
+        "Ring of Kerry to jedna z najbardziej znanych i malowniczych tras widokowych w Irlandii, położona w hrabstwie Kerry na południowym zachodzie kraju. Ta 179-kilometrowa pętla prowadzi przez zapierające dech w piersiach krajobrazy, łącząc góry, jeziora, lasy i wybrzeże Atlantyku. Po drodze mija się urokliwe miasteczka, takie jak Killarney czy Kenmare, a także liczne punkty widokowe.",
+        "Region oferuje nie tylko widoki, ale także bogactwo atrakcji, w tym Park Narodowy Killarney z jego majestatycznymi górskimi szlakami i Ross Castle. To idealne miejsce na piesze wędrówki, rowerowe wycieczki i podziwianie dzikiej przyrody. Należy zarezerwować sobie cały dzień na przejechanie trasy, aby móc spokojnie chłonąć piękno otoczenia i zatrzymywać się w wybranych miejscach."
+      ],
+      "highlights": [
+        "Park Narodowy Killarney",
+        "Widoki na Ocean Atlantycki",
+        "Urokliwe miasteczka",
+        "Ross Castle"
+      ]
+    },
+    {
+      "slug": "klify-moher",
+      "name": "Klify Moher",
+      "loc": "na Klifach Moher",
+      "type": "park narodowy",
+      "gygQuery": "Cliffs of Moher",
+      "airport": "SNN",
+      "forWhom": "Musisz je zobaczyć, jeśli cenisz sobie dramatyczne krajobrazy i potęgę natury.",
+      "intro": [
+        "Klify Moher to jeden z najbardziej ikonicznych symboli Irlandii i obowiązkowy punkt każdej wycieczki. Te majestatyczne wapienne ściany wznoszą się na wysokość ponad 200 metrów nad wzburzonym Atlantykiem, rozciągając się na długości około 14 kilometrów w hrabstwie Clare. Widok z góry jest absolutnie spektakularny, zwłaszcza w wietrzny dzień, kiedy fale rozbijają się o podstawę klifów.",
+        "Dostęp do klifów jest dobrze zorganizowany, z centrum dla zwiedzających i bezpiecznymi ścieżkami spacerowymi. Warto poświęcić kilka godzin na spacer wzdłuż krawędzi, podziwiając rozległe panoramy i obserwując ptaki morskie, które gniazdują na klifach. To miejsce, które doskonale oddaje surowe piękno irlandzkiego wybrzeża."
+      ],
+      "highlights": [
+        "Spektakularne widoki na Atlantyk",
+        "O'Brien's Tower",
+        "Centrum dla zwiedzających",
+        "Raj dla ptaków morskich"
+      ]
+    },
+    {
+      "slug": "galway",
+      "name": "Galway",
+      "loc": "w Galway",
+      "type": "miasto",
+      "gygQuery": "Galway",
+      "airport": "SNN",
+      "forWhom": "Miasto artystów i muzyków, idealne dla tych, którzy szukają autentycznej irlandzkiej atmosfery.",
+      "intro": [
+        "Galway to urokliwe miasto położone na zachodnim wybrzeżu Irlandii, słynące z artystycznej atmosfery, tętniącego życia ulicznego i silnych celtyckich korzeni. Wąskie, brukowane uliczki, kolorowe fasady budynków i liczne puby z muzyką na żywo tworzą niezapomniany klimat. Miasto jest często nazywane kulturalną stolicą Irlandii, z wieloma festiwalami i wydarzeniami artystycznymi przez cały rok.",
+        "Galway to doskonała baza wypadowa do zwiedzania okolicznych regionów, takich jak Connemara, Wyspy Aran czy Klify Moher. Samo miasto oferuje wiele atrakcji, w tym katedrę w Galway, Spanish Arch oraz tętniący życiem rynek. To miejsce, gdzie łatwo można poczuć prawdziwego ducha Irlandii, rozmawiając z mieszkańcami i delektując się lokalnymi przysmakami."
+      ],
+      "highlights": [
+        "Żywa scena muzyczna i artystyczna",
+        "Spanish Arch",
+        "Katedra w Galway",
+        "Bliskość Connemary i Wysp Aran"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Klify Moher",
+      "text": "Majestatyczne wapienne klify wznoszące się na ponad 200 metrów nad Atlantykiem, oferujące spektakularne widoki na morze i wybrzeże.",
+      "gygQuery": "Cliffs of Moher"
+    },
+    {
+      "name": "Guinness Storehouse",
+      "text": "Interaktywne muzeum w Dublinie, gdzie można poznać historię i proces produkcji słynnego piwa Guinness, zakończone degustacją z panoramicznym widokiem.",
+      "gygQuery": "Guinness Storehouse"
+    },
+    {
+      "name": "Trinity College i Księga z Kells",
+      "text": "Najstarszy uniwersytet w Irlandii, z piękną biblioteką i słynną, iluminowaną manuskryptową Księgą z Kells, arcydziełem sztuki celtyckiej.",
+      "gygQuery": "Trinity College Book of Kells"
+    },
+    {
+      "name": "Zamek Blarney",
+      "text": "Historyczny zamek w pobliżu Cork, słynący z Kamienia Blarney, którego pocałowanie ma zapewnić dar elokwencji.",
+      "gygQuery": "Blarney Castle"
+    },
+    {
+      "name": "Ring of Kerry",
+      "text": "Malownicza trasa widokowa na półwyspie Iveragh, oferująca zapierające dech w piersiach krajobrazy gór, jezior i wybrzeża Atlantyku.",
+      "gygQuery": "Ring of Kerry"
+    },
+    {
+      "name": "Park Narodowy Connemara",
+      "text": "Obszar dzikiej przyrody w zachodniej Irlandii, z torfowiskami, górami i jeziorami, idealny do pieszych wędrówek i podziwiania krajobrazów.",
+      "gygQuery": "Connemara National Park"
+    },
+    {
+      "name": "Zamek Kilkenny",
+      "text": "Imponujący średniowieczny zamek w mieście Kilkenny, z pięknymi ogrodami i bogatą historią, otwarty dla zwiedzających.",
+      "gygQuery": "Kilkenny Castle"
+    }
+  ],
+  "cuisine": [
+    "Irlandzka kuchnia to przede wszystkim sycące i proste dania, idealne na chłodniejsze dni. Królują tu potrawy na bazie ziemniaków, takich jak colcannon (puree z kapustą lub jarmużem) czy boxty (placki ziemniaczane). Obowiązkowym punktem jest tradycyjne irlandzkie śniadanie (Full Irish Breakfast) oraz gulasze, na przykład Irish Stew z baraniną lub wołowiną. Ze względu na położenie, Irlandia oferuje także świeże owoce morza, zwłaszcza ostrygi i łososia. Nie można zapomnieć o słynnym piwie Guinness, które jest nie tylko napojem, ale i ważnym elementem kultury."
+  ],
+  "faq": [
+    {
+      "q": "Jaka pogoda jest w Irlandii?",
+      "a": "Pogoda w Irlandii jest zmienna i nieprzewidywalna, z częstymi opadami deszczu o każdej porze roku. Lata są łagodne, a zimy umiarkowane, bez ekstremalnych temperatur. Najcieplej jest od czerwca do sierpnia."
+    },
+    {
+      "q": "Czy w Irlandii można płacić kartą?",
+      "a": "Tak, płatności kartą są bardzo powszechne w Irlandii, zarówno w dużych miastach, jak i mniejszych miejscowościach. Gotówka może być przydatna w niektórych małych pubach czy na targach."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Irlandii?",
+      "a": "Obywatele Polski mogą wjechać do Irlandii na podstawie ważnego dowodu osobistego lub paszportu. Irlandia jest członkiem Unii Europejskiej, więc wizy nie są wymagane. Zawsze sprawdź aktualne wymogi przed podróżą."
+    },
+    {
+      "q": "Czy w Irlandii jest drogo?",
+      "a": "Irlandia, zwłaszcza Dublin, jest krajem o dość wysokich cenach, porównywalnych do innych krajów Europy Zachodniej. Ceny zakwaterowania, jedzenia w restauracjach i transportu mogą być wyższe niż w Polsce. Warto planować budżet z wyprzedzeniem."
+    },
+    {
+      "q": "Gdzie najlepiej pojechać w Irlandii?",
+      "a": "To zależy od preferencji. Dublin to świetny wybór na city break z kulturą i rozrywką. Na spektakularne krajobrazy polecamy Klify Moher, Ring of Kerry i Park Narodowy Connemara. Galway oferuje autentyczną irlandzką atmosferę i jest dobrą bazą wypadową na zachód."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

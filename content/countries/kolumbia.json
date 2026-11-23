@@ -1,0 +1,243 @@
+{
+  "slug": "kolumbia",
+  "loc": "w Kolumbii",
+  "to": "do Kolumbii",
+  "capital": "Bogota",
+  "popularity": 30,
+  "touroperator": false,
+  "gygQuery": "Colombia",
+  "teaser": "Kolumbia to kraj kontrastów - od karaibskich plaż, przez andyjskie szczyty i plantacje kawy, po amazońską dżunglę. Odkryj jej barwną kulturę i przyrodę.",
+  "intro": [
+    "Kolumbia, kraj leżący na północnym krańcu Ameryki Południowej, to prawdziwa mozaika krajobrazów i kultur. Przyciąga podróżników swoją różnorodnością - od tętniących życiem miast, takich jak Bogota czy Medellín, przez malownicze, kolonialne perełki jak Kartagena, po dziewicze plaże Morza Karaibskiego i majestatyczne szczyty Andów. To także ojczyzna wyśmienitej kawy, egzotycznych owoców i rytmicznych dźwięków cumbii.",
+    "Kraj ten jest idealnym kierunkiem dla tych, którzy szukają autentycznych doświadczeń, poza utartymi szlakami masowej turystyki. Sprawdzi się zarówno dla miłośników przyrody, pragnących eksplorować dżunglę Amazonii czy parki narodowe, jak i dla pasjonatów historii i kultury, którzy zanurzą się w kolonialnej architekturze i lokalnych tradycjach. Kolumbia oferuje zarówno aktywny wypoczynek, jak i chwile relaksu na rajskich plażach.",
+    "Podróż z Polski do Kolumbii wymaga zazwyczaj co najmniej jednej przesiadki, najczęściej w dużych europejskich hubach, takich jak Amsterdam, Madryt czy Paryż, lub w Stanach Zjednoczonych. Całkowity czas lotu, wraz z przesiadką, wynosi zazwyczaj od 12 do 15 godzin. Przed wyjazdem warto zaplanować trasę, ponieważ Kolumbia to kraj o ogromnych dystansach i różnorodnym terenie, co wymaga efektywnego logistycznie podejścia."
+  ],
+  "highlights": [
+    "Kolonialna Kartagena i jej urokliwe uliczki",
+    "Zielone plantacje kawy w Regionie Kawowym",
+    "Tętniąca życiem stolica Bogota",
+    "Nowoczesne Medellín - miasto wiecznej wiosny",
+    "Relaks na rajskich plażach Parku Tayrona",
+    "Wędrówki wśród palm w Dolinie Cocora"
+  ],
+  "bestTime": {
+    "text": "Kolumbia, ze względu na swoje położenie równikowe i zróżnicowaną rzeźbę terenu, ma bardzo zmienny klimat. Ogólnie wyróżnia się pory suche i deszczowe, ale ich terminy różnią się w zależności od regionu. Najlepszy czas na podróż to zazwyczaj miesiące suche, czyli od grudnia do marca oraz od lipca do sierpnia, kiedy pogoda jest najbardziej stabilna w większości popularnych regionów, w tym na Karaibach i w Andach.",
+    "best": [
+      1,
+      2,
+      3,
+      7,
+      8,
+      12
+    ],
+    "ok": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      28,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "dla Medellín (temperatura powietrza) i wybrzeża Karaibów (temperatura morza)"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "6 lub 7 godzin wstecz względem czasu polskiego",
+    "documents": "Paszport ważny min. 6 miesięcy od daty wjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze sprawdź aktualne wymogi wizowe i paszportowe przed wyjazdem na stronach Ministerstwa Spraw Zagranicznych.",
+    "money": "Walutą jest peso kolumbijskie (COP). W większych miastach i popularnych regionach turystycznych akceptowane są karty płatnicze, ale gotówka jest niezbędna na mniejszych rynkach, w lokalnych restauracjach i poza głównymi szlakami. Warto mieć drobne nominały.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Napięcie 110-120 V, częstotliwość 60 Hz. Konieczny adapter i ewentualnie przetwornica napięcia.",
+    "language": "Oficjalnym językiem jest hiszpański. W dużych miastach i popularnych miejscach turystycznych można porozumieć się po angielsku, ale znajomość podstawowych zwrotów po hiszpańsku znacznie ułatwi komunikację i pozwoli na głębsze doświadczenie lokalnej kultury.",
+    "safety": "Kolumbia przeszła ogromną transformację w kwestii bezpieczeństwa, jednak nadal należy zachować ostrożność, szczególnie w dużych miastach i mniej turystycznych regionach. Zaleca się unikanie samotnych spacerów po zmroku, nieafiszowanie się z drogimi przedmiotami i korzystanie z zaufanych środków transportu. Przed wyjazdem warto skonsultować się z lekarzem w sprawie zalecanych szczepień, w tym na żółtą febrę, jeśli planuje się podróż do regionów tropikalnych i dżungli."
+  },
+  "regions": [
+    {
+      "slug": "cartagena",
+      "name": "Kartagena",
+      "loc": "w Kartagenie",
+      "type": "miasto",
+      "gygQuery": "Cartagena",
+      "airport": "CTG (Rafael Núñez International Airport)",
+      "forWhom": "Dla miłośników historii, kolonialnej architektury i karaibskiego klimatu.",
+      "intro": [
+        "Kartagena, perła Karaibów, to jedno z najbardziej malowniczych miast Kolumbii, wpisane na listę UNESCO. Jej ufortyfikowane Stare Miasto, otoczone masywnymi murami, zachwyca labiryntem kolorowych uliczek, kolonialnych rezydencji, urokliwych placów i kwitnących balkonów. To miejsce, gdzie historia splata się z karaibską energią, tworząc niezapomniany klimat.",
+        "Wieczorami miasto ożywa muzyką, tańcem i kulinarnymi doznaniami. Z Kartageny łatwo dostać się na pobliskie Wyspy Rosario, idealne na jednodniową wycieczkę w poszukiwaniu rajskich plaż i snorkelingu. To doskonała baza wypadowa do odkrywania kolumbijskiego wybrzeża."
+      ],
+      "highlights": [
+        "Spacer po Starym Mieście",
+        "Wizyta w Zamku San Felipe de Barajas",
+        "Rejs na Wyspy Rosario",
+        "Degustacja świeżych owoców morza"
+      ]
+    },
+    {
+      "slug": "region-kawowy",
+      "name": "Region Kawowy (Eje Cafetero)",
+      "loc": "w Regionie Kawowym",
+      "type": "region",
+      "gygQuery": "Colombia Coffee Region",
+      "airport": "PEI (Matecaña International Airport - Pereira), AXM (El Edén International Airport - Armenia)",
+      "forWhom": "Idealny dla smakoszy kawy, miłośników zielonych krajobrazów i spokojnego wypoczynku na łonie natury.",
+      "intro": [
+        "Region Kawowy, znany jako Eje Cafetero, to serce kolumbijskiej produkcji kawy, rozciągający się na stokach Andów. Charakteryzuje się bujnymi, zielonymi plantacjami kawy, malowniczymi dolinami i urokliwymi, tradycyjnymi wioskami. To tu można na własne oczy zobaczyć cały proces powstawania kawy, od ziarna do filiżanki, i oczywiście spróbować jednej z najlepszych kaw na świecie.",
+        "Oprócz kawy, region oferuje piękne krajobrazy, idealne do trekkingu, jazdy konnej czy po prostu relaksu w hacjendzie. Najbardziej znane miejsca to Salento z Doliną Cocora, słynną z gigantycznych palm woskowych, oraz Manizales i Pereira."
+      ],
+      "highlights": [
+        "Zwiedzanie plantacji kawy",
+        "Trekking w Dolinie Cocora",
+        "Odkrywanie Salento",
+        "Jazda konna po górskich szlakach"
+      ]
+    },
+    {
+      "slug": "bogota",
+      "name": "Bogota",
+      "loc": "w Bogocie",
+      "type": "miasto",
+      "gygQuery": "Bogota",
+      "airport": "BOG (El Dorado International Airport)",
+      "forWhom": "Centrum kultury i historii, dla odkrywców miejskiego życia i sztuki.",
+      "intro": [
+        "Bogota, stolica Kolumbii, to tętniąca życiem metropolia położona na wysokości ponad 2600 m n.p.m., w otoczeniu Andów. To miasto kontrastów, gdzie nowoczesne drapacze chmur sąsiadują z kolonialnymi dzielnicami. La Candelaria, historyczne centrum, zachwyca kolorowymi budynkami, muzeami i uliczną sztuką, a Muzeum Złota prezentuje imponujące zbiory prekolumbijskiej sztuki złotniczej.",
+        "Bogota to także centrum kulinarne i artystyczne Kolumbii, oferujące szeroki wybór restauracji, galerii i teatrów. Warto wjechać na wzgórze Monserrate, skąd rozpościera się panoramiczny widok na całe miasto, zwłaszcza o zachodzie słońca."
+      ],
+      "highlights": [
+        "Wizyta w Muzeum Złota",
+        "Spacer po La Candelaria",
+        "Wjazd na Monserrate",
+        "Degustacja lokalnej kuchni"
+      ]
+    },
+    {
+      "slug": "medellin",
+      "name": "Medellín",
+      "loc": "w Medellín",
+      "type": "miasto",
+      "gygQuery": "Medellin",
+      "airport": "MDE (José María Córdova International Airport)",
+      "forWhom": "Miasto wiecznej wiosny, dla szukających nowoczesności, przemian społecznych i aktywnego wypoczynku.",
+      "intro": [
+        "Medellín, nazywane Miastem Wiecznej Wiosny ze względu na swój łagodny klimat, to symbol transformacji Kolumbii. Od przeszłości naznaczonej przemocą, miasto przekształciło się w dynamiczne centrum innowacji, sztuki i kultury. Medellín słynie z metra i systemu kolejek linowych, które nie tylko ułatwiają transport, ale także oferują spektakularne widoki na miasto i okoliczne wzgórza.",
+        "Warto odwiedzić Comuna 13, niegdyś niebezpieczną dzielnicę, która dzięki sztuce ulicznej i inicjatywom społecznym stała się bezpiecznym i inspirującym miejscem. Miasto jest również bazą wypadową do urokliwego Guatapé z charakterystyczną skałą El Peñol."
+      ],
+      "highlights": [
+        "Wycieczka do Comuna 13",
+        "Przejażdżka metrokablem",
+        "Odwiedziny w Ogrodzie Botanicznym",
+        "Wycieczka do Guatapé i El Peñol"
+      ]
+    },
+    {
+      "slug": "park-narodowy-tayrona",
+      "name": "Park Narodowy Tayrona",
+      "loc": "w Parku Tayrona",
+      "type": "park narodowy",
+      "gygQuery": "Tayrona National Park",
+      "airport": "SMR (Simón Bolívar International Airport - Santa Marta)",
+      "forWhom": "Dla fanów dziewiczych plaż, tropikalnej przyrody i ekoturystyki w karaibskim stylu.",
+      "intro": [
+        "Park Narodowy Tayrona to jeden z najpiękniejszych parków Kolumbii, położony na wybrzeżu Karaibów, niedaleko Santa Marta. To prawdziwa oaza dzikiej przyrody, gdzie bujna dżungla spotyka się z białymi, piaszczystymi plażami i turkusowymi wodami Morza Karaibskiego. Park jest domem dla różnorodnych gatunków zwierząt, w tym małp, ptaków i jaszczurek.",
+        "W Parku Tayrona można spędzić dni na wędrówkach szlakami prowadzącymi przez dżunglę do ukrytych zatoczek i plaż, takich jak Cabo San Juan. To idealne miejsce na relaks, pływanie i obcowanie z naturą, z dala od zgiełku cywilizacji. Należy pamiętać, że w parku obowiązują ograniczenia liczby odwiedzających i czasem jest zamykany na okresy regeneracji."
+      ],
+      "highlights": [
+        "Relaks na plaży Cabo San Juan",
+        "Trekking przez dżunglę",
+        "Obserwacja dzikiej fauny",
+        "Snorkeling w krystalicznych wodach"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare Miasto w Kartagenie",
+      "text": "Ufortyfikowane serce Kartageny, wpisane na listę UNESCO, zachwyca kolonialną architekturą, kolorowymi uliczkami i tętniącymi życiem placami.",
+      "gygQuery": "Old Town Cartagena"
+    },
+    {
+      "name": "Muzeum Złota (Museo del Oro) w Bogocie",
+      "text": "Jedno z najważniejszych muzeów w Kolumbii, prezentujące olśniewającą kolekcję prekolumbijskich artefaktów wykonanych ze złota.",
+      "gygQuery": "Gold Museum Bogota"
+    },
+    {
+      "name": "Dolina Cocora (Valle de Cocora)",
+      "text": "Malownicza dolina w Regionie Kawowym, słynąca z gigantycznych palm woskowych, narodowego drzewa Kolumbii, tworzących surrealistyczny krajobraz.",
+      "gygQuery": "Valle de Cocora"
+    },
+    {
+      "name": "Comuna 13 w Medellín",
+      "text": "Niebywała transformacja dzielnicy Medellín, dziś znana z barwnych murali, ulicznej sztuki i eskalatorów, symbolizujących odrodzenie społeczne.",
+      "gygQuery": "Comuna 13 Medellin"
+    },
+    {
+      "name": "Katedra Solna w Zipaquirá (Catedral de Sal)",
+      "text": "Unikalna katedra wykuta w dawnej kopalni soli, położona niedaleko Bogoty, będąca imponującym dziełem inżynierii i sztuki sakralnej.",
+      "gygQuery": "Salt Cathedral Zipaquira"
+    },
+    {
+      "name": "Wyspy Rosario (Islas del Rosario)",
+      "text": "Archipelag rajskich wysp koralowych niedaleko Kartageny, idealny na jednodniowe wycieczki, snorkeling i relaks na białych plażach.",
+      "gygQuery": "Rosario Islands"
+    },
+    {
+      "name": "Guatapé i El Peñol",
+      "text": "Malownicze miasteczko Guatapé, znane z kolorowych domów i gigantycznej skały El Peñol, z której roztacza się spektakularny widok na okoliczne jeziora.",
+      "gygQuery": "Guatape and El Penol"
+    }
+  ],
+  "cuisine": [
+    "Kolumbijska kuchnia jest różnorodna i obfita, bazując na świeżych produktach regionalnych. Podstawą wielu dań są kukurydziane arepas, podawane na śniadanie, obiad czy kolację, często z serem lub jajkiem. Obowiązkowo trzeba spróbować bandeja paisa, czyli ogromnego talerza z ryżem, fasolą, mięsem, chorizo, jajkiem i awokado, typowego dla regionu Antioquia. W Bogocie króluje ajiaco, gęsta zupa z kurczaka, trzech rodzajów ziemniaków, kukurydzy i ziół. Nie można zapomnieć o świeżych sokach z egzotycznych owoców, takich jak lulo, marakuja czy guanabana, oraz oczywiście o wyśmienitej kawie, która jest dumą narodową."
+  ],
+  "faq": [
+    {
+      "q": "Czy Kolumbia jest bezpieczna dla turystów?",
+      "a": "Bezpieczeństwo w Kolumbii znacząco się poprawiło w ostatnich latach. W popularnych regionach turystycznych jest bezpiecznie, ale zawsze należy zachować ostrożność, unikać samotnych spacerów po zmroku i dbać o swoje wartościowe przedmioty. Zaleca się śledzenie komunikatów MSZ."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Kolumbii?",
+      "a": "Najlepszy czas na podróż to miesiące suche, czyli od grudnia do marca oraz od lipca do sierpnia. Wtedy pogoda jest najbardziej sprzyjająca w większości regionów, w tym na Karaibach i w Andach."
+    },
+    {
+      "q": "Jakie są główne atrakcje Kolumbii?",
+      "a": "Do głównych atrakcji należą kolonialna Kartagena, Region Kawowy z Doliną Cocora, tętniąca życiem Bogota, nowoczesne Medellín, Park Narodowy Tayrona z pięknymi plażami oraz Katedra Solna w Zipaquirá."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Kolumbii jako Polak?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne w Kolumbii trwające do 90 dni. Wymagany jest ważny paszport, który powinien być ważny co najmniej 6 miesięcy od daty wjazdu."
+    },
+    {
+      "q": "Jak poruszać się po Kolumbii?",
+      "a": "Na długich dystansach najwygodniej jest korzystać z lotów krajowych. Między miastami kursują autobusy, które są tanie, ale podróże mogą być długie. W miastach popularne są taksówki i aplikacje transportowe, takie jak Uber lub Cabify."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

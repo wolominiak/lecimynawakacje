@@ -1,0 +1,197 @@
+{
+  "slug": "gwinea",
+  "loc": "w Gwinei",
+  "to": "do Gwinei",
+  "capital": "Konakry",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Guinea",
+  "teaser": "Gwinea to kraj dla prawdziwych poszukiwaczy przygód, oferujący dziewiczą przyrodę, majestatyczne wodospady i autentyczne afrykańskie doświadczenia z dala od masowej turystyki.",
+  "intro": [
+    "Gwinea, położona w zachodniej Afryce, to kraj o niezwykłym potencjale przyrodniczym i kulturowym, choć wciąż pozostający poza głównym nurtem turystyki. Przyciąga przede wszystkim miłośników dzikiej natury, którzy szukają autentycznych, niekomercyjnych wrażeń. Rozległe płaskowyże Fouta Djallon, liczne wodospady i bujna roślinność tworzą krajobrazy zapierające dech w piersiach, czekające na odkrycie przez odważnych podróżników. To miejsce, gdzie można poczuć prawdziwy puls Afryki, z dala od utartych szlaków.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, którzy cenią sobie wyzwania i są gotowi na improwizację. Nie znajdziesz tu luksusowych kurortów ani rozbudowanej infrastruktury turystycznej, ale za to zyskasz szansę na bliski kontakt z lokalną kulturą i niezwykłymi krajobrazami. Jeśli jesteś osobą, która lubi eksplorować, adaptować się do zmieniających się warunków i szukać głębokich, osobistych doświadczeń, Gwinea może okazać się fascynującym celem podróży. Pamiętaj jednak, że wymaga to odpowiedniego przygotowania i otwartości na nieprzewidziane sytuacje.",
+    "Podróż z Polski do Gwinei nie należy do najłatwiejszych. Nie ma bezpośrednich połączeń lotniczych, co oznacza konieczność przesiadek, zazwyczaj w Europie, np. w Paryżu, Brukseli lub Stambule, a następnie lot do Konakry (CKY). Cała podróż, wraz z oczekiwaniem na przesiadki, może zająć od 12 do nawet 20 godzin. Przed wyjazdem niezbędne jest uzyskanie wizy oraz skonsultowanie się z lekarzem w sprawie wymaganych szczepień i profilaktyki malarii, co jest kluczowe dla bezpieczeństwa w tym regionie."
+  ],
+  "highlights": [
+    "Majestatyczne wodospady Fouta Djallon",
+    "Dzika, dziewicza przyroda Afryki Zachodniej",
+    "Autentyczne doświadczenia kulturowe",
+    "Wyspy Loos i ich relaksujące plaże",
+    "Górzyste krajobrazy Fouta Djallon",
+    "Park Narodowy Gór Nimba (UNESCO)"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Gwinei to pora sucha, która trwa od listopada do kwietnia. W tym okresie temperatury są wysokie, ale wilgotność powietrza jest znacznie niższa, a opady deszczu są rzadkie, co ułatwia podróżowanie i eksplorację. Pora deszczowa, od maja do października, charakteryzuje się intensywnymi opadami, które mogą utrudniać przemieszczanie się po kraju i sprawić, że niektóre drogi staną się nieprzejezdne.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      10,
+      5
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      31,
+      30,
+      29,
+      28,
+      28,
+      29,
+      29,
+      30,
+      30
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      27,
+      27,
+      27,
+      27,
+      28,
+      27
+    ],
+    "note": "dla Konakry"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "zwykle -1 lub -2 godziny względem czasu polskiego, zależnie od pory roku",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu z Gwinei) oraz wizy. Wizę należy uzyskać przed podróżą w ambasadzie Gwinei (najbliższa w Berlinie) lub online (e-wiza). Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych oraz paszportowych bezpośrednio przed wyjazdem w placówce dyplomatycznej Gwinei.",
+    "money": "Walutą Gwinei jest frank gwinejski (GNF). Płatności kartą są bardzo ograniczone, dostępne głównie w kilku hotelach w Konakry. Zaleca się posiadanie gotówki (USD lub EUR) do wymiany na lokalną walutę w bankach lub autoryzowanych kantorach. Bankomaty są nieliczne i często zawodne, więc planuj wydatki z wyprzedzeniem.",
+    "plugs": "Typ C i F. Wtyczki używane w Polsce są kompatybilne.",
+    "language": "Oficjalnym językiem jest francuski. W użyciu są również liczne języki lokalne, takie jak Susu, Fula (Pular) i Maninka.",
+    "safety": "Sytuacja bezpieczeństwa w Gwinei jest złożona. Istnieje ryzyko przestępczości pospolitej, zwłaszcza w Konakry, w tym kradzieży i napadów. Należy zachować szczególną ostrożność, unikać samotnego poruszania się po zmroku i nie afiszować się z wartościowymi przedmiotami. Występują również sporadyczne niepokoje społeczne i demonstracje, których należy unikać. Wskazane jest skonsultowanie się z lekarzem przed wyjazdem w sprawie szczepień (obowiązkowa żółta febra) i profilaktyki malarii. Zaleca się wykupienie kompleksowego ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "konakry",
+      "name": "Konakry",
+      "loc": "w Konakry",
+      "type": "miasto",
+      "gygQuery": "Conakry",
+      "airport": "CKY",
+      "forWhom": "Stolica Gwinei to główne centrum polityczne i gospodarcze, będące bramą do kraju i miejscem pierwszego kontaktu z gwinejską kulturą.",
+      "intro": [
+        "Konakry, położone na półwyspie Kaloum, jest tętniącą życiem stolicą Gwinei i największym miastem w kraju. To chaotyczne, ale fascynujące miasto, pełne kolorowych targów, gwarnych ulic i kolonialnej architektury, która powoli ustępuje miejsca nowym budowlom. Mimo braku typowych atrakcji turystycznych, Konakry oferuje unikalny wgląd w codzienne życie Gwinejczyków, z jego nieustannym ruchem i energią.",
+        "W Konakry warto odwiedzić Wielki Meczet, jeden z największych w Afryce Zachodniej, oraz Pałac Ludowy. Miasto jest również bazą wypadową do pobliskich Wysp Loos, które oferują ucieczkę od miejskiego zgiełku. Poruszanie się po Konakry jest wyzwaniem ze względu na korki i jakość dróg, ale lokalne taksówki i moto-taksówki są wszechobecne."
+      ],
+      "highlights": [
+        "Wielki Meczet w Konakry",
+        "Tętniące życiem targi i bazary",
+        "Brama do Wysp Loos",
+        "Autentyczne życie miejskie"
+      ]
+    },
+    {
+      "slug": "fouta-djallon",
+      "name": "Fouta Djallon",
+      "loc": "w Fouta Djallon",
+      "type": "region",
+      "gygQuery": "Fouta Djallon",
+      "airport": "CKY (dojazd lądem)",
+      "forWhom": "Górzysty region Fouta Djallon to raj dla miłośników trekkingu, dzikiej przyrody i spektakularnych krajobrazów z licznymi wodospadami.",
+      "intro": [
+        "Fouta Djallon to rozległy, górzysty region w środkowej Gwinei, znany jako \"wieża wodna Afryki Zachodniej\" ze względu na liczne rzeki, które mają tu swoje źródła, w tym Niger, Senegal i Gambia. Krajobraz charakteryzują zielone płaskowyże, głębokie doliny, strome klify i malownicze wodospady, takie jak Chutes de Kinkon czy Chutes de Ditinn. To idealne miejsce na kilkudniowe wędrówki z lokalnymi przewodnikami.",
+        "Region jest domem dla ludu Fula, a ich kultura i tradycje są integralną częścią podróży po Fouta Djallon. Odwiedzający mogą odkrywać ukryte wioski, podziwiać tradycyjne domy i poznać lokalne rzemiosło. Infrastruktura turystyczna jest minimalna, co podkreśla autentyczność doświadczenia, ale wymaga od podróżnych samodzielności i dobrego przygotowania."
+      ],
+      "highlights": [
+        "Wodospady Chutes de Kinkon",
+        "Źródła rzek Niger, Senegal, Gambia",
+        "Trekking po malowniczych górach",
+        "Kultura ludu Fula"
+      ]
+    },
+    {
+      "slug": "wyspy-loos",
+      "name": "Wyspy Loos",
+      "loc": "na Wyspach Loos",
+      "type": "wyspy",
+      "gygQuery": "Loos Islands",
+      "airport": "CKY (dojazd łodzią)",
+      "forWhom": "Archipelag Wysp Loos to idealne miejsce na jednodniową wycieczkę z Konakry, oferujące piaszczyste plaże i relaks.",
+      "intro": [
+        "Wyspy Loos, położone zaledwie kilka kilometrów od wybrzeża Konakry, to mały archipelag trzech głównych wysp: Kassa, Roume i Tamara. Stanowią one popularne miejsce wypoczynku dla mieszkańców stolicy i nielicznych turystów, oferując ucieczkę od zgiełku miasta. Na wyspach można znaleźć piaszczyste plaże, spokojne zatoczki i pozostałości po czasach kolonialnych, w tym stare latarnie morskie i fortyfikacje.",
+        "Dostęp do wysp jest możliwy łodzią z Konakry. Wyspa Roume jest znana z historii handlu niewolnikami i piractwa, podczas gdy Kassa oferuje więcej możliwości zakwaterowania i plażowania. To doskonałe miejsce na relaks, pływanie i poznawanie lokalnej historii w bardziej swobodnej atmosferze niż na lądzie."
+      ],
+      "highlights": [
+        "Piaszczyste plaże i relaks",
+        "Bliskość Konakry, łatwy dojazd",
+        "Historia handlu niewolnikami",
+        "Spokojna atmosfera archipelagu"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Chutes de Kinkon",
+      "text": "Spektakularny wodospad w regionie Fouta Djallon, znany z imponującej wysokości i otaczającej go bujnej roślinności, idealny do trekkingu.",
+      "gygQuery": "Kinkon Falls Guinea"
+    },
+    {
+      "name": "Góry Fouta Djallon",
+      "text": "Rozległy region górski, źródło wielu rzek Afryki Zachodniej, oferujący malownicze krajobrazy, wodospady i możliwości trekkingu.",
+      "gygQuery": "Fouta Djallon mountains"
+    },
+    {
+      "name": "Wielki Meczet w Konakry",
+      "text": "Jeden z największych meczetów w Afryce Zachodniej, imponujący swoją architekturą i znaczeniem religijnym, dominujący nad panoramą stolicy.",
+      "gygQuery": "Grand Mosque Conakry"
+    },
+    {
+      "name": "Park Narodowy Gór Nimba",
+      "text": "Rezerwat przyrody wpisany na listę UNESCO, słynący z niezwykłej bioróżnorodności i endemicznych gatunków, choć dostęp do niego jest trudny.",
+      "gygQuery": "Mount Nimba Strict Nature Reserve"
+    },
+    {
+      "name": "Îles de Loos",
+      "text": "Archipelag małych wysp u wybrzeży Konakry, oferujący piękne plaże, spokojne zatoczki i bogatą historię.",
+      "gygQuery": "Loos Islands"
+    },
+    {
+      "name": "Chutes de Dubreka",
+      "text": "Malownicze wodospady położone niedaleko Konakry, łatwiej dostępne niż te w Fouta Djallon, idealne na jednodniową wycieczkę.",
+      "gygQuery": "Dubreka Falls"
+    },
+    {
+      "name": "Jaskinie Kakimbon",
+      "text": "System jaskiń w pobliżu Konakry, związany z lokalnymi wierzeniami i legendami, oferujący unikalne doświadczenie kulturowe i przyrodnicze.",
+      "gygQuery": "Kakimbon Caves"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia gwinejska opiera się głównie na ryżu, który jest podstawą większości posiłków, podawanym z różnorodnymi sosami. Popularne składniki to orzeszki ziemne, liście manioku, okra i świeże ryby, zwłaszcza na wybrzeżu. Mięso, takie jak kurczak, wołowina czy koźlina, również jest często spożywane, często w postaci gulaszu lub grillowane. Dania są zazwyczaj obfite i często pikantne, doprawiane lokalnymi przyprawami. Warto spróbować \"Tô\", gęstej kaszy z mąki zbożowej, podawanej z sosem."
+  ],
+  "faq": [
+    {
+      "q": "Czy Gwinea jest bezpieczna dla turystów?",
+      "a": "Gwinea nie jest krajem bezpiecznym w porównaniu do popularnych destynacji turystycznych. Istnieje ryzyko przestępczości pospolitej oraz sporadycznych niepokojów politycznych. Należy zachować szczególną ostrożność, unikać samotnego poruszania się po zmroku i śledzić komunikaty MSZ przed i w trakcie podróży."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Gwinei i jak płacić?",
+      "a": "Walutą Gwinei jest frank gwinejski (GNF). Płatności kartą są bardzo ograniczone. Zaleca się posiadanie gotówki (USD lub EUR) do wymiany na lokalną walutę. Bankomaty są rzadkością i bywają zawodne."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Gwinei?",
+      "a": "Tak, obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą. Można to zrobić w ambasadzie Gwinei (np. w Berlinie) lub aplikując o e-wizę. Pamiętaj, aby paszport był ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Gwinei?",
+      "a": "Najlepszy czas na podróż do Gwinei to pora sucha, trwająca od listopada do kwietnia. W tym okresie jest mniej opadów, a temperatury są wysokie, co ułatwia podróżowanie i eksplorację kraju."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

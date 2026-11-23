@@ -1,0 +1,187 @@
+{
+  "slug": "macedonia-polnocna",
+  "loc": "w Macedonii Północnej",
+  "to": "do Macedonii Północnej",
+  "capital": "Skopje",
+  "popularity": 20,
+  "touroperator": true,
+  "gygQuery": "North Macedonia",
+  "teaser": "Odkryj Północną Macedonię, kraj jezior, gór i starożytnej historii. Idealny dla aktywnych i szukających autentycznych bałkańskich wrażeń.",
+  "intro": [
+    "Macedonia Północna to kraj, który wciąż czeka na masowe odkrycie przez turystów, co czyni go idealnym miejscem dla poszukiwaczy autentycznych wrażeń. Położona w sercu Bałkanów, oferuje spektakularne góry, krystalicznie czyste jeziora i bogatą historię, sięgającą czasów starożytnych. To kierunek dla tych, którzy cenią naturę, aktywny wypoczynek i poznawanie kultury poza utartymi szlakami.",
+    "Kraj ten to doskonała propozycja dla miłośników trekkingu, kajakarstwa, ale także dla osób zainteresowanych archeologią i historią Bałkanów. Można tu znaleźć ślady wielu cywilizacji, od rzymskich po osmańskie, a wszystko to w przystępnych cenach. Macedonia Północna jest też świetnym wyborem na road trip, pozwalającym na swobodne odkrywanie jej różnorodnych krajobrazów.",
+    "Podróż z Polski do Macedonii Północnej jest stosunkowo prosta. Z Krakowa i Warszawy dostępne są bezpośrednie loty do Skopje, a w sezonie letnim często również do Ochrydy. Polscy turyści nie potrzebują wizy, a na miejscu mogą liczyć na życzliwość mieszkańców i łatwość w porozumiewaniu się, zwłaszcza z młodszym pokoleniem, które często zna angielski."
+  ],
+  "highlights": [
+    "Jezioro Ochrydzkie - perła Bałkanów",
+    "Kanion Matka - raj dla kajakarzy",
+    "Stolica Skopje z jej unikalną architekturą",
+    "Trekking w górach Pelister i Mavrovo",
+    "Starożytne ruiny Heraklea Lyncestis",
+    "Bałkańska kuchnia i lokalne wina"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Macedonii Północnej to wiosna (maj-czerwiec) i wczesna jesień (wrzesień-październik). Temperatury są wtedy przyjemne, idealne do zwiedzania i aktywności na świeżym powietrzu. Lato bywa bardzo upalne, szczególnie w lipcu i sierpniu, co może utrudniać dłuższe wędrówki, ale jest idealne do wypoczynku nad jeziorem Ochrydzkim. Zima to czas dla miłośników sportów zimowych w górach.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      4,
+      7,
+      12,
+      18,
+      23,
+      27,
+      30,
+      30,
+      25,
+      18,
+      11,
+      5
+    ],
+    "sea": null,
+    "note": "Dane dla Skopje"
+  },
+  "practical": {
+    "flight": "około 1,5 - 2 godziny",
+    "timeDiff": "brak różnicy czasu",
+    "documents": "Obywatele Polski mogą wjechać do Macedonii Północnej na podstawie ważnego paszportu lub dowodu osobistego. Zaleca się sprawdzenie aktualnych wymogów na stronie MSZ przed wyjazdem.",
+    "money": "Walutą jest denar macedoński (MKD). Płatności kartą są powszechne w większych miastach i turystycznych miejscowościach, ale warto mieć przy sobie gotówkę, zwłaszcza w mniejszych miejscowościach i na lokalnych targach.",
+    "plugs": "Typ F (takie jak w Polsce).",
+    "language": "Językiem urzędowym jest macedoński. W regionach zamieszkanych przez mniejszość albańską używany jest również albański. W miejscach turystycznych i wśród młodych ludzi można porozumieć się po angielsku.",
+    "safety": "Macedonia Północna jest krajem bezpiecznym dla turystów. Należy zachować standardowe środki ostrożności, szczególnie w zatłoczonych miejscach, aby uniknąć drobnych kradzieży. Opieka medyczna jest dostępna, ale zaleca się wykupienie ubezpieczenia turystycznego."
+  },
+  "regions": [
+    {
+      "slug": "ochryda",
+      "name": "Ochryda",
+      "loc": "w Ochrydzie",
+      "type": "miasto",
+      "gygQuery": "Ohrid",
+      "airport": "OHD",
+      "forWhom": "Idealna dla miłośników historii, kultury i relaksu nad jeziorem.",
+      "intro": [
+        "Ochryda, często nazywana \"Perłą Bałkanów\", to jedno z najpiękniejszych miast Macedonii Północnej, wpisane na listę UNESCO. Leży nad krystalicznie czystym Jeziorem Ochrydzkim, które jest jednym z najstarszych i najgłębszych w Europie. Miasto zachwyca zabytkami, takimi jak cerkiew św. Jana w Kaneo, twierdza Samuela czy starożytny teatr.",
+        "Spacerując po urokliwych uliczkach starego miasta, można poczuć atmosferę minionych wieków. Okolice jeziora oferują wiele możliwości aktywnego wypoczynku, od pływania i opalania, po rejsy statkiem i wędrówki po okolicznych wzgórzach. Ochryda to doskonała baza wypadowa do odkrywania południowej części kraju."
+      ],
+      "highlights": [
+        "Cerkiew św. Jana w Kaneo",
+        "Twierdza Samuela",
+        "Rejsy po Jeziorze Ochrydzkim",
+        "Starożytny teatr"
+      ]
+    },
+    {
+      "slug": "skopje",
+      "name": "Skopje",
+      "loc": "w Skopje",
+      "type": "miasto",
+      "gygQuery": "Skopje",
+      "airport": "SKP",
+      "forWhom": "Dla tych, którzy chcą poznać dynamiczną stolicę z unikalną mieszanką starego i nowego.",
+      "intro": [
+        "Skopje, stolica Macedonii Północnej, to miasto kontrastów, gdzie historia spotyka się z nowoczesnością. Po trzęsieniu ziemi w 1963 roku, a następnie w ramach projektu \"Skopje 2014\", miasto zyskało wiele nowych, często monumentalnych budowli i pomników, które budzą mieszane uczucia, ale z pewnością są unikalne.",
+        "Warto odwiedzić Stary Bazar, jeden z największych i najlepiej zachowanych na Bałkanach, gdzie można poczuć prawdziwy orientalny klimat. Inne atrakcje to Kamienny Most, twierdza Kale i dom Matki Teresy. Bliskość Kanionu Matka czyni Skopje świetną bazą wypadową do jednodniowych wycieczek."
+      ],
+      "highlights": [
+        "Stary Bazar (Čaršija)",
+        "Kamienny Most",
+        "Twierdza Kale",
+        "Muzeum Holocaustu"
+      ]
+    },
+    {
+      "slug": "kanion-matka",
+      "name": "Kanion Matka",
+      "loc": "w Kanionie Matka",
+      "type": "region",
+      "gygQuery": "Matka Canyon",
+      "airport": "SKP",
+      "forWhom": "Idealny dla miłośników przyrody, aktywnego wypoczynku i krótkich wycieczek z Skopje.",
+      "intro": [
+        "Zaledwie kilkanaście kilometrów od Skopje znajduje się malowniczy Kanion Matka, prawdziwa oaza spokoju i zieleni. To popularne miejsce na jednodniową wycieczkę, oferujące spektakularne widoki, rzekę Treska i liczne jaskinie. Można tu uprawiać kajakarstwo, pływać łódką, a także wędrować po dobrze oznakowanych szlakach.",
+        "W kanionie znajduje się kilka średniowiecznych klasztorów i cerkwi, które dodają uroku temu miejscu. Jedną z głównych atrakcji jest rejs łodzią do jaskini Vrelo, znanej z imponujących stalaktytów i stalagmitów. To idealne miejsce na ucieczkę od miejskiego zgiełku i kontakt z naturą."
+      ],
+      "highlights": [
+        "Rejs łodzią po rzece Treska",
+        "Jaskinia Vrelo",
+        "Kajakarstwo",
+        "Szlaki piesze i klasztory"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Jezioro Ochrydzkie",
+      "text": "Jedno z najstarszych i najgłębszych jezior Europy, wpisane na listę UNESCO, słynące z krystalicznie czystej wody i endemicznych gatunków.",
+      "gygQuery": "Lake Ohrid"
+    },
+    {
+      "name": "Kanion Matka",
+      "text": "Malowniczy kanion rzeki Treska, oferujący spływy kajakowe, jaskinie i szlaki turystyczne, położony niedaleko Skopje.",
+      "gygQuery": "Matka Canyon"
+    },
+    {
+      "name": "Stary Bazar w Skopje",
+      "text": "Jeden z największych i najlepiej zachowanych bazarów na Bałkanach, z wąskimi uliczkami, sklepikami i kawiarniami, tętniący życiem.",
+      "gygQuery": "Old Bazaar Skopje"
+    },
+    {
+      "name": "Cerkiew św. Jana w Kaneo",
+      "text": "Ikoniczna cerkiew położona na klifie nad Jeziorem Ochrydzkim, oferująca jedne z najpiękniejszych widoków w kraju.",
+      "gygQuery": "Saint John Kaneo"
+    },
+    {
+      "name": "Park Narodowy Pelister",
+      "text": "Najstarszy park narodowy Macedonii Północnej, znany z dziewiczej przyrody, szczytów górskich i charakterystycznych sosen molika.",
+      "gygQuery": "Pelister National Park"
+    },
+    {
+      "name": "Heraklea Lyncestis",
+      "text": "Ruiny starożytnego rzymskiego miasta w pobliżu Bitoli, z dobrze zachowanymi mozaikami, teatrem i bazylikami.",
+      "gygQuery": "Heraclea Lyncestis"
+    },
+    {
+      "name": "Mavrovo National Park",
+      "text": "Największy park narodowy kraju, oferujący piękne krajobrazy górskie, Jezioro Mavrovo i możliwości uprawiania sportów zimowych.",
+      "gygQuery": "Mavrovo National Park"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia macedońska to pyszna mieszanka wpływów bałkańskich, tureckich i śródziemnomorskich. Królują tu świeże warzywa, sery, mięsa i aromatyczne przyprawy. Koniecznie spróbuj tavče gravče, czyli zapiekanej fasoli, kebapi (małych grillowanych kiełbasek), musaki czy ajvaru, pasty z pieczonej papryki. Warto też skosztować lokalnych win, które są coraz bardziej cenione, oraz rakiji, mocnego alkoholu. Poszukaj tradycyjnych restauracji, zwanych \"meana\", aby doświadczyć prawdziwych smaków Macedonii."
+  ],
+  "faq": [
+    {
+      "q": "Czy Macedonia Północna jest bezpieczna?",
+      "a": "Tak, Macedonia Północna jest krajem bezpiecznym dla turystów. Należy zachować standardowe środki ostrożności, zwłaszcza w zatłoczonych miejscach."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu?",
+      "a": "Obywatele Polski mogą wjechać na podstawie ważnego paszportu lub dowodu osobistego. Zawsze warto sprawdzić aktualne wymogi na stronie MSZ przed podróżą."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Macedonii Północnej?",
+      "a": "Walutą jest denar macedoński (MKD). W większych miastach można płacić kartą, ale w mniejszych miejscowościach warto mieć gotówkę."
+    },
+    {
+      "q": "Czy są bezpośrednie loty z Polski do Macedonii Północnej?",
+      "a": "Tak, z Polski dostępne są bezpośrednie loty do Skopje (np. Wizz Air), a w sezonie letnim również do Ochrydy."
+    },
+    {
+      "q": "Co warto zobaczyć w Macedonii Północnej?",
+      "a": "Koniecznie odwiedź Jezioro Ochrydzkie, stolicę Skopje ze Starym Bazarem, Kanion Matka oraz Park Narodowy Pelister."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "liban",
+  "loc": "w Libanie",
+  "to": "do Libanu",
+  "capital": "Bejrut",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Lebanon",
+  "teaser": "Odkryj Liban - kraj starożytnych ruin, tętniącego życia Bejrutu i wyjątkowej kuchni. Idealny dla poszukiwaczy autentycznych doświadczeń.",
+  "intro": [
+    "Liban to kraj pełen kontrastów, gdzie starożytne ruiny spotykają się z nowoczesnym, tętniącym życiem Bejrutem. To idealne miejsce dla podróżników szukających głębokich doświadczeń kulturowych, fascynującej historii i wspaniałej kuchni, z dala od masowej turystyki. Oferuje zarówno górskie krajobrazy, jak i śródziemnomorskie wybrzeże, co czyni go atrakcyjnym kierunkiem dla tych, którzy cenią różnorodność i chcą poznać Bliski Wschód z innej perspektywy.",
+    "Dla kogo jest Liban? Przede wszystkim dla osób otwartych na nowe doświadczenia, które nie boją się wyzwań i potrafią dostosować się do lokalnych warunków. To kierunek dla miłośników historii, archeologii, bliskowschodniej kuchni i tych, którzy chcą poznać kulturę regionu w autentyczny sposób. Kraj może być wymagający ze względu na swoją złożoną historię i sytuację polityczną, ale oferuje w zamian niezapomniane wspomnienia i unikalną perspektywę.",
+    "Podróż z Polski do Libanu zazwyczaj wymaga przesiadki, najczęściej w jednym z europejskich lub bliskowschodnich hubów, takich jak Stambuł, Wiedeń czy Ateny. Lot trwa zazwyczaj około 6-8 godzin, wliczając w to czas na przesiadkę. Przed wyjazdem koniecznie należy sprawdzić aktualne wymogi wizowe oraz zalecenia Ministerstwa Spraw Zagranicznych dotyczące bezpieczeństwa w regionie, aby podróż przebiegła bezpiecznie i bezproblemowo."
+  ],
+  "highlights": [
+    "Starożytne ruiny Byblos i Baalbek",
+    "Wibrujące życie nocne Bejrutu",
+    "Majestatyczne Cedry Boże",
+    "Jaskinie Jeita Grotto",
+    "Wyśmienita kuchnia libańska",
+    "Malownicze krajobrazy górskie"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Libanu to wiosna (kwiecień-maj) i jesień (wrzesień-październik). W tych miesiącach pogoda jest przyjemna, idealna do zwiedzania i wędrówek, a temperatury nie są zbyt wysokie. Lato (czerwiec-sierpień) bywa bardzo gorące i wilgotne, szczególnie na wybrzeżu, choć w górach jest chłodniej. Zimą (grudzień-marzec) w górach spada śnieg, co umożliwia jazdę na nartach, ale na wybrzeżu jest łagodniej i deszczowo.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      17,
+      18,
+      20,
+      23,
+      26,
+      29,
+      31,
+      32,
+      30,
+      28,
+      23,
+      19
+    ],
+    "sea": [
+      18,
+      17,
+      18,
+      19,
+      22,
+      25,
+      27,
+      28,
+      28,
+      26,
+      23,
+      20
+    ],
+    "note": "dla Bejrutu"
+  },
+  "practical": {
+    "flight": "około 6-8 h z przesiadką",
+    "timeDiff": "+1 h (czas letni), +1 h (czas zimowy)",
+    "documents": "Obywatele Polski potrzebują wizy. Można ją uzyskać na lotnisku w Bejrucie lub w ambasadzie. Należy sprawdzić aktualne wymogi wizowe i paszportowe przed wyjazdem, w tym zakaz wjazdu dla osób posiadających pieczątki izraelskie w paszporcie.",
+    "money": "Walutą jest funt libański (LBP). Powszechnie akceptowane są również dolary amerykańskie (USD), często nawet preferowane. Karty płatnicze są akceptowane w większych miastach i hotelach, ale warto mieć przy sobie gotówkę.",
+    "plugs": "Typ C, D, G",
+    "language": "arabski, francuski. Angielski jest szeroko używany, zwłaszcza w turystyce i biznesie.",
+    "safety": "Bezpieczeństwo w Libanie jest zmienne i wymaga stałej uwagi. Ministerstwo Spraw Zagranicznych RP zaleca zachowanie szczególnej ostrożności, zwłaszcza w rejonach przygranicznych i niektórych dzielnicach miast. Należy śledzić bieżące komunikaty MSZ przed i w trakcie podróży. Zaleca się wykupienie kompleksowego ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "bejrut",
+      "name": "Bejrut",
+      "loc": "w Bejrucie",
+      "type": "miasto",
+      "gygQuery": "Beirut",
+      "airport": "BEY",
+      "forWhom": "Dla tych, którzy szukają tętniącego życiem miasta z bogatą historią, nowoczesną kulturą i wyśmienitą kuchnią.",
+      "intro": [
+        "Bejrut, stolica Libanu, to miasto feniks, które wielokrotnie odradzało się z popiołów. Dziś to dynamiczna metropolia, gdzie nowoczesne wieżowce stoją obok zabytkowych budynków, a ślady wojny sąsiadują z luksusowymi butikami i tętniącymi życiem kawiarniami. Miasto oferuje bogate życie kulturalne, galerie sztuki, muzea i szeroki wybór restauracji serwujących wyśmienitą kuchnię libańską.",
+        "Spacerując po centrum Bejrutu, można poczuć puls tego miejsca, odrestaurowane ulice, historyczne meczety i kościoły, a także nowoczesną promenadę Corniche, idealną na wieczorne spacery z widokiem na Morze Śródziemne. Bejrut to doskonała baza wypadowa do zwiedzania innych części Libanu, a także miejsce, gdzie można poczuć prawdziwą libańską gościnność i energię."
+      ],
+      "highlights": [
+        "Promenada Corniche",
+        "Narodowe Muzeum Bejrutu",
+        "Dzielnica Solidere",
+        "Kamienne Gołębie (Raouche Rocks)"
+      ]
+    },
+    {
+      "slug": "byblos",
+      "name": "Byblos (Dżubajl)",
+      "loc": "w Byblos",
+      "type": "miasto",
+      "gygQuery": "Byblos",
+      "airport": "BEY",
+      "forWhom": "Dla miłośników historii i archeologii, którzy chcą zobaczyć jedno z najstarszych nieprzerwanie zamieszkanych miast na świecie.",
+      "intro": [
+        "Byblos, znane również jako Dżubajl, to urocze miasto portowe położone na północ od Bejrutu, uważane za jedno z najstarszych nieprzerwanie zamieszkanych miast na świecie. Jego historia sięga ponad 7000 lat, co czyni je prawdziwą skarbnicą archeologiczną. Spacerując po starożytnym porcie i ruinach, można podziwiać ślady Fenicjan, Rzymian, Krzyżowców i Osmanów, którzy zostawili tu swój ślad.",
+        "Obecnie Byblos to również tętniące życiem miasto z urokliwym starym bazarem, licznymi restauracjami serwującymi świeże owoce morza i klimatycznymi kawiarniami. Jest to idealne miejsce na jednodniową wycieczkę z Bejrutu, oferujące połączenie fascynującej historii z relaksującą atmosferą nadmorskiego kurortu. Warto odwiedzić zamek krzyżowców i fenickie nekropolie."
+      ],
+      "highlights": [
+        "Stary Port Fenicjan",
+        "Zamek Krzyżowców",
+        "Stary Bazar",
+        "Kościół św. Jana Chrzciciela"
+      ]
+    },
+    {
+      "slug": "baalbek",
+      "name": "Baalbek",
+      "loc": "w Baalbek",
+      "type": "miasto",
+      "gygQuery": "Baalbek",
+      "airport": "BEY",
+      "forWhom": "Dla podróżników pragnących podziwiać monumentalne rzymskie ruiny, świadectwo dawnej potęgi i kunsztu architektonicznego.",
+      "intro": [
+        "Baalbek to jedno z najważniejszych stanowisk archeologicznych na Bliskim Wschodzie, słynące z imponujących ruin rzymskich świątyń. Położone w dolinie Bekaa, dawne Heliopolis było ważnym ośrodkiem kultu i celem pielgrzymek. Świątynie Jowisza, Bachusa i Wenus zachwycają skalą i precyzją wykonania, a ich monumentalne kolumny świadczą o niezwykłych zdolnościach inżynieryjnych starożytnych Rzymian.",
+        "Wizyta w Baalbek to podróż w czasie, pozwalająca na wyobrażenie sobie splendoru dawnego imperium. Mimo położenia w regionie, który bywa niestabilny, ruiny są zazwyczaj dostępne dla turystów i stanowią obowiązkowy punkt programu dla każdego, kto interesuje się historią. To miejsce wpisane na listę światowego dziedzictwa UNESCO, które zapiera dech w piersiach."
+      ],
+      "highlights": [
+        "Świątynia Jowisza",
+        "Świątynia Bachusa",
+        "Świątynia Wenus",
+        "Muzeum w Baalbek"
+      ]
+    },
+    {
+      "slug": "dolina-kadisha",
+      "name": "Dolina Kadisha",
+      "loc": "w Dolinie Kadisha",
+      "type": "region",
+      "gygQuery": "Kadisha Valley",
+      "airport": "BEY",
+      "forWhom": "Dla miłośników natury, górskich krajobrazów i duchowej historii, szukających spokoju i pięknych widoków.",
+      "intro": [
+        "Dolina Kadisha, znana również jako Święta Dolina, to głęboki wąwóz w północnym Libanie, wpisany na listę światowego dziedzictwa UNESCO. Jest to miejsce o ogromnym znaczeniu religijnym i historycznym, od wieków zamieszkiwane przez wspólnoty chrześcijańskie, które szukały tu schronienia. Dolina pełna jest starożytnych klasztorów wykutych w skałach, jaskiń i pustelni, które tworzą unikalny krajobraz kulturowy.",
+        "Oprócz wartości historycznych, Dolina Kadisha oferuje zapierające dech w piersiach widoki i możliwości do wędrówek. To także brama do Cedrów Bożych, jednego z ostatnich dużych skupisk cedrów libańskich, symbolu kraju. Wizyta w dolinie to okazja do obcowania z dziką naturą i poznania duchowego dziedzictwa Libanu w spokojnej i malowniczej scenerii."
+      ],
+      "highlights": [
+        "Cedry Boże",
+        "Klasztor Qannoubine",
+        "Pustelnie wykute w skałach",
+        "Wędrówki górskie"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Ruiny Baalbek",
+      "text": "Monumentalne rzymskie świątynie Jowisza i Bachusa, wpisane na listę UNESCO, świadectwo dawnej potęgi imperium.",
+      "gygQuery": "Baalbek ruins"
+    },
+    {
+      "name": "Byblos (Dżubajl)",
+      "text": "Jedno z najstarszych nieprzerwanie zamieszkanych miast świata, z fenickim portem i zamkiem krzyżowców.",
+      "gygQuery": "Byblos"
+    },
+    {
+      "name": "Jaskinie Jeita Grotto",
+      "text": "Spektakularny kompleks jaskiń krasowych z rzeką podziemną i imponującymi stalaktytami i stalagmitami.",
+      "gygQuery": "Jeita Grotto"
+    },
+    {
+      "name": "Cedry Boże (Horsh Arz el-Rab)",
+      "text": "Ostatnie duże skupisko starożytnych cedrów libańskich, symbolu kraju, położone w górach.",
+      "gygQuery": "Cedars of God"
+    },
+    {
+      "name": "Narodowe Muzeum Bejrutu",
+      "text": "Kolekcja artefaktów archeologicznych, od prehistorii po czasy osmańskie, opowiadająca historię Libanu.",
+      "gygQuery": "National Museum of Beirut"
+    },
+    {
+      "name": "Anjar",
+      "text": "Ruiny miasta Umajjadów z VIII wieku, jedyne w Libanie, wpisane na listę UNESCO, unikalne świadectwo wczesnej architektury islamu.",
+      "gygQuery": "Anjar"
+    },
+    {
+      "name": "Tyre (Sour)",
+      "text": "Starożytne miasto fenickie z imponującymi rzymskimi ruinami, w tym hipodromem i nekropoliami, oraz pięknymi plażami.",
+      "gygQuery": "Tyre Lebanon"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia libańska to prawdziwa uczta dla zmysłów, znana ze swojej świeżości, różnorodności i bogactwa smaków. Jej podstawą są świeże warzywa, zioła, oliwa z oliwek, ciecierzyca, soczewica oraz mięsa takie jak jagnięcina i drób. Charakterystyczne są mezze, czyli małe przystawki podawane przed głównym daniem, takie jak hummus, baba ghanoush, tabbouleh czy falafel. Nie można zapomnieć o aromatycznych przyprawach, świeżo pieczonym chlebie pita i słodkich deserach, takich jak baklava. Liban to raj dla smakoszy, oferujący autentyczne doznania kulinarne w każdej restauracji i ulicznej budce."
+  ],
+  "faq": [
+    {
+      "q": "Czy Liban jest bezpieczny dla turystów z Polski?",
+      "a": "Sytuacja bezpieczeństwa w Libanie jest zmienna. Ministerstwo Spraw Zagranicznych RP zaleca zachowanie szczególnej ostrożności, zwłaszcza w rejonach przygranicznych. W miastach turystycznych, przy zachowaniu podstawowych środków ostrożności, podróżowanie jest zazwyczaj możliwe, ale zawsze należy śledzić aktualne komunikaty MSZ."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Libanu?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Libanu. Można ją uzyskać na lotnisku w Bejrucie lub w ambasadzie. Ważne jest, aby sprawdzić aktualne wymogi wizowe i paszportowe przed podróżą, w tym ewentualny zakaz wjazdu dla osób posiadających pieczątki izraelskie w paszporcie."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Libanie i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest funt libański (LBP), ale dolary amerykańskie (USD) są powszechnie akceptowane, a często nawet preferowane. Karty płatnicze są akceptowane w większych miastach i hotelach, jednak zawsze warto mieć przy sobie gotówkę, zwłaszcza poza głównymi ośrodkami."
+    },
+    {
+      "q": "Co warto zobaczyć w Bejrucie?",
+      "a": "W Bejrucie warto zobaczyć promenadę Corniche, Narodowe Muzeum Bejrutu, urokliwą dzielnicę Solidere z odrestaurowanymi budynkami, a także słynne Skały Gołębi (Raouche Rocks). Miasto oferuje również bogate życie nocne i kulinarną scenę."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

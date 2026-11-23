@@ -1,0 +1,248 @@
+{
+  "slug": "malezja",
+  "loc": "w Malezji",
+  "to": "do Malezji",
+  "capital": "Kuala Lumpur",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Malaysia",
+  "teaser": "Malezja to kraj kontrastów - od tętniących życiem miast po dziewicze lasy deszczowe i rajskie wyspy. Idealna na egzotyczną przygodę.",
+  "intro": [
+    "Malezja to fascynująca mieszanka kultur, smaków i krajobrazów, która przyciąga podróżników swoją różnorodnością. Znajdziesz tu nowoczesne drapacze chmur, kolonialne miasteczka, bujne dżungle z dziką fauną oraz idylliczne plaże. Kraj ten oferuje unikalne połączenie azjatyckiej gościnności z wpływami malajskimi, chińskimi i indyjskimi, co widać w architekturze, kuchni i codziennym życiu. To miejsce, gdzie historia splata się z nowoczesnością, a miejski zgiełk ustępuje miejsca spokojnej naturze.",
+    "Kraj jest idealny dla poszukiwaczy przygód, miłośników natury, smakoszy oraz tych, którzy pragną połączyć aktywny wypoczynek z relaksem. Czy marzysz o trekkingach w dżungli, nurkowaniu z żółwiami, zwiedzaniu tętniących życiem metropolii, czy po prostu chcesz odpocząć na białym piasku, Malezja ma coś dla Ciebie. Różnorodność atrakcji sprawia, że każdy znajdzie tu coś dla siebie, niezależnie od preferencji i budżetu podróży. To destynacja, która potrafi zaskoczyć i zachwycić na każdym kroku.",
+    "Podróż z Polski do Malezji zazwyczaj wymaga jednej przesiadki, a łączny czas lotu wynosi około 12-14 godzin. Najczęściej lata się do Kuala Lumpur (KUL) z dużych europejskich hubów, takich jak Dubaj, Doha czy Stambuł. Polscy obywatele nie potrzebują wizy na pobyt turystyczny do 90 dni, wystarczy ważny paszport. Różnica czasu to +6 lub +7 godzin w stosunku do czasu polskiego, w zależności od pory roku. Przygotuj się na tropikalny klimat i egzotyczne smaki, które czekają na Ciebie zaraz po wylądowaniu."
+  ],
+  "highlights": [
+    "Wizytówka Kuala Lumpur - Petronas Towers",
+    "Spotkanie z orangutanami na Borneo",
+    "Relaks na rajskich plażach Langkawi",
+    "Kulinarna podróż po ulicach Penang",
+    "Nurkowanie na światowej klasy Sipadanie",
+    "Odkrywanie jaskiń Batu Caves"
+  ],
+  "bestTime": {
+    "text": "Malezja, ze względu na tropikalny klimat, jest krajem, który można odwiedzać przez cały rok, jednak najlepszy czas zależy od regionu. Półwysep Malajski (Kuala Lumpur, Langkawi, Penang) ma dwie pory suche: od grudnia do lutego oraz od czerwca do sierpnia, kiedy opady są najmniejsze. Wschodnie wybrzeże półwyspu (Wyspy Perhentian, Tioman) najlepiej odwiedzać od marca do września, unikając monsunu od października do lutego. Borneo (Sabah, Sarawak) jest najbardziej sprzyjające od marca do października, choć krótkie deszcze mogą zdarzyć się zawsze. Ogólnie, okresy suche oferują więcej słońca i niższe ryzyko opadów.",
+    "best": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      10,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      32,
+      33,
+      33,
+      33,
+      33,
+      33,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32
+    ],
+    "sea": [
+      29,
+      29,
+      30,
+      30,
+      30,
+      30,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29
+    ],
+    "note": "dla Kuala Lumpur"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "+6 lub +7 h do Polski",
+    "documents": "Obywatele Polski mogą przebywać w Malezji bez wizy do 90 dni. Wymagany paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Malezji. Zawsze sprawdź aktualne wymogi wizowe przed podróżą.",
+    "money": "Walutą jest ringgit malezyjski (MYR). Płatności kartą są powszechne w miastach i większych miejscowościach turystycznych, ale zawsze warto mieć przy sobie gotówkę, zwłaszcza na targach i w mniejszych miejscowościach. Bankomaty są szeroko dostępne.",
+    "plugs": "Typ G (brytyjski), z trzema prostokątnymi bolcami. Napięcie 240 V, częstotliwość 50 Hz. Potrzebny adapter.",
+    "language": "Oficjalnym językiem jest malajski (Bahasa Malaysia), ale angielski jest bardzo powszechnie używany, zwłaszcza w turystyce i biznesie. Porozumiewanie się po angielsku nie stanowi problemu.",
+    "safety": "Malezja jest generalnie bezpiecznym krajem dla turystów, ale należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach (kradzieże kieszonkowe). Warto uważać na ruch drogowy. Istnieje ryzyko dengi i innych chorób przenoszonych przez komary, zaleca się stosowanie repelentów. Przed wyjazdem sprawdź aktualne zalecenia MSZ."
+  },
+  "regions": [
+    {
+      "slug": "kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "loc": "w Kuala Lumpur",
+      "type": "miasto",
+      "gygQuery": "Kuala Lumpur",
+      "airport": "KUL",
+      "forWhom": "Dla miłośników nowoczesnej architektury, zakupów, różnorodnej kuchni i nocnego życia.",
+      "intro": [
+        "Kuala Lumpur, tętniąca życiem stolica Malezji, to miasto kontrastów, gdzie futurystyczne drapacze chmur stoją obok zabytkowych świątyń i kolonialnych budynków. To dynamiczna metropolia, która zachwyca swoją energią, różnorodnością kulturową i kulinarną. Odwiedzający mogą podziwiać ikoniczne Petronas Towers, eksplorować barwne dzielnice takie jak Chinatown czy Little India oraz zanurzyć się w luksusowych centrach handlowych.",
+        "Miasto oferuje niezliczone atrakcje, od imponujących jaskiń Batu Caves, będących ważnym miejscem kultu hinduskiego, po zielone oazy takie jak KLCC Park czy Lake Gardens. Kuala Lumpur to także raj dla smakoszy, z niezliczonymi straganami z ulicznym jedzeniem i restauracjami serwującymi dania z całego świata. Nocne życie kwitnie w dzielnicach takich jak Bukit Bintang, oferując bary, kluby i rozrywkę do białego rana."
+      ],
+      "highlights": [
+        "Petronas Towers i Skybridge",
+        "Jaskinie Batu Caves z posągiem Murugana",
+        "Tętniące życiem Chinatown i Little India",
+        "Uliczne jedzenie na Jalan Alor"
+      ]
+    },
+    {
+      "slug": "langkawi",
+      "name": "Langkawi",
+      "loc": "na Langkawi",
+      "type": "wyspa",
+      "gygQuery": "Langkawi",
+      "airport": "LGK",
+      "forWhom": "Idealna dla rodzin i szukających relaksu na plażach z odrobiną przygody w dżungli.",
+      "intro": [
+        "Langkawi to archipelag 99 wysp na zachodnim wybrzeżu Malezji, słynący z pięknych plaż, bujnej dżungli i statusu strefy wolnocłowej. Główna wyspa, również nazywana Langkawi, oferuje idylliczne krajobrazy z wapiennymi formacjami skalnymi, wodospadami i gęstymi lasami deszczowymi. Jest to idealne miejsce na połączenie błogiego lenistwa z aktywnym odkrywaniem natury.",
+        "Wyspa jest domem dla wielu atrakcji, takich jak zapierający dech w piersiach SkyBridge i kolejka linowa, która oferuje panoramiczne widoki na archipelag. Można tu również wybrać się na rejs po namorzynowych lasach, odwiedzić wodospady Telaga Tujuh czy po prostu zrelaksować się na jednej z wielu piaszczystych plaż, takich jak Cenang Beach. Langkawi to doskonały wybór dla tych, którzy pragną uciec od zgiełku miasta."
+      ],
+      "highlights": [
+        "Langkawi SkyBridge i kolejka linowa",
+        "Relaks na plaży Cenang Beach",
+        "Rejsy po lasach namorzynowych",
+        "Wodospady Telaga Tujuh"
+      ]
+    },
+    {
+      "slug": "penang",
+      "name": "Penang",
+      "loc": "na Penang",
+      "type": "wyspa",
+      "gygQuery": "Penang",
+      "airport": "PEN",
+      "forWhom": "Dla smakoszy, miłośników sztuki ulicznej, kolonialnej historii i różnorodności kulturowej.",
+      "intro": [
+        "Penang, często nazywane kulinarną stolicą Malezji, to wyspa o bogatej historii i kulturze, której sercem jest wpisane na listę UNESCO Georgetown. Miasto to jest prawdziwą mozaiką wpływów malajskich, chińskich, indyjskich i europejskich, co widać w jego architekturze, świątyniach i oczywiście, jedzeniu. To idealne miejsce dla tych, którzy chcą zanurzyć się w autentycznej azjatyckiej atmosferze.",
+        "Spacerując po Georgetown, odkryjesz urokliwe uliczki zdobione słynną sztuką uliczną, kolorowe domy handlowe i zabytkowe świątynie. Wyspa oferuje również piękne krajobrazy, takie jak Penang Hill z panoramicznym widokiem na miasto czy Park Narodowy Penang z dziewiczymi plażami. Niezapomniane wrażenia zapewni degustacja lokalnych przysmaków na nocnych targach i w małych restauracjach."
+      ],
+      "highlights": [
+        "Sztuka uliczna w Georgetown",
+        "Kuchnia uliczna - kulinarny raj",
+        "Wzgórze Penang Hill z kolejką",
+        "Świątynia Kek Lok Si"
+      ]
+    },
+    {
+      "slug": "borneo-sabah",
+      "name": "Borneo (Sabah)",
+      "loc": "na Borneo (Sabah)",
+      "type": "region",
+      "gygQuery": "Sabah Borneo",
+      "airport": "BKI",
+      "forWhom": "Idealne dla poszukiwaczy dzikiej przyrody, przygód, trekkingów i nurkowania.",
+      "intro": [
+        "Malezyjska część Borneo, zwłaszcza stan Sabah, to prawdziwy raj dla miłośników natury i przygód. To tu znajdziesz jedne z najstarszych lasów deszczowych na świecie, będące domem dla unikalnych gatunków zwierząt, w tym słynnych orangutanów. Sabah oferuje niezapomniane doświadczenia, od obserwacji dzikiej fauny po zdobywanie majestatycznych szczytów.",
+        "Główne atrakcje to rezerwaty orangutanów, takie jak Sepilok, rejsy po rzece Kinabatangan, gdzie można zobaczyć słonie karłowate i małpy proboscis, oraz możliwość zdobycia Mount Kinabalu, najwyższego szczytu Malezji. Sabah jest również światowej klasy destynacją dla nurków, z takimi miejscami jak wyspa Sipadan, oferującymi bogactwo podwodnego życia. To miejsce, gdzie przyroda gra pierwsze skrzypce."
+      ],
+      "highlights": [
+        "Rezerwaty orangutanów (Sepilok)",
+        "Rejs po rzece Kinabatangan",
+        "Wspinaczka na Mount Kinabalu",
+        "Nurkowanie na wyspie Sipadan"
+      ]
+    },
+    {
+      "slug": "wyspy-perhentian",
+      "name": "Wyspy Perhentian",
+      "loc": "na Wyspach Perhentian",
+      "type": "wyspy",
+      "gygQuery": "Perhentian Islands",
+      "airport": "KBR",
+      "forWhom": "Raj dla nurków, miłośników snorkelingu i tych, którzy szukają dziewiczych, spokojnych plaż.",
+      "intro": [
+        "Wyspy Perhentian, położone u wschodniego wybrzeża Półwyspu Malajskiego, to dwie idylliczne wyspy - Besar (Duża) i Kecil (Mała) - słynące z turkusowych wód, białych plaż i bogatych raf koralowych. To idealne miejsce na ucieczkę od cywilizacji, gdzie czas płynie wolniej, a głównymi atrakcjami są słońce, piasek i morze. Brak dróg i samochodów dodaje im uroku.",
+        "Perhentian to mekka dla nurków i snorkelingu, oferująca doskonałe warunki do obserwacji rekinów rafowych, żółwi morskich i niezliczonych gatunków kolorowych ryb. Wyspy oferują proste zakwaterowanie w bungalowach i domkach, tworząc swobodną, backpackerską atmosferę. To idealne miejsce na relaks, pływanie, opalanie i podziwianie podwodnego świata bez tłumów."
+      ],
+      "highlights": [
+        "Snorkeling i nurkowanie z żółwiami",
+        "Dziewicze plaże z białym piaskiem",
+        "Wędrówki przez dżunglę",
+        "Relaks w hamaku z widokiem na morze"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Petronas Towers",
+      "text": "Ikoniczne bliźniacze wieże w Kuala Lumpur, symbol nowoczesnej Malezji. Można wjechać na Skybridge i platformę widokową, aby podziwiać panoramę miasta.",
+      "gygQuery": "Petronas Towers"
+    },
+    {
+      "name": "Jaskinie Batu Caves",
+      "text": "Ważne hinduskie sanktuarium w wapiennych jaskiniach, z gigantycznym złotym posągiem Murugana. Do jaskiń prowadzą kolorowe schody, a w środku żyją małpy.",
+      "gygQuery": "Batu Caves"
+    },
+    {
+      "name": "Georgetown Street Art",
+      "text": "Uliczne murale i instalacje artystyczne w Georgetown na Penang, które opowiadają o historii i kulturze miasta. Idealne na spacer i robienie zdjęć.",
+      "gygQuery": "Georgetown Street Art"
+    },
+    {
+      "name": "Langkawi SkyBridge",
+      "text": "Spektakularny most wiszący na wysokości 700 metrów nad ziemią, dostępny kolejką linową. Oferuje zapierające dech w piersiach widoki na wyspę i archipelag.",
+      "gygQuery": "Langkawi SkyBridge"
+    },
+    {
+      "name": "Rejs po rzece Kinabatangan",
+      "text": "Niezapomniana wyprawa w głąb dżungli Borneo, gdzie podczas rejsu łodzią można obserwować orangutany, małpy proboscis, słonie karłowate i wiele gatunków ptaków.",
+      "gygQuery": "Kinabatangan River Cruise"
+    },
+    {
+      "name": "Mount Kinabalu",
+      "text": "Najwyższy szczyt Malezji (4095 m n.p.m.) na Borneo, oferujący wymagające, ale satysfakcjonujące trekkingi. Wymaga wcześniejszej rezerwacji i przewodnika.",
+      "gygQuery": "Mount Kinabalu climb"
+    },
+    {
+      "name": "Wyspa Sipadan",
+      "text": "Jedna z najlepszych destynacji nurkowych na świecie, słynąca z bogactwa życia morskiego, w tym rekinów, żółwi i ogromnych ławic ryb. Liczba nurków jest ograniczona.",
+      "gygQuery": "Sipadan diving"
+    },
+    {
+      "name": "Cameron Highlands",
+      "text": "Malowniczy region górski, słynący z plantacji herbaty, chłodniejszego klimatu i bujnych krajobrazów. Idealne miejsce na ucieczkę od upałów i degustację herbaty.",
+      "gygQuery": "Cameron Highlands"
+    }
+  ],
+  "cuisine": [
+    "Malezyjska kuchnia to prawdziwa uczta dla zmysłów, będąca fuzją wpływów malajskich, chińskich i indyjskich. Króluje tu uliczne jedzenie, które jest nie tylko smaczne, ale i niezwykle różnorodne. Koniecznie spróbuj Nasi Lemak, narodowego dania z ryżu gotowanego w mleczku kokosowym, podawanego z pikantnym sambalem, orzeszkami ziemnymi i jajkiem. Inne popularne przysmaki to Laksa (pikantna zupa z makaronem), Satay (szaszłyki z grilla z sosem orzechowym) oraz Char Kway Teow (smażony makaron z owocami morza). Nie zapomnij o świeżych owocach, takich jak durian, rambutan czy mangostan, które są dostępne na każdym kroku. Kuchnia Malezji to prawdziwa podróż przez smaki Azji."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Malezji?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Malezji."
+    },
+    {
+      "q": "Jaka jest waluta w Malezji i jak płacić?",
+      "a": "Walutą jest ringgit malezyjski (MYR). W miastach i większych miejscowościach turystycznych powszechne są płatności kartą, ale zawsze warto mieć gotówkę na targi i w mniejszych sklepach. Bankomaty są szeroko dostępne."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Malezji?",
+      "a": "Najlepszy czas zależy od regionu. Dla zachodniego wybrzeża (Kuala Lumpur, Langkawi) to grudzień-luty i czerwiec-sierpień. Dla wschodniego wybrzeża (Perhentian) to marzec-wrzesień. Borneo najlepiej odwiedzać od marca do października."
+    },
+    {
+      "q": "Czy Malezja jest bezpieczna dla turystów?",
+      "a": "Malezja jest generalnie bezpiecznym krajem. Należy zachować podstawowe środki ostrożności, uważać na ruch drogowy i stosować repelenty przeciw komarom ze względu na ryzyko dengi."
+    },
+    {
+      "q": "Jakie gniazdka elektryczne są w Malezji?",
+      "a": "W Malezji używane są gniazdka typu G (brytyjskie), z trzema prostokątnymi bolcami. Napięcie wynosi 240 V. Należy zabrać ze sobą adapter."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,197 @@
+{
+  "slug": "komory",
+  "loc": "na Komorach",
+  "to": "na Komory",
+  "capital": "Moroni",
+  "popularity": 8,
+  "touroperator": false,
+  "gygQuery": "Comoros",
+  "teaser": "Odkryj Komory, archipelag wulkanicznych wysp na Oceanie Indyjskim. To kierunek dla poszukiwaczy autentycznych wrażeń i dziewiczej natury.",
+  "intro": [
+    "Komory, położone na Oceanie Indyjskim między Madagaskarem a Mozambikiem, to archipelag wulkanicznych wysp, który wciąż pozostaje poza głównymi szlakami turystycznymi. To miejsce, gdzie czas płynie wolniej, a bujna roślinność, dziewicze plaże i aktywny wulkan tworzą krajobraz pełen naturalnego piękna. Kraj ten słynie z plantacji przypraw, zwłaszcza ylang-ylang, wanilii i goździków, których zapach unosi się w powietrzu, nadając wyspom egzotyczny charakter. Brak masowej turystyki sprawia, że Komory oferują prawdziwą, nieskażoną kulturę i możliwość bliskiego kontaktu z lokalną społecznością.",
+    "Ten kierunek jest idealny dla doświadczonych podróżników, którzy cenią sobie autentyczność, spokój i przygodę z dala od zgiełku kurortów. Jeśli szukasz luksusowych hoteli i zorganizowanych wycieczek, Komory mogą nie spełnić Twoich oczekiwań. To raczej propozycja dla tych, którzy chcą zanurzyć się w lokalnym życiu, odkrywać dziką przyrodę, nurkować w koralowych rafach i wspinać się na wulkaniczne szczyty. Archipelag oferuje unikalne połączenie kultury suahili, wpływów arabskich i afrykańskich, co czyni go fascynującym miejscem do eksploracji.",
+    "Podróż na Komory z Polski wymaga planowania i cierpliwości, ponieważ nie ma bezpośrednich lotów. Zazwyczaj trzeba liczyć się z dwiema lub więcej przesiadkami, najczęściej w Europie (np. Paryż, Marsylia) i w Afryce (np. Nairobi, Addis Abeba). Cała podróż może zająć od 15 do 20 godzin, a nawet dłużej, w zależności od połączeń. Na miejscu infrastruktura turystyczna jest ograniczona, ale dostępne są lokalne pensjonaty i małe hotele, które oferują gościnność i możliwość poznania wysp z bliska. Transport między wyspami odbywa się głównie łodziami i małymi samolotami."
+  ],
+  "highlights": [
+    "Aktywny wulkan Mount Karthala",
+    "Dziewicze plaże i zatoki",
+    "Plantacje przypraw i ylang-ylang",
+    "Bogactwo życia morskiego i rafy koralowe",
+    "Autentyczna kultura Suahili",
+    "Park Morski Mohéli"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Komorach to pora sucha, która trwa od maja do października. W tym okresie panują przyjemne temperatury, niższa wilgotność powietrza i mniej opadów, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wyższą wilgotnością, intensywnymi, choć zazwyczaj krótkimi ulewami oraz ryzykiem cyklonów, szczególnie od stycznia do marca.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      30,
+      29,
+      28,
+      27,
+      27,
+      28,
+      29,
+      30,
+      30
+    ],
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      28,
+      27,
+      26,
+      26,
+      26,
+      27,
+      28,
+      28
+    ],
+    "note": "dla Moroni, wyspa Wielki Komor"
+  },
+  "practical": {
+    "flight": "około 15-20 h z dwiema przesiadkami",
+    "timeDiff": "+2 godziny (względem czasu polskiego zimą), +1 godzina (względem czasu polskiego latem)",
+    "documents": "Wiza jest wymagana i można ją uzyskać po przylocie na lotnisku w Moroni. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych w ambasadzie lub na stronie MSZ przed podróżą.",
+    "money": "Walutą jest frank komoryjski (KMF). Wymiana waluty jest możliwa w bankach w Moroni. Płatności kartą są bardzo rzadkie, a bankomaty nieliczne i często zawodne, dlatego należy mieć przy sobie wystarczającą ilość gotówki.",
+    "plugs": "Typy C i E, takie jak w Polsce.",
+    "language": "Oficjalne języki to arabski, francuski i komoryjski. Francuski jest powszechnie używany w biznesie i administracji, a znajomość podstawowych zwrotów w komoryjskim będzie bardzo mile widziana przez mieszkańców.",
+    "safety": "Komory to kraj bezpieczny, jednak należy zachować podstawową ostrożność, zwłaszcza w miastach, i unikać samotnych spacerów po zmroku. Istnieje ryzyko malarii, dengi i innych chorób tropikalnych, dlatego zaleca się profilaktykę i konsultację z lekarzem medycyny podróży. Należy śledzić komunikaty MSZ."
+  },
+  "regions": [
+    {
+      "slug": "wielki-komor-ngazidja",
+      "name": "Wielki Komor (Ngazidja)",
+      "loc": "na Wielkim Komorze",
+      "type": "wyspa",
+      "gygQuery": "Grand Comore",
+      "airport": "HAH",
+      "forWhom": "Główna wyspa z aktywnym wulkanem i stolicą, idealna dla poszukiwaczy przygód i kultury.",
+      "intro": [
+        "Wielki Komor, znany również jako Ngazidja, to największa i najbardziej zaludniona wyspa archipelagu. Jej krajobraz zdominowany jest przez majestatyczny wulkan Mount Karthala, jeden z największych aktywnych wulkanów na świecie, którego krater można zdobyć podczas wymagającej, ale satysfakcjonującej wędrówki. Na wyspie znajduje się stolica kraju, Moroni, tętniące życiem miasto z bazarem, meczetami i starą medyną, gdzie można poczuć puls lokalnego życia i poznać historię Komorów.",
+        "Oprócz wulkanu i stolicy, Wielki Komor oferuje piękne plaże, takie jak Chomoni, oraz tajemnicze, wulkaniczne jeziora, jak Lac Salé. Wyspa jest dobrym punktem startowym do eksploracji kultury suahili, z jej tradycyjnymi wioskami i gościnnymi mieszkańcami. Infrastruktura turystyczna jest tu najbardziej rozwinięta w porównaniu z innymi wyspami, choć wciąż pozostaje skromna, co sprzyja autentycznym doświadczeniom."
+      ],
+      "highlights": [
+        "Wspinaczka na Mount Karthala",
+        "Zwiedzanie Moroni i starej medyny",
+        "Relaks na plaży Chomoni",
+        "Odkrywanie wulkanicznego Lac Salé"
+      ]
+    },
+    {
+      "slug": "moheli-mwali",
+      "name": "Mohéli (Mwali)",
+      "loc": "na Mohéli",
+      "type": "wyspa",
+      "gygQuery": "Moheli",
+      "airport": "NWA",
+      "forWhom": "Najmniejsza i najbardziej dziewicza wyspa, raj dla miłośników nurkowania i spokoju.",
+      "intro": [
+        "Mohéli, czyli Mwali, to najmniejsza z trzech głównych wysp archipelagu, często nazywana \"wyspą-ogrodem\" ze względu na swoją bujną roślinność i spokojny charakter. To tutaj znajduje się jedyny na Komorach Park Morski Mohéli, chroniący bogate rafy koralowe, namorzyny i zielone żółwie morskie, które przybywają tu, by składać jaja. Park jest idealnym miejscem do nurkowania, snorkelingu i obserwacji życia morskiego w jego naturalnym środowisku, oferując niezapomniane wrażenia pod wodą.",
+        "Wyspa Mohéli to oaza spokoju, gdzie czas płynie wolniej, a mieszkańcy żyją w zgodzie z naturą. Znajdziesz tu urokliwe wioski rybackie, gdzie możesz obserwować codzienne życie, oraz dziewicze plaże, na których często będziesz jedynym turystą. To idealne miejsce dla tych, którzy szukają ucieczki od cywilizacji, chcą zrelaksować się w otoczeniu nieskażonej przyrody i doświadczyć prawdziwej, komoryjskiej gościnności."
+      ],
+      "highlights": [
+        "Nurkowanie w Parku Morskim Mohéli",
+        "Obserwacja zielonych żółwi morskich",
+        "Odpoczynek na dziewiczych plażach",
+        "Wizyta w wioskach rybackich"
+      ]
+    },
+    {
+      "slug": "anjouan-nzwani",
+      "name": "Anjouan (Nzwani)",
+      "loc": "na Anjouan",
+      "type": "wyspa",
+      "gygQuery": "Anjouan",
+      "airport": "AJN",
+      "forWhom": "Lśniąca zielenią i zapachem przypraw, dla odkrywców bujnej natury i lokalnej kultury.",
+      "intro": [
+        "Anjouan, znana również jako Nzwani, to druga co do wielkości wyspa Komorów, słynąca z bujnej, górzystej scenerii i intensywnych zapachów. Nazywana jest \"wyspą perfum\" ze względu na liczne plantacje ylang-ylang, wanilii, goździków i kawy, które pokrywają jej zbocza. Spacerując po wyspie, można podziwiać malownicze wodospady, takie jak Dziancoundré, i tropikalne lasy deszczowe, które są domem dla endemicznych gatunków flory i fauny, w tym dla lemurów.",
+        "Stolica wyspy, Mutsamudu, to historyczne miasto z wąskimi uliczkami, starymi domami i pozostałościami po fortyfikacjach, które świadczą o bogatej przeszłości. Anjouan oferuje unikalne połączenie naturalnego piękna i kulturowego dziedzictwa, z licznymi meczetami i tradycyjnymi targami. To doskonałe miejsce dla tych, którzy chcą zanurzyć się w lokalnym życiu, odkrywać plantacje przypraw i podziwiać spektakularne krajobrazy."
+      ],
+      "highlights": [
+        "Zwiedzanie plantacji ylang-ylang",
+        "Podziwianie wodospadu Dziancoundré",
+        "Eksploracja historycznego Mutsamudu",
+        "Wędrówki po tropikalnych lasach"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Mount Karthala",
+      "text": "Aktywny wulkan na wyspie Wielki Komor, jeden z największych na świecie, oferujący wymagające, ale widokowe szlaki trekkingowe do krateru.",
+      "gygQuery": "Mount Karthala"
+    },
+    {
+      "name": "Park Morski Mohéli",
+      "text": "Pierwszy i jedyny park morski na Komorach, chroniący rafy koralowe, namorzyny i zielone żółwie morskie, idealny do nurkowania i snorkelingu.",
+      "gygQuery": "Moheli Marine Park"
+    },
+    {
+      "name": "Moroni Old Town",
+      "text": "Stara część stolicy Moroni na Wielkim Komorze, z labiryntem wąskich uliczek, zabytkowymi meczetami i tętniącym życiem rynkiem.",
+      "gygQuery": "Moroni Old Town"
+    },
+    {
+      "name": "Lac Salé",
+      "text": "Słone jezioro wulkaniczne na Wielkim Komorze, otoczone legendami i malowniczymi krajobrazami, stanowiące unikalną atrakcję przyrodniczą.",
+      "gygQuery": "Lac Salé"
+    },
+    {
+      "name": "Plaża Chomoni",
+      "text": "Jedna z piękniejszych plaż na Wielkim Komorze, z białym piaskiem i turkusową wodą, idealna do relaksu i pływania.",
+      "gygQuery": "Chomoni Beach"
+    },
+    {
+      "name": "Wodospad Dziancoundré",
+      "text": "Malowniczy wodospad na wyspie Anjouan, otoczony bujną tropikalną roślinnością, będący popularnym miejscem do wędrówek i podziwiania natury.",
+      "gygQuery": "Dziancoundré waterfall"
+    },
+    {
+      "name": "Plantacje przypraw",
+      "text": "Liczne plantacje wanilii, goździków i ylang-ylang, zwłaszcza na Anjouan, gdzie można poznać proces uprawy i produkcji tych egzotycznych aromatów.",
+      "gygQuery": "Comoros spice plantations"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia komoryjska to fascynująca mieszanka wpływów afrykańskich, arabskich, indyjskich i francuskich, z silnym naciskiem na świeże owoce morza i lokalne przyprawy. Podstawą wielu dań jest ryż, często podawany z gulaszami rybnymi lub mięsnymi, takimi jak pilao (ryż z mięsem i przyprawami) czy mkatra foutra (chlebek kokosowy). Popularne są także świeże ryby i owoce morza, przygotowywane na wiele sposobów, często z dodatkiem mleka kokosowego i intensywnych przypraw. Warto spróbować lokalnych owoców, takich jak mango, papaja czy liczi, a także świeżo wyciskanych soków i herbaty z imbirem. Kuchnia jest prosta, ale pełna smaku i aromatów."
+  ],
+  "faq": [
+    {
+      "q": "Czy na Komorach jest bezpiecznie dla turystów?",
+      "a": "Komory są generalnie bezpiecznym krajem, ale zaleca się zachowanie podstawowej ostrożności, zwłaszcza w miastach i po zmroku. Należy unikać pokazywania drogocennych przedmiotów i zawsze śledzić komunikaty Ministerstwa Spraw Zagranicznych."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu na Komory?",
+      "a": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy od daty wjazdu oraz wizy, którą można uzyskać po przylocie na lotnisku w Moroni. Zawsze warto sprawdzić aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Czy na Komorach występuje malaria?",
+      "a": "Tak, na Komorach występuje ryzyko malarii oraz innych chorób tropikalnych, takich jak denga. Zaleca się stosowanie profilaktyki przeciwmalarycznej, repelentów i konsultację z lekarzem medycyny podróży przed wyjazdem."
+    },
+    {
+      "q": "Jaki jest najlepszy sposób poruszania się po Komorach?",
+      "a": "Między wyspami można podróżować małymi samolotami lub łodziami. Na samych wyspach najpopularniejsze są taksówki, minibusy (tzw. 'taxi-brousse') oraz wynajęte samochody z kierowcą. Drogi są często w złym stanie, więc transport może być czasochłonny."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

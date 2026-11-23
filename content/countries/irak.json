@@ -1,0 +1,155 @@
+{
+  "slug": "irak",
+  "loc": "w Iraku",
+  "to": "do Iraku",
+  "capital": "Bagdad",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Iraq",
+  "teaser": "Irak to kolebka cywilizacji, ziemia starożytnej Mezopotamii. Podróż tu to wyzwanie, ale i szansa na odkrycie niezwykłej historii.",
+  "intro": [
+    "Irak, kolebka cywilizacji, to kraj o nieprawdopodobnie bogatej historii, gdzie narodziły się pierwsze miasta i pisane prawa. To destynacja dla prawdziwych odkrywców i pasjonatów archeologii, którzy szukają autentycznych, niezatłoczonych szlaków. Nie jest to miejsce na typowe wakacje, ale raczej na głęboką podróż w czasie, do korzeni ludzkości. Przyciąga tych, którzy chcą zobaczyć na własne oczy miejsca znane z podręczników historii.",
+    "Podróżowanie po Iraku wymaga starannego planowania, elastyczności i świadomości lokalnych realiów. Infrastruktura turystyczna jest bardzo ograniczona, a bezpieczeństwo pozostaje kluczową kwestią. Zwykle podróżuje się z lokalnym przewodnikiem lub w ramach zorganizowanych grup, co jest najbezpieczniejszą opcją. Nie spodziewaj się luksusów ani zachodnich udogodnień na każdym kroku.",
+    "Z Polski do Iraku nie ma bezpośrednich lotów, więc konieczne są przesiadki, najczęściej w Stambule, Dubaju czy Dohy. Przed wyjazdem Polacy muszą uzyskać wizę, a jej warunki mogą się zmieniać, dlatego zawsze należy sprawdzić aktualne wymogi w ambasadzie. Różnica czasu to +2 godziny względem Polski, co ułatwia aklimatyzację."
+  ],
+  "highlights": [
+    "Starożytne ruiny Babilonu i Ur",
+    "Tętniące życiem bazary Bagdadu",
+    "Ziggurat w Ur - symbol Mezopotamii",
+    "Wielki Minaret w Samarze",
+    "Gościnność lokalnej ludności",
+    "Muzeum Narodowe Iraku w Bagdadzie"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Iraku to wiosna (marzec-kwiecień) oraz jesień (październik-listopad). W tych miesiącach temperatury są umiarkowane i sprzyjają zwiedzaniu. Lato (od maja do września) jest ekstremalnie gorące, z temperaturami często przekraczającymi 40 stopni Celsjusza, co czyni podróżowanie bardzo uciążliwym. Zimą jest chłodniej, ale mogą występować opady deszczu.",
+    "best": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "ok": [
+      2,
+      5,
+      9,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      16,
+      19,
+      24,
+      30,
+      37,
+      41,
+      43,
+      43,
+      40,
+      33,
+      24,
+      18
+    ],
+    "sea": null,
+    "note": "dla Bagdadu"
+  },
+  "practical": {
+    "flight": "około 7-9 h z jedną przesiadką",
+    "timeDiff": "+2 h względem Polski",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać w ambasadzie Iraku przed wyjazdem. Wyjątkiem jest Iracki Kurdystan, gdzie wizę można często otrzymać na lotnisku. Zawsze sprawdź aktualne wymogi wizowe w Ambasadzie Iraku w Warszawie.",
+    "money": "Oficjalną walutą jest dinar iracki (IQD). Płatności kartą są bardzo ograniczone, zwłaszcza poza dużymi miastami. Zdecydowanie zaleca się posiadanie gotówki. Dostęp do bankomatów jest sporadyczny.",
+    "plugs": "Gniazdka typu C, D i G. Zaleca się zabranie uniwersalnego adaptera. Napięcie 230 V, częstotliwość 50 Hz.",
+    "language": "Główne języki to arabski, aramejski i sorani (dialekt kurdyjski). Angielski jest słabo rozpowszechniony poza nielicznymi obszarami turystycznymi i biznesowymi. Pomocny będzie słownik lub tłumacz.",
+    "safety": "Irak jest krajem o podwyższonym ryzyku bezpieczeństwa ze względu na niestabilną sytuację polityczną i zagrożenie terroryzmem. Ministerstwo Spraw Zagranicznych odradza wszelkie podróże, które nie są konieczne. Jeśli zdecydujesz się na wyjazd, podróżuj z doświadczonym lokalnym przewodnikiem, unikaj zgromadzeń i śledź na bieżąco komunikaty władz. Ubezpieczenie podróżne jest absolutnie niezbędne."
+  },
+  "regions": [
+    {
+      "slug": "starozytna-mezopotamia",
+      "name": "Starożytna Mezopotamia (Południe)",
+      "loc": "w południowym Iraku",
+      "type": "region",
+      "gygQuery": "Ancient Mesopotamia Iraq",
+      "airport": "BSR",
+      "forWhom": "Dla pasjonatów archeologii, kolebki cywilizacji i biblijnych historii.",
+      "intro": [
+        "Południowy Irak to serce starożytnej Mezopotamii, gdzie narodziły się cywilizacje Sumerów, Akadyjczyków i Babilończyków. To tutaj znajdują się ruiny legendarnych miast, takich jak Ur, Babilon czy Uruk. Podróżowanie po tym regionie to prawdziwa lekcja historii na żywo, choć wymaga szczególnej ostrożności i organizacji. To kwintesencja tego, co Irak ma do zaoferowania miłośnikom historii.",
+        "Odwiedź ziggurat w Ur, uważany za miejsce narodzin Abrahama, podziwiaj zrekonstruowane bramy Isztar w Babilonie i poczuj ducha starożytności. Region ten obejmuje również bagna Mezopotamii, unikalny ekosystem, który warto poznać. Ze względu na delikatną sytuację bezpieczeństwa, podróżowanie w tym rejonie powinno odbywać się wyłącznie z zaufanym lokalnym przewodnikiem."
+      ],
+      "highlights": [
+        "Ruiny Babilonu",
+        "Ziggurat w Ur",
+        "Starożytne miasto Hatra (UNESCO)",
+        "Bagna Mezopotamii"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Babilon",
+      "text": "Ruiny starożytnego miasta, kolebki cywilizacji mezopotamskiej, z legendarną Bramą Isztar i śladami Wiszących Ogrodów.",
+      "gygQuery": "Babylon Iraq"
+    },
+    {
+      "name": "Ur",
+      "text": "Miejsce narodzin Abrahama, z monumentalnym zigguratem, jednym z najlepiej zachowanych przykładów sumeryjskiej architektury.",
+      "gygQuery": "Ur Ziggurat"
+    },
+    {
+      "name": "Hatra",
+      "text": "Starożytne miasto partyjskie, wpisane na listę UNESCO, znane z imponujących świątyń i fortyfikacji.",
+      "gygQuery": "Hatra Iraq"
+    },
+    {
+      "name": "Wielki Minaret w Samarze",
+      "text": "Spiralny minaret Malwiya, część dawnego Wielkiego Meczetu w Samarze, symbol miasta i unikalny przykład architektury islamskiej.",
+      "gygQuery": "Samarra Malwiya Minaret"
+    },
+    {
+      "name": "Muzeum Narodowe Iraku w Bagdadzie",
+      "text": "Przechowuje bezcenne artefakty z całej historii Mezopotamii, od prehistorii po czasy islamskie.",
+      "gygQuery": "Iraq National Museum Baghdad"
+    },
+    {
+      "name": "Bagna Mezopotamii",
+      "text": "Unikalny ekosystem na południu Iraku, historycznie zamieszkiwany przez Arabów Bagiennych, wpisany na listę UNESCO.",
+      "gygQuery": "Mesopotamian Marshes"
+    },
+    {
+      "name": "Cytadela w Erbilu",
+      "text": "Jedna z najstarszych nieprzerwanie zamieszkanych osad na świecie, górująca nad stolicą Irackiego Kurdystanu.",
+      "gygQuery": "Erbil Citadel"
+    },
+    {
+      "name": "Święte Miasta Karbala i Najaf",
+      "text": "Ważne ośrodki pielgrzymkowe szyickiego islamu, z imponującymi meczetami i mauzoleami.",
+      "gygQuery": "Karbala Najaf Shrines"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia iracka to mieszanka wpływów mezopotamskich, perskich, tureckich i arabskich, charakteryzująca się bogactwem smaków i aromatów. Podstawą są ryż, pszenica, mięso (głównie jagnięcina i wołowina), ryby z Tygrysu i Eufratu oraz świeże warzywa. Popularne dania to kebab, kofta, pilaw, dolma (faszerowane warzywa) i masgouf (pieczona ryba). Irakijczycy są niezwykle gościnni, a posiłki to często długie, rodzinne celebracje. Nie brakuje też słodkości, takich jak baklava czy daktyle."
+  ],
+  "faq": [
+    {
+      "q": "Czy Irak jest bezpiecznym krajem dla turystów?",
+      "a": "Irak jest krajem o podwyższonym ryzyku bezpieczeństwa. Ministerstwo Spraw Zagranicznych odradza podróże, które nie są konieczne. Podróżowanie jest możliwe, ale wymaga ostrożności, planowania i często wsparcia lokalnego przewodnika."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Iraku?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Iraku, którą należy uzyskać w Ambasadzie Iraku przed wyjazdem. Wyjątkiem jest Iracki Kurdystan, gdzie wizę można otrzymać na lotnisku."
+    },
+    {
+      "q": "Jakie są główne atrakcje turystyczne w Iraku?",
+      "a": "Do głównych atrakcji należą starożytne ruiny Babilonu i Ur, ziggurat w Ur, Muzeum Narodowe Iraku w Bagdadzie, Cytadela w Erbilu oraz święte miasta Karbala i Najaf."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Iraku?",
+      "a": "Ze względu na kwestie bezpieczeństwa i ograniczoną infrastrukturę, zaleca się podróżowanie z zaufanym lokalnym przewodnikiem lub w ramach zorganizowanej wycieczki. Transport publiczny jest słabo rozwinięty, a wynajem samochodu z kierowcą jest często niezbędny."
+    },
+    {
+      "q": "Jaka jest waluta w Iraku i czy można płacić kartą?",
+      "a": "Walutą jest dinar iracki (IQD). Płatności kartą są bardzo ograniczone, zwłaszcza poza dużymi miastami. Zaleca się posiadanie gotówki na większość wydatków."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

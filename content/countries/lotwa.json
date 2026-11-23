@@ -1,0 +1,194 @@
+{
+  "slug": "lotwa",
+  "loc": "na Łotwie",
+  "to": "na Łotwę",
+  "capital": "Ryga",
+  "popularity": 25,
+  "touroperator": false,
+  "gygQuery": "Latvia",
+  "teaser": "Łotwa to bałtycki kraj o bogatej historii, pięknej architekturze Rygi i rozległych lasach. Idealna na city break i kontakt z naturą.",
+  "intro": [
+    "Łotwa, perła Bałtyku, przyciąga podróżnych unikalnym połączeniem średniowiecznej historii, secesyjnej architektury i dzikiej, nieskażonej natury. Stolica, Ryga, zachwyca starówką wpisaną na listę UNESCO, tętniącą życiem i pełną uroczych zakamarków. Poza miastem czekają rozległe plaże Morza Bałtyckiego, gęste lasy i parki narodowe, oferujące spokój i możliwość aktywnego wypoczynku. To kraj, który potrafi zaskoczyć swoją różnorodnością i autentycznością.",
+    "Łotwa to doskonały kierunek dla tych, którzy szukają czegoś więcej niż typowego kurortu. Spodoba się miłośnikom historii i architektury, którzy docenią urok Rygi i pałaców, a także poszukiwaczom spokoju i kontaktu z naturą. Aktywni turyści znajdą tu szlaki piesze i rowerowe, kajakowe spływy oraz możliwość obserwacji dzikiej przyrody. To także świetna opcja na weekendowy wypad lub dłuższą podróż objazdową po krajach bałtyckich.",
+    "Z Polski na Łotwę najłatwiej dostać się samolotem - bezpośrednie loty do Rygi (RIX) trwają około 1,5 godziny i są dostępne z kilku polskich miast. Możliwa jest również podróż samochodem, co pozwala na swobodne zwiedzanie kraju. Granice można przekraczać na podstawie dowodu osobistego lub paszportu, jako że Łotwa należy do Unii Europejskiej i strefy Schengen. Różnica czasu względem Polski nie występuje, co ułatwia adaptację i planowanie."
+  ],
+  "highlights": [
+    "Secesyjna architektura Rygi",
+    "Urokliwa starówka Rygi (UNESCO)",
+    "Piaszczyste plaże Jūrmali",
+    "Malowniczy Park Narodowy Gauja",
+    "Pałac Rundāle - barokowa perła",
+    "Dzika przyroda i lasy"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Łotwy to miesiące letnie, od czerwca do sierpnia, kiedy temperatury są najwyższe, a dni długie i słoneczne. To idealny okres na plażowanie w Jūrmali, zwiedzanie miast i aktywności na świeżym powietrzu. Wiosna (maj) i wczesna jesień (wrzesień) oferują przyjemne temperatury i mniej turystów, co sprzyja zwiedzaniu. Zima, choć mroźna, potrafi urzec śnieżnymi krajobrazami.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      -2,
+      -2,
+      3,
+      10,
+      16,
+      20,
+      23,
+      22,
+      17,
+      10,
+      4,
+      0
+    ],
+    "sea": [
+      1,
+      1,
+      2,
+      5,
+      10,
+      16,
+      19,
+      19,
+      16,
+      11,
+      6,
+      3
+    ],
+    "note": "Ryga"
+  },
+  "practical": {
+    "flight": "około 1 h 30 min",
+    "timeDiff": "brak",
+    "documents": "Dla obywateli Polski wystarczy ważny dowód osobisty lub paszport. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronie MSZ.",
+    "money": "Walutą jest euro (EUR). Płatności kartą są powszechne, zwłaszcza w miastach. Gotówka przyda się na mniejszych targach czy w odleglejszych miejscowościach.",
+    "plugs": "Typ F (Schuko) i C, takie same jak w Polsce (230 V, 50 Hz). Nie potrzeba adapterów.",
+    "language": "Oficjalnym językiem jest łotewski. W dużych miastach i miejscach turystycznych bez problemu porozumiesz się po angielsku. Często usłyszysz też rosyjski.",
+    "safety": "Łotwa jest krajem bezpiecznym. Należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach. Opieka medyczna jest dostępna, zaleca się posiadanie karty EKUZ."
+  },
+  "regions": [
+    {
+      "slug": "ryga",
+      "name": "Ryga",
+      "loc": "w Rydze",
+      "type": "miasto",
+      "gygQuery": "Riga",
+      "airport": "RIX",
+      "forWhom": "Idealna dla miłośników architektury, historii i miejskiego życia.",
+      "intro": [
+        "Ryga, stolica Łotwy, to prawdziwa perła Bałtyku, słynąca z imponującej architektury secesyjnej i urokliwej starówki wpisanej na listę światowego dziedzictwa UNESCO. Spacerując brukowanymi uliczkami, można podziwiać zabytkowe kamienice, gotyckie kościoły i urokliwe place. Miasto tętni życiem, oferując liczne kawiarnie, restauracje i galerie, które zapraszają do spędzenia czasu.",
+        "Poza Starówką warto odkryć dzielnicę secesyjną, gdzie ponad 800 budynków prezentuje niezwykłe zdobienia i detale architektoniczne. Ryga to także centrum kultury i sztuki, z licznymi muzeami, teatrami i salami koncertowymi. Centralny Rynek, mieszczący się w dawnych hangarach sterowców, to doskonałe miejsce na spróbowanie lokalnych przysmaków i poczucie autentycznej atmosfery miasta."
+      ],
+      "highlights": [
+        "Starówka UNESCO",
+        "Architektura secesyjna",
+        "Katedra Ryska",
+        "Centralny Rynek"
+      ]
+    },
+    {
+      "slug": "jurmala",
+      "name": "Jūrmala",
+      "loc": "w Jūrmali",
+      "type": "kurort",
+      "gygQuery": "Jurmala",
+      "airport": "RIX",
+      "forWhom": "Doskonała dla szukających relaksu na plaży i spacerów po malowniczym kurorcie.",
+      "intro": [
+        "Jūrmala to największy kurort nadmorski Łotwy, położony zaledwie kilkanaście kilometrów od Rygi. Słynie z długich, piaszczystych plaż, sosnowych lasów i charakterystycznej drewnianej architektury, która nadaje mu unikalny, nieco sentymentalny charakter. To idealne miejsce na letni wypoczynek, spacery wzdłuż morza i korzystanie z uroków bałtyckiego klimatu.",
+        "Główna ulica, Jomas iela, to tętniący życiem deptak pełen restauracji, kawiarni i sklepów. Jūrmala oferuje również liczne sanatoria i centra spa, gdzie można skorzystać z zabiegów leczniczych i relaksacyjnych. To świetna propozycja zarówno dla rodzin z dziećmi, jak i par szukających romantycznego miejsca na wakacje."
+      ],
+      "highlights": [
+        "Piaszczyste plaże",
+        "Drewniana architektura",
+        "Deptak Jomas iela",
+        "Parki i sosnowe lasy"
+      ]
+    },
+    {
+      "slug": "park-narodowy-gauja",
+      "name": "Park Narodowy Gauja",
+      "loc": "w Parku Narodowym Gauja",
+      "type": "park narodowy",
+      "gygQuery": "Gauja National Park",
+      "airport": "RIX",
+      "forWhom": "Prawdziwa gratka dla miłośników przyrody, aktywnego wypoczynku i średniowiecznych zamków.",
+      "intro": [
+        "Park Narodowy Gauja, nazywany często 'Łotewską Szwajcarią', to największy i najstarszy park narodowy w kraju. Charakteryzuje się malowniczymi dolinami rzeki Gauja, stromymi klifami z piaskowca, gęstymi lasami i licznymi jaskiniami. To raj dla piechurów, rowerzystów i kajakarzy, oferujący niezliczone szlaki i możliwości aktywnego spędzania czasu na łonie natury.",
+        "Na terenie parku znajdują się również średniowieczne zamki, takie jak Cēsis, Turaida i Sigulda, które dodają temu miejscu historycznego uroku. Można tu podziwiać imponujące widoki, odkrywać tajemnicze jaskinie, a nawet spróbować swoich sił na jedynym w krajach bałtyckich torze bobslejowym. To doskonałe miejsce na ucieczkę od zgiełku miasta i zanurzenie się w piękno łotewskiej przyrody."
+      ],
+      "highlights": [
+        "Dolina rzeki Gauja",
+        "Zamki Cēsis i Turaida",
+        "Jaskinie Gutmaņa ala",
+        "Tor bobslejowy w Siguldzie"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare Miasto w Rydze",
+      "text": "Wpisane na listę UNESCO, zachwyca brukowanymi uliczkami, gotyckimi kościołami i kolorowymi kamienicami.",
+      "gygQuery": "Riga Old Town"
+    },
+    {
+      "name": "Dzielnica Secesyjna w Rydze",
+      "text": "Ponad 800 budynków w stylu Art Nouveau, z niezwykłymi fasadami i detalami, świadczącymi o bogactwie miasta.",
+      "gygQuery": "Riga Art Nouveau"
+    },
+    {
+      "name": "Pałac Rundāle",
+      "text": "Barokowa rezydencja, często porównywana do Wersalu, z pięknymi ogrodami i bogato zdobionymi wnętrzami.",
+      "gygQuery": "Rundale Palace"
+    },
+    {
+      "name": "Zamek Turaida",
+      "text": "Ceglany zamek z XIII wieku, położony w Parku Narodowym Gauja, oferujący panoramiczne widoki na dolinę rzeki.",
+      "gygQuery": "Turaida Castle"
+    },
+    {
+      "name": "Przylądek Kolka",
+      "text": "Miejsce, gdzie spotykają się wody Bałtyku i Zatoki Ryskiej, znane z latarni morskiej i dzikich plaż.",
+      "gygQuery": "Cape Kolka"
+    },
+    {
+      "name": "Centralny Rynek w Rydze",
+      "text": "Jeden z największych rynków w Europie, mieszczący się w dawnych hangarach sterowców, pełen lokalnych produktów.",
+      "gygQuery": "Riga Central Market"
+    },
+    {
+      "name": "Kuldīga",
+      "text": "Urokliwe miasteczko z zabytkową architekturą i najszerszym wodospadem w Europie, Ventas Rumba.",
+      "gygQuery": "Kuldiga"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia łotewska jest sycąca i prosta, z silnymi wpływami niemieckimi i rosyjskimi. Podstawą są ziemniaki, kapusta, wieprzowina i ryby, zwłaszcza śledzie. Warto spróbować 'rupjmaize' - ciemnego chleba żytniego, 'skābputra' - zupy z kaszy i kefiru, czy 'karbonāde' - kotleta schabowego. Popularne są także dania z grzybów i jagód, a także 'biešu zupa' - zupa buraczkowa. Na deser często podaje się 'rupjmaizes kārtojums' - warstwową deser z chleba żytniego i śmietany. Do posiłku często pije się kwas chlebowy lub piwo."
+  ],
+  "faq": [
+    {
+      "q": "Czy Łotwa jest drogim krajem dla turystów?",
+      "a": "Łotwa, w porównaniu do krajów zachodniej Europy, jest umiarkowanie droga. Ceny w Rydze są wyższe niż na prowincji, ale wciąż przystępne. Noclegi, jedzenie i transport są zazwyczaj tańsze niż w Polsce."
+    },
+    {
+      "q": "Co warto zobaczyć w Rydze poza Starówką?",
+      "a": "Poza Starówką koniecznie zobacz Dzielnicę Secesyjną z jej unikalną architekturą, odwiedź Centralny Rynek oraz Muzeum Okupacji Łotwy, aby poznać historię kraju."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Łotwie?",
+      "a": "Po Rydze najlepiej poruszać się pieszo lub komunikacją miejską. Do innych miast i Parku Narodowego Gauja można dojechać pociągiem lub autobusem. Wynajem samochodu jest dobrym rozwiązaniem dla osób planujących zwiedzanie prowincji."
+    },
+    {
+      "q": "Czy Łotwa jest bezpieczna dla samotnie podróżujących kobiet?",
+      "a": "Tak, Łotwa jest generalnie bezpiecznym krajem, również dla samotnie podróżujących kobiet. Należy zachować standardowe środki ostrożności, zwłaszcza wieczorem w mniej uczęszczanych miejscach, ale ryzyko jest niskie."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "indie",
+  "loc": "w Indiach",
+  "to": "do Indii",
+  "capital": "Nowe Delhi",
+  "popularity": 35,
+  "touroperator": true,
+  "gygQuery": "India",
+  "teaser": "Indie to kraj kontrastów, gdzie duchowość spotyka się z chaosem, a starożytne tradycje z nowoczesnością. Przygotuj się na podróż, która zmieni Twoje postrzeganie świata.",
+  "intro": [
+    "Indie to kraj, który pochłania wszystkie zmysły i nie pozostawia nikogo obojętnym. Od majestatycznych Himalajów na północy, przez pustynne krajobrazy Radżastanu, po tropikalne plaże Goa i zielone kanały Kerali na południu, Indie oferują niewiarygodną różnorodność. To mozaika kultur, religii i języków, gdzie każdy dzień przynosi nowe odkrycia, intensywne zapachy przypraw, tętniące życiem bazary i zapierające dech w piersiach zabytki.",
+    "Podróż do Indii to propozycja dla doświadczonych i otwartych podróżników, którzy szukają autentycznych doświadczeń, a nie wygód typowego kurortu. To kraj dla tych, którzy nie boją się wyzwań, są gotowi na kulturowy szok i potrafią czerpać radość z chaosu i spontaniczności. Nie jest to cel dla osób szukających all inclusive czy sterylnych warunków, ale dla tych, którzy pragną głęboko zanurzyć się w inną cywilizację.",
+    "Z Polski do Indii dostaniesz się samolotem, najczęściej z jedną przesiadką, co zajmuje około 8-10 godzin. Najpopularniejsze lotniska to Delhi (DEL) i Bombaj (BOM), skąd łatwo dotrzeć do innych regionów kraju. Przed wyjazdem należy pamiętać o wyrobieniu wizy turystycznej oraz o odpowiednich szczepieniach, co jest kluczowe dla zdrowia i bezpieczeństwa podczas podróży."
+  ],
+  "highlights": [
+    "Tadż Mahal w Agrze",
+    "Złota Świątynia w Amritsarze",
+    "Plaże Goa",
+    "Kolorowy Radżastan",
+    "Rytuały nad Gangesem w Waranasi",
+    "Himalajskie krajobrazy"
+  ],
+  "bestTime": {
+    "text": "Indie to kraj o ogromnej powierzchni i zróżnicowanym klimacie, dlatego najlepszy czas na podróż zależy od regionu. Generalnie, najkorzystniejsza pora to chłodna i sucha zima, trwająca od października do marca, kiedy temperatury są przyjemne, a monsun ustępuje. W tym okresie można komfortowo zwiedzać większość kraju, w tym Radżastan, Delhi czy Waranasi. Na południu, w Kerali czy na Goa, również panują wtedy idealne warunki do wypoczynku. Wiosna (kwiecień-maj) przynosi upały, a lato (czerwiec-wrzesień) to pora monsunowa, charakteryzująca się intensywnymi deszczami i wysoką wilgotnością, co utrudnia podróżowanie, choć niektóre regiony, jak Ladakh, są wtedy dostępne.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": []
+  },
+  "climate": {
+    "air": [
+      20,
+      24,
+      30,
+      36,
+      40,
+      39,
+      35,
+      34,
+      34,
+      33,
+      28,
+      23
+    ],
+    "sea": null,
+    "note": "dla Delhi, Indie Północne"
+  },
+  "practical": {
+    "flight": "około 8-10 h z przesiadką",
+    "timeDiff": "UTC+5:30, czyli +4,5 h względem Polski (czas letni) lub +3,5 h (czas zimowy)",
+    "documents": "Wiza jest wymagana. Obywatele Polski muszą posiadać ważną wizę turystyczną, którą można uzyskać online (e-wiza) przed podróżą. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Zawsze należy sprawdzić aktualne wymogi wizowe i paszportowe przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest rupia indyjska (INR). Płatności kartą są możliwe w większych miastach i hotelach, ale gotówka jest niezbędna, zwłaszcza w mniejszych miejscowościach i na targach. Bankomaty są dostępne.",
+    "plugs": "Typ C, D i M. Zaleca się zabranie adaptera uniwersalnego.",
+    "language": "Angielski, hindi, tamilski. Angielski jest szeroko używany w turystyce i biznesie.",
+    "safety": "Poziom bezpieczeństwa jest zróżnicowany. Należy zachować ostrożność, zwłaszcza w dużych miastach i miejscach zatłoczonych. Uważać na kradzieże kieszonkowe. Zaleca się unikanie samotnych podróży po zmroku, szczególnie kobietom. Konieczne są szczepienia ochronne (np. tężec, dur brzuszny, WZW A i B) oraz profilaktyka antymalaryczna w niektórych regionach. Woda z kranu nie nadaje się do picia."
+  },
+  "regions": [
+    {
+      "slug": "radzastan",
+      "name": "Radżastan",
+      "loc": "w Radżastanie",
+      "type": "region",
+      "gygQuery": "Rajasthan",
+      "airport": "JAI",
+      "forWhom": "Dla miłośników historii, pałaców i pustynnych krajobrazów.",
+      "intro": [
+        "Radżastan, znany jako Kraina Królów, to kwintesencja bajkowych Indii, pełna majestatycznych fortów, pałaców i tętniących życiem miast. Jaipur, Jodhpur, Udaipur i Jaisalmer to perły tego regionu, każda z nich oferująca unikalne doświadczenia i niezliczone zabytki. Podróżując po Radżastanie, poczujesz się jak w baśni z Tysiąca i Jednej Nocy, odkrywając bogatą historię maharadżów i ich niezwykłe dziedzictwo.",
+        "Region ten słynie z kolorowych festiwali, rękodzieła i tradycyjnej muzyki. Możesz zwiedzać pustynne forty, podziwiać architekturę haveli, a nawet wybrać się na przejażdżkę na wielbłądzie po wydmach Thar. Radżastan to idealne miejsce dla tych, którzy pragną zanurzyć się w indyjskiej kulturze i zobaczyć jej najbardziej spektakularne oblicze."
+      ],
+      "highlights": [
+        "Pałac Wiatrów (Hawa Mahal), Jaipur",
+        "Fort Amber, Jaipur",
+        "Jezioro Pichola, Udaipur",
+        "Pustynia Thar i Jaisalmer"
+      ]
+    },
+    {
+      "slug": "goa",
+      "name": "Goa",
+      "loc": "na Goa",
+      "type": "kurort",
+      "gygQuery": "Goa",
+      "airport": "GOI",
+      "forWhom": "Dla tych, którzy szukają relaksu na plaży i luzu.",
+      "intro": [
+        "Goa to najmniejszy stan Indii, ale jeden z najbardziej popularnych wśród turystów, słynący z pięknych plaż, bujnej roślinności i unikalnej kultury, będącej mieszanką wpływów indyjskich i portugalskich. To idealne miejsce na odpoczynek po intensywnym zwiedzaniu innych regionów kraju. Znajdziesz tu zarówno tętniące życiem kurorty z barami i restauracjami, jak i spokojne, ustronne zatoczki.",
+        "Goa oferuje szeroki wachlarz aktywności - od sportów wodnych, przez jogę i medytację, po zwiedzanie kolonialnych kościołów i świątyń. Możesz delektować się świeżymi owocami morza, relaksować na złotych piaskach i podziwiać zachody słońca. To miejsce, gdzie czas płynie wolniej, a atmosfera sprzyja odprężeniu i regeneracji."
+      ],
+      "highlights": [
+        "Plaża Palolem",
+        "Stare Goa i katedra Se",
+        "Targ nocny w Arporze",
+        "Wodospad Dudhsagar"
+      ]
+    },
+    {
+      "slug": "delhi",
+      "name": "Delhi",
+      "loc": "w Delhi",
+      "type": "miasto",
+      "gygQuery": "Delhi",
+      "airport": "DEL",
+      "forWhom": "Dla odkrywców tętniącej życiem stolicy i jej zabytków.",
+      "intro": [
+        "Delhi, stolica Indii, to metropolia pełna kontrastów, gdzie starożytne zabytki stoją obok nowoczesnych drapaczy chmur. Miasto dzieli się na Stare Delhi, z wąskimi uliczkami, tętniącymi życiem bazarami i historycznymi meczetami, oraz Nowe Delhi, charakteryzujące się szerokimi alejami, monumentalnymi budynkami rządowymi i zielonymi parkami. To prawdziwa brama do Indii i obowiązkowy punkt na trasie każdego podróżnika.",
+        "W Delhi znajdziesz liczne atrakcje, takie jak Czerwony Fort, Qutub Minar, Brama Indii, grobowiec Humayuna czy świątynia Lotosu. To miasto, które nigdy nie śpi, oferujące niezliczone możliwości kulinarne, kulturalne i zakupowe. Przygotuj się na intensywne doświadczenia, które pobudzą wszystkie zmysły."
+      ],
+      "highlights": [
+        "Czerwony Fort",
+        "Qutub Minar",
+        "Brama Indii",
+        "Grobowiec Humayuna"
+      ]
+    },
+    {
+      "slug": "waranasi",
+      "name": "Waranasi",
+      "loc": "w Waranasi",
+      "type": "miasto",
+      "gygQuery": "Varanasi",
+      "airport": "VNS",
+      "forWhom": "Dla szukających duchowych doświadczeń i autentycznej kultury.",
+      "intro": [
+        "Waranasi, jedno z najstarszych nieprzerwanie zamieszkałych miast na świecie, jest duchowym sercem Indii i świętym miejscem dla hinduistów. Położone nad brzegami świętej rzeki Ganges, przyciąga pielgrzymów i turystów z całego świata, pragnących doświadczyć unikalnej atmosfery rytuałów i ceremonii. To miasto życia, śmierci i odrodzenia, które głęboko porusza i zostaje w pamięci na długo.",
+        "Waranasi słynie z ghatów - kamiennych schodów prowadzących do Gangesu, gdzie odbywają się codzienne rytuały ablucji, modlitwy i kremacje. Rejs łodzią o świcie po Gangesie to niezapomniane przeżycie, pozwalające obserwować życie toczące się wokół rzeki. Miasto jest labiryntem wąskich uliczek, pełnych świątyń, straganów i ascetów, oferującym autentyczny wgląd w indyjską duchowość."
+      ],
+      "highlights": [
+        "Ghaty nad Gangesem",
+        "Rejs łodzią o świcie",
+        "Świątynia Kashi Vishwanath",
+        "Sarnath (miejsce nauczania Buddy)"
+      ]
+    },
+    {
+      "slug": "kerala",
+      "name": "Kerala",
+      "loc": "w Kerali",
+      "type": "region",
+      "gygQuery": "Kerala",
+      "airport": "COK",
+      "forWhom": "Dla pragnących zielonych krajobrazów, ajurwedy i rejsów po backwaters.",
+      "intro": [
+        "Kerala, zwana Krainą Bogów, to zielony, tropikalny raj na południu Indii, słynący z malowniczych backwaters - sieci kanałów, jezior i lagun, bujnych plantacji herbaty i przypraw, oraz tradycyjnych zabiegów ajurwedyjskich. To idealne miejsce na spokojniejszą podróż, z dala od zgiełku północnych Indii. Oferuje relaks, kontakt z naturą i głębokie doświadczenia wellness.",
+        "Rejs tradycyjną łodzią mieszkalną (houseboat) po backwaters to jedna z głównych atrakcji Kerali, pozwalająca podziwiać codzienne życie mieszkańców i tropikalną florę. Możesz także odwiedzić plantacje herbaty w Munnar, spróbować autentycznej kuchni Kerali, a także skorzystać z masaży i terapii ajurwedyjskich, które pomogą Ci odzyskać równowagę i spokój."
+      ],
+      "highlights": [
+        "Rejs po backwaters w Alleppey",
+        "Plantacje herbaty w Munnar",
+        "Zabiegi ajurwedyjskie",
+        "Plaże Kovalam"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Tadż Mahal, Agra",
+      "text": "Symbol miłości i jeden z siedmiu cudów świata, ten biały marmurowy grobowiec to arcydzieło architektury Mogołów, które zachwyca o każdej porze dnia.",
+      "gygQuery": "Taj Mahal"
+    },
+    {
+      "name": "Fort Amber, Jaipur",
+      "text": "Imponujący fort-pałac, położony na wzgórzu, oferuje wspaniałe widoki i labirynty korytarzy, dziedzińców oraz bogato zdobionych komnat.",
+      "gygQuery": "Amber Fort Jaipur"
+    },
+    {
+      "name": "Brama Indii, Delhi",
+      "text": "Monumentalny łuk triumfalny, upamiętniający indyjskich żołnierzy, jest ważnym symbolem narodowym i popularnym miejscem spotkań.",
+      "gygQuery": "India Gate Delhi"
+    },
+    {
+      "name": "Złota Świątynia, Amritsar",
+      "text": "Najświętsze miejsce dla Sikhów, pokryta złotem świątynia otoczona świętym zbiornikiem wodnym, emanuje spokojem i duchową energią.",
+      "gygQuery": "Golden Temple Amritsar"
+    },
+    {
+      "name": "Ganges, Waranasi",
+      "text": "Święta rzeka dla hinduistów, nad którą odbywają się codzienne rytuały, modlitwy i ceremonie, stanowiące serce duchowego życia Indii.",
+      "gygQuery": "Ganges Varanasi"
+    },
+    {
+      "name": "Jaskinie Adżanta i Ellora",
+      "text": "Wykute w skale kompleksy świątyń buddyjskich, hinduistycznych i dżinistycznych, z niezwykłymi freskami i rzeźbami, świadczące o bogactwie starożytnej sztuki indyjskiej.",
+      "gygQuery": "Ajanta Ellora Caves"
+    },
+    {
+      "name": "Plaże Goa",
+      "text": "Długie, piaszczyste wybrzeże z palmami kokosowymi, oferujące zarówno tętniące życiem kurorty, jak i spokojne, ustronne miejsca do relaksu i kąpieli słonecznych.",
+      "gygQuery": "Goa beaches"
+    },
+    {
+      "name": "Backwaters, Kerala",
+      "text": "Malownicza sieć kanałów, jezior i lagun, po których można pływać tradycyjnymi łodziami mieszkalnymi, podziwiając zielone krajobrazy i lokalne życie.",
+      "gygQuery": "Kerala Backwaters"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia indyjska to prawdziwa eksplozja smaków i aromatów, oparta na bogactwie przypraw, świeżych warzyw i różnorodnych chlebków. Jest niezwykle zróżnicowana regionalnie, od pikantnych dań z południa po łagodniejsze, kremowe curry z północy. Wiele potraw jest wegetariańskich, a podstawą są soczewica (dal), ryż, warzywa, sery paneer oraz aromatyczne sosy. Koniecznie spróbuj lokalnych specjałów, takich jak masala dosa, tandoori chicken, biryani czy świeżo wypiekane naan. Street food to integralna część kultury kulinarnej, ale zawsze wybieraj miejsca, gdzie jedzenie jest przygotowywane na bieżąco i wygląda świeżo."
+  ],
+  "faq": [
+    {
+      "q": "Czy Indie są bezpieczne dla kobiet podróżujących samotnie?",
+      "a": "Indie mogą być wyzwaniem dla samotnie podróżujących kobiet. Zaleca się zachowanie szczególnej ostrożności, unikanie samotnych wyjść po zmroku, noszenie skromnego ubioru i korzystanie z zaufanych środków transportu."
+    },
+    {
+      "q": "Co warto zjeść w Indiach?",
+      "a": "Koniecznie spróbuj curry (np. tikka masala, rogan josh), różnorodnych dań wegetariańskich (dal, paneer), chlebków naan i roti, ryżu biryani oraz świeżych soków i lassi."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Indii?",
+      "a": "Tak, obywatele Polski muszą posiadać ważną wizę turystyczną. Można ją uzyskać online (e-wiza) przed podróżą. Zawsze sprawdź aktualne wymogi wizowe na stronie MSZ."
+    },
+    {
+      "q": "Jaki jest najlepszy czas na podróż do Indii?",
+      "a": "Najlepszy czas to okres od października do marca, kiedy panują przyjemne temperatury i sucha pogoda. Unikaj pory monsunowej (czerwiec-wrzesień) ze względu na intensywne deszcze."
+    },
+    {
+      "q": "Jak poruszać się po Indiach?",
+      "a": "Po Indiach można poruszać się pociągami (dobra sieć, różne klasy), autobusami (lokalne i turystyczne), taksówkami (aplikacje takie jak Ola czy Uber) oraz rikszami. Loty krajowe są również popularne na dłuższych trasach."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}
