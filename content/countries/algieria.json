@@ -1,0 +1,202 @@
+{
+  "slug": "algieria",
+  "loc": "w Algierii",
+  "to": "do Algierii",
+  "capital": "Algier",
+  "popularity": 8,
+  "touroperator": false,
+  "gygQuery": "Algeria",
+  "teaser": "Algieria to kraj o bogatej historii, pustynnych krajobrazach Sahary i śródziemnomorskim wybrzeżu. Idealna dla podróżników szukających autentycznych doświadczeń poza utartymi szlakami.",
+  "intro": [
+    "Algieria, największe państwo Afryki, to mozaika kultur i krajobrazów, która wciąż czeka na szersze odkrycie przez turystów. Od tętniących życiem miast nad Morzem Śródziemnym, przez rozległe rzymskie ruiny, po majestatyczne, bezkresne piaski Sahary - kraj ten oferuje niezwykłą podróż w czasie i przestrzeni. To miejsce, gdzie historia starożytna, kolonialna i współczesna splatają się w fascynującą opowieść, widoczną w architekturze i stylu życia. Algieria to także dom dla różnorodnych grup etnicznych, w tym Berberów, którzy wciąż pielęgnują swoje unikalne tradycje.",
+    "Algieria to destynacja dla odważnych i ciekawych świata podróżników, którzy cenią sobie autentyczność i chcą doświadczyć Afryki Północnej z dala od masowej turystyki. Jest to idealny wybór dla miłośników historii, archeologii, pustynnych ekspedycji oraz tych, którzy pragną zanurzyć się w lokalnej kulturze i poznać gościnność mieszkańców. Kraj oferuje zarówno aktywne wyprawy w góry i na pustynię, jak i spokojniejsze zwiedzanie miast i zabytków. To podróż, która wymaga elastyczności i otwartości na nowe doświadczenia, ale w zamian oferuje niezapomniane wspomnienia.",
+    "Podróż z Polski do Algierii zazwyczaj wiąże się z przesiadkami, najczęściej w Paryżu, Frankfurcie lub Stambule, ponieważ bezpośrednie połączenia są rzadkością. Przed wyjazdem konieczne jest uzyskanie wizy, co wymaga wcześniejszego kontaktu z Ambasadą Algierii w Warszawie i zgromadzenia odpowiednich dokumentów. Ze względu na specyfikę kraju i ograniczoną infrastrukturę turystyczną, często zaleca się korzystanie z usług lokalnych przewodników, zwłaszcza podczas wypraw w głąb Sahary. Różnica czasu jest niewielka, co ułatwia adaptację po przylocie."
+  ],
+  "highlights": [
+    "Odkrywanie labiryntów Kasbah w Algierze",
+    "Podziwianie rzymskich ruin Timgad i Djemila",
+    "Wyprawy na Saharę i podziwianie Tassili n'Ajjer",
+    "Poznawanie kultury berberyjskiej w dolinie M'Zab",
+    "Relaks na śródziemnomorskich plażach",
+    "Degustacja tradycyjnej kuchni algierskiej"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Algierii zależy od planowanych aktywności. Na północy kraju, w rejonach wybrzeża i gór, najlepiej jest wiosną (marzec-maj) i jesienią (wrzesień-listopad), kiedy temperatury są umiarkowane i przyjemne do zwiedzania. Lato bywa upalne, zwłaszcza w głębi lądu. Jeśli planujesz wyprawę na Saharę, idealne są miesiące zimowe (listopad-luty), gdy temperatury w dzień są znośne, a noce chłodne. Należy unikać pustyni latem, kiedy upały są ekstremalne.",
+    "best": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "ok": [
+      1,
+      2,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      16,
+      17,
+      19,
+      21,
+      24,
+      28,
+      31,
+      31,
+      28,
+      25,
+      20,
+      17
+    ],
+    "sea": [
+      15,
+      14,
+      15,
+      16,
+      18,
+      22,
+      24,
+      26,
+      25,
+      23,
+      20,
+      17
+    ],
+    "note": "dla Algieru"
+  },
+  "practical": {
+    "flight": "około 6-8 h z przesiadką",
+    "timeDiff": "W czasie polskiego czasu letniego (marzec-październik) Algieria jest 1 godzinę za Polską. W czasie polskiego czasu zimowego (listopad-luty) nie ma różnicy.",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu) oraz wizy. Wizę należy uzyskać w Ambasadzie Algierii w Warszawie przed podróżą. Wymagane są m.in. zaproszenie lub rezerwacja hotelowa. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed wyjazdem, najlepiej bezpośrednio w ambasadzie.",
+    "money": "Walutą Algierii jest dinar algierski (DZD). Wymiana waluty jest możliwa w bankach i niektórych hotelach. Karty kredytowe są akceptowane w większych hotelach i restauracjach, ale w mniejszych miejscowościach i na targach dominuje płatność gotówką. Zaleca się posiadanie gotówki na codzienne wydatki. Bankomaty są dostępne w większych miastach.",
+    "plugs": "Typ C i F (standard europejski). Napięcie 230 V, częstotliwość 50 Hz.",
+    "language": "Oficjalnym językiem jest arabski, powszechnie używany jest także język berberyjski. Francuski jest szeroko rozpowszechniony, zwłaszcza w miastach i w kontaktach biznesowych, co ułatwia komunikację turystom.",
+    "safety": "Ministerstwo Spraw Zagranicznych RP zaleca zachowanie szczególnej ostrożności w Algierii ze względu na zagrożenie terrorystyczne. Należy unikać podróży w rejony przygraniczne z Libią, Mali, Nigrem i Mauretanią. W pozostałych częściach kraju należy zachować czujność, unikać demonstracji i zgromadzeń publicznych oraz śledzić komunikaty władz. Zaleca się wykupienie ubezpieczenia podróżnego. Opieka medyczna jest na różnym poziomie, w większych miastach jest lepsza, ale warto mieć podstawową apteczkę."
+  },
+  "regions": [
+    {
+      "slug": "algier",
+      "name": "Algier",
+      "loc": "w Algierze",
+      "type": "miasto",
+      "gygQuery": "Algiers",
+      "airport": "ALG",
+      "forWhom": "Dla miłośników historii, architektury i miejskiego zgiełku z widokiem na Morze Śródziemne.",
+      "intro": [
+        "Algier, stolica i największe miasto Algierii, to tętniąca życiem metropolia rozciągająca się na wzgórzach nad zatoką Morza Śródziemnego. Miasto, często nazywane 'Białym Algierem' ze względu na dominującą jasną architekturę, oferuje fascynujące połączenie nowoczesności z bogatą historią. Sercem Algieru jest Kasbah, wpisana na listę UNESCO, labirynt wąskich uliczek, meczetów i tradycyjnych domów, które przenoszą w czasy osmańskie.",
+        "Poza Kasbah, Algier zachwyca bulwarami w stylu francuskim, imponującymi budynkami kolonialnymi i zielonymi ogrodami. Warto odwiedzić Bazylikę Notre-Dame d'Afrique, oferującą panoramiczne widoki na miasto i morze, oraz Muzeum Bardo, prezentujące bogate zbiory archeologiczne. Algier to także doskonała baza wypadowa do odkrywania pobliskich plaż i innych atrakcji północnej Algierii."
+      ],
+      "highlights": [
+        "Kasbah - zabytkowa dzielnica",
+        "Bazylika Notre-Dame d'Afrique",
+        "Ogrody Hamma (Jardin d'Essai)",
+        "Muzeum Bardo"
+      ]
+    },
+    {
+      "slug": "tassili-najjer",
+      "name": "Tassili n'Ajjer",
+      "loc": "w Tassili n'Ajjer",
+      "type": "park narodowy",
+      "gygQuery": "Tassili n'Ajjer",
+      "airport": "DJG",
+      "forWhom": "Dla poszukiwaczy pustynnych krajobrazów, prehistorycznej sztuki naskalnej i niezapomnianych widoków Sahary.",
+      "intro": [
+        "Tassili n'Ajjer to jeden z najbardziej spektakularnych parków narodowych na świecie, położony na południowym wschodzie Algierii, w sercu Sahary. Ten rozległy płaskowyż, wpisany na listę światowego dziedzictwa UNESCO, słynie z niezwykłych formacji skalnych, przypominających księżycowy krajobraz, oraz z jednej z największych i najważniejszych kolekcji prehistorycznej sztuki naskalnej. Rysunki i ryty skalne, datowane na tysiące lat, przedstawiają życie ludzi, zwierzęta i sceny z codzienności, świadcząc o dawnej zielonej Saharze.",
+        "Podróż do Tassili n'Ajjer to prawdziwa wyprawa w głąb pustyni, wymagająca dobrego przygotowania i zazwyczaj organizacji przez lokalne agencje turystyczne. Region jest domem dla Tuaregów, którzy są nieodłącznym elementem krajobrazu i kultury. Oprócz sztuki naskalnej, park oferuje niezapomniane widoki, wschody i zachody słońca nad piaskowymi wydmami oraz możliwość doświadczenia autentycznego życia na pustyni. To miejsce, które zostaje w pamięci na długo."
+      ],
+      "highlights": [
+        "Sztuka naskalna i ryty skalne",
+        "Niezwykłe formacje skalne",
+        "Pustynne krajobrazy Sahary",
+        "Spotkania z kulturą Tuaregów"
+      ]
+    },
+    {
+      "slug": "timgad",
+      "name": "Timgad",
+      "loc": "w Timgad",
+      "type": "miasto",
+      "gygQuery": "Timgad Roman ruins",
+      "airport": "BLJ",
+      "forWhom": "Dla fascynatów historii starożytnego Rzymu i archeologii, pragnących podziwiać doskonale zachowane ruiny.",
+      "intro": [
+        "Timgad to jedno z najlepiej zachowanych rzymskich miast w Afryce Północnej, położone u podnóża gór Aures we wschodniej Algierii. Założone jako kolonia wojskowa przez cesarza Trajana około 100 roku n.e., miasto stanowiło wzorowy przykład rzymskiego urbanizmu. Jego ruiny, wpisane na listę UNESCO, obejmują forum, teatr, bibliotekę, świątynie, łaźnie publiczne i łuk triumfalny Trajana, wszystko ułożone w charakterystycznym siatkowym planie.",
+        "Wędrówka po Timgad to podróż w czasie, pozwalająca wyobrazić sobie codzienne życie mieszkańców starożytnego Rzymu. Doskonały stan zachowania wielu budowli sprawia, że jest to jedno z najważniejszych stanowisk archeologicznych na świecie. Timgad to obowiązkowy punkt dla każdego, kto interesuje się antyczną historią i architekturą, oferujący unikalne spojrzenie na rzymską obecność w Afryce."
+      ],
+      "highlights": [
+        "Łuk Triumfalny Trajana",
+        "Forum Romanum",
+        "Teatr rzymski",
+        "Biblioteka i łaźnie publiczne"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kasbah w Algierze",
+      "text": "Historyczna dzielnica Algieru, labirynt wąskich uliczek, domów i meczetów, wpisana na listę UNESCO. To serce miasta, pełne autentycznego życia i osmańskiej architektury.",
+      "gygQuery": "Algiers Kasbah"
+    },
+    {
+      "name": "Rzymskie ruiny Timgad",
+      "text": "Doskonale zachowane pozostałości rzymskiego miasta kolonialnego, z łukiem triumfalnym, forum i teatrem. Wartościowe świadectwo rzymskiej cywilizacji w Afryce.",
+      "gygQuery": "Timgad Roman ruins"
+    },
+    {
+      "name": "Park Narodowy Tassili n'Ajjer",
+      "text": "Rozległy płaskowyż na Saharze, słynący z niezwykłych formacji skalnych i tysięcy prehistorycznych rysunków naskalnych. Miejsce o ogromnym znaczeniu archeologicznym i przyrodniczym.",
+      "gygQuery": "Tassili n'Ajjer"
+    },
+    {
+      "name": "Dolina M'Zab",
+      "text": "Unikalna dolina z pięcioma ufortyfikowanymi osadami (ksour) ludu Mozabitów, wpisana na listę UNESCO. Przykład tradycyjnej architektury i stylu życia Berberów.",
+      "gygQuery": "M'Zab Valley Ghardaia"
+    },
+    {
+      "name": "Bazylika Notre-Dame d'Afrique",
+      "text": "Imponująca bazylika z XIX wieku, położona na wzgórzu w Algierze, oferująca wspaniałe widoki na miasto i Morze Śródziemne. Ważny symbol religijny i architektoniczny.",
+      "gygQuery": "Notre-Dame d'Afrique"
+    },
+    {
+      "name": "Rzymskie ruiny Djemila",
+      "text": "Kolejne, równie imponujące rzymskie miasto, znane z dobrze zachowanych świątyń, łuków i domów. Djemila to świadectwo rzymskiej potęgi i kunsztu inżynieryjnego.",
+      "gygQuery": "Djemila Roman ruins"
+    },
+    {
+      "name": "Sahara",
+      "text": "Bezkresna pustynia, oferująca niezapomniane krajobrazy wydm, oazy i możliwość przejażdżek na wielbłądach. To doświadczenie, które pozwala poczuć prawdziwy duch Algierii.",
+      "gygQuery": "Algerian Sahara desert tour"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia algierska to smaczne połączenie wpływów berberyjskich, arabskich, tureckich i francuskich, z dominacją świeżych składników śródziemnomorskich. Podstawą wielu dań jest kuskus, często podawany z warzywami, mięsem (jagnięcina, kurczak) i pikantnym sosem. Popularne są także tagine, czyli gulasze wolno gotowane w glinianych naczyniach, oraz chorba, aromatyczna zupa warzywna. Na wybrzeżu królują świeże ryby i owoce morza. Algierczycy lubią słodycze, takie jak makroud (ciastka daktylowe) czy zalabya (smażone ciasto w syropie), a do posiłków i na spotkaniach towarzyskich zawsze podaje się słodką herbatę miętową. Warto spróbować także lokalnego pieczywa, często wypiekanego w tradycyjny sposób."
+  ],
+  "faq": [
+    {
+      "q": "Czy Algieria jest bezpieczna dla turystów z Polski?",
+      "a": "MSZ RP zaleca zachowanie szczególnej ostrożności w Algierii ze względu na zagrożenie terrorystyczne, zwłaszcza w rejonach przygranicznych. W miastach i popularnych miejscach turystycznych należy zachować czujność. Zawsze sprawdzaj aktualne komunikaty MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Algierii dla Polaków?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu (min. 6 miesięcy ważności od daty wyjazdu) oraz wizy. Wizę należy uzyskać w Ambasadzie Algierii w Warszawie przed podróżą. Wymagane są m.in. zaproszenie lub rezerwacja hotelowa."
+    },
+    {
+      "q": "Jaka jest waluta w Algierii i jak płacić?",
+      "a": "Walutą jest dinar algierski (DZD). Wymiana waluty jest możliwa w bankach. Płatności kartą są akceptowane w większych hotelach i restauracjach, ale na targach i w mniejszych miejscowościach dominuje gotówka. Zaleca się posiadanie gotówki."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Algierii?",
+      "a": "Na północy kraju (wybrzeże, góry) najlepiej jest wiosną (marzec-maj) i jesienią (wrzesień-listopad). Na Saharę najlepiej wybrać się zimą (listopad-luty), aby uniknąć ekstremalnych upałów."
+    },
+    {
+      "q": "Czy w Algierii można pić alkohol?",
+      "a": "Algieria jest krajem muzułmańskim, a spożywanie alkoholu jest ograniczone. Alkohol jest dostępny w niektórych większych hotelach i restauracjach, ale nie jest powszechnie sprzedawany ani spożywany w miejscach publicznych. Należy szanować lokalne zwyczaje i prawo."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

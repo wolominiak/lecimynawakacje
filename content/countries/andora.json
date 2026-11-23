@@ -1,0 +1,190 @@
+{
+  "slug": "andora",
+  "loc": "w Andorze",
+  "to": "do Andory",
+  "capital": "Andora-la-Vella",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Andorra",
+  "teaser": "Andora to górskie księstwo w Pirenejach, znane z doskonałych stoków narciarskich, malowniczych krajobrazów i zakupów bezcłowych.",
+  "intro": [
+    "Andora, to niewielkie księstwo położone wysoko w Pirenejach, jest prawdziwą gratką dla miłośników górskich krajobrazów i aktywnego wypoczynku. Choć często kojarzona głównie z zimowymi sportami, oferuje znacznie więcej - od pieszych wędrówek latem, przez relaks w termalnych spa, po atrakcyjne zakupy bezcłowe. To idealne miejsce na krótki wypad, by odetchnąć świeżym powietrzem i podziwiać imponujące szczyty.",
+    "Kraj ten przyciąga przede wszystkim narciarzy i snowboardzistów, którzy znajdą tu świetnie przygotowane trasy w kurortach takich jak Grandvalira czy Vallnord. Poza sezonem zimowym, Andora staje się rajem dla piechurów i rowerzystów górskich, oferując setki kilometrów szlaków o różnym stopniu trudności. Dodatkowym magnesem są niższe ceny na wiele produktów, co sprawia, że Andora to także popularny cel wycieczek zakupowych.",
+    "Podróż z Polski do Andory wymaga przesiadki, ponieważ kraj nie posiada własnego lotniska. Najczęściej lata się do Barcelony (Hiszpania) lub Tuluzy (Francja), skąd do Andory można dojechać autokarem lub wynajętym samochodem w ciągu około 3-4 godzin. Cała podróż, wliczając lot i transfer, zajmuje zazwyczaj około 7-8 godzin, co czyni ją dostępną na weekendowy wypad lub tygodniowy urlop."
+  ],
+  "highlights": [
+    "Doskonałe warunki narciarskie",
+    "Malownicze szlaki trekkingowe",
+    "Zakupy bezcłowe w Andora-la-Vella",
+    "Relaks w termach Caldea",
+    "Urokliwe górskie wioski",
+    "Spektakularne widoki Pirenejów"
+  ],
+  "bestTime": {
+    "text": "Pora roku, w której najlepiej odwiedzić Andorę, zależy od planowanych aktywności. Dla narciarzy i snowboardzistów idealny będzie okres od grudnia do marca, kiedy stoki są pokryte śniegiem, a kurorty tętnią życiem. Miłośnicy pieszych wędrówek i górskich krajobrazów powinni celować w miesiące letnie, od czerwca do września, gdy pogoda jest stabilna, a szlaki dostępne. Wiosna i jesień to dobry czas na spokojniejsze zwiedzanie i korzystanie z term, unikając tłumów.",
+    "best": [
+      1,
+      2,
+      3,
+      7,
+      8
+    ],
+    "ok": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      6,
+      7,
+      10,
+      12,
+      15,
+      20,
+      23,
+      22,
+      19,
+      14,
+      9,
+      7
+    ],
+    "sea": null,
+    "note": "dla Andory-la-Vella"
+  },
+  "practical": {
+    "flight": "Około 3-4 h lotu do Barcelony lub Tuluzy, plus 3-4 h transferu autokarem lub samochodem.",
+    "timeDiff": "Brak.",
+    "documents": "Dowód osobisty lub paszport. Andora nie jest w UE, ale należy do strefy Schengen, więc kontrola graniczna jest symboliczna. Zawsze warto sprawdzić aktualne wymogi przed wyjazdem.",
+    "money": "Euro (EUR). Płatności kartą są powszechne, ale warto mieć trochę gotówki na drobne wydatki.",
+    "plugs": "Typ F (polskie wtyczki pasują).",
+    "language": "Kataloński (urzędowy), szeroko używany hiszpański i francuski. Angielski jest zazwyczaj rozumiany w miejscach turystycznych.",
+    "safety": "Andora to bardzo bezpieczny kraj o niskiej przestępczości. Należy zachować podstawową ostrożność, zwłaszcza podczas aktywności górskich."
+  },
+  "regions": [
+    {
+      "slug": "andorra-la-vella",
+      "name": "Andora-la-Vella",
+      "loc": "w Andorze-la-Vella",
+      "type": "miasto",
+      "gygQuery": "Andorra la Vella",
+      "airport": "BCN (Barcelona)",
+      "forWhom": "Idealna dla miłośników zakupów, kultury i miejskiego życia w górskim otoczeniu.",
+      "intro": [
+        "Andora-la-Vella, stolica księstwa, to jednocześnie jego największe miasto i centrum handlowe. Rozłożona w dolinie, otoczona wysokimi szczytami, oferuje unikalne połączenie nowoczesności z tradycyjną architekturą. Tutaj znajdziesz setki sklepów oferujących produkty bezcłowe, od elektroniki po perfumy i alkohol, co czyni ją rajem dla łowców okazji.",
+        "Poza zakupami, miasto ma do zaoferowania urokliwą starówkę z kamiennymi uliczkami, historyczny budynek Casa de la Vall oraz liczne restauracje serwujące lokalne specjały. To także doskonała baza wypadowa do zwiedzania innych części Andory i korzystania z jej atrakcji, takich jak słynne termy Caldea."
+      ],
+      "highlights": [
+        "Zakupy bezcłowe",
+        "Stare Miasto i Casa de la Vall",
+        "Termy Caldea",
+        "Restauracje z lokalną kuchnią"
+      ]
+    },
+    {
+      "slug": "grandvalira",
+      "name": "Grandvalira",
+      "loc": "w Grandvalirze",
+      "type": "kurort",
+      "gygQuery": "Grandvalira ski",
+      "airport": "BCN (Barcelona)",
+      "forWhom": "Raj dla narciarzy i snowboardzistów, szukających rozległych tras i nowoczesnej infrastruktury.",
+      "intro": [
+        "Grandvalira to największy ośrodek narciarski w Pirenejach i jeden z największych w Europie, oferujący ponad 200 kilometrów połączonych tras. Składa się z kilku sektorów, takich jak Pas de la Casa, Soldeu czy El Tarter, z których każdy ma swój unikalny charakter. Znajdziesz tu trasy dla początkujących, zaawansowanych, a także snowparki i strefy freeride'owe.",
+        "Ośrodek jest znany z doskonałej infrastruktury, nowoczesnych wyciągów, szkółek narciarskich i licznych punktów gastronomicznych na stokach. Poza zimą Grandvalira przekształca się w centrum aktywności górskich, oferując trasy rowerowe, piesze i atrakcje dla rodzin, takie jak Mountain Park."
+      ],
+      "highlights": [
+        "Ponad 200 km tras narciarskich",
+        "Nowoczesne wyciągi",
+        "Snowparki i strefy freeride",
+        "Szkółki narciarskie",
+        "Aktywności letnie"
+      ]
+    },
+    {
+      "slug": "ordino",
+      "name": "Ordino",
+      "loc": "w Ordino",
+      "type": "region",
+      "gygQuery": "Ordino Andorra",
+      "airport": "BCN (Barcelona)",
+      "forWhom": "Dla tych, którzy szukają spokoju, bliskości natury, pieszych wędrówek i urokliwych górskich krajobrazów.",
+      "intro": [
+        "Dolina Ordino to jedna z najpiękniejszych i najbardziej dziewiczych części Andory, często nazywana jej \"zielonymi płucami\". Region ten jest wpisany na listę rezerwatów biosfery UNESCO i oferuje spektakularne krajobrazy, gęste lasy, krystalicznie czyste rzeki i wysokogórskie jeziora. To idealne miejsce na piesze wędrówki, pikniki i obcowanie z naturą z dala od zgiełku.",
+        "W Ordino znajduje się urokliwe miasteczko o tej samej nazwie, z zachowaną tradycyjną architekturą, kamiennymi domami i wąskimi uliczkami. Warto odwiedzić tu Muzeum Casa d'Areny-Plandolit, które prezentuje życie zamożnej andorskiej rodziny. Zimą region oferuje również mniejszy, ale urokliwy ośrodek narciarski Arcalís."
+      ],
+      "highlights": [
+        "Park Naturalny Vall de Sorteny",
+        "Tradycyjna architektura",
+        "Muzeum Casa d'Areny-Plandolit",
+        "Spokojne szlaki piesze",
+        "Ośrodek narciarski Arcalís"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Termy Caldea",
+      "text": "Największe centrum spa w Europie, oferujące baseny termalne, sauny i zabiegi relaksacyjne w futurystycznym otoczeniu.",
+      "gygQuery": "Caldea Andorra"
+    },
+    {
+      "name": "Casa de la Vall",
+      "text": "Historyczna siedziba parlamentu Andory, symbol niepodległości i bogatej historii księstwa, otwarta dla zwiedzających.",
+      "gygQuery": "Casa de la Vall"
+    },
+    {
+      "name": "Park Naturalny Vall de Sorteny",
+      "text": "Jeden z najpiękniejszych parków naturalnych w Andorze, idealny do pieszych wędrówek wśród alpejskiej flory i fauny.",
+      "gygQuery": "Vall de Sorteny Natural Park"
+    },
+    {
+      "name": "Mirador Roc del Quer",
+      "text": "Spektakularny punkt widokowy z wiszącą platformą, oferujący zapierające dech w piersiach panoramy górskich dolin.",
+      "gygQuery": "Mirador Roc del Quer"
+    },
+    {
+      "name": "Sanktuarium Meritxell",
+      "text": "Narodowe sanktuarium Andory, poświęcone patronce kraju, z nowoczesną architekturą i pięknym otoczeniem.",
+      "gygQuery": "Meritxell Sanctuary"
+    },
+    {
+      "name": "Stare Miasto w Andorze-la-Vella",
+      "text": "Urokliwa dzielnica stolicy z kamiennymi uliczkami, tradycyjnymi domami i butikami.",
+      "gygQuery": "Andorra la Vella Old Town"
+    },
+    {
+      "name": "Muzeum Motoryzacji (Museu Nacional de l'Automòbil)",
+      "text": "Kolekcja zabytkowych samochodów i motocykli, prezentująca historię transportu od końca XIX wieku.",
+      "gygQuery": "National Automobile Museum Andorra"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia andorska to esencja górskich tradycji, mocno zakorzeniona w wpływach katalońskich, francuskich i hiszpańskich. Królują tu sycące dania, idealne po dniu spędzonym na stoku czy szlaku. Warto spróbować escudella, gęstej zupy-gulaszu z mięsem i warzywami, trinxat, czyli placka z ziemniaków, kapusty i boczku, czy grillowanych mięs, takich jak jagnięcina czy królik. Popularne są także lokalne sery, wędliny oraz dziczyzna. Do tego często podaje się pieczone warzywa i grzyby, a na deser krem kataloński lub świeże owoce."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Andory potrzebna jest wiza dla Polaków?",
+      "a": "Nie, obywatele Polski mogą wjechać do Andory na podstawie dowodu osobistego lub paszportu. Andora nie jest w UE, ale należy do strefy Schengen, co ułatwia przekraczanie granicy."
+    },
+    {
+      "q": "Czy Andora jest drogim krajem?",
+      "a": "Andora jest znana z zakupów bezcłowych, co sprawia, że niektóre produkty (np. alkohol, tytoń, perfumy, elektronika) są tańsze niż w krajach UE. Ceny usług, zakwaterowania i jedzenia są porównywalne z innymi popularnymi europejskimi kurortami górskimi."
+    },
+    {
+      "q": "Jak najlepiej dojechać do Andory z Polski?",
+      "a": "Najlepszym sposobem jest lot do Barcelony (Hiszpania) lub Tuluzy (Francja), a następnie transfer autokarem lub wynajętym samochodem. Bezpośrednie loty do Andory nie istnieją."
+    },
+    {
+      "q": "Co warto kupić w Andorze?",
+      "a": "Ze względu na status bezcłowy, Andora jest popularnym miejscem na zakupy alkoholu, tytoniu, perfum, kosmetyków, elektroniki i odzieży sportowej. Warto porównać ceny, aby znaleźć najlepsze okazje."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

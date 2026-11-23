@@ -1,0 +1,216 @@
+{
+  "slug": "angola",
+  "loc": "w Angoli",
+  "to": "do Angoli",
+  "capital": "Luanda",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Angola",
+  "teaser": "Angola to kraj dla doświadczonych podróżników, szukających autentycznych afrykańskich doświadczeń, dzikiej przyrody i niezwykłych krajobrazów poza utartymi szlakami.",
+  "intro": [
+    "Angola, położona na zachodnim wybrzeżu Afryki, to kraj o bogatej historii, zróżnicowanych krajobrazach i kulturze naznaczonej wpływami portugalskimi. Od tętniącej życiem stolicy Luandy, przez rozległe parki narodowe pełne dzikiej zwierzyny, po surowe piękno pustyni Namibe, Angola oferuje unikalne doświadczenia. To kierunek dla tych, którzy cenią sobie podróże odkrywcze, z dala od masowej turystyki i gotowych pakietów.",
+    "Kraj ten jest przeznaczony dla podróżników z duchem przygody, którzy są przygotowani na wyzwania związane z infrastrukturą i logistyką. Angola dopiero rozwija swoją ofertę turystyczną po dekadach konfliktu, co oznacza, że wymaga elastyczności, cierpliwości i często korzystania z usług lokalnych przewodników. Nagrodą są jednak niezapomniane widoki, spotkania z lokalną społecznością i poczucie prawdziwej eksploracji.",
+    "Podróż z Polski do Angoli wymaga kilku przesiadek, zazwyczaj w europejskich hubach takich jak Lizbona, Frankfurt czy Paryż, a następnie lotu do Luandy (LAD). Całkowity czas podróży wynosi zazwyczaj około 12-15 godzin. Wymagane jest posiadanie wizy, którą należy uzyskać przed wyjazdem, oraz aktualne szczepienia. Planując wyjazd, warto być na bieżąco z informacjami konsularnymi."
+  ],
+  "highlights": [
+    "Dzika przyroda Parku Narodowego Kissama",
+    "Księżycowy krajobraz Miradouro da Lua",
+    "Imponujące Wodospady Kalandula",
+    "Spektakularna przełęcz Serra da Leba",
+    "Tętniąca życiem stolica Luanda",
+    "Relaks na plażach Ilha do Mussulo"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Angoli to sucha pora, trwająca od maja do października. W tym okresie temperatury są bardziej umiarkowane, a wilgotność niższa, co sprzyja zwiedzaniu i safari. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wysoką wilgotnością i intensywnymi opadami, które mogą utrudniać podróżowanie po drogach.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      31,
+      31,
+      30,
+      28,
+      25,
+      23,
+      23,
+      25,
+      27,
+      29,
+      30
+    ],
+    "sea": [
+      27,
+      28,
+      29,
+      29,
+      27,
+      24,
+      22,
+      21,
+      22,
+      24,
+      26,
+      27
+    ],
+    "note": "dla Luandy"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "Latem -1 godzina, zimą brak różnicy czasu (Angola nie stosuje czasu letniego)",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed wyjazdem w ambasadzie Angoli lub online (e-wiza). Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Wymagane jest również Międzynarodowe Świadectwo Szczepień z wpisem o szczepieniu przeciwko żółtej febrze. Zawsze należy sprawdzić aktualne wymogi wizowe i zdrowotne przed podróżą.",
+    "money": "Walutą Angoli jest kwanza (AOA). Płatności kartą są możliwe głównie w większych hotelach i supermarketach w Luandzie, jednak gotówka jest preferowana i często niezbędna poza stolicą. Warto mieć przy sobie dolary amerykańskie lub euro, które można wymienić w bankach lub autoryzowanych kantorach.",
+    "plugs": "Typ C i F (europejskie, dwa okrągłe bolce).",
+    "language": "Oficjalnym językiem jest portugalski. W użyciu są również liczne języki bantu, takie jak kimbundu, umbundu i kikongo. Znajomość podstaw portugalskiego będzie bardzo pomocna poza Luandą.",
+    "safety": "Angola jest krajem, gdzie należy zachować szczególną ostrożność. Występuje wysokie ryzyko przestępczości pospolitej, zwłaszcza w Luandzie. Zaleca się unikanie samotnych spacerów po zmroku i nieeksponowanie wartościowych przedmiotów. W niektórych regionach nadal występują niewybuchy i miny lądowe. Konieczne są szczepienia przeciwko żółtej febrze, tężcowi, błonicy, polio, a także profilaktyka antymalaryczna. Dostęp do opieki medycznej poza stolicą jest ograniczony."
+  },
+  "regions": [
+    {
+      "slug": "luanda",
+      "name": "Luanda",
+      "loc": "w Luandzie",
+      "type": "miasto",
+      "gygQuery": "Luanda",
+      "airport": "LAD",
+      "forWhom": "Dla osób szukających tętniącej życiem afrykańskiej metropolii z kolonialną historią i nowoczesnymi akcentami.",
+      "intro": [
+        "Luanda, stolica Angoli, to dynamicznie rozwijające się miasto portowe, które łączy w sobie pozostałości kolonialnej przeszłości z nowoczesnymi drapaczami chmur. Jest to główna brama do kraju i centrum gospodarcze, co czyni ją miejscem o wysokiej aktywności, ale także wyzwaniach związanych z infrastrukturą i bezpieczeństwem. Mimo to, Luanda oferuje bogate doświadczenia kulturowe i historyczne.",
+        "Miasto słynie z pięknych, choć często zatłoczonych, plaż, takich jak Ilha do Mussulo, gdzie można odpocząć i spróbować lokalnej kuchni. W Luandzie znajdują się również ważne zabytki, takie jak Forteca São Miguel, która oferuje wgląd w historię Angoli oraz piękne widoki na zatokę. Nocne życie w stolicy jest tętniące, z licznymi barami i klubami."
+      ],
+      "highlights": [
+        "Fortaleza de São Miguel",
+        "Ilha do Mussulo",
+        "Miradouro da Lua",
+        "Nocne życie miasta"
+      ]
+    },
+    {
+      "slug": "park-narodowy-kissama",
+      "name": "Park Narodowy Kissama",
+      "loc": "w Parku Narodowym Kissama",
+      "type": "park narodowy",
+      "gygQuery": "Kissama National Park",
+      "airport": "LAD",
+      "forWhom": "Idealny dla miłośników dzikiej przyrody i safari, chcących zobaczyć słonie, antylopy i inne afrykańskie zwierzęta.",
+      "intro": [
+        "Park Narodowy Kissama, położony zaledwie około 70 km na południe od Luandy, jest najważniejszym obszarem ochrony przyrody w Angoli. Po latach wojny domowej, park przechodzi intensywny program odbudowy populacji zwierząt, w tym słoni, żyraf i antylop, które zostały sprowadzone z innych części Afryki. To doskonałe miejsce na pierwsze afrykańskie safari.",
+        "Park oferuje różnorodne krajobrazy, od sawanny po lasy namorzynowe wzdłuż rzeki Kwanza. Można tu podziwiać bogactwo ptactwa oraz liczne gatunki ssaków. Safari w Kissamie to szansa na bezpośredni kontakt z angolską naturą i wsparcie dla wysiłków na rzecz ochrony środowiska w tym kraju. Dostęp do parku jest możliwy głównie pojazdami terenowymi."
+      ],
+      "highlights": [
+        "Safari z dziką zwierzyną",
+        "Rejsy po rzece Kwanza",
+        "Obserwacja ptaków",
+        "Piaszczyste wydmy i sawanna"
+      ]
+    },
+    {
+      "slug": "benguela",
+      "name": "Benguela i wybrzeże",
+      "loc": "w Bengueli",
+      "type": "region",
+      "gygQuery": "Benguela",
+      "airport": "BUG",
+      "forWhom": "Dla tych, którzy cenią relaks na plaży, historyczne miasta i autentyczne, lokalne doświadczenia poza stolicą.",
+      "intro": [
+        "Benguela to historyczne miasto portowe na południowym wybrzeżu Angoli, słynące z pięknych plaż, kolonialnej architektury i spokojniejszej atmosfery niż Luanda. Było ważnym ośrodkiem handlu niewolnikami i do dziś zachowało wiele budynków z epoki portugalskiej, co nadaje mu wyjątkowy charakter. To doskonałe miejsce na poznanie innej strony Angoli.",
+        "Region Bengueli oferuje nie tylko relaks na piaszczystych plażach, ale także możliwość odkrywania lokalnych targów, degustacji świeżych owoców morza i obserwacji codziennego życia. Niedaleko znajduje się również Lobito, kolejne ważne miasto portowe z ciekawą architekturą i słynnym nasypem, z którego rozciągają się piękne widoki na ocean."
+      ],
+      "highlights": [
+        "Plaże Bengueli i Lobito",
+        "Kolonialna architektura",
+        "Targ rybny w Lobito",
+        "Kolej Benguela"
+      ]
+    },
+    {
+      "slug": "lubango-serra-da-leba",
+      "name": "Lubango i Serra da Leba",
+      "loc": "w regionie Lubango",
+      "type": "region",
+      "gygQuery": "Lubango Serra da Leba",
+      "airport": "SDD",
+      "forWhom": "Kierunek dla poszukiwaczy spektakularnych krajobrazów górskich, unikalnych formacji skalnych i kulturowej różnorodności.",
+      "intro": [
+        "Lubango, położone w południowych górach Angoli, to miasto o chłodniejszym klimacie i otoczone malowniczymi krajobrazami. Jest to brama do regionu Huíla, znanego z imponujących formacji geologicznych i bogatej kultury lokalnych plemion, takich jak Mumuila. To idealne miejsce dla miłośników trekkingu i fotografii krajobrazowej.",
+        "Największą atrakcją regionu jest bez wątpienia przełęcz Serra da Leba, słynna górska droga z licznymi serpentynami, która jest arcydziełem inżynierii i oferuje zapierające dech w piersiach widoki na dolinę. W Lubango warto również zobaczyć pomnik Chrystusa Króla, podobny do tego w Rio de Janeiro, oraz odwiedzić lokalne targi, gdzie można poznać rzemiosło i tradycje."
+      ],
+      "highlights": [
+        "Przełęcz Serra da Leba",
+        "Pomnik Chrystusa Króla w Lubango",
+        "Kultura plemion Mumuila",
+        "Wodospady Huíla"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Miradouro da Lua (Księżycowy Punkt Widokowy)",
+      "text": "Niezwykłe formacje skalne ukształtowane przez erozję, przypominające księżycowy krajobraz, położone niedaleko Luandy. To popularne miejsce na zdjęcia i podziwianie zachodów słońca.",
+      "gygQuery": "Miradouro da Lua"
+    },
+    {
+      "name": "Fortaleza de São Miguel",
+      "text": "Historyczna forteca w Luandzie, zbudowana przez Portugalczyków w XVI wieku, oferująca widoki na miasto i zatokę oraz mieszcząca Muzeum Historii Wojskowości.",
+      "gygQuery": "Fortaleza de Sao Miguel"
+    },
+    {
+      "name": "Park Narodowy Kissama",
+      "text": "Jeden z nielicznych parków narodowych w Angoli, gdzie po latach wojny odbudowywana jest populacja dzikich zwierząt, w tym słoni, żyraf i antylop. Idealne miejsce na safari.",
+      "gygQuery": "Kissama National Park"
+    },
+    {
+      "name": "Wodospady Kalandula",
+      "text": "Imponujące wodospady na rzece Lucala, jedne z największych w Afryce pod względem objętości, oferujące spektakularne widoki i potężny huk spadającej wody.",
+      "gygQuery": "Kalandula Falls"
+    },
+    {
+      "name": "Przełęcz Serra da Leba",
+      "text": "Zapierająca dech w piersiach górska droga z licznymi zakrętami, uważana za cud inżynierii, oferująca panoramiczne widoki na dolinę i otaczające góry.",
+      "gygQuery": "Serra da Leba"
+    },
+    {
+      "name": "Ilha do Mussulo",
+      "text": "Piaszczysta mierzeja niedaleko Luandy, popularna wśród mieszkańców i turystów, oferująca piękne plaże, restauracje serwujące owoce morza i możliwości uprawiania sportów wodnych.",
+      "gygQuery": "Ilha do Mussulo"
+    },
+    {
+      "name": "Pustynia Namibe",
+      "text": "Rozległa pustynia na południu Angoli, charakteryzująca się wydmami, unikalną roślinnością welwiczii i surowym, ale pięknym krajobrazem. Graniczy z Oceanem Atlantyckim.",
+      "gygQuery": "Namibe Desert"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia angolska to fascynująca mieszanka wpływów afrykańskich i portugalskich, oparta na świeżych składnikach i intensywnych smakach. Podstawą wielu dań jest maniok, kukurydza i ryż, często podawane z rybami lub mięsem. Popularne potrawy to moamba de galinha (kurczak duszony z olejem palmowym, okrą i orzeszkami ziemnymi), calulu (duszona ryba lub mięso z warzywami liściastymi) oraz funge (gęsta papka z manioku lub kukurydzy). Na wybrzeżu królują świeże owoce morza. Warto spróbować lokalnych owoców, takich jak marakuja czy mango, oraz orzeźwiających napojów z hibiskusa."
+  ],
+  "faq": [
+    {
+      "q": "Czy Angola jest bezpieczna dla turystów?",
+      "a": "Angola wymaga ostrożności ze względu na wysoki poziom przestępczości pospolitej, zwłaszcza w Luandzie. Zaleca się unikanie samotnych spacerów po zmroku i korzystanie z usług zaufanych przewodników. W niektórych regionach nadal występują miny lądowe."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Angoli?",
+      "a": "Oficjalną walutą Angoli jest kwanza (AOA). Płatności kartą są ograniczone, dlatego zaleca się posiadanie gotówki. Dolary amerykańskie lub euro są akceptowane w niektórych miejscach i łatwe do wymiany."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Angoli?",
+      "a": "Tak, obywatele Polski potrzebują wizy, którą należy uzyskać przed wyjazdem. Możliwe jest złożenie wniosku o e-wizę. Wymagane jest również szczepienie przeciwko żółtej febrze."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Angoli?",
+      "a": "Najlepszy czas na podróż to sucha pora, od maja do października. Temperatury są wtedy bardziej umiarkowane, wilgotność niższa, a warunki do zwiedzania i safari są najbardziej sprzyjające."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

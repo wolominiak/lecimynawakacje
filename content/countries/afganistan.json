@@ -1,0 +1,183 @@
+{
+  "slug": "afganistan",
+  "loc": "w Afganistanie",
+  "to": "do Afganistanu",
+  "capital": "Kabul",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Afghanistan",
+  "teaser": "Afganistan to kraj o bogatej historii i zapierających dech w piersiach krajobrazach, jednak ze względu na niestabilną sytuację polityczną i bezpieczeństwa, podróże są kategorycznie odradzane.",
+  "intro": [
+    "Afganistan, położony w sercu Azji Centralnej, to kraj o niezwykłej historii, będący świadkiem wielu cywilizacji i szlaków handlowych, w tym słynnego Jedwabnego Szlaku. Jego górzyste tereny, pustynie i żyzne doliny kryją ślady starożytnych imperiów i bogate dziedzictwo kulturowe. Niestety, od dekad kraj ten zmaga się z niestabilnością polityczną i konfliktami zbrojnymi, co czyni go jednym z najbardziej niebezpiecznych miejsc na świecie.",
+    "Obecnie Afganistan nie jest celem turystycznym, a Ministerstwo Spraw Zagranicznych Rzeczypospolitej Polskiej kategorycznie odradza wszelkie podróże do tego kraju. Sytuacja bezpieczeństwa jest niezwykle poważna, z wysokim ryzykiem ataków terrorystycznych, porwań i innych zagrożeń dla życia i zdrowia. Nawet podróże w celach służbowych czy dziennikarskich wymagają ekstremalnej ostrożności i profesjonalnego zabezpieczenia.",
+    "Podróż z Polski do Afganistanu jest długa i skomplikowana, wymaga wielu przesiadek, zazwyczaj przez kraje Bliskiego Wschodu. Nawet jeśli udałoby się uzyskać wizę, co jest trudne, brakuje rozwiniętej infrastruktury turystycznej, a swobodne poruszanie się po kraju jest praktycznie niemożliwe i skrajnie niebezpieczne. Z uwagi na te czynniki, Afganistan pozostaje poza zasięgiem typowego turysty."
+  ],
+  "highlights": [
+    "Bogata historia na Jedwabnym Szlaku",
+    "Imponujące góry Hindukusz",
+    "Starożytne ruiny i twierdze",
+    "Unikalna kultura Pasztunów i Dari",
+    "Krajobrazy pustynne i oazy",
+    "Tradycyjne bazary i rzemiosło"
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na podróż do Afganistanu, biorąc pod uwagę warunki klimatyczne, są wiosna (kwiecień-maj) i jesień (wrzesień-październik). W tych miesiącach temperatury są umiarkowane, a opady deszczu mniejsze. Lato bywa ekstremalnie upalne, zwłaszcza na nizinach, natomiast zimy są mroźne, szczególnie w regionach górskich. Należy jednak pamiętać, że warunki bezpieczeństwa są priorytetem i niezależnie od pory roku, podróże są odradzane.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      0,
+      2,
+      9,
+      16,
+      22,
+      27,
+      29,
+      28,
+      24,
+      18,
+      10,
+      3
+    ],
+    "sea": null,
+    "note": "dla Kabulu"
+  },
+  "practical": {
+    "flight": "około 10-15 h z przesiadkami",
+    "timeDiff": "od +2.5 do +3.5 godziny względem Polski",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed wyjazdem w odpowiedniej placówce dyplomatycznej. Ze względu na niestabilną sytuację, wydanie wizy turystycznej jest bardzo trudne, a Ministerstwo Spraw Zagranicznych RP kategorycznie odradza wszelkie podróże do Afganistanu.",
+    "money": "Walutą jest afgani (AFN). Płatności kartą są rzadkością, dominują transakcje gotówkowe. Dostępność bankomatów jest bardzo ograniczona, zwłaszcza poza Kabulem. Zaleca się posiadanie gotówki w dolarach amerykańskich.",
+    "plugs": "Typy C i F, takie same jak w Polsce.",
+    "language": "Oficjalne języki to dari (perski afgański) i paszto. W niektórych regionach używany jest również turkmeński. Znajomość angielskiego jest bardzo ograniczona poza kręgami rządowymi i międzynarodowymi.",
+    "safety": "Sytuacja bezpieczeństwa w Afganistanie jest niezwykle poważna i nieprzewidywalna. Występuje wysokie ryzyko ataków terrorystycznych, porwań, przestępczości zbrojnej i działań wojennych. Ministerstwo Spraw Zagranicznych RP kategorycznie odradza wszelkie podróże do tego kraju. Podróżowanie do Afganistanu wiąże się z bezpośrednim zagrożeniem życia i zdrowia. Brak jest bezpiecznych regionów."
+  },
+  "regions": [
+    {
+      "slug": "kabul",
+      "name": "Kabul",
+      "loc": "w Kabulu",
+      "type": "miasto",
+      "gygQuery": "Kabul",
+      "airport": "KBL",
+      "forWhom": "Stolica kraju, teoretycznie główny punkt wjazdu, choć obecnie nie jest to cel turystyczny ze względu na skrajne zagrożenie bezpieczeństwa.",
+      "intro": [
+        "Kabul, stolica Afganistanu, jest największym miastem kraju i historycznym centrum wielu kultur. Położony w dolinie rzeki Kabul, otoczony górami, od wieków był strategicznym punktem na Jedwabnym Szlaku. Dziś miasto boryka się z problemami odbudowy po latach konfliktów, a jego infrastruktura turystyczna jest praktycznie nieistniejąca.",
+        "Mimo bogatej historii, w Kabulu brakuje bezpiecznych warunków do zwiedzania. Wszelkie próby turystyki są kategorycznie odradzane ze względu na wysokie ryzyko zamachów, porwań i ogólnej niestabilności. Miasto jest pod ścisłą kontrolą, ale zagrożenia pozostają realne, co uniemożliwia swobodne i bezpieczne poruszanie się."
+      ],
+      "highlights": [
+        "Muzeum Narodowe Afganistanu (historycznie)",
+        "Bagh-e Babur (Ogrody Babura)",
+        "Meczet Shah-e Doh Shamshira",
+        "Wzgórze Bala Hissar (historyczna forteca)"
+      ]
+    },
+    {
+      "slug": "herat",
+      "name": "Herat",
+      "loc": "w Heracie",
+      "type": "miasto",
+      "gygQuery": "Herat",
+      "airport": "HEA",
+      "forWhom": "Jedno z najstarszych miast Afganistanu, znane z perskiego dziedzictwa, ale niedostępne dla turystów z powodu zagrożenia.",
+      "intro": [
+        "Herat, położony w zachodnim Afganistanie, to miasto o niezwykłym perskim dziedzictwie kulturowym, słynące z pięknej architektury, meczetów i tradycyjnych bazarów. Przez wieki był ważnym ośrodkiem sztuki, nauki i handlu na Jedwabnym Szlaku. Jego historia sięga czasów starożytnych, a miasto zachowało wiele zabytków świadczących o jego dawnej świetności.",
+        "Niestety, podobnie jak inne regiony Afganistanu, Herat jest obecnie miejscem o bardzo wysokim ryzyku bezpieczeństwa. Podróże są odradzane, a dostęp do zabytków jest utrudniony lub niemożliwy dla turystów. Mimo swojego historycznego piękna, Herat pozostaje poza zasięgiem bezpiecznej turystyki."
+      ],
+      "highlights": [
+        "Wielki Meczet w Heracie",
+        "Cytadela w Heracie (Qala-e Ikhtiyaruddin)",
+        "Grobowiec Goharshad",
+        "Tradycyjne bazary"
+      ]
+    },
+    {
+      "slug": "bamian",
+      "name": "Bamian",
+      "loc": "w Bamianie",
+      "type": "region",
+      "gygQuery": "Bamyan",
+      "airport": "KBL (najbliższe duże)",
+      "forWhom": "Region słynący z historycznych posągów Buddy, dziś symbol zniszczonego dziedzictwa kulturowego i obszar wysokiego ryzyka.",
+      "intro": [
+        "Dolina Bamian, położona w centralnym Afganistanie, jest miejscem o ogromnym znaczeniu historycznym i kulturowym, znanym przede wszystkim ze zniszczonych posągów Buddy. Przez wieki była ważnym ośrodkiem buddyzmu i sztuki, leżącym na szlaku handlowym. Krajobraz doliny, z jej jaskiniami i starożytnymi ruinami, jest niezwykle malowniczy.",
+        "Mimo historycznej wartości, region Bamian, choć stosunkowo spokojniejszy niż inne obszary, pozostaje obszarem wysokiego ryzyka. Ministerstwo Spraw Zagranicznych RP odradza podróże. Brak jest odpowiedniej infrastruktury turystycznej, a dostęp do wielu miejsc jest ograniczony ze względu na kwestie bezpieczeństwa."
+      ],
+      "highlights": [
+        "Zniszczone posągi Buddy w Bamianie",
+        "Jaskinie i klasztory buddyjskie",
+        "Shahr-e Gholghola (Miasto Krzyków)",
+        "Park Narodowy Band-e Amir (w pobliżu)"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Dolina Bamian i zniszczone Buddy",
+      "text": "Historyczne miejsce, gdzie niegdyś stały monumentalne posągi Buddy, wykute w skale, dziś symbol zniszczonego dziedzictwa kulturowego. Region oferuje również liczne jaskinie i pozostałości starożytnych klasztorów.",
+      "gygQuery": "Bamyan Buddhas"
+    },
+    {
+      "name": "Park Narodowy Band-e Amir",
+      "text": "Pierwszy park narodowy Afganistanu, słynący z sześciu turkusowych jezior kaskadowych, oddzielonych naturalnymi tamami trawertynowymi. Malowniczy krajobraz górski, choć dostęp jest utrudniony i ryzykowny.",
+      "gygQuery": "Band-e Amir National Park"
+    },
+    {
+      "name": "Minaret w Dżam",
+      "text": "Imponujący, 65-metrowy minaret z XII wieku, wpisany na Listę Światowego Dziedzictwa UNESCO, będący świadectwem architektury islamskiej. Położony w odległym i trudno dostępnym regionie, jest zagrożony erozją.",
+      "gygQuery": "Minaret of Jam"
+    },
+    {
+      "name": "Błękitny Meczet w Mazar-i Szarif",
+      "text": "Znany również jako Sanktuarium Alego, jest jednym z najświętszych miejsc w Afganistanie, słynącym z niezwykłych, bogato zdobionych niebieskich kafelków. Miejsce pielgrzymek, ale obecnie niedostępne dla turystów.",
+      "gygQuery": "Blue Mosque Mazar-i-Sharif"
+    },
+    {
+      "name": "Cytadela w Heracie (Qala-e Ikhtiyaruddin)",
+      "text": "Starożytna forteca, która przez wieki służyła jako centrum władzy w Heracie. Została odrestaurowana i oferuje wgląd w burzliwą historię regionu, jednak jej bezpieczne zwiedzanie jest niemożliwe.",
+      "gygQuery": "Herat Citadel"
+    },
+    {
+      "name": "Muzeum Narodowe Afganistanu w Kabulu",
+      "text": "Mieściło bogate zbiory artefaktów z prehistorii, czasów buddyjskich i islamskich, choć wiele z nich zostało zniszczonych lub zrabowanych podczas konfliktów. Obecnie jego działalność jest ograniczona, a dostęp niebezpieczny.",
+      "gygQuery": "National Museum of Afghanistan"
+    },
+    {
+      "name": "Bagh-e Babur (Ogrody Babura) w Kabulu",
+      "text": "Historyczne ogrody z XVI wieku, będące miejscem pochówku pierwszego cesarza Mogołów, Babura. Stanowią przykład perskiej sztuki ogrodowej i są jednym z nielicznych względnie spokojnych miejsc w Kabulu.",
+      "gygQuery": "Bagh-e Babur"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia afgańska jest bogata i aromatyczna, czerpiąca inspiracje z tradycji perskich, indyjskich i środkowoazjatyckich. Podstawą wielu dań jest ryż, często podawany w postaci pilawu z kawałkami mięsa, marchewką i rodzynkami. Popularne są także dania mięsne, zwłaszcza z baraniny i kurczaka, przygotowywane na wiele sposobów, w tym jako kebab. W diecie Afgańczyków ważne miejsce zajmuje chleb naan, pieczony w glinianych piecach, a także różnorodne zupy, gulasze i pierożki, takie jak mantu czy aushak. Do posiłków często podaje się jogurt, świeże warzywa i owoce. Herbata, zwłaszcza zielona, jest nieodłącznym elementem gościnności."
+  ],
+  "faq": [
+    {
+      "q": "Czy podróżowanie do Afganistanu jest bezpieczne dla turystów?",
+      "a": "Nie, podróżowanie do Afganistanu jest kategorycznie odradzane przez polskie Ministerstwo Spraw Zagranicznych ze względu na ekstremalnie wysokim ryzyko terrorystyczne, porwań i działań zbrojnych. Brak jest bezpiecznych regionów dla turystów."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne, aby wjechać do Afganistanu?",
+      "a": "Obywatele Polski potrzebują ważnej wizy, którą należy uzyskać w ambasadzie Afganistanu przed podróżą. Uzyskanie wizy turystycznej jest obecnie bardzo trudne ze względu na brak stabilności w kraju."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Afganistanie i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest afgani (AFN). Płatności kartą są bardzo rzadkie, a infrastruktura bankomatowa jest ograniczona. Zaleca się posiadanie gotówki, najlepiej w dolarach amerykańskich, do wymiany na lokalną walutę."
+    },
+    {
+      "q": "Jakie są główne języki w Afganistanie?",
+      "a": "Główne języki to dari (perski afgański) i paszto. Znajomość angielskiego jest bardzo ograniczona poza obszarami związanymi z organizacjami międzynarodowymi i rządem."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

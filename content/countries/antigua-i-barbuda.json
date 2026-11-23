@@ -1,0 +1,182 @@
+{
+  "slug": "antigua-i-barbuda",
+  "loc": "na Antigui i Barbudzie",
+  "to": "na Antiguę i Barbudę",
+  "capital": "Saint John's",
+  "popularity": 25,
+  "touroperator": false,
+  "gygQuery": "Antigua and Barbuda",
+  "teaser": "Dwa karaibskie klejnoty, Antigua i Barbuda, kuszą ponad 365 plażami, turkusową wodą i relaksem w słońcu. Idealne na ucieczkę od zimy.",
+  "intro": [
+    "Antigua i Barbuda to dwa odmienne, ale równie urokliwe klejnoty Morza Karaibskiego, słynące z oszałamiającej liczby plaż - mówi się, że jest ich 365, po jednej na każdy dzień roku. Turkusowe wody, biały piasek i łagodny klimat tworzą idealne warunki do wypoczynku, żeglarstwa i snorkelingu. To miejsce, gdzie czas płynie wolniej, a dominującym dźwiękiem jest szum fal.",
+    "Kraj ten jest idealny dla osób szukających ucieczki od zgiełku, ceniących sobie spokój i kontakt z naturą. Przyciąga miłośników sportów wodnych, żeglarzy oraz pary i rodziny pragnące relaksu w pięknych okolicznościach przyrody. Nie jest to destynacja masowej turystyki, co pozwala na bardziej autentyczne doświadczenia i unikanie tłumów.",
+    "Podróż z Polski na Antiguę i Barbudę zazwyczaj wymaga jednej lub dwóch przesiadek, najczęściej w dużych europejskich hubach, takich jak Londyn czy Frankfurt, lub w USA. Cała podróż, w zależności od połączeń, może zająć od 12 do 18 godzin. Warto zaplanować ją z wyprzedzeniem, aby znaleźć dogodne i korzystne cenowo loty, gdyż nie ma bezpośrednich połączeń."
+  ],
+  "highlights": [
+    "Ponad 365 piaszczystych plaż",
+    "Idealne warunki do żeglarstwa",
+    "Relaks w karaibskim słońcu",
+    "Bogate życie podwodne raf koralowych",
+    "Historyczne zabytki kolonialne",
+    "Spokojna, wyspiarska atmosfera"
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na wizytę na Antigui i Barbudzie jest pora sucha, trwająca od grudnia do maja. W tych miesiącach panuje stabilna, słoneczna pogoda z niższym poziomem wilgotności i przyjemnymi temperaturami. Od czerwca do listopada trwa pora deszczowa, z większą wilgotnością i możliwością wystąpienia huraganów, choć zdarzają się one sporadycznie, a ceny są wtedy często niższe.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      28,
+      28,
+      28,
+      29,
+      30,
+      30,
+      30,
+      31,
+      31,
+      30,
+      29,
+      28
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "dla Saint John's"
+  },
+  "practical": {
+    "flight": "około 12-15 h z 1-2 przesiadkami",
+    "timeDiff": "zimą -5 godzin, latem -6 godzin",
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych przepisów wizowych przed podróżą.",
+    "money": "Oficjalną walutą jest dolar wschodniokaraibski (XCD), ale dolar amerykański (USD) jest powszechnie akceptowany. W większych miejscowościach i hotelach można płacić kartami kredytowymi. Warto mieć przy sobie trochę gotówki na drobne wydatki.",
+    "plugs": "Gniazdka elektryczne są typu A i B (standard amerykański), napięcie 230V/60Hz, choć niektóre obiekty mogą oferować 110V. Konieczny jest adapter.",
+    "language": "angielski",
+    "safety": "Antigua i Barbuda są stosunkowo bezpieczne, ale jak wszędzie, należy zachować podstawowe środki ostrożności, zwłaszcza po zmroku. Zdarzają się drobne kradzieże. Warto uważać na słońce i komary, które mogą przenosić dengę czy chikungunyę. Zaleca się picie wody butelkowanej."
+  },
+  "regions": [
+    {
+      "slug": "antigua",
+      "name": "Antigua",
+      "loc": "na Antigui",
+      "type": "wyspa",
+      "gygQuery": "Antigua",
+      "airport": "ANU",
+      "forWhom": "Idealna dla miłośników plaż, żeglarstwa i aktywnego wypoczynku.",
+      "intro": [
+        "Antigua to większa z dwóch wysp, będąca sercem kraju i głównym celem turystycznym. Słynie z niezliczonych plaż o białym piasku, z których każda oferuje nieco inny urok. To tutaj znajdziesz tętniące życiem kurorty, urokliwe zatoczki idealne do snorkelingu oraz doskonałe warunki do uprawiania sportów wodnych, zwłaszcza żeglarstwa. Stolica, Saint John's, oferuje kolonialną architekturę i lokalne targi.",
+        "Wyspa jest również bogata w historię, z Nelson's Dockyard w English Harbour jako główną atrakcją. Ten wpisany na listę UNESCO port, niegdyś baza brytyjskiej marynarki wojennej, dziś jest tętniącym życiem centrum żeglarskim z restauracjami i muzeami. Z punktu widokowego Shirley Heights można podziwiać spektakularne zachody słońca i panoramy."
+      ],
+      "highlights": [
+        "Ponad 365 plaż",
+        "Nelson's Dockyard (UNESCO)",
+        "Żeglarstwo i sporty wodne",
+        "Malownicze punkty widokowe"
+      ]
+    },
+    {
+      "slug": "barbuda",
+      "name": "Barbuda",
+      "loc": "na Barbudzie",
+      "type": "wyspa",
+      "gygQuery": "Barbuda",
+      "airport": "BBQ",
+      "forWhom": "Dla szukających dziewiczej przyrody, spokoju i odosobnienia.",
+      "intro": [
+        "Barbuda to mniejsza, bardziej dziewicza siostra Antigui, oddalona o około 40 minut lotu samolotem lub 90 minut promem. Znana jest z różowych plaż, które zawdzięczają swój kolor drobnym fragmentom muszli. Wyspa jest znacznie mniej zaludniona i oferuje prawdziwą ucieczkę od cywilizacji, idealną dla miłośników spokoju i nienaruszonej przyrody.",
+        "Główną atrakcją Barbudy jest sanktuarium fregat, jedno z największych na świecie, gdzie można obserwować te majestatyczne ptaki. Wyspa powoli odbudowuje się po zniszczeniach huraganu Irma w 2017 roku, zachowując swój autentyczny charakter. To miejsce, gdzie można poczuć prawdziwą karaibską dzikość i cieszyć się samotnością na szerokich, pustych plażach."
+      ],
+      "highlights": [
+        "Różowe plaże",
+        "Sanktuarium Fregat",
+        "Dzika, nienaruszona przyroda",
+        "Idealna na ucieczkę od zgiełku"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Nelson's Dockyard National Park",
+      "text": "Historyczny port z XVIII wieku, wpisany na listę UNESCO, niegdyś baza brytyjskiej marynarki wojennej. Dziś to tętniące życiem centrum żeglarskie z muzeami, sklepami i restauracjami.",
+      "gygQuery": "Nelson's Dockyard Antigua"
+    },
+    {
+      "name": "Shirley Heights Lookout",
+      "text": "Punkt widokowy oferujący panoramiczne widoki na English Harbour i Falmouth Harbour. Najlepiej odwiedzić go w niedzielne wieczory, aby podziwiać zachód słońca przy muzyce steel pan i grillu.",
+      "gygQuery": "Shirley Heights Antigua"
+    },
+    {
+      "name": "Devil's Bridge National Park",
+      "text": "Naturalny łuk skalny wyrzeźbiony przez fale Atlantyku, otoczony przez spektakularne gejzery morskie i surowy, wulkaniczny krajobraz.",
+      "gygQuery": "Devil's Bridge Antigua"
+    },
+    {
+      "name": "Half Moon Bay Beach",
+      "text": "Jedna z najpiękniejszych plaż Antigui, o kształcie półksiężyca, z białym piaskiem i turkusową wodą. Idealna do pływania, snorkelingu i relaksu.",
+      "gygQuery": "Half Moon Bay Antigua"
+    },
+    {
+      "name": "Frigate Bird Sanctuary",
+      "text": "Położone na Barbudzie, to jedno z największych na świecie sanktuariów, gdzie można obserwować tysiące majestatycznych fregat wielkich.",
+      "gygQuery": "Frigate Bird Sanctuary Barbuda"
+    },
+    {
+      "name": "Dickenson Bay",
+      "text": "Popularna plaża na północnym wybrzeżu Antigui, znana z szerokiej oferty sportów wodnych, barów plażowych i resortów. Idealna dla aktywnych.",
+      "gygQuery": "Dickenson Bay Antigua"
+    },
+    {
+      "name": "St. John's Cathedral",
+      "text": "Imponująca katedra anglikańska w stolicy Saint John's, z charakterystycznymi bliźniaczymi wieżami. Warto zobaczyć jej wnętrze i podziwiać architekturę.",
+      "gygQuery": "St John's Cathedral Antigua"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Antigui i Barbudy to smaczna mieszanka wpływów afrykańskich, kreolskich i europejskich, z dużą ilością świeżych owoców morza. Podstawą diety są ryby i owoce morza, często grillowane lub duszone w aromatycznych sosach. Wśród lokalnych specjałów warto spróbować fungee (rodzaj ciasta kukurydzianego) podawanego z pepperpot (gulasz z mięsa i warzyw), a także świeżych owoców, takich jak ananasy \"Black Pineapple\", mango i papaje. Popularne są też roti, czyli indyjskie placki z nadzieniem, oraz różnorodne dania z ryżu i fasoli."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Antiguę i Barbudę?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych przepisów przed podróżą."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Antigui i Barbudzie?",
+      "a": "Oficjalną walutą jest dolar wschodniokaraibski (XCD), ale dolar amerykański (USD) jest powszechnie akceptowany. W większych miejscowościach można płacić kartami kredytowymi, ale warto mieć gotówkę na drobne zakupy."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Antiguę i Barbudę?",
+      "a": "Najlepszy czas na podróż to pora sucha, od grudnia do maja, kiedy panuje słoneczna pogoda i niższa wilgotność. Od czerwca do listopada to pora deszczowa, z większym ryzykiem huraganów, ale często niższymi cenami."
+    },
+    {
+      "q": "Czy Antigua i Barbuda są bezpieczne?",
+      "a": "Kraj jest stosunkowo bezpieczny, ale należy zachować podstawowe środki ostrożności, zwłaszcza po zmroku, i uważać na drobne kradzieże. Zaleca się picie wody butelkowanej i ochronę przed komarami."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}
