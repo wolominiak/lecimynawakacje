@@ -1,0 +1,176 @@
+{
+  "slug": "sudan",
+  "loc": "w Sudanie",
+  "to": "do Sudanu",
+  "teaser": "Sudan to kraj dla doświadczonych podróżników, szukających autentycznych wrażeń z dala od utartych szlaków i masowej turystyki.",
+  "intro": [
+    "Sudan, położony w północno-wschodniej Afryce, to państwo o niezwykle bogatej historii, często nazywane krainą starożytnej Nubii. To tutaj, wzdłuż Nilu, rozwijały się cywilizacje pozostawiające po sobie imponujące piramidy i świątynie, które dorównują, a czasem nawet przewyższają te egipskie pod względem liczby. Kraj ten oferuje unikalne doświadczenia dla tych, którzy pragną zgłębić afrykańską historię i kulturę z dala od komercyjnych szlaków.",
+    "Podróż do Sudanu to wyzwanie, które wynagradza autentycznymi spotkaniami z lokalną ludnością, krajobrazami pustyni, sawanny i majestatycznego Nilu. Nie jest to cel dla każdego - wymaga elastyczności, cierpliwości i świadomości panującej sytuacji. Sudan to przede wszystkim kraj dla poszukiwaczy przygód, archeologów-amatorów i miłośników historii, którzy potrafią docenić surowe piękno i głębię kulturową, pomimo trudności.",
+    "Loty z Polski do Sudanu zazwyczaj wymagają co najmniej jednej przesiadki, najczęściej w Stambule lub jednym z krajów Zatoki Perskiej, co sprawia, że podróż jest długa i męcząca. Przed wyjazdem konieczne jest dokładne zapoznanie się z aktualnymi ostrzeżeniami dla podróżnych, przepisami wizowymi i sytuacją bezpieczeństwa, która może dynamicznie się zmieniać. Sudan to destynacja, która wymaga starannego planowania i przygotowania."
+  ],
+  "highlights": [
+    "Piramidy w Meroe - imponujące nekropolie nubijskich władców",
+    "Starożytne ruiny w Nuri i Karima - świadectwa dawnych królestw",
+    "Spotkanie Błękitnego i Białego Nilu w Chartumie",
+    "Pustynne krajobrazy i tradycyjne wioski",
+    "Autentyczna kultura i gościnność Sudańczyków",
+    "Muzeum Narodowe Sudanu z bogatymi zbiorami"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "chartum",
+      "name": "Chartum",
+      "loc": "w Chartumie",
+      "intro": [
+        "Chartum, stolica Sudanu, to miasto położone w miejscu, gdzie Błękitny Nil łączy się z Białym Nilem, tworząc jeden, potężny Nil. To tętniące życiem centrum polityczne i gospodarcze kraju, które pomimo swojej surowości, oferuje wgląd w codzienność Sudańczyków. Miasto jest punktem startowym dla większości podróży po Sudanie i stanowi bazę wypadową do odkrywania okolicznych atrakcji.",
+        "W Chartumie warto odwiedzić Muzeum Narodowe Sudanu, które przechowuje bezcenne artefakty z czasów starożytnej Nubii, w tym przeniesione świątynie. Spacer po targu Omdurman, największym w Sudanie, to prawdziwa uczta dla zmysłów, gdzie można poczuć puls lokalnego życia i spróbować tradycyjnych potraw. Obserwacja ceremonii walki Nuba, jeśli jest dostępna, to niezapomniane doświadczenie kulturowe."
+      ],
+      "airport": "KRT",
+      "forWhom": "Dla podróżników zainteresowanych historią, kulturą i codziennym życiem Sudanu.",
+      "gygQuery": "Khartoum Sudan",
+      "highlights": [
+        "Połączenie Nilów: Błękitnego i Białego",
+        "Muzeum Narodowe Sudanu",
+        "Targ Omdurman",
+        "Grobowiec Mahdiego"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "meroe",
+      "name": "Meroe",
+      "loc": "w Meroe",
+      "intro": [
+        "Meroe to jedno z najbardziej spektakularnych stanowisk archeologicznych w Sudanie i na całym kontynencie afrykańskim. To starożytna stolica królestwa Kusz, słynąca z setek piramid o charakterystycznych, stromych zboczach. Piramidy w Meroe, choć mniejsze od egipskich, są równie fascynujące i często można je podziwiać w samotności, co dodaje im tajemniczości i uroku.",
+        "Kompleks piramid w Meroe jest wpisany na listę światowego dziedzictwa UNESCO i stanowi świadectwo potęgi i wyrafinowania cywilizacji nubijskiej. Oprócz piramid, w okolicy znajdują się ruiny świątyń i pałaców, które pozwalają wyobrazić sobie dawne życie. To obowiązkowy punkt dla każdego, kto interesuje się historią starożytną i archeologią, oferujący niezapomniane widoki, zwłaszcza o wschodzie i zachodzie słońca."
+      ],
+      "airport": "KRT",
+      "forWhom": "Dla miłośników archeologii i starożytnych cywilizacji, szukających unikalnych widoków.",
+      "gygQuery": "Meroe pyramids",
+      "highlights": [
+        "Setki starożytnych piramid",
+        "Ruiny świątyń i pałaców",
+        "Krajobrazy pustynne",
+        "Wschody i zachody słońca nad piramidami"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "jebel-barkal",
+      "name": "Jebel Barkal i Nuri",
+      "loc": "w Jebel Barkal i Nuri",
+      "intro": [
+        "Jebel Barkal, czyli Święta Góra, to kolejne kluczowe miejsce na mapie starożytnego Sudanu, również wpisane na listę UNESCO. U podnóża tej charakterystycznej góry znajdują się ruiny świątyń poświęconych bogu Amonowi oraz nekropolie z piramidami, które były miejscem pochówku królów i królowych królestwa Kusz. To miejsce o ogromnym znaczeniu religijnym i historycznym.",
+        "Niedaleko Jebel Barkal leży Nuri, gdzie znajdują się jedne z największych piramid nubijskich, w tym grobowiec króla Taharki. Te mniej znane, ale równie imponujące stanowiska archeologiczne oferują głęboki wgląd w historię regionu i pozwalają na intymne doświadczenie starożytnego świata, z dala od tłumów. To idealne miejsce dla tych, którzy chcą poczuć ducha dawnych cywilizacji w ciszy pustyni."
+      ],
+      "airport": "KRT",
+      "forWhom": "Dla pasjonatów historii i archeologii, pragnących odkrywać mniej znane starożytne miejsca.",
+      "gygQuery": "Jebel Barkal Nuri",
+      "highlights": [
+        "Święta Góra Jebel Barkal",
+        "Świątynie Amona",
+        "Piramidy w Nuri",
+        "Grobowce nubijskich władców"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Piramidy w Meroe",
+      "text": "Imponujące nekropolie starożytnych władców Królestwa Kusz, wpisane na listę UNESCO. Setki piramid o stromych zboczach, często w otoczeniu pustyni bez innych turystów.",
+      "gygQuery": "Meroe pyramids"
+    },
+    {
+      "name": "Jebel Barkal",
+      "text": "Święta Góra i kompleks świątynny u jej podnóża, miejsce pochówku władców Kusz. Oferuje ruiny świątyń i piramid, świadczące o bogatej historii regionu.",
+      "gygQuery": "Jebel Barkal"
+    },
+    {
+      "name": "Muzeum Narodowe Sudanu w Chartumie",
+      "text": "Przechowuje bezcenne artefakty z całej historii Sudanu, w tym przeniesione świątynie i rzeźby z czasów nubijskich królestw.",
+      "gygQuery": "Sudan National Museum Khartoum"
+    },
+    {
+      "name": "Targ Omdurman",
+      "text": "Największy i najbardziej tętniący życiem targ w Sudanie, gdzie można doświadczyć autentycznej atmosfery, kupić lokalne produkty i spróbować ulicznego jedzenia.",
+      "gygQuery": "Omdurman market"
+    },
+    {
+      "name": "Połączenie Nilów",
+      "text": "W Chartumie można obserwować, jak Błękitny Nil (z Etiopii) i Biały Nil (z Ugandy) łączą się, tworząc jeden potężny Nil, płynący dalej na północ.",
+      "gygQuery": "Confluence of Niles Khartoum"
+    },
+    {
+      "name": "Nuri",
+      "text": "Miejsce pochówku królów i królowych Kusz, z dużymi, ale mniej znanymi piramidami. To spokojne i historycznie ważne stanowisko archeologiczne.",
+      "gygQuery": "Nuri pyramids"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Sudan jest bezpieczny dla turystów?",
+      "a": "Sytuacja bezpieczeństwa w Sudanie jest niestabilna i dynamicznie się zmienia. Zaleca się unikanie podróży do Sudanu ze względu na trwający konflikt zbrojny. Przed podjęciem decyzji o podróży należy bezwzględnie sprawdzić aktualne ostrzeżenia Ministerstwa Spraw Zagranicznych RP."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Sudanu?",
+      "a": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą w ambasadzie Sudanu. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Wymagane są również zaświadczenia o szczepieniach, zwłaszcza przeciwko żółtej febrze."
+    },
+    {
+      "q": "Jaka jest waluta Sudanu i jak płacić?",
+      "a": "Walutą Sudanu jest funt sudański (SDG). Ze względu na sankcje i niestabilność finansową, karty płatnicze są rzadko akceptowane. Zaleca się posiadanie wystarczającej ilości gotówki (USD lub EUR), którą można wymienić na lokalną walutę w bankach lub kantorach."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Sudanu?",
+      "a": "Najlepszy czas na podróż do Sudanu to okres od października do marca, kiedy temperatury są niższe i bardziej znośne. Unikać należy miesięcy letnich (od kwietnia do września) ze względu na ekstremalne upały, które mogą przekraczać 40°C."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Sudanu przypada na miesiące zimowe, od października do marca. W tym okresie temperatury są znacznie niższe niż w pozostałej części roku, co czyni zwiedzanie bardziej komfortowym. Unikaj podróży w miesiącach letnich (od kwietnia do września), kiedy upały są ekstremalne i mogą być niebezpieczne. Należy jednak pamiętać, że nawet w chłodniejszych miesiącach słońce jest bardzo intensywne.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": []
+  },
+  "capital": "Chartum",
+  "climate": {
+    "air": [
+      31,
+      34,
+      38,
+      41,
+      42,
+      41,
+      38,
+      37,
+      38,
+      39,
+      35,
+      32
+    ],
+    "note": "Średnie maksymalne temperatury dzienne dla Chartumu",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia sudańska jest prosta, ale sycąca, z silnymi wpływami arabskimi i afrykańskimi. Podstawą diety są zboża, takie jak sorgo i proso, z których przygotowuje się \"kisrę\" - rodzaj płaskiego chleba. Popularne są dania z fasoli, soczewicy oraz mięsa (głównie wołowiny, baraniny i kurczaka), często podawane z ryżem lub warzywami. Warto spróbować \"ful medames\" (duszona fasola) na śniadanie oraz \"tagine\" (gulasz) z mięsem i warzywami. Herbata, zwłaszcza słodka, jest wszechobecna i stanowi ważny element gościnności."
+  ],
+  "gygQuery": "Sudan",
+  "practical": {
+    "documents": "Wiza jest wymagana dla obywateli Polski i należy ją uzyskać przed podróżą w ambasadzie Sudanu. Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu. Wymagane są również międzynarodowe świadectwa szczepień, zwłaszcza przeciwko żółtej febrze. Zawsze należy sprawdzić aktualne wymogi wizowe i zdrowotne przed wyjazdem w oficjalnych źródłach (MSZ RP, ambasada Sudanu).",
+    "flight": "Około 9-12 godzin z przesiadką (np. w Stambule lub Dubaju).",
+    "language": "Oficjalne języki to arabski i angielski. W miastach i miejscach turystycznych można porozumieć się po angielsku, ale znajomość podstaw arabskiego jest bardzo pomocna.",
+    "money": "Walutą jest funt sudański (SDG). Płatności kartą są bardzo ograniczone, a bankomaty rzadko dostępne. Należy zabrać ze sobą gotówkę (najlepiej dolary amerykańskie lub euro) i wymieniać ją w bankach lub zaufanych kantorach. Ze względu na niestabilność ekonomiczną, kursy mogą się wahać.",
+    "plugs": "W Sudanie używane są gniazdka typu C, D i G. Zaleca się zabranie uniwersalnego adaptera. Napięcie wynosi 230 V, a częstotliwość 50 Hz.",
+    "safety": "Sytuacja bezpieczeństwa w Sudanie jest niezwykle trudna i niestabilna ze względu na trwający konflikt zbrojny. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do Sudanu. W przypadku konieczności podróży, należy zachować najwyższą ostrożność, unikać wszelkich zgromadzeń, demonstracji i terenów objętych walkami. Ryzyko porwań, napadów i ataków terrorystycznych jest wysokie. Dostęp do opieki medycznej jest bardzo ograniczony. Przed wyjazdem konieczne jest wykupienie kompleksowego ubezpieczenia podróżnego, obejmującego ewakuację medyczną.",
+    "timeDiff": "W czasie zimowym w Polsce +1 godzina, w czasie letnim czas jest taki sam."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

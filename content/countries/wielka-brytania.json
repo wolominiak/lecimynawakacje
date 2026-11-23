@@ -1,0 +1,214 @@
+{
+  "slug": "wielka-brytania",
+  "loc": "w Wielkiej Brytanii",
+  "to": "do Wielkiej Brytanii",
+  "teaser": "Wielka Brytania to kraj o bogatej historii, różnorodnych krajobrazach i tętniących życiem miastach. Odwiedź Londyn, odkryj szkockie Highlands lub podziwiaj urok angielskiej wsi.",
+  "intro": [
+    "Wielka Brytania, składająca się z Anglii, Szkocji, Walii i Irlandii Północnej, to fascynujący kierunek, który oferuje coś dla każdego. Od majestatycznych zamków i historycznych miast po dzikie, górskie krajobrazy i urokliwe wybrzeża. Kraj ten to prawdziwa mozaika kultur, gdzie tradycja przeplata się z nowoczesnością, a każdy region ma swój unikalny charakter i atrakcje.",
+    "To idealny kierunek zarówno dla miłośników miejskich wycieczek, którzy chcą zanurzyć się w kulturalnym tyglu Londynu czy Edynburga, jak i dla poszukiwaczy przygód ceniących piesze wędrówki po szkockich Highlands czy parkach narodowych Anglii i Walii. Rodziny znajdą tu wiele atrakcji edukacyjnych i rozrywkowych, a smakosze odkryją tradycyjną kuchnię pubową oraz nowoczesne, międzynarodowe restauracje. Wielka Brytania to także raj dla fanów muzyki, sztuki i literatury.",
+    "Podróż z Polski do Wielkiej Brytanii jest prosta i szybka. Liczne połączenia lotnicze z głównych polskich miast do Londynu, Manchesteru, Edynburga czy innych regionalnych lotnisk sprawiają, że dotarcie na miejsce zajmuje zaledwie 2-3 godziny. Po Brexicie obywatele Polski potrzebują ważnego paszportu do wjazdu na teren Wielkiej Brytanii w celach turystycznych. Na miejscu sprawnie działa transport publiczny, zwłaszcza kolej, co ułatwia przemieszczanie się między miastami i regionami."
+  ],
+  "highlights": [
+    "Odkryj zabytki i muzea Londynu",
+    "Podziwiaj dzikie krajobrazy Szkocji",
+    "Zwiedzaj średniowieczne zamki",
+    "Poczuj atmosferę angielskich pubów",
+    "Wędruj po malowniczych parkach narodowych",
+    "Spróbuj tradycyjnego fish and chips"
+  ],
+  "popularity": 45,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "londyn",
+      "name": "Londyn",
+      "loc": "w Londynie",
+      "intro": [
+        "Londyn to bijące serce Wielkiej Brytanii, miasto, które nigdy nie śpi i oferuje niezliczone atrakcje dla każdego. Od ikonicznych zabytków, takich jak Big Ben, Pałac Buckingham czy Tower of London, po światowej klasy muzea, galerie sztuki i teatry. To także raj dla zakupoholików, z luksusowymi butikami na Oxford Street i Regent Street oraz urokliwymi targami, takimi jak Borough Market czy Portobello Road.",
+        "Miasto jest niezwykle zróżnicowane kulturowo, co widać w jego kuchni, dzielnicach i atmosferze. Można tu spędzić dni, spacerując po zielonych parkach, takich jak Hyde Park czy Regent's Park, podziwiając architekturę, a wieczorem wybrać się na West End na musical. Londyn to idealne miejsce na kilkudniowy city break, pełen wrażeń i możliwości."
+      ],
+      "airport": "LHR, LGW, STN, LTN",
+      "forWhom": "Dla miłośników kultury, historii, zakupów i tętniącego życiem miasta.",
+      "gygQuery": "London",
+      "highlights": [
+        "Big Ben i Parlament",
+        "British Museum i National Gallery",
+        "Pałac Buckingham i zmiana warty",
+        "Tower of London i klejnoty koronne"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "szkocja",
+      "name": "Szkocja",
+      "loc": "w Szkocji",
+      "intro": [
+        "Szkocja to kraina dzikiej przyrody, surowych gór, tajemniczych jezior i bogatej historii. Edynburg, jej stolica, zachwyca średniowiecznym zamkiem górującym nad miastem oraz urokliwą Starówką wpisaną na listę UNESCO. To także miasto festiwali, zwłaszcza słynnego Fringe Festival.",
+        "Poza miastami, Szkocja to przede wszystkim Highlands - góry, doliny i wrzosowiska, które zapierają dech w piersiach. Można tu odwiedzić destylarnie whisky, poszukać potwora w Loch Ness, a także podziwiać malownicze wyspy, takie jak Isle of Skye. To idealne miejsce dla aktywnych podróżników, ceniących kontakt z naturą i legendami."
+      ],
+      "airport": "EDI, GLA",
+      "forWhom": "Idealna dla poszukiwaczy dzikiej przyrody, miłośników gór i tajemniczych zamków.",
+      "gygQuery": "Scotland",
+      "highlights": [
+        "Zamek w Edynburgu",
+        "Szkockie Highlands",
+        "Jezioro Loch Ness",
+        "Degustacja szkockiej whisky"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "angielska-wies",
+      "name": "Angielska Wieś (np. Lake District)",
+      "loc": "na angielskiej wsi",
+      "intro": [
+        "Angielska wieś to synonim spokoju, zielonych wzgórz i urokliwych, kamiennych wiosek. Regiony takie jak Lake District, Cotswolds czy Yorkshire Dales oferują malownicze krajobrazy, idealne do pieszych wędrówek i relaksu. Lake District, z jego licznymi jeziorami i górami, jest rajem dla miłośników outdooru, inspirującym wielu poetów i pisarzy.",
+        "Cotswolds to z kolei kwintesencja angielskiego uroku, z miodowymi domkami, zabytkowymi kościołami i pięknymi ogrodami. To doskonałe miejsce, by uciec od zgiełku miasta, delektować się lokalną kuchnią w tradycyjnych pubach i odkrywać ukryte perełki. Angielska wieś to także liczne historyczne dwory i ogrody, które można zwiedzać."
+      ],
+      "airport": "MAN",
+      "forWhom": "Dla tych, którzy cenią spokój, malownicze krajobrazy i spacery pośród natury.",
+      "gygQuery": "Lake District National Park",
+      "highlights": [
+        "Jeziora Lake District",
+        "Urokliwe wioski Cotswolds",
+        "Piesze szlaki w Yorkshire Dales",
+        "Historyczne dwory i ogrody"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "walia",
+      "name": "Walia",
+      "loc": "w Walii",
+      "intro": [
+        "Walia to kraj o bogatej historii, pełen zamków i legend, z pięknymi, często surowymi krajobrazami. Park Narodowy Snowdonia, z najwyższym szczytem Walii - Snowdon, oferuje spektakularne widoki i liczne szlaki turystyczne dla wspinaczy i piechurów. Walia słynie z imponującej liczby średniowiecznych zamków, takich jak Caernarfon, Conwy czy Harlech, które świadczą o jej burzliwej przeszłości.",
+        "Wybrzeże Walii, zwłaszcza Park Narodowy Pembrokeshire Coast, to raj dla miłośników sportów wodnych i spacerów po klifach. Stolica, Cardiff, to dynamiczne miasto z zamkiem w centrum, nowoczesnym nabrzeżem Cardiff Bay i bogatą ofertą kulturalną. Walia to idealny kierunek dla tych, którzy szukają połączenia natury, historii i walijskiej gościnności."
+      ],
+      "airport": "CWL",
+      "forWhom": "Kraj zamków, legend i surowych, ale pięknych krajobrazów, idealny dla aktywnych.",
+      "gygQuery": "Wales",
+      "highlights": [
+        "Park Narodowy Snowdonia",
+        "Zamek Caernarfon",
+        "Wybrzeże Pembrokeshire",
+        "Cardiff i jego zamek"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "British Museum",
+      "text": "Jedno z największych i najstarszych muzeów na świecie, prezentujące kolekcje z zakresu historii ludzkości, sztuki i kultury. Wstęp jest bezpłatny, a wśród eksponatów znajdują się Kamień z Rosetty i rzeźby z Partenonu.",
+      "gygQuery": "British Museum"
+    },
+    {
+      "name": "Pałac Buckingham",
+      "text": "Oficjalna rezydencja brytyjskich monarchów w Londynie, symbol monarchii. Warto zobaczyć ceremonię zmiany warty lub zwiedzić państwowe apartamenty w okresie letnim.",
+      "gygQuery": "Buckingham Palace"
+    },
+    {
+      "name": "Stonehenge",
+      "text": "Prehistoryczny krąg kamienny w hrabstwie Wiltshire, którego pochodzenie i przeznaczenie wciąż pozostają zagadką. To jedno z najbardziej rozpoznawalnych miejsc w Wielkiej Brytanii, wpisane na listę UNESCO.",
+      "gygQuery": "Stonehenge"
+    },
+    {
+      "name": "Zamek w Edynburgu",
+      "text": "Imponujący zamek górujący nad stolicą Szkocji, będący świadkiem wielu ważnych wydarzeń historycznych. Można tu podziwiać szkockie klejnoty koronne i Kamień Przeznaczenia.",
+      "gygQuery": "Edinburgh Castle"
+    },
+    {
+      "name": "Loch Ness",
+      "text": "Słynne szkockie jezioro, znane z legendy o potworze Nessie. Otoczone pięknymi krajobrazami, oferuje rejsy statkiem i możliwość odwiedzenia ruin zamku Urquhart.",
+      "gygQuery": "Loch Ness"
+    },
+    {
+      "name": "Giant's Causeway (Grobla Olbrzyma)",
+      "text": "Niezwykła formacja skalna na wybrzeżu Irlandii Północnej, składająca się z tysięcy bazaltowych kolumn. Powstała w wyniku erupcji wulkanicznej, ale lokalne legendy przypisują ją olbrzymom.",
+      "gygQuery": "Giants Causeway"
+    },
+    {
+      "name": "Tower of London",
+      "text": "Historyczna forteca w centrum Londynu, która przez wieki pełniła funkcje pałacu, więzienia i miejsca egzekucji. Dziś można tu zobaczyć klejnoty koronne i poznać mroczną historię tego miejsca.",
+      "gygQuery": "Tower of London"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję paszportu do Wielkiej Brytanii?",
+      "a": "Tak, po wystąpieniu Wielkiej Brytanii z Unii Europejskiej, obywatele Polski muszą posiadać ważny paszport, aby wjechać na teren kraju w celach turystycznych."
+    },
+    {
+      "q": "Jaka jest waluta w Wielkiej Brytanii?",
+      "a": "Oficjalną walutą Wielkiej Brytanii jest funt szterling (GBP). W większości miejsc można płacić kartą, ale warto mieć przy sobie trochę gotówki na drobne wydatki."
+    },
+    {
+      "q": "Jakie są gniazdka elektryczne w Wielkiej Brytanii?",
+      "a": "W Wielkiej Brytanii używane są gniazdka typu G (trzy prostokątne bolce). Konieczne jest zabranie ze sobą adaptera, aby móc korzystać z polskich urządzeń elektrycznych."
+    },
+    {
+      "q": "Czy w Wielkiej Brytanii jest ruch lewostronny?",
+      "a": "Tak, w Wielkiej Brytanii obowiązuje ruch lewostronny. Jeśli planujesz wynająć samochód, pamiętaj, że kierownica znajduje się po prawej stronie pojazdu."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Wielkiej Brytanii to późna wiosna i wczesna jesień, czyli miesiące od maja do czerwca oraz wrzesień. W tym okresie pogoda jest zazwyczaj łagodniejsza, a tłumy turystów mniejsze niż w szczycie sezonu letniego. Letnie miesiące, lipiec i sierpień, są również popularne, ale mogą być bardziej deszczowe i zatłoczone, zwłaszcza w Londynie i popularnych regionach turystycznych. Wiosną i jesienią natura prezentuje się pięknie, a temperatury są przyjemne do zwiedzania.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Londyn",
+  "climate": {
+    "air": [
+      8,
+      8,
+      11,
+      14,
+      18,
+      21,
+      23,
+      23,
+      20,
+      15,
+      11,
+      8
+    ],
+    "note": "dla południowej Anglii (np. Londyn)",
+    "sea": [
+      9,
+      8,
+      8,
+      9,
+      12,
+      14,
+      16,
+      17,
+      16,
+      14,
+      12,
+      10
+    ]
+  },
+  "cuisine": [
+    "Brytyjska kuchnia to znacznie więcej niż tylko fish and chips, choć to danie jest absolutnym klasykiem, którego trzeba spróbować. Tradycyjne śniadanie angielskie (Full English Breakfast) to sycący początek dnia, a niedzielny obiad (Sunday Roast) z pieczonym mięsem, ziemniakami i warzywami to prawdziwa uczta. Popularne są także różnego rodzaju placki (pies), takie jak steak and kidney pie czy shepherd's pie. Nie można zapomnieć o popołudniowej herbatce z ciasteczkami i kanapkami. Brytyjskie puby oferują szeroki wybór piw i często serwują smaczne, proste dania pubowe."
+  ],
+  "gygQuery": "United Kingdom",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują ważnego paszportu do wjazdu na teren Wielkiej Brytanii w celach turystycznych. Zaleca się sprawdzenie aktualnych wymogów przed podróżą na stronach rządowych.",
+    "flight": "Około 2-3 h (loty bezpośrednie z Polski do głównych miast)",
+    "language": "Angielski. W Walii używany jest również język walijski, a w Szkocji gaelicki, choć angielski jest powszechny.",
+    "money": "Walutą jest funt szterling (GBP). Płatności kartą są powszechne, ale warto mieć trochę gotówki. Kantory są dostępne, a bankomaty szeroko rozpowszechnione.",
+    "plugs": "Gniazdka elektryczne typu G (trzy prostokątne bolce). Niezbędny jest adapter.",
+    "safety": "Wielka Brytania jest krajem bezpiecznym. Należy zachować standardowe środki ostrożności, zwłaszcza w zatłoczonych miejscach turystycznych. Opieka medyczna jest na wysokim poziomie, ale warto mieć ubezpieczenie podróżne."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

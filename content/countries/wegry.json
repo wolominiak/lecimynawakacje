@@ -1,0 +1,183 @@
+{
+  "slug": "wegry",
+  "loc": "na Węgrzech",
+  "to": "na Węgry",
+  "teaser": "Węgry to kraj pełen historii, termalnych źródeł i wyśmienitej kuchni, idealny na weekendowy wypad lub dłuższy relaks nad Balatonem.",
+  "intro": [
+    "Węgry, położone w sercu Europy Środkowej, to kierunek, który zaskakuje bogactwem kultury, architektury i naturalnych piękności. Od tętniącego życiem Budapesztu, przez spokojne wody Balatonu, po malownicze regiony winiarskie, kraj ten oferuje różnorodne atrakcje. To miejsce, gdzie historia splata się z nowoczesnością, a tradycyjna gościnność łączy się z europejskimi standardami. Węgry słyną z łaźni termalnych, które są integralną częścią życia społecznego i kulturalnego.",
+    "Kraj ten jest idealny dla miłośników city breaków, którzy cenią sobie zwiedzanie zabytków i korzystanie z uroków miejskiego życia. Rodziny z dziećmi znajdą tu wiele atrakcji, zwłaszcza nad Balatonem, oferującym płytkie plaże i liczne możliwości aktywnego wypoczynku. Węgry to także raj dla smakoszy, poszukujących autentycznych kulinarnych doświadczeń, oraz dla koneserów wina, którzy mogą odkrywać smaki lokalnych winnic. Każdy znajdzie tu coś dla siebie, niezależnie od preferencji.",
+    "Dla turystów z Polski podróż na Węgry jest wyjątkowo prosta i komfortowa. Do Budapesztu można dotrzeć samolotem w zaledwie około 1,5 godziny z większych miast Polski, co czyni go idealnym celem na krótki wypad. Możliwy jest również dojazd samochodem, pociągiem lub autokarem, co daje elastyczność w planowaniu podróży. Dzięki bliskości geograficznej i dobrej infrastrukturze, Węgry są łatwo dostępne i stanowią atrakcyjną opcję na urlop."
+  ],
+  "highlights": [
+    "Relaks w słynnych łaźniach termalnych Budapesztu",
+    "Rejs po Dunaju z widokiem na Parlament",
+    "Degustacja węgierskich win, w tym Tokaju",
+    "Wypoczynek i sporty wodne nad Jeziorem Balaton",
+    "Odkrywanie smaków gulaszu i langosza",
+    "Zwiedzanie historycznych miasteczek i zamków"
+  ],
+  "popularity": 48,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "budapeszt",
+      "name": "Budapeszt",
+      "loc": "w Budapeszcie",
+      "intro": [
+        "Budapeszt, stolica Węgier, to miasto o niezwykłej urodzie, często nazywane \"Paryżem Wschodu\". Podzielone przez Dunaj na dwie części - pagórkowatą Budę z Zamkiem Królewskim i Pesztem z monumentalnym Parlamentem - oferuje niezliczone atrakcje. To centrum kulturalne i historyczne kraju, gdzie na każdym kroku można podziwiać imponującą architekturę, od secesyjnych kamienic po gotyckie kościoły. Miasto słynie również z bogatego życia nocnego, zwłaszcza w słynnych \"ruin barach\".",
+        "W Budapeszcie nie można pominąć wizyty w jednej z licznych łaźni termalnych, takich jak Szechenyi czy Gellért, które stanowią ważny element węgierskiej tradycji. Spacer wzdłuż Dunaju, rejs statkiem czy wjazd na Wzgórze Gellerta, skąd rozciąga się panorama miasta, to tylko niektóre z obowiązkowych punktów programu. Budapeszt to także raj dla smakoszy, oferujący zarówno tradycyjne węgierskie potrawy, jak i nowoczesne restauracje."
+      ],
+      "airport": "BUD",
+      "forWhom": "Idealny dla miłośników historii, kultury, architektury i relaksu w termach.",
+      "gygQuery": "Budapest",
+      "highlights": [
+        "Parlament Węgier i Most Łańcuchowy",
+        "Łaźnie Szechenyi i Gellért",
+        "Zamek Królewski i Dzielnica Zamkowa",
+        "Ulica Váci i Wielka Hala Targowa"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "jezioro-balaton",
+      "name": "Jezioro Balaton",
+      "loc": "nad Jeziorem Balaton",
+      "intro": [
+        "Jezioro Balaton, największe jezioro w Europie Środkowej, to popularny cel letnich wakacji, nazywane często \"Węgierskim Morzem\". Jego płytkie, ciepłe wody są idealne do kąpieli i sportów wodnych, co czyni go doskonałym miejscem dla rodzin z dziećmi. Północny brzeg jeziora jest bardziej górzysty i malowniczy, z licznymi winnicami i zabytkowymi miasteczkami, natomiast południowy brzeg słynie z piaszczystych plaż i tętniących życiem kurortów, takich jak Siófok.",
+        "Region Balatonu oferuje szeroki wachlarz aktywności - od żeglarstwa, windsurfingu i pływania, po piesze i rowerowe wycieczki po okolicznych wzgórzach. Warto odwiedzić urokliwy półwysep Tihany z opactwem benedyktynów i polami lawendy, a także spróbować lokalnych win w jednej z licznych winnic. Balaton to miejsce, gdzie można połączyć aktywny wypoczynek z relaksem i degustacją regionalnych przysmaków."
+      ],
+      "airport": "BUD",
+      "forWhom": "Doskonały dla rodzin z dziećmi, par i wszystkich szukających relaksu nad wodą oraz aktywnego wypoczynku.",
+      "gygQuery": "Lake Balaton",
+      "highlights": [
+        "Półwysep Tihany i Opactwo Benedyktynów",
+        "Kurorty Siófok i Balatonfüred",
+        "Winnice i degustacje wina",
+        "Plaże i sporty wodne"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "eger",
+      "name": "Eger",
+      "loc": "w Egerze",
+      "intro": [
+        "Eger to historyczne miasto położone w północnych Węgrzech, słynące z imponującego zamku, barokowej architektury i doskonałych win. Miasto ma bogatą historię, której świadectwem jest zamek Egerski, który odegrał kluczową rolę w obronie przed najazdem tureckim w XVI wieku. Spacerując po urokliwych uliczkach Egeru, można podziwiać piękne barokowe budynki, minaret z czasów osmańskich oraz majestatyczną bazylikę.",
+        "Eger to także serce jednego z najważniejszych regionów winiarskich Węgier. Słynna Dolina Pięknej Pani (Szépasszony-völgy) to miejsce, gdzie w piwniczkach wykutych w tufie można degustować lokalne wina, w tym słynną \"Byczą Krew\" (Egri Bikavér). Miasto oferuje również relaks w łaźniach termalnych, co czyni je idealnym miejscem na połączenie zwiedzania z odpoczynkiem i kulinarnymi doznaniami."
+      ],
+      "airport": "BUD",
+      "forWhom": "Polecany dla koneserów wina, miłośników historii i tych, którzy cenią spokojniejszą atmosferę niż w stolicy.",
+      "gygQuery": "Eger Hungary",
+      "highlights": [
+        "Zamek Egerski i jego historia",
+        "Dolina Pięknej Pani i degustacje win",
+        "Barokowa bazylika i minaret turecki",
+        "Łaźnie termalne w Egerze"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Parlament Węgier",
+      "text": "Imponujący neogotycki budynek nad Dunajem, symbol Budapesztu. Można zwiedzać jego wnętrza z przewodnikiem.",
+      "gygQuery": "Hungarian Parliament"
+    },
+    {
+      "name": "Łaźnie Szechenyi",
+      "text": "Jeden z największych kompleksów termalnych w Europie, oferujący baseny zewnętrzne i wewnętrzne z wodami leczniczymi.",
+      "gygQuery": "Szechenyi Thermal Bath"
+    },
+    {
+      "name": "Zamek Królewski w Budzie",
+      "text": "Historyczny kompleks zamkowy, dawna rezydencja królów Węgier, dziś mieszczący muzea i galerie. Zapewnia piękne widoki na miasto.",
+      "gygQuery": "Buda Castle"
+    },
+    {
+      "name": "Półwysep Tihany",
+      "text": "Malowniczy półwysep na Balatonie, znany z opactwa benedyktynów, pól lawendy i urokliwych wiosek rybackich.",
+      "gygQuery": "Tihany Peninsula"
+    },
+    {
+      "name": "Park Narodowy Aggtelek",
+      "text": "Miejsce wpisane na listę UNESCO, słynące z rozległego systemu jaskiń krasowych, w tym Baradla-Domica, jednej z największych w Europie.",
+      "gygQuery": "Aggtelek Caves"
+    },
+    {
+      "name": "Wielka Synagoga w Budapeszcie",
+      "text": "Największa synagoga w Europie i druga co do wielkości na świecie, imponująca budowla w stylu mauretańskim.",
+      "gygQuery": "Dohany Street Synagogue"
+    },
+    {
+      "name": "Dolina Pięknej Pani w Egerze",
+      "text": "Słynna dolina z setkami piwniczek wykutych w tufie, gdzie można degustować lokalne wina, w tym słynną Byczą Krew.",
+      "gygQuery": "Valley of the Beautiful Woman Eger"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy na Węgrzech można płacić euro?",
+      "a": "Oficjalną walutą jest forint węgierski (HUF). W niektórych miejscach turystycznych w Budapeszcie i nad Balatonem akceptowane jest euro, ale kurs może być niekorzystny. Zawsze lepiej mieć forinty lub płacić kartą."
+    },
+    {
+      "q": "Jak dojechać z Budapesztu nad Balaton?",
+      "a": "Najłatwiej dojechać pociągiem z dworca Déli pályaudvar w Budapeszcie do miejscowości nad Balatonem, np. Siófok czy Balatonfüred. Podróż trwa około 1,5-2 godzin. Można też skorzystać z autobusów lub wynająć samochód."
+    },
+    {
+      "q": "Czy woda z kranu na Węgrzech jest zdatna do picia?",
+      "a": "Tak, woda z kranu na Węgrzech jest bezpieczna do picia w całym kraju. Jest dobrej jakości i nie ma potrzeby kupowania wody butelkowanej."
+    },
+    {
+      "q": "Jakie pamiątki warto kupić na Węgrzech?",
+      "a": "Warto przywieźć węgierską paprykę (słodką lub ostrą), salami, wino Tokaj, lokalne alkohole takie jak pálinka, hafty ludowe czy wyroby z porcelany Herend."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na zwiedzanie Węgier to wiosna (maj-czerwiec) i wczesna jesień (wrzesień), kiedy pogoda jest przyjemna, a tłumy turystów mniejsze. Na wypoczynek nad Balatonem idealne będzie lato (lipiec-sierpień), kiedy woda jest najcieplejsza. Zimą Budapeszt oferuje świąteczną atmosferę i możliwość korzystania z łaźni termalnych w chłodniejsze dni.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Budapeszt",
+  "climate": {
+    "air": [
+      3,
+      6,
+      11,
+      17,
+      22,
+      26,
+      28,
+      28,
+      23,
+      16,
+      9,
+      4
+    ],
+    "note": "dla Budapesztu",
+    "sea": null
+  },
+  "cuisine": [
+    "Węgierska kuchnia to prawdziwa uczta dla podniebienia, znana z intensywnych smaków i obfitych porcji. Króluje w niej papryka, która nadaje potrawom charakterystyczny smak i aromat. Obowiązkowo trzeba spróbować gulaszu (gulyás), sycącej zupy z mięsem i warzywami, oraz langosza, smażonego placka z różnymi dodatkami. Warto skosztować także halászlé (zupy rybnej), leczo (lecsó) czy pikantnych kiełbas. Do tego oczywiście lokalne wina, zwłaszcza słynny Tokaj, oraz mocna pálinka."
+  ],
+  "gygQuery": "Hungary",
+  "practical": {
+    "documents": "Dowód osobisty lub paszport. Zaleca się sprawdzenie aktualnych wymogów przed wyjazdem.",
+    "flight": "około 1,5 godziny do Budapesztu",
+    "language": "Węgierski. W miejscach turystycznych często można porozumieć się po angielsku lub niemiecku.",
+    "money": "Węgierski forint (HUF). Płatności kartą są powszechne, gotówka przydatna na targach.",
+    "plugs": "Typ C i F, jak w Polsce.",
+    "safety": "Węgry są krajem bezpiecznym. Należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach turystycznych.",
+    "timeDiff": "brak"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

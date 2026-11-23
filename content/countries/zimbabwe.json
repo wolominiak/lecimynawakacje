@@ -1,0 +1,208 @@
+{
+  "slug": "zimbabwe",
+  "loc": "w Zimbabwe",
+  "to": "do Zimbabwe",
+  "teaser": "Zimbabwe to kraj dla poszukiwaczy prawdziwej Afryki. Oferuje spektakularne wodospady, dziką przyrodę i bogatą historię. To podróż poza utartymi szlakami.",
+  "intro": [
+    "Zimbabwe, położone w południowej Afryce, to kraj, który mimo burzliwej historii, powoli otwiera się na turystykę, oferując autentyczne doświadczenia. To miejsce dla tych, którzy cenią sobie bliski kontakt z naturą, nieprzetworzone krajobrazy i brak tłumów. Od majestatycznych Wodospadów Wiktorii, przez parki narodowe pełne dzikich zwierząt, po starożytne ruiny, Zimbabwe ma wiele do zaoferowania. Jest to kierunek dla podróżników szukających przygody, gotowych na pewne wyzwania logistyczne i pragnących poznać Afrykę z innej perspektywy.",
+    "Kraj przyciąga przede wszystkim miłośników safari i przyrody. Parki narodowe, takie jak Hwange czy Mana Pools, oferują jedne z najlepszych możliwości obserwacji dzikich zwierząt na kontynencie. Można tu spotkać słonie, lwy, bawoły, lamparty i nosorożce. Poza safari, Zimbabwe to także kultura i historia, widoczne w ruinach Wielkiego Zimbabwe, świadectwie dawnej cywilizacji. To podróż, która wymaga elastyczności i otwartości, ale w zamian oferuje niezapomniane wspomnienia i głębokie zanurzenie w afrykański świat.",
+    "Podróż z Polski do Zimbabwe wiąże się zazwyczaj z jedną lub dwiema przesiadkami, najczęściej w europejskich hubach, takich jak Amsterdam, Frankfurt, Stambuł, lub w Afryce, np. w Johannesburgu. Czas lotu, w zależności od połączeń, wynosi około 12-15 godzin. Ze względu na brak bezpośrednich lotów i zorganizowanych wyjazdów czarterowych, Zimbabwe nie jest popularnym kierunkiem wśród polskich biur podróży. Oznacza to, że większość wyjazdów organizowana jest indywidualnie, co daje większą swobodę w planowaniu trasy i dostosowaniu jej do własnych preferencji."
+  ],
+  "highlights": [
+    "Wodospady Wiktorii - jeden z cudów natury",
+    "Safari w Parku Narodowym Hwange",
+    "Starożytne ruiny Wielkiego Zimbabwe",
+    "Spływy kajakowe po rzece Zambezi",
+    "Obserwacja dzikiej przyrody w Mana Pools",
+    "Malownicze krajobrazy Wschodnich Wyżyn"
+  ],
+  "popularity": 12,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "wodospady-wiktorii",
+      "name": "Wodospady Wiktorii",
+      "loc": "przy Wodospadach Wiktorii",
+      "intro": [
+        "Wodospady Wiktorii, znane lokalnie jako Mosi-oa-Tunya, czyli 'Dym, który grzmi', to jeden z najbardziej spektakularnych cudów natury na świecie. Położone na granicy Zimbabwe i Zambii, tworzą imponującą ścianę wody o szerokości ponad 1,7 kilometra i wysokości do 108 metrów. Ogromna ilość wody spadająca do wąskiego wąwozu tworzy mgłę widoczną z wielu kilometrów, a huk wodospadu jest słyszalny z daleka. To obowiązkowy punkt każdej podróży do Zimbabwe, oferujący niezapomniane widoki i wrażenia.",
+        "Oprócz podziwiania samych wodospadów, okolica oferuje szereg atrakcji dla poszukiwaczy mocnych wrażeń. Można tu spróbować raftingu na rzece Zambezi, skoków na bungee z mostu łączącego Zimbabwe z Zambią, a nawet lotów helikopterem nad wodospadami, które zapewniają perspektywę trudną do pobicia. Dla tych, którzy wolą spokojniejsze aktywności, dostępne są rejsy o zachodzie słońca po Zambezi, podczas których można obserwować hipopotamy i krokodyle. To miejsce tętni życiem i oferuje coś dla każdego."
+      ],
+      "airport": "VFA",
+      "forWhom": "Dla każdego, kto chce zobaczyć jeden z największych cudów natury i poszukuje przygód.",
+      "gygQuery": "Victoria Falls Zimbabwe",
+      "highlights": [
+        "Spacer po Parku Wodospadów Wiktorii",
+        "Rafting na rzece Zambezi",
+        "Skoki na bungee z mostu",
+        "Rejsy o zachodzie słońca"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "park-narodowy-hwange",
+      "name": "Park Narodowy Hwange",
+      "loc": "w Parku Narodowym Hwange",
+      "intro": [
+        "Park Narodowy Hwange to największy rezerwat dzikiej przyrody w Zimbabwe i jeden z najważniejszych parków safari w Afryce. Znany jest przede wszystkim z ogromnej populacji słoni, liczącej ponad 40 000 osobników, co czyni go jednym z najlepszych miejsc na świecie do ich obserwacji. Krajobraz parku jest zróżnicowany, od piaszczystych terenów z akacjami po otwarte sawanny i lasy mopane. To idealne miejsce na klasyczne safari, oferujące szansę na spotkanie z całą 'Wielką Piątką'.",
+        "Park oferuje różnorodne opcje safari, od dziennych przejażdżek po wielodniowe wyprawy z noclegami w luksusowych lodżach lub bardziej podstawowych kempingach. Obserwacja zwierząt jest szczególnie dobra w porze suchej, kiedy gromadzą się one wokół wodopojów. Hwange to także dom dla wielu gatunków antylop, żyraf, zebr, a także drapieżników, takich jak lwy, lamparty, gepardy i hieny. To prawdziwa gratka dla miłośników fotografii przyrodniczej i dzikiej Afryki."
+      ],
+      "airport": "VFA",
+      "forWhom": "Dla miłośników safari i obserwacji dzikich zwierząt w ich naturalnym środowisku.",
+      "gygQuery": "Hwange National Park",
+      "highlights": [
+        "Safari z obserwacją słoni",
+        "Poszukiwanie Wielkiej Piątki",
+        "Noclegi w lodżach safari",
+        "Birdwatching (ponad 400 gatunków)"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "wielkie-zimbabwe",
+      "name": "Wielkie Zimbabwe",
+      "loc": "w Wielkim Zimbabwe",
+      "intro": [
+        "Wielkie Zimbabwe to kompleks starożytnych ruin, który dał nazwę współczesnemu państwu i jest najważniejszym zabytkiem archeologicznym w kraju. Te imponujące kamienne konstrukcje, zbudowane bez użycia zaprawy, były stolicą i królewską rezydencją potężnego królestwa Zimbabwe w okresie od XI do XV wieku. Stanowią świadectwo zaawansowanej cywilizacji, która kwitła w tej części Afryki. Wizyta w Wielkim Zimbabwe to podróż w czasie i okazja do poznania bogatej historii kontynentu.",
+        "Ruiny składają się z trzech głównych części: Wzgórza Akropolu, Wielkiej Zagrody i Doliny Ruin. Najbardziej rozpoznawalnym elementem jest Wielka Zagroda z jej wysokim, bezfugowym murem i stożkową wieżą, której przeznaczenie do dziś pozostaje zagadką. Spacerując po tych starożytnych murach, można poczuć ducha minionych wieków i wyobrazić sobie życie ludzi, którzy tu mieszkali i rządzili. To miejsce jest wpisane na listę światowego dziedzictwa UNESCO i stanowi dumę narodową Zimbabwe."
+      ],
+      "airport": "HRE",
+      "forWhom": "Dla entuzjastów historii, archeologii i kultury afrykańskiej.",
+      "gygQuery": "Great Zimbabwe Ruins",
+      "highlights": [
+        "Zwiedzanie Wielkiej Zagrody",
+        "Wspinaczka na Wzgórze Akropolu",
+        "Poznawanie historii królestwa Zimbabwe",
+        "Podziwianie kamiennej architektury"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "park-narodowy-mana-pools",
+      "name": "Park Narodowy Mana Pools",
+      "loc": "w Parku Narodowym Mana Pools",
+      "intro": [
+        "Park Narodowy Mana Pools, wpisany na listę UNESCO, to jeden z najbardziej dziewiczych i dzikich obszarów w Afryce, położony w dolinie rzeki Zambezi. Słynie z unikalnych możliwości obserwacji zwierząt, zwłaszcza podczas pory suchej, kiedy zwierzęta gromadzą się wokół czterech stałych jeziorek (pools), które pozostały po dawnych odnogach Zambezi. Jest to park, gdzie dozwolone są spacery safari z przewodnikiem, co pozwala na niezwykle bliski kontakt z naturą.",
+        "Mana Pools to raj dla miłośników dzikiej przyrody, oferujący niezapomniane spotkania ze słoniami, hipopotamami, krokodylami, a także licznymi drapieżnikami, takimi jak lwy i lamparty. Oprócz tradycyjnego safari samochodem, park jest znany z możliwości spływów kajakowych po Zambezi, co pozwala na obserwację zwierząt z zupełnie innej perspektywy. To miejsce dla prawdziwych poszukiwaczy przygód, którzy cenią sobie autentyczność i chcą doświadczyć Afryki w jej najbardziej surowej formie."
+      ],
+      "airport": "HRE",
+      "forWhom": "Dla doświadczonych podróżników, miłośników dzikiej przyrody i aktywnego safari.",
+      "gygQuery": "Mana Pools National Park",
+      "highlights": [
+        "Safari piesze z przewodnikiem",
+        "Spływy kajakowe po Zambezi",
+        "Obserwacja słoni i hipopotamów",
+        "Dzika, nieskażona przyroda"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wodospady Wiktorii",
+      "text": "Jeden z siedmiu naturalnych cudów świata, imponujący wodospad na rzece Zambezi, oferujący spektakularne widoki i liczne atrakcje.",
+      "gygQuery": "Victoria Falls Zimbabwe"
+    },
+    {
+      "name": "Park Narodowy Hwange",
+      "text": "Największy park narodowy Zimbabwe, słynący z ogromnej populacji słoni i doskonałych możliwości obserwacji dzikiej przyrody, w tym Wielkiej Piątki.",
+      "gygQuery": "Hwange National Park"
+    },
+    {
+      "name": "Wielkie Zimbabwe",
+      "text": "Starożytne ruiny kamiennego miasta, będące świadectwem potężnego królestwa, które istniało tu wieki temu. Obiekt UNESCO.",
+      "gygQuery": "Great Zimbabwe Ruins"
+    },
+    {
+      "name": "Park Narodowy Mana Pools",
+      "text": "Dziki i nieskażony park narodowy w dolinie Zambezi, znany z pieszych safari i spływów kajakowych wśród dzikich zwierząt.",
+      "gygQuery": "Mana Pools National Park"
+    },
+    {
+      "name": "Park Narodowy Matobo",
+      "text": "Charakterystyczny park z granitowymi formacjami skalnymi i jaskiniami z malowidłami naskalnymi. Dom dla nosorożców.",
+      "gygQuery": "Matobo National Park"
+    },
+    {
+      "name": "Jezioro Kariba i Tama Kariba",
+      "text": "Jedno z największych sztucznych jezior na świecie, oferujące rejsy, wędkarstwo i obserwację dzikiej przyrody. Tama to inżynieryjny cud.",
+      "gygQuery": "Lake Kariba"
+    },
+    {
+      "name": "Jaskinie Chinhoyi",
+      "text": "System wapiennych jaskiń z krystalicznie czystym, błękitnym jeziorem, idealnym do nurkowania i snurkowania.",
+      "gygQuery": "Chinhoyi Caves"
+    },
+    {
+      "name": "Balancing Rocks",
+      "text": "Niezwykłe formacje skalne, które wydają się balansować jedna na drugiej. Symbol kraju, często widoczny na banknotach.",
+      "gygQuery": "Balancing Rocks Epworth"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Zimbabwe jest bezpieczne dla turystów?",
+      "a": "Zimbabwe jest generalnie bezpieczne dla turystów, zwłaszcza w obszarach turystycznych. Należy jednak zachować podstawowe środki ostrożności, unikać samotnych spacerów po zmroku w miastach i być świadomym otoczenia. Zawsze warto sprawdzić aktualne ostrzeżenia MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Zimbabwe i jak płacić?",
+      "a": "W Zimbabwe obowiązuje system wielowalutowy, a najpowszechniej akceptowany jest dolar amerykański (USD). Warto mieć przy sobie gotówkę, ponieważ płatności kartą nie zawsze są możliwe, zwłaszcza poza większymi miastami. Lokalny dolar Zimbabwe (ZWL) jest bardzo niestabilny i rzadko używany przez turystów."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Zimbabwe?",
+      "a": "Najlepszy czas na podróż do Zimbabwe to pora sucha, od maja do października. Wtedy pogoda jest słoneczna, a zwierzęta gromadzą się wokół wodopojów, co ułatwia ich obserwację podczas safari. Unikać należy pory deszczowej (listopad-kwiecień) ze względu na upały, wilgotność i trudniejsze warunki drogowe."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Zimbabwe?",
+      "a": "Obywatele Polski potrzebują wizy, aby wjechać do Zimbabwe. Wizę można uzyskać na lotnisku po przylocie (Visa on Arrival) lub online (e-wiza) przed podróżą. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na podróż do Zimbabwe jest pora sucha, trwająca od maja do października. W tym czasie deszcze są rzadkością, dni są słoneczne i ciepłe, a noce chłodne i przyjemne. Roślinność jest mniej bujna, co ułatwia obserwację dzikich zwierząt, które gromadzą się wokół nielicznych wodopojów. To idealny czas na safari i podziwianie Wodospadów Wiktorii, kiedy poziom wody jest optymalny, by zobaczyć zarówno potęgę wodospadu, jak i jego formację. Pora deszczowa (listopad-kwiecień) charakteryzuje się wysoką wilgotnością, upałami i intensywnymi opadami, co może utrudniać przemieszczanie się i obserwację zwierząt.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Harare",
+  "climate": {
+    "air": [
+      26,
+      26,
+      26,
+      25,
+      23,
+      21,
+      21,
+      24,
+      28,
+      30,
+      28,
+      26
+    ],
+    "note": "dla Harare",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia Zimbabwe jest prosta, sycąca i opiera się głównie na lokalnych produktach. Podstawą diety jest sadza, gęsta papka z mąki kukurydzianej, podawana z różnymi sosami, warzywami i mięsem. Popularne są gulasze z wołowiny, kurczaka lub dziczyzny, często z dodatkiem orzeszków ziemnych lub liści dyni. Warto spróbować biltongu, suszonego mięsa podobnego do jerky, oraz lokalnych owoców, takich jak mango, papaja czy guawa. W miastach dostępne są restauracje oferujące dania kuchni międzynarodowej, ale prawdziwe smaki Zimbabwe najlepiej poznaje się w mniejszych, lokalnych jadłodajniach."
+  ],
+  "gygQuery": "Zimbabwe",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy do Zimbabwe, którą można uzyskać na lotnisku po przylocie (Visa on Arrival) lub online (e-wiza). Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronie MSZ przed podróżą.",
+    "flight": "Około 12-15 godzin z jedną lub dwiema przesiadkami, najczęściej w europejskich lub afrykańskich hubach.",
+    "language": "Angielski jest językiem urzędowym i powszechnie używanym w turystyce i biznesie. Oprócz tego w kraju używa się wielu języków lokalnych, takich jak shona i ndebele.",
+    "money": "Główną walutą używaną w transakcjach turystycznych jest dolar amerykański (USD). Zaleca się posiadanie gotówki, ponieważ płatności kartą są często niemożliwe, zwłaszcza poza większymi miastami i hotelami. Warto zabrać drobne nominały.",
+    "plugs": "W Zimbabwe używane są gniazdka typu D i G. Napięcie wynosi 220-240 V przy częstotliwości 50 Hz. Konieczny będzie adapter.",
+    "safety": "Należy zachować ostrożność, szczególnie w miastach i po zmroku. Unikać eksponowania wartościowych przedmiotów. Zaleca się szczepienia przeciwko żółtej febrze (jeśli przylatujesz z kraju endemicznego) oraz profilaktykę antymalaryczną, zwłaszcza w rejonach parków narodowych i doliny Zambezi. Warto wykupić kompleksowe ubezpieczenie podróżne.",
+    "timeDiff": "Zimą (kiedy w Polsce jest czas zimowy) w Zimbabwe jest +1 godzina względem Polski. Latem (kiedy w Polsce jest czas letni) różnica czasu nie występuje."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

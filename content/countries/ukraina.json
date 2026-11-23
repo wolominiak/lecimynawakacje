@@ -1,0 +1,199 @@
+{
+  "slug": "ukraina",
+  "loc": "na Ukrainie",
+  "to": "na Ukrainę",
+  "teaser": "Ukraina to kraj bogatej historii i kultury, który mimo obecnych wyzwań wciąż zachwyca gościnnością i pięknem. Dziś podróż wymaga szczególnej ostrożności.",
+  "intro": [
+    "Ukraina, nasz wschodni sąsiad, to kraj o głęboko zakorzenionej historii, malowniczych krajobrazach i niezwykle żywej kulturze. Od wieków była tyglem wpływów wschodnich i zachodnich, co widać w architekturze, sztuce i tradycjach. Przed inwazją Rosji przyciągała turystów swoimi miastami pełnymi zabytków, dzikimi Karpatami i wybrzeżem Morza Czarnego. Dziś jest to kraj w stanie wojny, a turystyka w tradycyjnym rozumieniu jest wstrzymana, choć nadal przyciąga ludzi z różnych powodów.",
+    "Obecnie Ukraina nie jest typowym celem wakacyjnych podróży. Osoby decydujące się na wyjazd to często wolontariusze, dziennikarze, osoby niosące pomoc humanitarną, a także ci, którzy odwiedzają rodziny lub szukają głębszego zrozumienia sytuacji. Wymaga to świadomości ryzyka, odpowiedzialnego planowania i śledzenia bieżących komunikatów. Kraj oferuje jednak niezwykłe doświadczenia dla tych, którzy są gotowi stawić czoła wyzwaniom i chcą wspierać naród ukraiński.",
+    "Podróż z Polski na Ukrainę odbywa się głównie drogą lądową, przez liczne przejścia graniczne. Ze względu na zamkniętą przestrzeń powietrzną, loty cywilne są wstrzymane. Dostępne są połączenia autobusowe i kolejowe, które są popularną formą transportu. Podróż może być długa i męcząca, a na granicach należy liczyć się z kolejkami. Przed wyjazdem konieczne jest dokładne zapoznanie się z aktualną sytuacją bezpieczeństwa i zaleceniami Ministerstwa Spraw Zagranicznych."
+  ],
+  "highlights": [
+    "Bogata historia i kultura wschodniej Europy",
+    "Gościnność i otwartość Ukraińców",
+    "Malownicze krajobrazy Karpat",
+    "Zabytkowe miasta - Lwów, Kijów",
+    "Smaczna i sycąca kuchnia",
+    "Wsparcie dla narodu w trudnym czasie"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "kijow",
+      "name": "Kijów",
+      "loc": "w Kijowie",
+      "intro": [
+        "Stolica Ukrainy, Kijów, to miasto o tysiącletniej historii, położone nad Dnieprem. Jest duchowym i kulturalnym centrum kraju, pełnym złotych kopuł cerkwi, imponujących klasztorów i szerokich bulwarów. Mimo trwającej wojny, miasto stara się funkcjonować, a jego mieszkańcy wykazują niezwykłą odporność i determinację. Odwiedzając Kijów, można poczuć puls ukraińskiej tożsamości.",
+        "Do najważniejszych zabytków należą wpisana na listę UNESCO Ławra Peczerska, Sobór Mądrości Bożej oraz Złota Brama. Kijów oferuje również liczne muzea, galerie sztuki i parki, które przed wojną tętniły życiem. Dziś, choć wiele atrakcji jest dostępnych, należy pamiętać o zagrożeniach i ograniczeniach, takich jak godzina policyjna czy schrony przeciwlotnicze."
+      ],
+      "airport": "Boryspil (KBP) - obecnie nieczynny",
+      "forWhom": "Dla miłośników historii, kultury i architektury sakralnej, gotowych na wyjazd w trudnych warunkach.",
+      "gygQuery": "Kyiv",
+      "highlights": [
+        "Ławra Peczerska - kompleks klasztorny",
+        "Sobór Mądrości Bożej - historyczna świątynia",
+        "Majdan Niepodległości - serce miasta",
+        "Muzeum Historii Ukrainy"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "lwow",
+      "name": "Lwów",
+      "loc": "we Lwowie",
+      "intro": [
+        "Lwów, położony na zachodzie Ukrainy, to miasto o silnych związkach z Polską, często nazywane \"małym Paryżem Wschodu\". Jego zabytkowe centrum, wpisane na listę UNESCO, zachwyca renesansowymi kamienicami, urokliwymi uliczkami i licznymi kawiarniami. Mimo bliskości granicy i względnego bezpieczeństwa, Lwów również odczuwa skutki wojny, choć w mniejszym stopniu niż wschodnie regiony kraju.",
+        "Miasto jest znane z bogatej historii, różnorodności kulturowej i artystycznej atmosfery. Warto odwiedzić Rynek, Katedrę Łacińską, Operę Lwowską oraz liczne muzea i galerie. Lwów to także centrum ukraińskiej kultury kawowej i czekoladowej, oferujące wiele urokliwych miejsc do spędzenia czasu. Jest to jedno z najczęściej odwiedzanych miast na Ukrainie przez Polaków."
+      ],
+      "airport": "Lwów (LWO) - obecnie nieczynny",
+      "forWhom": "Idealny dla tych, którzy szukają europejskiego klimatu, pięknej architektury i kawiarnianej atmosfery, blisko granicy z Polską.",
+      "gygQuery": "Lviv",
+      "highlights": [
+        "Rynek i Stare Miasto UNESCO",
+        "Katedra Łacińska i Ormiańska",
+        "Lwowska Opera Narodowa",
+        "Kawiarnie i czekoladziarnie"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "karpaty-ukrainskie",
+      "name": "Karpaty Ukraińskie",
+      "loc": "w Karpatach Ukraińskich",
+      "intro": [
+        "Ukraińskie Karpaty to pasmo górskie rozciągające się na zachodzie kraju, oferujące malownicze krajobrazy, gęste lasy i dziką przyrodę. To idealne miejsce dla miłośników pieszych wędrówek, narciarstwa zimą (np. Bukovel) oraz poszukiwaczy spokoju i autentycznych doświadczeń. Region zamieszkują Huculi, którzy zachowali swoje unikalne tradycje, folklor i rzemiosło.",
+        "W Karpatach można podziwiać najwyższy szczyt Ukrainy - Howerlę, a także liczne wodospady, jeziora i doliny. Region jest również znany z uzdrowisk i źródeł mineralnych. Mimo wojny, tereny te, oddalone od linii frontu, są stosunkowo bezpieczniejsze, choć zawsze należy zachować ostrożność i śledzić lokalne komunikaty. To doskonała okazja, by poznać inną, sielską stronę Ukrainy."
+      ],
+      "airport": "Lwów (LWO) - obecnie nieczynny",
+      "forWhom": "Dla miłośników górskich wędrówek, dzikiej przyrody i autentycznych wiejskich krajobrazów, szukających ucieczki od zgiełku.",
+      "gygQuery": "Ukrainian Carpathians",
+      "highlights": [
+        "Howerla - najwyższy szczyt",
+        "Bukovel - popularny kurort narciarski",
+        "Huculskie wioski i tradycje",
+        "Park Narodowy Karpacki"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Ławra Peczerska w Kijowie",
+      "text": "Jeden z najważniejszych prawosławnych klasztorów na świecie, wpisany na listę UNESCO. Kompleks obejmuje liczne cerkwie, dzwonnice i podziemne labirynty z relikwiami świętych.",
+      "gygQuery": "Kyiv Pechersk Lavra"
+    },
+    {
+      "name": "Rynek we Lwowie",
+      "text": "Serce historycznego Lwowa, otoczone renesansowymi kamienicami i Ratuszem. Tętni życiem, oferując liczne kawiarnie, restauracje i galerie, świadcząc o bogatej przeszłości miasta.",
+      "gygQuery": "Lviv Market Square"
+    },
+    {
+      "name": "Zamek w Kamieńcu Podolskim",
+      "text": "Imponująca średniowieczna twierdza, położona na skalistym półwyspie otoczonym kanionem rzeki Smotrycz. Jest to jeden z najlepiej zachowanych kompleksów obronnych na Ukrainie, świadectwo burzliwej historii.",
+      "gygQuery": "Kamianets-Podilskyi Castle"
+    },
+    {
+      "name": "Tunel Miłości w Klewaniu",
+      "text": "Malowniczy odcinek linii kolejowej, otoczony gęstymi drzewami, które tworzą naturalny, zielony tunel. To popularne miejsce dla par i fotografów, symbol romantyzmu i natury.",
+      "gygQuery": "Tunnel of Love Klevan"
+    },
+    {
+      "name": "Howerla w Karpatach",
+      "text": "Najwyższy szczyt Ukrainy (2061 m n.p.m.), oferujący zapierające dech w piersiach widoki na Karpaty Wschodnie. Jest popularnym celem pieszych wędrówek i symbolem narodowym.",
+      "gygQuery": "Hoverla Mountain"
+    },
+    {
+      "name": "Opera Narodowa Ukrainy w Kijowie",
+      "text": "Jeden z najważniejszych teatrów operowych w Europie Wschodniej, znany z pięknej architektury i wysokiego poziomu artystycznego. Przed wojną regularnie wystawiano tu klasyczne opery i balety.",
+      "gygQuery": "National Opera of Ukraine Kyiv"
+    },
+    {
+      "name": "Muzeum Czarnobylskie w Kijowie",
+      "text": "Poświęcone katastrofie w Czarnobylu, przedstawia historię awarii, jej skutki i heroizm likwidatorów. To poruszające i edukacyjne miejsce, które skłania do refleksji nad siłą natury i ludzkimi błędami.",
+      "gygQuery": "Chernobyl Museum Kyiv"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Ukraina jest bezpieczna dla turystów?",
+      "a": "Obecnie podróżowanie po Ukrainie jest obarczone wysokim ryzykiem ze względu na trwającą wojnę. Należy bezwzględnie unikać stref działań wojennych, śledzić komunikaty MSZ i lokalnych władz oraz być przygotowanym na zagrożenia takie jak ostrzały rakietowe i ataki dronów."
+    },
+    {
+      "q": "Jak dojechać z Polski na Ukrainę?",
+      "a": "Ze względu na zamkniętą przestrzeń powietrzną, podróż odbywa się głównie drogą lądową. Dostępne są połączenia autobusowe i kolejowe z wielu polskich miast. Należy liczyć się z długim czasem podróży i kolejkami na granicy."
+    },
+    {
+      "q": "Jaką walutę zabrać na Ukrainę?",
+      "a": "Oficjalną walutą jest hrywna ukraińska (UAH). W większych miastach można płacić kartą, ale zawsze warto mieć przy sobie gotówkę, zwłaszcza poza głównymi ośrodkami. Wymiana walut jest możliwa w kantorach i bankach."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Ukrainę jako Polak?",
+      "a": "Obywatele Polski nie potrzebują wizy na Ukrainę na pobyt turystyczny do 90 dni w ciągu 180 dni. Wystarczy ważny dowód osobisty lub paszport, choć paszport jest zalecany ze względów bezpieczeństwa i praktycznych."
+    },
+    {
+      "q": "Co warto kupić na pamiątkę z Ukrainy?",
+      "a": "Warto zwrócić uwagę na tradycyjne wyroby rękodzielnicze, takie jak wyszywanki (haftowane koszule), ceramika, drewniane rzeźby, pisanki, a także lokalne słodycze czy alkohole, np. horiłka."
+    }
+  ],
+  "bestTime": {
+    "text": "Przed rozpoczęciem pełnoskalowej inwazji, najlepszym czasem na podróżowanie po Ukrainie były wiosna (maj-czerwiec) oraz wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a krajobrazy zachwycają. Lato bywa upalne, zwłaszcza na południu. Zimą, choć pięknie, temperatury mogą być bardzo niskie, a warunki drogowe trudne. Obecnie jednak, ze względu na stan wojenny, terminy podróży są podyktowane przede wszystkim względami bezpieczeństwa i pilnymi potrzebami, a nie sezonem turystycznym.",
+    "best": [
+      5,
+      9
+    ],
+    "ok": [
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Kijów",
+  "climate": {
+    "air": [
+      -1,
+      0,
+      6,
+      14,
+      21,
+      24,
+      26,
+      25,
+      19,
+      12,
+      5,
+      0
+    ],
+    "note": "dla Kijowa (temperatura powietrza) i Odessy (temperatura morza)",
+    "sea": [
+      3,
+      2,
+      3,
+      7,
+      14,
+      20,
+      23,
+      24,
+      20,
+      15,
+      10,
+      6
+    ]
+  },
+  "cuisine": [
+    "Ukraińska kuchnia jest sycąca, smaczna i oparta na lokalnych produktach. Jej flagowym daniem jest oczywiście barszcz, podawany w wielu wariantach, często z dodatkiem śmietany i pampuszek. Popularne są również wareniki i pielmieni - pierożki z różnorodnym nadzieniem, a także gołąbki, kotlet po kijowsku oraz słynne sało, czyli solona słonina. Warto spróbować też uzwaru (kompotu z suszonych owoców) i kwasu chlebowego. Kuchnia ukraińska to prawdziwa uczta dla podniebienia, odzwierciedlająca bogactwo smaków i tradycji regionu."
+  ],
+  "gygQuery": "Ukraine",
+  "practical": {
+    "documents": "Dowód osobisty lub paszport. Zaleca się posiadanie paszportu. Ze względu na stan wojenny, przed wyjazdem należy bezwzględnie sprawdzić aktualne wymogi wjazdowe i ostrzeżenia Ministerstwa Spraw Zagranicznych.",
+    "flight": "obecnie brak regularnych lotów cywilnych, podróż lądowa z Polski trwa od kilku do kilkunastu godzin",
+    "language": "Oficjalnym językiem jest ukraiński. W wielu regionach, zwłaszcza wschodnich i południowych, powszechnie używany jest również rosyjski. Młodsze pokolenie i osoby pracujące w turystyce mogą komunikować się po angielsku.",
+    "money": "Walutą jest hrywna ukraińska (UAH). Płatności kartą są powszechne w większych miastach, ale warto mieć przy sobie gotówkę, zwłaszcza poza głównymi ośrodkami. Kantory i bankomaty są dostępne.",
+    "plugs": "Typ C i F (takie same jak w Polsce), napięcie 230V, częstotliwość 50Hz.",
+    "safety": "Ze względu na trwającą wojnę, podróżowanie po Ukrainie jest obarczone wysokim ryzykiem. Należy bezwzględnie unikać stref działań wojennych i stosować się do zaleceń władz lokalnych oraz Ministerstwa Spraw Zagranicznych. W całym kraju obowiązuje godzina policyjna oraz ryzyko ostrzałów rakietowych i ataków dronów.",
+    "timeDiff": "+1 godzina"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

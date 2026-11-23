@@ -1,0 +1,201 @@
+{
+  "slug": "wyspy-dziewicze-usa",
+  "loc": "na Wyspach Dziewiczych USA",
+  "to": "na Wyspy Dziewicze USA",
+  "teaser": "Odkryj amerykańskie Karaiby z krystalicznymi wodami, białymi plażami i bezcłowymi zakupami, łącząc relaks z aktywnym wypoczynkiem.",
+  "intro": [
+    "Wyspy Dziewicze USA to karaibski archipelag, który oferuje wyjątkowe połączenie tropikalnego piękna i amerykańskiego komfortu. Przyciągają przede wszystkim miłośników słońca, białych plaż i sportów wodnych, takich jak nurkowanie, snorkeling czy żeglarstwo. Każda z głównych wysp - St. Thomas, St. John i St. Croix - ma swój unikalny charakter, od tętniących życiem centrów handlowych po dziewicze parki narodowe.",
+    "Archipelag to idealne miejsce dla osób szukających zarówno aktywnego wypoczynku, jak i spokojnego relaksu. Rodziny znajdą tu bezpieczne plaże i wiele atrakcji, a pary docenią romantyczne zachody słońca i urokliwe zatoczki. Dodatkowym atutem są bezcłowe zakupy, które pozwalają na korzystne nabycie pamiątek i luksusowych towarów. Infrastruktura turystyczna jest dobrze rozwinięta, co zapewnia wygodę podróżowania.",
+    "Podróż z Polski na Wyspy Dziewicze USA wymaga zazwyczaj co najmniej dwóch przesiadek, najczęściej w Europie, a następnie w jednym z większych miast Stanów Zjednoczonych. Cała podróż jest długa, ale widoki i atmosfera na miejscu wynagradzają trudy. Przed wyjazdem należy pamiętać o sprawdzeniu wymogów wizowych, gdyż Wyspy Dziewicze USA podlegają przepisom imigracyjnym Stanów Zjednoczonych."
+  ],
+  "highlights": [
+    "Plaże z białym piaskiem i turkusową wodą",
+    "Nurkowanie i snorkeling na rafach koralowych",
+    "Rejsy jachtem po sąsiednich wyspach",
+    "Bezcłowe zakupy w Charlotte Amalie",
+    "Park Narodowy Virgin Islands na St. John",
+    "Kolonialna architektura duńska"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "st-thomas",
+      "name": "St. Thomas",
+      "loc": "na St. Thomas",
+      "intro": [
+        "St. Thomas to najbardziej rozwinięta i najczęściej odwiedzana wyspa archipelagu, znana z malowniczych wzgórz, portu Charlotte Amalie oraz bogatej oferty handlowej. Znajdziesz tu luksusowe butiki, restauracje i bary, a także wiele opcji zakwaterowania od kurortów po butikowe hotele. Wyspa jest świetną bazą wypadową do zwiedzania sąsiednich wysp.",
+        "Oprócz zakupów, St. Thomas oferuje piękne plaże, takie jak słynna Magens Bay, idealna do pływania i relaksu. Możesz również wybrać się na wycieczkę kolejką linową na Paradise Point, skąd roztacza się panoramiczny widok na wyspę i okoliczne wody. Wyspa jest również popularnym miejscem dla miłośników sportów wodnych, w tym nurkowania i żeglarstwa."
+      ],
+      "airport": "STT",
+      "forWhom": "Idealna dla osób szukających tętniącego życia, zakupów i łatwego dostępu do atrakcji.",
+      "gygQuery": "St Thomas US Virgin Islands",
+      "highlights": [
+        "Magens Bay - jedna z najpiękniejszych plaż",
+        "Charlotte Amalie - stolica i port",
+        "Paradise Point - widoki z kolejki linowej",
+        "Bezcłowe zakupy"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "st-john",
+      "name": "St. John",
+      "loc": "na St. John",
+      "intro": [
+        "Prawie dwie trzecie powierzchni St. John zajmuje Park Narodowy Virgin Islands, co czyni ją najbardziej dziewiczą i zieloną wyspą w archipelagu. Dostępna jest głównie promem ze St. Thomas, co dodaje jej ekskluzywnego charakteru. To idealne miejsce dla tych, którzy pragną uciec od zgiełku i zanurzyć się w naturze, oferując liczne szlaki turystyczne i ukryte zatoczki.",
+        "St. John słynie z przepięknych plaż, takich jak Trunk Bay z podwodnym szlakiem snorkelingowym, oraz Cinnamon Bay, idealnej do relaksu i sportów wodnych. Wyspa oferuje również możliwości nurkowania, kajakarstwa i obserwacji ptaków. Miasteczko Cruz Bay to centrum życia na wyspie, z kilkoma restauracjami i sklepami."
+      ],
+      "airport": "STT",
+      "forWhom": "Wyspa dla miłośników natury, spokoju i dziewiczych krajobrazów.",
+      "gygQuery": "St John US Virgin Islands",
+      "highlights": [
+        "Park Narodowy Virgin Islands",
+        "Trunk Bay - snorkeling",
+        "Dziewicze plaże i szlaki",
+        "Spokój i natura"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "st-croix",
+      "name": "St. Croix",
+      "loc": "na St. Croix",
+      "intro": [
+        "St. Croix to największa z Wysp Dziewiczych USA, oferująca bogatą historię, różnorodną kulturę i mniej turystyczny klimat niż St. Thomas. Wyspa charakteryzuje się płaskim terenem na wschodzie i bardziej górzystym na zachodzie, z bujną roślinnością. Znajdziesz tu pozostałości po plantacjach cukru, dwie urokliwe miejscowości - Christiansted i Frederiksted - oraz unikalne tradycje.",
+        "W Christiansted, dawnej stolicy duńskich Indii Zachodnich, można podziwiać kolonialną architekturę i historyczny port. Frederiksted słynie z wiktoriańskich budynków i pięknych zachodów słońca. St. Croix to także doskonałe miejsce do nurkowania, z rafami koralowymi i wrakiem statku. Warto odwiedzić również destylarnię rumu Cruzan i spróbować lokalnych specjałów."
+      ],
+      "airport": "STX",
+      "forWhom": "Dla poszukujących autentycznych doświadczeń, historii i lokalnej kultury.",
+      "gygQuery": "St Croix US Virgin Islands",
+      "highlights": [
+        "Christiansted - kolonialna architektura",
+        "Frederiksted - wiktoriańskie budynki",
+        "Destylarnia rumu Cruzan",
+        "Nurkowanie na rafach"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Magens Bay (St. Thomas)",
+      "text": "Jedna z najsłynniejszych plaż na świecie, z białym piaskiem i spokojnymi, turkusowymi wodami, idealna do pływania i relaksu.",
+      "gygQuery": "Magens Bay"
+    },
+    {
+      "name": "Park Narodowy Virgin Islands (St. John)",
+      "text": "Obejmuje prawie dwie trzecie wyspy St. John, chroniąc dziewicze lasy tropikalne, rafy koralowe i historyczne ruiny plantacji.",
+      "gygQuery": "Virgin Islands National Park"
+    },
+    {
+      "name": "Charlotte Amalie (St. Thomas)",
+      "text": "Stolica Wysp Dziewiczych USA, znana z malowniczego portu, historycznych uliczek z kolorowymi budynkami i możliwości bezcłowych zakupów.",
+      "gygQuery": "Charlotte Amalie"
+    },
+    {
+      "name": "Trunk Bay (St. John)",
+      "text": "Kultowa plaża z podwodnym szlakiem snorkelingowym, oferująca krystalicznie czyste wody i spektakularne widoki.",
+      "gygQuery": "Trunk Bay"
+    },
+    {
+      "name": "Christiansted National Historic Site (St. Croix)",
+      "text": "Historyczne centrum miasta Christiansted, z doskonale zachowanymi budynkami z czasów duńskich, w tym fortem Christiansvaern.",
+      "gygQuery": "Christiansted National Historic Site"
+    },
+    {
+      "name": "Coral World Ocean Park (St. Thomas)",
+      "text": "Park morski, gdzie można podziwiać życie podwodne Karaibów, nurkować z rekinami lub spacerować po dnie oceanu w hełmie.",
+      "gygQuery": "Coral World Ocean Park"
+    },
+    {
+      "name": "Buck Island Reef National Monument (St. Croix)",
+      "text": "Chroniony obszar morski wokół wyspy Buck Island, słynący z jednej z najpiękniejszych raf koralowych na Karaibach, idealny do snorkelingu.",
+      "gygQuery": "Buck Island Reef"
+    },
+    {
+      "name": "Destylarnia rumu Cruzan (St. Croix)",
+      "text": "Jedna z najstarszych i najbardziej znanych destylarni rumu na Karaibach, oferująca wycieczki i degustacje.",
+      "gygQuery": "Cruzan Rum Distillery"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Wyspy Dziewicze USA?",
+      "a": "Tak, obywatele Polski potrzebują autoryzacji ESTA lub wizy, tak jak w przypadku podróży do kontynentalnych Stanów Zjednoczonych. Należy to sprawdzić przed wyjazdem."
+    },
+    {
+      "q": "Jaka jest waluta na Wyspach Dziewiczych USA?",
+      "a": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są szeroko akceptowane, a bankomaty są łatwo dostępne."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Wyspy Dziewicze USA?",
+      "a": "Najlepszy czas na podróż to suchy sezon, od grudnia do maja, kiedy pogoda jest słoneczna, a ryzyko huraganów minimalne."
+    },
+    {
+      "q": "Czy Wyspy Dziewicze USA są bezpieczne?",
+      "a": "Wyspy są ogólnie bezpieczne dla turystów, ale zawsze zaleca się zachowanie podstawowych środków ostrożności, zwłaszcza po zmroku w niektórych rejonach."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Wysp Dziewiczych USA to suchy sezon, który trwa od grudnia do maja. W tym okresie panuje słoneczna pogoda, niższa wilgotność i mniejsze ryzyko opadów. Należy unikać sezonu huraganów, który przypada na miesiące od czerwca do listopada, z największym prawdopodobieństwem w sierpniu i wrześniu.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "capital": "Charlotte Amalie",
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      32,
+      32,
+      32,
+      31,
+      30,
+      29
+    ],
+    "note": "Dane dla Charlotte Amalie, St. Thomas.",
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Wysp Dziewiczych USA to smaczna mieszanka wpływów karaibskich, afrykańskich i amerykańskich, z dużym naciskiem na świeże owoce morza. Popularne dania to m.in. \"fungi\" (rodzaj gęstej kaszy kukurydzianej), \"callaloo\" (zupa warzywna), \"pate\" (smażone pierogi z mięsem lub rybą) oraz świeże ryby i homary. Nie brakuje też amerykańskich klasyków i międzynarodowych restauracji. Warto spróbować lokalnych rumów i świeżo wyciskanych soków z owoców tropikalnych."
+  ],
+  "gygQuery": "US Virgin Islands",
+  "practical": {
+    "documents": "Paszport jest wymagany. Obywatele Polski potrzebują autoryzacji ESTA lub wizy turystycznej B1/B2, tak jak w przypadku podróży do kontynentalnych Stanów Zjednoczonych. Należy to sprawdzić przed wyjazdem.",
+    "flight": "Około 15-20 h z co najmniej dwiema przesiadkami (zazwyczaj w Europie i USA).",
+    "language": "Angielski.",
+    "money": "Dolar amerykański (USD). Płatności kartą są powszechne, a bankomaty łatwo dostępne. Warto mieć gotówkę na mniejsze wydatki.",
+    "plugs": "Typ A i B (amerykańskie), napięcie 120 V, częstotliwość 60 Hz. Potrzebny adapter.",
+    "safety": "Wyspy Dziewicze USA są ogólnie bezpieczne dla turystów, ale zaleca się zachowanie ostrożności, zwłaszcza po zmroku w niektórych rejonach. Standardowe środki bezpieczeństwa, takie jak pilnowanie wartościowych przedmiotów, są wskazane. Opieka medyczna jest dostępna, ale może być kosztowna, dlatego zaleca się posiadanie kompleksowego ubezpieczenia podróżnego.",
+    "timeDiff": "Minus 6 godzin względem czasu polskiego latem i minus 5 godzin zimą."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

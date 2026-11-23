@@ -1,0 +1,211 @@
+{
+  "slug": "uganda",
+  "loc": "w Ugandzie",
+  "to": "do Ugandy",
+  "teaser": "Uganda to serce Afryki Wschodniej, oferujące niezapomniane spotkania z gorylami górskimi, ekscytujące safari i źródła Nilu. Idealna dla poszukiwaczy przygód.",
+  "intro": [
+    "Uganda, nazywana Perłą Afryki, to kraj, który przyciąga przede wszystkim miłośników dzikiej przyrody i autentycznych doświadczeń. Słynie z populacji goryli górskich, które można spotkać w Parku Narodowym Bwindi, a także z bogactwa innych zwierząt, takich jak lwy, słonie i hipopotamy, obserwowanych podczas safari. To tutaj bije źródło Nilu, oferując możliwości raftingu i innych sportów wodnych, co czyni ją idealnym miejscem dla tych, którzy szukają aktywnego wypoczynku w otoczeniu spektakularnej natury.",
+    "Kraj ten jest przeznaczony dla podróżników szukających prawdziwej afrykańskiej przygody, gotowych na pewne niedogodności i otwartych na lokalną kulturę. Nie jest to destynacja dla osób preferujących luksusowe kurorty i zorganizowane wycieczki all-inclusive. Uganda oferuje głębokie zanurzenie w naturę i kulturę, wymagając od turystów elastyczności, cierpliwości i szacunku dla środowiska. To idealne miejsce dla fotografów, miłośników ptaków i wszystkich, którzy pragną zobaczyć Afrykę w jej najbardziej pierwotnej formie.",
+    "Podróż z Polski do Ugandy wymaga zazwyczaj jednej lub dwóch przesiadek, a lot trwa około 12-15 godzin. Główne lotnisko to Entebbe (EBB), położone niedaleko stolicy, Kampali. Przed wyjazdem konieczne jest uzyskanie wizy oraz posiadanie aktualnych szczepień, w tym przeciwko żółtej febrze. Planowanie podróży często obejmuje wynajęcie samochodu z kierowcą-przewodnikiem, co jest najbezpieczniejszym i najwygodniejszym sposobem na poruszanie się po kraju i dotarcie do parków narodowych."
+  ],
+  "highlights": [
+    "Trekking z gorylami górskimi w Bwindi",
+    "Safari w parkach narodowych",
+    "Odkrywanie źródeł Nilu w Jinja",
+    "Śledzenie szympansów w Kibale",
+    "Podziwianie wodospadów Murchison",
+    "Wędrówki po Górach Rwenzori"
+  ],
+  "popularity": 12,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "bwindi-impenetrable-national-park",
+      "name": "Park Narodowy Bwindi",
+      "loc": "w Parku Narodowym Bwindi",
+      "intro": [
+        "Park Narodowy Bwindi, wpisany na listę światowego dziedzictwa UNESCO, jest domem dla około połowy światowej populacji goryli górskich. To gęsty, pierwotny las deszczowy, który oferuje unikalne doświadczenia trekkingowe. Śledzenie goryli to główna atrakcja, która pozwala na bliskie obserwacje tych majestatycznych zwierząt pod okiem doświadczonych przewodników, co jest przeżyciem zmieniającym życie.",
+        "Trekking jest wymagający fizycznie, często odbywa się w trudnym terenie, ale widok goryli rekompensuje wszelkie trudy. Oprócz goryli, w parku żyje wiele innych gatunków ssaków i ponad 350 gatunków ptaków. Wizyta w Bwindi to nie tylko spotkanie z dziką przyrodą, ale także możliwość wsparcia lokalnych społeczności poprzez turystykę."
+      ],
+      "airport": "Entebbe (EBB), Kihihi (KHI)",
+      "forWhom": "Idealny dla poszukiwaczy niezapomnianych spotkań z gorylami górskimi w ich naturalnym środowisku.",
+      "gygQuery": "Bwindi Impenetrable National Park gorilla trekking",
+      "highlights": [
+        "Trekking z gorylami górskimi",
+        "Obserwacja rzadkich gatunków ptaków",
+        "Dziewiczy las deszczowy",
+        "Wsparcie dla ochrony przyrody"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "queen-elizabeth-national-park",
+      "name": "Park Narodowy Królowej Elżbiety",
+      "loc": "w Parku Narodowym Królowej Elżbiety",
+      "intro": [
+        "Park Narodowy Królowej Elżbiety to jeden z najbardziej zróżnicowanych ekosystemów w Afryce, oferujący szeroki wachlarz dzikiej fauny. Znany jest z czterech z pięciu wielkich afrykańskich zwierząt (lwy, słonie, lamparty, bawoły), a także z unikalnych lwów wspinających się na drzewa w sektorze Ishasha. Park obejmuje sawanny, lasy deszczowe, jeziora i kanały, takie jak Kanał Kazinga, łączący jeziora Edward i George.",
+        "Rejs po Kanale Kazinga to jedna z głównych atrakcji, pozwalająca obserwować hipopotamy, krokodyle i niezliczone gatunki ptaków. Park oferuje również safari samochodowe, które dają szansę na bliskie spotkania z dzikimi zwierzętami. To idealne miejsce, aby doświadczyć klasycznego afrykańskiego safari w malowniczej scenerii."
+      ],
+      "airport": "Entebbe (EBB), Kasese (KSE)",
+      "forWhom": "Doskonały dla miłośników klasycznego safari i różnorodności krajobrazów.",
+      "gygQuery": "Queen Elizabeth National Park safari",
+      "highlights": [
+        "Safari z lwami wspinającymi się na drzewa",
+        "Rejs po Kanale Kazinga",
+        "Obserwacja słoni i bawołów",
+        "Różnorodność krajobrazów"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "murchison-falls-national-park",
+      "name": "Park Narodowy Wodospadów Murchisona",
+      "loc": "w Parku Narodowym Wodospadów Murchisona",
+      "intro": [
+        "Park Narodowy Wodospadów Murchisona to największy park narodowy Ugandy, słynący z potężnego wodospadu, gdzie rzeka Nil przeciska się przez wąską szczelinę skalną, tworząc spektakularny widok. Park jest domem dla wielu gatunków dzikich zwierząt, w tym słoni, żyraf, bawołów, antylop i licznych drapieżników. Safari samochodowe i rejsy po Nilu to kluczowe elementy zwiedzania.",
+        "Rejs statkiem pod wodospad Murchisona to niezapomniane doświadczenie, pozwalające podziwiać potęgę natury i obserwować zwierzęta gromadzące się nad brzegiem rzeki, takie jak hipopotamy i krokodyle. Park oferuje również możliwość trekkingu do wodospadu, co pozwala na podziwianie go z góry. To doskonałe miejsce na połączenie przygody z obserwacją dzikiej fauny."
+      ],
+      "airport": "Entebbe (EBB), Pakuba (PAF)",
+      "forWhom": "Polecany dla tych, którzy chcą połączyć safari z imponującymi widokami wodospadów i rzeki Nil.",
+      "gygQuery": "Murchison Falls National Park safari",
+      "highlights": [
+        "Wodospady Murchisona",
+        "Rejs po Nilu",
+        "Safari z żyrafami i słoniami",
+        "Bogactwo ptactwa wodnego"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "jinja",
+      "name": "Jinja",
+      "loc": "w Jinja",
+      "intro": [
+        "Jinja, położona nad brzegiem Jeziora Wiktorii, jest znana jako miejsce, gdzie rzeka Nil wypływa z jeziora, rozpoczynając swoją długą podróż na północ. To centrum sportów ekstremalnych w Ugandzie, oferujące rafting po białych wodach Nilu, kajakarstwo, bungee jumping i jazdę konną. Miasto ma również bogatą historię kolonialną, co widać w jego architekturze.",
+        "Oprócz adrenaliny, Jinja oferuje spokojniejsze aktywności, takie jak rejsy po Nilu, wizyty w lokalnych wioskach i poznawanie kultury. To doskonałe miejsce, aby odpocząć od safari i zanurzyć się w innej stronie ugandyjskiej przygody. Bliskość źródeł Nilu czyni ją symbolicznym i fascynującym punktem na mapie podróży."
+      ],
+      "airport": "Entebbe (EBB)",
+      "forWhom": "Idealna dla poszukiwaczy adrenaliny i miłośników sportów wodnych nad źródłami Nilu.",
+      "gygQuery": "Jinja white water rafting",
+      "highlights": [
+        "Rafting po Nilu",
+        "Źródła Nilu",
+        "Bungee jumping",
+        "Kajakarstwo i rejsy"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Trekking z gorylami górskimi",
+      "text": "Niezapomniane spotkanie z rzadkimi gorylami górskimi w ich naturalnym środowisku w Parku Narodowym Bwindi lub Mgahinga. To jedno z najbardziej wzruszających doświadczeń w Afryce.",
+      "gygQuery": "Uganda gorilla trekking"
+    },
+    {
+      "name": "Safari w Parku Narodowym Królowej Elżbiety",
+      "text": "Klasyczne safari samochodowe i rejs po Kanale Kazinga, gdzie można zobaczyć lwy (w tym te wspinające się na drzewa), słonie, hipopotamy i setki gatunków ptaków.",
+      "gygQuery": "Queen Elizabeth National Park safari"
+    },
+    {
+      "name": "Wodospady Murchisona",
+      "text": "Potężny wodospad, gdzie Nil przeciska się przez wąską szczelinę, tworząc spektakularny widok. Można go podziwiać z góry lub podczas rejsu łodzią.",
+      "gygQuery": "Murchison Falls boat trip"
+    },
+    {
+      "name": "Źródła Nilu w Jinja",
+      "text": "Miejsce, gdzie Nil wypływa z Jeziora Wiktorii. Jinja to centrum sportów wodnych i raftingu, oferujące mnóstwo adrenaliny.",
+      "gygQuery": "Jinja Source of the Nile"
+    },
+    {
+      "name": "Śledzenie szympansów w Parku Narodowym Kibale",
+      "text": "Ekscytująca przygoda, podczas której można obserwować szympansy w ich naturalnym środowisku. Park Kibale jest jednym z najlepszych miejsc na świecie do tego typu aktywności.",
+      "gygQuery": "Kibale chimpanzee trekking"
+    },
+    {
+      "name": "Góry Rwenzori",
+      "text": "Znane jako Góry Księżycowe, oferują wymagające szlaki trekkingowe i wspinaczkowe, prowadzące przez unikalne ekosystemy alpejskie, lodowce i malownicze doliny.",
+      "gygQuery": "Rwenzori Mountains trekking"
+    },
+    {
+      "name": "Jezioro Wiktorii",
+      "text": "Największe jezioro Afryki i drugie co do wielkości słodkowodne jezioro świata. Oferuje rejsy, wędkarstwo i możliwość odwiedzenia lokalnych wysp.",
+      "gygQuery": "Lake Victoria boat trip"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Uganda jest bezpiecznym krajem dla turystów?",
+      "a": "Uganda jest generalnie bezpieczna, ale zaleca się ostrożność, zwłaszcza w miastach i po zmroku. Należy unikać samotnych spacerów i dbać o swoje wartościowe przedmioty. Zawsze warto śledzić komunikaty MSZ przed wyjazdem."
+    },
+    {
+      "q": "Czy potrzebuję szczepienia na żółtą febrę do Ugandy?",
+      "a": "Tak, szczepienie przeciwko żółtej febrze jest obowiązkowe i wymagane jest okazanie międzynarodowego świadectwa szczepień przy wjeździe do Ugandy. Zaleca się również profilaktykę antymalaryczną."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Ugandzie?",
+      "a": "Najpopularniejszym i najbezpieczniejszym sposobem na podróżowanie po Ugandzie jest wynajęcie samochodu terenowego z doświadczonym kierowcą-przewodnikiem. Możliwe są też loty krajowe między głównymi parkami narodowymi, co skraca czas podróży."
+    },
+    {
+      "q": "Co zabrać na trekking z gorylami?",
+      "a": "Na trekking z gorylami należy zabrać wygodne, wodoodporne buty trekkingowe, długie spodnie i rękawy chroniące przed owadami i roślinnością, rękawiczki, kapelusz, płaszcz przeciwdeszczowy, plecak z wodą i przekąskami oraz aparat fotograficzny."
+    },
+    {
+      "q": "Czy w Ugandzie jest dostęp do internetu?",
+      "a": "W większych miastach i hotelach dostęp do internetu Wi-Fi jest powszechny, choć jego jakość może być zmienna. Można również kupić lokalną kartę SIM z pakietem danych, co jest opłacalne i zapewnia łączność w wielu miejscach."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Ugandy to suche pory roku, które przypadają na miesiące od grudnia do lutego oraz od czerwca do sierpnia. W tych okresach warunki do obserwacji dzikich zwierząt są najbardziej sprzyjające, roślinność jest mniej bujna, a zwierzęta gromadzą się wokół wodopojów. Drogi są wówczas łatwiej przejezdne, co ułatwia dostęp do parków narodowych i trekking. Pory deszczowe, choć mogą utrudniać podróżowanie, oferują bujną zieleń i są idealne dla miłośników ptaków.",
+    "best": [
+      12,
+      1,
+      2,
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ]
+  },
+  "capital": "Kampala",
+  "climate": {
+    "air": [
+      28,
+      28,
+      27,
+      26,
+      25,
+      25,
+      25,
+      25,
+      26,
+      27,
+      27,
+      27
+    ],
+    "note": "dla Kampali",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia ugandyjska jest prosta, ale sycąca i opiera się na lokalnych produktach. Podstawą wielu dań jest matoke, czyli gotowane i tłuczone zielone banany, często podawane z różnymi sosami, np. z orzeszków ziemnych lub fasoli. Popularne są także posho (gęsta kasza kukurydziana), ryż, słodkie ziemniaki i maniok. Mięso, zwłaszcza wołowina i kurczak, jest często grillowane (brochettes) lub duszone. W regionach nadjeziornych popularne są świeże ryby, takie jak tilapia i okoń nilowy. Warto spróbować świeżych owoców, takich jak ananasy, mango i awokado, które są niezwykle smaczne i dostępne przez cały rok."
+  ],
+  "gygQuery": "Uganda",
+  "practical": {
+    "documents": "Obywatele Polski muszą posiadać ważny paszport (ważny co najmniej 6 miesięcy od daty planowanego wyjazdu) oraz wizę, którą można uzyskać online przed podróżą (e-wiza). Wymagane jest również międzynarodowe świadectwo szczepień z wpisem o szczepieniu przeciwko żółtej febrze. Zaleca się sprawdzenie aktualnych wymogów wizowych i zdrowotnych w ambasadzie Ugandy lub na stronie MSZ przed wyjazdem.",
+    "flight": "około 12-15 h z przesiadką",
+    "language": "Językami urzędowymi są angielski i suahili. Angielski jest szeroko używany w turystyce i biznesie, więc komunikacja nie powinna stanowić problemu. Znajomość podstawowych zwrotów w suahili może być jednak pomocna i doceniona przez lokalnych mieszkańców.",
+    "money": "Oficjalną walutą jest szyling ugandyjski (UGX). W większych miastach i hotelach można płacić kartami, ale w mniejszych miejscowościach i na targach dominują płatności gotówkowe. Warto mieć przy sobie dolary amerykańskie (wydane po 2006 roku), które są powszechnie akceptowane i łatwe do wymiany. Bankomaty są dostępne w większych miastach.",
+    "plugs": "W Ugandzie używane są gniazdka typu G (brytyjskie, trzy prostokątne bolce). Napięcie wynosi 240 V, częstotliwość 50 Hz. Konieczny jest adapter.",
+    "safety": "Uganda jest generalnie bezpiecznym krajem dla turystów, choć zaleca się zachowanie ostrożności, zwłaszcza w Kampali i innych dużych miastach po zmroku, ze względu na drobne kradzieże. Należy unikać demonstracji i zgromadzeń publicznych. Ryzyko malarii jest wysokie, dlatego zaleca się profilaktykę antymalaryczną i stosowanie środków odstraszających komary. Przed wyjazdem warto skonsultować się z lekarzem w sprawie zalecanych szczepień.",
+    "timeDiff": "+2 h względem Polski (czas letni i zimowy)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

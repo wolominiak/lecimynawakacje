@@ -1,0 +1,217 @@
+{
+  "slug": "tajwan",
+  "loc": "na Tajwanie",
+  "to": "na Tajwan",
+  "teaser": "Tajwan to fascynujące połączenie nowoczesności i tradycji, z bujną przyrodą i pyszną kuchnią. Idealny dla poszukiwaczy autentycznych azjatyckich doświadczeń.",
+  "intro": [
+    "Tajwan, często nazywany Ilha Formosa - Piękną Wyspą, to miejsce, które potrafi zaskoczyć nawet doświadczonych podróżników. Choć nie jest to typowy kierunek masowej turystyki, oferuje niezwykłą mieszankę oszałamiających krajobrazów, bogatej kultury i jednej z najlepszych kuchni ulicznych na świecie. Od strzelistych wieżowców Tajpej po majestatyczne marmurowe wąwozy Taroko, Tajwan to kraj, gdzie historia splata się z nowoczesnością, a góry spotykają się z oceanem. Wyspa jest niezwykle bezpieczna i przyjazna, co czyni ją idealnym miejscem do samodzielnego odkrywania.",
+    "Kraj ten przyciąga przede wszystkim tych, którzy szukają autentycznych wrażeń, z dala od utartych szlaków. To raj dla smakoszy, którzy chcą spróbować prawdziwej azjatyckiej kuchni na nocnych targach, dla miłośników natury, pragnących wędrować po górskich szlakach czy relaksować się nad malowniczymi jeziorami, a także dla pasjonatów kultury i historii, którzy docenią liczne świątynie i muzea. Tajwan to także idealne miejsce dla osób ceniących sobie porządek, czystość i sprawnie działającą infrastrukturę, co ułatwia podróżowanie po wyspie.",
+    "Podróż z Polski na Tajwan wymaga zazwyczaj jednej przesiadki, a całkowity czas lotu wynosi około 14-18 godzin. Najczęściej ląduje się na międzynarodowym lotnisku Taoyuan (TPE) niedaleko Tajpej. Pomimo długiej podróży, Tajwan wynagradza trud wspaniałymi doświadczeniami. Warto zaplanować podróż na co najmniej 10-14 dni, aby móc spokojnie odkrywać różnorodność wyspy, od tętniącej życiem stolicy po spokojne, naturalne zakątki. Przygotuj się na fascynującą przygodę, która na długo pozostanie w pamięci."
+  ],
+  "highlights": [
+    "Niesamowite nocne targi z jedzeniem",
+    "Majestatyczny Wąwóz Taroko",
+    "Nowoczesna architektura Tajpej 101",
+    "Malownicze Jezioro Słońca i Księżyca",
+    "Bogata kultura herbaciana",
+    "Przyjazni i gościnni mieszkańcy"
+  ],
+  "popularity": 25,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "tajpej",
+      "name": "Tajpej",
+      "loc": "w Tajpej",
+      "intro": [
+        "Tajpej, stolica Tajwanu, to tętniąca życiem metropolia, która doskonale łączy nowoczesność z głęboko zakorzenioną tradycją. Znajdziesz tu strzeliste drapacze chmur, takie jak ikoniczny Taipei 101, obok zabytkowych świątyń i tętniących życiem nocnych targów. Miasto jest centrum kulturalnym i gospodarczym kraju, oferując niezliczone muzea, galerie i wydarzenia.",
+        "Spacerując po dzielnicach, takich jak Ximending czy Daan, odkryjesz butiki, kawiarnie i restauracje serwujące dania z całego świata. Tajpej słynie również z doskonałej komunikacji miejskiej, w tym rozbudowanego metra, które ułatwia poruszanie się po wszystkich zakątkach miasta. To świetna baza wypadowa do odkrywania północnej części wyspy."
+      ],
+      "airport": "TPE",
+      "forWhom": "Idealne dla miłośników miejskiego zgiełku, kultury i wyśmienitej kuchni ulicznej.",
+      "gygQuery": "Taipei",
+      "highlights": [
+        "Taipei 101 i jego taras widokowy",
+        "Nocny Targ Shilin - kulinarna podróż",
+        "Świątynia Longshan - oaza spokoju",
+        "Muzeum Pałacowe - skarby Chin"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "wawoz-taroko",
+      "name": "Wąwóz Taroko",
+      "loc": "w Wąwozie Taroko",
+      "intro": [
+        "Wąwóz Taroko, położony na wschodnim wybrzeżu Tajwanu, to jeden z najpiękniejszych parków narodowych w Azji. Charakteryzuje się majestatycznymi marmurowymi klifami, głębokimi dolinami i turkusowymi rzekami. Park oferuje liczne szlaki turystyczne, od łatwych spacerów po wymagające trasy górskie, prowadzące do wodospadów i jaskiń.",
+        "To miejsce, gdzie natura pokazuje swoją potęgę, a krajobrazy zapierają dech w piersiach. Warto poświęcić tu co najmniej dwa dni, aby w pełni doświadczyć jego uroku, podziwiając Brama Taroko, Jaskinię Jaskółek czy Świątynię Wiecznej Wiosny. Baza wypadowa to zazwyczaj miasto Hualien."
+      ],
+      "airport": "HLN",
+      "forWhom": "Raj dla miłośników przyrody, trekkingu i spektakularnych krajobrazów górskich.",
+      "gygQuery": "Taroko Gorge",
+      "highlights": [
+        "Marmurowe klify i jaskinie",
+        "Szlaki trekkingowe o różnej trudności",
+        "Świątynia Wiecznej Wiosny",
+        "Spektakularne widoki natury"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "jezioro-slonca-i-ksiezyca",
+      "name": "Jezioro Słońca i Księżyca",
+      "loc": "nad Jeziorem Słońca i Księżyca",
+      "intro": [
+        "Jezioro Słońca i Księżyca to największe naturalne jezioro na Tajwanie i jedno z najbardziej malowniczych miejsc na wyspie. Otoczone zielonymi górami i zamglonymi szczytami, oferuje niezapomniane widoki, zwłaszcza o wschodzie i zachodzie słońca. To popularne miejsce na rejsy statkiem, przejażdżki rowerowe wokół jeziora oraz odwiedzanie świątyń i pagód.",
+        "Region jest również domem dla plemienia Thao, jednej z rdzennych grup etnicznych Tajwanu. Można tu poznać ich kulturę, spróbować tradycyjnych potraw i kupić lokalne rękodzieło. Spokojna atmosfera i piękno krajobrazu sprawiają, że to idealne miejsce na relaks i ucieczkę od miejskiego zgiełku."
+      ],
+      "airport": "RMQ",
+      "forWhom": "Idealne dla szukających spokoju, pięknych widoków i kontaktu z kulturą rdzennych mieszkańców.",
+      "gygQuery": "Sun Moon Lake",
+      "highlights": [
+        "Rejsy po jeziorze",
+        "Ścieżki rowerowe wokół jeziora",
+        "Kultura plemienia Thao",
+        "Pagoda Ci'en i świątynie"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "tainan",
+      "name": "Tainan",
+      "loc": "w Tainanie",
+      "intro": [
+        "Tainan, najstarsze miasto Tajwanu, to kolebka kultury i historii wyspy. Było pierwszą stolicą i do dziś zachowało wiele zabytków z czasów holenderskich, chińskich i japońskich. Spacerując po jego uliczkach, natkniesz się na setki świątyń, historycznych budynków i uroczych zaułków, które opowiadają historię Tajwanu.",
+        "Miasto jest również słynne jako kulinarna stolica wyspy. Tainan oferuje niezliczone lokalne specjały, od owoców morza po tradycyjne przekąski, które można znaleźć na nocnych targach i w małych restauracjach. To idealne miejsce, aby zanurzyć się w autentycznym tajwańskim życiu i smaku."
+      ],
+      "airport": "TNN",
+      "forWhom": "Dla miłośników historii, tradycyjnej architektury i tajwańskiej kuchni w jej najbardziej autentycznej formie.",
+      "gygQuery": "Tainan",
+      "highlights": [
+        "Fort Zeelandia i Fort Provintia",
+        "Setki zabytkowych świątyń",
+        "Uliczne jedzenie i nocne targi",
+        "Tradycyjna architektura"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Taipei 101",
+      "text": "Jeden z najwyższych budynków świata, oferujący spektakularne widoki na Tajpej z tarasu widokowego. Symbol nowoczesnego Tajwanu.",
+      "gygQuery": "Taipei 101"
+    },
+    {
+      "name": "Wąwóz Taroko",
+      "text": "Zapierający dech w piersiach marmurowy wąwóz z turkusową rzeką, licznymi szlakami pieszymi i świątyniami wbudowanymi w skały.",
+      "gygQuery": "Taroko Gorge"
+    },
+    {
+      "name": "Nocny Targ Shilin",
+      "text": "Największy i najsłynniejszy nocny targ w Tajpej, raj dla smakoszy, oferujący niezliczone tajwańskie specjały i lokalne produkty.",
+      "gygQuery": "Shilin Night Market"
+    },
+    {
+      "name": "Jezioro Słońca i Księżyca",
+      "text": "Malownicze jezioro otoczone górami, idealne do rejsów, przejażdżek rowerowych i podziwiania piękna tajwańskiej przyrody.",
+      "gygQuery": "Sun Moon Lake"
+    },
+    {
+      "name": "Muzeum Pałacowe",
+      "text": "Posiada jedną z największych kolekcji chińskiej sztuki i artefaktów na świecie, gromadzącą skarby z cesarskich zbiorów.",
+      "gygQuery": "National Palace Museum"
+    },
+    {
+      "name": "Chiang Kai-shek Memorial Hall",
+      "text": "Monumentalny kompleks upamiętniający byłego prezydenta, z imponującą architekturą, ogrodami i codzienną zmianą warty.",
+      "gygQuery": "Chiang Kai-shek Memorial Hall"
+    },
+    {
+      "name": "Park Narodowy Kenting",
+      "text": "Położony na południowym krańcu wyspy, oferuje piękne plaże, rafy koralowe i tropikalną roślinność, idealny do relaksu i sportów wodnych.",
+      "gygQuery": "Kenting National Park"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Tajwan jest bezpiecznym krajem dla turystów?",
+      "a": "Tak, Tajwan jest uważany za jeden z najbezpieczniejszych krajów na świecie, z bardzo niskim wskaźnikiem przestępczości. Można swobodnie podróżować nawet samotnie."
+    },
+    {
+      "q": "Jaka jest waluta na Tajwanie i czy można płacić kartą?",
+      "a": "Obowiązującą walutą jest Nowy Dolar Tajwański (TWD). W większych miastach i sklepach płatności kartą są powszechne, ale na mniejszych targach i w lokalnych knajpkach warto mieć gotówkę."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy na Tajwan?",
+      "a": "Obywatele Polski mogą wjechać na Tajwan bez wizy na okres do 90 dni w celach turystycznych. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Kiedy najlepiej odwiedzić Tajwan?",
+      "a": "Najlepszy czas na podróż to wiosna (marzec-kwiecień) i jesień (październik-listopad), kiedy pogoda jest najbardziej sprzyjająca, z umiarkowanymi temperaturami i mniejszym ryzykiem tajfunów."
+    }
+  ],
+  "bestTime": {
+    "text": "Tajwan ma klimat subtropikalny na północy i tropikalny na południu. Najlepszy czas na podróż to wiosna (marzec-kwiecień) i jesień (październik-listopad), kiedy temperatury są przyjemne, a opady deszczu mniejsze. Lato (czerwiec-wrzesień) jest gorące, wilgotne i to sezon tajfunów, które mogą zakłócić plany podróży. Zimy (grudzień-luty) są łagodne, zwłaszcza na południu, ale na północy może być chłodniej i bardziej deszczowo. W górach zawsze jest chłodniej.",
+    "best": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "ok": [
+      1,
+      2,
+      5,
+      9,
+      12
+    ]
+  },
+  "capital": "Tajpej",
+  "climate": {
+    "air": [
+      19,
+      19,
+      21,
+      25,
+      28,
+      31,
+      33,
+      33,
+      31,
+      28,
+      24,
+      20
+    ],
+    "note": "Dane dla Tajpej",
+    "sea": [
+      20,
+      19,
+      20,
+      22,
+      25,
+      27,
+      28,
+      28,
+      27,
+      25,
+      23,
+      21
+    ]
+  },
+  "cuisine": [
+    "Tajwańska kuchnia to prawdziwa uczta dla zmysłów, słynąca z różnorodności i świeżości. Jest to mieszanka wpływów chińskich, japońskich i lokalnych tradycji, z silnym naciskiem na street food. Koniecznie spróbuj słynnej wołowiny w zupie z makaronem (beef noodle soup), delikatnych pierożków xiaolongbao, chrupiącego omletu z ostrygami oraz oczywiście bubble tea, która narodziła się właśnie tutaj. Nocne targi to serce tajwańskiej gastronomii, gdzie za niewielkie pieniądze można spróbować niezliczonych lokalnych specjałów, od grillowanych owoców morza po słodkie desery."
+  ],
+  "gygQuery": "Taiwan",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty wjazdu. Obywatele Polski mogą wjechać na Tajwan bez wizy na okres do 90 dni. Zawsze warto sprawdzić aktualne wymogi wizowe przed podróżą na stronie MSZ.",
+    "flight": "Około 14-18 h z jedną przesiadką",
+    "language": "Oficjalnym językiem jest chiński mandaryński. Angielski jest zrozumiały w hotelach i miejscach turystycznych, ale poza nimi komunikacja może być trudniejsza.",
+    "money": "Walutą jest Nowy Dolar Tajwański (TWD). Płatności kartą są powszechne w miastach, ale na targach i w mniejszych miejscowościach przydaje się gotówka. Bankomaty są łatwo dostępne.",
+    "plugs": "Typ A i B. Wymagany adapter.",
+    "safety": "Tajwan jest krajem bardzo bezpiecznym, z niskim wskaźnikiem przestępczości. Należy uważać na ruch drogowy i pamiętać o sezonowych tajfunach. Opieka zdrowotna jest na wysokim poziomie.",
+    "timeDiff": "Różnica czasu wynosi +7 godzin w stosunku do czasu zimowego w Polsce i +6 godzin w stosunku do czasu letniego w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

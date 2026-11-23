@@ -1,0 +1,201 @@
+{
+  "slug": "vanuatu",
+  "loc": "na Vanuatu",
+  "to": "na Vanuatu",
+  "teaser": "Vanuatu to archipelag wulkanicznych wysp na Pacyfiku. Oferuje aktywny wulkan, dziewicze plaże i unikalną kulturę melanezyjską.",
+  "intro": [
+    "Vanuatu to kraj dla poszukiwaczy autentycznych przygód i miłośników natury, którzy nie boją się długiej podróży. Archipelag słynie z czynnego wulkanu Yasur na wyspie Tanna, gdzie można podejść bardzo blisko krateru, obserwując wybuchy lawy. Poza tym, to miejsce, gdzie kultura melanezyjska jest wciąż żywa i dostępna dla turystów, oferując wgląd w tradycyjne wierzenia i obrzędy. To nie jest kierunek dla osób szukających luksusowych kurortów i all-inclusive, a raczej dla tych, którzy cenią sobie bliskość z lokalną społecznością i dziewiczą przyrodą.",
+    "Podróż na Vanuatu z Polski to długa wyprawa, wymagająca co najmniej dwóch, a często trzech przesiadek. Najczęściej lata się przez Azję (np. Seul, Singapur) lub Australię/Nową Zelandię (np. Sydney, Auckland). Cała podróż, wliczając przesiadki, może zająć od 30 do nawet 40 godzin w jedną stronę. Warto zaplanować ją z wyprzedzeniem i uwzględnić dłuższe przystanki, aby uniknąć zmęczenia.",
+    "Mimo odległości, Vanuatu oferuje nagrodę w postaci niezapomnianych widoków i doświadczeń, które trudno znaleźć gdzie indziej. Od błękitnych jaskiń i podwodnych wraków, po tradycyjne wioski i festiwale, każdy znajdzie coś dla siebie. To idealne miejsce dla nurków, trekkerów i wszystkich, którzy chcą uciec od masowej turystyki i doświadczyć prawdziwego Pacyfiku."
+  ],
+  "highlights": [
+    "Aktywny wulkan Yasur - niezapomniane widowisko",
+    "Nurkowanie przy wraku SS President Coolidge",
+    "Błękitne jamy (blue holes) na Espiritu Santo",
+    "Tradycyjne wioski i kultura melanezyjska",
+    "Plaża Champagne Beach z białym piaskiem",
+    "Skoki Land Diving na Pentecost (kwiecień-maj)"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "efate",
+      "name": "Efate",
+      "loc": "na Efate",
+      "intro": [
+        "Efate to główna wyspa Vanuatu, gdzie znajduje się stolica Port Vila. Jest to najbardziej rozwinięta turystycznie wyspa, oferująca szeroki wybór zakwaterowania, restauracji i sklepów. Okolice Port Vila to także doskonałe miejsce do nurkowania, z dostępem do raf koralowych i mniejszych wraków.",
+        "Wyspa oferuje wiele atrakcji, od wodospadów Mele Cascades, przez tradycyjne wioski kulturowe, po rejsy po zatoce. Można tu również spróbować lokalnej kuchni na targu w Port Vila lub wybrać się na wycieczkę objazdową wokół wyspy, podziwiając malownicze krajobrazy i ukryte plaże."
+      ],
+      "airport": "VLI",
+      "forWhom": "Idealna dla osób szukających połączenia relaksu z dostępem do udogodnień stolicy i łatwym dostępem do atrakcji.",
+      "gygQuery": "Efate Vanuatu",
+      "highlights": [
+        "Port Vila - stolica i centrum życia",
+        "Wodospady Mele Cascades",
+        "Nurkowanie i snorkeling w zatoce",
+        "Targ lokalnych produktów w Port Vila"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "tanna",
+      "name": "Tanna",
+      "loc": "na Tannie",
+      "intro": [
+        "Tanna jest domem dla jednego z najbardziej dostępnych i aktywnych wulkanów na świecie - Yasur. Wieczorne wycieczki na szczyt krateru, aby obserwować wybuchy lawy, to niezapomniane przeżycie. Wyspa słynie również z żywej kultury plemiennej, w tym z kultu Cargo, oraz z tradycyjnych wiosek, gdzie można poznać lokalne zwyczaje.",
+        "Poza wulkanem, Tanna oferuje piękne, dzikie plaże, gorące źródła i możliwość eksploracji jaskiń. Jest to miejsce, gdzie czas płynie wolniej, a kontakt z naturą i lokalną społecznością jest na pierwszym planie. Infrastruktura turystyczna jest tu bardziej podstawowa niż na Efate, co dodaje autentyczności."
+      ],
+      "airport": "TAH",
+      "forWhom": "Wyspa Tanna to obowiązkowy punkt dla poszukiwaczy przygód i miłośników wulkanów.",
+      "gygQuery": "Tanna Vanuatu",
+      "highlights": [
+        "Wulkan Yasur - aktywny i dostępny",
+        "Tradycyjne wioski i kultura plemienna",
+        "Plaże z czarnym piaskiem",
+        "Gorące źródła i jaskinie"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "espiritu-santo",
+      "name": "Espiritu Santo",
+      "loc": "na Espiritu Santo",
+      "intro": [
+        "Espiritu Santo to największa wyspa Vanuatu, znana z krystalicznie czystych wód, błękitnych jam (blue holes) i rajskich plaż, takich jak słynna Champagne Beach. To także mekka dla nurków, dzięki obecności wraku SS President Coolidge, luksusowego liniowca zatopionego podczas II wojny światowej, który jest jednym z największych dostępnych wraków na świecie.",
+        "Wyspa oferuje również bujną dżunglę, rzeki i wodospady, idealne do trekkingu i eksploracji. Można tu odwiedzić lokalne farmy wanilii i kakao, a także poznać tradycyjne metody uprawy. Espiritu Santo to połączenie przygody pod wodą i na lądzie, z zachowaniem spokojnej, autentycznej atmosfery."
+      ],
+      "airport": "SON",
+      "forWhom": "Idealna dla nurków, miłośników błękitnych jam i osób szukających rajskich plaż z dala od tłumów.",
+      "gygQuery": "Espiritu Santo Vanuatu",
+      "highlights": [
+        "Wrak SS President Coolidge - nurkowanie",
+        "Błękitne jamy (Blue Holes)",
+        "Plaża Champagne Beach",
+        "Luganville - drugie co do wielkości miasto"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan Yasur",
+      "text": "Jeden z najbardziej dostępnych aktywnych wulkanów na świecie, oferujący spektakularne widoki na wybuchy lawy, zwłaszcza o zmierzchu.",
+      "gygQuery": "Mount Yasur volcano"
+    },
+    {
+      "name": "Wrak SS President Coolidge",
+      "text": "Luksusowy liniowiec zatopiony w czasie II wojny światowej, obecnie jeden z największych i najpopularniejszych wraków do nurkowania na świecie.",
+      "gygQuery": "SS President Coolidge dive"
+    },
+    {
+      "name": "Champagne Beach",
+      "text": "Uważana za jedną z najpiękniejszych plaż Pacyfiku, słynąca z białego piasku i krystalicznie czystej wody, gdzie bąbelki uwalniają się z dna morskiego.",
+      "gygQuery": "Champagne Beach Espiritu Santo"
+    },
+    {
+      "name": "Mele Cascades",
+      "text": "Malownicze wodospady kaskadowe w pobliżu Port Vila, z naturalnymi basenami idealnymi do pływania i relaksu.",
+      "gygQuery": "Mele Cascades Port Vila"
+    },
+    {
+      "name": "Millennium Cave",
+      "text": "Ekscytująca przygoda z trekkingiem przez dżunglę, pływaniem w rzece i eksploracją ogromnej jaskini, zakończona skokiem do wody.",
+      "gygQuery": "Millennium Cave Santo"
+    },
+    {
+      "name": "Blue Holes na Espiritu Santo",
+      "text": "Naturalne, krystalicznie czyste jamy krasowe z turkusową wodą, idealne do pływania i snorkelingu w otoczeniu bujnej roślinności.",
+      "gygQuery": "Espiritu Santo Blue Holes"
+    },
+    {
+      "name": "Kultura i wioski plemienne",
+      "text": "Możliwość odwiedzenia tradycyjnych wiosek, poznania lokalnych zwyczajów, tańców i obrzędów, w tym słynnego Land Diving na wyspie Pentecost.",
+      "gygQuery": "Vanuatu cultural village tour"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy na Vanuatu jest bezpiecznie?",
+      "a": "Vanuatu jest stosunkowo bezpiecznym krajem, ale należy zachować podstawowe środki ostrożności, zwłaszcza w Port Vila. Występuje ryzyko kradzieży. Kraj leży w strefie aktywnej sejsmicznie i wulkanicznie, możliwe są trzęsienia ziemi, erupcje wulkanów i cyklony tropikalne. Przed wyjazdem warto sprawdzić komunikaty pogodowe i ostrzeżenia."
+    },
+    {
+      "q": "Jaka jest waluta na Vanuatu i czy można płacić kartą?",
+      "a": "Walutą jest vatu (VUV). Płatności kartą są możliwe w większych hotelach i sklepach w Port Vila, ale na mniejszych wyspach dominują płatności gotówką. Warto mieć przy sobie mniejsze nominały VUV. Bankomaty są dostępne w Port Vila i Luganville."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Vanuatu?",
+      "a": "Najlepszy czas na podróż to pora sucha, od kwietnia do października. W tym okresie panują niższe temperatury, mniejsza wilgotność i mniejsze ryzyko cyklonów, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu."
+    },
+    {
+      "q": "Jak długo trwa lot z Polski na Vanuatu?",
+      "a": "Lot z Polski na Vanuatu jest długi i wymaga co najmniej 2-3 przesiadek, trwając około 30-40 godzin w jedną stronę. Najczęściej lata się przez Azję lub Australię/Nową Zelandię."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Vanuatu to pora sucha, od kwietnia do października. W tym okresie panują niższe temperatury, mniejsza wilgotność i mniejsze ryzyko cyklonów, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Pora deszczowa, od listopada do marca, charakteryzuje się wyższymi temperaturami, dużą wilgotnością i możliwością wystąpienia silnych opadów oraz cyklonów tropikalnych.",
+    "best": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ]
+  },
+  "capital": "Port Vila",
+  "climate": {
+    "air": [
+      30,
+      30,
+      30,
+      29,
+      28,
+      27,
+      26,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "note": "Dane dla Port Vila",
+    "sea": [
+      28,
+      28,
+      28,
+      27,
+      26,
+      25,
+      24,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Vanuatu opiera się na świeżych, lokalnych produktach, takich jak ryby i owoce morza, taro, ignamy, maniok, bataty i owoce tropikalne. Narodowe danie to laplap, rodzaj puddingu z korzeni roślin okopowych, tartego kokosa i mięsa lub ryby, pieczonego w liściach bananowca. Popularne są także świeże owoce morza, grillowane ryby i kurczak. Warto spróbować kava, tradycyjnego napoju o działaniu relaksującym, serwowanego w specjalnych kava bars."
+  ],
+  "gygQuery": "Vanuatu",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać na Vanuatu bez wizy na pobyt do 30 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu, bilet powrotny lub dalszy oraz wystarczające środki finansowe. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie Vanuatu.",
+    "flight": "około 30-40 h z 2-3 przesiadkami",
+    "language": "Oficjalnymi językami są bislama, angielski i francuski. Bislama to język kreolski, który jest powszechnie używany i stanowi lingua franca. Znajomość angielskiego lub francuskiego jest wystarczająca w kontaktach turystycznych.",
+    "money": "Walutą jest vatu (VUV). Płatności kartą są możliwe w większych hotelach i sklepach w Port Vila, ale na mniejszych wyspach i w lokalnych wioskach dominują płatności gotówką. Warto mieć przy sobie mniejsze nominały VUV. Bankomaty są dostępne w Port Vila i Luganville.",
+    "plugs": "Gniazdka elektryczne typu I (australijskie), napięcie 230 V, częstotliwość 50 Hz. Potrzebny adapter.",
+    "safety": "Vanuatu jest stosunkowo bezpiecznym krajem, ale należy zachować podstawowe środki ostrożności, zwłaszcza w nocy w Port Vila. Występuje ryzyko kradzieży. Kraj leży w strefie aktywnej sejsmicznie i wulkanicznie, możliwe są trzęsienia ziemi, erupcje wulkanów i cyklony tropikalne. Przed wyjazdem warto sprawdzić komunikaty pogodowe i ostrzeżenia. Zaleca się szczepienia na tężec, błonicę i WZW A i B.",
+    "timeDiff": "UTC+11. Względem Polski: +9 h w czasie letnim, +10 h w czasie zimowym"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

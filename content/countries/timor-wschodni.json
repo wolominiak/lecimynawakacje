@@ -1,0 +1,196 @@
+{
+  "slug": "timor-wschodni",
+  "loc": "w Timorze Wschodnim",
+  "to": "do Timoru Wschodniego",
+  "teaser": "Timor Wschodni to jeden z najmłodszych krajów świata, oferujący dziewicze plaże, bogate życie podwodne i autentyczną kulturę. Idealny dla poszukiwaczy przygód.",
+  "intro": [
+    "Timor Wschodni, położony na wschodniej części wyspy Timor, to prawdziwa perła Azji Południowo-Wschodniej, wciąż mało odkryta przez masową turystykę. Kraj ten, który uzyskał niepodległość dopiero w 2002 roku, zachwyca swoją naturalną urodą, od górzystych terenów porośniętych kawą, po krystalicznie czyste wody oblewające rafy koralowe. To miejsce, gdzie czas płynie wolniej, a lokalna kultura, będąca mieszanką wpływów portugalskich, indonezyjskich i tradycyjnych, jest niezwykle żywa i autentyczna. Brak tłumów pozwala na prawdziwe zanurzenie się w lokalne życie i cieszenie się spokojem.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, którzy cenią sobie autentyczność, przygodę i możliwość odkrywania miejsc poza utartymi szlakami. Miłośnicy nurkowania i snorkelingu znajdą tu jedne z najlepiej zachowanych raf koralowych na świecie, z bogactwem gatunków morskich. To także raj dla tych, którzy chcą poznać historię walki o niepodległość, odwiedzając miejsca pamięci i muzea. Timor Wschodni to kierunek dla osób niezależnych, gotowych na wyzwania i otwartych na prostotę życia, z dala od luksusowych kurortów i zorganizowanych wycieczek.",
+    "Podróż z Polski do Timoru Wschodniego to długa wyprawa, wymagająca co najmniej dwóch, a często trzech przesiadek, zazwyczaj przez duże huby azjatyckie, takie jak Singapur, Kuala Lumpur czy Denpasar na Bali, skąd dostępne są loty do Dili. Nie ma bezpośrednich połączeń, a cała podróż może zająć od 20 do nawet 30 godzin. Infrastruktura turystyczna jest podstawowa, a transport publiczny ograniczony, co często wymaga wynajęcia samochodu z kierowcą lub korzystania z motorowerów. Planowanie podróży wymaga cierpliwości i elastyczności, ale nagrodą jest niezapomniane doświadczenie w jednym z najbardziej dziewiczych zakątków świata."
+  ],
+  "highlights": [
+    "Nurkowanie i snorkeling na dziewiczych rafach",
+    "Odkrywanie kultury i historii Dili",
+    "Wspinaczka na świętą górę Ramelau",
+    "Relaks na odległej wyspie Atauro",
+    "Degustacja lokalnej kawy z górskich plantacji",
+    "Poznawanie lokalnych wiosek i tradycji"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "dili",
+      "name": "Dili",
+      "loc": "w Dili",
+      "intro": [
+        "Dili, stolica Timoru Wschodniego, jest główną bramą do kraju i jego największym miastem. Położone nad Morzem Sawu, oferuje mieszankę kolonialnej architektury portugalskiej, nowoczesnych budynków i śladów burzliwej historii. To tutaj znajduje się większość infrastruktury turystycznej, w tym hotele, restauracje i biura podróży. Miasto jest dobrym punktem startowym do zwiedzania, oferując wgląd w kulturę i codzienne życie mieszkańców.",
+        "W Dili warto odwiedzić pomnik Chrystusa Króla (Cristo Rei), Muzeum Oporu Timorczyków oraz lokalne targi, takie jak Tais Market, gdzie można kupić tradycyjne rękodzieło. Pomimo swojej stolicy, Dili zachowuje spokojny charakter, a jego nadmorska promenada jest popularnym miejscem wieczornych spacerów. To także baza wypadowa do nurkowania i snorkelingu w pobliskich rejonach."
+      ],
+      "airport": "DIL",
+      "forWhom": "Dla osób, które chcą poznać historię i kulturę kraju, a także jako baza wypadowa do dalszych eksploracji.",
+      "gygQuery": "Dili",
+      "highlights": [
+        "Pomnik Cristo Rei",
+        "Muzeum Oporu Timorczyków",
+        "Targ Tais Market",
+        "Plaże w okolicy Dili"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "wyspa-atauro",
+      "name": "Wyspa Atauro",
+      "loc": "na wyspie Atauro",
+      "intro": [
+        "Wyspa Atauro, położona około 25 km na północ od Dili, jest prawdziwym rajem dla miłośników przyrody i podwodnego świata. Znana z jednych z najbardziej bioróżnorodnych raf koralowych na świecie, przyciąga nurków i snorkelingu z całego globu. Brak rozwiniętej infrastruktury turystycznej sprawia, że Atauro zachowuje swój dziewiczy charakter, oferując autentyczne doświadczenia i bliski kontakt z naturą.",
+        "Na wyspie można znaleźć proste pensjonaty i ekologiczne resorty, prowadzone często przez lokalne społeczności. Oprócz podziwiania raf, można tu wybrać się na trekking po górzystym wnętrzu wyspy, odwiedzić tradycyjne wioski i poznać codzienne życie mieszkańców. Atauro to idealne miejsce na ucieczkę od zgiełku i relaks w otoczeniu spektakularnej przyrody."
+      ],
+      "airport": "DIL",
+      "forWhom": "Dla nurków, miłośników snorkelingu i osób szukających ekologicznego wypoczynku w dziewiczym otoczeniu.",
+      "gygQuery": "Atauro Island",
+      "highlights": [
+        "Nurkowanie na światowej klasy rafach",
+        "Trekking po wnętrzu wyspy",
+        "Odwiedzanie tradycyjnych wiosek",
+        "Relaks na spokojnych plażach"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "gory-i-plantacje-kawy",
+      "name": "Góry i Plantacje Kawy",
+      "loc": "w górach i na plantacjach kawy",
+      "intro": [
+        "Wnętrze Timoru Wschodniego to górzysty teren, oferujący chłodniejszy klimat i bujną roślinność. Regiony takie jak Maubisse czy Aileu są znane z rozległych plantacji kawy, która jest jednym z głównych produktów eksportowych kraju. Podróżowanie po tych obszarach to okazja do podziwiania malowniczych krajobrazów, poznawania lokalnych społeczności i degustacji świeżo palonej kawy.",
+        "Góry Timoru Wschodniego to także dom dla świętej góry Ramelau, najwyższego szczytu kraju, która jest celem pielgrzymek i oferuje spektakularne widoki o wschodzie słońca. Trekking po tych terenach to wyzwanie, ale nagrodą jest kontakt z dziewiczą przyrodą i możliwość obserwacji rzadkich gatunków ptaków. To idealne miejsce dla aktywnych podróżników i miłośników górskich wędrówek."
+      ],
+      "airport": "DIL",
+      "forWhom": "Dla miłośników górskich wędrówek, kawy i autentycznych doświadczeń wiejskich.",
+      "gygQuery": "Timor-Leste mountains coffee",
+      "highlights": [
+        "Wspinaczka na górę Ramelau",
+        "Zwiedzanie plantacji kawy",
+        "Poznawanie górskich wiosek",
+        "Malownicze krajobrazy"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Cristo Rei of Dili",
+      "text": "Ogromny posąg Chrystusa Króla, położony na wzgórzu z widokiem na Dili i Morze Sawu, jest symbolem miasta i popularnym miejscem pielgrzymek. Oferuje panoramiczne widoki.",
+      "gygQuery": "Cristo Rei Dili"
+    },
+    {
+      "name": "Nurkowanie na Atauro",
+      "text": "Wody wokół wyspy Atauro słyną z jednych z najbardziej bioróżnorodnych raf koralowych na świecie, oferując niezapomniane wrażenia nurkom i snorkelingu.",
+      "gygQuery": "Atauro Island diving"
+    },
+    {
+      "name": "Jaco Island",
+      "text": "Niezamieszkana, święta wyspa na wschodnim krańcu Timoru Wschodniego, znana z dziewiczych plaż i krystalicznie czystej wody. Dostępna tylko łodzią, idealna na jednodniową wycieczkę.",
+      "gygQuery": "Jaco Island Timor Leste"
+    },
+    {
+      "name": "Góra Ramelau",
+      "text": "Najwyższy szczyt Timoru Wschodniego, często nazywany świętą górą. Wspinaczka na jej wierzchołek oferuje spektakularne widoki, zwłaszcza o wschodzie słońca.",
+      "gygQuery": "Mount Ramelau"
+    },
+    {
+      "name": "Muzeum Oporu Timorczyków",
+      "text": "Muzeum w Dili, które dokumentuje historię walki Timoru Wschodniego o niepodległość, przedstawiając eksponaty i świadectwa z trudnych lat okupacji.",
+      "gygQuery": "Timorese Resistance Museum"
+    },
+    {
+      "name": "Targ Tais Market",
+      "text": "Tradycyjny targ w Dili, gdzie można kupić piękne, ręcznie tkane tkaniny tais, będące ważnym elementem kultury Timoru Wschodniego, a także inne lokalne wyroby.",
+      "gygQuery": "Tais Market Dili"
+    },
+    {
+      "name": "Plantacje kawy w Maubisse",
+      "text": "Region Maubisse słynie z malowniczych plantacji kawy, gdzie można poznać proces jej uprawy i produkcji, a także spróbować świeżo palonych ziaren.",
+      "gygQuery": "Maubisse coffee plantation"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Timor Wschodni jest bezpieczny dla turystów?",
+      "a": "Timor Wschodni jest generalnie bezpieczny, ale zaleca się zachowanie ostrożności, szczególnie po zmroku i w mniej uczęszczanych miejscach. Występuje drobna przestępczość. Zawsze warto śledzić bieżące komunikaty MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Timorze Wschodnim?",
+      "a": "Oficjalną walutą Timoru Wschodniego jest dolar amerykański (USD). Płatności kartą są możliwe tylko w większych hotelach i niektórych restauracjach w Dili, dlatego warto mieć przy sobie gotówkę."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Timoru Wschodniego?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Timoru Wschodniego. Można ją uzyskać na lotnisku w Dili (Visa on Arrival) lub w konsulacie/ambasadzie. Należy sprawdzić aktualne wymogi wizowe przed podróżą, aby upewnić się, że spełniasz wszystkie warunki."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Timoru Wschodniego?",
+      "a": "Najlepszy czas na podróż to pora sucha, od maja do października, kiedy panują słoneczne dni i niższa wilgotność. Pora deszczowa (listopad-kwiecień) może utrudniać podróżowanie po drogach i wpływać na widoczność pod wodą."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Timoru Wschodniego to pora sucha, która trwa od maja do października. W tych miesiącach panują słoneczne dni, niższa wilgotność i spokojniejsze morze, co sprzyja nurkowaniu, plażowaniu i trekkingowi. Temperatury są przyjemne, choć wysokie. Pora deszczowa, od listopada do kwietnia, charakteryzuje się intensywnymi opadami, które mogą powodować powodzie i utrudniać podróżowanie po drogach, zwłaszcza w górzystych rejonach. Widoczność pod wodą również może być wtedy gorsza. Miesiące przejściowe, kwiecień i listopad, oferują zazwyczaj dobrą pogodę z mniejszą liczbą turystów.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Dili",
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      32,
+      32,
+      31,
+      31,
+      31,
+      32,
+      32,
+      32,
+      31
+    ],
+    "note": "Dla Dili",
+    "sea": [
+      29,
+      29,
+      29,
+      29,
+      28,
+      27,
+      27,
+      27,
+      27,
+      28,
+      28,
+      29
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Timoru Wschodniego to proste, ale smaczne połączenie wpływów portugalskich, indonezyjskich i lokalnych tradycji. Podstawą jest ryż, często podawany z rybami lub mięsem (kurczak, koza, wieprzowina), warzywami i pikantnymi sosami chili (sambal). Popularne są świeże owoce morza, zwłaszcza w regionach przybrzeżnych. Warto spróbować 'ikan saboko' - grillowanej ryby zawiniętej w liście palmowe, czy 'feijoada' - gęstej zupy fasolowej z mięsem, będącej spuścizną portugalską. Kawa z Timoru Wschodniego jest ceniona na świecie i stanowi ważny element lokalnej kultury, a jej degustacja to obowiązkowy punkt programu."
+  ],
+  "gygQuery": "East Timor",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy. Można ją uzyskać na lotnisku w Dili (Visa on Arrival) lub w ambasadzie/konsulacie Timoru Wschodniego. Przed wyjazdem należy bezwzględnie sprawdzić aktualne wymogi wizowe i paszportowe (paszport ważny co najmniej 6 miesięcy od daty wjazdu) na stronie MSZ lub w placówce dyplomatycznej.",
+    "flight": "Około 20-24 h z 2-3 przesiadkami, zazwyczaj przez Singapur, Kuala Lumpur lub Denpasar (Bali).",
+    "language": "Językami urzędowymi są tetum i portugalski. Angielski i indonezyjski są również używane, zwłaszcza w sektorze turystycznym i biznesowym.",
+    "money": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są rzadkością poza większymi hotelami w Dili. Gotówka jest niezbędna, zwłaszcza poza stolicą. Bankomaty są dostępne w Dili.",
+    "plugs": "Typ C, F (europejskie) oraz I (australijskie). Zaleca się zabranie adaptera uniwersalnego.",
+    "safety": "Timor Wschodni jest krajem rozwijającym się, z problemami społecznymi. Występuje drobna przestępczość (kradzieże). Należy unikać samotnych spacerów po zmroku, zwłaszcza w Dili. Sytuacja polityczna jest stabilna, ale zaleca się śledzenie komunikatów MSZ. Istnieje ryzyko malarii w niektórych regionach, zaleca się konsultację z lekarzem w sprawie profilaktyki."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

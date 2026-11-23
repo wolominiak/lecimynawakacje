@@ -1,0 +1,200 @@
+{
+  "slug": "togo",
+  "loc": "w Togo",
+  "to": "do Togo",
+  "teaser": "Togo to małe, ale tętniące życiem państwo w Afryce Zachodniej, oferujące autentyczne doświadczenia kulturowe i piękne krajobrazy. To idealne miejsce dla poszukiwaczy prawdziwej Afryki, z dala od masowej turystyki.",
+  "intro": [
+    "Togo, położone na wybrzeżu Zatoki Gwinejskiej, to kraj o bogatej historii i fascynującej kulturze, w której silnie zakorzenione są tradycje voodoo. Choć niewielkie, oferuje różnorodność krajobrazów - od piaszczystych plaż, przez zielone wzgórza, po sawanny na północy. To destynacja, która pozwala zanurzyć się w lokalnym życiu, poznać gościnność mieszkańców i odkryć Afrykę w jej najbardziej autentycznym wydaniu.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, którzy cenią sobie przygodę, autentyczność i są gotowi na wyzwania związane z podróżowaniem po Afryce Zachodniej. Nie znajdziesz tu luksusowych kurortów ani rozbudowanej infrastruktury turystycznej, ale za to spotkasz prawdziwych ludzi, zobaczysz tradycyjne wioski i doświadczysz kultury, która pozostaje niezmieniona przez wieki. To kierunek dla tych, którzy szukają głębszych wrażeń i chcą uciec od utartych szlaków.",
+    "Podróż z Polski do Togo wymaga przesiadek, zazwyczaj w dużych europejskich hubach, takich jak Paryż, Bruksela czy Stambuł. Cała podróż, wliczając czas na przesiadki, zajmuje zazwyczaj od 10 do 14 godzin. Przed wyjazdem konieczne jest uzyskanie wizy oraz zadbanie o odpowiednie szczepienia, w tym obowiązkowe przeciwko żółtej febrze. Planując podróż, warto przygotować się na odmienne warunki i styl życia, co jest częścią uroku odkrywania Togo."
+  ],
+  "highlights": [
+    "Odkryj tajemnice kultury voodoo na lokalnych rynkach",
+    "Poznaj unikalne domy-wieże Batammariba w Koutammakou",
+    "Zrelaksuj się na dziewiczych plażach Zatoki Gwinejskiej",
+    "Wędruj po zielonych wzgórzach Regionu Plateaux",
+    "Skosztuj autentycznej kuchni Afryki Zachodniej",
+    "Odwiedź historyczne Togoville i Jezioro Togo"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "lome",
+      "name": "Lomé",
+      "loc": "w Lomé",
+      "intro": [
+        "Lomé, tętniąca życiem stolica Togo, to miasto kontrastów, gdzie nowoczesność przeplata się z tradycją. Jest to główny port kraju i centrum gospodarcze, oferujące mieszankę kolonialnej architektury, ruchliwych rynków i relaksujących plaż. Spacerując po ulicach, można poczuć puls afrykańskiego życia, obserwując codzienne rytuały i spotykając się z lokalnymi sprzedawcami.",
+        "Miasto słynie z barwnych rynków, takich jak Grand Marché czy Marché des Féticheurs, gdzie można znaleźć wszystko - od świeżych produktów, przez rękodzieło, po tajemnicze amulety voodoo. Lomé jest także bazą wypadową do odkrywania pobliskich atrakcji, takich jak historyczne Togoville czy malownicze Jezioro Togo. Mimo miejskiego zgiełku, miasto zachowuje swój unikalny charakter i jest doskonałym punktem startowym do dalszej eksploracji kraju."
+      ],
+      "airport": "Lomé-Tokoin International Airport (LFW)",
+      "forWhom": "Dla poszukujących miejskiego zgiełku, lokalnych rynków i wglądu w kulturę voodoo.",
+      "gygQuery": "Lome Togo",
+      "highlights": [
+        "Marché des Féticheurs (rynek voodoo)",
+        "Grand Marché (główny rynek)",
+        "Plaże Lomé",
+        "Muzeum Narodowe Togo"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "region-plateaux",
+      "name": "Region Plateaux (Kpalimé)",
+      "loc": "w Regionie Plateaux",
+      "intro": [
+        "Region Plateaux, położony w głębi lądu, to zielone serce Togo, znane z malowniczych gór, bujnych lasów i plantacji kawy oraz kakao. Głównym ośrodkiem regionu jest Kpalimé, urocze miasteczko otoczone wzgórzami, które stanowi doskonałą bazę dla miłośników przyrody i trekkingu. Klimat jest tu łagodniejszy niż na wybrzeżu, co sprzyja aktywnościom na świeżym powietrzu.",
+        "Okolice Kpalimé oferują liczne szlaki piesze prowadzące do wodospadów, takich jak Kpime czy Tomegbe, oraz na szczyty górskie, z których roztaczają się zapierające dech w piersiach widoki. Można tu również odwiedzić lokalne wioski, poznać proces uprawy kawy i kakao, a także podziwiać tradycyjne rzemiosło. To idealne miejsce na ucieczkę od miejskiego zgiełku i zanurzenie się w spokojnej, wiejskiej Afryce."
+      ],
+      "airport": "Lomé-Tokoin International Airport (LFW)",
+      "forWhom": "Idealny dla miłośników przyrody, trekkingu i agroturystyki.",
+      "gygQuery": "Kpalime Togo",
+      "highlights": [
+        "Wodospady Kpime i Tomegbe",
+        "Góra Agou (najwyższy szczyt)",
+        "Plantacje kawy i kakao",
+        "Tradycyjne wioski"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "koutammakou",
+      "name": "Koutammakou",
+      "loc": "w Koutammakou",
+      "intro": [
+        "Koutammakou, czyli Kraina Batammariba, to obszar wpisany na Listę Światowego Dziedzictwa UNESCO, położony w północnej części Togo. Jest to unikalny krajobraz kulturowy, charakteryzujący się niezwykłymi domami-wieżami z gliny, znanymi jako takienta. Te dwupiętrowe konstrukcje, przypominające małe zamki, są symbolem tożsamości ludu Batammariba i świadectwem ich tradycyjnego sposobu życia.",
+        "Podróż do Koutammakou to prawdziwa podróż w czasie, pozwalająca na bezpośrednie zetknięcie się z pradawnymi tradycjami i architekturą. Mieszkańcy regionu nadal żyją w zgodzie z naturą i swoimi przodkami, a ich kultura jest głęboko zakorzeniona w animizmie i szacunku dla ziemi. Odwiedzając ten region, można nie tylko podziwiać architekturę, ale także poznać codzienne życie, wierzenia i rzemiosło lokalnej społeczności."
+      ],
+      "airport": "Lomé-Tokoin International Airport (LFW)",
+      "forWhom": "Dla entuzjastów kultury, historii i unikalnej architektury Afryki Zachodniej.",
+      "gygQuery": "Koutammakou Togo",
+      "highlights": [
+        "Domy-wieże takienta",
+        "Kultura ludu Batammariba",
+        "Tradycyjne wioski",
+        "Krajobraz UNESCO"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Marché des Féticheurs (Akodésséwa Fetish Market)",
+      "text": "Ten unikalny rynek w Lomé to centrum tradycyjnych praktyk voodoo, gdzie można znaleźć amulety, zioła i inne przedmioty używane w rytuałach. To fascynujące, choć dla niektórych kontrowersyjne, miejsce oferujące wgląd w głęboko zakorzenione wierzenia.",
+      "gygQuery": "Akodessewa Fetish Market Lome"
+    },
+    {
+      "name": "Koutammakou, Korytarz Batammariba",
+      "text": "Region wpisany na listę UNESCO, słynący z glinianych domów-wież (takienta), które są symbolem kultury ludu Batammariba. To żywe muzeum architektury i tradycji.",
+      "gygQuery": "Koutammakou Togo"
+    },
+    {
+      "name": "Togoville",
+      "text": "Historyczne miasteczko nad Jeziorem Togo, znane z podpisania traktatu, który ustanowił Togo niemiecką kolonią, oraz z silnych tradycji voodoo. Można tu zobaczyć katedrę i sanktuaria.",
+      "gygQuery": "Togoville Togo"
+    },
+    {
+      "name": "Parc National de Fazao-Malfakassa",
+      "text": "Największy park narodowy Togo, oferujący różnorodność krajobrazów, od lasów po sawanny. Choć zwierzęta są często płochliwe, można tu spotkać antylopy, małpy i liczne gatunki ptaków.",
+      "gygQuery": "Fazao Malfakassa National Park"
+    },
+    {
+      "name": "Grand Marché, Lomé",
+      "text": "Główny, tętniący życiem rynek w stolicy, gdzie można kupić wszystko, od świeżych produktów spożywczych, przez tkaniny, po rękodzieło. To serce handlowe miasta i doskonałe miejsce do obserwacji lokalnego życia.",
+      "gygQuery": "Lome Grand Market"
+    },
+    {
+      "name": "Góra Agou",
+      "text": "Najwyższy szczyt Togo, oferujący spektakularne widoki na okoliczne wzgórza i lasy. Szlaki prowadzące na szczyt są popularne wśród miłośników trekkingu.",
+      "gygQuery": "Mount Agou Togo"
+    },
+    {
+      "name": "Jezioro Togo",
+      "text": "Malownicze jezioro lagunowe, idealne do rejsów łodzią i odwiedzania tradycyjnych wiosek rybackich. To spokojne miejsce, kontrastujące z zgiełkiem Lomé.",
+      "gygQuery": "Lake Togo"
+    },
+    {
+      "name": "Muzeum Narodowe Togo, Lomé",
+      "text": "Muzeum prezentuje bogatą historię, kulturę i sztukę Togo, z kolekcjami etnograficznymi, archeologicznymi i historycznymi. To dobry punkt, aby zrozumieć dziedzictwo kraju.",
+      "gygQuery": "National Museum of Togo Lome"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Togo jest bezpieczne dla turystów?",
+      "a": "Togo jest krajem o podwyższonym ryzyku. Zaleca się zachowanie szczególnej ostrożności, unikanie samotnych spacerów po zmroku, zwłaszcza w Lomé, i śledzenie komunikatów MSZ."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane lub zalecane przed podróżą do Togo?",
+      "a": "Obowiązkowe jest szczepienie przeciwko żółtej febrze (wymagane świadectwo). Zaleca się również szczepienia przeciwko tężcowi, błonicy, polio, durowi brzusznemu, WZW A i B oraz profilaktykę antymalaryczną."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Togo i czy można płacić kartą?",
+      "a": "Walutą jest frank CFA (XOF). Płatności kartą są bardzo ograniczone, akceptowane głównie w większych hotelach w Lomé. Należy mieć przy sobie wystarczającą ilość gotówki."
+    },
+    {
+      "q": "Jaki język jest urzędowy w Togo?",
+      "a": "Językiem urzędowym jest francuski. Warto znać podstawowe zwroty, choć w regionach używane są również lokalne języki, takie jak Ewe i Kabiye."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Togo to sucha pora, która przypada na miesiące od listopada do lutego. W tym okresie temperatury są nieco niższe, a wilgotność powietrza jest mniej dokuczliwa, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Druga, krótsza pora sucha występuje w lipcu i sierpniu, jednak wtedy temperatury są wyższe. Pory deszczowe, od marca do czerwca oraz od września do października, charakteryzują się wysoką wilgotnością i intensywnymi opadami, które mogą utrudniać podróżowanie.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      7,
+      8
+    ]
+  },
+  "capital": "Lomé",
+  "climate": {
+    "air": [
+      31,
+      32,
+      32,
+      32,
+      31,
+      29,
+      28,
+      28,
+      29,
+      30,
+      31,
+      31
+    ],
+    "note": "dla Lomé",
+    "sea": [
+      27,
+      27,
+      28,
+      28,
+      28,
+      27,
+      26,
+      25,
+      26,
+      27,
+      27,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Togo, podobnie jak w innych krajach Afryki Zachodniej, opiera się na prostych, sycących składnikach i intensywnych smakach. Podstawą diety są zboża, takie jak kukurydza i ryż, oraz bulwy - maniok, ignamy i taro. Często podawane są w formie fufu (purée z manioku lub ignamów) lub akume (pasta z mąki kukurydzianej), serwowane z różnorodnymi sosami. Sosy te, często pikantne, przygotowywane są z warzyw, takich jak liście baobabu, okra czy orzeszki ziemne, z dodatkiem ryb lub mięsa (kurczak, koza). Popularne są także świeże ryby i owoce morza, zwłaszcza na wybrzeżu. Warto spróbować lokalnych przysmaków, takich jak brochettes (szaszłyki) czy smażone banany plantany."
+  ],
+  "gygQuery": "Togo",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu z Togo oraz wizy. Wizę można uzyskać w ambasadzie Togo lub online (e-wiza). Zawsze należy sprawdzić aktualne wymagania wizowe w polskim MSZ lub ambasadzie Togo przed planowaną podróżą.",
+    "flight": "Loty z Polski do Togo wymagają co najmniej jednej przesiadki, zazwyczaj w dużych europejskich miastach. Całkowity czas podróży wynosi około 10-14 godzin.",
+    "language": "Językiem urzędowym w Togo jest francuski. W regionach używane są również liczne języki lokalne, z których najważniejsze to Ewe i Kabiye. Znajomość podstaw francuskiego jest bardzo pomocna.",
+    "money": "Walutą Togo jest frank CFA (XOF). Płatności kartą są bardzo ograniczone i akceptowane głównie w większych hotelach w Lomé. Poza stolicą gotówka jest niezbędna. Bankomaty są dostępne w większych miastach, ale ich niezawodność bywa różna. Zaleca się wymianę waluty w autoryzowanych kantorach.",
+    "plugs": "W Togo używane są gniazdka typu C i E. Napięcie wynosi 220 V, a częstotliwość 50 Hz. Adaptery mogą być potrzebne dla urządzeń z wtyczkami typu F (niemieckie) lub L (włoskie).",
+    "safety": "Togo jest krajem o podwyższonym ryzyku przestępczości, zwłaszcza w Lomé i na obszarach przygranicznych. Zdarzają się kradzieże kieszonkowe, napady i włamania. Zaleca się zachowanie szczególnej ostrożności, unikanie samotnych spacerów po zmroku i nieobnoszenie się z wartościowymi przedmiotami. W Togo występuje wysokie ryzyko malarii, a szczepienie przeciwko żółtej febrze jest obowiązkowe. Przed wyjazdem należy skonsultować się z lekarzem w sprawie zalecanych szczepień i profilaktyki zdrowotnej.",
+    "timeDiff": "Zimą różnica czasu wynosi -1 godzinę względem czasu w Polsce (Togo UTC+0, Polska UTC+1). Latem, gdy w Polsce obowiązuje czas letni, różnica wynosi -2 godziny (Togo UTC+0, Polska UTC+2)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

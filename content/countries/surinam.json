@@ -1,0 +1,224 @@
+{
+  "slug": "surinam",
+  "loc": "w Surinamie",
+  "to": "do Surinamu",
+  "teaser": "Surinam to kraj w Ameryce Południowej, który oferuje unikalne połączenie dzikiej przyrody Amazonii i bogatej mozaiki kulturowej. Idealny dla poszukiwaczy autentycznych doświadczeń.",
+  "intro": [
+    "Surinam, położony na północnym wybrzeżu Ameryki Południowej, to kraj, który wyróżnia się niezwykłą mieszanką kultur i dziewiczą przyrodą. Holenderskie dziedzictwo kolonialne przeplata się tu z wpływami afrykańskimi, indyjskimi, jawajskimi i rdzennymi, tworząc fascynującą mozaikę społeczną. Większość jego terytorium pokrywa gęsta dżungla amazońska, oferująca niezapomniane spotkania z dziką fauną i florą. To miejsce, gdzie historia i natura idą w parze, zaskakując na każdym kroku.",
+    "Kraj ten jest idealny dla podróżników szukających prawdziwej przygody i ucieczki od masowej turystyki. Jeśli cenisz sobie autentyczność, bliski kontakt z naturą i możliwość poznania różnorodnych kultur, Surinam może być Twoim kolejnym celem. Nie jest to destynacja dla osób oczekujących luksusowych kurortów i all-inclusive. Raczej dla tych, którzy są gotowi na wyzwania, cenią sobie eksplorację i są otwarci na mniej utarte szlaki. To podróż dla wytrwałych i ciekawych świata.",
+    "Podróż z Polski do Surinamu wymaga planowania i cierpliwości. Nie ma bezpośrednich połączeń lotniczych, a trasa zazwyczaj obejmuje co najmniej dwie przesiadki, często w Europie (np. Amsterdam) i na Karaibach lub w Ameryce Północnej. Cała podróż może zająć od 15 do 20 godzin, w zależności od połączeń. Warto zarezerwować bilety z wyprzedzeniem i przygotować się na długi lot. Po wylądowaniu w Paramaribo, stolicy kraju, poczujesz się, jakbyś przeniósł się do innego świata."
+  ],
+  "highlights": [
+    "Odkryj kolonialną architekturę Paramaribo, wpisaną na UNESCO.",
+    "Zanurz się w dziewiczej dżungli Amazonii.",
+    "Poznaj unikalną mozaikę kulturową i kulinarną.",
+    "Obserwuj rzadkie gatunki ptaków i małp.",
+    "Odwiedź historyczne plantacje w regionie Commewijne.",
+    "Popłyń łodzią po rzece Surinam do rdzennych wiosek."
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "paramaribo",
+      "name": "Paramaribo",
+      "loc": "w Paramaribo",
+      "intro": [
+        "Stolica Surinamu, Paramaribo, to bijące serce kraju i jedyne miasto wpisane na listę światowego dziedzictwa UNESCO. Jego historyczne centrum zachwyca unikalną drewnianą architekturą kolonialną, która świadczy o bogatej przeszłości. Spacerując ulicami, można podziwiać piękne budynki, kościoły, meczety i synagogi, stojące obok siebie, co jest symbolem kulturowej różnorodności miasta. To miejsce, gdzie historia ożywa na każdym kroku.",
+        "Paramaribo to także centrum życia kulturalnego i kulinarnego. Na tutejszych targach można spróbować lokalnych przysmaków i poczuć autentyczną atmosferę. Miasto jest doskonałą bazą wypadową do dalszych eksploracji kraju, oferując szeroki wybór zakwaterowania i restauracji. Pamiętaj jednak o zachowaniu ostrożności, zwłaszcza po zmroku, ze względu na kwestie bezpieczeństwa."
+      ],
+      "airport": "PBM",
+      "forWhom": "Idealne dla miłośników historii, architektury kolonialnej i miejskiego zgiełku.",
+      "gygQuery": "Paramaribo",
+      "highlights": [
+        "Historyczne Centrum UNESCO",
+        "Fort Zeelandia",
+        "Centralny Targ",
+        "Katedra św. Piotra i Pawła"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "gorny-surinam",
+      "name": "Górny Surinam",
+      "loc": "w regionie Górnego Surinamu",
+      "intro": [
+        "Region Górnego Surinamu to brama do serca amazońskiej dżungli, gdzie czas płynie wolniej, a życie toczy się w rytmie rzeki. To obszar zamieszkany głównie przez Maronów, potomków zbiegłych niewolników, którzy zachowali swoje afrykańskie tradycje i kulturę. Podróż łodzią po rzece Surinam jest niezapomnianym doświadczeniem, pozwalającym podziwiać dziewiczą przyrodę i odwiedzać tradycyjne wioski.",
+        "W tym regionie znajdziesz liczne ekologiczne lodge i domki na drzewach, oferujące bliski kontakt z naturą. Możesz wybrać się na piesze wędrówki po dżungli, kąpać się w naturalnych basenach, obserwować egzotyczne ptaki i małpy, a także poznać codzienne życie lokalnych społeczności. To idealne miejsce na detoks od cywilizacji i prawdziwe zanurzenie się w dzikiej przyrodzie Surinamu."
+      ],
+      "airport": "PBM",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników natury i autentycznych doświadczeń w dżungli.",
+      "gygQuery": "Upper Suriname River",
+      "highlights": [
+        "Wioski Maronów",
+        "Jungle lodges",
+        "Rejsy po rzece",
+        "Obserwacja dzikiej zwierzyny"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "brownsberg",
+      "name": "Park Narodowy Brownsberg",
+      "loc": "w Parku Narodowym Brownsberg",
+      "intro": [
+        "Park Narodowy Brownsberg to jeden z najbardziej dostępnych i popularnych parków narodowych w Surinamie, położony około 130 km na południe od Paramaribo. Słynie z bujnych lasów deszczowych, malowniczych wodospadów i bogatej różnorodności biologicznej. Z punktu widokowego na szczycie góry Brownsberg rozciąga się spektakularny widok na jezioro Brokopondo, jedno z największych sztucznych jezior na świecie, otoczone zielenią dżungli.",
+        "Park oferuje szereg szlaków turystycznych o różnym stopniu trudności, prowadzących do ukrytych wodospadów, takich jak Leo i Irene. Podczas wędrówek można spotkać małpy, leniwce, egzotyczne ptaki i liczne gatunki owadów. To doskonałe miejsce na jednodniową wycieczkę lub kilkudniowy pobyt, aby w pełni doświadczyć piękna surinamskiej przyrody."
+      ],
+      "airport": "PBM",
+      "forWhom": "Dla miłośników pieszych wędrówek, wodospadów i obserwacji dzikiej fauny w górskim lesie deszczowym.",
+      "gygQuery": "Brownsberg Nature Park",
+      "highlights": [
+        "Wodospady Leo i Irene",
+        "Punkt widokowy na jezioro Brokopondo",
+        "Bogata fauna i flora",
+        "Szlaki trekkingowe"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "commewijne",
+      "name": "Dystrykt Commewijne",
+      "loc": "w Dystrykcie Commewijne",
+      "intro": [
+        "Dystrykt Commewijne, położony na wschód od Paramaribo, to region o bogatej historii plantacji i silnych wpływach jawajskich. Można tu podziwiać stare, odrestaurowane plantacje, takie jak Mariënburg, które świadczą o kolonialnej przeszłości Surinamu. Region jest idealny do zwiedzania rowerem, co pozwala na spokojne odkrywanie uroków wiejskiego życia i malowniczych krajobrazów wzdłuż rzek Commewijne i Surinam.",
+        "Jedną z popularnych atrakcji jest rejs po rzece Commewijne, podczas którego można obserwować delfiny butlonose, a także odwiedzić Fort Nieuw Amsterdam, historyczną fortyfikację u zbiegu rzek. Wiele plantacji oferuje dziś noclegi i restauracje, gdzie można spróbować lokalnych specjałów, w tym kuchni jawajskiej. To spokojne miejsce, które oferuje wgląd w inną stronę surinamskiej kultury i historii."
+      ],
+      "airport": "PBM",
+      "forWhom": "Dla zainteresowanych historią plantacji, kulturą jawajską i relaksującymi wycieczkami rowerowymi.",
+      "gygQuery": "Commewijne River",
+      "highlights": [
+        "Plantacje Mariënburg",
+        "Fort Nieuw Amsterdam",
+        "Obserwacja delfinów",
+        "Wycieczki rowerowe"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Historyczne Centrum Paramaribo",
+      "text": "Wpisane na listę UNESCO, zachwyca unikalną drewnianą architekturą kolonialną, odzwierciedlającą bogatą historię miasta. Spacer po jego ulicach to podróż w czasie.",
+      "gygQuery": "Paramaribo Historic Inner City"
+    },
+    {
+      "name": "Fort Zeelandia",
+      "text": "Historyczna forteca w Paramaribo, pierwotnie holenderska placówka handlowa, dziś muzeum. Opowiada o burzliwej przeszłości Surinamu.",
+      "gygQuery": "Fort Zeelandia Paramaribo"
+    },
+    {
+      "name": "Katedra św. Piotra i Pawła",
+      "text": "Największa drewniana katedra w Ameryce Południowej, imponujący przykład architektury kolonialnej. Jej wnętrze jest równie zachwycające, co fasada.",
+      "gygQuery": "Saint Peter and Paul Cathedral Paramaribo"
+    },
+    {
+      "name": "Park Narodowy Brownsberg",
+      "text": "Oferuje spektakularne widoki na jezioro Brokopondo i możliwość wędrówek do malowniczych wodospadów w sercu amazońskiej dżungli.",
+      "gygQuery": "Brownsberg Nature Park"
+    },
+    {
+      "name": "Rejs po rzece Commewijne",
+      "text": "Pozwala na obserwację delfinów butlonosych, zwiedzanie starych plantacji i Fortu Nieuw Amsterdam, oferując wgląd w kolonialną historię regionu.",
+      "gygQuery": "Commewijne River Dolphin Tour"
+    },
+    {
+      "name": "Rezerwat Przyrody Galibi",
+      "text": "Położony na wybrzeżu, jest ważnym miejscem lęgowym dla gigantycznych żółwi morskich, które co roku przybywają tu, by składać jaja.",
+      "gygQuery": "Galibi Nature Reserve"
+    },
+    {
+      "name": "Jungle lodges nad rzeką Surinam",
+      "text": "Ekologiczne ośrodki w sercu dżungli, oferujące autentyczne doświadczenia, kontakt z kulturą Maronów i bliskość dzikiej przyrody.",
+      "gygQuery": "Upper Suriname River Jungle Lodge"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Surinam jest bezpieczny dla turystów?",
+      "a": "Surinam, zwłaszcza Paramaribo, ma wysoki wskaźnik przestępczości. Zaleca się zachowanie ostrożności, unikanie samotnych spacerów po zmroku i nieobnoszenie się z wartościowymi przedmiotami. Warto śledzić komunikaty MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Surinamie i jak płacić?",
+      "a": "Oficjalną walutą jest dolar surinamski (SRD). Karty kredytowe są akceptowane w większych hotelach i sklepach w stolicy, ale poza Paramaribo gotówka jest niezbędna. Warto mieć przy sobie mniejsze nominały."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Surinamu?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać do Surinamu. Można ją uzyskać w ambasadzie lub konsulacie Surinamu (np. w Hadze) lub online jako e-wiza. Zawsze należy sprawdzić aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Jakie są główne atrakcje turystyczne Surinamu?",
+      "a": "Do głównych atrakcji należą historyczne centrum Paramaribo (UNESCO), rejsy po rzekach Commewijne i Surinam, Park Narodowy Brownsberg, a także eksploracja amazońskiej dżungli i poznawanie kultury Maronów."
+    },
+    {
+      "q": "Jaki jest najlepszy czas na podróż do Surinamu?",
+      "a": "Najlepszy czas to długa pora sucha, od sierpnia do listopada, lub krótka pora sucha, od lutego do kwietnia. W tych okresach opady są najmniejsze, co sprzyja podróżowaniu i zwiedzaniu."
+    }
+  ],
+  "bestTime": {
+    "text": "Surinam leży w strefie klimatu równikowego, co oznacza wysokie temperatury i wilgotność przez cały rok. Występują tu dwie pory suche i dwie pory deszczowe. Najlepszym czasem na podróż jest długa pora sucha, od sierpnia do listopada, kiedy opady są najmniejsze, a słońca najwięcej. Krótka pora sucha, od lutego do kwietnia, również jest dobrym wyborem. Pory deszczowe (maj-lipiec i grudzień-styczeń) charakteryzują się intensywnymi, ale często krótkotrwałymi ulewami, które mogą utrudniać podróżowanie po dżungli, ale jednocześnie sprawiają, że roślinność jest bujniejsza.",
+    "best": [
+      2,
+      3,
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "ok": [
+      1,
+      5,
+      6,
+      7,
+      12
+    ]
+  },
+  "capital": "Paramaribo",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      32,
+      32,
+      32,
+      31,
+      30
+    ],
+    "note": "Paramaribo",
+    "sea": [
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      28,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia surinamska to prawdziwa fuzja smaków, odzwierciedlająca wielokulturowość kraju. Znajdziesz tu wpływy holenderskie, afrykańskie, indyjskie (hindustańskie), jawajskie, chińskie i rdzenne. Popularne dania to roti (indyjski placek z curry), pom (zapiekanka z kurczaka i taro), nasi goreng i bami (jawajskie dania z ryżu i makaronu), a także pyszne zupy orzechowe. Warto spróbować świeżych owoców tropikalnych i lokalnych soków. Jedzenie jest często pikantne i aromatyczne, z dużą ilością przypraw. Ulice Paramaribo pełne są stoisk z jedzeniem, oferujących szybkie i smaczne przekąski."
+  ],
+  "gygQuery": "Suriname",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy, aby wjechać do Surinamu. Wizę można uzyskać w ambasadzie lub konsulacie Surinamu (najbliższa w Hadze) lub online jako e-wiza. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych lub w placówce dyplomatycznej Surinamu przed planowaną podróżą.",
+    "flight": "około 15-20 h z co najmniej dwiema przesiadkami",
+    "language": "Oficjalnym językiem jest niderlandzki. Szeroko używany jest również Sranan Tongo, lokalny język kreolski. W rejonach turystycznych i biznesowych można porozumieć się po angielsku. Znajomość podstawowych zwrotów w niderlandzkim lub Sranan Tongo będzie atutem.",
+    "money": "Oficjalną walutą jest dolar surinamski (SRD). Wymiana walut jest możliwa w bankach i kantorach. Karty kredytowe są akceptowane w większych hotelach i sklepach w Paramaribo, ale poza stolicą gotówka jest niezbędna. Warto mieć przy sobie mniejsze nominały.",
+    "plugs": "W Surinamie używane są gniazdka typu A, B, C i F. Typy C i F są kompatybilne z polskimi wtyczkami, ale dla typów A i B (płaskie bolce) potrzebna będzie przejściówka. Napięcie wynosi 110-127 V lub 220-240 V, częstotliwość 60 Hz.",
+    "safety": "Surinam, zwłaszcza Paramaribo, ma wysoki wskaźnik przestępczości. Zaleca się zachowanie ostrożności, unikanie samotnych spacerów po zmroku i nieobnoszenie się z wartościowymi przedmiotami. Należy uważać na kradzieże kieszonkowe i napady. Przed wyjazdem warto skonsultować się z lekarzem w sprawie szczepień (żółta febra jest obowiązkowa) i profilaktyki malarii oraz dengi. Pij wyłącznie wodę butelkowaną.",
+    "timeDiff": "4 lub 5 godzin (w zależności od czasu letniego w Polsce)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

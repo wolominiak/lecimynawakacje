@@ -1,0 +1,194 @@
+{
+  "slug": "urugwaj",
+  "loc": "w Urugwaju",
+  "to": "do Urugwaju",
+  "teaser": "Urugwaj to kraj, który oferuje piękne plaże, kolonialną architekturę i autentyczną kulturę Ameryki Południowej, z dala od masowej turystyki.",
+  "intro": [
+    "Urugwaj, często niedoceniany sąsiad Brazylii i Argentyny, to kraj, który zaskakuje swoją spokojną atmosferą i wysoką jakością życia. Jest to idealne miejsce dla podróżników szukających autentycznych doświadczeń, bez tłumów i komercji typowej dla popularnych destynacji. Znajdziesz tu zarówno tętniące życiem miasta, jak i urokliwe, historyczne miasteczka oraz rozległe, piaszczyste plaże. Urugwaj to także kraj pasjonatów piłki nożnej i mate, gdzie życie płynie w swoim rytmie.",
+    "Kraj ten jest doskonałym wyborem dla osób ceniących sobie niezależne podróżowanie i eksplorowanie. Spodoba się miłośnikom historii, którzy docenią kolonialne zabytki, a także tym, którzy szukają relaksu na wybrzeżu Atlantyku. Ze względu na swoją stabilność i bezpieczeństwo, Urugwaj jest również dobrym kierunkiem dla rodzin. To miejsce, gdzie można poczuć prawdziwy smak Ameryki Południowej, delektując się doskonałą kuchnią i winem, a także poznając gościnnych mieszkańców.",
+    "Podróż z Polski do Urugwaju wymaga przesiadek, zazwyczaj w jednym z europejskich hubów, takich jak Madryt, Amsterdam czy Paryż, a następnie lotu transatlantyckiego. Cała podróż zajmuje około 16-20 godzin. Bezpośrednich lotów z Polski brak. Po wylądowaniu w Montevideo, stolicy kraju, łatwo można przemieszczać się po kraju dobrze rozwiniętą siecią autobusową. Urugwaj to kraj, który warto odwiedzić, jeśli szukasz czegoś więcej niż typowe wakacje."
+  ],
+  "highlights": [
+    "Relaks na plażach Punta del Este",
+    "Spacer po historycznym Colonia del Sacramento",
+    "Degustacja wyśmienitej wołowiny i wina Tannat",
+    "Odkrywanie kultury Montevideo",
+    "Obserwacja życia lokalnego przy filiżance mate",
+    "Podziwianie malowniczych krajobrazów Pampy"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "montevideo",
+      "name": "Montevideo",
+      "loc": "w Montevideo",
+      "intro": [
+        "Montevideo to tętniąca życiem stolica Urugwaju, położona nad ujściem rzeki La Plata. Miasto oferuje mieszankę kolonialnej architektury, nowoczesnych budynków i rozległych parków. To kulturalne i polityczne centrum kraju, gdzie można poczuć prawdziwy puls Urugwaju. Odwiedzający znajdą tu liczne muzea, galerie sztuki, teatry i restauracje, a także słynną Ramblę - nadmorską promenadę idealną do spacerów i podziwiania zachodów słońca.",
+        "Stare Miasto, czyli Ciudad Vieja, to serce historyczne Montevideo, pełne urokliwych uliczek, placów i zabytkowych budynków. To tutaj mieści się słynny Mercado del Puerto, gdzie można spróbować lokalnych specjałów. Montevideo jest miastem, które łączy w sobie południowoamerykański temperament z europejską elegancją, oferując jednocześnie spokojniejszą atmosferę niż inne metropolie regionu. To świetna baza wypadowa do dalszego odkrywania kraju."
+      ],
+      "airport": "MVD",
+      "forWhom": "Dla miłośników kultury, historii i miejskiego życia z nutką południowoamerykańskiego luzu.",
+      "gygQuery": "Montevideo",
+      "highlights": [
+        "Spacer po Ciudad Vieja",
+        "Odwiedziny na Mercado del Puerto",
+        "Relaks na Rambli",
+        "Zwiedzanie Palacio Salvo"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "colonia-del-sacramento",
+      "name": "Colonia del Sacramento",
+      "loc": "w Colonia del Sacramento",
+      "intro": [
+        "Colonia del Sacramento to urokliwe miasto portowe, wpisane na listę światowego dziedzictwa UNESCO, położone na zachodnim wybrzeżu Urugwaju, naprzeciwko Buenos Aires. Znane jest ze swojej doskonale zachowanej dzielnicy historycznej, Barrio Histórico, która jest świadectwem kolonialnej przeszłości i walki o wpływy między Portugalczykami a Hiszpanami. Wąskie, brukowane uliczki, kolorowe domy i zabytkowe latarnie tworzą niezwykłą atmosferę, idealną do romantycznych spacerów.",
+        "Miasto to jest popularnym celem jednodniowych wycieczek z Buenos Aires, ale warto poświęcić mu więcej czasu, aby w pełni zanurzyć się w jego unikalnym klimacie. Oprócz zwiedzania historycznych budynków i muzeów, można tu podziwiać piękne widoki na La Plata, zjeść smaczny posiłek w jednej z wielu restauracji lub po prostu usiąść w kawiarni i obserwować życie. Colonia del Sacramento to prawdziwa perła Urugwaju, która zachwyca swoim urokiem i historią."
+      ],
+      "airport": "MVD",
+      "forWhom": "Idealne dla szukających kolonialnej atmosfery, romantycznych spacerów i historycznych odkryć.",
+      "gygQuery": "Colonia del Sacramento",
+      "highlights": [
+        "Zwiedzanie Barrio Histórico",
+        "Wejście na Latarnię Morską",
+        "Podziwianie zachodu słońca nad La Plata",
+        "Wizyta w ruinach Convento de San Francisco"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "punta-del-este",
+      "name": "Punta del Este",
+      "loc": "w Punta del Este",
+      "intro": [
+        "Punta del Este to jeden z najbardziej ekskluzywnych kurortów Ameryki Południowej, często nazywany \"Monako Południa\". Położony na półwyspie, oferuje piękne piaszczyste plaże, luksusowe hotele, modne restauracje i tętniące życiem nocne kluby. To miejsce, gdzie latem (od grudnia do lutego) zjeżdżają celebryci i zamożni turyści z całego kontynentu, szukający słońca, rozrywki i relaksu. Kurort dzieli się na dwie główne plaże: Playa Mansa (Spokojna Plaża) i Playa Brava (Dzika Plaża), każda z nich oferuje inne doświadczenia.",
+        "Oprócz plażowania i korzystania z uroków nocnego życia, Punta del Este oferuje także możliwości uprawiania sportów wodnych, gry w golfa oraz zwiedzania okolicznych atrakcji, takich jak słynna rzeźba \"La Mano\" (Ręka) czy niezwykły kompleks Casapueblo. Mimo swojej ekskluzywności, miasto zachowuje pewien urugwajski luz, co sprawia, że jest przyjemnym miejscem do spędzenia wakacji dla tych, którzy cenią sobie komfort i dobrą zabawę."
+      ],
+      "airport": "PDP",
+      "forWhom": "Dla osób ceniących luksusowe kurorty, piękne plaże i tętniące życiem towarzyskie.",
+      "gygQuery": "Punta del Este",
+      "highlights": [
+        "Odpoczynek na Playa Brava i Mansa",
+        "Zdjęcie przy rzeźbie \"La Mano\"",
+        "Wizyta w Casapueblo",
+        "Życie nocne w centrum kurortu"
+      ],
+      "type": "kurort"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Plaza Independencia (Montevideo)",
+      "text": "Główny plac Montevideo, łączący stare miasto z nowszą częścią, z pomnikiem José Gervasio Artigasa i Pałacem Salvo.",
+      "gygQuery": "Plaza Independencia Montevideo"
+    },
+    {
+      "name": "Mercado del Puerto (Montevideo)",
+      "text": "Historyczny targ portowy, obecnie słynny kompleks gastronomiczny, gdzie można spróbować tradycyjnych urugwajskich asado i innych specjałów.",
+      "gygQuery": "Mercado del Puerto Montevideo"
+    },
+    {
+      "name": "Barrio Histórico (Colonia del Sacramento)",
+      "text": "Urokliwa, brukowana dzielnica historyczna wpisana na listę UNESCO, z latarnią morską, starymi kościołami i kolorowymi domami.",
+      "gygQuery": "Colonia del Sacramento Historic Quarter"
+    },
+    {
+      "name": "La Mano (Punta del Este)",
+      "text": "Słynna rzeźba przedstawiająca pięć palców wyłaniających się z piasku na plaży Brava, ikoniczny symbol Punta del Este.",
+      "gygQuery": "La Mano Punta del Este"
+    },
+    {
+      "name": "Casapueblo (Punta Ballena)",
+      "text": "Niezwykły kompleks artystyczny, hotel i muzeum, zaprojektowany przez Carlosa Páeza Vilaró, przypominający greckie wioski, z widokiem na ocean.",
+      "gygQuery": "Casapueblo"
+    },
+    {
+      "name": "Rambla (Montevideo)",
+      "text": "Malownicza, długa na ponad 20 km promenada wzdłuż wybrzeża Montevideo, idealna do spacerów, biegania i podziwiania zachodów słońca.",
+      "gygQuery": "Rambla Montevideo"
+    },
+    {
+      "name": "Bodegi w regionie Canelones",
+      "text": "Region winiarski niedaleko Montevideo, słynący z uprawy winogron Tannat i produkcji wysokiej jakości win, oferujący degustacje i wycieczki po winnicach.",
+      "gygQuery": "Canelones wineries"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Urugwaj jest bezpieczny dla turystów?",
+      "a": "Urugwaj jest uważany za jeden z bezpieczniejszych krajów Ameryki Południowej. W dużych miastach, zwłaszcza w Montevideo, należy zachować ostrożność, unikać samotnych spacerów po zmroku w niektórych dzielnicach i dbać o swoje wartościowe przedmioty. Ogólnie jednak, ryzyko jest niższe niż w wielu innych krajach regionu."
+    },
+    {
+      "q": "Jaka jest waluta w Urugwaju i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest peso urugwajskie (UYU). Płatności kartami kredytowymi i debetowymi są szeroko akceptowane, zwłaszcza w większych miastach i kurortach. Warto mieć przy sobie trochę gotówki na mniejsze zakupy i w miejscach oddalonych od głównych ośrodków turystycznych."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Urugwaju?",
+      "a": "Najlepszy czas na podróż do Urugwaju to lato na półkuli południowej, czyli od grudnia do lutego. W tym okresie panują najwyższe temperatury i jest najwięcej słońca, idealnie do plażowania i zwiedzania. Miesiące przejściowe, takie jak listopad i marzec-kwiecień, również są dobre, z przyjemnymi temperaturami i mniejszymi tłumami."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Urugwaju?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne w Urugwaju trwające do 90 dni. Wymagany jest ważny paszport. Zawsze jednak zaleca się sprawdzenie aktualnych przepisów wizowych przed planowaną podróżą, np. na stronie Ministerstwa Spraw Zagranicznych."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedziny w Urugwaju to miesiące letnie na półkuli południowej, czyli od grudnia do lutego. Wtedy panują najwyższe temperatury, idealne do plażowania i korzystania z uroków wybrzeża, a także do zwiedzania miast. Marzec i listopad to również dobre miesiące, z przyjemnymi temperaturami i mniejszymi tłumami, idealne na aktywne zwiedzanie.",
+    "best": [
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      11,
+      3,
+      4
+    ]
+  },
+  "capital": "Montevideo",
+  "climate": {
+    "air": [
+      28,
+      27,
+      25,
+      22,
+      18,
+      15,
+      14,
+      16,
+      18,
+      21,
+      24,
+      27
+    ],
+    "note": "dla Montevideo",
+    "sea": [
+      22,
+      23,
+      22,
+      19,
+      16,
+      13,
+      11,
+      11,
+      12,
+      14,
+      17,
+      20
+    ]
+  },
+  "cuisine": [
+    "Urugwajska kuchnia jest prosta, ale niezwykle smaczna, z silnym wpływem tradycji gaucho i europejskich imigrantów. Króluje tu wołowina - asado (grillowane mięso) to podstawa każdego posiłku, często podawane z chimichurri. Popularne są także chivito, czyli kanapki z wołowiną, szynką, serem, jajkiem i warzywami. Warto spróbować empanadas, czyli pierożków z różnymi nadzieniami, oraz dulce de leche, słodkiego kremu mlecznego. Nieodłącznym elementem urugwajskiej kultury jest mate - napój ziołowy pity z tykwy przez cały dzień."
+  ],
+  "gygQuery": "Uruguay",
+  "practical": {
+    "documents": "Ważny paszport. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Zawsze sprawdzaj aktualne wymogi wizowe przed wyjazdem.",
+    "flight": "Około 16-20 h z przesiadką, najczęściej w Europie (np. Madryt, Amsterdam) lub Ameryce Południowej.",
+    "language": "Hiszpański. W miejscach turystycznych można porozumieć się po angielsku, ale znajomość podstaw hiszpańskiego jest bardzo pomocna.",
+    "money": "Peso urugwajskie (UYU). Płatności kartą są powszechne, bankomaty dostępne. Warto mieć trochę gotówki na mniejsze wydatki.",
+    "plugs": "Typ C i F (europejskie) oraz Typ I (australijsko-argentyńskie). Zaleca się zabranie uniwersalnego adaptera.",
+    "safety": "Urugwaj jest stosunkowo bezpiecznym krajem. Należy zachować podstawowe środki ostrożności, zwłaszcza w większych miastach i w nocy. Unikaj pokazywania drogich przedmiotów i spacerowania po nieznanych dzielnicach po zmroku. Uważaj na drobne kradzieże."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

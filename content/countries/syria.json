@@ -1,0 +1,202 @@
+{
+  "slug": "syria",
+  "loc": "w Syrii",
+  "to": "do Syrii",
+  "teaser": "Syria, kraj o bogatej historii i dziedzictwie kulturowym, jest obecnie regionem niestabilnym. Podróże są kategorycznie odradzane.",
+  "intro": [
+    "Syria to kraj o niezwykle długiej i burzliwej historii, będący kolebką wielu cywilizacji. Od starożytnych miast, takich jak Damaszek i Palmyra, po zamki krzyżowców i bizantyjskie mozaiki, świadectwa przeszłości są tu na każdym kroku. Region ten był świadkiem narodzin i upadku imperiów, co pozostawiło po sobie bezcenne zabytki, wpisane na listę światowego dziedzictwa UNESCO.",
+    "Niestety, od 2011 roku Syria pogrążona jest w konflikcie zbrojnym, który znacząco wpłynął na jej infrastrukturę, dziedzictwo kulturowe i bezpieczeństwo. Wiele historycznych miejsc zostało zniszczonych lub uszkodzonych, a sytuacja humanitarna jest dramatyczna. Obecnie Syria nie jest krajem dla turystów, a wszelkie podróże są kategorycznie odradzane przez polskie Ministerstwo Spraw Zagranicznych.",
+    "Podróżowanie z Polski do Syrii jest obecnie niemożliwe w celach turystycznych. Brak bezpośrednich połączeń lotniczych, a także restrykcje wizowe i przede wszystkim ekstremalne zagrożenie bezpieczeństwa, sprawiają, że kraj ten jest poza zasięgiem typowego podróżnika. Wszelkie próby wjazdu wiążą się z ogromnym ryzykiem i brakiem opieki konsularnej."
+  ],
+  "highlights": [
+    "Starożytne miasto Damaszek - jedna z najstarszych stolic",
+    "Ruiny Palmyry - perła pustyni (częściowo zniszczona)",
+    "Cytadela Aleppo - imponująca forteca",
+    "Krak des Chevaliers - zamek krzyżowców UNESCO",
+    "Smaki kuchni bliskowschodniej",
+    "Mozaiki i zabytki bizantyjskie"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "damaszek",
+      "name": "Damaszek",
+      "loc": "w Damaszku",
+      "intro": [
+        "Damaszek, jedna z najstarszych stale zamieszkałych stolic świata, to miasto o niezwykłym dziedzictwie. Jego historia sięga tysięcy lat, co widać w architekturze i atmosferze starego miasta. Jest to miejsce, gdzie przenikają się wpływy wielu cywilizacji, od rzymskiej po osmańską.",
+        "Mimo trwającego konfliktu, Damaszek pozostaje symbolem syryjskiej kultury. Stare Miasto, wpisane na listę UNESCO, zachwyca wąskimi uliczkami, sukami i meczetami. Podróżowanie do Damaszku wymaga jednak ogromnej ostrożności i świadomości zagrożeń."
+      ],
+      "airport": "Damascus International Airport (DAM)",
+      "forWhom": "Dla osób zainteresowanych historią i kulturą Bliskiego Wschodu, świadomych ryzyka.",
+      "gygQuery": "Damascus",
+      "highlights": [
+        "Meczet Umajjadów - perła architektury",
+        "Stare Miasto - labirynt uliczek",
+        "Suk al-Hamidijja - tradycyjny targ",
+        "Pałac Azm - przykład architektury osmańskiej"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "palmyra",
+      "name": "Palmyra (Tadmor)",
+      "loc": "w Palmyrze",
+      "intro": [
+        "Palmyra, znana jako \"Perła Pustyni\", to starożytne miasto o niezwykłym znaczeniu historycznym. Jej ruiny świadczą o dawnej potędze i bogactwie, będąc świadectwem rzymskiej i perskiej architektury. Była to kluczowa oaza na szlaku handlowym.",
+        "Niestety, Palmyra doświadczyła ogromnych zniszczeń podczas konfliktu, szczególnie ze strony ISIS. Mimo wysiłków restauracyjnych, wiele bezcennych zabytków zostało bezpowrotnie utraconych. Dostęp do tego miejsca jest obecnie praktycznie niemożliwy i skrajnie niebezpieczny."
+      ],
+      "airport": "Brak lotniska w pobliżu, dostęp bardzo utrudniony.",
+      "forWhom": "Dla badaczy historii starożytnej, świadomych zniszczeń i braku bezpieczeństwa.",
+      "gygQuery": "Palmyra",
+      "highlights": [
+        "Świątynia Bela - symbol Palmyry (zniszczona)",
+        "Kolumnada - główna ulica miasta",
+        "Teatr rzymski - monumentalna budowla",
+        "Grobowce wieżowe - starożytne nekropolie"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "aleppo",
+      "name": "Aleppo",
+      "loc": "w Aleppo",
+      "intro": [
+        "Aleppo to jedno z najstarszych miast świata, słynące z historycznego Starego Miasta i cytadeli. Przez wieki było ważnym centrum handlowym i kulturalnym na Bliskim Wschodzie. Jego architektura odzwierciedla bogatą mozaikę wpływów.",
+        "Miasto zostało w dużej mierze zniszczone podczas wojny domowej, a wiele jego zabytków, w tym części cytadeli i historycznych suków, uległo poważnym uszkodzeniom. Obecnie trwają prace rekonstrukcyjne, ale sytuacja bezpieczeństwa pozostaje niestabilna. Podróże są kategorycznie odradzane."
+      ],
+      "airport": "Aleppo International Airport (ALP)",
+      "forWhom": "Dla osób zainteresowanych historią i konsekwencjami konfliktu, z pełną świadomością ryzyka.",
+      "gygQuery": "Aleppo",
+      "highlights": [
+        "Cytadela Aleppo - imponująca forteca",
+        "Stare Miasto - wpisane na UNESCO",
+        "Suki - tradycyjne bazary (zniszczone)",
+        "Meczet Al-Omari - historyczna budowla"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "krak-des-chevaliers",
+      "name": "Krak des Chevaliers",
+      "loc": "w Krak des Chevaliers",
+      "intro": [
+        "Krak des Chevaliers to jeden z najlepiej zachowanych zamków krzyżowców na świecie, wpisany na listę światowego dziedzictwa UNESCO. Ta monumentalna forteca góruje nad okolicą, stanowiąc świadectwo średniowiecznej inżynierii wojskowej.",
+        "Zamek przeszedł przez wiele oblężeń i zmian właścicieli, co odzwierciedla jego burzliwą historię. Mimo że został uszkodzony podczas niedawnego konfliktu, jego struktura pozostaje w dużej mierze nienaruszona. Dostęp do zamku jest jednak bardzo ograniczony i niebezpieczny."
+      ],
+      "airport": "Brak lotniska w pobliżu, dostęp bardzo utrudniony.",
+      "forWhom": "Dla miłośników średniowiecznych fortyfikacji i historii krzyżowców, z pełną świadomością zagrożeń.",
+      "gygQuery": "Krak des Chevaliers",
+      "highlights": [
+        "Imponujące mury obronne",
+        "Kaplica zamkowa - świadectwo krzyżowców",
+        "Widoki na okolicę - strategiczne położenie",
+        "Doskonały przykład architektury militarnej"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Meczet Umajjadów w Damaszku",
+      "text": "Jeden z największych i najstarszych meczetów na świecie, zbudowany na miejscu rzymskiej świątyni Jowisza. To architektoniczna perła islamu.",
+      "gygQuery": "Umayyad Mosque Damascus"
+    },
+    {
+      "name": "Stare Miasto w Damaszku",
+      "text": "Labirynt wąskich uliczek, suków i zabytkowych domów, wpisany na listę UNESCO. Odzwierciedla tysiące lat historii miasta.",
+      "gygQuery": "Old City Damascus"
+    },
+    {
+      "name": "Ruiny Palmyry",
+      "text": "Starożytne miasto-oaza, znane z monumentalnych ruin rzymskich i perskich. Niestety, poważnie zniszczone w ostatnich latach.",
+      "gygQuery": "Palmyra ruins"
+    },
+    {
+      "name": "Cytadela Aleppo",
+      "text": "Jedna z najstarszych i największych fortec na świecie, dominująca nad miastem. Symbol historii Aleppo, częściowo zniszczona.",
+      "gygQuery": "Citadel of Aleppo"
+    },
+    {
+      "name": "Krak des Chevaliers",
+      "text": "Imponujący zamek krzyżowców, uważany za jeden z najlepiej zachowanych na świecie. Wpisany na listę UNESCO.",
+      "gygQuery": "Krak des Chevaliers"
+    },
+    {
+      "name": "Bosra",
+      "text": "Starożytne miasto z dobrze zachowanym rzymskim teatrem, wpisane na listę UNESCO. Świadectwo rzymskiej obecności w regionie.",
+      "gygQuery": "Bosra"
+    },
+    {
+      "name": "Martwe Miasta (Ancient Villages of Northern Syria)",
+      "text": "Setki opuszczonych osad z okresu późnego antyku, oferujące wgląd w życie bizantyjskiej Syrii. Wpisane na listę UNESCO.",
+      "gygQuery": "Dead Cities Syria"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy podróżowanie do Syrii jest bezpieczne?",
+      "a": "Ministerstwo Spraw Zagranicznych RP kategorycznie odradza wszelkie podróże do Syrii ze względu na trwający konflikt zbrojny, wysokie ryzyko terrorystyczne i brak możliwości zapewnienia opieki konsularnej."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Syrii?",
+      "a": "Tak, obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą w ambasadzie Syrii. Wjazd do kraju jest możliwy tylko za specjalnym zezwoleniem."
+    },
+    {
+      "q": "Jakie są główne atrakcje turystyczne Syrii?",
+      "a": "Syria słynie z bogactwa historycznych miejsc, takich jak starożytne Damaszek, Palmyra, Aleppo, czy zamek Krak des Chevaliers. Niestety, wiele z nich zostało zniszczonych, a dostęp do nich jest obecnie bardzo utrudniony i niebezpieczny."
+    },
+    {
+      "q": "Jaki jest najlepszy czas na podróż do Syrii?",
+      "a": "Z uwagi na trwający konflikt zbrojny, obecnie nie ma bezpiecznego czasu na podróżowanie do Syrii. Niezależnie od warunków pogodowych, podróże są kategorycznie odradzane."
+    }
+  ],
+  "bestTime": {
+    "text": "Z uwagi na trwający konflikt zbrojny, obecnie nie ma bezpiecznego czasu na podróżowanie do Syrii. Niezależnie od warunków pogodowych, podróże są kategorycznie odradzane. Historycznie, najlepszym okresem na zwiedzanie Syrii były wiosna (kwiecień-maj) i jesień (wrzesień-październik), kiedy temperatury są umiarkowane i przyjemne.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "capital": "Damaszek",
+  "climate": {
+    "air": [
+      10,
+      13,
+      17,
+      23,
+      28,
+      32,
+      35,
+      35,
+      32,
+      26,
+      18,
+      12
+    ],
+    "note": "Dane dla Damaszku.",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia syryjska jest częścią bogatej tradycji bliskowschodniej, z wpływami tureckimi, perskimi i śródziemnomorskimi. Charakteryzuje się świeżymi składnikami, aromatycznymi przyprawami i różnorodnością dań. Popularne są mezze - małe przystawki, takie jak hummus, baba ghanoush, tabbouleh czy fatoush. Główne dania często bazują na jagnięcinie, kurczaku i ryżu, a słodkości, takie jak baklava, są nieodłącznym elementem posiłków. Należy jednak pamiętać, że dostępność i bezpieczeństwo żywności w obecnej sytuacji mogą być ograniczone."
+  ],
+  "gygQuery": "Syria",
+  "practical": {
+    "documents": "Wiza jest wymagana. Należy ją uzyskać przed podróżą w ambasadzie Syrii. MSZ RP kategorycznie odradza wszelkie podróże do Syrii ze względu na trwający konflikt zbrojny i wysokie zagrożenie terrorystyczne. Wjazd do kraju jest możliwy tylko za specjalnym zezwoleniem.",
+    "flight": "Około 6-8 h z przesiadką, jednak loty do Syrii są obecnie bardzo ograniczone lub niemożliwe.",
+    "language": "Językiem urzędowym jest arabski.",
+    "money": "Walutą jest funt syryjski (SYP). Płatności kartą są rzadkością, dominują transakcje gotówkowe. Ze względu na sankcje i niestabilność, wymiana walut może być trudna i ryzykowna. Zaleca się posiadanie dolarów amerykańskich w gotówce.",
+    "plugs": "Typ C, E, F. Napięcie 230 V, częstotliwość 50 Hz.",
+    "safety": "Sytuacja bezpieczeństwa w Syrii jest niezwykle trudna. Na terenie całego kraju trwa konflikt zbrojny, istnieje wysokie ryzyko ataków terrorystycznych, porwań i działań wojennych. Ministerstwo Spraw Zagranicznych RP kategorycznie odradza wszelkie podróże do Syrii. Brak możliwości zapewnienia opieki konsularnej. Przed wyjazdem należy bezwzględnie zapoznać się z aktualnymi ostrzeżeniami MSZ.",
+    "timeDiff": "1 godzina do przodu względem Polski."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

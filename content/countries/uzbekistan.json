@@ -1,0 +1,200 @@
+{
+  "slug": "uzbekistan",
+  "loc": "w Uzbekistanie",
+  "to": "do Uzbekistanu",
+  "teaser": "Odkryj magiczny Jedwabny Szlak, starożytne miasta pełne mozaik i orientalnych bazarów, które przeniosą Cię w czasie.",
+  "intro": [
+    "Uzbekistan to kraj, który przyciąga przede wszystkim bogactwem historii i architektury. Jest sercem Jedwabnego Szlaku, a jego miasta takie jak Samarkanda, Buchara czy Chiwa, to prawdziwe perły Orientu. To idealne miejsce dla podróżników szukających autentycznych doświadczeń, z dala od masowej turystyki, gdzie każdy zakątek opowiada fascynującą historię. Przygotuj się na spotkanie z niezwykłą kulturą, gościnnymi ludźmi i kuchnią, która zachwyci Twoje podniebienie.",
+    "Kraj ten jest doskonały dla osób ceniących podróże kulturowe, miłośników historii, fotografów oraz tych, którzy pragną zanurzyć się w atmosferze dawnych imperiów. Nie jest to kierunek na typowe wczasy all-inclusive, ale raczej na aktywną eksplorację. Infrastruktura turystyczna rozwija się dynamicznie, ale nadal zachowuje swój unikalny charakter, oferując zarówno komfortowe hotele, jak i tradycyjne pensjonaty.",
+    "Podróż z Polski do Uzbekistanu zazwyczaj wiąże się z przesiadką, najczęściej w Stambule lub innym europejskim hubie. Loty są dostępne z głównych polskich lotnisk, a czas podróży z przesiadką wynosi około 7-9 godzin. Połączenia wewnętrzne, zwłaszcza szybkie pociągi między głównymi miastami, są wygodne i efektywne, co ułatwia przemieszczanie się po kraju i odkrywanie jego uroków."
+  ],
+  "highlights": [
+    "Odkryj legendarny Registan w Samarkandzie",
+    "Przejdź przez mury starożytnej Chiwy",
+    "Zanurz się w atmosferze Buchary",
+    "Spróbuj narodowego dania - pilawu",
+    "Odwiedź tętniący życiem bazar Chorsu",
+    "Podziwiaj mozaiki i minarety Jedwabnego Szlaku"
+  ],
+  "popularity": 25,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "samarkanda",
+      "name": "Samarkanda",
+      "loc": "w Samarkandzie",
+      "intro": [
+        "Samarkanda to jedno z najstarszych miast świata, prawdziwa perła Jedwabnego Szlaku i dawna stolica imperium Tamerlana. To tutaj znajdują się jedne z najbardziej spektakularnych budowli Azji Centralnej, które zapierają dech w piersiach. Miasto słynie z majestatycznych medres, meczetów i mauzoleów, ozdobionych misternymi mozaikami w odcieniach błękitu i turkusu.",
+        "Głównym punktem jest plac Registan, otoczony trzema wspaniałymi medresami: Ulugbeka, Szer-Dor i Tilla-Kori. Spacer po Samarkandzie to podróż w czasie, pozwalająca poczuć ducha dawnych karawan i kupców. To miasto, które trzeba zobaczyć, aby zrozumieć potęgę i piękno dawnego Orientu."
+      ],
+      "airport": "SKD",
+      "forWhom": "Dla miłośników historii i architektury Jedwabnego Szlaku.",
+      "gygQuery": "Samarkand",
+      "highlights": [
+        "Plac Registan",
+        "Kompleks Shah-i-Zinda",
+        "Meczet Bibi-Chanum",
+        "Mauzoleum Gur-e-Amir"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "buchara",
+      "name": "Buchara",
+      "loc": "w Bucharze",
+      "intro": [
+        "Buchara to miasto, które wydaje się być zamrożone w czasie, zachowując niemal nienaruszony układ średniowiecznej starówki. Jej historyczne centrum, wpisane na listę UNESCO, to labirynt wąskich uliczek, meczetów, medres i bazarów. To tutaj poczujesz prawdziwą atmosferę dawnego Wschodu, z jego zapachami przypraw i gwarem handlu.",
+        "Kompleks Poi Kalyan z minaretem Kalyan, meczetem i medresą, jest sercem miasta. W Bucharze znajdziesz setki zabytków, które świadczą o jej bogatej przeszłości jako centrum nauki i kultury islamu. To idealne miejsce na niespieszne spacery i chłonięcie atmosfery, która od wieków inspirowała poetów i podróżników."
+      ],
+      "airport": "BKH",
+      "forWhom": "Idealna dla tych, którzy szukają autentycznej atmosfery dawnego Wschodu.",
+      "gygQuery": "Bukhara",
+      "highlights": [
+        "Kompleks Poi Kalyan",
+        "Zespół Lyab-i Hauz",
+        "Mauzoleum Samanidów",
+        "Medresa Chor Minor"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "chiwa",
+      "name": "Chiwa",
+      "loc": "w Chiwie",
+      "intro": [
+        "Chiwa to prawdziwy skansen pod gołym niebem, otoczony potężnymi murami twierdzy Itchan Kala. Wchodząc do środka, ma się wrażenie, że cofnęło się w czasie o kilkaset lat. To jedno z najlepiej zachowanych miast Jedwabnego Szlaku, gdzie każdy budynek, każda ulica, zdaje się opowiadać legendy o chanach i kupcach.",
+        "W obrębie murów Itchan Kala znajdują się dziesiątki meczetów, medres, mauzoleów i pałaców, z których wiele jest otwartych dla zwiedzających. Charakterystyczny, niedokończony minaret Kalta Minor, pokryty turkusowymi kafelkami, jest symbolem miasta. Chiwa to miejsce, które zachwyca swoją spójnością i pozwala na pełne zanurzenie się w historii."
+      ],
+      "airport": "UGC",
+      "forWhom": "Niezwykłe doświadczenie podróży w czasie, idealne dla odkrywców.",
+      "gygQuery": "Khiva",
+      "highlights": [
+        "Twierdza Itchan Kala",
+        "Minaret Kalta Minor",
+        "Cytadela Kunya-Ark",
+        "Meczet Juma"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "taszkent",
+      "name": "Taszkent",
+      "loc": "w Taszkencie",
+      "intro": [
+        "Taszkent to stolica Uzbekistanu i największe miasto Azji Centralnej, które stanowi fascynujący kontrast dla starożytnych miast Jedwabnego Szlaku. Po trzęsieniu ziemi w 1966 roku miasto zostało odbudowane w stylu radzieckim, co nadaje mu unikalny charakter. To nowoczesna metropolia z szerokimi alejami, zielonymi parkami i imponującymi budynkami.",
+        "Mimo nowoczesności, Taszkent oferuje również wgląd w swoją bogatą historię, zwłaszcza w Starym Mieście z bazarem Chorsu i kompleksem Khast-Imam. To także centrum kulturalne i gospodarcze kraju, z licznymi muzeami, teatrami i galeriami. Warto przejechać się taszkenckim metrem, którego stacje są małymi dziełami sztuki."
+      ],
+      "airport": "TAS",
+      "forWhom": "Daje wgląd w nowoczesne oblicze Uzbekistanu i jego radziecką przeszłość.",
+      "gygQuery": "Tashkent",
+      "highlights": [
+        "Bazar Chorsu",
+        "Taszkeńskie Metro",
+        "Plac Amira Temura",
+        "Kompleks Khast-Imam"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Plac Registan",
+      "text": "Serce Samarkandy, otoczone trzema majestatycznymi medresami: Ulugbeka, Szer-Dor i Tilla-Kori. To ikoniczne miejsce, które trzeba zobaczyć.",
+      "gygQuery": "Registan Square"
+    },
+    {
+      "name": "Kompleks Poi Kalyan",
+      "text": "Dominujący nad Bucharą zespół architektoniczny z Wielkim Minaretem, meczetem i medresą, będący symbolem miasta.",
+      "gygQuery": "Poi Kalyan Complex"
+    },
+    {
+      "name": "Twierdza Itchan Kala",
+      "text": "Wewnętrzne miasto Chiwy, otoczone potężnymi murami, wpisane na listę UNESCO. Prawdziwy skansen pod gołym niebem.",
+      "gygQuery": "Itchan Kala Khiva"
+    },
+    {
+      "name": "Kompleks Shah-i-Zinda",
+      "text": "Nekropolia w Samarkandzie, składająca się z rzędu misternie zdobionych mauzoleów. Nazywana jest \"Żywym Królem\".",
+      "gygQuery": "Shah-i-Zinda"
+    },
+    {
+      "name": "Bazar Chorsu",
+      "text": "Jeden z najstarszych i największych bazarów w Azji Centralnej, położony w Taszkencie. To tętniące życiem centrum handlu i lokalnej kultury.",
+      "gygQuery": "Chorsu Bazaar"
+    },
+    {
+      "name": "Mauzoleum Gur-e-Amir",
+      "text": "Miejsca spoczynku Tamerlana i jego potomków w Samarkandzie, słynące z kopuły pokrytej błękitnymi kafelkami.",
+      "gygQuery": "Gur-e-Amir"
+    },
+    {
+      "name": "Medresa Chor Minor",
+      "text": "Niezwykła medresa w Bucharze z czterema minaretami, wyróżniająca się swoją unikalną architekturą i kolorystyką.",
+      "gygQuery": "Chor Minor"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Uzbekistanu?",
+      "a": "Obywatele Polski mogą podróżować do Uzbekistanu bez wizy na pobyt do 30 dni. Zawsze jednak zaleca się sprawdzenie aktualnych przepisów wizowych przed planowanym wyjazdem na stronie MSZ."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Uzbekistanu?",
+      "a": "Najlepszymi miesiącami na podróż są wiosna (kwiecień-maj) i jesień (wrzesień-październik), kiedy temperatury są umiarkowane i sprzyjają zwiedzaniu. Lato bywa bardzo upalne, a zima chłodna."
+    },
+    {
+      "q": "Czy Uzbekistan jest bezpiecznym krajem dla turystów?",
+      "a": "Uzbekistan jest generalnie uważany za bezpieczny kraj dla turystów. Należy zachować podstawowe środki ostrożności, jak w każdym innym miejscu. Ludzie są bardzo gościnni i pomocni."
+    },
+    {
+      "q": "Jakie są główne atrakcje Uzbekistanu?",
+      "a": "Główne atrakcje to starożytne miasta Jedwabnego Szlaku: Samarkanda z placem Registan, Buchara z kompleksem Poi Kalyan oraz Chiwa z twierdzą Itchan Kala. Warto też odwiedzić Taszkent, stolicę kraju."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na podróż do Uzbekistanu jest wiosna (od kwietnia do maja) oraz jesień (od września do października). W tych miesiącach temperatury są przyjemne, niebo jest zazwyczaj bezchmurne, a zwiedzanie licznych zabytków jest komfortowe. Unikniesz wtedy upałów panujących latem, które potrafią być bardzo dotkliwe, oraz chłodniejszych zimowych miesięcy. Wiosną wszystko kwitnie, a jesienią bazary obfitują w świeże owoce.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      11
+    ]
+  },
+  "capital": "Taszkent",
+  "climate": {
+    "air": [
+      6,
+      8,
+      16,
+      22,
+      28,
+      34,
+      37,
+      35,
+      30,
+      22,
+      14,
+      8
+    ],
+    "note": "dla Taszkentu",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia uzbecka to prawdziwa uczta dla podniebienia, pełna aromatycznych przypraw i sycących dań. Narodowym daniem jest pilaw (plov), ryż gotowany z mięsem (najczęściej baraniną), marchewką, cebulą i przyprawami, który ma niezliczone regionalne warianty. Koniecznie spróbuj szaszłyków (shashlik), samsy (pieczonych pierożków z mięsnym nadzieniem) oraz lagmanu (ręcznie robionego makaronu z warzywami i mięsem). Ważnym elementem każdego posiłku jest świeży chleb (non), pieczony w tradycyjnych piecach tandoor. Do tego zielona herbata, która towarzyszy każdemu spotkaniu."
+  ],
+  "gygQuery": "Uzbekistan",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać do Uzbekistanu bez wizy na pobyt do 30 dni. Wymagany jest ważny paszport, którego ważność powinna przekraczać okres planowanego pobytu. Zawsze warto sprawdzić aktualne wymogi na stronie Ministerstwa Spraw Zagranicznych przed wyjazdem.",
+    "flight": "Około 7-9 godzin z jedną przesiadką (np. w Stambule) z Warszawy.",
+    "language": "Oficjalnym językiem jest uzbecki, ale rosyjski jest powszechnie używany, zwłaszcza w większych miastach i wśród starszego pokolenia. W miejscach turystycznych można porozumieć się po angielsku.",
+    "money": "Walutą jest som uzbecki (UZS). Wymiana walut jest możliwa w bankach i kantorach. Karty płatnicze są akceptowane w większych hotelach i restauracjach, ale w mniejszych miejscowościach i na bazarach dominują płatności gotówką. Warto mieć przy sobie mniejsze nominały.",
+    "plugs": "W Uzbekistanie używa się gniazdek typu C i F, takich samych jak w Polsce. Nie potrzebujesz adaptera.",
+    "safety": "Uzbekistan jest krajem bezpiecznym dla turystów, przestępczość jest niska. Należy zachować podstawowe środki ostrożności, zwłaszcza na zatłoczonych bazarach, aby uniknąć drobnych kradzieży. Zaleca się picie wody butelkowanej. Brak obowiązkowych szczepień, ale warto skonsultować się z lekarzem przed podróżą."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "zambia",
+  "loc": "w Zambii",
+  "to": "do Zambii",
+  "teaser": "Zambia to kraj dzikiej przyrody i wodospadów Wiktorii. Idealna dla poszukiwaczy autentycznych afrykańskich doświadczeń.",
+  "intro": [
+    "Zambia, położona w sercu Afryki Południowej, to destynacja dla prawdziwych miłośników natury i przygód. Kraj ten słynie przede wszystkim z potężnych Wodospadów Wiktorii, które dzielone są z sąsiednim Zimbabwe. Jednak Zambia to znacznie więcej - to także rozległe parki narodowe, takie jak South Luangwa, będące kolebką pieszych safari, oraz rzeka Zambezi, oferująca unikalne doświadczenia wodne.",
+    "To idealne miejsce dla podróżników, którzy szukają autentycznych wrażeń safari, z dala od masowej turystyki. Zambia oferuje możliwość bliskiego kontaktu z dziką przyrodą, obserwacji rzadkich gatunków zwierząt i zanurzenia się w lokalnej kulturze. Nie znajdziesz tu luksusowych kurortów all-inclusive, ale za to kameralne lodże i obozy safari, które zapewniają niezapomniane chwile w buszu.",
+    "Podróż z Polski do Zambii wymaga planowania. Nie ma bezpośrednich lotów, więc należy liczyć się z co najmniej jedną przesiadką, najczęściej w Dubaju, Dausze lub europejskich hubach. Cała podróż zajmuje zazwyczaj kilkanaście godzin. Po przylocie do Lusaki lub Livingstone, dalsze przemieszczanie się po kraju często odbywa się małymi samolotami czarterowymi do parków narodowych lub samochodami terenowymi."
+  ],
+  "highlights": [
+    "Potężne Wodospady Wiktorii",
+    "Piesze safari w Parku Narodowym South Luangwa",
+    "Spływy kajakowe po rzece Zambezi",
+    "Bliskie spotkania z dziką zwierzyną",
+    "Autentyczne doświadczenia afrykańskiej kultury",
+    "Odległe i dzikie parki narodowe"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "livingstone-wodospady-wiktorii",
+      "name": "Livingstone i Wodospady Wiktorii",
+      "loc": "w Livingstone",
+      "intro": [
+        "Livingstone to brama do zambijskiej strony Wodospadów Wiktorii, jednego z siedmiu naturalnych cudów świata. Miasto jest doskonale przygotowane na przyjęcie turystów, oferując szeroki wachlarz zakwaterowania i atrakcji. Oprócz podziwiania potęgi wodospadów, można tu skorzystać z wielu aktywności adrenalinowych, takich jak rafting czy skoki na bungee.",
+        "Sama rzeka Zambezi w okolicach Livingstone to raj dla miłośników przygód. Można wybrać się na rejs o zachodzie słońca, zobaczyć hipopotamy i krokodyle, a nawet popływać w Diabelskim Basenie, tuż przy krawędzi wodospadu, w porze suchej. Warto też odwiedzić lokalne muzea i targi, by poczuć autentyczną atmosferę Zambii."
+      ],
+      "airport": "Harry Mwanga Nkumbula International Airport (LVI)",
+      "forWhom": "To obowiązkowy punkt dla każdego, kto odwiedza Zambię, oferujący niezapomniane widoki i aktywności.",
+      "gygQuery": "Livingstone Zambia Victoria Falls",
+      "highlights": [
+        "Wodospady Wiktorii z bliska",
+        "Adrenalinowe atrakcje (rafting, bungee)",
+        "Diabelski Basen (Devil's Pool)",
+        "Rejsy po rzece Zambezi"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "south-luangwa-national-park",
+      "name": "Park Narodowy South Luangwa",
+      "loc": "w Parku Narodowym South Luangwa",
+      "intro": [
+        "South Luangwa to jeden z najlepszych parków narodowych w Afryce, słynący z pieszych safari, które narodziły się właśnie tutaj. Park oferuje niezwykłe możliwości obserwacji dzikiej zwierzyny, w tym lampartów, słoni, żyraf, zebr i licznych gatunków antylop. Rzeka Luangwa i jej dopływy są domem dla ogromnych populacji hipopotamów i krokodyli.",
+        "Park jest mniej zatłoczony niż popularne parki w Kenii czy Tanzanii, co zapewnia bardziej intymne i autentyczne doświadczenia safari. Oprócz pieszych wędrówek, dostępne są tradycyjne safari pojazdami terenowymi, zarówno w dzień, jak i po zmroku, co pozwala na obserwację nocnych drapieżników."
+      ],
+      "airport": "Mfuwe Airport (MFU)",
+      "forWhom": "Idealny dla miłośników safari, zwłaszcza tych, którzy cenią sobie piesze wędrówki i bliski kontakt z naturą.",
+      "gygQuery": "South Luangwa National Park safari",
+      "highlights": [
+        "Piesze safari (walking safari)",
+        "Obserwacja lampartów",
+        "Bogactwo ptactwa",
+        "Nocne safari"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "lower-zambezi-national-park",
+      "name": "Park Narodowy Lower Zambezi",
+      "loc": "w Parku Narodowym Lower Zambezi",
+      "intro": [
+        "Lower Zambezi to stosunkowo nowy, ale szybko zyskujący na popularności park, oferujący wyjątkowe safari wodne i lądowe. Rzeka Zambezi stanowi jego północną granicę, przyciągając ogromne ilości dzikiej zwierzyny, która gromadzi się wzdłuż jej brzegów. Można tu zobaczyć słonie, bawoły, lwy, lamparty i liczne gatunki ptaków.",
+        "Park jest znany z możliwości spływów kajakowych lub pontonowych po rzece, co pozwala na obserwację zwierząt z zupełnie innej perspektywy. Cisza i spokój otoczenia sprawiają, że to idealne miejsce na relaks i głębokie zanurzenie się w afrykańskiej dziczy, z dala od tłumów."
+      ],
+      "airport": "Jeki Airstrip (JEK) lub Royal Airstrip (RYL) - małe lądowiska",
+      "forWhom": "Dla tych, którzy szukają unikalnych doświadczeń safari połączonych z aktywnościami wodnymi na rzece Zambezi.",
+      "gygQuery": "Lower Zambezi National Park safari",
+      "highlights": [
+        "Safari kajakiem po Zambezi",
+        "Obfitość słoni i bawołów",
+        "Wędkarstwo (tygrysie ryby)",
+        "Luksusowe obozy safari"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "lusaka",
+      "name": "Lusaka",
+      "loc": "w Lusace",
+      "intro": [
+        "Lusaka to stolica i największe miasto Zambii, a także główny punkt przesiadkowy dla większości podróżnych. Choć nie jest typowym celem turystycznym, oferuje wgląd w dynamiczne życie miejskie kraju. Znajdują się tu liczne rynki, takie jak Soweto Market, gdzie można kupić lokalne produkty i rękodzieło.",
+        "W Lusace można odwiedzić Muzeum Narodowe, centrum rzemiosła Kabwata Cultural Village czy Lusaka National Park, mniejszy park, gdzie można zobaczyć białe nosorożce i inne zwierzęta. Jest to dobre miejsce na zorganizowanie dalszej podróży po kraju i zaopatrzenie się w niezbędne rzeczy."
+      ],
+      "airport": "Kenneth Kaunda International Airport (LUN)",
+      "forWhom": "Główne centrum przesiadkowe i administracyjne, oferujące wgląd w codzienne życie Zambii.",
+      "gygQuery": "Lusaka",
+      "highlights": [
+        "Tętniące życiem rynki",
+        "Muzeum Narodowe Zambii",
+        "Park Narodowy Lusaka",
+        "Centrum Kultury Kabwata"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wodospady Wiktorii (Mosi-oa-Tunya)",
+      "text": "Jeden z największych i najbardziej spektakularnych wodospadów na świecie, dzielony z Zimbabwe. Niesamowita siła natury i mgła widoczna z kilometrów.",
+      "gygQuery": "Victoria Falls Zambia"
+    },
+    {
+      "name": "Piesze safari w Parku Narodowym South Luangwa",
+      "text": "Unikalna okazja do eksploracji afrykańskiego buszu na piechotę z doświadczonym przewodnikiem, zapewniająca bliski kontakt z dziką przyrodą.",
+      "gygQuery": "South Luangwa walking safari"
+    },
+    {
+      "name": "Diabelski Basen (Devil's Pool)",
+      "text": "Naturalny basen skalny na krawędzi Wodospadów Wiktorii, dostępny w porze suchej, oferujący niezapomniane i adrenalinowe doświadczenie pływania.",
+      "gygQuery": "Devil's Pool Victoria Falls"
+    },
+    {
+      "name": "Spływy kajakowe po rzece Zambezi",
+      "text": "Cicha i spokojna eksploracja rzeki, pozwalająca na obserwację dzikiej zwierzyny z perspektywy wody, z dala od silników samochodów.",
+      "gygQuery": "Zambezi River canoe safari"
+    },
+    {
+      "name": "Muzeum Livingstone",
+      "text": "Najstarsze i największe muzeum w Zambii, prezentujące historię, archeologię, etnografię i sztukę kraju, w tym pamiątki po Davidzie Livingstone.",
+      "gygQuery": "Livingstone Museum"
+    },
+    {
+      "name": "Safari w Parku Narodowym Lower Zambezi",
+      "text": "Park oferujący zarówno tradycyjne safari samochodowe, jak i unikalne safari wodne, z możliwością obserwacji słoni, lwów i hipopotamów.",
+      "gygQuery": "Lower Zambezi safari"
+    },
+    {
+      "name": "Lokalne rynki w Lusace (np. Soweto Market)",
+      "text": "Tętniące życiem centra handlowe, gdzie można poczuć puls miasta, kupić lokalne produkty, rękodzieło i spróbować ulicznego jedzenia.",
+      "gygQuery": "Lusaka markets"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Zambia jest bezpieczna dla turystów?",
+      "a": "Zambia jest generalnie bezpiecznym krajem, ale jak wszędzie, należy zachować podstawowe środki ostrożności. Unikaj samotnych spacerów po zmroku, zwłaszcza w miastach, i pilnuj swoich wartościowych przedmiotów. W parkach narodowych zawsze przestrzegaj zasad bezpieczeństwa podczas safari."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Zambii?",
+      "a": "Tak, obywatele Polski potrzebują wizy, którą można uzyskać online (e-wiza), na lotnisku po przylocie lub w ambasadzie. Zawsze sprawdź aktualne wymogi wizowe przed podróżą, aby uniknąć problemów."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Zambii?",
+      "a": "Najlepszy czas na podróż do Zambii to pora sucha, od maja do października. W tym okresie warunki do obserwacji dzikiej zwierzyny są optymalne, a pogoda jest przyjemniejsza. W porze deszczowej (listopad-kwiecień) niektóre drogi mogą być nieprzejezdne."
+    },
+    {
+      "q": "Jaki jest koszt safari w Zambii?",
+      "a": "Koszt safari w Zambii jest zmienny i zależy od długości pobytu, standardu zakwaterowania i rodzaju aktywności. Zambia jest często uznawana za droższą destynację safari niż niektóre kraje Afryki Wschodniej, ale oferuje bardziej ekskluzywne i mniej zatłoczone doświadczenia. Należy liczyć się z wydatkami rzędu kilkuset do kilku tysięcy dolarów za kilkudniowe safari."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Zambii przypada na porę suchą, która trwa od maja do października. W tym okresie zwierzęta gromadzą się wokół nielicznych źródeł wody, co ułatwia ich obserwację podczas safari. Roślinność jest mniej bujna, a pogoda jest chłodniejsza i mniej wilgotna, co sprzyja aktywnościom na świeżym powietrzu. Pora deszczowa (listopad-kwiecień) charakteryzuje się bujną zielenią i obfitością ptactwa, ale niektóre drogi mogą stać się nieprzejezdne, a wilgotność jest wysoka.",
+    "best": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "capital": "Lusaka",
+  "climate": {
+    "air": [
+      26,
+      26,
+      26,
+      26,
+      25,
+      23,
+      23,
+      25,
+      29,
+      31,
+      29,
+      27
+    ],
+    "note": "Dane dla Lusaki",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia zambijska opiera się głównie na nshimie - gęstej papce z mąki kukurydzianej, podawanej z różnymi sosami. Typowe dodatki to warzywa (np. liście dyni, kapusta), mięso (kurczak, wołowina, koza, a czasem dziczyzna) lub ryby, zwłaszcza z jeziora Kariba czy rzeki Zambezi. Dania są często proste, ale sycące i pełne smaku, często doprawiane lokalnymi przyprawami. Warto spróbować także suszonych ryb i lokalnych owoców. W większych miastach i ośrodkach turystycznych dostępne są restauracje oferujące kuchnię międzynarodową."
+  ],
+  "gygQuery": "Zambia",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy. Można ją uzyskać online (e-wiza), na lotnisku po przylocie lub w ambasadzie Zambii. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu i posiadać wolne strony. Zawsze sprawdź aktualne wymogi wizowe przed podróżą w ambasadzie lub na stronie MSZ.",
+    "flight": "Około 12-15 godzin z przesiadką, najczęściej w Dubaju, Dausze lub europejskich hubach.",
+    "language": "Oficjalnym językiem jest angielski, powszechnie używany w miastach i ośrodkach turystycznych. Istnieje też wiele języków lokalnych.",
+    "money": "Walutą jest kwacha zambijska (ZMW). Płatności kartą są możliwe w większych miastach i hotelach, ale gotówka jest niezbędna na lokalnych targach i w mniejszych miejscowościach. Dolary amerykańskie są akceptowane w niektórych miejscach, zwłaszcza przy opłatach za safari.",
+    "plugs": "Typ D i G. Warto zabrać ze sobą adapter.",
+    "safety": "Zambia jest stosunkowo bezpieczna, ale należy zachować ostrożność, zwłaszcza w Lusace i innych większych miastach, gdzie zdarzają się drobne kradzieże. Unikaj spacerów po zmroku. Występuje ryzyko malarii, zalecana jest profilaktyka antymalaryczna i stosowanie środków odstraszających owady. Przed wyjazdem skonsultuj się z lekarzem w sprawie szczepień (np. żółta febra, tężec, polio, dur brzuszny, WZW A i B).",
+    "timeDiff": "W zimie +1 godzina względem Polski, w lecie brak różnicy czasu."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

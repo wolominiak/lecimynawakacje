@@ -1,0 +1,225 @@
+{
+  "slug": "usa",
+  "loc": "w USA",
+  "to": "do USA",
+  "teaser": "Stany Zjednoczone to kraj kontrastów - od tętniących życiem metropolii po dzikie parki narodowe. Idealne na road trip, city break czy wypoczynek na plaży.",
+  "intro": [
+    "Stany Zjednoczone to kraj o niewiarygodnej różnorodności, oferujący podróżnym spektrum doświadczeń - od tętniących życiem metropolii, przez majestatyczne parki narodowe, po słoneczne plaże. To mozaika kultur, krajobrazów i historii, która fascynuje i zaskakuje na każdym kroku. Można tu podziwiać ikoniczne zabytki, odkrywać dziką przyrodę i zanurzyć się w amerykańskim stylu życia. Każdy region ma swój unikalny charakter i coś specjalnego do zaoferowania. Od wschodniego wybrzeża po zachodnie, USA to prawdziwa skarbnica przygód.",
+    "Kraj ten jest idealny dla każdego typu podróżnika. Miłośnicy miejskiego zgiełku pokochają Nowy Jork czy Los Angeles, fani natury zachwycą się parkami narodowymi takimi jak Wielki Kanion czy Yellowstone. Rodziny znajdą mnóstwo atrakcji na Florydzie, a poszukiwacze słońca - w Kalifornii. To także doskonałe miejsce na epicki road trip, pozwalający na swobodne odkrywanie rozległych terenów. Niezależnie od zainteresowań, USA oferuje niezapomniane wrażenia i możliwość spełnienia marzeń o podróży.",
+    "Podróż z Polski do USA to zazwyczaj długi lot, często z jedną przesiadką, trwający około 10-12 godzin. Przed wyjazdem niezbędne jest uzyskanie autoryzacji ESTA lub wizy, co wymaga wcześniejszego planowania. Na miejscu warto pamiętać o różnicy czasu, która może wynosić od 6 do 9 godzin. Planowanie trasy, rezerwacja noclegów i wynajem samochodu, zwłaszcza poza dużymi miastami, są kluczowe dla komfortowej podróży. Mimo tych wyzwań, nagrodą jest możliwość odkrycia jednego z najbardziej fascynujących krajów świata."
+  ],
+  "highlights": [
+    "Wielki Kanion - cud natury",
+    "Nowy Jork i Statua Wolności",
+    "Kalifornia - słońce i Hollywood",
+    "Floryda - plaże i parki rozrywki",
+    "Parki Narodowe Zachodu USA",
+    "Road trip legendarnymi trasami"
+  ],
+  "popularity": 55,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "nowy-jork",
+      "name": "Nowy Jork",
+      "loc": "w Nowym Jorku",
+      "intro": [
+        "Nowy Jork, znany jako Wielkie Jabłko, to miasto, które nigdy nie śpi i oferuje niekończące się możliwości zwiedzania. Od ikonicznej Statuy Wolności, przez tętniący życiem Times Square, po spokojne alejki Central Parku, każdy znajdzie tu coś dla siebie. To tygiel kultur, gdzie nowoczesność spotyka się z historią na każdym kroku. Można spędzić tu tygodnie, a i tak nie zobaczyć wszystkiego, co miasto ma do zaoferowania.",
+        "Miasto jest również centrum sztuki, mody i gastronomii. Muzea światowej klasy, takie jak MoMA czy Metropolitan Museum of Art, przyciągają miliony. Wieczorami Broadway kusi spektaklami, a niezliczone restauracje serwują kuchnie z każdego zakątka świata. To miejsce, gdzie marzenia się spełniają, a energia miasta jest zaraźliwa."
+      ],
+      "airport": "JFK",
+      "forWhom": "Idealny dla miłośników miejskiego zgiełku, kultury i niezliczonych atrakcji.",
+      "gygQuery": "New York City",
+      "highlights": [
+        "Statua Wolności i Ellis Island",
+        "Times Square i Broadway",
+        "Central Park",
+        "Empire State Building"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "floryda",
+      "name": "Floryda",
+      "loc": "na Florydzie",
+      "intro": [
+        "Floryda, Słoneczny Stan, to raj dla tych, którzy szukają ciepła przez cały rok, piaszczystych plaż i rozrywki na najwyższym poziomie. Miami kusi art deco, latynoską kulturą i nocnym życiem, podczas gdy Orlando to światowej klasy parki tematyczne, takie jak Walt Disney World i Universal Studios. To idealne miejsce na rodzinne wakacje, pełne atrakcji dla każdego wieku.",
+        "Poza zgiełkiem miast, Floryda oferuje również unikalną przyrodę, zwłaszcza w Parku Narodowym Everglades, gdzie można podziwiać aligatory i różnorodne ptactwo. Keysy Florydzkie z Key West na czele to z kolei malownicza trasa i relaksująca atmosfera. Miłośnicy sportów wodnych znajdą tu doskonałe warunki do nurkowania, snorkelingu i żeglarstwa."
+      ],
+      "airport": "MIA",
+      "forWhom": "Doskonała dla rodzin, miłośników słońca, plaż i parków rozrywki.",
+      "gygQuery": "Florida",
+      "highlights": [
+        "Plaże Miami Beach",
+        "Parki rozrywki w Orlando",
+        "Everglades National Park",
+        "Key West"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "kalifornia",
+      "name": "Kalifornia",
+      "loc": "w Kalifornii",
+      "intro": [
+        "Kalifornia to stan, który ma wszystko - od słonecznych plaż Południowej Kalifornii, przez tętniące życiem Los Angeles i San Francisco, po majestatyczne góry Sierra Nevada i pustynie. To kolebka kultury surfingu, filmowego przemysłu Hollywood i innowacji technologicznych Doliny Krzemowej. Idealne miejsce na długi road trip, pozwalający odkryć jego różnorodność.",
+        "W Kalifornii znajdziesz ikoniczne mosty, takie jak Golden Gate, winnice Napa Valley, parki narodowe Yosemite i Sekwoi z gigantycznymi drzewami, a także pustynny krajobraz Doliny Śmierci. To stan, który oferuje zarówno miejskie atrakcje, jak i niezapomniane wrażenia z obcowania z dziką przyrodą. Kultura zdrowego stylu życia i otwartości sprawia, że jest to bardzo atrakcyjne miejsce."
+      ],
+      "airport": "LAX",
+      "forWhom": "Dla poszukiwaczy słońca, gwiazd Hollywood, miłośników natury i road tripów.",
+      "gygQuery": "California",
+      "highlights": [
+        "Hollywood i Los Angeles",
+        "Most Golden Gate w San Francisco",
+        "Park Narodowy Yosemite",
+        "Plaże i surfing"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "parki-narodowe-zachodu",
+      "name": "Parki Narodowe Zachodu USA",
+      "loc": "w Parkach Narodowych Zachodu USA",
+      "intro": [
+        "Zachodnie Stany Zjednoczone to dom dla jednych z najbardziej spektakularnych parków narodowych na świecie. Wielki Kanion, Zion, Bryce Canyon, Yellowstone, Yosemite - to tylko niektóre z miejsc, które zapierają dech w piersiach. Podróżowanie po tych parkach to idealna okazja do obcowania z dziką przyrodą, podziwiania geologicznych cudów i aktywnego wypoczynku. Najlepiej zwiedzać je samochodem, planując trasę z wyprzedzeniem.",
+        "Krajobrazy zmieniają się od pustynnych formacji skalnych, przez głębokie kaniony, po gejzery i wodospady. Infrastruktura parków jest dobrze rozwinięta, oferując szlaki turystyczne o różnym stopniu trudności, pola namiotowe i punkty widokowe. To prawdziwa gratka dla fotografów i każdego, kto pragnie uciec od zgiełku cywilizacji i zanurzyć się w majestacie natury."
+      ],
+      "airport": "LAS",
+      "forWhom": "Dla miłośników przyrody, pieszych wędrówek i spektakularnych krajobrazów.",
+      "gygQuery": "USA National Parks West",
+      "highlights": [
+        "Wielki Kanion",
+        "Park Narodowy Yellowstone",
+        "Park Narodowy Zion",
+        "Park Narodowy Bryce Canyon"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Statua Wolności, Nowy Jork",
+      "text": "Symbol wolności i demokracji, ikona Nowego Jorku i całych Stanów Zjednoczonych. Dostępna promem z Manhattanu lub New Jersey.",
+      "gygQuery": "Statue of Liberty"
+    },
+    {
+      "name": "Wielki Kanion, Arizona",
+      "text": "Monumentalny cud natury, wyrzeźbiony przez rzekę Kolorado. Oferuje niezapomniane widoki i szlaki turystyczne.",
+      "gygQuery": "Grand Canyon"
+    },
+    {
+      "name": "Hollywood Walk of Fame, Los Angeles",
+      "text": "Słynny chodnik z gwiazdami upamiętniającymi osobistości show-biznesu. Obowiązkowy punkt dla fanów kina.",
+      "gygQuery": "Hollywood Walk of Fame"
+    },
+    {
+      "name": "Most Golden Gate, San Francisco",
+      "text": "Jeden z najbardziej rozpoznawalnych mostów na świecie, symbol San Francisco. Warto go podziwiać z różnych perspektyw.",
+      "gygQuery": "Golden Gate Bridge"
+    },
+    {
+      "name": "Park Narodowy Yellowstone, Wyoming",
+      "text": "Pierwszy park narodowy na świecie, słynący z gejzerów, gorących źródeł i dzikiej przyrody, w tym bizonów i niedźwiedzi.",
+      "gygQuery": "Yellowstone National Park"
+    },
+    {
+      "name": "Walt Disney World Resort, Orlando",
+      "text": "Największy kompleks parków rozrywki na świecie, oferujący magiczne doświadczenia dla dzieci i dorosłych.",
+      "gygQuery": "Walt Disney World Orlando"
+    },
+    {
+      "name": "Las Vegas Strip, Nevada",
+      "text": "Słynna ulica w Las Vegas, pełna kasyn, hoteli, restauracji i spektakularnych pokazów świetlnych.",
+      "gygQuery": "Las Vegas Strip"
+    },
+    {
+      "name": "Miami Beach, Floryda",
+      "text": "Piaszczyste plaże, architektura Art Deco i tętniące życiem nocne kluby. Idealne miejsce na relaks i zabawę.",
+      "gygQuery": "Miami Beach"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy do USA potrzebna jest wiza?",
+      "a": "Dla obywateli Polski podróżujących turystycznie do 90 dni zazwyczaj wystarczy autoryzacja ESTA. W niektórych przypadkach, np. po odmowie ESTA, wymagana jest tradycyjna wiza. Zawsze sprawdź aktualne wymogi przed wyjazdem."
+    },
+    {
+      "q": "Jakie są koszty podróży do USA?",
+      "a": "Koszty są zróżnicowane i zależą od stylu podróżowania. Loty to wydatek od 2000-4000 PLN, noclegi od 100 USD za noc, a wyżywienie od 50 USD dziennie. USA jest krajem drogim, zwłaszcza w dużych miastach."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po USA?",
+      "a": "Na długich dystansach najlepiej samolotem. W obrębie miast komunikacją publiczną lub taksówkami/usługami ride-sharing. Do zwiedzania parków narodowych i road tripów niezbędny jest wynajęty samochód."
+    },
+    {
+      "q": "Czy w USA trzeba dawać napiwki?",
+      "a": "Tak, napiwki są integralną częścią kultury usługowej w USA i są oczekiwane. Zazwyczaj wynoszą 15-20% rachunku w restauracjach, barach i dla taksówkarzy."
+    },
+    {
+      "q": "Jaka jest różnica czasu między Polską a USA?",
+      "a": "USA ma wiele stref czasowych. Różnica czasu względem Polski wynosi od -6 godzin (Wschodnie Wybrzeże) do -9 godzin (Zachodnie Wybrzeże)."
+    }
+  ],
+  "bestTime": {
+    "text": "Ze względu na ogromny rozmiar USA, najlepszy czas na podróż zależy od regionu. Wiosna (kwiecień-maj) i jesień (wrzesień-październik) są zazwyczaj idealne do zwiedzania większości obszarów, oferując przyjemne temperatury i mniej tłumów. Lato jest dobre na północne stany i parki narodowe, ale może być bardzo gorące na południu i pustyniach. Zima to świetny czas na Florydę, południową Kalifornię lub sporty zimowe w górach.",
+    "best": [
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      6,
+      7,
+      8,
+      11
+    ]
+  },
+  "capital": "Waszyngton",
+  "climate": {
+    "air": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      24,
+      27,
+      28,
+      27,
+      24,
+      21,
+      18
+    ],
+    "note": "dla Los Angeles",
+    "sea": [
+      14,
+      14,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      19,
+      18,
+      17,
+      15
+    ]
+  },
+  "cuisine": [
+    "Kuchnia amerykańska to fascynująca mieszanka wpływów z całego świata, choć często kojarzona jest z fast foodem. Od soczystych burgerów i hot dogów, przez klasyczne dania z grilla (BBQ), po wyrafinowane potrawy w restauracjach z gwiazdkami Michelin - USA oferuje ogromny wybór. Warto spróbować regionalnych specjałów, takich jak nowojorska pizza, teksańskie chili, owoce morza w Nowej Anglii czy kuchnia kreolska w Nowym Orleanie. Porcje są zazwyczaj bardzo obfite."
+  ],
+  "gygQuery": "United States",
+  "practical": {
+    "documents": "Ważny paszport biometryczny. Dla większości podróży turystycznych do 90 dni wymagana jest autoryzacja ESTA. W niektórych przypadkach konieczna jest wiza. Zawsze sprawdź aktualne wymogi przed wyjazdem na stronie MSZ.",
+    "flight": "około 10-12 h z przesiadką",
+    "language": "Angielski. W niektórych regionach duży odsetek ludności posługuje się hiszpańskim.",
+    "money": "Dolar amerykański (USD). Płatności kartą są powszechne, gotówka przydatna w mniejszych miejscowościach.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Wymagana przejściówka.",
+    "safety": "USA to generalnie bezpieczny kraj, ale należy zachować ostrożność w dużych miastach i unikać niektórych dzielnic po zmroku. Ubezpieczenie medyczne jest absolutnie niezbędne ze względu na wysokie koszty leczenia.",
+    "timeDiff": "od -6 do -9 godzin (w zależności od strefy czasowej)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

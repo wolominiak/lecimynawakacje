@@ -1,0 +1,197 @@
+{
+  "slug": "turks-i-caicos",
+  "loc": "na Turks i Caicos",
+  "to": "na Turks i Caicos",
+  "teaser": "Turks i Caicos to archipelag luksusowych wysp na Karaibach, słynący z białych plaż i turkusowej wody. Idealne miejsce na ekskluzywny wypoczynek i nurkowanie.",
+  "intro": [
+    "Turks i Caicos to archipelag ponad czterdziestu wysp i wysepek położonych na Oceanie Atlantyckim, na północ od Dominikany. Większość z nich jest niezamieszkana, a te dostępne dla turystów kuszą idyllicznymi krajobrazami: nieskazitelnie białymi plażami, krystalicznie czystą, turkusową wodą i bogatymi rafami koralowymi. To idealny kierunek dla osób szukających luksusowego wypoczynku, spokoju oraz możliwości aktywnego spędzania czasu pod wodą.",
+    "Archipelag przyciąga głównie zamożnych turystów, pary na miesiąc miodowy oraz rodziny ceniące sobie komfort i prywatność. Infrastruktura turystyczna jest na wysokim poziomie, z licznymi butikowymi hotelami i ekskluzywnymi kurortami. Turks i Caicos to również raj dla miłośników nurkowania i snorkelingu, oferujący jedne z najpiękniejszych podwodnych krajobrazów na Karaibach, w tym słynne ściany koralowe.",
+    "Podróż z Polski na Turks i Caicos jest długa i wymaga co najmniej dwóch przesiadek, zazwyczaj w dużych hubach europejskich, a następnie w USA lub Kanadzie. Ze względu na odległość i ekskluzywny charakter miejsca, Turks i Caicos nie jest masowym kierunkiem dla polskich turystów, co pozwala zachować jego kameralny charakter. Przed wyjazdem warto dokładnie zaplanować logistykę i budżet."
+  ],
+  "highlights": [
+    "Plaża Grace Bay na Providenciales",
+    "Nurkowanie na rafach koralowych",
+    "Rejsy katamaranem po turkusowych wodach",
+    "Obserwacja wielorybów (sezonowo)",
+    "Luksusowe kurorty i spa",
+    "Relaks na białych piaskach"
+  ],
+  "popularity": 12,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "providenciales",
+      "name": "Providenciales",
+      "loc": "na Providenciales",
+      "intro": [
+        "Providenciales, często nazywana po prostu Provo, to najbardziej rozwinięta i popularna wyspa archipelagu Turks i Caicos. To tutaj znajduje się większość luksusowych kurortów, restauracji i atrakcji turystycznych. Słynie z ikonicznej plaży Grace Bay, uznawanej za jedną z najpiękniejszych na świecie, oferującej kilometry białego piasku i krystalicznie czystej wody.",
+        "Wyspa jest centrum aktywności wodnych, od nurkowania i snorkelingu na rafach koralowych po rejsy katamaranem i sporty motorowe. Znajdują się tu również pola golfowe, spa oraz ekskluzywne butiki. Pomimo rozwoju turystycznego, Provo zachowuje swój karaibski urok, oferując zarówno tętniące życiem miejsca, jak i spokojne zakątki."
+      ],
+      "airport": "PLS",
+      "forWhom": "Idealna dla szukających luksusu, pięknych plaż i szerokiej oferty gastronomicznej.",
+      "gygQuery": "Providenciales",
+      "highlights": [
+        "Plaża Grace Bay",
+        "Nurkowanie na rafie",
+        "Rejsy po turkusowych wodach",
+        "Ekskluzywne restauracje"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "grand-turk",
+      "name": "Grand Turk",
+      "loc": "na Grand Turk",
+      "intro": [
+        "Grand Turk to stolica Turks i Caicos, oferująca bardziej autentyczne karaibskie doświadczenie niż tętniące życiem Providenciales. Znajduje się tu urocze Cockburn Town z zabytkową architekturą kolonialną, wąskimi uliczkami i lokalnymi sklepikami. Wyspa jest również popularnym przystankiem dla statków wycieczkowych, które cumują w nowoczesnym terminalu.",
+        "Główną atrakcją Grand Turk jest podwodny świat. Wyspa otoczona jest spektakularną rafą koralową, która opada na głębokość ponad 2000 metrów, tworząc słynną \"Grand Turk Wall\". To raj dla nurków, oferujący niezapomniane wrażenia z obserwacji bogatej fauny morskiej, w tym rekinów, płaszczek i żółwi."
+      ],
+      "airport": "GDT",
+      "forWhom": "Dla miłośników historii, nurkowania i spokojniejszej atmosfery.",
+      "gygQuery": "Grand Turk",
+      "highlights": [
+        "Stolica Cockburn Town",
+        "Nurkowanie na Grand Turk Wall",
+        "Muzeum Narodowe",
+        "Latarnia morska"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "north-middle-caicos",
+      "name": "North & Middle Caicos",
+      "loc": "na North i Middle Caicos",
+      "intro": [
+        "North i Middle Caicos to dwie połączone mostem wyspy, które oferują zupełnie inne doświadczenie niż Providenciales. Są to najbardziej zielone i najmniej zaludnione wyspy archipelagu, idealne dla tych, którzy pragną uciec od zgiełku i zanurzyć się w dziewiczej przyrodzie. Znajdziesz tu rozległe mokradła, jaskinie, klify i spokojne, często puste plaże.",
+        "Wyspy te są domem dla wielu gatunków ptaków, co czyni je rajem dla ornitologów. Można tu odkrywać ukryte zatoczki, spacerować po długich, dzikich plażach i podziwiać imponujące formacje skalne. To idealne miejsce na wycieczki piesze, kajakarstwo czy po prostu relaks w otoczeniu natury, z dala od turystycznych tłumów."
+      ],
+      "airport": "NCA",
+      "forWhom": "Dla poszukujących dziewiczej natury, spokoju i autentycznych widoków.",
+      "gygQuery": "North and Middle Caicos",
+      "highlights": [
+        "Jaskinie Conch Bar",
+        "Plaża Mudjin Harbour",
+        "Rezerwaty ptaków",
+        "Dzika przyroda"
+      ],
+      "type": "wyspy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Grace Bay Beach",
+      "text": "Najsłynniejsza plaża Turks i Caicos, wielokrotnie uznawana za jedną z najpiękniejszych na świecie. Oferuje kilometry białego piasku i krystalicznie czystej, turkusowej wody, idealnej do pływania i relaksu.",
+      "gygQuery": "Grace Bay Beach"
+    },
+    {
+      "name": "Coral Gardens Reef (Bight Reef)",
+      "text": "Łatwo dostępna rafa koralowa tuż przy plaży Bight na Providenciales, idealna do snorkelingu. Można tu podziwiać kolorowe ryby, żółwie i inne morskie stworzenia.",
+      "gygQuery": "Bight Reef snorkeling"
+    },
+    {
+      "name": "Chalk Sound National Park",
+      "text": "Malowniczy park narodowy na Providenciales, składający się z setek małych wapiennych wysepek otoczonych płytkimi, turkusowymi lagunami. Idealny na kajakarstwo i fotografowanie.",
+      "gygQuery": "Chalk Sound kayak"
+    },
+    {
+      "name": "Conch Bar Caves National Park",
+      "text": "Jeden z największych systemów jaskiń na Karaibach, położony na Middle Caicos. Oferuje fascynujące formacje stalaktytów i stalagmitów oraz podziemne jeziora.",
+      "gygQuery": "Conch Bar Caves"
+    },
+    {
+      "name": "Grand Turk Wall",
+      "text": "Słynna podwodna ściana koralowa, która opada na ogromne głębokości tuż przy brzegu Grand Turk. To jedno z najlepszych miejsc do nurkowania głębinowego na świecie.",
+      "gygQuery": "Grand Turk Wall diving"
+    },
+    {
+      "name": "Little Water Cay (Iguana Island)",
+      "text": "Mała wyspa w pobliżu Providenciales, będąca rezerwatem zagrożonych legwanów skalnych Turks i Caicos. Można tu obserwować te endemiczne gady w ich naturalnym środowisku.",
+      "gygQuery": "Little Water Cay iguana"
+    },
+    {
+      "name": "Mudjin Harbour",
+      "text": "Spektakularna zatoka na Middle Caicos z wysokimi klifami, jaskiniami i jedną z najbardziej fotogenicznych plaż archipelagu. Idealne miejsce na spacer i podziwianie dzikiej przyrody.",
+      "gygQuery": "Mudjin Harbour"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Turks i Caicos to drogi kierunek podróży?",
+      "a": "Tak, Turks i Caicos uchodzi za jeden z droższych kierunków na Karaibach. Ceny zakwaterowania, wyżywienia i atrakcji są wysokie, szczególnie na Providenciales. Warto zaplanować budżet z wyprzedzeniem."
+    },
+    {
+      "q": "Jakie są najlepsze miesiące na podróż na Turks i Caicos?",
+      "a": "Najlepszy czas na wizytę to okres od grudnia do maja, kiedy panuje sucha i słoneczna pogoda, a temperatury są przyjemne. Unika się wtedy pory huraganów, która trwa od czerwca do listopada."
+    },
+    {
+      "q": "Czy na Turks i Caicos jest bezpiecznie?",
+      "a": "Turks i Caicos jest generalnie bezpiecznym miejscem dla turystów. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza w nocy i w mniej uczęszczanych miejscach. Przestępczość pospolita zdarza się rzadko."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu na Turks i Caicos dla Polaków?",
+      "a": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu. Wiza nie jest wymagana na pobyty turystyczne do 90 dni. Zawsze rekomenduje się sprawdzenie aktualnych wymogów przed podróżą."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Turks i Caicos to pora sucha, trwająca od grudnia do maja. W tych miesiącach panują przyjemne temperatury, niższa wilgotność i mniejsze ryzyko opadów. To idealny okres na plażowanie, nurkowanie i wszelkie aktywności na świeżym powietrzu. Od czerwca do listopada trwa pora deszczowa i sezon huraganów, co może wiązać się z większymi opadami i ryzykiem silnych wiatrów, choć często są to krótkie, intensywne ulewy.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      7
+    ]
+  },
+  "capital": "Cockburn Town",
+  "climate": {
+    "air": [
+      28,
+      28,
+      29,
+      30,
+      31,
+      32,
+      32,
+      32,
+      32,
+      31,
+      30,
+      29
+    ],
+    "note": "Dane dla Cockburn Town, Grand Turk.",
+    "sea": [
+      26,
+      26,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Turks i Caicos opiera się głównie na świeżych owocach morza, zwłaszcza na lokalnych ślimakach morskich (conch), które są przygotowywane na wiele sposobów - smażone, w sałatkach, zupy czy gulasze. Popularne są również ryby, homary i krewetki. Dania często towarzyszą ryż z groszkiem, plantany oraz różnorodne warzywa korzeniowe. Wpływy karaibskie i afrykańskie są wyraźnie odczuwalne w smaku potraw, które są często doprawiane pikantnymi przyprawami i świeżymi ziołami. Warto spróbować lokalnych soków owocowych i rumu."
+  ],
+  "gygQuery": "Turks and Caicos",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze warto sprawdzić aktualne wymogi przed wyjazdem w placówce dyplomatycznej.",
+    "flight": "Około 12-15 h z co najmniej dwoma przesiadkami (z Polski).",
+    "language": "Angielski jest językiem urzędowym i powszechnie używanym.",
+    "money": "Walutą jest dolar amerykański (USD). Płatności kartą są powszechne, bankomaty dostępne. Warto mieć trochę gotówki na drobne wydatki.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Niezbędna przejściówka.",
+    "safety": "Turks i Caicos uchodzi za bezpieczny kierunek, jednak jak wszędzie, należy zachować podstawowe środki ostrożności, zwłaszcza po zmroku w mniej uczęszczanych miejscach. Ryzyko przestępczości pospolitej jest niskie. Opieka medyczna jest dostępna, ale kosztowna, dlatego zaleca się wykupienie kompleksowego ubezpieczenia podróżnego.",
+    "timeDiff": "Zimą -5 godzin, latem -6 godzin względem czasu w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

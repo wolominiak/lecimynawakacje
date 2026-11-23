@@ -1,0 +1,204 @@
+{
+  "slug": "trynidad-i-tobago",
+  "loc": "w Trynidadzie i Tobago",
+  "to": "do Trynidadu i Tobago",
+  "teaser": "Trynidad i Tobago to karaibskie wyspy pełne kontrastów: od tętniącej życiem kultury Trynidadu po spokojne plaże Tobago. Idealne dla szukających autentycznych wrażeń.",
+  "intro": [
+    "Trynidad i Tobago to dwa różne światy w jednym kraju. Trynidad, większa z wysp, to centrum gospodarcze i kulturalne, słynące z karnawału, muzyki calypso i soca oraz bogatej mieszanki etnicznej. Jest to miejsce dla tych, którzy szukają autentycznych karaibskich doświadczeń, mniej nastawionych na masową turystykę. Wyspa oferuje bujną przyrodę, w tym mokradła Caroni z flamingami, oraz unikalne atrakcje geologiczne, jak Jezioro Asfaltowe.",
+    "Mniejsza Tobago to klasyczna karaibska pocztówka: białe plaże, turkusowa woda i rafy koralowe. To idealne miejsce na relaks, nurkowanie i snorkeling, z dala od zgiełku. Wyspa jest znacznie spokojniejsza i bardziej zielona, oferując ucieczkę od codzienności. Oba miejsca łączy gościnność mieszkańców i doskonała kuchnia, będąca fuzją wpływów afrykańskich, indyjskich i kreolskich. To kierunek dla podróżników ceniących różnorodność i niezależność.",
+    "Podróż z Polski do Trynidadu i Tobago wymaga co najmniej jednej przesiadki, zazwyczaj w Europie (np. Londyn, Amsterdam) lub USA, co czyni ją dłuższą wyprawą. Nie jest to cel masowej turystyki zorganizowanej przez polskie biura podróży, więc najczęściej organizuje się ją na własną rękę. Wymaga to wcześniejszego planowania, zwłaszcza w kwestii lotów i zakwaterowania. Mimo to, wysiłek jest nagradzany możliwością odkrycia prawdziwych Karaibów, z dala od utartych szlaków."
+  ],
+  "highlights": [
+    "Karnawał w Port-of-Spain - jeden z największych na świecie",
+    "Relaks na idyllicznych plażach Tobago, np. Pigeon Point",
+    "Obserwacja flamingów w mokradłach Caroni na Trynidadzie",
+    "Nurkowanie i snorkeling w koralowych ogrodach Tobago",
+    "Odwiedziny unikalnego Jeziora Asfaltowego (Pitch Lake)",
+    "Degustacja lokalnej kuchni z wpływami afrykańskimi i indyjskimi"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "trynidad",
+      "name": "Trynidad",
+      "loc": "na Trynidadzie",
+      "intro": [
+        "Trynidad to większa i bardziej zurbanizowana z dwóch wysp, będąca sercem kulturalnym i gospodarczym kraju. To tu odbywa się słynny karnawał, a ulice Port-of-Spain tętnią życiem. Wyspa jest domem dla wielu grup etnicznych, co przekłada się na bogactwo kultury, muzyki i kuchni. Znajdziesz tu zarówno nowoczesne centra handlowe, jak i tradycyjne targi.",
+        "Poza stolicą Trynidad oferuje bujną przyrodę - od lasów deszczowych na Północnym Paśmie Górskim po unikalne mokradła Caroni, gdzie można obserwować czerwone ibisy. Warto zobaczyć także Jezioro Asfaltowe, naturalne złoże asfaltu, które jest jedną z największych tego typu atrakcji na świecie. Trynidad to wyspa dla aktywnych podróżników, ciekawych lokalnej kultury i przyrody."
+      ],
+      "airport": "POS",
+      "forWhom": "Dla osób szukających autentycznych wrażeń kulturowych, festiwali i różnorodnej przyrody.",
+      "gygQuery": "Trinidad",
+      "highlights": [
+        "Karnawał w Port-of-Spain",
+        "Jezioro Asfaltowe (Pitch Lake)",
+        "Rejs po mokradłach Caroni",
+        "Plaża Maracas Bay"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "tobago",
+      "name": "Tobago",
+      "loc": "na Tobago",
+      "intro": [
+        "Tobago to mniejsza i spokojniejsza z wysp, będąca ucieleśnieniem karaibskiego raju. Charakteryzuje się pięknymi, piaszczystymi plażami, krystalicznie czystą wodą i bogatymi rafami koralowymi. Jest to idealne miejsce dla tych, którzy pragną relaksu, słońca i aktywności wodnych, takich jak nurkowanie, snorkeling czy żeglarstwo. Atmosfera na wyspie jest znacznie bardziej wyluzowana niż na Trynidadzie.",
+        "Wyspa jest również domem dla najstarszego rezerwatu leśnego na półkuli zachodniej, Main Ridge Forest Reserve, oferującego szlaki turystyczne i możliwość obserwacji egzotycznych ptaków. Główne miasto, Scarborough, jest niewielkie i urokliwe, z fortem King George oferującym panoramiczne widoki. Tobago to doskonały wybór na ucieczkę od zgiełku i cieszenie się naturalnym pięknem Karaibów."
+      ],
+      "airport": "TAB",
+      "forWhom": "Idealna dla miłośników plażowania, sportów wodnych i spokojnego wypoczynku w otoczeniu natury.",
+      "gygQuery": "Tobago",
+      "highlights": [
+        "Plaża Pigeon Point Heritage Park",
+        "Nurkowanie przy rafie Buccoo Reef",
+        "Rezerwat Main Ridge Forest Reserve",
+        "Wodospad Argyle Waterfall"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "port-of-spain",
+      "name": "Port-of-Spain",
+      "loc": "w Port-of-Spain",
+      "intro": [
+        "Port-of-Spain, stolica Trynidadu i Tobago, to tętniące życiem miasto, które jest centrum kulturalnym i biznesowym kraju. Znane jest przede wszystkim z organizacji jednego z najbardziej spektakularnych karnawałów na świecie, który przyciąga tysiące uczestników i widzów. Miasto jest mozaiką stylów architektonicznych, od kolonialnych budowli po nowoczesne wieżowce, odzwierciedlając bogatą historię i różnorodność kulturową.",
+        "W Port-of-Spain można odwiedzić Queen's Park Savannah, duży park miejski, wokół którego znajdują się słynne „Seven Magnificent Buildings” - zabytkowe rezydencje. Miasto oferuje również liczne muzea, galerie sztuki, restauracje i miejsca rozrywki. Jest to idealne miejsce do zanurzenia się w lokalnej kulturze, spróbowania autentycznej kuchni i poczucia pulsu Trynidadu."
+      ],
+      "airport": "POS",
+      "forWhom": "Dla tych, którzy chcą doświadczyć miejskiego życia, kultury i festiwali Trynidadu.",
+      "gygQuery": "Port of Spain",
+      "highlights": [
+        "Queen's Park Savannah",
+        "Karnawał (jeśli w sezonie)",
+        "Royal Botanic Gardens",
+        "Muzeum Narodowe i Galeria Sztuki"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Maracas Bay",
+      "text": "Jedna z najsłynniejszych plaż na Trynidadzie, znana z pięknych widoków i stoisk z lokalnym przysmakiem - „bake and shark”.",
+      "gygQuery": "Maracas Bay"
+    },
+    {
+      "name": "Pigeon Point Heritage Park",
+      "text": "Ikoniczna plaża na Tobago z białym piaskiem, turkusową wodą i charakterystycznym drewnianym molo, idealna do relaksu i sportów wodnych.",
+      "gygQuery": "Pigeon Point"
+    },
+    {
+      "name": "Jezioro Asfaltowe (Pitch Lake)",
+      "text": "Unikalne, naturalne złoże płynnego asfaltu na Trynidadzie, jedno z największych na świecie. Można tu zobaczyć, jak asfalt naturalnie wypływa na powierzchnię.",
+      "gygQuery": "Pitch Lake"
+    },
+    {
+      "name": "Mokradła Caroni Swamp",
+      "text": "Rezerwat przyrody na Trynidadzie, słynący z wieczornych rejsów łodzią, podczas których obserwuje się tysiące czerwonych ibisów wracających na nocleg.",
+      "gygQuery": "Caroni Swamp"
+    },
+    {
+      "name": "Main Ridge Forest Reserve",
+      "text": "Najstarszy chroniony rezerwat leśny na półkuli zachodniej, położony na Tobago. Oferuje szlaki turystyczne i możliwość obserwacji rzadkich gatunków ptaków.",
+      "gygQuery": "Main Ridge Forest Reserve"
+    },
+    {
+      "name": "Fort King George",
+      "text": "Zabytkowy fort z XVIII wieku w Scarborough na Tobago, oferujący panoramiczne widoki na miasto i wybrzeże, a także muzeum.",
+      "gygQuery": "Fort King George"
+    },
+    {
+      "name": "Wodospad Argyle",
+      "text": "Najwyższy wodospad na Tobago, składający się z trzech kaskad. Idealne miejsce na krótką wędrówkę i orzeźwiającą kąpiel w naturalnych basenach.",
+      "gygQuery": "Argyle Waterfall"
+    },
+    {
+      "name": "Queen's Park Savannah",
+      "text": "Duży park miejski w Port-of-Spain, otoczony przez słynne „Seven Magnificent Buildings”. Miejsce spotkań i rekreacji mieszkańców.",
+      "gygQuery": "Queen's Park Savannah"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Trynidad i Tobago jest bezpieczne dla turystów?",
+      "a": "Trynidad i Tobago ma wyższy wskaźnik przestępczości niż wiele innych krajów karaibskich, szczególnie na Trynidadzie. Zaleca się zachowanie ostrożności, unikanie samotnych spacerów po zmroku, zwłaszcza w mniej uczęszczanych rejonach miast, oraz dbanie o swoje wartościowe przedmioty. Tobago jest generalnie bezpieczniejsze."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Trynidadu i Tobago?",
+      "a": "Najlepszy czas na podróż to pora sucha, od stycznia do maja. Wtedy panują słoneczne dni i niższa wilgotność. Okres od czerwca do grudnia to pora deszczowa, z częstszymi, choć zazwyczaj krótkimi opadami."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Trynidadzie i Tobago?",
+      "a": "Oficjalną walutą jest dolar trynidadzko-tobagijski (TTD). W wielu miejscach, zwłaszcza turystycznych, akceptowane są również dolary amerykańskie (USD). Karty kredytowe są powszechne w hotelach i większych sklepach, ale warto mieć przy sobie gotówkę na mniejsze zakupy i targi."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Trynidadu i Tobago?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych przepisów wizowych przed podróżą."
+    },
+    {
+      "q": "Jakie są typowe potrawy w Trynidadzie i Tobago?",
+      "a": "Kuchnia Trynidadu i Tobago to fascynująca mieszanka wpływów afrykańskich, indyjskich, kreolskich, chińskich i europejskich. Koniecznie spróbuj „bake and shark” (smażony chlebek z mięsem rekina), „roti” (rodzaj placka z curry), „doubles” (street food z ciecierzycą w cieście) oraz „callaloo” (zupa z liści taro). Popularne są także świeże owoce morza i egzotyczne owoce."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedziny Trynidadu i Tobago to pora sucha, która trwa od stycznia do maja. W tym okresie można liczyć na słoneczną pogodę, niską wilgotność i przyjemne temperatury, idealne do plażowania, zwiedzania i aktywności na świeżym powietrzu. Od czerwca do grudnia panuje pora deszczowa, charakteryzująca się częstszymi, choć zazwyczaj krótkotrwałymi opadami i wyższą wilgotnością. Jeśli planujesz uczestniczyć w słynnym karnawale, odbywa się on zazwyczaj w lutym lub na początku marca.",
+    "best": [
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      1,
+      5,
+      12
+    ]
+  },
+  "capital": "Port-of-Spain",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      32,
+      32,
+      31,
+      30
+    ],
+    "note": "dla Port-of-Spain",
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Trynidadu i Tobago to prawdziwa uczta dla podniebienia, odzwierciedlająca bogactwo kulturowe wysp. Jest to fuzja smaków afrykańskich, indyjskich, kreolskich, chińskich i europejskich. Koniecznie spróbuj „bake and shark”, czyli smażonego chlebka z mięsem rekina i różnymi sosami, który jest popularnym przysmakiem ulicznym. Inne dania, które warto skosztować, to „roti” (indyjski płaski chlebek podawany z curry), „doubles” (smażone placki z ciecierzycą), „callaloo” (gęsta zupa z liści taro) oraz świeże owoce morza i egzotyczne owoce. Całość często doprawiona jest pikantnymi sosami i świeżymi ziołami."
+  ],
+  "gygQuery": "Trinidad and Tobago",
+  "practical": {
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyt do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Przy wjeździe należy okazać bilet powrotny lub dalszy oraz dowód posiadania wystarczających środków na utrzymanie. Zawsze zaleca się sprawdzenie aktualnych przepisów wizowych i wjazdowych przed podróżą w ambasadzie lub konsulacie.",
+    "flight": "Około 12-15 godzin z jedną lub dwiema przesiadkami, zazwyczaj w Europie (np. Londyn, Amsterdam) lub USA.",
+    "language": "Oficjalnym językiem jest angielski. Na co dzień używany jest również lokalny dialekt angielskiego kreolskiego.",
+    "money": "Walutą jest dolar trynidadzko-tobagijski (TTD). Dolary amerykańskie (USD) są szeroko akceptowane, zwłaszcza w miejscach turystycznych. Karty kredytowe są używane w hotelach i większych sklepach, ale na targach i w mniejszych punktach usługowych preferowana jest gotówka. Bankomaty są dostępne w miastach.",
+    "plugs": "W użyciu są gniazdka typu A (dwa płaskie bolce), B (trzy bolce, w tym jeden okrągły uziemiający) oraz G (brytyjskie, trzy prostokątne bolce). Napięcie wynosi 115 V lub 230 V, a częstotliwość 60 Hz. Konieczny będzie adapter i ewentualnie przejściówka na napięcie.",
+    "safety": "Trynidad i Tobago ma stosunkowo wysoki wskaźnik przestępczości, w tym przestępstw z użyciem przemocy, zwłaszcza na Trynidadzie. Zaleca się zachowanie szczególnej ostrożności, unikanie samotnych spacerów po zmroku, zwłaszcza w mniej uczęszczanych rejonach Port-of-Spain i innych miast. Należy dbać o swoje wartościowe przedmioty i nie afiszować się bogactwem. Tobago jest generalnie bezpieczniejsze. Przed wyjazdem warto wykupić ubezpieczenie podróżne. Brak szczególnych zagrożeń sanitarno-epidemiologicznych, ale zaleca się picie wody butelkowanej.",
+    "timeDiff": "Różnica czasu względem Polski to -5 godzin w czasie zimowym (CET) i -6 godzin w czasie letnim (CEST)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "wyspy-marshalla",
+  "loc": "na Wyspach Marshalla",
+  "to": "na Wyspy Marshalla",
+  "teaser": "Odkryj odległe atole koralowe Pacyfiku, świadków historii II wojny światowej i miejsce dla nurków. Wyspy Marshalla to podróż na kraniec świata.",
+  "intro": [
+    "Wyspy Marshalla to rozrzucone po Pacyfiku koralowe atole, które oferują unikalne doświadczenie podróży dla tych, którzy szukają prawdziwej ucieczki od cywilizacji. To miejsce, gdzie czas płynie wolniej, a natura wciąż gra pierwsze skrzypce. Podwodny świat jest tu niezwykle bogaty, a rafy koralowe tętnią życiem, przyciągając nurków z całego świata. Dodatkowo, historia II wojny światowej pozostawiła tu liczne ślady, w tym zatopione wraki statków i samolotów, które stanowią podwodne muzea.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, poszukiwaczy przygód, nurków i miłośników historii, którzy cenią sobie autentyczność i spokój, a nie masową turystykę. Nie znajdziesz tu luksusowych kurortów ani rozbudowanej infrastruktury, ale za to poznasz prawdziwe życie wyspiarzy i doświadczysz dziewiczej przyrody. To destynacja dla osób gotowych na długą podróż i samodzielne odkrywanie.",
+    "Podróż z Polski na Wyspy Marshalla jest długa i wymaga wielu przesiadek, zazwyczaj przez Azję lub USA. Czas lotu, wliczając przesiadki, może wynieść ponad 24-30 godzin. Koszty biletów lotniczych są wysokie, co sprawia, że jest to destynacja premium. Należy przygotować się na ograniczoną dostępność lotów i konieczność wcześniejszego planowania."
+  ],
+  "highlights": [
+    "Dziewicze atole koralowe",
+    "Nurkowanie wrakowe z II wojny światowej",
+    "Poznawanie kultury wyspiarzy",
+    "Relaks na odległych plażach",
+    "Wędkowanie głębinowe",
+    "Unikalna flora i fauna Pacyfiku"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "majuro-atoll",
+      "name": "Atol Majuro",
+      "loc": "na Atolu Majuro",
+      "intro": [
+        "Atol Majuro to serce Wysp Marshalla i miejsce, gdzie znajduje się stolica kraju. Jest to najbardziej rozwinięty i zaludniony atol, oferujący podstawowe usługi turystyczne, takie jak hotele, restauracje i sklepy. Stanowi doskonałą bazę wypadową do odkrywania innych, bardziej odległych atoli.",
+        "Tutaj można poczuć puls lokalnego życia, odwiedzić targ rybny, podziwiać tradycyjne łodzie i zrelaksować się na piaszczystych plażach. Mimo że jest to centrum, wciąż zachowuje swój wyspiarski urok i spokój, z dala od zgiełku wielkich miast."
+      ],
+      "airport": "Majuro Amata Kabua International Airport (MAJ)",
+      "forWhom": "Dla szukających centrum życia wysp i bazy wypadowej.",
+      "gygQuery": "Majuro",
+      "highlights": [
+        "Zwiedzanie stolicy Majuro",
+        "Relaks na plaży Laura",
+        "Zakupy na lokalnym targu",
+        "Wizyta w Muzeum Alele"
+      ],
+      "type": "atol"
+    },
+    {
+      "slug": "arno-atoll",
+      "name": "Atol Arno",
+      "loc": "na Atolu Arno",
+      "intro": [
+        "Atol Arno, położony niedaleko Majuro, to idealne miejsce dla tych, którzy pragną doświadczyć autentycznego życia na wyspach Pacyfiku. Jest znacznie mniej rozwinięty turystycznie, co pozwala na głębsze zanurzenie się w kulturę i tradycje mieszkańców Marshalla. Dotrzeć tu można lokalnymi łodziami z Majuro.",
+        "To raj dla miłośników dziewiczej przyrody i spokoju. Można tu podziwiać nieskazitelne rafy koralowe, nurkować, pływać kajakiem w lagunach oraz obserwować codzienne życie mieszkańców, którzy wciąż żyją w zgodzie z naturą."
+      ],
+      "airport": "Majuro Amata Kabua International Airport (MAJ)",
+      "forWhom": "Dla pragnących poznać autentyczną kulturę wyspiarzy i uciec od cywilizacji.",
+      "gygQuery": "Arno Atoll",
+      "highlights": [
+        "Poznawanie kultury wyspiarzy",
+        "Nurkowanie i snorkeling",
+        "Relaks na pustych plażach",
+        "Rejsy po lagunie"
+      ],
+      "type": "atol"
+    },
+    {
+      "slug": "bikini-atoll",
+      "name": "Atol Bikini",
+      "loc": "na Atolu Bikini",
+      "intro": [
+        "Atol Bikini to miejsce o niezwykłej i tragicznej historii, znane z przeprowadzanych tu w połowie XX wieku testów nuklearnych. Obecnie jest to unikalna destynacja dla zaawansowanych nurków, którzy pragną eksplorować zatopione wraki statków, będące świadectwem tych wydarzeń. Dostęp jest ściśle kontrolowany.",
+        "Pomimo historii, podwodny świat Bikini Atoll jest niezwykle bogaty i oferuje jedne z najlepszych miejsc do nurkowania wrakowego na świecie. Należy jednak pamiętać o potencjalnym ryzyku promieniowania, choć wiele badań wskazuje, że podwodne środowisko jest bezpieczne dla krótkich wizyt. To podróż dla świadomych i odważnych."
+      ],
+      "airport": "Majuro Amata Kabua International Airport (MAJ)",
+      "forWhom": "Dla zaawansowanych nurków i pasjonatów historii, świadomych ryzyka.",
+      "gygQuery": "Bikini Atoll",
+      "highlights": [
+        "Nurkowanie wrakowe (USS Saratoga)",
+        "Poznawanie historii testów nuklearnych",
+        "Unikalne ekosystemy morskie",
+        "Odosobnienie i spokój"
+      ],
+      "type": "atol"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wraki z II wojny światowej",
+      "text": "Podwodne muzea, takie jak zatopione statki i samoloty, są magnesem dla nurków. Znajdują się one w wielu atolach, w tym w okolicach Majuro i na słynnym Atolu Bikini.",
+      "gygQuery": "Marshall Islands WWII wrecks diving"
+    },
+    {
+      "name": "Muzeum i Biblioteka Alele",
+      "text": "Położone w Majuro, jest najważniejszą instytucją kulturalną kraju. Prezentuje historię, sztukę i tradycje Wysp Marshalla, w tym tradycyjne łodzie i rzemiosło.",
+      "gygQuery": "Alele Museum Majuro"
+    },
+    {
+      "name": "Plaża Laura",
+      "text": "Jedna z najpiękniejszych i najdłuższych plaż na Atolu Majuro, oferująca biały piasek i spokojne wody idealne do pływania i relaksu. To popularne miejsce wśród lokalnej społeczności.",
+      "gygQuery": "Laura Beach Majuro"
+    },
+    {
+      "name": "Atol Arno",
+      "text": "Niedaleko Majuro, oferuje wgląd w autentyczne życie wyspiarzy, z dala od zgiełku. Można tu poznać lokalne zwyczaje, tradycyjne budownictwo i cieszyć się dziewiczą przyrodą.",
+      "gygQuery": "Arno Atoll cultural tour"
+    },
+    {
+      "name": "Nurkowanie na Atolu Bikini",
+      "text": "Słynne na całym świecie miejsce nurkowe, gdzie spoczywają wraki okrętów wojennych zatopionych podczas testów nuklearnych. Oferuje niezapomniane, ale wymagające doświadczenie dla zaawansowanych nurków.",
+      "gygQuery": "Bikini Atoll diving"
+    },
+    {
+      "name": "Wędkowanie głębinowe",
+      "text": "Bogate wody Pacyfiku wokół Wysp Marshalla są rajem dla wędkarzy. Można tu złowić tuńczyka, marlina czy mahi-mahi, a wiele lokalnych firm oferuje zorganizowane wyprawy.",
+      "gygQuery": "Marshall Islands deep sea fishing"
+    },
+    {
+      "name": "Tradycyjne rzemiosło",
+      "text": "Wyspiarze słyną z misternie plecionych koszy, mat i innych przedmiotów z liści pandanusa. Warto poszukać lokalnych wyrobów, które stanowią piękną pamiątkę i wsparcie dla lokalnej społeczności.",
+      "gygQuery": "Marshall Islands traditional crafts"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Wyspy Marshalla są bezpieczne dla turystów?",
+      "a": "Wyspy Marshalla są generalnie bezpiecznym krajem. Należy jednak zachować podstawowe środki ostrożności, dbać o swoje rzeczy i unikać samotnych spacerów po zmroku w nieznanych miejscach. Największym zagrożeniem są choroby tropikalne, dlatego zaleca się profilaktykę przeciwko komarom."
+    },
+    {
+      "q": "Jak dostać się na Wyspy Marshalla z Polski?",
+      "a": "Podróż na Wyspy Marshalla z Polski jest długa i wymaga co najmniej dwóch, a często trzech przesiadek. Najczęściej loty odbywają się przez Azję (np. Seul, Tokio) lub Stany Zjednoczone (np. Honolulu), a następnie lokalnymi liniami na Majuro. Czas podróży to zazwyczaj ponad 24 godziny."
+    },
+    {
+      "q": "Jaka jest waluta i czy można płacić kartą na Wyspach Marshalla?",
+      "a": "Oficjalną walutą Wysp Marshalla jest dolar amerykański (USD). Płatności kartą są możliwe tylko w nielicznych, większych obiektach w Majuro. Poza stolicą gotówka jest niezbędna. Warto mieć ze sobą odpowiednią ilość gotówki na cały pobyt."
+    },
+    {
+      "q": "Czy na Wyspach Marshalla jest drogo?",
+      "a": "Wyspy Marshalla są krajem stosunkowo drogim dla turystów, głównie ze względu na wysokie koszty transportu (loty, lokalne łodzie) oraz import większości towarów. Zakwaterowanie i wyżywienie również mogą być droższe niż w innych regionach Azji Południowo-Wschodniej czy Oceanii."
+    },
+    {
+      "q": "Co warto wiedzieć przed podróżą na Wyspy Marshalla?",
+      "a": "Warto pamiętać o długiej podróży, konieczności posiadania gotówki, ograniczonej infrastrukturze turystycznej i medycznej. Należy zabrać ze sobą przejściówki do gniazdek elektrycznych i środki odstraszające komary. Ważne jest też poszanowanie lokalnej kultury i tradycji."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Wyspy Marshalla to okres od grudnia do kwietnia, kiedy panuje pora sucha. W tym czasie opady deszczu są najmniejsze, a pogoda jest najbardziej stabilna, co sprzyja aktywnościom na świeżym powietrzu i nurkowaniu. Temperatury są przyjemnie wysokie, a wilgotność powietrza nieco niższa.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "capital": "Majuro",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30
+    ],
+    "note": "Dane dla Majuro.",
+    "sea": [
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Wysp Marshalla opiera się głównie na świeżych owocach morza i produktach roślinnych dostępnych na wyspach. Królują tu ryby, kraby i homary, często przygotowywane na grillu lub w kokosowym mleku. Popularne są także owoce takie jak chlebowiec, taro, banany i kokosy. Ze względu na izolację i brak rozwiniętego rolnictwa, dieta jest prosta, ale świeża i naturalna. W stolicy Majuro można znaleźć kilka restauracji oferujących dania międzynarodowe, ale prawdziwe smaki odkrywa się w lokalnych chatach i na targach."
+  ],
+  "gygQuery": "Marshall Islands",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać na Wyspy Marshalla bez wizy na pobyt do 30 dni. Przy dłuższych pobytach wymagana jest wiza. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie.",
+    "flight": "około 24-30 godzin z wieloma przesiadkami",
+    "language": "Oficjalnymi językami są angielski i marszalski. Angielski jest szeroko używany, zwłaszcza w stolicy i w kontaktach turystycznych.",
+    "money": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są możliwe tylko w nielicznych miejscach, głównie w stolicy. Warto mieć przy sobie gotówkę, zwłaszcza poza Majuro. Bankomaty są dostępne, ale ich liczba jest ograniczona.",
+    "plugs": "Gniazdka elektryczne typu A i B (amerykańskie), napięcie 120 V, częstotliwość 60 Hz. Niezbędna jest przejściówka oraz ewentualnie konwerter napięcia.",
+    "safety": "Wyspy Marshalla są generalnie bezpiecznym krajem, jednak ze względu na odległość i ograniczoną infrastrukturę medyczną, zaleca się wykupienie kompleksowego ubezpieczenia podróżnego. Występują choroby tropikalne, takie jak denga, dlatego warto stosować środki odstraszające komary. Należy zachować ostrożność w rejonach, które były miejscem testów nuklearnych (np. Atol Bikini), ze względu na potencjalne utrzymujące się promieniowanie. Zawsze warto śledzić komunikaty MSZ.",
+    "timeDiff": "około +10 lub +11 godzin względem czasu w Polsce (w zależności od pory roku)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "tuvalu",
+  "loc": "na Tuvalu",
+  "to": "na Tuvalu",
+  "teaser": "Tuvalu to jedno z najmniejszych i najmniej odwiedzanych państw świata, oferujące autentyczne doświadczenie wyspiarskie z dala od masowej turystyki.",
+  "intro": [
+    "Tuvalu, położone w sercu Pacyfiku, to kwintesencja odległej, tropikalnej wyspy. Składa się z dziewięciu atoli i wysp koralowych, które ledwo wystają ponad poziom morza. To miejsce przyciąga podróżników szukających prawdziwej ucieczki od cywilizacji, gdzie czas płynie wolniej, a życie toczy się w rytmie fal. Brak luksusowych kurortów i skomplikowanej infrastruktury turystycznej sprawia, że Tuvalu zachowuje swój dziewiczy charakter i autentyczność.",
+    "Kraj ten jest idealny dla osób ceniących spokój, kontakt z naturą i lokalną kulturą. To destynacja dla świadomych ekologicznie turystów, którzy chcą zobaczyć, jak wygląda życie w obliczu zmian klimatycznych, które bezpośrednio zagrażają istnieniu tych niskopołożonych wysp. Miłośnicy nurkowania i snorkelingu znajdą tu nieskazitelne rafy koralowe i bogate życie morskie w krystalicznie czystych wodach lagun. Tuvalu to także gratka dla filatelistów, słynących z pięknych znaczków pocztowych.",
+    "Podróż z Polski na Tuvalu to prawdziwa wyprawa. Nie ma bezpośrednich lotów, a podróż wymaga wielu przesiadek, najczęściej przez Azję (np. Seul, Singapur) lub Amerykę Północną (np. Los Angeles), a następnie przez Fidżi (Nadi), skąd odbywają się loty na Funafuti. Cała podróż, wliczając oczekiwanie na połączenia, może zająć nawet kilka dni. Warto przygotować się na długie godziny w samolocie i elastyczność w planowaniu, gdyż połączenia lotnicze bywają nieregularne."
+  ],
+  "highlights": [
+    "Odkryj dziewicze atole i laguny",
+    "Poznaj unikalną kulturę polinezyjską",
+    "Nurkuj i snorkeluj w krystalicznych wodach",
+    "Obserwuj życie morskie i rafy koralowe",
+    "Odwiedź Funafuti Marine Conservation Area",
+    "Ucieknij od zgiełku cywilizacji"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "funafuti",
+      "name": "Funafuti",
+      "loc": "na Funafuti",
+      "intro": [
+        "Funafuti to stolica i największy atol Tuvalu, będący głównym punktem wjazdu do kraju. To tutaj znajduje się jedyne międzynarodowe lotnisko i większość infrastruktury. Atol otacza rozległa, płytka laguna, która jest domem dla bogatego ekosystemu morskiego. Mimo statusu stolicy, Funafuti zachowuje spokojny, wyspiarski charakter, z niewielkimi domkami i ulicami, po których poruszają się głównie skutery.",
+        "Główną atrakcją Funafuti jest Funafuti Marine Conservation Area, chroniony obszar morski idealny do snorkelingu i nurkowania. Można tu podziwiać różnorodne gatunki ryb, żółwie morskie i kolorowe rafy koralowe. Atol oferuje również wgląd w lokalne życie, z meczami piłki nożnej na pasie startowym po przylotach samolotów i tradycyjnymi tańcami w lokalnych centrach społecznościowych."
+      ],
+      "airport": "Funafuti International Airport (FUN)",
+      "forWhom": "Dla szukających autentycznego życia wyspiarskiego, spokoju i kontaktu z naturą.",
+      "gygQuery": "Funafuti Tuvalu",
+      "highlights": [
+        "Funafuti Marine Conservation Area",
+        "Laguna Funafuti",
+        "Lokalne życie i kultura",
+        "Relikty z II wojny światowej"
+      ],
+      "type": "atol"
+    },
+    {
+      "slug": "pozostale-atole",
+      "name": "Pozostałe atole",
+      "loc": "na pozostałych atolach",
+      "intro": [
+        "Pozostałe atole Tuvalu, takie jak Nanumanga, Nui, Vaitupu czy Nukufetau, są jeszcze mniej dostępne i oferują jeszcze bardziej odosobnione doświadczenia. Podróżowanie między nimi odbywa się głównie lokalnymi statkami towarowymi, co jest przygodą samą w sobie i wymaga cierpliwości. Te wyspy są pozbawione jakiejkolwiek infrastruktury turystycznej, co gwarantuje pełne zanurzenie w tradycyjnym życiu Tuvalu.",
+        "Odwiedzając te atole, można doświadczyć prawdziwej gościnności mieszkańców, uczestniczyć w lokalnych ceremoniach i zobaczyć, jak wygląda życie z dala od współczesnego świata. To szansa na obcowanie z nieskażoną przyrodą, poznawanie lokalnych tradycji rybackich i rolniczych, a także podziwianie dziewiczych plaż i lagun, które są domem dla niezwykłej fauny i flory."
+      ],
+      "airport": "Funafuti International Airport (FUN)",
+      "forWhom": "Dla najbardziej doświadczonych podróżników, poszukujących ekstremalnej przygody i autentyczności.",
+      "gygQuery": "Tuvalu outer islands",
+      "highlights": [
+        "Tradycyjne życie wyspiarskie",
+        "Dziewicze plaże i laguny",
+        "Lokalne ceremonie i festiwale",
+        "Odosobnienie i spokój"
+      ],
+      "type": "atole"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Funafuti Marine Conservation Area",
+      "text": "Chroniony obszar morski obejmujący sześć małych wysepek, idealny do snorkelingu, nurkowania i obserwacji życia morskiego.",
+      "gygQuery": "Funafuti Marine Conservation Area"
+    },
+    {
+      "name": "Laguna Funafuti",
+      "text": "Rozległa laguna atolu Funafuti, oferująca krystalicznie czyste wody, idealne do pływania, kajakarstwa i podziwiania podwodnego świata.",
+      "gygQuery": "Funafuti Lagoon"
+    },
+    {
+      "name": "Biuro Filatelistyczne Tuvalu",
+      "text": "Miejsce, gdzie można podziwiać i zakupić słynne znaczki pocztowe Tuvalu, cenione przez kolekcjonerów na całym świecie.",
+      "gygQuery": "Tuvalu Philatelic Bureau"
+    },
+    {
+      "name": "Wrak samolotu z II wojny światowej",
+      "text": "Pozostałości amerykańskiego samolotu z czasów II wojny światowej, zatopione w płytkich wodach laguny, dostępne dla nurków i snorkelingu.",
+      "gygQuery": "WWII plane wreck Funafuti"
+    },
+    {
+      "name": "Fualopa Islet",
+      "text": "Jedna z małych, niezamieszkanych wysepek w Funafuti Marine Conservation Area, idealna na piknik i relaks.",
+      "gygQuery": "Fualopa Islet"
+    },
+    {
+      "name": "Te Puke o Fala (Parlament)",
+      "text": "Budynek parlamentu Tuvalu, stanowiący ważny punkt orientacyjny i symbol państwowości na Funafuti.",
+      "gygQuery": "Te Puke o Fala Tuvalu"
+    },
+    {
+      "name": "Tuvalu National Library and Archives",
+      "text": "Instytucja przechowująca cenne dokumenty i zbiory dotyczące historii i kultury Tuvalu.",
+      "gygQuery": "Tuvalu National Library and Archives"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Tuvalu jest bezpieczne dla turystów?",
+      "a": "Tuvalu jest generalnie bardzo bezpiecznym krajem z niskim poziomem przestępczości. Główne zagrożenia to te związane z naturą, takie jak cyklony i silne prądy morskie. Zawsze należy zachować ostrożność i szanować lokalne zwyczaje."
+    },
+    {
+      "q": "Jak dostać się na Tuvalu z Polski?",
+      "a": "Podróż na Tuvalu z Polski jest długa i wymaga wielu przesiadek. Najczęściej leci się do Fidżi (Nadi), a stamtąd lokalnymi liniami lotniczymi na Funafuti. Cała podróż może zająć kilka dni."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Tuvalu?",
+      "a": "Najlepszy czas na odwiedzenie Tuvalu to okres od maja do października, kiedy panuje pora sucha i jest mniej opadów. Temperatury są wtedy przyjemne, a morze spokojniejsze."
+    },
+    {
+      "q": "Jaka jest waluta na Tuvalu i czy można płacić kartą?",
+      "a": "Oficjalnymi walutami są dolar australijski (AUD) i dolar tuwalski (TVD). Płatności kartą są bardzo ograniczone, dostępne tylko w kilku miejscach na Funafuti. Zaleca się posiadanie gotówki."
+    }
+  ],
+  "bestTime": {
+    "text": "Tuvalu leży w strefie klimatu równikowego, co oznacza wysokie temperatury i wilgotność przez cały rok. Pora sucha trwa od maja do października, charakteryzując się mniejszymi opadami i przyjemniejszymi warunkami. Od listopada do kwietnia trwa pora deszczowa, z większym ryzykiem cyklonów tropikalnych. Najlepszy czas na podróż to miesiące suche, kiedy pogoda jest najbardziej stabilna, a morze spokojniejsze, co sprzyja aktywnościom wodnym.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "capital": "Funafuti",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30
+    ],
+    "note": "dla Funafuti",
+    "sea": [
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Tuvalu jest prosta i opiera się na lokalnych produktach. Podstawą diety są świeże ryby i owoce morza, takie jak tuńczyk, bonito czy homary, przygotowywane na różne sposoby - grillowane, gotowane lub surowe. Ważną rolę odgrywają również orzechy kokosowe, które są składnikiem wielu potraw i napojów. Popularne są także taro, chlebowiec, banany i inne tropikalne owoce. Potrawy często są gotowane w ziemnych piecach (umu) lub na otwartym ogniu. Warto spróbować lokalnych przysmaków, takich jak paluszek kokosowy (kaleve) czy smażone pączki z mąki kokosowej."
+  ],
+  "gygQuery": "Tuvalu",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać na Tuvalu bez wizy na pobyty do 90 dni. Wymagany jest ważny paszport (ważny co najmniej 6 miesięcy od daty planowanego wyjazdu), bilet powrotny lub na dalszą podróż oraz wystarczające środki finansowe. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie Tuvalu lub na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 30-40 godzin z kilkoma przesiadkami (zwykle przez Azję i Fidżi).",
+    "language": "Angielski i tuwalski. Angielski jest powszechnie używany w administracji i turystyce.",
+    "money": "Dolar australijski (AUD) i dolar tuwalski (TVD). Dolar tuwalski ma taką samą wartość jak dolar australijski. Płatności kartą są bardzo ograniczone, dostępne tylko w kilku miejscach na Funafuti. Zaleca się posiadanie gotówki.",
+    "plugs": "Typ I (australijski/nowozelandzki), napięcie 230 V, częstotliwość 50 Hz. Wymagany adapter.",
+    "safety": "Tuvalu jest krajem bezpiecznym pod względem przestępczości. Należy jednak uważać na silne prądy morskie podczas pływania i snorkelingu. Występuje ryzyko chorób tropikalnych przenoszonych przez komary, dlatego zaleca się stosowanie repelentów. Opieka medyczna jest bardzo ograniczona, a w poważniejszych przypadkach konieczna jest ewakuacja medyczna, której koszty pokrywa ubezpieczenie podróżne. Warto sprawdzić aktualne ostrzeżenia dotyczące cyklonów, zwłaszcza w porze deszczowej.",
+    "timeDiff": "+10 lub +11 godzin w stosunku do czasu polskiego, w zależności od pory roku w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

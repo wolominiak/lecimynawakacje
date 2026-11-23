@@ -1,0 +1,205 @@
+{
+  "slug": "wyspy-salomona",
+  "loc": "na Wyspach Salomona",
+  "to": "na Wyspy Salomona",
+  "teaser": "Wyspy Salomona to archipelag w Oceanii, znany z historii II wojny światowej, dziewiczych raf koralowych i bogatej kultury melanezyjskiej.",
+  "intro": [
+    "Wyspy Salomona to kierunek dla prawdziwych poszukiwaczy przygód, którzy pragną odkryć mniej uczęszczane zakątki świata. Archipelag ten, położony w sercu Pacyfiku, słynie przede wszystkim z bogatej historii II wojny światowej. Podwodne wraki statków i samolotów, zatopione w krystalicznie czystych wodach, przyciągają nurków z całego globu. Poza historycznymi pamiątkami, Wyspy Salomona oferują dziewiczą przyrodę, bujne lasy deszczowe, wulkany oraz jedne z najpiękniejszych raf koralowych na świecie, idealne do snorkelingu i nurkowania.",
+    "Ten kraj to idealna propozycja dla osób, które cenią sobie autentyczne doświadczenia i chcą zanurzyć się w lokalnej kulturze, z dala od masowej turystyki. Nie znajdziesz tu luksusowych kurortów all-inclusive ani tłumów turystów. Zamiast tego, możesz liczyć na bliski kontakt z mieszkańcami, poznawanie ich tradycji i prostego życia. To miejsce dla nurków, pasjonatów historii, ornitologów i każdego, kto marzy o ucieczce od cywilizacji i odkrywaniu prawdziwej, dzikiej Oceanii.",
+    "Podróż z Polski na Wyspy Salomona jest długa i wymaga odpowiedniego planowania. Nie ma bezpośrednich lotów, a typowa podróż obejmuje co najmniej dwie, a często trzy przesiadki, zazwyczaj w Azji (np. Seul, Singapur) lub Australii/Nowej Zelandii, a następnie lot do Honiary. Całkowity czas podróży, wliczając przesiadki, to zazwyczaj od 30 do 40 godzin. Warto przygotować się na długą podróż i odpowiednio zaplanować logistykę, rezerwując loty z wyprzedzeniem."
+  ],
+  "highlights": [
+    "Nurkowanie wśród wraków z II wojny światowej",
+    "Odkrywanie dziewiczych raf koralowych",
+    "Poznawanie kultury melanezyjskiej",
+    "Wędrówki po tropikalnych lasach",
+    "Relaks na odległych, piaszczystych plażach",
+    "Obserwacja egzotycznej fauny i flory"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "guadalcanal",
+      "name": "Guadalcanal",
+      "loc": "na Guadalcanal",
+      "intro": [
+        "Guadalcanal to największa wyspa archipelagu i miejsce zaciekłych walk podczas II wojny światowej. To tutaj znajduje się stolica kraju, Honiara, która jest głównym punktem wjazdu na Wyspy Salomona. Wyspa oferuje zarówno historyczne pamiątki, jak i naturalne piękno, choć infrastruktura turystyczna jest tu najbardziej rozwinięta w całym kraju.",
+        "Poza Honiarą, wyspa jest domem dla bujnych lasów deszczowych, rzek i wodospadów. Można tu znaleźć wiele miejsc związanych z wojną, takich jak pola bitew, muzea i pomniki. Jest to dobre miejsce na rozpoczęcie podróży i aklimatyzację przed dalszymi wyprawami na bardziej odległe wyspy."
+      ],
+      "airport": "Honiara International Airport (HIR)",
+      "forWhom": "Dla miłośników historii II wojny światowej oraz tych, którzy chcą poznać stolicę kraju.",
+      "gygQuery": "Guadalcanal Solomon Islands",
+      "highlights": [
+        "Pola bitew z II wojny światowej",
+        "Muzeum Narodowe w Honiarze",
+        "Targ Honiara Central Market",
+        "Wodospady Mataniko"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "western-province",
+      "name": "Prowincja Zachodnia (Ghizo i Munda)",
+      "loc": "w Prowincji Zachodniej",
+      "intro": [
+        "Prowincja Zachodnia słynie z zapierających dech w piersiach raf koralowych, krystalicznie czystych wód i wraków z II wojny światowej, co czyni ją rajem dla nurków. Gizo i Munda to główne ośrodki turystyczne w regionie, oferujące zakwaterowanie i bazy nurkowe. To tu można znaleźć jedne z najlepiej zachowanych podwodnych pamiątek po wojnie.",
+        "Oprócz nurkowania, region oferuje możliwości kajakarstwa, wędkowania oraz wizyt w tradycyjnych wioskach. To miejsce, gdzie można naprawdę poczuć autentyczny klimat Wysp Salomona, z dala od zgiełku. Warto odwiedzić lokalne rynki i spróbować świeżych owoców morza."
+      ],
+      "airport": "Gizo Airport (GZO), Munda Airport (MUA)",
+      "forWhom": "Idealna dla nurków, miłośników snorkelingu i poszukiwaczy idyllicznych, tropikalnych krajobrazów.",
+      "gygQuery": "Western Province Solomon Islands",
+      "highlights": [
+        "Nurkowanie wrakowe i rafowe",
+        "Snorkeling w krystalicznych wodach",
+        "Wizyta w wioskach rybackich",
+        "Rejsy kajakiem po lagunach"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "malaita",
+      "name": "Malaita",
+      "loc": "na Malaita",
+      "intro": [
+        "Malaita to jedna z najbardziej zaludnionych i kulturowo bogatych wysp archipelagu. Jest znana z silnych tradycji, unikalnych zwyczajów i tzw. \"money men\" - tradycyjnych liderów. To miejsce, gdzie czas płynie wolniej, a życie toczy się zgodnie z pradawnymi rytuałami. Infrastruktura turystyczna jest tu bardzo ograniczona, co sprzyja autentycznym doświadczeniom.",
+        "Wyspa oferuje wgląd w lokalne rzemiosło, muzykę i taniec. Można tu zobaczyć sztuczne wyspy budowane z kamieni koralowych, które są świadectwem inżynierii i adaptacji do środowiska. Malaita to wyzwanie dla podróżnika, ale nagradza niezapomnianymi spotkaniami z mieszkańcami."
+      ],
+      "airport": "Auki Airport (AKS)",
+      "forWhom": "Dla podróżników zainteresowanych głębokim zanurzeniem w tradycyjnej kulturze i życiu lokalnym.",
+      "gygQuery": "Malaita Solomon Islands",
+      "highlights": [
+        "Poznawanie tradycji i kultury",
+        "Wizyta na sztucznych wyspach",
+        "Lokalne rynki i rzemiosło",
+        "Wędrówki po interiorze wyspy"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wraki Bonegi I i II",
+      "text": "Dwa japońskie wraki statków transportowych z II wojny światowej, dostępne dla nurków i snorkelingu zaledwie kilka metrów od brzegu Guadalcanal. Idealne dla początkujących i zaawansowanych nurków.",
+      "gygQuery": "Bonegi wrecks Guadalcanal"
+    },
+    {
+      "name": "Cieśnina Ironbottom Sound",
+      "text": "Obszar morski wokół Guadalcanal, będący cmentarzyskiem setek statków i samolotów zatopionych podczas bitew II wojny światowej. Raj dla nurków wrakowych.",
+      "gygQuery": "Ironbottom Sound diving"
+    },
+    {
+      "name": "Wyspa Kennedy'ego",
+      "text": "Mała, idylliczna wyspa w Prowincji Zachodniej, gdzie przyszły prezydent USA, John F. Kennedy, schronił się po zatopieniu jego kutra torpedowego podczas II wojny światowej. Popularne miejsce na jednodniowe wycieczki i snorkeling.",
+      "gygQuery": "Kennedy Island Solomon Islands"
+    },
+    {
+      "name": "Laguna Marovo",
+      "text": "Jedna z największych lagun słonowodnych na świecie, wpisana na listę światowego dziedzictwa UNESCO, otoczona wyspami wulkanicznymi. Oferuje spektakularne nurkowanie, snorkeling i kajakarstwo.",
+      "gygQuery": "Marovo Lagoon Solomon Islands"
+    },
+    {
+      "name": "Centralny Targ w Honiarze",
+      "text": "Tętniące życiem centrum handlowe stolicy, gdzie można kupić świeże owoce, warzywa, ryby i lokalne rękodzieło. Daje wgląd w codzienne życie mieszkańców.",
+      "gygQuery": "Honiara Central Market"
+    },
+    {
+      "name": "Wyspa Czaszek (Skull Island)",
+      "text": "Mała wyspa w Prowincji Zachodniej, na której znajdują się jaskinie z czaszkami dawnych wojowników i wodzów. Jest to ważne miejsce kulturowe i historyczne, dostępne z Gizo.",
+      "gygQuery": "Skull Island Solomon Islands"
+    },
+    {
+      "name": "Wodospady Tenaru",
+      "text": "Imponujące wodospady ukryte w bujnej dżungli Guadalcanal, dostępne po pieszej wędrówce. Oferują orzeźwiającą kąpiel i piękne widoki.",
+      "gygQuery": "Tenaru Falls Guadalcanal"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Wyspy Salomona są bezpieczne dla turystów?",
+      "a": "Generalnie tak, ale należy zachować ostrożność, zwłaszcza w Honiarze po zmroku. Zdarzają się drobne kradzieże. Ważne jest, aby dbać o zdrowie, szczególnie w kontekście malarii i szczepień."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży na Wyspy Salomona?",
+      "a": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy oraz wizy, którą można uzyskać po przylocie. Zawsze warto sprawdzić aktualne wymogi wizowe przed wyjazdem."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Wyspach Salomona?",
+      "a": "Między wyspami najlepiej podróżować samolotami lokalnych linii lotniczych lub promami. Na większych wyspach popularne są taksówki i minibusy, ale często trzeba negocjować ceny. Warto rozważyć wynajem samochodu z kierowcą."
+    },
+    {
+      "q": "Czy na Wyspach Salomona jest malaria?",
+      "a": "Tak, malaria występuje endemicznie na Wyspach Salomona. Zaleca się profilaktykę antymalaryczną, stosowanie repelentów i spanie pod moskitierą. Przed wyjazdem skonsultuj się z lekarzem medycyny podróży."
+    },
+    {
+      "q": "Jakie są główne atrakcje Wysp Salomona?",
+      "a": "Główne atrakcje to nurkowanie wśród wraków z II wojny światowej i raf koralowych, poznawanie kultury melanezyjskiej, wizyty na historycznych polach bitew oraz relaks na dziewiczych plażach."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Wyspach Salomona to okresy suche, czyli od czerwca do sierpnia oraz od grudnia do lutego. W tych miesiącach panują stabilniejsze warunki pogodowe, mniej opadów i lepsza widoczność pod wodą, co jest kluczowe dla nurkowania. Okresy przejściowe, marzec-maj i wrzesień-listopad, również mogą być dobre, ale należy liczyć się z większym ryzykiem deszczu.",
+    "best": [
+      6,
+      7,
+      8,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ]
+  },
+  "capital": "Honiara",
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      30,
+      30,
+      30,
+      31,
+      31,
+      31
+    ],
+    "note": "Dane dla Honiary, stolicy kraju.",
+    "sea": [
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Wysp Salomona opiera się na świeżych składnikach dostępnych lokalnie. Królują tu ryby i owoce morza, często grillowane lub gotowane w mleku kokosowym. Podstawą diety są również warzywa korzeniowe, takie jak taro, ignamy i słodkie ziemniaki, a także owoce chlebowca i banany. Popularne są potrawy gotowane w ziemnych piecach (umu) oraz świeże owoce tropikalne. Dania są zazwyczaj proste, ale pełne smaku, często z dodatkiem chili i imbiru."
+  ],
+  "gygQuery": "Solomon Islands",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy, którą można uzyskać po przylocie na lotnisku w Honiarze na okres do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu, bilet powrotny oraz dowód posiadania wystarczających środków finansowych. Zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie Wysp Salomona, lub na stronie MSZ.",
+    "flight": "Loty z Polski na Wyspy Salomona są długie i wymagają co najmniej dwóch, a często trzech przesiadek. Całkowity czas podróży, wliczając przesiadki, to zazwyczaj od 30 do 40 godzin.",
+    "language": "Oficjalnym językiem jest angielski, ale w codziennej komunikacji używa się pidżynu (Solomon Islands Pijin) oraz ponad 70 języków lokalnych. Znajomość podstawowych zwrotów w pidżynie może być pomocna.",
+    "money": "Walutą jest Dolar Wysp Salomona (SBD). W większych miastach i niektórych kurortach można płacić kartą, ale w mniejszych miejscowościach i na odległych wyspach dominują płatności gotówkowe. Warto mieć przy sobie lokalną walutę.",
+    "plugs": "Na Wyspach Salomona używane są gniazdka typu I (australijskie). Napięcie wynosi 240 V, a częstotliwość 50 Hz. Konieczny jest adapter.",
+    "safety": "Wyspy Salomona są stosunkowo bezpieczne, ale należy zachować podstawowe środki ostrożności. Zdarzają się drobne przestępstwa, takie jak kradzieże. Zaleca się unikanie samotnych spacerów po zmroku, zwłaszcza w Honiarze. Warto zadbać o szczepienia (WZW A i B, tężec, dur brzuszny) i profilaktykę antymalaryczną, gdyż malaria występuje endemicznie. Dostęp do opieki medycznej jest ograniczony, zwłaszcza poza stolicą.",
+    "timeDiff": "Różnica czasu między Polską a Wyspami Salomona wynosi +9 godzin w czasie letnim w Polsce i +10 godzin w czasie zimowym w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

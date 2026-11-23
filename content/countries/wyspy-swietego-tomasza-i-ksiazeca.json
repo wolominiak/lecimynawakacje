@@ -1,0 +1,182 @@
+{
+  "slug": "wyspy-swietego-tomasza-i-ksiazeca",
+  "loc": "na Wyspach Świętego Tomasza i Książęcej",
+  "to": "na Wyspy Świętego Tomasza i Książęcą",
+  "teaser": "Odkryj wulkaniczne wyspy z bujną dżunglą, plantacjami kawy i kakao. To idealne miejsce dla szukających spokoju i autentycznej afrykańskiej przyrody.",
+  "intro": [
+    "Wyspy Świętego Tomasza i Książęca to dwa wulkaniczne klejnoty położone na Zatoce Gwinejskiej, oferujące podróżnikom unikalne połączenie dziewiczej przyrody, bogatej historii kolonialnej i spokojnej atmosfery. To kierunek dla tych, którzy pragną uciec od masowej turystyki i zanurzyć się w autentycznym, afrykańskim klimacie. Bujne lasy deszczowe, malownicze plaże i charakterystyczne formacje skalne tworzą krajobraz, który zachwyca swoją dzikością i różnorodnością.",
+    "Kraj ten jest idealny dla poszukiwaczy przygód, miłośników ekoturystyki i osób ceniących sobie spokój. To świetne miejsce na trekking po górach, odkrywanie starych plantacji kakao i kawy, nurkowanie w krystalicznie czystych wodach czy obserwację rzadkich gatunków ptaków. Brak dużych kompleksów hotelowych i infrastruktury turystycznej sprawia, że podróż tutaj to prawdziwa wyprawa, a nie typowe wakacje all-inclusive.",
+    "Podróż z Polski na Wyspy Świętego Tomasza i Książęcą wymaga dobrego planowania. Nie ma bezpośrednich lotów, zazwyczaj konieczne są dwie przesiadki, często w Lizbonie, a następnie w jednym z afrykańskich hubów. Cała podróż może zająć kilkanaście godzin. Wymagana jest wiza, a świadomość lokalnych warunków i podstawowa znajomość portugalskiego mogą znacznie ułatwić poruszanie się po wyspach."
+  ],
+  "highlights": [
+    "Wulkaniczne krajobrazy i formacje skalne",
+    "Plantacje kakao i kawy (Roças)",
+    "Dzika, tropikalna przyroda i lasy deszczowe",
+    "Spokojne, piaszczyste plaże i turkusowe wody",
+    "Kolonialna architektura w stolicy São Tomé",
+    "Nurkowanie i snorkeling w bogatych wodach"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "wyspa-sao-tome",
+      "name": "Wyspa São Tomé",
+      "loc": "na Wyspie São Tomé",
+      "intro": [
+        "Wyspa São Tomé to większa z dwóch głównych wysp archipelagu, będąca sercem kraju. Tutaj znajduje się stolica, São Tomé, z kolonialną zabudową, lokalnymi targami i portem. Wyspa słynie z licznych plantacji kakao i kawy, zwanych Roças, które są świadectwem burzliwej historii i dziedzictwa kolonialnego. Wiele z nich jest opuszczonych, ale niektóre wciąż działają i oferują wgląd w proces produkcji.",
+        "Poza stolicą i plantacjami, São Tomé oferuje spektakularne krajobrazy naturalne. Na południu dominuje gęsta dżungla Parku Narodowego Ôbo, gdzie można podziwiać endemiczne gatunki roślin i zwierząt, w tym słynną wulkaniczną iglicę Pico Cão Grande. Wyspa jest również otoczona pięknymi plażami, idealnymi do relaksu i obserwacji życia morskiego, a także miejscami lęgowymi żółwi morskich."
+      ],
+      "airport": "TMS",
+      "forWhom": "Idealna dla odkrywców, miłośników natury i historii kolonialnej.",
+      "gygQuery": "Sao Tome Island",
+      "highlights": [
+        "Stolica São Tomé i jej kolonialna zabudowa",
+        "Plantacje Roças i ich historia",
+        "Pico Cão Grande - wulkaniczna iglica",
+        "Park Narodowy Ôbo i jego bioróżnorodność"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "wyspa-principe",
+      "name": "Wyspa Príncipe",
+      "loc": "na Wyspie Príncipe",
+      "intro": [
+        "Wyspa Príncipe, mniejsza i bardziej ekskluzywna, została wpisana na listę Rezerwatów Biosfery UNESCO, co podkreśla jej wyjątkowe znaczenie przyrodnicze. Jest to miejsce dla tych, którzy szukają prawdziwej ucieczki od cywilizacji i dziewiczej przyrody. Wyspa jest znacznie mniej zaludniona i oferuje jeszcze większy spokój niż São Tomé, z ograniczoną liczbą luksusowych, ekologicznych resortów.",
+        "Príncipe to raj dla miłośników natury, z bujnymi lasami deszczowymi, wodospadami i krystalicznie czystymi wodami. Plaże są tu często całkowicie opuszczone, a podwodny świat zachwyca bogactwem. Wyspa jest także ważnym miejscem lęgowym dla żółwi morskich, a w odpowiednim sezonie można obserwować ich wędrówki. To idealne miejsce na wycieczki łodzią, nurkowanie i relaks w otoczeniu nieskażonej przyrody."
+      ],
+      "airport": "PCP",
+      "forWhom": "Dla szukających ekskluzywnego spokoju i dziewiczej przyrody.",
+      "gygQuery": "Principe Island",
+      "highlights": [
+        "Rezerwat Biosfery UNESCO",
+        "Dziewicze i odosobnione plaże",
+        "Luksusowe, ekologiczne resorty",
+        "Obserwacja żółwi morskich i ptaków"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Pico Cão Grande",
+      "text": "Charakterystyczna iglica wulkaniczna, symbol wysp, otoczona gęstym lasem deszczowym. Widok na nią jest spektakularny i stanowi wyzwanie dla wspinaczy.",
+      "gygQuery": "Pico Cao Grande"
+    },
+    {
+      "name": "Roça Monte Café",
+      "text": "Jedna z najlepiej zachowanych plantacji kawy, oferująca wgląd w historię i proces produkcji. Można tu spróbować lokalnej kawy i poznać życie na plantacji.",
+      "gygQuery": "Roca Monte Cafe"
+    },
+    {
+      "name": "Boca do Inferno",
+      "text": "Naturalny gejzer morski, gdzie fale wdzierają się w skalne szczeliny, tworząc widowiskowe fontanny wody. To popularne miejsce do podziwiania siły oceanu.",
+      "gygQuery": "Boca do Inferno"
+    },
+    {
+      "name": "Praia Jalé",
+      "text": "Plaża na południu São Tomé, znana jako miejsce lęgowe żółwi morskich. W sezonie można obserwować składanie jaj i wykluwanie się młodych.",
+      "gygQuery": "Praia Jale"
+    },
+    {
+      "name": "Cascata de São Nicolau",
+      "text": "Malowniczy wodospad ukryty w tropikalnej dżungli, łatwo dostępny i idealny na krótką wędrówkę. Oferuje orzeźwienie i piękne widoki.",
+      "gygQuery": "Cascata de Sao Nicolau"
+    },
+    {
+      "name": "Ilhéu das Rolas",
+      "text": "Mała wysepka na równiku, oferująca piękne plaże i możliwość stanięcia na obu półkulach jednocześnie. Dostępna łodzią z południowego São Tomé.",
+      "gygQuery": "Ilheu das Rolas"
+    },
+    {
+      "name": "Park Narodowy Ôbo",
+      "text": "Obejmuje znaczną część obu wysp, chroniąc unikalną florę i faunę, w tym endemiczne gatunki ptaków. Idealny do trekkingu i obserwacji przyrody.",
+      "gygQuery": "Obo National Park"
+    },
+    {
+      "name": "Miasto São Tomé",
+      "text": "Stolica kraju z kolonialną architekturą, katedrą, fortem São Sebastião i lokalnymi targami. Warto pospacerować uliczkami i poczuć lokalny rytm życia.",
+      "gygQuery": "Sao Tome City"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Wyspy Świętego Tomasza i Książęcą?",
+      "a": "Tak, obywatele Polski muszą posiadać wizę. Można ją uzyskać online (e-wiza) lub w ambasadzie. Zawsze sprawdź aktualne wymogi przed wyjazdem, najlepiej na stronie MSZ."
+    },
+    {
+      "q": "Jaka waluta obowiązuje i czy można płacić kartą?",
+      "a": "Walutą jest dobra (STN). Karty płatnicze są akceptowane w większych hotelach i restauracjach, ale poza stolicą niezbędna jest gotówka. Bankomatów jest niewiele."
+    },
+    {
+      "q": "Czy na Wyspach Świętego Tomasza i Książęcej jest bezpiecznie?",
+      "a": "Kraj jest generalnie bezpieczny, ale zaleca się zachowanie ostrożności, zwłaszcza po zmroku w stolicy. Występuje ryzyko malarii, więc profilaktyka jest wskazana."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Wyspy Świętego Tomasza i Książęcą?",
+      "a": "Najlepszy czas to długa pora sucha od czerwca do września lub krótsza od grudnia do lutego. Unikaj pory deszczowej od marca do maja i od października do listopada."
+    }
+  ],
+  "bestTime": {
+    "text": "Wyspy Świętego Tomasza i Książęca mają klimat równikowy, charakteryzujący się dwiema porami suchymi i dwiema deszczowymi. Najlepszy czas na podróż to długa pora sucha, trwająca od czerwca do września. W tym okresie opady są minimalne, a temperatury przyjemne, co sprzyja eksploracji i aktywnościom na świeżym powietrzu. Krótsza pora sucha, od grudnia do lutego, również jest dobrym wyborem, choć może być nieco bardziej wilgotno. Pory deszczowe (marzec-maj i październik-listopad) charakteryzują się wysoką wilgotnością i intensywnymi, choć zazwyczaj krótkimi, opadami.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      12,
+      1,
+      2
+    ]
+  },
+  "capital": "São Tomé",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      30,
+      29,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29
+    ],
+    "note": "Dane dla miasta São Tomé",
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27,
+      27,
+      27,
+      28,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Wysp Świętego Tomasza i Książęcej opiera się na świeżych składnikach dostępnych lokalnie, głównie rybach i owocach morza. Popularne są tu tuńczyk, barakuda i krewetki, często grillowane lub duszone w sosach na bazie mleka kokosowego i lokalnych przypraw. Do tego podaje się maniok, bataty, ryż oraz świeże owoce tropikalne, takie jak banany, mango czy papaja. Wpływy portugalskie są widoczne w wielu potrawach. Nie można zapomnieć o lokalnym kakao i kawie, które są podstawą gospodarki i stanowią ważny element kulinarnych doświadczeń."
+  ],
+  "gygQuery": "Sao Tome and Principe",
+  "practical": {
+    "documents": "Wiza jest wymagana dla obywateli Polski. Można ją uzyskać online (e-wiza) lub w ambasadzie. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze sprawdź aktualne wymogi wizowe przed podróżą na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 12-16 godzin z dwiema przesiadkami, np. w Lizbonie i innym mieście afrykańskim. Brak bezpośrednich połączeń z Polski.",
+    "language": "Portugalski jest językiem urzędowym. Angielski jest rzadko używany poza większymi hotelami i turystycznymi miejscami, podstawowa znajomość portugalskiego może być pomocna.",
+    "money": "Oficjalną walutą jest dobra (STN). Wymiana walut jest możliwa w bankach i niektórych hotelach. Karty płatnicze są akceptowane w większych hotelach i restauracjach, ale gotówka jest niezbędna poza stolicą. Bankomatów jest niewiele, a ich dostępność bywa ograniczona.",
+    "plugs": "Typ C i F (europejskie), napięcie 220V. Adapter nie jest potrzebny dla większości polskich urządzeń.",
+    "safety": "Wyspy Świętego Tomasza i Książęca są generalnie bezpiecznym krajem, jednak zaleca się zachowanie ostrożności, zwłaszcza po zmroku w stolicy. Występuje ryzyko malarii, dlatego zalecana jest profilaktyka antymalaryczna i ochrona przed komarami. Wskazane jest szczepienie przeciw żółtej febrze. Przed wyjazdem warto skonsultować się z lekarzem medycyny podróży.",
+    "timeDiff": "Zimą -1 godzina, latem -2 godziny względem czasu w Polsce (UTC+0)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

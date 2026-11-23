@@ -1,0 +1,209 @@
+{
+  "slug": "turkmenistan",
+  "loc": "w Turkmenistanie",
+  "to": "do Turkmenistanu",
+  "teaser": "Turkmenistan to jeden z najbardziej tajemniczych krajów Azji Centralnej, oferujący unikalne połączenie postsowieckiej architektury i pustynnych krajobrazów.",
+  "intro": [
+    "Turkmenistan to kraj, który przyciąga podróżników szukających prawdziwie nietypowych doświadczeń. Znany z ekstrawaganckiej stolicy Aszchabadu, białych marmurowych budynków i złotych pomników, a także z płonącego krateru gazowego Darvaza, zwanego „Wrotami Piekieł”. To miejsce, gdzie tradycja koczownicza miesza się z postsowieckim splendorem, a surowa kontrola państwowa tworzy unikalną, wręcz surrealistyczną atmosferę. Mimo swojej izolacji, Turkmenistan oferuje bogactwo historii, kultury i niezwykłych cudów natury, które czekają na odkrycie.",
+    "Ten kraj jest idealny dla doświadczonych podróżników, poszukiwaczy przygód i miłośników historii, którzy nie boją się wyzwań i cenią sobie autentyczne, niekomercyjne doświadczenia. Turkmenistan nie jest miejscem na typowe wakacje all-inclusive, ale raczej na głęboką eksplorację i poznawanie odmiennej kultury. Wymaga elastyczności, cierpliwości i otwartości na lokalne zasady. To destynacja dla tych, którzy chcą zobaczyć świat z innej perspektywy i zanurzyć się w niezwykłej rzeczywistości.",
+    "Podróż z Polski do Turkmenistanu zazwyczaj wiąże się z przesiadkami, najczęściej w Stambule lub Dubaju. Planowanie wyjazdu wymaga wcześniejszego uzyskania wizy, co jest procesem złożonym i wymaga zaproszenia. Ze względu na restrykcyjne przepisy wjazdowe i ograniczoną infrastrukturę turystyczną, większość podróżnych decyduje się na wyjazdy zorganizowane przez lokalne biura. Pozwala to na sprawniejsze poruszanie się po kraju i dostęp do miejsc, które indywidualnie byłyby trudne do odwiedzenia."
+  ],
+  "highlights": [
+    "Płonący krater gazowy Darvaza",
+    "Białe marmurowe miasto Aszchabad",
+    "Starożytne ruiny Jedwabnego Szlaku",
+    "Pustynne krajobrazy Karakum",
+    "Tradycyjna kultura turkmeńska",
+    "Nietypowa postsowiecka architektura"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "aszchabad",
+      "name": "Aszchabad",
+      "loc": "w Aszchabadzie",
+      "intro": [
+        "Aszchabad to stolica Turkmenistanu, znana z ekstrawaganckiej, białej marmurowej architektury i licznych złotych posągów. Miasto sprawia wrażenie niemal opuszczonego, z szerokimi alejami i monumentalnymi budowlami, które rzadko tętnią życiem. To unikalny przykład urbanistyki, gdzie przepych łączy się z surową kontrolą państwową, tworząc surrealistyczną atmosferę. Spacerując po Aszchabadzie, można podziwiać imponujące fontanny, parki i pomniki, które świadczą o ambicjach byłego prezydenta.",
+        "Warto zobaczyć Pomnik Neutralności, Pałac Oguzhan oraz Meczet Turkmenbaszy Ruhy. Należy pamiętać o ograniczeniach dotyczących fotografowania niektórych obiektów rządowych. Aszchabad to miasto kontrastów, gdzie nowoczesność miesza się z tradycją, a przepych z pustką, oferując niezapomniane wrażenia każdemu, kto zdecyduje się je odwiedzić."
+      ],
+      "airport": "Ashgabat International Airport (ASB)",
+      "forWhom": "Dla podróżników ciekawych nietypowej architektury i postsowieckiego splendoru.",
+      "gygQuery": "Ashgabat",
+      "highlights": [
+        "Białe marmurowe budynki",
+        "Pomnik Neutralności",
+        "Meczet Turkmenbaszy Ruhy",
+        "Muzea i galerie"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "pustynia-karakum-i-darvaza",
+      "name": "Pustynia Karakum i Darvaza",
+      "loc": "na Pustyni Karakum",
+      "intro": [
+        "Pustynia Karakum pokrywa znaczną część Turkmenistanu, oferując surowe, ale fascynujące krajobrazy. Jej sercem jest słynny Krater Gazowy Darvaza, znany jako \"Wrota Piekieł\". To płonący krater, który powstał w wyniku błędu podczas radzieckich wierceń gazowych w latach 70. XX wieku. Od tego czasu nieprzerwanie płonie, tworząc spektakularny widok, szczególnie po zmroku. Dojazd do krateru wymaga wyprawy terenowej i często jest organizowany w ramach zorganizowanych wycieczek.",
+        "Nocleg pod gwiazdami w pobliżu Darvazy to niezapomniane doświadczenie. Pustynia Karakum to także dom dla koczowniczych plemion i rzadkich gatunków zwierząt, choć ich obserwacja wymaga cierpliwości i głębszej eksploracji. To miejsce, gdzie można poczuć prawdziwą dzikość i odosobnienie, z dala od cywilizacji i zgiełku."
+      ],
+      "airport": "Ashgabat International Airport (ASB)",
+      "forWhom": "Idealne dla poszukiwaczy przygód i unikalnych krajobrazów.",
+      "gygQuery": "Darvaza Gas Crater",
+      "highlights": [
+        "Płonący Krater Darvaza",
+        "Noc pod gwiazdami na pustyni",
+        "Krajobrazy Pustyni Karakum",
+        "Tradycyjne jurty"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "koneurgench",
+      "name": "Koneurgench",
+      "loc": "w Koneurgench",
+      "intro": [
+        "Koneurgench, wpisane na listę światowego dziedzictwa UNESCO, to starożytne miasto leżące na północy Turkmenistanu. Było ono ważnym przystankiem na Jedwabnym Szlaku i stolicą Chorezmu, potężnego imperium w średniowieczu. Dziś można tu podziwiać ruiny meczetów, minaretów, mauzoleów i karawanserajów, które świadczą o dawnej świetności. Najbardziej imponującym zabytkiem jest Minaret Kutlug-Timur, jeden z najwyższych w Azji Środkowej.",
+        "Zwiedzanie Koneurgench to podróż w czasie, pozwalająca poczuć atmosferę dawnych imperiów i handlowych szlaków. Choć wiele budowli jest w ruinie, ich skala i detale wciąż robią wrażenie. To miejsce oferuje unikalną perspektywę na historię regionu i jest obowiązkowym punktem dla każdego, kto interesuje się archeologią i kulturą Azji Centralnej."
+      ],
+      "airport": "Dashoguz Airport (TAZ)",
+      "forWhom": "Dla miłośników historii i architektury jedwabnego szlaku.",
+      "gygQuery": "Konye-Urgench",
+      "highlights": [
+        "Minaret Kutlug-Timur",
+        "Mauzoleum Turabek Khanum",
+        "Brama Ak Saray",
+        "Ruiny starożytnego miasta"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "merv",
+      "name": "Merv",
+      "loc": "w Merv",
+      "intro": [
+        "Starożytne Merv, również wpisane na listę UNESCO, to jeden z najstarszych i najlepiej zachowanych kompleksów miejskich na Jedwabnym Szlaku. Położone w oazie w południowo-wschodnim Turkmenistanie, było przez wieki ważnym centrum politycznym, religijnym i handlowym. Dziś to rozległy obszar ruin, który obejmuje pozostałości kilku miast, zbudowanych jedno na drugim. Można tu zobaczyć mauzolea, mury obronne, cytadele i pozostałości systemów irygacyjnych.",
+        "Zwiedzanie Merv to wędrówka po pustynnym krajobrazie, gdzie każdy pagórek kryje historię. Najbardziej imponującym zabytkiem jest Mauzoleum Sułtana Sandżara, przykład wspaniałej architektury seldżuckiej. Merv to świadectwo potęgi i upadku wielkich cywilizacji, oferujące głębokie refleksje nad przemijaniem i trwałością ludzkich dokonań."
+      ],
+      "airport": "Mary International Airport (MYP)",
+      "forWhom": "Dla pasjonatów archeologii i historii Jedwabnego Szlaku.",
+      "gygQuery": "Ancient Merv",
+      "highlights": [
+        "Mauzoleum Sułtana Sandżara",
+        "Ruiny Erka-Kala i Gyaur-Kala",
+        "Maiden's Castle (Kyz-Kala)",
+        "Oaza na Jedwabnym Szlaku"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Krater Gazowy Darvaza",
+      "text": "Płonący krater na Pustyni Karakum, znany jako „Wrota Piekieł”, powstały w wyniku radzieckich wierceń gazowych. Najlepiej oglądać go po zmroku, gdy ogień rozświetla pustynię.",
+      "gygQuery": "Darvaza Gas Crater"
+    },
+    {
+      "name": "Aszchabad - Białe Miasto",
+      "text": "Stolica Turkmenistanu, słynąca z ekstrawaganckiej, białej marmurowej architektury, złotych posągów i monumentalnych budowli. To miasto kontrastów, gdzie przepych łączy się z pustką.",
+      "gygQuery": "Ashgabat city tour"
+    },
+    {
+      "name": "Koneurgench",
+      "text": "Starożytne miasto na Jedwabnym Szlaku, wpisane na listę UNESCO, z imponującymi ruinami meczetów, minaretów i mauzoleów, w tym Minaretem Kutlug-Timur.",
+      "gygQuery": "Konye-Urgench historical site"
+    },
+    {
+      "name": "Merv",
+      "text": "Jeden z najstarszych i najlepiej zachowanych kompleksów miejskich na Jedwabnym Szlaku, również wpisany na listę UNESCO. Obejmuje ruiny kilku miast i Mauzoleum Sułtana Sandżara.",
+      "gygQuery": "Ancient Merv tour"
+    },
+    {
+      "name": "Kanion Yangykala",
+      "text": "Spektakularny kanion w zachodnim Turkmenistanie, znany z kolorowych warstw skalnych i niezwykłych formacji. Oferuje zapierające dech w piersiach widoki, szczególnie o wschodzie i zachodzie słońca.",
+      "gygQuery": "Yangykala Canyon"
+    },
+    {
+      "name": "Nisa",
+      "text": "Starożytne miasto Partów, wpisane na listę UNESCO, położone niedaleko Aszchabadu. Ruiny twierdzy i królewskich rezydencji świadczą o potędze dawnego imperium.",
+      "gygQuery": "Nisa fortress Turkmenistan"
+    },
+    {
+      "name": "Tolkuchka Bazaar",
+      "text": "Tradycyjny, tętniący życiem bazar na obrzeżach Aszchabadu, gdzie można kupić wszystko, od dywanów i biżuterii po zwierzęta. To świetne miejsce do obserwacji lokalnego życia.",
+      "gygQuery": "Tolkuchka Bazaar Ashgabat"
+    },
+    {
+      "name": "Pomnik Neutralności",
+      "text": "Charakterystyczny pomnik w Aszchabadzie, zwieńczony obracającym się złotym posągiem byłego prezydenta Niyazowa. Symbolizuje neutralność polityczną Turkmenistanu.",
+      "gygQuery": "Neutrality Arch Ashgabat"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Turkmenistan jest bezpiecznym krajem dla turystów?",
+      "a": "Turkmenistan jest generalnie bezpieczny pod względem przestępczości, ale jest to kraj autorytarny z surowymi zasadami. Należy unikać krytykowania władz i być świadomym ograniczeń dotyczących fotografowania. Zaleca się podróżowanie z przewodnikiem."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Turkmenistanu?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać do Turkmenistanu. Proces wizowy jest skomplikowany i zazwyczaj wymaga uzyskania zaproszenia od lokalnego biura podróży lub osoby prywatnej. Zawsze należy sprawdzić aktualne wymogi wizowe przed wyjazdem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Turkmenistanie i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest manat turkmeński (TMT). Płatności kartą są bardzo ograniczone, głównie w większych hotelach w Aszchabadzie. Poza stolicą dominują płatności gotówkowe, dlatego zawsze warto mieć przy sobie wystarczającą ilość lokalnej waluty."
+    },
+    {
+      "q": "Jakie są główne atrakcje Turkmenistanu?",
+      "a": "Główne atrakcje to płonący krater gazowy Darvaza, białe marmurowe miasto Aszchabad, starożytne ruiny Jedwabnego Szlaku w Koneurgench i Merv, a także kanion Yangykala. Kraj oferuje unikalne połączenie postsowieckiej historii i pustynnych krajobrazów."
+    },
+    {
+      "q": "Jaka jest różnica czasu między Polską a Turkmenistanem?",
+      "a": "Różnica czasu między Polską (czas środkowoeuropejski) a Turkmenistanem wynosi +4 godziny. Gdy w Polsce jest 12:00, w Turkmenistanie jest 16:00."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Turkmenistanu to wiosna (kwiecień-maj) i jesień (wrzesień-październik). W tych miesiącach temperatury są umiarkowane i sprzyjają zwiedzaniu zarówno miast, jak i pustynnych krajobrazów. Lato (czerwiec-sierpień) bywa ekstremalnie gorące, z temperaturami przekraczającymi 40°C, co może utrudniać podróżowanie. Zima (grudzień-luty) jest chłodna, a nawet mroźna, szczególnie na pustyni, choć opady śniegu są rzadkie.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      11
+    ]
+  },
+  "capital": "Aszchabad",
+  "climate": {
+    "air": [
+      8,
+      11,
+      17,
+      24,
+      31,
+      36,
+      38,
+      36,
+      31,
+      23,
+      15,
+      9
+    ],
+    "note": "dla Aszchabadu",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia turkmeńska, podobnie jak w innych krajach Azji Centralnej, jest sycąca i opiera się głównie na mięsie (baraninie, wołowinie), ryżu i pieczywie. Popularne dania to plov (pilaw), szaszłyki (kebab), manty (pierogi na parze) i laghman (makaron z mięsem i warzywami). Chleb, zwany chorek, jest pieczony w tradycyjnych piecach tandoor i stanowi podstawę każdego posiłku. Warto spróbować lokalnych produktów mlecznych, takich jak chal (fermentowane mleko wielbłądzie) oraz świeżych owoców i warzyw, zwłaszcza melonów, z których Turkmenistan słynie."
+  ],
+  "gygQuery": "Turkmenistan",
+  "practical": {
+    "documents": "Wiza jest obowiązkowa dla obywateli Polski. Proces jest złożony i wymaga zaproszenia. Przed wyjazdem należy sprawdzić aktualne wymogi wizowe w ambasadzie Turkmenistanu lub na stronie MSZ.",
+    "flight": "Około 10-12 godzin z przesiadką, najczęściej w Stambule lub Dubaju.",
+    "language": "Oficjalnym językiem jest turkmeński, ale rosyjski jest szeroko używany, zwłaszcza w miastach. Znajomość podstaw rosyjskiego ułatwia komunikację.",
+    "money": "Walutą jest manat turkmeński (TMT). Płatności kartą są rzadkością poza luksusowymi hotelami w Aszchabadzie. Należy mieć przy sobie gotówkę, najlepiej dolary amerykańskie lub euro do wymiany.",
+    "plugs": "Używane są gniazdka typu C i F, czyli standardowe europejskie (dwa okrągłe bolce). Nie są potrzebne adaptery.",
+    "safety": "Turkmenistan jest krajem o niskiej przestępczości, ale jest to państwo autorytarne. Należy zachować ostrożność, unikać rozmów politycznych i fotografowania obiektów rządowych lub wojskowych. Zaleca się podróżowanie z lokalnym przewodnikiem. Opieka medyczna jest na niskim poziomie, wskazane jest posiadanie kompleksowego ubezpieczenia podróżnego."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

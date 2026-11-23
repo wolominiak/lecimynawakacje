@@ -1,0 +1,196 @@
+{
+  "slug": "wenezuela",
+  "loc": "w Wenezueli",
+  "to": "do Wenezueli",
+  "teaser": "Wenezuela to kraj spektakularnych krajobrazów, od najwyższego wodospadu świata po karaibskie plaże. Podróż wymaga jednak starannego przygotowania i świadomości lokalnych wyzwań.",
+  "intro": [
+    "Wenezuela to kraj niezwykłych kontrastów i oszałamiającej przyrody, który potrafi zachwycić nawet najbardziej doświadczonych podróżników. Słynie z Salto Angel, najwyższego wodospadu świata, majestatycznych gór stołowych tepui oraz dziewiczych plaż Morza Karaibskiego. To także dom dla bogatej fauny i flory, od delty Orinoko po górskie lasy Andów. Mimo swoich naturalnych skarbów, Wenezuela jest obecnie rzadko odwiedzana przez turystów, co czyni ją kierunkiem dla poszukiwaczy prawdziwych przygód.",
+    "Kraj ten jest przeznaczony dla osób z dużym doświadczeniem w podróżowaniu, które są gotowe na wyzwania i potrafią elastycznie reagować na zmieniające się warunki. Nie jest to cel dla typowych wczasowiczów szukających zorganizowanych pakietów biur podróży. Wenezuela oferuje autentyczne, często surowe doświadczenia, które nagradzają odwagę i otwartość na lokalną kulturę. Należy pamiętać o konieczności zachowania szczególnej ostrożności.",
+    "Podróż z Polski do Wenezueli jest długa i wymaga co najmniej dwóch przesiadek, najczęściej w europejskich hubach, a następnie w Ameryce Północnej lub Południowej. Całkowity czas lotu, wraz z oczekiwaniem na połączenia, może wynieść od 15 do nawet 20 godzin. Bezpośrednie loty z Polski nie istnieją, a połączenia są często drogie i wymagają wcześniejszej rezerwacji. Przygotuj się na długą podróż i zaplanuj logistykę z wyprzedzeniem."
+  ],
+  "highlights": [
+    "Salto Angel - najwyższy wodospad świata",
+    "Tepui - tajemnicze góry stołowe",
+    "Archipelag Los Roques - rajskie wyspy",
+    "Delta Orinoko - dzika przyroda",
+    "Park Narodowy Canaima - unikalne krajobrazy",
+    "Karaibskie plaże Isla Margarita"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "park-narodowy-canaima",
+      "name": "Park Narodowy Canaima",
+      "loc": "w Parku Narodowym Canaima",
+      "intro": [
+        "Park Narodowy Canaima to jeden z największych parków narodowych na świecie, wpisany na listę UNESCO. Jest domem dla słynnych tepui, czyli płaskich gór stołowych, z których spływa Salto Angel, najwyższy wodospad na Ziemi. Krajobraz parku to mieszanka sawann, rzek, wodospadów i gęstych lasów deszczowych, oferująca niezapomniane widoki. Dotarcie do Salto Angel wymaga lotu do Canaimy, a następnie kilkudniowej wyprawy łodzią i pieszo, co jest sporym wyzwaniem, ale nagradza spektakularnymi widokami.",
+        "Park jest zamieszkany przez rdzennych Indian Pemon, którzy są kluczowi dla organizacji lokalnej turystyki. Oferują oni noclegi w prostych obozach i prowadzą wycieczki. Infrastruktura turystyczna jest podstawowa, a podróżowanie po parku wymaga dobrej kondycji fizycznej i gotowości na spartańskie warunki. To miejsce, gdzie można naprawdę odciąć się od cywilizacji i zanurzyć w pierwotnej naturze."
+      ],
+      "airport": "Canaima (CAJ)",
+      "forWhom": "Dla poszukiwaczy przygód i miłośników dzikiej, dziewiczej przyrody.",
+      "gygQuery": "Canaima National Park",
+      "highlights": [
+        "Salto Angel - najwyższy wodospad",
+        "Tepui - góry stołowe",
+        "Laguna Canaima - relaks i widoki",
+        "Kultura Indian Pemon"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "archipelag-los-roques",
+      "name": "Archipelag Los Roques",
+      "loc": "na Archipelagu Los Roques",
+      "intro": [
+        "Archipelag Los Roques to prawdziwa perła Karaibów, składająca się z około 350 wysp i wysepek, chronionych jako park narodowy. Słynie z krystalicznie czystej wody, białych piaszczystych plaż i bogatego podwodnego świata, idealnego do nurkowania i snorkelingu. Główna wyspa, Gran Roque, jest jedyną zamieszkałą i stanowi bazę wypadową do eksploracji pozostałych wysp. Dostęp do archipelagu jest możliwy małymi samolotami z Caracas.",
+        "W przeciwieństwie do kontynentalnej Wenezueli, Los Roques uchodzi za stosunkowo bezpieczne i spokojne miejsce. Oferuje butikowe posady (małe pensjonaty) i świeże owoce morza. To idealne miejsce na ucieczkę od zgiełku, gdzie czas płynie wolniej, a głównymi atrakcjami są słońce, morze i wiatr. Jest to jeden z najdroższych regionów Wenezueli, ale oferuje niezapomniane wrażenia."
+      ],
+      "airport": "Gran Roque (LRV)",
+      "forWhom": "Idealne miejsce dla miłośników sportów wodnych, nurkowania i relaksu na rajskich plażach.",
+      "gygQuery": "Los Roques",
+      "highlights": [
+        "Nurkowanie i snorkeling",
+        "Dziewicze plaże",
+        "Kitesurfing i windsurfing",
+        "Relaks w butikowych posadach"
+      ],
+      "type": "archipelag"
+    },
+    {
+      "slug": "isla-de-margarita",
+      "name": "Isla de Margarita",
+      "loc": "na Isla de Margarita",
+      "intro": [
+        "Isla de Margarita to największa wyspa Wenezueli, popularna wśród lokalnych turystów i niegdyś cel wycieczek międzynarodowych. Oferuje piękne plaże, takie jak Playa El Agua czy Playa Parguito, idealne do opalania i uprawiania sportów wodnych. Wyspa jest strefą wolnocłową, co przyciąga miłośników zakupów. Znajdują się tu również liczne restauracje, bary i hotele, oferujące bardziej rozwiniętą infrastrukturę niż inne regiony kraju.",
+        "Mimo że wyspa jest bardziej turystyczna, nadal należy zachować ostrożność, zwłaszcza poza głównymi kurortami i po zmroku. Isla de Margarita to dobre miejsce na połączenie relaksu na plaży z aktywnościami takimi jak kitesurfing czy windsurfing. Można tu również odkrywać urokliwe miasteczka, takie jak Pampatar, z jego historycznym fortem i kolonialną architekturą."
+      ],
+      "airport": "Porlamar (PMV)",
+      "forWhom": "Dla osób szukających karaibskich plaż, zakupów bezcłowych i nieco bardziej rozwiniętej infrastruktury.",
+      "gygQuery": "Margarita Island",
+      "highlights": [
+        "Plaża El Agua",
+        "Zakupy bezcłowe",
+        "Sporty wodne",
+        "Fort w Pampatar"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Salto Angel",
+      "text": "Najwyższy wodospad świata, spadający z wysokości prawie kilometra z góry Auyán-Tepui. Dotarcie do niego wymaga wyprawy przez dżunglę i jest niezapomnianym doświadczeniem.",
+      "gygQuery": "Angel Falls"
+    },
+    {
+      "name": "Tepui Roraima",
+      "text": "Jedna z najbardziej znanych gór stołowych, inspiracja dla 'Zaginionego Świata' Arthura Conan Doyle'a. Trekking na jej szczyt to wielodniowa, wymagająca wyprawa.",
+      "gygQuery": "Mount Roraima"
+    },
+    {
+      "name": "Archipelag Los Roques",
+      "text": "Rajski archipelag koralowych wysp na Morzu Karaibskim, słynący z turkusowej wody, białych plaż i doskonałych warunków do nurkowania.",
+      "gygQuery": "Los Roques Archipelago"
+    },
+    {
+      "name": "Delta Orinoko",
+      "text": "Ogromna delta rzeki Orinoko, dom dla bogatej fauny i flory, zamieszkana przez rdzennych Indian Warao. Można tu podziwiać kajmany, małpy i egzotyczne ptaki.",
+      "gygQuery": "Orinoco Delta"
+    },
+    {
+      "name": "Park Narodowy Mochima",
+      "text": "Park obejmujący zarówno tereny lądowe, jak i morskie, z pięknymi zatokami, plażami i wyspami. Idealny do pływania, nurkowania i rejsów łodzią.",
+      "gygQuery": "Mochima National Park"
+    },
+    {
+      "name": "Teleférico de Mérida",
+      "text": "Najdłuższa i najwyższa kolej linowa na świecie, prowadząca na szczyt Pico Espejo w Andach. Oferuje zapierające dech w piersiach widoki na góry.",
+      "gygQuery": "Merida Cable Car"
+    },
+    {
+      "name": "Isla de Margarita",
+      "text": "Największa wyspa Wenezueli, znana z pięknych plaż, strefy wolnocłowej i możliwości uprawiania sportów wodnych. Popularna wśród lokalnych turystów.",
+      "gygQuery": "Margarita Island"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Wenezuela jest bezpieczna dla turystów?",
+      "a": "Wenezuela jest krajem o wysokiej przestępczości. Zaleca się zachowanie szczególnej ostrożności, unikanie niebezpiecznych dzielnic, podróżowanie z zaufanymi przewodnikami i unikanie pokazywania wartościowych przedmiotów. Zawsze sprawdzaj aktualne ostrzeżenia MSZ."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Wenezueli i jak płacić?",
+      "a": "Oficjalną walutą jest boliwar, ale ze względu na hiperinflację, w praktyce najlepiej posługiwać się dolarami amerykańskimi (USD) w gotówce. Płatności kartą są rzadkością, a bankomaty często nie działają. Miej przy sobie drobne nominały USD."
+    },
+    {
+      "q": "Jak dotrzeć do Salto Angel?",
+      "a": "Do Salto Angel można dotrzeć, lecąc małym samolotem do Parku Narodowego Canaima, a następnie organizując kilkudniową wyprawę łodzią i pieszo z lokalnymi przewodnikami. Jest to wymagająca, ale niezwykle satysfakcjonująca podróż."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Wenezueli?",
+      "a": "Na pobyty turystyczne do 90 dni obywatele Polski nie potrzebują wizy. Wymagany jest ważny paszport. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych w ambasadzie Wenezueli przed wyjazdem."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Wenezueli to pora sucha, która trwa od grudnia do kwietnia. W tym okresie panują stabilne, słoneczne warunki pogodowe, co ułatwia eksplorację parków narodowych i korzystanie z plaż. Pora deszczowa, od maja do listopada, charakteryzuje się wyższą wilgotnością i częstszymi opadami, choć deszcze często są krótkie i intensywne. Dla wodospadu Salto Angel, pora deszczowa może oznaczać więcej wody, ale też trudniejszy dostęp.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "capital": "Caracas",
+  "climate": {
+    "air": [
+      26,
+      27,
+      28,
+      28,
+      28,
+      27,
+      27,
+      27,
+      28,
+      28,
+      27,
+      26
+    ],
+    "note": "dla Caracas (temperatura powietrza) i wybrzeża Morza Karaibskiego (temperatura wody)",
+    "sea": [
+      26,
+      26,
+      26,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia wenezuelska jest smaczna i różnorodna, z silnymi wpływami rdzennych tradycji, hiszpańskich i afrykańskich. Podstawą wielu dań są kukurydza, ryż, fasola i plantany. Narodowym daniem jest Pabellón Criollo, składające się z szarpanego mięsa, czarnej fasoli, ryżu i smażonych plantanów. Arepas to popularne placki kukurydziane, często nadziewane serem, mięsem lub innymi składnikami. Warto spróbować również cachapas, czyli słodkich placków kukurydzianych z serem, oraz świeżych owoców morza, zwłaszcza na wybrzeżu i wyspach. Nie brakuje też egzotycznych owoców i świeżo wyciskanych soków."
+  ],
+  "gygQuery": "Venezuela",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują ważnego paszportu, ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu. Na pobyty turystyczne do 90 dni wiza nie jest wymagana. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie Wenezueli lub na stronach MSZ.",
+    "flight": "około 15-20 h z przesiadkami",
+    "language": "Oficjalnym językiem jest hiszpański. Znajomość angielskiego jest bardzo ograniczona poza dużymi hotelami i niektórymi biurami podróży. Podstawowe zwroty po hiszpańsku będą bardzo pomocne.",
+    "money": "Oficjalną walutą jest boliwar (VES), ale ze względu na hiperinflację, w praktyce powszechnie używane są dolary amerykańskie (USD), często w gotówce. Płatności kartą są rzadkością, a bankomaty mogą być puste lub nie działać. Należy zabrać ze sobą wystarczającą ilość gotówki w USD, najlepiej w drobnych nominałach.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Napięcie 120 V, częstotliwość 60 Hz. Konieczny adapter.",
+    "safety": "Wenezuela jest krajem o wysokim poziomie przestępczości, w tym porwań i rozbojów, szczególnie w dużych miastach jak Caracas. Zaleca się unikanie samotnego podróżowania, zwłaszcza po zmroku, oraz korzystanie z usług sprawdzonych, lokalnych przewodników i transportu. Przed wyjazdem zapoznaj się z aktualnymi ostrzeżeniami MSZ.",
+    "timeDiff": "minus 5-6 godzin (UTC-4)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

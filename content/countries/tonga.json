@@ -1,0 +1,194 @@
+{
+  "slug": "tonga",
+  "loc": "na Tonga",
+  "to": "na Tonga",
+  "teaser": "Tonga to królestwo na Pacyfiku, oferujące dziewicze plaże, nurkowanie z humbakami i autentyczną kulturę Polinezji.",
+  "intro": [
+    "Tonga, jedyne królestwo Polinezji, przyciąga podróżników szukających autentycznych doświadczeń i nieskażonej natury. To miejsce, gdzie tradycja jest żywa, a masowa turystyka jeszcze nie dotarła, co pozwala na prawdziwe zanurzenie się w lokalnym życiu. Archipelag oferuje spektakularne krajobrazy, od wulkanicznych wysp po koralowe atole, a także bogate życie morskie, w tym słynne humbaki, które co roku odwiedzają te wody.",
+    "Kraj ten jest idealny dla osób ceniących spokój, nurkowanie, żeglarstwo i bliski kontakt z naturą. Nie znajdziesz tu luksusowych kurortów ani tłumów turystów, co sprawia, że Tonga jest doskonałym wyborem dla poszukiwaczy przygód i tych, którzy pragną uciec od zgiełku cywilizacji. To kierunek dla podróżników otwartych na nowe kultury i gotowych na logistyczne wyzwania.",
+    "Podróż z Polski na Tonga to długa wyprawa, wymagająca co najmniej dwóch, a często trzech przesiadek, najczęściej przez Azję lub Amerykę Północną, a następnie przez większe huby Pacyfiku, takie jak Fidżi czy Nowa Zelandia. Cała podróż może zająć od 30 do 40 godzin, co czyni Tonga destynacją dla wytrwałych. Warto jednak poświęcić czas na dotarcie, by odkryć ten unikalny zakątek świata."
+  ],
+  "highlights": [
+    "Pływanie z humbakami (lipiec-październik)",
+    "Dziewicze plaże i krystaliczne wody",
+    "Autentyczna kultura Polinezji",
+    "Nurkowanie i snorkeling na rafach",
+    "Wulkaniczne krajobrazy i jaskinie",
+    "Relaks z dala od masowej turystyki"
+  ],
+  "popularity": 8,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "tongatapu",
+      "name": "Tongatapu",
+      "loc": "na Tongatapu",
+      "intro": [
+        "Tongatapu to największa wyspa Tonga i siedziba stolicy Nuku'alofa. Jest to centrum administracyjne i kulturalne królestwa, oferujące zarówno historyczne zabytki, jak i piękne wybrzeża. Znajdziesz tu królewskie pałace, starożytne grobowce oraz słynne blowholes, czyli naturalne gejzery morskie, gdzie fale rozbijają się o klify, wyrzucając wodę wysoko w powietrze.",
+        "W Nuku'alofa warto odwiedzić lokalny targ Talamahu, gdzie można kupić świeże owoce, warzywa i rękodzieło. Wyspa jest dobrym punktem startowym do dalszych podróży po archipelagu, a także oferuje dostęp do pięknych plaż i jaskiń, takich jak Jaskinia Anahulu z naturalnym basenem ze słodką wodą."
+      ],
+      "airport": "Fua'amotu (TBU)",
+      "forWhom": "Dla tych, którzy chcą poznać kulturę Tonga i zobaczyć historyczne miejsca.",
+      "gygQuery": "Tongatapu",
+      "highlights": [
+        "Pałac Królewski w Nuku'alofa",
+        "Grobowce Langi",
+        "Blowholes Mapu'a 'a Vaea",
+        "Jaskinie Anahulu"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "vavau",
+      "name": "Vava'u",
+      "loc": "na Vava'u",
+      "intro": [
+        "Archipelag Vava'u to prawdziwa perła Tonga, słynąca z krystalicznie czystych wód, malowniczych zatoczek i bujnej roślinności. Jest to jedno z najlepszych miejsc na świecie do pływania z humbakami, które przybywają tu na rozród od lipca do października. Vava'u to także raj dla żeglarzy, oferujący liczne kotwicowiska i dziewicze wyspy, często dostępne tylko łodzią.",
+        "Główne miasto, Neiafu, jest uroczym portem z restauracjami i bazami nurkowymi. Oprócz humbaków, można tu podziwiać rafy koralowe, eksplorować podwodne jaskinie, takie jak Swallows Cave, i relaksować się na odosobnionych plażach. To idealne miejsce dla aktywnych podróżników i miłośników morza."
+      ],
+      "airport": "Lupepau'u (VAV)",
+      "forWhom": "Idealne dla miłośników nurkowania, żeglarstwa i obserwacji humbaków.",
+      "gygQuery": "Vava'u",
+      "highlights": [
+        "Pływanie z humbakami",
+        "Żeglarstwo po archipelagu",
+        "Nurkowanie i snorkeling",
+        "Jaskinia Swallows Cave"
+      ],
+      "type": "archipelag"
+    },
+    {
+      "slug": "haapai",
+      "name": "Ha'apai",
+      "loc": "na Ha'apai",
+      "intro": [
+        "Ha'apai to najbardziej dziewiczy i spokojny archipelag Tonga, idealny dla tych, którzy pragną uciec od zgiełku i zanurzyć się w prawdziwym życiu Pacyfiku. Charakteryzuje się długimi, pustymi plażami, palmami kokosowymi i prostymi wioskami. To miejsce, gdzie czas płynie wolniej, a kontakt z naturą jest na wyciągnięcie ręki, oferując prawdziwe odosobnienie i relaks.",
+        "Archipelag oferuje doskonałe warunki do kajakarstwa, kitesurfingu i relaksu na plaży. Jest także domem dla aktywnych wulkanów, takich jak Tofua, oraz wielu niezamieszkanych wysepek, które można odkrywać. To idealne miejsce na wyciszenie i podziwianie gwiazd z dala od miejskich świateł, a także na poznanie lokalnej kultury w jej najbardziej autentycznej formie."
+      ],
+      "airport": "Salote Pilolevu (HPA)",
+      "forWhom": "Dla szukających spokoju, odosobnienia i autentycznych doświadczeń.",
+      "gygQuery": "Ha'apai",
+      "highlights": [
+        "Puste, dziewicze plaże",
+        "Kajakarstwo morskie",
+        "Kitesurfing",
+        "Wulkan Tofua"
+      ],
+      "type": "archipelag"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Mapu'a 'a Vaea Blowholes",
+      "text": "Naturalne gejzery morskie na południowym wybrzeżu Tongatapu, gdzie fale rozbijają się o klify, wyrzucając wodę wysoko w powietrze, tworząc spektakularny widok.",
+      "gygQuery": "Mapu'a 'a Vaea Blowholes"
+    },
+    {
+      "name": "Jaskinia Anahulu",
+      "text": "Jaskinia wapienna na Tongatapu z naturalnym basenem ze słodką wodą, idealnym do orzeźwiającej kąpieli połączonej z eksploracją podziemnych formacji.",
+      "gygQuery": "Anahulu Cave"
+    },
+    {
+      "name": "Pałac Królewski w Nuku'alofa",
+      "text": "Drewniany pałac z XIX wieku, oficjalna rezydencja monarchy Tonga, położony nad brzegiem morza w stolicy, będący symbolem królestwa.",
+      "gygQuery": "Royal Palace Nuku'alofa"
+    },
+    {
+      "name": "Grobowce Langi",
+      "text": "Starożytne, tarasowe grobowce królewskie w Lapaha na Tongatapu, świadectwo długiej historii monarchii Tonga i ważny zabytek archeologiczny.",
+      "gygQuery": "Langi Royal Tombs"
+    },
+    {
+      "name": "Jaskinia Swallows Cave",
+      "text": "Spektakularna jaskinia morska na Vava'u, dostępna łodzią, znana z krystalicznie czystej wody, idealnej do snorkelingu, i licznych ptaków.",
+      "gygQuery": "Swallows Cave Vava'u"
+    },
+    {
+      "name": "Targ Talamahu",
+      "text": "Główny targ w Nuku'alofa, oferujący świeże produkty, lokalne rękodzieło i możliwość obserwacji codziennego życia mieszkańców Tonga.",
+      "gygQuery": "Talamahu Market Nuku'alofa"
+    },
+    {
+      "name": "Ogród Botaniczny 'Ene'io",
+      "text": "Jedyny ogród botaniczny na Tonga, położony na Vava'u, prezentujący bogactwo flory Pacyfiku i lokalne rośliny lecznicze w pięknej scenerii.",
+      "gygQuery": "Ene'io Botanical Garden"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Tonga jest bezpieczne dla turystów?",
+      "a": "Tonga to generalnie bezpieczny kraj, jednak jak wszędzie, należy zachować podstawową ostrożność, zwłaszcza w miejscach publicznych. Główne zagrożenia to raczej klęski żywiołowe, takie jak cyklony w sezonie deszczowym, niż przestępczość."
+    },
+    {
+      "q": "Jak dostać się na Tonga z Polski?",
+      "a": "Podróż z Polski na Tonga wymaga kilku przesiadek, zazwyczaj przez Azję (np. Seul, Singapur) lub Amerykę Północną (np. Los Angeles) i dalej przez Fidżi lub Nową Zelandię. Cała podróż trwa około 30-40 godzin, co czyni ją długą i wymagającą wyprawą."
+    },
+    {
+      "q": "Co warto zobaczyć na Tonga?",
+      "a": "Warto odwiedzić stolicę Nuku'alofa na Tongatapu z Pałacem Królewskim i blowholes. Archipelag Vava'u to raj dla miłośników nurkowania i pływania z humbakami, a Ha'apai oferuje dziewicze plaże i spokój dla szukających odosobnienia."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Tonga?",
+      "a": "Najlepszy czas na podróż to sucha pora od maja do października, kiedy panują przyjemne temperatury i jest mniejsze ryzyko opadów. W lipcu-październiku można dodatkowo obserwować humbaki, co jest jedną z głównych atrakcji."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Tonga to sucha pora, która trwa od maja do października. W tym okresie panują najbardziej stabilne warunki pogodowe z mniejszą ilością opadów i przyjemnymi temperaturami. Szczególnie lipiec, sierpień i wrzesień są idealne do pływania z humbakami, które przypływają tu na rozród. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wyższą wilgotnością, częstszymi opadami i ryzykiem cyklonów, choć ceny mogą być wtedy niższe.",
+    "best": [
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      6,
+      10
+    ]
+  },
+  "capital": "Nuku'alofa",
+  "climate": {
+    "air": [
+      30,
+      30,
+      29,
+      28,
+      27,
+      26,
+      26,
+      26,
+      27,
+      28,
+      29,
+      29
+    ],
+    "note": "Nuku'alofa, Tongatapu",
+    "sea": [
+      28,
+      28,
+      28,
+      27,
+      27,
+      26,
+      26,
+      26,
+      26,
+      27,
+      27,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Tonga opiera się na świeżych produktach lokalnych, takich jak ryby, owoce morza, wieprzowina oraz warzywa korzeniowe - taro, ignamy i maniok. Często potrawy są gotowane w mleku kokosowym lub pieczone w tradycyjnym piecu ziemnym 'umu', co nadaje im wyjątkowy smak. Popularne są także 'ota ika' - surowa ryba marynowana w soku cytrynowym i mleku kokosowym, oraz 'lu pulu' - marynowana wołowina z liśćmi taro pieczona w 'umu'. Nie brakuje również świeżych owoców, takich jak papaja, mango czy banany."
+  ],
+  "gygQuery": "Tonga",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 30 dni. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych i paszportowych przed podróżą w ambasadzie lub na stronie MSZ.",
+    "flight": "Około 30-40 h z 2-3 przesiadkami, zazwyczaj przez Azję lub Amerykę Północną, a następnie przez Fidżi lub Nową Zelandię.",
+    "language": "Oficjalnymi językami są angielski i tongijski. Angielski jest szeroko używany w sektorze turystycznym i w większych miastach, więc komunikacja nie powinna stanowić problemu.",
+    "money": "Walutą jest pa'anga tongijska (TOP). Płatności kartą są możliwe w większych hotelach i sklepach w Nuku'alofa, ale gotówka jest preferowana, zwłaszcza poza stolicą. Warto mieć ze sobą drobne nominały.",
+    "plugs": "Typ I (australijski/nowozelandzki), 240V, 50Hz. Wymagany jest adapter do gniazdek elektrycznych, aby móc korzystać z polskich urządzeń.",
+    "safety": "Tonga jest generalnie bezpiecznym krajem o niskim wskaźniku przestępczości. Należy jednak uważać na drobne kradzieże, szczególnie w miejscach publicznych. Główne zagrożenia to klęski żywiołowe, takie jak cyklony i tsunami w sezonie deszczowym. Zaleca się podstawowe szczepienia i dbałość o higienę, zwłaszcza przy jedzeniu i piciu."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

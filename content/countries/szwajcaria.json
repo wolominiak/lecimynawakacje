@@ -1,0 +1,235 @@
+{
+  "slug": "szwajcaria",
+  "loc": "w Szwajcarii",
+  "to": "do Szwajcarii",
+  "teaser": "Szwajcaria to kraj alpejskich krajobrazów, precyzyjnych zegarków i wybornej czekolady. Idealna na aktywny wypoczynek i podziwianie natury.",
+  "intro": [
+    "Szwajcaria to kraj, który od razu kojarzy się z majestatycznymi Alpami, krystalicznie czystymi jeziorami i zielonymi dolinami. To miejsce, gdzie natura spotyka się z precyzją i wysoką jakością życia. Od tętniących życiem miast, takich jak Zurych czy Genewa, po urokliwe górskie wioski, Szwajcaria oferuje różnorodne doświadczenia. Jest to idealny kierunek dla tych, którzy cenią sobie aktywny wypoczynek, ale także dla poszukiwaczy spokoju i pięknych widoków.",
+    "Kraj ten przyciąga miłośników górskich wędrówek, narciarzy i snowboardzistów, oferując doskonale przygotowane szlaki i stoki. Równie dobrze odnajdą się tu osoby zainteresowane kulturą, historią i architekturą, zwiedzając średniowieczne starówki i nowoczesne muzea. Szwajcaria to także raj dla smakoszy, którzy docenią lokalne sery, czekoladę i wina. Wysoki poziom bezpieczeństwa i doskonała infrastruktura sprawiają, że podróżowanie po tym kraju jest komfortowe i przyjemne dla każdego.",
+    "Podróż do Szwajcarii z Polski jest prosta i szybka. Bezpośrednie loty z głównych polskich miast do Zurychu czy Genewy trwają około półtorej godziny. Dla podróżujących samochodem, trasa prowadzi przez Niemcy lub Austrię, oferując malownicze widoki po drodze. Szwajcaria, choć nie jest krajem tanim, oferuje niezapomniane wrażenia, które rekompensują wyższe koszty. Warto rozważyć zakup Swiss Travel Pass, aby swobodnie korzystać z rozbudowanej sieci transportu publicznego."
+  ],
+  "highlights": [
+    "Alpejskie szczyty i malownicze doliny",
+    "Krystalicznie czyste jeziora i urokliwe miasta",
+    "Wyśmienita szwajcarska czekolada i sery",
+    "Precyzyjne zegarki i światowa bankowość",
+    "Doskonała infrastruktura kolejowa i transportowa",
+    "Idealne warunki do sportów zimowych i letnich wędrówek"
+  ],
+  "popularity": 45,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "zurych",
+      "name": "Zurych",
+      "loc": "w Zurychu",
+      "intro": [
+        "Zurych, największe miasto Szwajcarii, to dynamiczne centrum finansowe i kulturalne, położone nad malowniczym jeziorem Zurychskim. Oferuje połączenie historycznej architektury z nowoczesnym designem, liczne muzea, galerie sztuki i ekskluzywne butiki. Spacer po starówce, rejs po jeziorze czy wizyta w operze to tylko niektóre z możliwości spędzenia czasu w tym eleganckim mieście.",
+        "Zurych słynie również z wysokiej jakości życia i doskonałej infrastruktury. Znajdziesz tu światowej klasy restauracje, kawiarnie i tętniące życiem nocne kluby. Miasto jest także świetną bazą wypadową do zwiedzania okolicznych gór i jezior, dzięki doskonałym połączeniom kolejowym."
+      ],
+      "airport": "ZRH",
+      "forWhom": "Dla miłośników miejskiego życia, kultury i luksusowych zakupów.",
+      "gygQuery": "Zurich",
+      "highlights": [
+        "Jezioro Zurychskie i rejsy",
+        "Stare Miasto (Altstadt)",
+        "Ulica Bahnhofstrasse",
+        "Muzea i galerie sztuki"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "genewa",
+      "name": "Genewa",
+      "loc": "w Genewie",
+      "intro": [
+        "Genewa, położona nad brzegiem Jeziora Genewskiego i otoczona Alpami, to międzynarodowe centrum dyplomacji i siedziba wielu organizacji, w tym ONZ i Czerwonego Krzyża. Miasto emanuje kosmopolityczną atmosferą, łącząc francuski szyk z szwajcarską precyzją. Jej symbolami są Jet d'Eau, czyli wysoka fontanna na jeziorze, oraz zegar kwiatowy.",
+        "Oprócz instytucji międzynarodowych, Genewa oferuje urokliwą starówkę, liczne parki i ogrody, a także bogatą ofertę muzeów. To doskonałe miejsce na relaksujący spacer brzegiem jeziora, degustację lokalnych win czy wizytę w jednej z wielu eleganckich restauracji. Bliskość francuskiej granicy pozwala na łatwe wycieczki do sąsiednich regionów."
+      ],
+      "airport": "GVA",
+      "forWhom": "Dla zainteresowanych dyplomacją, kulturą i pięknem Jeziora Genewskiego.",
+      "gygQuery": "Geneva",
+      "highlights": [
+        "Jezioro Genewskie i Jet d'Eau",
+        "Pałac Narodów ONZ",
+        "Stare Miasto (Vieille Ville)",
+        "Ogród Angielski i zegar kwiatowy"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "region-jungfrau",
+      "name": "Region Jungfrau",
+      "loc": "w Regionie Jungfrau",
+      "intro": [
+        "Region Jungfrau, z sercem w Interlaken, to kwintesencja szwajcarskich Alp, oferująca jedne z najbardziej spektakularnych widoków na świecie. Dom dla słynnych szczytów Eiger, Mönch i Jungfrau, region ten jest rajem dla miłośników wędrówek, wspinaczki i sportów zimowych. Kolejka Jungfraubahn zabiera turystów na \"Top of Europe\", najwyżej położoną stację kolejową w Europie.",
+        "Oprócz imponujących gór, region oferuje krystalicznie czyste jeziora, takie jak Thun i Brienz, idealne do sportów wodnych i rejsów. Interlaken, położone między dwoma jeziorami, jest centrum sportów ekstremalnych, takich jak paralotniarstwo czy rafting. Liczne trasy rowerowe i piesze pozwalają odkrywać malownicze doliny i wodospady, w tym słynne wodospady Trummelbach."
+      ],
+      "airport": "BRN (Bern), ZRH (Zurich)",
+      "forWhom": "Dla aktywnych turystów, miłośników górskich krajobrazów i sportów ekstremalnych.",
+      "gygQuery": "Jungfrau Region",
+      "highlights": [
+        "Jungfraujoch - Top of Europe",
+        "Góry Eiger, Mönch, Jungfrau",
+        "Interlaken - centrum sportów",
+        "Wodospady Trummelbach"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "lucerna",
+      "name": "Lucerna",
+      "loc": "w Lucernie",
+      "intro": [
+        "Lucerna to jedno z najbardziej malowniczych miast Szwajcarii, położone nad Jeziorem Czterech Kantonów, w otoczeniu majestatycznych gór. Jej wizytówką jest średniowieczny Most Kapliczny (Kapellbrücke), najstarszy drewniany most w Europie, ozdobiony malowidłami. Stare Miasto Lucerny, z kolorowymi kamienicami i urokliwymi placami, zachęca do spacerów i odkrywania jego historii.",
+        "Z Lucerny łatwo dostać się na pobliskie szczyty, takie jak Pilatus czy Rigi, z których roztaczają się panoramiczne widoki na Alpy i jezioro. Miasto oferuje również bogatą ofertę kulturalną, w tym Muzeum Transportu Szwajcarii oraz coroczne festiwale muzyczne. To idealne miejsce na połączenie miejskiego zwiedzania z relaksem na łonie natury."
+      ],
+      "airport": "ZRH (Zurich)",
+      "forWhom": "Dla ceniących urokliwe miasta, historyczne zabytki i bliskość górskich krajobrazów.",
+      "gygQuery": "Lucerne",
+      "highlights": [
+        "Most Kapliczny (Kapellbrücke)",
+        "Jezioro Czterech Kantonów",
+        "Góra Pilatus i Rigi",
+        "Stare Miasto i Lwi Pomnik"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "ticino",
+      "name": "Ticino",
+      "loc": "w Ticino",
+      "intro": [
+        "Ticino to jedyny włoskojęzyczny kanton Szwajcarii, położony na południe od Alp, co nadaje mu wyraźnie śródziemnomorski charakter. Słynie z palm, gajów oliwnych i łagodnego klimatu, a także z urokliwych miast, takich jak Lugano i Locarno, położonych nad krystalicznie czystymi jeziorami. To idealne miejsce na relaks i delektowanie się włoską kuchnią w szwajcarskim otoczeniu.",
+        "Region oferuje piękne krajobrazy, od górskich szlaków po malownicze brzegi jezior Lugano i Maggiore. Można tu zwiedzać średniowieczne zamki w Bellinzonie, wpisane na listę UNESCO, relaksować się w ogrodach botanicznych lub uprawiać sporty wodne. Ticino to doskonała propozycja dla tych, którzy chcą połączyć szwajcarską jakość z włoskim dolce vita."
+      ],
+      "airport": "LUG (Lugano), MXP (Mediolan)",
+      "forWhom": "Dla szukających śródziemnomorskiego klimatu, włoskiej atmosfery i pięknych jezior.",
+      "gygQuery": "Ticino",
+      "highlights": [
+        "Jezioro Lugano i Maggiore",
+        "Bellinzona - zamki UNESCO",
+        "Śródziemnomorski klimat",
+        "Włoska kuchnia i atmosfera"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Matterhorn",
+      "text": "Jeden z najbardziej rozpoznawalnych szczytów Alp, symbol Szwajcarii. Jego charakterystyczny kształt przyciąga alpinistów i turystów z całego świata, oferując spektakularne widoki z okolic Zermatt.",
+      "gygQuery": "Matterhorn"
+    },
+    {
+      "name": "Jungfraujoch - Top of Europe",
+      "text": "Najwyżej położona stacja kolejowa w Europie, oferująca zapierające dech w piersiach widoki na lodowiec Aletsch i otaczające Alpy. To niezapomniane doświadczenie, dostępne dzięki panoramicznej kolejce.",
+      "gygQuery": "Jungfraujoch"
+    },
+    {
+      "name": "Jezioro Genewskie",
+      "text": "Największe jezioro w Szwajcarii i Francji, otoczone malowniczymi miastami i winnicami. Idealne na rejsy statkiem, spacery brzegiem i podziwianie słynnej fontanny Jet d'Eau w Genewie.",
+      "gygQuery": "Lake Geneva"
+    },
+    {
+      "name": "Stare Miasto w Bernie",
+      "text": "Wpisane na listę UNESCO, średniowieczne centrum stolicy Szwajcarii, z arkadowymi uliczkami, wieżą zegarową Zytglogge i Niedźwiedzim Parkiem. Idealne na spokojne spacery i odkrywanie historii.",
+      "gygQuery": "Old Town Bern"
+    },
+    {
+      "name": "Most Kapliczny (Kapellbrücke) w Lucernie",
+      "text": "Najstarszy drewniany most w Europie, symbol Lucerny, ozdobiony malowidłami przedstawiającymi historię miasta. Łączy brzegi rzeki Reuss, oferując urokliwe widoki na miasto i jezioro.",
+      "gygQuery": "Kapellbrücke Lucerne"
+    },
+    {
+      "name": "Wodospady Rheinfall",
+      "text": "Największe wodospady w Europie, położone na rzece Ren, niedaleko Szafuzy. Można podziwiać je z bliska, korzystając z platform widokowych lub rejsów łodzią, które prowadzą pod samą kaskadę.",
+      "gygQuery": "Rhine Falls"
+    },
+    {
+      "name": "Gornergrat Bahn",
+      "text": "Malownicza kolej zębata w Zermatt, która wjeżdża na wysokość ponad 3000 m n.p.m., oferując panoramiczne widoki na Matterhorn i 29 innych czterotysięczników. To jedna z najbardziej spektakularnych tras kolejowych.",
+      "gygQuery": "Gornergrat Bahn"
+    },
+    {
+      "name": "Muzeum Transportu Szwajcarii",
+      "text": "Najczęściej odwiedzane muzeum w Szwajcarii, zlokalizowane w Lucernie. Prezentuje historię i przyszłość transportu, komunikacji i mobilności, oferując interaktywne wystawy dla całej rodziny.",
+      "gygQuery": "Swiss Museum of Transport"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Szwajcaria jest droga?",
+      "a": "Tak, Szwajcaria jest jednym z najdroższych krajów w Europie. Ceny zakwaterowania, transportu, jedzenia i atrakcji turystycznych są znacznie wyższe niż w Polsce. Warto planować budżet z wyprzedzeniem i szukać oszczędności, np. poprzez gotowanie we własnym zakresie lub korzystanie z kart rabatowych."
+    },
+    {
+      "q": "Jak poruszać się po Szwajcarii?",
+      "a": "Szwajcaria ma jedną z najlepszych sieci transportu publicznego na świecie, obejmującą pociągi, autobusy i statki. Jest punktualna i efektywna. Warto rozważyć zakup Swiss Travel Pass, który oferuje nielimitowane podróże i zniżki na wiele atrakcji."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Szwajcarii?",
+      "a": "Obywatele Polski mogą wjechać do Szwajcarii na podstawie ważnego dowodu osobistego lub paszportu. Szwajcaria należy do strefy Schengen, co ułatwia podróżowanie. Zawsze zalecamy sprawdzenie aktualnych wymogów przed wyjazdem."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Szwajcarii?",
+      "a": "Lato (czerwiec-wrzesień) jest idealne na wędrówki i zwiedzanie miast. Zima (grudzień-marzec) to sezon narciarski. Wiosna i jesień oferują łagodniejsze temperatury i mniej turystów, idealne na spacery i podziwianie krajobrazów."
+    },
+    {
+      "q": "Czy w Szwajcarii można płacić euro?",
+      "a": "W niektórych miejscach turystycznych można płacić euro, ale reszta zazwyczaj wydawana jest we frankach szwajcarskich, a kurs może być niekorzystny. Najlepiej płacić frankami szwajcarskimi (CHF) lub kartą, która jest powszechnie akceptowana."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Szwajcarii zależy od planowanych aktywności. Lato (czerwiec-wrzesień) jest idealne na piesze wędrówki po górach, jazdę na rowerze i sporty wodne na jeziorach, kiedy temperatury są przyjemne, a krajobrazy zielone. Zima (grudzień-marzec) to raj dla narciarzy i snowboardzistów, z obfitymi opadami śniegu i doskonale przygotowanymi stokami. Wiosna i jesień to dobre pory na zwiedzanie miast i niżej położonych regionów, unikając tłumów i ciesząc się łagodniejszą pogodą.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10,
+      11,
+      12
+    ]
+  },
+  "capital": "Berno",
+  "climate": {
+    "air": [
+      3,
+      5,
+      10,
+      14,
+      19,
+      22,
+      24,
+      23,
+      19,
+      13,
+      7,
+      4
+    ],
+    "note": "dla Zurychu",
+    "sea": null
+  },
+  "cuisine": [
+    "Szwajcarska kuchnia to połączenie wpływów niemieckich, francuskich i włoskich, z silnym naciskiem na produkty regionalne. Obowiązkowo trzeba spróbować fondue, czyli roztopionego sera podawanego z pieczywem, oraz raclette, topionego sera serwowanego z ziemniakami i piklami. Popularne są również rösti, chrupiące placki ziemniaczane. Szwajcaria słynie z doskonałej czekolady i szerokiej gamy serów, takich jak Gruyère czy Emmentaler. Warto także spróbować lokalnych win i tradycyjnych wędlin. Kuchnia jest sycąca i idealna po aktywnym dniu w górach."
+  ],
+  "gygQuery": "Switzerland",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać do Szwajcarii na podstawie ważnego dowodu osobistego lub paszportu. Szwajcaria nie jest w UE, ale należy do strefy Schengen. Zawsze zalecamy sprawdzenie aktualnych wymogów przed wyjazdem.",
+    "flight": "około 1,5-2 h",
+    "language": "W Szwajcarii obowiązują cztery języki urzędowe: niemiecki (szwajcarski dialekt), francuski, włoski i retoromański. W regionach turystycznych i większych miastach bez problemu porozumiesz się po angielsku.",
+    "money": "Oficjalną walutą jest frank szwajcarski (CHF). Płatności kartą są powszechne, a bankomaty łatwo dostępne. W niektórych miejscach można płacić euro, ale reszta wydawana jest w CHF i kurs może być niekorzystny.",
+    "plugs": "W Szwajcarii używane są gniazdka typu J. Standardowe europejskie wtyczki typu C i F (powszechne w Polsce) często pasują, ale dla pewności warto zabrać adapter.",
+    "safety": "Szwajcaria jest jednym z najbezpieczniejszych krajów na świecie, z niskim wskaźnikiem przestępczości. Opieka zdrowotna jest na bardzo wysokim poziomie, ale kosztowna - zalecamy posiadanie kompleksowego ubezpieczenia podróżnego.",
+    "timeDiff": "brak różnicy czasu"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

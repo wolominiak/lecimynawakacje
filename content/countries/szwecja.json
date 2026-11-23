@@ -1,0 +1,226 @@
+{
+  "slug": "szwecja",
+  "loc": "w Szwecji",
+  "to": "do Szwecji",
+  "teaser": "Szwecja to kraj, który łączy nowoczesne miasta z dziką naturą. Od tętniącego życiem Sztokholmu po spokojne krajobrazy Laponii, oferuje coś dla każdego.",
+  "intro": [
+    "Szwecja to synonim skandynawskiego stylu życia, gdzie innowacja spotyka się z głębokim szacunkiem do natury. Kraj ten słynie z rozległych lasów, tysięcy jezior i malowniczych wybrzeży, które zachęcają do aktywności na świeżym powietrzu. Miasta takie jak Sztokholm czy Göteborg kuszą nowoczesną architekturą, bogatą ofertą kulturalną i doskonałym designem. Szwedzi cenią sobie równowagę, co widać zarówno w ich podejściu do pracy, jak i do spędzania wolnego czasu. To idealne miejsce dla tych, którzy szukają inspiracji i oddechu od codzienności.",
+    "Kraj ten jest doskonałym wyborem dla różnorodnych grup podróżników. Miłośnicy miejskiego zgiełku odnajdą się w tętniących życiem metropoliach, gdzie czekają muzea, galerie i modne kawiarnie. Poszukiwacze przygód docenią możliwości trekkingu, kajakarstwa czy zimowych sportów w Laponii. Rodziny z dziećmi znajdą wiele atrakcji, od parków rozrywki po interaktywne muzea. Szwecja to także raj dla smakoszy, zwłaszcza owoców morza, oraz dla fanów nordyckiego designu. Każdy, kto ceni sobie porządek i bliskość natury, poczuje się tu dobrze.",
+    "Podróż z Polski do Szwecji jest wygodna i szybka. Liczne linie lotnicze oferują bezpośrednie połączenia do Sztokholmu, Göteborga czy Malmö, z czasem lotu wynoszącym około półtorej godziny. Alternatywą są promy, które regularnie kursują z Gdyni, Gdańska lub Świnoujścia do szwedzkich portów, takich jak Karlskrona czy Nynäshamn. To świetna opcja dla tych, którzy planują zabrać własny samochód i odkrywać kraj na czterech kółkach. Dzięki dobrej infrastrukturze drogowej i kolejowej, przemieszczanie się po Szwecji jest komfortowe i efektywne."
+  ],
+  "highlights": [
+    "Odkryj urokliwy Sztokholm i jego archipelag",
+    "Złap zorzę polarną w mroźnej Laponii",
+    "Doświadcz szwedzkiego 'fika' - przerwy na kawę",
+    "Podziwiaj minimalistyczny design i modę",
+    "Wędruj po dzikich lasach i parkach narodowych",
+    "Poznaj historię Wikingów i średniowieczne zamki"
+  ],
+  "popularity": 35,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "sztokholm",
+      "name": "Sztokholm",
+      "loc": "w Sztokholmie",
+      "intro": [
+        "Sztokholm, stolica Szwecji, to miasto zbudowane na 14 wyspach, połączone mostami, co nadaje mu unikalny charakter. Jego sercem jest Gamla Stan, średniowieczna starówka z brukowanymi uliczkami i kolorowymi kamienicami, gdzie znajduje się Pałac Królewski i Katedra Sztokholmska. Miasto jest również centrum kultury i sztuki, z licznymi muzeami, takimi jak Muzeum Vasa czy Muzeum ABBA, które przyciągają miliony turystów rocznie.",
+        "Sztokholm to także symbol nowoczesnego designu i innowacji. Dzielnice takie jak Södermalm oferują modne butiki, kawiarnie i galerie. Archipelag Sztokholmski, składający się z ponad 30 tysięcy wysp, wysepek i skał, stanowi idealne miejsce na jednodniowe wycieczki promem, oferując ucieczkę od miejskiego zgiełku i możliwość podziwiania dziewiczej natury. To miasto, które doskonale łączy bogatą historię z dynamicznym, współczesnym stylem życia."
+      ],
+      "airport": "ARN (Sztokholm-Arlanda)",
+      "forWhom": "Dla miłośników kultury, designu i życia miejskiego, którzy cenią sobie elegancję i nowoczesność.",
+      "gygQuery": "Stockholm",
+      "highlights": [
+        "Spacer po urokliwej Gamla Stan",
+        "Odwiedź Muzeum Vasa i Muzeum ABBA",
+        "Rejs po Archipelagu Sztokholmskim",
+        "Odkryj nowoczesny design w Södermalm"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "gotlandia",
+      "name": "Gotlandia",
+      "loc": "na Gotlandii",
+      "intro": [
+        "Gotlandia to największa wyspa Szwecji, położona na Morzu Bałtyckim, słynąca z niezwykłej przyrody i bogatej historii. Jej stolicą jest Visby, średniowieczne miasto wpisane na listę UNESCO, otoczone imponującymi murami obronnymi. Wąskie uliczki, róże pnące się po kamienicach i liczne ruiny kościołów tworzą magiczną atmosferę, przenoszącą w czasie. Latem Visby tętni życiem, oferując festiwale i wydarzenia kulturalne.",
+        "Poza Visby, Gotlandia zachwyca różnorodnymi krajobrazami - od piaszczystych plaż po tajemnicze formacje skalne, tzw. rauki, wyrzeźbione przez morze. Wyspa jest popularna wśród rowerzystów i miłośników pieszych wędrówek, oferując liczne szlaki. Gotlandia to także miejsce, gdzie można spróbować lokalnych specjałów, takich jak szafranowe naleśniki czy wędzone ryby. To idealna destynacja na relaksujący urlop z nutką historii."
+      ],
+      "airport": "Visby Airport (VBY)",
+      "forWhom": "Dla szukających spokoju, historii i pięknych krajobrazów, z dala od zgiełku kontynentu.",
+      "gygQuery": "Gotland",
+      "highlights": [
+        "Zwiedzaj średniowieczne Visby (UNESCO)",
+        "Podziwiaj unikalne formacje skalne - rauki",
+        "Relaksuj się na gotlandzkich plażach",
+        "Odkrywaj ruiny kościołów i historię"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "laponia-szwedzka",
+      "name": "Laponia Szwedzka",
+      "loc": "w Laponii Szwedzkiej",
+      "intro": [
+        "Laponia Szwedzka to kraina na dalekiej północy, gdzie natura gra pierwsze skrzypce. To tutaj można doświadczyć prawdziwej arktycznej zimy, podziwiać zorzę polarną i cieszyć się długimi dniami polarnego lata. Region ten jest domem dla rdzennej ludności Sami, której kultura i tradycje są integralną częścią krajobrazu. Laponia oferuje niezliczone możliwości aktywnego wypoczynku, od jazdy na nartach po wędrówki z rakietami śnieżnymi.",
+        "Jedną z największych atrakcji Laponii jest słynny Icehotel w Jukkasjärvi, który co roku jest budowany od nowa z lodu i śniegu. Można tu również wybrać się na safari skuterami śnieżnymi, przejażdżkę psim zaprzęgiem lub spróbować swoich sił w wędkarstwie podlodowym. Latem Laponia zachwyca zielenią, górskimi szlakami i możliwością obserwacji dzikiej fauny. To miejsce, które zostaje w pamięci na długo, niezależnie od pory roku."
+      ],
+      "airport": "Kiruna Airport (KRN)",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników zimy i zorzy polarnej, pragnących doświadczyć arktycznej dziczy.",
+      "gygQuery": "Swedish Lapland",
+      "highlights": [
+        "Ujrzyj zorzę polarną na zimowym niebie",
+        "Odwiedź słynny Icehotel w Jukkasjärvi",
+        "Przejedź się psim zaprzęgiem lub skuterem",
+        "Poznaj kulturę i tradycje ludu Sami"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "goteborg",
+      "name": "Göteborg",
+      "loc": "w Göteborgu",
+      "intro": [
+        "Göteborg, położony na zachodnim wybrzeżu Szwecji, to drugie co do wielkości miasto kraju, słynące z morskiego dziedzictwa i swobodnej atmosfery. Miasto jest ważnym portem i ośrodkiem przemysłowym, ale oferuje także wiele atrakcji turystycznych. Jego kanały, parki i urokliwe dzielnice, takie jak Haga, zachęcają do spacerów i odkrywania. Göteborg to także miasto studenckie, co przekłada się na jego dynamiczny i młodzieńczy charakter.",
+        "Jedną z głównych atrakcji Göteborga jest Liseberg, jeden z największych i najpopularniejszych parków rozrywki w Skandynawii, idealny dla rodzin. Miasto jest również rajem dla smakoszy, zwłaszcza dla miłośników świeżych owoców morza, które można spróbować na słynnym targu Feskekörka. Warto również wybrać się na wycieczkę po archipelagu Göteborga, aby podziwiać malownicze wyspy i ich rybackie wioski. Göteborg to doskonałe połączenie miejskich atrakcji z bliskością natury."
+      ],
+      "airport": "Göteborg Landvetter Airport (GOT)",
+      "forWhom": "Dla rodzin, smakoszy owoców morza i miłośników parków rozrywki, szukających luźniejszej atmosfery.",
+      "gygQuery": "Gothenburg",
+      "highlights": [
+        "Baw się w parku rozrywki Liseberg",
+        "Spróbuj świeżych owoców morza w Feskekörka",
+        "Odkryj urokliwą dzielnicę Haga",
+        "Wybierz się na rejs po archipelagu"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Muzeum Vasa",
+      "text": "W tym sztokholmskim muzeum zobaczysz doskonale zachowany, XVII-wieczny okręt wojenny Vasa, który zatonął w swoim dziewiczym rejsie. To jedyny taki statek na świecie, który przetrwał w tak dobrym stanie.",
+      "gygQuery": "Vasa Museum"
+    },
+    {
+      "name": "Gamla Stan",
+      "text": "Średniowieczna starówka Sztokholmu z wąskimi brukowanymi uliczkami, kolorowymi kamienicami i Pałacem Królewskim. Idealne miejsce na spacer i poczucie historycznej atmosfery miasta.",
+      "gygQuery": "Gamla Stan Stockholm"
+    },
+    {
+      "name": "Muzeum ABBA",
+      "text": "Interaktywne muzeum w Sztokholmie poświęcone legendarnemu szwedzkiemu zespołowi ABBA. Możesz tu śpiewać, tańczyć i przymierzać wirtualne kostiumy, zanurzając się w świat muzyki.",
+      "gygQuery": "ABBA The Museum"
+    },
+    {
+      "name": "Icehotel",
+      "text": "Pierwszy na świecie hotel zbudowany z lodu i śniegu, położony w Jukkasjärvi w Laponii Szwedzkiej. Co roku jest odbudowywany, oferując unikalne doświadczenie noclegu w lodowej rzeźbie.",
+      "gygQuery": "Icehotel Jukkasjarvi"
+    },
+    {
+      "name": "Park Rozrywki Liseberg",
+      "text": "Jeden z największych i najstarszych parków rozrywki w Skandynawii, zlokalizowany w Göteborgu. Oferuje liczne rollercoaster'y, karuzele i atrakcje dla całej rodziny, a także piękne ogrody.",
+      "gygQuery": "Liseberg"
+    },
+    {
+      "name": "Archipelag Sztokholmski",
+      "text": "Rozległy archipelag składający się z tysięcy wysp i wysepek, idealny na rejsy statkiem i ucieczkę od miejskiego zgiełku. Można tu podziwiać dziką naturę i urokliwe rybackie wioski.",
+      "gygQuery": "Stockholm Archipelago"
+    },
+    {
+      "name": "Visby",
+      "text": "Średniowieczne miasto na wyspie Gotlandia, wpisane na listę UNESCO, otoczone imponującymi murami obronnymi. Słynie z brukowanych uliczek, ruin kościołów i róż pnących się po kamienicach.",
+      "gygQuery": "Visby Gotland"
+    },
+    {
+      "name": "Droga Królewska (Kungsleden)",
+      "text": "Jeden z najsłynniejszych szlaków trekkingowych w Europie, prowadzący przez dzikie tereny Laponii Szwedzkiej. Oferuje spektakularne widoki na góry, jeziora i tundrę, idealny dla miłośników pieszych wędrówek.",
+      "gygQuery": "Kungsleden Trail"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy w Szwecji jest drogo?",
+      "a": "Szwecja jest postrzegana jako kraj drogi, zwłaszcza w porównaniu do Polski. Ceny noclegów, transportu, jedzenia w restauracjach i alkoholu są wyższe. Można jednak oszczędzać, gotując samodzielnie, korzystając z supermarketów i transportu publicznego."
+    },
+    {
+      "q": "Jak poruszać się po Szwecji?",
+      "a": "Po Szwecji najlepiej poruszać się pociągami, które są szybkie i komfortowe, lub autobusami na dłuższych trasach. W miastach działa dobrze rozwinięta komunikacja miejska. Wypożyczenie samochodu to dobra opcja do zwiedzania mniej dostępnych regionów, zwłaszcza na północy."
+    },
+    {
+      "q": "Co to jest 'fika'?",
+      "a": "'Fika' to szwedzki zwyczaj robienia przerwy na kawę lub inny napój, zazwyczaj z ciastkiem lub kanapką. To ważny element kultury społecznej, moment na relaks i rozmowę, zarówno w pracy, jak i w gronie przyjaciół."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Szwecji, żeby zobaczyć zorzę polarną?",
+      "a": "Zorzę polarną w Szwecji najlepiej obserwować w miesiącach zimowych, od grudnia do marca, w regionach położonych na północ od koła podbiegunowego, np. w Laponii. Potrzebne są ciemne, bezchmurne noce."
+    },
+    {
+      "q": "Czy do Szwecji można płynąć promem?",
+      "a": "Tak, do Szwecji regularnie kursują promy z Polski. Połączenia dostępne są z Gdyni, Gdańska i Świnoujścia do portów takich jak Karlskrona, Nynäshamn czy Ystad. To popularna opcja, zwłaszcza dla podróżujących samochodem."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Szwecji zależy od planowanych aktywności. Lato, od czerwca do sierpnia, to idealny okres na zwiedzanie miast, wędrówki po górach i korzystanie z uroków archipelagu, z długimi dniami i łagodnymi temperaturami. Wiosna i jesień oferują piękne krajobrazy i mniejsze tłumy, idealne do odkrywania miast i natury. Jeśli marzysz o zobaczeniu zorzy polarnej, wybierz się na północ w miesiącach zimowych, od grudnia do marca, kiedy to krajobraz pokrywa śnieg, a dni są krótkie.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9,
+      12,
+      1,
+      2,
+      3
+    ]
+  },
+  "capital": "Sztokholm",
+  "climate": {
+    "air": [
+      0,
+      0,
+      4,
+      10,
+      16,
+      20,
+      23,
+      21,
+      16,
+      10,
+      5,
+      1
+    ],
+    "note": "dla Sztokholmu",
+    "sea": [
+      2,
+      1,
+      1,
+      4,
+      8,
+      13,
+      17,
+      18,
+      14,
+      9,
+      6,
+      3
+    ]
+  },
+  "cuisine": [
+    "Szwedzka kuchnia to połączenie tradycji z nowoczesnością, często bazująca na świeżych i lokalnych składnikach. Królują tu ryby i owoce morza, zwłaszcza śledzie podawane na wiele sposobów, łosoś oraz krewetki. Typowe dania to klopsiki köttbullar, ziemniaki, sosy śmietanowe i dżem z borówek. Ważnym elementem kultury jest 'fika', czyli przerwa na kawę z ciastkiem, np. cynamonową bułeczką (kanelbulle). Warto spróbować także chleba chrupkiego (knäckebröd) i lokalnych serów. Kuchnia szwedzka jest prosta, ale smaczna i sycąca."
+  ],
+  "gygQuery": "Sweden",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać do Szwecji na podstawie ważnego dowodu osobistego lub paszportu. Szwecja należy do strefy Schengen. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronach rządowych.",
+    "flight": "około 1,5-2 h",
+    "language": "Oficjalnym językiem jest szwedzki, ale niemal wszyscy Szwedzi, zwłaszcza w obszarach turystycznych i wśród młodszych pokoleń, doskonale posługują się językiem angielskim.",
+    "money": "Obowiązującą walutą jest korona szwedzka (SEK). Płatności kartą są powszechne, a w wielu miejscach preferowane lub nawet jedyne. Gotówka jest używana coraz rzadziej.",
+    "plugs": "W Szwecji używane są gniazdka typu C i F, czyli standardowe gniazdka europejskie. Nie potrzebujesz adaptera.",
+    "safety": "Szwecja to kraj o wysokim poziomie bezpieczeństwa. Należy zachować standardowe środki ostrożności, zwłaszcza w dużych miastach. Opieka medyczna jest na wysokim poziomie, a posiadanie Europejskiej Karty Ubezpieczenia Zdrowotnego (EKUZ) jest zalecane.",
+    "timeDiff": "brak"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}
