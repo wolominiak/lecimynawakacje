@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
 import { SITE } from '@/lib/affiliate';
 export default function robots(): MetadataRoute.Robots {
-  return { rules: [{ userAgent: '*', allow: '/' }], sitemap: SITE.url + '/sitemap.xml', host: SITE.url };
+  return { rules: [{ userAgent: '*', allow: '/', disallow: '/go/' }], sitemap: SITE.url + '/sitemap.xml', host: SITE.url };
 }

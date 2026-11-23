@@ -65,7 +65,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
             <div className="ftr-bottom">
               <span>© {new Date().getFullYear()} lecimynawakacje.pl</span>
-              <span>Serwis zawiera linki partnerskie (wakacje.pl, GetYourGuide). Rezerwując przez nie, nie płacisz więcej.</span>
             </div>
           </div>
         </footer>
