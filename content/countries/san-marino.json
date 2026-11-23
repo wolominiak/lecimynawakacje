@@ -1,0 +1,145 @@
+{
+  "slug": "san-marino",
+  "loc": "w San Marino",
+  "to": "do San Marino",
+  "teaser": "San Marino to najstarsza republika świata, oferująca średniowieczne fortyfikacje, zapierające dech w piersiach widoki i unikalną atmosferę.",
+  "intro": [
+    "San Marino, enklawa otoczona ze wszystkich stron przez Włochy, to jedno z najmniejszych i najstarszych państw na świecie. Jego górzyste położenie na szczycie Monte Titano zapewnia spektakularne panoramy na okoliczne wzgórza i wybrzeże Adriatyku. Kraj ten przyciąga turystów swoją bogatą historią, urokliwymi średniowiecznymi uliczkami oraz trzema charakterystycznymi wieżami, które stały się jego symbolem. To idealne miejsce dla tych, którzy szukają czegoś więcej niż typowego kurortu i cenią sobie unikalne doświadczenia.",
+    "San Marino jest destynacją dla podróżników, którzy doceniają historię, architekturę i malownicze krajobrazy. Ze względu na swoje niewielkie rozmiary, często jest odwiedzane jako jednodniowa wycieczka z włoskiego regionu Emilia-Romania lub Marche. Mimo to, oferuje wystarczająco dużo atrakcji, by spędzić tu spokojny weekend, eksplorując zamki, muzea i delektując się lokalną kuchnią. To także raj dla kolekcjonerów znaczków i monet, które są tu często poszukiwanymi pamiątkami.",
+    "Podróż z Polski do San Marino zazwyczaj odbywa się samolotem do jednego z pobliskich włoskich miast, takich jak Bolonia (BLQ) czy Rimini (RMI). Z lotniska można kontynuować podróż autobusem, pociągiem do Rimini, a następnie specjalnym autobusem do Miasta San Marino. Cała podróż jest stosunkowo prosta i dobrze skomunikowana, co sprawia, że dotarcie do tej miniaturowej republiki jest wygodne i nie zajmuje wiele czasu. Pamiętaj, że San Marino nie jest częścią Unii Europejskiej, ale należy do strefy Schengen, więc wystarczy dowód osobisty."
+  ],
+  "highlights": [
+    "Odwiedź trzy średniowieczne wieże na Monte Titano.",
+    "Spaceruj po urokliwych uliczkach Miasta San Marino.",
+    "Podziwiaj panoramy na Apeniny i Adriatyk.",
+    "Poznaj historię najstarszej republiki świata.",
+    "Kup pamiątki, znaczki i lokalne wina.",
+    "Spróbuj lokalnych specjałów kuchni włoskiej."
+  ],
+  "popularity": 12,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "miasto-san-marino",
+      "name": "Miasto San Marino",
+      "loc": "w Mieście San Marino",
+      "intro": [
+        "Stolica republiki, Miasto San Marino, położone jest na szczycie Monte Titano i stanowi serce turystyczne kraju. Jego historyczne centrum, wpisane na listę światowego dziedzictwa UNESCO, to labirynt wąskich uliczek, kamiennych domów i urokliwych placów. To tutaj znajdują się najważniejsze zabytki, takie jak trzy słynne wieże, Pałac Publiczny i Bazylika San Marino.",
+        "Z Miasta San Marino roztaczają się niesamowite widoki na okoliczne wzgórza regionu Emilia-Romania i Marche, a w pogodne dni nawet na Adriatyk. Jest to idealne miejsce na długie spacery, odkrywanie ukrytych zakątków i delektowanie się atmosferą średniowiecznego miasta. Znajdziesz tu liczne restauracje, kawiarnie i sklepy z pamiątkami, oferujące lokalne produkty i rękodzieło."
+      ],
+      "airport": "Bologna (BLQ) lub Rimini (RMI)",
+      "forWhom": "Dla miłośników historii, pięknych widoków i unikalnych miejsc.",
+      "gygQuery": "San Marino City",
+      "highlights": [
+        "Trzy wieże: Guaita, Cesta i Montale",
+        "Pałac Publiczny i Plac Wolności",
+        "Bazylika San Marino",
+        "Muzea i galerie sztuki"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Trzy Wieże San Marino",
+      "text": "Symbol San Marino, trzy wieże-twierdze: Guaita, Cesta i Montale, położone na szczytach Monte Titano. Oferują niezapomniane widoki i wgląd w średniowieczną obronność.",
+      "gygQuery": "San Marino Three Towers"
+    },
+    {
+      "name": "Palazzo Pubblico i Piazza della Libertà",
+      "text": "Oficjalna siedziba rządu i parlamentu San Marino, Pałac Publiczny to imponujący budynek z neogotycką fasadą. Na Placu Wolności odbywają się uroczyste zmiany warty.",
+      "gygQuery": "Palazzo Pubblico San Marino"
+    },
+    {
+      "name": "Bazylika San Marino",
+      "text": "Główna świątynia republiki, poświęcona świętemu patronowi, św. Marynowi. Jej neoklasycystyczna architektura i wnętrze są warte uwagi.",
+      "gygQuery": "Basilica di San Marino"
+    },
+    {
+      "name": "Muzeum Państwowe San Marino",
+      "text": "Znajdujące się w Palazzo Pergami Belluzzi, muzeum prezentuje historię, sztukę i archeologię San Marino, od prehistorii po współczesność.",
+      "gygQuery": "San Marino State Museum"
+    },
+    {
+      "name": "Muzeum Tortur",
+      "text": "Nietypowe, ale popularne muzeum prezentujące kolekcję średniowiecznych narzędzi tortur, dające wgląd w mroczne aspekty historii.",
+      "gygQuery": "San Marino Torture Museum"
+    },
+    {
+      "name": "Kolejka linowa Funivia",
+      "text": "Łączy Borgo Maggiore z Miastem San Marino, oferując spektakularne widoki podczas krótkiej, malowniczej podróży.",
+      "gygQuery": "San Marino Funivia"
+    },
+    {
+      "name": "Średniowieczne Bramy i Mury Obronne",
+      "text": "Spacerując po Mieście San Marino, natkniesz się na liczne bramy, takie jak Porta San Francesco, oraz dobrze zachowane fragmenty murów obronnych.",
+      "gygQuery": "San Marino Walls"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy San Marino to osobny kraj?",
+      "a": "Tak, San Marino to niezależna republika, enklawa otoczona ze wszystkich stron przez Włochy. Jest to jedno z najstarszych i najmniejszych państw świata."
+    },
+    {
+      "q": "Jak dojechać do San Marino z Polski?",
+      "a": "Najłatwiej dolecieć samolotem do Bolonii (BLQ) lub Rimini (RMI) we Włoszech, a stamtąd kontynuować podróż autobusem lub wynajętym samochodem do Miasta San Marino."
+    },
+    {
+      "q": "Co warto zobaczyć w San Marino w jeden dzień?",
+      "a": "W jeden dzień warto skupić się na Mieście San Marino: zwiedzić trzy wieże (Guaita, Cesta), Pałac Publiczny, Bazylikę San Marino i pospacerować po urokliwym starym mieście, podziwiając widoki."
+    },
+    {
+      "q": "Czy w San Marino jest morze?",
+      "a": "Nie, San Marino jest krajem śródlądowym i nie ma dostępu do morza. Najbliższe wybrzeże Adriatyku znajduje się w odległości około 20 km, w okolicach Rimini we Włoszech."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę w San Marino to wiosna (maj-czerwiec) i wczesna jesień (wrzesień-październik). W tych miesiącach pogoda jest przyjemna, temperatury umiarkowane, a tłumy turystów mniejsze niż w szczycie sezonu letniego. Unikniesz wtedy upałów i kolejek, ciesząc się spokojniejszym zwiedzaniem. Lato (lipiec-sierpień) również jest dobrym okresem, choć może być gorąco i bardziej tłoczno. Zimą San Marino jest spokojniejsze, ale niektóre atrakcje mogą być zamknięte, a pogoda bywa chłodna i deszczowa.",
+    "best": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      7,
+      8
+    ]
+  },
+  "capital": "San Marino",
+  "climate": {
+    "air": [
+      7,
+      9,
+      13,
+      17,
+      22,
+      26,
+      29,
+      29,
+      25,
+      19,
+      13,
+      8
+    ],
+    "note": "dla miasta San Marino (na podstawie danych z Rimini)",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia San Marino jest silnie związana z tradycjami włoskimi, zwłaszcza z regionami Emilia-Romania i Marche. Dominują tu świeże makarony, takie jak tagliatelle czy ravioli, często podawane z bogatymi sosami mięsnymi. Popularne są również dania mięsne, w tym królik i cielęcina, oraz różnorodne sery i wędliny. Warto spróbować lokalnych słodkości, takich jak Torta Tre Monti (ciasto Trzech Gór), które symbolizuje trzy wieże San Marino, czy Bustrengo, rodzaj ciasta z owocami. Do posiłków często serwuje się lokalne wina, takie jak Sangiovese czy Biancale."
+  ],
+  "gygQuery": "San Marino",
+  "practical": {
+    "documents": "Dowód osobisty lub paszport. San Marino jest w strefie Schengen, więc kontroli granicznych brak. Zawsze sprawdź aktualne wymogi przed wyjazdem na stronach MSZ.",
+    "flight": "około 2 h do Włoch (np. Bolonii), potem dojazd autobusem lub samochodem",
+    "language": "Oficjalnym językiem jest włoski. W miejscach turystycznych można porozumieć się po angielsku.",
+    "money": "Obowiązującą walutą jest euro (EUR). Płatności kartą są powszechne, ale warto mieć trochę gotówki na drobne wydatki.",
+    "plugs": "Gniazdka typu F (europejskie) i L (włoskie). Adapter może być potrzebny dla urządzeń z wtyczkami typu E.",
+    "safety": "San Marino to bardzo bezpieczny kraj o niskim wskaźniku przestępczości. Należy zachować standardowe środki ostrożności, zwłaszcza w zatłoczonych miejscach, aby uniknąć kradzieży kieszonkowych. Opieka medyczna jest na dobrym poziomie, ale zaleca się wykupienie ubezpieczenia podróżnego.",
+    "timeDiff": "brak"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

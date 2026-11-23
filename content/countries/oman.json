@@ -1,0 +1,250 @@
+{
+  "slug": "oman",
+  "loc": "w Omanie",
+  "to": "do Omanu",
+  "teaser": "Oman to kraj kontrastów - od piaszczystych pustyń, przez majestatyczne góry, po turkusowe wody Zatoki Omańskiej. To idealne miejsce dla szukających autentycznych wrażeń.",
+  "intro": [
+    "Oman, położony na południowo-wschodnim krańcu Półwyspu Arabskiego, to kraj, który z sukcesem łączy tradycję z nowoczesnością, oferując podróżnym unikalne doświadczenia. Zamiast szklanych wieżowców dominują tu ufortyfikowane wioski, starożytne forty i tętniące życiem suki, a wszystko to w otoczeniu spektakularnej przyrody. Od surowych gór Hajar, przez zielone oazy, po rozległe pustynie i dziewicze wybrzeża, Oman zachwyca różnorodnością krajobrazów i bogactwem kulturowym.",
+    "Kraj ten jest doskonałym wyborem dla podróżników ceniących spokój, bezpieczeństwo i autentyczność, z dala od masowej turystyki. To miejsce dla tych, którzy chcą zanurzyć się w arabskiej kulturze, odkrywać historyczne forty, wędrować po górskich szlakach, spędzać noce pod gwiazdami na pustyni czy nurkować w krystalicznie czystych wodach. Oman oferuje zarówno luksusowe hotele, jak i bardziej kameralne noclegi, spełniając oczekiwania różnych grup podróżnych.",
+    "Podróż z Polski do Omanu zazwyczaj wymaga jednej przesiadki, najczęściej w jednym z europejskich lub bliskowschodnich hubów lotniczych. Kraj jest dobrze przygotowany na przyjęcie turystów, oferując rozbudowaną infrastrukturę drogową i szereg udogodnień. Pomimo konserwatywnego charakteru, Omańczycy są niezwykle gościnni i otwarci, co sprawia, że każda wizyta jest przyjemnym i bezpiecznym doświadczeniem.",
+    "Jeśli szukasz miejsca, gdzie historia spotyka się z naturą, a nowoczesność nie przyćmiewa tradycji, Oman z pewnością Cię oczaruje. To kraj, który potrafi zaskoczyć i zaoferować coś więcej niż tylko piękne widoki - prawdziwą podróż w głąb arabskiej duszy."
+  ],
+  "highlights": [
+    "Odkryj majestatyczny Wielki Meczet Sułtana Qaboosa",
+    "Zanurkuj w krystalicznych wodach Półwyspu Musandam",
+    "Spędź noc pod gwiazdami na pustyni Wahiba Sands",
+    "Wędruj po malowniczych wadi i górach Hajar",
+    "Poznaj historię w forcie Nizwa i na lokalnych sukach",
+    "Ciesz się słońcem na dziewiczych plażach Salalah"
+  ],
+  "popularity": 25,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "maskat",
+      "name": "Maskat",
+      "loc": "w Maskacie",
+      "intro": [
+        "Maskat, stolica Omanu, to miasto, które doskonale oddaje ducha kraju - łączy tradycję z nowoczesnością, unikając jednocześnie przesadnej ekstrawagancji. Zamiast drapaczy chmur dominują tu białe, niskie budynki, a historyczne forty strzegą zatoki, gdzie cumują zarówno tradycyjne dhowy, jak i luksusowe jachty. Miasto oferuje szereg atrakcji kulturalnych, od imponującego Wielkiego Meczetu Sułtana Qaboosa po tętniący życiem suk Muttrah.",
+        "W Maskacie warto poświęcić czas na spacer po nadmorskiej promenadzie Corniche, odwiedzić Pałac Al Alam, oficjalną rezydencję sułtana, oraz zanurzyć się w atmosferze lokalnych targowisk. Miasto jest również świetną bazą wypadową do odkrywania okolicznych wadi i plaż. To idealne miejsce na rozpoczęcie omańskiej przygody, pozwalające poczuć puls kraju i jego bogatą historię.",
+        "Maskat to miasto, które z pewnością oczaruje każdego, kto szuka połączenia kultury, historii i relaksu w autentycznym arabskim otoczeniu."
+      ],
+      "airport": "MCT",
+      "forWhom": "Dla miłośników kultury, historii i miejskiego relaksu z arabskim akcentem.",
+      "gygQuery": "Muscat",
+      "highlights": [
+        "Wielki Meczet Sułtana Qaboosa",
+        "Suk Muttrah",
+        "Royal Opera House Muscat",
+        "Corniche w Muttrah"
+      ]
+    },
+    {
+      "slug": "gory-hajar",
+      "name": "Góry Hajar",
+      "loc": "w Górach Hajar",
+      "intro": [
+        "Góry Hajar to kręgosłup Omanu, oferujący jedne z najbardziej spektakularnych krajobrazów w kraju. Ich surowe szczyty, głębokie kaniony (wadi) i ukryte wioski stanowią raj dla miłośników przygód i trekkingu. To tutaj znajduje się Jebel Shams, najwyższy szczyt Omanu, często nazywany",
+        "Wielkim Kanionem Arabii",
+        "ze względu na imponujące urwiska.",
+        "Region ten jest idealny do aktywnego wypoczynku - od wędrówek po górskich szlakach, przez eksplorację zielonych wadi z naturalnymi basenami, po wspinaczkę i jazdę na rowerze górskim. Wioski takie jak Misfat Al Abriyeen, zbudowane na zboczach gór, oferują wgląd w tradycyjne życie Omańczyków i ich systemy irygacyjne falaj. To miejsce, gdzie można uciec od zgiełku miasta i zanurzyć się w dzikiej, dziewiczej naturze.",
+        "Góry Hajar to kwintesencja przygody i piękna Omanu, oferująca niezapomniane widoki i możliwość aktywnego spędzenia czasu w otoczeniu majestatycznych krajobrazów.",
+        ""
+      ],
+      "airport": "MCT",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników trekkingu i spektakularnych krajobrazów.",
+      "gygQuery": "Al Hajar Mountains",
+      "highlights": [
+        "Jebel Shams - Wielki Kanion Arabii",
+        "Wadi Shab i Wadi Bani Khalid",
+        "Fort Bahla (UNESCO)",
+        "Tradycyjne wioski górskie"
+      ]
+    },
+    {
+      "slug": "pustynia-wahiba-sands",
+      "name": "Pustynia Wahiba Sands",
+      "loc": "na Pustyni Wahiba Sands",
+      "intro": [
+        "Pustynia Wahiba Sands, znana również jako Sharqiyah Sands, to rozległy obszar piaszczystych wydm, które rozciągają się na wschodzie Omanu. To idealne miejsce, aby doświadczyć prawdziwej pustynnej przygody i poznać życie Beduinów. Złociste i czerwonawe wydmy, zmieniające kolory w zależności od pory dnia, tworzą hipnotyzujący krajobraz, który zapiera dech w piersiach.",
+        "Wizyta na pustyni Wahiba Sands to okazja do przejażdżki po wydmach samochodem 4x4 (tzw. dune bashing), sandboardingu, a przede wszystkim spędzenia nocy w tradycyjnym obozie beduińskim. Pod gwiaździstym niebem pustyni można poczuć magię tego miejsca, słuchając opowieści i delektując się tradycyjną kuchnią. To niezapomniane doświadczenie, które pozwala oderwać się od codzienności.",
+        "Pustynia Wahiba Sands to obowiązkowy punkt programu dla każdego, kto chce poczuć prawdziwą atmosferę Bliskiego Wschodu i doświadczyć piękna pustynnego krajobrazu.",
+        ""
+      ],
+      "airport": "MCT",
+      "forWhom": "Dla tych, którzy marzą o pustynnej przygodzie, noclegu pod gwiazdami i poznaniu kultury Beduinów.",
+      "gygQuery": "Wahiba Sands",
+      "highlights": [
+        "Nocleg w obozie beduińskim",
+        "Jazda po wydmach (dune bashing)",
+        "Sandboarding",
+        "Zachody i wschody słońca na pustyni"
+      ]
+    },
+    {
+      "slug": "salalah-i-dhofar",
+      "name": "Salalah i Dhofar",
+      "loc": "w Salalah i Dhofar",
+      "intro": [
+        "Salalah, stolica południowego regionu Dhofar, to zupełnie inna odsłona Omanu. Znana z bujnej zieleni, plantacji kokosów i bananów, a także z kadzidłowców, które rosną tu w obfitości. Region ten jest szczególnie atrakcyjny w okresie khareef (pora monsunowa, od czerwca do września), kiedy to krajobraz staje się soczyście zielony, a mgły i lekkie deszcze przynoszą ulgę od upałów.",
+        "Dhofar oferuje piękne, piaszczyste plaże, idealne do relaksu i kąpieli, a także liczne wodospady i wadi, które ożywają w porze deszczowej. To również kolebka kadzidła, z historycznymi szlakami i miejscami, gdzie do dziś zbiera się tę cenną żywicę. Warto odwiedzić ruiny starożytnych miast, takich jak Al Baleed, oraz lokalne suki, gdzie można kupić wysokiej jakości kadzidło.",
+        "Salalah i region Dhofar to idealne miejsce dla tych, którzy szukają odmiennych krajobrazów, chcą uciec od upałów w okresie letnim i poznać historię kadzidła.",
+        ""
+      ],
+      "airport": "SLL",
+      "forWhom": "Dla szukających zieleni, plaż, historii kadzidła i odmiennej atmosfery Omanu.",
+      "gygQuery": "Salalah",
+      "highlights": [
+        "Plaże Salalah",
+        "Plantacje kokosów i bananów",
+        "Wadi Darbat",
+        "Szlak Kadzidła i Al Baleed (UNESCO)"
+      ]
+    },
+    {
+      "slug": "polwysep-musandam",
+      "name": "Półwysep Musandam",
+      "loc": "na Półwyspie Musandam",
+      "intro": [
+        "Półwysep Musandam, znany jako „Norwegia Arabii”, to omańska eksklawa oddzielona od reszty kraju przez Zjednoczone Emiraty Arabskie. Charakteryzuje się spektakularnymi fiordami (khory), które wcinają się głęboko w ląd, tworząc niezwykłe krajobrazy. To idealne miejsce dla miłośników morza i podwodnego świata.",
+        "Główną atrakcją Musandam są rejsy tradycyjnymi łodziami dhow, podczas których można podziwiać majestatyczne klify, ukryte zatoczki i często spotkać delfiny. Krystalicznie czyste wody Zatoki Omańskiej i Cieśniny Ormuz są rajem dla nurków i snorkelingu, oferując bogate życie morskie i kolorowe rafy koralowe. To idealne miejsce na relaks i podziwianie natury.",
+        "Musandam to unikalne miejsce, które oferuje niezapomniane widoki i możliwość aktywnego spędzenia czasu na wodzie, z dala od zgiełku cywilizacji.",
+        ""
+      ],
+      "airport": "KHS",
+      "forWhom": "Dla miłośników rejsów, nurkowania, snorkelingu i spektakularnych krajobrazów morskich.",
+      "gygQuery": "Musandam",
+      "highlights": [
+        "Rejsy dhow po fiordach",
+        "Obserwacja delfinów",
+        "Nurkowanie i snorkeling",
+        "Wioski rybackie i klify"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wielki Meczet Sułtana Qaboosa",
+      "text": "Jeden z największych i najbardziej imponujących meczetów na świecie, otwarty dla niemuzułmanów. Zachwyca architekturą, gigantycznym dywanem i kryształowym żyrandolem.",
+      "gygQuery": "Sultan Qaboos Grand Mosque"
+    },
+    {
+      "name": "Fort Nizwa",
+      "text": "Majestatyczny fort z XVII wieku, symbol historii Omanu. Oferuje panoramiczne widoki na miasto i góry, a także wgląd w tradycyjne życie Omańczyków.",
+      "gygQuery": "Nizwa Fort"
+    },
+    {
+      "name": "Wadi Shab",
+      "text": "Jeden z najpiękniejszych kanionów (wadi) w Omanie, oferujący szlak trekkingowy prowadzący przez skaliste krajobrazy do ukrytych basenów i jaskini z wodospadem.",
+      "gygQuery": "Wadi Shab"
+    },
+    {
+      "name": "Jebel Shams",
+      "text": "Najwyższy szczyt Omanu, znany jako",
+      "gygQuery": "Jebel Shams"
+    },
+    {
+      "name": "Royal Opera House Muscat",
+      "text": "Pierwsza opera na Półwyspie Arabskim, arcydzieło współczesnej architektury omańskiej. Oferuje bogaty program artystyczny i jest otwarta na zwiedzanie.",
+      "gygQuery": "Royal Opera House Muscat"
+    },
+    {
+      "name": "Suk Muttrah",
+      "text": "Tradycyjny arabski targ w Maskacie, gdzie można kupić kadzidło, biżuterię, przyprawy, tekstylia i pamiątki. To miejsce tętniące życiem i zapachami.",
+      "gygQuery": "Muttrah Souq"
+    },
+    {
+      "name": "Pustynia Wahiba Sands",
+      "text": "Rozległy obszar piaszczystych wydm, idealny do przejażdżek 4x4, sandboardingu i noclegów w obozach beduińskich pod gwiaździstym niebem.",
+      "gygQuery": "Wahiba Sands"
+    },
+    {
+      "name": "Półwysep Musandam",
+      "text": "Omańska eksklawa zwaną",
+      "gygQuery": "Musandam Peninsula"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Oman jest bezpieczny dla turystów?",
+      "a": "Tak, Oman jest uważany za jeden z najbezpieczniejszych krajów w regionie. Przestępczość jest niska, a władze dbają o bezpieczeństwo turystów. Należy jednak przestrzegać lokalnych zwyczajów i ubierać się skromnie."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Omanu?",
+      "a": "Najlepszy czas na podróż do Omanu to okres od października do kwietnia, kiedy temperatury są umiarkowane i przyjemne. Lato (maj-wrzesień) jest bardzo gorące, z wyjątkiem regionu Salalah, gdzie panuje pora monsunowa (khareef) od czerwca do września."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Omanu?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Omanu. Można ją uzyskać online, składając wniosek o e-wizę przed podróżą. Paszport powinien być ważny co najmniej 6 miesięcy od daty planowanego wjazdu."
+    },
+    {
+      "q": "Czy w Omanie można pić alkohol?",
+      "a": "Oman jest krajem muzułmańskim, a spożywanie alkoholu jest ograniczone. Alkohol jest dostępny w licencjonowanych hotelach i niektórych restauracjach. Publiczne spożywanie alkoholu i bycie pod jego wpływem jest zabronione i karane."
+    },
+    {
+      "q": "Jakie są główne atrakcje Omanu?",
+      "a": "Główne atrakcje to Wielki Meczet Sułtana Qaboosa w Maskacie, historyczne forty (np. Nizwa, Jabrin), malownicze wadi (np. Wadi Shab, Wadi Bani Khalid), pustynia Wahiba Sands, góry Hajar (Jebel Shams) oraz fiordy Musandam."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Omanu przypada na miesiące zimowe, od października do kwietnia. W tym okresie temperatury są umiarkowane i przyjemne, idealne do zwiedzania, trekkingu i relaksu na plażach. Unikać należy miesięcy letnich (maj-wrzesień), kiedy upały są bardzo intensywne, z wyjątkiem regionu Salalah, gdzie panuje wtedy pora monsunowa (khareef), przynosząca orzeźwienie i zieleń.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      10,
+      4
+    ]
+  },
+  "capital": "Maskat",
+  "climate": {
+    "air": [
+      26,
+      28,
+      31,
+      36,
+      41,
+      40,
+      38,
+      37,
+      37,
+      35,
+      31,
+      27
+    ],
+    "note": "dla Maskatu",
+    "sea": [
+      24,
+      23,
+      24,
+      26,
+      29,
+      31,
+      30,
+      29,
+      29,
+      28,
+      27,
+      25
+    ]
+  },
+  "cuisine": [
+    "Kuchnia omańska to mieszanka wpływów arabskich, indyjskich, perskich i afrykańskich, charakteryzująca się bogactwem przypraw i świeżych składników. Podstawą są ryż, mięso (kurczak, jagnięcina, koźlina) oraz świeże ryby i owoce morza. Popularne dania to shuwa (powoli pieczone mięso), machboos (ryż z mięsem i przyprawami), haris (pszenica z mięsem) oraz różnorodne gulasze. Posiłki często podaje się z chlebem khubz i świeżymi sałatkami. Do picia podaje się kawę z kardamonem (kahwa) i słodkie daktyle.",
+    ""
+  ],
+  "gygQuery": "Oman",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy do Omanu. Należy złożyć wniosek o e-wizę online przed podróżą. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Zawsze zaleca się sprawdzenie aktualnych wymagań wizowych na stronie MSZ lub ambasady przed wyjazdem.",
+    "flight": "Około 8-10 h z przesiadką, najczęściej w jednym z europejskich lub bliskowschodnich hubów.",
+    "language": "Oficjalnym językiem jest arabski, ale angielski jest powszechnie używany, zwłaszcza w sektorze turystycznym i biznesowym.",
+    "money": "Walutą jest Rial Omański (OMR). Płatności kartą są akceptowane w większych hotelach, restauracjach i sklepach, ale warto mieć przy sobie gotówkę, zwłaszcza na sukach i w mniejszych miejscowościach. Bankomaty są szeroko dostępne.",
+    "plugs": "W Omanie używane są gniazdka typu G (brytyjski standard, trzy prostokątne bolce). Napięcie wynosi 240 V, częstotliwość 50 Hz. Konieczny jest adapter.",
+    "safety": "Oman jest bardzo bezpiecznym krajem. Należy jednak szanować lokalne zwyczaje i kulturę, ubierać się skromnie, zwłaszcza podczas odwiedzania miejsc kultu. Zaleca się posiadanie ubezpieczenia podróżnego. Opieka medyczna jest na dobrym poziomie, ale prywatne placówki są drogie."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

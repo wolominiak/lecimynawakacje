@@ -1,0 +1,202 @@
+{
+  "slug": "nepal",
+  "loc": "w Nepalu",
+  "to": "do Nepalu",
+  "teaser": "Odkryj majestatyczne Himalaje, starożytne świątynie i unikalną kulturę. Nepal to cel dla poszukiwaczy przygód i duchowych doświadczeń.",
+  "intro": [
+    "Nepal to kraj, który natychmiast kojarzy się z najwyższymi górami świata. To tu wznosi się Mount Everest, a krajobraz zdominowany jest przez zapierające dech w piersiach szczyty Himalajów. Poza trekkingiem, Nepal oferuje bogactwo kulturowe, z setkami świątyń, stup i klasztorów, świadczących o głęboko zakorzenionych tradycjach buddyzmu i hinduizmu. To miejsce, gdzie czas płynie wolniej, a ludzie żyją w harmonii z naturą i duchowością.",
+    "Podróż do Nepalu to idealna propozycja dla aktywnych turystów, miłośników górskich wędrówek, a także dla tych, którzy szukają autentycznych doświadczeń kulturowych i duchowych. Niezależnie od tego, czy planujesz zdobyć bazę pod Everestem, czy po prostu chłonąć atmosferę Katmandu i Pokhary, Nepal z pewnością dostarczy niezapomnianych wrażeń. To kraj dla osób otwartych na nowe doznania, gotowych na pewne niedogodności, ale w zamian otrzymujących niezwykłe widoki i serdeczność mieszkańców.",
+    "Podróż z Polski do Nepalu wymaga przesiadek, zazwyczaj w jednym z dużych hubów lotniczych, takich jak Dubaj, Doha czy Stambuł. Całkowity czas lotu, wraz z oczekiwaniem na przesiadki, to zazwyczaj kilkanaście godzin. Po przylocie do Katmandu, stolicy kraju, czeka nas zanurzenie w zupełnie inny świat, pełen intensywnych zapachów, dźwięków i kolorów. Warto przygotować się na różnice kulturowe i logistyczne, które są częścią uroku podróżowania po Azji."
+  ],
+  "highlights": [
+    "Trekking w Himalajach, w tym do bazy pod Everestem",
+    "Zwiedzanie starożytnych świątyń i stup w Katmandu",
+    "Obserwacja dzikiej przyrody w Parku Narodowym Chitwan",
+    "Relaks nad jeziorem Phewa w Pokharze",
+    "Poznawanie kultury Szerpów i lokalnych społeczności",
+    "Uczestnictwo w festiwalach religijnych"
+  ],
+  "popularity": 18,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "dolina-katmandu",
+      "name": "Dolina Katmandu",
+      "loc": "w Dolinie Katmandu",
+      "intro": [
+        "Dolina Katmandu to serce Nepalu, gdzie znajduje się stolica kraju, Katmandu, oraz historyczne miasta Patan i Bhaktapur. To prawdziwe muzeum na świeżym powietrzu, pełne starożytnych świątyń, stup i pałaców. Każde z miast Doliny ma swój unikalny charakter i oferuje niezliczone zabytki wpisane na listę UNESCO, świadczące o bogatej historii i duchowości Nepalu.",
+        "Dolina Katmandu jest idealna dla miłośników kultury i historii. Można tu spędzić dni na zwiedzaniu placów Durbar, podziwianiu architektury Newarów, czy obserwacji codziennego życia mieszkańców. To także doskonała baza wypadowa do krótkich wędrówek po okolicznych wzgórzach, oferujących panoramiczne widoki na dolinę i odległe szczyty Himalajów."
+      ],
+      "airport": "KTM",
+      "forWhom": "Dla miłośników kultury, historii i duchowości.",
+      "gygQuery": "Kathmandu Valley",
+      "highlights": [
+        "Plac Durbar w Katmandu, Patanie, Bhaktapurze",
+        "Świątynia Małp (Swayambhunath)",
+        "Stupa Boudhanath",
+        "Świątynia Pashupatinath"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "pokhara",
+      "name": "Pokhara",
+      "loc": "w Pokharze",
+      "intro": [
+        "Pokhara to drugie co do wielkości miasto Nepalu, położone nad malowniczym jeziorem Phewa, w otoczeniu majestatycznych szczytów Annapurny. To spokojniejsze i bardziej relaksujące miejsce niż Katmandu, często służące jako baza wypadowa do trekkingów w regionie Annapurny. Miasto oferuje piękne widoki, możliwość uprawiania sportów wodnych i paralotniarstwa, a także liczne kawiarnie i restauracje z widokiem na jezioro.",
+        "Pokhara jest idealna dla osób szukających relaksu po górskich wędrówkach, a także dla tych, którzy chcą podziwiać Himalaje bez konieczności długich trekkingów. Można tu wynająć łódkę na jeziorze, odwiedzić Wodospad Davisa czy Jaskinię Gupteshwor, a także udać się na wschód słońca na Sarangkot, aby podziwiać panoramę Annapurny i Dhaulagiri."
+      ],
+      "airport": "PKR",
+      "forWhom": "Dla miłośników natury, sportów wodnych i relaksu z widokiem na góry.",
+      "gygQuery": "Pokhara",
+      "highlights": [
+        "Jezioro Phewa i rejsy łodzią",
+        "Wschód słońca z Sarangkot",
+        "Światowa Stupa Pokoju",
+        "Muzeum Górskie"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "region-everestu",
+      "name": "Region Everestu (Khumbu)",
+      "loc": "w Regionie Everestu",
+      "intro": [
+        "Region Everestu, znany również jako Khumbu, to cel marzeń wielu trekkingowców. To tutaj znajduje się najwyższy szczyt świata, Mount Everest, oraz Park Narodowy Sagarmatha, wpisany na listę UNESCO. Trekking do Everest Base Camp to jedna z najbardziej ikonicznych tras na świecie, prowadząca przez malownicze wioski Szerpów, wiszące mosty i buddyjskie klasztory, z widokami na lodowce i olbrzymie szczyty.",
+        "Ten region jest przeznaczony dla doświadczonych wędrowców, którzy są przygotowani na wysokie wysokości i wymagające warunki. Poza samym trekkingiem, Khumbu oferuje możliwość poznania kultury Szerpów, ich gościnności i głębokiej religijności. To niezapomniana przygoda, która pozwala poczuć potęgę Himalajów i sprawdzić własne granice."
+      ],
+      "airport": "LUA",
+      "forWhom": "Dla doświadczonych trekkingowców i poszukiwaczy górskich wyzwań.",
+      "gygQuery": "Everest Base Camp Trek",
+      "highlights": [
+        "Trekking do Everest Base Camp",
+        "Park Narodowy Sagarmatha",
+        "Klasztor Tengboche",
+        "Wioska Namche Bazaar"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "park-narodowy-chitwan",
+      "name": "Park Narodowy Chitwan",
+      "loc": "w Parku Narodowym Chitwan",
+      "intro": [
+        "Park Narodowy Chitwan, położony w południowym Nepalu, to zupełnie inne oblicze kraju, z dala od górskich szczytów. To obszar subtropikalnych lasów i łąk, będący domem dla rzadkich gatunków zwierząt, takich jak nosorożce indyjskie, tygrysy bengalskie, słonie, lamparty i krokodyle. Park oferuje safari na słoniach, jeepach lub pieszo, a także spływy kajakowe po rzekach.",
+        "Chitwan jest idealny dla miłośników przyrody i dzikich zwierząt. To doskonała okazja, aby zobaczyć zagrożone gatunki w ich naturalnym środowisku. Poza safari, można tu odwiedzić wioski Tharu, poznać ich kulturę i tradycje, a także obserwować ptaki. To świetne uzupełnienie podróży po Nepalu, oferujące kontrast do górskich krajobrazów."
+      ],
+      "airport": "BHR",
+      "forWhom": "Dla miłośników dzikiej przyrody i safari.",
+      "gygQuery": "Chitwan National Park",
+      "highlights": [
+        "Safari na nosorożce i tygrysy",
+        "Spływy kajakowe po rzece Rapti",
+        "Obserwacja ptaków",
+        "Wizyta w wioskach Tharu"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Swayambhunath (Świątynia Małp)",
+      "text": "Starożytna stupa buddyjska na wzgórzu w Dolinie Katmandu, oferująca panoramiczne widoki na miasto. Jest domem dla setek świętych małp, które swobodnie poruszają się po terenie kompleksu.",
+      "gygQuery": "Swayambhunath"
+    },
+    {
+      "name": "Boudhanath Stupa",
+      "text": "Jedna z największych stup na świecie, centrum tybetańskiego buddyzmu w Nepalu. To ważne miejsce pielgrzymek, otoczone klasztorami i sklepikami, gdzie można obserwować modlących się pielgrzymów.",
+      "gygQuery": "Boudhanath Stupa"
+    },
+    {
+      "name": "Pashupatinath Temple",
+      "text": "Najświętsza świątynia hinduistyczna w Nepalu, poświęcona Sziwie, położona nad rzeką Bagmati. Jest to miejsce kremacji, gdzie można obserwować hinduskie rytuały pogrzebowe i życie sadhu.",
+      "gygQuery": "Pashupatinath Temple"
+    },
+    {
+      "name": "Place Durbar (Katmandu, Patan, Bhaktapur)",
+      "text": "Historyczne place przed dawnymi pałacami królewskimi, wpisane na listę UNESCO. Zobaczymy tu misternie rzeźbione świątynie, posągi i pałace, będące świadectwem architektury Newarów.",
+      "gygQuery": "Kathmandu Durbar Square"
+    },
+    {
+      "name": "Everest Base Camp Trek",
+      "text": "Jedna z najbardziej znanych tras trekkingowych na świecie, prowadząca do bazy pod Mount Everestem. Oferuje niezapomniane widoki na najwyższe szczyty Himalajów i pozwala poznać kulturę Szerpów.",
+      "gygQuery": "Everest Base Camp Trek"
+    },
+    {
+      "name": "Jezioro Phewa",
+      "text": "Malownicze jezioro w Pokharze, otoczone zielonymi wzgórzami i z widokiem na szczyty Annapurny. Idealne do rejsów łodzią, kajakarstwa i relaksu.",
+      "gygQuery": "Phewa Lake"
+    },
+    {
+      "name": "Park Narodowy Chitwan Safari",
+      "text": "Safari w subtropikalnym lesie, gdzie można spotkać nosorożce indyjskie, tygrysy bengalskie, słonie i wiele gatunków ptaków. Oferuje unikalne doświadczenie dzikiej przyrody.",
+      "gygQuery": "Chitwan National Park Safari"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy do Nepalu potrzebna jest wiza?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Nepalu. Można ją uzyskać po przylocie na lotnisku w Katmandu (tzw. visa on arrival) lub online przed wyjazdem. Warto sprawdzić aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Nepalu?",
+      "a": "Najlepszy czas na podróż do Nepalu to okres po monsunie (październik-listopad) oraz przed monsunem (marzec-kwiecień). Wtedy pogoda jest stabilna, a widoki na góry są najczystsze. Unikaj pory monsunowej (czerwiec-wrzesień) ze względu na intensywne deszcze."
+    },
+    {
+      "q": "Czy Nepal jest bezpieczny dla turystów?",
+      "a": "Nepal jest generalnie bezpiecznym krajem dla turystów, choć należy zachować podstawowe środki ostrożności, zwłaszcza w dużych miastach. Główne zagrożenia to choroby przenoszone przez wodę i żywność, a także ryzyko choroby wysokościowej podczas trekkingów. Zaleca się wykupienie ubezpieczenia podróżnego."
+    },
+    {
+      "q": "Co spakować na trekking w Himalaje?",
+      "a": "Na trekking w Himalaje należy zabrać warstwową odzież, dobre buty trekkingowe, plecak, śpiwór (jeśli nocujesz w lodżach), kijki trekkingowe, apteczkę z lekami na chorobę wysokościową, filtr do wody, okulary przeciwsłoneczne, krem z filtrem i nakrycie głowy. Ważne jest też odpowiednie nawodnienie."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepsze miesiące na podróż do Nepalu to okres po monsunie, czyli od października do listopada, kiedy powietrze jest czyste, a widoki na Himalaje są spektakularne. To idealny czas na trekkingi i zwiedzanie. Dobrym okresem jest również wiosna, od marca do kwietnia, gdy kwitną rododendrony, choć temperatury mogą być wyższe, a widoczność nieco gorsza. Unikać należy pory monsunowej (czerwiec-wrzesień) ze względu na intensywne opady i ryzyko osuwisk.",
+    "best": [
+      10,
+      11,
+      3,
+      4
+    ],
+    "ok": [
+      12,
+      1,
+      2,
+      5
+    ]
+  },
+  "capital": "Katmandu",
+  "climate": {
+    "air": [
+      19,
+      21,
+      25,
+      28,
+      28,
+      27,
+      27,
+      27,
+      26,
+      25,
+      22,
+      19
+    ],
+    "note": "dla Katmandu",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia nepalska jest prosta, ale sycąca, oparta głównie na ryżu, soczewicy i warzywach. Narodowe danie to Dal Bhat, czyli ryż podawany z zupą z soczewicy (dal) i różnymi dodatkami warzywnymi (bhat). Popularne są również momo, czyli pierożki gotowane na parze lub smażone, z nadzieniem mięsnym lub warzywnym. Warto spróbować też thukpy (zupy z makaronem) i różnych rodzajów chlebków, takich jak roti czy naan. Jedzenie jest zazwyczaj łagodne, ale można poprosić o ostrzejszą wersję."
+  ],
+  "gygQuery": "Nepal",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy, którą można uzyskać online przed wyjazdem lub po przylocie na lotnisko w Katmandu. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych przed podróżą.",
+    "flight": "Około 12-15 godzin z przesiadką, zazwyczaj w Dubaju, Doha lub Stambule.",
+    "language": "Oficjalnym językiem jest nepalski. W obszarach turystycznych i wśród młodszych pokoleń powszechna jest znajomość angielskiego.",
+    "money": "Walutą jest rupia nepalska (NPR). W większych miastach i ośrodkach turystycznych dostępne są bankomaty i kantory. Warto mieć przy sobie gotówkę, zwłaszcza poza głównymi szlakami, gdyż płatności kartą nie są powszechne. Ceny są zazwyczaj negocjowalne na targach.",
+    "plugs": "W Nepalu używane są gniazdka typu C, D i M. Typ C jest kompatybilny z europejskimi wtyczkami, ale dla typów D i M potrzebna będzie przejściówka. Napięcie wynosi 230 V, a częstotliwość 50 Hz.",
+    "safety": "Nepal jest krajem bezpiecznym, ale należy uważać na drobne kradzieże w zatłoczonych miejscach. Ryzyko chorób przenoszonych przez wodę i żywność jest wysokie, dlatego pij tylko wodę butelkowaną i unikaj jedzenia z niesprawdzonych źródeł. Podczas trekkingów w Himalajach należy pamiętać o zagrożeniu chorobą wysokościową i odpowiednio się aklimatyzować. Zaleca się szczepienia przeciwko WZW A i B, tężcowi, błonicy i durowi brzusznemu. Przed wyjazdem warto skonsultować się z lekarzem medycyny podróży."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,234 @@
+{
+  "slug": "rumunia",
+  "loc": "w Rumunii",
+  "to": "do Rumunii",
+  "teaser": "Odkryj Rumunię - kraj pełen średniowiecznych zamków, dzikiej przyrody Karpat i fascynującej kultury, idealny na aktywny urlop.",
+  "intro": [
+    "Rumunia, często niedoceniana, to kraj o bogatej historii i zróżnicowanym krajobrazie, który potrafi zaskoczyć. Od majestatycznych Karpat, przez malownicze średniowieczne miasta Transylwanii, po unikalną deltę Dunaju i wybrzeże Morza Czarnego. Jest to idealne miejsce dla podróżników szukających autentycznych doświadczeń, z dala od masowej turystyki, ceniących sobie zarówno kontakt z naturą, jak i poznawanie lokalnych tradycji.",
+    "Kraj ten przyciąga miłośników górskich wędrówek, rowerzystów, entuzjastów historii i kultury, a także tych, którzy chcą odkryć mniej znane zakątki Europy. Rumunia to również doskonała propozycja dla rodzin z dziećmi, które szukają aktywnego wypoczynku i edukacyjnych przygód. Ceny są tu zazwyczaj niższe niż w Europie Zachodniej, co czyni ją atrakcyjną opcją dla osób z ograniczonym budżetem.",
+    "Z Polski do Rumunii najłatwiej dostać się samochodem, co pozwala na swobodne zwiedzanie kraju, zwłaszcza regionów górskich i małych wiosek. Dostępne są również bezpośrednie loty do Bukaresztu z kilku polskich miast, co skraca czas podróży. Podróżowanie po kraju ułatwia rozwijająca się sieć dróg, choć warto pamiętać, że standardy mogą być zróżnicowane, szczególnie poza głównymi trasami. Rumunia to prawdziwa gratka dla odkrywców."
+  ],
+  "highlights": [
+    "Wędrówki po dzikich Karpatach",
+    "Średniowieczne zamki Transylwanii",
+    "Kolorowe monastyry Bukowiny",
+    "Malownicza trasa Transfăgărășan",
+    "Delta Dunaju - raj dla ptaków",
+    "Tętniący życiem Bukareszt"
+  ],
+  "popularity": 30,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "transylwania",
+      "name": "Transylwania",
+      "loc": "w Transylwanii",
+      "intro": [
+        "Transylwania to serce Rumunii, słynąca z legend o Drakuli, ale przede wszystkim z urokliwych, średniowiecznych miast i fortec. Region ten oferuje niezliczone zamki, takie jak Bran czy Peleș, oraz ufortyfikowane kościoły saskie, wpisane na listę UNESCO. Malownicze krajobrazy Karpat Południowych i Wschodnich stanowią idealne tło dla pieszych wędrówek i odkrywania ukrytych wiosek.",
+        "Miasta takie jak Braszów, Sybin czy Sighișoara (ostatnie to jedyna zamieszkana cytadela w Europie) zachwycają architekturą i atmosferą. Transylwania to także region o bogatej kulturze i tradycjach, gdzie spotykają się wpływy rumuńskie, węgierskie i saskie. To doskonałe miejsce na road trip, pozwalający na swobodne zwiedzanie i podziwianie różnorodności krajobrazu."
+      ],
+      "airport": "Sibiu (SBZ), Cluj-Napoca (CLJ)",
+      "forWhom": "Dla miłośników historii, legend, średniowiecznych miast i górskich krajobrazów.",
+      "gygQuery": "Transylvania",
+      "highlights": [
+        "Zamek Bran i legenda Drakuli",
+        "Malownicza Sighișoara UNESCO",
+        "Ufortyfikowane kościoły saskie",
+        "Górskie szlaki Karpat"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "bukowina",
+      "name": "Bukowina",
+      "loc": "na Bukowinie",
+      "intro": [
+        "Bukowina, położona w północno-wschodniej Rumunii, słynie przede wszystkim z unikatowych malowanych monastyrów, które są prawdziwymi arcydziełami sztuki bizantyjskiej i wpisanymi na listę światowego dziedzictwa UNESCO. Klasztory takie jak Voroneț, Humor, Moldovița czy Sucevița zachwycają freskami pokrywającymi zewnętrzne ściany, przedstawiającymi sceny biblijne i historyczne w żywych kolorach. To miejsce o głębokich korzeniach duchowych i kulturowych.",
+        "Region ten oferuje również piękne krajobrazy Karpat Wschodnich, tradycyjne wioski i gościnność mieszkańców. To idealne miejsce na spokojny wypoczynek, poznawanie lokalnego rzemiosła i degustację regionalnych potraw. Bukowina to podróż w czasie do autentycznej, wiejskiej Rumunii, gdzie folklor wciąż jest żywy."
+      ],
+      "airport": "Suceava (SCV)",
+      "forWhom": "Dla poszukiwaczy unikalnej sztuki sakralnej i tradycyjnej rumuńskiej kultury.",
+      "gygQuery": "Bucovina",
+      "highlights": [
+        "Malowane monastyry UNESCO",
+        "Klasztor Voroneț - Kaplica Sykstyńska Wschodu",
+        "Tradycyjne wioski i rzemiosło",
+        "Piękno Karpat Wschodnich"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "bukareszt",
+      "name": "Bukareszt",
+      "loc": "w Bukareszcie",
+      "intro": [
+        "Bukareszt, stolica Rumunii, to tętniące życiem miasto, często nazywane 'Paryżem Wschodu' ze względu na swoją architekturę i szerokie bulwary. To miasto kontrastów, gdzie obok monumentalnych socrealistycznych budowli, takich jak Pałac Parlamentu, stoją urokliwe cerkwie i eleganckie kamienice z Belle Époque. Stare Miasto, z jego brukowanymi uliczkami i licznymi restauracjami, barami i kawiarniami, jest sercem nocnego życia i doskonałym miejscem na wieczorny spacer.",
+        "Miasto oferuje wiele muzeów, galerii sztuki i parków, takich jak Park Herăstrău, idealny na relaks. Bukareszt to także centrum kulturalne i biznesowe kraju, co sprawia, że jest dynamicznym miejscem, które ciągle się rozwija. Warto poświęcić mu kilka dni, aby poczuć jego unikalną atmosferę i odkryć jego ukryte skarby."
+      ],
+      "airport": "Henri Coandă International Airport (OTP)",
+      "forWhom": "Dla miłośników miejskiego zgiełku, architektury i nocnego życia.",
+      "gygQuery": "Bucharest",
+      "highlights": [
+        "Gigantyczny Pałac Parlamentu",
+        "Urokliwe Stare Miasto",
+        "Muzeum Wsi im. Dimitrie Gusti",
+        "Park Herăstrău"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "delta-dunaju",
+      "name": "Delta Dunaju",
+      "loc": "w Delcie Dunaju",
+      "intro": [
+        "Delta Dunaju to drugi co do wielkości obszar podmokły w Europie i jeden z najlepiej zachowanych, wpisany na listę UNESCO. To prawdziwy raj dla ptaków, dom dla ponad 300 gatunków, w tym pelikanów, kormoranów i czapli. Labirynt kanałów, jezior, trzcinowisk i lasów łęgowych tworzy unikalny ekosystem, który można podziwiać podczas rejsów łodzią, często z lokalnymi przewodnikami.",
+        "To idealne miejsce na obserwację ptaków, wędkarstwo i spokojny wypoczynek z dala od cywilizacji. Wioski w delcie, takie jak Mila 23, oferują autentyczne doświadczenia i możliwość spróbowania świeżych rybnych potraw. Podróż do Delty Dunaju to spotkanie z dziewiczą naturą i unikalną kulturą rybacką."
+      ],
+      "airport": "Constanta (CND)",
+      "forWhom": "Dla miłośników dzikiej przyrody, ornitologów i poszukiwaczy spokoju.",
+      "gygQuery": "Danube Delta",
+      "highlights": [
+        "Raj dla ornitologów",
+        "Rejsy łodzią po kanałach",
+        "Dzika, nienaruszona przyroda",
+        "Tradycyjne wioski rybackie"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "rumunskie-wybrzeze",
+      "name": "Rumuńskie Wybrzeże Morza Czarnego",
+      "loc": "na Rumuńskim Wybrzeżu Morza Czarnego",
+      "intro": [
+        "Rumuńskie wybrzeże Morza Czarnego oferuje długie, piaszczyste plaże i szereg kurortów, które przez lata były popularnym celem wakacyjnych wyjazdów. Największym miastem i portem jest Konstanca, oferująca nie tylko plaże, ale także ciekawe zabytki, takie jak Stare Miasto z kasynem i Muzeum Archeologicznym. Kurorty takie jak Mamaia, Eforie Nord czy Vama Veche zaspokajają różne gusta - od luksusowych hoteli po bardziej swobodną, bohemską atmosferę.",
+        "To idealne miejsce na letni wypoczynek, kąpiele słoneczne i wodne atrakcje. W sezonie letnim wybrzeże tętni życiem, oferując liczne restauracje, bary i kluby. Choć może nie dorównuje popularnością śródziemnomorskim destynacjom, stanowi ciekawą alternatywę dla tych, którzy szukają słońca i morza w nieco innej scenerii."
+      ],
+      "airport": "Constanta (CND)",
+      "forWhom": "Dla szukających słońca, plaż i nadmorskiego relaksu.",
+      "gygQuery": "Romanian Black Sea Coast",
+      "highlights": [
+        "Piaszczyste plaże Morza Czarnego",
+        "Kurort Mamaia z luksusami",
+        "Stare Miasto w Konstancy",
+        "Alternatywa dla Bałkanów"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Zamek Bran",
+      "text": "Znany jako 'Zamek Drakuli', to średniowieczna twierdza położona malowniczo na skale, która stała się inspiracją dla powieści Brama Stokera. Choć związek z Władem Palownikiem jest luźny, zamek przyciąga rzesze turystów swoją tajemniczą atmosferą i historią.",
+      "gygQuery": "Bran Castle"
+    },
+    {
+      "name": "Pałac Peleș",
+      "text": "Bajkowy pałac w stylu neorenesansowym, letnia rezydencja rumuńskich królów, położony w górskiej scenerii Karpat. Zachwyca bogactwem zdobień, kolekcjami sztuki i luksusowymi wnętrzami, będąc jednym z najpiękniejszych zamków w Europie.",
+      "gygQuery": "Peles Castle"
+    },
+    {
+      "name": "Malowane Monastyry Bukowiny",
+      "text": "Unikalny kompleks klasztorów prawosławnych (m.in. Voroneț, Humor, Moldovița) z XV-XVI wieku, których zewnętrzne ściany pokryte są misternymi freskami. Te wpisane na listę UNESCO obiekty to arcydzieła sztuki religijnej i historycznej.",
+      "gygQuery": "Painted Monasteries Bucovina"
+    },
+    {
+      "name": "Trasa Transfăgărășan",
+      "text": "Jedna z najbardziej spektakularnych dróg na świecie, wijąca się przez Karpaty Południowe, oferująca zapierające dech w piersiach widoki. To wyzwanie dla kierowców i gratka dla miłośników górskich krajobrazów, dostępna zazwyczaj od czerwca do października.",
+      "gygQuery": "Transfagarasan Road"
+    },
+    {
+      "name": "Pałac Parlamentu w Bukareszcie",
+      "text": "Drugi co do wielkości budynek administracyjny na świecie, symbol megalomanii reżimu Nicolae Ceaușescu. Imponująca konstrukcja, którą można zwiedzać, aby poznać jej historię i podziwiać monumentalne wnętrza.",
+      "gygQuery": "Palace of the Parliament Bucharest"
+    },
+    {
+      "name": "Sighișoara Cytadela",
+      "text": "Jedna z najlepiej zachowanych średniowiecznych, zamieszkanych cytadel w Europie, wpisana na listę UNESCO. Urokliwe brukowane uliczki, kolorowe domy i Wieża Zegarowa tworzą bajkową atmosferę, a miasto jest uważane za miejsce narodzin Włada Palownika.",
+      "gygQuery": "Sighisoara Citadel"
+    },
+    {
+      "name": "Delta Dunaju",
+      "text": "Rozległy obszar podmokły u ujścia Dunaju do Morza Czarnego, wpisany na listę UNESCO. To raj dla ornitologów i miłośników dziewiczej przyrody, oferujący unikalne ekosystemy i możliwość obserwacji setek gatunków ptaków podczas rejsów łodzią.",
+      "gygQuery": "Danube Delta"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Rumunia jest bezpieczna dla turystów?",
+      "a": "Tak, Rumunia jest generalnie bezpiecznym krajem dla turystów. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza w dużych miastach i zatłoczonych miejscach, aby uniknąć kradzieży kieszonkowych. Warto mieć wykupione ubezpieczenie podróżne."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Rumunii?",
+      "a": "Obywatele Polski mogą wjechać do Rumunii na podstawie ważnego dowodu osobistego lub paszportu. Rumunia jest członkiem Unii Europejskiej, więc nie ma potrzeby posiadania wizy na pobyty turystyczne."
+    },
+    {
+      "q": "Czy w Rumunii można płacić kartą?",
+      "a": "W większych miastach, sklepach i restauracjach płatności kartą są powszechne. W mniejszych miejscowościach, na targach czy w lokalnych sklepikach warto mieć przy sobie gotówkę (leje rumuńskie)."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Rumunii?",
+      "a": "Na zwiedzanie miast i zamków oraz wędrówki po niższych górach najlepiej wybrać wiosnę (maj-czerwiec) lub jesień (wrzesień-październik). Lato (lipiec-sierpień) jest idealne na trekking w wysokich Karpatach i wypoczynek nad Morzem Czarnym."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Rumunii zależy od planowanych aktywności. Na zwiedzanie miast i zamków oraz wędrówki po niższych partiach gór idealne są wiosna (maj-czerwiec) i jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy mniejsze. Lato (lipiec-sierpień) to szczyt sezonu turystycznego, idealny na górskie trekkingi w wyższych partiach Karpat i wypoczynek nad Morzem Czarnym, choć bywa wtedy gorąco. Zimą Rumunia oferuje możliwości narciarskie, zwłaszcza w regionie Prahova.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Bukareszt",
+  "climate": {
+    "air": [
+      2,
+      4,
+      10,
+      17,
+      22,
+      26,
+      29,
+      29,
+      24,
+      17,
+      9,
+      3
+    ],
+    "note": "dla Bukaresztu (powietrze) i Konstancy (morze)",
+    "sea": [
+      5,
+      4,
+      5,
+      9,
+      15,
+      20,
+      23,
+      24,
+      21,
+      16,
+      12,
+      8
+    ]
+  },
+  "cuisine": [
+    "Rumuńska kuchnia to smaczna mieszanka wpływów bałkańskich, tureckich, węgierskich i niemieckich. Podstawą są sycące dania mięsne, takie jak 'mici' (grillowane kiełbaski z mięsa mielonego), 'sarmale' (gołąbki z liści kapusty z farszem mięsnym i ryżowym) czy 'ciorbă' (gęste, kwaśne zupy, często z mięsem i warzywami). Popularne są także 'mămăligă' (rodzaj polenty) podawana jako dodatek do wielu potraw oraz różnorodne sery owcze. Na deser warto spróbować 'papanași' - pączków z serem i dżemem. Do posiłku często podaje się lokalne wina lub mocniejszą 'țuicę' (śliwowicę)."
+  ],
+  "gygQuery": "Romania",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać do Rumunii na podstawie ważnego dowodu osobistego lub paszportu. Rumunia jest członkiem Unii Europejskiej. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Bezpośrednie loty z Warszawy do Bukaresztu trwają około 1,5 godziny. Z innych miast Polski często z przesiadką, czas lotu może wynosić około 3-5 godzin.",
+    "language": "Oficjalnym językiem jest rumuński. W większych miastach i miejscach turystycznych można porozumieć się po angielsku, a czasem po niemiecku lub francusku. W niektórych regionach usłyszeć można węgierski.",
+    "money": "Walutą jest lej rumuński (RON). Płatności kartą są powszechne w większych miastach i sklepach, ale w mniejszych miejscowościach i na targach warto mieć gotówkę. Bankomaty są łatwo dostępne.",
+    "plugs": "W Rumunii stosuje się gniazdka typu F (tzw. Schuko), takie same jak w Polsce, więc nie potrzeba adaptera.",
+    "safety": "Rumunia jest generalnie krajem bezpiecznym dla turystów, ale jak wszędzie, należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach i komunikacji miejskiej, aby uniknąć kradzieży kieszonkowych. Zaleca się posiadanie ubezpieczenia podróżnego. Opieka medyczna jest dostępna, ale jej standard może być zróżnicowany.",
+    "timeDiff": "Rumunia leży w strefie czasowej EET (Eastern European Time), co oznacza, że jest o godzinę do przodu względem Polski (Polska 12:00, Rumunia 13:00)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

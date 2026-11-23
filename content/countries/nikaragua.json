@@ -1,0 +1,233 @@
+{
+  "slug": "nikaragua",
+  "loc": "w Nikaragui",
+  "to": "do Nikaragui",
+  "teaser": "Nikaragua to kraj wulkanów, jezior i kolonialnych miast. Idealna dla poszukiwaczy autentycznych wrażeń i przygód, z dala od masowej turystyki.",
+  "intro": [
+    "Nikaragua, największy kraj Ameryki Środkowej, to mozaika wulkanicznych krajobrazów, rozległych jezior i urokliwych miast kolonialnych. Przyciąga podróżników pragnących odkrywać miejsca mniej uczęszczane, oferując bogactwo natury i kultury. Od aktywnego wulkanu Masaya, przez spokojne wody Jeziora Nikaragua z wyspą Ometepe, po tętniące życiem ulice Granady i León, kraj ten ma wiele do zaoferowania. To idealne miejsce dla tych, którzy cenią sobie bliskość z lokalną społecznością i autentyczne doświadczenia.",
+    "Kraj ten jest przeznaczony dla podróżników z plecakiem, miłośników przyrody, surfingu oraz osób szukających przygód poza utartymi szlakami. Nikaragua oferuje możliwości wspinaczki na wulkany, zjazdów na desce po zboczach, eksploracji dżungli i relaksu na karaibskich plażach. Nie jest to destynacja dla osób oczekujących luksusowych kurortów all-inclusive czy perfekcyjnie zorganizowanej infrastruktury turystycznej. Tutaj liczy się otwartość na improwizację i gotowość na prawdziwą Amerykę Łacińską.",
+    "Podróż z Polski do Nikaragui wymaga zazwyczaj co najmniej jednej, a często dwóch przesiadek, najczęściej w dużych hubach europejskich i amerykańskich. Całkowity czas lotu, wraz z oczekiwaniem na przesiadki, to zazwyczaj kilkanaście, a nawet ponad dwadzieścia godzin. Nie ma bezpośrednich połączeń, a polskie biura podróży rzadko oferują zorganizowane wczasy w tym kierunku, co oznacza, że większość podróży trzeba planować samodzielnie. Warto pamiętać o tym, że infrastruktura turystyczna jest mniej rozwinięta niż w sąsiedniej Kostaryce."
+  ],
+  "highlights": [
+    "Wulkaniczne krajobrazy i aktywny wulkan Masaya",
+    "Kolonialne miasta: Granada i León",
+    "Jezioro Nikaragua z wyspą Ometepe",
+    "Surfing na wybrzeżu Pacyfiku",
+    "Autentyczna kultura i lokalna kuchnia",
+    "Karaibskie Wyspy Kukurydziane"
+  ],
+  "popularity": 8,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "granada",
+      "name": "Granada",
+      "loc": "w Granadzie",
+      "intro": [
+        "Granada to jedno z najstarszych miast kolonialnych w Ameryce Środkowej, zachwycające kolorową architekturą, brukowanymi uliczkami i urokliwym rynkiem. Leży nad brzegiem Jeziora Nikaragua, oferując piękne widoki i łatwy dostęp do okolicznych atrakcji. Spacerując po centrum, można podziwiać zabytkowe kościoły, wille i tętniące życiem place, które wieczorami wypełniają się muzyką i lokalnymi przysmakami.",
+        "Miasto jest doskonałą bazą wypadową do zwiedzania wulkanu Mombacho, rezerwatu Isletas de Granada - archipelagu małych wysepek na jeziorze, czy aktywnego wulkanu Masaya. Granada to także centrum kulturalne, gdzie można poznać lokalne rzemiosło, spróbować tradycyjnej kuchni i poczuć prawdziwy puls Nikaragui. To miejsce, które łączy historię z naturalnym pięknem."
+      ],
+      "airport": "MGA",
+      "forWhom": "Dla miłośników historii, architektury i bliskości natury.",
+      "gygQuery": "Granada Nicaragua",
+      "highlights": [
+        "Kolorowa architektura kolonialna",
+        "Rejs po Isletas de Granada",
+        "Bliskość wulkanu Mombacho",
+        "Tętniący życiem rynek"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "leon",
+      "name": "León",
+      "loc": "w León",
+      "intro": [
+        "León, historyczna stolica Nikaragui, to miasto o bogatej historii rewolucyjnej i intelektualnej, będące centrum kultury i sztuki. Słynie z imponującej katedry - największej w Ameryce Środkowej, której dach oferuje panoramiczne widoki na miasto i okoliczne wulkany. Ulice León są pełne murali, galerii sztuki i muzeów, opowiadających o burzliwej przeszłości kraju.",
+        "Miasto jest również popularną bazą dla miłośników aktywnego wypoczynku, zwłaszcza ze względu na bliskość wulkanu Cerro Negro, gdzie można spróbować volcano boardingu - zjazdu na desce po jego zboczu. León oferuje bardziej surowy, autentyczny klimat niż Granada, co docenią podróżnicy szukający głębszego zanurzenia w lokalne realia i poznania historii Nikaragui z perspektywy jej mieszkańców."
+      ],
+      "airport": "MGA",
+      "forWhom": "Dla zainteresowanych historią, kulturą i aktywnymi przygodami.",
+      "gygQuery": "Leon Nicaragua",
+      "highlights": [
+        "Katedra w León i jej dach",
+        "Volcano boarding na Cerro Negro",
+        "Mury i muzea rewolucyjne",
+        "Autentyczna atmosfera miasta"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "wyspa-ometepe",
+      "name": "Wyspa Ometepe",
+      "loc": "na Wyspie Ometepe",
+      "intro": [
+        "Wyspa Ometepe, położona na Jeziorze Nikaragua, to unikalne miejsce uformowane przez dwa wulkany: Concepcion (aktywny) i Maderas (nieaktywny). Jej nazwa oznacza w języku Nahuatl „dwie góry” i doskonale oddaje charakter wyspy. Jest to raj dla miłośników ekoturystyki, oferujący bujną roślinność, wodospady, rezerwaty przyrody i liczne szlaki trekkingowe prowadzące na szczyty wulkanów.",
+        "Ometepe to także miejsce, gdzie można poczuć spokojny, wiejski rytm życia, z dala od zgiełku miast. Można tu wynająć skuter, by odkrywać ukryte plaże, kąpać się w naturalnych basenach, podziwiać petroglify czy obserwować małpy i egzotyczne ptaki. To idealne miejsce na kilka dni relaksu i aktywnego wypoczynku w otoczeniu niezwykłej przyrody."
+      ],
+      "airport": "MGA",
+      "forWhom": "Dla miłośników natury, trekkingu i spokojnego wypoczynku.",
+      "gygQuery": "Ometepe Island",
+      "highlights": [
+        "Wulkany Concepcion i Maderas",
+        "Szlaki trekkingowe i wodospady",
+        "Obserwacja dzikiej przyrody",
+        "Spokojna, wiejska atmosfera"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "san-juan-del-sur",
+      "name": "San Juan del Sur",
+      "loc": "w San Juan del Sur",
+      "intro": [
+        "San Juan del Sur to popularna miejscowość na wybrzeżu Pacyfiku, znana z pięknych plaż i doskonałych warunków do surfingu. To tętniące życiem miasteczko rybackie przekształciło się w mekkę dla surferów i turystów szukających słońca, piasku i dobrej zabawy. Jego zatoka jest idealna do pływania, a okoliczne plaże, takie jak Playa Maderas czy Playa Hermosa, oferują fale dla każdego poziomu zaawansowania.",
+        "Oprócz surfingu, San Juan del Sur oferuje wiele innych atrakcji, takich jak rejsy o zachodzie słońca, jazda konna po plaży, wędkarstwo morskie czy wycieczki do pobliskich rezerwatów przyrody. Wieczorami miasteczko ożywa dzięki licznym barom i restauracjom serwującym świeże owoce morza. To idealne miejsce na relaks i aktywny wypoczynek na wybrzeżu."
+      ],
+      "airport": "MGA",
+      "forWhom": "Dla surferów, miłośników plażowania i aktywnego wypoczynku.",
+      "gygQuery": "San Juan del Sur",
+      "highlights": [
+        "Doskonałe warunki do surfingu",
+        "Piękne plaże Pacyfiku",
+        "Tętniące życiem miasteczko",
+        "Rejsy o zachodzie słońca"
+      ],
+      "type": "kurort"
+    },
+    {
+      "slug": "corn-islands",
+      "name": "Corn Islands (Wyspy Kukurydziane)",
+      "loc": "na Wyspach Kukurydzianych",
+      "intro": [
+        "Big Corn Island i Little Corn Island to dwie karaibskie wyspy, położone około 70 km od wschodniego wybrzeża Nikaragui. Oferują one zupełnie inny klimat niż kontynentalna część kraju - to kwintesencja karaibskiego raju z białymi piaszczystymi plażami, turkusową wodą i palmami kokosowymi. Na Little Corn Island nie ma samochodów, co potęguje poczucie ucieczki od cywilizacji i sprzyja relaksowi.",
+        "Wyspy są idealne dla miłośników nurkowania i snorkelingu, z bogatymi rafami koralowymi i różnorodnym życiem morskim. Można tu również pływać kajakiem, łowić ryby lub po prostu odpoczywać w hamaku. To doskonałe miejsce, aby zakończyć podróż po Nikaragui w prawdziwie relaksującym stylu, ciesząc się karaibskim słońcem i spokojem, z dala od zgiełku świata."
+      ],
+      "airport": "RNI",
+      "forWhom": "Dla poszukujących rajskich plaż, nurkowania i pełnego relaksu.",
+      "gygQuery": "Corn Islands",
+      "highlights": [
+        "Białe plaże i turkusowa woda",
+        "Doskonałe miejsca do nurkowania",
+        "Spokojna atmosfera bez samochodów",
+        "Świeże owoce morza"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan Masaya",
+      "text": "Jeden z najbardziej aktywnych wulkanów Nikaragui, którego krater można podziwiać po zmroku, obserwując bulgoczącą lawę. To niezwykłe doświadczenie, dostępne dla każdego.",
+      "gygQuery": "Masaya Volcano"
+    },
+    {
+      "name": "Katedra w León",
+      "text": "Największa katedra w Ameryce Środkowej, wpisana na listę UNESCO. Warto wejść na jej biały dach, aby podziwiać panoramę miasta i okolicznych wulkanów.",
+      "gygQuery": "Leon Cathedral"
+    },
+    {
+      "name": "Isletas de Granada",
+      "text": "Archipelag około 365 małych wysepek na Jeziorze Nikaragua, powstałych w wyniku erupcji wulkanu Mombacho. Można je zwiedzać podczas rejsu łodzią, podziwiając luksusowe wille i dziką przyrodę.",
+      "gygQuery": "Isletas de Granada"
+    },
+    {
+      "name": "Wulkan Cerro Negro",
+      "text": "Najmłodszy wulkan w Ameryce Środkowej, znany z możliwości uprawiania volcano boardingu - zjazdu na desce po jego czarnych, wulkanicznych zboczach. To zastrzyk adrenaliny gwarantowany.",
+      "gygQuery": "Cerro Negro Volcano"
+    },
+    {
+      "name": "Wodospad San Ramon (Ometepe)",
+      "text": "Malowniczy wodospad położony na zboczach wulkanu Maderas na wyspie Ometepe. Dotarcie do niego wymaga przyjemnego trekkingu przez dżunglę, oferując orzeźwiającą kąpiel.",
+      "gygQuery": "San Ramon Waterfall Ometepe"
+    },
+    {
+      "name": "Plaże San Juan del Sur",
+      "text": "Słynne z doskonałych warunków do surfingu i relaksu. Od tętniącej życiem głównej plaży po spokojniejsze zatoczki, każdy znajdzie coś dla siebie. Idealne na zachody słońca.",
+      "gygQuery": "San Juan del Sur beaches"
+    },
+    {
+      "name": "Rezerwat Przyrody Miraflor",
+      "text": "Obszar chroniony w północnej Nikaragui, słynący z upraw kawy, bujnej roślinności, wodospadów i bogactwa ptaków. Idealne miejsce na ekoturystykę i poznanie życia lokalnych farmerów.",
+      "gygQuery": "Miraflor Nature Reserve"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Nikaragua jest bezpieczna dla turystów?",
+      "a": "Nikaragua wymaga ostrożności ze względu na przestępczość pospolitą i niestabilną sytuację polityczną. Zaleca się unikanie samotnych spacerów po zmroku, szczególnie w miastach, oraz śledzenie bieżących komunikatów MSZ."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Nikaragui?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu. Na granicy należy uiścić opłatę za kartę turystyczną (ok. 10-12 USD), uprawniającą do pobytu do 90 dni. Zawsze warto sprawdzić aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Jaka jest waluta w Nikaragui i czy można płacić dolarami?",
+      "a": "Oficjalną walutą jest cordoba nikaraguańska (NIO). Dolary amerykańskie (USD) są szeroko akceptowane, zwłaszcza w miejscach turystycznych. Warto mieć przy sobie drobne nominały lokalnej waluty."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Nikaragui?",
+      "a": "Najlepszy czas na podróż do Nikaragui to pora sucha, od grudnia do kwietnia. Wtedy pogoda jest słoneczna i stabilna, idealna do zwiedzania i aktywności na świeżym powietrzu."
+    }
+  ],
+  "bestTime": {
+    "text": "Nikaragua ma klimat tropikalny z dwiema głównymi porami: suchą i deszczową. Pora sucha, trwająca od grudnia do kwietnia, charakteryzuje się słoneczną pogodą i niższymi temperaturami, co czyni ją idealną do zwiedzania, trekkingu i plażowania. Od maja do listopada trwa pora deszczowa, z intensywnymi, choć zazwyczaj krótkimi opadami, które mogą utrudniać podróżowanie, ale jednocześnie sprawiają, że krajobraz staje się bujniejszy i bardziej zielony. Wybrzeże karaibskie ma nieco inny rozkład opadów, z większą ilością deszczu przez cały rok.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "capital": "Managua",
+  "climate": {
+    "air": [
+      31,
+      32,
+      34,
+      35,
+      34,
+      31,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "note": "dla Managui",
+    "sea": [
+      27,
+      27,
+      28,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia nikaraguańska jest prosta, sycąca i oparta na lokalnych produktach. Podstawą wielu dań jest gallo pinto - mieszanka ryżu i fasoli, często podawana na śniadanie. Popularne są również nacatamales, czyli rodzaj tamales z ciasta kukurydzianego z mięsem i warzywami, gotowane w liściach bananowca. Warto spróbować plantanów, zarówno smażonych (maduros), jak i gotowanych. Na wybrzeżu królują świeże owoce morza, a w głębi kraju dania z wołowiny i kurczaka. Nikaragua słynie także z doskonałej kawy oraz świeżych soków owocowych."
+  ],
+  "gygQuery": "Nicaragua",
+  "practical": {
+    "documents": "Ważny paszport. Wiza nie jest wymagana dla obywateli Polski na pobyt do 90 dni, ale należy uiścić opłatę za kartę turystyczną (ok. 10-12 USD) na granicy. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych i paszportowych przed wyjazdem w Ministerstwie Spraw Zagranicznych.",
+    "flight": "Około 15-20 godzin z Polski, z co najmniej jedną lub dwiema przesiadkami (zazwyczaj w Europie i USA).",
+    "language": "Hiszpański jest językiem urzędowym i dominującym. W regionach karaibskich używany jest również angielski kreolski.",
+    "money": "Walutą jest cordoba nikaraguańska (NIO). Dolary amerykańskie (USD) są powszechnie akceptowane, zwłaszcza w turystycznych miejscowościach. Bankomaty są dostępne w większych miastach, ale warto mieć gotówkę, zwłaszcza w mniejszych miejscowościach. Płatności kartą są mniej powszechne niż w Europie.",
+    "plugs": "Typ A i B (amerykańskie), napięcie 120 V, częstotliwość 60 Hz. Niezbędny adapter i ewentualnie konwerter napięcia.",
+    "safety": "Nikaragua jest krajem, w którym należy zachować szczególną ostrożność ze względu na wysoki poziom przestępczości pospolitej (kradzieże, napady) oraz niestabilną sytuację polityczną. Zaleca się unikanie samotnych spacerów po zmroku, zwłaszcza w Managui i innych dużych miastach. Należy śledzić komunikaty MSZ przed i w trakcie podróży oraz wykupić kompleksowe ubezpieczenie podróżne. Ryzyko chorób tropikalnych, takich jak denga czy chikungunya, wymaga stosowania środków odstraszających komary."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

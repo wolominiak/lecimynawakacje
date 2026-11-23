@@ -1,0 +1,172 @@
+{
+  "slug": "somalia",
+  "loc": "w Somalii",
+  "to": "do Somalii",
+  "teaser": "Somalia to kraj dla bardzo doświadczonych podróżników, oferujący surowe piękno i unikalne doświadczenia w regionie o wysokim ryzyku.",
+  "intro": [
+    "Somalia to kraj o burzliwej historii i niestabilnej sytuacji politycznej, co sprawia, że jest jednym z najtrudniejszych kierunków turystycznych na świecie. Nie jest to cel dla typowego urlopowicza szukającego relaksu, a raczej dla bardzo doświadczonych podróżników, poszukujących autentycznych, surowych doświadczeń. Brak tu rozwiniętej infrastruktury turystycznej, a bezpieczeństwo jest priorytetem, który wymaga szczegółowego planowania i często wsparcia lokalnych służb.",
+    "Podróż do Somalii to wyzwanie logistyczne i kulturowe, oferujące jednak unikalny wgląd w życie wschodnioafrykańskiego narodu. Kraj ten, położony na Rogu Afryki, kusi długimi, dziewiczymi wybrzeżami i bogatą tradycją pasterską. Jest to miejsce dla tych, którzy są gotowi zmierzyć się z realiami regionu i docenić jego nieoszlifowane piękno, z dala od utartych szlaków masowej turystyki.",
+    "Loty z Polski do Somalii zawsze wymagają co najmniej dwóch przesiadek, najczęściej w Dubaju, Stambule lub Addis Abebie, a cała podróż zajmuje kilkanaście godzin. Przed wylotem niezbędne jest uzyskanie wizy i dokładne zapoznanie się z aktualnymi ostrzeżeniami dla podróżnych wydawanymi przez Ministerstwo Spraw Zagranicznych. Należy pamiętać, że podróżowanie po Somalii jest obarczone bardzo wysokim ryzykiem i zdecydowanie odradzane przez większość rządów."
+  ],
+  "highlights": [
+    "Dziewicze wybrzeża Oceanu Indyjskiego",
+    "Unikalna kultura i tradycje Somalijczyków",
+    "Ślady historycznej architektury w Mogadiszu",
+    "Autentyczne doświadczenie Afryki Wschodniej",
+    "Tętniące życiem lokalne rynki",
+    "Możliwość zobaczenia rzadkich gatunków zwierząt"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "mogadiszu",
+      "name": "Mogadiszu",
+      "loc": "w Mogadiszu",
+      "intro": [
+        "Mogadiszu, stolica Somalii, to miasto o bogatej historii, które przez dziesięciolecia było areną konfliktów. Dziś, mimo poprawy bezpieczeństwa w niektórych rejonach, nadal pozostaje jednym z najbardziej niebezpiecznych miast na świecie. Odwiedzający mogą tu zobaczyć ślady dawnej świetności, meczety, latarnie morskie i tętniące życiem, choć chaotyczne, rynki.",
+        "Podróżowanie po Mogadiszu wymaga wynajęcia ochrony i poruszania się w konwojach. Miasto oferuje unikalny wgląd w somalijską kulturę i codzienne życie, ale nie jest miejscem na swobodne zwiedzanie. Jest to cel dla tych, którzy są przygotowani na ekstremalne warunki i chcą zrozumieć złożoność regionu."
+      ],
+      "airport": "MGQ",
+      "forWhom": "Dla podróżników szukających autentycznych doświadczeń w stolicy Somalii, świadomych wysokiego ryzyka.",
+      "gygQuery": "Mogadishu",
+      "highlights": [
+        "Historyczne meczety i ruiny",
+        "Tętniące życiem rynki (z ochroną)",
+        "Malownicze wybrzeże Oceanu Indyjskiego",
+        "Wgląd w somalijską kulturę"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "somalijskie-wybrzeze",
+      "name": "Somalijskie Wybrzeże",
+      "loc": "na Somalijskim Wybrzeżu",
+      "intro": [
+        "Somalijskie wybrzeże, rozciągające się na ponad 3000 kilometrów wzdłuż Oceanu Indyjskiego, to jeden z najdłuższych odcinków linii brzegowej w Afryce. Charakteryzuje się ono dziewiczymi plażami, krystalicznie czystą wodą i bogatą fauną morską. Niestety, brak rozwiniętej infrastruktury turystycznej oraz zagrożenia związane z piractwem i niestabilnością regionu sprawiają, że jest to obszar praktycznie niedostępny dla turystów.",
+        "Potencjał turystyczny wybrzeża jest ogromny, ale obecnie pozostaje on niewykorzystany ze względu na sytuację bezpieczeństwa. Mimo to, widoki piaszczystych wydm, raf koralowych i lokalnych wiosek rybackich są niezwykle malownicze. Odwiedzanie tych terenów jest możliwe jedynie z dużą ostrożnością i odpowiednim zabezpieczeniem."
+      ],
+      "airport": "MGQ",
+      "forWhom": "Dla poszukiwaczy dziewiczych krajobrazów i odosobnionych plaż, akceptujących brak infrastruktury i zagrożenia.",
+      "gygQuery": "Somali Coast",
+      "highlights": [
+        "Dziewicze, piaszczyste plaże",
+        "Krystalicznie czyste wody oceanu",
+        "Potencjał do nurkowania i snorkelingu",
+        "Tradycyjne wioski rybackie"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Latarnia Morska w Mogadiszu",
+      "text": "Historyczna latarnia, choć zniszczona przez konflikty, nadal stanowi ważny punkt orientacyjny i świadectwo kolonialnej przeszłości miasta.",
+      "gygQuery": "Mogadishu Lighthouse"
+    },
+    {
+      "name": "Plaża Gezira",
+      "text": "Malownicza plaża na południe od Mogadiszu, znana z klifów i turkusowej wody, choć dostęp do niej jest utrudniony ze względów bezpieczeństwa.",
+      "gygQuery": "Gezira Beach Mogadishu"
+    },
+    {
+      "name": "Ruiny Garesa",
+      "text": "Pozostałości dawnego fortu i więzienia, które obecnie służą jako muzeum, oferując wgląd w burzliwą historię Somalii.",
+      "gygQuery": "Garesa Ruins Mogadishu"
+    },
+    {
+      "name": "Rynek Bakara",
+      "text": "Największy rynek w Mogadiszu, tętniący życiem i handlem, ale jednocześnie jeden z najbardziej niebezpiecznych obszarów, wymagający ekstremalnej ostrożności.",
+      "gygQuery": "Bakara Market Mogadishu"
+    },
+    {
+      "name": "Meczet Fakr ad-Dina",
+      "text": "Jeden z najstarszych meczetów w Somalii, zbudowany w XIII wieku, stanowi piękny przykład wczesnej islamskiej architektury w regionie.",
+      "gygQuery": "Fakr ad-Din Mosque Mogadishu"
+    },
+    {
+      "name": "Stare Miasto Shanghai",
+      "text": "Historyczna dzielnica Mogadiszu, niegdyś centrum handlowe, dziś obszar zniszczony, ale z zachowanymi fragmentami dawnej zabudowy.",
+      "gygQuery": "Shanghai Old City Mogadishu"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Somalia jest bezpiecznym krajem do podróżowania?",
+      "a": "Nie, Somalia jest uważana za jeden z najbardziej niebezpiecznych krajów na świecie. Ministerstwo Spraw Zagranicznych RP zdecydowanie odradza wszelkie podróże do tego kraju ze względu na wysokie ryzyko terroryzmu, porwań i konfliktów zbrojnych."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Somalii?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać na terytorium Somalii. Wizę należy uzyskać w przedstawicielstwie dyplomatycznym Somalii przed planowaną podróżą."
+    },
+    {
+      "q": "Jaka jest waluta w Somalii i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest szyling somalijski (SOS), ale dolar amerykański (USD) jest szeroko akceptowany. Płatności kartą są bardzo rzadkie i praktycznie niemożliwe poza nielicznymi, dużymi hotelami. Należy mieć przy sobie gotówkę."
+    },
+    {
+      "q": "Jakie są języki urzędowe w Somalii?",
+      "a": "Oficjalnymi językami Somalii są somalijski i arabski. W niektórych obszarach, zwłaszcza w biznesie i administracji, można spotkać osoby posługujące się angielskim lub włoskim."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Somalii to suche miesiące, kiedy temperatury są nieco niższe, a opady deszczu minimalne. Okres od grudnia do lutego charakteryzuje się przyjemniejszą pogodą, z mniejszą wilgotnością i umiarkowanymi temperaturami. Również miesiące od czerwca do września, choć nieco chłodniejsze i bardziej wietrzne, są dogodne do zwiedzania, unikając intensywnych upałów i pór deszczowych, które mogą utrudniać przemieszczanie się.",
+    "best": [
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "capital": "Mogadiszu",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      32,
+      31,
+      29,
+      28,
+      28,
+      29,
+      30,
+      31,
+      31
+    ],
+    "note": "dla Mogadiszu",
+    "sea": [
+      27,
+      27,
+      28,
+      29,
+      28,
+      26,
+      25,
+      25,
+      26,
+      27,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia somalijska to mieszanka wpływów arabskich, indyjskich, etiopskich i włoskich, z dominacją mięsa (koziego, wołowego, wielbłądziego) i ryżu. Popularne dania to ryż z mięsem (bariis iyo hilib), chapati, sambusa (smażone pierożki z nadzieniem) oraz różne rodzaje gulaszów. Śniadania często składają się z placków canjeero podawanych z miodem lub sosem. Ze względu na muzułmański charakter kraju, wieprzowina jest zakazana, a alkohol trudno dostępny."
+  ],
+  "gygQuery": "Somalia",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy oraz wiza. Przed wyjazdem należy sprawdzić aktualne wymogi wizowe w ambasadzie Somalii lub na stronie MSZ RP.",
+    "flight": "Około 12-15 h z przesiadkami (najczęściej w Dubaju, Stambule lub Addis Abebie).",
+    "language": "Somalijski, arabski. W ograniczonym zakresie angielski.",
+    "money": "Szyling somalijski (SOS) i dolar amerykański (USD). Płatności gotówką są standardem, karty kredytowe akceptowane są bardzo rzadko.",
+    "plugs": "Typ C, D, E, F, G, K, L. Zaleca się zabranie uniwersalnego adaptera.",
+    "safety": "Sytuacja bezpieczeństwa w Somalii jest bardzo niestabilna. Występuje wysokie ryzyko ataków terrorystycznych, porwań, konfliktów zbrojnych i przestępczości pospolitej. Ministerstwo Spraw Zagranicznych RP zdecydowanie odradza wszelkie podróże do tego kraju. W przypadku konieczności podróży, należy skorzystać z profesjonalnej ochrony i bardzo szczegółowo zaplanować każdy aspekt pobytu.",
+    "timeDiff": "+2 godziny (zimą), +1 godzina (latem) względem Polski."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

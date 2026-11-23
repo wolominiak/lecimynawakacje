@@ -1,0 +1,196 @@
+{
+  "slug": "samoa",
+  "loc": "na Samoa",
+  "to": "na Samoa",
+  "teaser": "Samoa to perła Pacyfiku, oferująca dziewicze plaże, krystaliczną wodę i autentyczną kulturę Polinezji, z dala od masowej turystyki.",
+  "intro": [
+    "Samoa, położona w sercu Polinezji, to idealne miejsce dla tych, którzy szukają ucieczki od zgiełku i pragną zanurzyć się w prawdziwym raju. Kraj ten słynie z oszałamiających krajobrazów: od bujnych lasów deszczowych, przez majestatyczne wodospady, po białe, piaszczyste plaże obmywane turkusowymi wodami oceanu. To kierunek dla podróżników ceniących spokój, kontakt z naturą i autentyczne doświadczenia kulturowe, daleko od komercyjnych kurortów.",
+    "Samoa przyciąga przede wszystkim miłośników snorkelingu, nurkowania i relaksu na plaży, ale także osoby zainteresowane poznaniem tradycyjnego życia Polinezyjczyków. Mieszkańcy, znani z gościnności i silnego przywiązania do tradycji 'Fa'a Samoa' (samoański sposób życia), chętnie dzielą się swoją kulturą. Można tu doświadczyć slow travel, podziwiać wulkany, odkrywać jaskinie i cieszyć się prostotą życia w tropikalnym otoczeniu. To destynacja dla osób szukających prawdziwej egzotyki.",
+    "Podróż z Polski na Samoa to długa wyprawa, wymagająca co najmniej dwóch przesiadek i zajmująca około 30-40 godzin. Najczęściej lata się przez Dubaj, Singapur lub Los Angeles, a następnie na Fidżi lub do Nowej Zelandii, skąd dostępne są loty na międzynarodowe lotnisko Faleolo (APW) na Upolu. Ze względu na odległość i koszty, Samoa nie jest krajem oferowanym przez polskie biura podróży w formie zorganizowanych wczasów, co sprawia, że jest to kierunek dla samodzielnych i bardziej doświadczonych podróżników."
+  ],
+  "highlights": [
+    "Relaks na plażach Lalomanu i Tafa Tafa",
+    "Pływanie w naturalnym basenie To Sua Ocean Trench",
+    "Odkrywanie wodospadów Afu Aau i Sopoaga",
+    "Spacer po polach lawy Saleaula na Savai'i",
+    "Poznawanie kultury 'Fa'a Samoa' w wioskach",
+    "Snorkeling i nurkowanie w koralowych rafach"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "upolu",
+      "name": "Upolu",
+      "loc": "na Upolu",
+      "intro": [
+        "Upolu to najbardziej zaludniona i rozwinięta wyspa Samoa, będąca domem dla stolicy Apia i międzynarodowego lotniska Faleolo. To tutaj znajdziesz większość udogodnień turystycznych, od hoteli po restauracje, a także wiele z najbardziej znanych atrakcji kraju. Wyspa jest górzysta, pokryta bujną roślinnością, z licznymi wodospadami, takimi jak Sopoaga i Togitogiga, które zapraszają do orzeźwiającej kąpieli. Wschodnie i południowe wybrzeże słyną z pięknych plaż.",
+        "Dla wielu podróżników Upolu stanowi bramę do Samoa i jest doskonałym miejscem na rozpoczęcie przygody. Można tu łatwo wynająć samochód, aby odkrywać wyspę we własnym tempie, zatrzymując się przy lokalnych straganach z owocami czy urokliwych wioskach. To także idealne miejsce do uprawiania sportów wodnych, takich jak snorkeling czy kajakarstwo, a także do pieszych wędrówek po tropikalnym lesie deszczowym. Wyspa oferuje zarówno luksusowe resorty, jak i proste, tradycyjne fale (otwarte domki)."
+      ],
+      "airport": "APW",
+      "forWhom": "Dla osób szukających połączenia relaksu na plaży z łatwym dostępem do atrakcji i infrastruktury.",
+      "gygQuery": "Upolu Island",
+      "highlights": [
+        "To Sua Ocean Trench",
+        "Plaża Lalomanu",
+        "Wodospady Sopoaga",
+        "Stolica Apia"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "savaii",
+      "name": "Savai'i",
+      "loc": "na Savai'i",
+      "intro": [
+        "Savai'i to największa wyspa Samoa, znacznie mniej rozwinięta i bardziej dzika niż Upolu. To prawdziwa ostoja tradycyjnego samoańskiego życia, gdzie czas płynie wolniej, a natura dominuje nad cywilizacją. Wyspa jest wulkanicznego pochodzenia, co widać po rozległych polach lawy, takich jak Saleaula, które tworzą księżycowy krajobraz. Savai'i oferuje autentyczne doświadczenia, z dala od tłumów, idealne dla poszukiwaczy przygód i spokoju.",
+        "Dostęp na Savai'i jest możliwy promem z Upolu, co samo w sobie jest częścią przygody. Na wyspie znajdziesz urokliwe wodospady, takie jak Afu Aau (Olemoe Falls), jaskinie, a także możliwość pływania z żółwiami. Zakwaterowanie jest tu prostsze, często w tradycyjnych fale, co pozwala na bliższy kontakt z lokalną kulturą i mieszkańcami. To miejsce dla tych, którzy chcą naprawdę oderwać się od codzienności i doświadczyć Samoa w jej najbardziej nieskażonej formie."
+      ],
+      "airport": "APW (Upolu)",
+      "forWhom": "Dla podróżników pragnących autentycznych doświadczeń, spokoju i bliskości z naturą.",
+      "gygQuery": "Savaii Island",
+      "highlights": [
+        "Pola lawy Saleaula",
+        "Wodospad Afu Aau",
+        "Jaskinia Pe'ape'a",
+        "Falealupo Canopy Walk"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "apia",
+      "name": "Apia",
+      "loc": "w Apia",
+      "intro": [
+        "Apia to stolica Samoa i jedyne miasto w kraju, położone na północnym wybrzeżu wyspy Upolu. Jest to centrum administracyjne, handlowe i kulturalne, oferujące mieszankę tradycyjnego stylu życia z nowoczesnymi udogodnieniami. W Apia można znaleźć liczne sklepy, restauracje, kawiarnie oraz lokalne targi, gdzie sprzedawane są świeże owoce, warzywa i rękodzieło. Miasto jest dobrym punktem wypadowym do zwiedzania całej wyspy Upolu.",
+        "W Apia warto odwiedzić Katedrę Niepokalanego Poczęcia, Muzeum Roberta Louisa Stevensona (autora Wyspy Skarbów), które mieści się w jego dawnej rezydencji Vailima, oraz lokalny targ Maketi Fou, gdzie można poczuć prawdziwy puls samoańskiego życia. Miasto oferuje również promenadę wzdłuż wybrzeża, idealną na wieczorne spacery. Choć nie jest to typowy kurort plażowy, Apia stanowi ważny przystanek dla każdego, kto chce poznać Samoa."
+      ],
+      "airport": "APW",
+      "forWhom": "Dla tych, którzy chcą poznać miejskie życie Samoa, zrobić zakupy i odwiedzić muzea.",
+      "gygQuery": "Apia Samoa",
+      "highlights": [
+        "Katedra Niepokalanego Poczęcia",
+        "Muzeum Roberta Louisa Stevensona",
+        "Targ Maketi Fou",
+        "Promenada nadmorska"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "To Sua Ocean Trench",
+      "text": "Naturalny basen wulkaniczny z krystalicznie czystą wodą, połączony z oceanem, dostępny przez długą drabinę. Niezwykłe miejsce do pływania i podziwiania natury.",
+      "gygQuery": "To Sua Ocean Trench"
+    },
+    {
+      "name": "Plaża Lalomanu",
+      "text": "Uważana za jedną z najpiękniejszych plaż Pacyfiku, z białym piaskiem, palmami i turkusową laguną, idealna do relaksu i snorkelingu.",
+      "gygQuery": "Lalomanu Beach"
+    },
+    {
+      "name": "Wodospady Afu Aau (Olemoe Falls)",
+      "text": "Malowniczy wodospad na Savai'i, gdzie woda spada do naturalnego basenu, zapraszając do orzeźwiającej kąpieli w otoczeniu bujnej roślinności.",
+      "gygQuery": "Afu Aau Falls"
+    },
+    {
+      "name": "Pola lawy Saleaula",
+      "text": "Rozległe obszary zastygłej lawy na Savai'i, powstałe po erupcjach wulkanu Matavanu, tworzące unikalny, surowy krajobraz.",
+      "gygQuery": "Saleaula Lava Fields"
+    },
+    {
+      "name": "Muzeum Roberta Louisa Stevensona",
+      "text": "Dawna rezydencja słynnego pisarza w Vailima, obecnie muzeum poświęcone jego życiu i twórczości, otoczone pięknym ogrodem.",
+      "gygQuery": "Robert Louis Stevenson Museum Samoa"
+    },
+    {
+      "name": "Wodospady Sopoaga",
+      "text": "Urokliwy wodospad na Upolu, otoczony zadbanymi ogrodami, oferujący piękne widoki i możliwość obserwacji lokalnej flory.",
+      "gygQuery": "Sopoaga Falls"
+    },
+    {
+      "name": "Piula Cave Pool",
+      "text": "Naturalny basen ze słodką wodą w jaskini, położony tuż przy oceanie, popularny wśród mieszkańców i turystów szukających ochłody.",
+      "gygQuery": "Piula Cave Pool"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy na Samoa potrzebna jest wiza dla Polaków?",
+      "a": "Dla obywateli Polski, na Samoa nie jest wymagana wiza na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Jaka jest waluta na Samoa i czy można płacić kartą?",
+      "a": "Walutą Samoa jest tala samoańska (WST). Płatności kartą są możliwe w większych hotelach i niektórych sklepach w Apia, ale w mniejszych miejscowościach i na Savai'i dominują płatności gotówką. Warto mieć przy sobie lokalną walutę."
+    },
+    {
+      "q": "Jakie są gniazdka elektryczne na Samoa?",
+      "a": "Na Samoa używane są gniazdka typu I (australijskie/nowozelandzkie) z trzema płaskimi bolcami. Napięcie wynosi 240V, a częstotliwość 50Hz, więc potrzebna będzie przejściówka."
+    },
+    {
+      "q": "Czy Samoa jest bezpiecznym krajem dla turystów?",
+      "a": "Samoa jest generalnie bezpiecznym krajem. Należy zachować podstawowe środki ostrożności, zwłaszcza w nocy w Apia. Pamiętaj o szacunku dla lokalnych zwyczajów i kultury. Ryzyko chorób tropikalnych jest niskie, ale warto skonsultować się z lekarzem przed wyjazdem."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Samoa przypada na porę suchą, od maja do października. W tym okresie panują słoneczne dni, niższa wilgotność i przyjemne temperatury, co sprzyja plażowaniu i zwiedzaniu. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wyższą wilgotnością, częstszymi, choć zazwyczaj krótkimi opadami deszczu oraz ryzykiem cyklonów tropikalnych. Mimo to, nawet w porze deszczowej często świeci słońce, a krajobraz jest bujnie zielony.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Apia",
+  "climate": {
+    "air": [
+      30,
+      30,
+      30,
+      30,
+      29,
+      29,
+      28,
+      28,
+      29,
+      29,
+      30,
+      30
+    ],
+    "note": "Apia, Upolu",
+    "sea": [
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      27,
+      27,
+      27,
+      28,
+      28,
+      29
+    ]
+  },
+  "cuisine": [
+    "Kuchnia samoańska opiera się na świeżych, lokalnych składnikach: owocach morza, rybach, taro, owocach chlebowca, kokosach i wieprzowinie. Tradycyjnym sposobem przygotowywania potraw jest 'umu', czyli pieczenie w ziemnym piecu, co nadaje daniom wyjątkowy smak. Warto spróbować 'palusami' (taro liście gotowane w mleku kokosowym), 'oka' (surowa ryba marynowana w mleku kokosowym i soku z limonki) oraz świeżych owoców, takich jak papaja, mango czy ananas. Posiłki są często obfite i spożywane w gronie rodziny lub społeczności."
+  ],
+  "gygQuery": "Samoa",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą.",
+    "flight": "Około 30-40 godzin z Polski, z co najmniej dwoma przesiadkami (np. przez Dubaj/Singapur i Fidżi/Nową Zelandię).",
+    "language": "Angielski i samoański. Angielski jest powszechnie używany w turystyce i biznesie.",
+    "money": "Waluta to tala samoańska (WST). W Apia dostępne są bankomaty i kantory. Płatności kartą są akceptowane w większych hotelach i niektórych sklepach, ale poza stolicą gotówka jest niezbędna.",
+    "plugs": "Gniazdka typu I (trzy płaskie bolce). Napięcie 240V, 50Hz. Wymagana przejściówka.",
+    "safety": "Samoa jest krajem bezpiecznym. Należy zachować ostrożność w nocy w Apia i szanować lokalne zwyczaje (np. odpowiedni ubiór, zwłaszcza w wioskach i kościołach). Istnieje ryzyko cyklonów tropikalnych w porze deszczowej (listopad-kwiecień). Zaleca się ubezpieczenie turystyczne i konsultację lekarską w sprawie szczepień."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

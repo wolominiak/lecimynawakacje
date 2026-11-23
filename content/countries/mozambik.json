@@ -1,0 +1,216 @@
+{
+  "slug": "mozambik",
+  "loc": "w Mozambiku",
+  "to": "do Mozambiku",
+  "teaser": "Mozambik to kraj wschodniej Afryki, który oferuje dziewicze plaże, bogate życie morskie i fascynującą mieszankę kultur. To kierunek dla poszukiwaczy autentycznych wrażeń.",
+  "intro": [
+    "Mozambik, z długim wybrzeżem Oceanu Indyjskiego, to prawdziwa perła dla tych, którzy szukają ucieczki od masowej turystyki. Kraj ten kusi rajskimi plażami, turkusowymi wodami pełnymi raf koralowych i bogatą historią, naznaczoną wpływami portugalskimi. To miejsce, gdzie można poczuć prawdziwy afrykański rytm życia, z dala od zgiełku i komercji.",
+    "Kraj jest idealny dla podróżników ceniących przygodę, nurków, miłośników snorkelingu oraz osób zainteresowanych autentyczną kulturą i dziką przyrodą. Nie jest to kierunek dla każdego - infrastruktura turystyczna jest mniej rozwinięta niż w popularniejszych krajach, co jednak dodaje mu uroku i sprawia, że każda podróż staje się unikalnym doświadczeniem. Tutaj znajdziesz spokój i bliskość z naturą.",
+    "Podróż z Polski do Mozambiku wymaga przesiadek, najczęściej w europejskich hubach, takich jak Lizbona, Stambuł czy Addis Abeba, a następnie lotu do Maputo lub innych regionalnych lotnisk. Cała podróż zajmuje zazwyczaj od 15 do 20 godzin. Warto zaplanować ją z wyprzedzeniem, biorąc pod uwagę konieczność uzyskania wizy i szczepień. Mozambik to wyzwanie logistyczne, ale nagroda w postaci niezapomnianych widoków i przeżyć jest tego warta."
+  ],
+  "highlights": [
+    "Dziewicze plaże Oceanu Indyjskiego",
+    "Wyśmienite warunki do nurkowania i snorkelingu",
+    "Bogata kultura i historia kolonialna",
+    "Świeże owoce morza i kuchnia piri-piri",
+    "Safari w Parku Narodowym Gorongosa",
+    "Archipelag Bazaruto z luksusowymi wyspami"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "maputo",
+      "name": "Maputo",
+      "loc": "w Maputo",
+      "intro": [
+        "Maputo, stolica Mozambiku, to tętniące życiem miasto portowe, które łączy w sobie afrykańską energię z dziedzictwem kolonialnym. Architektura z czasów portugalskich miesza się tu z nowoczesnymi budynkami i chaotycznymi targowiskami. Miasto oferuje wgląd w codzienne życie Mozambijczyków, z bogatą sceną muzyczną i kulinarną.",
+        "W Maputo warto odwiedzić Mercado Central, spróbować świeżych owoców morza w jednym z lokalnych restauracji i podziwiać zabytki takie jak Dworzec Kolejowy (uznawany za jeden z najpiękniejszych na świecie) czy Dom Żelaza. To doskonałe miejsce na rozpoczęcie podróży po kraju, aby poczuć jego puls i zanurzyć się w lokalnej atmosferze."
+      ],
+      "airport": "MPM",
+      "forWhom": "Dla miłośników miast, kultury i historii, którzy chcą poznać autentyczne życie Mozambiku.",
+      "gygQuery": "Maputo",
+      "highlights": [
+        "Mercado Central i lokalne targi",
+        "Dworzec Kolejowy w stylu Beaux-Arts",
+        "Fortaleza de Maputo i historia",
+        "Kulinarna scena z owocami morza"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "archipelag-bazaruto",
+      "name": "Archipelag Bazaruto",
+      "loc": "na Archipelagu Bazaruto",
+      "intro": [
+        "Archipelag Bazaruto to prawdziwy klejnot Mozambiku, składający się z sześciu idyllicznych wysp, z których największe to Bazaruto, Benguerra i Magaruque. Ten park narodowy słynie z dziewiczych plaż, turkusowych wód i bogactwa życia morskiego, co czyni go rajem dla nurków i miłośników snorkelingu.",
+        "Podwodny świat Bazaruto to dom dla delfinów, rekinów wielorybich, mant i rzadkich diugoni. Na wyspach znajdują się luksusowe lodże, oferujące ekskluzywny wypoczynek. To idealne miejsce na relaks, sporty wodne i podziwianie spektakularnych zachodów słońca nad Oceanem Indyjskim."
+      ],
+      "airport": "VIL",
+      "forWhom": "Dla nurków, miłośników luksusowego wypoczynku i tych, którzy szukają idyllicznych plaż.",
+      "gygQuery": "Bazaruto Archipelago",
+      "highlights": [
+        "Nurkowanie i snorkeling na rafach",
+        "Spotkania z diugoniami i delfinami",
+        "Luksusowe lodże i resorty",
+        "Dziewicze, piaszczyste plaże"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "wyspa-mozambik",
+      "name": "Wyspa Mozambik",
+      "loc": "na Wyspie Mozambik",
+      "intro": [
+        "Wyspa Mozambik (Ilha de Moçambique) to historyczne miasto portowe, wpisane na listę światowego dziedzictwa UNESCO. Była pierwszą stolicą kolonialną i ważnym punktem handlowym na szlaku przypraw. Jej kamienne budynki, wąskie uliczki i fortyfikacje opowiadają historię wieków handlu i wpływów kulturowych.",
+        "Spacer po wyspie to podróż w czasie. Można tu podziwiać Fort São Sebastião, Kaplicę Nossa Senhora de Baluarte (najstarszy europejski budynek na półkuli południowej) oraz Pałac i Kaplicę São Paulo. Wyspa jest połączona z lądem stałym długim mostem, co ułatwia dojazd, a jej unikalny charakter przyciąga miłośników historii i architektury."
+      ],
+      "airport": "NGL",
+      "forWhom": "Dla pasjonatów historii, architektury kolonialnej i autentycznych miejsc wpisanych na listę UNESCO.",
+      "gygQuery": "Island of Mozambique",
+      "highlights": [
+        "Fort São Sebastião i Kaplica Baluarte",
+        "Zabytkowa architektura kolonialna",
+        "Muzeum Pałacowe São Paulo",
+        "Wąskie uliczki i lokalne życie"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "park-narodowy-gorongosa",
+      "name": "Park Narodowy Gorongosa",
+      "loc": "w Parku Narodowym Gorongosa",
+      "intro": [
+        "Park Narodowy Gorongosa, położony w centralnym Mozambiku, to jeden z najbardziej spektakularnych przykładów odradzającej się dzikiej przyrody w Afryce. Po latach wojny domowej, park przechodzi intensywny program reintrodukcji zwierząt i ochrony środowiska, stając się symbolem nadziei i sukcesu w konserwacji.",
+        "Obecnie Gorongosa oferuje szansę na zobaczenie wielu gatunków dzikich zwierząt, w tym słoni, lwów, hipopotamów, zebr i antylop. Różnorodność ekosystemów, od sawanny po lasy deszczowe, sprawia, że jest to fascynujące miejsce dla miłośników safari i obserwatorów ptaków. Wizyta tutaj to wsparcie dla ważnego projektu ekologicznego."
+      ],
+      "airport": "BEW",
+      "forWhom": "Dla miłośników safari, dzikiej przyrody i ekoturystyki, którzy chcą wspierać projekty konserwatorskie.",
+      "gygQuery": "Gorongosa National Park",
+      "highlights": [
+        "Obserwacja słoni, lwów i antylop",
+        "Bogactwo gatunków ptaków",
+        "Różnorodne ekosystemy parku",
+        "Wsparcie dla ochrony przyrody"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Fortaleza de Maputo",
+      "text": "Historyczny fort w stolicy, zbudowany przez Portugalczyków, dziś muzeum prezentujące historię Mozambiku i jego kolonialne dziedzictwo.",
+      "gygQuery": "Maputo Fortress"
+    },
+    {
+      "name": "Mercado Central (Maputo)",
+      "text": "Tętniący życiem główny targ w Maputo, gdzie można kupić lokalne produkty, rękodzieło, przyprawy i poczuć autentyczną atmosferę miasta.",
+      "gygQuery": "Maputo Central Market"
+    },
+    {
+      "name": "Archipelag Bazaruto",
+      "text": "Grupa idyllicznych wysp z dziewiczymi plażami i bogatymi rafami koralowymi, idealne miejsce do nurkowania, snorkelingu i relaksu.",
+      "gygQuery": "Bazaruto Archipelago"
+    },
+    {
+      "name": "Wyspa Mozambik (Ilha de Moçambique)",
+      "text": "Historyczna wyspa wpisana na listę UNESCO, z zabytkową architekturą kolonialną, fortami i pałacami, świadectwo dawnej świetności.",
+      "gygQuery": "Island of Mozambique"
+    },
+    {
+      "name": "Tofo Beach",
+      "text": "Popularna plaża w prowincji Inhambane, znana z doskonałych warunków do nurkowania z rekinami wielorybimi i mantami, a także z relaksującej atmosfery.",
+      "gygQuery": "Tofo Beach"
+    },
+    {
+      "name": "Park Narodowy Gorongosa",
+      "text": "Odradzający się park safari, oferujący obserwacje dzikich zwierząt w naturalnym środowisku, symbol sukcesu w ochronie przyrody.",
+      "gygQuery": "Gorongosa National Park"
+    },
+    {
+      "name": "Ponta do Ouro",
+      "text": "Południowy kraniec Mozambiku, popularny wśród miłośników surfingu i nurkowania z delfinami, oferujący piękne plaże i relaksującą atmosferę.",
+      "gygQuery": "Ponta do Ouro"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Mozambik jest bezpiecznym krajem dla turystów?",
+      "a": "Mozambik jest stosunkowo bezpieczny, ale zaleca się ostrożność, zwłaszcza w miastach po zmroku. Należy unikać samotnych spacerów i nie obnosić się z wartościowymi przedmiotami. Warto śledzić komunikaty polskiego MSZ."
+    },
+    {
+      "q": "Jakie są wymagania wizowe dla Polaków do Mozambiku?",
+      "a": "Wiza jest wymagana dla obywateli Polski. Można ją uzyskać w ambasadzie Mozambiku w Berlinie (Polska nie ma ambasady w Mozambiku, a Mozambik w Polsce) lub, w niektórych przypadkach, na granicy. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie."
+    },
+    {
+      "q": "Czy w Mozambiku występuje malaria?",
+      "a": "Tak, malaria występuje w całym Mozambiku, dlatego zaleca się profilaktykę antymalaryczną. Należy również stosować repelenty, spać pod moskitierą i nosić długie ubrania po zmroku, aby zminimalizować ryzyko ukąszeń komarów."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Mozambiku i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest metical mozambicki (MZN). W większych miastach i turystycznych ośrodkach można płacić kartą, ale w mniejszych miejscowościach i na targach dominuje gotówka. Warto mieć przy sobie drobne nominały."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Mozambiku to pora sucha, która trwa od maja do października. W tym okresie panują przyjemne temperatury, niskie opady i dobra widoczność pod wodą, co jest idealne do nurkowania i safari. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wysoką wilgotnością, intensywnymi opadami i wyższymi temperaturami, co może utrudniać podróżowanie.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Maputo",
+  "climate": {
+    "air": [
+      30,
+      30,
+      29,
+      28,
+      27,
+      25,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "note": "dla Maputo i wybrzeża południowego",
+    "sea": [
+      28,
+      28,
+      28,
+      27,
+      26,
+      24,
+      23,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia mozambicka to fascynująca mieszanka wpływów afrykańskich, portugalskich, arabskich i indyjskich. Królują w niej świeże owoce morza, takie jak krewetki, homary i ryby, często grillowane i podawane z pikantnym sosem piri-piri. Popularne są również potrawy z kurczaka, ryżu i manioku. Warto spróbować 'matapa' - dania z liści manioku gotowanych w sosie z orzeszków ziemnych i mleka kokosowego. Świeże owoce, takie jak mango, papaja i ananasy, są dostępne przez cały rok."
+  ],
+  "gygQuery": "Mozambique",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego powrotu oraz wiza, którą należy uzyskać w ambasadzie Mozambiku (w Berlinie) przed podróżą. Zaleca się sprawdzenie aktualnych wymogów wizowych przed wyjazdem.",
+    "flight": "Około 15-20 h z co najmniej jedną przesiadką, najczęściej w Lizbonie, Stambule lub Addis Abebie.",
+    "language": "Językiem urzędowym jest portugalski. W użyciu są również liczne języki bantu, takie jak Emakhuwa, Xichangana, Elomwe.",
+    "money": "Walutą jest metical mozambicki (MZN). W większych miastach akceptowane są karty kredytowe, ale w mniejszych miejscowościach i na targach dominuje gotówka. Warto mieć przy sobie dolary amerykańskie lub euro na wymianę.",
+    "plugs": "Typ C, F i M. Zaleca się zabranie adaptera uniwersalnego.",
+    "safety": "Mozambik jest stosunkowo bezpieczny, ale należy zachować ostrożność, szczególnie w dużych miastach po zmroku, ze względu na drobne kradzieże i napady. Zaleca się unikanie samotnych spacerów i nieobnoszenie się z wartościowymi przedmiotami. Występuje ryzyko malarii, dlatego zaleca się profilaktykę i szczepienia ochronne (np. na żółtą febrę, tężec, dur brzuszny).",
+    "timeDiff": "Polska +1 h (w okresie zimowym w Polsce), brak różnicy w okresie letnim w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

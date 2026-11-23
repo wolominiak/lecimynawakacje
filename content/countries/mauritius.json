@@ -1,0 +1,224 @@
+{
+  "slug": "mauritius",
+  "loc": "na Mauritiusie",
+  "to": "na Mauritius",
+  "teaser": "Mauritius to wyspa na Oceanie Indyjskim, która oferuje piękne plaże, zróżnicowaną przyrodę i bogatą kulturę. Idealne miejsce na relaks i odkrywanie.",
+  "intro": [
+    "Mauritius przyciąga turystów przede wszystkim swoimi idyllicznymi plażami z białym piaskiem i turkusową wodą, otoczonymi rafami koralowymi. Poza wybrzeżem wyspa oferuje bujną, wulkaniczną scenerię z wodospadami, parkami narodowymi i unikalną florą i fauną. Mieszanka kultur - indyjskiej, afrykańskiej, francuskiej i chińskiej - tworzy fascynującą atmosferę, widoczną w kuchni, muzyce i architekturze. To kierunek dla tych, którzy szukają czegoś więcej niż tylko słońca i piasku, ceniąc sobie różnorodność i autentyczność.",
+    "Wyspa jest idealna dla par szukających romantycznego wyjazdu, rodzin z dziećmi dzięki bezpiecznym plażom i licznym atrakcjom, a także dla miłośników sportów wodnych, takich jak nurkowanie, snorkeling czy kitesurfing. Ci, którzy cenią sobie luksusowe hotele i doskonałą obsługę, znajdą tu wiele opcji na wysokim poziomie. Mauritius to również świetny wybór dla osób aktywnych, które chcą odkrywać interior wyspy, wędrować po górach czy podziwiać wodospady w parkach narodowych.",
+    "Podróż z Polski na Mauritius wymaga lotu z przesiadką, zazwyczaj w jednym z europejskich hubów, takich jak Paryż, Frankfurt czy Stambuł. Całkowity czas podróży, wliczając przesiadkę, wynosi zazwyczaj od 12 do 16 godzin. Po wylądowaniu na międzynarodowym lotnisku SSR (MRU) można skorzystać z transferów hotelowych, taksówek lub wynająć samochód, aby dotrzeć do wybranego kurortu. Infrastruktura turystyczna jest dobrze rozwinięta, co ułatwia poruszanie się po wyspie i korzystanie z jej uroków."
+  ],
+  "highlights": [
+    "Białe plaże i turkusowe laguny",
+    "Wulkany i wodospady w interiorze",
+    "Nurkowanie i sporty wodne",
+    "Kolorowe Ziemie Chamarel",
+    "Mieszanka kultur i smaków",
+    "Relaks w luksusowych kurortach"
+  ],
+  "popularity": 45,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "flic-en-flac",
+      "name": "Flic en Flac",
+      "loc": "we Flic en Flac",
+      "intro": [
+        "Flic en Flac to jeden z najpopularniejszych kurortów na zachodnim wybrzeżu Mauritiusa, słynący z długiej, piaszczystej plaży i spokojnych wód. Jest to idealne miejsce dla osób poszukujących relaksu, a jednocześnie chcących mieć dostęp do barów, restauracji i sklepów. Zachodnie wybrzeże jest znane z pięknych zachodów słońca, które można podziwiać z plaży lub z hotelowego balkonu. Kurort oferuje szeroki wybór zakwaterowania, od luksusowych hoteli po bardziej przystępne apartamenty.",
+        "Okolice Flic en Flac są również doskonałą bazą wypadową do odkrywania południowo-zachodniej części wyspy, w tym Parku Narodowego Black River Gorges i słynnej góry Le Morne Brabant. Miłośnicy sportów wodnych znajdą tu wiele możliwości, od nurkowania po pływanie z delfinami. Mimo swojej popularności, Flic en Flac zachowuje spokojniejszy charakter niż niektóre bardziej ruchliwe obszary, co czyni go atrakcyjnym dla rodzin i par."
+      ],
+      "airport": "MRU",
+      "forWhom": "Dla miłośników długich plaż, zachodów słońca i bliskości atrakcji południowo-zachodnich.",
+      "gygQuery": "Flic en Flac Mauritius",
+      "highlights": [
+        "Długa, piaszczysta plaża",
+        "Spokojne wody do pływania",
+        "Bliskość Parku Black River Gorges",
+        "Wiele restauracji i barów"
+      ],
+      "type": "kurort"
+    },
+    {
+      "slug": "grand-baie",
+      "name": "Grand Baie",
+      "loc": "w Grand Baie",
+      "intro": [
+        "Grand Baie, położone na północnym wybrzeżu Mauritiusa, to tętniące życiem centrum turystyczne, znane z pięknej zatoki pełnej jachtów i łodzi. To idealne miejsce dla tych, którzy szukają rozrywki, zakupów i nocnego życia. Znajduje się tu wiele restauracji serwujących dania kuchni lokalnej i międzynarodowej, a także liczne butiki i bazary, gdzie można kupić pamiątki i lokalne wyroby. Zatoka jest również popularnym punktem startowym dla rejsów na pobliskie wyspy.",
+        "Grand Baie oferuje szeroki wachlarz sportów wodnych, od żeglarstwa po parasailing i nurkowanie. Mimo swojej tętniącej życiem atmosfery, w okolicy można znaleźć również spokojniejsze plaże i urokliwe zakątki. Bliskość do innych atrakcji północnej części wyspy, takich jak ogród botaniczny Pamplemousses, sprawia, że Grand Baie jest doskonałą bazą do eksploracji regionu."
+      ],
+      "airport": "MRU",
+      "forWhom": "Dla osób szukających rozrywki, zakupów i aktywnego życia nocnego.",
+      "gygQuery": "Grand Baie Mauritius",
+      "highlights": [
+        "Tętniące życiem centrum",
+        "Wiele restauracji i sklepów",
+        "Sporty wodne i rejsy",
+        "Życie nocne i bary"
+      ],
+      "type": "kurort"
+    },
+    {
+      "slug": "le-morne-brabant",
+      "name": "Le Morne Brabant",
+      "loc": "pod Le Morne Brabant",
+      "intro": [
+        "Le Morne Brabant to majestatyczna góra wpisana na listę światowego dziedzictwa UNESCO, dominująca nad południowo-zachodnim krańcem Mauritiusa. Jest to symbol wolności i miejsce o głębokim znaczeniu historycznym, związane z uciekinierami z niewoli. U podnóża góry rozciągają się jedne z najbardziej luksusowych hoteli na wyspie, oferujące ekskluzywne doznania i dostęp do oszałamiających plaż. Region ten jest rajem dla miłośników sportów wodnych, zwłaszcza kitesurfingu i windsurfingu, dzięki idealnym warunkom wietrznym.",
+        "Oprócz sportów wodnych, Le Morne Brabant oferuje możliwość wędrówek na szczyt góry, skąd roztaczają się zapierające dech w piersiach widoki na ocean i słynny podwodny wodospad (iluzja optyczna). Okolica jest spokojniejsza niż inne kurorty, co sprzyja relaksowi i obcowaniu z naturą. To doskonały wybór dla osób szukających połączenia luksusu, historii i aktywności na świeżym powietrzu w pięknej scenerii."
+      ],
+      "airport": "MRU",
+      "forWhom": "Dla szukających luksusu, sportów wodnych i unikalnych krajobrazów z historią.",
+      "gygQuery": "Le Morne Brabant",
+      "highlights": [
+        "Góra UNESCO z historią",
+        "Idealne warunki do kitesurfingu",
+        "Luksusowe hotele",
+        "Widoki na podwodny wodospad"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "ile-aux-cerfs",
+      "name": "Ile aux Cerfs",
+      "loc": "na Ile aux Cerfs",
+      "intro": [
+        "Ile aux Cerfs, czyli Wyspa Jeleni, to prywatna wyspa-raj położona u wschodniego wybrzeża Mauritiusa, dostępna wyłącznie drogą morską. Słynie z krystalicznie czystych wód, białych plaż i bogatej oferty sportów wodnych. Jest to popularny cel jednodniowych wycieczek, gdzie turyści mogą spędzić czas na plażowaniu, snorkelingu, parasailingu czy przejażdżkach łodzią ze szklanym dnem. Na wyspie znajduje się również pole golfowe mistrzowskiej klasy.",
+        "Mimo że jest to miejsce turystyczne, Ile aux Cerfs zachowuje swój urok dzięki naturalnemu pięknu i dobrze utrzymanej infrastrukturze. Można tu znaleźć kilka restauracji i barów, oferujących świeże owoce morza i lokalne przysmaki. To idealne miejsce na ucieczkę od zgiełku i spędzenie dnia w otoczeniu tropikalnej przyrody i błękitnych lagun. Rejs na wyspę często łączy się z innymi atrakcjami wschodniego wybrzeża."
+      ],
+      "airport": "MRU",
+      "forWhom": "Dla miłośników plażowania, sportów wodnych i jednodniowych wycieczek na rajską wyspę.",
+      "gygQuery": "Ile aux Cerfs",
+      "highlights": [
+        "Rajskie plaże i laguny",
+        "Szeroka oferta sportów wodnych",
+        "Pole golfowe mistrzowskiej klasy",
+        "Idealne na jednodniową wycieczkę"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kolorowe Ziemie Chamarel",
+      "text": "Unikalne wydmy piaskowe w siedmiu różnych kolorach, powstałe w wyniku erozji wulkanicznej. To geologiczne cudo natury, które najlepiej podziwiać w słoneczny dzień.",
+      "gygQuery": "Chamarel Seven Colored Earths"
+    },
+    {
+      "name": "Park Narodowy Black River Gorges",
+      "text": "Największy park narodowy Mauritiusa, chroniący bujne lasy deszczowe, wodospady i endemiczne gatunki roślin i zwierząt. Idealny do pieszych wędrówek i obserwacji ptaków.",
+      "gygQuery": "Black River Gorges National Park"
+    },
+    {
+      "name": "Ogród Botaniczny Pamplemousses",
+      "text": "Jeden z najstarszych ogrodów botanicznych na półkuli południowej, słynący z gigantycznych lilii wodnych, palm i rzadkich gatunków roślin. To spokojne miejsce na spacer.",
+      "gygQuery": "Pamplemousses Botanical Garden"
+    },
+    {
+      "name": "Ganga Talao (Grand Bassin)",
+      "text": "Święte jezioro w kraterze wulkanu, ważne miejsce pielgrzymek dla hindusów na Mauritiusie. Otoczone świątyniami i posągami bóstw, emanuje spokojną, duchową atmosferą.",
+      "gygQuery": "Ganga Talao Grand Bassin"
+    },
+    {
+      "name": "Wodospady Tamarin",
+      "text": "Seria siedmiu kaskad wodnych, ukrytych w bujnej roślinności, oferująca piękne widoki i możliwość pływania w naturalnych basenach. Dostęp do nich wymaga krótkiej wędrówki.",
+      "gygQuery": "Tamarin Falls"
+    },
+    {
+      "name": "Ile aux Aigrettes",
+      "text": "Mała wyspa-rezerwat przyrody, gdzie prowadzone są projekty ochrony endemicznych gatunków flory i fauny. Można tu zobaczyć rzadkie ptaki i gigantyczne żółwie.",
+      "gygQuery": "Ile aux Aigrettes"
+    },
+    {
+      "name": "Port Louis Central Market",
+      "text": "Tętniący życiem targ w stolicy, gdzie można poczuć lokalną atmosferę, kupić świeże owoce, warzywa, przyprawy, pamiątki i spróbować ulicznego jedzenia. To prawdziwa gratka dla zmysłów.",
+      "gygQuery": "Port Louis Central Market"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Mauritius?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny na Mauritiusie do 90 dni. Wymagany jest ważny paszport (minimum 6 miesięcy od daty planowanego powrotu) i bilet powrotny."
+    },
+    {
+      "q": "Jaka jest waluta na Mauritiusie i czy można płacić kartą?",
+      "a": "Walutą Mauritiusa jest rupia maurytyjska (MUR). W większych miastach i kurortach można płacić kartami kredytowymi i debetowymi. Warto mieć przy sobie gotówkę na mniejsze zakupy i lokalne targi."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Mauritius?",
+      "a": "Najlepszy czas na podróż to sucha i chłodniejsza pora, czyli od maja do grudnia. Wtedy panują idealne warunki do plażowania i zwiedzania, z mniejszą wilgotnością i przyjemniejszymi temperaturami."
+    },
+    {
+      "q": "Czy Mauritius jest bezpieczny dla turystów?",
+      "a": "Mauritius jest generalnie bezpiecznym krajem dla turystów, ale zaleca się zachowanie ostrożności, szczególnie w zatłoczonych miejscach i po zmroku. Należy uważać na prądy morskie i unikać samotnych kąpieli w nieoznaczonych miejscach."
+    },
+    {
+      "q": "Jakie języki są używane na Mauritiusie?",
+      "a": "Oficjalnym językiem jest angielski, ale powszechnie używa się również francuskiego i kreolskiego maurytyjskiego. W hotelach i miejscach turystycznych bez problemu porozumiesz się po angielsku."
+    }
+  ],
+  "bestTime": {
+    "text": "Mauritius ma klimat tropikalny, z dwoma głównymi porami roku. Od maja do grudnia trwa pora sucha i chłodniejsza, z mniejszą wilgotnością i przyjemnymi temperaturami, idealna na plażowanie i aktywności na świeżym powietrzu. Od stycznia do kwietnia jest cieplej i bardziej wilgotno, z większym prawdopodobieństwem opadów, zwłaszcza w lutym i marcu. W tym okresie mogą wystąpić cyklony, choć rzadko uderzają bezpośrednio w wyspę. Najlepsze warunki do nurkowania są od grudnia do marca, gdy woda jest najcieplejsza.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "ok": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "capital": "Port Louis",
+  "climate": {
+    "air": [
+      29,
+      29,
+      29,
+      28,
+      27,
+      25,
+      24,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "note": "dla Port Louis",
+    "sea": [
+      27,
+      28,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Mauritiusa to fascynująca fuzja smaków indyjskich, chińskich, afrykańskich i europejskich, odzwierciedlająca wielokulturowość wyspy. Podstawą wielu dań jest ryż, a świeże owoce morza są wszechobecne. Warto spróbować curry, zwłaszcza z krewetkami lub kurczakiem, podawane z roti lub naan. Popularne są również chińskie dania, takie jak smażony ryż czy makaron. Nie można zapomnieć o świeżych owocach tropikalnych i lokalnym rumie. Uliczne jedzenie, takie jak dholl puri (rodzaj placka z soczewicy), to prawdziwa gratka dla podniebienia."
+  ],
+  "gygQuery": "Mauritius",
+  "practical": {
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego powrotu oraz bilet powrotny. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie.",
+    "flight": "Około 12-16 godzin z przesiadką, zazwyczaj w jednym z europejskich hubów.",
+    "language": "Oficjalny język to angielski, ale powszechnie używa się francuskiego i kreolskiego maurytyjskiego. W hotelach i miejscach turystycznych bez problemu porozumiesz się po angielsku.",
+    "money": "Walutą jest rupia maurytyjska (MUR). Płatności kartą są powszechne w hotelach i większych sklepach. Bankomaty są dostępne w miastach i kurortach. Warto mieć trochę gotówki na lokalne targi i mniejsze wydatki.",
+    "plugs": "Używane są gniazdka typu C (europejskie dwubolcowe) i G (brytyjskie trójbolcowe). Zaleca się zabranie adaptera uniwersalnego.",
+    "safety": "Mauritius jest stosunkowo bezpiecznym krajem. Należy jednak zachować podstawową ostrożność, unikać samotnych spacerów po zmroku w nieoświetlonych miejscach i uważać na kieszonkowców w tłumach. W wodzie należy uważać na silne prądy i zwierzęta morskie. Zaleca się picie wody butelkowanej.",
+    "timeDiff": "Różnica czasu względem Polski to +2 lub +3 godziny, w zależności od tego, czy w Polsce obowiązuje czas letni czy zimowy (Mauritius: UTC+4)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

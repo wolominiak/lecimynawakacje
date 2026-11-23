@@ -1,0 +1,215 @@
+{
+  "slug": "polinezja-francuska",
+  "loc": "na Polinezji Francuskiej",
+  "to": "na Polinezję Francuską",
+  "teaser": "Egzotyczne wyspy Pacyfiku, krystalicznie czyste laguny i wulkaniczne krajobrazy. Polinezja Francuska to kierunek dla szukających spokoju i przygody.",
+  "intro": [
+    "Polinezja Francuska to archipelag rozsianych po Pacyfiku wysp, które przyciągają przede wszystkim swoją nieskażoną naturą. Krystalicznie czyste, turkusowe laguny, piaszczyste plaże, bujna roślinność i majestatyczne wulkaniczne szczyty tworzą krajobrazy, które zapierają dech w piersiach. To idealne miejsce dla miłośników nurkowania i snorkelingu, oferujące bogactwo podwodnego świata z rafami koralowymi i różnorodnymi gatunkami ryb. Kultura Maohi, choć dyskretna, jest obecna w tradycjach, tańcach i rzemiośle, dodając podróży autentycznego wymiaru.",
+    "Kierunek ten jest szczególnie polecany nowożeńcom, parom szukającym romantycznego ucieczki oraz osobom ceniącym luksusowy wypoczynek w otoczeniu spektakularnej przyrody. Ze względu na długą podróż i wysokie koszty, Polinezja Francuska jest destynacją dla podróżników z większym budżetem, którzy pragną doświadczyć prawdziwej egzotyki i odciąć się od zgiełku cywilizacji. To także raj dla nurków i żeglarzy, oferujący niezliczone możliwości eksploracji podwodnych jaskiń i ukrytych zatok.",
+    "Podróż z Polski na Polinezję Francuską jest długa i wymaga co najmniej dwóch, a często trzech przesiadek, zazwyczaj w dużych europejskich hubach, a następnie w Los Angeles lub San Francisco. Cała podróż, wliczając przesiadki, może trwać od 24 do nawet 30 godzin. Ze względu na odległość i ekskluzywny charakter miejsca, ceny biletów lotniczych są wysokie. Na miejscu transport między wyspami odbywa się głównie lokalnymi lotami lub promami, co również generuje dodatkowe koszty i wymaga wcześniejszego planowania."
+  ],
+  "highlights": [
+    "Bora Bora i jej słynne laguny",
+    "Nurkowanie wśród raf koralowych",
+    "Wędrówki po wulkanicznych wyspach",
+    "Kultura Maohi i tradycyjne tańce",
+    "Relaks w luksusowych bungalowach",
+    "Smak świeżych owoców morza"
+  ],
+  "popularity": 12,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "tahiti",
+      "name": "Tahiti",
+      "loc": "na Tahiti",
+      "intro": [
+        "Tahiti to największa wyspa Polinezji Francuskiej i brama do całego archipelagu, gdzie znajduje się międzynarodowe lotnisko w Papeete. Wyspa charakteryzuje się dramatycznym, wulkanicznym krajobrazem z wysokimi szczytami, bujnymi dolinami i wodospadami. Choć nie ma tu tak słynnych turkusowych lagun jak na Bora Bora, Tahiti oferuje czarne, wulkaniczne plaże, doskonałe warunki do surfingu oraz bogate życie kulturalne w stolicy Papeete. To miejsce, gdzie można poczuć prawdziwy polinezyjski klimat, z lokalnymi targami, restauracjami i festiwalami.",
+        "Poza Papeete, Tahiti oferuje wiele atrakcji przyrodniczych, takich jak wodospady Faarumai, jaskinie Maraa czy malownicze punkty widokowe, z których roztaczają się panoramy na ocean i sąsiednie wyspy. Wyspa jest również dobrym punktem wypadowym do eksploracji mniejszych, mniej znanych wysepek. To idealne miejsce dla tych, którzy chcą połączyć relaks z aktywnym zwiedzaniem i poznawaniem lokalnej kultury."
+      ],
+      "airport": "PPT",
+      "forWhom": "Dla osób szukających połączenia natury, kultury i miejskiego życia.",
+      "gygQuery": "Tahiti",
+      "highlights": [
+        "Papeete i jej targowiska",
+        "Wodospady Faarumai",
+        "Surfing na czarnych plażach",
+        "Muzeum Tahiti i Wysp"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "bora-bora",
+      "name": "Bora Bora",
+      "loc": "na Bora Bora",
+      "intro": [
+        "Bora Bora to ikona Polinezji Francuskiej, słynąca z turkusowej laguny i luksusowych bungalowów na wodzie. Wyspa jest symbolem romantycznego wypoczynku i często wybierana jest przez nowożeńców. Centralnym punktem jest majestatyczny wulkan Mount Otemanu, który stanowi spektakularne tło dla krystalicznie czystej wody. Laguna Bora Bora jest rajem dla nurków i snorkelingu, oferując spotkania z rekinami rafowymi, płaszczkami i niezliczoną ilością kolorowych ryb.",
+        "Wyspa oferuje szeroki wachlarz aktywności wodnych, od rejsów katamaranem, przez kajakarstwo, po parasailing. Choć jest to jeden z droższych regionów, widoki i doświadczenia są warte swojej ceny. Bora Bora to kwintesencja tropikalnego raju, gdzie luksus spotyka się z dziewiczą naturą, tworząc niezapomniane wspomnienia dla każdego podróżnika."
+      ],
+      "airport": "BOB",
+      "forWhom": "Idealna dla nowożeńców i miłośników luksusowego wypoczynku nad turkusową laguną.",
+      "gygQuery": "Bora Bora",
+      "highlights": [
+        "Bungalowy na wodzie",
+        "Laguna Bora Bora",
+        "Wulkan Mount Otemanu",
+        "Nurkowanie z rekinami i płaszczkami"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "moorea",
+      "name": "Moorea",
+      "loc": "na Moorei",
+      "intro": [
+        "Moorea, często nazywana „siostrzaną wyspą” Tahiti, jest łatwo dostępna promem i oferuje podobne, choć bardziej kameralne, piękno. Wyspa zachwyca bujnymi, zielonymi górami, plantacjami ananasów oraz malowniczymi zatokami Cooka i Opunohu. Jest to doskonałe miejsce dla rodzin i par, które cenią sobie aktywny wypoczynek w otoczeniu natury. Można tu uprawiać turystykę pieszą, rowerową, a także różnorodne sporty wodne.",
+        "Moorea jest znana z możliwości pływania z delfinami i obserwacji wielorybów w sezonie. Oferuje również piękne plaże, pola golfowe i liczne restauracje serwujące lokalne specjały. Atmosfera na Moorei jest bardziej zrelaksowana niż na Tahiti, a jednocześnie oferuje bogactwo atrakcji, co czyni ją idealnym miejscem na dłuższy pobyt lub jako uzupełnienie wizyty na Tahiti."
+      ],
+      "airport": "MOZ",
+      "forWhom": "Dla rodzin i par ceniących aktywny wypoczynek w otoczeniu bujnej zieleni i zatok.",
+      "gygQuery": "Moorea",
+      "highlights": [
+        "Plantacje ananasów",
+        "Zatoki Cooka i Opunohu",
+        "Szlaki piesze po górach",
+        "Pływanie z delfinami"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "markizy",
+      "name": "Markizy",
+      "loc": "na Markizach",
+      "intro": [
+        "Markizy to archipelag położony na północnym wschodzie Polinezji Francuskiej, znacznie bardziej odległy i dziki niż Wyspy Towarzystwa. Charakteryzują się surowym, wulkanicznym krajobrazem z wysokimi klifami, głębokimi dolinami i brakiem raf koralowych. To miejsce, gdzie kultura Maohi jest szczególnie silna i autentyczna, z licznymi starożytnymi rzeźbami tiki i tradycyjnymi ceremoniami. Markizy przyciągają poszukiwaczy przygód i miłośników dziewiczej przyrody.",
+        "Archipelag ten był inspiracją dla Paula Gauguina i Jacquesa Brela, co świadczy o jego niezwykłym uroku. Brak turkusowych lagun rekompensuje dramatyczny krajobraz, bujna roślinność i bogactwo fauny. Podróż na Markizy jest bardziej wymagająca, ale oferuje unikalne doświadczenia i możliwość poznania Polinezji z innej perspektywy, z dala od luksusowych kurortów."
+      ],
+      "airport": "UAP",
+      "forWhom": "Dla poszukiwaczy autentycznej kultury polinezyjskiej i dzikiej, nietkniętej przyrody.",
+      "gygQuery": "Marquesas Islands",
+      "highlights": [
+        "Dzika, wulkaniczna przyroda",
+        "Starożytne rzeźby tiki",
+        "Autentyczna kultura Maohi",
+        "Malownicze klify i doliny"
+      ],
+      "type": "archipelag"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Laguna Bora Bora",
+      "text": "Krystalicznie czysta laguna z odcieniami błękitu i zieleni, idealna do nurkowania i snorkelingu, otoczona luksusowymi resortami.",
+      "gygQuery": "Bora Bora Lagoon"
+    },
+    {
+      "name": "Mount Otemanu (Bora Bora)",
+      "text": "Majestatyczny szczyt dominujący nad wyspą Bora Bora, oferujący spektakularne widoki i stanowiący tło dla słynnej laguny.",
+      "gygQuery": "Mount Otemanu"
+    },
+    {
+      "name": "Muzeum Tahiti i Wysp (Tahiti)",
+      "text": "Poznaj historię i kulturę Polinezji Francuskiej, od pradawnych wierzeń po współczesność, poprzez bogate zbiory artefaktów.",
+      "gygQuery": "Museum of Tahiti and the Islands"
+    },
+    {
+      "name": "Wodospady Fautaua (Tahiti)",
+      "text": "Imponujące wodospady ukryte w bujnej dżungli Tahiti, dostępne po malowniczym trekkingu, oferujące orzeźwienie i piękne widoki.",
+      "gygQuery": "Fautaua Waterfall"
+    },
+    {
+      "name": "Dolina Opunohu (Moorea)",
+      "text": "Malownicza dolina z plantacjami ananasów i archeologicznymi pozostałościami, otoczona wulkanicznymi szczytami Moorei.",
+      "gygQuery": "Opunohu Valley"
+    },
+    {
+      "name": "Rzeźby Tiki na Hiva Oa (Markizy)",
+      "text": "Starożytne kamienne rzeźby, świadectwo bogatej kultury Markizów, rozsiane po całej wyspie, niosące ze sobą dawne historie.",
+      "gygQuery": "Hiva Oa Tikis"
+    },
+    {
+      "name": "Ogród Botaniczny Papeari (Tahiti)",
+      "text": "Rozległy ogród prezentujący bogactwo flory Polinezji, z egzotycznymi roślinami i drzewami, idealny na spokojny spacer.",
+      "gygQuery": "Papeari Botanical Garden"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Polinezja Francuska jest droga?",
+      "a": "Tak, Polinezja Francuska należy do najdroższych kierunków turystycznych na świecie. Wysokie są ceny zakwaterowania, transportu między wyspami oraz jedzenia. Planując podróż, należy liczyć się ze znacznymi wydatkami."
+    },
+    {
+      "q": "Jak poruszać się między wyspami Polinezji Francuskiej?",
+      "a": "Głównym środkiem transportu między wyspami są lokalne linie lotnicze Air Tahiti. Między Tahiti a Mooreą kursują również regularne promy. Na większych wyspach można wynająć samochód, skuter lub korzystać z taksówek."
+    },
+    {
+      "q": "Czy potrzebuję specjalnych szczepień przed wyjazdem?",
+      "a": "Nie ma obowiązkowych szczepień przed wjazdem na Polinezję Francuską dla obywateli Polski. Zaleca się jednak konsultację z lekarzem na temat standardowych szczepień i ewentualnych zaleceń profilaktycznych. Warto pamiętać o ochronie przed komarami."
+    },
+    {
+      "q": "Jaka jest najlepsza waluta do zabrania na Polinezję Francuską?",
+      "a": "Oficjalną walutą jest frank polinezyjski (XPF), który jest powiązany z euro. Warto mieć ze sobą gotówkę, zwłaszcza na mniejszych wyspach. Karty płatnicze są akceptowane w większych hotelach i sklepach, ale nie wszędzie."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Polinezję Francuską to pora sucha, która trwa od maja do października. W tym okresie panuje mniej wilgotne powietrze, jest więcej słońca i niższe ryzyko opadów deszczu. Temperatury są przyjemne, a warunki do nurkowania i innych aktywności wodnych idealne. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wyższą wilgotnością, częstszymi, choć zazwyczaj krótkimi, ulewami i wyższymi temperaturami. Podróżowanie w tym okresie jest możliwe, ale trzeba liczyć się ze zmienną pogodą.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Papeete",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      30,
+      29,
+      29,
+      29,
+      29,
+      30,
+      30,
+      30
+    ],
+    "note": "dla Papeete na Tahiti",
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      28,
+      27,
+      26,
+      26,
+      27,
+      27,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia polinezyjska to przede wszystkim świeże owoce morza i ryby, często przygotowywane w prosty, ale aromatyczny sposób. Narodowym daniem jest „poisson cru”, czyli surowa ryba marynowana w soku z limonki i mleczku kokosowym, podawana z warzywami. Popularne są także owoce tropikalne, takie jak mango, papaja, ananas, banany, a także taro i chlebowiec. Wpływy kuchni francuskiej są widoczne w wielu restauracjach, szczególnie w Papeete, gdzie można znaleźć wykwintne dania. Warto spróbować także „ma’a Tahiti”, tradycyjnego posiłku gotowanego w ziemnym piecu."
+  ],
+  "gygQuery": "French Polynesia",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Zawsze warto sprawdzić aktualne wymogi przed podróżą w ambasadzie Francji.",
+    "flight": "około 24-30 h z 2-3 przesiadkami",
+    "language": "Językiem urzędowym jest francuski. Powszechnie używany jest także tahitański. W miejscach turystycznych i hotelach można porozumieć się po angielsku.",
+    "money": "Walutą jest frank polinezyjski (XPF), powiązany z euro. Na głównych wyspach dostępne są bankomaty, a karty płatnicze akceptowane w hotelach i większych sklepach. Warto mieć gotówkę na mniejsze zakupy i targowiska.",
+    "plugs": "Typ A, B i E. Wymagany adapter, ponieważ w Polsce używamy typu E.",
+    "safety": "Polinezja Francuska jest ogólnie bezpiecznym kierunkiem. Należy zachować ostrożność w miejscach publicznych, szczególnie w Papeete, ze względu na drobne kradzieże. Ważna jest ochrona przed słońcem, nawadnianie organizmu i świadomość lokalnej fauny morskiej (np. jeżowce, meduzy)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,197 @@
+{
+  "slug": "mauretania",
+  "loc": "w Mauretanii",
+  "to": "do Mauretanii",
+  "teaser": "Mauretania to kraj dla prawdziwych poszukiwaczy przygód, oferujący surowe piękno Sahary, starożytne miasta i unikalną kulturę. To wyzwanie, ale i nagroda.",
+  "intro": [
+    "Mauretania, położona na zachodnim skraju Sahary, to kraj, który nie jest typowym celem masowej turystyki. Przyciąga raczej doświadczonych podróżników, szukających autentycznych wrażeń, z dala od utartych szlaków. To miejsce, gdzie pustynia spotyka Atlantyk, a starożytne tradycje Berberów i Bidanów są wciąż żywe. Podróżowanie po Mauretanii wymaga elastyczności, cierpliwości i otwartości na lokalną kulturę, która jest głęboko zakorzeniona w islamie.",
+    "Kraj ten jest idealny dla osób zafascynowanych pustynią, historią transsaharyjskiego handlu i unikalną architekturą miast-oaz. Mauretania oferuje niezapomniane widoki, od rozległych wydm po skaliste płaskowyże, a także możliwość poznania życia nomadów. Nie jest to jednak kierunek dla każdego - infrastruktura turystyczna jest słabo rozwinięta, a warunki podróży bywają wymagające. Warto przygotować się na podstawowe udogodnienia i liczyć się z brakiem luksusów.",
+    "Podróż z Polski do Mauretanii zazwyczaj wiąże się z przesiadką, najczęściej w jednym z europejskich hubów, takich jak Paryż, Casablanca czy Stambuł, a następnie lotem do stolicy, Nawakszutu. Przed wylotem należy dokładnie sprawdzić aktualne wymogi wizowe i zdrowotne. Ze względu na specyfikę kraju, zaleca się podróżowanie w zorganizowanych grupach lub z doświadczonymi lokalnymi przewodnikami, zwłaszcza w głąb pustyni. Bezpieczeństwo jest kluczową kwestią, którą należy brać pod uwagę planując wyjazd."
+  ],
+  "highlights": [
+    "Odkryj starożytne miasta-oazy UNESCO",
+    "Przemierzaj bezkresne wydmy Sahary",
+    "Obserwuj ptaki w Parku Banc d'Arguin",
+    "Poczuj atmosferę targu rybnego w Nawakszucie",
+    "Podróżuj legendarnym pociągiem rudy żelaza",
+    "Poznaj kulturę Bidanów i Berberów"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "nawakszut",
+      "name": "Nawakszut",
+      "loc": "w Nawakszucie",
+      "intro": [
+        "Nawakszut to stolica Mauretanii i największe miasto kraju, położone na wybrzeżu Atlantyku. Jest to stosunkowo młode miasto, które dynamicznie się rozwija, często sprawiając wrażenie rozległego placu budowy. Mimo braku spektakularnych zabytków, Nawakszut oferuje unikalny wgląd w codzienne życie Mauretańczyków, będąc tyglem kultur i punktem styku pustyni z oceanem.",
+        "W mieście warto odwiedzić tętniący życiem targ rybny, gdzie codziennie rano rybacy wyładowują swoje połowy, a sprzedawcy i kupujący negocjują ceny w zgiełku. Inne interesujące miejsca to Muzeum Narodowe, prezentujące historię i kulturę Mauretanii, oraz Wielki Meczet. Nawakszut to także dobry punkt wypadowy do eksploracji pobliskich plaż, choć nie są one typowo turystyczne."
+      ],
+      "airport": "NKC",
+      "forWhom": "Dla tych, którzy chcą poznać stolicę i zobaczyć codzienne życie Mauretanii.",
+      "gygQuery": "Nouakchott",
+      "highlights": [
+        "Targ rybny",
+        "Muzeum Narodowe",
+        "Wielki Meczet",
+        "Plaże Atlantyku"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "adrar",
+      "name": "Region Adrar",
+      "loc": "w regionie Adrar",
+      "intro": [
+        "Region Adrar to serce mauretańskiej pustyni i jeden z najbardziej fascynujących obszarów kraju. Charakteryzuje się surowymi, skalistymi płaskowyżami, głębokimi wadi, zielonymi oazami i bezkresnymi wydmami. To tutaj znajdują się najcenniejsze zabytki Mauretanii - starożytne miasta-oazy Chinguetti i Ouadane, wpisane na listę światowego dziedzictwa UNESCO.",
+        "Podróżowanie po Adrarze to prawdziwa przygoda, często wymagająca jazdy samochodami terenowymi. Region oferuje możliwość poznania tradycyjnego życia nomadów, odwiedzenia bibliotek z bezcennymi manuskryptami oraz podziwiania niezwykłych formacji skalnych, takich jak monolit Ben Amera czy tajemnicza Struktura Richat, zwana Okiem Sahary. Głównym miastem regionu jest Atar, będący bazą wypadową do dalszych eksploracji."
+      ],
+      "airport": "ATR",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników pustyni i historii.",
+      "gygQuery": "Adrar Mauritania",
+      "highlights": [
+        "Chinguetti i Ouadane (UNESCO)",
+        "Oazy i pustynne krajobrazy",
+        "Monolit Ben Amera",
+        "Struktura Richat - Oko Sahary"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "banc-d-arguin",
+      "name": "Park Narodowy Banc d'Arguin",
+      "loc": "w Parku Narodowym Banc d'Arguin",
+      "intro": [
+        "Park Narodowy Banc d'Arguin to unikalne połączenie pustyni i morza, wpisane na listę UNESCO, będące jednym z najważniejszych rezerwatów ptaków na świecie. Rozległe płycizny, wyspy i namorzyny stanowią idealne środowisko dla milionów ptaków wędrownych, które zatrzymują się tu na zimę lub lęgi. Można tu obserwować flamingi, pelikany, rybitwy i wiele innych gatunków.",
+        "Park jest także domem dla rybaków z plemienia Imraguen, którzy od wieków żyją w harmonii z naturą, wykorzystując tradycyjne metody połowu. Wizyta w Banc d'Arguin to niezwykła okazja do podziwiania dzikiej przyrody w jej naturalnym środowisku oraz poznania kultury lokalnej społeczności. Dostęp do parku jest ograniczony i wymaga specjalnych zezwoleń oraz lokalnego przewodnika."
+      ],
+      "airport": "NKC",
+      "forWhom": "Dla ornitologów i miłośników dzikiej przyrody.",
+      "gygQuery": "Banc d'Arguin National Park",
+      "highlights": [
+        "Miliony ptaków wędrownych",
+        "Tradycyjni rybacy Imraguen",
+        "Unikalny ekosystem pustyni i morza",
+        "Dziewicze plaże i wydmy"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare Miasto Chinguetti",
+      "text": "Jedno z siedmiu świętych miast islamu, wpisane na listę UNESCO, słynie z zabytkowych bibliotek z bezcennymi manuskryptami, świadczących o dawnej potędze intelektualnej regionu.",
+      "gygQuery": "Chinguetti"
+    },
+    {
+      "name": "Stare Miasto Ouadane",
+      "text": "Kolejne miasto-oaza UNESCO, dawny ważny punkt na transsaharyjskim szlaku handlowym, z imponującymi ruinami, które opowiadają historię dawnej świetności.",
+      "gygQuery": "Ouadane"
+    },
+    {
+      "name": "Struktura Richat (Oko Sahary)",
+      "text": "Ogromna, kolista formacja geologiczna na pustyni Adrar, widoczna z kosmosu, której pochodzenie wciąż pozostaje przedmiotem badań naukowców.",
+      "gygQuery": "Richat Structure"
+    },
+    {
+      "name": "Pociąg rudy żelaza (Train du Désert)",
+      "text": "Jeden z najdłuższych i najcięższych pociągów na świecie, przewożący rudę żelaza przez pustynię. Możliwa jest podróż na jego pokładzie, co stanowi niezapomniane doświadczenie.",
+      "gygQuery": "Mauritania Iron Ore Train"
+    },
+    {
+      "name": "Monolit Ben Amera",
+      "text": "Trzeci co do wielkości monolit na świecie, imponująca formacja skalna w sercu pustyni, otoczona mniejszymi granitowymi kopułami.",
+      "gygQuery": "Ben Amera"
+    },
+    {
+      "name": "Targ rybny w Nawakszucie",
+      "text": "Tętniące życiem centrum handlu, gdzie codziennie rano rybacy wyładowują swoje połowy, a kupujący i sprzedający negocjują ceny w zgiełku i chaosie.",
+      "gygQuery": "Nouakchott Fish Market"
+    },
+    {
+      "name": "Oaza Terjit",
+      "text": "Jedna z najpiękniejszych oaz w Mauretanii, oferująca cień palm daktylowych, chłodne źródła i wytchnienie od pustynnego upału.",
+      "gygQuery": "Terjit Oasis"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Mauretania jest bezpieczna dla turystów?",
+      "a": "Mauretania jest krajem o podwyższonym ryzyku. Polskie Ministerstwo Spraw Zagranicznych odradza podróże do niektórych regionów i zaleca zachowanie szczególnej ostrożności w pozostałych. Przed wyjazdem należy zapoznać się z aktualnymi ostrzeżeniami MSZ i rozważyć podróż z doświadczonym lokalnym przewodnikiem."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Mauretanii?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać do Mauretanii. Wizę można uzyskać na lotnisku w Nawakszucie (visa on arrival) lub w mauretańskich placówkach dyplomatycznych. Zawsze należy sprawdzić aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Mauretanii i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest ouguiya mauretańska (MRU). Płatności kartą są rzadko akceptowane poza kilkoma większymi hotelami w Nawakszucie. Zaleca się posiadanie gotówki w lokalnej walucie oraz awaryjnie w euro lub dolarach amerykańskich."
+    },
+    {
+      "q": "Jakie są języki urzędowe w Mauretanii?",
+      "a": "Językiem urzędowym jest arabski (w dialekcie hassaniya). Powszechnie używany jest również francuski, zwłaszcza w kontaktach biznesowych i urzędowych. Znajomość podstaw francuskiego znacznie ułatwi komunikację."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Mauretanii to miesiące od listopada do marca. W tym okresie temperatury są bardziej umiarkowane, zwłaszcza na pustyni, a ryzyko upałów jest mniejsze. Unikać należy miesięcy letnich (czerwiec-wrzesień), kiedy upały są ekstremalne, a na wybrzeżu panuje wysoka wilgotność. Wiosna i jesień (kwiecień-maj, październik) to również dobre terminy, choć temperatury mogą być już wyższe.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      5,
+      10
+    ]
+  },
+  "capital": "Nawakszut",
+  "climate": {
+    "air": [
+      29,
+      30,
+      32,
+      33,
+      34,
+      34,
+      31,
+      31,
+      32,
+      33,
+      32,
+      29
+    ],
+    "note": "dla Nawakszutu i wybrzeża",
+    "sea": [
+      20,
+      19,
+      19,
+      20,
+      21,
+      23,
+      26,
+      27,
+      28,
+      27,
+      25,
+      22
+    ]
+  },
+  "cuisine": [
+    "Kuchnia mauretańska to mieszanka wpływów arabskich, berberyjskich i afrykańskich. Podstawą diety są ryż, kuskus, mięso (kozie, wielbłądzie, wołowe) oraz ryby, zwłaszcza na wybrzeżu. Popularne dania to thieboudienne (ryż z rybą i warzywami), mafe (gulasz z orzeszków ziemnych) oraz mechoui (pieczone mięso). Ważnym elementem kultury jest picie słodkiej, miętowej herbaty, często serwowanej w trzech rundach. Ze względu na pustynny klimat, świeże warzywa i owoce są mniej dostępne poza większymi miastami i oazami."
+  ],
+  "gygQuery": "Mauritania",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu oraz wiza. Wizę można uzyskać na lotnisku w Nawakszucie. Przed wyjazdem należy bezwzględnie sprawdzić aktualne wymogi wizowe na stronie polskiego MSZ lub w ambasadzie Mauretanii.",
+    "flight": "Około 8-12 godzin z przesiadką, najczęściej w Paryżu, Casablance lub Stambule.",
+    "language": "Arabski (Hassaniya) i francuski. Znajomość francuskiego jest bardzo pomocna, angielski jest rzadko używany poza hotelami.",
+    "money": "Waluta to ouguiya mauretańska (MRU). Wymiana walut jest możliwa w bankach i kantorach w większych miastach. Płatności kartą są bardzo ograniczone, zaleca się posiadanie gotówki.",
+    "plugs": "Typ C, E i F. Napięcie 220V, częstotliwość 50Hz. Adapter nie zawsze jest konieczny, ale warto go mieć.",
+    "safety": "Mauretania jest krajem o podwyższonym ryzyku. Polskie Ministerstwo Spraw Zagranicznych odradza podróże do niektórych regionów (pogranicze z Mali, Algierią) i zaleca zachowanie szczególnej ostrożności w pozostałych. Istnieje ryzyko terroryzmu i przestępczości. Zaleca się unikanie samotnych podróży, zwłaszcza po zmroku, oraz korzystanie z usług sprawdzonych lokalnych przewodników. Należy skonsultować się z lekarzem w sprawie zalecanych szczepień (np. żółta febra, tężec, dur brzuszny, WZW A i B) oraz profilaktyki antymalarycznej.",
+    "timeDiff": "W Mauretanii obowiązuje strefa czasowa GMT+0. Oznacza to, że zimą jest -1 godzina w stosunku do Polski, a latem -2 godziny."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

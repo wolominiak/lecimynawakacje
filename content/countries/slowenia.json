@@ -1,0 +1,219 @@
+{
+  "slug": "slowenia",
+  "loc": "w Słowenii",
+  "to": "do Słowenii",
+  "teaser": "Słowenia to kompaktowy kraj, który zaskakuje różnorodnością - od alpejskich szczytów, przez malownicze jeziora, po krótkie, ale urokliwe wybrzeże Adriatyku. Idealna na aktywny wypoczynek i poznawanie natury.",
+  "intro": [
+    "Słowenia, choć niewielka, to prawdziwa perła Europy Środkowej, oferująca niezwykłą różnorodność krajobrazów na małej powierzchni. Od majestatycznych szczytów Alp Julijskich, przez krystalicznie czyste jeziora Bled i Bohinj, po tajemnicze jaskinie Krasu i krótki, ale urokliwy pas wybrzeża Adriatyku. To kraj, który z powodzeniem łączy alpejskie widoki z śródziemnomorskim klimatem i bogatą historią. Słowenia stawia na ekoturystykę, co widać w dbałości o przyrodę i liczne parki narodowe.",
+    "Jest to idealne miejsce dla osób ceniących aktywny wypoczynek - piesze wędrówki, jazdę na rowerze, kajakarstwo czy narciarstwo. Rodziny z dziećmi znajdą tu wiele atrakcji, od zamków po parki wodne. Miłośnicy kultury i historii docenią urokliwe miasta, takie jak Lublana czy Piran, z ich bogatą architekturą i spokojną atmosferą. Słowenia to także świetny kierunek na road trip, pozwalający w krótkim czasie odkryć wiele różnorodnych zakątków.",
+    "Z Polski do Słowenii najłatwiej dojechać samochodem, co zajmuje około 8-10 godzin, w zależności od punktu startowego. To popularna opcja, zwłaszcza dla podróżujących z południowej Polski. Alternatywnie, można polecieć bezpośrednio do Lublany (LJU) z kilku polskich miast, a lot trwa około 1,5 godziny. Dzięki członkostwu w strefie Schengen, podróż jest płynna i bezproblemowa, co czyni Słowenię bardzo dostępnym kierunkiem."
+  ],
+  "highlights": [
+    "Bajkowe Jezioro Bled z wyspą i zamkiem",
+    "Spektakularne Alpy Julijskie i Triglavski Park Narodowy",
+    "Tajemnicze jaskinie Postojna i Szkocjańskie",
+    "Urokliwa stolica Lublana z rzeką Ljubljanicą",
+    "Malownicze wybrzeże Adriatyku z Piranem",
+    "Wyborne wina i lokalne specjały kulinarne"
+  ],
+  "popularity": 40,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "lublana",
+      "name": "Lublana",
+      "loc": "w Lublanie",
+      "intro": [
+        "Lublana, stolica Słowenii, to urokliwe miasto, które często bywa porównywane do Pragi, ale w znacznie mniejszej, bardziej kameralnej skali. Jej sercem jest rzeka Ljubljanica, wzdłuż której ciągną się malownicze nabrzeża z kawiarniami i restauracjami. Nad miastem góruje średniowieczny zamek, oferujący panoramiczne widoki.",
+        "Miasto słynie z zielonych przestrzeni, licznych mostów, w tym słynnego Smoczego Mostu, oraz tętniącego życiem Starego Miasta. Lublana to także centrum kultury i sztuki, z licznymi muzeami, galeriami i wydarzeniami. Jest doskonałą bazą wypadową do zwiedzania innych części kraju."
+      ],
+      "airport": "Ljubljana (LJU)",
+      "forWhom": "Idealna dla miłośników miejskich klimatów, kultury i dobrej kuchni.",
+      "gygQuery": "Ljubljana",
+      "highlights": [
+        "Zamek Lublański z widokami",
+        "Spacer wzdłuż rzeki Ljubljanicy",
+        "Smoczy Most i Potrójny Most",
+        "Zielony Park Tivoli"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "alpy-julijskie-i-triglavski-park-narodowy",
+      "name": "Alpy Julijskie i Triglavski Park Narodowy",
+      "loc": "w Alpach Julijskich",
+      "intro": [
+        "Alpy Julijskie to kwintesencja słoweńskiej przyrody, z najwyższym szczytem Triglav (2864 m n.p.m.) i krystalicznie czystymi jeziorami Bled i Bohinj. Cały ten obszar chroniony jest przez Triglavski Park Narodowy, który oferuje niezliczone szlaki turystyczne o różnym stopniu trudności, od łatwych spacerów po wymagające wspinaczki.",
+        "Region ten to raj dla miłośników aktywnego wypoczynku. Można tu uprawiać trekking, kajakarstwo, rafting, kolarstwo górskie, a zimą narciarstwo. Malownicze doliny, wodospady i urokliwe górskie wioski sprawiają, że każdy znajdzie coś dla siebie, niezależnie od pory roku."
+      ],
+      "airport": "Ljubljana (LJU)",
+      "forWhom": "Miejsce dla aktywnych - wędrowców, rowerzystów i miłośników sportów wodnych.",
+      "gygQuery": "Julian Alps Slovenia",
+      "highlights": [
+        "Jezioro Bled z wyspą i zamkiem",
+        "Spokojne Jezioro Bohinj",
+        "Wąwóz Vintgar z kładkami",
+        "Górskie szlaki i widoki Triglavu"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "wybrzeze-adriatyku",
+      "name": "Wybrzeże Adriatyku",
+      "loc": "na słoweńskim wybrzeżu",
+      "intro": [
+        "Słoweńskie wybrzeże Adriatyku, choć krótkie, jest niezwykle urokliwe i oferuje typowo śródziemnomorski klimat. Perłą regionu jest Piran, miasteczko o weneckim charakterze, z wąskimi uliczkami, kolorowymi kamienicami i urokliwym placem Tartiniego. To idealne miejsce na romantyczne spacery i podziwianie zachodów słońca.",
+        "Oprócz Piranu, warto odwiedzić Portorož, znane z luksusowych hoteli i plaż, oraz Izolę i Koper, które oferują bardziej lokalną atmosferę i portowe klimaty. Region ten to także doskonała baza do jednodniowych wycieczek do pobliskiej Chorwacji czy Włoch."
+      ],
+      "airport": "Trieste (TRS) we Włoszech lub Lubljana (LJU)",
+      "forWhom": "Dla tych, którzy szukają śródziemnomorskiego klimatu, urokliwych miasteczek i relaksu nad morzem.",
+      "gygQuery": "Slovenian Coast",
+      "highlights": [
+        "Malowniczy Piran i plac Tartiniego",
+        "Relaks na plażach Portoroža",
+        "Urokliwe miasteczka Izola i Koper",
+        "Śródziemnomorska atmosfera i kuchnia"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "kras-i-jaskinie",
+      "name": "Kras i Jaskinie",
+      "loc": "na Słoweńskim Krasie",
+      "intro": [
+        "Region Kras to unikalny krajobraz wapienny, który dał nazwę wszystkim formacjom krasowym na świecie. To tutaj znajdują się jedne z najbardziej spektakularnych jaskiń w Europie, takie jak Jaskinia Postojna i Jaskinie Szkocjańskie, wpisane na listę UNESCO. W Postojnej można przejechać się podziemną kolejką, a w Szkocjańskich podziwiać gigantyczne podziemne kaniony.",
+        "Oprócz jaskiń, region Kras oferuje także inne atrakcje, takie jak Zamek Predjama, wbudowany w skalną ścianę, czy stadnina Lipica, ojczyzna słynnych koni lipicańskich. To doskonałe miejsce dla poszukiwaczy przygód i miłośników geologii, oferujące niezapomniane wrażenia pod ziemią i na powierzchni."
+      ],
+      "airport": "Ljubljana (LJU)",
+      "forWhom": "Fascynujące miejsce dla poszukiwaczy podziemnych światów i unikalnych krajobrazów.",
+      "gygQuery": "Slovenian Karst caves",
+      "highlights": [
+        "Jaskinia Postojna z podziemną kolejką",
+        "Monumentalne Jaskinie Szkocjańskie (UNESCO)",
+        "Zamek Predjama w skale",
+        "Stadnina koni lipicańskich w Lipicy"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Jezioro Bled",
+      "text": "Ikoniczne jezioro z wyspą, na której stoi kościółek, oraz zamkiem górującym nad taflą wody. Obowiązkowy punkt każdej wizyty w Słowenii, idealny na spacery, pływanie pletną i podziwianie widoków.",
+      "gygQuery": "Lake Bled"
+    },
+    {
+      "name": "Jaskinia Postojna",
+      "text": "Jedna z największych i najpiękniejszych jaskiń krasowych na świecie, słynąca z imponujących formacji skalnych i podziemnej kolejki. To fascynująca podróż do wnętrza ziemi.",
+      "gygQuery": "Postojna Cave"
+    },
+    {
+      "name": "Jaskinie Szkocjańskie",
+      "text": "Wpisane na listę UNESCO, te monumentalne jaskinie zachwycają gigantycznymi podziemnymi kanionami i rzeką Reka. Oferują bardziej dzikie i spektakularne doświadczenie niż Postojna.",
+      "gygQuery": "Skocjan Caves"
+    },
+    {
+      "name": "Zamek Predjama",
+      "text": "Niezwykły średniowieczny zamek wbudowany w skalną ścianę, tuż obok wejścia do jaskini. Jego historia i położenie zapierają dech w piersiach.",
+      "gygQuery": "Predjama Castle"
+    },
+    {
+      "name": "Piran",
+      "text": "Malownicze miasteczko na wybrzeżu Adriatyku, z wąskimi uliczkami, wenecką architekturą i urokliwym placem Tartiniego. Idealne na romantyczny spacer i podziwianie morza.",
+      "gygQuery": "Piran"
+    },
+    {
+      "name": "Wąwóz Vintgar",
+      "text": "Spektakularny wąwóz z krystalicznie czystą rzeką Radovną, przez który prowadzą drewniane kładki i mostki. To łatwa i niezwykle malownicza trasa spacerowa blisko Bledu.",
+      "gygQuery": "Vintgar Gorge"
+    },
+    {
+      "name": "Jezioro Bohinj",
+      "text": "Większe i spokojniejsze niż Bled, położone w sercu Triglavskiego Parku Narodowego. Idealne dla miłośników natury, oferuje liczne szlaki piesze i możliwości uprawiania sportów wodnych.",
+      "gygQuery": "Lake Bohinj"
+    },
+    {
+      "name": "Lublana - Stare Miasto",
+      "text": "Urokliwe centrum stolicy, z kolorowymi kamienicami, kawiarniami nad rzeką Ljubljanicą i licznymi mostami. Idealne na spacer, podziwianie architektury i chłonięcie miejskiej atmosfery.",
+      "gygQuery": "Ljubljana Old Town"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Słowenia jest drogim krajem?",
+      "a": "Słowenia jest droższa niż sąsiednia Chorwacja, ale tańsza niż Austria czy Włochy. Ceny noclegów i jedzenia są porównywalne do Polski, choć w popularnych miejscach turystycznych mogą być wyższe. Warto szukać lokalnych knajpek i agroturystyk."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Słowenii?",
+      "a": "Najwygodniej jest podróżować samochodem, co daje swobodę w odkrywaniu różnorodnych regionów. Drogi są w dobrym stanie, a sieć autostrad pozwala na szybkie przemieszczanie się. Dobrze rozwinięta jest także sieć autobusowa, łącząca większość miast i atrakcji."
+    },
+    {
+      "q": "Czy potrzebuję winiety, jadąc samochodem do Słowenii?",
+      "a": "Tak, korzystanie z autostrad i dróg ekspresowych w Słowenii wymaga posiadania winiety elektronicznej (e-winiety). Można ją kupić online przed wyjazdem lub na stacjach benzynowych przy granicy. Brak winiety grozi wysokimi mandatami."
+    },
+    {
+      "q": "Co warto kupić jako pamiątkę ze Słowenii?",
+      "a": "Popularnymi pamiątkami są lokalne wina, miody, produkty z dyni (np. olej dyniowy), rękodzieło z drewna, a także produkty z lawendy. Z Bledu można przywieźć słynne kremówki (kremna rezina) lub ich lokalne odpowiedniki."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Słowenii zależy od planowanych aktywności. Lato (czerwiec-sierpień) to idealny okres na górskie wędrówki, kąpiele w jeziorach i morzu oraz zwiedzanie miast, choć bywa wtedy tłoczno. Wiosna (maj) i wczesna jesień (wrzesień-październik) oferują przyjemne temperatury, mniej turystów i piękne krajobrazy, idealne do zwiedzania i aktywnego wypoczynku. Zimą Słowenia staje się rajem dla narciarzy, zwłaszcza w Alpach Julijskich.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "capital": "Lublana",
+  "climate": {
+    "air": [
+      2,
+      4,
+      9,
+      14,
+      19,
+      22,
+      25,
+      24,
+      19,
+      14,
+      7,
+      3
+    ],
+    "note": "dla Lublany (powietrze) i wybrzeża (morze)",
+    "sea": [
+      10,
+      9,
+      10,
+      13,
+      17,
+      21,
+      24,
+      25,
+      23,
+      19,
+      15,
+      12
+    ]
+  },
+  "cuisine": [
+    "Kuchnia słoweńska to fascynująca mieszanka wpływów austriackich, włoskich i bałkańskich, co czyni ją niezwykle różnorodną i smaczną. Warto spróbować tradycyjnej kiełbasy kranjskiej (kranjska klobasa), pierożków štruklji z różnymi nadzieniami, czy słodkiej poticy - zawijanego ciasta z orzechami. W regionach alpejskich królują dania mięsne i sycące zupy, natomiast na wybrzeżu dominują świeże owoce morza i dania inspirowane kuchnią włoską. Słowenia słynie również z doskonałych win, zwłaszcza białych, produkowanych w regionach winiarskich, takich jak Primorska czy Podravje. Nie zapomnij spróbować lokalnych serów i wędlin."
+  ],
+  "gygQuery": "Slovenia",
+  "practical": {
+    "documents": "Słowenia należy do Unii Europejskiej i strefy Schengen, więc Polacy mogą podróżować na podstawie dowodu osobistego lub paszportu. Zawsze jednak warto sprawdzić aktualne wymogi na stronie MSZ przed wyjazdem.",
+    "flight": "około 1,5 h bezpośrednio do Lublany",
+    "language": "Językiem urzędowym jest słoweński. W regionach turystycznych i większych miastach bez problemu dogadasz się po angielsku, często także po niemiecku czy włosku.",
+    "money": "Walutą jest euro (EUR). Płatności kartą są powszechne w większości miejsc, ale warto mieć przy sobie gotówkę na mniejsze zakupy, targi czy w lokalnych agroturystykach.",
+    "plugs": "W Słowenii używa się gniazdek typu F, identycznych jak w Polsce, więc nie potrzebujesz żadnych adapterów.",
+    "safety": "Słowenia to jeden z bezpieczniejszych krajów w Europie. Należy zachować standardowe środki ostrożności, zwłaszcza w większych miastach. Europejska Karta Ubezpieczenia Zdrowotnego (EKUZ) zapewnia dostęp do podstawowej opieki medycznej, ale zaleca się wykupienie dodatkowego ubezpieczenia podróżnego.",
+    "timeDiff": "brak"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

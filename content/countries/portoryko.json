@@ -1,0 +1,233 @@
+{
+  "slug": "portoryko",
+  "loc": "w Portoryko",
+  "to": "do Portoryko",
+  "teaser": "Odkryj Portoryko - karaibską wyspę z amerykańskim sznytem. Od kolonialnych uliczek San Juan po tropikalne lasy i piękne plaże.",
+  "intro": [
+    "Portoryko, choć formalnie terytorium nieinkorporowane Stanów Zjednoczonych, to kawałek Karaibów z własną, unikalną tożsamością. To wyspa, która oferuje znacznie więcej niż tylko rajskie plaże. Znajdziesz tu bujne lasy deszczowe, góry, tętniące życiem miasta z kolonialną architekturą oraz fascynującą mieszankę kultur hiszpańskiej, afrykańskiej i amerykańskiej. To idealne miejsce dla tych, którzy szukają różnorodności i chcą połączyć relaks z aktywnym zwiedzaniem.",
+    "Kraj ten przyciąga zarówno miłośników historii i kultury, którzy zachwycą się Starym San Juan, jak i poszukiwaczy przygód, gotowych na trekking po El Yunque czy eksplorację jaskiń. Plaże Portoryko są jednymi z najpiękniejszych na Karaibach, a tętniące życiem nocne kluby i bary oferują prawdziwą dawkę latynoskiej muzyki i tańca. To destynacja dla osób ceniących niezależność w podróży i otwartych na nowe doświadczenia poza utartymi szlakami masowej turystyki.",
+    "Podróż z Polski do Portoryko wymaga co najmniej jednej, a zazwyczaj dwóch przesiadek, najczęściej w dużych miastach Europy Zachodniej lub Stanów Zjednoczonych. Cała podróż zajmuje zwykle od 12 do 15 godzin, co czyni ją dość długą, ale wartą wysiłku. Ze względu na brak bezpośrednich lotów i ofert biur podróży, Portoryko to kierunek dla podróżników organizujących wyjazd na własną rękę, co daje dużą swobodę w planowaniu i odkrywaniu wyspy.",
+    "highlights",
+    "popularity",
+    "touroperator",
+    "regions",
+    "attractions",
+    "faq",
+    "bestTime",
+    "capital",
+    "climate",
+    "cuisine",
+    "gygQuery",
+    "practical"
+  ],
+  "highlights": [
+    "Kolonialne Stare San Juan",
+    "Tętniący życiem las deszczowy El Yunque",
+    "Plaża Flamenco na Culebrze",
+    "Zatoki bioluminescencyjne",
+    "Muzyka i taniec salsa",
+    "Jaskinie Camuy"
+  ],
+  "popularity": 18,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "san-juan",
+      "name": "San Juan",
+      "loc": "w San Juan",
+      "intro": [
+        "San Juan to pulsująca życiem stolica Portoryko i jego kulturalne serce. Stare San Juan, wpisane na listę UNESCO, zachwyca kolorowymi kolonialnymi kamienicami, wąskimi brukowanymi uliczkami i imponującymi fortami El Morro oraz San Cristobal. To idealne miejsce na spacery, odkrywanie lokalnych galerii sztuki, butików i restauracji. Wieczorami miasto ożywa, oferując liczne bary i kluby, gdzie można posłuchać salsy i merengue.",
+        "Poza historycznym centrum, San Juan to także nowoczesne dzielnice z luksusowymi hotelami, centrami handlowymi i pięknymi plażami, takimi jak Condado czy Isla Verde. Miasto stanowi doskonałą bazę wypadową do zwiedzania całej wyspy, oferując bogatą ofertę kulturalną, gastronomiczną i rozrywkową. To tutaj najlepiej poczuć prawdziwy puls Portoryko, jego historię i współczesność, a także spróbować lokalnych specjałów kulinarnych."
+      ],
+      "airport": "SJU",
+      "forWhom": "Dla miłośników historii, kultury, nocnego życia i miejskich atrakcji.",
+      "gygQuery": "San Juan Puerto Rico",
+      "highlights": [
+        "Fort El Morro",
+        "Kolorowe uliczki Starego San Juan",
+        "Plaża Condado",
+        "Muzeum Sztuki Portoryko"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "el-yunque",
+      "name": "El Yunque",
+      "loc": "w El Yunque",
+      "intro": [
+        "Las deszczowy El Yunque to jedyny tropikalny las deszczowy w systemie parków narodowych USA i prawdziwy klejnot Portoryko. Oferuje bujną roślinność, liczne wodospady, szlaki turystyczne i niezwykłą bioróżnorodność. To idealne miejsce dla miłośników natury i aktywnego wypoczynku, którzy chcą zanurzyć się w tropikalnej dżungli. Można tu podziwiać egzotyczne ptaki, żaby drzewne i endemiczne gatunki roślin.",
+        "Wędrówki po El Yunque to szansa na orzeźwiającą kąpiel pod wodospadami, takimi jak La Mina, oraz podziwianie panoramicznych widoków z wież obserwacyjnych. Pamiętaj, aby zabrać ze sobą odpowiednie obuwie, wodę i ochronę przeciwdeszczową, gdyż pogoda w lesie deszczowym bywa zmienna. To miejsce, które pozwala na prawdziwy kontakt z dziką przyrodą wyspy i stanowi odskocznię od plażowego zgiełku."
+      ],
+      "airport": "SJU",
+      "forWhom": "Dla miłośników przyrody, trekkingu i ekoturystyki.",
+      "gygQuery": "El Yunque National Forest",
+      "highlights": [
+        "Wodospad La Mina",
+        "Wieża Yokahu",
+        "Szlak Big Tree Trail",
+        "Rzeka Mameyes"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "vieques-culebra",
+      "name": "Vieques i Culebra",
+      "loc": "na Vieques i Culebrze",
+      "intro": [
+        "Wyspy Vieques i Culebra to prawdziwe perełki Portoryko, dostępne promem lub krótkim lotem z głównej wyspy. Słyną z dziewiczych plaż, krystalicznie czystej wody i spokojniejszej atmosfery niż na kontynencie. Culebra jest domem dla słynnej plaży Flamenco, uznawanej za jedną z najpiękniejszych na świecie, z białym piaskiem i turkusową wodą. To idealne miejsca na relaks, snorkeling i nurkowanie.",
+        "Vieques natomiast słynie z Mosquito Bay, jednej z najjaśniejszych zatok bioluminescencyjnych na świecie, gdzie nocą woda świeci magicznym blaskiem. Obie wyspy oferują ucieczkę od zgiełku, pozwalając na pełne zanurzenie się w karaibskim spokoju. Warto wynająć jeepa lub skuter, aby swobodnie poruszać się po wyspach i odkrywać ich ukryte zakątki."
+      ],
+      "airport": "VQS (Vieques), CPX (Culebra)",
+      "forWhom": "Dla poszukiwaczy rajskich plaż, spokoju i unikalnych zjawisk naturalnych.",
+      "gygQuery": "Vieques Culebra Puerto Rico",
+      "highlights": [
+        "Plaża Flamenco (Culebra)",
+        "Zatoka Mosquito (Vieques)",
+        "Snorkeling i nurkowanie",
+        "Dzika przyroda"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "zachodnie-wybrzeze",
+      "name": "Zachodnie Wybrzeże",
+      "loc": "na Zachodnim Wybrzeżu",
+      "intro": [
+        "Zachodnie Wybrzeże Portoryko to mekka dla surferów i miłośników sportów wodnych, a także miejsce, gdzie można podziwiać spektakularne zachody słońca. Miasteczka takie jak Rincón czy Aguadilla oferują luźną, kalifornijską atmosferę z licznymi szkołami surfingu, barami na plaży i restauracjami serwującymi świeże owoce morza. To idealne miejsce na aktywne wakacje połączone z relaksem.",
+        "Region ten charakteryzuje się pięknymi, szerokimi plażami, a także dostępem do parków przyrody i rezerwatów. Można tu znaleźć zarówno popularne spoty surfingowe, jak i spokojniejsze zatoczki idealne do pływania. Zachodnie Wybrzeże to także doskonała baza wypadowa do odkrywania jaskiń Camuy czy obserwacji wielorybów w sezonie. To region dla tych, którzy cenią sobie aktywny wypoczynek i swobodną atmosferę."
+      ],
+      "airport": "BQN",
+      "forWhom": "Dla surferów, miłośników sportów wodnych i osób szukających swobodnej atmosfery.",
+      "gygQuery": "West Coast Puerto Rico",
+      "highlights": [
+        "Surfing w Rincón",
+        "Latarnia morska w Aguadilla",
+        "Plaża Crash Boat",
+        "Rezerwat przyrody Boquerón"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare San Juan",
+      "text": "Wpisana na listę UNESCO kolonialna część stolicy, z kolorowymi kamienicami, brukowanymi uliczkami i historycznymi fortami, takimi jak El Morro.",
+      "gygQuery": "Old San Juan walking tour"
+    },
+    {
+      "name": "Las deszczowy El Yunque",
+      "text": "Jedyny tropikalny las deszczowy w systemie parków narodowych USA, oferujący bujną roślinność, wodospady i szlaki turystyczne.",
+      "gygQuery": "El Yunque Rainforest tour"
+    },
+    {
+      "name": "Plaża Flamenco (Culebra)",
+      "text": "Uznawana za jedną z najpiękniejszych plaż na świecie, z białym piaskiem i turkusową wodą, idealna do pływania i snorkelingu.",
+      "gygQuery": "Flamenco Beach Culebra"
+    },
+    {
+      "name": "Zatoka Bioluminescencyjna (Mosquito Bay, Vieques)",
+      "text": "Jedna z najjaśniejszych zatok bioluminescencyjnych na świecie, gdzie nocą woda świeci magicznym blaskiem.",
+      "gygQuery": "Mosquito Bay Bioluminescent Tour"
+    },
+    {
+      "name": "Jaskinie Camuy",
+      "text": "Rozległy system jaskiń krasowych i podziemnych rzek, oferujący fascynujące formacje skalne i możliwość eksploracji.",
+      "gygQuery": "Camuy Caves tour"
+    },
+    {
+      "name": "Ponce",
+      "text": "Drugie co do wielkości miasto Portoryko, znane z eleganckiej architektury, muzeów i historycznego centrum.",
+      "gygQuery": "Ponce Puerto Rico tour"
+    },
+    {
+      "name": "Plaża Luquillo",
+      "text": "Popularna, długa plaża z palmami, spokojnymi wodami i licznymi kioskami z lokalnym jedzeniem, idealna dla rodzin.",
+      "gygQuery": "Luquillo Beach Puerto Rico"
+    },
+    {
+      "name": "Fort San Cristóbal",
+      "text": "Imponująca forteca obronna w San Juan, oferująca wgląd w historię militarną wyspy i piękne widoki na ocean.",
+      "gygQuery": "Fort San Cristobal tour"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Portoryko?",
+      "a": "Portoryko jest terytorium USA, więc obywatele Polski, posiadający paszport biometryczny, mogą wjechać na podstawie programu Visa Waiver Program (ESTA). Należy pamiętać o wcześniejszym złożeniu wniosku ESTA online. Zawsze zalecamy sprawdzenie aktualnych wymogów przed podróżą na stronie MSZ lub ambasady USA."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Portoryko?",
+      "a": "Najlepszy czas na podróż do Portoryko to sucha pora, czyli od grudnia do maja. Wtedy pogoda jest najbardziej stabilna, a ryzyko huraganów minimalne. Miesiące letnie i jesienne (czerwiec-listopad) to pora deszczowa i sezon huraganów."
+    },
+    {
+      "q": "Czy Portoryko jest bezpieczne?",
+      "a": "Portoryko jest generalnie bezpiecznym kierunkiem turystycznym, zwłaszcza w popularnych obszarach. Należy jednak zachować podstawowe środki ostrożności, unikać samotnych spacerów po zmroku w nieznanych dzielnicach i dbać o swoje wartościowe przedmioty. Zawsze warto śledzić komunikaty lokalnych władz i MSZ."
+    },
+    {
+      "q": "Jakie są główne atrakcje Portoryko?",
+      "a": "Główne atrakcje to historyczne Stare San Juan z fortami, las deszczowy El Yunque, rajskie plaże na wyspach Culebra (Flamenco Beach) i Vieques (Zatoka Bioluminescencyjna), a także jaskinie Camuy i tętniące życiem miasta takie jak Ponce."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Portoryko to sucha pora, która trwa od grudnia do maja. W tym okresie panuje najmniej opadów, a temperatury są przyjemne, co sprzyja zwiedzaniu i plażowaniu. Jest to również czas poza sezonem huraganów, które występują głównie od czerwca do listopada. Unikając pory deszczowej i szczytu sezonu huraganowego, zapewnisz sobie najbardziej komfortowe warunki do odkrywania wyspy.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      11
+    ]
+  },
+  "capital": "San Juan",
+  "climate": {
+    "air": [
+      28,
+      28,
+      29,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      29,
+      28
+    ],
+    "note": "dla San Juan",
+    "sea": [
+      26,
+      26,
+      26,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia portorykańska to fascynująca mieszanka wpływów hiszpańskich, afrykańskich i Taino. Podstawą wielu dań jest ryż, fasola i plantany. Koniecznie spróbuj mofongo, czyli puree z zielonych plantanów z czosnkiem i skwarkami, często podawane z mięsem lub owocami morza. Inne popularne dania to lechón asado (pieczony prosiak), pasteles (ciasteczka z ciasta z zielonych bananów i mięsa) oraz alcapurrias (smażone placki z ciasta z zielonych bananów i yautii, z mięsnym nadzieniem). Nie zapomnij o świeżych owocach tropikalnych i oczywiście o piña coladzie, która podobno została wynaleziona właśnie w Portoryko."
+  ],
+  "gygQuery": "Puerto Rico",
+  "practical": {
+    "documents": "Obywatele Polski, posiadający paszport biometryczny, mogą wjechać do Portoryko na podstawie programu Visa Waiver Program (ESTA), tak jak do kontynentalnych Stanów Zjednoczonych. Wymagane jest wcześniejsze złożenie wniosku ESTA online. Paszport musi być ważny co najmniej 6 miesięcy dłużej niż planowany pobyt. Zawsze zaleca się sprawdzenie aktualnych wymogów w Ambasadzie USA lub na stronie MSZ przed podróżą.",
+    "flight": "Lot z Polski do Portoryko trwa około 12-15 godzin z jedną lub dwiema przesiadkami, najczęściej w Europie Zachodniej lub w USA.",
+    "language": "Oficjalnymi językami są hiszpański i angielski. Hiszpański jest dominujący w codziennym życiu, ale w rejonach turystycznych i większych miastach bez problemu porozumiesz się po angielsku.",
+    "money": "Walutą jest dolar amerykański (USD). Płatności kartami kredytowymi i debetowymi są powszechne, a bankomaty dostępne w większych miastach i kurortach. Warto mieć przy sobie trochę gotówki na mniejsze zakupy i napiwki.",
+    "plugs": "W Portoryko używane są gniazdka typu A i B, takie same jak w Stanach Zjednoczonych. Napięcie wynosi 120 V, a częstotliwość 60 Hz. Konieczna będzie przejściówka i ewentualnie adapter napięcia dla urządzeń z Polski.",
+    "safety": "Portoryko jest stosunkowo bezpieczne dla turystów, ale jak w każdym miejscu, należy zachować ostrożność. Unikaj samotnych spacerów po zmroku w nieznanych dzielnicach. Uważaj na kieszonkowców w zatłoczonych miejscach. Wyspa leży w strefie huraganów, więc w sezonie (czerwiec-listopad) warto śledzić prognozy pogody. Opieka medyczna jest na poziomie amerykańskim, ale może być kosztowna, dlatego zaleca się posiadanie dobrego ubezpieczenia turystycznego.",
+    "timeDiff": "Różnica czasu między Portoryko a Polską wynosi -6 godzin w czasie zimowym (gdy w Polsce jest godzina 12:00, w Portoryko jest 6:00 rano) i -5 godzin w czasie letnim (gdy w Polsce jest 12:00, w Portoryko jest 7:00 rano)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

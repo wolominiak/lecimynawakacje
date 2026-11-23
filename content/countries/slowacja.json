@@ -1,0 +1,206 @@
+{
+  "slug": "slowacja",
+  "loc": "na Słowacji",
+  "to": "na Słowację",
+  "teaser": "Słowacja to kraj bliski sercu Polaków, oferujący majestatyczne góry, urokliwe miasta i bogatą historię, idealny na aktywny wypoczynek.",
+  "intro": [
+    "Słowacja, nasz południowy sąsiad, to kierunek, który przyciąga przede wszystkim miłośników gór i aktywnego spędzania czasu. Wysokie Tatry, z ich dramatycznymi szczytami i malowniczymi dolinami, są magnesem dla turystów pieszych i narciarzy. Poza Tatrami, kraj oferuje liczne parki narodowe, jaskinie, uzdrowiska termalne oraz urokliwe średniowieczne miasta i zamki, które świadczą o bogatej historii regionu. To świetny wybór dla tych, którzy szukają różnorodności i pięknych krajobrazów tuż za polską granicą.",
+    "Kraj jest idealny dla rodzin z dziećmi, par szukających romantycznych zakątków, a także dla singli i grup przyjaciół, którzy cenią sobie aktywny wypoczynek. Niezależnie od tego, czy preferujesz wymagające górskie szlaki, relaks w gorących źródłach, czy zwiedzanie zabytków, Słowacja ma coś do zaoferowania. Jest to również kierunek przyjazny dla portfela, często postrzegany jako tańsza alternatywa dla Alp czy innych popularnych regionów górskich w Europie.",
+    "Podróż ze Polski na Słowację jest niezwykle prosta i wygodna. Większość turystów wybiera dojazd samochodem, co pozwala na swobodne odkrywanie różnych regionów kraju. Istnieją również połączenia autobusowe i kolejowe, zwłaszcza do większych miast i popularnych miejscowości turystycznych. Ze względu na bliskość i brak konieczności dalekich podróży lotniczych, Słowacja to doskonały cel na spontaniczny weekendowy wyjazd lub dłuższe wakacje, bez zbędnego planowania i skomplikowanych logistyk."
+  ],
+  "highlights": [
+    "Wysokie Tatry - wędrówki i narciarstwo",
+    "Bratysława - urokliwa stolica",
+    "Jaskinie - Demianowska i Dobszyńska",
+    "Zamki - Spiski i Orawski",
+    "Słowacki Raj - unikalne szlaki",
+    "Uzdrowiska termalne i aquaparki"
+  ],
+  "popularity": 45,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "wysokie-tatry",
+      "name": "Wysokie Tatry",
+      "loc": "w Wysokich Tatrach",
+      "intro": [
+        "Wysokie Tatry to bez wątpienia perła Słowacji i jeden z najpiękniejszych regionów górskich w Europie. Oferują spektakularne szczyty, krystalicznie czyste jeziora polodowcowe i gęste lasy, które zachwycają o każdej porze roku. To raj dla miłośników pieszych wędrówek, od łatwych spacerów po dolinach, po wymagające wspinaczki na najwyższe szczyty, takie jak Gerlach. Latem szlaki tętnią życiem, a zimą region zamienia się w popularny ośrodek narciarski z dobrze przygotowanymi trasami.",
+        "Region ten jest świetnie rozwinięty turystycznie, z licznymi schroniskami, hotelami i pensjonatami. Kolejki linowe ułatwiają dostęp do wyższych partii gór, skąd rozpościerają się zapierające dech w piersiach widoki. Warto odwiedzić takie miejscowości jak Szczyrbskie Jezioro, Stary Smokowiec czy Tatrzańska Łomnica, które oferują bogatą bazę noclegową i gastronomiczną, a także liczne atrakcje dodatkowe, jak np. parki rozrywki czy muzea."
+      ],
+      "airport": "Poprad-Tatry (TAT)",
+      "forWhom": "Idealne dla miłośników górskich wędrówek, wspinaczki i sportów zimowych.",
+      "gygQuery": "High Tatras Slovakia",
+      "highlights": [
+        "Wędrówki górskie i wspinaczka",
+        "Kolejki linowe na szczyty",
+        "Malownicze jeziora polodowcowe",
+        "Ośrodki narciarskie"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "bratyslawa",
+      "name": "Bratysława",
+      "loc": "w Bratysławie",
+      "intro": [
+        "Bratysława, stolica Słowacji, to miasto o bogatej historii i uroczym klimacie, położone nad Dunajem. Jej kompaktowe Stare Miasto z wąskimi uliczkami, kolorowymi kamienicami i licznymi kawiarniami zachęca do niespiesznych spacerów. Dominującym punktem panoramy jest Zamek Bratysławski, dumnie wznoszący się na wzgórzu, oferujący piękne widoki na miasto i rzekę. To idealne miejsce na weekendowy wypad, łączący zwiedzanie zabytków z relaksem.",
+        "Poza historycznym centrum, Bratysława oferuje nowoczesne oblicze z intrygującą architekturą, taką jak Most SNP z restauracją UFO. Miasto jest również centrum kultury i sztuki, z licznymi galeriami, teatrami i muzeami. Bliskość Wiednia i Budapesztu sprawia, że Bratysława często jest częścią większych wycieczek po Europie Środkowej, ale sama w sobie stanowi atrakcyjny cel podróży, zwłaszcza dla tych, którzy cenią sobie kameralny charakter stolic."
+      ],
+      "airport": "Bratislava (BTS)",
+      "forWhom": "Dla tych, którzy szukają miejskiego weekendu z historią, kulturą i dobrą kuchnią.",
+      "gygQuery": "Bratislava",
+      "highlights": [
+        "Stare Miasto i Zamek Bratysławski",
+        "Katedra św. Marcina",
+        "Most SNP i restauracja UFO",
+        "Spacer brzegiem Dunaju"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "slowacki-raj",
+      "name": "Słowacki Raj",
+      "loc": "w Słowackim Raju",
+      "intro": [
+        "Słowacki Raj to park narodowy, który słynie z unikalnych szlaków turystycznych prowadzących przez głębokie wąwozy, wzdłuż wodospadów i po skalnych półkach. To miejsce dla osób lubiących wyzwania i niezapomniane widoki, ponieważ wiele tras wymaga pokonywania drabin, kładek i łańcuchów. Takie szlaki jak Suchá Belá czy Prielom Hornádu dostarczają mnóstwa adrenaliny i pozwalają podziwiać dziką, nienaruszoną przyrodę.",
+        "Oprócz wąwozów, Słowacki Raj oferuje również jaskinie, w tym słynną Dobszyńską Jaskinię Lodową, wpisaną na listę UNESCO. Region ten jest doskonały dla aktywnego wypoczynku, zapewniając zarówno trudniejsze trasy dla doświadczonych turystów, jak i łatwiejsze ścieżki dla rodzin z dziećmi. To prawdziwa gratka dla każdego, kto chce doświadczyć górskiej przygody w nieco inny sposób niż tradycyjne tatrzańskie szlaki."
+      ],
+      "airport": "Poprad-Tatry (TAT)",
+      "forWhom": "Dla poszukiwaczy przygód i miłośników unikalnych szlaków z drabinami i kładkami.",
+      "gygQuery": "Slovak Paradise National Park",
+      "highlights": [
+        "Wąwóz Suchá Belá",
+        "Przełom Hornadu",
+        "Dobszyńska Jaskinia Lodowa",
+        "Punkt widokowy Tomášovský výhľad"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "niskie-tatry",
+      "name": "Niskie Tatry",
+      "loc": "w Niskich Tatrach",
+      "intro": [
+        "Niskie Tatry to drugi co do wielkości łańcuch górski na Słowacji, oferujący nieco łagodniejsze, ale równie piękne krajobrazy niż ich wyżsi sąsiedzi. To idealne miejsce na mniej wymagające wędrówki, z rozległymi grzbietami i panoramicznymi widokami. Najwyższy szczyt, Dziumbier, oraz popularny Chopok, są dostępne zarówno pieszo, jak i kolejkami linowymi, co sprawia, że region jest przyjazny dla turystów o różnym stopniu zaawansowania.",
+        "Zimą Niskie Tatry stają się jednym z najlepszych ośrodków narciarskich w Europie Środkowej, z Jasną na czele, oferującą nowoczesne wyciągi i rozbudowaną infrastrukturę. Region słynie również z jaskiń, takich jak Demianowska Jaskinia Wolności, oraz z licznych źródeł termalnych i aquaparków, które zapewniają relaks po aktywnym dniu. To świetny wybór dla tych, którzy szukają połączenia górskich przygód z możliwością odprężenia w wodach termalnych."
+      ],
+      "airport": "Poprad-Tatry (TAT)",
+      "forWhom": "Świetne miejsce na mniej wymagające wędrówki, narciarstwo i relaks w termach.",
+      "gygQuery": "Low Tatras Slovakia",
+      "highlights": [
+        "Szczyt Chopok i Jasna Ski Resort",
+        "Demianowska Jaskinia Wolności",
+        "Wędrówki grzbietami górskimi",
+        "Kąpiele w termalnych basenach"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Zamek Bratysławski",
+      "text": "Monumentalny zamek górujący nad stolicą, oferujący wspaniałe widoki na miasto i Dunaj. Dziś mieści się w nim muzeum i sale reprezentacyjne.",
+      "gygQuery": "Bratislava Castle"
+    },
+    {
+      "name": "Wysokie Tatry",
+      "text": "Najwyższe pasmo Karpat, z majestatycznymi szczytami, krystalicznie czystymi jeziorami i rozległymi dolinami, idealne do pieszych wędrówek i narciarstwa.",
+      "gygQuery": "High Tatras"
+    },
+    {
+      "name": "Demianowska Jaskinia Wolności",
+      "text": "Jedna z najpiękniejszych jaskiń krasowych w Europie, zachwycająca bogactwem form naciekowych, podziemnymi jeziorami i imponującymi salami.",
+      "gygQuery": "Demänovská Cave of Liberty"
+    },
+    {
+      "name": "Zamek Spiski",
+      "text": "Jeden z największych kompleksów zamkowych w Europie Środkowej, wpisany na listę UNESCO. Imponujące ruiny świadczą o dawnej potędze.",
+      "gygQuery": "Spis Castle"
+    },
+    {
+      "name": "Dobszyńska Jaskinia Lodowa",
+      "text": "Wyjątkowa jaskinia lodowa, również na liście UNESCO, z fascynującymi formacjami lodowymi, które utrzymują się przez cały rok.",
+      "gygQuery": "Dobsinska Ice Cave"
+    },
+    {
+      "name": "Vlkolínec",
+      "text": "Malownicza wieś, wpisana na listę UNESCO, zachowująca tradycyjną architekturę drewnianą. To żywy skansen, który przenosi w czasie.",
+      "gygQuery": "Vlkolinec"
+    },
+    {
+      "name": "Zamek Orawski",
+      "text": "Jeden z najbardziej malowniczych zamków na Słowacji, położony na skalistym wzniesieniu nad rzeką Orawą. Służył jako sceneria wielu filmów.",
+      "gygQuery": "Orava Castle"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Słowacja jest droga?",
+      "a": "Słowacja jest generalnie tańsza niż kraje Europy Zachodniej, ale ceny w popularnych regionach turystycznych, jak Wysokie Tatry, mogą być zbliżone do polskich. Warto jednak pamiętać, że za podobne usługi często płaci się mniej niż w innych alpejskich kurortach."
+    },
+    {
+      "q": "Czy można płacić kartą na Słowacji?",
+      "a": "Tak, na Słowacji walutą jest Euro, a płatności kartą są powszechne w większości sklepów, restauracji i hoteli. Warto jednak mieć przy sobie trochę gotówki na drobne wydatki, zwłaszcza w mniejszych miejscowościach czy na górskich szlakach."
+    },
+    {
+      "q": "Jak dojechać na Słowację z Polski?",
+      "a": "Najwygodniejszym sposobem jest dojazd samochodem, dzięki dobrze rozwiniętej sieci dróg i bliskości granicy. Istnieją również połączenia autobusowe i kolejowe, szczególnie do większych miast i regionów turystycznych, takich jak Tatry."
+    },
+    {
+      "q": "Co warto zobaczyć na Słowacji poza Tatrami?",
+      "a": "Poza Tatrami warto odwiedzić stolicę Bratysławę, Park Narodowy Słowacki Raj z jego unikalnymi wąwozami, liczne zamki (Spiski, Orawski) oraz jaskinie (Demianowska, Dobszyńska Jaskinia Lodowa). Słowacja oferuje także wiele uzdrowisk termalnych."
+    },
+    {
+      "q": "Czy potrzebuję ubezpieczenia w Tatrach Słowackich?",
+      "a": "Tak, w Tatrach Słowackich, podobnie jak w innych górach, zaleca się posiadanie ubezpieczenia turystycznego, które pokryje koszty akcji ratunkowej. Słowackie służby ratownicze (HZS) pobierają opłaty za swoje interwencje, w przeciwieństwie do polskiego TOPR-u."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Słowacji zależy od celu podróży. Lato (lipiec-sierpień) to idealny okres na piesze wędrówki po górach i zwiedzanie miast, kiedy pogoda jest stabilna i ciepła. Wiosna (maj-czerwiec) i jesień (wrzesień-październik) oferują przyjemne temperatury i mniejsze tłumy, doskonałe na zwiedzanie i mniej intensywne spacery. Zima (grudzień-luty) to szczyt sezonu narciarskiego, szczególnie w Wysokich i Niskich Tatrach.",
+    "best": [
+      7,
+      8,
+      1,
+      2
+    ],
+    "ok": [
+      5,
+      6,
+      9,
+      10
+    ]
+  },
+  "capital": "Bratysława",
+  "climate": {
+    "air": [
+      2,
+      4,
+      9,
+      15,
+      20,
+      23,
+      26,
+      26,
+      21,
+      14,
+      8,
+      3
+    ],
+    "note": "dla Bratysławy",
+    "sea": null
+  },
+  "cuisine": [
+    "Słowacka kuchnia jest sycąca i bazuje na prostych, lokalnych składnikach. Królują tu dania z ziemniaków, kapusty i serów. Narodowym przysmakiem są bryndzové halušky, czyli małe kluseczki ziemniaczane z bryndzą i skwarkami. Warto spróbować także kapustnicy (gęsta zupa z kiszonej kapusty), pirohów z różnymi nadzieniami oraz smażonego sera. Do posiłku często podaje się lokalne piwo lub wino, zwłaszcza z regionu Małych Karpat. Kuchnia słowacka jest bliska polskim gustom i z pewnością zadowoli każdego smakosza."
+  ],
+  "gygQuery": "Slovakia",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać na Słowację na podstawie ważnego dowodu osobistego lub paszportu. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronach MSZ.",
+    "flight": "Krótki dojazd samochodem lub autobusem z Polski, brak typowych lotów wakacyjnych. Do Bratysławy można dolecieć z niektórych miast Polski.",
+    "language": "Oficjalnym językiem jest słowacki. W regionach turystycznych i przygranicznych często można porozumieć się po polsku lub angielsku.",
+    "money": "Walutą jest Euro (EUR). Płatności kartą są powszechne, ale warto mieć gotówkę na mniejsze wydatki.",
+    "plugs": "Używane są gniazdka typu E, takie same jak w Polsce, więc nie potrzeba adapterów.",
+    "safety": "Słowacja jest krajem bezpiecznym. Należy zachować standardowe środki ostrożności, zwłaszcza w zatłoczonych miejscach. W górach zaleca się wykupienie ubezpieczenia pokrywającego koszty akcji ratunkowej."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

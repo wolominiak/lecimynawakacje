@@ -1,0 +1,221 @@
+{
+  "slug": "niemcy",
+  "loc": "w Niemczech",
+  "to": "do Niemiec",
+  "teaser": "Niemcy to kraj o bogatej historii i nowoczesnym obliczu, oferujący od tętniących życiem miast po malownicze Alpy i baśniowe zamki. Idealny na weekendowy wypad lub dłuższą podróż.",
+  "intro": [
+    "Niemcy to kraj, który zaskakuje różnorodnością. Od tętniących życiem metropolii, takich jak Berlin czy Monachium, po spokojne, malownicze wioski Bawarii i urokliwe wybrzeża Morza Bałtyckiego. Podróżując po Niemczech, można podziwiać zarówno nowoczesną architekturę, jak i zabytki świadczące o bogatej historii, w tym średniowieczne zamki i pomniki z czasów II wojny światowej. Kraj słynie z doskonałej infrastruktury, porządku i wysokiej jakości usług, co czyni podróżowanie po nim wyjątkowo komfortowym.",
+    "Niemcy są doskonałym kierunkiem dla wielu typów podróżników. Miłośnicy kultury i historii znajdą tu niezliczone muzea, galerie i miejsca pamięci. Rodziny z dziećmi docenią liczne parki rozrywki i dobrze przygotowane szlaki turystyczne. Dla aktywnych czekają Alpy Bawarskie z trasami narciarskimi i pieszymi, a także szlaki rowerowe wzdłuż rzek. To także świetny wybór na city break, weekend w spa czy podróż biznesową, dzięki łatwemu dostępowi i rozwiniętej sieci komunikacyjnej.",
+    "Podróż z Polski do Niemiec jest niezwykle prosta i szybka. Dzięki bliskości geograficznej i przynależności do strefy Schengen, wystarczy dowód osobisty lub paszport. Można tam dotrzeć samochodem, pociągiem czy autobusem w zaledwie kilka godzin, w zależności od regionu. Liczne połączenia lotnicze z polskich miast do Berlina, Monachium, Frankfurtu czy Hamburga sprawiają, że samolotem dotrzemy na miejsce w około godzinę, co czyni Niemcy idealnym celem nawet na krótki wypad."
+  ],
+  "highlights": [
+    "Berlin - stolica pełna historii i kultury",
+    "Bajkowe zamki Bawarii, w tym Neuschwanstein",
+    "Piękne krajobrazy Alp i Schwarzwaldu",
+    "Słynne jarmarki bożonarodzeniowe",
+    "Doskonałe piwo i regionalne specjały",
+    "Nowoczesne miasta i portowy Hamburg"
+  ],
+  "popularity": 55,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "berlin",
+      "name": "Berlin",
+      "loc": "w Berlinie",
+      "intro": [
+        "Berlin to miasto, które nieustannie się zmienia, ale zawsze zachowuje swój unikalny charakter. Jest to centrum polityczne i kulturalne Niemiec, pełne kontrastów - od historycznych symboli, takich jak Brama Brandenburska czy Reichstag, po nowoczesne dzielnice i alternatywne sceny artystyczne. Spacerując po mieście, można poczuć puls historii, odwiedzając pozostałości Muru Berlińskiego czy liczne muzea na Wyspie Muzeów.",
+        "Miasto oferuje niezliczone możliwości spędzania czasu, od światowej klasy galerii sztuki, przez tętniące życiem kluby nocne, po zielone parki i tereny rekreacyjne. Berlin to także raj dla smakoszy, z kuchnią z całego świata i słynnymi currywurstami. To idealne miejsce na kilkudniowy city break, który pozwoli zanurzyć się w europejskiej historii i nowoczesności."
+      ],
+      "airport": "BER",
+      "forWhom": "Dla miłośników historii, kultury, sztuki i tętniącego życiem miasta.",
+      "gygQuery": "Berlin",
+      "highlights": [
+        "Brama Brandenburska i Reichstag",
+        "Wyspa Muzeów - światowe zbiory",
+        "Pozostałości Muru Berlińskiego",
+        "Życie nocne i kultura alternatywna"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "bawaria",
+      "name": "Bawaria",
+      "loc": "w Bawarii",
+      "intro": [
+        "Bawaria to największy land Niemiec, słynący z zapierających dech w piersiach krajobrazów alpejskich, krystalicznie czystych jezior i urokliwych miasteczek. To tu znajduje się słynny zamek Neuschwanstein, który stał się inspiracją dla logo Disneya, oraz wiele innych rezydencji królewskich. Region jest przesiąknięty tradycją, co widać w strojach ludowych, muzyce i oczywiście w kuchni, z Monachium jako stolicą piwa.",
+        "Poza Monachium, z jego słynnym Oktoberfestem i licznymi browarami, Bawaria oferuje mnóstwo atrakcji dla miłośników aktywnego wypoczynku. Można tu uprawiać turystykę pieszą i rowerową w Alpach, żeglować po jeziorach, a zimą szusować na nartach. To region, który łączy majestatyczną przyrodę z bogatą historią i żywą kulturą."
+      ],
+      "airport": "MUC",
+      "forWhom": "Idealna dla fanów gór, bajkowych zamków, tradycyjnej kultury i piwnych festiwali.",
+      "gygQuery": "Bavaria",
+      "highlights": [
+        "Zamek Neuschwanstein i inne zamki",
+        "Alpy Bawarskie - piesze wycieczki i narty",
+        "Monachium i Oktoberfest",
+        "Jeziora, np. Königssee, Chiemsee"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "hamburg",
+      "name": "Hamburg",
+      "loc": "w Hamburgu",
+      "intro": [
+        "Hamburg to drugie co do wielkości miasto w Niemczech i jeden z najważniejszych portów w Europie. Jego unikalny charakter kształtują liczne kanały, mosty (więcej niż w Wenecji i Amsterdamie razem wziętych) oraz imponująca architektura, w tym nowoczesna Filharmonia nad Łabą. Spacerując po dzielnicy Speicherstadt, wpisanej na listę UNESCO, można podziwiać dawne magazyny z czerwonej cegły, dziś mieszczące muzea i kawiarnie.",
+        "Miasto oferuje szeroki wachlarz atrakcji, od słynnej dzielnicy rozrywki Reeperbahn, przez Muzeum Miniatur Wunderland, po rejsy po porcie. Hamburg to także centrum muzyki, zwłaszcza musicali, oraz miasto z bogatą ofertą kulinarną, od świeżych ryb po międzynarodowe specjały. To idealne miejsce na city break dla tych, którzy szukają połączenia historii, nowoczesności i morskiego klimatu."
+      ],
+      "airport": "HAM",
+      "forWhom": "Miasto portowe z bogatą historią, nowoczesną architekturą i dynamicznym życiem kulturalnym.",
+      "gygQuery": "Hamburg",
+      "highlights": [
+        "Port w Hamburgu i rejsy",
+        "Miniatur Wunderland - świat w miniaturze",
+        "Filharmonia nad Łabą - ikona architektury",
+        "Dzielnica Speicherstadt (UNESCO)"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "schwarzwald",
+      "name": "Schwarzwald",
+      "loc": "w Schwarzwaldzie",
+      "intro": [
+        "Schwarzwald, czyli Czarny Las, to jeden z najbardziej malowniczych regionów Niemiec, położony w południowo-zachodniej części kraju. Słynie z gęstych lasów jodłowych, głębokich dolin, krystalicznie czystych jezior i urokliwych wiosek z tradycyjnymi domami z muru pruskiego. To tu narodziły się słynne zegary z kukułką i tort szwarcwaldzki. Region jest idealny do aktywnego wypoczynku na łonie natury.",
+        "Schwarzwald oferuje setki kilometrów szlaków pieszych i rowerowych, w tym słynną Drogę Panoramiczną. Można tu odwiedzić urokliwe uzdrowiska, takie jak Baden-Baden, podziwiać wodospady Triberg czy spędzić czas nad jeziorem Titisee. Zimą region zamienia się w ośrodek narciarski. To doskonałe miejsce na relaks i ucieczkę od zgiełku miasta, w otoczeniu dziewiczej przyrody i lokalnych tradycji."
+      ],
+      "airport": "FKB",
+      "forWhom": "Dla szukających spokoju, natury, malowniczych krajobrazów i bajkowych wiosek.",
+      "gygQuery": "Black Forest",
+      "highlights": [
+        "Malownicze lasy i jeziora",
+        "Zegary z kukułką i tort szwarcwaldzki",
+        "Szlaki piesze i rowerowe",
+        "Uzdrowiska i wodospady"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Brama Brandenburska",
+      "text": "Symbol Berlina i zjednoczonych Niemiec, imponująca neoklasycystyczna brama miejska, która przez lata była świadkiem kluczowych wydarzeń historycznych.",
+      "gygQuery": "Brandenburg Gate"
+    },
+    {
+      "name": "Zamek Neuschwanstein",
+      "text": "Bajkowy zamek króla Ludwika II Bawarskiego, położony w Alpach, który zainspirował Walta Disneya do stworzenia zamku Śpiącej Królewny.",
+      "gygQuery": "Neuschwanstein Castle"
+    },
+    {
+      "name": "Katedra w Kolonii",
+      "text": "Imponująca gotycka katedra, wpisana na listę UNESCO, znana z monumentalnych wież i relikwii Trzech Króli, dominująca nad panoramą Kolonii.",
+      "gygQuery": "Cologne Cathedral"
+    },
+    {
+      "name": "Mur Berliński - East Side Gallery",
+      "text": "Najdłuższa na świecie galeria sztuki na świeżym powietrzu, powstała na fragmencie Muru Berlińskiego, upamiętniająca upadek podziału Niemiec.",
+      "gygQuery": "East Side Gallery"
+    },
+    {
+      "name": "Oktoberfest w Monachium",
+      "text": "Największe na świecie święto piwa, odbywające się co roku jesienią w Monachium, przyciągające miliony gości z całego świata.",
+      "gygQuery": "Oktoberfest Munich"
+    },
+    {
+      "name": "Drezno - Stare Miasto",
+      "text": "Odbudowane po wojnie Stare Miasto Drezna, z barokowym Pałacem Zwinger, Operą Sempera i Kościołem Marii Panny, nazywane Florencją Północy.",
+      "gygQuery": "Dresden Old Town"
+    },
+    {
+      "name": "Romantyczna Droga",
+      "text": "Malownicza trasa turystyczna prowadząca przez urokliwe bawarskie miasteczka, zamki i winnice, oferująca widoki jak z pocztówki.",
+      "gygQuery": "Romantic Road Germany"
+    },
+    {
+      "name": "Miniatur Wunderland w Hamburgu",
+      "text": "Największa na świecie makieta kolejowa i miniaturowa kraina, prezentująca z niezwykłą dbałością o detale różne regiony świata.",
+      "gygQuery": "Miniatur Wunderland Hamburg"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy w Niemczech jest drogo?",
+      "a": "Koszty życia i usług w Niemczech są generalnie wyższe niż w Polsce, ale niższe niż w krajach skandynawskich czy Szwajcarii. Ceny w supermarketach są porównywalne, ale jedzenie w restauracjach i noclegi mogą być droższe. Planując budżet, warto uwzględnić wyższe ceny paliwa i transportu."
+    },
+    {
+      "q": "Jak poruszać się po Niemczech?",
+      "a": "Niemcy mają doskonałą sieć autostrad (bezpłatnych dla samochodów osobowych) i dróg. Transport publiczny, w tym pociągi (Deutsche Bahn), jest bardzo efektywny, choć drogi. W miastach działa rozbudowana sieć metra, tramwajów i autobusów. Warto rozważyć zakup biletów dziennych lub weekendowych."
+    },
+    {
+      "q": "Co warto kupić w Niemczech?",
+      "a": "Z Niemiec warto przywieźć lokalne piwo, wyroby czekoladowe (np. Ritter Sport), kawę (np. Tchibo), a także tradycyjne pamiątki, takie jak zegary z kukułką ze Schwarzwaldu, wyroby z porcelany czy lokalne rękodzieło z jarmarków bożonarodzeniowych."
+    },
+    {
+      "q": "Czy potrzebuję winiety na autostrady w Niemczech?",
+      "a": "Nie, samochody osobowe nie potrzebują winiety na autostrady w Niemczech. Są one bezpłatne. Opłaty pobierane są jedynie za przejazd niektórymi tunelami lub mostami, ale są to rzadkie wyjątki."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Niemiec zależy od celu podróży. Wiosna (maj-czerwiec) i wczesna jesień (wrzesień-październik) to idealne miesiące na zwiedzanie miast i wycieczki krajoznawcze, gdy pogoda jest przyjemna, a tłumy mniejsze. Lato (lipiec-sierpień) sprzyja aktywnościom na świeżym powietrzu, wypoczynkowi nad jeziorami i w górach, choć bywa wtedy najgoręcej i najwięcej turystów. Zimą warto odwiedzić Niemcy dla słynnych jarmarków bożonarodzeniowych lub na narty w Alpach.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      4,
+      10,
+      12
+    ]
+  },
+  "capital": "Berlin",
+  "climate": {
+    "air": [
+      3,
+      4,
+      9,
+      14,
+      19,
+      22,
+      24,
+      23,
+      19,
+      13,
+      7,
+      3
+    ],
+    "note": "Dla Berlina i regionów północnych (temperatura powietrza) oraz Morza Bałtyckiego (temperatura wody).",
+    "sea": [
+      3,
+      2,
+      4,
+      7,
+      12,
+      16,
+      19,
+      20,
+      17,
+      13,
+      8,
+      4
+    ]
+  },
+  "cuisine": [
+    "Kuchnia niemiecka to przede wszystkim sycące i konkretne dania, często oparte na mięsie, ziemniakach i kapuście. Słynne są kiełbaski (Wurst) w niezliczonych odmianach, od currywurst w Berlinie po białe kiełbaski (Weisswurst) w Bawarii. Nieodłącznym elementem posiłku jest pieczywo, zwłaszcza precle (Brezel) i różnorodne chleby. Niemcy to także królestwo piwa - każdy region ma swoje lokalne browary i specjały, a Oktoberfest w Monachium to światowe święto tego trunku. Warto spróbować także sznycla, golonki (Schweinshaxe) oraz regionalnych zup i gulaszy. Na słodko królują ciasta, w tym słynny tort szwarcwaldzki, oraz liczne wypieki z owocami."
+  ],
+  "gygQuery": "Germany",
+  "practical": {
+    "documents": "Dowód osobisty lub paszport. Niemcy są w strefie Schengen, więc kontrola graniczna jest symboliczna. Zawsze warto sprawdzić aktualne wymogi przed wyjazdem.",
+    "flight": "Krótkie loty, np. do Berlina ok. 1 h 15 min, do Monachium ok. 1 h 30 min.",
+    "language": "Niemiecki. W większych miastach i popularnych regionach turystycznych bez problemu porozumiesz się po angielsku. Znajomość podstawowych zwrotów po niemiecku zawsze jest mile widziana.",
+    "money": "Euro (EUR). Płatności kartą są powszechne, ale w mniejszych miejscowościach czy niektórych restauracjach gotówka wciąż jest preferowana. Warto mieć przy sobie trochę banknotów.",
+    "plugs": "Typ F (Schuko), taki sam jak w Polsce. Nie potrzebujesz adaptera.",
+    "safety": "Niemcy to kraj bezpieczny. Należy zachować standardowe środki ostrożności, zwłaszcza w dużych miastach i zatłoczonych miejscach, gdzie mogą zdarzyć się drobne kradzieże. Opieka zdrowotna jest na wysokim poziomie.",
+    "timeDiff": "Brak różnicy czasu (CET/CEST)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

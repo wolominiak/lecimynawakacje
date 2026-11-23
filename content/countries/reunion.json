@@ -1,0 +1,221 @@
+{
+  "slug": "reunion",
+  "loc": "na Reunionie",
+  "to": "na Reunion",
+  "teaser": "Reunion to francuska wyspa na Oceanie Indyjskim, słynąca z wulkanicznych krajobrazów, bujnej zieleni i doskonałych warunków do pieszych wędrówek.",
+  "intro": [
+    "Reunion to prawdziwa perła Oceanu Indyjskiego, która zachwyca swoją dziką, wulkaniczną przyrodą. To idealne miejsce dla aktywnych podróżników, miłośników górskich wędrówek i spektakularnych widoków. Wyspa, będąca departamentem zamorskim Francji, oferuje unikalne połączenie europejskiej infrastruktury z egzotyczną kreolską kulturą i tropikalnym klimatem.",
+    "Kraj przyciąga przede wszystkim miłośników trekkingu, którzy znajdą tu setki kilometrów szlaków prowadzących przez zapierające dech w piersiach kalderowe doliny, wulkany i wodospady. Nie brakuje tu również pięknych plaż, choć nie są one główną atrakcją. To kierunek dla tych, którzy cenią sobie aktywny wypoczynek, kontakt z naturą i autentyczne doświadczenia, z dala od masowej turystyki.",
+    "Podróż z Polski na Reunion wymaga przesiadek, zazwyczaj w Paryżu, co sprawia, że jest to wyprawa trwająca kilkanaście godzin. Wyspa nie jest popularnym celem wyjazdów z biurami podróży, dlatego najczęściej organizuje się ją samodzielnie. Warto zarezerwować loty z wyprzedzeniem i zaplanować wynajem samochodu, który jest kluczowy do swobodnego odkrywania wyspy."
+  ],
+  "highlights": [
+    "Aktywny wulkan Piton de la Fournaise",
+    "Malownicze kalderowe doliny (Cirques)",
+    "Setki kilometrów szlaków trekkingowych",
+    "Spektakularne wodospady i punkty widokowe",
+    "Kreolska kuchnia i kultura",
+    "Plaże zachodniego wybrzeża"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "les-cirques",
+      "name": "Les Cirques (Cilaos, Salazie, Mafate)",
+      "loc": "w Les Cirques",
+      "intro": [
+        "Trzy gigantyczne kalderowe doliny - Cilaos, Salazie i Mafate - to serce Reunionu i raj dla piechurów. Każda z nich ma swój unikalny charakter, oferując niezliczone szlaki prowadzące przez bujne lasy, strome zbocza i malownicze wioski. Mafate jest szczególnie wyjątkowe, gdyż nie ma do niego dróg - dostęp jest możliwy tylko pieszo lub helikopterem, co nadaje mu niezwykłego, odizolowanego charakteru.",
+        "W Cilaos znajdziemy gorące źródła i winnice, Salazie zachwyca zielenią i wodospadami, a Mafate oferuje najbardziej surowe i dziewicze krajobrazy. To miejsca, gdzie czas płynie wolniej, a natura gra pierwsze skrzypce. Noclegi w gîte d'étape pozwalają na pełne zanurzenie się w lokalnej atmosferze i kulturze górskich mieszkańców."
+      ],
+      "airport": "Roland Garros (RUN)",
+      "forWhom": "Idealne dla miłośników trekkingu i dzikiej przyrody, szukających wyzwań i spokoju.",
+      "gygQuery": "Reunion Cirques hiking",
+      "highlights": [
+        "Szlaki trekkingowe dla każdego poziomu",
+        "Wodospady i bujna roślinność",
+        "Autentyczne kreolskie wioski",
+        "Panoramiczne widoki z punktów widokowych"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "piton-de-la-fournaise",
+      "name": "Piton de la Fournaise",
+      "loc": "przy Piton de la Fournaise",
+      "intro": [
+        "Piton de la Fournaise to jeden z najbardziej aktywnych wulkanów na świecie, oferujący niezapomniane wrażenia. Jego krajobraz przypomina księżycową powierzchnię, z zastygłymi strumieniami lawy i kraterami. Wulkan często wybucha, ale zazwyczaj w sposób bezpieczny dla turystów, co pozwala na obserwowanie tego spektaklu z bezpiecznej odległości.",
+        "Dostęp do wulkanu prowadzi przez Drogę Wulkaniczną (Route du Volcan), która sama w sobie jest atrakcją, oferującą widoki na zmieniający się krajobraz. Na szczyt można dotrzeć pieszo, podziwiając kratery i rozległe pola lawy. To obowiązkowy punkt dla każdego, kto odwiedza Reunion, dający poczucie obcowania z potężnymi siłami natury."
+      ],
+      "airport": "Roland Garros (RUN)",
+      "forWhom": "Dla poszukiwaczy niezwykłych krajobrazów i doświadczeń związanych z aktywnym wulkanem.",
+      "gygQuery": "Piton de la Fournaise volcano",
+      "highlights": [
+        "Aktywny wulkan",
+        "Księżycowy krajobraz lawy",
+        "Szlaki piesze wokół kraterów",
+        "Punkty widokowe na kalderę"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "zachodnie-wybrzeze",
+      "name": "Zachodnie Wybrzeże",
+      "loc": "na Zachodnim Wybrzeżu",
+      "intro": [
+        "Zachodnie wybrzeże Reunionu, z miastami takimi jak Saint-Gilles-les-Bains, to najbardziej rozwinięty turystycznie region wyspy. Znajdują się tu najpiękniejsze plaże z białym piaskiem, osłonięte rafą koralową, co sprawia, że są bezpieczne do pływania i snorkelingu. To idealne miejsce na relaks po intensywnych wędrówkach w górach.",
+        "Oprócz plaż, wybrzeże oferuje liczne restauracje, bary i możliwości uprawiania sportów wodnych, takich jak nurkowanie, surfing czy rejsy katamaranem. Można tu również wybrać się na obserwację wielorybów i delfinów w odpowiednim sezonie. To region, który łączy aktywny wypoczynek z możliwością relaksu nad oceanem."
+      ],
+      "airport": "Roland Garros (RUN)",
+      "forWhom": "Dla tych, którzy szukają słońca, plaż i sportów wodnych, a także wieczornych rozrywek.",
+      "gygQuery": "Saint-Gilles-les-Bains activities",
+      "highlights": [
+        "Plaże z białym piaskiem",
+        "Bezpieczne kąpiele w lagunach",
+        "Sporty wodne i nurkowanie",
+        "Obserwacja wielorybów i delfinów"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "saint-denis",
+      "name": "Saint-Denis",
+      "loc": "w Saint-Denis",
+      "intro": [
+        "Saint-Denis, stolica Reunionu, to tętniące życiem miasto, które stanowi bramę do wyspy. Jest to miejsce, gdzie francuska elegancja spotyka się z kreolską energią, tworząc unikalną atmosferę. Miasto oferuje wiele zabytków kolonialnej architektury, kolorowe targi i muzea, które pozwalają poznać historię i kulturę wyspy.",
+        "Spacerując po ulicach Saint-Denis, można podziwiać piękne kreolskie domy, odwiedzić Ogród Stanowy (Jardin de l'État) czy posmakować lokalnych przysmaków na targu. To także doskonała baza wypadowa do dalszych eksploracji wyspy, z łatwym dostępem do lotniska i głównych dróg.",
+        ""
+      ],
+      "airport": "Roland Garros (RUN)",
+      "forWhom": "Dla miłośników kultury, historii i miejskiego życia, a także jako punkt startowy podróży.",
+      "gygQuery": "Saint-Denis Reunion tours",
+      "highlights": [
+        "Kolonialna architektura",
+        "Ogród Stanowy (Jardin de l'État)",
+        "Lokalne targi i sklepy",
+        "Muzea i galerie sztuki"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Piton de la Fournaise",
+      "text": "Jeden z najbardziej aktywnych wulkanów na świecie, oferujący księżycowe krajobrazy i możliwość obserwacji erupcji z bezpiecznej odległości.",
+      "gygQuery": "Piton de la Fournaise volcano hike"
+    },
+    {
+      "name": "Cirque de Cilaos",
+      "text": "Malownicza kaldera z uzdrowiskiem termalnym, otoczona strzelistymi szczytami, idealna do pieszych wędrówek i podziwiania winnic.",
+      "gygQuery": "Cirque de Cilaos hiking tour"
+    },
+    {
+      "name": "Cirque de Salazie",
+      "text": "Najbardziej zielona z kalder, słynąca z bujnej roślinności, licznych wodospadów, w tym słynnego Voile de la Mariée.",
+      "gygQuery": "Cirque de Salazie waterfall tour"
+    },
+    {
+      "name": "Cirque de Mafate",
+      "text": "Odizolowana kaldera dostępna tylko pieszo lub helikopterem, oferująca dzikie krajobrazy i autentyczne kreolskie wioski.",
+      "gygQuery": "Cirque de Mafate helicopter tour"
+    },
+    {
+      "name": "Trou de Fer",
+      "text": "Jeden z najwyższych wodospadów na świecie, ukryty w głębokim wąwozie, dostępny dla doświadczonych piechurów lub z lotu helikopterem.",
+      "gygQuery": "Trou de Fer waterfall helicopter"
+    },
+    {
+      "name": "Plage de l'Hermitage",
+      "text": "Jedna z najpopularniejszych plaż na zachodnim wybrzeżu, z białym piaskiem i spokojnymi wodami laguny, idealna do kąpieli i snorkelingu.",
+      "gygQuery": "Hermitage beach snorkeling Reunion"
+    },
+    {
+      "name": "Jardin de l'État",
+      "text": "Historyczny ogród botaniczny w Saint-Denis, prezentujący bogactwo flory Reunionu i innych tropikalnych regionów.",
+      "gygQuery": "Jardin de l'État Saint-Denis"
+    },
+    {
+      "name": "Droga do Cilaos (RN5)",
+      "text": "Spektakularna, kręta droga prowadząca przez góry do Cirque de Cilaos, oferująca niezapomniane widoki i wyzwania dla kierowców.",
+      "gygQuery": "Cilaos road scenic drive"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Reunion jest drogim kierunkiem podróży?",
+      "a": "Reunion, będąc departamentem zamorskim Francji, ma ceny zbliżone do tych w Europie Zachodniej. Noclegi, wynajem samochodu i jedzenie mogą być droższe niż w innych krajach Oceanu Indyjskiego, ale jakość usług jest wysoka."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Reunionie?",
+      "a": "Najlepszym sposobem na zwiedzanie Reunionu jest wynajem samochodu. Drogi są w dobrym stanie, choć często kręte i strome. Publiczny transport autobusowy jest dostępny, ale mniej elastyczny do eksploracji odległych atrakcji."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Reunion jako obywatel Polski?",
+      "a": "Nie, Reunion jest częścią Unii Europejskiej, więc obywatele Polski mogą wjechać na wyspę na podstawie ważnego paszportu lub dowodu osobistego, bez konieczności posiadania wizy."
+    },
+    {
+      "q": "Jaki jest najlepszy czas na trekking na Reunionie?",
+      "a": "Najlepszy czas na trekking to sucha i chłodniejsza pora roku, czyli od maja do października. W tym okresie jest mniej opadów, a temperatury są bardziej komfortowe do długich wędrówek."
+    }
+  ],
+  "bestTime": {
+    "text": "Reunion ma klimat tropikalny, z dwiema głównymi porami roku. Pora sucha i chłodniejsza trwa od maja do października i jest uważana za najlepszy czas na wizytę, szczególnie dla miłośników trekkingu. Temperatury są wtedy przyjemne, a ryzyko cyklonów minimalne. Pora deszczowa, od listopada do kwietnia, charakteryzuje się wyższymi temperaturami, większą wilgotnością i częstszymi opadami, a także ryzykiem wystąpienia cyklonów, szczególnie od stycznia do marca.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Saint-Denis",
+  "climate": {
+    "air": [
+      28,
+      28,
+      28,
+      27,
+      26,
+      25,
+      24,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "note": "dla Saint-Denis",
+    "sea": [
+      27,
+      27,
+      27,
+      26,
+      25,
+      24,
+      23,
+      23,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Reunionu to fascynująca mieszanka wpływów kreolskich, francuskich, indyjskich, afrykańskich i chińskich. Podstawą są ryż, fasola, soczewica, a także świeże ryby i owoce morza. Popularne dania to cari (rodzaj curry z mięsem lub rybą), rougail saucisses (kiełbaski w sosie pomidorowym) czy bouchons (kreolskie pierożki). Nie brakuje tu także świeżych owoców tropikalnych i lokalnych rumów agricole."
+  ],
+  "gygQuery": "Reunion Island",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać na Reunion na podstawie ważnego paszportu lub dowodu osobistego, bez konieczności posiadania wizy. Reunion jest departamentem zamorskim Francji, a więc częścią Unii Europejskiej. Zawsze warto sprawdzić aktualne wymogi przed podróżą na stronach Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 12-16 godzin z przesiadką, zazwyczaj w Paryżu.",
+    "language": "Oficjalnym językiem jest francuski, powszechnie używany jest również kreolski.",
+    "money": "Walutą jest euro (EUR). Płatności kartą są powszechne, a bankomaty dostępne w miastach.",
+    "plugs": "Typ E (francuski standard), napięcie 230 V, częstotliwość 50 Hz. Adaptery mogą być potrzebne.",
+    "safety": "Reunion jest generalnie bezpiecznym kierunkiem, ale należy zachować podstawowe środki ostrożności, zwłaszcza w większych miastach i na odosobnionych szlakach turystycznych. Występuje ryzyko dengi i chikungunyi, dlatego zaleca się ochronę przed komarami. Należy uważać na silne prądy morskie poza chronionymi lagunami."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

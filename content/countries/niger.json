@@ -1,0 +1,163 @@
+{
+  "slug": "niger",
+  "loc": "w Nigrze",
+  "to": "do Nigru",
+  "teaser": "Niger to kraj w Afryce Zachodniej, oferujący surowe piękno pustyni i bogatą kulturę ludów Sahelu. Podróż wymaga starannego przygotowania i świadomości ryzyka.",
+  "intro": [
+    "Niger to kraj, który rzadko pojawia się na turystycznych mapach, a jego surowe piękno i autentyczność są dostępne dla nielicznych, doświadczonych podróżników. Położony w sercu Sahelu, oferuje widoki rozległych pustyń, sawann i tradycyjnych osad, gdzie czas płynie inaczej. To miejsce dla tych, którzy szukają głębokiego kontaktu z afrykańską kulturą, chcą poznać życie nomadów i zobaczyć krajobrazy nieskażone masową turystyką.",
+    "Kraj ten przyciąga miłośników prawdziwej przygody, antropologów i fotografów pragnących uchwycić esencję Afryki. Niger to wyzwanie, ale i nagroda w postaci niezapomnianych spotkań i widoków. Należy jednak pamiętać, że jest to kierunek wymagający dużej ostrożności i świadomości lokalnych realiów, w tym kwestii bezpieczeństwa. Infrastruktura turystyczna jest bardzo słabo rozwinięta, co dodatkowo podkreśla jego dziewiczy charakter.",
+    "Podróż z Polski do Nigru wiąże się zazwyczaj z koniecznością co najmniej jednej, a często dwóch przesiadek, najczęściej w dużych hubach europejskich, takich jak Paryż, Stambuł czy Addis Abeba, a następnie lotem do stolicy, Niamey. Planując wyjazd, kluczowe jest wcześniejsze załatwienie wizy oraz zapoznanie się z aktualnymi zaleceniami Ministerstwa Spraw Zagranicznych, które często odradza podróże do wielu regionów kraju."
+  ],
+  "highlights": [
+    "Surowe piękno pustyni Ténéré",
+    "Kultura i życie ludów Tuaregów",
+    "Tradycyjne targi w Niamey",
+    "Rezerwat Żyraf w Kouré",
+    "Park Narodowy W (część kompleksu)",
+    "Starożytne miasto Agadez (UNESCO)"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "niamey",
+      "name": "Niamey",
+      "loc": "w Niamey",
+      "intro": [
+        "Niamey, stolica Nigru, położona nad rzeką Niger, jest największym miastem kraju i jego sercem. To tu koncentruje się życie polityczne, gospodarcze i kulturalne. Miasto, choć nie oferuje wielu klasycznych atrakcji turystycznych, pozwala poczuć puls afrykańskiego życia, obserwować codzienne rytuały i zanurzyć się w lokalnej atmosferze. Jest to miejsce, gdzie nowoczesność styka się z tradycją, a zgiełk targowisk miesza się z spokojem nadrzecznych krajobrazów.",
+        "W Niamey można odwiedzić Wielki Meczet, Muzeum Narodowe Nigru, które prezentuje bogactwo kulturowe i historyczne kraju, oraz słynny Targ Wielbłądów. Spacer po ulicach miasta to okazja do spróbowania lokalnych potraw i obserwacji rzemieślników. Niamey stanowi bazę wypadową do eksploracji innych regionów, choć ze względu na sytuację bezpieczeństwa, wszelkie wyjazdy poza stolicę wymagają szczegółowego planowania i oceny ryzyka."
+      ],
+      "airport": "NIM",
+      "forWhom": "Stolica kraju to główne centrum administracyjne i kulturalne, punkt startowy dla dalszych podróży.",
+      "gygQuery": "Niamey",
+      "highlights": [
+        "Wielki Meczet w Niamey",
+        "Narodowe Muzeum Nigru",
+        "Targ Wielbłądów",
+        "Rzeka Niger"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "agadez-gory-air",
+      "name": "Agadez i Góry Aïr",
+      "loc": "w Agadezie i Górach Aïr",
+      "intro": [
+        "Agadez, zwany bramą do pustyni, to starożytne miasto wpisane na listę UNESCO, słynące z unikalnej architektury z gliny i bogatej historii jako ważny punkt na transsaharyjskim szlaku handlowym. Jego imponujący meczet z minaretem z gliny jest symbolem regionu. Agadez jest domem dla ludu Tuaregów, których kultura i tradycje są tu żywe i widoczne na każdym kroku. To miejsce, gdzie można poczuć prawdziwego ducha Sahary.",
+        "Góry Aïr, również wpisane na listę UNESCO, to skaliste pasmo górskie w sercu pustyni, oferujące spektakularne krajobrazy, starożytne ryty naskalne i unikalną florę i faunę. Jest to obszar o niezwykłej wartości przyrodniczej i kulturowej. Niestety, ze względu na niestabilną sytuację bezpieczeństwa, podróże do Agadezu i Gór Aïr są obecnie odradzane przez większość ministerstw spraw zagranicznych, w tym polskie, ze względu na wysokie ryzyko porwań i działań grup terrorystycznych."
+      ],
+      "airport": "AGZ",
+      "forWhom": "Ten region jest dla poszukiwaczy autentycznych wrażeń pustynnych i kultury Tuaregów, jednak z bardzo wysokim ryzykiem.",
+      "gygQuery": "Agadez Air Mountains",
+      "highlights": [
+        "Meczet w Agadezie (UNESCO)",
+        "Kultura Tuaregów",
+        "Ryty naskalne w Górach Aïr",
+        "Pustynne krajobrazy Ténéré"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wielki Meczet w Niamey",
+      "text": "Imponujący meczet w stolicy, będący ważnym centrum religijnym i architektonicznym punktem orientacyjnym miasta.",
+      "gygQuery": "Grand Mosque Niamey"
+    },
+    {
+      "name": "Narodowe Muzeum Nigru",
+      "text": "Muzeum prezentuje bogactwo kulturowe i historyczne Nigru, z ekspozycjami etnograficznymi, archeologicznymi i artystycznymi.",
+      "gygQuery": "National Museum of Niger"
+    },
+    {
+      "name": "Targ Wielbłądów w Niamey",
+      "text": "Żywe i barwne targowisko, gdzie handluje się wielbłądami, bydłem i innymi towarami, oferujące unikalny wgląd w lokalne życie.",
+      "gygQuery": "Niamey Camel Market"
+    },
+    {
+      "name": "Rezerwat Żyraf w Kouré",
+      "text": "Obszar chroniony, gdzie można zobaczyć ostatnie dzikie żyrafy zachodnioafrykańskie, jedne z najbardziej zagrożonych podgatunków.",
+      "gygQuery": "Koure Giraffe Reserve"
+    },
+    {
+      "name": "Meczet w Agadezie",
+      "text": "Historyczny meczet z unikalnym minaretem z gliny, wpisany na listę UNESCO, symbol starożytnego miasta pustyni.",
+      "gygQuery": "Agadez Mosque"
+    },
+    {
+      "name": "Park Narodowy W",
+      "text": "Część transgranicznego kompleksu parków narodowych, słynącego z bogatej fauny, w tym słoni, lwów i antylop, choć dostęp jest ograniczony ze względów bezpieczeństwa.",
+      "gygQuery": "W National Park Niger"
+    },
+    {
+      "name": "Dunes de Termit",
+      "text": "Spektakularne wydmy i formacje skalne na pustyni, część Rezerwatu Przyrody Aïr i Ténéré, oferujące zapierające dech w piersiach krajobrazy.",
+      "gygQuery": "Termit Dunes"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Niger jest bezpiecznym krajem dla turystów?",
+      "a": "Obecnie Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do Nigru ze względu na bardzo wysokie zagrożenie terrorystyczne, przestępczość i ryzyko porwań. Sytuacja bezpieczeństwa jest niestabilna, zwłaszcza poza stolicą."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Nigrze i jak płacić?",
+      "a": "Walutą Nigru jest frank CFA (XOF). Płatności kartą są rzadko akceptowane, dlatego zaleca się posiadanie gotówki w lokalnej walucie lub euro/dolarach amerykańskich. Bankomaty są dostępne głównie w Niamey."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Nigru z Polski?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu (ważnego co najmniej 6 miesięcy) oraz wizy, którą należy uzyskać przed podróżą. Obowiązkowe jest również szczepienie na żółtą febrę. Zawsze należy sprawdzić aktualne wymogi wizowe i zdrowotne przed wyjazdem."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Nigru?",
+      "a": "Najlepszy czas na podróż do Nigru to sucha i chłodniejsza pora roku, od listopada do lutego, kiedy temperatury są bardziej znośne. Od marca do maja jest bardzo gorąco, a od czerwca do października trwa pora deszczowa."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Nigru to sucha i chłodniejsza pora roku, która trwa od listopada do lutego. Temperatury są wtedy bardziej znośne, a wilgotność niska. Od marca do maja temperatury gwałtownie rosną, osiągając często ponad 40°C, co czyni podróż bardzo uciążliwą. Pora deszczowa, od czerwca do października, przynosi ulgę od upałów, ale może utrudniać przemieszczanie się po drogach gruntowych.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "capital": "Niamey",
+  "climate": {
+    "air": [
+      32,
+      35,
+      39,
+      41,
+      40,
+      37,
+      34,
+      33,
+      35,
+      37,
+      35,
+      33
+    ],
+    "note": "dla Niamey",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia Nigru opiera się na prostych, pożywnych składnikach, takich jak proso, ryż, sorgo i kukurydza. Podstawą wielu dań jest sos na bazie warzyw, mięsa (często koziego lub wołowego) i przypraw, podawany z kaszą kuskus, ryżem lub plackami. Popularne są również dania z fasoli, orzeszków ziemnych i batatów. W miastach można znaleźć wpływy kuchni francuskiej. Warto spróbować 'djerma' - gulaszu z mięsa i warzyw, czy 'kilishi' - suszonej wołowiny. Napoje to głównie herbata miętowa i lokalne soki z hibiskusa."
+  ],
+  "gygQuery": "Niger",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu) oraz wizy. Wizę należy uzyskać przed podróżą w przedstawicielstwie Nigru. Zaleca się sprawdzenie aktualnych wymogów wizowych oraz zdrowotnych (szczepienia na żółtą febrę są obowiązkowe) w ambasadzie lub konsulacie przed wyjazdem.",
+    "flight": "Około 9-12 godzin z jedną lub dwiema przesiadkami",
+    "language": "Oficjalnym językiem jest francuski. Powszechnie używane są również lokalne języki, takie jak hausa, zarma, fulfulde i tamaszek.",
+    "money": "Walutą jest frank CFA (XOF). Płatności kartą są rzadko akceptowane poza nielicznymi hotelami w stolicy. Warto mieć ze sobą gotówkę w lokalnej walucie lub euro/dolarach amerykańskich do wymiany. Bankomaty są dostępne głównie w Niamey.",
+    "plugs": "Typ C, E i F. Napięcie 220 V, częstotliwość 50 Hz. Adaptery mogą być potrzebne.",
+    "safety": "Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do Nigru ze względu na bardzo wysokie zagrożenie terrorystyczne, przestępczość pospolitą oraz ryzyko porwań. Sytuacja bezpieczeństwa jest niestabilna, zwłaszcza w regionach graniczących z Mali, Burkiną Faso, Nigerią i Libią. W przypadku konieczności podróży należy zachować najwyższą ostrożność, unikać samotnego przemieszczania się i korzystać z usług sprawdzonych lokalnych przewodników. Obowiązkowe są szczepienia na żółtą febrę, zalecane są również na tężec, błonicę, polio, dur brzuszny oraz WZW typu A i B. Należy stosować profilaktykę antymalaryczną.",
+    "timeDiff": "W czasie polskiego lata -1 godzina, w zimie brak różnicy (UTC+1)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

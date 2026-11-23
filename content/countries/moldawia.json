@@ -1,0 +1,193 @@
+{
+  "slug": "moldawia",
+  "loc": "w Mołdawii",
+  "to": "do Mołdawii",
+  "teaser": "Mołdawia to kraj winnic, klasztorów i autentycznej wschodnioeuropejskiej gościnności, czekający na odkrycie z dala od masowej turystyki.",
+  "intro": [
+    "Mołdawia, często pomijana na turystycznych mapach, to prawdziwa perełka dla tych, którzy szukają autentycznych doświadczeń i ucieczki od komercyjnych kurortów. Kraj ten, położony między Rumunią a Ukrainą, słynie przede wszystkim z rozległych winnic i produkcji doskonałych win, które można degustować w podziemnych miastach wina. Oprócz tego Mołdawia oferuje malownicze krajobrazy, historyczne klasztory skalne oraz głęboko zakorzenioną kulturę wschodnioeuropejską, która wciąż pozostaje nienaruszona przez masową turystykę.",
+    "To idealne miejsce dla podróżników ceniących sobie spokój, lokalne tradycje i prawdziwą gościnność. Miłośnicy wina znajdą tu raj, a entuzjaści historii i kultury będą zachwyceni zabytkami, które opowiadają o burzliwej przeszłości regionu. Mołdawia to także doskonały kierunek dla osób szukających niskobudżetowych podróży, oferując przystępne ceny za noclegi, jedzenie i atrakcje. To kraj, który nagradza tych, którzy zdecydują się zejść z utartych szlaków.",
+    "Podróż z Polski do Mołdawii jest stosunkowo prosta. Loty bezpośrednie z Warszawy do Kiszyniowa trwają około dwóch godzin, co czyni ten kraj łatwo dostępnym na weekendowy wypad lub dłuższą eksplorację. Po wylądowaniu w stolicy, Kiszyniowie, można łatwo poruszać się po kraju, korzystając z lokalnego transportu publicznego lub wynajmując samochód. Mołdawia oferuje unikalną mieszankę radzieckiej spuścizny i rozwijającej się europejskiej tożsamości, co sprawia, że każda podróż jest pełna kontrastów i niespodzianek."
+  ],
+  "highlights": [
+    "Podziemne winnice Cricova i Mileștii Mici",
+    "Historyczny kompleks Orheiul Vechi",
+    "Autentyczna kuchnia i lokalne wina",
+    "Zielone parki Kiszyniowa",
+    "Gościnność mołdawskich mieszkańców",
+    "Klasztory skalne i malownicze krajobrazy"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "kiszyniow",
+      "name": "Kiszyniów",
+      "loc": "w Kiszyniowie",
+      "intro": [
+        "Kiszyniów, stolica Mołdawii, to zielone miasto pełne parków i szerokich bulwarów. Mimo że nie jest typowym miastem turystycznym, oferuje autentyczny wgląd w mołdawskie życie, z jego radziecką architekturą przeplatającą się z nowoczesnymi kawiarniami. To centrum kulturalne i polityczne kraju, gdzie znajdziesz muzea, teatry i galerie sztuki.",
+        "Miasto jest dobrą bazą wypadową do zwiedzania okolicznych winnic i historycznych miejsc. Wieczorami Kiszyniów ożywa, oferując restauracje z lokalną kuchnią i bary, gdzie można spróbować mołdawskich win. To miejsce, które wymaga otwartej głowy i chęci odkrywania mniej oczywistych atrakcji."
+      ],
+      "airport": "Kiszyniów (KIV)",
+      "forWhom": "Dla miłośników miejskiego życia, parków i kultury wschodnioeuropejskiej.",
+      "gygQuery": "Chisinau",
+      "highlights": [
+        "Łuk Triumfalny",
+        "Park Stefana Wielkiego",
+        "Sobór Narodzenia Pańskiego",
+        "Muzeum Narodowe Historii",
+        "Lokalne bazary",
+        "Kawiarnie i restauracje"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "orheiul-vechi",
+      "name": "Orheiul Vechi",
+      "loc": "w Orheiul Vechi",
+      "intro": [
+        "Orheiul Vechi to jeden z najbardziej malowniczych i historycznych regionów Mołdawii, położony około godziny jazdy od Kiszyniowa. To kompleks archeologiczny i klasztorny, gdzie w wapiennych skałach wykuto starożytne klasztory. Widoki na rzekę Răut i otaczające doliny są spektakularne, a całe miejsce emanuje spokojem i duchem przeszłości.",
+        "Można tu zwiedzić skalny klasztor, ruiny starożytnych fortec, a także tradycyjną mołdawską wioskę. To idealne miejsce na jednodniową wycieczkę, aby poczuć autentyczny klimat Mołdawii i podziwiać jej naturalne piękno oraz bogatą historię."
+      ],
+      "airport": "Kiszyniów (KIV)",
+      "forWhom": "Dla poszukiwaczy historii, miłośników przyrody i unikalnych krajobrazów.",
+      "gygQuery": "Orheiul Vechi",
+      "highlights": [
+        "Skalny klasztor",
+        "Jaskinie mnichów",
+        "Ruiny starożytnych fortec",
+        "Malownicze krajobrazy",
+        "Muzeum archeologiczne",
+        "Tradycyjna wioska Butuceni"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "region-winnic-cricova-milestii-mici",
+      "name": "Region Winnic Cricova i Mileștii Mici",
+      "loc": "w Regionie Winnic Cricova i Mileștii Mici",
+      "intro": [
+        "Mołdawia słynie z produkcji wina, a regiony Cricova i Mileștii Mici są tego najlepszym przykładem. To tutaj znajdują się jedne z największych na świecie podziemnych miast winnych. Cricova, z jej kilometrami tuneli, oferuje fascynujące wycieczki z degustacją, podczas których można podziwiać imponujące kolekcje win.",
+        "Mileștii Mici z kolei szczyci się największą na świecie kolekcją win, wpisaną do Księgi Rekordów Guinnessa. Zwiedzanie tych miejsc to nie tylko okazja do spróbowania doskonałych mołdawskich win, ale także do poznania historii i tradycji winiarstwa w kraju. To obowiązkowy punkt dla każdego miłośnika dobrego trunku."
+      ],
+      "airport": "Kiszyniów (KIV)",
+      "forWhom": "Dla koneserów wina i tych, którzy chcą odkryć unikalne podziemne winnice.",
+      "gygQuery": "Cricova Milestii Mici wine",
+      "highlights": [
+        "Podziemne miasto Cricova",
+        "Winnica Mileștii Mici",
+        "Degustacje lokalnych win",
+        "Muzeum wina",
+        "Imponujące kolekcje win",
+        "Tradycje winiarskie"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Podziemne Winnice Cricova",
+      "text": "Jedno z największych podziemnych miast wina na świecie, oferujące kilometry tuneli i imponujące kolekcje win.",
+      "gygQuery": "Cricova winery"
+    },
+    {
+      "name": "Mileștii Mici - Złota Kolekcja",
+      "text": "Winnica wpisana do Księgi Rekordów Guinnessa z największą kolekcją win na świecie, przechowywanych w podziemnych korytarzach.",
+      "gygQuery": "Milestii Mici winery"
+    },
+    {
+      "name": "Orheiul Vechi - Skalny Klasztor",
+      "text": "Historyczny kompleks archeologiczny z klasztorem wykutym w skale, oferujący zapierające dech w piersiach widoki na dolinę rzeki Răut.",
+      "gygQuery": "Orheiul Vechi monastery"
+    },
+    {
+      "name": "Twierdza Soroca",
+      "text": "Średniowieczna twierdza nad Dniestrem, będąca ważnym punktem obronnym Mołdawii i świadectwem jej burzliwej historii.",
+      "gygQuery": "Soroca Fortress"
+    },
+    {
+      "name": "Klasztor Curchi",
+      "text": "Jeden z najpiękniejszych klasztorów Mołdawii, znany z architektury w stylu baroku mołdawskiego i malowniczego położenia.",
+      "gygQuery": "Curchi Monastery"
+    },
+    {
+      "name": "Park Stefana Wielkiego w Kiszyniowie",
+      "text": "Najstarszy park w stolicy Mołdawii, idealne miejsce na spacer i relaks wśród zieleni, z pomnikiem narodowego bohatera.",
+      "gygQuery": "Stefan cel Mare Park Chisinau"
+    },
+    {
+      "name": "Sobór Narodzenia Pańskiego w Kiszyniowie",
+      "text": "Główna katedra prawosławna w Kiszyniowie, imponujący przykład architektury sakralnej i ważny punkt orientacyjny miasta.",
+      "gygQuery": "Nativity Cathedral Chisinau"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Mołdawia jest bezpieczna dla turystów z Polski?",
+      "a": "Mołdawia jest generalnie bezpiecznym krajem. Należy zachować podstawową ostrożność, zwłaszcza w dużych miastach po zmroku, oraz unikać podróży do Naddniestrza bez wcześniejszego zapoznania się z aktualną sytuacją i przepisami."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Mołdawii?",
+      "a": "Obywatele Polski mogą wjechać do Mołdawii na podstawie ważnego dowodu osobistego lub paszportu na pobyt do 90 dni. Zawsze warto sprawdzić aktualne wymogi na stronie Ministerstwa Spraw Zagranicznych przed podróżą."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Mołdawii i czy można płacić kartą?",
+      "a": "Walutą Mołdawii jest lej mołdawski (MDL). W większych miastach i supermarketach można płacić kartą, ale poza nimi oraz na targach gotówka jest często niezbędna. Bankomaty są powszechnie dostępne w miastach."
+    },
+    {
+      "q": "Co warto kupić jako pamiątkę z Mołdawii?",
+      "a": "Z Mołdawii warto przywieźć przede wszystkim lokalne wina, które są doskonałej jakości i często dostępne w atrakcyjnych cenach. Popularne są także rękodzieło, tradycyjne wyroby ceramiczne, miody oraz lokalne słodycze."
+    },
+    {
+      "q": "Jaki jest najlepszy czas na odwiedzenie Mołdawii?",
+      "a": "Najlepszy czas na podróż do Mołdawii to wiosna (maj) i jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a winnice tętnią życiem. Lato (czerwiec-sierpień) jest ciepłe i dobre do zwiedzania, ale może być upalne."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Mołdawii to wiosna i jesień. W maju krajobrazy są zielone i kwitnące, a temperatury przyjemne do zwiedzania. Wrzesień i październik to idealny okres dla miłośników wina, ponieważ odbywają się wtedy winobrania i festiwale winiarskie, a pogoda jest nadal łagodna i słoneczna. Lato (czerwiec-sierpień) bywa gorące, ale sprzyja aktywnemu wypoczynkowi. Zimą temperatury spadają, a opady śniegu są możliwe, co może utrudnić zwiedzanie.",
+    "best": [
+      5,
+      9
+    ],
+    "ok": [
+      4,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Kiszyniów",
+  "climate": {
+    "air": [
+      0,
+      2,
+      8,
+      16,
+      22,
+      26,
+      29,
+      28,
+      22,
+      15,
+      7,
+      2
+    ],
+    "note": "dla Kiszyniowa",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia mołdawska to smaczna mieszanka wpływów rumuńskich, rosyjskich i tureckich, charakteryzująca się prostotą i wykorzystaniem świeżych, lokalnych składników. Podstawą wielu dań jest mămăligă, czyli gęsta mamałyga kukurydziana, często podawana z serem, śmietaną i skwarkami. Popularne są także sarmale - gołąbki zawijane w liście kapusty lub winogron, oraz placinte - smaczne placki z różnymi nadzieniami, zarówno słodkimi, jak i słonymi. Nie można zapomnieć o doskonałych mołdawskich winach, które towarzyszą niemal każdemu posiłkowi i są dumą narodową. Warto spróbować także lokalnych zup, takich jak ciorba, oraz świeżych warzyw i owoców prosto z targu."
+  ],
+  "gygQuery": "Moldova",
+  "practical": {
+    "documents": "Dla obywateli Polski wystarczy ważny dowód osobisty na pobyt do 90 dni. Zawsze warto sprawdzić aktualne wymogi na stronie MSZ przed podróżą.",
+    "flight": "około 2 h bezpośredni lot do Kiszyniowa",
+    "language": "Oficjalnym językiem jest rumuński. W użyciu jest także rosyjski, zwłaszcza w Kiszyniowie i na wschodzie kraju.",
+    "money": "Walutą jest lej mołdawski (MDL). Płatności kartą są możliwe w większych miastach, ale gotówka przyda się poza nimi i na targach. Bankomaty dostępne w miastach.",
+    "plugs": "Typ C i F, takie same jak w Polsce.",
+    "safety": "Mołdawia jest generalnie bezpiecznym krajem, ale należy zachować ostrożność, zwłaszcza w nocy w dużych miastach. Należy unikać podróży do Naddniestrza bez wcześniejszego zapoznania się z sytuacją i przepisami.",
+    "timeDiff": "czas w Mołdawii jest o 1 godzinę do przodu względem Polski"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

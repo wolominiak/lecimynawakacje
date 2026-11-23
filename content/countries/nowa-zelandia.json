@@ -1,0 +1,217 @@
+{
+  "slug": "nowa-zelandia",
+  "loc": "w Nowej Zelandii",
+  "to": "do Nowej Zelandii",
+  "teaser": "Nowa Zelandia to kraj spektakularnych krajobrazów, od majestatycznych gór po wulkany i piaszczyste plaże. Idealna dla miłośników natury i aktywnego wypoczynku.",
+  "intro": [
+    "Nowa Zelandia, położona na antypodach, kusi podróżników niezwykłą różnorodnością krajobrazów, które zmieniają się co kilkadziesiąt kilometrów. Od wulkanicznych pól i gejzerów Wyspy Północnej, przez majestatyczne fiordy i lodowce Wyspy Południowej, po złote plaże i bujne lasy deszczowe. To kraj, gdzie natura odgrywa główną rolę, a jej piękno zapiera dech w piersiach, oferując niezliczone możliwości aktywnego spędzania czasu.",
+    "Kraj jest idealny dla miłośników przyrody, trekkingu, sportów ekstremalnych oraz dla tych, którzy cenią sobie podróże kamperem i odkrywanie malowniczych tras. Nowa Zelandia to także miejsce, gdzie można zanurzyć się w bogatej kulturze Maorysów, poznać ich tradycje i legendy. To destynacja dla osób szukających przygody, spokoju w otoczeniu dzikiej natury i niezapomnianych widoków, z dala od masowej turystyki.",
+    "Podróż z Polski do Nowej Zelandii to długa wyprawa, zazwyczaj z dwoma przesiadkami, trwająca około 24-30 godzin. Mimo odległości, kraj jest doskonale przygotowany na przyjęcie turystów, oferując rozbudowaną infrastrukturę noclegową i transportową. Najlepszym sposobem na zwiedzanie jest wynajęcie samochodu lub kampera, co pozwala na swobodne odkrywanie ukrytych zakątków i podziwianie zmieniających się krajobrazów we własnym tempie."
+  ],
+  "highlights": [
+    "Majestatyczne fiordy Milford Sound",
+    "Kultura Maorysów i gejzery Rotorua",
+    "Wędrówki po Parku Narodowym Tongariro",
+    "Adrenalina w Queenstown - stolicy sportów ekstremalnych",
+    "Malownicze plaże Północnej Wyspy",
+    "Podróż kamperem przez zielone krajobrazy"
+  ],
+  "popularity": 38,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "akland",
+      "name": "Auckland",
+      "loc": "w Auckland",
+      "intro": [
+        "Auckland, największe miasto Nowej Zelandii, często nazywane jest \"Miastem Żagli\" ze względu na liczne mariny i aktywność żeglarską. To dynamiczny ośrodek kulturalny i gospodarczy, oferujący bogate życie nocne, wyśmienite restauracje i muzea. Miasto stanowi doskonałą bazę wypadową do zwiedzania północnej części Wyspy Północnej.",
+        "Z Auckland łatwo dostać się na urokliwe wyspy Zatoki Hauraki, takie jak Waiheke Island, słynąca z winnic i pięknych plaż, czy Rangitoto Island, będąca wulkanicznym stożkiem. W samym mieście warto wspiąć się na Sky Tower, by podziwiać panoramę, lub odwiedzić Auckland War Memorial Museum, by poznać historię i kulturę Maorysów."
+      ],
+      "airport": "Auckland Airport (AKL)",
+      "forWhom": "Idealne dla tych, którzy chcą połączyć miejskie atrakcje z bliskością natury i wysp Zatoki Hauraki.",
+      "gygQuery": "Auckland",
+      "highlights": [
+        "Sky Tower i panorama miasta",
+        "Rejsy po Zatoce Hauraki",
+        "Wyspa Waiheke i winnice",
+        "Muzeum Wojny i kultury Maorysów"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "rotorua",
+      "name": "Rotorua",
+      "loc": "w Rotorua",
+      "intro": [
+        "Rotorua to serce kultury Maorysów i jeden z najbardziej aktywnych geotermalnie obszarów Nowej Zelandii. Miasto słynie z bulgoczących błot, gejzerów i gorących źródeł, które tworzą niezwykły, siarkowy zapach w powietrzu. To tutaj można doświadczyć autentycznych ceremonii Hangi i poznać tradycje rdzennych mieszkańców.",
+        "W Rotorua koniecznie trzeba odwiedzić Te Puia, gdzie można podziwiać gejzer Pohutu i zobaczyć kiwi w nocnym domu. Inne atrakcje to Polynesian Spa z basenami termalnymi, czy Redwood Forest, oferujący piękne szlaki spacerowe i rowerowe wśród gigantycznych sekwoi. Region jest również popularny wśród miłośników sportów ekstremalnych."
+      ],
+      "airport": "Rotorua Airport (ROT)",
+      "forWhom": "Dla poszukujących unikalnych wrażeń geotermalnych i głębokiego zanurzenia w kulturze Maorysów.",
+      "gygQuery": "Rotorua",
+      "highlights": [
+        "Gejzery i gorące źródła Te Puia",
+        "Kultura Maorysów i ceremonie Hangi",
+        "Relaks w Polynesian Spa",
+        "Szlaki w Redwood Forest"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "queenstown",
+      "name": "Queenstown",
+      "loc": "w Queenstown",
+      "intro": [
+        "Queenstown, położone nad malowniczym jeziorem Wakatipu i otoczone majestatycznymi górami Południowych Alp, to niekwestionowana stolica sportów ekstremalnych. Od skoków na bungee, przez spływy rzeczne, po paralotniarstwo i narciarstwo - tutaj każdy znajdzie coś dla siebie. Miasto tętni życiem przez cały rok, oferując również doskonałe restauracje i bary.",
+        "Oprócz adrenaliny, Queenstown to także baza wypadowa do eksploracji zapierających dech w piersiach krajobrazów Wyspy Południowej. Bliskość Milford Sound, jeziora Wanaka i szlaków turystycznych sprawia, że jest to idealne miejsce dla aktywnych podróżników. Warto wybrać się na rejs po jeziorze lub wjechać gondolą Skyline na Bob's Peak, by podziwiać panoramę."
+      ],
+      "airport": "Queenstown Airport (ZQN)",
+      "forWhom": "Stolica światowych sportów ekstremalnych, idealna dla poszukiwaczy adrenaliny i miłośników górskich krajobrazów.",
+      "gygQuery": "Queenstown",
+      "highlights": [
+        "Skoki na bungee i spływy rzeczne",
+        "Gondola Skyline i widoki",
+        "Brama do Milford Sound",
+        "Szlaki turystyczne w Południowych Alpach"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "fiordland-national-park",
+      "name": "Park Narodowy Fiordland",
+      "loc": "w Parku Narodowym Fiordland",
+      "intro": [
+        "Park Narodowy Fiordland to jeden z najbardziej spektakularnych obszarów Nowej Zelandii i jeden z największych parków narodowych na świecie. Charakteryzuje się głębokimi fiordami, takimi jak słynne Milford Sound i Doubtful Sound, które powstały w wyniku działania lodowców. Wysokie klify, wodospady i dziewicza roślinność tworzą krajobraz o niezwykłej urodzie.",
+        "Rejs po Milford Sound jest obowiązkowym punktem każdej podróży do Nowej Zelandii. Można podziwiać tam wodospady spadające prosto do morza, spotkać foki, delfiny, a nawet pingwiny. Park oferuje również liczne szlaki trekkingowe, w tym słynny Milford Track, uważany za jeden z najpiękniejszych na świecie. To miejsce, gdzie natura dominuje w całej okazałości."
+      ],
+      "airport": "Queenstown Airport (ZQN)",
+      "forWhom": "Dla miłośników dzikiej, nieskażonej natury, majestatycznych fiordów i niezapomnianych rejsów.",
+      "gygQuery": "Fiordland National Park",
+      "highlights": [
+        "Rejs po Milford Sound",
+        "Doubtful Sound i jego spokój",
+        "Wodospady i dzika przyroda",
+        "Szlaki trekkingowe, w tym Milford Track"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Milford Sound",
+      "text": "Najsłynniejszy fiord Nowej Zelandii, z majestatycznymi klifami, wodospadami i dziką przyrodą. Rejs po fiordzie to obowiązkowy punkt programu.",
+      "gygQuery": "Milford Sound cruise"
+    },
+    {
+      "name": "Tongariro National Park",
+      "text": "Pierwszy park narodowy Nowej Zelandii i obiekt światowego dziedzictwa UNESCO, słynący z wulkanicznych krajobrazów i szlaku Tongariro Alpine Crossing.",
+      "gygQuery": "Tongariro Alpine Crossing"
+    },
+    {
+      "name": "Waitomo Glowworm Caves",
+      "text": "Jaskinie zamieszkane przez tysiące świecących robaczków (Arachnocampa luminosa), tworzące podziemne gwiezdne niebo.",
+      "gygQuery": "Waitomo Glowworm Caves"
+    },
+    {
+      "name": "Hobbiton Movie Set",
+      "text": "Filmowy plan zdjęciowy z trylogii \"Władca Pierścieni\" i \"Hobbit\", przenoszący w świat Shire. Obowiązkowy punkt dla fanów Tolkiena.",
+      "gygQuery": "Hobbiton Movie Set"
+    },
+    {
+      "name": "Franz Josef Glacier & Fox Glacier",
+      "text": "Dwa łatwo dostępne lodowce na Wyspie Południowej, które można podziwiać z bliska lub podczas lotu helikopterem.",
+      "gygQuery": "Franz Josef Glacier"
+    },
+    {
+      "name": "Abel Tasman National Park",
+      "text": "Park narodowy znany z idyllicznych złotych plaż, turkusowych wód i malowniczych szlaków kajakowych oraz pieszych.",
+      "gygQuery": "Abel Tasman National Park"
+    },
+    {
+      "name": "Te Papa Tongarewa (National Museum of New Zealand)",
+      "text": "Narodowe muzeum Nowej Zelandii w Wellington, oferujące interaktywne wystawy poświęcone historii, kulturze Maorysów i geologii kraju.",
+      "gygQuery": "Te Papa Museum Wellington"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Nowa Zelandia jest droga?",
+      "a": "Nowa Zelandia jest krajem stosunkowo drogim, zwłaszcza jeśli chodzi o zakwaterowanie i transport. Ceny żywności są porównywalne do europejskich, ale atrakcje turystyczne i benzyna mogą być kosztowne. Planując budżet, warto uwzględnić wysokie koszty lotów."
+    },
+    {
+      "q": "Jak poruszać się po Nowej Zelandii?",
+      "a": "Najpopularniejszym i najbardziej elastycznym sposobem podróżowania jest wynajęcie samochodu lub kampera. Drogi są w dobrym stanie, a ruch lewostronny. Istnieją również połączenia autobusowe między większymi miastami oraz loty krajowe między Wyspą Północną a Południową."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Nowej Zelandii?",
+      "a": "Obywatele Polski na pobyty turystyczne do 3 miesięcy potrzebują elektronicznej autoryzacji podróży (NZeTA) oraz uiszczenia opłaty turystycznej IVL. Nie jest to tradycyjna wiza, ale należy ją uzyskać online przed wyjazdem. Zawsze sprawdź aktualne wymogi."
+    },
+    {
+      "q": "Co warto zabrać do Nowej Zelandii?",
+      "a": "Ze względu na zmienną pogodę, warto spakować warstwową odzież, zarówno na ciepłe dni, jak i chłodniejsze wieczory, a także kurtkę przeciwdeszczową. Niezbędne będą wygodne buty do chodzenia, krem z filtrem UV, kapelusz oraz adapter do gniazdek elektrycznych typu I."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Nowej Zelandii to lato, czyli miesiące od grudnia do lutego. Temperatury są wtedy najwyższe, a dni długie, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Wiosna (wrzesień-listopad) i jesień (marzec-maj) również oferują przyjemne warunki, z mniejszymi tłumami i pięknymi kolorami natury. Zima (czerwiec-sierpień) to idealny okres dla miłośników sportów zimowych, zwłaszcza na Wyspie Południowej.",
+    "best": [
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      9,
+      10,
+      11,
+      3,
+      4,
+      5
+    ]
+  },
+  "capital": "Wellington",
+  "climate": {
+    "air": [
+      23,
+      23,
+      22,
+      19,
+      17,
+      15,
+      14,
+      15,
+      16,
+      18,
+      20,
+      22
+    ],
+    "note": "Dane dla Auckland, Wyspa Północna",
+    "sea": [
+      20,
+      20,
+      19,
+      18,
+      16,
+      15,
+      14,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "cuisine": [
+    "Kuchnia nowozelandzka czerpie inspiracje z tradycji brytyjskich, polinezyjskich i azjatyckich, z silnym naciskiem na świeże, lokalne produkty. Królują tu owoce morza, jagnięcina i wołowina. Warto spróbować tradycyjnego Hangi, czyli posiłku przygotowywanego w ziemnym piecu, oraz Pavlovy - lekkiego deseru bezowego z bitą śmietaną i owocami. Popularne są również świeże ostrygi, małże, a także ryby z lokalnych połowów. Nowa Zelandia słynie z doskonałych win, zwłaszcza Sauvignon Blanc z regionu Marlborough, oraz rzemieślniczych piw."
+  ],
+  "gygQuery": "New Zealand",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują paszportu ważnego co najmniej 3 miesiące od daty planowanego wyjazdu z Nowej Zelandii. Na pobyty turystyczne do 3 miesięcy wymagana jest elektroniczna autoryzacja podróży (NZeTA), którą należy uzyskać online przed wyjazdem. Konieczne jest również uiszczenie opłaty turystycznej IVL (International Visitor Conservation and Tourism Levy). Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych lub ambasady przed podróżą.",
+    "flight": "Około 24-30 godzin z dwoma przesiadkami",
+    "language": "Angielski (urzędowy), maoryski (urzędowy), nowozelandzki język migowy (urzędowy). Angielski jest powszechnie używany.",
+    "money": "Walutą jest dolar nowozelandzki (NZD). Płatności kartą są powszechne, a bankomaty dostępne w miastach. Warto mieć trochę gotówki na drobne wydatki, zwłaszcza w mniejszych miejscowościach.",
+    "plugs": "Typ I (trzy płaskie bolce, często z ukośnym ułożeniem). Napięcie 230V, częstotliwość 50Hz. Niezbędna przejściówka.",
+    "safety": "Nowa Zelandia jest krajem bezpiecznym. Należy zachować podstawowe środki ostrożności, szczególnie w miejscach turystycznych. Kraj leży w aktywnej strefie sejsmicznej, zdarzają się trzęsienia ziemi. Warto zapoznać się z procedurami bezpieczeństwa w przypadku klęsk żywiołowych. Opieka medyczna jest na wysokim poziomie, ale kosztowna - zaleca się wykupienie kompleksowego ubezpieczenia podróżnego.",
+    "timeDiff": "W lecie (czas polski) +10 godzin, w zimie (czas polski) +12 godzin. Nowa Zelandia stosuje czas letni."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

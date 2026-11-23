@@ -1,0 +1,214 @@
+{
+  "slug": "kamerun",
+  "loc": "w Kamerunie",
+  "to": "do Kamerunu",
+  "teaser": "Kamerun, „Afryka w miniaturze”, oferuje różnorodność krajobrazów od plaż po góry i sawanny. To kierunek dla poszukiwaczy autentycznych wrażeń.",
+  "intro": [
+    "Kamerun to kraj o niezwykłej różnorodności, często nazywany „Afryką w miniaturze” ze względu na bogactwo krajobrazów i stref klimatycznych. Znajdziesz tu piaszczyste plaże, gęste lasy deszczowe, majestatyczne góry, wulkany oraz rozległe sawanny. To mozaika kultur, języków i tradycji, która fascynuje autentycznością i brakiem masowej turystyki. Dla podróżników szukających prawdziwej Afryki, z dala od utartych szlaków, Kamerun oferuje niezapomniane doświadczenia.",
+    "Kamerun to propozycja dla doświadczonych podróżników, ceniących przygodę i gotowych na wyzwania. Nie jest to cel dla osób szukających luksusowych kurortów czy zorganizowanych wycieczek all-inclusive. Kraj przyciąga miłośników natury, obserwatorów dzikiej fauny, entuzjastów trekkingu oraz tych, którzy pragną zanurzyć się w lokalnej kulturze. Wymaga elastyczności, cierpliwości i otwartości na nieprzewidziane sytuacje, ale w zamian oferuje głębokie i satysfakcjonujące doświadczenia.",
+    "Podróż z Polski do Kamerunu zazwyczaj wiąże się z jedną lub dwiema przesiadkami, najczęściej w europejskich hubach takich jak Paryż, Bruksela czy Stambuł. Całkowity czas lotu to około 12-15 godzin. Ze względu na brak bezpośrednich połączeń i złożoność logistyczną, podróż do Kamerunu wymaga starannego planowania. Warto wcześniej zadbać o wizę, szczepienia i ubezpieczenie, a także zapoznać się z lokalnymi zwyczajami i zasadami bezpieczeństwa."
+  ],
+  "highlights": [
+    "Wędrówka na wulkan Kamerun",
+    "Safari w Parku Narodowym Waza",
+    "Relaks na plażach Kribi",
+    "Odkrywanie kultury Foumban",
+    "Wizyta w Limbe Wildlife Centre",
+    "Targi i życie uliczne Duali"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "mount-kamerun",
+      "name": "Wulkan Kamerun",
+      "loc": "na Wulkanie Kamerun",
+      "intro": [
+        "Wulkan Kamerun, znany również jako Fako, to aktywny stratowulkan i najwyższy szczyt Afryki Zachodniej, wznoszący się na wysokość ponad 4000 m n.p.m. Jest to popularne miejsce dla miłośników trekkingu, oferujące różnorodne szlaki prowadzące przez lasy deszczowe, sawanny i księżycowe krajobrazy wulkaniczne. Wędrówka na szczyt to kilkudniowa wyprawa, która wymaga dobrej kondycji fizycznej i przewodnika.",
+        "Region wokół wulkanu charakteryzuje się bujną roślinnością i bogactwem fauny. U podnóża góry leży miasto Buea, będące bazą wypadową dla wspinaczy. Widoki ze szczytu, zwłaszcza o wschodzie słońca, są spektakularne, obejmując wybrzeże Atlantyku i rozległe tereny Kamerunu."
+      ],
+      "airport": "DLA",
+      "forWhom": "To cel dla miłośników trekkingu i aktywnego wypoczynku, oferujący wyzwanie zdobycia najwyższego szczytu Afryki Zachodniej.",
+      "gygQuery": "Mount Cameroon hike",
+      "highlights": [
+        "Wędrówka na szczyt Fako",
+        "Obserwacja rzadkich ptaków",
+        "Poznawanie lokalnej flory",
+        "Widoki na wybrzeże"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "park-narodowy-waza",
+      "name": "Park Narodowy Waza",
+      "loc": "w Parku Narodowym Waza",
+      "intro": [
+        "Park Narodowy Waza, położony w północnej części Kamerunu, to jeden z najważniejszych obszarów chronionych w kraju i ceniony cel safari. Park jest domem dla imponującej liczby dzikich zwierząt, w tym słoni, żyraf, lwów, lampartów, hien, a także wielu gatunków antylop i ptaków. Najlepszym czasem na obserwację zwierząt jest pora sucha, kiedy gromadzą się one wokół nielicznych źródeł wody.",
+        "Krajobraz parku to głównie sawanna z akacjami i palmami, co zapewnia doskonałe warunki do podziwiania zwierząt. Organizowane są tu wycieczki z przewodnikiem, które pozwalają na bezpieczne i bliskie spotkania z dziką naturą. Warto pamiętać o zabraniu odpowiedniego sprzętu fotograficznego."
+      ],
+      "airport": "MVR",
+      "forWhom": "Idealne miejsce dla miłośników safari i dzikiej przyrody, pragnących zobaczyć afrykańską faunę w jej naturalnym środowisku.",
+      "gygQuery": "Waza National Park safari",
+      "highlights": [
+        "Safari i obserwacja lwów",
+        "Spotkania ze słoniami",
+        "Żyrafy i antylopy",
+        "Bogactwo ptactwa"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "kribi",
+      "name": "Kribi",
+      "loc": "w Kribi",
+      "intro": [
+        "Kribi to urokliwe nadmorskie miasteczko położone na wybrzeżu Atlantyku, słynące z pięknych, piaszczystych plaż i krystalicznie czystej wody. Jest to popularne miejsce wypoczynku zarówno dla mieszkańców Kamerunu, jak i nielicznych turystów. Oprócz kąpieli słonecznych i morskich, Kribi oferuje możliwość spróbowania świeżych owoców morza w lokalnych restauracjach.",
+        "Jedną z głównych atrakcji w pobliżu Kribi są Wodospady Lobe (Chutes de la Lobe), gdzie rzeka Lobe wpada bezpośrednio do oceanu - to unikalne zjawisko na skalę światową. Można również wybrać się na wycieczkę łodzią, aby odwiedzić wioski rybackie i poznać codzienne życie lokalnych społeczności."
+      ],
+      "airport": "DLA",
+      "forWhom": "Miejscowość idealna dla osób szukających relaksu na piaszczystych plażach i kontaktu z oceanem.",
+      "gygQuery": "Kribi beaches",
+      "highlights": [
+        "Plaże i kąpiele morskie",
+        "Wodospady Lobe",
+        "Świeże owoce morza",
+        "Wycieczki łodzią"
+      ],
+      "type": "kurort"
+    },
+    {
+      "slug": "duala",
+      "name": "Duala",
+      "loc": "w Duali",
+      "intro": [
+        "Duala to największe miasto Kamerunu i jego gospodarcze serce, położone nad Zatoką Gwinejską. Jest to tętniący życiem port i centrum handlowe, które oferuje wgląd w dynamiczne, miejskie życie Afryki. Miasto charakteryzuje się chaotycznym ruchem, barwnymi targowiskami i mieszanką nowoczesnej architektury z kolonialnymi budynkami.",
+        "W Duali warto odwiedzić Marché Central, aby poczuć lokalną atmosferę i kupić pamiątki, a także podziwiać katedrę św. Piotra i Pawła. Mimo że nie jest to typowo turystyczne miasto, stanowi ważny punkt przesiadkowy i bazę wypadową do innych regionów kraju. Należy zachować szczególną ostrożność ze względu na przestępczość."
+      ],
+      "airport": "DLA",
+      "forWhom": "To tętniące życiem miasto jest centrum handlowym i kulturalnym, idealnym do poznania miejskiego oblicza Kamerunu.",
+      "gygQuery": "Douala city tour",
+      "highlights": [
+        "Marché Central",
+        "Katedra św. Piotra i Pawła",
+        "Port morski",
+        "Kolonialna architektura"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan Kamerun",
+      "text": "Aktywny stratowulkan i najwyższy szczyt Afryki Zachodniej, oferujący wymagające szlaki trekkingowe i spektakularne widoki.",
+      "gygQuery": "Mount Cameroon hike"
+    },
+    {
+      "name": "Park Narodowy Waza",
+      "text": "Jeden z najważniejszych parków narodowych w Kamerunie, dom dla słoni, lwów, żyraf i wielu innych gatunków dzikich zwierząt.",
+      "gygQuery": "Waza National Park safari"
+    },
+    {
+      "name": "Wodospady Lobe (Chutes de la Lobe)",
+      "text": "Unikalne wodospady, gdzie rzeka Lobe wpada bezpośrednio do Oceanu Atlantyckiego, położone niedaleko Kribi.",
+      "gygQuery": "Lobe waterfalls Kribi"
+    },
+    {
+      "name": "Limbe Wildlife Centre",
+      "text": "Centrum ratunkowe dla naczelnych i innych dzikich zwierząt, oferujące możliwość obserwacji zagrożonych gatunków w pół-naturalnym środowisku.",
+      "gygQuery": "Limbe Wildlife Centre"
+    },
+    {
+      "name": "Pałac Sułtana w Foumban",
+      "text": "Imponujący pałac i muzeum, będące świadectwem bogatej historii i kultury ludu Bamun.",
+      "gygQuery": "Foumban Royal Palace"
+    },
+    {
+      "name": "Plaże Kribi",
+      "text": "Rozległe, piaszczyste plaże nad Atlantykiem, idealne do relaksu, kąpieli i podziwiania zachodów słońca.",
+      "gygQuery": "Kribi beaches"
+    },
+    {
+      "name": "Marché Central w Duali",
+      "text": "Tętniący życiem centralny targ w Duali, gdzie można kupić wszystko, od lokalnych produktów po rękodzieło i pamiątki.",
+      "gygQuery": "Douala Central Market"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Kamerun jest bezpieczny dla turystów?",
+      "a": "Kamerun jest krajem o podwyższonym ryzyku. Należy unikać regionów przygranicznych i zachować ostrożność w miastach ze względu na przestępczość pospolitą. Zawsze sprawdzaj aktualne ostrzeżenia MSZ."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane przed podróżą do Kamerunu?",
+      "a": "Obowiązkowe jest szczepienie przeciw żółtej febrze. Zalecane są również szczepienia przeciw tężcowi, durowi brzusznemu, WZW A i B. Konieczna jest profilaktyka antymalaryczna."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Kamerunie i jak płacić?",
+      "a": "Oficjalną walutą jest frank CFA (XAF). Zaleca się posiadanie gotówki, zwłaszcza poza większymi miastami. Karty płatnicze są akceptowane w niektórych hotelach i większych sklepach, ale nie wszędzie."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Kamerunu?",
+      "a": "Tak, obywatele Polski muszą posiadać wizę, którą należy uzyskać przed wyjazdem w ambasadzie Kamerunu lub za pośrednictwem systemu e-wizy. Paszport musi być ważny co najmniej 6 miesięcy."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na podróż do Kamerunu jest pora sucha, trwająca zazwyczaj od listopada do lutego lub marca. W tym okresie pogoda jest stabilniejsza, a drogi bardziej przejezdne, co ułatwia przemieszczanie się po kraju i obserwację dzikich zwierząt w parkach narodowych. Pora deszczowa, od czerwca do października, charakteryzuje się intensywnymi opadami, które mogą utrudniać podróżowanie, zwłaszcza w regionach leśnych i górskich. Regiony północne mają krótszą porę deszczową niż południowe.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "capital": "Jaunde",
+  "climate": {
+    "air": [
+      31,
+      32,
+      32,
+      32,
+      31,
+      30,
+      28,
+      28,
+      29,
+      30,
+      31,
+      31
+    ],
+    "note": "dla Duali",
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27,
+      26,
+      27,
+      27,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia kameruńska jest różnorodna i smaczna, silnie związana z lokalnymi produktami. Podstawą wielu dań są kukurydza, maniok, ryż, plantany i orzeszki ziemne. Popularne potrawy to „ndole” (gulasz z orzeszków ziemnych, liści gorczycy i mięsa lub ryby), „achu” (purée z taro podawane z sosem), czy „eru” (gulasz z liści warzywnych i orzeszków ziemnych). Często spożywa się świeże ryby i owoce morza, zwłaszcza na wybrzeżu, oraz grillowane mięsa, takie jak kurczak czy koza. Dania są często pikantne, doprawiane lokalnymi przyprawami."
+  ],
+  "gygQuery": "Cameroon",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą w ambasadzie Kamerunu (np. w Berlinie) lub online (e-wiza). Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Przed wyjazdem zaleca się sprawdzenie aktualnych wymogów wizowych i zdrowotnych na stronach Ministerstwa Spraw Zagranicznych.",
+    "flight": "około 12-15 h z przesiadką",
+    "language": "angielski, francuski (urzędowe)",
+    "money": "waluta to frank CFA (XAF). Zaleca się posiadanie gotówki, zwłaszcza poza większymi miastami. Karty płatnicze są akceptowane w niektórych hotelach i większych sklepach.",
+    "plugs": "typy C, E",
+    "safety": "Kamerun jest krajem o podwyższonym ryzyku. Zaleca się unikanie podróży do regionów przygranicznych z Nigerią, Czadem i Republiką Środkowoafrykańską ze względu na zagrożenie terroryzmem i porwaniami. W większych miastach występuje przestępczość pospolita, dlatego należy zachować ostrożność, unikać samotnego przemieszczania się po zmroku i nie afiszować się z wartościowymi przedmiotami. Wymagane są szczepienia przeciw żółtej febrze (potwierdzone w żółtej książeczce), zalecane są też przeciwko tężcowi, błonicy, polio, durowi brzusznemu i WZW A i B. Występuje ryzyko malarii, dlatego konieczna jest profilaktyka antymalaryczna.",
+    "timeDiff": "zimą 0 h, latem -1 h"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

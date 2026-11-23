@@ -1,0 +1,225 @@
+{
+  "slug": "papua-nowa-gwinea",
+  "loc": "w Papui-Nowej Gwinei",
+  "to": "do Papui-Nowej Gwinei",
+  "teaser": "Papua-Nowa Gwinea to kierunek dla poszukiwaczy autentycznych przygód, oferujący unikalną kulturę plemienną i dziewiczą przyrodę.",
+  "intro": [
+    "Papua-Nowa Gwinea przyciąga przede wszystkim swoją niezwykłą różnorodnością kulturową i dziewiczą, często niedostępną przyrodą. To kraj, gdzie setki plemion wciąż żyją zgodnie z tradycjami przodków, a ich codzienne życie i barwne festiwale stanowią fascynujące widowisko. Od bujnych lasów deszczowych, przez majestatyczne góry, po rafy koralowe pełne życia, ten kraj oferuje niezliczone możliwości eksploracji dla tych, którzy pragną zejść z utartych szlaków. Jest to miejsce, które wymaga otwartości i szacunku dla lokalnych zwyczajów.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, poszukiwaczy przygód i etnografów, którzy cenią sobie autentyczne, często wymagające doświadczenia. Nie jest to typowy kierunek na relaksujące wakacje, ale raczej wyprawa do jednego z ostatnich prawdziwie dzikich miejsc na Ziemi. Osoby, które są gotowe na podstawowe warunki zakwaterowania, długie podróże i wyzwania logistyczne, znajdą tu nagrodę w postaci niezapomnianych spotkań i widoków. To podróż dla tych, którzy chcą zobaczyć świat w jego surowej, prawdziwej formie.",
+    "Podróż z Polski do Papui-Nowej Gwinei jest długa i wymaga co najmniej dwóch, a często trzech przesiadek, zwykle przez Azję (np. Singapur, Hongkong) lub Australię. Cała podróż, wliczając przesiadki, może trwać od 20 do nawet 30 godzin. Ze względu na ograniczoną infrastrukturę turystyczną, planowanie podróży wymaga dokładnego przygotowania i często korzystania z usług lokalnych przewodników, zwłaszcza w odleglejszych regionach. Loty wewnętrzne są kluczowe do przemieszczania się po kraju, ale ich dostępność i punktualność bywają zmienne."
+  ],
+  "highlights": [
+    "Spotkania z plemionami i ich tradycjami",
+    "Nurkowanie i snorkeling w dziewiczych rafach",
+    "Trekking szlakiem Kokoda Track",
+    "Obserwacja egzotycznych ptaków, w tym cudowronków",
+    "Wulkany i gorące źródła Nowej Brytanii",
+    "Rejsy po rzece Sepik i sztuka plemienna"
+  ],
+  "popularity": 8,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "port-moresby",
+      "name": "Port Moresby",
+      "loc": "w Port Moresby",
+      "intro": [
+        "Port Moresby, stolica Papui-Nowej Gwinei, jest głównym punktem wlotowym do kraju. To dynamiczne miasto, które łączy nowoczesność z tradycyjnym stylem życia, choć bywa również miejscem o podwyższonym ryzyku. Mimo wyzwań, oferuje kilka interesujących miejsc, które pozwalają zrozumieć historię i kulturę kraju. Warto odwiedzić Muzeum Narodowe i Galerię Sztuki, aby podziwiać bogactwo lokalnej sztuki i artefaktów plemiennych.",
+        "Inne atrakcje to Parlament Papui-Nowej Gwinei z jego unikalną architekturą oraz Park Przyrody Port Moresby, gdzie można zobaczyć endemiczne gatunki flory i fauny, w tym słynne cudowronki. Miasto jest bazą wypadową do dalszych eksploracji, ale wymaga ostrożności i świadomości otoczenia ze względu na kwestie bezpieczeństwa. Z Port Moresby często rozpoczynają się loty do innych, bardziej odległych regionów kraju."
+      ],
+      "airport": "POM",
+      "forWhom": "Brama do kraju i punkt startowy dla dalszych podróży, oferujący wgląd w miejskie życie Papui-Nowej Gwinei.",
+      "gygQuery": "Port Moresby",
+      "highlights": [
+        "Muzeum Narodowe i Galeria Sztuki",
+        "Park Przyrody Port Moresby",
+        "Budynek Parlamentu",
+        "Centrum Handlowe Vision City"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "gory-centralne",
+      "name": "Góry Centralne (Highlands)",
+      "loc": "w Górach Centralnych",
+      "intro": [
+        "Region Gór Centralnych to serce kulturowe Papui-Nowej Gwinei, zamieszkane przez liczne plemiona o bogatych tradycjach i spektakularnych strojach. To tutaj odbywają się słynne festiwale, takie jak Goroka Show czy Mount Hagen Show, gdzie tysiące wojowników i tancerzy prezentuje swoje barwne stroje, pieśni i tańce. Wizyta w tym regionie to prawdziwa podróż w czasie, pozwalająca na bezpośredni kontakt z kulturą, która w dużej mierze oparła się wpływom zewnętrznym.",
+        "Krajobraz Gór Centralnych to malownicze doliny, strome zbocza i najwyższe szczyty Oceanii, w tym Mount Wilhelm. Region oferuje możliwości trekkingu i podziwiania bujnej roślinności oraz endemicznych gatunków ptaków. Ze względu na wysokość, klimat jest tu chłodniejszy niż na wybrzeżu, a mgliste lasy dodają mu tajemniczego uroku. Podróżowanie po tym regionie często wymaga wynajęcia lokalnego przewodnika."
+      ],
+      "airport": "GOR (Goroka)",
+      "forWhom": "Dla poszukiwaczy autentycznych spotkań plemiennych i miłośników górskich krajobrazów.",
+      "gygQuery": "Papua New Guinea Highlands",
+      "highlights": [
+        "Festiwale Goroka Show i Mount Hagen Show",
+        "Trekking na Mount Wilhelm",
+        "Spotkania z plemionami Mudmen",
+        "Malownicze doliny i krajobrazy"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "nowa-brytania",
+      "name": "Nowa Brytania",
+      "loc": "na Nowej Brytanii",
+      "intro": [
+        "Nowa Brytania to największa wyspa Archipelagu Bismarcka, słynąca z aktywnych wulkanów, gorących źródeł i spektakularnych raf koralowych. Region wokół Rabaul, dawnej stolicy, jest szczególnie fascynujący ze względu na historię erupcji wulkanicznych, które wielokrotnie niszczyły miasto, a także na liczne pamiątki z czasów II wojny światowej. Podwodny świat Nowej Brytanii to raj dla nurków, oferujący wraki statków i samolotów oraz bogactwo morskiego życia.",
+        "Wyspa oferuje również piękne plaże, możliwość obserwacji ptaków i eksploracji jaskiń. Kultura lokalnych plemion, takich jak Baining, znana jest z unikalnych tańców ognia. Nowa Brytania to miejsce, gdzie natura wciąż pokazuje swoją potęgę, a historia pozostawiła trwały ślad, tworząc niezwykłe połączenie przygody i edukacji."
+      ],
+      "airport": "RAB (Rabaul)",
+      "forWhom": "Idealna dla nurków, miłośników wulkanów i historii II wojny światowej.",
+      "gygQuery": "New Britain Papua New Guinea",
+      "highlights": [
+        "Nurkowanie w Rabaul i Kimbe Bay",
+        "Aktywne wulkany Tavurvur i Vulcan",
+        "Pamiątki z II wojny światowej",
+        "Tańce ognia plemienia Baining"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "rzeka-sepik",
+      "name": "Rzeka Sepik",
+      "loc": "nad rzeką Sepik",
+      "intro": [
+        "Rzeka Sepik to jedna z największych rzek Oceanii i centrum niezwykłych kultur plemiennych. Rejsy po Sepiku to podróż do serca Papui-Nowej Gwinei, gdzie wioski położone nad brzegami rzeki słyną z misternie rzeźbionych domów duchów (haus tambaran), masek i innych artefaktów. Sztuka Sepiku jest jedną z najbardziej cenionych na świecie, a jej motywy często odzwierciedlają wierzenia i mitologię lokalnych społeczności.",
+        "Podróżując wzdłuż rzeki, można obserwować codzienne życie mieszkańców, uczestniczyć w tradycyjnych ceremoniach i podziwiać unikalną architekturę. Region jest również domem dla bogatej fauny, w tym krokodyli i licznych gatunków ptaków. Jest to doświadczenie dla osób pragnących poznać autentyczną, niezmienioną przez cywilizację kulturę i przyrodę."
+      ],
+      "airport": "WWK (Wewak)",
+      "forWhom": "Dla poszukiwaczy głębokiego zanurzenia w kulturę plemienną i unikalną sztukę.",
+      "gygQuery": "Sepik River Papua New Guinea",
+      "highlights": [
+        "Rejsy po rzece i wizyty w wioskach",
+        "Domy duchów (haus tambaran)",
+        "Tradycyjna sztuka i rzeźby",
+        "Obserwacja krokodyli i ptaków"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Szlak Kokoda Track",
+      "text": "Historyczny szlak trekkingowy, liczący około 96 km, prowadzący przez gęstą dżunglę i górzysty teren, znany z bitew II wojny światowej. To wymagająca, ale niezwykle satysfakcjonująca wyprawa.",
+      "gygQuery": "Kokoda Track"
+    },
+    {
+      "name": "Mount Wilhelm",
+      "text": "Najwyższy szczyt Papui-Nowej Gwinei i Oceanii (4509 m n.p.m.), oferujący trudny, ale spektakularny trekking przez różnorodne strefy klimatyczne, od lasów deszczowych po alpejskie łąki.",
+      "gygQuery": "Mount Wilhelm"
+    },
+    {
+      "name": "Nurkowanie w Tufi",
+      "text": "Malownicza wioska położona na fiordach, znana z doskonałych miejsc do nurkowania i snorkelingu, z krystalicznie czystą wodą i bogatymi rafami koralowymi.",
+      "gygQuery": "Tufi diving"
+    },
+    {
+      "name": "Rabaul i wulkany",
+      "text": "Miasto zniszczone przez erupcje wulkaniczne, oferujące unikalne krajobrazy wulkaniczne, gorące źródła i możliwość obserwacji aktywnych stożków wulkanicznych, takich jak Tavurvur.",
+      "gygQuery": "Rabaul volcanoes"
+    },
+    {
+      "name": "Festiwal Goroka Show",
+      "text": "Jeden z największych i najbardziej spektakularnych festiwali kulturowych w Papui-Nowej Gwinei, gromadzący dziesiątki plemion prezentujących swoje tradycyjne stroje, tańce i pieśni.",
+      "gygQuery": "Goroka Show"
+    },
+    {
+      "name": "Park Narodowy Varirata",
+      "text": "Pierwszy park narodowy kraju, położony niedaleko Port Moresby, oferujący szlaki spacerowe, punkty widokowe i szansę na obserwację cudowronków w ich naturalnym środowisku.",
+      "gygQuery": "Varirata National Park"
+    },
+    {
+      "name": "Wyspy Trobrianda",
+      "text": "Grupa wysp znana z unikalnej kultury, w tym tradycyjnego systemu wymiany Kula Ring i otwartego podejścia do seksualności, oferująca wgląd w archaiczne społeczeństwa.",
+      "gygQuery": "Trobriand Islands"
+    },
+    {
+      "name": "Jezioro Murray",
+      "text": "Drugie co do wielkości jezioro w Papui-Nowej Gwinei, otoczone dziewiczą dżunglą, zamieszkane przez liczne plemiona i oferujące możliwości obserwacji ptaków oraz wędkarstwa.",
+      "gygQuery": "Lake Murray Papua New Guinea"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Papua-Nowa Gwinea jest bezpiecznym krajem dla turystów?",
+      "a": "Papua-Nowa Gwinea ma wysoki wskaźnik przestępczości, szczególnie w miastach. Zaleca się podróżowanie z zaufanymi przewodnikami, unikanie samotnych spacerów, zwłaszcza po zmroku, i zachowanie ostrożności. Należy śledzić aktualne ostrzeżenia dla podróżnych."
+    },
+    {
+      "q": "Jakie szczepienia są zalecane przed podróżą do Papui-Nowej Gwinei?",
+      "a": "Zalecane są szczepienia przeciwko tężcowi, błonicy, krztuścowi, durowi brzusznemu, WZW A i B. Konieczna jest również profilaktyka antymalaryczna, ponieważ malaria jest powszechna w większości regionów kraju. Przed wyjazdem skonsultuj się z lekarzem medycyny podróży."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Papui-Nowej Gwinei?",
+      "a": "Ze względu na trudny teren i słabą infrastrukturę drogową, loty wewnętrzne są najpopularniejszym sposobem podróżowania między regionami. W miastach dostępne są taksówki i minibusy (PMV), ale ich bezpieczeństwo bywa zmienne. Do odległych wiosek często dociera się łodzią lub pieszo."
+    },
+    {
+      "q": "Czy Papua-Nowa Gwinea jest drogim kierunkiem podróży?",
+      "a": "Tak, Papua-Nowa Gwinea jest uważana za drogi kierunek. Koszty lotów międzynarodowych, zakwaterowania, transportu wewnętrznego i usług przewodników są wysokie. Brak masowej turystyki i słaba infrastruktura wpływają na ceny."
+    },
+    {
+      "q": "Czy można nurkować w Papui-Nowej Gwinei?",
+      "a": "Tak, Papua-Nowa Gwinea to jeden z najlepszych na świecie kierunków dla nurków. Oferuje dziewicze rafy koralowe, bogactwo życia morskiego oraz liczne wraki z czasów II wojny światowej. Szczególnie polecane są Kimbe Bay, Tufi i Rabaul."
+    }
+  ],
+  "bestTime": {
+    "text": "Klimat Papui-Nowej Gwinei jest tropikalny, z wyraźną porą suchą i deszczową. Pora sucha, trwająca od maja do października, jest najlepszym okresem na podróżowanie, zwłaszcza do regionów górskich i na trekking. W tym czasie opady są mniejsze, a temperatury bardziej znośne. Pora deszczowa, od listopada do kwietnia, charakteryzuje się intensywnymi ulewami, które mogą utrudniać podróżowanie i sprawiać, że niektóre drogi stają się nieprzejezdne. Wybrzeża są gorące i wilgotne przez cały rok.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Port Moresby",
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      31,
+      30,
+      29,
+      29,
+      29,
+      30,
+      31,
+      31,
+      31
+    ],
+    "note": "Dla Port Moresby i regionów przybrzeżnych",
+    "sea": [
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Papui-Nowej Gwinei jest prosta i opiera się na lokalnych produktach, takich jak słodkie ziemniaki (kaukau), taro, sagowiec, banany, kokosy i ryby. Tradycyjne dania często przygotowywane są metodą mumu, czyli pieczenia w ziemnym piecu z gorącymi kamieniami, co nadaje potrawom wyjątkowy smak. Mięso, zwłaszcza wieprzowina i drób, jest spożywane rzadziej, głównie podczas świąt i ceremonii. W miastach można znaleźć restauracje oferujące dania kuchni międzynarodowej, ale poza nimi dominują małe, lokalne jadłodajnie z prostymi posiłkami."
+  ],
+  "gygQuery": "Papua New Guinea",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy do Papui-Nowej Gwinei. Możliwe jest uzyskanie e-wizy, jednak przed wyjazdem zawsze należy sprawdzić aktualne wymogi wizowe na stronie Ministerstwa Spraw Zagranicznych lub ambasady.",
+    "flight": "Około 20-30 godzin z Polski, z minimum dwoma przesiadkami",
+    "language": "Oficjalne języki to angielski, hiri motu i tok pisin. Angielski jest używany w administracji i turystyce, ale w odległych rejonach dominują języki plemienne.",
+    "money": "Walutą jest Kina Papuaska (PGK). W większych miastach można płacić kartą, ale poza nimi gotówka jest niezbędna. Bankomaty są dostępne, ale ich liczba jest ograniczona. Warto mieć przy sobie mniejsze nominały.",
+    "plugs": "Gniazdka typu I (australijskie), wymagany adapter. Napięcie 240 V, częstotliwość 50 Hz.",
+    "safety": "Papua-Nowa Gwinea jest krajem o wysokim wskaźniku przestępczości, w tym napadów z bronią w ręku i kradzieży. Zaleca się zachowanie szczególnej ostrożności, unikanie samotnych spacerów po zmroku, zwłaszcza w Port Moresby. Występują również konflikty plemienne. Konieczne są szczepienia ochronne (np. tężec, dur brzuszny, WZW A i B) oraz profilaktyka antymalaryczna, gdyż malaria jest powszechna. Warto wykupić kompleksowe ubezpieczenie medyczne.",
+    "timeDiff": "Około +8 do +9 godzin względem czasu w Polsce"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

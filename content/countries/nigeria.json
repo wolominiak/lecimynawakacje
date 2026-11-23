@@ -1,0 +1,242 @@
+{
+  "slug": "nigeria",
+  "loc": "w Nigerii",
+  "to": "do Nigerii",
+  "teaser": "Nigeria to kraj kontrastów, oferujący bogactwo kultur i przyrody, ale wymagający od podróżnych dużej ostrożności i przygotowania.",
+  "intro": [
+    "Nigeria, najludniejszy kraj Afryki, to mozaika ponad 250 grup etnicznych, z których każda wnosi swój unikalny wkład w kulturę, język i tradycje. Od tętniących życiem metropolii po dziewicze parki narodowe, kraj ten oferuje autentyczne doświadczenia dla tych, którzy szukają głębokiego zanurzenia w afrykańskiej rzeczywistości. Jest to miejsce, gdzie historia splata się z nowoczesnością, a lokalne rynki pękają w szwach od rękodzieła i świeżych produktów.",
+    "Podróż do Nigerii to propozycja dla doświadczonych i odważnych turystów, którzy są gotowi na wyzwania i potrafią elastycznie reagować na zmieniające się okoliczności. Nie jest to typowy kierunek na beztroskie wakacje, lecz raczej wyprawa dla poszukiwaczy przygód, antropologów amatorów i miłośników dzikiej przyrody, którzy cenią sobie autentyczność ponad komfort. Wymaga to starannego planowania, świadomości lokalnych realiów i otwartości na nieoczekiwane.",
+    "Bezpośrednie loty z Polski do Nigerii nie istnieją. Podróż zazwyczaj wymaga jednej lub dwóch przesiadek, najczęściej w europejskich hubach, takich jak Frankfurt, Paryż, Amsterdam czy Stambuł. Całkowity czas podróży, wliczając przesiadki, to zazwyczaj około 10-12 godzin. Przed wylotem należy dokładnie sprawdzić wymagania wizowe i zdrowotne, a także aktualną sytuację bezpieczeństwa w regionie."
+  ],
+  "highlights": [
+    "Autentyczne doświadczenia kulturowe",
+    "Tętniące życiem rynki i miasta",
+    "Bogata różnorodność etniczna",
+    "Dzika przyroda w parkach narodowych",
+    "Intrygujące miejsca historyczne",
+    "Smakowita, pikantna kuchnia"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "lagos",
+      "name": "Lagos",
+      "loc": "w Lagos",
+      "intro": [
+        "Lagos to największe miasto Nigerii i jedno z najszybciej rozwijających się miast Afryki, będące centrum gospodarczym i kulturalnym kraju. Jest to metropolia pełna kontrastów, gdzie nowoczesne wieżowce sąsiadują z tradycyjnymi targowiskami, a wszechobecny ruch uliczny tworzy niepowtarzalną atmosferę. Miasto oferuje bogactwo doznań, od tętniących życiem klubów nocnych po spokojne plaże i galerie sztuki.",
+        "Mimo swojego chaotycznego charakteru, Lagos przyciąga energią i autentycznością. Można tu doświadczyć prawdziwego pulsu Nigerii, obserwować codzienne życie mieszkańców, próbować lokalnej kuchni i podziwiać sztukę uliczną. Jest to idealne miejsce, aby rozpocząć lub zakończyć podróż po kraju, oferujące szeroki wybór zakwaterowania i udogodnień."
+      ],
+      "airport": "LOS",
+      "forWhom": "Dla miłośników miejskiego zgiełku, kultury i dynamicznego życia.",
+      "gygQuery": "Lagos Nigeria",
+      "highlights": [
+        "Tętniące życiem rynki",
+        "Galeria sztuki Nike Art Gallery",
+        "Plaże i życie nocne",
+        "Centrum Ochrony Lekki"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "abudza",
+      "name": "Abudża",
+      "loc": "w Abudży",
+      "intro": [
+        "Abudża, stolica Nigerii, to miasto zbudowane od podstaw w latach 80-tych, zaprojektowane jako nowoczesne i funkcjonalne centrum administracyjne. W przeciwieństwie do chaotycznego Lagos, Abudża charakteryzuje się szerokimi alejami, zielonymi przestrzeniami i bardziej uporządkowaną architekturą. Jest to siedziba rządu, ambasad i wielu międzynarodowych organizacji.",
+        "Miasto oferuje szereg atrakcji, w tym imponujący Meczet Narodowy, Kościół Narodowy, Aso Rock - monolityczną skałę dominującą nad krajobrazem, oraz liczne parki i tereny rekreacyjne. Jest to miejsce, gdzie można poczuć puls polityczny kraju i podziwiać jego rozwój, choć brakuje mu historycznego uroku Lagos."
+      ],
+      "airport": "ABV",
+      "forWhom": "Dla tych, którzy szukają bardziej uporządkowanego i nowoczesnego oblicza Nigerii.",
+      "gygQuery": "Abuja Nigeria",
+      "highlights": [
+        "Meczet Narodowy",
+        "Aso Rock",
+        "Park Millenijny",
+        "Jezioro Jabi"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "park-narodowy-yankari",
+      "name": "Park Narodowy Yankari",
+      "loc": "w Parku Narodowym Yankari",
+      "intro": [
+        "Park Narodowy Yankari, położony w stanie Bauchi, jest jednym z najważniejszych rezerwatów dzikiej przyrody w Nigerii. Słynie z dużej populacji słoni afrykańskich, a także lwów, bawołów, hipopotamów, antylop i wielu gatunków ptaków. Park oferuje możliwość safari, podczas którego można obserwować zwierzęta w ich naturalnym środowisku.",
+        "Oprócz bogactwa fauny, Yankari jest również domem dla gorących źródeł Wikki Warm Spring, które są popularnym miejscem do kąpieli i relaksu po dniu spędzonym na podziwianiu przyrody. Jest to idealne miejsce dla tych, którzy chcą uciec od zgiełku miast i zanurzyć się w afrykańskiej dziczy."
+      ],
+      "airport": "BAU",
+      "forWhom": "Dla miłośników dzikiej przyrody i safari w afrykańskim buszu.",
+      "gygQuery": "Yankari National Park",
+      "highlights": [
+        "Safari i obserwacja słoni",
+        "Gorące źródła Wikki",
+        "Różnorodność ptaków",
+        "Afrykański busz"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "swiety-gaj-osun-osogbo",
+      "name": "Święty Gaj Osun-Osogbo",
+      "loc": "w Świętym Gaju Osun-Osogbo",
+      "intro": [
+        "Święty Gaj Osun-Osogbo to las nadrzeczny, który jest jednym z ostatnich zachowanych przykładów świętych gajów w kulturze Joruba i miejscem kultu bogini płodności Osun. Jest to obiekt wpisany na Listę Światowego Dziedzictwa UNESCO, pełen rzeźb, sanktuariów i dzieł sztuki, które świadczą o żywej tradycji duchowej.",
+        "Gaj jest miejscem corocznego festiwalu Osun-Osogbo, który przyciąga tysiące pielgrzymów i turystów. Wizyta w tym miejscu to nie tylko podróż w głąb natury, ale przede wszystkim zanurzenie się w głębokie wierzenia i rytuały, które od wieków kształtują życie społeczności Joruba."
+      ],
+      "airport": "IBA",
+      "forWhom": "Dla zainteresowanych kulturą Joruba i duchowymi tradycjami Afryki Zachodniej.",
+      "gygQuery": "Osun-Osogbo Sacred Grove",
+      "highlights": [
+        "Obiekt UNESCO",
+        "Kultura Joruba",
+        "Rzeźby i sanktuaria",
+        "Festiwal Osun-Osogbo"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "calabar-cross-river",
+      "name": "Calabar i Stan Cross River",
+      "loc": "w Calabarze i Stanie Cross River",
+      "intro": [
+        "Calabar, stolica stanu Cross River, to miasto o bogatej historii, będące niegdyś ważnym portem handlu niewolnikami. Dziś jest znane z czystości, spokoju i licznych atrakcji turystycznych, takich jak Muzeum Calabar, Ogród Botaniczny czy rejsy po rzece Cross. Miasto jest również bazą wypadową do eksploracji otaczającego stanu.",
+        "Stan Cross River słynie z bujnej zieleni, gór i Parku Narodowego Cross River, który jest jednym z najbardziej bioróżnorodnych obszarów w Afryce. Można tu odwiedzić Obudu Mountain Resort, położony wysoko w górach, oferujący chłodniejszy klimat i piękne widoki, a także możliwość podziwiania dziewiczych lasów deszczowych."
+      ],
+      "airport": "CBQ",
+      "forWhom": "Dla poszukujących połączenia historii, kultury i bujnej przyrody.",
+      "gygQuery": "Calabar Cross River",
+      "highlights": [
+        "Historia handlu niewolnikami",
+        "Park Narodowy Cross River",
+        "Obudu Mountain Resort",
+        "Spokojna atmosfera"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Lekki Conservation Centre",
+      "text": "Oaza zieleni w Lagos, oferująca długą kładkę nad koronami drzew, idealną do obserwacji ptaków i małp w ich naturalnym środowisku.",
+      "gygQuery": "Lekki Conservation Centre"
+    },
+    {
+      "name": "Aso Rock",
+      "text": "Monumentalna skała dominująca nad Abudżą, będąca symbolem stolicy i miejscem, z którego rozciągają się panoramiczne widoki na miasto.",
+      "gygQuery": "Aso Rock Abuja"
+    },
+    {
+      "name": "Park Narodowy Cross River",
+      "text": "Jeden z najbardziej bioróżnorodnych parków w Afryce, chroniący dziewicze lasy deszczowe i rzadkie gatunki zwierząt, w tym goryle Cross River.",
+      "gygQuery": "Cross River National Park"
+    },
+    {
+      "name": "Zuma Rock",
+      "text": "Ogromny monolit w stanie Niger, często nazywany 'Bramą do Abudży', znany z charakterystycznej twarzy widocznej na jego powierzchni.",
+      "gygQuery": "Zuma Rock"
+    },
+    {
+      "name": "Badagry",
+      "text": "Historyczne miasto portowe, które było ważnym ośrodkiem handlu niewolnikami, dziś oferujące muzea i pomniki upamiętniające tę tragiczną przeszłość.",
+      "gygQuery": "Badagry slave trade"
+    },
+    {
+      "name": "Olumo Rock",
+      "text": "Imponująca formacja skalna w Abeokucie, oferująca jaskinie, kapliczki i wspaniałe widoki na miasto, będąca ważnym miejscem kulturowym.",
+      "gygQuery": "Olumo Rock Abeokuta"
+    },
+    {
+      "name": "Muzeum Narodowe w Lagos",
+      "text": "Przechowuje cenne artefakty nigeryjskiej historii i kultury, w tym rzeźby z brązu i terakoty, a także eksponaty związane z dawnymi królestwami.",
+      "gygQuery": "National Museum Lagos"
+    },
+    {
+      "name": "Obudu Mountain Resort",
+      "text": "Położony wysoko w górach kurort oferujący chłodniejszy klimat, malownicze krajobrazy, kolejkę linową i szereg aktywności rekreacyjnych.",
+      "gygQuery": "Obudu Mountain Resort"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Nigeria jest bezpieczna dla turystów?",
+      "a": "Nigeria jest krajem o podwyższonym ryzyku, z wysokim poziomem przestępczości i zagrożeniem terrorystycznym. Zaleca się zachowanie najwyższej ostrożności, unikanie samotnego podróżowania i stałe monitorowanie komunikatów MSZ."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Nigerii?",
+      "a": "Do podróży do Nigerii wymagana jest wiza, którą należy uzyskać w Ambasadzie Nigerii w Warszawie. Paszport musi być ważny co najmniej 6 miesięcy od daty wyjazdu. Konieczne jest również międzynarodowe świadectwo szczepień, zwłaszcza przeciwko żółtej febrze."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Nigerii?",
+      "a": "Najlepszym czasem na podróż do Nigerii jest pora sucha, trwająca od listopada do lutego. W tym okresie jest mniej opadów, a temperatury są wysokie, co sprzyja zwiedzaniu i podróżowaniu po kraju."
+    },
+    {
+      "q": "Jakie są główne atrakcje turystyczne Nigerii?",
+      "a": "Wśród głównych atrakcji Nigerii znajdują się tętniące życiem Lagos, nowoczesna stolica Abudża, Park Narodowy Yankari z dziką przyrodą, historyczne Badagry oraz Święty Gaj Osun-Osogbo wpisany na listę UNESCO."
+    },
+    {
+      "q": "Czy w Nigerii można płacić kartą?",
+      "a": "Płatności kartą są możliwe w niektórych większych hotelach i sklepach w miastach, ale gotówka (naira nigeryjska) jest dominującą formą płatności, zwłaszcza poza głównymi ośrodkami. Warto mieć przy sobie odpowiednią ilość gotówki."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na podróż do Nigerii jest pora sucha, trwająca od listopada do lutego. W tym czasie temperatury są wysokie, ale wilgotność powietrza jest niższa, a opady deszczowe są rzadkie, co ułatwia podróżowanie i eksplorację. Pora deszczowa, od kwietnia do października, charakteryzuje się intensywnymi opadami, które mogą utrudniać przemieszczanie się po drogach i dostęp do niektórych atrakcji. Marzec i październik to miesiące przejściowe, które również mogą być dobrym wyborem, choć z większym ryzykiem deszczu.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "capital": "Abudża",
+  "climate": {
+    "air": [
+      32,
+      33,
+      33,
+      32,
+      31,
+      29,
+      28,
+      28,
+      29,
+      30,
+      32,
+      32
+    ],
+    "note": "dla Lagos",
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27,
+      27,
+      27,
+      28,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia nigeryjska jest niezwykle różnorodna i aromatyczna, a jej podstawą są lokalne składniki, takie jak ignamy, ryż, maniok i szeroki wybór warzyw. Charakterystyczne są gęste zupy i gulasze, często podawane z fufu (ugotowanym i utłuczonym maniokiem lub ignamem) lub eba (z mąki z manioku). Jollof rice, pikantny ryż gotowany z pomidorami, papryką i przyprawami, to jedno z najbardziej rozpoznawalnych dań. Popularne są również grillowane ryby i mięsa, a także liczne przekąski, takie jak akara (smażone kulki z fasoli) czy suya (pikantne szaszłyki z wołowiny)."
+  ],
+  "gygQuery": "Nigeria",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą w ambasadzie Nigerii. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Nigerii. Wymagane jest również międzynarodowe świadectwo szczepień, zwłaszcza przeciwko żółtej febrze. Zawsze należy sprawdzić aktualne wymogi wizowe i zdrowotne w Ambasadzie Nigerii w Warszawie lub na stronie MSZ przed planowaną podróżą.",
+    "flight": "około 10-12 h z przesiadką",
+    "language": "Oficjalnym językiem jest angielski, który jest szeroko używany w biznesie i administracji. Oprócz tego w Nigerii mówi się setkami języków lokalnych, z których najważniejsze to hausa, joruba i igbo.",
+    "money": "Oficjalną walutą jest naira nigeryjska (NGN). W dużych miastach można znaleźć bankomaty, ale gotówka jest preferowaną formą płatności, zwłaszcza poza głównymi ośrodkami. Płatności kartą są możliwe w niektórych hotelach i większych sklepach, ale nie należy na nich polegać. Warto mieć przy sobie mniejsze nominały na codzienne wydatki.",
+    "plugs": "Gniazdka elektryczne są typu D i G. Napięcie wynosi 230 V, a częstotliwość 50 Hz. Warto zabrać ze sobą adapter.",
+    "safety": "Nigeria jest krajem o wysokim poziomie przestępczości i znacznym zagrożeniu terrorystycznym, zwłaszcza w północno-wschodnich regionach. Zaleca się zachowanie najwyższej ostrożności, unikanie samotnego podróżowania, zwłaszcza po zmroku, oraz korzystanie z usług sprawdzonych przewodników i transportu. Ministerstwo Spraw Zagranicznych odradza podróże do niektórych części kraju. Przed wyjazdem należy zapoznać się z aktualnymi ostrzeżeniami dla podróżujących na stronie MSZ.",
+    "timeDiff": "W czasie polskiego czasu zimowego czas jest taki sam. W czasie polskiego czasu letniego w Nigerii jest 1 godzina później niż w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

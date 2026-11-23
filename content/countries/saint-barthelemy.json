@@ -1,0 +1,172 @@
+{
+  "slug": "saint-barthelemy",
+  "loc": "na Saint-Barthélemy",
+  "to": "na Saint-Barthélemy",
+  "teaser": "Saint-Barthélemy to synonim luksusu i spokoju na Karaibach, oferujący ekskluzywne plaże, wykwintną kuchnię i butikowe zakupy dla wymagających.",
+  "intro": [
+    "Saint-Barthélemy, często nazywane po prostu St. Barts, to niewielka, ale niezwykle ekskluzywna wyspa na Karaibach, będąca zamorskim terytorium Francji. Przyciąga zamożnych turystów z całego świata, celebrytów i miłośników luksusowego wypoczynku. Znana jest z białych, piaszczystych plaż, turkusowej wody i kameralnej atmosfery, która sprzyja relaksowi z dala od zgiełku masowej turystyki. To idealne miejsce dla tych, którzy szukają najwyższej jakości usług, prywatności i niezobowiązującej elegancji.",
+    "Wyspa jest destynacją dla podróżników ceniących sobie spokój, wyśmienitą kuchnię i możliwość spędzania czasu na jachtach czy w ekskluzywnych butikach. Nie znajdziemy tu wielkich kompleksów hotelowych ani tłumów, co podkreśla jej elitarny charakter. St. Barts to także raj dla smakoszy, z licznymi restauracjami serwującymi dania kuchni francuskiej i karaibskiej na najwyższym poziomie. Aktywni turyści mogą cieszyć się sportami wodnymi, nurkowaniem czy żeglarstwem w krystalicznie czystych wodach.",
+    "Podróż z Polski na Saint-Barthélemy wymaga kilku przesiadek i jest dość długa. Zazwyczaj leci się do jednego z większych europejskich hubów, jak Paryż czy Amsterdam, a następnie do Saint-Maarten (SXM), skąd na St. Barts kursują krótkie loty regionalne lub promy. Cała podróż, wliczając oczekiwanie na przesiadki, może zająć kilkanaście godzin. Mimo to, wysiłek jest wynagradzany przez unikalne doświadczenie i urok tego karaibskiego klejnotu."
+  ],
+  "highlights": [
+    "Luksusowe jachty w porcie Gustavia",
+    "Plaże z białym piaskiem i turkusową wodą",
+    "Wykwintna kuchnia francuska i karaibska",
+    "Ekskluzywne butiki i galerie sztuki",
+    "Kameralna atmosfera i prywatność",
+    "Doskonałe warunki do sportów wodnych"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "gustavia",
+      "name": "Gustavia",
+      "loc": "w Gustavii",
+      "intro": [
+        "Gustavia to urokliwa stolica Saint-Barthélemy, położona wokół malowniczej zatoki, która służy jako port dla luksusowych jachtów i statków wycieczkowych. Miasto zachowało swój szwedzki i francuski kolonialny charakter, z urokliwymi uliczkami, butikami znanych projektantów i galeriami sztuki. To serce wyspy, gdzie koncentruje się życie towarzyskie i kulturalne. Spacer po nabrzeżu to doskonała okazja do podziwiania imponujących jednostek pływających i delektowania się atmosferą luksusu.",
+        "W Gustavii znajdziemy wiele wyśmienitych restauracji serwujących dania kuchni francuskiej i karaibskiej, a także modne bary, które ożywają wieczorami. Warto odwiedzić zabytkowe forty, takie jak Fort Gustave, oferujące panoramiczne widoki na zatokę i okolicę. Miasto jest również bazą wypadową do odkrywania innych części wyspy i jej pięknych plaż."
+      ],
+      "airport": "SBH",
+      "forWhom": "Idealna dla miłośników luksusowych zakupów, wykwintnych restauracji i życia nocnego.",
+      "gygQuery": "Gustavia Saint Barthelemy",
+      "highlights": [
+        "Luksusowe butiki",
+        "Port jachtowy",
+        "Wykwintne restauracje",
+        "Fort Gustave i widoki"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "saint-jean",
+      "name": "Saint Jean",
+      "loc": "w Saint Jean",
+      "intro": [
+        "Saint Jean to jedna z najbardziej znanych i popularnych plaż na Saint-Barthélemy, podzielona na dwie części przez słynny hotel Eden Rock. Jest to tętniące życiem centrum aktywności, gdzie można znaleźć wiele luksusowych hoteli, restauracji z widokiem na morze i modnych barów plażowych, takich jak Nikki Beach. Plaża jest idealna do pływania, opalania się i uprawiania sportów wodnych, takich jak windsurfing czy snorkeling, dzięki spokojnym i płytkim wodom.",
+        "W pobliżu plaży znajduje się również lotnisko Gustaf III, co sprawia, że lądowanie samolotów jest dodatkową atrakcją dla turystów, którzy mogą obserwować je z bliskiej odległości. Saint Jean oferuje doskonałe połączenie relaksu na plaży z dostępem do wysokiej klasy udogodnień i rozrywki, co czyni ją ulubionym miejscem wielu odwiedzających wyspę."
+      ],
+      "airport": "SBH",
+      "forWhom": "Idealny dla plażowiczów i miłośników sportów wodnych, szukających komfortowych hoteli.",
+      "gygQuery": "Saint Jean Saint Barthelemy",
+      "highlights": [
+        "Plaża podzielona przez Eden Rock",
+        "Sporty wodne",
+        "Modne bary plażowe",
+        "Bliskość lotniska"
+      ],
+      "type": "kurort"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Shell Beach",
+      "text": "Unikalna plaża pokryta milionami muszelek, idealna do spacerów i poszukiwania skarbów natury.",
+      "gygQuery": "Shell Beach Saint Barthelemy"
+    },
+    {
+      "name": "Plaża Colombier",
+      "text": "Odizolowana, dziewicza plaża dostępna pieszo lub łodzią, idealna do nurkowania z rurką i relaksu w spokoju.",
+      "gygQuery": "Colombier Beach Saint Barthelemy"
+    },
+    {
+      "name": "Fort Gustave",
+      "text": "Pozostałości XVIII-wiecznego fortu oferujące spektakularne widoki na Gustavię i zatokę.",
+      "gygQuery": "Fort Gustave Saint Barthelemy"
+    },
+    {
+      "name": "Wall House Museum",
+      "text": "Muzeum historyczne w Gustawii, prezentujące dziedzictwo wyspy, od czasów Arawaków po okres szwedzki i francuski.",
+      "gygQuery": "Wall House Museum Saint Barthelemy"
+    },
+    {
+      "name": "Plaża Saline",
+      "text": "Jedna z najbardziej naturalnych i dziewiczych plaż na wyspie, bez zabudowań, idealna dla miłośników natury.",
+      "gygQuery": "Saline Beach Saint Barthelemy"
+    },
+    {
+      "name": "Plaża Gouverneur",
+      "text": "Malownicza, zaciszna plaża otoczona zielonymi wzgórzami, słynąca z krystalicznie czystej wody i spokoju.",
+      "gygQuery": "Gouverneur Beach Saint Barthelemy"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Jak dostać się na Saint-Barthélemy z Polski?",
+      "a": "Podróż wymaga kilku przesiadek, najczęściej przez Paryż lub Amsterdam do Saint-Maarten (SXM), a stamtąd krótkim lotem regionalnym lub promem na Saint-Barthélemy (SBH)."
+    },
+    {
+      "q": "Czy Saint-Barthélemy jest drogim kierunkiem?",
+      "a": "Tak, Saint-Barthélemy jest uznawane za jeden z najdroższych kierunków na Karaibach, ze względu na luksusowy charakter, wysokie ceny zakwaterowania, restauracji i usług."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Saint-Barthélemy?",
+      "a": "Jako obywatele Unii Europejskiej, Polacy nie potrzebują wizy na pobyt turystyczny. Wystarczy ważny paszport lub dowód osobisty, choć paszport jest zalecany."
+    },
+    {
+      "q": "Kiedy jest najlepszy czas na odwiedzenie Saint-Barthélemy?",
+      "a": "Najlepszy czas to pora sucha, od grudnia do maja, kiedy panuje słoneczna pogoda i niższa wilgotność. Od czerwca do listopada jest pora deszczowa i sezon huraganów."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na wizytę na Saint-Barthélemy jest pora sucha, trwająca od grudnia do maja. W tych miesiącach panuje słoneczna pogoda, niska wilgotność i przyjemne temperatury, co sprzyja plażowaniu i aktywnościom na świeżym powietrzu. Od czerwca do listopada trwa pora deszczowa, która jest również sezonem huraganów, choć St. Barts nie jest bezpośrednio na ich głównej trasie, to ryzyko wystąpienia złej pogody jest większe. Poza sezonem ceny mogą być nieco niższe, ale należy liczyć się z możliwością opadów.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "capital": "Gustavia",
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      29,
+      29
+    ],
+    "note": "Dane dla Gustavii",
+    "sea": [
+      27,
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Saint-Barthélemy to wyrafinowane połączenie wpływów francuskich i karaibskich, z naciskiem na świeże owoce morza. Znajdziemy tu liczne restauracje o światowej renomie, serwujące homary, krewetki, świeże ryby przygotowywane na wiele sposobów. Popularne są także dania z kurczaka i wołowiny, często z dodatkiem lokalnych przypraw i owoców tropikalnych. Nie brakuje też wyśmienitych francuskich wypieków, serów i win. Wyspa słynie z wysokiej jakości składników i kreatywności szefów kuchni, co sprawia, że jest to raj dla smakoszy."
+  ],
+  "gygQuery": "Saint Barthelemy",
+  "practical": {
+    "documents": "Obywatele Polski, jako obywatele Unii Europejskiej, mogą wjechać na Saint-Barthélemy na podstawie ważnego paszportu lub dowodu osobistego. Zaleca się jednak posiadanie paszportu, który jest wymagany przy lotach międzynarodowych. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronie MSZ lub ambasady Francji.",
+    "flight": "Około 12-15 godzin z Polski, z dwoma lub więcej przesiadkami (np. przez Paryż/Amsterdam i Saint-Maarten).",
+    "language": "Oficjalnym językiem jest francuski, ale w miejscach turystycznych i hotelach powszechnie używa się angielskiego.",
+    "money": "Oficjalną walutą jest euro (EUR). Płatności kartą są powszechne, a bankomaty dostępne w Gustawii. Warto mieć przy sobie trochę gotówki na drobne wydatki.",
+    "plugs": "Gniazdka elektryczne są typu C i E, takie same jak we Francji i w Polsce, więc nie są potrzebne adaptery.",
+    "safety": "Saint-Barthélemy jest uznawane za bardzo bezpieczne miejsce z niskim wskaźnikiem przestępczości. Należy zachować podstawowe środki ostrożności, jak wszędzie. Opieka medyczna jest na dobrym poziomie, ale kosztowna, dlatego zaleca się wykupienie kompleksowego ubezpieczenia podróżnego.",
+    "timeDiff": "Różnica czasu wynosi -6 godzin w stosunku do czasu polskiego zimowego i -5 godzin w stosunku do czasu polskiego letniego."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

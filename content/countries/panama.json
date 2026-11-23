@@ -1,0 +1,223 @@
+{
+  "slug": "panama",
+  "loc": "w Panamie",
+  "to": "do Panamy",
+  "teaser": "Panama to most między dwoma Amerykami i oceanami, oferujący słynny kanał, bujną dżunglę, rajskie wyspy i bogatą kulturę.",
+  "intro": [
+    "Panama, choć znana głównie z Kanału Panamskiego, to kraj o niezwykłej bioróżnorodności i strategicznym położeniu. Łączy Amerykę Północną i Południową, a także Atlantyk z Pacyfikiem, co czyni ją unikalnym miejscem na mapie świata. Znajdziesz tu dziewicze lasy deszczowe, wulkany, malownicze wyspy karaibskie oraz tętniące życiem miasta, które opowiadają historię handlu i kolonizacji. To prawdziwa gratka dla miłośników przyrody i historii.",
+    "Kraj ten jest idealny dla podróżników szukających autentycznych doświadczeń poza utartymi szlakami. Przyciąga poszukiwaczy przygód, nurków, ornitologów i tych, którzy pragną zanurzyć się w kulturze rdzennych mieszkańców, takich jak Guna czy Embera. Panama oferuje zarówno luksusowe kurorty, jak i proste hostele, co sprawia, że jest dostępna dla różnych budżetów. Miłośnicy kawy znajdą tu również doskonałe plantacje w górskich regionach.",
+    "Podróż z Polski do Panamy wymaga zazwyczaj jednej lub dwóch przesiadek, najczęściej w dużych europejskich hubach lub miastach USA. Całkowity czas lotu, wraz z przesiadkami, wynosi zazwyczaj od 12 do 16 godzin. Bezpośrednie loty z Polski nie są dostępne, co sprawia, że podróż jest nieco dłuższa, ale warto poświęcić ten czas dla niezwykłych wrażeń. Planując wyjazd, pamiętaj o odpowiednim przygotowaniu do tropikalnego klimatu."
+  ],
+  "highlights": [
+    "Słynny Kanał Panamski i jego śluzy",
+    "Rajskie wyspy San Blas i kultura Guna",
+    "Bujne lasy deszczowe i bogactwo fauny",
+    "Kolonialne uliczki Casco Viejo w Panamie",
+    "Górskie plantacje kawy w Boquete",
+    "Nurkowanie i relaks na Bocas del Toro"
+  ],
+  "popularity": 15,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "panama-city",
+      "name": "Panama City",
+      "loc": "w Panamie City",
+      "intro": [
+        "Stolica Panamy to dynamiczna metropolia, która łączy nowoczesne drapacze chmur z kolonialną architekturą Casco Viejo. To tu znajduje się słynny Kanał Panamski, inżynieryjny cud świata, który można podziwiać ze śluz Miraflores. Miasto oferuje bogate życie nocne, doskonałe restauracje i muzea opowiadające o historii kraju.",
+        "Casco Viejo, wpisane na listę UNESCO, to labirynt uroczych uliczek z kolorowymi kamienicami, kościołami i butikowymi hotelami. Warto odwiedzić Biomuseo, zaprojektowane przez Franka Gehry'ego, które opowiada o powstaniu Przesmyku Panamskiego i jego wpływie na światową bioróżnorodność. Miasto jest również bazą wypadową do pobliskich parków narodowych."
+      ],
+      "airport": "Tocumen International Airport (PTY)",
+      "forWhom": "Idealne dla miłośników historii, nowoczesnej architektury i miejskiego życia, a także dla tych, którzy chcą zobaczyć Kanał Panamski.",
+      "gygQuery": "Panama City",
+      "highlights": [
+        "Kanał Panamski - Śluzy Miraflores",
+        "Kolonialne Casco Viejo",
+        "Nowoczesne drapacze chmur",
+        "Biomuseo"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "bocas-del-toro",
+      "name": "Bocas del Toro",
+      "loc": "na Bocas del Toro",
+      "intro": [
+        "Archipelag Bocas del Toro to raj na Karaibach, składający się z dziewięciu głównych wysp i setek mniejszych wysepek. Słynie z krystalicznie czystych wód, białych piaszczystych plaż, bujnej roślinności i tętniącego życia podwodnego. To idealne miejsce na relaks, nurkowanie, snorkeling i surfing, z licznymi szkołami i wypożyczalniami sprzętu.",
+        "Główną wyspą jest Isla Colón, gdzie znajduje się miasteczko Bocas Town z kolorowymi domkami na palach, restauracjami i barami. Można stąd organizować wycieczki łodzią do innych wysp, takich jak Isla Bastimentos z Red Frog Beach czy Cayo Zapatilla, słynące z dziewiczych plaż i raf koralowych. To miejsce z prawdziwie karaibskim klimatem."
+      ],
+      "airport": "Bocas del Toro Isla Colón International Airport (BOC)",
+      "forWhom": "Doskonałe dla miłośników plażowania, nurkowania, surfingu i karaibskiego luzu.",
+      "gygQuery": "Bocas del Toro",
+      "highlights": [
+        "Plaża Red Frog Beach",
+        "Nurkowanie i snorkeling",
+        "Surfing na falach Karaibów",
+        "Karaibski klimat i relaks"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "san-blas-islands",
+      "name": "Wyspy San Blas (Guna Yala)",
+      "loc": "na Wyspach San Blas",
+      "intro": [
+        "Wyspy San Blas, znane również jako Guna Yala, to autonomiczna prowincja zarządzana przez rdzennych Indian Guna. Archipelag składa się z ponad 365 wysp i wysepek, z których wiele jest niezamieszkanych i wygląda jak pocztówkowe raje z palmami i białym piaskiem. To unikalne miejsce, gdzie można doświadczyć życia w zgodzie z naturą i tradycją.",
+        "Podróż na San Blas to prawdziwa przygoda, często wymaga transportu 4x4 i łodzi. Mieszkańcy Guna są dumni ze swojej kultury i chronią swoje terytorium przed masową turystyką. Oferują proste zakwaterowanie w chatach, świeże owoce morza i możliwość poznania ich zwyczajów, w tym rękodzieła molas. To idealne miejsce na cyfrowy detoks i prawdziwy kontakt z naturą."
+      ],
+      "airport": "Corazón de Jesús Airport (CZJ) lub El Porvenir (PVE)",
+      "forWhom": "Dla poszukiwaczy autentycznych doświadczeń, miłośników dziewiczej przyrody i kultury rdzennych mieszkańców.",
+      "gygQuery": "San Blas Islands",
+      "highlights": [
+        "Dziewicze, rajskie wyspy",
+        "Kultura Indian Guna",
+        "Snorkeling na rafach koralowych",
+        "Świeże owoce morza"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "boquete",
+      "name": "Boquete",
+      "loc": "w Boquete",
+      "intro": [
+        "Boquete to urokliwe miasteczko położone w górach prowincji Chiriquí, znane z łagodnego klimatu, bujnych krajobrazów i doskonałej kawy. Jest to popularny cel podróży dla tych, którzy chcą uciec od upałów wybrzeża i cieszyć się aktywnościami na świeżym powietrzu. Region ten słynie z plantacji kawy, gdzie produkuje się jedne z najlepszych ziaren na świecie.",
+        "Okolice Boquete oferują liczne szlaki trekkingowe, w tym wspinaczkę na Volcán Barú, najwyższy szczyt Panamy, z którego w pogodny dzień można zobaczyć jednocześnie Pacyfik i Atlantyk. Można tu również uprawiać rafting, zip-lining, obserwować ptaki (w tym quetzale) oraz zwiedzać plantacje kawy z degustacją. To oaza spokoju i naturalnego piękna."
+      ],
+      "airport": "Enrique Malek International Airport (DAV) w David",
+      "forWhom": "Idealne dla miłośników górskich krajobrazów, trekkingu, kawy i chłodniejszego klimatu.",
+      "gygQuery": "Boquete",
+      "highlights": [
+        "Plantacje kawy i degustacje",
+        "Trekking na Volcán Barú",
+        "Obserwacja ptaków (quetzale)",
+        "Rafting i zip-lining"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kanał Panamski i Śluzy Miraflores",
+      "text": "Ten inżynieryjny cud świata łączy Ocean Atlantycki z Pacyfikiem. Warto odwiedzić centrum dla zwiedzających przy śluzach Miraflores, aby zobaczyć, jak statki przepływają przez system komór.",
+      "gygQuery": "Panama Canal Miraflores Locks"
+    },
+    {
+      "name": "Casco Viejo (Stare Miasto w Panamie)",
+      "text": "Kolonialna dzielnica Panamy, wpisana na listę UNESCO, zachwyca wąskimi uliczkami, kolorowymi kamienicami, urokliwymi placami i zabytkowymi kościołami. To idealne miejsce na spacer i poczucie historii.",
+      "gygQuery": "Casco Viejo Panama"
+    },
+    {
+      "name": "Wyspy San Blas",
+      "text": "Archipelag ponad 365 rajskich wysp zarządzanych przez Indian Guna. Oferuje dziewicze plaże, krystalicznie czyste wody i unikalne doświadczenie kultury rdzennej ludności.",
+      "gygQuery": "San Blas Islands"
+    },
+    {
+      "name": "Park Narodowy Soberanía",
+      "text": "Niedaleko Panamy City, ten park to bujny las deszczowy, dom dla bogatej fauny, w tym małp, leniwców i ponad 500 gatunków ptaków. Idealny na trekking i obserwację dzikiej przyrody.",
+      "gygQuery": "Soberania National Park"
+    },
+    {
+      "name": "Volcán Barú",
+      "text": "Najwyższy szczyt Panamy, oferujący wymagający trekking i możliwość zobaczenia wschodu słońca z widokiem na oba oceany - Pacyfik i Atlantyk. Niezapomniane widoki gwarantowane.",
+      "gygQuery": "Volcan Baru"
+    },
+    {
+      "name": "Archipelag Bocas del Toro",
+      "text": "Karaibski raj z turkusową wodą, białymi plażami i palmami. Idealne miejsce do nurkowania, surfingu, snorkelingu i relaksu w karaibskim stylu.",
+      "gygQuery": "Bocas del Toro"
+    },
+    {
+      "name": "Biomuseo",
+      "text": "Zaprojektowane przez Franka Gehry'ego muzeum w Panamie City, które w interaktywny sposób opowiada o powstaniu Przesmyku Panamskiego i jego ogromnym wpływie na bioróżnorodność planety.",
+      "gygQuery": "Biomuseo Panama"
+    },
+    {
+      "name": "Wioski Indian Embera",
+      "text": "Wycieczka do tradycyjnych wiosek rdzennych mieszkańców Embera, położonych w lasach deszczowych, pozwala poznać ich zwyczaje, tańce i rękodzieło, a także spróbować lokalnych potraw.",
+      "gygQuery": "Embera Village Panama"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Panama jest bezpieczna dla turystów?",
+      "a": "Panama jest generalnie bezpieczna, zwłaszcza w rejonach turystycznych. Należy jednak zachować ostrożność w dużych miastach po zmroku i unikać samotnych spacerów w nieznanych dzielnicach. Zawsze miej oko na swoje rzeczy i unikaj pokazywania drogocennych przedmiotów."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Panamie i czy można płacić kartą?",
+      "a": "W Panamie oficjalnie używa się dolara amerykańskiego (USD) oraz panamskiej balboy (PAB), która jest sztywno powiązana z USD. Płatności kartą są możliwe w większych hotelach i sklepach, ale na mniejszych targach czy w lokalnych restauracjach przyda się gotówka."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Panamy, żeby uniknąć deszczu?",
+      "a": "Najlepszy czas na podróż to pora sucha, od grudnia do kwietnia. Wtedy pogoda jest najbardziej stabilna, z dużą ilością słońca i mniejszą wilgotnością. Pora deszczowa (maj-listopad) charakteryzuje się krótkimi, intensywnymi opadami, zazwyczaj popołudniami."
+    },
+    {
+      "q": "Czy do Panamy potrzebna jest wiza dla Polaków?",
+      "a": "Obywatele Polski nie potrzebują wizy, aby wjechać do Panamy na pobyt turystyczny trwający do 180 dni. Wymagany jest ważny paszport (minimum 6 miesięcy ważności od daty planowanego wyjazdu) oraz bilet powrotny lub dalszej podróży."
+    },
+    {
+      "q": "Co warto zobaczyć oprócz Kanału Panamskiego?",
+      "a": "Poza Kanałem Panamskim, koniecznie odwiedź kolonialne Casco Viejo w Panamie City, rajskie Wyspy San Blas, archipelag Bocas del Toro z pięknymi plażami, a także górski region Boquete, słynący z plantacji kawy i trekkingu."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Panamy to pora sucha, która trwa od grudnia do kwietnia. W tym okresie panują słoneczne dni, niższa wilgotność i mniejsze ryzyko opadów, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Pora deszczowa, od maja do listopada, charakteryzuje się krótkimi, intensywnymi ulewami, zazwyczaj popołudniami, ale nadal można wtedy podróżować.",
+    "best": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      12,
+      5
+    ]
+  },
+  "capital": "Panama",
+  "climate": {
+    "air": [
+      31,
+      32,
+      33,
+      33,
+      32,
+      31,
+      31,
+      31,
+      31,
+      30,
+      30,
+      31
+    ],
+    "note": "Dane dla Panamy (miasto)",
+    "sea": [
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia panamska to mieszanka wpływów afrykańskich, hiszpańskich i rdzennych, oparta na świeżych, lokalnych składnikach. Podstawą wielu dań jest ryż, fasola, plantany (smażone banany) i świeże owoce morza. Popularnym daniem jest sancocho, sycąca zupa z kurczaka i warzyw. Warto spróbować ceviche, świeżych owoców morza marynowanych w soku z limonki, oraz empanadas. Nie zapomnij o świeżych sokach z tropikalnych owoców i oczywiście o kawie z regionu Boquete."
+  ],
+  "gygQuery": "Panama",
+  "practical": {
+    "documents": "Obywatele Polski mogą przebywać w Panamie bez wizy do 180 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Panamy. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub na stronie MSZ.",
+    "flight": "około 12-16 h z jedną lub dwiema przesiadkami",
+    "language": "Oficjalnym językiem jest hiszpański. W rejonach turystycznych i większych miastach można porozumieć się po angielsku, zwłaszcza w hotelach i na lotniskach.",
+    "money": "Oficjalną walutą jest balboa (PAB), która jest sztywno powiązana z dolarem amerykańskim (USD) w stosunku 1:1. W praktyce dolar amerykański jest powszechnie używany i akceptowany. Karty płatnicze są akceptowane w większych miastach i hotelach, ale warto mieć gotówkę na mniejsze wydatki.",
+    "plugs": "Gniazdka typu A i B (amerykańskie), napięcie 110-120V. Potrzebny adapter i ewentualnie przetwornica napięcia.",
+    "safety": "Panama jest generalnie bezpiecznym krajem dla turystów, ale zaleca się zachowanie ostrożności, szczególnie w dużych miastach i na obszarach przygranicznych. Unikaj samotnych spacerów po zmroku w nieznanych dzielnicach. Uważaj na drobne kradzieże. Przed wyjazdem warto wykupić ubezpieczenie zdrowotne i rozważyć szczepienia ochronne, np. na żółtą febrę, choć nie są one obowiązkowe.",
+    "timeDiff": "UTC-5, czyli -6 godzin zimą w Polsce, -7 godzin latem"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

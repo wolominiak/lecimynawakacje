@@ -1,0 +1,244 @@
+{
+  "slug": "peru",
+  "loc": "w Peru",
+  "to": "do Peru",
+  "teaser": "Peru to kraj kontrastów - od pustynnego wybrzeża, przez Andy, po amazońską dżunglę. Idealny dla miłośników historii i przygód.",
+  "intro": [
+    "Peru to kraj o niezwykłej różnorodności, który przyciąga podróżników z całego świata swoją bogatą historią, spektakularnymi krajobrazami i żywą kulturą. Od tajemniczych ruin Inków, z Machu Picchu na czele, przez majestatyczne Andy, aż po dziewiczą dżunglę Amazonii i pustynne wybrzeże Pacyfiku, Peru oferuje niezliczone możliwości odkrywania. To miejsce, gdzie starożytne cywilizacje pozostawiły po sobie imponujące dziedzictwo, a współczesność splata się z tradycją.",
+    "Ten kraj jest idealny dla poszukiwaczy przygód, miłośników trekkingu i historii, a także dla tych, którzy pragną zanurzyć się w autentycznej kulturze Ameryki Południowej. Peru nie jest typowym kierunkiem na wczasy all-inclusive, lecz raczej celem podróży dla osób ceniących aktywny wypoczynek i głębsze poznawanie odwiedzanych miejsc. Warto przygotować się na zmienne warunki pogodowe i wysokościowe, które są częścią peruwiańskiego doświadczenia.",
+    "Podróż z Polski do Peru wymaga odpowiedniego planowania ze względu na długi lot i konieczność przesiadek, zazwyczaj w Europie i w jednym z hubów w Ameryce Północnej lub Południowej. Cała podróż może zająć od 15 do 20 godzin, w zależności od połączeń. Po dotarciu na miejsce, sprawna komunikacja wewnętrzna - zarówno lotnicza, jak i autobusowa - pozwala na eksplorację różnych regionów kraju, choć wymaga cierpliwości i elastyczności."
+  ],
+  "highlights": [
+    "Machu Picchu - ikona Inków",
+    "Trekking Szlakiem Inków",
+    "Tajemnicze Liny Nazca",
+    "Kanion Colca i kondory",
+    "Rejs po Jeziorze Titicaca",
+    "Wyśmienita kuchnia peruwiańska"
+  ],
+  "popularity": 45,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "cusco-i-swieta-dolina",
+      "name": "Cusco i Święta Dolina",
+      "loc": "w Cusco i Świętej Dolinie",
+      "intro": [
+        "Cusco, dawna stolica Imperium Inków, to miasto pełne kolonialnego uroku i inkaskich fundamentów. Jest bazą wypadową do zwiedzania Machu Picchu i innych cudów Świętej Doliny. Spacerując po jego brukowanych uliczkach, można podziwiać połączenie hiszpańskiej architektury z prekolumbijskimi murami.",
+        "Święta Dolina Inków, rozciągająca się między Cusco a Machu Picchu, to obszar żyznych pól, malowniczych wiosek i imponujących ruin, takich jak Pisac, Ollantaytambo czy Moray. To idealne miejsce na trekking, poznawanie lokalnej kultury i aklimatyzację przed wyprawą na wyższe wysokości."
+      ],
+      "airport": "CUZ",
+      "forWhom": "Dla miłośników historii Inków, trekkingu i górskich krajobrazów.",
+      "gygQuery": "Cusco Sacred Valley",
+      "highlights": [
+        "Starożytne ruiny Inków",
+        "Kolonialna architektura Cusco",
+        "Malownicze krajobrazy Andów",
+        "Lokalne targi i rzemiosło"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "lima",
+      "name": "Lima",
+      "loc": "w Limie",
+      "intro": [
+        "Lima, tętniąca życiem stolica Peru, to miasto kontrastów, gdzie nowoczesne wieżowce sąsiadują z kolonialnymi rezydencjami. Znana jako kulinarna stolica Ameryki Południowej, oferuje niezliczone restauracje serwujące dania od tradycyjnych po fusion. Historyczne centrum Limy, wpisane na listę UNESCO, zachwyca katedrą, pałacami i klasztorami.",
+        "Dzielnice takie jak Miraflores i Barranco to centra życia nocnego, sztuki i rozrywki, z pięknymi widokami na Pacyfik. Lima to także doskonałe miejsce na poznanie peruwiańskiej sztuki, od prekolumbijskiej po współczesną, w licznych muzeach i galeriach."
+      ],
+      "airport": "LIM",
+      "forWhom": "Dla smakoszy, miłośników kultury miejskiej i kolonialnej architektury.",
+      "gygQuery": "Lima",
+      "highlights": [
+        "Kulinarna stolica Ameryki Płd.",
+        "Kolonialne centrum UNESCO",
+        "Dzielnice Miraflores i Barranco",
+        "Muzea i galerie sztuki"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "arequipa-i-kanion-colca",
+      "name": "Arequipa i Kanion Colca",
+      "loc": "w Arequipie i Kanionie Colca",
+      "intro": [
+        "Arequipa, nazywana \"Białym Miastem\" ze względu na budynki z białego kamienia wulkanicznego (sillar), to jedno z najpiękniejszych miast Peru. Jej historyczne centrum również znajduje się na liście UNESCO, a majestatyczne wulkany Misti, Chachani i Pichu Pichu tworzą spektakularne tło. Miasto słynie z klasztoru Santa Catalina, prawdziwego miasta w mieście.",
+        "Niedaleko Arequipy znajduje się Kanion Colca, jeden z najgłębszych kanionów na świecie, dwukrotnie głębszy niż Wielki Kanion. To idealne miejsce do obserwacji kondorów andyjskich, które szybują nad przepaściami. Region oferuje również gorące źródła i możliwość poznania życia w andyjskich wioskach."
+      ],
+      "airport": "AQP",
+      "forWhom": "Dla poszukiwaczy spektakularnych widoków i kontaktu z naturą.",
+      "gygQuery": "Arequipa Colca Canyon",
+      "highlights": [
+        "Białe Miasto Arequipa",
+        "Klasztor Santa Catalina",
+        "Obserwacja kondorów",
+        "Trekking w Kanionie Colca"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "jezioro-titicaca-i-puno",
+      "name": "Jezioro Titicaca i Puno",
+      "loc": "nad Jeziorem Titicaca i w Puno",
+      "intro": [
+        "Jezioro Titicaca, najwyżej położone żeglowne jezioro świata, to miejsce o niezwykłym pięknie i głębokim znaczeniu kulturowym dla rdzennych mieszkańców Andów. Puno, miasto portowe na jego brzegu, jest bramą do eksploracji jeziora i jego wysp. To tutaj narodziła się legenda o powstaniu Imperium Inków.",
+        "Jedną z głównych atrakcji są pływające wyspy Uros, zbudowane z trzciny totora, na których żyją rdzenni mieszkańcy. Można również odwiedzić wyspy Taquile i Amantani, gdzie czas zdaje się płynąć wolniej, a mieszkańcy pielęgnują swoje tradycje i rzemiosło."
+      ],
+      "airport": "JUL",
+      "forWhom": "Dla zainteresowanych kulturą rdzennych mieszkańców Andów i unikalnymi krajobrazami.",
+      "gygQuery": "Lake Titicaca Puno",
+      "highlights": [
+        "Pływające wyspy Uros",
+        "Kultura rdzennych mieszkańców",
+        "Malownicze krajobrazy jeziora",
+        "Najwyższe żeglowne jezioro"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "amazonia",
+      "name": "Amazonia",
+      "loc": "w Amazonii",
+      "intro": [
+        "Peruwiańska Amazonia to rozległy obszar lasów deszczowych, rzek i niezwykłej bioróżnorodności, dostępny z miast takich jak Iquitos (na północy) czy Puerto Maldonado (na południu). To królestwo dzikiej przyrody, gdzie można spotkać różnorodne gatunki zwierząt - od małp i leniwców, po kajmany i egzotyczne ptaki.",
+        "Rejsy po rzekach, spacery po dżungli z lokalnymi przewodnikami i noclegi w ekologicznych lodge'ach to główne atrakcje. To podróż w głąb natury, która pozwala na oderwanie się od cywilizacji i doświadczenie pierwotnego piękna lasu deszczowego."
+      ],
+      "airport": "IQT",
+      "forWhom": "Dla miłośników dzikiej przyrody i przygód w tropikalnej dżungli.",
+      "gygQuery": "Peruvian Amazon",
+      "highlights": [
+        "Dzika przyroda Amazonii",
+        "Rejsy po rzekach",
+        "Ekologiczne lodge",
+        "Spotkania z lokalnymi plemionami"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Machu Picchu",
+      "text": "Starożytne miasto Inków, położone wysoko w Andach, to jeden z siedmiu nowych cudów świata i symbol Peru. Jego tajemnicza atmosfera i spektakularne położenie przyciągają miliony turystów.",
+      "gygQuery": "Machu Picchu"
+    },
+    {
+      "name": "Szlak Inków",
+      "text": "Legendarny szlak trekkingowy prowadzący do Machu Picchu, oferujący niezapomniane widoki, starożytne ruiny i wyzwanie fizyczne. Wymaga wcześniejszej rezerwacji i przewodnika.",
+      "gygQuery": "Inca Trail"
+    },
+    {
+      "name": "Liny Nazca",
+      "text": "Gigantyczne geoglify wyryte w pustynnym płaskowyżu, przedstawiające zwierzęta i geometryczne kształty. Ich pochodzenie i cel wciąż pozostają zagadką, najlepiej podziwiać je z lotu ptaka.",
+      "gygQuery": "Nazca Lines"
+    },
+    {
+      "name": "Kanion Colca",
+      "text": "Jeden z najgłębszych kanionów na świecie, słynący z majestatycznych kondorów andyjskich, które można obserwować szybujące nad przepaściami. Oferuje również piękne krajobrazy i tradycyjne wioski.",
+      "gygQuery": "Colca Canyon"
+    },
+    {
+      "name": "Jezioro Titicaca",
+      "text": "Najwyżej położone żeglowne jezioro świata, dom dla rdzennych społeczności, w tym mieszkańców pływających wysp Uros. To miejsce o głębokim znaczeniu kulturowym i niezwykłym pięknie.",
+      "gygQuery": "Lake Titicaca"
+    },
+    {
+      "name": "Huacachina",
+      "text": "Oaza na pustyni, otoczona ogromnymi wydmami, idealna do sandboardingu i przejażdżek buggy. To popularne miejsce na relaks i zabawę w unikalnym krajobrazie.",
+      "gygQuery": "Huacachina Oasis"
+    },
+    {
+      "name": "Rainbow Mountain (Vinicunca)",
+      "text": "Góra Siedmiu Kolorów, której zbocza mienią się odcieniami czerwieni, żółci i zieleni, to efekt erozji minerałów. Wymagająca, ale niezwykle satysfakcjonująca wędrówka.",
+      "gygQuery": "Rainbow Mountain Peru"
+    },
+    {
+      "name": "Święta Dolina Inków",
+      "text": "Obszar między Cusco a Machu Picchu, pełen starożytnych ruin, takich jak Pisac, Ollantaytambo i Moray, oraz malowniczych wiosek. Idealny na jednodniowe wycieczki i aklimatyzację.",
+      "gygQuery": "Sacred Valley Peru"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Peru jest bezpieczne?",
+      "a": "Peru jest generalnie bezpiecznym krajem dla turystów, ale należy zachować ostrożność, zwłaszcza w dużych miastach, gdzie zdarzają się drobne kradzieże. Unikaj samotnych spacerów po zmroku w nieznanych dzielnicach i dbaj o swoje wartościowe przedmioty."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Peru?",
+      "a": "Najlepszy czas na podróż to sucha pora, od maja do października, szczególnie jeśli planujesz trekking w Andach i zwiedzanie Machu Picchu. Na wybrzeżu pogoda jest stabilna przez cały rok, a w Amazonii jest gorąco i wilgotno."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Peru?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Peru. Zawsze sprawdź aktualne wymogi przed podróżą."
+    },
+    {
+      "q": "Jak dostać się do Machu Picchu?",
+      "a": "Do Machu Picchu można dotrzeć pociągiem z Ollantaytambo lub Cusco do Aguas Calientes, a następnie autobusem lub pieszo. Popularną opcją jest również kilkudniowy trekking Szlakiem Inków, który wymaga wcześniejszej rezerwacji."
+    },
+    {
+      "q": "Jaka jest waluta w Peru?",
+      "a": "Walutą Peru jest sol peruwiański (PEN). Płatności kartą są akceptowane w większych miastach i ośrodkach turystycznych, ale gotówka jest niezbędna w mniejszych miejscowościach i na targach. Warto mieć ze sobą dolary amerykańskie na wymianę."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Peru zależy od planowanych aktywności. W Andach, w tym w rejonie Machu Picchu i Cusco, sucha pora trwa od maja do października, co sprzyja trekkingom i zwiedzaniu. Temperatury są wtedy przyjemne w dzień, ale noce bywają chłodne. Na wybrzeżu, w Limie, pogoda jest stabilna przez cały rok, choć od kwietnia do listopada często panuje mgła. W Amazonii jest gorąco i wilgotno przez cały rok, z porą deszczową od listopada do kwietnia.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Lima",
+  "climate": {
+    "air": [
+      26,
+      27,
+      27,
+      25,
+      22,
+      20,
+      19,
+      18,
+      19,
+      20,
+      22,
+      24
+    ],
+    "note": "Dane dla Limy, na wybrzeżu. W Andach (np. Cusco) temperatury są niższe i bardziej zmienne, a w Amazonii wyższe i bardzo wilgotne.",
+    "sea": [
+      21,
+      22,
+      22,
+      21,
+      19,
+      18,
+      17,
+      16,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  "cuisine": [
+    "Kuchnia peruwiańska to prawdziwa uczta dla podniebienia, uznawana za jedną z najlepszych na świecie. Jest to fuzja smaków rdzennych, hiszpańskich, afrykańskich, chińskich i japońskich. Koniecznie spróbuj ceviche - świeżej ryby lub owoców morza marynowanych w soku z limonki z cebulą i chili. Inne klasyki to aji de gallina (kremowy kurczak w sosie orzechowym), lomo saltado (wołowina stir-fry z warzywami i frytkami) oraz causa rellena (warstwowa zapiekanka ziemniaczana). Do tego pisco sour, narodowy koktajl na bazie brandy pisco, to obowiązkowy element kulinarnej podróży po Peru."
+  ],
+  "gygQuery": "Peru",
+  "practical": {
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Peru. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie Peru lub na stronie MSZ.",
+    "flight": "Około 15-20 godzin z dwiema przesiadkami, zazwyczaj w Europie i w Ameryce Północnej lub Południowej.",
+    "language": "Oficjalnym językiem jest hiszpański. W regionach andyjskich powszechne są również języki rdzenne, takie jak keczua i ajmara. W miejscach turystycznych i większych hotelach można porozumieć się po angielsku, ale znajomość podstaw hiszpańskiego znacznie ułatwia podróżowanie.",
+    "money": "Walutą Peru jest sol peruwiański (PEN). W większych miastach i ośrodkach turystycznych płatności kartą są powszechne, jednak w mniejszych miejscowościach, na targach i w lokalnych sklepach gotówka jest niezbędna. Warto mieć ze sobą dolary amerykańskie, które łatwo wymienić na sole.",
+    "plugs": "W Peru używane są gniazdka typu A i B. Napięcie wynosi 220 V, a częstotliwość 60 Hz. Konieczny jest adapter do gniazdek amerykańskich.",
+    "safety": "Peru jest generalnie bezpiecznym krajem dla turystów, ale należy zachować podstawowe środki ostrożności. W większych miastach, zwłaszcza w Limie i Cusco, zdarzają się drobne kradzieże i oszustwa. Unikaj samotnych spacerów po zmroku w nieznanych dzielnicach. Przed podróżą do Amazonii zalecane są szczepienia przeciwko żółtej febrze i profilaktyka antymalaryczna. Warto skonsultować się z lekarzem medycyny podróży.",
+    "timeDiff": "Peru leży w strefie czasowej UTC-5. Różnica czasu do Polski to -6 godzin w czasie letnim w Polsce i -7 godzin w czasie zimowym w Polsce."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

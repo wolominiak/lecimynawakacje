@@ -1,0 +1,211 @@
+{
+  "slug": "rosja",
+  "loc": "w Rosji",
+  "to": "do Rosji",
+  "teaser": "Rosja to kraj o ogromnej powierzchni i bogatej historii. Podróżowanie tam wymaga starannego planowania, ale oferuje unikalne doświadczenia.",
+  "intro": [
+    "Rosja, największe państwo świata, rozciąga się od Europy Wschodniej po Pacyfik, oferując podróżnikom mozaikę kultur, krajobrazów i historii. Od majestatycznych pałaców Petersburga po surowe piękno Syberii, kraj ten fascynuje swoją skalą i różnorodnością. To destynacja dla tych, którzy szukają głębokich doświadczeń kulturowych i chcą zanurzyć się w bogatej, choć często skomplikowanej, historii. Podróż do Rosji to wyprawa w głąb kontynentu, która na długo pozostaje w pamięci.",
+    "Rosja to kierunek dla turystów ceniących podróże poznawcze, miłośników sztuki, architektury oraz tych, którzy pragną zobaczyć miejsca o znaczeniu historycznym. Nie jest to typowa destynacja na wczasy all-inclusive, ale raczej propozycja dla poszukiwaczy przygód i niezależnych podróżników. Kraj oferuje zarówno tętniące życiem metropolie, jak i dziewiczą przyrodę, co sprawia, że każdy znajdzie tu coś dla siebie, pod warunkiem odpowiedniego przygotowania.",
+    "Obecnie podróżowanie do Rosji z Polski jest utrudnione. Brak jest bezpośrednich połączeń lotniczych, a przeloty wymagają przesiadek, często przez kraje trzecie. Wymagana jest wiza, a procedury jej uzyskania mogą być czasochłonne. Przed planowaniem wyjazdu konieczne jest dokładne sprawdzenie aktualnych przepisów wjazdowych oraz sytuacji politycznej, aby zapewnić sobie bezpieczną i bezproblemową podróż."
+  ],
+  "highlights": [
+    "Podróż Koleją Transsyberyjską",
+    "Zwiedzanie Kremla i Placu Czerwonego",
+    "Odkrywanie skarbów Ermitażu w Petersburgu",
+    "Rejs po Jeziorze Bajkał - najgłębszym na świecie",
+    "Podziwianie zabytków Złotego Pierścienia",
+    "Degustacja rosyjskiej kuchni i tradycyjnych napojów"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "moskwa",
+      "name": "Moskwa",
+      "loc": "w Moskwie",
+      "intro": [
+        "Moskwa to serce Rosji, miasto pełne kontrastów, gdzie obok zabytków Kremla i Placu Czerwonego wyrastają nowoczesne drapacze chmur. To centrum polityczne, gospodarcze i kulturalne kraju, oferujące niezliczone muzea, galerie sztuki i teatry, w tym słynny Teatr Bolszoj. Warto poświęcić czas na zwiedzanie imponujących stacji metra, które same w sobie są dziełami sztuki, a także na spacery po licznych parkach i ogrodach.",
+        "Miasto tętni życiem przez całą dobę, oferując szeroki wybór restauracji, kawiarni i klubów. Moskwa to także doskonała baza wypadowa do zwiedzania okolicznych miast Złotego Pierścienia, co pozwala na połączenie miejskiego zgiełku z odkrywaniem historycznych prowincji Rosji. Przygotuj się na długie spacery i korzystanie z rozbudowanego systemu komunikacji miejskiej."
+      ],
+      "airport": "SVO",
+      "forWhom": "Dla miłośników historii, kultury i tętniących życiem metropolii, którzy chcą poczuć puls Rosji.",
+      "gygQuery": "Moscow",
+      "highlights": [
+        "Kreml i Plac Czerwony",
+        "Sobór Wasyla Błogosławionego",
+        "Teatr Bolszoj",
+        "Moskiewskie Metro"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "petersburg",
+      "name": "Petersburg",
+      "loc": "w Petersburgu",
+      "intro": [
+        "Petersburg, często nazywany \"Wenecją Północy\", to miasto kanałów, mostów i barokowej architektury, założone przez Piotra Wielkiego. Jest domem dla jednego z największych muzeów sztuki na świecie - Ermitażu, mieszczącego się w Pałacu Zimowym. Miasto zachwyca elegancją i rozmachem, oferując niezliczone pałace, parki i ogrody, które świadczą o jego imperialnej przeszłości.",
+        "Petersburg to także miejsce \"Białych Nocy\" w okresie letnim, kiedy słońce prawie nie zachodzi, tworząc wyjątkową atmosferę. Warto wybrać się na rejs po kanałach, aby podziwiać miasto z innej perspektywy, a także odwiedzić pobliskie rezydencje carskie, takie jak Peterhof czy Carskie Sioło, z ich wspaniałymi ogrodami i fontannami."
+      ],
+      "airport": "LED",
+      "forWhom": "Idealny dla pasjonatów sztuki, architektury i carskiej historii, szukających europejskiego klimatu w Rosji.",
+      "gygQuery": "Saint Petersburg",
+      "highlights": [
+        "Ermitaż i Pałac Zimowy",
+        "Sobór Zbawiciela na Krwi",
+        "Peterhof i jego ogrody",
+        "Białe Noce"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "zloty-pierscien",
+      "name": "Złoty Pierścień Rosji",
+      "loc": "na Złotym Pierścieniu Rosji",
+      "intro": [
+        "Złoty Pierścień to szlak turystyczny łączący historyczne miasta na północny wschód od Moskwy, które odegrały kluczową rolę w formowaniu się państwa rosyjskiego. To podróż w czasie do średniowiecznej Rusi, gdzie można podziwiać białe kamienne cerkwie, ufortyfikowane kremliny i klasztory, które przetrwały wieki. Do najbardziej znanych miast należą Suzdal, Włodzimierz, Siergijew Posad i Kostroma.",
+        "Region ten oferuje wgląd w tradycyjne życie rosyjskie, z dala od zgiełku wielkich metropolii. Można tu spróbować lokalnych specjałów, kupić rękodzieło i poczuć atmosferę dawnych wieków. To idealna opcja dla osób, które cenią sobie spokój, historię i autentyczne doświadczenia kulturowe, z dala od utartych szlaków."
+      ],
+      "airport": "SVO",
+      "forWhom": "Dla tych, którzy chcą poznać autentyczną Rosję, jej średniowieczne dziedzictwo i tradycyjną architekturę.",
+      "gygQuery": "Golden Ring Russia",
+      "highlights": [
+        "Starożytne kremliny",
+        "Monastery i cerkwie",
+        "Tradycyjna architektura",
+        "Miasta Suzdal i Włodzimierz"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "jezioro-bajkal",
+      "name": "Jezioro Bajkał",
+      "loc": "nad Jeziorem Bajkał",
+      "intro": [
+        "Jezioro Bajkał, położone na Syberii, to najgłębsze i najstarsze jezioro słodkowodne na świecie, zawierające około 20% światowych zasobów wody pitnej. Jest to obszar o niezwykłej bioróżnorodności, z wieloma gatunkami roślin i zwierząt występującymi tylko tutaj. Bajkał oferuje zapierające dech w piersiach krajobrazy, od skalistych wybrzeży po piaszczyste plaże i gęste lasy.",
+        "Podróż nad Bajkał to często kulminacja wyprawy Koleją Transsyberyjską. Latem można tu uprawiać turystykę pieszą, kajakarstwo czy nurkowanie, a zimą podziwiać zamarznięte jezioro, które staje się lodowym placem zabaw. Warto odwiedzić wyspę Olchon, uważaną za święte miejsce dla szamanów, oraz poznać lokalną kulturę Buriatów, rdzennych mieszkańców regionu."
+      ],
+      "airport": "IKT",
+      "forWhom": "Dla miłośników dzikiej przyrody, trekkingu i unikalnych krajobrazów, szukających odosobnienia i przygody.",
+      "gygQuery": "Lake Baikal",
+      "highlights": [
+        "Najgłębsze jezioro świata",
+        "Wyspa Olchon",
+        "Kolej Krugobajkalska",
+        "Dzika przyroda Syberii"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kreml i Plac Czerwony",
+      "text": "Symbol Rosji, wpisany na listę UNESCO. Kreml to historyczna twierdza i siedziba władz, a Plac Czerwony to miejsce wielu wydarzeń historycznych, otoczone Soborem Wasyla Błogosławionego i Mauzoleum Lenina.",
+      "gygQuery": "Moscow Kremlin Red Square"
+    },
+    {
+      "name": "Ermitaż i Pałac Zimowy",
+      "text": "Jeden z największych i najstarszych muzeów sztuki na świecie, mieszczący się w dawnej rezydencji carów. Kolekcje obejmują miliony dzieł sztuki od starożytności po współczesność.",
+      "gygQuery": "Hermitage Museum Winter Palace"
+    },
+    {
+      "name": "Sobór Wasyla Błogosławionego",
+      "text": "Ikoniczna cerkiew na Placu Czerwonym w Moskwie, znana z kolorowych, cebulastych kopuł. Jest symbolem rosyjskiej architektury i kultury.",
+      "gygQuery": "Saint Basil's Cathedral"
+    },
+    {
+      "name": "Transsyberyjska Kolej",
+      "text": "Najdłuższa linia kolejowa na świecie, łącząca Moskwę z Władywostokiem. To epicka podróż przez całą Rosję, oferująca niezapomniane widoki i spotkania z lokalnymi mieszkańcami.",
+      "gygQuery": "Trans-Siberian Railway"
+    },
+    {
+      "name": "Jezioro Bajkał",
+      "text": "Najgłębsze i najstarsze jezioro słodkowodne na świecie, położone na Syberii. Słynie z krystalicznie czystej wody, unikalnej fauny i flory oraz malowniczych krajobrazów.",
+      "gygQuery": "Lake Baikal"
+    },
+    {
+      "name": "Teatr Bolszoj",
+      "text": "Jeden z najbardziej prestiżowych teatrów operowych i baletowych na świecie, zlokalizowany w Moskwie. Słynie z wybitnych przedstawień i bogatej historii.",
+      "gygQuery": "Bolshoi Theatre Moscow"
+    },
+    {
+      "name": "Peterhof",
+      "text": "Zespół pałacowo-parkowy niedaleko Petersburga, nazywany \"Rosyjskim Wersalem\". Słynie z imponujących fontann, w tym Wielkiej Kaskady, oraz luksusowych pałaców.",
+      "gygQuery": "Peterhof Palace"
+    },
+    {
+      "name": "Klasztor Nowodziewiczy",
+      "text": "Historyczny klasztor w Moskwie, wpisany na listę UNESCO. Znany z pięknej architektury, cmentarza, na którym pochowano wiele znanych postaci, oraz jako przykład rosyjskiego baroku moskiewskiego.",
+      "gygQuery": "Novodevichy Convent"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Rosji jako obywatel Polski?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać na terytorium Rosji. Należy ją uzyskać przed podróżą w Konsulacie Generalnym Rosji lub Ambasadzie."
+    },
+    {
+      "q": "Jaka jest waluta w Rosji i czy mogę płacić kartą?",
+      "a": "Walutą jest rubel rosyjski (RUB). W dużych miastach można płacić kartą, ale ze względu na sankcje, polskie karty Visa i Mastercard mogą nie działać. Zaleca się posiadanie gotówki."
+    },
+    {
+      "q": "Czy Rosja jest bezpieczna dla turystów?",
+      "a": "Sytuacja bezpieczeństwa w Rosji jest dynamiczna. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże. Jeśli zdecydujesz się na wyjazd, zachowaj szczególną ostrożność i śledź ostrzeżenia MSZ."
+    },
+    {
+      "q": "Jak dostać się do Rosji z Polski?",
+      "a": "Obecnie brak jest bezpośrednich lotów z Polski do Rosji. Podróż wymaga przesiadek, często przez kraje trzecie, co wydłuża czas podróży."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Rosji?",
+      "a": "Najlepszy czas na zwiedzanie miast to późna wiosna (maj-czerwiec) i wczesna jesień (wrzesień). Lato (lipiec-sierpień) jest dobre na wyprawy przyrodnicze, np. nad Bajkał."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na zwiedzanie głównych miast, takich jak Moskwa i Petersburg, to późna wiosna (maj-czerwiec) oraz wczesna jesień (wrzesień). W tych miesiącach pogoda jest przyjemna, a tłumy turystów mniejsze niż w szczycie sezonu letniego. Lato (lipiec-sierpień) jest idealne na wyprawy w głąb kraju, np. nad Jezioro Bajkał, choć temperatury mogą być wysokie. Zima, choć mroźna, oferuje magiczne, śnieżne krajobrazy, szczególnie w miastach.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Moskwa",
+  "climate": {
+    "air": [
+      -5,
+      -4,
+      2,
+      11,
+      19,
+      22,
+      25,
+      23,
+      17,
+      9,
+      2,
+      -3
+    ],
+    "note": "dla Moskwy",
+    "sea": null
+  },
+  "cuisine": [
+    "Rosyjska kuchnia jest sycąca i rozgrzewająca, idealna na długie, mroźne zimy. Podstawą są zupy, takie jak słynny barszcz (buraczkowa zupa), solianka (gęsta zupa mięsna lub rybna) czy szczi (zupa kapuściana). Popularne są również pierożki, zwłaszcza pielmieni (małe pierożki z mięsem) i wareniki (pierogi z różnymi nadzieniami). Nie można zapomnieć o blinach, czyli cienkich naleśnikach podawanych na słodko lub słono, często z kawiorem. Do tego kwas chlebowy, a dla dorosłych oczywiście wódka, często podawana z zakąskami."
+  ],
+  "gygQuery": "Russia",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy do Rosji. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Przed podróżą należy bezwzględnie sprawdzić aktualne wymagania wizowe w Konsulacie Generalnym Rosji lub Ambasadzie, ponieważ przepisy mogą ulec zmianie.",
+    "flight": "Obecnie brak bezpośrednich lotów z Polski. Podróż z przesiadką trwa od 6 do 10 godzin, w zależności od wybranego połączenia.",
+    "language": "Językiem urzędowym jest rosyjski. W dużych miastach i popularnych miejscach turystycznych można spotkać osoby posługujące się językiem angielskim, ale znajomość podstawowych zwrotów po rosyjsku będzie bardzo pomocna i doceniona.",
+    "money": "Walutą jest rubel rosyjski (RUB). W większych miastach płatności kartą są powszechne, jednak ze względu na międzynarodowe sankcje, polskie karty płatnicze (Visa, Mastercard) mogą nie działać. Zaleca się posiadanie gotówki lub korzystanie z kart wydanych przez banki spoza systemu sankcji, jeśli to możliwe.",
+    "plugs": "Gniazdka elektryczne są typu C i F, takie same jak w Polsce (220 V, 50 Hz). Nie są potrzebne żadne adaptery.",
+    "safety": "Sytuacja bezpieczeństwa w Rosji jest dynamiczna i może ulec zmianie. Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże do Rosji. Jeśli jednak zdecydujesz się na wyjazd, zachowaj szczególną ostrożność, unikaj zgromadzeń publicznych i śledź lokalne wiadomości. Zarejestruj się w systemie Odyseusz.",
+    "timeDiff": "Rosja obejmuje wiele stref czasowych. W Moskwie i Petersburgu jest to +1 godzina względem czasu polskiego (zarówno zimowego, jak i letniego). Wschodnie regiony kraju mogą mieć różnicę czasu wynoszącą nawet do +10 godzin."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

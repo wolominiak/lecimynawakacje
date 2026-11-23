@@ -1,0 +1,207 @@
+{
+  "slug": "singapur",
+  "loc": "w Singapurze",
+  "to": "do Singapuru",
+  "teaser": "Singapur to futurystyczna metropolia w sercu Azji, gdzie nowoczesność spotyka się z tropikalną zielenią. Idealny na city break i poznawanie azjatyckiej kultury.",
+  "intro": [
+    "Singapur, często nazywany Miastem Ogrodem, to fascynująca metropolia, która zaskakuje swoją futurystyczną architekturą i wszechobecną zielenią. To miejsce, gdzie drapacze chmur harmonijnie współistnieją z tropikalnymi ogrodami, a różnorodność kulturowa przeplata się z nowoczesnością. Kraj słynie z czystości, bezpieczeństwa i doskonałej organizacji, co czyni go idealnym celem podróży dla tych, którzy cenią sobie komfort i porządek.",
+    "Singapur to doskonały kierunek dla miłośników miejskich przygód, smakoszy poszukujących nowych doznań kulinarnych w słynnych hawker centres, a także dla rodzin z dziećmi, dzięki licznym parkom rozrywki i atrakcjom edukacyjnym. To również popularny przystanek dla podróżujących dalej po Azji, oferujący możliwość krótkiego, ale intensywnego city breaku. Kraj ten oferuje unikalne połączenie wschodniej tradycji z zachodnim stylem życia.",
+    "Podróż z Polski do Singapuru wymaga długiego lotu, zazwyczaj z jedną przesiadką w jednym z europejskich lub bliskowschodnich hubów lotniczych. Cała podróż zajmuje około 12-14 godzin, ale komfortowe połączenia sprawiają, że jest ona mniej męcząca. Po przylocie do Singapuru czeka na nas doskonale rozwinięta infrastruktura transportowa, która pozwala na łatwe poruszanie się po mieście od pierwszych chwil."
+  ],
+  "highlights": [
+    "Futurystyczne Gardens by the Bay",
+    "Basen infinity na dachu Marina Bay Sands",
+    "Park rozrywki Universal Studios Singapore",
+    "Uliczne jedzenie w Hawker Centres",
+    "Zoo Singapurskie i nocne safari",
+    "Spektakularny wodospad w Jewel Changi Airport"
+  ],
+  "popularity": 40,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "marina-bay",
+      "name": "Marina Bay",
+      "loc": "w Marina Bay",
+      "intro": [
+        "Marina Bay to serce współczesnego Singapuru, symbol jego dynamicznego rozwoju. To tutaj znajdują się najbardziej rozpoznawalne budowle, takie jak hotel Marina Bay Sands z basenem infinity na dachu, oraz futurystyczne ogrody Gardens by the Bay. Spacerując po promenadzie, można podziwiać imponujące drapacze chmur i spektakularne pokazy światła i wody.",
+        "Dzielnica oferuje liczne atrakcje, od muzeów, przez centra handlowe, po eleganckie restauracje. Jest to idealne miejsce na wieczorne spacery i podziwianie panoramy miasta, która po zmroku rozświetla się tysiącami świateł. Marina Bay to kwintesencja luksusu i nowoczesności, która zachwyca każdego odwiedzającego."
+      ],
+      "airport": "Changi (SIN)",
+      "forWhom": "Dla miłośników nowoczesnej architektury i luksusu.",
+      "gygQuery": "Marina Bay Singapore",
+      "highlights": [
+        "Hotel Marina Bay Sands",
+        "Gardens by the Bay",
+        "ArtScience Museum",
+        "Pokazy światła i wody"
+      ],
+      "type": "dzielnica"
+    },
+    {
+      "slug": "wyspa-sentosa",
+      "name": "Wyspa Sentosa",
+      "loc": "na Wyspie Sentosa",
+      "intro": [
+        "Sentosa to wyspa rozrywki, która oferuje mnóstwo atrakcji dla każdego, niezależnie od wieku. Znajdują się tu parki tematyczne, takie jak Universal Studios Singapore, a także plaże, pola golfowe i luksusowe kurorty. Można tu spędzić cały dzień, a nawet kilka, nie nudząc się ani przez chwilę.",
+        "Wyspa jest łatwo dostępna z centrum Singapuru kolejką linową, monorail lub pieszo. Oprócz adrenaliny i zabawy, Sentosa oferuje również spokojniejsze miejsca, takie jak rezerwaty przyrody i piękne punkty widokowe, gdzie można podziwiać panoramę morza i miasta."
+      ],
+      "airport": "Changi (SIN)",
+      "forWhom": "Idealna dla rodzin z dziećmi i szukających rozrywki.",
+      "gygQuery": "Sentosa Island",
+      "highlights": [
+        "Universal Studios Singapore",
+        "S.E.A. Aquarium",
+        "Plaże i beach bary",
+        "Kolejka linowa Sentosa"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "dzielnice-etniczne",
+      "name": "Dzielnice Etniczne",
+      "loc": "w Dzielnicach Etnicznych Singapuru",
+      "intro": [
+        "Singapur to tygiel kultur, co najlepiej widać w jego dzielnicach etnicznych. Chinatown tętni życiem, oferując tradycyjne świątynie, targi z pamiątkami i uliczne jedzenie. Little India to eksplozja kolorów, zapachów przypraw i dźwięków bollywoodzkiej muzyki, z licznymi sklepami z biżuterią i sari.",
+        "Kampong Glam, dawna dzielnica malajska, zachwyca majestatycznym Meczetem Sułtana i butikami z modą. Każda z tych dzielnic oferuje unikalne doświadczenia kulinarne i kulturowe, pozwalając zanurzyć się w bogatej historii i różnorodności Singapuru. To idealne miejsca na spacer i odkrywanie mniej futurystycznej strony miasta."
+      ],
+      "airport": "Changi (SIN)",
+      "forWhom": "Dla poszukiwaczy autentycznych smaków i kultury.",
+      "gygQuery": "Singapore Chinatown Little India Kampong Glam",
+      "highlights": [
+        "Chinatown Street Market",
+        "Meczet Sułtana",
+        "Little India Arcade",
+        "Świątynie hinduskie"
+      ],
+      "type": "dzielnica"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Gardens by the Bay",
+      "text": "Futurystyczny park z gigantycznymi Supertrees, dwiema szklarniami - Cloud Forest i Flower Dome, oraz spektakularnymi pokazami światła i dźwięku.",
+      "gygQuery": "Gardens by the Bay"
+    },
+    {
+      "name": "Marina Bay Sands Skypark",
+      "text": "Platforma widokowa na dachu słynnego hotelu, oferująca panoramiczne widoki na miasto i dostęp do ikonicznego basenu infinity (dla gości hotelowych).",
+      "gygQuery": "Marina Bay Sands Skypark"
+    },
+    {
+      "name": "Universal Studios Singapore",
+      "text": "Park rozrywki na wyspie Sentosa, oferujący liczne atrakcje, rollercoastery i pokazy inspirowane popularnymi filmami i serialami.",
+      "gygQuery": "Universal Studios Singapore"
+    },
+    {
+      "name": "Singapore Zoo",
+      "text": "Jedno z najlepszych ogrodów zoologicznych na świecie, znane z otwartych wybiegów i Nocnego Safari, pozwalającego obserwować zwierzęta po zmroku.",
+      "gygQuery": "Singapore Zoo"
+    },
+    {
+      "name": "Hawker Centres",
+      "text": "Otwarte hale z dziesiątkami stoisk serwujących autentyczne i tanie dania kuchni singapurskiej, chińskiej, malajskiej i indyjskiej.",
+      "gygQuery": "Singapore Hawker Centre Food Tour"
+    },
+    {
+      "name": "Jewel Changi Airport",
+      "text": "Imponujący kompleks handlowo-rozrywkowy na lotnisku Changi, z największym na świecie krytym wodospadem (Rain Vortex) i tropikalnym lasem.",
+      "gygQuery": "Jewel Changi Airport"
+    },
+    {
+      "name": "ArtScience Museum",
+      "text": "Muzeum w kształcie kwiatu lotosu, łączące sztukę, naukę i technologię, z interaktywnymi wystawami, takimi jak Future World.",
+      "gygQuery": "ArtScience Museum Singapore"
+    },
+    {
+      "name": "Cloud Forest i Flower Dome",
+      "text": "Dwie gigantyczne szklarnie w Gardens by the Bay, prezentujące egzotyczne rośliny z różnych stref klimatycznych i imponujący kryty wodospad.",
+      "gygQuery": "Cloud Forest Flower Dome"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Singapur jest drogim miastem?",
+      "a": "Singapur uchodzi za jedno z najdroższych miast na świecie, szczególnie jeśli chodzi o zakwaterowanie i alkohol. Jedzenie w hawker centres jest jednak bardzo przystępne cenowo, a transport publiczny efektywny i niedrogi."
+    },
+    {
+      "q": "Jakie są nietypowe zasady i prawa w Singapurze?",
+      "a": "Singapur słynie z surowych przepisów. Surowo karane jest zaśmiecanie, plucie, żucie gumy (sprzedaż i import są zakazane), a także palenie w miejscach publicznych. Obowiązuje zakaz spożywania alkoholu w miejscach publicznych po godzinie 22:30."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Singapurze?",
+      "a": "Singapur ma doskonały system transportu publicznego. Metro (MRT) jest szybkie, czyste i dociera do większości atrakcji. Autobusy uzupełniają sieć połączeń. Można też korzystać z taksówek lub aplikacji typu Grab."
+    },
+    {
+      "q": "Czy w Singapurze można pić wodę z kranu?",
+      "a": "Tak, woda z kranu w Singapurze jest bezpieczna do picia. Jest to woda pitna wysokiej jakości, poddawana rygorystycznym kontrolom."
+    },
+    {
+      "q": "Co warto kupić jako pamiątkę z Singapuru?",
+      "a": "Z Singapuru warto przywieźć orchidee (świeże lub w biżuterii), lokalne przyprawy i herbaty, wyroby z jedwabiu, a także gadżety związane z Merlionem - symbolem miasta. Popularne są też lokalne słodycze i przekąski."
+    }
+  ],
+  "bestTime": {
+    "text": "Singapur leży w strefie klimatu równikowego, co oznacza, że przez cały rok panują tu wysokie temperatury i duża wilgotność powietrza. Opady deszczu są częste, ale zazwyczaj krótkie i intensywne, po których szybko wychodzi słońce. Nie ma tu wyraźnej pory suchej, jednak miesiące od lutego do kwietnia uchodzą za nieco mniej deszczowe i bardziej słoneczne, co sprzyja zwiedzaniu.",
+    "best": [
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "capital": "Singapur",
+  "climate": {
+    "air": [
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      30
+    ],
+    "note": "dla Singapuru",
+    "sea": [
+      28,
+      29,
+      29,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      29,
+      29,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia singapurska to prawdziwa mozaika smaków, odzwierciedlająca wielokulturowość kraju. Znajdziemy tu wpływy kuchni chińskiej, malajskiej, indyjskiej i zachodniej, które łączą się w unikalne dania. Koniecznie trzeba spróbować słynnego chili crab, aromatycznej laksa, Hainanese chicken rice czy satay z orzechowym sosem. Najlepszym miejscem do odkrywania lokalnych smaków są hawker centres - otwarte hale z dziesiątkami stoisk oferujących świeże i tanie jedzenie. To prawdziwa uczta dla podniebienia i doświadczenie kulturowe."
+  ],
+  "gygQuery": "Singapore",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy. Wiza nie jest wymagana dla obywateli Polski na pobyty do 90 dni. Zawsze warto sprawdzić aktualne wymogi na stronie MSZ przed wyjazdem.",
+    "flight": "około 12-14 h z przesiadką",
+    "language": "Angielski, malajski, mandaryński, tamilski. Angielski jest językiem urzędowym i powszechnie używanym.",
+    "money": "Walutą jest dolar singapurski (SGD). Płatności kartą są powszechne, gotówka przydaje się na targach i w małych sklepach. Bankomaty dostępne wszędzie.",
+    "plugs": "Typ G (brytyjski standard), konieczny adapter.",
+    "safety": "Singapur jest jednym z najbezpieczniejszych krajów na świecie, z niską przestępczością. Obowiązują surowe kary za wykroczenia, np. zaśmiecanie. Wysoki poziom higieny. Opieka medyczna na wysokim poziomie, ale droga. Zalecane ubezpieczenie podróżne.",
+    "timeDiff": "UTC+8, czyli +7 godzin w stosunku do czasu polskiego zimą, +6 godzin latem."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

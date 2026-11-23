@@ -1,0 +1,217 @@
+{
+  "slug": "senegal",
+  "loc": "w Senegalu",
+  "to": "do Senegalu",
+  "teaser": "Senegal to brama do Afryki Zachodniej, oferująca bogatą kulturę, piękne plaże i dziką przyrodę, idealna dla poszukiwaczy autentycznych wrażeń.",
+  "intro": [
+    "Senegal, położony na zachodnim wybrzeżu Afryki, jest krajem o niezwykłej gościnności, znanej jako Teranga, która jest głęboko zakorzeniona w kulturze. To miejsce, gdzie tętniące życiem miasta, takie jak Dakar, spotykają się z malowniczymi wioskami rybackimi i rozległymi obszarami dzikiej przyrody. Kraj ten oferuje różnorodne krajobrazy, od złotych plaż Atlantyku, przez labirynty namorzynowych delt, po sawanny pełne dzikich zwierząt. Jest to idealna destynacja dla tych, którzy pragną poznać prawdziwą Afrykę, jej historię, muzykę i codzienne życie.",
+    "Podróż do Senegalu to propozycja dla osób otwartych na nowe doświadczenia, ceniących autentyczność i chcących zanurzyć się w bogatej kulturze. To nie jest typowy kierunek dla masowej turystyki all-inclusive, choć znajdziemy tu komfortowe kurorty. Senegal przyciąga miłośników historii, zwłaszcza tej związanej z handlem niewolnikami, entuzjastów przyrody, którzy chcą obserwować ptaki i dzikie zwierzęta, a także tych, którzy pragną poczuć rytm afrykańskiej muzyki i tańca.",
+    "Z Polski do Senegalu nie ma bezpośrednich lotów, co oznacza, że podróż wymaga przesiadek, najczęściej w dużych europejskich hubach, takich jak Paryż, Lizbona czy Bruksela. Całkowity czas podróży, wliczając przesiadki, wynosi zazwyczaj od 8 do 12 godzin. Mimo to, wysiłek włożony w dotarcie do tego fascynującego kraju jest sowicie wynagradzany przez jego unikalny urok i niezapomniane wrażenia, jakie oferuje każdemu podróżnikowi."
+  ],
+  "highlights": [
+    "Odkryj tętniący życiem Dakar i jego kolorowe targi.",
+    "Odwiedź wyspę Gorée, świadectwo historii handlu niewolnikami.",
+    "Zrelaksuj się na złotych plażach Petite Côte.",
+    "Podziwiaj unikalny różowy kolor Jeziora Retba (Lac Rose).",
+    "Obserwuj dzikie zwierzęta w Rezerwacie Bandia.",
+    "Poznaj bogatą kulturę Wolof i senegalską Terangę."
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "dakar",
+      "name": "Dakar",
+      "loc": "w Dakarze",
+      "intro": [
+        "Stolica Senegalu to tętniące życiem, kosmopolityczne miasto, które stanowi serce kraju. Oferuje mieszankę nowoczesności i tradycji, z drapaczami chmur obok kolorowych targów i zabytkowych dzielnic. Jest to idealne miejsce do rozpoczęcia przygody z Senegalem, pozwalające na szybkie zanurzenie się w lokalnej kulturze i codziennym życiu.",
+        "Dakar słynie z dynamicznej sceny artystycznej i muzycznej, a także z licznych galerii, muzeów i restauracji. To tutaj można poczuć prawdziwy puls Afryki Zachodniej, obserwując ulicznych sprzedawców, słuchając tradycyjnej muzyki i próbując lokalnych przysmaków. Miasto jest również bazą wypadową do wielu pobliskich atrakcji."
+      ],
+      "airport": "DSS",
+      "forWhom": "Dla miłośników miejskiego zgiełku, kultury i historii, poszukujących autentycznych afrykańskich doświadczeń.",
+      "gygQuery": "Dakar",
+      "highlights": [
+        "Wyspa Gorée i Dom Niewolników",
+        "Pomnik Odrodzenia Afrykańskiego",
+        "Targ Kermel i Tilène",
+        "Wielki Meczet w Dakarze"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "petite-cote",
+      "name": "Petite Côte",
+      "loc": "na Petite Côte",
+      "intro": [
+        "Petite Côte, czyli Małe Wybrzeże, to popularny region turystyczny na południe od Dakaru, znany z długich, piaszczystych plaż i kurortów, takich jak Saly Portudal. To tutaj znajdziesz hotele i infrastrukturę turystyczną, która pozwala na komfortowy wypoczynek. Region ten oferuje równowagę między relaksem a możliwością poznawania senegalskiej rzeczywistości.",
+        "Oprócz plaż, Petite Côte to także wioski rybackie, gdzie można obserwować codzienne życie mieszkańców i spróbować świeżych owoców morza. Region jest również dogodną bazą wypadową do zwiedzania pobliskich atrakcji, takich jak Jezioro Retba czy Rezerwat Bandia."
+      ],
+      "airport": "DSS",
+      "forWhom": "Idealne dla tych, którzy szukają relaksu na plaży, ale też chcą mieć dostęp do lokalnej kultury i wycieczek.",
+      "gygQuery": "Petite Cote Senegal",
+      "highlights": [
+        "Plaże Saly Portudal",
+        "Wioski rybackie M'Bour",
+        "Rezerwat Przyrody Bandia",
+        "Jezioro Retba (Lac Rose)"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "delta-saloum",
+      "name": "Delta Saloum",
+      "loc": "w Delcie Saloum",
+      "intro": [
+        "Park Narodowy Delta Saloum to wpisany na listę UNESCO obszar chroniony, charakteryzujący się labiryntem namorzynowych lasów, wysp i kanałów. Jest to raj dla ptaków, miejsce lęgowe wielu gatunków, a także dom dla ryb i innych zwierząt morskich. Podróżowanie po delcie odbywa się głównie łodziami, co pozwala na bliski kontakt z naturą.",
+        "Region ten oferuje niezapomniane wrażenia z rejsów po rzekach i kanałach, obserwacji ptaków oraz poznawania tradycyjnego życia mieszkańców wysp. Jest to idealne miejsce na ucieczkę od zgiełku i zanurzenie się w spokojnym, naturalnym środowisku, gdzie czas płynie wolniej."
+      ],
+      "airport": "DSS",
+      "forWhom": "Dla miłośników przyrody, ornitologów i poszukiwaczy spokoju, pragnących odkrywać unikalne ekosystemy.",
+      "gygQuery": "Saloum Delta National Park",
+      "highlights": [
+        "Rejsy po namorzynowych lasach",
+        "Obserwacja rzadkich gatunków ptaków",
+        "Wioski rybackie na wyspach",
+        "Spokój i dzika przyroda"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "saint-louis",
+      "name": "Saint-Louis",
+      "loc": "w Saint-Louis",
+      "intro": [
+        "Saint-Louis, dawna stolica Senegalu i Francuskiej Afryki Zachodniej, to miasto wpisane na listę światowego dziedzictwa UNESCO. Położone na wyspie u ujścia rzeki Senegal, zachwyca kolonialną architekturą, wąskimi uliczkami i mostem Faidherbe, zaprojektowanym przez Gustave'a Eiffela. Panuje tu wyjątkowa atmosfera, która przenosi w czasie.",
+        "Miasto jest znane z festiwali muzycznych, zwłaszcza jazzowych, oraz z bogatej historii. Spacerując po Saint-Louis, można podziwiać piękne, choć często podupadłe, budynki kolonialne, odwiedzić targi i poczuć artystycznego ducha tego miejsca. To także dobra baza do zwiedzania pobliskich parków narodowych."
+      ],
+      "airport": "DSS",
+      "forWhom": "Dla entuzjastów historii i architektury kolonialnej, szukających miasta z duszą i unikalnym klimatem.",
+      "gygQuery": "Saint-Louis Senegal",
+      "highlights": [
+        "Most Faidherbe",
+        "Kolonialna architektura UNESCO",
+        "Festiwale jazzowe",
+        "Park Narodowy Langue de Barbarie"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wyspa Gorée",
+      "text": "Niewielka wyspa wpisana na listę UNESCO, symbol handlu niewolnikami i miejsce pamięci o milionach Afrykanów wywiezionych do Ameryk. Dom Niewolników to wzruszające świadectwo historii.",
+      "gygQuery": "Goree Island"
+    },
+    {
+      "name": "Jezioro Retba (Lac Rose)",
+      "text": "Słynne różowe jezioro, którego unikalny kolor pochodzi od alg Dunaliella salina. To także miejsce intensywnego wydobycia soli, gdzie można obserwować tradycyjną pracę zbieraczy.",
+      "gygQuery": "Lac Rose"
+    },
+    {
+      "name": "Rezerwat Przyrody Bandia",
+      "text": "Prywatny rezerwat oferujący safari, gdzie można zobaczyć żyrafy, nosorożce, bawoły, zebry i wiele gatunków antylop w ich naturalnym środowisku. To świetna alternatywa dla dalszych parków narodowych.",
+      "gygQuery": "Bandia Reserve"
+    },
+    {
+      "name": "Pomnik Odrodzenia Afrykańskiego",
+      "text": "Monumentalny pomnik w Dakarze symbolizujący odrodzenie Afryki. Oferuje panoramiczne widoki na miasto i ocean, a w środku mieści się muzeum.",
+      "gygQuery": "African Renaissance Monument"
+    },
+    {
+      "name": "Park Narodowy Delta Saloum",
+      "text": "Wpisany na listę UNESCO obszar chroniony, labirynt namorzynowych lasów, wysp i kanałów, raj dla ptaków i idealne miejsce na rejsy łodzią.",
+      "gygQuery": "Saloum Delta National Park"
+    },
+    {
+      "name": "Saint-Louis (Stare Miasto)",
+      "text": "Dawna kolonialna stolica, wpisana na listę UNESCO, z piękną architekturą, słynnym mostem Faidherbe i unikalną atmosferą. Idealne do spacerów i chłonięcia historii.",
+      "gygQuery": "Saint-Louis Old Town"
+    },
+    {
+      "name": "Targ Kermel w Dakarze",
+      "text": "Historyczny, okrągły budynek w stylu mauretańskim, w którym mieści się jeden z najbardziej znanych targów w Dakarze. Można tu kupić lokalne produkty, rękodzieło i pamiątki.",
+      "gygQuery": "Kermel Market Dakar"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Senegal jest bezpieczny dla turystów?",
+      "a": "Senegal jest generalnie bezpiecznym krajem, ale jak wszędzie, należy zachować podstawowe środki ostrożności. Unikaj samotnych spacerów po zmroku, zwłaszcza w większych miastach, i uważaj na kradzieże kieszonkowe na zatłoczonych targach. Zawsze miej oko na swoje wartościowe przedmioty."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane do Senegalu?",
+      "a": "Przy wjeździe do Senegalu z krajów, gdzie występuje żółta febra, wymagane jest zaświadczenie o szczepieniu przeciwko tej chorobie. Zaleca się również szczepienia przeciwko tężcowi, błonicy, polio, durowi brzusznemu i WZW typu A i B. Występuje ryzyko malarii, dlatego zaleca się profilaktykę antymalaryczną i stosowanie repelentów. Zawsze skonsultuj się z lekarzem medycyny podróży przed wyjazdem."
+    },
+    {
+      "q": "Jaka jest najlepsza waluta do Senegalu?",
+      "a": "Oficjalną walutą jest frank CFA Afryki Zachodniej (XOF). Najlepiej zabrać ze sobą euro lub dolary amerykańskie i wymieniać je na miejscu w bankach lub kantorach. Pamiętaj, że poza Dakarem i większymi kurortami dominują płatności gotówkowe, więc warto mieć ze sobą wystarczającą ilość drobnych nominałów."
+    },
+    {
+      "q": "Czy w Senegalu można pić wodę z kranu?",
+      "a": "Nie zaleca się picia wody z kranu w Senegalu. Zawsze pij wodę butelkowaną lub przegotowaną. Unikaj również lodu w napojach, chyba że masz pewność, że został przygotowany z bezpiecznej wody. Ostrożność w kwestii higieny żywności jest kluczowa dla zdrowia."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Senegalu to pora sucha, trwająca od listopada do maja. W tym okresie panują przyjemne temperatury, niższa wilgotność i minimalne opady, co sprzyja zwiedzaniu i wypoczynkowi na plaży. Pora deszczowa, od czerwca do października, charakteryzuje się wysoką wilgotnością, upałami i intensywnymi, choć zazwyczaj krótkimi ulewami, które mogą utrudniać podróżowanie po niektórych regionach. Warto jednak pamiętać, że nawet w porze deszczowej słońce często się pojawia.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      10
+    ]
+  },
+  "capital": "Dakar",
+  "climate": {
+    "air": [
+      26,
+      26,
+      26,
+      27,
+      29,
+      30,
+      30,
+      30,
+      31,
+      31,
+      30,
+      28
+    ],
+    "note": "Dane dla Dakaru.",
+    "sea": [
+      22,
+      21,
+      21,
+      22,
+      24,
+      26,
+      27,
+      28,
+      28,
+      28,
+      27,
+      25
+    ]
+  },
+  "cuisine": [
+    "Kuchnia senegalska jest uznawana za jedną z najlepszych w Afryce Zachodniej, charakteryzującą się bogactwem smaków i aromatów. Podstawą są ryż, ryby, kurczak, wołowina oraz różnorodne warzywa i przyprawy. Narodowym daniem jest Thieboudienne, czyli ryż z rybą i warzywami w sosie pomidorowym, często z dodatkiem marchewki, dyni i bakłażana. Warto spróbować także Yassa - kurczaka lub ryby marynowanej w cytrynie i cebuli, podawanej z ryżem, oraz Mafe - mięsa w sosie orzechowym. Popularne są świeże soki z hibiskusa (bissap) czy imbiru, a także słodka herbata miętowa. Jedzenie jest często spożywane wspólnie z jednej misy, co jest częścią senegalskiej gościnności (Teranga)."
+  ],
+  "gygQuery": "Senegal",
+  "practical": {
+    "documents": "Obywatele Polski podróżujący do Senegalu w celach turystycznych na pobyt do 90 dni nie potrzebują wizy. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Senegalu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie Senegalu.",
+    "flight": "Około 8-10 godzin z przesiadką, zazwyczaj w Paryżu, Lizbonie lub Brukseli.",
+    "language": "Oficjalnym językiem jest francuski, ale najczęściej używanym językiem lokalnym jest wolof. Znajomość podstawowych zwrotów po francusku jest bardzo pomocna, choć w miejscach turystycznych można porozumieć się po angielsku.",
+    "money": "Walutą jest frank CFA Afryki Zachodniej (XOF). Wymiana walut jest możliwa w bankach i kantorach, ale często najlepszy kurs oferują lokalni sprzedawcy. Płatności kartą są akceptowane głównie w większych hotelach i supermarketach w Dakarze; poza stolicą dominują płatności gotówkowe. Warto mieć ze sobą drobne nominały.",
+    "plugs": "Gniazdka elektryczne są typu C, E i F, takie same jak w Polsce, więc adapter nie jest potrzebny.",
+    "safety": "Senegal jest stosunkowo bezpiecznym krajem, ale należy zachować ostrożność, zwłaszcza w większych miastach i na zatłoczonych targach, gdzie zdarzają się kradzieże kieszonkowe. Zaleca się unikanie samotnych spacerów po zmroku. Warto mieć aktualne szczepienia, w tym przeciwko żółtej febrze (wymagane przy wjeździe z niektórych krajów), tężcowi, błonicy i polio. Występuje ryzyko malarii, więc profilaktyka antymalaryczna jest zalecana. Pamiętaj o piciu wody butelkowanej.",
+    "timeDiff": "W Senegalu obowiązuje czas UTC+0. Oznacza to, że w stosunku do Polski (CET) jest -1 godzina różnicy, a w stosunku do czasu letniego (CEST) -2 godziny."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

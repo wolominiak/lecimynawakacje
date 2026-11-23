@@ -1,0 +1,220 @@
+{
+  "slug": "palau",
+  "loc": "na Palau",
+  "to": "na Palau",
+  "teaser": "Palau to mikronezyjski archipelag słynący z podwodnego świata. Idealne miejsce dla nurków i poszukiwaczy dziewiczej natury, z dala od masowej turystyki.",
+  "intro": [
+    "Palau przyciąga przede wszystkim niesamowitym podwodnym światem. To raj dla nurków i miłośników snorkelingu, z koralowymi ogrodami, wrakami statków z czasów II wojny światowej oraz unikalnym Jeziorem Meduz. Powierzchnia lądowa jest niewielka, ale oferuje bujną roślinność, wodospady i jaskinie. Archipelag składa się z ponad 300 wysp, z których wiele jest niezamieszkanych i zachwyca dziewiczym pięknem.",
+    "Kraj ten jest idealny dla doświadczonych podróżników, którzy cenią sobie spokój, kontakt z naturą i podwodnymi przygodami. Nie jest to cel dla osób szukających zorganizowanych wakacji all-inclusive czy intensywnego życia nocnego. Palau to destynacja dla tych, którzy chcą odkrywać, nurkować w światowej klasy miejscach i podziwiać unikalną bioróżnorodność. To także gratka dla pasjonatów historii, zwłaszcza II wojny światowej.",
+    "Podróż z Polski na Palau to długa i kosztowna wyprawa, wymagająca wielu przesiadek. Zazwyczaj obejmuje loty do Azji (np. Seul, Manila, Tajpej) lub Australii, a następnie dalsze połączenia regionalne. Nie ma bezpośrednich lotów, a cały proces może zająć ponad 30 godzin. Palau nie jest typowym kierunkiem wakacyjnym dla Polaków, co sprawia, że jest to miejsce dla prawdziwych odkrywców."
+  ],
+  "highlights": [
+    "Nurkowanie w światowej klasy rafach koralowych",
+    "Pływanie w Jeziorem Meduz bez żądlenia",
+    "Odkrywanie wraków z II wojny światowej",
+    "Relaks na dziewiczych plażach Rock Islands",
+    "Wędrówki po bujnej dżungli wyspy Babeldaob",
+    "Obserwacja unikalnej fauny i flory"
+  ],
+  "popularity": 7,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "koror",
+      "name": "Koror",
+      "loc": "w Kororze",
+      "intro": [
+        "Koror to największe miasto i dawna stolica Palau, będąca głównym ośrodkiem turystycznym i handlowym. Znajdziesz tu większość hoteli, restauracji, sklepów oraz centrów nurkowych. Mimo że jest to najbardziej rozwinięta część kraju, nadal zachowuje swój wyspiarski urok i spokój. To stąd organizowane są wycieczki na słynne Rock Islands i do podwodnych atrakcji.",
+        "W Kororze warto odwiedzić Muzeum Narodowe Palau, które przybliża historię i kulturę archipelagu, a także akwarium Etpison. Miasto oferuje również lokalne targi, gdzie można kupić świeże owoce morza i rękodzieło. Wieczorami można zrelaksować się w jednej z restauracji serwujących lokalne specjały."
+      ],
+      "airport": "ROR",
+      "forWhom": "To centrum życia Palau, idealne jako baza wypadowa do nurkowania i zwiedzania okolicznych wysp.",
+      "gygQuery": "Koror Palau",
+      "highlights": [
+        "Baza wypadowa do nurkowania",
+        "Muzeum Narodowe Palau",
+        "Lokalne restauracje i targi",
+        "Dostęp do usług turystycznych"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "rock-islands-southern-lagoon",
+      "name": "Rock Islands Southern Lagoon",
+      "loc": "w Rock Islands Southern Lagoon",
+      "intro": [
+        "Rock Islands Southern Lagoon to zapierający dech w piersiach archipelag wapiennych wysp, porośniętych bujną roślinnością, które wyrastają prosto z turkusowej wody. Ten obszar jest wpisany na Listę Światowego Dziedzictwa UNESCO ze względu na swoją unikalną bioróżnorodność i piękno krajobrazu. To tutaj znajduje się słynne Jezioro Meduz, gdzie można pływać wśród milionów nieparzących meduz.",
+        "Region oferuje niezliczone miejsca do nurkowania i snorkelingu, w tym słynne Blue Corner i German Channel, gdzie można podziwiać rekiny, manty i bogactwo życia koralowego. Wyspy kryją również ukryte jaskinie, laguny i białe plaże, idealne do relaksu i eksploracji kajakiem."
+      ],
+      "airport": "ROR",
+      "forWhom": "Obszar wpisany na listę UNESCO, obowiązkowy punkt dla miłośników natury, snorkelingu i nurkowania.",
+      "gygQuery": "Rock Islands Palau",
+      "highlights": [
+        "Jezioro Meduz (Jellyfish Lake)",
+        "Nurkowanie w Blue Corner",
+        "Wyspy UNESCO z wapienia",
+        "Snorkeling w German Channel"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "peleliu",
+      "name": "Peleliu",
+      "loc": "na Peleliu",
+      "intro": [
+        "Peleliu to niewielka wyspa, która odegrała kluczową rolę podczas II wojny światowej, będąc miejscem jednej z najbardziej krwawych bitew na Pacyfiku. Dziś jest to swoiste muzeum pod gołym niebem, gdzie można znaleźć pozostałości po japońskich bunkrach, amerykańskich czołgach i innych artefaktach wojennych. Wyspa jest dostępna promem z Kororu.",
+        "Oprócz historycznych miejsc, Peleliu oferuje również doskonałe warunki do nurkowania wokół wraków statków i samolotów, które spoczęły na dnie po bitwie. Podwodne krajobrazy są równie fascynujące, co te na lądzie, łącząc historię z naturalnym pięknem raf koralowych."
+      ],
+      "airport": "ROR",
+      "forWhom": "Wyspa z bogatą historią II wojny światowej, idealna dla pasjonatów militariów i wraków.",
+      "gygQuery": "Peleliu Island",
+      "highlights": [
+        "Pola bitewne z II wojny światowej",
+        "Opuszczone czołgi i bunkry",
+        "Nurkowanie przy wrakach",
+        "Spokojna atmosfera wyspy"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "babeldaob",
+      "name": "Babeldaob",
+      "loc": "na Babeldaob",
+      "intro": [
+        "Babeldaob to największa wyspa Palau, na której znajduje się obecna stolica kraju, Ngerulmud, choć Koror pozostaje centrum gospodarczym. Wyspa jest znacznie mniej rozwinięta turystycznie niż Koror, oferując rozległe obszary dziewiczej dżungli, wodospady i malownicze wybrzeża. To idealne miejsce na piesze wycieczki i odkrywanie prawdziwej, nieskażonej natury.",
+        "Wśród atrakcji Babeldaob wyróżnia się wodospad Ngardmau, do którego prowadzi szlak przez las deszczowy, oraz tajemnicze monolity Badrulchau, świadczące o prehistorycznej kulturze wyspy. Można tu również podziwiać tradycyjne wioski i zanurzyć się w lokalnym życiu z dala od turystycznego zgiełku."
+      ],
+      "airport": "ROR",
+      "forWhom": "Największa wyspa Palau, oferująca dżunglę, wodospady i prehistoryczne monolity dla poszukiwaczy przygód.",
+      "gygQuery": "Babeldaob Island",
+      "highlights": [
+        "Wodospad Ngardmau",
+        "Prehistoryczne monolity Badrulchau",
+        "Dziewicza dżungla i szlaki",
+        "Obecna stolica Ngerulmud"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Jezioro Meduz (Jellyfish Lake)",
+      "text": "Unikalne słonowodne jezioro, gdzie można pływać wśród milionów nieparzących meduz złotych i księżycowych, które wyewoluowały bez zdolności do żądlenia.",
+      "gygQuery": "Jellyfish Lake Palau"
+    },
+    {
+      "name": "Kanał Niemiecki (German Channel)",
+      "text": "Sztucznie pogłębiony kanał, który jest bramą do otwartego oceanu i słynie z obfitości życia morskiego, w tym mant, rekinów i ławic ryb, idealny do nurkowania.",
+      "gygQuery": "German Channel Palau"
+    },
+    {
+      "name": "Blue Corner",
+      "text": "Jedno z najbardziej znanych miejsc nurkowych na świecie, gdzie silne prądy przyciągają rekiny rafowe, barakudy i tuńczyki, oferując niezapomniane wrażenia pod wodą.",
+      "gygQuery": "Blue Corner Palau"
+    },
+    {
+      "name": "Wodospad Ngardmau",
+      "text": "Największy wodospad na Palau, położony w sercu dżungli na wyspie Babeldaob. Dojście do niego wymaga krótkiego trekkingu, ale widoki i możliwość kąpieli w naturalnym basenie rekompensują wysiłek.",
+      "gygQuery": "Ngardmau Falls Palau"
+    },
+    {
+      "name": "Pola Bitewne Peleliu",
+      "text": "Pozostałości po krwawej bitwie z 1944 roku, w tym japońskie bunkry, opuszczone czołgi i samoloty, które stanowią poruszające świadectwo historii II wojny światowej.",
+      "gygQuery": "Peleliu WWII"
+    },
+    {
+      "name": "Jaskinia Chandelier",
+      "text": "Podwodna jaskinia z kilkoma komorami, do której wchodzi się nurkując, a w środku można wynurzyć się i podziwiać stalaktyty przypominające żyrandole.",
+      "gygQuery": "Chandelier Cave Palau"
+    },
+    {
+      "name": "Atol Kayangel",
+      "text": "Najbardziej wysunięty na północ atol Palau, znany z dziewiczych plaż, krystalicznie czystej wody i doskonałych warunków do snorkelingu i nurkowania w nienaruszonych rafach.",
+      "gygQuery": "Kayangel Atoll"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Palau jest bezpieczne dla turystów?",
+      "a": "Palau jest uważane za bardzo bezpieczny kraj z niskim wskaźnikiem przestępczości. Należy jednak zachować podstawowe środki ostrożności, a także uważać na warunki pogodowe, zwłaszcza w porze deszczowej, kiedy mogą wystąpić tajfuny."
+    },
+    {
+      "q": "Jak dostać się na Palau z Polski?",
+      "a": "Podróż z Polski na Palau wymaga wielu przesiadek, zazwyczaj przez duże huby azjatyckie (np. Seul, Manila, Tajpej) lub australijskie. Cała podróż może zająć od 25 do 35 godzin, w zależności od połączeń."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Palau i czy można płacić kartą?",
+      "a": "Oficjalną walutą Palau jest dolar amerykański (USD). Płatności kartą są akceptowane w większych hotelach i sklepach w Kororze, ale poza nim gotówka jest preferowana. Warto mieć ze sobą dolary w gotówce."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Palau?",
+      "a": "Najlepszy czas na wizytę na Palau to pora sucha, trwająca od listopada do kwietnia. W tym okresie jest mniej opadów i spokojniejsze morze, co sprzyja nurkowaniu i innym aktywnościom wodnym."
+    }
+  ],
+  "bestTime": {
+    "text": "Palau leży w strefie klimatu równikowego, co oznacza wysokie temperatury i wilgotność przez cały rok. Pora sucha trwa od listopada do kwietnia i jest uważana za najlepszy czas na wizytę, oferując więcej słońca i spokojniejsze morze, idealne do nurkowania. Pora deszczowa (maj-październik) przynosi intensywne, ale zazwyczaj krótkotrwałe opady, a także większe ryzyko tajfunów, choć temperatury pozostają wysokie.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "capital": "Ngerulmud",
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      31,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "note": "dla Kororu",
+    "sea": [
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Palau opiera się głównie na świeżych owocach morza, takich jak ryby, kraby i homary, uzupełnianych lokalnymi produktami rolnymi, jak taro, bataty, maniok i owoce tropikalne. Wpływy kuchni japońskiej, filipińskiej i amerykańskiej są widoczne w wielu potrawach. Popularne dania to zupy rybne, grillowane owoce morza oraz potrawy z kokosa. Warto spróbować lokalnych specjałów, takich jak zupa z owoców morza czy dania z owoców chlebowca."
+  ],
+  "gygQuery": "Palau",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać na Palau bez wizy na pobyt do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu oraz bilet powrotny. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie lub konsulacie.",
+    "flight": "około 25-35 h z 2-3 przesiadkami",
+    "language": "Oficjalnymi językami są angielski i palau. W turystycznych rejonach bez problemu porozumiesz się po angielsku.",
+    "money": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są akceptowane w większych hotelach i sklepach w Kororze, ale na mniejszych wyspach i w lokalnych punktach usługowych preferowana jest gotówka. Bankomaty są dostępne głównie w Kororze.",
+    "plugs": "Gniazdka elektryczne są typu A i B, takie same jak w USA (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Napięcie wynosi 120 V, a częstotliwość 60 Hz. Konieczny jest adapter oraz ewentualnie konwerter napięcia.",
+    "safety": "Palau jest krajem generalnie bezpiecznym dla turystów, wskaźniki przestępczości są niskie. Należy zachować podstawowe środki ostrożności, zwłaszcza w nocy. Ryzyko naturalne to tajfuny, szczególnie w porze deszczowej. Zaleca się wykupienie ubezpieczenia podróżnego obejmującego nurkowanie i aktywności wodne. Opieka medyczna jest ograniczona, w poważniejszych przypadkach konieczna jest ewakuacja.",
+    "timeDiff": "czas na Palau jest o 8 godzin późniejszy niż w Polsce (w czasie zimowym) lub o 7 godzin (w czasie letnim)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

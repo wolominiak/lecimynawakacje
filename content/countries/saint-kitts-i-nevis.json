@@ -1,0 +1,176 @@
+{
+  "slug": "saint-kitts-i-nevis",
+  "loc": "na Saint Kitts i Nevis",
+  "to": "na Saint Kitts i Nevis",
+  "teaser": "Odkryj karaibskie wyspy wulkaniczne, gdzie historia łączy się z bujną naturą i spokojnymi plażami, z dala od masowej turystyki.",
+  "intro": [
+    "Saint Kitts i Nevis to dwa wulkaniczne klejnoty Małych Antyli, oferujące autentyczne karaibskie doświadczenie. Charakteryzują się zielonymi, górzystymi krajobrazami, pozostałościami po plantacjach cukru i urokliwymi, często pustymi plażami. To idealne miejsce dla tych, którzy szukają spokoju, bliskości z naturą i możliwości poznania lokalnej kultury, bez zgiełku popularnych kurortów. Wyspy są stosunkowo niewielkie, co pozwala na łatwe przemieszczanie się i odkrywanie ich uroków.",
+    "Kraj ten przyciąga podróżników ceniących sobie aktywny wypoczynek, takich jak trekking po deszczowych lasach, nurkowanie czy żeglarstwo, a także miłośników historii, którzy mogą zwiedzać stare forty i plantacje. To także doskonała opcja dla par szukających romantycznego azylu lub rodzin pragnących spokojnych wakacji. Brak dużych, all-inclusive kompleksów sprzyja integracji z lokalną społecznością i poznawaniu prawdziwego życia na Karaibach.",
+    "Podróż z Polski na Saint Kitts i Nevis wymaga zazwyczaj co najmniej dwóch przesiadek, najczęściej w Europie (np. Londyn, Amsterdam) i w Stanach Zjednoczonych lub na innej karaibskiej wyspie. Cała podróż, wliczając oczekiwanie na przesiadki, może zająć kilkanaście godzin. Ze względu na odległość i konieczność przesiadek, nie jest to kierunek masowej turystyki z Polski, a polskie biura podróży nie oferują zorganizowanych wczasów samolotem. Wymaga to samodzielnego planowania, co jednak daje większą swobodę w odkrywaniu wysp."
+  ],
+  "highlights": [
+    "Wulkaniczne krajobrazy i bujne lasy deszczowe",
+    "Historyczny fort Brimstone Hill",
+    "Spokojne, piaszczyste plaże",
+    "Malownicza kolejka cukrowa Scenic Railway",
+    "Wspinaczka na Nevis Peak",
+    "Relaks z dala od tłumów"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "saint-kitts",
+      "name": "Saint Kitts",
+      "loc": "na Saint Kitts",
+      "intro": [
+        "Saint Kitts to większa z dwóch wysp, charakteryzująca się dramatycznym wulkanicznym krajobrazem, z dominującym szczytem Mount Liamuiga. To tutaj znajduje się stolica kraju, Basseterre, z kolonialną architekturą i tętniącym życiem portem. Wyspa oferuje różnorodne atrakcje, od historycznych miejsc po dziewicze lasy deszczowe, idealne do pieszych wędrówek. Półwysep południowy słynie z pięknych plaż i luksusowych kurortów.",
+        "Na Saint Kitts można podziwiać imponujący fort Brimstone Hill, wpisany na listę UNESCO, który świadczy o burzliwej historii regionu. Wyspa jest również domem dla unikalnej kolejki Scenic Railway, która prowadzi wzdłuż dawnych plantacji cukru, oferując panoramiczne widoki. Saint Kitts jest bardziej rozwinięta turystycznie niż Nevis, ale nadal zachowuje swój autentyczny karaibski urok."
+      ],
+      "airport": "Robert L. Bradshaw International Airport (SKB)",
+      "forWhom": "Dla miłośników historii, aktywnego wypoczynku i tych, którzy szukają różnorodnych atrakcji.",
+      "gygQuery": "Saint Kitts",
+      "highlights": [
+        "Forteca Brimstone Hill",
+        "Kolejka Scenic Railway",
+        "Stolica Basseterre",
+        "Plaże Cockleshell Bay"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "nevis",
+      "name": "Nevis",
+      "loc": "na Nevis",
+      "intro": [
+        "Nevis to mniejsza i spokojniejsza wyspa, często nazywana \"królową Karaibów\". Dominującym elementem krajobrazu jest wulkan Nevis Peak, który wznosi się majestatycznie nad wyspą, często otulony chmurami. Nevis słynie z bujnej roślinności, urokliwych plantacji cukru przekształconych w luksusowe hotele butikowe oraz relaksującej atmosfery. To idealne miejsce dla osób szukających ucieczki od zgiełku i pragnących prawdziwego odpoczynku.",
+        "Główne miasteczko, Charlestown, zachowało swój kolonialny charakter z wąskimi uliczkami i zabytkowymi budynkami. Na Nevis można znaleźć piękne, często puste plaże, takie jak słynna Pinney's Beach. Wyspa jest również popularna wśród miłośników golfa i oferuje doskonałe warunki do nurkowania i snorkelingu. Nevis to kwintesencja karaibskiego luksusu połączonego z naturalnym pięknem i spokojem."
+      ],
+      "airport": "Vance W. Amory International Airport (NEV)",
+      "forWhom": "Dla tych, którzy cenią sobie spokój, luksus i bliskość z naturą w ekskluzywnym otoczeniu.",
+      "gygQuery": "Nevis",
+      "highlights": [
+        "Wulkan Nevis Peak",
+        "Plaża Pinney's Beach",
+        "Urokliwe Charlestown",
+        "Historyczne plantacje"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Brimstone Hill Fortress National Park",
+      "text": "Imponująca forteca wpisana na listę UNESCO, zbudowana przez Brytyjczyków, oferująca spektakularne widoki na morze i sąsiednie wyspy.",
+      "gygQuery": "Brimstone Hill Fortress"
+    },
+    {
+      "name": "Saint Kitts Scenic Railway",
+      "text": "Malownicza przejażdżka starą kolejką cukrową, która okrąża wyspę, prezentując historyczne plantacje i wspaniałe krajobrazy.",
+      "gygQuery": "Saint Kitts Scenic Railway"
+    },
+    {
+      "name": "Nevis Peak",
+      "text": "Wulkaniczny szczyt na Nevis, oferujący wymagające szlaki trekkingowe przez las deszczowy i nagradzający panoramicznymi widokami.",
+      "gygQuery": "Nevis Peak hike"
+    },
+    {
+      "name": "Pinney's Beach",
+      "text": "Jedna z najpiękniejszych plaż na Nevis, z białym piaskiem i palmami, idealna do pływania i relaksu, z kilkoma barami plażowymi.",
+      "gygQuery": "Pinney's Beach Nevis"
+    },
+    {
+      "name": "Cockleshell Bay",
+      "text": "Popularna plaża na południowym półwyspie Saint Kitts, znana z turkusowej wody, białego piasku i widoków na Nevis.",
+      "gygQuery": "Cockleshell Bay Saint Kitts"
+    },
+    {
+      "name": "Charlestown",
+      "text": "Urokliwa stolica Nevis, z dobrze zachowaną architekturą kolonialną, lokalnymi sklepami i spokojną atmosferą.",
+      "gygQuery": "Charlestown Nevis"
+    },
+    {
+      "name": "Romney Manor i Caribelle Batik",
+      "text": "Historyczna posiadłość na Saint Kitts, gdzie można podziwiać piękne ogrody i zobaczyć proces tworzenia batiku.",
+      "gygQuery": "Romney Manor Caribelle Batik"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Saint Kitts i Nevis?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą na stronie Ministerstwa Spraw Zagranicznych."
+    },
+    {
+      "q": "Jaka jest waluta na Saint Kitts i Nevis?",
+      "a": "Oficjalną walutą jest dolar wschodniokaraibski (XCD). Powszechnie akceptowane są również dolary amerykańskie (USD). Karty kredytowe są akceptowane w większości hoteli i większych restauracji, ale warto mieć przy sobie gotówkę na mniejsze zakupy."
+    },
+    {
+      "q": "Jak dostać się na Saint Kitts i Nevis z Polski?",
+      "a": "Bezpośrednie loty z Polski nie istnieją. Podróż wymaga co najmniej dwóch przesiadek, najczęściej w dużych portach lotniczych Europy (np. Londyn, Amsterdam) i/lub Stanów Zjednoczonych lub innych wysp karaibskich. Całość podróży trwa zwykle kilkanaście godzin."
+    },
+    {
+      "q": "Czy Saint Kitts i Nevis jest bezpieczne?",
+      "a": "Saint Kitts i Nevis jest generalnie bezpiecznym krajem dla turystów. Należy zachować podstawowe środki ostrożności, unikać samotnych spacerów po zmroku w słabo oświetlonych miejscach i dbać o swoje wartościowe przedmioty. Przestępczość pospolita, taka jak kradzieże, zdarza się rzadko, ale warto być czujnym."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Saint Kitts i Nevis to sucha pora, która trwa od grudnia do maja. W tych miesiącach panują przyjemne temperatury, niskie opady deszczu i mniejsze ryzyko huraganów. Pora deszczowa, od czerwca do listopada, charakteryzuje się wyższą wilgotnością i możliwością wystąpienia burz tropikalnych oraz huraganów, choć nie każdy rok przynosi poważne zagrożenia.",
+    "best": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      12
+    ]
+  },
+  "capital": "Basseterre",
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      29
+    ],
+    "note": "Dane dla Basseterre, Saint Kitts",
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Saint Kitts i Nevis to typowe karaibskie smaki, z dużą ilością świeżych owoców morza, takich jak homary, krewetki i różnorodne ryby. Podstawą są lokalne warzywa i owoce, takie jak bataty, maniok, plantany i mango. Popularne dania to \"goat water\" (gulasz z kozy), roti (placek z nadzieniem), a także callaloo (zupa ze szpinaku wodnego). Warto spróbować świeżo wyciskanych soków z egzotycznych owoców i lokalnego rumu."
+  ],
+  "gygQuery": "Saint Kitts and Nevis",
+  "practical": {
+    "documents": "Ważny paszport. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zaleca się sprawdzenie aktualnych wymogów wizowych przed wyjazdem na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 15-20 godzin z dwiema lub więcej przesiadkami.",
+    "language": "Angielski jest językiem urzędowym i powszechnie używanym.",
+    "money": "Dolar wschodniokaraibski (XCD). Powszechnie akceptowane są dolary amerykańskie (USD). Karty kredytowe w większych obiektach, gotówka na mniejsze zakupy.",
+    "plugs": "Typ A i B (amerykański) oraz typ G (brytyjski). Należy zabrać ze sobą odpowiedni adapter.",
+    "safety": "Kraj jest generalnie bezpieczny, ale należy zachować podstawowe środki ostrożności, unikać samotnych spacerów po zmroku i dbać o wartościowe przedmioty. Brak szczególnych zagrożeń zdrowotnych, ale warto skonsultować się z lekarzem w sprawie zalecanych szczepień.",
+    "timeDiff": "Różnica czasu do Polski wynosi -5 lub -6 godzin, w zależności od czasu letniego/zimowego w Polsce (GMT-4)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

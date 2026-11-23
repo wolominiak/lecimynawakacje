@@ -1,0 +1,207 @@
+{
+  "slug": "mongolia",
+  "loc": "w Mongolii",
+  "to": "do Mongolii",
+  "teaser": "Mongolia to kraj bezkresnych stepów, surowej pustyni Gobi i głęboko zakorzenionej kultury nomadów. Prawdziwa gratka dla poszukiwaczy przygód i autentycznych doświadczeń.",
+  "intro": [
+    "Mongolia, rozległy kraj w sercu Azji, to przede wszystkim przestrzeń, cisza i wolność. Tu czas płynie inaczej, a życie toczy się w rytmie natury, z dala od zgiełku cywilizacji. To idealne miejsce, aby doświadczyć autentycznej kultury nomadów, spędzić noc w tradycyjnej jurcie (ger) i podziwiać gwieździste niebo, jakiego nie zobaczysz nigdzie indziej. Kraj słynie z dzikich krajobrazów, od piaszczystych wydm Gobi po zielone stepy i krystalicznie czyste jeziora, oferując niezliczone możliwości obcowania z nieskażoną przyrodą.",
+    "Podróż do Mongolii to propozycja dla osób spragnionych prawdziwej przygody, gotowych na wyzwania i ceniących sobie bliskość z naturą. Nie jest to kierunek dla miłośników luksusowych hoteli i all-inclusive. Tu liczy się autentyczność, prostota i umiejętność dostosowania się do warunków. Kraj przyciąga trekkingowców, jeźdźców konnych, fotografów i wszystkich, którzy chcą uciec od codzienności i zanurzyć się w zupełnie innej rzeczywistości. To także fascynujące miejsce dla pasjonatów historii i kultury, śladami Czyngis-chana i starożytnych imperiów.",
+    "Podróż z Polski do Mongolii wymaga zazwyczaj co najmniej jednej przesiadki, najczęściej w Stambule, Seulu lub Moskwie, a cała podróż zajmuje około 12-15 godzin. Po wylądowaniu w stolicy, Ułan Bator, czekają na nas liczne możliwości organizacji dalszej wyprawy. Warto pamiętać, że infrastruktura turystyczna poza stolicą jest ograniczona, a drogi często są w złym stanie. Najlepszym sposobem na eksplorację kraju jest wynajęcie samochodu terenowego z kierowcą-przewodnikiem, co zapewnia bezpieczeństwo i dostęp do najbardziej odległych zakątków."
+  ],
+  "highlights": [
+    "Jazda konna po bezkresnych stepach",
+    "Nocleg w tradycyjnej jurcie (ger)",
+    "Odkrywanie pustyni Gobi i jej wydm",
+    "Wizyta w starożytnym Kharkhorin",
+    "Obserwacja gwieździstego nieba",
+    "Spotkania z nomadami i ich kulturą"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "ulan-bator",
+      "name": "Ułan Bator",
+      "loc": "w Ułan Bator",
+      "intro": [
+        "Ułan Bator to stolica Mongolii i jedyne duże miasto w kraju, stanowiące fascynujący kontrast pomiędzy nowoczesnością a tradycją. To tu zaczyna się i kończy większość podróży po Mongolii, oferując pierwsze zetknięcie z mongolską kulturą i historią. Miasto, choć chaotyczne i często zakorkowane, jest domem dla wielu ważnych muzeów, klasztorów i galerii sztuki, które pozwalają zrozumieć bogatą przeszłość i teraźniejszość kraju.",
+        "W Ułan Bator warto odwiedzić Klasztor Gandan, jeden z najważniejszych ośrodków buddyzmu w Mongolii, oraz Plac Suche Batora, serce miasta. Panorama ze Wzgórza Zaisan oferuje widok na całą stolicę i okoliczne góry. To także doskonałe miejsce, by spróbować lokalnej kuchni, kupić pamiątki i przygotować się na dalszą wyprawę w głąb kraju, zaopatrując się w niezbędny sprzęt i prowiant."
+      ],
+      "airport": "UBN",
+      "forWhom": "Dla tych, którzy chcą zobaczyć miejskie oblicze Mongolii i zacząć stąd dalszą podróż.",
+      "gygQuery": "Ulaanbaatar",
+      "highlights": [
+        "Klasztor Gandan",
+        "Plac Suche Batora",
+        "Wzgórze Zaisan",
+        "Muzeum Narodowe Mongolii"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "pustynia-gobi",
+      "name": "Pustynia Gobi",
+      "loc": "na Pustyni Gobi",
+      "intro": [
+        "Pustynia Gobi to jeden z najbardziej ikonicznych i surowych regionów Mongolii, rozciągający się na południu kraju. Wbrew powszechnym wyobrażeniom, Gobi to nie tylko piaszczyste wydmy, ale także skaliste góry, rozległe stepy i oazy. To tu odkryto liczne skamieniałości dinozaurów, a krajobrazy zmieniają się z każdym kilometrem, oferując niezapomniane widoki i poczucie prawdziwej dzikości. Podróż przez Gobi to test wytrwałości i okazja do głębokiego zanurzenia się w naturze.",
+        "Wśród głównych atrakcji Gobi znajdują się majestatyczne wydmy Khongoryn Els, znane jako „Śpiewające Wydmy”, oraz Płonące Klify (Bayanzag), gdzie znaleziono pierwsze jaja dinozaurów. Warto również odwiedzić Dolinę Yolyn Am, wąwóz, w którym lód utrzymuje się nawet latem. Gobi to także dom dla dwugarbnych wielbłądów i miejsce, gdzie można spotkać nomadów, którzy wciąż prowadzą tradycyjny tryb życia, oferując gościnę w swoich jurtach."
+      ],
+      "airport": "brak dużego lotniska, dojazd z Ułan Bator",
+      "forWhom": "Dla poszukiwaczy przygód i miłośników niezwykłych, surowych krajobrazów.",
+      "gygQuery": "Gobi Desert",
+      "highlights": [
+        "Wydmy Khongoryn Els",
+        "Płonące Klify (Bayanzag)",
+        "Dolina Yolyn Am",
+        "Spotkania z nomadami"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "dolina-orchon",
+      "name": "Dolina Orchon",
+      "loc": "w Dolinie Orchon",
+      "intro": [
+        "Dolina Orchon, wpisana na listę światowego dziedzictwa UNESCO, to serce mongolskiej historii i kultury nomadów. Ten rozległy obszar w centralnej Mongolii był kolebką wielu imperiów koczowniczych, a jego krajobraz jest świadectwem tysięcy lat tradycji pasterskich. To tu znajdowała się starożytna stolica imperium mongolskiego, Karakorum, a dziś można podziwiać pozostałości po dawnych osadach i buddyjskich klasztorach, które harmonijnie wpisują się w otoczenie zielonych stepów i rzeki Orchon.",
+        "Główną atrakcją Doliny Orchon jest Karakorum (Kharkhorin), dawna stolica Czyngis-chana, oraz przylegający do niej Klasztor Erdene Zuu, jeden z najstarszych i największych klasztorów buddyjskich w Mongolii. W dolinie znajduje się również malowniczy wodospad Ulaan Tsutgalan oraz Klasztor Tuvkhun, położony na szczycie góry, oferujący zapierające dech w piersiach widoki. To idealne miejsce, aby poczuć ducha dawnej Mongolii i zrozumieć znaczenie koczowniczego trybu życia."
+      ],
+      "airport": "dojazd z Ułan Bator",
+      "forWhom": "Dla zainteresowanych historią i kulturą nomadów, wpisana na listę UNESCO.",
+      "gygQuery": "Orkhon Valley",
+      "highlights": [
+        "Karakorum (Kharkhorin)",
+        "Klasztor Erdene Zuu",
+        "Wodospad Ulaan Tsutgalan",
+        "Klasztor Tuvkhun"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "jezioro-chubsugul",
+      "name": "Jezioro Chubsuguł",
+      "loc": "nad Jeziorem Chubsuguł",
+      "intro": [
+        "Jezioro Chubsuguł, często nazywane „Niebieską Perłą Mongolii”, to jedno z największych i najpiękniejszych słodkowodnych jezior w Azji, położone w północnej części kraju, blisko granicy z Rosją. Otoczone majestatycznymi górami, gęstymi lasami tajgi i malowniczymi stepami, stanowi oazę spokoju i dziewiczej przyrody. Jego krystalicznie czyste wody i otaczające krajobrazy sprawiają, że jest to idealne miejsce dla miłośników trekkingu, kajakarstwa i obserwacji dzikiej fauny.",
+        "Region wokół Jeziora Chubsuguł jest domem dla ludu Tsaatan, znanych z hodowli reniferów, co stanowi unikalne doświadczenie kulturowe. Wioska Khatgal, położona na południowym brzegu jeziora, jest główną bazą wypadową do eksploracji Parku Narodowego Jeziora Chubsuguł. Można tu wynająć łódź, wybrać się na konną przejażdżkę lub po prostu cieszyć się ciszą i pięknem otaczającej przyrody. To doskonałe miejsce na relaks i ucieczkę od zgiełku, oferujące niezapomniane widoki i możliwość obcowania z naturą w jej najczystszej formie."
+      ],
+      "airport": "Mörön (MXV)",
+      "forWhom": "Dla miłośników dziewiczej przyrody, trekkingu, spokoju i kultury Tsaatan.",
+      "gygQuery": "Lake Khovsgol",
+      "highlights": [
+        "Rejsy po jeziorze",
+        "Trekking i jazda konna",
+        "Wizyta u ludu Tsaatan",
+        "Dzika przyroda tajgi"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Klasztor Gandan",
+      "text": "Jeden z najważniejszych klasztorów buddyjskich w Mongolii, położony w Ułan Bator. Słynie z majestatycznego posągu Awalokiteśwary i jest centrum duchowym kraju.",
+      "gygQuery": "Gandan Monastery"
+    },
+    {
+      "name": "Płonące Klify (Bayanzag)",
+      "text": "Spektakularne czerwone klify na pustyni Gobi, słynące z odkryć skamieniałości dinozaurów. To tu znaleziono pierwsze jaja dinozaurów, a zachody słońca są niezapomniane.",
+      "gygQuery": "Flaming Cliffs Bayanzag"
+    },
+    {
+      "name": "Wydmy Khongoryn Els",
+      "text": "Nazywane „Śpiewającymi Wydmami” ze względu na dźwięk piasku poruszanego przez wiatr. To jedne z największych i najbardziej imponujących wydm na pustyni Gobi.",
+      "gygQuery": "Khongoryn Els Sand Dunes"
+    },
+    {
+      "name": "Kharkhorin i Klasztor Erdene Zuu",
+      "text": "Kharkhorin to dawna stolica imperium mongolskiego, a Klasztor Erdene Zuu to jeden z najstarszych i największych klasztorów buddyjskich w Mongolii, otoczony 108 stupami.",
+      "gygQuery": "Kharkhorin Erdene Zuu Monastery"
+    },
+    {
+      "name": "Park Narodowy Jeziora Chubsuguł",
+      "text": "„Niebieska Perła Mongolii”, jezioro z krystalicznie czystą wodą, otoczone górami i tajgą. Idealne miejsce na trekking, rejsy i spotkania z ludem Tsaatan.",
+      "gygQuery": "Lake Khovsgol National Park"
+    },
+    {
+      "name": "Park Narodowy Gorchi-Tereldż",
+      "text": "Blisko Ułan Bator, oferuje malownicze krajobrazy, formacje skalne, klasztory i możliwości jazdy konnej. Popularne miejsce na krótkie wypady z miasta.",
+      "gygQuery": "Gorkhi Terelj National Park"
+    },
+    {
+      "name": "Pomnik Czyngis-chana",
+      "text": "Gigantyczny, 40-metrowy posąg Czyngis-chana na koniu, położony około godziny drogi od Ułan Bator. Można wejść na głowę konia, aby podziwiać widoki.",
+      "gygQuery": "Chinggis Khaan Statue Complex"
+    },
+    {
+      "name": "Dolina Orchon",
+      "text": "Wpisany na listę UNESCO krajobraz kulturowy, będący świadectwem tysięcy lat koczowniczego życia. Pełen historycznych miejsc, takich jak starożytne Karakorum.",
+      "gygQuery": "Orkhon Valley Cultural Landscape"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Mongolia jest bezpieczna dla turystów?",
+      "a": "Mongolia jest generalnie bezpieczna, ale w Ułan Bator zdarzają się drobne kradzieże. Poza miastem ryzyko jest mniejsze, jednak należy zachować ostrożność w odległych rejonach i zawsze podróżować z doświadczonym przewodnikiem."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Mongolii?",
+      "a": "Najlepszy czas na podróż do Mongolii to miesiące letnie, od czerwca do września. Wtedy temperatury są najwyższe, a warunki pogodowe sprzyjają podróżowaniu po bezdrożach. Zimy są bardzo mroźne i surowe."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Mongolii?",
+      "a": "Obywatele Polski mogą podróżować do Mongolii bez wizy na pobyt do 30 dni. Przed wyjazdem zawsze zaleca się sprawdzenie aktualnych wymagań wizowych na stronie Ministerstwa Spraw Zagranicznych."
+    },
+    {
+      "q": "Jak poruszać się po Mongolii?",
+      "a": "Poza Ułan Bator, gdzie działa komunikacja miejska, najlepszym sposobem na poruszanie się jest wynajęcie samochodu terenowego z kierowcą-przewodnikiem. Publiczny transport jest ograniczony, a drogi często są w złym stanie."
+    },
+    {
+      "q": "Co warto kupić w Mongolii?",
+      "a": "W Mongolii warto kupić wyroby z kaszmiru, wełny jaka, ręcznie robione filcowe przedmioty, tradycyjne stroje, a także lokalne rękodzieło i pamiątki związane z kulturą nomadów i Czyngis-chanem."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na podróż do Mongolii są miesiące letnie, od czerwca do września. W tym czasie temperatury są najwyższe, a dni długie, co sprzyja eksploracji rozległych terenów. Lipiec i sierpień to szczyt sezonu turystycznego, z najcieplejszą pogodą, choć mogą występować przelotne deszcze. Czerwiec i wrzesień oferują nieco niższe temperatury i mniej turystów, ale nadal doskonałe warunki do podróżowania. Zimy w Mongolii są niezwykle mroźne i surowe, z temperaturami spadającymi znacznie poniżej zera, co utrudnia podróżowanie poza Ułan Bator.",
+    "best": [
+      7,
+      8
+    ],
+    "ok": [
+      6,
+      9
+    ]
+  },
+  "capital": "Ułan Bator",
+  "climate": {
+    "air": [
+      -15,
+      -10,
+      0,
+      10,
+      18,
+      23,
+      25,
+      23,
+      17,
+      7,
+      -5,
+      -13
+    ],
+    "note": "Ułan Bator",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia mongolska jest prosta, sycąca i oparta głównie na mięsie oraz produktach mlecznych, co odzwierciedla koczowniczy tryb życia. Najpopularniejsze dania to buuz (gotowane na parze pierożki z mięsem), khuushuur (smażone pierożki z mięsem) oraz gulasze z baraniny lub wołowiny. Ważnym elementem diety są także produkty mleczne, takie jak airag (fermentowane mleko klaczy) czy różne rodzaje serów. Warto spróbować tradycyjnego mongolskiego grilla - khorkhog, gdzie mięso gotuje się z warzywami w naczyniu z rozgrzanymi kamieniami. Dla wielu podróżników to prawdziwe kulinarne doświadczenie."
+  ],
+  "gygQuery": "Mongolia",
+  "practical": {
+    "documents": "Obywatele Polski mogą podróżować do Mongolii bez wizy na pobyt do 30 dni. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Mongolii. Przed wyjazdem zawsze zaleca się sprawdzenie aktualnych wymagań wizowych na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 12-15 godzin z przesiadkami, zazwyczaj w Stambule, Seulu lub Moskwie.",
+    "language": "Oficjalnym językiem jest mongolski. W Ułan Bator i miejscach turystycznych można spotkać osoby mówiące po angielsku, ale poza stolicą znajomość angielskiego jest bardzo ograniczona. Przydatna może być podstawowa znajomość rosyjskiego.",
+    "money": "Walutą jest tugrik mongolski (MNT). W Ułan Bator można płacić kartą i korzystać z bankomatów. Poza stolicą dominują płatności gotówkowe. Warto mieć przy sobie mniejsze nominały MNT oraz dolary amerykańskie lub euro na wypadek potrzeby wymiany waluty.",
+    "plugs": "W Mongolii używane są gniazdka typu C i F (europejskie), takie same jak w Polsce. Nie ma potrzeby używania adapterów.",
+    "safety": "W Ułan Bator należy uważać na drobne kradzieże, zwłaszcza w zatłoczonych miejscach i na targowiskach. Poza stolicą ryzyko jest mniejsze, ale podróżowanie po odległych terenach wymaga ostrożności i dobrego przygotowania. Zaleca się posiadanie ubezpieczenia turystycznego. Należy uważać na bezpańskie psy, które mogą przenosić wściekliznę. Warto rozważyć szczepienia przeciwko tężcowi, błonicy, polio, WZW A i B oraz kleszczowemu zapaleniu mózgu."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "paragwaj",
+  "loc": "w Paragwaju",
+  "to": "do Paragwaju",
+  "teaser": "Odkryj Paragwaj, serce Ameryki Południowej, kraj dziewiczej natury, bogatej historii i gościnnych ludzi, z dala od utartych szlaków.",
+  "intro": [
+    "Paragwaj to kraj dla prawdziwych odkrywców, którzy szukają autentycznych doświadczeń z dala od masowej turystyki. Oferuje on unikalne połączenie dzikiej przyrody, fascynującej historii misji jezuickich oraz żywej kultury rdzennych mieszkańców. To miejsce, gdzie czas płynie wolniej, a gościnność Paragwajczyków jest odczuwalna na każdym kroku. Brak dostępu do morza rekompensują rozległe rzeki, takie jak Paragwaj i Parana, oraz rozległe tereny Gran Chaco.",
+    "Kraj ten jest idealny dla podróżników ceniących sobie niezależność i pragnących zgłębić mniej znane zakątki Ameryki Południowej. Jeśli interesuje Cię historia, zwłaszcza dziedzictwo jezuickie, oraz chcesz poznać prawdziwe życie kontynentu, Paragwaj z pewnością Cię zachwyci. To także świetna opcja dla miłośników ornitologii i dzikiej przyrody, którzy mogą eksplorować różnorodne ekosystemy, od subtropikalnych lasów po suche tereny Chaco. Przygotuj się na podróż, która wymaga nieco więcej planowania, ale oferuje niezapomniane wspomnienia.",
+    "Podróż z Polski do Paragwaju to zazwyczaj długa wyprawa, wymagająca co najmniej dwóch przesiadek, najczęściej w europejskich hubach, a następnie w jednym z większych miast Ameryki Południowej, jak São Paulo czy Buenos Aires. Całość podróży, wliczając przesiadki, może zająć od 18 do 24 godzin. Ze względu na brak bezpośrednich połączeń i ofert biur podróży, Paragwaj to kierunek, który należy zorganizować samodzielnie, co dodatkowo podkreśla jego charakter miejsca dla prawdziwych globtroterów."
+  ],
+  "highlights": [
+    "Ruiny misji jezuickich - wpisane na listę UNESCO",
+    "Dzika przyroda i unikalne ekosystemy Gran Chaco",
+    "Kolonialna architektura i atmosfera Asunción",
+    "Potęga inżynierii - Zapora Itaipu na rzece Parana",
+    "Autentyczna kultura i tradycje Guarani",
+    "Lokalna kuchnia z daniami na bazie manioku i kukurydzy"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "asuncion",
+      "name": "Asunción",
+      "loc": "w Asunción",
+      "intro": [
+        "Asunción, stolica Paragwaju, to jedno z najstarszych miast Ameryki Południowej, często nazywane „Matką Miast”. Miasto urzeka kolonialną architekturą, brukowanymi uliczkami i licznymi placami, które tętnią życiem. Spacerując po centrum, można podziwiać zabytkowe budynki, takie jak Panteon Narodowy Bohaterów czy Palacio de los López, siedzibę prezydenta. Mimo swojego historycznego charakteru, Asunción jest dynamicznym miastem, gdzie nowoczesność przeplata się z tradycją.",
+        "To doskonała baza wypadowa do dalszych eksploracji kraju, a jednocześnie miejsce, gdzie można poczuć puls paragwajskiego życia. Warto odwiedzić lokalne targi, takie jak Mercado Cuatro, aby spróbować regionalnych przysmaków i kupić rękodzieło. Wieczorem miasto oferuje wiele restauracji serwujących tradycyjną kuchnię oraz barów, gdzie można posłuchać muzyki na żywo. Asunción to także centrum kulturalne z muzeami i galeriami sztuki, które przybliżają bogatą historię i sztukę Paragwaju."
+      ],
+      "airport": "ASU",
+      "forWhom": "Dla miłośników historii i kultury, szukających autentycznej atmosfery stolicy Ameryki Południowej.",
+      "gygQuery": "Asuncion",
+      "highlights": [
+        "Panteon Narodowy Bohaterów",
+        "Palacio de los López",
+        "Katedra Metropolitalna",
+        "Mercado Cuatro"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "misiones",
+      "name": "Region Misiones",
+      "loc": "w regionie Misiones",
+      "intro": [
+        "Region Misiones, położony na południu Paragwaju, jest domem dla jednych z najlepiej zachowanych ruin misji jezuickich w Ameryce Południowej. Misje takie jak La Santísima Trinidad de Paraná i Jesús de Tavarangue, wpisane na listę światowego dziedzictwa UNESCO, świadczą o potędze i wpływie jezuitów w XVII i XVIII wieku. Te imponujące kompleksy oferują wgląd w życie i pracę rdzennej ludności Guarani pod opieką misjonarzy, prezentując unikalne połączenie europejskiej i indiańskiej architektury oraz sztuki.",
+        "Odwiedzając te miejsca, można poczuć ducha minionych wieków i podziwiać kunszt dawnych budowniczych. Ruiny są otoczone malowniczymi krajobrazami, co dodatkowo potęguje wrażenia. Region Misiones to nie tylko historia, ale także spokojne miasteczka i możliwość poznania lokalnego życia. To obowiązkowy punkt dla każdego, kto interesuje się historią kolonialną i dziedzictwem kulturowym Ameryki Południowej, oferując głębokie i refleksyjne doświadczenie."
+      ],
+      "airport": "ASU",
+      "forWhom": "Idealny dla pasjonatów historii i architektury, pragnących zgłębić dziedzictwo misji jezuickich.",
+      "gygQuery": "Jesuit Missions Paraguay",
+      "highlights": [
+        "Ruiny Trinidad de Paraná",
+        "Ruiny Jesús de Tavarangue",
+        "Muzeum Jezuickie w Santa Rosa",
+        "Spokojne krajobrazy wiejskie"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "gran-chaco",
+      "name": "Gran Chaco",
+      "loc": "w Gran Chaco",
+      "intro": [
+        "Gran Chaco to rozległy, półpustynny region zajmujący zachodnią część Paragwaju, znany z surowego piękna i dzikiej przyrody. To jeden z ostatnich obszarów na kontynencie, gdzie natura pozostaje w dużej mierze nietknięta. Chaco jest domem dla wielu gatunków zwierząt, w tym jaguara, tapira, pancernika i licznych gatunków ptaków, co czyni go rajem dla miłośników ekoturystyki i obserwatorów ptaków. Region ten jest również zamieszkały przez rdzenne społeczności, które zachowały swoje tradycje i styl życia.",
+        "Podróżowanie po Chaco to prawdziwa przygoda, często wymagająca pojazdów terenowych i dobrego przygotowania. Drogi bywają trudne, a infrastruktura turystyczna jest ograniczona, co tylko dodaje uroku temu dzikiemu obszarowi. Można tu odwiedzić parki narodowe, takie jak Defensores del Chaco, które chronią unikalne ekosystemy. Chaco to idealne miejsce dla tych, którzy szukają odosobnienia, kontaktu z naturą i chcą doświadczyć Paragwaju z innej, bardziej surowej perspektywy, z dala od cywilizacji."
+      ],
+      "airport": "ASU",
+      "forWhom": "Dla poszukiwaczy przygód i miłośników dzikiej przyrody, chcących doświadczyć surowego piękna i unikalnej fauny.",
+      "gygQuery": "Gran Chaco Paraguay",
+      "highlights": [
+        "Park Narodowy Defensores del Chaco",
+        "Obserwacja dzikiej fauny",
+        "Poznawanie kultury rdzennych mieszkańców",
+        "Ekstremalne warunki i przygoda"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "ciudad-del-este",
+      "name": "Ciudad del Este",
+      "loc": "w Ciudad del Este",
+      "intro": [
+        "Ciudad del Este to tętniące życiem miasto graniczne, położone u zbiegu trzech państw: Paragwaju, Brazylii i Argentyny. Znane jest przede wszystkim jako raj dla zakupoholików, oferując szeroki wybór produktów w atrakcyjnych cenach, co przyciąga tłumy z sąsiednich krajów. Miasto jest dynamiczne i chaotyczne, ale oferuje unikalne doświadczenie transgranicznego handlu i kultury. To także brama do jednej z największych atrakcji regionu - Zapory Itaipu, cudu inżynierii.",
+        "Oprócz zakupów i Zapory Itaipu, w pobliżu Ciudad del Este znajdują się również piękne wodospady Salto Monday, które stanowią alternatywę dla bardziej znanych wodospadów Iguazu. Miasto jest świetnym punktem wypadowym do dalszych podróży po regionie Trójgranicza, umożliwiając łatwe przekraczanie granic do Brazylii i Argentyny. Dla wielu turystów jest to pierwszy lub ostatni przystanek w Paragwaju, oferujący kontrastujące wrażenia w porównaniu do spokojniejszej stolicy."
+      ],
+      "airport": "AGT",
+      "forWhom": "Dla podróżników zainteresowanych zakupami, energetyką i bliskością granicy z Brazylią i Argentyną.",
+      "gygQuery": "Ciudad del Este",
+      "highlights": [
+        "Zapora Itaipu - potęga inżynierii",
+        "Wodospady Salto Monday",
+        "Zakupy w strefie wolnocłowej",
+        "Punkt graniczny Trójgranicza"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Panteon Narodowy Bohaterów",
+      "text": "Imponujący budynek w Asunción, będący miejscem spoczynku najważniejszych postaci w historii Paragwaju i symbolem narodowej dumy.",
+      "gygQuery": "National Pantheon of the Heroes Asuncion"
+    },
+    {
+      "name": "Palacio de los López",
+      "text": "Oficjalna siedziba prezydenta Paragwaju w Asunción, wyróżniająca się neoklasycystyczną architekturą i malowniczym położeniem nad rzeką Paragwaj.",
+      "gygQuery": "Palacio de los Lopez Asuncion"
+    },
+    {
+      "name": "Ruiny Misji Jezuickich (Trinidad i Jesús)",
+      "text": "Wpisane na listę UNESCO pozostałości po misjach jezuickich, świadczące o bogatej historii i kulturze regionu Misiones.",
+      "gygQuery": "Jesuit Missions Trinidad Jesus"
+    },
+    {
+      "name": "Zapora Itaipu",
+      "text": "Jedna z największych elektrowni wodnych na świecie, położona na rzece Parana, oferująca fascynujące wycieczki i widoki na potężną konstrukcję.",
+      "gygQuery": "Itaipu Dam"
+    },
+    {
+      "name": "Parque Nacional Defensores del Chaco",
+      "text": "Największy park narodowy Paragwaju, chroniący unikalne ekosystemy Gran Chaco i będący domem dla rzadkich gatunków zwierząt.",
+      "gygQuery": "Defensores del Chaco National Park"
+    },
+    {
+      "name": "Salto Monday",
+      "text": "Malownicze wodospady w pobliżu Ciudad del Este, oferujące piękne widoki i możliwość uprawiania sportów ekstremalnych.",
+      "gygQuery": "Salto Monday"
+    },
+    {
+      "name": "Mercado Cuatro",
+      "text": "Tętniący życiem targ w Asunción, gdzie można znaleźć wszystko, od świeżych produktów po lokalne rękodzieło i spróbować ulicznego jedzenia.",
+      "gygQuery": "Mercado Cuatro Asuncion"
+    },
+    {
+      "name": "Cerro Cora National Park",
+      "text": "Park narodowy o znaczeniu historycznym, miejsce ostatniej bitwy wojny paragwajskiej, oferujący również piękne krajobrazy i szlaki turystyczne.",
+      "gygQuery": "Cerro Cora National Park"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Paragwaj jest bezpieczny dla turystów?",
+      "a": "Paragwaj wymaga zachowania ostrożności, zwłaszcza w większych miastach i na obszarach przygranicznych. Zaleca się unikanie samotnych spacerów nocą i dbanie o swoje wartościowe przedmioty. Ogólnie, poza głównymi miastami, kraj jest spokojniejszy."
+    },
+    {
+      "q": "Jaka jest waluta w Paragwaju i jak płacić?",
+      "a": "Oficjalną walutą jest guarani (PYG). W większych miastach i hotelach można płacić kartą, ale poza nimi dominują płatności gotówkowe. Warto mieć przy sobie mniejsze nominały, zwłaszcza na targach i w mniejszych miejscowościach."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Paragwaju?",
+      "a": "Najlepszy czas na podróż to okres od kwietnia do maja oraz od września do października, kiedy temperatury są umiarkowane, a opady deszczu mniejsze. Unikaj lata (grudzień-luty) ze względu na upały i wysoką wilgotność."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Paragwaju?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport, którego ważność powinna wynosić co najmniej 6 miesięcy od daty planowanego wyjazdu z Paragwaju. Zawsze warto sprawdzić aktualne wymogi wizowe przed podróżą."
+    },
+    {
+      "q": "Jakie języki są używane w Paragwaju?",
+      "a": "Oficjalnymi językami są guarani i hiszpański. Guarani jest bardzo powszechny i używany na co dzień przez większość mieszkańców. Znajomość podstaw hiszpańskiego znacznie ułatwi komunikację, angielski jest rzadko używany poza dużymi hotelami."
+    }
+  ],
+  "bestTime": {
+    "text": "Paragwaj ma klimat subtropikalny, z gorącym i wilgotnym latem (grudzień-luty) oraz łagodną i suchą zimą (czerwiec-sierpień). Najlepszy czas na podróż to wiosna (wrzesień-listopad) i jesień (marzec-maj), kiedy temperatury są przyjemniejsze, a wilgotność niższa. W tych okresach łatwiej jest zwiedzać i cieszyć się aktywnościami na świeżym powietrzu.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      11
+    ]
+  },
+  "capital": "Asunción",
+  "climate": {
+    "air": [
+      33,
+      32,
+      31,
+      28,
+      25,
+      23,
+      23,
+      25,
+      27,
+      29,
+      31,
+      32
+    ],
+    "note": "dla Asunción",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia paragwajska to mieszanka wpływów indiańskich (Guarani) i hiszpańskich, z maniokiem i kukurydzą jako podstawowymi składnikami. Narodowym daniem jest sopa paraguaya, która, mimo nazwy, jest pieczonym plackiem kukurydzianym z serem i cebulą, a nie zupą. Popularne są również chipa, czyli serowe bułeczki z manioku, oraz mbeju, rodzaj placka z mąki maniokowej i sera. Mięso, zwłaszcza wołowina, jest często grillowane w stylu asado. Warto spróbować tereré - zimnego naparu yerba mate, który jest wszechobecny i symbolizuje paragwajską gościnność."
+  ],
+  "gygQuery": "Paraguay",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed wyjazdem w polskim MSZ.",
+    "flight": "około 18-20 h z co najmniej dwiema przesiadkami",
+    "language": "Guarani i hiszpański. Znajomość hiszpańskiego jest bardzo pomocna, angielski rzadko używany poza dużymi hotelami.",
+    "money": "Walutą jest guarani (PYG). Płatności kartą są możliwe w większych miastach i hotelach, ale poza nimi dominują płatności gotówkowe. Warto mieć przy sobie mniejsze nominały.",
+    "plugs": "Typy gniazdek C i L. Napięcie 220V, częstotliwość 50Hz. Adapter może być potrzebny.",
+    "safety": "Należy zachować ostrożność, zwłaszcza w Asunción i na obszarach przygranicznych, gdzie zdarzają się drobne kradzieże. Unikać samotnych spacerów nocą i nie afiszować się z wartościowymi przedmiotami. Zaleca się wykupienie kompleksowego ubezpieczenia medycznego i podróżnego."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,202 @@
+{
+  "slug": "serbia",
+  "loc": "w Serbii",
+  "to": "do Serbii",
+  "teaser": "Serbia to kraj Bałkanów, który oferuje bogatą historię, smaczną kuchnię i gościnność, z dala od masowej turystyki.",
+  "intro": [
+    "Serbia, położona w sercu Bałkanów, to kraj z burzliwą historią i żywą kulturą, która czeka na odkrycie. Od tętniącego życiem Belgradu, przez malownicze klasztory, po dzikie górskie krajobrazy, Serbia oferuje autentyczne doświadczenia. To idealne miejsce dla tych, którzy szukają czegoś więcej niż typowego kurortu, cenią sobie lokalną atmosferę i chcą poznać prawdziwe oblicze regionu.",
+    "Kraj przyciąga miłośników historii, smakoszy bałkańskiej kuchni oraz osoby szukające aktywnego wypoczynku w górach czy nad rzekami. Jest to destynacja dla podróżników, którzy lubią planować na własną rękę i cenią sobie przystępne ceny. Serbia to także kraj festiwali, zwłaszcza muzycznych, które przyciągają młodych ludzi z całej Europy.",
+    "Podróż z Polski do Serbii jest stosunkowo prosta. Najwygodniej jest dolecieć do Belgradu, skąd regularnie latają bezpośrednie połączenia. Alternatywnie, można wybrać się samochodem, co pozwala na większą swobodę w eksploracji kraju. Serbia, choć nie jest jeszcze masową destynacją turystyczną, oferuje dobrze rozwiniętą infrastrukturę drogową i noclegową, zwłaszcza w większych miastach."
+  ],
+  "highlights": [
+    "Odkryj Belgrad i jego twierdzę Kalemegdan",
+    "Spróbuj bałkańskich specjałów w Skadarliji",
+    "Odwiedź średniowieczne klasztory UNESCO",
+    "Podziwiaj krajobrazy Parku Narodowego Tara",
+    "Poczuj atmosferę festiwalu EXIT w Nowym Sadzie",
+    "Poznaj historię w Nišu i jego twierdzy"
+  ],
+  "popularity": 18,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "belgrad",
+      "name": "Belgrad",
+      "loc": "w Belgradzie",
+      "intro": [
+        "Belgrad, stolica Serbii, to miasto, które nigdy nie śpi. Położone u zbiegu rzek Sawy i Dunaju, jest dynamicznym centrum kultury, historii i nocnego życia. Od starożytnej twierdzy Kalemegdan, przez urokliwą dzielnicę Skadarlija, po monumentalną świątynię św. Sawy, Belgrad oferuje mnóstwo atrakcji. To miasto z duszą, które potrafi zaskoczyć na każdym kroku.",
+        "Dla kogo: Belgrad to idealne miejsce dla miłośników historii, imprezowiczów i smakoszy. Miasto tętni życiem, oferując liczne restauracje, bary i kluby. Jest to także świetna baza wypadowa do dalszych podróży po Serbii."
+      ],
+      "airport": "BEG",
+      "forWhom": "Miasto dla miłośników historii, nocnego życia i bałkańskiej kuchni.",
+      "gygQuery": "Belgrade",
+      "highlights": [
+        "Twierdza Kalemegdan i park",
+        "Dzielnica Skadarlija z restauracjami",
+        "Świątynia św. Sawy",
+        "Muzeum Nikoli Tesli"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "wojwodina",
+      "name": "Wojwodina",
+      "loc": "w Wojwodinie",
+      "intro": [
+        "Wojwodina, północna prowincja Serbii, to region o bogatej historii i wielokulturowym dziedzictwie. Jej stolicą jest Nowy Sad, miasto znane z imponującej twierdzy Petrovaradin, która co roku gości festiwal EXIT. Region charakteryzuje się płaskimi krajobrazami, winnicami i urokliwymi miasteczkami, które zachowały swój dawny charakter.",
+        "Dla kogo: Wojwodina to idealne miejsce dla tych, którzy cenią sobie spokój, kulturę i dobrą kuchnię. Jest to region dla smakoszy wina, miłośników festiwali i osób szukających relaksu z dala od zgiełku."
+      ],
+      "airport": "BEG",
+      "forWhom": "Region dla miłośników wina, festiwali i wielokulturowości.",
+      "gygQuery": "Vojvodina",
+      "highlights": [
+        "Nowy Sad i Twierdza Petrovaradin",
+        "Festiwal EXIT",
+        "Sremski Karlovci - miasto wina",
+        "Park Narodowy Fruška Gora"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "nis-i-poludniowa-serbia",
+      "name": "Niš i Południowa Serbia",
+      "loc": "w Nišu i Południowej Serbii",
+      "intro": [
+        "Południowa Serbia to kolebka historii i miejsce, gdzie można poczuć prawdziwego ducha Bałkanów. Miasto Niš, jedno z najstarszych w Europie, oferuje fascynujące zabytki, takie jak Wieża Czaszek (Ćele Kula) i Twierdza Niš. Region ten jest również domem dla niezwykłych formacji skalnych, jak Đavolja Varoš (Diabelskie Miasto).",
+        "Dla kogo: Południowa Serbia to propozycja dla pasjonatów historii, archeologii i geologii. To także miejsce dla tych, którzy chcą odkryć mniej znane zakątki kraju i doświadczyć lokalnej gościnności."
+      ],
+      "airport": "INI",
+      "forWhom": "Dla miłośników historii, archeologii i niezwykłych formacji geologicznych.",
+      "gygQuery": "Nis",
+      "highlights": [
+        "Twierdza w Nišu",
+        "Wieża Czaszek (Ćele Kula)",
+        "Diabelskie Miasto (Đavolja Varoš)",
+        "Klasztor Studenica (UNESCO)"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "gory-i-parki-narodowe",
+      "name": "Góry i Parki Narodowe",
+      "loc": "w górach i parkach narodowych Serbii",
+      "intro": [
+        "Serbia to kraj o zróżnicowanym krajobrazie, a góry zajmują znaczną jego część. Parki Narodowe, takie jak Tara czy Kopaonik, oferują spektakularne widoki, szlaki turystyczne i możliwości aktywnego wypoczynku. Kopaonik to popularny ośrodek narciarski zimą, a latem raj dla pieszych wędrówek. Rzeka Drina i jej malownicze zakola to idealne miejsce na spływy kajakowe.",
+        "Dla kogo: Ten region jest idealny dla miłośników przyrody, pieszych wędrówek, narciarstwa i sportów wodnych. To doskonała ucieczka od miejskiego zgiełku i okazja do obcowania z dziką naturą."
+      ],
+      "airport": "BEG",
+      "forWhom": "Dla aktywnych podróżników, miłośników gór, narciarstwa i sportów wodnych.",
+      "gygQuery": "Tara National Park",
+      "highlights": [
+        "Park Narodowy Tara i Drina",
+        "Ośrodek narciarski Kopaonik",
+        "Szlaki piesze i rowerowe",
+        "Malownicze punkty widokowe"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Twierdza Kalemegdan",
+      "text": "Historyczna twierdza w Belgradzie, położona u zbiegu Sawy i Dunaju, oferująca piękne widoki na miasto i rzeki.",
+      "gygQuery": "Kalemegdan Fortress Belgrade"
+    },
+    {
+      "name": "Skadarlija",
+      "text": "Artystyczna dzielnica Belgradu, znana z brukowanych uliczek, tradycyjnych restauracji i bohemy.",
+      "gygQuery": "Skadarlija Belgrade"
+    },
+    {
+      "name": "Świątynia św. Sawy",
+      "text": "Jedna z największych prawosławnych świątyń na świecie, ikona Belgradu, imponująca swoją architekturą i rozmiarami.",
+      "gygQuery": "Temple of Saint Sava Belgrade"
+    },
+    {
+      "name": "Twierdza Petrovaradin",
+      "text": "Potężna twierdza nad Dunajem w Nowym Sadzie, znana jako 'Gibraltar Dunaju' i miejsce festiwalu EXIT.",
+      "gygQuery": "Petrovaradin Fortress Novi Sad"
+    },
+    {
+      "name": "Đavolja Varoš (Diabelskie Miasto)",
+      "text": "Unikalne formacje skalne w południowej Serbii, przypominające miasto z wieżami, otoczone legendami.",
+      "gygQuery": "Djavolja Varos Devil's Town"
+    },
+    {
+      "name": "Klasztor Studenica",
+      "text": "Średniowieczny klasztor prawosławny wpisany na listę UNESCO, słynący z fresków i architektury.",
+      "gygQuery": "Studenica Monastery"
+    },
+    {
+      "name": "Park Narodowy Tara",
+      "text": "Górski park narodowy oferujący dziewiczą przyrodę, głębokie kaniony, lasy i rzekę Drinę.",
+      "gygQuery": "Tara National Park"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Serbia jest bezpiecznym krajem dla turystów?",
+      "a": "Serbia jest generalnie bezpiecznym krajem dla turystów. Należy zachować podstawowe środki ostrożności, zwłaszcza w większych miastach i w nocy, podobnie jak w innych europejskich krajach."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Serbii i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest dinar serbski (RSD). W większych miastach i popularnych miejscach turystycznych można płacić kartą, ale warto mieć przy sobie gotówkę, zwłaszcza poza głównymi ośrodkami."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy, aby wjechać do Serbii?",
+      "a": "Obywatele Polski nie potrzebują wizy, aby wjechać do Serbii na pobyt turystyczny do 90 dni. Wystarczy ważny paszport lub dowód osobisty, ale zawsze zaleca się sprawdzenie aktualnych przepisów przed podróżą."
+    },
+    {
+      "q": "Co warto spróbować z serbskiej kuchni?",
+      "a": "Koniecznie spróbuj ćevapi (grillowane paluszki mięsne), pljeskavica (serbski burger), sarma (gołąbki), kajmak (śmietankowy ser) i ajvar (pasta z papryki). Do tego rakija, tradycyjny bałkański alkohol."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Serbii to wiosna (maj-czerwiec) i wczesna jesień (wrzesień), kiedy pogoda jest przyjemna do zwiedzania i pieszych wędrówek, a temperatury nie są zbyt wysokie. Lato (lipiec-sierpień) jest gorące, idealne na festiwale i spływy rzeczne, ale może być męczące do intensywnego zwiedzania miast. Zima (grudzień-marzec) to sezon narciarski w górach, np. na Kopaoniku.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "capital": "Belgrad",
+  "climate": {
+    "air": [
+      3,
+      6,
+      12,
+      18,
+      23,
+      27,
+      29,
+      29,
+      24,
+      18,
+      11,
+      6
+    ],
+    "note": "dla Belgradu",
+    "sea": null
+  },
+  "cuisine": [
+    "Serbska kuchnia to prawdziwa uczta dla podniebienia, będąca mieszanką wpływów bałkańskich, tureckich i środkowoeuropejskich. Królują tu dania mięsne, takie jak słynne ćevapi (grillowane paluszki z mielonego mięsa) i pljeskavica (duży, płaski kotlet mielony), często podawane z kajmakiem (rodzaj gęstej, kremowej śmietany) i ajvarem (pastą z pieczonej papryki i bakłażana). Warto spróbować także sarma (gołąbki w liściach kapusty), gibanicy (słony placek z serem) oraz różnorodnych zup i gulaszów. Do posiłku często pije się rakiję, mocny destylat owocowy, który Serbowie traktują jako narodowy trunek."
+  ],
+  "gygQuery": "Serbia",
+  "practical": {
+    "documents": "Obywatele Polski mogą wjechać do Serbii na podstawie ważnego paszportu lub dowodu osobistego na pobyt do 90 dni. Zaleca się sprawdzenie aktualnych przepisów w Ministerstwie Spraw Zagranicznych przed wyjazdem.",
+    "flight": "Bezpośredni lot z Polski do Belgradu trwa około 1,5 godziny.",
+    "language": "Oficjalnym językiem jest serbski. W miejscach turystycznych i większych miastach można porozumieć się po angielsku, zwłaszcza z młodymi ludźmi.",
+    "money": "Walutą jest dinar serbski (RSD). Wymiana walut jest możliwa w bankach i kantorach. W większych miastach i sklepach akceptowane są karty płatnicze, ale warto mieć gotówkę na drobne wydatki i w mniejszych miejscowościach.",
+    "plugs": "W Serbii używane są gniazdka typu C i F, takie same jak w Polsce (dwa okrągłe bolce). Nie są potrzebne żadne adaptery.",
+    "safety": "Serbia jest krajem bezpiecznym dla turystów. Należy zachować podstawowe środki ostrożności, uważać na kieszonkowców w zatłoczonych miejscach i unikać demonstracji politycznych. Opieka medyczna jest dostępna, ale zaleca się wykupienie ubezpieczenia turystycznego.",
+    "timeDiff": "Brak różnicy czasu między Serbią a Polską (obie kraje znajdują się w strefie czasowej CET/CEST)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

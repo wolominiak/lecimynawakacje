@@ -1,0 +1,181 @@
+{
+  "slug": "sint-maarten",
+  "loc": "na Sint Maarten",
+  "to": "na Sint Maarten",
+  "teaser": "Sint Maarten to karaibska wyspa słynąca z niezwykłej plaży Maho, gdzie samoloty lądują tuż nad głowami, oraz tętniącego życiem Philipsburga.",
+  "intro": [
+    "Sint Maarten, holenderska część karaibskiej wyspy, to idealne miejsce dla tych, którzy szukają słońca, pięknych plaż i unikalnych atrakcji. Wyspa oferuje zarówno tętniące życiem kurorty z kasynami i nocnymi klubami, jak i spokojne zatoczki do relaksu. To raj dla miłośników sportów wodnych, nurkowania i żeglarstwa, a także dla tych, którzy pragną połączyć wypoczynek z odrobiną przygody. Dwie kultury - holenderska i francuska (na sąsiedniej części wyspy Saint Martin) - tworzą fascynującą mieszankę wpływów, widoczną w kuchni, architekturze i atmosferze.",
+    "Podróż na Sint Maarten z Polski wymaga przesiadek, najczęściej w jednym z europejskich hubów, takich jak Amsterdam, Paryż, czy też w Stanach Zjednoczonych. Całkowity czas lotu, wraz z oczekiwaniem na połączenia, zazwyczaj wynosi od 12 do nawet 18 godzin. Mimo długiej podróży, widoki i doświadczenia, jakie oferuje wyspa, z pewnością wynagradzają trud. Warto zaplanować podróż z wyprzedzeniem, aby znaleźć korzystne połączenia lotnicze i zakwaterowanie.",
+    "Wyspa jest doskonała dla par, rodzin z dziećmi (choć atrakcje dla najmłodszych są ograniczone do plaż i wody) oraz grup przyjaciół. Ci, którzy cenią sobie luksus i wygodę, znajdą tu wiele wysokiej klasy hoteli i willi, a także restauracji serwujących wyśmienite dania. To także świetna baza wypadowa do odkrywania sąsiednich wysp, takich jak Saba czy St. Barth, co pozwala na urozmaicenie wakacyjnego planu."
+  ],
+  "highlights": [
+    "Plaża Maho i lądujące samoloty",
+    "Duty-free zakupy w Philipsburgu",
+    "Nurkowanie i snorkeling w krystalicznych wodach",
+    "Żeglarstwo i rejsy po Karaibach",
+    "Tętniące życiem nocne kluby i kasyna",
+    "Mieszanka kultur holenderskiej i karaibskiej"
+  ],
+  "popularity": 18,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "philipsburg",
+      "name": "Philipsburg",
+      "loc": "w Philipsburgu",
+      "intro": [
+        "Philipsburg to stolica holenderskiej części Sint Maarten, położona nad malowniczą zatoką Great Bay. Miasto słynie z Front Street, głównej ulicy handlowej, gdzie można znaleźć sklepy wolnocłowe oferujące biżuterię, elektronikę i lokalne pamiątki. Spacerując po promenadzie, podziwiać można cumujące luksusowe jachty i statki wycieczkowe, które dodają miastu kosmopolitycznego charakteru.",
+        "W Philipsburgu znajduje się również kilka zabytkowych budynków, takich jak budynek sądu czy Fort Amsterdam, oferujący wspaniałe widoki na ocean. To doskonałe miejsce, aby poczuć karaibską atmosferę, spróbować lokalnej kuchni w jednej z wielu restauracji i zanurzyć się w historii wyspy."
+      ],
+      "airport": "SXM",
+      "forWhom": "Idealny dla miłośników zakupów, historii i tętniącego życiem portu.",
+      "gygQuery": "Philipsburg Sint Maarten",
+      "highlights": [
+        "Zakupy wolnocłowe na Front Street",
+        "Relaks na plaży Great Bay",
+        "Zwiedzanie Fortu Amsterdam",
+        "Spacer po promenadzie"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "maho-simpson-bay",
+      "name": "Maho i Simpson Bay",
+      "loc": "w Maho i Simpson Bay",
+      "intro": [
+        "Obszar Maho i Simpson Bay to serce rozrywki na Sint Maarten, znany przede wszystkim z ikonicznej plaży Maho. To tutaj samoloty lądują tuż nad głowami plażowiczów, tworząc spektakularne widowisko, które przyciąga turystów z całego świata. W okolicy znajdują się liczne bary i restauracje, które tętnią życiem do późnych godzin nocnych, oferując doskonałą zabawę i karaibskie koktajle.",
+        "Simpson Bay Lagoon to z kolei raj dla miłośników żeglarstwa i sportów wodnych. Znajdują się tu liczne mariny, wypożyczalnie sprzętu do nurkowania, windsurfingu czy kajakarstwa. Obszar ten oferuje również szeroki wybór hoteli, kasyn i klubów nocnych, co czyni go idealnym miejscem dla tych, którzy chcą połączyć aktywny wypoczynek z wieczorną rozrywką."
+      ],
+      "airport": "SXM",
+      "forWhom": "Dla szukających rozrywki, unikalnych wrażeń i sportów wodnych.",
+      "gygQuery": "Maho Beach Simpson Bay",
+      "highlights": [
+        "Plaża Maho i lądujące samoloty",
+        "Życie nocne i kasyna",
+        "Sporty wodne na Simpson Bay Lagoon",
+        "Luksusowe mariny"
+      ],
+      "type": "kurort"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Plaża Maho",
+      "text": "Słynna plaża, gdzie samoloty lądują tuż nad głowami, oferując niezapomniane wrażenia i spektakularne zdjęcia. To jedyne takie miejsce na świecie, które przyciąga tłumy.",
+      "gygQuery": "Maho Beach Sint Maarten"
+    },
+    {
+      "name": "Front Street w Philipsburgu",
+      "text": "Główna ulica handlowa stolicy, słynąca z bezcłowych zakupów biżuterii, elektroniki, alkoholi i lokalnych pamiątek. Idealne miejsce na spacer i poszukiwanie okazji.",
+      "gygQuery": "Front Street Philipsburg"
+    },
+    {
+      "name": "Plaża Great Bay",
+      "text": "Długa, piaszczysta plaża w Philipsburgu, idealna do pływania, opalania i spacerów. Wzdłuż niej ciągnie się promenada z licznymi restauracjami i barami.",
+      "gygQuery": "Great Bay Beach Sint Maarten"
+    },
+    {
+      "name": "Fort Amsterdam",
+      "text": "Historyczna fortyfikacja z XVII wieku, oferująca panoramiczne widoki na Philipsburg i okoliczne zatoki. To także ważne miejsce dla obserwatorów ptaków, w tym pelikanów.",
+      "gygQuery": "Fort Amsterdam Sint Maarten"
+    },
+    {
+      "name": "Plaża Dawn Beach",
+      "text": "Malownicza plaża znana z pięknych wschodów słońca i spokojnych wód, idealnych do snorkelingu. Znajduje się po wschodniej stronie wyspy, oferując ucieczkę od zgiełku.",
+      "gygQuery": "Dawn Beach Sint Maarten"
+    },
+    {
+      "name": "Laguna Simpson Bay",
+      "text": "Rozległa laguna, będąca centrum żeglarstwa i sportów wodnych na wyspie. Znajdują się tu liczne mariny, restauracje i wypożyczalnie sprzętu do aktywnego wypoczynku.",
+      "gygQuery": "Simpson Bay Lagoon"
+    },
+    {
+      "name": "Wzgórze Cole Bay Hill",
+      "text": "Punkt widokowy oferujący spektakularne panoramy na Zatokę Simpson Bay, lotnisko i całą holenderską część wyspy. Idealne miejsce na zdjęcia o zachodzie słońca.",
+      "gygQuery": "Cole Bay Hill Sint Maarten"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Sint Maarten?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne na Sint Maarten trwające do 90 dni. Wymagany jest ważny paszport."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Sint Maarten?",
+      "a": "Oficjalną walutą jest gulden antylski (ANG), ale dolar amerykański (USD) jest powszechnie akceptowany i często używany w transakcjach. Warto mieć przy sobie dolary."
+    },
+    {
+      "q": "Czy Sint Maarten jest bezpieczne dla turystów?",
+      "a": "Sint Maarten jest generalnie bezpieczne, ale zaleca się zachowanie podstawowej ostrożności, zwłaszcza po zmroku. Warto uważać na wartościowe przedmioty i nie zapuszczać się w odizolowane miejsca."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Sint Maarten?",
+      "a": "Najlepszy czas na podróż to pora sucha, od grudnia do kwietnia, kiedy pogoda jest najbardziej stabilna i przyjemna, a ryzyko huraganów minimalne."
+    },
+    {
+      "q": "Jakie gniazdka elektryczne są na Sint Maarten?",
+      "a": "Na Sint Maarten używa się gniazdek typu A i B (amerykańskie), o napięciu 110-120V. Należy zabrać ze sobą odpowiedni adapter i ewentualnie przetwornicę napięcia."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Sint Maarten to okres od grudnia do kwietnia. W tych miesiącach panuje pora sucha, charakteryzująca się przyjemnymi temperaturami, mniejszą wilgotnością i rzadszymi opadami deszczu. Jest to również czas poza sezonem huraganów, co zapewnia spokojniejszy wypoczynek. Od maja do czerwca pogoda nadal jest dobra, choć zaczyna się robić nieco bardziej wilgotno i wzrasta ryzyko krótkich, przelotnych deszczy. Unikaj podróży między lipcem a listopadem, ponieważ jest to pora deszczowa i jednocześnie sezon huraganów, co może zakłócić plany.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      6
+    ]
+  },
+  "capital": "Philipsburg",
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      31,
+      32,
+      31,
+      31,
+      30,
+      29
+    ],
+    "note": "dla Philipsburga",
+    "sea": [
+      26,
+      26,
+      26,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      27,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Sint Maarten to fascynująca mieszanka wpływów karaibskich, holenderskich i francuskich. Królują tu świeże owoce morza, takie jak homary, krewetki i różnorodne ryby, często przygotowywane w stylu kreolskim z pikantnymi przyprawami. Popularne są także dania z kurczaka i koziny, serwowane z ryżem i fasolą, platanami czy lokalnymi warzywami. Warto spróbować \"Johnny Cakes\" - smażonych placuszków z mąki kukurydzianej, oraz \"Guavaberry Rum\" - lokalnego likieru owocowego. Na wyspie znajdziesz zarówno eleganckie restauracje, jak i proste, lokalne \"lolos\" (małe bary z jedzeniem) oferujące autentyczne smaki."
+  ],
+  "gygQuery": "Sint Maarten",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują ważnego paszportu. Na pobyty turystyczne do 90 dni wiza nie jest wymagana. Zawsze zaleca się sprawdzenie aktualnych wymogów wjazdowych przed podróżą w ambasadzie lub konsulacie.",
+    "flight": "około 12-15 h z przesiadką",
+    "language": "Oficjalne języki to angielski i niderlandzki. Angielski jest powszechnie używany w turystyce.",
+    "money": "Oficjalną walutą jest gulden antylski (ANG), ale dolar amerykański (USD) jest powszechnie akceptowany i często używany w transakcjach. Płatności kartą są szeroko dostępne w większych sklepach i restauracjach.",
+    "plugs": "Gniazdka elektryczne typu A i B (amerykańskie), napięcie 110-120V, 60Hz. Potrzebny adapter i ewentualnie przetwornica napięcia.",
+    "safety": "Sint Maarten jest stosunkowo bezpieczne dla turystów, ale jak w każdym miejscu, należy zachować podstawową ostrożność, szczególnie po zmroku i w mniej uczęszczanych miejscach. Warto uważać na kieszonkowców i nie pozostawiać wartościowych przedmiotów bez nadzoru. Opieka medyczna jest dostępna, ale zaleca się wykupienie kompleksowego ubezpieczenia podróżnego.",
+    "timeDiff": "5 lub 6 godzin wstecz względem czasu w Polsce (w zależności od pory roku)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,225 @@
+{
+  "slug": "pakistan",
+  "loc": "w Pakistanie",
+  "to": "do Pakistanu",
+  "teaser": "Pakistan to kraj dla poszukiwaczy prawdziwych przygód, oferujący majestatyczne szczyty Karakorum, bogatą historię i niezwykle gościnnych ludzi.",
+  "intro": [
+    "Pakistan, kraj leżący na styku Azji Południowej i Środkowej, to mozaika kultur, historii i zapierających dech w piersiach krajobrazów. Od majestatycznych szczytów Karakorum, w tym słynnego K2, po starożytne ruiny cywilizacji Doliny Indusu, kraj ten oferuje niezwykłe doświadczenia. Jest to miejsce, gdzie tradycja spotyka się z surową, naturalną potęgą, a gościnność mieszkańców potrafi zaskoczyć.",
+    "To destynacja dla doświadczonych podróżników, poszukujących autentycznych wrażeń i wyzwań. Pakistan z pewnością nie jest miejscem na typowe wakacje all-inclusive, ale dla miłośników trekkingu, górskich ekspedycji, głębokiej kultury i historii będzie niezapomniany. Kraj ten wymaga otwartości, elastyczności i szacunku dla lokalnych zwyczajów.",
+    "Podróż z Polski do Pakistanu zazwyczaj wiąże się z jedną przesiadką w dużych hubach lotniczych, takich jak Dubaj, Stambuł czy Doha. Brak jest bezpośrednich połączeń czarterowych, co podkreśla jego niszowy charakter turystyczny. Wymaga to starannego planowania logistyki i świadomości lokalnych warunków, zwłaszcza w kontekście bezpieczeństwa."
+  ],
+  "highlights": [
+    "Majestatyczne szczyty Karakorum, w tym K2",
+    "Starożytne ruiny Mohendżo Daro i Harappa",
+    "Kolorowe ciężarówki i sztuka uliczna",
+    "Niezwykła gościnność Pakistańczyków",
+    "Bogata i aromatyczna kuchnia lokalna",
+    "Wspaniałe meczety i forty Mogołów"
+  ],
+  "popularity": 8,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "gilgit-baltistan",
+      "name": "Gilgit-Baltistan",
+      "loc": "w Gilgit-Baltistanie",
+      "intro": [
+        "Gilgit-Baltistan to najbardziej wysunięty na północ region Pakistanu, prawdziwy raj dla miłośników gór. To tutaj wznoszą się najwyższe szczyty Karakorum, Himalajów i Hindukuszu, w tym K2 - drugi najwyższy szczyt świata. Region oferuje niezliczone szlaki trekkingowe, od łatwych spacerów po dolinach po wymagające wyprawy wysokogórskie. Krajobrazy są tu spektakularne, z lodowcami, jeziorami i zielonymi dolinami.",
+        "Miejscowi mieszkańcy, często pochodzący z różnych grup etnicznych, zachowują swoje unikalne tradycje i języki. Region jest bramą do wielu słynnych baz trekkingowych i stanowi cel dla alpinistów z całego świata. Infrastruktura turystyczna jest podstawowa, ale rozwijająca się, oferując schronienia i proste pensjonaty."
+      ],
+      "airport": "ISB",
+      "forWhom": "Idealny dla miłośników gór, trekkingu i spektakularnych krajobrazów.",
+      "gygQuery": "Gilgit-Baltistan",
+      "highlights": [
+        "Trekking w Karakorum",
+        "Widoki na K2 i Nanga Parbat",
+        "Jezioro Attabad",
+        "Przełęcz Khunjerab"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "lahore",
+      "name": "Lahore",
+      "loc": "w Lahaurze",
+      "intro": [
+        "Lahore to kulturalne serce Pakistanu, miasto z bogatą historią sięgającą czasów Mogołów, które pozostawiły po sobie wspaniałe dziedzictwo architektoniczne. Jest to miasto tętniące życiem, pełne kolorowych bazarów, historycznych meczetów i imponujących fortów. Spacer po Starym Mieście, znanym jako Walled City, to podróż w czasie, gdzie można podziwiać misternie zdobione budowle i poczuć puls pakistańskiej kultury.",
+        "Miasto słynie również z wyśmienitej kuchni ulicznej, która przyciąga smakoszy z całego kraju. Odwiedź Meczet Badshahi, Fort Lahore i ogrody Shalimar, aby w pełni doświadczyć majestatu dawnych imperiów. Lahore to także centrum sztuki i edukacji, co nadaje mu wyjątkowy, intelektualny charakter."
+      ],
+      "airport": "LHE",
+      "forWhom": "Miasto dla entuzjastów historii, architektury Mogołów i tętniącego życiem dziedzictwa kulturowego.",
+      "gygQuery": "Lahore",
+      "highlights": [
+        "Meczet Badshahi",
+        "Fort Lahore",
+        "Ogrody Shalimar",
+        "Stare Miasto Lahore"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "islamabad-rawalpindi",
+      "name": "Islamabad i Rawalpindi",
+      "loc": "w Islamabadzie i Rawalpindi",
+      "intro": [
+        "Islamabad to nowoczesna, starannie zaplanowana stolica Pakistanu, kontrastująca z chaotycznym, tradycyjnym Rawalpindi, z którym tworzy aglomerację. Islamabad jest znany z zielonych przestrzeni, szerokich ulic i spokojnej atmosfery, co czyni go przyjemnym miejscem do odpoczynku. Można tu odwiedzić Meczet Faisala, jeden z największych na świecie, oraz podziwiać widoki z Wzgórz Margalla.",
+        "Rawalpindi, z kolei, to tętniące życiem miasto garnizonowe, pełne zatłoczonych bazarów, historycznych budynków i autentycznej pakistańskiej atmosfery. Jest to doskonałe miejsce do obserwowania codziennego życia Pakistańczyków i zakupów lokalnych produktów. Razem te dwa miasta stanowią fascynujące połączenie nowoczesności i tradycji."
+      ],
+      "airport": "ISB",
+      "forWhom": "Dwa miasta oferujące kontrast między nowoczesną stolicą a tradycyjnym, tętniącym życiem Rawalpindi.",
+      "gygQuery": "Islamabad",
+      "highlights": [
+        "Meczet Faisala",
+        "Wzgórza Margalla",
+        "Bazar Raja w Rawalpindi",
+        "Park Lake View"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "dolina-indusu",
+      "name": "Dolina Indusu (Sindh)",
+      "loc": "w Dolinie Indusu",
+      "intro": [
+        "Region Sindh, położony w południowej części Pakistanu, to kolebka starożytnej cywilizacji Doliny Indusu. To tutaj znajdują się monumentalne ruiny Mohendżo Daro, wpisane na listę UNESCO, świadczące o zaawansowanej kulturze sprzed tysięcy lat. Region charakteryzuje się pustynnym krajobrazem, ale także żyznymi terenami wzdłuż rzeki Indus, będącej sercem Pakistanu.",
+        "Poza Mohendżo Daro, Sindh oferuje inne historyczne miejsca, takie jak Grobowce Chaukhandi czy Makli Necropolis, największa na świecie nekropolia muzułmańska. Karachi, największe miasto Pakistanu i stolica prowincji Sindh, jest tętniącym życiem portem, oferującym mieszankę nowoczesności i kolonialnej architektury. Region jest fascynujący dla archeologów i miłośników historii."
+      ],
+      "airport": "KHI",
+      "forWhom": "Region dla poszukiwaczy starożytnych cywilizacji i unikalnych krajobrazów pustynnych.",
+      "gygQuery": "Indus Valley",
+      "highlights": [
+        "Ruiny Mohendżo Daro",
+        "Karaczi - tętniące życiem miasto",
+        "Grobowce Chaukhandi",
+        "Rzeka Indus"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "K2 (Góra)",
+      "text": "Drugi najwyższy szczyt świata, położony w paśmie Karakorum, cel marzeń alpinistów i symbol pakistańskich gór. Widoki z jego okolic są niezapomniane.",
+      "gygQuery": "K2 mountain"
+    },
+    {
+      "name": "Mohendżo Daro (Ruiny)",
+      "text": "Starożytne miasto cywilizacji Doliny Indusu, wpisane na listę UNESCO, oferujące wgląd w jedną z najstarszych metropolii świata.",
+      "gygQuery": "Mohenjo Daro"
+    },
+    {
+      "name": "Meczet Badshahi (Lahore)",
+      "text": "Jeden z największych i najbardziej imponujących meczetów na świecie, zbudowany przez cesarza Aurangzeba, perła architektury Mogołów.",
+      "gygQuery": "Badshahi Mosque Lahore"
+    },
+    {
+      "name": "Fort Lahore (Lahore)",
+      "text": "Historyczna cytadela w Lahore, wpisana na listę UNESCO, z pięknymi pałacami, ogrodami i salami, świadectwo potęgi Mogołów.",
+      "gygQuery": "Lahore Fort"
+    },
+    {
+      "name": "Autostrada Karakorum (Droga)",
+      "text": "Jedna z najwyżej położonych utwardzonych dróg na świecie, łącząca Pakistan z Chinami, oferująca spektakularne widoki górskie.",
+      "gygQuery": "Karakoram Highway"
+    },
+    {
+      "name": "Jezioro Attabad (Gilgit-Baltistan)",
+      "text": "Malownicze turkusowe jezioro górskie, powstałe w wyniku osunięcia ziemi, popularne miejsce na rejsy łodzią i podziwianie krajobrazu.",
+      "gygQuery": "Attabad Lake"
+    },
+    {
+      "name": "Festiwal Shandur Polo (Gilgit-Baltistan)",
+      "text": "Coroczny festiwal polo na najwyżej położonym boisku na świecie, tradycyjne wydarzenie łączące sport z lokalną kulturą.",
+      "gygQuery": "Shandur Polo Festival"
+    },
+    {
+      "name": "Grobowce Chaukhandi (Sindh)",
+      "text": "Unikalne, misternie rzeźbione kamienne grobowce z XV-XVIII wieku, świadczące o bogatej sztuce sepulkralnej regionu Sindh.",
+      "gygQuery": "Chaukhandi Tombs"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Pakistan jest bezpieczny dla turystów z Polski?",
+      "a": "Pakistan to kraj o podwyższonym ryzyku. Zaleca się szczególną ostrożność, unikanie zgromadzeń i monitorowanie komunikatów MSZ. Niektóre regiony są odradzane, a podróżowanie wymaga świadomości lokalnych warunków."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Pakistanie i czy można płacić kartą?",
+      "a": "Walutą jest rupia pakistańska (PKR). Płatności kartą są możliwe w większych miastach i hotelach, ale poza nimi gotówka jest niezbędna. Warto mieć drobne nominały na codzienne wydatki."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Pakistanu jako obywatel Polski?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Pakistanu. Można ją uzyskać online w formie e-wizy. Przed wyjazdem zawsze należy sprawdzić aktualne wymogi wizowe na stronie MSZ."
+    },
+    {
+      "q": "Jakie są główne atrakcje turystyczne Pakistanu?",
+      "a": "Główne atrakcje to majestatyczne góry Karakorum z K2, starożytne ruiny Mohendżo Daro, historyczne miasta takie jak Lahore z Meczetem Badshahi i Fortem Lahore, oraz nowoczesna stolica Islamabad."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Pakistanu?",
+      "a": "Najlepszy czas na podróż to wiosna (marzec-maj) i jesień (wrzesień-listopad), szczególnie jeśli planujesz trekking w górach. W tym okresie temperatury są umiarkowane, a pogoda stabilna."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Pakistanu zależy od planowanych aktywności. Dla trekkingu i eksploracji regionów górskich, takich jak Gilgit-Baltistan, idealne są miesiące wiosenne (marzec-maj) i jesienne (wrzesień-listopad), kiedy pogoda jest stabilna, a temperatury umiarkowane. W pozostałych regionach, zwłaszcza na nizinach, lato (czerwiec-sierpień) bywa ekstremalnie gorące, a zima (grudzień-luty) chłodna. Wiosna i jesień oferują przyjemne warunki do zwiedzania miast i stanowisk archeologicznych.",
+    "best": [
+      3,
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      2,
+      6,
+      11
+    ]
+  },
+  "capital": "Islamabad",
+  "climate": {
+    "air": [
+      25.5,
+      26.5,
+      30,
+      33,
+      34,
+      34,
+      32,
+      31,
+      31,
+      33,
+      30,
+      27
+    ],
+    "note": "Dane dla Karaczi, na wybrzeżu. W górach temperatury są znacznie niższe.",
+    "sea": [
+      22,
+      22,
+      23,
+      26,
+      28,
+      29,
+      28,
+      27,
+      27,
+      28,
+      26,
+      24
+    ]
+  },
+  "cuisine": [
+    "Kuchnia pakistańska to prawdziwa uczta dla zmysłów, charakteryzująca się bogactwem smaków i aromatów. Jest mocno zakorzeniona w tradycjach indyjskich i środkowoazjatyckich, z wyraźnym wpływem kuchni Mogołów. Podstawą wielu dań są mięsa - kurczak, baranina i wołowina, często przygotowywane w gęstych, aromatycznych sosach curry, takich jak karahi czy nihari. Nieodłącznym elementem posiłku są świeżo wypiekane chleby, takie jak naan, roti czy chapati. Popularne są również ryże biryani i pulao, a także różnorodne dania z soczewicy (dal) i warzyw. Na deser często podaje się słodkie przysmaki, takie jak gulab jamun czy jalebi, a do picia obowiązkowa jest mocna, słodka herbata chai."
+  ],
+  "gygQuery": "Pakistan",
+  "practical": {
+    "documents": "Wiza jest wymagana dla obywateli Polski. Można ją uzyskać online (e-wiza). Paszport musi być ważny co najmniej 6 miesięcy od daty wjazdu. Zawsze sprawdź aktualne wymogi wizowe przed podróżą na stronie MSZ.",
+    "flight": "Około 9-12 h z jedną przesiadką, np. w Dubaju, Stambule lub Dosze.",
+    "language": "Oficjalne języki to urdu i angielski. Angielski jest szeroko używany w biznesie i turystyce, zwłaszcza w większych miastach.",
+    "money": "Walutą jest rupia pakistańska (PKR). Płatności kartą są możliwe w większych miastach i hotelach, ale gotówka jest niezbędna poza nimi. Warto mieć drobne nominały.",
+    "plugs": "Typy C i D. Warto mieć uniwersalny adapter.",
+    "safety": "Pakistan to kraj o podwyższonym ryzyku. Zaleca się ostrożność, unikanie zgromadzeń i monitorowanie komunikatów MSZ. Niektóre regiony są odradzane. Należy zachować podstawowe środki bezpieczeństwa, szczególnie w dużych miastach.",
+    "timeDiff": "Czas w Pakistanie jest o 4 godziny późniejszy niż w Polsce (UTC+5)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

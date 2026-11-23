@@ -1,0 +1,233 @@
+{
+  "slug": "rwanda",
+  "loc": "w Rwandzie",
+  "to": "do Rwandy",
+  "teaser": "Rwanda, Kraj Tysiąca Wzgórz, to kierunek dla poszukujących bliskiego spotkania z gorylami górskimi, dziewiczej przyrody i głębokiej historii.",
+  "intro": [
+    "Rwanda to niewielki kraj we wschodniej Afryce, który po tragicznej historii ludobójstwa w 1994 roku przeszedł niezwykłą transformację. Dziś jest symbolem odrodzenia, stabilności i zrównoważonego rozwoju. Kraj przyciąga przede wszystkim unikalną możliwością obserwacji goryli górskich w ich naturalnym środowisku, ale oferuje także bujne lasy deszczowe, malownicze jeziora i parki narodowe pełne dzikich zwierząt.",
+    "Podróż do Rwandy jest idealna dla doświadczonych turystów, poszukiwaczy przygód, miłośników przyrody i osób zainteresowanych autentycznym kontaktem z lokalną kulturą. To kierunek dla tych, którzy cenią sobie odpowiedzialną turystykę i chcą zobaczyć kraj, który z sukcesem odbudował się po traumatycznych wydarzeniach. Rwanda oferuje zarówno luksusowe lodge, jak i bardziej budżetowe opcje zakwaterowania, choć trekking z gorylami zawsze wiąże się ze znacznym kosztem.",
+    "Podróż z Polski do Rwandy wymaga zazwyczaj co najmniej jednej przesiadki, najczęściej w jednym z europejskich hubów, takich jak Amsterdam, Bruksela czy Stambuł, lub w innym afrykańskim mieście. Loty są długie, ale dobrze zorganizowane. Przed wyjazdem warto zapoznać się z wymaganiami wizowymi i zdrowotnymi, aby podróż przebiegła bezproblemowo i bezpiecznie. Kraj jest dobrze skomunikowany wewnętrznie, a drogi są w stosunkowo dobrym stanie."
+  ],
+  "highlights": [
+    "Trekking do goryli górskich",
+    "Park Narodowy Wulkanów",
+    "Safari w Parku Akagera",
+    "Jezioro Kivu i relaks",
+    "Memoriał Ludobójstwa w Kigali",
+    "Tropikalne lasy Nyungwe"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "park-narodowy-wulkanow",
+      "name": "Park Narodowy Wulkanów",
+      "loc": "w Parku Narodowym Wulkanów",
+      "intro": [
+        "Położony na północnym zachodzie kraju, Park Narodowy Wulkanów to dom dla zagrożonych goryli górskich. To tutaj można odbyć niezapomniany trekking, aby spotkać te majestatyczne zwierzęta w ich naturalnym środowisku. Park obejmuje pięć z ośmiu wulkanów Wirunga, oferując spektakularne krajobrazy i różnorodność biologiczną.",
+        "Oprócz goryli, w parku można spotkać złote małpy, a także podjąć wyzwanie wspinaczki na jeden z wulkanów, na przykład Karisimbi. To doświadczenie wymaga wcześniejszej rezerwacji pozwoleń i dobrej kondycji fizycznej, ale widoki i bliskość natury rekompensują wszelkie trudy."
+      ],
+      "airport": "Kigali (KGL)",
+      "forWhom": "Dla miłośników przyrody i niezapomnianych spotkań z gorylami.",
+      "gygQuery": "Volcanoes National Park",
+      "highlights": [
+        "Trekking z gorylami górskimi",
+        "Obserwacja złotych małp",
+        "Wspinaczka na wulkany",
+        "Bujna roślinność górskich lasów"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "kigali",
+      "name": "Kigali",
+      "loc": "w Kigali",
+      "intro": [
+        "Kigali to dynamiczna i czysta stolica Rwandy, która przeszła ogromną transformację od czasu ludobójstwa. Miasto jest nowoczesne, bezpieczne i pełne zieleni, oferując odwiedzającym wgląd w rwandyjską kulturę i historię. To doskonałe miejsce na rozpoczęcie podróży po kraju, z rozwiniętą infrastrukturą turystyczną.",
+        "W Kigali znajduje się wzruszający Memoriał Ludobójstwa, który jest obowiązkowym punktem dla każdego, kto chce zrozumieć historię Rwandy. Oprócz tego, miasto oferuje galerie sztuki, lokalne targi, restauracje serwujące rwandyjskie specjały oraz tętniące życiem dzielnice, które warto odkryć pieszo."
+      ],
+      "airport": "Kigali (KGL)",
+      "forWhom": "Idealne dla tych, którzy chcą poznać historię, kulturę i nowoczesne oblicze Rwandy.",
+      "gygQuery": "Kigali",
+      "highlights": [
+        "Memoriał Ludobójstwa w Kigali",
+        "Centra sztuki i rzemiosła",
+        "Lokalne targi i kuchnia",
+        "Czyste i bezpieczne ulice"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "park-narodowy-akagera",
+      "name": "Park Narodowy Akagera",
+      "loc": "w Parku Narodowym Akagera",
+      "intro": [
+        "Park Narodowy Akagera, położony we wschodniej Rwandzie, to jedyne miejsce w kraju, gdzie można doświadczyć klasycznego safari. Jego krajobraz charakteryzują sawanny, jeziora, bagna i wzgórza, co tworzy różnorodne środowisko dla wielu gatunków zwierząt. Po latach odbudowy populacji, park jest teraz domem dla Wielkiej Piątki Afryki.",
+        "Podczas safari można podziwiać lwy, słonie, bawoły, nosorożce i lamparty, a także żyrafy, zebry i liczne gatunki antylop. Park oferuje również rejsy po jeziorze Ihema, podczas których można obserwować hipopotamy, krokodyle i bogactwo ptactwa wodnego. To doskonałe uzupełnienie podróży po Rwandzie, oferujące inną perspektywę na afrykańską przyrodę."
+      ],
+      "airport": "Kigali (KGL)",
+      "forWhom": "Miejsce na klasyczne safari i obserwację afrykańskiej fauny.",
+      "gygQuery": "Akagera National Park",
+      "highlights": [
+        "Safari z Wielką Piątką",
+        "Rejsy po jeziorze Ihema",
+        "Obserwacja ptaków",
+        "Malownicze sawanny i jeziora"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "jezioro-kivu",
+      "name": "Jezioro Kivu",
+      "loc": "nad Jeziorem Kivu",
+      "intro": [
+        "Jezioro Kivu to jedno z Wielkich Jezior Afrykańskich, położone na granicy Rwandy i Demokratycznej Republiki Konga. Jego malownicze brzegi, usiane małymi miasteczkami i wioskami rybackimi, oferują spokojny wypoczynek i piękne widoki. Brak krokodyli i bilharcji sprawia, że w jeziorze można bezpiecznie pływać.",
+        "Region wokół Jeziora Kivu to idealne miejsce na relaks po intensywnym trekkingu. Można tu uprawiać sporty wodne, takie jak kajakarstwo, żeglarstwo czy pływanie, a także odwiedzić plantacje kawy i herbaty. Miasta takie jak Gisenyi (Rubavu) i Kibuye (Karongi) są popularnymi bazami wypadowymi z hotelami i restauracjami."
+      ],
+      "airport": "Kigali (KGL)",
+      "forWhom": "Doskonałe na relaks, sporty wodne i podziwianie malowniczych krajobrazów.",
+      "gygQuery": "Lake Kivu",
+      "highlights": [
+        "Relaks na plażach",
+        "Sporty wodne i rejsy",
+        "Wizyta na plantacjach kawy",
+        "Malownicze zachody słońca"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "park-narodowy-lasu-nyungwe",
+      "name": "Park Narodowy Lasu Nyungwe",
+      "loc": "w Parku Narodowym Lasu Nyungwe",
+      "intro": [
+        "Park Narodowy Lasu Nyungwe to jeden z najstarszych i najlepiej zachowanych lasów deszczowych w Afryce. Jest on domem dla 13 gatunków naczelnych, w tym szympansów i małp kolobów. Park słynie z bogatej bioróżnorodności, oferując liczne szlaki trekkingowe i możliwość obserwacji rzadkich gatunków ptaków.",
+        "Główną atrakcją Nyungwe jest trekking szympansów, który pozwala na bliskie spotkanie z tymi inteligentnymi zwierzętami. Park oferuje również unikalną atrakcję - Canopy Walkway, czyli wiszący most nad koronami drzew, z którego roztaczają się zapierające dech w piersiach widoki na las deszczowy. To miejsce dla prawdziwych miłośników dzikiej przyrody i aktywnego wypoczynku."
+      ],
+      "airport": "Kamembe (KME) lub Kigali (KGL)",
+      "forWhom": "Dla fanów trekkingu w deszczowym lesie i obserwacji szympansów.",
+      "gygQuery": "Nyungwe Forest National Park",
+      "highlights": [
+        "Trekking szympansów",
+        "Wiszący most Canopy Walkway",
+        "Obserwacja małp kolobów",
+        "Bogactwo ptactwa i roślinności"
+      ],
+      "type": "park narodowy"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Trekking z gorylami górskimi",
+      "text": "Niezapomniane spotkanie z rodzinami goryli górskich w Parku Narodowym Wulkanów to główny powód, dla którego turyści odwiedzają Rwandę. To unikalne doświadczenie, które wymaga wcześniejszej rezerwacji pozwoleń.",
+      "gygQuery": "Volcanoes National Park Gorilla Trekking"
+    },
+    {
+      "name": "Memoriał Ludobójstwa w Kigali",
+      "text": "Wzruszające i ważne miejsce, które upamiętnia ofiary ludobójstwa w 1994 roku. Oferuje głęboki wgląd w historię kraju i jego drogę do pojednania.",
+      "gygQuery": "Kigali Genocide Memorial"
+    },
+    {
+      "name": "Safari w Parku Narodowym Akagera",
+      "text": "Jedyny park w Rwandzie, gdzie można podziwiać Wielką Piątkę Afryki. Safari samochodem lub łodzią to doskonała okazja do obserwacji dzikich zwierząt w ich naturalnym środowisku.",
+      "gygQuery": "Akagera National Park Safari"
+    },
+    {
+      "name": "Trekking szympansów w Nyungwe",
+      "text": "W Parku Narodowym Lasu Nyungwe można wyruszyć na trekking w poszukiwaniu szympansów i innych gatunków naczelnych, podziwiając jednocześnie bujny las deszczowy.",
+      "gygQuery": "Nyungwe Forest Chimpanzee Trekking"
+    },
+    {
+      "name": "Rejs po Jeziorze Kivu",
+      "text": "Relaksujący rejs po malowniczym Jeziorze Kivu pozwala podziwiać idylliczne krajobrazy, wyspy i codzienne życie lokalnych społeczności rybackich.",
+      "gygQuery": "Lake Kivu Boat Trip"
+    },
+    {
+      "name": "Muzeum Sztuki Inema w Kigali",
+      "text": "Jedna z wiodących galerii sztuki w Rwandzie, prezentująca prace lokalnych artystów. To doskonałe miejsce, aby poznać współczesną sztukę afrykańską i kupić oryginalne pamiątki.",
+      "gygQuery": "Inema Arts Center Kigali"
+    },
+    {
+      "name": "Wulkan Karisimbi",
+      "text": "Dla bardziej doświadczonych turystów, wspinaczka na najwyższy wulkan Rwandy, Karisimbi (4507 m n.p.m.), oferuje niezapomniane widoki i wyzwanie fizyczne.",
+      "gygQuery": "Mount Karisimbi Hike"
+    },
+    {
+      "name": "Lokalne targi w Kigali",
+      "text": "Odwiedzenie tętniących życiem lokalnych targów, takich jak Kimironko Market, to świetny sposób na zanurzenie się w rwandyjskiej kulturze, zakup świeżych produktów i rękodzieła.",
+      "gygQuery": "Kigali Local Markets"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Rwanda jest bezpieczna dla turystów?",
+      "a": "Rwanda jest uważana za jeden z najbezpieczniejszych krajów w Afryce. Władze przykładają dużą wagę do bezpieczeństwa, a przestępczość jest niska. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza w większych miastach."
+    },
+    {
+      "q": "Ile kosztuje pozwolenie na trekking z gorylami?",
+      "a": "Pozwolenie na trekking z gorylami górskimi w Parku Narodowym Wulkanów jest kosztowne, jego cena wynosi zazwyczaj 1500 USD za osobę. Należy je rezerwować z dużym wyprzedzeniem, ponieważ liczba miejsc jest ograniczona."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Rwandzie i jak płacić?",
+      "a": "Oficjalną walutą jest frank rwandyjski (RWF). W większych miastach i hotelach można płacić kartą, ale w mniejszych miejscowościach i na targach dominują płatności gotówką. Warto mieć przy sobie drobne nominały."
+    },
+    {
+      "q": "Czy potrzebuję wizy i szczepień do Rwandy?",
+      "a": "Obywatele Polski potrzebują wizy, którą można uzyskać online (e-wiza) lub na lotnisku po przylocie. Zalecane są szczepienia przeciwko żółtej febrze (wymagane przy wjeździe z niektórych krajów), tężcowi, błonicy, polio, durowi brzusznemu i WZW A i B. Przed wyjazdem należy skonsultować się z lekarzem i sprawdzić aktualne wymogi wizowe."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Rwandy?",
+      "a": "Najlepszy czas na podróż do Rwandy to suche pory roku: od czerwca do września oraz od grudnia do lutego. W tych miesiącach warunki do trekkingu i safari są najbardziej sprzyjające, a deszcze są rzadsze."
+    }
+  ],
+  "bestTime": {
+    "text": "Rwanda ma dwie pory suche, które są najlepszym czasem na podróż. Długa pora sucha trwa od czerwca do września, a krótka od grudnia do lutego. W tych okresach deszcze są rzadkie, co sprzyja trekkingowi z gorylami i safari. Pory deszczowe, choć wilgotne, również mają swój urok, a krajobrazy są wtedy bujniejsze.",
+    "best": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      5,
+      10,
+      11
+    ]
+  },
+  "capital": "Kigali",
+  "climate": {
+    "air": [
+      27,
+      27,
+      27,
+      26,
+      26,
+      27,
+      28,
+      28,
+      28,
+      27,
+      26,
+      27
+    ],
+    "note": "dla Kigali",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia rwandyjska jest prosta, ale pożywna, oparta na lokalnych produktach. Podstawą diety są bataty, banany (zarówno słodkie, jak i plantany), fasola, kukurydza i maniok. Popularne dania to ugali (gęsta papka z mąki kukurydzianej), isombe (liście manioku z suszoną rybą) oraz matoke (gotowane zielone banany). Często podaje się również brochettes, czyli szaszłyki z mięsa koziego lub wołowego. W miastach dostępne są restauracje oferujące dania kuchni międzynarodowej, ale warto spróbować lokalnych smaków. Świeże owoce, takie jak mango, ananasy i marakuja, są łatwo dostępne i bardzo smaczne."
+  ],
+  "gygQuery": "Rwanda",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Wiza jest wymagana dla obywateli Polski, można ją uzyskać online (e-wiza) lub na lotnisku po przylocie. Zaleca się posiadanie międzynarodowej książeczki szczepień z potwierdzeniem szczepienia przeciwko żółtej febrze. Przed wyjazdem należy sprawdzić aktualne wymogi wizowe i zdrowotne na stronach MSZ lub ambasady Rwandy.",
+    "flight": "Około 10-14 h z przesiadką, zazwyczaj w jednym z europejskich lub afrykańskich hubów.",
+    "language": "Oficjalne języki to kinya-ruanda, angielski i francuski. W miastach i ośrodkach turystycznych można porozumieć się po angielsku, zwłaszcza z młodszym pokoleniem. Znajomość podstawowych zwrotów w kinya-ruanda jest zawsze mile widziana.",
+    "money": "Walutą jest frank rwandyjski (RWF). Wymiana walut jest możliwa w bankach i kantorach. W większych miastach i hotelach akceptowane są karty płatnicze, ale w mniejszych miejscowościach i na targach dominują płatności gotówką. Zaleca się posiadanie dolarów amerykańskich (wydanych po 2006 roku) lub euro na wymianę.",
+    "plugs": "Typ C (europejski dwubolcowy) i typ J (trójbolcowy, podobny do szwajcarskiego). Napięcie 230 V, częstotliwość 50 Hz. Warto zabrać ze sobą adapter.",
+    "safety": "Rwanda jest krajem bezpiecznym, jednak należy zachować ostrożność, zwłaszcza po zmroku w miastach. Występuje ryzyko malarii, dlatego zaleca się profilaktykę antymalaryczną i stosowanie repelentów. Woda z kranu nie nadaje się do picia. Należy unikać demonstracji i zgromadzeń publicznych. Ze względu na historię kraju, należy zachować szacunek i wrażliwość, zwłaszcza podczas wizyty w miejscach pamięci."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

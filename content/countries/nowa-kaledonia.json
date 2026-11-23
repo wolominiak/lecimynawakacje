@@ -1,0 +1,202 @@
+{
+  "slug": "nowa-kaledonia",
+  "loc": "w Nowej Kaledonii",
+  "to": "do Nowej Kaledonii",
+  "teaser": "Odkryj Nową Kaledonię, francuski klejnot Pacyfiku. Czekają na Ciebie laguny UNESCO, egzotyczna kultura i dziewicze plaże.",
+  "intro": [
+    "Nowa Kaledonia, położona w sercu Pacyfiku, to terytorium zamorskie Francji, które zachwyca niezwykłą różnorodnością krajobrazów i kulturą. Jej największą atrakcją jest bez wątpienia laguna, największa na świecie, wpisana na listę światowego dziedzictwa UNESCO, oferująca niezliczone możliwości do nurkowania i snorkelingu. Poza podwodnym światem, kraj ten kusi dziewiczymi plażami, bujnymi lasami tropikalnymi oraz unikalnym połączeniem melanezyjskich tradycji z francuskim stylem życia. To idealne miejsce dla tych, którzy szukają odległych, egzotycznych destynacji z nutą europejskiego komfortu.",
+    "Ten odległy zakątek świata jest idealny dla doświadczonych podróżników, poszukujących autentycznych wrażeń i ucieczki od masowej turystyki. Nowa Kaledonia przyciąga miłośników nurkowania i sportów wodnych, entuzjastów przyrody, którzy chcą odkrywać endemiczną florę i faunę, oraz osoby zainteresowane kulturą Kanaków. Nie jest to kierunek dla osób z ograniczonym budżetem, ani dla tych, którzy preferują zorganizowane wycieczki all-inclusive. Wymaga samodzielności i otwartości na długą podróż.",
+    "Podróż z Polski do Nowej Kaledonii to długa wyprawa, która zazwyczaj obejmuje dwie lub trzy przesiadki, a całkowity czas lotu może wynieść od 24 do nawet 30 godzin. Najczęściej trasa prowadzi przez duże europejskie huby, takie jak Paryż, a następnie przez Azję (np. Tokio, Seul) lub Australię/Nową Zelandię (np. Sydney, Auckland). Wymaga to odpowiedniego planowania i cierpliwości, ale nagrodą jest dotarcie do miejsca, które wciąż pozostaje stosunkowo nieodkryte przez masową turystykę, oferując spokój i autentyczność."
+  ],
+  "highlights": [
+    "Laguna wpisana na listę UNESCO",
+    "Nurkowanie i snorkeling w rafach",
+    "Kultura Kanaków i francuskie wpływy",
+    "Dziewicze plaże i tropikalne lasy",
+    "Wyspy Lojalności, Ile des Pins",
+    "Numea - stolica z europejskim klimatem"
+  ],
+  "popularity": 8,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "numea",
+      "name": "Numea",
+      "loc": "w Numei",
+      "intro": [
+        "Numea, stolica Nowej Kaledonii, to tętniące życiem miasto, które zaskakuje swoją francuską elegancją w sercu Pacyfiku. Znajdziesz tu bulwary, kawiarnie, butiki i muzea, które przypominają o europejskich korzeniach. Jednocześnie miasto jest bramą do odkrywania lokalnej kultury Kanaków, z którą można zetknąć się w Centrum Kulturalnym Tjibaou.",
+        "Miasto oferuje piękne plaże miejskie, takie jak Anse Vata czy Baie des Citrons, idealne do relaksu i sportów wodnych. Wieczorami Numea ożywa, oferując szeroki wybór restauracji serwujących wykwintne dania kuchni francuskiej i lokalne specjały. To doskonałe miejsce na rozpoczęcie lub zakończenie podróży po Nowej Kaledonii, zapewniające komfort i dostęp do wszelkich udogodnień."
+      ],
+      "airport": "NOU",
+      "forWhom": "Dla tych, którzy szukają połączenia europejskiego stylu życia z pacyficzną egzotyką.",
+      "gygQuery": "Noumea",
+      "highlights": [
+        "Centrum Kulturalne Tjibaou",
+        "Plaże Anse Vata i Baie des Citrons",
+        "Targ miejski",
+        "Akwarium Laguny Nowej Kaledonii"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "ile-des-pins",
+      "name": "Ile des Pins",
+      "loc": "na Ile des Pins",
+      "intro": [
+        "Ile des Pins, znana jako Wyspa Sosen, to prawdziwa perła Nowej Kaledonii, słynąca z majestatycznych sosen kolumnowych, które wyrastają prosto z białych piasków. Jej turkusowe laguny i naturalne baseny, takie jak Piscine Naturelle, są idealne do pływania i snorkelingu w otoczeniu kolorowych ryb. To miejsce, gdzie czas płynie wolniej, a natura gra pierwsze skrzypce.",
+        "Wyspa oferuje nie tylko zapierające dech w piersiach widoki, ale także możliwość poznania lokalnej kultury. Można tu odwiedzić tradycyjne wioski Kanaków, spróbować świeżych owoców morza i po prostu cieszyć się idylliczną atmosferą. Ile des Pins to kwintesencja tropikalnego raju, z dala od zgiełku cywilizacji."
+      ],
+      "airport": "ILP",
+      "forWhom": "Idealna dla miłośników natury, szukających spokoju i rajskich krajobrazów.",
+      "gygQuery": "Isle of Pines New Caledonia",
+      "highlights": [
+        "Piscine Naturelle",
+        "Zatoka Oro",
+        "Zatoka Kuto i Kanumera",
+        "Jaskinia Oumagne"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "lifou",
+      "name": "Lifou",
+      "loc": "na Lifou",
+      "intro": [
+        "Lifou to największa i najbardziej zaludniona z Wysp Lojalności, oferująca spektakularne klify, ukryte jaskinie i rozległe, piaszczyste plaże. Wyspa jest domem dla wielu plemion Kanaków, które z dumą pielęgnują swoje tradycje i zwyczaje. Odwiedzający mogą tu doświadczyć prawdziwej gościnności i zanurzyć się w lokalnej kulturze.",
+        "Krajobraz Lifou to mieszanka bujnych lasów tropikalnych, plantacji wanilii i imponujących formacji skalnych. Podwodny świat wokół wyspy to raj dla nurków, z bogatymi rafami koralowymi i różnorodnością gatunków morskich. To idealne miejsce dla tych, którzy pragną uciec od masowej turystyki i odkryć autentyczne oblicze Pacyfiku."
+      ],
+      "airport": "LIF",
+      "forWhom": "Dla poszukiwaczy autentycznych doświadczeń i dziewiczej przyrody.",
+      "gygQuery": "Lifou New Caledonia",
+      "highlights": [
+        "Jaskinie Jinek",
+        "Plaża Luengoni",
+        "Klify Jokin",
+        "Plantacje wanilii"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Laguna Nowej Kaledonii (UNESCO)",
+      "text": "Największa laguna na świecie, wpisana na listę UNESCO, słynąca z niezwykłej bioróżnorodności i krystalicznie czystych wód. Idealna do nurkowania i snorkelingu.",
+      "gygQuery": "New Caledonia Lagoon"
+    },
+    {
+      "name": "Centrum Kulturalne Tjibaou",
+      "text": "Imponujący kompleks architektoniczny w Numei, zaprojektowany przez Renzo Piano, prezentujący sztukę i kulturę Kanaków.",
+      "gygQuery": "Tjibaou Cultural Center"
+    },
+    {
+      "name": "Piscine Naturelle (Ile des Pins)",
+      "text": "Naturalny basen morski na Wyspie Sosen, otoczony skałami i sosnami, z krystalicznie czystą wodą idealną do snorkelingu.",
+      "gygQuery": "Piscine Naturelle Isle of Pines"
+    },
+    {
+      "name": "Wrak statku La Dieppoise",
+      "text": "Popularne miejsce nurkowe w pobliżu Numei, gdzie spoczywa zatopiony okręt marynarki wojennej, pełen życia morskiego.",
+      "gygQuery": "La Dieppoise wreck dive"
+    },
+    {
+      "name": "Park Rzeki Bleue (Grande Terre)",
+      "text": "Rozległy park narodowy, oferujący szlaki turystyczne, pływanie kajakiem i obserwację rzadkich gatunków ptaków, w tym kagu.",
+      "gygQuery": "Blue River Park New Caledonia"
+    },
+    {
+      "name": "Jaskinie Jinek (Lifou)",
+      "text": "Seria podwodnych i nadwodnych jaskiń na wyspie Lifou, oferujących unikalne doświadczenia nurkowe i eksploracyjne.",
+      "gygQuery": "Jinek Caves Lifou"
+    },
+    {
+      "name": "Mont Dore",
+      "text": "Góra w pobliżu Numei, oferująca panoramiczne widoki na lagunę i okolicę po stosunkowo łatwej wędrówce.",
+      "gygQuery": "Mont Dore New Caledonia"
+    },
+    {
+      "name": "Plaża Anse Vata (Numea)",
+      "text": "Jedna z najbardziej znanych plaż w Numei, idealna do uprawiania sportów wodnych, opalania i relaksu w pobliżu miasta.",
+      "gygQuery": "Anse Vata Beach Noumea"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Nowa Kaledonia jest bezpiecznym kierunkiem turystycznym?",
+      "a": "Tak, Nowa Kaledonia jest generalnie bezpieczna. Należy jednak zachować podstawową ostrożność, zwłaszcza w Numei po zmroku i w zatłoczonych miejscach. Zawsze warto śledzić komunikaty MSZ."
+    },
+    {
+      "q": "Jaka jest waluta w Nowej Kaledonii i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest frank pacyficzny (XPF). W Numei i większych ośrodkach turystycznych płatności kartą są powszechne. Na mniejszych wyspach i w lokalnych sklepach zaleca się posiadanie gotówki."
+    },
+    {
+      "q": "Jak dostać się do Nowej Kaledonii z Polski?",
+      "a": "Podróż z Polski do Nowej Kaledonii wymaga co najmniej dwóch, a zazwyczaj trzech przesiadek. Najczęściej loty odbywają się przez Paryż, a następnie przez Azję (np. Tokio, Seul) lub Australię/Nową Zelandię (np. Sydney, Auckland)."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Nowej Kaledonii?",
+      "a": "Najlepszy czas na podróż to sucha i chłodniejsza pora roku, czyli od maja do listopada. W tym okresie panują przyjemne temperatury i mniejsze ryzyko deszczu, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu."
+    }
+  ],
+  "bestTime": {
+    "text": "Nowa Kaledonia leży w strefie klimatu tropikalnego, a najlepszy czas na podróż to sucha i chłodniejsza pora roku, która przypada od maja do listopada. W tym okresie temperatury są przyjemniejsze, a ryzyko opadów deszczu i cyklonów jest znacznie mniejsze, co sprzyja aktywnościom na świeżym powietrzu, nurkowaniu i plażowaniu. Miesiące od grudnia do kwietnia to pora gorąca i wilgotna, z większym prawdopodobieństwem ulewnych deszczów i burz tropikalnych.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Numea",
+  "climate": {
+    "air": [
+      28,
+      28,
+      27,
+      26,
+      24,
+      23,
+      22,
+      22,
+      23,
+      25,
+      26,
+      27
+    ],
+    "note": "Dane dla Numei",
+    "sea": [
+      26,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      22,
+      22,
+      23,
+      24,
+      25
+    ]
+  },
+  "cuisine": [
+    "Kuchnia nowokaledońska to fascynujące połączenie smaków francuskich i melanezyjskich, z silnym wpływem świeżych owoców morza. Koniecznie spróbuj 'bougna', tradycyjnego dania Kanaków, przygotowywanego z kurczaka, ryb lub owoców morza, taro, batatów i mleka kokosowego, pieczonego w liściach bananowca w ziemnym piecu. Oprócz tego, znajdziesz tu wyśmienite francuskie pieczywo, sery i wina, a także egzotyczne owoce i świeże ryby przygotowywane na wiele sposobów."
+  ],
+  "gygQuery": "New Caledonia",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą w ambasadzie Francji lub na stronie MSZ.",
+    "flight": "około 24-30 h z 2-3 przesiadkami",
+    "language": "Oficjalnym językiem jest francuski. W użyciu są także liczne języki melanezyjskie. Angielski jest rozumiany w miejscach turystycznych.",
+    "money": "Walutą jest frank pacyficzny (XPF). Płatności kartą są powszechne w większych miastach i hotelach, ale na mniejszych wyspach warto mieć gotówkę.",
+    "plugs": "Typ I (australijskie), rzadziej C i E (europejskie). Wymagany adapter.",
+    "safety": "Nowa Kaledonia jest generalnie bezpiecznym kierunkiem. Należy zachować ostrożność w Numei, zwłaszcza po zmroku, i unikać samotnych spacerów w niektórych dzielnicach. Uważać na słońce i zwierzęta morskie.",
+    "timeDiff": "plus 9 godzin (czas letni w Polsce) lub plus 10 godzin (czas zimowy w Polsce)"
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

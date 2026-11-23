@@ -1,0 +1,186 @@
+{
+  "slug": "saint-vincent-i-grenadyny",
+  "loc": "na Saint Vincent i Grenadynach",
+  "to": "na Saint Vincent i Grenadyny",
+  "teaser": "Odkryj prawdziwe Karaiby z dala od masowej turystyki. Saint Vincent i Grenadyny to wulkaniczne krajobrazy, idylliczne wysepki i żeglarskie przygody.",
+  "intro": [
+    "Saint Vincent i Grenadyny to archipelag wulkanicznych wysp na Małych Antylach, oferujący podróżnikom autentyczne karaibskie doświadczenie. Główna wyspa, Saint Vincent, jest górzysta i porośnięta bujną roślinnością, z aktywnym wulkanem La Soufrière dominującym w krajobrazie. Mniejsze, piaszczyste Grenadyny to z kolei raj dla żeglarzy i miłośników nurkowania, z krystalicznie czystą wodą i bajecznymi rafami koralowymi. To miejsce, gdzie czas płynie wolniej, a luksus często oznacza prostotę i bliskość natury.",
+    "Ten kierunek jest idealny dla osób szukających spokoju, z dala od zgiełku masowej turystyki. Przyciąga żeglarzy, nurków, miłośników pieszych wędrówek oraz tych, którzy cenią sobie dziewiczą przyrodę i lokalną kulturę. Nie znajdziesz tu wielu wielkich, all-inclusive resortów, co sprzyja bardziej kameralnemu i spersonalizowanemu wypoczynkowi. To doskonały wybór dla podróżników, którzy preferują niezależne odkrywanie i autentyczne doświadczenia zamiast typowych wczasów.",
+    "Podróż z Polski na Saint Vincent i Grenadyny wymaga cierpliwości i co najmniej dwóch przesiadek, zwykle w europejskim hubie (np. Londyn, Amsterdam) i następnie w innym karaibskim porcie lotniczym (np. Barbados, Trynidad i Tobago). Nie ma bezpośrednich lotów, a polskie biura podróży rzadko oferują zorganizowane wczasy w tym regionie. Oznacza to, że większość wyjazdu należy zaplanować samodzielnie, co daje jednak dużą swobodę w kształtowaniu trasy i odkrywaniu mniej znanych zakątków archipelagu."
+  ],
+  "highlights": [
+    "Żegluga po malowniczych Grenadynach",
+    "Wędrówka na aktywny wulkan La Soufrière",
+    "Nurkowanie i snorkeling w Tobago Cays Marine Park",
+    "Relaks na idyllicznych plażach Bequii",
+    "Odkrywanie wodospadów i tropikalnych lasów",
+    "Smakowanie świeżych owoców morza i lokalnej kuchni"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "saint-vincent",
+      "name": "Saint Vincent",
+      "loc": "na Saint Vincent",
+      "intro": [
+        "Główna wyspa archipelagu, Saint Vincent, jest jego sercem, choć turystycznie mniej rozwiniętym niż sąsiednie Grenadyny. To prawdziwy klejnot dla miłośników przyrody, oferujący bujne, tropikalne lasy deszczowe, liczne wodospady i aktywny wulkan La Soufrière, którego zdobycie jest niezapomnianym przeżyciem. Stolica, Kingstown, to tętniące życiem miasto z kolonialną architekturą, lokalnymi targami i ogrodem botanicznym, będącym jednym z najstarszych na półkuli zachodniej.",
+        "Wyspa jest mniej nastawiona na masową turystykę, co pozwala doświadczyć autentycznego karaibskiego życia. Można tu podziwiać plantacje bananów i kokosów, a także odkrywać ukryte zatoczki i dzikie plaże. Infrastruktura turystyczna jest skromniejsza, ale oferuje lokalne pensjonaty i gościnność mieszkańców. Saint Vincent to idealne miejsce dla tych, którzy szukają przygody, pieszych wędrówek i bliskiego kontaktu z naturą, z dala od luksusowych kurortów."
+      ],
+      "airport": "SVD",
+      "forWhom": "Dla miłośników natury, pieszych wędrówek i autentycznego karaibskiego klimatu.",
+      "gygQuery": "Saint Vincent island",
+      "highlights": [
+        "Wulkan La Soufrière",
+        "Dark View Falls",
+        "Kingstown Botanical Gardens",
+        "Fort Charlotte"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "grenadyny",
+      "name": "Grenadyny",
+      "loc": "na Grenadynach",
+      "intro": [
+        "Grenadyny to łańcuch około 32 mniejszych wysp i wysepek, rozciągających się na południe od Saint Vincent, z których tylko kilka jest zamieszkanych. To kwintesencja karaibskiego raju, słynąca z krystalicznie czystych wód, białych piaszczystych plaż i doskonałych warunków do żeglowania. Każda wyspa ma swój unikalny charakter, od tętniącej życiem Bequii, przez ekskluzywną Mustique, po dziewicze Tobago Cays, będące morskim parkiem narodowym i mekką dla nurków.",
+        "Archipelag jest szczególnie popularny wśród żeglarzy, którzy mogą swobodnie przemieszczać się między wyspami, odkrywając urocze zatoczki i ukryte plaże. Wiele z tych miejsc jest dostępnych tylko drogą morską, co dodaje im ekskluzywnego charakteru. Grenadyny oferują zarówno luksusowe kurorty na prywatnych wyspach, jak i kameralne pensjonaty, idealne dla tych, którzy pragną uciec od zgiełku i cieszyć się spokojem oraz pięknem tropikalnej przyrody."
+      ],
+      "airport": "SVD",
+      "forWhom": "Idealne dla żeglarzy, nurków i osób szukających luksusowego wypoczynku w kameralnym otoczeniu.",
+      "gygQuery": "Grenadines islands",
+      "highlights": [
+        "Bequia",
+        "Mustique",
+        "Tobago Cays Marine Park",
+        "Union Island"
+      ],
+      "type": "archipelag"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan La Soufrière",
+      "text": "Aktywny wulkan na Saint Vincent, oferujący wymagającą, ale satysfakcjonującą wędrówkę na szczyt z panoramicznymi widokami na wyspę i ocean.",
+      "gygQuery": "La Soufriere Volcano"
+    },
+    {
+      "name": "Tobago Cays Marine Park",
+      "text": "Chroniony park morski, składający się z pięciu niezamieszkanych wysepek, znany z doskonałych warunków do nurkowania, snorkelingu i obserwacji żółwi morskich.",
+      "gygQuery": "Tobago Cays"
+    },
+    {
+      "name": "Bequia",
+      "text": "Druga co do wielkości wyspa w archipelagu Grenadyn, słynąca z relaksującej atmosfery, urokliwego Port Elizabeth i pięknych plaż.",
+      "gygQuery": "Bequia island"
+    },
+    {
+      "name": "Mustique",
+      "text": "Ekskluzywna, prywatna wyspa, ulubione miejsce wypoczynku celebrytów, oferująca luksusowe wille i dziewicze plaże.",
+      "gygQuery": "Mustique island"
+    },
+    {
+      "name": "Dark View Falls",
+      "text": "Malownicze podwójne wodospady na Saint Vincent, dostępne po krótkiej wędrówce przez las deszczowy i przekroczeniu bambusowego mostu.",
+      "gygQuery": "Dark View Falls"
+    },
+    {
+      "name": "Kingstown",
+      "text": "Stolica Saint Vincent i Grenadyn, z zabytkowymi kościołami, tętniącym życiem targiem i jednym z najstarszych ogrodów botanicznych na Karaibach.",
+      "gygQuery": "Kingstown Saint Vincent"
+    },
+    {
+      "name": "Mayreau",
+      "text": "Najmniejsza zamieszkana wyspa Grenadyn, znana z urokliwej zatoki Saltwhistle Bay, idealnej do relaksu i kąpieli.",
+      "gygQuery": "Mayreau island"
+    },
+    {
+      "name": "Union Island",
+      "text": "Wyspa będąca ważnym punktem dla żeglarzy, z tętniącym życiem Clifton i pięknymi widokami na okoliczne wyspy.",
+      "gygQuery": "Union Island"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Saint Vincent i Grenadyny są bezpieczne?",
+      "a": "Generalnie Saint Vincent i Grenadyny są bezpiecznym krajem, ale jak wszędzie, zdarzają się drobne przestępstwa, zwłaszcza w Kingstown. Zaleca się zachowanie ostrożności, szczególnie po zmroku i w zatłoczonych miejscach. Przed wyjazdem warto sprawdzić aktualne ostrzeżenia Ministerstwa Spraw Zagranicznych."
+    },
+    {
+      "q": "Jak dostać się na Saint Vincent i Grenadyny z Polski?",
+      "a": "Nie ma bezpośrednich lotów z Polski. Podróż wymaga co najmniej dwóch przesiadek, zazwyczaj w dużym europejskim mieście, a następnie w jednym z karaibskich hubów, takich jak Barbados (BGI) lub Trynidad i Tobago (POS)."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Saint Vincent i Grenadyny?",
+      "a": "Najlepszy czas na wizytę to pora sucha, od grudnia do maja. W tym okresie panują przyjemne temperatury, niższa wilgotność i mniejsze ryzyko opadów. Pora deszczowa trwa od czerwca do listopada, z największym ryzykiem huraganów od sierpnia do października."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Saint Vincent i Grenadynach?",
+      "a": "Oficjalną walutą jest dolar wschodniokaraibski (XCD). Powszechnie akceptowany jest również dolar amerykański (USD). Karty kredytowe są akceptowane w większych hotelach i restauracjach, ale warto mieć przy sobie gotówkę, zwłaszcza na mniejszych wyspach."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy na Saint Vincent i Grenadyny?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 30 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą na stronie MSZ."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na podróż na Saint Vincent i Grenadyny jest pora sucha, trwająca od grudnia do maja. W tych miesiącach panują stabilne, przyjemne temperatury, niska wilgotność i mniejsze prawdopodobieństwo intensywnych opadów deszczu, co sprzyja aktywnościom na świeżym powietrzu, żeglowaniu i plażowaniu. Od czerwca do listopada trwa pora deszczowa, a od sierpnia do października wzrasta ryzyko huraganów, co może zakłócić plany podróży.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      11
+    ]
+  },
+  "capital": "Kingstown",
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      30,
+      30,
+      31,
+      31,
+      30,
+      30,
+      29
+    ],
+    "note": "Dane dla Kingstown, stolicy Saint Vincent.",
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Saint Vincent i Grenadyn to typowe karaibskie smaki, z dużą ilością świeżych ryb i owoców morza, takich jak mahi-mahi czy barakuda. Popularne są także warzywa korzeniowe, np. bataty i taro, oraz owoce chlebowca. Warto spróbować lokalnego dania callaloo soup (zupa z liści taro) oraz różnorodnych curry. Nieodłącznym elementem są świeże owoce, a także lokalny rum i piwo Hairoun."
+  ],
+  "gygQuery": "Saint Vincent and the Grenadines",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 30 dni. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 15-20 godzin z dwiema przesiadkami (z Europy i w regionie Karaibów).",
+    "language": "Angielski (urzędowy).",
+    "money": "Dolar wschodniokaraibski (XCD). Dolar amerykański (USD) jest powszechnie akceptowany. Karty kredytowe w większych obiektach, gotówka na mniejszych wyspach i targach. Bankomaty dostępne w większych miejscowościach.",
+    "plugs": "Typ A i B (płaskie bolce), napięcie 110/220V. Adaptery są niezbędne, zaleca się również zabranie przejściówki z funkcją stabilizacji napięcia.",
+    "safety": "Kraj jest generalnie bezpieczny, ale należy zachować ostrożność w miejscach publicznych, szczególnie w Kingstown i po zmroku, ze względu na drobne kradzieże. Warto śledzić komunikaty dotyczące sezonu huraganowego i aktywności wulkanicznej. Zaleca się wykupienie ubezpieczenia podróżnego."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

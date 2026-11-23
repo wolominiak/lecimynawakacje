@@ -1,0 +1,196 @@
+{
+  "slug": "seszele",
+  "loc": "na Seszelach",
+  "to": "na Seszele",
+  "teaser": "Seszele, perła Oceanu Indyjskiego, to idealne miejsce na luksusowy relaks, nurkowanie w krystalicznej wodzie i odkrywanie unikalnej fauny i flory.",
+  "intro": [
+    "Archipelag Seszeli to synonim rajskich wakacji, przyciągający turystów z całego świata swoimi pocztówkowymi plażami z białym piaskiem, charakterystycznymi granitowymi skałami i turkusową wodą. To miejsce, gdzie bujna tropikalna roślinność spotyka się z lazurowym oceanem, tworząc scenerię idealną do całkowitego oderwania się od rzeczywistości. Seszele to nie tylko piękne widoki, ale także unikalna flora i fauna, w tym endemiczne gatunki, które można podziwiać w ich naturalnym środowisku.",
+    "Kraj ten jest idealny dla par szukających romantycznego wyjazdu, nowożeńców na podróż poślubną, a także dla miłośników nurkowania i snorkelingu, którzy chcą odkrywać bogactwo podwodnego świata. To także doskonały wybór dla osób ceniących spokój, luksusowy wypoczynek i bliski kontakt z dziewiczą naturą. Jeśli szukasz głośnych imprez i zgiełku, Seszele mogą nie być najlepszym wyborem, tutaj stawia się na relaks i harmonię.",
+    "Podróż z Polski na Seszele wymaga co najmniej jednej przesiadki, najczęściej w dużych hubach lotniczych takich jak Dubaj, Doha czy Stambuł, co sprawia, że całkowity czas lotu wynosi około 12-14 godzin. Mimo długiej podróży, wysiłek ten jest w pełni wynagradzany przez niezrównane piękno i spokój, które oferuje ten egzotyczny archipelag. Warto zaplanować podróż z wyprzedzeniem, aby znaleźć dogodne połączenia i zakwaterowanie."
+  ],
+  "highlights": [
+    "Plaże z białym piaskiem i granitowymi skałami",
+    "Krystalicznie czyste wody Oceanu Indyjskiego",
+    "Nurkowanie i snorkeling wśród raf koralowych",
+    "Unikalna flora i fauna, w tym żółwie olbrzymie",
+    "Relaks w luksusowych kurortach",
+    "Rejsy między wyspami i wycieczki łodzią"
+  ],
+  "popularity": 45,
+  "touroperator": true,
+  "regions": [
+    {
+      "slug": "mahe",
+      "name": "Mahé",
+      "loc": "na Mahé",
+      "intro": [
+        "Mahé to największa wyspa Seszeli i centrum życia archipelagu. Znajduje się tu międzynarodowe lotnisko oraz stolica Victoria, oferująca bazary, restauracje i kolonialną architekturę. Wyspa jest górzysta, porośnięta bujną roślinnością, z licznymi ukrytymi zatoczkami i plażami, takimi jak słynna Beau Vallon.",
+        "Oprócz relaksu na plaży, Mahé oferuje wiele szlaków trekkingowych w Parku Narodowym Morne Seychellois, gdzie można podziwiać endemiczne gatunki roślin i zwierząt. To doskonałe miejsce na rozpoczęcie przygody z Seszelami, z łatwym dostępem do innych wysp."
+      ],
+      "airport": "SEZ",
+      "forWhom": "Dla tych, którzy cenią połączenie natury z dostępnością udogodnień i różnorodnymi atrakcjami.",
+      "gygQuery": "Mahe Seychelles",
+      "highlights": [
+        "Stolica Victoria i jej bazar",
+        "Park Narodowy Morne Seychellois",
+        "Plaża Beau Vallon",
+        "Plantacje herbaty i przypraw"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "praslin",
+      "name": "Praslin",
+      "loc": "na Praslin",
+      "intro": [
+        "Praslin, druga co do wielkości wyspa Seszeli, słynie przede wszystkim z Doliny Mai (Vallée de Mai), wpisanej na listę UNESCO. To jedyne miejsce na świecie, gdzie dziko rośnie palma Coco de Mer, produkująca największe nasiona na świecie. Wyspa oferuje również piękne plaże, takie jak Anse Lazio, często uznawana za jedną z najpiękniejszych na świecie.",
+        "Praslin to także doskonała baza wypadowa do nurkowania i snorkelingu wokół pobliskich wysepek, takich jak Curieuse czy St. Pierre. Mniej zatłoczona niż Mahé, oferuje bardziej kameralną atmosferę i bliższy kontakt z naturą."
+      ],
+      "airport": "PRI",
+      "forWhom": "Idealna dla miłośników przyrody i szukających spokoju, z łatwym dostępem do unikalnych atrakcji.",
+      "gygQuery": "Praslin Seychelles",
+      "highlights": [
+        "Dolina Mai (Vallée de Mai)",
+        "Plaża Anse Lazio",
+        "Palma Coco de Mer",
+        "Rejsy na pobliskie wyspy"
+      ],
+      "type": "wyspa"
+    },
+    {
+      "slug": "la-digue",
+      "name": "La Digue",
+      "loc": "na La Digue",
+      "intro": [
+        "La Digue to kwintesencja seszelskiej pocztówki. Mniejsza wyspa, gdzie głównym środkiem transportu jest rower, oferuje idylliczną atmosferę bez pośpiechu. Słynie z plaży Anse Source d'Argent, z jej charakterystycznymi, gładkimi granitowymi skałami i płytką, turkusową wodą, idealną do kąpieli i fotografowania.",
+        "Wyspa jest idealna do eksploracji na dwóch kółkach, odkrywania ukrytych zatoczek i podziwiania lokalnego życia. To miejsce, gdzie czas zwalnia, a piękno natury jest na wyciągnięcie ręki, oferując autentyczne doświadczenie Seszeli."
+      ],
+      "airport": "PRI (na Praslin, potem prom)",
+      "forWhom": "Dla tych, którzy pragną idyllicznego spokoju, rowerowych przejażdżek i niezapomnianych widoków.",
+      "gygQuery": "La Digue Seychelles",
+      "highlights": [
+        "Plaża Anse Source d'Argent",
+        "Rowerowe wycieczki po wyspie",
+        "Tradycyjne plantacje wanilii",
+        "Spokój i brak samochodów"
+      ],
+      "type": "wyspa"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Anse Source d'Argent (La Digue)",
+      "text": "Jedna z najbardziej fotografowanych plaż świata, słynąca z różowych granitowych skał i płytkich, turkusowych lagun. Idealna do kąpieli i podziwiania krajobrazu.",
+      "gygQuery": "Anse Source d'Argent"
+    },
+    {
+      "name": "Vallée de Mai (Praslin)",
+      "text": "Rezerwat przyrody UNESCO, dom dla endemicznej palmy Coco de Mer. To prehistoryczny las, który przenosi w inny wymiar.",
+      "gygQuery": "Vallee de Mai"
+    },
+    {
+      "name": "Plaża Beau Vallon (Mahé)",
+      "text": "Najpopularniejsza i najdłuższa plaża na Mahé, oferująca szeroki wybór sportów wodnych, restauracji i barów. Idealna na aktywny wypoczynek.",
+      "gygQuery": "Beau Vallon beach"
+    },
+    {
+      "name": "Park Narodowy Morne Seychellois (Mahé)",
+      "text": "Największy park narodowy Seszeli, oferujący szlaki trekkingowe przez góry i lasy deszczowe. Można tu podziwiać endemiczną florę i faunę.",
+      "gygQuery": "Morne Seychellois National Park"
+    },
+    {
+      "name": "Wyspa Curieuse",
+      "text": "Niewielka wyspa niedaleko Praslin, znana z rezerwatu żółwi olbrzymich i lasów mangrowych. Popularne miejsce na jednodniową wycieczkę.",
+      "gygQuery": "Curieuse Island"
+    },
+    {
+      "name": "Victoria Market (Mahé)",
+      "text": "Główny bazar w stolicy Victorii, gdzie można kupić świeże owoce, warzywa, ryby i lokalne przyprawy. Prawdziwe serce miasta.",
+      "gygQuery": "Victoria Market Seychelles"
+    },
+    {
+      "name": "Anse Lazio (Praslin)",
+      "text": "Często uznawana za jedną z najpiękniejszych plaż świata, z białym piaskiem, krystaliczną wodą i palmami. Idealna do pływania i snorkelingu.",
+      "gygQuery": "Anse Lazio beach"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy na Seszelach jest drogo?",
+      "a": "Seszele są uważane za kierunek luksusowy, a ceny zakwaterowania, transportu i posiłków mogą być wysokie. Można jednak znaleźć bardziej przystępne opcje, takie jak pensjonaty czy lokalne restauracje, aby nieco obniżyć koszty."
+    },
+    {
+      "q": "Jak poruszać się między wyspami na Seszelach?",
+      "a": "Między głównymi wyspami Mahé, Praslin i La Digue kursują regularne promy (Cat Cocos, Cat Rose). Na mniejsze wyspy można dostać się lokalnymi samolotami (Air Seychelles) lub prywatnymi łodziami i helikopterami. Na samych wyspach popularne są autobusy, taksówki i rowery."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Seszele?",
+      "a": "Obywatele Polski nie potrzebują wizy na Seszele w celach turystycznych na pobyty do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego powrotu, bilet powrotny i potwierdzenie zakwaterowania. Zawsze sprawdź aktualne wymogi przed wyjazdem."
+    },
+    {
+      "q": "Co warto kupić na Seszelach jako pamiątkę?",
+      "a": "Najbardziej unikalną pamiątką jest orzech Coco de Mer (wymaga certyfikatu), ale popularne są też lokalne wyroby rzemieślnicze z drewna czy muszli, przyprawy, olejki kokosowe, a także obrazy i biżuteria inspirowane lokalną kulturą."
+    }
+  ],
+  "bestTime": {
+    "text": "Na Seszelach panuje klimat równikowy, co oznacza wysokie temperatury i wilgotność przez cały rok. Najlepszy czas na podróż to okres od maja do października, kiedy jest mniej deszczu i niższa wilgotność, a przyjemne wiatry pasatowe sprawiają, że upał jest mniej odczuwalny. W tym czasie warunki do nurkowania i snorkelingu są również doskonałe.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Victoria",
+  "climate": {
+    "air": [
+      29,
+      30,
+      31,
+      31,
+      30,
+      29,
+      28,
+      28,
+      29,
+      29,
+      30,
+      30
+    ],
+    "note": "dla Victorii",
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      28,
+      27,
+      27,
+      27,
+      27,
+      28,
+      28,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia seszelska to prawdziwa fuzja smaków, silnie inspirowana wpływami afrykańskimi, francuskimi, indyjskimi i chińskimi. Podstawą jest świeża ryba i owoce morza, przygotowywane na wiele sposobów - grillowane, smażone, w curry z mlekiem kokosowym. Popularne są dania z ryżu, warzyw i egzotycznych owoców. Warto spróbować 'curry z ośmiornicy' oraz 'ladob' - słodkiego dania z bananów lub batatów w mleku kokosowym, które doskonale oddaje lokalny charakter. Nie brakuje też świeżych soków z tropikalnych owoców."
+  ],
+  "gygQuery": "Seychelles",
+  "practical": {
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego powrotu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Wymagany jest bilet powrotny lub na dalszą podróż oraz potwierdzenie zakwaterowania. Zawsze sprawdź aktualne wymogi wizowe przed wyjazdem.",
+    "flight": "Około 12-14 h z jedną przesiadką, najczęściej w Dubaju, Dausze lub Stambule.",
+    "language": "Kreolski seszelski, angielski i francuski są językami urzędowymi. Bez problemu porozumiesz się po angielsku w miejscach turystycznych.",
+    "money": "Waluta to rupia seszelska (SCR). Płatności kartą są powszechne w hotelach i większych sklepach, ale warto mieć gotówkę na mniejsze wydatki, lokalne targi czy napiwki. Bankomaty są dostępne na głównych wyspach.",
+    "plugs": "Typ G (brytyjski), potrzebna przejściówka.",
+    "safety": "Seszele są generalnie bezpieczne, ale zaleca się zachowanie podstawowych środków ostrożności, zwłaszcza po zmroku w mniej uczęszczanych miejscach. Uważać na drobne kradzieże. Brak szczególnych zagrożeń zdrowotnych, ale warto mieć ubezpieczenie turystyczne i skonsultować się z lekarzem w sprawie szczepień."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "nauru",
+  "loc": "na Nauru",
+  "to": "na Nauru",
+  "teaser": "Nauru to najmniejsza republika wyspiarska świata, oferująca unikalne spojrzenie na historię wydobycia fosforanów i odległe życie Pacyfiku. To kierunek dla prawdziwych odkrywców.",
+  "intro": [
+    "Nauru, położone na środkowym Pacyfiku, to kraj, który z pewnością nie jest typowym celem turystycznym. Jego historia jest ściśle związana z wydobyciem fosforanów, które przez lata kształtowało krajobraz i gospodarkę. Dziś Nauru to przede wszystkim miejsce dla podróżników szukających autentycznych doświadczeń, z dala od masowej turystyki. Nie znajdziesz tu luksusowych kurortów ani rozbudowanej infrastruktury, ale za to poznasz prawdziwe życie mieszkańców i zobaczysz efekty intensywnej eksploatacji zasobów naturalnych.",
+    "Ten mikroskopijny kraj, o powierzchni zaledwie 21 kilometrów kwadratowych, przyciąga swoją odosobnieniem i niezwykłą historią. To idealny wybór dla tych, którzy chcą odwiedzić wszystkie kraje świata lub po prostu pragną uciec od zgiełku cywilizacji. Nauru oferuje spokój, możliwość obcowania z lokalną kulturą i podziwiania krajobrazów, które są świadectwem burzliwej przeszłości. Przygotuj się na podróż, która będzie wymagała elastyczności i otwartości na nowe doświadczenia.",
+    "Podróż z Polski na Nauru to prawdziwa wyprawa, wymagająca wielu przesiadek i cierpliwości. Zazwyczaj loty prowadzą przez duże huby azjatyckie lub australijskie, a następnie lokalnymi liniami lotniczymi. Ze względu na brak bezpośrednich połączeń i ograniczoną liczbę lotów, planowanie podróży wymaga dokładności i rezerwacji z dużym wyprzedzeniem. Nauru to kierunek dla tych, którzy cenią sobie samą drogę tak samo jak cel podróży."
+  ],
+  "highlights": [
+    "Poznaj historię wydobycia fosforanów",
+    "Odwiedź najwyższy punkt wyspy, Command Ridge",
+    "Zrelaksuj się nad laguną Buada",
+    "Odkryj podziemne jaskinie Moqua Caves",
+    "Podziwiaj widoki z Anibare Bay",
+    "Doświadcz prawdziwego życia na Pacyfiku"
+  ],
+  "popularity": 5,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "yaren",
+      "name": "Yaren",
+      "loc": "w Yaren",
+      "intro": [
+        "Yaren to de facto stolica Nauru i centrum administracyjne kraju. To tutaj znajduje się większość budynków rządowych, parlament, a także międzynarodowe lotnisko. Jest to główny punkt wjazdowy na wyspę i miejsce, gdzie załatwisz wszelkie formalności. Choć nie jest to miasto w tradycyjnym sensie, Yaren pełni kluczową rolę w życiu Nauru.",
+        "W Yaren znajdziesz kilka podstawowych usług, takich jak banki czy sklepy, ale nie oczekuj rozbudowanej infrastruktury turystycznej. To dobre miejsce, aby poczuć puls kraju i zobaczyć, jak funkcjonuje to niewielkie państwo. Z Yaren łatwo dotrzesz do innych części wyspy, które oferują więcej atrakcji przyrodniczych i historycznych."
+      ],
+      "airport": "INU",
+      "forWhom": "Dla podróżników, którzy chcą zobaczyć centrum administracyjne Nauru i poczuć lokalny klimat.",
+      "gygQuery": "Yaren Nauru",
+      "highlights": [
+        "Międzynarodowe lotnisko Nauru",
+        "Budynki parlamentu",
+        "Centra administracyjne",
+        "Lokalne sklepy"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "laguna-buada",
+      "name": "Laguna Buada",
+      "loc": "nad laguną Buada",
+      "intro": [
+        "Laguna Buada to jedno z najbardziej malowniczych i spokojnych miejsc na Nauru. Jest to słodkowodne jezioro, położone w zagłębieniu terenu, otoczone bujną roślinnością. W przeciwieństwie do większości wyspy, która ucierpiała na skutek wydobycia fosforanów, okolice laguny zachowały swój naturalny urok. To idealne miejsce na relaks i podziwianie tropikalnej przyrody.",
+        "Obszar wokół laguny jest domem dla wielu gatunków ptaków i stanowi oazę spokoju. Możesz tu spacerować, obserwować lokalną faunę i florę, a także po prostu cieszyć się ciszą. Laguna Buada to doskonały przykład, jak Nauru potrafi zaskoczyć swoimi ukrytymi skarbami naturalnymi."
+      ],
+      "airport": "INU",
+      "forWhom": "Dla miłośników przyrody i szukających spokoju z dala od zgiełku.",
+      "gygQuery": "Buada Lagoon Nauru",
+      "highlights": [
+        "Słodkowodne jezioro",
+        "Bujna tropikalna roślinność",
+        "Obserwacja ptaków",
+        "Spokojne spacery"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "zatoka-anibare",
+      "name": "Zatoka Anibare",
+      "loc": "w Zatoce Anibare",
+      "intro": [
+        "Zatoka Anibare to jedna z najpiękniejszych plaż na Nauru, oferująca biały piasek i krystalicznie czystą wodę. Jest to popularne miejsce wśród mieszkańców na weekendowe wypady i pikniki. Choć Nauru nie słynie z rozległych plaż, Anibare Bay stanowi przyjemne wyjątek, idealne do kąpieli i relaksu.",
+        "W okolicy zatoki znajduje się również jeden z nielicznych hoteli na wyspie, co czyni ją dogodną bazą wypadową. Możesz tu podziwiać wschody słońca nad Pacyfikiem, spacerować brzegiem morza i poczuć prawdziwą atmosferę wyspiarskiego życia. To dobre miejsce, aby odpocząć po zwiedzaniu bardziej surowych krajobrazów Nauru."
+      ],
+      "airport": "INU",
+      "forWhom": "Dla osób szukających plażowego relaksu i pięknych widoków.",
+      "gygQuery": "Anibare Bay Nauru",
+      "highlights": [
+        "Piaszczysta plaża",
+        "Krystalicznie czysta woda",
+        "Wschody słońca nad Pacyfikiem",
+        "Możliwość kąpieli i relaksu"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Command Ridge",
+      "text": "Najwyższy punkt Nauru, oferujący panoramiczne widoki na całą wyspę. Znajdują się tu również pozostałości japońskich dział z czasów II wojny światowej.",
+      "gygQuery": "Command Ridge Nauru"
+    },
+    {
+      "name": "Laguna Buada",
+      "text": "Słodkowodne jezioro położone w malowniczym zagłębieniu, otoczone bujną roślinnością. To spokojna oaza natury na wyspie.",
+      "gygQuery": "Buada Lagoon Nauru"
+    },
+    {
+      "name": "Moqua Caves",
+      "text": "Podziemne jaskinie z systemem korytarzy i małym, słodkowodnym jeziorem. Wymagają ostrożności podczas zwiedzania.",
+      "gygQuery": "Moqua Caves Nauru"
+    },
+    {
+      "name": "Zatoka Anibare",
+      "text": "Jedna z najładniejszych plaż na Nauru z białym piaskiem i turkusową wodą, idealna do pływania i relaksu.",
+      "gygQuery": "Anibare Bay Nauru"
+    },
+    {
+      "name": "Central Plateau (Topside)",
+      "text": "Obszar wyspy z krajobrazem ukształtowanym przez intensywne wydobycie fosforanów, przypominający księżycowy pejzaż.",
+      "gygQuery": "Nauru phosphate mining landscape"
+    },
+    {
+      "name": "Centrum dla uchodźców",
+      "text": "Budynek, który przez lata służył jako kontrowersyjne centrum dla uchodźców, będące ważnym elementem współczesnej historii Nauru.",
+      "gygQuery": "Nauru Regional Processing Centre"
+    },
+    {
+      "name": "Japońskie Działa",
+      "text": "Pozostałości japońskich fortyfikacji i dział z okresu II wojny światowej, rozsiane po całej wyspie, świadectwo militarnej przeszłości.",
+      "gygQuery": "Nauru Japanese guns"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Nauru jest bezpieczne dla turystów?",
+      "a": "Nauru jest generalnie bezpiecznym krajem. Występuje tu niski poziom przestępczości, jednak zawsze zaleca się zachowanie podstawowych środków ostrożności. Należy szanować lokalne zwyczaje i kulturę."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu na Nauru dla Polaków?",
+      "a": "Obywatele Polski potrzebują wizy, aby wjechać na Nauru. Wiza musi być uzyskana przed podróżą. Zawsze należy sprawdzić aktualne wymagania wizowe w ambasadzie lub konsulacie Nauru, lub na stronie MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jaka jest waluta na Nauru i czy można płacić kartą?",
+      "a": "Oficjalną walutą Nauru jest dolar australijski (AUD). Płatności kartą są bardzo ograniczone, głównie w większych hotelach lub niektórych sklepach. Zaleca się posiadanie gotówki na większość wydatków."
+    },
+    {
+      "q": "Jak dostać się na Nauru z Polski?",
+      "a": "Na Nauru nie ma bezpośrednich lotów z Polski. Podróż wymaga wielu przesiadek, zazwyczaj przez Azję lub Australię (np. Brisbane), a następnie lokalnymi liniami lotniczymi. Cała podróż może trwać od 30 do 40 godzin lub dłużej."
+    }
+  ],
+  "bestTime": {
+    "text": "Nauru ma tropikalny klimat, z wysokimi temperaturami i wilgotnością przez cały rok. Pora deszczowa trwa od listopada do lutego, charakteryzując się intensywnymi, ale krótkotrwałymi opadami. Pora sucha, od marca do października, jest zazwyczaj bardziej słoneczna i mniej wilgotna, co czyni ją najlepszym okresem na podróż. Temperatury powietrza i wody są stabilnie wysokie niezależnie od pory roku.",
+    "best": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      11,
+      12,
+      1,
+      2
+    ]
+  },
+  "capital": "Yaren",
+  "climate": {
+    "air": [
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      30,
+      31,
+      31,
+      31,
+      31
+    ],
+    "note": "dla Yaren",
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29
+    ]
+  },
+  "cuisine": [
+    "Kuchnia Nauru jest prosta i opiera się głównie na darach morza oraz lokalnych owocach i warzywach. Świeże ryby, takie jak tuńczyk czy mahi-mahi, są podstawą diety, często przygotowywane na grillu lub w kokosowym mleku. Popularne są również owoce morza, takie jak krewetki i kraby. W diecie mieszkańców obecne są także owoce tropikalne, takie jak banany, papaje, ananasy i oczywiście kokosy, wykorzystywane do picia i gotowania. Ze względu na ograniczone zasoby lokalne, wiele produktów spożywczych jest importowanych."
+  ],
+  "gygQuery": "Nauru",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych wymagań wizowych w ambasadzie lub konsulacie Nauru, lub na stronie MSZ przed wyjazdem.",
+    "flight": "Około 30-40 godzin z wieloma przesiadkami, zazwyczaj przez Azję lub Australię.",
+    "language": "Angielski i nauruański to języki urzędowe. Angielski jest powszechnie używany, zwłaszcza w kontaktach z turystami.",
+    "money": "Walutą jest dolar australijski (AUD). Płatności kartą są bardzo ograniczone, głównie w hotelach. Zaleca się posiadanie gotówki.",
+    "plugs": "Typ I (australijski/nowozelandzki), z dwoma płaskimi bolcami i jednym uziemiającym. Napięcie 240 V, częstotliwość 50 Hz. Potrzebny adapter.",
+    "safety": "Nauru jest krajem o niskim poziomie przestępczości. Należy zachować podstawowe środki ostrożności. Opieka medyczna jest bardzo ograniczona, zaleca się posiadanie kompleksowego ubezpieczenia podróżnego. Brak szczepień obowiązkowych, ale zalecane są standardowe szczepienia podróżne.",
+    "timeDiff": "Różnica czasu do Polski to +10 lub +11 godzin, w zależności od czasu letniego/zimowego w Polsce (Nauru jest UTC+12)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

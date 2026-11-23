@@ -1,0 +1,241 @@
+{
+  "slug": "salwador",
+  "loc": "w Salwadorze",
+  "to": "do Salwadoru",
+  "teaser": "Salwador, najmniejszy kraj Ameryki Środkowej, oferuje wulkany, jeziora i wybrzeże Pacyfiku. To destynacja dla poszukiwaczy autentycznych wrażeń.",
+  "intro": [
+    "Salwador to kraj o bogatej historii i zróżnicowanym krajobrazie, często niedoceniany przez masową turystykę. Mimo że bywa kojarzony z wyzwaniami w kwestii bezpieczeństwa, w ostatnich latach poczyniono spore postępy, a obszary turystyczne stają się coraz bardziej dostępne i bezpieczne. Można tu odkryć kolonialne miasteczka, aktywne wulkany, malownicze jeziora oraz znakomite warunki do surfingu na Pacyfiku.",
+    "Kraj ten jest idealny dla podróżników, którzy szukają autentycznych doświadczeń, poza utartymi szlakami. To miejsce dla osób ceniących sobie aktywny wypoczynek, kulturę Majów i kolonialną architekturę, a także dla miłośników kawy i surfingu. Salwador oferuje możliwość bliskiego kontaktu z lokalną ludnością i poznania prawdziwego oblicza Ameryki Środkowej, z dala od komercyjnych kurortów.",
+    "Podróż z Polski do Salwadoru wymaga co najmniej jednej przesiadki, najczęściej w jednym z dużych hubów w Europie lub USA. Całkowity czas lotu to zazwyczaj około 15-20 godzin. Przed wyjazdem warto zapoznać się z aktualnymi zaleceniami dotyczącymi bezpieczeństwa oraz sprawdzić, czy nie ma konieczności posiadania wizy, choć dla Polaków zazwyczaj nie jest ona wymagana na krótkie pobyty turystyczne.",
+    "highlights",
+    "Wulkany i jeziora wulkaniczne",
+    "Kolonialne miasteczka i kawa",
+    "Pacyficzne plaże dla surferów",
+    "Ruiny Majów i kultura prekolumbijska",
+    "Lokalna kuchnia i kawa specialty",
+    "Przyjazni, otwarci mieszkańcy"
+  ],
+  "highlights": [
+    "Wulkany i jeziora wulkaniczne",
+    "Kolonialne miasteczka i kawa",
+    "Pacyficzne plaże dla surferów",
+    "Ruiny Majów i kultura prekolumbijska",
+    "Lokalna kuchnia i kawa specialty",
+    "Przyjazni, otwarci mieszkańcy"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "san-salvador",
+      "name": "San Salvador",
+      "loc": "w San Salvador",
+      "intro": [
+        "San Salvador, stolica Salwadoru, jest tętniącym życiem miastem, które łączy nowoczesność z historycznym dziedzictwem. Mimo że często bywa pomijane przez turystów, oferuje interesujące muzea, galerie sztuki oraz architekturę kolonialną. Warto odwiedzić historyczne centrum z katedrą metropolitalną i Pałacem Narodowym, aby poczuć puls miasta.",
+        "Miasto stanowi dobrą bazę wypadową do zwiedzania okolicznych atrakcji, takich jak wulkan San Salvador czy jezioro Ilopango. Wieczorem można spróbować lokalnej kuchni w jednej z wielu restauracji lub poszukać rozrywki w nowoczesnych dzielnicach. Należy zachować ostrożność, szczególnie po zmroku, ale w ciągu dnia miasto jest bezpieczne do zwiedzania.",
+        "highlights",
+        "Katedra Metropolitalna i Pałac Narodowy",
+        "Muzeum Narodowe David J. Guzmán",
+        "Wulkan San Salvador i widoki",
+        "Lokalne rynki i gastronomia"
+      ],
+      "airport": "SAL",
+      "forWhom": "Dla miłośników miejskiego zgiełku, kultury i historii, szukających bazy wypadowej.",
+      "gygQuery": "San Salvador",
+      "highlights": [
+        "Katedra Metropolitalna i Pałac Narodowy",
+        "Muzeum Narodowe David J. Guzmán",
+        "Wulkan San Salvador i widoki",
+        "Lokalne rynki i gastronomia"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "ruta-de-las-flores",
+      "name": "Ruta de las Flores",
+      "loc": "na Ruta de las Flores",
+      "intro": [
+        "Ruta de las Flores to malownicza trasa turystyczna w zachodnim Salwadorze, słynąca z urokliwych, kolonialnych miasteczek, plantacji kawy i cotygodniowych targów gastronomicznych. Nazwa pochodzi od kwitnących kwiatów, które od listopada do lutego zdobią pobocza drogi, tworząc spektakularne widoki. To idealne miejsce na spokojne zwiedzanie i poznawanie lokalnej kultury.",
+        "Wzdłuż trasy znajdują się takie miejscowości jak Juayúa, Apaneca i Ataco, gdzie można skosztować lokalnych przysmaków, kupić rękodzieło i podziwiać kolorowe murale. Region jest znany z produkcji kawy, więc warto wybrać się na wycieczkę po plantacji i spróbować świeżo palonej kawy. To bezpieczny i bardzo przyjemny obszar Salwadoru, idealny na kilkudniowy wypad.",
+        "highlights",
+        "Kolorowe miasteczka Ataco i Juayúa",
+        "Targi gastronomiczne w Juayúa",
+        "Plantacje kawy i degustacje",
+        "Wodospady i szlaki trekkingowe"
+      ],
+      "airport": "SAL",
+      "forWhom": "Dla ceniących sobie spokój, kolonialny urok, kulturę kawy i lokalną gastronomię.",
+      "gygQuery": "Ruta de las Flores",
+      "highlights": [
+        "Kolorowe miasteczka Ataco i Juayúa",
+        "Targi gastronomiczne w Juayúa",
+        "Plantacje kawy i degustacje",
+        "Wodospady i szlaki trekkingowe"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "la-libertad",
+      "name": "La Libertad",
+      "loc": "w La Libertad",
+      "intro": [
+        "Region La Libertad to serce salwadorskiego wybrzeża Pacyfiku, znany przede wszystkim ze znakomitych warunków do surfingu. Miejscowości takie jak El Tunco czy El Zonte przyciągają surferów z całego świata, oferując fale dla początkujących i zaawansowanych. To dynamiczne i młodzieżowe miejsca z relaksującą atmosferą.",
+        "Oprócz surfingu, La Libertad oferuje piękne plaże, świeże owoce morza i spektakularne zachody słońca. Można tu znaleźć wiele szkół surfingu, wypożyczalni sprzętu oraz hosteli i barów. To doskonałe miejsce na relaks po zwiedzaniu wnętrza kraju, idealne dla tych, którzy szukają słońca, piasku i aktywnego wypoczynku nad oceanem.",
+        "highlights",
+        "Plaże El Tunco i El Zonte",
+        "Światowej klasy surfing",
+        "Świeże owoce morza",
+        "Relaksująca, plażowa atmosfera"
+      ],
+      "airport": "SAL",
+      "forWhom": "Dla miłośników surfingu, plażowania i swobodnej atmosfery nad oceanem.",
+      "gygQuery": "La Libertad El Salvador",
+      "highlights": [
+        "Plaże El Tunco i El Zonte",
+        "Światowej klasy surfing",
+        "Świeże owoce morza",
+        "Relaksująca, plażowa atmosfera"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "suchitoto",
+      "name": "Suchitoto",
+      "loc": "w Suchitoto",
+      "intro": [
+        "Suchitoto to urokliwe, kolonialne miasteczko położone nad jeziorem Suchitlán, często nazywane kulturalną stolicą Salwadoru. Zachowało ono swój historyczny charakter z brukowanymi uliczkami, białymi domami i pięknym kościołem. Miasteczko jest popularne wśród artystów i oferuje wiele galerii oraz warsztatów rzemieślniczych.",
+        "Jezioro Suchitlán, największe sztuczne jezioro w Salwadorze, jest domem dla wielu gatunków ptaków i oferuje możliwości rejsów łodzią. Z Suchitoto można podziwiać wspaniałe widoki na jezioro i okoliczne góry. To spokojne i bezpieczne miejsce, idealne dla tych, którzy szukają wytchnienia i kontaktu z lokalną sztuką.",
+        "highlights",
+        "Kolonialna architektura",
+        "Jezioro Suchitlán i rejsy",
+        "Galerie sztuki i rękodzieło",
+        "Spokojna atmosfera"
+      ],
+      "airport": "SAL",
+      "forWhom": "Dla miłośników kolonialnej architektury, sztuki i spokojnego wypoczynku nad jeziorem.",
+      "gygQuery": "Suchitoto",
+      "highlights": [
+        "Kolonialna architektura",
+        "Jezioro Suchitlán i rejsy",
+        "Galerie sztuki i rękodzieło",
+        "Spokojna atmosfera"
+      ],
+      "type": "miasto"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wulkan Santa Ana",
+      "text": "Najwyższy wulkan Salwadoru, oferujący wymagający trekking na szczyt, skąd roztacza się spektakularny widok na szmaragdowe jezioro kraterowe, jezioro Coatepeque i okoliczne krajobrazy.",
+      "gygQuery": "Santa Ana Volcano Hike"
+    },
+    {
+      "name": "Joyas de Cerén",
+      "text": "Nazywane „Pompejami Ameryki”, to prekolumbijska wioska Majów, która została zasypana popiołem wulkanicznym około 600 roku n.e. i doskonale zachowana, oferując unikalny wgląd w codzienne życie Majów.",
+      "gygQuery": "Joyas de Ceren"
+    },
+    {
+      "name": "Ruiny Tazumal",
+      "text": "Jedno z najważniejszych stanowisk archeologicznych w Salwadorze, prezentujące piramidy i struktury Majów, świadczące o bogatej historii regionu.",
+      "gygQuery": "Tazumal Ruins"
+    },
+    {
+      "name": "Jezioro Coatepeque",
+      "text": "Malownicze jezioro wulkaniczne, często uznawane za jedno z najpiękniejszych na świecie. Idealne do pływania, kajakarstwa i podziwiania krajobrazów z luksusowych willi.",
+      "gygQuery": "Lake Coatepeque"
+    },
+    {
+      "name": "El Tunco Beach",
+      "text": "Jedna z najpopularniejszych plaż surfingowych w Salwadorze, znana z luźnej atmosfery, szkół surfingu, barów i restauracji.",
+      "gygQuery": "El Tunco Beach"
+    },
+    {
+      "name": "Park Narodowy El Imposible",
+      "text": "Największy park narodowy Salwadoru, będący domem dla różnorodnej flory i fauny, w tym rzadkich gatunków ptaków i ssaków. Oferuje szlaki trekkingowe i piękne widoki.",
+      "gygQuery": "El Imposible National Park"
+    },
+    {
+      "name": "Suchitoto",
+      "text": "Kolonialne miasteczko z brukowanymi uliczkami, galeriami sztuki i widokami na jezioro Suchitlán, będące kulturalnym centrum kraju.",
+      "gygQuery": "Suchitoto El Salvador"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Salwador jest bezpieczny dla turystów?",
+      "a": "W ostatnich latach bezpieczeństwo w Salwadorze znacznie się poprawiło, zwłaszcza w rejonach turystycznych. Należy jednak zachować podstawowe środki ostrożności, unikać samotnych spacerów po zmroku w nieznanych miejscach i śledzić lokalne doniesienia. Zawsze warto sprawdzić aktualne zalecenia MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Salwadorze?",
+      "a": "Oficjalną walutą Salwadoru jest dolar amerykański (USD). Płatności kartą są akceptowane w większych miastach i hotelach, ale zawsze warto mieć przy sobie gotówkę, zwłaszcza w mniejszych miejscowościach."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Salwadoru?",
+      "a": "Najlepszy czas na podróż do Salwadoru to pora sucha, która trwa od listopada do kwietnia. Wtedy panują słoneczne dni i niższa wilgotność, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Salwadoru dla Polaków?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu. Na pobyty turystyczne do 90 dni wiza zazwyczaj nie jest wymagana, ale zawsze zaleca się sprawdzenie aktualnych przepisów wizowych przed podróżą, np. na stronie MSZ."
+    }
+  ],
+  "bestTime": {
+    "text": "Salwador ma klimat tropikalny z dwiema głównymi porami: suchą (od listopada do kwietnia) i deszczową (od maja do października). Pora sucha charakteryzuje się słonecznymi dniami i niższą wilgotnością, co sprawia, że jest to idealny czas na zwiedzanie, trekking i plażowanie. W porze deszczowej opady są intensywniejsze, ale często występują w formie krótkich, popołudniowych ulew, a krajobraz staje się bujnie zielony.",
+    "best": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "San Salvador",
+  "climate": {
+    "air": [
+      30,
+      31,
+      32,
+      32,
+      31,
+      30,
+      30,
+      30,
+      29,
+      29,
+      29,
+      30
+    ],
+    "note": "dla San Salvador i wybrzeża Pacyfiku",
+    "sea": [
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28
+    ]
+  },
+  "cuisine": [
+    "Kuchnia salwadorska jest prosta, ale smaczna i sycąca, z silnymi wpływami rdzennych tradycji i kuchni hiszpańskiej. Jej podstawą są kukurydza, fasola i ryż. Narodowym daniem są pupusas - grube placki kukurydziane nadziewane serem, fasolą, chicharron (smażonym boczkiem) lub loroco (kwiatem winorośli), podawane z curtido (fermentowaną kapustą) i sosem pomidorowym. Warto spróbować również yuca frita (smażonego manioku), pasteles (smażonych pierożków z mięsnym farszem) oraz świeżych owoców morza na wybrzeżu. Kawa z Salwadoru jest ceniona na całym świecie, więc koniecznie trzeba skosztować lokalnie parzonej kawy."
+  ],
+  "gygQuery": "El Salvador",
+  "practical": {
+    "documents": "Ważny paszport jest wymagany. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni, jednak zawsze należy sprawdzić aktualne wymogi wizowe przed wyjazdem na stronie Ministerstwa Spraw Zagranicznych.",
+    "flight": "Około 15-20 godzin z Polski z jedną lub dwiema przesiadkami.",
+    "language": "Oficjalnym językiem jest hiszpański. W rejonach turystycznych i większych hotelach można porozumieć się po angielsku, ale znajomość podstaw hiszpańskiego jest bardzo pomocna.",
+    "money": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są możliwe w większych miastach i obiektach turystycznych, ale w mniejszych miejscowościach i na targach preferowana jest gotówka. Bankomaty są dostępne w miastach.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Napięcie 115V, częstotliwość 60Hz. Wymagana przejściówka.",
+    "safety": "Salwador przez lata borykał się z problemami bezpieczeństwa, głównie związanymi z działalnością gangów. W ostatnich latach sytuacja znacznie się poprawiła, zwłaszcza w rejonach turystycznych, które są dobrze chronione. Należy jednak zachować ostrożność, unikać samotnych spacerów po zmroku, nie afiszować się z kosztownościami i śledzić lokalne porady. Zaleca się wykupienie ubezpieczenia podróżnego.",
+    "timeDiff": "Różnica czasu między Polską a Salwadorem wynosi -7 lub -8 godzin, w zależności od pory roku w Polsce (Salwador jest w strefie UTC-6)."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

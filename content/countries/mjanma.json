@@ -1,0 +1,236 @@
+{
+  "slug": "mjanma",
+  "loc": "w Mjanmie (Birmie)",
+  "to": "do Mjanmy (Birmy)",
+  "teaser": "Mjanma to kraj buddyjskich świątyń i dziewiczych krajobrazów, oferujący autentyczne doświadczenia dla odważnych podróżników.",
+  "intro": [
+    "Mjanma, znana również jako Birma, to kraj, który wciąż zachowuje swój autentyczny charakter, nie skażony masową turystyką. Przyciąga przede wszystkim tysiącami starożytnych pagód i świątyń, rozsianych po malowniczych dolinach, a także unikalną kulturą i życzliwością mieszkańców. To miejsce, gdzie czas płynie wolniej, a tradycje są głęboko zakorzenione w codziennym życiu. Można tu podziwiać zapierające dech w piersiach wschody i zachody słońca, szczególnie w Bagan, oraz poznać życie lokalnych społeczności.",
+    "Mjanma jest idealna dla podróżników szukających głębokich doświadczeń kulturowych, miłośników historii i architektury sakralnej, a także dla tych, którzy cenią sobie autentyczność i chcą odkrywać miejsca poza utartymi szlakami. Nie jest to kierunek dla osób szukających luksusowych kurortów czy łatwo dostępnych atrakcji. Podróżowanie po Mjanmie wymaga elastyczności, cierpliwości i otwartości na lokalne warunki, które bywają skromne. Infrastruktura turystyczna, choć rozwijająca się, wciąż jest mniej zaawansowana niż w sąsiednich krajach.",
+    "Podróż z Polski do Mjanmy to zazwyczaj długi lot z jedną lub dwiema przesiadkami, najczęściej w dużych hubach azjatyckich lub bliskowschodnich, takich jak Dubaj, Doha, Bangkok czy Singapur. Całkowity czas podróży, wliczając przesiadki, może wynieść od 12 do 18 godzin. Przed wyjazdem konieczne jest uzyskanie wizy oraz dokładne zapoznanie się z aktualnymi komunikatami Ministerstwa Spraw Zagranicznych dotyczącymi bezpieczeństwa w regionie, gdyż sytuacja polityczna w kraju bywa niestabilna."
+  ],
+  "highlights": [
+    "Tysiące starożytnych świątyń w Bagan",
+    "Pływające wioski i ogrody na Jeziorze Inle",
+    "Złota Pagoda Shwedagon w Rangunie",
+    "Tradycyjne życie i rzemiosło",
+    "Malownicze wschody i zachody słońca",
+    "Autentyczna kuchnia birmańska"
+  ],
+  "popularity": 10,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "bagan",
+      "name": "Bagan",
+      "loc": "w Bagan",
+      "intro": [
+        "Bagan to starożytne miasto w środkowej Mjanmie, które słynie z tysięcy buddyjskich świątyń, pagód i klasztorów, rozsianych po rozległej równinie. To jedno z najważniejszych stanowisk archeologicznych w Azji Południowo-Wschodniej, wpisane na listę światowego dziedzictwa UNESCO. Widok wschodzącego słońca nad polami świątyń, często z balonami na gorące powietrze unoszącymi się w tle, jest niezapomniany i stanowi kwintesencję podróży do Mjanmy.",
+        "Zwiedzanie Bagan najlepiej odbywać na rowerze elektrycznym, co pozwala na swobodne odkrywanie ukrytych świątyń i podziwianie panoramy. Oprócz głównych, dobrze zachowanych pagód, warto poszukać mniejszych, mniej uczęszczanych obiektów, które oferują unikalne wrażenia i pozwalają poczuć ducha dawnej Birmy. Rejs po rzece Irawadi o zachodzie słońca to kolejna popularna atrakcja, oferująca inną perspektywę na ten magiczny krajobraz."
+      ],
+      "airport": "Nyaung-U (NYU)",
+      "forWhom": "Dla miłośników historii, architektury sakralnej i niezapomnianych krajobrazów.",
+      "gygQuery": "Bagan",
+      "highlights": [
+        "Wschody i zachody słońca nad świątyniami",
+        "Wynajem roweru elektrycznego",
+        "Zwiedzanie starożytnych pagód",
+        "Rejs po rzece Irawadi"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "jezioro-inle",
+      "name": "Jezioro Inle",
+      "loc": "nad Jeziorem Inle",
+      "intro": [
+        "Jezioro Inle to drugie co do wielkości słodkowodne jezioro w Mjanmie, położone w stanie Szan. Słynie z unikalnej kultury Intha, której przedstawiciele mieszkają w pływających wioskach na palach i uprawiają pływające ogrody. Najbardziej charakterystycznym widokiem są rybacy Intha, którzy wiosłują nogą, stojąc na rufie łodzi, co jest tradycyjną i bardzo widowiskową techniką. Rejs łodzią po jeziorze to najlepszy sposób na poznanie lokalnego życia.",
+        "Podczas rejsu można odwiedzić lokalne warsztaty rzemieślnicze, takie jak tkalnie jedwabiu, kuźnie czy wytwórnie cygar, a także zobaczyć słynny klasztor Nga Phe Kyaung, znany z „kotów skaczących przez obręcze” (choć obecnie jest to rzadkość). Jezioro Inle oferuje spokojną atmosferę i możliwość obcowania z naturą oraz poznania autentycznych tradycji, które przetrwały wieki. To idealne miejsce na wyciszenie i obserwację codziennego życia."
+      ],
+      "airport": "Heho (HEH)",
+      "forWhom": "Dla szukających spokoju, unikalnej kultury wodnej i bliskości z naturą.",
+      "gygQuery": "Inle Lake",
+      "highlights": [
+        "Pływające wioski i ogrody",
+        "Rybacy wiosłujący nogą",
+        "Lokalne warsztaty rzemieślnicze",
+        "Klasztor Nga Phe Kyaung"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "yangon",
+      "name": "Rangun (Yangon)",
+      "loc": "w Rangunie (Yangon)",
+      "intro": [
+        "Rangun, dawna stolica Mjanmy, to tętniące życiem miasto, które łączy kolonialną architekturę z nowoczesnymi budynkami i tradycyjnymi pagodami. Jest to brama do kraju dla większości turystów i doskonałe miejsce do rozpoczęcia przygody z Mjanmą. Najważniejszą atrakcją jest majestatyczna Złota Pagoda Shwedagon, jeden z najbardziej imponujących i świętych obiektów buddyjskich na świecie, której kopuła pokryta jest tonami złota i diamentów. Jej widok, zwłaszcza o zachodzie słońca, jest niezapomniany.",
+        "Spacer po centrum Rangunu pozwala podziwiać pozostałości brytyjskiej architektury kolonialnej, która nadaje miastu unikalny charakter. Warto odwiedzić lokalne bazary, takie jak Bogyoke Aung San Market (Scott Market), gdzie można kupić tradycyjne wyroby rzemieślnicze, biżuterię i pamiątki. Rangun to także miejsce, gdzie można spróbować różnorodnej kuchni birmańskiej w lokalnych restauracjach i ulicznych straganach, a także poczuć prawdziwy puls miejskiego życia Mjanmy."
+      ],
+      "airport": "Yangon (RGN)",
+      "forWhom": "Dla tych, którzy chcą poczuć puls birmańskiego życia miejskiego i zobaczyć słynną pagodę Shwedagon.",
+      "gygQuery": "Yangon",
+      "highlights": [
+        "Złota Pagoda Shwedagon",
+        "Kolonialna architektura",
+        "Lokalne bazary",
+        "Spacer po centrum miasta"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "mandalay",
+      "name": "Mandalaj",
+      "loc": "w Mandalaj",
+      "intro": [
+        "Mandalaj to drugie co do wielkości miasto Mjanmy i historyczna stolica ostatniego królestwa birmańskiego. Jest to ważne centrum kulturalne i religijne, pełne klasztorów, pagód i zabytków królewskich. Miasto stanowi doskonałą bazę wypadową do zwiedzania okolicznych starożytnych miast, takich jak Amarapura, Sagaing czy Inwa. W samym Mandalaj warto odwiedzić Pałac Królewski, który jest rekonstrukcją dawnej rezydencji monarchów, oraz wspiąć się na Wzgórze Mandalaj, skąd rozpościera się panorama na miasto i okolicę.",
+        "Jedną z najbardziej znanych atrakcji w pobliżu Mandalaj jest most U Bein w Amarapurze, najdłuższy na świecie drewniany most wykonany z drewna tekowego. Jest to popularne miejsce do podziwiania zachodów słońca, kiedy sylwetki mnichów i lokalnych mieszkańców przechodzących przez most tworzą malowniczy obraz. Warto również zobaczyć klasztor Shwenandaw, jedyny zachowany budynek dawnego Pałacu Królewskiego, słynący z misternych rzeźb w drewnie tekowym."
+      ],
+      "airport": "Mandalay (MDL)",
+      "forWhom": "Dla odkrywców królewskiej historii, duchowego centrum kraju i tradycyjnego rzemiosła.",
+      "gygQuery": "Mandalay",
+      "highlights": [
+        "Pałac Królewski",
+        "Wzgórze Mandalaj",
+        "Most U Bein",
+        "Klasztor Shwenandaw"
+      ],
+      "type": "miasto"
+    },
+    {
+      "slug": "ngapali",
+      "name": "Ngapali",
+      "loc": "w Ngapali",
+      "intro": [
+        "Ngapali to jeden z najpiękniejszych i najbardziej spokojnych kurortów plażowych w Mjanmie, położony na zachodnim wybrzeżu. Charakteryzuje się długimi, białymi piaszczystymi plażami obmywanymi przez turkusowe wody Zatoki Bengalskiej, otoczonymi palmami kokosowymi. To idealne miejsce na relaks po intensywnym zwiedzaniu świątyń i miast. Ngapali oferuje idylliczną atmosferę, z dala od zgiełku masowej turystyki, co pozwala na prawdziwy odpoczynek i regenerację.",
+        "Oprócz opalania się i kąpieli w morzu, w Ngapali można wybrać się na rejs łodzią rybacką, nurkować lub snorkelować, podziwiając podwodny świat. Popularne jest również zwiedzanie lokalnych wiosek rybackich, gdzie można obserwować codzienne życie mieszkańców i spróbować świeżych owoców morza, przygotowywanych w tradycyjny sposób. Infrastruktura turystyczna jest dobrze rozwinięta, oferując komfortowe hotele i restauracje, ale zachowując jednocześnie kameralny charakter."
+      ],
+      "airport": "Thandwe (SNW)",
+      "forWhom": "Dla spragnionych relaksu na pięknych, spokojnych plażach i świeżych owoców morza.",
+      "gygQuery": "Ngapali Beach",
+      "highlights": [
+        "Białe piaszczyste plaże",
+        "Świeże owoce morza",
+        "Spokojna atmosfera",
+        "Rejsy łodzią"
+      ],
+      "type": "kurort"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Pagoda Shwedagon (Rangun)",
+      "text": "Majestatyczna, pokryta złotem pagoda, będąca jednym z najświętszych miejsc buddyzmu na świecie. Imponująca o każdej porze dnia, szczególnie o zachodzie słońca.",
+      "gygQuery": "Shwedagon Pagoda"
+    },
+    {
+      "name": "Świątynie Bagan",
+      "text": "Tysiące starożytnych świątyń i pagód rozsianych po równinie, tworzące niezapomniany krajobraz. Idealne do zwiedzania rowerem elektrycznym o wschodzie lub zachodzie słońca.",
+      "gygQuery": "Bagan Temples"
+    },
+    {
+      "name": "Jezioro Inle",
+      "text": "Malownicze jezioro z pływającymi wioskami, ogrodami i rybakami wiosłującymi nogą. Oferuje unikalny wgląd w lokalną kulturę i życie.",
+      "gygQuery": "Inle Lake"
+    },
+    {
+      "name": "Most U Bein (Amarapura)",
+      "text": "Najdłuższy na świecie drewniany most tekowy, ikoniczne miejsce do podziwiania zachodów słońca i obserwacji lokalnego życia.",
+      "gygQuery": "U Bein Bridge"
+    },
+    {
+      "name": "Złota Skała (Kyaiktiyo Pagoda)",
+      "text": "Niezwykła pagoda zbudowana na ogromnym, złotym głazie, który balansuje na krawędzi klifu. Ważne miejsce pielgrzymkowe.",
+      "gygQuery": "Kyaiktiyo Pagoda"
+    },
+    {
+      "name": "Góra Popa",
+      "text": "Wygasły wulkan z klasztorem Taung Kalat na szczycie, do którego prowadzi 777 stopni. Ważne miejsce kultu duchów nat (duchów opiekuńczych).",
+      "gygQuery": "Mount Popa"
+    },
+    {
+      "name": "Plaża Ngapali",
+      "text": "Spokojna, piaszczysta plaża z palmami, idealna na relaks i odpoczynek. Oferuje świeże owoce morza i piękne widoki.",
+      "gygQuery": "Ngapali Beach"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Mjanma jest bezpieczna dla turystów?",
+      "a": "Sytuacja polityczna w Mjanmie jest niestabilna. Ministerstwo Spraw Zagranicznych odradza podróże do niektórych regionów i zaleca zachowanie szczególnej ostrożności w całym kraju. Należy śledzić komunikaty MSZ przed i w trakcie podróży."
+    },
+    {
+      "q": "Jaka jest waluta w Mjanmie i jak płacić?",
+      "a": "Walutą jest kiat birmański (MMK). Płatności kartą są możliwe w większych miastach i hotelach, ale poza nimi gotówka jest niezbędna. Bankomaty są dostępne, ale zawsze warto mieć zapas gotówki."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Mjanmy?",
+      "a": "Najlepszy czas na podróż to sucha i chłodniejsza pora, od listopada do lutego. W marcu i październiku również jest dobra pogoda, ale temperatury mogą być wyższe. Od maja do października trwa pora deszczowa."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Mjanmy?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Mjanmy. Można ją uzyskać online (e-wiza) lub w ambasadzie. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Zawsze należy sprawdzić aktualne wymogi wizowe przed wyjazdem."
+    },
+    {
+      "q": "Jak poruszać się po Mjanmie?",
+      "a": "Po kraju można podróżować autobusami (często nocnymi), pociągami (wolniej, ale malowniczo), a na dłuższych trasach samolotami. W miastach popularne są taksówki, riksze i rowery elektryczne (np. w Bagan)."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na podróż do Mjanmy jest sucha i relatywnie chłodna pora, trwająca od listopada do lutego. W tym czasie temperatury są przyjemne, a opady deszczu minimalne, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Marzec i październik to również dobre miesiące, choć temperatury mogą być już wyższe, a w październiku mogą jeszcze występować sporadyczne opady. Od maja do października trwa pora deszczowa (monsunowa), która charakteryzuje się wysoką wilgotnością i intensywnymi opadami, co może utrudniać podróżowanie.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "capital": "Naypyidaw",
+  "climate": {
+    "air": [
+      32,
+      35,
+      37,
+      38,
+      34,
+      30,
+      29,
+      29,
+      30,
+      32,
+      32,
+      31
+    ],
+    "note": "dla Rangunu (Yangon) i Ngapali",
+    "sea": [
+      26,
+      26,
+      27,
+      29,
+      29,
+      28,
+      27,
+      27,
+      27,
+      28,
+      28,
+      27
+    ]
+  },
+  "cuisine": [
+    "Kuchnia birmańska to fascynująca mieszanka wpływów indyjskich, chińskich i tajskich, z własnymi unikalnymi smakami. Podstawą jest ryż, podawany z różnorodnymi curry, które są często łagodne, ale aromatyczne, z dodatkiem pasty krewetkowej, sosu rybnego i świeżych ziół. Charakterystyczne są dania z makaronem, takie jak Mohinga (zupa rybna z makaronem ryżowym, często spożywana na śniadanie) czy Shan-style noodles. Nie można pominąć sałatki z liści herbaty (Lahpet Thoke), która jest narodową potrawą, łączącą fermentowane liście herbaty z orzechami, sezamem i czosnkiem. Warto spróbować także lokalnych słodyczy i świeżych owoców. Jedzenie uliczne jest popularne i smaczne, ale należy zachować ostrożność."
+  ],
+  "gygQuery": "Myanmar",
+  "practical": {
+    "documents": "Wiza jest wymagana dla obywateli Polski. Można ją uzyskać online (e-wiza) lub w ambasadzie. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Zawsze należy sprawdzić aktualne wymogi wizowe i paszportowe przed podróżą w Ministerstwie Spraw Zagranicznych.",
+    "flight": "Około 12-15 godzin z jedną lub dwiema przesiadkami (np. w Dubaju, Dausze, Bangkoku lub Singapurze).",
+    "language": "Oficjalnym językiem jest birmański. W turystycznych miejscach i większych miastach można porozumieć się po angielsku, zwłaszcza z młodszym pokoleniem i osobami pracującymi w turystyce.",
+    "money": "Walutą jest kiat birmański (MMK). Płatności kartą są możliwe w większych hotelach i restauracjach, ale w mniejszych miejscowościach i na bazarach niezbędna jest gotówka. Bankomaty są dostępne w większych miastach, ale warto mieć przy sobie zapas dolarów amerykańskich (nowe banknoty, w dobrym stanie), które można wymienić na miejscu.",
+    "plugs": "W Mjanmie używane są gniazdka typu A (dwa płaskie bolce), C (dwa okrągłe bolce), D (trzy okrągłe bolce w trójkącie), G (trzy prostokątne bolce) i I (trzy płaskie bolce w trójkącie). Zalecany jest uniwersalny adapter podróżny.",
+    "safety": "Sytuacja polityczna w Mjanmie jest niestabilna. Ministerstwo Spraw Zagranicznych Rzeczypospolitej Polskiej odradza wszelkie podróże do niektórych regionów i zaleca zachowanie szczególnej ostrożności w całym kraju. Przed wyjazdem i w trakcie podróży należy śledzić aktualne komunikaty MSZ. Ryzyko kradzieży pospolitych (kieszonkowcy) istnieje, zwłaszcza w zatłoczonych miejscach. Poważniejsze przestępstwa wobec turystów są rzadkie. Brak obowiązkowych szczepień, ale zalecane są szczepienia przeciwko WZW A i B, tężcowi, błonicy, durowi brzusznemu. Należy pić wyłącznie wodę butelkowaną i unikać lodu w napojach."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

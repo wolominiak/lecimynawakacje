@@ -1,0 +1,208 @@
+{
+  "slug": "namibia",
+  "loc": "w Namibii",
+  "to": "do Namibii",
+  "teaser": "Namibia to kraj niezwykłych kontrastów: od czerwonych wydm pustyni Namib po obfitujące w dzikie zwierzęta parki narodowe. Idealna dla poszukujących afrykańskiej przygody.",
+  "intro": [
+    "Namibia to kwintesencja Afryki dla tych, którzy szukają przestrzeni, dzikiej przyrody i spektakularnych krajobrazów. Od majestatycznych, czerwonych wydm pustyni Namib, przez skaliste kaniony, aż po obfitujące w zwierzęta sawanny Parku Narodowego Etosha, kraj ten oferuje niezapomniane widoki. To miejsce, gdzie natura dominuje, a człowiek czuje się jej integralną, choć niewielką, częścią. Unikalna flora i fauna, w tym pustynne słonie i nosorożce, są na wyciągnięcie ręki. Surowe piękno Wybrzeża Szkieletowego i tajemnicze miasta duchów dopełniają obrazu tego fascynującego miejsca.",
+    "To kierunek dla podróżników ceniących niezależność, fotografów krajobrazu i miłośników safari, którzy chcą doświadczyć Afryki z dala od masowej turystyki. Namibia jest idealna do samodzielnych wypraw samochodem terenowym, co pozwala na pełne zanurzenie się w jej dzikiej naturze. Infrastruktura turystyczna jest dobrze rozwinięta, zwłaszcza w parkach narodowych i wokół głównych atrakcji, oferując zarówno luksusowe lodge, jak i kempingi. To podróż dla tych, którzy są gotowi na przygodę i poszukują autentycznych doświadczeń.",
+    "Podróż z Polski do Namibii wymaga zazwyczaj co najmniej jednej, a częściej dwóch przesiadek, najczęściej we Frankfurcie, Amsterdamie, Ad-Dauha lub Johannesburgu. Całkowity czas lotu, wraz z oczekiwaniem na przesiadki, to około 12-15 godzin. Ze względu na brak bezpośrednich połączeń i konieczność organizacji transportu na miejscu, Namibia nie jest typowym kierunkiem dla biur podróży oferujących wczasy all-inclusive. Jest to raczej cel podróży dla osób planujących wyjazd na własną rękę lub z wyspecjalizowanym touroperatorem."
+  ],
+  "highlights": [
+    "Czerwone wydmy Sossusvlei i Deadvlei",
+    "Safari w Parku Narodowym Etosha",
+    "Tajemnicze miasto duchów Kolmanskop",
+    "Niemiecka architektura Swakopmund",
+    "Gigantyczny Kanion Fish River",
+    "Spotkania z plemieniem Himba"
+  ],
+  "popularity": 12,
+  "touroperator": false,
+  "regions": [
+    {
+      "slug": "pustynia-namib-sossusvlei",
+      "name": "Pustynia Namib i Sossusvlei",
+      "loc": "na Pustyni Namib",
+      "intro": [
+        "Pustynia Namib to jedna z najstarszych pustyń świata, słynąca z gigantycznych, czerwonych wydm, które zmieniają kolory w zależności od pory dnia. Sossusvlei to ikoniczna depresja solna otoczona najwyższymi wydmami, takimi jak słynna Dune 45. To tutaj znajdują się również martwe drzewa Deadvlei, tworzące surrealistyczny krajobraz idealny dla fotografów. Region ten oferuje niezapomnione widoki, zwłaszcza o wschodzie i zachodzie słońca, kiedy cienie podkreślają dramatyzm krajobrazu. Jest to miejsce, które zapiera dech w piersiach i pozostaje w pamięci na długo."
+      ],
+      "airport": "Walvis Bay (WVB)",
+      "forWhom": "Dla miłośników spektakularnych krajobrazów i fotografii.",
+      "gygQuery": "Sossusvlei",
+      "highlights": [
+        "Wydmy Sossusvlei i Deadvlei",
+        "Wschód słońca nad Dune 45",
+        "Kanion Sesriem",
+        "Podziwianie pustynnych krajobrazów"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "park-narodowy-etosha",
+      "name": "Park Narodowy Etosha",
+      "loc": "w Parku Narodowym Etosha",
+      "intro": [
+        "Park Narodowy Etosha to jeden z najważniejszych obszarów ochrony przyrody w Afryce i raj dla miłośników safari. Jego sercem jest ogromna, słona pustynia, która w porze suchej staje się magnesem dla dzikich zwierząt. Wokół licznych wodopojów można obserwować lwy, słonie, nosorożce, żyrafy, zebry i wiele gatunków antylop. Park oferuje możliwość samodzielnego safari, co pozwala na elastyczne planowanie i spędzanie czasu przy ulubionych miejscach obserwacji. Nocne safari przy oświetlonych wodopojach to niezapomniane przeżycie."
+      ],
+      "airport": "Windhuk (WDH)",
+      "forWhom": "Idealny dla entuzjastów safari i obserwacji dzikich zwierząt.",
+      "gygQuery": "Etosha National Park",
+      "highlights": [
+        "Wielka Słona Pustynia Etosha",
+        "Obserwacja zwierząt przy wodopojach",
+        "Lwy, słonie, nosorożce",
+        "Self-drive safari"
+      ],
+      "type": "park narodowy"
+    },
+    {
+      "slug": "wybrzeze-szkieletowe-swakopmund",
+      "name": "Wybrzeże Szkieletowe i Swakopmund",
+      "loc": "na Wybrzeżu Szkieletowym",
+      "intro": [
+        "Wybrzeże Szkieletowe to surowy i mglisty pas lądu, gdzie pustynia spotyka się z Oceanem Atlantyckim, słynący z wraków statków i kolonii fok. To miejsce o dzikim, niemal postapokaliptycznym pięknie, które przyciąga poszukiwaczy przygód i fotografów. Swakopmund, położone nieco na południe, to urokliwe miasto z silnymi wpływami niemieckiej architektury kolonialnej. Jego brukowane uliczki, kawiarnie i budynki przypominają o europejskiej przeszłości, stanowiąc ciekawy kontrast dla otaczającej pustyni. To popularny ośrodek wypoczynkowy i punkt startowy dla wielu aktywności."
+      ],
+      "airport": "Walvis Bay (WVB)",
+      "forWhom": "Dla szukających unikalnych, surowych krajobrazów i kolonialnej atmosfery.",
+      "gygQuery": "Skeleton Coast Swakopmund",
+      "highlights": [
+        "Wraki statków na wybrzeżu",
+        "Kolonie fok w Cape Cross",
+        "Niemiecka architektura Swakopmund",
+        "Sandboarding na wydmach"
+      ],
+      "type": "region"
+    },
+    {
+      "slug": "kanion-fish-river",
+      "name": "Kanion Fish River",
+      "loc": "w Kanionie Fish River",
+      "intro": [
+        "Kanion Fish River to drugi co do wielkości kanion w Afryce i jeden z największych na świecie, oferujący zapierające dech w piersiach widoki. Jego skaliste ściany i meandrująca rzeka tworzą spektakularny krajobraz, który najlepiej podziwiać z licznych punktów widokowych. To idealne miejsce dla miłośników pieszych wędrówek, choć pełne przejście kanionu to kilkudniowa, wymagająca wyprawa. W pobliżu znajdują się również gorące źródła Ai-Ais, oferujące relaks po trudach eksploracji. Region ten to prawdziwa gratka dla geologów i poszukiwaczy dzikiej natury."
+      ],
+      "airport": "Keetmanshoop (KMP)",
+      "forWhom": "Dla miłośników pieszych wędrówek i geologicznych cudów natury.",
+      "gygQuery": "Fish River Canyon",
+      "highlights": [
+        "Panoramiczne widoki kanionu",
+        "Kiludniowe wędrówki (dla zaawansowanych)",
+        "Gorące źródła Ai-Ais",
+        "Unikalne formacje skalne"
+      ],
+      "type": "region"
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Sossusvlei i Deadvlei",
+      "text": "Ikoniczne czerwone wydmy i surrealistyczne, martwe drzewa na dnie solnej patelni, tworzące jedne z najbardziej rozpoznawalnych krajobrazów Namibii.",
+      "gygQuery": "Sossusvlei Deadvlei"
+    },
+    {
+      "name": "Park Narodowy Etosha",
+      "text": "Jeden z najważniejszych parków narodowych Afryki, oferujący doskonałe warunki do obserwacji dzikich zwierząt, w tym Wielkiej Piątki, zwłaszcza przy licznych wodopojach.",
+      "gygQuery": "Etosha National Park"
+    },
+    {
+      "name": "Kolmanskop",
+      "text": "Opuszczone miasto diamentów, pochłaniane przez piaski pustyni, stanowiące fascynujące świadectwo minionej epoki i unikalne tło dla fotografii.",
+      "gygQuery": "Kolmanskop Ghost Town"
+    },
+    {
+      "name": "Swakopmund",
+      "text": "Urokliwe miasto portowe z silnymi wpływami niemieckiej architektury kolonialnej, położone między pustynią a Oceanem Atlantyckim, oferujące wiele atrakcji i aktywności.",
+      "gygQuery": "Swakopmund"
+    },
+    {
+      "name": "Kanion Fish River",
+      "text": "Drugi co do wielkości kanion w Afryce, oferujący spektakularne widoki i wymagające trasy trekkingowe dla zaawansowanych piechurów.",
+      "gygQuery": "Fish River Canyon"
+    },
+    {
+      "name": "Cape Cross Seal Reserve",
+      "text": "Miejsce, gdzie można podziwiać jedną z największych na świecie kolonii fok pelagicznych, liczącą dziesiątki tysięcy osobników.",
+      "gygQuery": "Cape Cross Seal Reserve"
+    },
+    {
+      "name": "Twyfelfontein",
+      "text": "Stanowisko wpisane na listę UNESCO, słynące z tysięcy starożytnych rytów naskalnych i malowideł buszmenów, świadczących o bogatej historii regionu.",
+      "gygQuery": "Twyfelfontein Rock Engravings"
+    },
+    {
+      "name": "Kultura Himba",
+      "text": "Możliwość poznania tradycyjnego życia i unikalnej kultury plemienia Himba, słynącego z charakterystycznych fryzur i czerwonej ochry, którą pokrywają swoje ciała.",
+      "gygQuery": "Himba Village Tour"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy Namibia jest bezpieczna dla turystów z Polski?",
+      "a": "Namibia jest generalnie bezpiecznym krajem dla turystów, szczególnie poza dużymi miastami. W Windhuk i innych ośrodkach miejskich należy zachować ostrożność, zwłaszcza po zmroku, ze względu na ryzyko drobnych kradzieży. W parkach narodowych należy przestrzegać zasad bezpieczeństwa dotyczących dzikich zwierząt."
+    },
+    {
+      "q": "Czy potrzebuję wizy, aby wjechać do Namibii?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać do Namibii. Wizę należy uzyskać przed podróżą w Ambasadzie Namibii. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych na stronach MSZ przed wyjazdem."
+    },
+    {
+      "q": "Kiedy najlepiej zaplanować podróż do Namibii?",
+      "a": "Najlepszy czas na podróż do Namibii to sucha pora, od maja do października. Temperatury są wówczas przyjemniejsze, a obserwacja dzikich zwierząt przy wodopojach jest łatwiejsza. To idealny okres na safari i eksplorację pustyni."
+    },
+    {
+      "q": "Jakie zwierzęta można zobaczyć podczas safari w Namibii?",
+      "a": "Namibia oferuje bogactwo dzikich zwierząt. Podczas safari, zwłaszcza w Parku Narodowym Etosha, można zobaczyć lwy, słonie, nosorożce (czarne i białe), żyrafy, zebry, lamparty, gepardy oraz wiele gatunków antylop, takich jak oryx czy springbok."
+    },
+    {
+      "q": "Czy w Namibii można podróżować samodzielnie samochodem?",
+      "a": "Tak, samodzielne podróżowanie samochodem (tzw. self-drive) jest bardzo popularne w Namibii i jest świetnym sposobem na eksplorację kraju. Wymaga jednak odpowiedniego przygotowania, wynajmu samochodu terenowego 4x4 i zaplanowania trasy, zwłaszcza poza utwardzonymi drogami."
+    }
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Namibii to sucha pora, czyli od maja do października. Wówczas temperatury są przyjemniejsze, a roślinność mniej bujna, co ułatwia obserwację dzikich zwierząt gromadzących się przy nielicznych wodopojach. Jest to idealny okres na safari i długie wędrówki po pustyni. Pora deszczowa, od listopada do kwietnia, przynosi soczystą zieleń i narodziny młodych zwierząt, ale może utrudniać poruszanie się po drogach gruntowych i obserwację zwierzyny. Kwiecień i listopad to miesiące przejściowe, również dobre na wyjazd.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "capital": "Windhuk",
+  "climate": {
+    "air": [
+      31,
+      30,
+      29,
+      27,
+      25,
+      22,
+      22,
+      25,
+      28,
+      30,
+      31,
+      32
+    ],
+    "note": "Dane dla Windhuk",
+    "sea": null
+  },
+  "cuisine": [
+    "Kuchnia namibijska to mieszanka wpływów afrykańskich, niemieckich i południowoafrykańskich. Króluje tu mięso, zwłaszcza dziczyzna, taka jak kudu, oryx czy springbok, często przygotowywana na grillu (braai) lub jako suszone mięso (biltong). Popularne są również potrawy jednogarnkowe, takie jak potjiekos, gotowane na wolnym ogniu w żeliwnym kociołku. W miastach nadmorskich można skosztować świeżych owoców morza. Warto spróbować lokalnych piw, często warzonych według niemieckich receptur. Podstawą diety są też kasze, takie jak mieliepap, oraz warzywa."
+  ],
+  "gygQuery": "Namibia",
+  "practical": {
+    "documents": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu oraz wizy. Wizę należy uzyskać przed podróżą w ambasadzie Namibii. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych i paszportowych w Ambasadzie Namibii lub na stronach MSZ przed wyjazdem.",
+    "flight": "Około 12-15 h z 1-2 przesiadkami, najczęściej we Frankfurcie lub Johannesburgu.",
+    "language": "Oficjalnym językiem jest angielski, ale szeroko używane są również afrikaans i niemiecki, a także wiele języków lokalnych, takich jak herero czy khoekhoe.",
+    "money": "Walutą jest dolar namibijski (NAD), który jest sztywno powiązany z randem południowoafrykańskim (ZAR) w stosunku 1:1. Obie waluty są akceptowane w Namibii. W większych miastach dostępne są bankomaty, a karty płatnicze są akceptowane w hotelach, restauracjach i większych sklepach. W mniejszych miejscowościach i na targach preferowana jest gotówka.",
+    "plugs": "W Namibii używane są gniazdka typu D i M, więc niezbędny będzie adapter. Napięcie wynosi 220-240 V.",
+    "safety": "Namibia jest generalnie krajem bezpiecznym, zwłaszcza poza dużymi miastami. W Windhuk i innych ośrodkach miejskich należy zachować ostrożność, szczególnie po zmroku, ze względu na ryzyko drobnych kradzieży. W parkach narodowych należy przestrzegać zasad bezpieczeństwa dotyczących dzikich zwierząt. W północnych regionach kraju występuje ryzyko malarii, zalecana jest profilaktyka i ochrona przed komarami. Przed wyjazdem warto skonsultować się z lekarzem w sprawie szczepień.",
+    "timeDiff": "W lecie (czas polski letni) czas jest taki sam jak w Polsce. W zimie (czas polski zimowy) Namibia jest 1 godzinę do przodu."
+  },
+  "source": "gemini",
+  "updated": "2026-11-23"
+}
