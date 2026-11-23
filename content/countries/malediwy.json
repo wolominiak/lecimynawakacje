@@ -1,0 +1,57 @@
+{
+  "slug": "malediwy",
+  "loc": "na Malediwach",
+  "to": "na Malediwy",
+  "capital": "Male",
+  "popularity": 76,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Malediwy",
+  "teaser": "Wille na wodzie, rafy pełne życia i wyspa jeden hotel. Najbardziej rajski kierunek świata, także w wersji budżetowej.",
+  "intro": [
+    "Malediwy to ponad tysiąc koralowych wysp na Oceanie Indyjskim, rozrzuconych na 26 atolach. Na wielu z nich stoi tylko jeden resort, a goście mają do dyspozycji białą plażę, lagunę i rafę dookoła wyspy. Wille nad wodą z bezpośrednim zejściem do laguny są symbolem luksusowych podróży.",
+    "Malediwy przestały być jednak zarezerwowane dla bogaczy. Na wyspach lokalnych, takich jak Maafushi, działają tanie pensjonaty, a z nich organizowane są wycieczki do resortów, na sandbanki i snorkeling z mantami i rekinami wielorybimi."
+  ],
+  "highlights": [
+    "Wille na wodzie i resorty na prywatnych wyspach",
+    "Jedne z najlepszych raf do snorkelingu",
+    "Manty, rekiny wielorybie i żółwie",
+    "Bezpłatna wiza po przylocie",
+    "Budżetowe wyspy lokalne",
+    "Woda 28 do 30 stopni przez cały rok"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na Malediwy to pora sucha od grudnia do kwietnia, z bezchmurnym niebem i spokojnym morzem. Od maja do listopada trwa monsun południowo zachodni: częściej pada i wieje, ale ceny są niższe, a widoczność pod wodą wciąż dobra.",
+    "best": [1, 2, 3, 4, 12],
+    "ok": [11]
+  },
+  "climate": {
+    "air": [30, 31, 31, 32, 31, 30, 30, 30, 30, 30, 30, 30],
+    "sea": [28, 28, 29, 30, 30, 29, 29, 28, 28, 28, 28, 28]
+  },
+  "practical": {
+    "flight": "około 10 do 12 h z przesiadką",
+    "timeDiff": "+4 h zimą, +3 h latem",
+    "documents": "Polacy otrzymują bezpłatną wizę turystyczną na 30 dni po przylocie. Przed podróżą trzeba wypełnić formularz Traveller Declaration (IMUGA). Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest rufiyaa (MVR), ale w resortach wszystko rozlicza się w dolarach. Do cen doliczane są podatek i opłata serwisowa.",
+    "plugs": "Gniazdka typu D i G. Potrzebna przejściówka.",
+    "language": "Językiem urzędowym jest malediwski (dhivehi). W turystyce używa się angielskiego.",
+    "safety": "Malediwy to kraj muzułmański. Na wyspach lokalnych nie wolno pić alkoholu, a plażowanie w bikini jest dozwolone tylko na wyznaczonych bikini beach."
+  },
+  "allInclusive": [
+    "All inclusive na Malediwach ma sens, bo w resortach na prywatnych wyspach nie ma gdzie zjeść poza hotelem, a ceny a la carte są wysokie. W pakietach często zawarte są też wycieczki snorkelingowe i sporty wodne.",
+    "Istotny jest sposób transferu z lotniska: łodzią motorową (najtaniej), hydroplanem (najdrożej, ale z widokiem na atole) lub lotem krajowym z łodzią."
+  ],
+  "attractions": [
+    { "name": "Snorkeling z mantami", "text": "Spotkania z mantami w atolach Baa i Ari, szczególnie w porze monsunowej.", "gygQuery": "Maldives manta snorkeling" },
+    { "name": "Rekin wielorybi w Ari", "text": "Pływanie z największą rybą świata w atolu Południowe Ari.", "gygQuery": "Maldives whale shark" },
+    { "name": "Sandbank", "text": "Piaszczysta łacha na środku oceanu na prywatny piknik.", "gygQuery": "Maldives sandbank" },
+    { "name": "Male", "text": "Jedna z najgęściej zaludnionych stolic świata z targiem rybnym i meczetem.", "gygQuery": "Male city tour" },
+    { "name": "Rejs o zachodzie słońca z delfinami", "text": "Wieczorny rejs, podczas którego niemal zawsze widać delfiny.", "gygQuery": "Maldives dolphin cruise" }
+  ],
+  "faq": [
+    { "q": "Czy na Malediwy potrzebna jest wiza?", "a": "Nie trzeba jej załatwiać wcześniej. Polacy dostają bezpłatną wizę na 30 dni po przylocie. Trzeba wypełnić formularz IMUGA online." },
+    { "q": "Czy Malediwy mogą być tanie?", "a": "Tak, jeśli wybierzesz pensjonat na wyspie lokalnej, np. Maafushi czy Thulusdhoo. Zamiast alkoholu i willi na wodzie dostajesz niskie ceny i wycieczki z lokalnymi." },
+    { "q": "Kiedy jechać na Malediwy?", "a": "Od grudnia do kwietnia jest najbardziej słonecznie. Poza sezonem częściej pada, ale ceny są niższe." }
+  ]
+}

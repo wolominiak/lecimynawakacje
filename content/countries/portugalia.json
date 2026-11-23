@@ -1,0 +1,101 @@
+{
+  "slug": "portugalia",
+  "loc": "w Portugalii",
+  "to": "do Portugalii",
+  "capital": "Lizbona",
+  "popularity": 78,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Portugalia",
+  "teaser": "Klify Algarve, wiecznie zielona Madera, Lizbona i Porto. Atlantyk, wino porto i pastéis de nata.",
+  "intro": [
+    "Portugalia to kraj oceanu: złote klify Algarve, surferskie plaże na zachodnim wybrzeżu i wulkaniczne wyspy Madera oraz Azory. Atlantyk jest tu chłodniejszy niż Morze Śródziemne, ale w zamian dostajemy spektakularne krajobrazy i łagodny klimat przez cały rok.",
+    "Biura podróży oferują najczęściej Maderę, która jest kierunkiem całorocznym, oraz Algarve na lato. Lizbona i Porto to jedne z najprzyjemniejszych miast Europy na city break, z tramwajami, fado, winem i najlepszymi babeczkami pastéis de nata."
+  ],
+  "highlights": [
+    "Madera, wyspa wiecznej wiosny",
+    "Klify i jaskinie Algarve",
+    "Lizbona, Porto i Sintra",
+    "Wystarczy dowód osobisty",
+    "Łagodny klimat przez cały rok",
+    "Wino porto i świetne owoce morza"
+  ],
+  "bestTime": {
+    "text": "Na Algarve najlepiej jechać od czerwca do września. Madera jest dobra przez cały rok, z temperaturami od 19 stopni zimą do 26 latem. Lizbonę i Porto najprzyjemniej zwiedza się wiosną i jesienią.",
+    "best": [6, 7, 8, 9],
+    "ok": [5, 10]
+  },
+  "climate": {
+    "air": [16, 17, 19, 21, 23, 27, 29, 29, 27, 23, 19, 17],
+    "sea": [16, 15, 16, 16, 18, 20, 21, 22, 22, 20, 18, 17],
+    "note": "Dane dla Algarve (Faro). Atlantyk jest chłodniejszy niż Morze Śródziemne."
+  },
+  "practical": {
+    "flight": "3,5 do 4,5 h",
+    "timeDiff": "-1 h",
+    "documents": "Portugalia jest w Unii Europejskiej i strefie Schengen. Wystarczy dowód osobisty, także na Maderę i Azory.",
+    "money": "Walutą jest euro. Ceny są jednymi z niższych w Europie Zachodniej.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest portugalski. Angielski jest powszechnie znany.",
+    "safety": "Portugalia jest bezpieczna. Na plażach Atlantyku zwracaj uwagę na flagi ratowników i silne prądy."
+  },
+  "regions": [
+    {
+      "slug": "madera",
+      "name": "Madera",
+      "loc": "na Maderze",
+      "type": "wyspa",
+      "wakacjePath": "madera",
+      "gygQuery": "Madera",
+      "airport": "Funchal (FNC)",
+      "forWhom": "Wyspa wiecznej wiosny: lewady, klify, kwiaty i całoroczne 20 stopni.",
+      "intro": [
+        "Madera to wulkaniczna wyspa na Atlantyku, około 1000 km od kontynentu. Klimat jest łagodny przez cały rok, a wyspa porośnięta bujną roślinnością. Największą atrakcją są lewady, czyli kanały irygacyjne, wzdłuż których prowadzą piesze szlaki przez lasy wawrzynowe.",
+        "Madera to kierunek dla aktywnych: trekkingi na Pico Ruivo, wieloryby i delfiny, naturalne baseny w Porto Moniz. Plaż jest niewiele, a ocean chłodny, ale hotele mają podgrzewane baseny."
+      ],
+      "highlights": ["Szlak PR1 Pico do Arieiro", "Lewady", "Naturalne baseny Porto Moniz", "Kolejka i sanie w Monte"]
+    },
+    {
+      "slug": "algarve",
+      "name": "Algarve",
+      "loc": "w Algarve",
+      "type": "region",
+      "wakacjePath": "algarve",
+      "gygQuery": "Algarve",
+      "airport": "Faro (FAO)",
+      "forWhom": "Złote klify, jaskinia Benagil i najpiękniejsze plaże Portugalii.",
+      "intro": [
+        "Algarve to najbardziej słoneczny region Portugalii z ponad 300 dniami słońca w roku. Wybrzeże słynie ze złotych klifów, skalnych łuków i ukrytych plaż, a najbardziej znana jest jaskinia Benagil z otworem w sklepieniu.",
+        "Najpopularniejsze miejscowości to Albufeira, Lagos, Portimão i Vilamoura."
+      ],
+      "highlights": ["Jaskinia Benagil", "Ponta da Piedade", "Praia da Marinha", "Cabo de São Vicente"]
+    },
+    {
+      "slug": "lizbona",
+      "name": "Lizbona",
+      "loc": "w Lizbonie",
+      "type": "miasto",
+      "gygQuery": "Lizbona",
+      "airport": "Lizbona (LIS)",
+      "forWhom": "Miasto siedmiu wzgórz, tramwaj 28, Belém i bajkowa Sintra obok.",
+      "intro": [
+        "Lizbona to jedna z najbardziej klimatycznych stolic Europy. Zabytkowe tramwaje wspinają się na wzgórza Alfamy, w Belém stoją Klasztor Hieronimitów i Wieża Belém, a wieczorem z knajp płynie fado.",
+        "Z Lizbony łatwo pojechać do Sintry z kolorowym Pałacem Pena i na plaże Cascais."
+      ],
+      "highlights": ["Tramwaj 28 i Alfama", "Belém", "Sintra", "Cascais"]
+    }
+  ],
+  "attractions": [
+    { "name": "Jaskinia Benagil", "text": "Morska grota z okrągłym otworem w sklepieniu, dostępna łodzią lub kajakiem.", "gygQuery": "Benagil cave" },
+    { "name": "Pałac Pena w Sintrze", "text": "Kolorowy romantyczny pałac na wzgórzu nad Lizboną.", "gygQuery": "Pena Palace" },
+    { "name": "Lewady na Maderze", "text": "Szlaki wzdłuż kanałów wodnych przez lasy laurowe.", "gygQuery": "Madeira levada" },
+    { "name": "Porto i piwnice wina", "text": "Degustacja porto w piwnicach Vila Nova de Gaia i rejs po rzece Douro.", "gygQuery": "Porto wine cellar" },
+    { "name": "Klasztor Hieronimitów", "text": "Arcydzieło stylu manuelińskiego w lizbońskim Belém.", "gygQuery": "Jeronimos Monastery" },
+    { "name": "Obserwacja wielorybów na Maderze", "text": "Rejsy z Funchal z dużą szansą na delfiny i wieloryby.", "gygQuery": "Madeira whale watching" }
+  ],
+  "faq": [
+    { "q": "Kiedy jechać na Maderę?", "a": "Przez cały rok. Zimą jest około 19 do 20 stopni, latem 25 do 26. Na plażowanie najlepszy jest okres od czerwca do października." },
+    { "q": "Czy Atlantyk w Portugalii jest zimny?", "a": "Tak, chłodniejszy niż Morze Śródziemne. Na Algarve latem woda ma 21 do 22 stopni, na zachodnim wybrzeżu i w Porto 17 do 19." },
+    { "q": "Czy na Maderę wystarczy dowód osobisty?", "a": "Tak, Madera jest częścią Portugalii i Unii Europejskiej." }
+  ]
+}

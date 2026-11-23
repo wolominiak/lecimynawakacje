@@ -1,0 +1,409 @@
+{
+  "slug": "grecja",
+  "loc": "w Grecji",
+  "to": "do Grecji",
+  "capital": "Ateny",
+  "popularity": 100,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Grecja",
+  "teaser": "Ponad 200 zamieszkanych wysp, ciepłe morze od maja do października i najlepszy w Europie stosunek ceny do pogody. Kreta, Rodos, Korfu czy Zakynthos?",
+  "intro": [
+    "Grecja od lat jest kierunkiem numer jeden wśród Polaków wyjeżdżających z biurem podróży. Trudno się dziwić: lot trwa od dwóch i pół do trzech godzin, sezon kąpielowy ciągnie się od końca maja do połowy października, a wybór wysp i regionów jest tak duży, że każdy znajdzie coś dla siebie. Rodziny z dziećmi wybierają płytkie, piaszczyste plaże Krety i Kos, pary szukają klimatycznych zatoczek na Zakynthos i Korfu, a fani zwiedzania łączą wypoczynek z wycieczkami do Knossos, Akropolu czy Meteorów.",
+    "Grecja to też jeden z najbezpieczniejszych i najprostszych kierunków dla osób, które wyjeżdżają za granicę po raz pierwszy. Kraj należy do Unii Europejskiej, płaci się w euro, a do wyjazdu wystarczy dowód osobisty. W kurortach bez problemu dogadasz się po angielsku, a w wielu miejscach obsługa zna kilka słów po polsku. Kuchnia grecka jest prosta i smaczna: grillowane ryby, souvlaki, sałatka choriatiki, tzatziki i moussaka to klasyki, które znajdziesz w każdej tawernie.",
+    "Wybierając region, warto pamiętać o różnicach między wyspami. Kreta jest największa i najbardziej różnorodna, z górami, wąwozami i dziesiątkami plaż. Rodos łączy średniowieczne miasto z dobrą bazą hotelową all inclusive. Korfu i Zakynthos na Morzu Jońskim są bardziej zielone, a woda bywa tam chłodniejsza na początku sezonu. Wyspy Cyklad, takie jak Santorini i Mykonos, to kierunek na zdjęcia i zachody słońca, ale rzadziej na klasyczne wakacje w hotelu z basenem."
+  ],
+  "highlights": [
+    "Lot 2,5 do 3,5 godziny z większości polskich lotnisk",
+    "Do wyjazdu wystarczy dowód osobisty",
+    "Morze ciepłe od czerwca do października, w sierpniu 26 stopni",
+    "Ogromny wybór hoteli all inclusive na Krecie, Rodos i Kos",
+    "Zabytki UNESCO: Akropol, Knossos, Meteory, Delfy",
+    "Tanie wycieczki fakultatywne i łatwy wynajem auta"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wakacje w Grecji to czerwiec i wrzesień: jest ciepło, ale nie upalnie, morze jest już nagrzane, a ceny niższe niż w szczycie. Lipiec i sierpień to pełnia sezonu z temperaturami powyżej 30 stopni i najwyższymi cenami. Maj i październik są idealne na zwiedzanie i spokojniejsze plażowanie, choć woda bywa wtedy jeszcze lub już chłodna. Zimą Grecja jest deszczowa i większość hoteli na wyspach jest zamknięta.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      15,
+      15,
+      17,
+      20,
+      24,
+      28,
+      31,
+      31,
+      28,
+      24,
+      20,
+      16
+    ],
+    "sea": [
+      16,
+      15,
+      16,
+      17,
+      19,
+      22,
+      25,
+      26,
+      25,
+      23,
+      20,
+      18
+    ],
+    "note": "Dane dla Krety (Heraklion). Na Korfu i Zakynthos woda w maju i czerwcu jest zwykle o 1 do 2 stopni chłodniejsza."
+  },
+  "practical": {
+    "flight": "2,5 do 3,5 h",
+    "timeDiff": "+1 h",
+    "documents": "Grecja należy do Unii Europejskiej i strefy Schengen, więc wystarczy ważny dowód osobisty lub paszport. Dzieci również potrzebują własnego dokumentu. Warto zabrać Europejską Kartę Ubezpieczenia Zdrowotnego (EKUZ), ale nie zastępuje ona prywatnego ubezpieczenia turystycznego.",
+    "money": "Walutą jest euro. Kartą zapłacisz prawie wszędzie, ale w małych tawernach i na targach przydaje się gotówka. Obiad w tawernie kosztuje zwykle 15 do 25 euro za osobę, kawa frappe około 3 euro, a leżaki z parasolem na plaży 10 do 20 euro za zestaw.",
+    "plugs": "Gniazdka typu C i F, takie same jak w Polsce. Przejściówka nie jest potrzebna.",
+    "language": "Językiem urzędowym jest grecki. W kurortach powszechnie używa się angielskiego. Przydatne słowa: kalimera (dzień dobry), efcharistó (dziękuję), parakaló (proszę).",
+    "safety": "Grecja jest bezpiecznym krajem. Latem uważaj na słońce i odwodnienie, szczególnie podczas zwiedzania w południe. Wodę z kranu na wyspach lepiej zastąpić butelkowaną."
+  },
+  "allInclusive": [
+    "Grecja ma jedną z największych baz hoteli all inclusive w Europie. Najwięcej ofert znajdziesz na Krecie, Rodos i Kos, gdzie powstały duże resorty z basenami, aquaparkami i animacjami dla dzieci. Na Korfu i Zakynthos hotele są częściej mniejsze i kameralne, a opcja all inclusive bywa skromniejsza niż w Turcji czy Egipcie.",
+    "W praktyce greckie all inclusive oznacza zwykle bufet trzy razy dziennie, przekąski w ciągu dnia i lokalne napoje alkoholowe w określonych godzinach. Warto czytać opisy dokładnie: część hoteli nalicza dopłaty za restauracje a la carte, napoje importowane czy leżaki na plaży. Dobrym kompromisem bywa wyżywienie HB (śniadania i obiadokolacje), bo greckie tawerny są tanie i smaczne, a wieczorny spacer do miasteczka to duża część uroku wakacji w Grecji.",
+    "Najlepsze ceny all inclusive w Grecji są w maju, czerwcu i od połowy września. W lipcu i sierpniu ceny rosną nawet o 40 procent, szczególnie w terminach wakacji szkolnych. Rezerwacja w first minute (do końca stycznia) daje zwykle najlepszy wybór hoteli przy rodzinnych wyjazdach."
+  ],
+  "regions": [
+    {
+      "slug": "kreta",
+      "name": "Kreta",
+      "loc": "na Krecie",
+      "type": "wyspa",
+      "wakacjePath": "kreta",
+      "gygQuery": "Kreta",
+      "airport": "Heraklion (HER), Chania (CHQ)",
+      "forWhom": "Największa grecka wyspa: plaże dla rodzin, wąwozy dla aktywnych i najwięcej hoteli all inclusive w Grecji.",
+      "intro": [
+        "Kreta to największa grecka wyspa i najpopularniejszy kierunek w ofercie polskich biur podróży. Ma ponad 250 kilometrów długości, więc w jednym wyjeździe można połączyć leżenie na plaży, trekking w górach i zwiedzanie minojskich pałaców. Północne wybrzeże z kurortami Hersonissos, Malia i okolicami Heraklionu to zagłębie hoteli all inclusive, a zachód wyspy wokół Chanii i Rethymnonu oferuje bardziej kameralną atmosferę i najpiękniejsze plaże.",
+        "Na Krecie sezon trwa najdłużej spośród greckich wysp. Już w maju jest ponad 24 stopnie, a kąpać się można komfortowo do końca października. To też dobra wyspa dla osób, które chcą wynająć auto i zobaczyć coś więcej niż hotel: drogi są przyzwoite, a odległości pozwalają na jednodniowe wypady w każdy zakątek."
+      ],
+      "highlights": [
+        "Laguna Balos i plaża Elafonisi z różowym piaskiem",
+        "Pałac w Knossos koło Heraklionu",
+        "Wąwóz Samaria, najdłuższy w Europie",
+        "Weneckie porty w Chanii i Rethymnonie"
+      ],
+      "places": [
+        {
+          "name": "Hersonissos i Malia",
+          "text": "Rozrywkowe kurorty na północnym wybrzeżu z dużymi hotelami, aquaparkami i życiem nocnym. Dobre dla rodzin z dziećmi i młodzieży."
+        },
+        {
+          "name": "Chania",
+          "text": "Najpiękniejsze miasto wyspy z weneckim portem i latarnią. Świetna baza do wycieczek na Balos i Elafonisi."
+        },
+        {
+          "name": "Rethymnon",
+          "text": "Długa piaszczysta plaża tuż przy starym mieście, spokojniejsza atmosfera niż na wschodzie wyspy."
+        },
+        {
+          "name": "Agios Nikolaos i Elounda",
+          "text": "Elegancka część wyspy z luksusowymi hotelami i widokiem na wyspę Spinalonga."
+        }
+      ]
+    },
+    {
+      "slug": "rodos",
+      "name": "Rodos",
+      "loc": "na Rodos",
+      "type": "wyspa",
+      "wakacjePath": "rodos",
+      "gygQuery": "Rodos",
+      "airport": "Rodos Diagoras (RHO)",
+      "forWhom": "Wyspa słońca ze średniowiecznym miastem rycerzy, dobrą bazą all inclusive i blisko do Turcji.",
+      "intro": [
+        "Rodos nazywany jest wyspą słońca, bo ma ponad 300 słonecznych dni w roku. Leży najdalej na wschód z popularnych greckich wysp, tuż przy wybrzeżu Turcji, dzięki czemu sezon jest tu długi, a woda ciepła. Stolica wyspy zachwyca średniowiecznym Starym Miastem wpisanym na listę UNESCO, z Pałacem Wielkich Mistrzów i Ulicą Rycerzy.",
+        "Wschodnie wybrzeże z Faliraki, Kolymbią i okolicami Lindos ma spokojne morze i piaszczyste lub żwirowe plaże, idealne dla rodzin. Zachodnia strona wyspy, wokół Ialyssos i Theologos, jest bardziej wietrzna i upodobali ją sobie kitesurferzy i windsurferzy."
+      ],
+      "highlights": [
+        "Stare Miasto Rodos (UNESCO)",
+        "Akropol i biała zabudowa Lindos",
+        "Zatoka Anthony Quinn",
+        "Jednodniowy rejs na wyspę Symi"
+      ],
+      "places": [
+        {
+          "name": "Faliraki",
+          "text": "Największy kurort wyspy z długą plażą, aquaparkiem i dużym wyborem hoteli."
+        },
+        {
+          "name": "Lindos",
+          "text": "Białe miasteczko pod akropolem, z jedną z najładniejszych zatok na wyspie."
+        },
+        {
+          "name": "Kolymbia",
+          "text": "Spokojna miejscowość z hotelami all inclusive, dobra dla rodzin."
+        },
+        {
+          "name": "Prasonisi",
+          "text": "Południowy cypel, gdzie spotykają się dwa morza. Mekka kitesurfingu."
+        }
+      ]
+    },
+    {
+      "slug": "korfu",
+      "name": "Korfu",
+      "loc": "na Korfu",
+      "type": "wyspa",
+      "wakacjePath": "korfu",
+      "gygQuery": "Korfu",
+      "airport": "Korfu (CFU)",
+      "forWhom": "Zielona wyspa na Morzu Jońskim z weneckim miastem, zatoczkami i bliskością Albanii.",
+      "intro": [
+        "Korfu to najbardziej zielona z popularnych greckich wysp. Wzgórza porastają gaje oliwne i cyprysy, a wybrzeże pełne jest małych zatoczek z turkusową wodą. Stolica wyspy, Kerkyra, przez wieki była pod panowaniem Wenecjan, co widać w architekturze starówki wpisanej na listę UNESCO.",
+        "Najpiękniejsze plaże znajdziesz na zachodnim wybrzeżu, w okolicach Paleokastritsy, Glyfady i Agios Gordios. Północ wyspy z Sidari i Kanalem d'Amour słynie z formacji skalnych, a wschodnie wybrzeże ma spokojniejsze morze i widok na góry Albanii. Na Korfu jest nieco chłodniej i więcej opadów niż na Krecie, więc najlepszy czas to czerwiec do września."
+      ],
+      "highlights": [
+        "Starówka Kerkyry (UNESCO)",
+        "Zatoki Paleokastritsy",
+        "Canal d'Amour w Sidari",
+        "Pałac Achillion cesarzowej Sisi"
+      ],
+      "places": [
+        {
+          "name": "Paleokastritsa",
+          "text": "Kilka zatoczek otoczonych klifami i klasztor na wzgórzu. Najbardziej fotogeniczne miejsce wyspy."
+        },
+        {
+          "name": "Sidari",
+          "text": "Kurort na północy z piaszczystymi plażami i skalnymi formacjami."
+        },
+        {
+          "name": "Kavos",
+          "text": "Imprezowe południe wyspy, popularne wśród młodzieży."
+        },
+        {
+          "name": "Kassiopi",
+          "text": "Urokliwe miasteczko portowe na północnym wschodzie."
+        }
+      ]
+    },
+    {
+      "slug": "zakynthos",
+      "name": "Zakynthos",
+      "loc": "na Zakynthos",
+      "type": "wyspa",
+      "wakacjePath": "zakynthos",
+      "gygQuery": "Zakynthos",
+      "airport": "Zakynthos (ZTH)",
+      "forWhom": "Wyspa Zatoki Wraku, żółwi karetta i błękitnych jaskiń. Idealna na rejsy i kameralne wakacje.",
+      "intro": [
+        "Zakynthos to jedna z najbardziej rozpoznawalnych greckich wysp, głównie za sprawą Zatoki Wraku (Navagio), czyli plaży z wrakiem statku otoczonej białymi klifami. Wyspa jest niewielka, zielona i świetnie nadaje się na wakacje połączone z rejsami łódką wzdłuż wybrzeża.",
+        "Południe wyspy w Zatoce Laganas to obszar ochrony żółwi karetta, które składają tam jaja. Wschodnie wybrzeże z Tsilivi i Alykes ma spokojne, płytkie morze dla rodzin, a zachód to dzikie klify z Błękitnymi Grotami i punktami widokowymi na zachód słońca."
+      ],
+      "highlights": [
+        "Zatoka Wraku Navagio",
+        "Błękitne Groty na północy wyspy",
+        "Żółwie karetta w Zatoce Laganas",
+        "Wyspa Marathonisi"
+      ],
+      "places": [
+        {
+          "name": "Laganas",
+          "text": "Najbardziej imprezowa miejscowość z długą piaszczystą plażą."
+        },
+        {
+          "name": "Tsilivi",
+          "text": "Spokojniejszy kurort z płytkim morzem, dobry dla rodzin."
+        },
+        {
+          "name": "Kalamaki",
+          "text": "Blisko lotniska i plaż żółwi, kameralna atmosfera."
+        }
+      ]
+    },
+    {
+      "slug": "kos",
+      "name": "Kos",
+      "loc": "na Kos",
+      "type": "wyspa",
+      "wakacjePath": "kos",
+      "gygQuery": "Kos",
+      "airport": "Kos (KGS)",
+      "forWhom": "Płaska wyspa szerokich piaszczystych plaż, rowerów i dużych resortów all inclusive.",
+      "intro": [
+        "Kos to wyspa Hipokratesa, ojca medycyny, i jeden z najlepszych greckich wyborów dla rodzin z małymi dziećmi. Ma długie, piaszczyste plaże z łagodnym wejściem do wody, a płaski teren sprawia, że po wyspie świetnie jeździ się rowerem.",
+        "Na Kos działa wiele dużych hoteli all inclusive, szczególnie w okolicach Kardameny, Marmari i Kefalos. Z wyspy łatwo popłynąć na sąsiednie Nisyros z czynnym kraterem wulkanu albo do tureckiego Bodrum."
+      ],
+      "highlights": [
+        "Plaża Paradise w Kefalos",
+        "Krater wulkanu na Nisyros",
+        "Asklepiejon, starożytne sanatorium",
+        "Rejs do Bodrum w Turcji"
+      ],
+      "places": [
+        {
+          "name": "Kardamena",
+          "text": "Kurort z dużym wyborem hoteli i życiem nocnym."
+        },
+        {
+          "name": "Marmari i Tigaki",
+          "text": "Szerokie plaże z wydmami, wiatr dla windsurferów."
+        },
+        {
+          "name": "Kefalos",
+          "text": "Zachodni kraniec wyspy z najpiękniejszymi plażami."
+        }
+      ]
+    },
+    {
+      "slug": "riwiera-olimpijska",
+      "name": "Riwiera Olimpijska",
+      "loc": "na Riwierze Olimpijskiej",
+      "type": "region",
+      "wakacjePath": "riwiera-olimpijska",
+      "gygQuery": "Olympus Greece",
+      "airport": "Saloniki (SKG)",
+      "forWhom": "Kontynentalna Grecja pod Olimpem: tanie wakacje, długie plaże i wycieczki do Meteorów.",
+      "intro": [
+        "Riwiera Olimpijska leży u stóp Olimpu, najwyższej góry Grecji. To jeden z najtańszych greckich kierunków, popularny także wśród osób jadących samochodem. Długie piaszczyste plaże w Paralii, Leptokarii i Platamonas przyciągają rodziny, a wieczorem kurorty tętnią życiem.",
+        "Z Riwiery Olimpijskiej najłatwiej dojechać do Meteorów, czyli klasztorów zbudowanych na szczytach skalnych słupów, oraz do Salonik. Region łatwo połączyć z wycieczką na Chalkidiki."
+      ],
+      "highlights": [
+        "Klasztory Meteory",
+        "Wejście na Olimp",
+        "Zamek w Platamonas",
+        "Saloniki"
+      ],
+      "places": [
+        {
+          "name": "Paralia Katerini",
+          "text": "Najpopularniejszy kurort regionu, gwarny i niedrogi."
+        },
+        {
+          "name": "Leptokaria",
+          "text": "Spokojniejsza miejscowość z długą plażą."
+        }
+      ]
+    },
+    {
+      "slug": "chalkidiki",
+      "name": "Chalkidiki",
+      "loc": "na Chalkidiki",
+      "type": "półwysep",
+      "wakacjePath": "chalkidiki",
+      "gygQuery": "Chalkidiki",
+      "airport": "Saloniki (SKG)",
+      "forWhom": "Trzy półwyspy z sosnami do samej wody i jednymi z najczystszych plaż w Grecji.",
+      "intro": [
+        "Chalkidiki to trzy półwyspy wysunięte w Morze Egejskie: Kassandra, Sithonia i Athos. Plaże są tu piaszczyste, woda krystalicznie czysta, a sosnowe lasy schodzą niemal do samego brzegu.",
+        "Kassandra jest najbardziej rozwinięta turystycznie, z dużymi hotelami i życiem nocnym. Sithonia jest dzika i spokojna, z zatoczkami jak z pocztówki. Athos to autonomiczna republika mnichów, którą można oglądać z pokładu statku."
+      ],
+      "highlights": [
+        "Plaże Sithonii",
+        "Rejs wzdłuż Athos",
+        "Kassandra i jej kurorty",
+        "Bliskość Salonik"
+      ]
+    },
+    {
+      "slug": "santorini",
+      "name": "Santorini",
+      "loc": "na Santorini",
+      "type": "wyspa",
+      "wakacjePath": "santorini",
+      "gygQuery": "Santorini",
+      "airport": "Santorini (JTR)",
+      "forWhom": "Wulkaniczna wyspa białych domków nad kalderą, zachodów słońca i podróży poślubnych.",
+      "intro": [
+        "Santorini to najsłynniejsza wyspa Cyklad i jedno z najczęściej fotografowanych miejsc na świecie. Białe domki z niebieskimi kopułami w Oia i Firze stoją na krawędzi kaldery, czyli zapadniętego krateru wulkanu.",
+        "Plaże na Santorini są wulkaniczne: czarne, czerwone lub ciemne żwirowe. To raczej kierunek na zwiedzanie, kolacje z widokiem i rejsy po kalderze niż na klasyczne plażowanie. Ceny są wyraźnie wyższe niż na innych wyspach."
+      ],
+      "highlights": [
+        "Zachód słońca w Oia",
+        "Rejs na wulkan Nea Kameni",
+        "Czerwona Plaża",
+        "Wykopaliska w Akrotiri"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Akropol w Atenach",
+      "text": "Symbol Grecji i europejskiej cywilizacji, z Partenonem górującym nad stolicą. Najlepiej zwiedzać rano, zanim zrobi się upał.",
+      "gygQuery": "Akropol bilety"
+    },
+    {
+      "name": "Pałac w Knossos",
+      "text": "Centrum cywilizacji minojskiej na Krecie i miejsce legendy o Minotaurze. Kilka kilometrów od Heraklionu.",
+      "gygQuery": "Knossos"
+    },
+    {
+      "name": "Meteory",
+      "text": "Klasztory zbudowane na szczytach skalnych słupów w Tesalii. Wpisane na listę UNESCO, dostępne na wycieczce z Riwiery Olimpijskiej.",
+      "gygQuery": "Meteora"
+    },
+    {
+      "name": "Laguna Balos",
+      "text": "Płytka laguna z turkusową wodą na zachodzie Krety. Najwygodniej dopłynąć statkiem z Kissamos.",
+      "gygQuery": "Balos"
+    },
+    {
+      "name": "Zatoka Wraku na Zakynthos",
+      "text": "Plaża z wrakiem statku otoczona pionowymi klifami. Najlepiej oglądać z punktu widokowego i z łodzi.",
+      "gygQuery": "Navagio"
+    },
+    {
+      "name": "Stare Miasto na Rodos",
+      "text": "Średniowieczne miasto joannitów z murami obronnymi, Pałacem Wielkich Mistrzów i Ulicą Rycerzy.",
+      "gygQuery": "Rhodes Old Town"
+    },
+    {
+      "name": "Delfy",
+      "text": "Starożytna wyrocznia na zboczu Parnasu, jedno z najważniejszych miejsc kultu w antycznej Grecji.",
+      "gygQuery": "Delfy"
+    },
+    {
+      "name": "Wąwóz Samaria",
+      "text": "Szesnastokilometrowy szlak przez wąwóz w Górach Białych na Krecie, otwarty od maja do października.",
+      "gygQuery": "Samaria Gorge"
+    },
+    {
+      "name": "Kaldera Santorini",
+      "text": "Rejs po zatopionym kraterze z kąpielą w ciepłych źródłach i wejściem na wulkan Nea Kameni.",
+      "gygQuery": "Santorini caldera cruise"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia grecka opiera się na oliwie, warzywach, rybach i jagnięcinie. W każdej tawernie zamówisz sałatkę choriatiki z fetą, tzatziki, moussakę, souvlaki i gyros. Na Krecie warto spróbować dakos, czyli suchara z pomidorami i serem mizithra, a na wyspach świeżych kalmarów i ośmiornicy z grilla.",
+    "Do kawy Grecy piją frappe lub freddo espresso, a po obiedzie często dostaniesz na koszt firmy kieliszek raki lub ouzo i deser. Napiwek w wysokości 5 do 10 procent jest mile widziany, ale nieobowiązkowy."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Grecji potrzebny jest paszport?",
+      "a": "Nie. Grecja jest w Unii Europejskiej i strefie Schengen, więc wystarczy ważny dowód osobisty. Paszport też jest akceptowany."
+    },
+    {
+      "q": "Która grecka wyspa jest najlepsza dla rodzin z dziećmi?",
+      "a": "Kreta i Kos mają najwięcej piaszczystych plaż z łagodnym zejściem do morza oraz hoteli z aquaparkami i animacjami. Dobrym wyborem jest też Rodos, wschodnie wybrzeże z Kolymbią i Faliraki."
+    },
+    {
+      "q": "Kiedy w Grecji jest najcieplejsze morze?",
+      "a": "Najcieplejsza woda jest w sierpniu i na początku września, około 25 do 26 stopni. W czerwcu ma zwykle 22 do 23 stopnie, a w październiku wciąż około 23 stopni na Krecie i Rodos."
+    },
+    {
+      "q": "Ile kosztują wakacje w Grecji?",
+      "a": "Tygodniowy wyjazd z biurem podróży w sezonie to zwykle od 2500 do 5000 zł za osobę, w zależności od standardu hotelu, wyżywienia i terminu. Najtaniej jest w maju, czerwcu i pod koniec września."
+    },
+    {
+      "q": "Ile trwa lot do Grecji z Polski?",
+      "a": "Lot na Kretę lub Rodos trwa około 3 do 3,5 godziny, na Korfu i Zakynthos około 2,5 godziny, a do Salonik nieco ponad 2 godziny."
+    }
+  ]
+}

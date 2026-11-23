@@ -1,0 +1,75 @@
+import './globals.css';
+import type { Metadata, Viewport } from 'next';
+import Logo from '@/components/Logo';
+import Search from '@/components/Search';
+import { searchItems } from '@/lib/search';
+import { CONTINENTS, popular } from '@/lib/data';
+import { SITE, wakacjeUrl } from '@/lib/affiliate';
+
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE.url),
+  title: { default: 'Wakacje 2027 - przewodnik po kierunkach z całego świata | Lecimy na wakacje', template: '%s | Lecimy na wakacje' },
+  description: 'Gdzie na wakacje? Przewodniki po krajach i regionach całego świata: kiedy jechać, pogoda, atrakcje, all inclusive i aktualne oferty biur podróży.',
+  openGraph: { siteName: SITE.name, locale: 'pl_PL', type: 'website' },
+  alternates: { canonical: '/' },
+  icons: { icon: '/favicon.svg' },
+};
+export const viewport: Viewport = { themeColor: '#06364a', width: 'device-width', initialScale: 1 };
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const items = searchItems();
+  const top = popular(8);
+  return (
+    <html lang="pl">
+      <body>
+        <header className="hdr">
+          <div className="wrap hdr-in">
+            <Logo />
+            <nav className="nav" aria-label="Główna nawigacja">
+              <a href="/wakacje/">Kierunki</a>
+              <a href="/gdzie-na-wakacje/">Gdzie na wakacje?</a>
+              <a href="/kontynenty/europa/">Europa</a>
+              <a href="/kontynenty/azja/">Egzotyka</a>
+            </nav>
+            <div className="hdr-right">
+              <Search items={items} placeholder="Szukaj kierunku..." />
+              <a className="btn btn-sm" href={wakacjeUrl(undefined, { lastMinute: true })} target="_blank" rel="sponsored nofollow noopener">Last minute</a>
+            </div>
+          </div>
+        </header>
+        <main>{children}</main>
+        <footer className="ftr">
+          <div className="wrap">
+            <div className="ftr-grid">
+              <div>
+                <Logo />
+                <p>Przewodniki po kierunkach wakacyjnych z całego świata. Sprawdzasz, kiedy jechać i co zobaczyć, a potem porównujesz oferty biur podróży.</p>
+              </div>
+              <div>
+                <h4>Popularne</h4>
+                <ul>{top.map((c) => <li key={c.slug}><a href={`/wakacje/${c.slug}/`}>Wakacje {c.content?.loc}</a></li>)}</ul>
+              </div>
+              <div>
+                <h4>Kontynenty</h4>
+                <ul>{CONTINENTS.map((c) => <li key={c.slug}><a href={`/kontynenty/${c.slug}/`}>{c.name}</a></li>)}</ul>
+              </div>
+              <div>
+                <h4>Serwis</h4>
+                <ul>
+                  <li><a href="/wakacje/">Wszystkie kraje A-Z</a></li>
+                  <li><a href="/gdzie-na-wakacje/">Gdzie na wakacje w danym miesiącu</a></li>
+                  <li><a href="/o-serwisie/">O serwisie i współpraca</a></li>
+                  <li><a href="/polityka-prywatnosci/">Polityka prywatności</a></li>
+                </ul>
+              </div>
+            </div>
+            <div className="ftr-bottom">
+              <span>© {new Date().getFullYear()} lecimynawakacje.pl</span>
+              <span>Serwis zawiera linki partnerskie (wakacje.pl, GetYourGuide). Rezerwując przez nie, nie płacisz więcej.</span>
+            </div>
+          </div>
+        </footer>
+      </body>
+    </html>
+  );
+}

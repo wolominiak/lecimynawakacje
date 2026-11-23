@@ -1,0 +1,278 @@
+{
+  "slug": "turcja",
+  "loc": "w Turcji",
+  "to": "do Turcji",
+  "capital": "Ankara",
+  "popularity": 98,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Antalya",
+  "teaser": "Królowa all inclusive: ogromne resorty z aquaparkami, ciepłe morze do listopada i Stambuł na city break. Antalya, Alanya, Side czy Bodrum?",
+  "intro": [
+    "Turcja to dla wielu Polaków synonim wakacji all inclusive. Na Riwierze Tureckiej, między Kemerem a Alanyą, stoją setki hoteli z basenami, zjeżdżalniami, animacjami i bufetami, które pracują niemal przez całą dobę. Standard usług jest wysoki, a ceny konkurencyjne, dlatego Turcja od lat walczy z Grecją o pierwsze miejsce w rankingach biur podróży.",
+    "Kraj ma jednak znacznie więcej do zaoferowania niż hotel i plażę. Na wybrzeżu Morza Egejskiego leżą starożytne Efez i Pamukkale z białymi trawertynowymi tarasami, w głębi lądu Kapadocja z balonami nad skalnymi kominami, a Stambuł to jedno z najciekawszych miast świata. Sezon kąpielowy na południu trwa od maja do początku listopada, a lot na Riwierę Turecką zajmuje około trzech godzin."
+  ],
+  "highlights": [
+    "Największy wybór hoteli all inclusive w Europie",
+    "Sezon od maja do listopada, woda do 28 stopni",
+    "Bez wizy dla Polaków na pobyt do 90 dni",
+    "Kapadocja, Pamukkale, Efez i Stambuł na wycieczki",
+    "Bardzo dobra oferta dla rodzin z dziećmi",
+    "Niskie ceny na miejscu przy słabej lirze"
+  ],
+  "bestTime": {
+    "text": "Na wypoczynek najlepsze są czerwiec i wrzesień: jest bardzo ciepło, ale nie skrajnie upalnie, a ceny są niższe niż w wakacje szkolne. Lipiec i sierpień to szczyt sezonu z temperaturami 34 do 38 stopni na Riwierze Tureckiej. Maj i październik to idealny czas dla osób, które nie lubią upałów i chcą łączyć plażę z wycieczkami. Woda jest ciepła aż do początku listopada.",
+    "best": [
+      6,
+      9,
+      10
+    ],
+    "ok": [
+      5,
+      7,
+      8
+    ]
+  },
+  "climate": {
+    "air": [
+      15,
+      16,
+      19,
+      22,
+      27,
+      32,
+      35,
+      35,
+      32,
+      27,
+      21,
+      17
+    ],
+    "sea": [
+      17,
+      17,
+      17,
+      19,
+      22,
+      25,
+      28,
+      29,
+      28,
+      25,
+      22,
+      19
+    ],
+    "note": "Dane dla Antalyi. W Bodrum i Marmaris jest kilka stopni chłodniej, a woda na Morzu Egejskim jest chłodniejsza o 1 do 2 stopnie."
+  },
+  "practical": {
+    "flight": "3 do 3,5 h",
+    "timeDiff": "+1 h latem, +2 h zimą",
+    "documents": "Polacy nie potrzebują wizy przy pobycie turystycznym do 90 dni w okresie 180 dni. Potrzebny jest paszport ważny co najmniej 150 dni od dnia wjazdu.",
+    "money": "Walutą jest lira turecka (TRY), ale w kurortach powszechnie przyjmuje się euro. Kartą zapłacisz w większości miejsc. Ceny w bazarach są do negocjacji, w sklepach stałe. Na wycieczki fakultatywne warto porównać ceny rezydenta z lokalnymi agencjami.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest turecki. W kurortach obsługa mówi po angielsku, niemiecku i rosyjsku, czasem także po polsku.",
+    "safety": "Kurorty turystyczne są bezpieczne. Pij wodę butelkowaną, uważaj na słońce i targuj się spokojnie na bazarach. Nie fotografuj obiektów wojskowych."
+  },
+  "allInclusive": [
+    "Tureckie all inclusive to światowa czołówka. W standardzie są zwykle bufety z kilkunastoma rodzajami dań, przekąski przez cały dzień, lokalny alkohol i napoje bez limitu, a w lepszych hotelach także restauracje a la carte, aquaparki, kluby dla dzieci i wieczorne pokazy. Coraz więcej resortów działa w formule ultra all inclusive, gdzie w cenie są też importowane alkohole i minibar.",
+    "Najbardziej luksusowe hotele stoją w Belek i Lara, rodzinne kompleksy z aquaparkami w Side i Alanyi, a Kemer to dobre miejsce dla osób, które chcą łączyć morze z górami. Ceny all inclusive w Turcji są najniższe w maju i od drugiej połowy października, a najwyższe w lipcu i sierpniu."
+  ],
+  "regions": [
+    {
+      "slug": "antalya",
+      "name": "Antalya i Lara",
+      "loc": "w Antalyi",
+      "type": "miasto i riwiera",
+      "wakacjePath": "riwiera-turecka",
+      "gygQuery": "Antalya",
+      "airport": "Antalya (AYT)",
+      "forWhom": "Wielkie miasto z zabytkowym Kaleiçi i luksusowymi hotelami Lara tuż przy lotnisku.",
+      "intro": [
+        "Antalya to stolica Riwiery Tureckiej i brama do całego regionu. Do lotniska trafia się zwykle niezależnie od tego, gdzie stoi hotel, ale samo miasto też jest świetnym miejscem na wakacje. Zabytkowa dzielnica Kaleiçi z wąskimi uliczkami, rzymską Bramą Hadriana i portem jachtowym zachwyca wieczorem.",
+        "Dzielnica Lara, kilkanaście minut od lotniska, słynie z luksusowych hoteli tematycznych i długiej piaszczystej plaży. Konyaalti po drugiej stronie miasta ma kamienistą plażę z widokiem na góry Taurus."
+      ],
+      "highlights": [
+        "Stare miasto Kaleiçi",
+        "Wodospady Düden",
+        "Kolejka na górę Tünektepe",
+        "Hotele tematyczne w Lara"
+      ]
+    },
+    {
+      "slug": "alanya",
+      "name": "Alanya",
+      "loc": "w Alanyi",
+      "type": "kurort",
+      "wakacjePath": "riwiera-turecka",
+      "gygQuery": "Alanya",
+      "airport": "Antalya (AYT) lub Gazipasa (GZP)",
+      "forWhom": "Tętniący życiem kurort z twierdzą na skale, Plażą Kleopatry i niskimi cenami.",
+      "intro": [
+        "Alanya leży około dwóch godzin jazdy od lotniska w Antalyi i jest jednym z najpopularniejszych kurortów w Turcji. Nad miastem góruje seldżucka twierdza na skalnym cyplu, a u jej stóp ciągnie się słynna Plaża Kleopatry z jasnym piaskiem.",
+        "Alanya to dobry wybór dla osób szukających taniego all inclusive i życia poza hotelem: bazarów, restauracji, rejsów pirackich statkiem i klubów. Okoliczne miejscowości, takie jak Konakli, Avsallar i Okurcalar, oferują spokojniejsze resorty."
+      ],
+      "highlights": [
+        "Twierdza Alanya i Czerwona Wieża",
+        "Plaża Kleopatry",
+        "Jaskinia Damlatas",
+        "Rejsy wzdłuż wybrzeża"
+      ]
+    },
+    {
+      "slug": "side",
+      "name": "Side",
+      "loc": "w Side",
+      "type": "kurort",
+      "wakacjePath": "riwiera-turecka",
+      "gygQuery": "Side Turkey",
+      "airport": "Antalya (AYT)",
+      "forWhom": "Antyczne ruiny nad morzem i rodzinne resorty z aquaparkami przy piaszczystych plażach.",
+      "intro": [
+        "Side łączy plażowanie z historią. Na półwyspie, gdzie leży stare miasto, zachowały się ruiny Świątyni Apolla stojącej tuż nad wodą oraz rzymski teatr. Wokół, w Kumköy, Çolakli i Evrenseki, stoją duże rodzinne hotele all inclusive.",
+        "Plaże w okolicach Side są piaszczyste z łagodnym zejściem do morza, co czyni region jednym z najlepszych w Turcji dla rodzin z małymi dziećmi."
+      ],
+      "highlights": [
+        "Świątynia Apolla o zachodzie słońca",
+        "Teatr antyczny",
+        "Wodospad Manavgat",
+        "Rafting w kanionie Köprülü"
+      ]
+    },
+    {
+      "slug": "belek",
+      "name": "Belek",
+      "loc": "w Belek",
+      "type": "kurort",
+      "wakacjePath": "riwiera-turecka",
+      "gygQuery": "Belek",
+      "airport": "Antalya (AYT)",
+      "forWhom": "Najbardziej luksusowa część Riwiery: pięciogwiazdkowe resorty, pola golfowe i sosnowe lasy.",
+      "intro": [
+        "Belek to kurort stworzony od podstaw z myślą o luksusowym wypoczynku. Wzdłuż piaszczystej plaży stoją niemal wyłącznie pięciogwiazdkowe hotele, często z kilkoma basenami, aquaparkami i prywatnymi molo. Region słynie też z kilkunastu pól golfowych.",
+        "Belek jest położony zaledwie 30 minut od lotniska. To miejsce dla tych, którzy chcą spędzić cały urlop w hotelu na najwyższym poziomie."
+      ],
+      "highlights": [
+        "Luksusowe resorty ultra all inclusive",
+        "Pola golfowe",
+        "Park rozrywki Land of Legends",
+        "Ruiny Aspendos"
+      ]
+    },
+    {
+      "slug": "kemer",
+      "name": "Kemer",
+      "loc": "w Kemerze",
+      "type": "kurort",
+      "wakacjePath": "riwiera-turecka",
+      "gygQuery": "Kemer",
+      "airport": "Antalya (AYT)",
+      "forWhom": "Góry Taurus wpadające do krystalicznie czystego morza, sosny i kameralne zatoki.",
+      "intro": [
+        "Kemer leży na zachód od Antalyi, w miejscu, gdzie góry Taurus schodzą prosto do morza. Woda jest tu wyjątkowo czysta, a plaże głównie żwirowe. Okolica jest zielona, pełna sosnowych lasów i szlaków.",
+        "W pobliżu są Göynük, Beldibi, Çamyuva i Tekirova, gdzie stoją spokojniejsze hotele. Z Kemeru łatwo wjechać kolejką na górę Tahtalı lub zwiedzić starożytne Phaselis."
+      ],
+      "highlights": [
+        "Kolejka na Tahtalı (2365 m)",
+        "Ruiny Phaselis",
+        "Kanion Göynük",
+        "Wieczne ognie Chimery"
+      ]
+    },
+    {
+      "slug": "bodrum",
+      "name": "Bodrum",
+      "loc": "w Bodrum",
+      "type": "półwysep",
+      "gygQuery": "Bodrum",
+      "airport": "Bodrum (BJV)",
+      "forWhom": "Białe miasteczka nad Morzem Egejskim, marina pełna jachtów i stylowe beach cluby.",
+      "intro": [
+        "Bodrum to turecki Saint-Tropez: białe domki, zamek krzyżowców nad zatoką i marina pełna jachtów. Półwysep jest bardziej elegancki i kameralny niż Riwiera Turecka, z wieloma małymi zatoczkami i butikowymi hotelami.",
+        "Woda na Morzu Egejskim jest chłodniejsza i bardziej przejrzysta niż na południu, a latem wieje orzeźwiający wiatr. Z Bodrum łatwo popłynąć promem na grecką wyspę Kos."
+      ],
+      "highlights": [
+        "Zamek Świętego Piotra",
+        "Mauzoleum w Halikarnasie",
+        "Rejs po zatokach",
+        "Wycieczka do Efezu"
+      ]
+    },
+    {
+      "slug": "stambul",
+      "name": "Stambuł",
+      "loc": "w Stambule",
+      "type": "miasto",
+      "gygQuery": "Stambuł",
+      "airport": "Istanbul (IST), Sabiha Gökçen (SAW)",
+      "forWhom": "Miasto na dwóch kontynentach: meczety, bazary, Bosfor i jedna z najlepszych kuchni świata.",
+      "intro": [
+        "Stambuł to idealny kierunek na city break lub przedłużenie wakacji na wybrzeżu. Hagia Sophia, Błękitny Meczet, Pałac Topkapi i Wielki Bazar leżą w zasięgu krótkiego spaceru w dzielnicy Sultanahmet.",
+        "Warto zarezerwować minimum trzy dni, żeby zobaczyć też nowoczesne Beyoğlu, przepłynąć Bosfor i zjeść kolację w azjatyckiej części miasta. Najlepszy czas na zwiedzanie to wiosna i jesień."
+      ],
+      "highlights": [
+        "Hagia Sophia i Błękitny Meczet",
+        "Rejs po Bosforze",
+        "Wielki Bazar",
+        "Wieża Galata"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kapadocja",
+      "text": "Skalne kominy, podziemne miasta i lot balonem o świcie. Z Riwiery Tureckiej organizowane są wycieczki dwudniowe.",
+      "gygQuery": "Cappadocia balloon"
+    },
+    {
+      "name": "Pamukkale i Hierapolis",
+      "text": "Białe tarasy trawertynowe z ciepłą wodą i ruiny antycznego miasta tuż nad nimi.",
+      "gygQuery": "Pamukkale"
+    },
+    {
+      "name": "Efez",
+      "text": "Najlepiej zachowane starożytne miasto we wschodniej części Morza Śródziemnego, z Biblioteką Celsusa.",
+      "gygQuery": "Ephesus"
+    },
+    {
+      "name": "Hagia Sophia w Stambule",
+      "text": "Bizantyjska bazylika przemieniona w meczet, jeden z najważniejszych zabytków świata.",
+      "gygQuery": "Hagia Sophia"
+    },
+    {
+      "name": "Kanion Köprülü",
+      "text": "Rafting po rzece w parku narodowym, popularna wycieczka z Side i Alanyi.",
+      "gygQuery": "Koprulu Canyon rafting"
+    },
+    {
+      "name": "Demre, Myra i Kekova",
+      "text": "Grobowce wykute w skałach, kościół świętego Mikołaja i rejs nad zatopionym miastem.",
+      "gygQuery": "Kekova"
+    },
+    {
+      "name": "Aspendos",
+      "text": "Najlepiej zachowany teatr rzymski na świecie, wciąż używany do koncertów.",
+      "gygQuery": "Aspendos"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia turecka to dużo więcej niż kebab. Spróbuj meze, czyli zestawu przystawek, pide (tureckiej pizzy w kształcie łódki), lahmacun, köfte i ryb z grilla. Na śniadanie podaje się serwis z serami, oliwkami, pomidorami i menemenem, a na deser baklawę, künefe i lody dondurma. Do tego herbata czaj w małych szklaneczkach i turecka kawa."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Turcji potrzebna jest wiza?",
+      "a": "Nie. Polacy mogą przebywać w Turcji bez wizy do 90 dni w okresie 180 dni. Potrzebny jest paszport ważny co najmniej 150 dni od dnia wjazdu."
+    },
+    {
+      "q": "Gdzie w Turcji jest najlepiej z dziećmi?",
+      "a": "Najlepsze dla rodzin są Side i okolice, Lara i Belek: piaszczyste plaże z łagodnym zejściem i hotele z aquaparkami oraz klubami dla dzieci."
+    },
+    {
+      "q": "Do kiedy w Turcji można się kąpać w morzu?",
+      "a": "Na Riwierze Tureckiej morze ma ponad 22 stopnie aż do połowy listopada, dlatego Turcja jest popularna także jesienią."
+    },
+    {
+      "q": "Czy w Turcji można płacić w euro?",
+      "a": "W kurortach tak, ale korzystniej jest płacić w lirach tureckich lub kartą. Euro przyda się na napiwki i bazary."
+    }
+  ]
+}

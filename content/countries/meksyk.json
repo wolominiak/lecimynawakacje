@@ -1,0 +1,76 @@
+{
+  "slug": "meksyk",
+  "loc": "w Meksyku",
+  "to": "do Meksyku",
+  "capital": "Meksyk",
+  "popularity": 79,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Cancun",
+  "teaser": "Riwiera Maya z karaibskimi plażami, cenoty, piramidy Majów i Tulum na klifie. Plaża i zwiedzanie w jednym.",
+  "intro": [
+    "Meksyk to kierunek, który łączy karaibski wypoczynek z jednymi z najciekawszych zabytków świata. Biura podróży latają głównie na półwysep Jukatan, do Cancún i na Riwierę Maya, gdzie wzdłuż turkusowego morza stoją resorty all inclusive, a w głębi lądu kryją się cenoty i piramidy Majów.",
+    "Chichén Itzá, jeden z siedmiu nowych cudów świata, ruiny Tulum na klifie nad morzem, kolonialne Valladolid i Mérida oraz pływanie z żółwiami w Akumal to atrakcje w zasięgu jednodniowych wycieczek."
+  ],
+  "highlights": [
+    "Karaibskie plaże Riwiery Maya",
+    "Chichén Itzá i ruiny Tulum",
+    "Kąpiel w cenotach",
+    "Pływanie z żółwiami w Akumal",
+    "Bez wizy dla Polaków",
+    "Duży wybór hoteli all inclusive"
+  ],
+  "bestTime": {
+    "text": "Najlepiej jechać na Jukatan od grudnia do kwietnia, w porze suchej. Od czerwca do listopada trwa sezon huraganów i jest bardziej wilgotno, a latem na plażach pojawiają się glony sargassum.",
+    "best": [12, 1, 2, 3, 4],
+    "ok": [5, 11]
+  },
+  "climate": {
+    "air": [28, 29, 30, 31, 32, 32, 32, 33, 32, 31, 30, 28],
+    "sea": [26, 26, 26, 27, 28, 28, 29, 29, 29, 28, 27, 26],
+    "note": "Dane dla Cancún."
+  },
+  "practical": {
+    "flight": "około 12 h bezpośrednio",
+    "timeDiff": "-6 h zimą, -7 h latem",
+    "documents": "Polacy nie potrzebują wizy przy pobycie turystycznym. Potrzebny jest paszport. Okres pobytu wpisuje urzędnik przy wjeździe.",
+    "money": "Walutą jest peso meksykańskie (MXN). W kurortach przyjmuje się dolary, ale po gorszym kursie.",
+    "plugs": "Gniazdka typu A i B (amerykańskie), 127 V. Potrzebna przejściówka.",
+    "language": "Językiem urzędowym jest hiszpański. W kurortach Riwiery Maya dogadasz się po angielsku.",
+    "safety": "Strefy turystyczne Jukatanu są stosunkowo bezpieczne. Korzystaj z oficjalnych taksówek i nie zapuszczaj się w nieznane okolice nocą."
+  },
+  "allInclusive": [
+    "Riwiera Maya i Cancún to jedno z najważniejszych zagłębi all inclusive na świecie. Resorty mają wysoki standard, kilka restauracji a la carte i często własne cenoty lub laguny.",
+    "Strefa hotelowa w Cancún ma wieżowce przy plaży i życie nocne, a Playa del Carmen, Puerto Morelos i Tulum są spokojniejsze."
+  ],
+  "regions": [
+    {
+      "slug": "riwiera-maya",
+      "name": "Riwiera Maya i Cancún",
+      "loc": "na Riwierze Maya",
+      "type": "region",
+      "wakacjePath": "riwiera-maya",
+      "gygQuery": "Riviera Maya",
+      "airport": "Cancún (CUN)",
+      "forWhom": "Cancún, Playa del Carmen i Tulum. Turkusowe Karaiby z cenotami w tle.",
+      "intro": [
+        "Riwiera Maya to pas wybrzeża od Cancún do Tulum. Cancún ma kilkunastokilometrową strefę hotelową na mierzei, Playa del Carmen słynie z deptaka Quinta Avenida, a Tulum z ruin na klifie i bohemowej atmosfery.",
+        "Z każdego miejsca łatwo dojechać do cenotów, na wyspę Cozumel z rafami i na Isla Mujeres."
+      ],
+      "highlights": ["Ruiny Tulum", "Cenote Dos Ojos", "Isla Mujeres", "Akumal i żółwie"]
+    }
+  ],
+  "attractions": [
+    { "name": "Chichén Itzá", "text": "Piramida Kukulkana, jeden z siedmiu nowych cudów świata.", "gygQuery": "Chichen Itza" },
+    { "name": "Ruiny Tulum", "text": "Miasto Majów na klifie nad turkusowym morzem.", "gygQuery": "Tulum ruins" },
+    { "name": "Cenoty", "text": "Naturalne studnie krasowe z krystaliczną wodą do kąpieli i nurkowania.", "gygQuery": "Cenote tour" },
+    { "name": "Isla Mujeres", "text": "Wyspa z plażą Norte i rejsem katamaranem.", "gygQuery": "Isla Mujeres" },
+    { "name": "Park Xcaret", "text": "Ekopark z podziemnymi rzekami i wieczornym show.", "gygQuery": "Xcaret" },
+    { "name": "Valladolid", "text": "Kolonialne miasteczko z kolorowymi domami i cenote Zací.", "gygQuery": "Valladolid" }
+  ],
+  "faq": [
+    { "q": "Czy do Meksyku potrzebna jest wiza?", "a": "Nie, przy pobycie turystycznym Polacy nie potrzebują wizy. Wystarczy paszport." },
+    { "q": "Cancún czy Playa del Carmen?", "a": "Cancún to hotele na plaży i życie nocne, Playa del Carmen ma więcej klimatu i deptak z restauracjami. Obie są dobrą bazą do wycieczek." },
+    { "q": "Kiedy na Jukatanie jest sargassum?", "a": "Glony pojawiają się zwykle od maja do września. Zimą plaże są najczystsze." }
+  ]
+}

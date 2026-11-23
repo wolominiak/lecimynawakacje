@@ -1,0 +1,125 @@
+{
+  "slug": "bulgaria",
+  "loc": "w Bułgarii",
+  "to": "do Bułgarii",
+  "capital": "Sofia",
+  "popularity": 84,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Bułgaria",
+  "teaser": "Najtańsze ciepłe morze w Unii: szerokie piaszczyste plaże, Złote Piaski, Słoneczny Brzeg i zabytkowy Nesebar. Dojedziesz też autem.",
+  "intro": [
+    "Bułgaria to klasyk polskich wakacji, który przeżywa drugą młodość. Wybrzeże Morza Czarnego ma szerokie plaże z drobnym, złotym piaskiem i łagodnym zejściem do wody, idealnym dla dzieci. Ceny na miejscu, zarówno w hotelach, jak i restauracjach, należą do najniższych w Unii Europejskiej, a od 2026 roku płaci się tu w euro.",
+    "Lot do Burgas lub Warny trwa około dwóch godzin, a wielu Polaków przyjeżdża też samochodem przez Słowację, Węgry i Rumunię. Poza plażą warto zobaczyć wpisany na listę UNESCO Nesebar, romantyczny Sozopol, monastyr w Rile i kamienne miasteczka w górach Rodopach."
+  ],
+  "highlights": [
+    "Jedne z najtańszych wakacji nad ciepłym morzem w UE",
+    "Szerokie piaszczyste plaże z płytką wodą",
+    "Lot około 2 godzin, można też dojechać autem",
+    "Wystarczy dowód osobisty",
+    "Zabytkowy Nesebar i Sozopol",
+    "Dużo atrakcji dla dzieci i młodzieży"
+  ],
+  "bestTime": {
+    "text": "Sezon w Bułgarii trwa od czerwca do września. Najcieplejsza woda, około 25 do 26 stopni, jest w lipcu i sierpniu, i to wtedy przyjeżdża najwięcej turystów. Czerwiec i wrzesień są spokojniejsze i tańsze, a temperatura powietrza wciąż przekracza 25 stopni. Poza sezonem wiele hoteli na wybrzeżu jest zamkniętych.",
+    "best": [7, 8],
+    "ok": [6, 9]
+  },
+  "climate": {
+    "air": [6, 8, 11, 16, 21, 26, 29, 29, 25, 19, 13, 8],
+    "sea": [8, 7, 8, 11, 16, 21, 24, 25, 22, 18, 14, 10],
+    "note": "Dane dla Burgas i Słonecznego Brzegu."
+  },
+  "practical": {
+    "flight": "około 2 h",
+    "timeDiff": "+1 h",
+    "documents": "Bułgaria jest w Unii Europejskiej i strefie Schengen. Wystarczy ważny dowód osobisty lub paszport.",
+    "money": "Od 1 stycznia 2026 roku walutą Bułgarii jest euro. Ceny w restauracjach i sklepach są wyraźnie niższe niż w Grecji czy Chorwacji.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest bułgarski, zapisywany cyrylicą. Pamiętaj, że w Bułgarii kiwnięcie głową w górę i w dół często oznacza nie, a kręcenie głową tak.",
+    "safety": "Bułgaria jest bezpieczna. W dużych kurortach uważaj na naciąganie w kantorach i taksówkach bez taksometru."
+  },
+  "allInclusive": [
+    "All inclusive w Bułgarii jest tanie i coraz lepsze. Najwięcej dużych hoteli z basenami i animacjami znajdziesz w Słonecznym Brzegu, na Złotych Piaskach i w Albenie. Standard bywa nierówny, dlatego warto czytać opinie i wybierać nowsze obiekty.",
+    "Bułgaria to dobry wybór dla rodzin z dziećmi, które chcą piaszczystej plaży i ciepłej wody w lipcu i sierpniu, przy budżecie niższym niż w Grecji czy Hiszpanii."
+  ],
+  "regions": [
+    {
+      "slug": "sloneczny-brzeg",
+      "name": "Słoneczny Brzeg",
+      "loc": "na Słonecznym Brzegu",
+      "type": "kurort",
+      "wakacjePath": "sloneczny-brzeg",
+      "gygQuery": "Sunny Beach Bulgaria",
+      "airport": "Burgas (BOJ)",
+      "forWhom": "Największy kurort Bułgarii z kilkukilometrową plażą, aquaparkami i życiem nocnym.",
+      "intro": [
+        "Słoneczny Brzeg to największy kurort bułgarskiego wybrzeża, z ośmiokilometrową plażą z miękkim piaskiem. Jest tu wszystko: aquaparki, parki rozrywki, kluby i setki restauracji. W północnej części, bliżej Swietego Własa, jest spokojniej, a w centrum gwarno do rana.",
+        "Z kurortu można przejść spacerem do Nesebaru, starego miasta na półwyspie wpisanego na listę UNESCO."
+      ],
+      "highlights": ["Stary Nesebar (UNESCO)", "Action Aquapark", "Promenada nadmorska", "Rejsy statkiem pirackim"]
+    },
+    {
+      "slug": "zlote-piaski",
+      "name": "Złote Piaski",
+      "loc": "na Złotych Piaskach",
+      "type": "kurort",
+      "wakacjePath": "zlote-piaski",
+      "gygQuery": "Golden Sands",
+      "airport": "Warna (VAR)",
+      "forWhom": "Kurort w zielonym parku przyrody, blisko Warny i monastyru Aładża.",
+      "intro": [
+        "Złote Piaski leżą kilkanaście kilometrów od Warny, a hotele schowane są wśród lasów parku przyrody. Plaża jest szeroka i piaszczysta, a woda czysta. Kurort ma bogate życie nocne i aquapark.",
+        "W okolicy warto zobaczyć skalny monastyr Aładża, Warnę z rzymskimi termami i pałac Balczik z ogrodem botanicznym."
+      ],
+      "highlights": ["Monastyr Aładża", "Warna i Muzeum Archeologiczne", "Pałac i ogród w Balcziku", "Aquapolis"]
+    },
+    {
+      "slug": "nesebar",
+      "name": "Nesebar i Swiety Włas",
+      "loc": "w Nesebarze",
+      "type": "miasto",
+      "wakacjePath": "nesebar",
+      "gygQuery": "Nesebar",
+      "airport": "Burgas (BOJ)",
+      "forWhom": "Bizantyjskie cerkwie, drewniane domy i spokojniejsza alternatywa dla Słonecznego Brzegu.",
+      "intro": [
+        "Nesebar to jedno z najstarszych miast Europy, położone na skalistym półwyspie połączonym z lądem wąską groblą. Ruiny bizantyjskich cerkwi, kamienno drewniane domy i wąskie uliczki tworzą wyjątkowy klimat.",
+        "W nowej części miasta i pobliskim Swietym Własie z mariną stoją hotele dla osób, które chcą być blisko Słonecznego Brzegu, ale nocować spokojniej."
+      ],
+      "highlights": ["Cerkiew Chrystusa Pantokratora", "Wiatrak na grobli", "Marina w Swietym Własie", "Rejs do Sozopolu"]
+    },
+    {
+      "slug": "albena",
+      "name": "Albena",
+      "loc": "w Albenie",
+      "type": "kurort",
+      "wakacjePath": "albena",
+      "gygQuery": "Albena",
+      "airport": "Warna (VAR)",
+      "forWhom": "Najbardziej rodzinny kurort z płytką wodą i bezpieczną, zieloną okolicą.",
+      "intro": [
+        "Albena to kurort zbudowany z myślą o rodzinach. Plaża jest szeroka, a morze bardzo płytkie, nawet sto metrów od brzegu woda sięga dorosłym do pasa. Hotele stoją w zieleni, a w kurorcie nie ma głośnego życia nocnego.",
+        "To jedno z najlepszych miejsc w Bułgarii na wakacje z małymi dziećmi."
+      ],
+      "highlights": ["Bardzo płytkie morze", "Rezerwat Bałtata", "Przylądek Kaliakra", "Balczik"]
+    }
+  ],
+  "attractions": [
+    { "name": "Stare miasto Nesebar", "text": "Wpisane na listę UNESCO miasto z ponad czterdziestoma cerkwiami i ruinami.", "gygQuery": "Nesebar" },
+    { "name": "Monastyr Rilski", "text": "Najważniejszy klasztor Bułgarii w górach Riła, z kolorowymi freskami.", "gygQuery": "Rila Monastery" },
+    { "name": "Sozopol", "text": "Romantyczne miasteczko na półwyspie z drewnianymi domami i galeriami.", "gygQuery": "Sozopol" },
+    { "name": "Przylądek Kaliakra", "text": "Czerwone klify wysokie na 70 metrów i ruiny twierdzy nad morzem.", "gygQuery": "Kaliakra" },
+    { "name": "Monastyr Aładża", "text": "Skalny klasztor wykuty w wapiennym urwisku niedaleko Złotych Piasków.", "gygQuery": "Aladzha Monastery" },
+    { "name": "Płowdiw", "text": "Jedno z najstarszych miast Europy z rzymskim teatrem i barwną starówką.", "gygQuery": "Plovdiv" }
+  ],
+  "cuisine": [
+    "Kuchnia bułgarska jest prosta i sycąca. Koniecznie spróbuj sałatki szopskiej z białym serem sirene, chłodnika tarator z ogórkiem i jogurtem, grillowanych kebapcze i kjufte oraz banicy na śniadanie. Bułgarski jogurt i miejscowe wina są znakomite i tanie, a do posiłku często pije się rakiję."
+  ],
+  "faq": [
+    { "q": "Czy w Bułgarii płaci się w euro?", "a": "Tak. Od 1 stycznia 2026 roku walutą Bułgarii jest euro, które zastąpiło lewa." },
+    { "q": "Złote Piaski czy Słoneczny Brzeg?", "a": "Słoneczny Brzeg jest większy, ma więcej rozrywek i bliżej do Nesebaru. Złote Piaski są bardziej zielone, a w pobliżu jest Warna. Z małymi dziećmi warto też rozważyć Albenę." },
+    { "q": "Kiedy woda w Bułgarii jest najcieplejsza?", "a": "W lipcu i sierpniu, około 24 do 26 stopni. W czerwcu woda ma zwykle 20 do 22 stopni." },
+    { "q": "Czy do Bułgarii można pojechać samochodem?", "a": "Tak. Trasa z południa Polski przez Słowację, Węgry i Rumunię ma około 1300 do 1500 kilometrów, a od 2025 roku na granicach Schengen nie ma kontroli." }
+  ]
+}

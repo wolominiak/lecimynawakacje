@@ -1,0 +1,104 @@
+{
+  "slug": "dominikana",
+  "loc": "na Dominikanie",
+  "to": "na Dominikanę",
+  "capital": "Santo Domingo",
+  "popularity": 83,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Punta Cana",
+  "teaser": "Białe plaże pod palmami, ciepłe Karaiby i najlepsze all inclusive w tropikach. Punta Cana, Bayahibe i Samaná.",
+  "intro": [
+    "Dominikana to najpopularniejszy kierunek karaibski wśród Polaków. Kraj zajmuje wschodnią część wyspy Haiti i słynie z kilometrowych plaż z białym piaskiem, palm kokosowych i turkusowej wody o temperaturze 26 do 29 stopni przez cały rok. Bezpośrednie loty czarterowe trwają około 10 godzin.",
+    "Dominikana to przede wszystkim wakacje all inclusive w dużych resortach, głównie w Punta Cana i Bavaro. Warto jednak wyjść poza hotel: popłynąć na wyspę Saona, zobaczyć wieloryby w zatoce Samaná zimą i pospacerować po kolonialnej strefie Santo Domingo, najstarszego europejskiego miasta w Amerykach."
+  ],
+  "highlights": [
+    "Karaibskie plaże z białym piaskiem",
+    "Bardzo duży wybór resortów all inclusive",
+    "Morze 26 do 29 stopni przez cały rok",
+    "Wyspa Saona i wieloryby w Samaná",
+    "Loty czarterowe z Polski",
+    "Bez wizy dla Polaków"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na Dominikanę to grudzień do kwietnia, czyli pora sucha z temperaturami 28 do 30 stopni. Od czerwca do listopada trwa sezon huraganów, najbardziej ryzykowny we wrześniu i październiku, choć zwykle oznacza to krótkie, intensywne deszcze. Od połowy stycznia do marca w zatoce Samaná można oglądać humbaki.",
+    "best": [12, 1, 2, 3, 4],
+    "ok": [5, 6, 7, 11]
+  },
+  "climate": {
+    "air": [29, 29, 29, 30, 30, 31, 31, 32, 31, 31, 30, 29],
+    "sea": [26, 26, 26, 27, 28, 28, 28, 29, 29, 29, 28, 27],
+    "note": "Dane dla Punta Cana."
+  },
+  "practical": {
+    "flight": "około 10 h bezpośrednio",
+    "timeDiff": "-5 h zimą, -6 h latem",
+    "documents": "Polacy nie potrzebują wizy. Paszport musi być ważny przez cały pobyt, a przed wylotem trzeba wypełnić bezpłatny formularz E-Ticket online. Opłata za kartę turystyczną jest zwykle wliczona w bilet.",
+    "money": "Walutą jest peso dominikańskie (DOP), ale w strefach turystycznych powszechnie przyjmuje się dolary amerykańskie.",
+    "plugs": "Gniazdka typu A i B (amerykańskie), napięcie 110 V. Potrzebna przejściówka.",
+    "language": "Językiem urzędowym jest hiszpański. W resortach obsługa mówi po angielsku.",
+    "safety": "Strefy turystyczne są bezpieczne. Poza nimi zachowaj ostrożność, nie noś biżuterii na widoku i korzystaj z hotelowych taksówek."
+  },
+  "allInclusive": [
+    "Dominikana to jeden z najlepszych kierunków all inclusive na świecie. Resorty w Punta Cana i Bavaro są ogromne, z kilkoma basenami, restauracjami a la carte, barami przy basenach i bezpośrednim dostępem do białej plaży. Coraz popularniejsze są też hotele tylko dla dorosłych.",
+    "Przy wyborze resortu sprawdź, czy w cenie są restauracje a la carte bez limitu i czy plaża nie jest zarośnięta glonami sargassum, które od kilku lat pojawiają się latem na części wybrzeża."
+  ],
+  "regions": [
+    {
+      "slug": "punta-cana",
+      "name": "Punta Cana i Bavaro",
+      "loc": "w Punta Cana",
+      "type": "region",
+      "wakacjePath": "punta-cana",
+      "gygQuery": "Punta Cana",
+      "airport": "Punta Cana (PUJ)",
+      "forWhom": "Kilometry białych plaż i największe resorty all inclusive na Karaibach.",
+      "intro": [
+        "Punta Cana to najbardziej znany kurort Dominikany na wschodnim krańcu wyspy. Plaże Bavaro, Arena Gorda, Cap Cana i Uvero Alto ciągną się kilkadziesiąt kilometrów, a wzdłuż nich stoją setki hoteli all inclusive.",
+        "Z Punta Cana organizowane są rejsy na wyspę Saona, safari po interiorze i nurkowanie z płaszczkami i rekinami nianiami."
+      ],
+      "highlights": ["Plaża Bavaro", "Wyspa Saona", "Hoyo Azul", "Catalina i nurkowanie"]
+    },
+    {
+      "slug": "bayahibe",
+      "name": "Bayahibe i La Romana",
+      "loc": "w Bayahibe",
+      "type": "region",
+      "gygQuery": "Bayahibe",
+      "airport": "La Romana (LRM), Punta Cana (PUJ)",
+      "forWhom": "Spokojne morze, najbliżej na Saonę i artystyczna wioska Altos de Chavón.",
+      "intro": [
+        "Bayahibe to dawna wioska rybacka na południowym wybrzeżu, z najspokojniejszym morzem w kraju i najbliższym dostępem do Parku Narodowego Del Este z wyspą Saona.",
+        "W pobliżu leży Altos de Chavón, replika śródziemnomorskiej wioski z amfiteatrem."
+      ],
+      "highlights": ["Park Narodowy Del Este", "Wyspa Saona", "Altos de Chavón", "Nurkowanie na wrakach"]
+    },
+    {
+      "slug": "samana",
+      "name": "Samaná",
+      "loc": "na Samaná",
+      "type": "półwysep",
+      "gygQuery": "Samana",
+      "airport": "Samaná (AZS)",
+      "forWhom": "Dziki półwysep z wodospadem El Limón i humbakami zimą.",
+      "intro": [
+        "Półwysep Samaná na północnym wschodzie jest zielony, górzysty i mniej zabudowany. Las Terrenas ma bohemowy klimat i piękne plaże, a Playa Rincón uchodzi za jedną z najpiękniejszych na Karaibach.",
+        "Od stycznia do marca w zatoce Samaná gromadzą się humbaki."
+      ],
+      "highlights": ["Wieloryby humbaki", "Wodospad El Limón", "Playa Rincón", "Park Los Haitises"]
+    }
+  ],
+  "attractions": [
+    { "name": "Wyspa Saona", "text": "Rejs katamaranem na rajską wyspę z naturalnym basenem z rozgwiazdami.", "gygQuery": "Saona Island" },
+    { "name": "Santo Domingo", "text": "Kolonialna strefa z pierwszą katedrą w Amerykach, wpisana na listę UNESCO.", "gygQuery": "Santo Domingo" },
+    { "name": "Humbaki w Samaná", "text": "Obserwacja wielorybów od połowy stycznia do marca.", "gygQuery": "Samana whale watching" },
+    { "name": "Hoyo Azul", "text": "Turkusowy cenote u stóp klifu w Scape Park w Cap Cana.", "gygQuery": "Hoyo Azul" },
+    { "name": "Safari buggy", "text": "Przejazd przez wioski, plantacje kakao i jaskinię z kąpielą.", "gygQuery": "Punta Cana buggy" },
+    { "name": "Park Los Haitises", "text": "Namorzyny, wapienne wysepki i jaskinie z malowidłami Tainos.", "gygQuery": "Los Haitises" }
+  ],
+  "faq": [
+    { "q": "Kiedy jechać na Dominikanę?", "a": "Najlepiej od grudnia do kwietnia, w porze suchej. Latem jest też ciepło, ale częściej pada i występuje ryzyko huraganów." },
+    { "q": "Czy na Dominikanę potrzebna jest wiza?", "a": "Nie. Przed wylotem trzeba tylko wypełnić bezpłatny formularz E-Ticket." },
+    { "q": "Czy na Dominikanie są glony na plażach?", "a": "Od kilku lat latem pojawia się sargassum, czyli brązowe glony. Hotele sprzątają plaże codziennie, a zimą problem zwykle nie występuje." }
+  ]
+}

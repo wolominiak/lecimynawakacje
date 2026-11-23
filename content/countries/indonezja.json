@@ -1,0 +1,72 @@
+{
+  "slug": "indonezja",
+  "loc": "w Indonezji",
+  "to": "do Indonezji",
+  "capital": "Dżakarta",
+  "popularity": 75,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Bali",
+  "teaser": "Bali z tarasami ryżowymi i świątyniami, Nusa Penida, Lombok i Gili. Wyspa bogów i tysiące innych wysp.",
+  "intro": [
+    "Indonezja to największy archipelag świata, ale dla większości podróżnych zaczyna się i kończy na Bali. Wyspa bogów łączy hinduskie świątynie, tarasy ryżowe w Ubud, surferskie plaże Canggu i Uluwatu, jogę, spa i znakomitą kuchnię. Ceny na miejscu są niskie, a baza noclegowa ogromna, od tanich homestayów po wille z prywatnym basenem.",
+    "Z Bali łatwo popłynąć na Nusa Penida z klifami Kelingking, na wyspy Gili z żółwiami i na Lombok z wulkanem Rinjani. Dalej czekają Jawa ze świątynią Borobudur i wulkanem Bromo oraz Komodo ze smokami."
+  ],
+  "highlights": [
+    "Tarasy ryżowe i świątynie Bali",
+    "Klify Nusa Penida",
+    "Wyspy Gili i żółwie",
+    "Wulkan Bromo i Borobudur na Jawie",
+    "Smoki z Komodo",
+    "Niskie ceny i świetna kuchnia"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na Bali to pora sucha od kwietnia do października. Lipiec i sierpień są najbardziej popularne i najdroższe. Od listopada do marca trwa pora deszczowa: pada głównie po południu, jest parno, ale zielono i taniej.",
+    "best": [5, 6, 7, 8, 9],
+    "ok": [4, 10]
+  },
+  "climate": {
+    "air": [31, 31, 31, 31, 31, 30, 29, 30, 30, 31, 31, 31],
+    "sea": [29, 29, 29, 29, 28, 28, 27, 27, 27, 28, 29, 29],
+    "note": "Dane dla południowego Bali (Kuta, Nusa Dua)."
+  },
+  "practical": {
+    "flight": "około 15 do 18 h z przesiadką",
+    "timeDiff": "+7 h zimą, +6 h latem",
+    "documents": "Polacy kupują wizę po przylocie (VoA) na 30 dni lub e-wizę online przed wyjazdem. Na Bali pobierana jest dodatkowo opłata turystyczna płacona online. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest rupia indonezyjska (IDR). Wymieniaj w autoryzowanych kantorach i przeliczaj pieniądze przy kasie.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest indonezyjski. Na Bali w turystyce powszechnie używa się angielskiego.",
+    "safety": "Bali jest bezpieczne. Uważaj na ruch skuterów, małpy kradnące okulary i telefony oraz silne prądy na plażach zachodniego wybrzeża."
+  },
+  "regions": [
+    {
+      "slug": "bali",
+      "name": "Bali",
+      "loc": "na Bali",
+      "type": "wyspa",
+      "wakacjePath": "bali",
+      "gygQuery": "Bali",
+      "airport": "Denpasar (DPS)",
+      "forWhom": "Ubud, Uluwatu, Canggu i Nusa Dua. Wyspa świątyń, tarasów ryżowych i zachodów słońca.",
+      "intro": [
+        "Bali to najpopularniejsza wyspa Indonezji, gdzie dominuje hinduizm, a codzienne ofiary z kwiatów leżą przed każdym domem. Ubud w głębi lądu to tarasy ryżowe, świątynie i małpi las, Uluwatu klify i fale dla surferów, Canggu kawiarnie i beach cluby, a Nusa Dua spokojne plaże i luksusowe resorty.",
+        "Najlepiej podzielić pobyt na dwie lub trzy części, bo przejazdy po wyspie są wolne z powodu korków."
+      ],
+      "highlights": ["Tarasy Tegalalang", "Świątynia Uluwatu i taniec kecak", "Tanah Lot", "Wulkan Batur o wschodzie słońca"]
+    }
+  ],
+  "attractions": [
+    { "name": "Nusa Penida", "text": "Klify Kelingking i Diamond Beach, pływanie z mantami.", "gygQuery": "Nusa Penida tour" },
+    { "name": "Wschód słońca na wulkanie Batur", "text": "Nocny trekking zakończony widokiem na jezioro i Agung.", "gygQuery": "Mount Batur sunrise" },
+    { "name": "Tarasy ryżowe Tegalalang", "text": "Najsłynniejsze tarasy ryżowe Bali koło Ubud.", "gygQuery": "Tegalalang" },
+    { "name": "Borobudur", "text": "Największa buddyjska świątynia świata na Jawie.", "gygQuery": "Borobudur" },
+    { "name": "Wulkan Bromo", "text": "Księżycowy krajobraz kaldery o świcie.", "gygQuery": "Mount Bromo" },
+    { "name": "Park Narodowy Komodo", "text": "Smoki z Komodo, różowa plaża i rafy.", "gygQuery": "Komodo tour" }
+  ],
+  "faq": [
+    { "q": "Kiedy jechać na Bali?", "a": "Najlepiej od maja do września, w porze suchej. Kwiecień i październik też są dobre i mniej zatłoczone." },
+    { "q": "Czy na Bali potrzebna jest wiza?", "a": "Tak. Polacy kupują wizę po przylocie lub e-wizę online. Dodatkowo płaci się opłatę turystyczną Bali." },
+    { "q": "Ile dni potrzeba na Bali?", "a": "Minimum 10 dni, a najlepiej dwa tygodnie z wycieczką na Nusa Penida lub Gili." }
+  ]
+}

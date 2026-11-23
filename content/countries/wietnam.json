@@ -1,0 +1,71 @@
+{
+  "slug": "wietnam",
+  "loc": "w Wietnamie",
+  "to": "do Wietnamu",
+  "capital": "Hanoi",
+  "popularity": 69,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Wietnam",
+  "teaser": "Zatoka Ha Long, Hoi An w lampionach, Phu Quoc i Nha Trang. Najlepsza zupa świata i ceny jak sprzed lat.",
+  "intro": [
+    "Wietnam to wąski kraj ciągnący się ponad 1600 kilometrów wzdłuż Morza Południowochińskiego. Na północy czeka chaotyczne i fascynujące Hanoi oraz Zatoka Ha Long z tysiącami wapiennych wysp, w centrum lampionowe Hoi An i cesarskie Hue, a na południu Sajgon i delta Mekongu.",
+    "Biura podróży coraz częściej oferują też wypoczynek na wyspie Phu Quoc i w Nha Trang, gdzie piękne plaże łączą się z niskimi cenami. Wietnam to raj dla smakoszy: pho, banh mi i kawa z mlekiem skondensowanym kosztują grosze."
+  ],
+  "highlights": [
+    "Zatoka Ha Long z listy UNESCO",
+    "Hoi An i Hue",
+    "Plaże Phu Quoc i Nha Trang",
+    "Delta Mekongu",
+    "Kuchnia wietnamska",
+    "Bardzo niskie ceny"
+  ],
+  "bestTime": {
+    "text": "Wietnam ma kilka stref klimatycznych. Na Phu Quoc i południe najlepiej jechać od listopada do kwietnia. Hoi An i Da Nang mają sezon od lutego do sierpnia, a północ z Hanoi i Ha Long jest najprzyjemniejsza wiosną i jesienią, bo zimą bywa tam chłodno.",
+    "best": [12, 1, 2, 3],
+    "ok": [11, 4]
+  },
+  "climate": {
+    "air": [30, 31, 32, 33, 32, 31, 30, 30, 30, 30, 30, 29],
+    "sea": [27, 27, 28, 29, 30, 30, 29, 29, 29, 29, 28, 27],
+    "note": "Dane dla Phu Quoc. Na północy kraju zimą jest około 18 do 20 stopni."
+  },
+  "practical": {
+    "flight": "około 12 do 14 h z przesiadką",
+    "timeDiff": "+6 h zimą, +5 h latem",
+    "documents": "Od 2025 roku Polacy mogą wjechać do Wietnamu bez wizy na krótki pobyt turystyczny (do 45 dni). Przy dłuższym pobycie potrzebna jest e-wiza. Przepisy bywają zmieniane, więc sprawdź je przed wyjazdem. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest dong wietnamski (VND). Uważaj na podobne kolorystycznie banknoty różnych nominałów.",
+    "plugs": "Gniazdka typu A, C i F. Polskie płaskie wtyczki zwykle pasują.",
+    "language": "Językiem urzędowym jest wietnamski. Angielski jest znany w turystycznych miejscach.",
+    "safety": "Wietnam jest bezpieczny. Przechodząc przez ulicę, idź powoli i równo, skutery cię ominą."
+  },
+  "regions": [
+    {
+      "slug": "phu-quoc",
+      "name": "Phu Quoc",
+      "loc": "na Phu Quoc",
+      "type": "wyspa",
+      "wakacjePath": "phu-quoc",
+      "gygQuery": "Phu Quoc",
+      "airport": "Phu Quoc (PQC)",
+      "forWhom": "Tropikalna wyspa z białymi plażami, najdłuższą kolejką nad morzem i zachodami słońca.",
+      "intro": [
+        "Phu Quoc to największa wyspa Wietnamu, położona w Zatoce Tajlandzkiej. Sao Beach i Long Beach mają białe plaże i ciepłą wodę, a na południu kolejka linowa prowadzi nad morzem na wyspę Hon Thom.",
+        "Wyspa jest dobrym wyborem na zimowy wypoczynek, a Polacy mogą odwiedzić ją bez wizy."
+      ],
+      "highlights": ["Sao Beach", "Kolejka Hon Thom", "Nocny targ w Duong Dong", "Rejs na wyspy An Thoi"]
+    }
+  ],
+  "attractions": [
+    { "name": "Zatoka Ha Long", "text": "Rejs wśród tysięcy wapiennych wysp, najlepiej z noclegiem na statku.", "gygQuery": "Halong Bay cruise" },
+    { "name": "Hoi An", "text": "Kupieckie miasteczko z lampionami i krawcami szyjącymi na miarę.", "gygQuery": "Hoi An" },
+    { "name": "Złoty Most w Ba Na Hills", "text": "Most podtrzymywany przez kamienne dłonie nad Da Nang.", "gygQuery": "Golden Bridge Ba Na Hills" },
+    { "name": "Delta Mekongu", "text": "Pływające targi i łodzie w kanałach.", "gygQuery": "Mekong Delta" },
+    { "name": "Tunele Cu Chi", "text": "Podziemne korytarze z czasów wojny wietnamskiej.", "gygQuery": "Cu Chi tunnels" },
+    { "name": "Ninh Binh", "text": "Ha Long na lądzie: łodzie wśród skał i pól ryżowych.", "gygQuery": "Ninh Binh" }
+  ],
+  "faq": [
+    { "q": "Czy do Wietnamu potrzebna jest wiza?", "a": "Od 2025 roku Polacy mogą wjechać bez wizy na krótki pobyt turystyczny. Na dłuższe wyjazdy potrzebna jest e-wiza." },
+    { "q": "Kiedy jechać na Phu Quoc?", "a": "Od listopada do kwietnia, w porze suchej." }
+  ]
+}

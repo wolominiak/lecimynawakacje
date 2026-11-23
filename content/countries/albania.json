@@ -1,0 +1,189 @@
+{
+  "slug": "albania",
+  "loc": "w Albanii",
+  "to": "do Albanii",
+  "capital": "Tirana",
+  "popularity": 82,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Albania",
+  "teaser": "Riwiera Albańska z turkusową wodą jak w Grecji za mniejsze pieniądze. Durrës, Saranda, Ksamil i góry Albanii.",
+  "intro": [
+    "Albania w kilka lat przeszła drogę od egzotycznej ciekawostki do jednego z najmodniejszych kierunków w ofercie polskich biur podróży. Kusi niższymi cenami niż w Grecji i Chorwacji, krystalicznie czystym Morzem Jońskim na południu i autentycznym klimatem, którego nie zatarła jeszcze masowa turystyka.",
+    "Biura podróży najczęściej oferują Durrës i Golem nad Adriatykiem z szerokimi piaszczystymi plażami oraz Sarandę i Ksamil na Riwierze Albańskiej. Warto wyjechać poza hotel: Berat i Gjirokastra to miasta tysiąca okien wpisane na listę UNESCO, a Butrint to starożytne ruiny w lesie nad laguną."
+  ],
+  "highlights": [
+    "Ceny wyraźnie niższe niż w Grecji i Chorwacji",
+    "Ksamil i Riwiera Albańska z turkusową wodą",
+    "Wystarczy dowód osobisty",
+    "Berat, Gjirokastra i Butrint z listy UNESCO",
+    "Lot około 2 godzin do Tirany",
+    "Góry, kaniony i Błękitne Oko"
+  ],
+  "bestTime": {
+    "text": "Sezon kąpielowy w Albanii trwa od czerwca do września. Najcieplejsze morze jest w sierpniu. Czerwiec i wrzesień są najlepsze dla osób, które chcą połączyć plażę ze zwiedzaniem i uniknąć tłumów na Riwierze.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5
+    ]
+  },
+  "climate": {
+    "air": [
+      13,
+      14,
+      16,
+      19,
+      24,
+      28,
+      31,
+      31,
+      28,
+      23,
+      18,
+      14
+    ],
+    "sea": [
+      14,
+      14,
+      15,
+      16,
+      19,
+      23,
+      25,
+      26,
+      24,
+      21,
+      18,
+      16
+    ],
+    "note": "Dane dla Durrës. W Sarandzie jest o 1 do 2 stopnie cieplej."
+  },
+  "practical": {
+    "flight": "około 2 h",
+    "timeDiff": "0 h",
+    "documents": "Polacy mogą wjechać do Albanii na dowód osobisty lub paszport, bez wizy, na pobyt do 90 dni.",
+    "money": "Walutą jest lek albański (ALL). Euro jest często akceptowane, ale w lekach płaci się korzystniej. Kartą nie wszędzie zapłacisz, przyda się gotówka.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest albański. Młodsi Albańczycy dobrze mówią po angielsku i włosku.",
+    "safety": "Albania jest bezpieczna i gościnna. Przy wynajmie auta uważaj na styl jazdy lokalnych kierowców i górskie drogi."
+  },
+  "allInclusive": [
+    "Hotele all inclusive w Albanii skupiają się głównie w Durrës i Golem, gdzie powstało wiele nowych obiektów przy piaszczystej plaży. Standard szybko rośnie, a ceny są niższe niż w krajach sąsiednich.",
+    "Na Riwierze Albańskiej częściej wybiera się śniadania lub HB, bo okolica obfituje w tanie i dobre restauracje z owocami morza."
+  ],
+  "regions": [
+    {
+      "slug": "durres",
+      "name": "Durrës i Golem",
+      "loc": "w Durrës",
+      "type": "kurort",
+      "wakacjePath": "durres",
+      "gygQuery": "Durres",
+      "airport": "Tirana (TIA)",
+      "forWhom": "Długie piaszczyste plaże nad Adriatykiem, nowe hotele all inclusive i blisko do Tirany.",
+      "intro": [
+        "Durrës to drugie co do wielkości miasto Albanii i największy kurort nad Adriatykiem. Ma kilkanaście kilometrów piaszczystych plaż z płytką wodą, rzymski amfiteatr w centrum i nowoczesną promenadę.",
+        "Hotele all inclusive biur podróży stoją głównie w Golem i Shkembi i Kavajes, kilkanaście kilometrów od centrum."
+      ],
+      "highlights": [
+        "Amfiteatr rzymski",
+        "Promenada",
+        "Tirana, 40 minut jazdy",
+        "Zamek w Krui"
+      ]
+    },
+    {
+      "slug": "riwiera-albanska",
+      "name": "Saranda i Ksamil",
+      "loc": "w Sarandzie",
+      "type": "riwiera",
+      "wakacjePath": "riwiera-albanska",
+      "gygQuery": "Saranda",
+      "airport": "Tirana (TIA) lub Korfu (CFU) promem",
+      "forWhom": "Malediwy Europy: turkusowe zatoczki Ksamil, Butrint i rejs na Korfu.",
+      "intro": [
+        "Saranda to główne miasto Riwiery Albańskiej, położone naprzeciwko greckiej wyspy Korfu. Kilkanaście kilometrów na południe leży Ksamil z małymi wysepkami i wodą w kolorze lazuru, nazywany albańskimi Malediwami.",
+        "Z Sarandy blisko do Butrintu, Błękitnego Oka i Gjirokastry, a promem w niewiele ponad godzinę dopłyniesz na Korfu."
+      ],
+      "highlights": [
+        "Plaże Ksamil",
+        "Park Narodowy Butrint",
+        "Błękitne Oko",
+        "Rejs na Korfu"
+      ]
+    },
+    {
+      "slug": "wlora",
+      "name": "Wlora i Riwiera",
+      "loc": "we Wlorze",
+      "type": "region",
+      "gygQuery": "Vlore",
+      "airport": "Tirana (TIA), Wlora (VLO)",
+      "forWhom": "Miejsce styku Adriatyku i Morza Jońskiego, Dhermi, Himara i przełęcz Llogara.",
+      "intro": [
+        "Wlora to miasto, gdzie ogłoszono niepodległość Albanii. Na południe od niego zaczyna się najpiękniejszy odcinek wybrzeża z przełęczą Llogara, wioskami Dhermi i Himara oraz dzikimi plażami.",
+        "To kierunek dla osób, które lubią wynająć auto i odkrywać kolejne zatoki."
+      ],
+      "highlights": [
+        "Przełęcz Llogara",
+        "Plaża Gjipe",
+        "Dhermi",
+        "Półwysep Karaburun"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Butrint",
+      "text": "Starożytne miasto greckie, rzymskie i weneckie w lesie nad laguną.",
+      "gygQuery": "Butrint"
+    },
+    {
+      "name": "Berat",
+      "text": "Miasto tysiąca okien z białymi domami na zboczu i zamkiem.",
+      "gygQuery": "Berat"
+    },
+    {
+      "name": "Gjirokastra",
+      "text": "Kamienne miasto z twierdzą, wpisane na listę UNESCO.",
+      "gygQuery": "Gjirokaster"
+    },
+    {
+      "name": "Błękitne Oko",
+      "text": "Krasowe źródło z intensywnie niebieską wodą.",
+      "gygQuery": "Blue Eye Albania"
+    },
+    {
+      "name": "Ksamil",
+      "text": "Wysepki i zatoki z turkusową wodą na południu kraju.",
+      "gygQuery": "Ksamil"
+    },
+    {
+      "name": "Tirana",
+      "text": "Kolorowa stolica z bunkrami zamienionymi w muzea.",
+      "gygQuery": "Tirana"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia albańska łączy wpływy bałkańskie, greckie i włoskie. Spróbuj tavë kosi (jagnięciny zapiekanej z jogurtem), byrek z serem lub szpinakiem, grillowanych ryb i qofte. Albańskie wino i raki są tanie, a porcje w restauracjach duże."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Albanii wystarczy dowód osobisty?",
+      "a": "Tak. Polacy mogą wjechać do Albanii na dowód osobisty bez wizy na pobyt do 90 dni."
+    },
+    {
+      "q": "Czy Albania jest tania?",
+      "a": "Tak, ceny w restauracjach i sklepach są zwykle niższe niż w Grecji i Chorwacji. Na Riwierze Albańskiej w sierpniu ceny noclegów mocno rosną."
+    },
+    {
+      "q": "Durrës czy Saranda?",
+      "a": "Durrës ma piaszczyste plaże i więcej hoteli all inclusive. Saranda i Ksamil mają piękniejszą wodę i więcej do zwiedzania w okolicy."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "jordania",
+  "loc": "w Jordanii",
+  "to": "do Jordanii",
+  "capital": "Amman",
+  "popularity": 65,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Jordania",
+  "teaser": "Petra wykuta w skale, pustynia Wadi Rum, unoszenie się w Morzu Martwym i rafy w Akabie. Bliski Wschód w pigułce.",
+  "intro": [
+    "Jordania to niewielki kraj, który mieści kilka atrakcji z listy marzeń podróżników. Petra, różowe miasto Nabatejczyków wykute w skale, należy do siedmiu nowych cudów świata. Pustynia Wadi Rum z czerwonymi wydmami i skałami wygląda jak Mars, a w Morzu Martwym unosisz się na wodzie bez wysiłku.",
+    "Biura podróży latają głównie do Akaby nad Morzem Czerwonym, gdzie są hotele i rafy koralowe, a stamtąd organizowane są wycieczki do Petry i Wadi Rum. Jordania jest jednym z najbezpieczniejszych krajów regionu."
+  ],
+  "highlights": [
+    "Petra, jeden z siedmiu nowych cudów świata",
+    "Pustynia Wadi Rum",
+    "Morze Martwe",
+    "Rafy koralowe w Akabie",
+    "Jordan Pass z wizą i biletami",
+    "Lot około 4 godzin"
+  ],
+  "bestTime": {
+    "text": "Najlepiej jechać do Jordanii wiosną (marzec do maja) i jesienią (wrzesień do listopada). Latem w Petrze i Wadi Rum jest bardzo gorąco, a zimą w Ammanie i Petrze bywa chłodno, choć Akaba pozostaje ciepła.",
+    "best": [3, 4, 10, 11],
+    "ok": [2, 5, 9, 12]
+  },
+  "climate": {
+    "air": [21, 23, 26, 31, 35, 38, 39, 39, 37, 32, 27, 22],
+    "sea": [22, 21, 22, 23, 24, 26, 27, 28, 27, 26, 24, 23],
+    "note": "Dane dla Akaby. W Petrze i Ammanie jest o 5 do 10 stopni chłodniej."
+  },
+  "practical": {
+    "flight": "około 4 h",
+    "timeDiff": "+2 h zimą, +1 h latem",
+    "documents": "Polacy potrzebują wizy, którą można kupić na lotnisku. Wiza jest bezpłatna przy zakupie karty Jordan Pass (obejmuje też wstęp do Petry) i pobycie minimum 3 noce. Przy przylocie do Akaby czarterem wiza jest zwykle bezpłatna.",
+    "money": "Walutą jest dinar jordański (JOD), jedna z najmocniejszych walut świata. Jordania nie jest tania.",
+    "plugs": "Gniazdka typu C, D, F, G i J. Przejściówka się przyda.",
+    "language": "Językiem urzędowym jest arabski. Angielski jest powszechnie znany.",
+    "safety": "Jordania jest bezpieczna i gościnna. Ubieraj się skromnie poza hotelami."
+  },
+  "regions": [
+    {
+      "slug": "akaba",
+      "name": "Akaba",
+      "loc": "w Akabie",
+      "type": "kurort",
+      "wakacjePath": "akaba",
+      "gygQuery": "Aqaba",
+      "airport": "Akaba (AQJ)",
+      "forWhom": "Rafy Morza Czerwonego i baza do wycieczek do Petry i Wadi Rum.",
+      "intro": [
+        "Akaba to jedyne miasto portowe Jordanii, położone nad Zatoką Akaba. Ma ciepłe morze przez cały rok, rafy koralowe w parku morskim i wraki do nurkowania. Hotele stoją w centrum, w Tala Bay i Ayla.",
+        "Z Akaby do Wadi Rum jest godzina jazdy, a do Petry około dwóch."
+      ],
+      "highlights": ["Park Morski Akaby", "Japanese Garden reef", "Wadi Rum", "Petra"]
+    }
+  ],
+  "attractions": [
+    { "name": "Petra", "text": "Skarbiec, Klasztor i grobowce wykute w różowej skale. Warto zarezerwować cały dzień.", "gygQuery": "Petra tour" },
+    { "name": "Wadi Rum", "text": "Jeep safari po pustyni i noc w obozie beduińskim pod gwiazdami.", "gygQuery": "Wadi Rum" },
+    { "name": "Morze Martwe", "text": "Najniżej położone miejsce na Ziemi i kąpiel w słonej wodzie.", "gygQuery": "Dead Sea Jordan" },
+    { "name": "Dżarasz", "text": "Jedno z najlepiej zachowanych miast rzymskich poza Włochami.", "gygQuery": "Jerash" },
+    { "name": "Petra by Night", "text": "Skarbiec oświetlony setkami świec, trzy wieczory w tygodniu.", "gygQuery": "Petra by night" }
+  ],
+  "faq": [
+    { "q": "Czy warto kupić Jordan Pass?", "a": "Tak, jeśli planujesz Petrę i zostajesz minimum 3 noce. Karta obejmuje wizę i wstęp do Petry oraz ponad 40 atrakcji." },
+    { "q": "Ile czasu potrzeba na Petrę?", "a": "Minimum jeden pełny dzień, a najlepiej dwa, by dojść do Klasztoru i punktów widokowych." }
+  ]
+}

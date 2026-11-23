@@ -1,0 +1,109 @@
+{
+  "slug": "cypr",
+  "loc": "na Cyprze",
+  "to": "na Cypr",
+  "capital": "Nikozja",
+  "popularity": 80,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Cypr",
+  "teaser": "Wyspa Afrodyty z najdłuższym sezonem w Unii: Ajia Napa, Pafos, Protaras i ciepłe morze od maja do listopada.",
+  "intro": [
+    "Cypr to najdalej na wschód wysunięta wyspa Unii Europejskiej i jeden z najcieplejszych kierunków w Europie. Sezon kąpielowy trwa tu od maja do listopada, a nawet w zimie temperatury w dzień często przekraczają 18 stopni. Plaże w Ajia Napie i Protaras mają jasny piasek i turkusową wodę, porównywaną do Karaibów.",
+    "Na Cyprze jeździ się lewą stroną drogi, a gniazdka są brytyjskie, co przypomina o historii wyspy jako kolonii brytyjskiej. Poza plażami warto zobaczyć mozaiki w Pafos, góry Trodos z bizantyjskimi kościołami i podzieloną stolicę Nikozję."
+  ],
+  "highlights": [
+    "Najdłuższy sezon kąpielowy w Unii Europejskiej",
+    "Plaże Nissi i Fig Tree Bay",
+    "Wystarczy dowód osobisty, płaci się w euro",
+    "Mozaiki w Pafos z listy UNESCO",
+    "Lot około 3,5 godziny",
+    "Ciepło nawet w listopadzie"
+  ],
+  "bestTime": {
+    "text": "Najlepiej jechać na Cypr w czerwcu, wrześniu i październiku. W lipcu i sierpniu temperatury sięgają 35 stopni, a w głębi wyspy nawet 40. Maj i listopad to dobry czas na zwiedzanie i spokojne plażowanie.",
+    "best": [6, 9, 10],
+    "ok": [5, 7, 8, 11]
+  },
+  "climate": {
+    "air": [17, 17, 19, 23, 27, 31, 33, 33, 31, 28, 23, 19],
+    "sea": [18, 17, 17, 19, 22, 25, 27, 28, 27, 25, 22, 20],
+    "note": "Dane dla Larnaki i Ajia Napy."
+  },
+  "practical": {
+    "flight": "3,5 do 4 h",
+    "timeDiff": "+1 h",
+    "documents": "Cypr jest w Unii Europejskiej. Wystarczy dowód osobisty lub paszport. Przy przekraczaniu linii podziału do części północnej trzeba okazać dokument.",
+    "money": "Walutą w Republice Cypryjskiej jest euro, w części północnej lira turecka.",
+    "plugs": "Gniazdka typu G (brytyjskie). Potrzebna przejściówka.",
+    "language": "Językami urzędowymi są grecki i turecki. Angielski jest powszechnie znany.",
+    "safety": "Cypr jest bardzo bezpieczny. Pamiętaj o ruchu lewostronnym przy wynajmie auta."
+  },
+  "allInclusive": [
+    "All inclusive na Cyprze jest droższe niż w Turcji czy Egipcie, ale hotele są zadbane, a plaże wyjątkowo czyste. Najwięcej resortów z pełnym wyżywieniem znajdziesz w Ajia Napie i Protaras, a także w Pafos.",
+    "Ceny są najkorzystniejsze w maju, październiku i listopadzie, kiedy pogoda wciąż pozwala na plażowanie."
+  ],
+  "regions": [
+    {
+      "slug": "ajia-napa",
+      "name": "Ajia Napa i Protaras",
+      "loc": "w Ajia Napie",
+      "type": "kurort",
+      "wakacjePath": "ajia-napa",
+      "gygQuery": "Ayia Napa",
+      "airport": "Larnaka (LCA)",
+      "forWhom": "Najpiękniejsze plaże Cypru, imprezy w Ajia Napie i rodzinny spokój w Protaras.",
+      "intro": [
+        "Ajia Napa to najsłynniejszy kurort Cypru z plażą Nissi i życiem nocnym. Kilka kilometrów dalej leży Protaras ze spokojniejszą atmosferą i zatoką Fig Tree Bay, idealną dla rodzin.",
+        "Między miejscowościami ciągnie się Przylądek Greko z jaskiniami morskimi i ścieżkami nad klifami."
+      ],
+      "highlights": ["Plaża Nissi", "Fig Tree Bay", "Przylądek Greko", "Jaskinie morskie"]
+    },
+    {
+      "slug": "pafos",
+      "name": "Pafos",
+      "loc": "w Pafos",
+      "type": "miasto",
+      "wakacjePath": "pafos",
+      "gygQuery": "Paphos",
+      "airport": "Pafos (PFO)",
+      "forWhom": "Mozaiki UNESCO, Skała Afrodyty i lagunowa plaża Blue Lagoon na Akamas.",
+      "intro": [
+        "Pafos to miasto z bogatą historią: rzymskie mozaiki w Parku Archeologicznym, Grobowce Królewskie i port z fortem. Na wschód od miasta leży Skała Afrodyty, gdzie według mitu bogini wyłoniła się z morza.",
+        "Na północy rozciąga się półwysep Akamas z Błękitną Laguną, dostępną łodzią lub jeepem."
+      ],
+      "highlights": ["Mozaiki w Pafos", "Skała Afrodyty", "Błękitna Laguna", "Grobowce Królewskie"]
+    },
+    {
+      "slug": "larnaka",
+      "name": "Larnaka",
+      "loc": "w Larnace",
+      "type": "miasto",
+      "wakacjePath": "larnaka",
+      "gygQuery": "Larnaca",
+      "airport": "Larnaka (LCA)",
+      "forWhom": "Promenada Finikoudes, flamingi na słonym jeziorze i blisko do lotniska.",
+      "intro": [
+        "Larnaka to przyjazne miasto z palmową promenadą Finikoudes, kościołem świętego Łazarza i słonym jeziorem, na którym zimą zatrzymują się flamingi.",
+        "Dzięki bliskości lotniska jest dobrą bazą na krótsze wyjazdy i wycieczki po całej wyspie."
+      ],
+      "highlights": ["Promenada Finikoudes", "Słone Jezioro", "Kościół świętego Łazarza", "Wrak Zenobia dla nurków"]
+    }
+  ],
+  "attractions": [
+    { "name": "Plaża Nissi", "text": "Biały piasek i płytka turkusowa woda w Ajia Napie.", "gygQuery": "Ayia Napa" },
+    { "name": "Mozaiki w Pafos", "text": "Rzymskie mozaiki podłogowe w willach, wpisane na listę UNESCO.", "gygQuery": "Paphos" },
+    { "name": "Błękitna Laguna", "text": "Zatoka na półwyspie Akamas, dostępna rejsem lub safari jeepem.", "gygQuery": "Blue Lagoon Cyprus" },
+    { "name": "Góry Trodos", "text": "Bizantyjskie kościoły z freskami, winnice i wioski górskie.", "gygQuery": "Troodos" },
+    { "name": "Nikozja", "text": "Ostatnia podzielona stolica Europy, z przejściem przez linię demarkacyjną.", "gygQuery": "Nicosia" },
+    { "name": "Famagusta i Warosza", "text": "Opuszczone miasto duchów w części północnej wyspy.", "gygQuery": "Famagusta" }
+  ],
+  "cuisine": [
+    "Kuchnia cypryjska łączy wpływy greckie i tureckie. Spróbuj halloumi z grilla, meze z kilkunastoma małymi daniami, souvla z jagnięciny i kleftiko pieczonego w glinianym piecu. Do kawy podaje się słodkie loukoumades."
+  ],
+  "faq": [
+    { "q": "Czy na Cyprze jest ciepło w listopadzie?", "a": "Tak. W listopadzie w dzień jest około 22 do 24 stopni, a woda ma 21 do 22 stopni." },
+    { "q": "Czy potrzebna jest przejściówka na Cyprze?", "a": "Tak. Na Cyprze są gniazdka brytyjskie typu G." },
+    { "q": "Ajia Napa czy Pafos?", "a": "Ajia Napa i Protaras mają najładniejsze piaszczyste plaże. Pafos jest lepszy dla osób, które chcą zwiedzać i szukają spokojniejszej atmosfery." }
+  ]
+}

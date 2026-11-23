@@ -1,0 +1,55 @@
+{
+  "slug": "kenia",
+  "loc": "w Kenii",
+  "to": "do Kenii",
+  "capital": "Nairobi",
+  "popularity": 66,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Kenia safari",
+  "teaser": "Safari w Masai Mara i Tsavo połączone z białymi plażami Diani i Watamu nad Oceanem Indyjskim.",
+  "intro": [
+    "Kenia to klasyczny kierunek na safari połączone z wypoczynkiem. W parkach narodowych Masai Mara, Amboseli i Tsavo można zobaczyć wielką piątkę: lwa, słonia, bawoła, nosorożca i lamparta, a od lipca do października także Wielką Migrację gnu przekraczających rzekę Mara.",
+    "Wybrzeże Oceanu Indyjskiego z Diani Beach, Watamu i Malindi kusi białymi plażami, rafami i spokojną atmosferą. Biura podróży oferują wyloty czarterowe do Mombasy i pakiety łączące tydzień na plaży z kilkudniowym safari."
+  ],
+  "highlights": [
+    "Masai Mara i Wielka Migracja",
+    "Słonie pod Kilimandżaro w Amboseli",
+    "Plaże Diani i Watamu",
+    "Loty czarterowe do Mombasy",
+    "Safari od jednego do kilku dni",
+    "Elektroniczne zezwolenie eTA zamiast wizy"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na safari to pora sucha od lipca do października, gdy zwierzęta gromadzą się przy wodopojach, a w Masai Mara trwa migracja. Na wybrzeże najlepsze są miesiące od grudnia do marca. Długie deszcze padają w kwietniu i maju.",
+    "best": [1, 2, 7, 8, 9, 10],
+    "ok": [3, 6, 12]
+  },
+  "climate": {
+    "air": [32, 32, 33, 31, 29, 28, 28, 28, 29, 30, 31, 32],
+    "sea": [28, 28, 29, 29, 28, 26, 25, 25, 26, 26, 27, 28],
+    "note": "Dane dla wybrzeża (Mombasa, Diani)."
+  },
+  "practical": {
+    "flight": "około 9 h czarterem do Mombasy",
+    "timeDiff": "+2 h zimą, +1 h latem",
+    "documents": "Zamiast wizy Polacy potrzebują elektronicznego zezwolenia na podróż eTA, uzyskiwanego online przed wyjazdem. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest szyling kenijski (KES). Powszechnie używa się też dolarów.",
+    "plugs": "Gniazdka typu G (brytyjskie). Potrzebna przejściówka.",
+    "language": "Językami urzędowymi są suahili i angielski.",
+    "safety": "Skonsultuj profilaktykę antymalaryczną z lekarzem medycyny podróży. W miastach zachowaj ostrożność, szczególnie wieczorem."
+  },
+  "attractions": [
+    { "name": "Masai Mara", "text": "Najsłynniejszy rezerwat Kenii z Wielką Migracją od lipca do października.", "gygQuery": "Masai Mara safari" },
+    { "name": "Tsavo", "text": "Największy park Kenii z czerwonymi słoniami, najbliżej wybrzeża.", "gygQuery": "Tsavo safari" },
+    { "name": "Amboseli", "text": "Stada słoni na tle Kilimandżaro.", "gygQuery": "Amboseli" },
+    { "name": "Wasini i Kisite", "text": "Rejs z delfinami i snorkelingiem w parku morskim.", "gygQuery": "Wasini island" },
+    { "name": "Diani Beach", "text": "Jedna z najpiękniejszych plaż Afryki z małpami colobusami w lesie obok.", "gygQuery": "Diani" },
+    { "name": "Watamu", "text": "Park morski, żółwie i ruiny miasta Gede w dżungli.", "gygQuery": "Watamu" }
+  ],
+  "faq": [
+    { "q": "Czy do Kenii potrzebna jest wiza?", "a": "Od 2024 roku zamiast wizy obowiązuje elektroniczne zezwolenie eTA, które składa się online przed podróżą." },
+    { "q": "Kiedy jechać na safari do Kenii?", "a": "Najlepiej od lipca do października, w porze suchej i podczas Wielkiej Migracji w Masai Mara." },
+    { "q": "Kenia czy Zanzibar?", "a": "Kenia jest lepsza, jeśli najważniejsze jest safari. Zanzibar ma piękniejsze plaże i więcej hoteli all inclusive." }
+  ]
+}

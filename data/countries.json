@@ -1,0 +1,6828 @@
+[
+ {
+  "code": "AF",
+  "ccn3": "004",
+  "name": "Afganistan",
+  "slug": "afganistan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "AFN",
+    "name": "afgani afgańskie",
+    "symbol": "؋"
+   }
+  ],
+  "languages": [
+   "dari",
+   "paszto",
+   "turkmeński"
+  ],
+  "latlng": [
+   33,
+   65
+  ],
+  "area": 652230,
+  "landlocked": true,
+  "neighbors": [
+   "IR",
+   "PK",
+   "TM",
+   "UZ",
+   "TJ",
+   "CN"
+  ],
+  "callingCode": "+93",
+  "tld": ".af",
+  "eu": false
+ },
+ {
+  "code": "AL",
+  "ccn3": "008",
+  "name": "Albania",
+  "slug": "albania",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "ALL",
+    "name": "lek albański",
+    "symbol": "L"
+   }
+  ],
+  "languages": [
+   "albański"
+  ],
+  "latlng": [
+   41,
+   20
+  ],
+  "area": 28748,
+  "landlocked": false,
+  "neighbors": [
+   "ME",
+   "GR",
+   "MK",
+   "XK"
+  ],
+  "callingCode": "+355",
+  "tld": ".al",
+  "eu": false
+ },
+ {
+  "code": "DZ",
+  "ccn3": "012",
+  "name": "Algieria",
+  "slug": "algieria",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "DZD",
+    "name": "dinar algierski",
+    "symbol": "د.ج"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   28,
+   3
+  ],
+  "area": 2381741,
+  "landlocked": false,
+  "neighbors": [
+   "TN",
+   "LY",
+   "NE",
+   "MR",
+   "ML",
+   "MA"
+  ],
+  "callingCode": "+213",
+  "tld": ".dz",
+  "eu": false
+ },
+ {
+  "code": "AD",
+  "ccn3": "020",
+  "name": "Andora",
+  "slug": "andora",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "kataloński"
+  ],
+  "latlng": [
+   42.5,
+   1.5
+  ],
+  "area": 468,
+  "landlocked": true,
+  "neighbors": [
+   "FR",
+   "ES"
+  ],
+  "callingCode": "+376",
+  "tld": ".ad",
+  "eu": false
+ },
+ {
+  "code": "AO",
+  "ccn3": "024",
+  "name": "Angola",
+  "slug": "angola",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "AOA",
+    "name": "kwanza angolska",
+    "symbol": "Kz"
+   }
+  ],
+  "languages": [
+   "portugalski"
+  ],
+  "latlng": [
+   -12.5,
+   18.5
+  ],
+  "area": 1246700,
+  "landlocked": false,
+  "neighbors": [
+   "CG",
+   "CD",
+   "ZM",
+   "NA"
+  ],
+  "callingCode": "+244",
+  "tld": ".ao",
+  "eu": false
+ },
+ {
+  "code": "AG",
+  "ccn3": "028",
+  "name": "Antigua i Barbuda",
+  "slug": "antigua-i-barbuda",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "XCD",
+    "name": "dolar wschodniokaraibski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   17.05,
+   -61.8
+  ],
+  "area": 442,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1268",
+  "tld": ".ag",
+  "eu": false
+ },
+ {
+  "code": "SA",
+  "ccn3": "682",
+  "name": "Arabia Saudyjska",
+  "slug": "arabia-saudyjska",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "SAR",
+    "name": "rial saudyjski",
+    "symbol": "ر.س"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   25,
+   45
+  ],
+  "area": 2149690,
+  "landlocked": false,
+  "neighbors": [
+   "IQ",
+   "JO",
+   "KW",
+   "OM",
+   "QA",
+   "AE",
+   "YE"
+  ],
+  "callingCode": "+966",
+  "tld": ".sa",
+  "eu": false
+ },
+ {
+  "code": "AR",
+  "ccn3": "032",
+  "name": "Argentyna",
+  "slug": "argentyna",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "ARS",
+    "name": "peso argentyńskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "guarani",
+   "hiszpański"
+  ],
+  "latlng": [
+   -34,
+   -64
+  ],
+  "area": 2780400,
+  "landlocked": false,
+  "neighbors": [
+   "BO",
+   "BR",
+   "CL",
+   "PY",
+   "UY"
+  ],
+  "callingCode": "+54",
+  "tld": ".ar",
+  "eu": false
+ },
+ {
+  "code": "AM",
+  "ccn3": "051",
+  "name": "Armenia",
+  "slug": "armenia",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "AMD",
+    "name": "dram armeński",
+    "symbol": "֏"
+   }
+  ],
+  "languages": [
+   "ormiański"
+  ],
+  "latlng": [
+   40,
+   45
+  ],
+  "area": 29743,
+  "landlocked": true,
+  "neighbors": [
+   "AZ",
+   "GE",
+   "IR",
+   "TR"
+  ],
+  "callingCode": "+374",
+  "tld": ".am",
+  "eu": false
+ },
+ {
+  "code": "AW",
+  "ccn3": "533",
+  "name": "Aruba",
+  "slug": "aruba",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "AWG",
+    "name": "florin arubański",
+    "symbol": "ƒ"
+   }
+  ],
+  "languages": [
+   "niderlandzki",
+   "papiamento"
+  ],
+  "latlng": [
+   12.5,
+   -69.96666666
+  ],
+  "area": 180,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+297",
+  "tld": ".aw",
+  "eu": false
+ },
+ {
+  "code": "AU",
+  "ccn3": "036",
+  "name": "Australia",
+  "slug": "australia",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "AUD",
+    "name": "dolar australijski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   -27,
+   133
+  ],
+  "area": 7692024,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+61",
+  "tld": ".au",
+  "eu": false
+ },
+ {
+  "code": "AT",
+  "ccn3": "040",
+  "name": "Austria",
+  "slug": "austria",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "bawarski"
+  ],
+  "latlng": [
+   47.33333333,
+   13.33333333
+  ],
+  "area": 83871,
+  "landlocked": true,
+  "neighbors": [
+   "CZ",
+   "DE",
+   "HU",
+   "IT",
+   "LI",
+   "SK",
+   "SI",
+   "CH"
+  ],
+  "callingCode": "+43",
+  "tld": ".at",
+  "eu": true
+ },
+ {
+  "code": "AZ",
+  "ccn3": "031",
+  "name": "Azerbejdżan",
+  "slug": "azerbejdzan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "AZN",
+    "name": "manat azerski",
+    "symbol": "₼"
+   }
+  ],
+  "languages": [
+   "azerbejdżański",
+   "rosyjski"
+  ],
+  "latlng": [
+   40.5,
+   47.5
+  ],
+  "area": 86600,
+  "landlocked": true,
+  "neighbors": [
+   "AM",
+   "GE",
+   "IR",
+   "RU",
+   "TR"
+  ],
+  "callingCode": "+994",
+  "tld": ".az",
+  "eu": false
+ },
+ {
+  "code": "BS",
+  "ccn3": "044",
+  "name": "Bahamy",
+  "slug": "bahamy",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "BSD",
+    "name": "dolar bahamski",
+    "symbol": "$"
+   },
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   24.25,
+   -76
+  ],
+  "area": 13943,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1242",
+  "tld": ".bs",
+  "eu": false
+ },
+ {
+  "code": "BH",
+  "ccn3": "048",
+  "name": "Bahrajn",
+  "slug": "bahrajn",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "BHD",
+    "name": "dinar bahrański",
+    "symbol": ".د.ب"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   26,
+   50.55
+  ],
+  "area": 765,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+973",
+  "tld": ".bh",
+  "eu": false
+ },
+ {
+  "code": "BD",
+  "ccn3": "050",
+  "name": "Bangladesz",
+  "slug": "bangladesz",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "BDT",
+    "name": "taka bengalska",
+    "symbol": "৳"
+   }
+  ],
+  "languages": [
+   "bengalski"
+  ],
+  "latlng": [
+   24,
+   90
+  ],
+  "area": 147570,
+  "landlocked": false,
+  "neighbors": [
+   "MM",
+   "IN"
+  ],
+  "callingCode": "+880",
+  "tld": ".bd",
+  "eu": false
+ },
+ {
+  "code": "BB",
+  "ccn3": "052",
+  "name": "Barbados",
+  "slug": "barbados",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "BBD",
+    "name": "dolar barbadoski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   13.16666666,
+   -59.53333333
+  ],
+  "area": 430,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1246",
+  "tld": ".bb",
+  "eu": false
+ },
+ {
+  "code": "BE",
+  "ccn3": "056",
+  "name": "Belgia",
+  "slug": "belgia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "niemiecki",
+   "francuski",
+   "niderlandzki"
+  ],
+  "latlng": [
+   50.83333333,
+   4
+  ],
+  "area": 30528,
+  "landlocked": false,
+  "neighbors": [
+   "FR",
+   "DE",
+   "LU",
+   "NL"
+  ],
+  "callingCode": "+32",
+  "tld": ".be",
+  "eu": true
+ },
+ {
+  "code": "BZ",
+  "ccn3": "084",
+  "name": "Belize",
+  "slug": "belize",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "BZD",
+    "name": "dolar belizeński",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "Belizean Creole",
+   "angielski",
+   "hiszpański"
+  ],
+  "latlng": [
+   17.25,
+   -88.75
+  ],
+  "area": 22966,
+  "landlocked": false,
+  "neighbors": [
+   "GT",
+   "MX"
+  ],
+  "callingCode": "+501",
+  "tld": ".bz",
+  "eu": false
+ },
+ {
+  "code": "BJ",
+  "ccn3": "204",
+  "name": "Benin",
+  "slug": "benin",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   9.5,
+   2.25
+  ],
+  "area": 112622,
+  "landlocked": false,
+  "neighbors": [
+   "BF",
+   "NE",
+   "NG",
+   "TG"
+  ],
+  "callingCode": "+229",
+  "tld": ".bj",
+  "eu": false
+ },
+ {
+  "code": "BM",
+  "ccn3": "060",
+  "name": "Bermudy",
+  "slug": "bermudy",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "BMD",
+    "name": "dolar bermudzki",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   32.33333333,
+   -64.75
+  ],
+  "area": 54,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1441",
+  "tld": ".bm",
+  "eu": false
+ },
+ {
+  "code": "BT",
+  "ccn3": "064",
+  "name": "Bhutan",
+  "slug": "bhutan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "BTN",
+    "name": "ngultrum bhutański",
+    "symbol": "Nu."
+   },
+   {
+    "code": "INR",
+    "name": "rupia indyjska",
+    "symbol": "₹"
+   }
+  ],
+  "languages": [
+   "dzongkha"
+  ],
+  "latlng": [
+   27.5,
+   90.5
+  ],
+  "area": 38394,
+  "landlocked": true,
+  "neighbors": [
+   "CN",
+   "IN"
+  ],
+  "callingCode": "+975",
+  "tld": ".bt",
+  "eu": false
+ },
+ {
+  "code": "BY",
+  "ccn3": "112",
+  "name": "Białoruś",
+  "slug": "bialorus",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "BYN",
+    "name": "rubel białoruski",
+    "symbol": "Br"
+   }
+  ],
+  "languages": [
+   "białoruski",
+   "rosyjski"
+  ],
+  "latlng": [
+   53,
+   28
+  ],
+  "area": 207600,
+  "landlocked": true,
+  "neighbors": [
+   "LV",
+   "LT",
+   "PL",
+   "RU",
+   "UA"
+  ],
+  "callingCode": "+375",
+  "tld": ".by",
+  "eu": false
+ },
+ {
+  "code": "BO",
+  "ccn3": "068",
+  "name": "Boliwia",
+  "slug": "boliwia",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "BOB",
+    "name": "boliviano boliwijskie",
+    "symbol": "Bs."
+   }
+  ],
+  "languages": [
+   "ajmara",
+   "guarani",
+   "keczua",
+   "hiszpański"
+  ],
+  "latlng": [
+   -17,
+   -65
+  ],
+  "area": 1098581,
+  "landlocked": true,
+  "neighbors": [
+   "AR",
+   "BR",
+   "CL",
+   "PY",
+   "PE"
+  ],
+  "callingCode": "+591",
+  "tld": ".bo",
+  "eu": false
+ },
+ {
+  "code": "BA",
+  "ccn3": "070",
+  "name": "Bośnia i Hercegowina",
+  "slug": "bosnia-i-hercegowina",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "BAM",
+    "name": "marka zamienna Bośni i Hercegowiny",
+    "symbol": "KM"
+   }
+  ],
+  "languages": [
+   "bośniacki",
+   "chorwacki",
+   "serbski"
+  ],
+  "latlng": [
+   44,
+   18
+  ],
+  "area": 51209,
+  "landlocked": false,
+  "neighbors": [
+   "HR",
+   "ME",
+   "RS"
+  ],
+  "callingCode": "+387",
+  "tld": ".ba",
+  "eu": false
+ },
+ {
+  "code": "BW",
+  "ccn3": "072",
+  "name": "Botswana",
+  "slug": "botswana",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "BWP",
+    "name": "pula botswańska",
+    "symbol": "P"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "setswana"
+  ],
+  "latlng": [
+   -22,
+   24
+  ],
+  "area": 582000,
+  "landlocked": true,
+  "neighbors": [
+   "NA",
+   "ZA",
+   "ZM",
+   "ZW"
+  ],
+  "callingCode": "+267",
+  "tld": ".bw",
+  "eu": false
+ },
+ {
+  "code": "BR",
+  "ccn3": "076",
+  "name": "Brazylia",
+  "slug": "brazylia",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "BRL",
+    "name": "real brazylijski",
+    "symbol": "R$"
+   }
+  ],
+  "languages": [
+   "portugalski"
+  ],
+  "latlng": [
+   -10,
+   -55
+  ],
+  "area": 8515767,
+  "landlocked": false,
+  "neighbors": [
+   "AR",
+   "BO",
+   "CO",
+   "GY",
+   "PY",
+   "PE",
+   "SR",
+   "UY",
+   "VE"
+  ],
+  "callingCode": "+55",
+  "tld": ".br",
+  "eu": false
+ },
+ {
+  "code": "BN",
+  "ccn3": "096",
+  "name": "Brunei",
+  "slug": "brunei",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "BND",
+    "name": "dolar brunejski",
+    "symbol": "$"
+   },
+   {
+    "code": "SGD",
+    "name": "dolar singapurski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "malajski"
+  ],
+  "latlng": [
+   4.5,
+   114.66666666
+  ],
+  "area": 5765,
+  "landlocked": false,
+  "neighbors": [
+   "MY"
+  ],
+  "callingCode": "+673",
+  "tld": ".bn",
+  "eu": false
+ },
+ {
+  "code": "VG",
+  "ccn3": "092",
+  "name": "Brytyjskie Wyspy Dziewicze",
+  "slug": "brytyjskie-wyspy-dziewicze",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   18.431383,
+   -64.62305
+  ],
+  "area": 151,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1284",
+  "tld": ".vg",
+  "eu": false
+ },
+ {
+  "code": "BG",
+  "ccn3": "100",
+  "name": "Bułgaria",
+  "slug": "bulgaria",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "BGN",
+    "name": "lew bułgarski",
+    "symbol": "лв"
+   }
+  ],
+  "languages": [
+   "bułgarski"
+  ],
+  "latlng": [
+   43,
+   25
+  ],
+  "area": 110879,
+  "landlocked": false,
+  "neighbors": [
+   "GR",
+   "MK",
+   "RO",
+   "RS",
+   "TR"
+  ],
+  "callingCode": "+359",
+  "tld": ".bg",
+  "eu": true
+ },
+ {
+  "code": "BF",
+  "ccn3": "854",
+  "name": "Burkina Faso",
+  "slug": "burkina-faso",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   13,
+   -2
+  ],
+  "area": 272967,
+  "landlocked": true,
+  "neighbors": [
+   "BJ",
+   "CI",
+   "GH",
+   "ML",
+   "NE",
+   "TG"
+  ],
+  "callingCode": "+226",
+  "tld": ".bf",
+  "eu": false
+ },
+ {
+  "code": "BI",
+  "ccn3": "108",
+  "name": "Burundi",
+  "slug": "burundi",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "BIF",
+    "name": "frank burundyjski",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "rundi"
+  ],
+  "latlng": [
+   -3.5,
+   30
+  ],
+  "area": 27834,
+  "landlocked": true,
+  "neighbors": [
+   "CD",
+   "RW",
+   "TZ"
+  ],
+  "callingCode": "+257",
+  "tld": ".bi",
+  "eu": false
+ },
+ {
+  "code": "CL",
+  "ccn3": "152",
+  "name": "Chile",
+  "slug": "chile",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "CLP",
+    "name": "peso chilijskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   -30,
+   -71
+  ],
+  "area": 756102,
+  "landlocked": false,
+  "neighbors": [
+   "AR",
+   "BO",
+   "PE"
+  ],
+  "callingCode": "+56",
+  "tld": ".cl",
+  "eu": false
+ },
+ {
+  "code": "CN",
+  "ccn3": "156",
+  "name": "Chiny",
+  "slug": "chiny",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "CNY",
+    "name": "juan chiński",
+    "symbol": "¥"
+   }
+  ],
+  "languages": [
+   "chiński"
+  ],
+  "latlng": [
+   35,
+   105
+  ],
+  "area": 9706961,
+  "landlocked": false,
+  "neighbors": [
+   "AF",
+   "BT",
+   "MM",
+   "HK",
+   "IN",
+   "KZ",
+   "NP",
+   "KP",
+   "KG",
+   "LA",
+   "MO",
+   "MN",
+   "PK",
+   "RU",
+   "TJ",
+   "VN"
+  ],
+  "callingCode": "+86",
+  "tld": ".cn",
+  "eu": false
+ },
+ {
+  "code": "HR",
+  "ccn3": "191",
+  "name": "Chorwacja",
+  "slug": "chorwacja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "chorwacki"
+  ],
+  "latlng": [
+   45.16666666,
+   15.5
+  ],
+  "area": 56594,
+  "landlocked": false,
+  "neighbors": [
+   "BA",
+   "HU",
+   "ME",
+   "RS",
+   "SI"
+  ],
+  "callingCode": "+385",
+  "tld": ".hr",
+  "eu": true
+ },
+ {
+  "code": "CW",
+  "ccn3": "531",
+  "name": "Curaçao",
+  "slug": "curacao",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "ANG",
+    "name": "gulden antylski",
+    "symbol": "ƒ"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "niderlandzki",
+   "papiamento"
+  ],
+  "latlng": [
+   12.116667,
+   -68.933333
+  ],
+  "area": 444,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+599",
+  "tld": ".cw",
+  "eu": false
+ },
+ {
+  "code": "CY",
+  "ccn3": "196",
+  "name": "Cypr",
+  "slug": "cypr",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "grecki",
+   "turecki"
+  ],
+  "latlng": [
+   35,
+   33
+  ],
+  "area": 9251,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+357",
+  "tld": ".cy",
+  "eu": true
+ },
+ {
+  "code": "TD",
+  "ccn3": "148",
+  "name": "Czad",
+  "slug": "czad",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XAF",
+    "name": "frank CFA BEAC",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "francuski"
+  ],
+  "latlng": [
+   15,
+   19
+  ],
+  "area": 1284000,
+  "landlocked": true,
+  "neighbors": [
+   "CM",
+   "CF",
+   "LY",
+   "NE",
+   "NG",
+   "SD"
+  ],
+  "callingCode": "+235",
+  "tld": ".td",
+  "eu": false
+ },
+ {
+  "code": "ME",
+  "ccn3": "499",
+  "name": "Czarnogóra",
+  "slug": "czarnogora",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "serbski (Czarnogóra)"
+  ],
+  "latlng": [
+   42.5,
+   19.3
+  ],
+  "area": 13812,
+  "landlocked": false,
+  "neighbors": [
+   "AL",
+   "BA",
+   "HR",
+   "XK",
+   "RS"
+  ],
+  "callingCode": "+382",
+  "tld": ".me",
+  "eu": false
+ },
+ {
+  "code": "CZ",
+  "ccn3": "203",
+  "name": "Czechy",
+  "slug": "czechy",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "CZK",
+    "name": "korona czeska",
+    "symbol": "Kč"
+   }
+  ],
+  "languages": [
+   "czeski",
+   "słowacki"
+  ],
+  "latlng": [
+   49.75,
+   15.5
+  ],
+  "area": 78865,
+  "landlocked": true,
+  "neighbors": [
+   "AT",
+   "DE",
+   "PL",
+   "SK"
+  ],
+  "callingCode": "+420",
+  "tld": ".cz",
+  "eu": true
+ },
+ {
+  "code": "DK",
+  "ccn3": "208",
+  "name": "Dania",
+  "slug": "dania",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "DKK",
+    "name": "korona duńska",
+    "symbol": "kr"
+   }
+  ],
+  "languages": [
+   "duński"
+  ],
+  "latlng": [
+   56,
+   10
+  ],
+  "area": 43094,
+  "landlocked": false,
+  "neighbors": [
+   "DE"
+  ],
+  "callingCode": "+45",
+  "tld": ".dk",
+  "eu": true
+ },
+ {
+  "code": "CD",
+  "ccn3": "180",
+  "name": "Demokratyczna Republika Konga",
+  "slug": "dr-konga",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "CDF",
+    "name": "frank kongijski",
+    "symbol": "FC"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "kongo",
+   "lingala",
+   "luba-lulua",
+   "suahili"
+  ],
+  "latlng": [
+   0,
+   25
+  ],
+  "area": 2344858,
+  "landlocked": false,
+  "neighbors": [
+   "AO",
+   "BI",
+   "CF",
+   "CG",
+   "RW",
+   "SS",
+   "TZ",
+   "UG",
+   "ZM"
+  ],
+  "callingCode": "+243",
+  "tld": ".cd",
+  "eu": false
+ },
+ {
+  "code": "DM",
+  "ccn3": "212",
+  "name": "Dominika",
+  "slug": "dominika",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "XCD",
+    "name": "dolar wschodniokaraibski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   15.41666666,
+   -61.33333333
+  ],
+  "area": 751,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1767",
+  "tld": ".dm",
+  "eu": false
+ },
+ {
+  "code": "DO",
+  "ccn3": "214",
+  "name": "Dominikana",
+  "slug": "dominikana",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "DOP",
+    "name": "peso dominikańskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   19,
+   -70.66666666
+  ],
+  "area": 48671,
+  "landlocked": false,
+  "neighbors": [
+   "HT"
+  ],
+  "callingCode": "+1",
+  "tld": ".do",
+  "eu": false
+ },
+ {
+  "code": "DJ",
+  "ccn3": "262",
+  "name": "Dżibuti",
+  "slug": "dzibuti",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "DJF",
+    "name": "frank dżibutyjski",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "francuski"
+  ],
+  "latlng": [
+   11.5,
+   43
+  ],
+  "area": 23200,
+  "landlocked": false,
+  "neighbors": [
+   "ER",
+   "ET",
+   "SO"
+  ],
+  "callingCode": "+253",
+  "tld": ".dj",
+  "eu": false
+ },
+ {
+  "code": "EG",
+  "ccn3": "818",
+  "name": "Egipt",
+  "slug": "egipt",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "EGP",
+    "name": "funt egipski",
+    "symbol": "£"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   27,
+   30
+  ],
+  "area": 1002450,
+  "landlocked": false,
+  "neighbors": [
+   "IL",
+   "LY",
+   "SD"
+  ],
+  "callingCode": "+20",
+  "tld": ".eg",
+  "eu": false
+ },
+ {
+  "code": "EC",
+  "ccn3": "218",
+  "name": "Ekwador",
+  "slug": "ekwador",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   -2,
+   -77.5
+  ],
+  "area": 276841,
+  "landlocked": false,
+  "neighbors": [
+   "CO",
+   "PE"
+  ],
+  "callingCode": "+593",
+  "tld": ".ec",
+  "eu": false
+ },
+ {
+  "code": "ER",
+  "ccn3": "232",
+  "name": "Erytrea",
+  "slug": "erytrea",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "ERN",
+    "name": "nakfa erytrejska",
+    "symbol": "Nfk"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "angielski",
+   "tigrinia"
+  ],
+  "latlng": [
+   15,
+   39
+  ],
+  "area": 117600,
+  "landlocked": false,
+  "neighbors": [
+   "DJ",
+   "ET",
+   "SD"
+  ],
+  "callingCode": "+291",
+  "tld": ".er",
+  "eu": false
+ },
+ {
+  "code": "EE",
+  "ccn3": "233",
+  "name": "Estonia",
+  "slug": "estonia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "estoński"
+  ],
+  "latlng": [
+   59,
+   26
+  ],
+  "area": 45227,
+  "landlocked": false,
+  "neighbors": [
+   "LV",
+   "RU"
+  ],
+  "callingCode": "+372",
+  "tld": ".ee",
+  "eu": true
+ },
+ {
+  "code": "SZ",
+  "ccn3": "748",
+  "name": "Eswatini",
+  "slug": "eswatini",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "SZL",
+    "name": "lilangeni Suazi",
+    "symbol": "L"
+   },
+   {
+    "code": "ZAR",
+    "name": "rand południowoafrykański",
+    "symbol": "R"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "suazi"
+  ],
+  "latlng": [
+   -26.5,
+   31.5
+  ],
+  "area": 17364,
+  "landlocked": true,
+  "neighbors": [
+   "MZ",
+   "ZA"
+  ],
+  "callingCode": "+268",
+  "tld": ".sz",
+  "eu": false
+ },
+ {
+  "code": "ET",
+  "ccn3": "231",
+  "name": "Etiopia",
+  "slug": "etiopia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "ETB",
+    "name": "birr etiopski",
+    "symbol": "Br"
+   }
+  ],
+  "languages": [
+   "amharski"
+  ],
+  "latlng": [
+   8,
+   38
+  ],
+  "area": 1104300,
+  "landlocked": true,
+  "neighbors": [
+   "DJ",
+   "ER",
+   "KE",
+   "SO",
+   "SS",
+   "SD"
+  ],
+  "callingCode": "+251",
+  "tld": ".et",
+  "eu": false
+ },
+ {
+  "code": "FJ",
+  "ccn3": "242",
+  "name": "Fidżi",
+  "slug": "fidzi",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "FJD",
+    "name": "dolar fidżyjski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "fidżijski",
+   "hindi fidżyjskie"
+  ],
+  "latlng": [
+   -18,
+   175
+  ],
+  "area": 18272,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+679",
+  "tld": ".fj",
+  "eu": false
+ },
+ {
+  "code": "PH",
+  "ccn3": "608",
+  "name": "Filipiny",
+  "slug": "filipiny",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "PHP",
+    "name": "peso filipińskie",
+    "symbol": "₱"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "filipiński"
+  ],
+  "latlng": [
+   13,
+   122
+  ],
+  "area": 342353,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+63",
+  "tld": ".ph",
+  "eu": false
+ },
+ {
+  "code": "FI",
+  "ccn3": "246",
+  "name": "Finlandia",
+  "slug": "finlandia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "fiński",
+   "szwedzki"
+  ],
+  "latlng": [
+   64,
+   26
+  ],
+  "area": 338424,
+  "landlocked": false,
+  "neighbors": [
+   "NO",
+   "SE",
+   "RU"
+  ],
+  "callingCode": "+358",
+  "tld": ".fi",
+  "eu": true
+ },
+ {
+  "code": "FR",
+  "ccn3": "250",
+  "name": "Francja",
+  "slug": "francja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   46,
+   2
+  ],
+  "area": 551695,
+  "landlocked": false,
+  "neighbors": [
+   "AD",
+   "BE",
+   "DE",
+   "IT",
+   "LU",
+   "MC",
+   "ES",
+   "CH"
+  ],
+  "callingCode": "+33",
+  "tld": ".fr",
+  "eu": true
+ },
+ {
+  "code": "GA",
+  "ccn3": "266",
+  "name": "Gabon",
+  "slug": "gabon",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XAF",
+    "name": "frank CFA BEAC",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   -1,
+   11.75
+  ],
+  "area": 267668,
+  "landlocked": false,
+  "neighbors": [
+   "CM",
+   "CG",
+   "GQ"
+  ],
+  "callingCode": "+241",
+  "tld": ".ga",
+  "eu": false
+ },
+ {
+  "code": "GM",
+  "ccn3": "270",
+  "name": "Gambia",
+  "slug": "gambia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "GMD",
+    "name": "dalasi gambijskie",
+    "symbol": "D"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   13.46666666,
+   -16.56666666
+  ],
+  "area": 10689,
+  "landlocked": false,
+  "neighbors": [
+   "SN"
+  ],
+  "callingCode": "+220",
+  "tld": ".gm",
+  "eu": false
+ },
+ {
+  "code": "GH",
+  "ccn3": "288",
+  "name": "Ghana",
+  "slug": "ghana",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "GHS",
+    "name": "cedi ghańskie",
+    "symbol": "₵"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   8,
+   -2
+  ],
+  "area": 238533,
+  "landlocked": false,
+  "neighbors": [
+   "BF",
+   "CI",
+   "TG"
+  ],
+  "callingCode": "+233",
+  "tld": ".gh",
+  "eu": false
+ },
+ {
+  "code": "GI",
+  "ccn3": "292",
+  "name": "Gibraltar",
+  "slug": "gibraltar",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "GIP",
+    "name": "funt gibraltarski",
+    "symbol": "£"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   36.13333333,
+   -5.35
+  ],
+  "area": 6,
+  "landlocked": false,
+  "neighbors": [
+   "ES"
+  ],
+  "callingCode": "+350",
+  "tld": ".gi",
+  "eu": false
+ },
+ {
+  "code": "GR",
+  "ccn3": "300",
+  "name": "Grecja",
+  "slug": "grecja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "grecki"
+  ],
+  "latlng": [
+   39,
+   22
+  ],
+  "area": 131990,
+  "landlocked": false,
+  "neighbors": [
+   "AL",
+   "BG",
+   "TR",
+   "MK"
+  ],
+  "callingCode": "+30",
+  "tld": ".gr",
+  "eu": true
+ },
+ {
+  "code": "GD",
+  "ccn3": "308",
+  "name": "Grenada",
+  "slug": "grenada",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "XCD",
+    "name": "dolar wschodniokaraibski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   12.11666666,
+   -61.66666666
+  ],
+  "area": 344,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1473",
+  "tld": ".gd",
+  "eu": false
+ },
+ {
+  "code": "GL",
+  "ccn3": "304",
+  "name": "Grenlandia",
+  "slug": "grenlandia",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "DKK",
+    "name": "korona duńska",
+    "symbol": "kr."
+   }
+  ],
+  "languages": [
+   "grenlandzki"
+  ],
+  "latlng": [
+   72,
+   -40
+  ],
+  "area": 2166086,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+299",
+  "tld": ".gl",
+  "eu": false
+ },
+ {
+  "code": "GE",
+  "ccn3": "268",
+  "name": "Gruzja",
+  "slug": "gruzja",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "GEL",
+    "name": "lari gruzińskie",
+    "symbol": "₾"
+   }
+  ],
+  "languages": [
+   "gruziński"
+  ],
+  "latlng": [
+   42,
+   43.5
+  ],
+  "area": 69700,
+  "landlocked": false,
+  "neighbors": [
+   "AM",
+   "AZ",
+   "RU",
+   "TR"
+  ],
+  "callingCode": "+995",
+  "tld": ".ge",
+  "eu": false
+ },
+ {
+  "code": "GY",
+  "ccn3": "328",
+  "name": "Gujana",
+  "slug": "gujana",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "GYD",
+    "name": "dolar gujański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   5,
+   -59
+  ],
+  "area": 214969,
+  "landlocked": false,
+  "neighbors": [
+   "BR",
+   "SR",
+   "VE"
+  ],
+  "callingCode": "+592",
+  "tld": ".gy",
+  "eu": false
+ },
+ {
+  "code": "GP",
+  "ccn3": "312",
+  "name": "Gwadelupa",
+  "slug": "gwadelupa",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   16.25,
+   -61.583333
+  ],
+  "area": 1628,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+590",
+  "tld": ".gp",
+  "eu": false
+ },
+ {
+  "code": "GT",
+  "ccn3": "320",
+  "name": "Gwatemala",
+  "slug": "gwatemala",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "GTQ",
+    "name": "quetzal gwatemalski",
+    "symbol": "Q"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   15.5,
+   -90.25
+  ],
+  "area": 108889,
+  "landlocked": false,
+  "neighbors": [
+   "BZ",
+   "SV",
+   "HN",
+   "MX"
+  ],
+  "callingCode": "+502",
+  "tld": ".gt",
+  "eu": false
+ },
+ {
+  "code": "GN",
+  "ccn3": "324",
+  "name": "Gwinea",
+  "slug": "gwinea",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "GNF",
+    "name": "frank gwinejski",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   11,
+   -10
+  ],
+  "area": 245857,
+  "landlocked": false,
+  "neighbors": [
+   "CI",
+   "GW",
+   "LR",
+   "ML",
+   "SN",
+   "SL"
+  ],
+  "callingCode": "+224",
+  "tld": ".gn",
+  "eu": false
+ },
+ {
+  "code": "GW",
+  "ccn3": "624",
+  "name": "Gwinea Bissau",
+  "slug": "gwinea-bissau",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "portugalski",
+   "Upper Guinea Creole"
+  ],
+  "latlng": [
+   12,
+   -15
+  ],
+  "area": 36125,
+  "landlocked": false,
+  "neighbors": [
+   "GN",
+   "SN"
+  ],
+  "callingCode": "+245",
+  "tld": ".gw",
+  "eu": false
+ },
+ {
+  "code": "GQ",
+  "ccn3": "226",
+  "name": "Gwinea Równikowa",
+  "slug": "gwinea-rownikowa",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XAF",
+    "name": "frank CFA BEAC",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "portugalski",
+   "hiszpański"
+  ],
+  "latlng": [
+   2,
+   10
+  ],
+  "area": 28051,
+  "landlocked": false,
+  "neighbors": [
+   "CM",
+   "GA"
+  ],
+  "callingCode": "+240",
+  "tld": ".gq",
+  "eu": false
+ },
+ {
+  "code": "HT",
+  "ccn3": "332",
+  "name": "Haiti",
+  "slug": "haiti",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "HTG",
+    "name": "gourde haitański",
+    "symbol": "G"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "kreolski haitański"
+  ],
+  "latlng": [
+   19,
+   -72.41666666
+  ],
+  "area": 27750,
+  "landlocked": false,
+  "neighbors": [
+   "DO"
+  ],
+  "callingCode": "+509",
+  "tld": ".ht",
+  "eu": false
+ },
+ {
+  "code": "ES",
+  "ccn3": "724",
+  "name": "Hiszpania",
+  "slug": "hiszpania",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   40,
+   -4
+  ],
+  "area": 505992,
+  "landlocked": false,
+  "neighbors": [
+   "AD",
+   "FR",
+   "GI",
+   "PT",
+   "MA"
+  ],
+  "callingCode": "+34",
+  "tld": ".es",
+  "eu": true
+ },
+ {
+  "code": "NL",
+  "ccn3": "528",
+  "name": "Holandia",
+  "slug": "holandia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "niderlandzki"
+  ],
+  "latlng": [
+   52.5,
+   5.75
+  ],
+  "area": 41850,
+  "landlocked": false,
+  "neighbors": [
+   "BE",
+   "DE"
+  ],
+  "callingCode": "+31",
+  "tld": ".nl",
+  "eu": true
+ },
+ {
+  "code": "HN",
+  "ccn3": "340",
+  "name": "Honduras",
+  "slug": "honduras",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "HNL",
+    "name": "lempira honduraska",
+    "symbol": "L"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   15,
+   -86.5
+  ],
+  "area": 112492,
+  "landlocked": false,
+  "neighbors": [
+   "GT",
+   "SV",
+   "NI"
+  ],
+  "callingCode": "+504",
+  "tld": ".hn",
+  "eu": false
+ },
+ {
+  "code": "HK",
+  "ccn3": "344",
+  "name": "Hongkong",
+  "slug": "hongkong",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "HKD",
+    "name": "dolar hongkoński",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "chiński"
+  ],
+  "latlng": [
+   22.267,
+   114.188
+  ],
+  "area": 1104,
+  "landlocked": false,
+  "neighbors": [
+   "CN"
+  ],
+  "callingCode": "+852",
+  "tld": ".hk",
+  "eu": false
+ },
+ {
+  "code": "IN",
+  "ccn3": "356",
+  "name": "Indie",
+  "slug": "indie",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "INR",
+    "name": "rupia indyjska",
+    "symbol": "₹"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "hindi",
+   "tamilski"
+  ],
+  "latlng": [
+   20,
+   77
+  ],
+  "area": 3287590,
+  "landlocked": false,
+  "neighbors": [
+   "BD",
+   "BT",
+   "MM",
+   "CN",
+   "NP",
+   "PK"
+  ],
+  "callingCode": "+91",
+  "tld": ".in",
+  "eu": false
+ },
+ {
+  "code": "ID",
+  "ccn3": "360",
+  "name": "Indonezja",
+  "slug": "indonezja",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "IDR",
+    "name": "rupia indonezyjska",
+    "symbol": "Rp"
+   }
+  ],
+  "languages": [
+   "indonezyjski"
+  ],
+  "latlng": [
+   -5,
+   120
+  ],
+  "area": 1904569,
+  "landlocked": false,
+  "neighbors": [
+   "TL",
+   "MY",
+   "PG"
+  ],
+  "callingCode": "+62",
+  "tld": ".id",
+  "eu": false
+ },
+ {
+  "code": "IQ",
+  "ccn3": "368",
+  "name": "Irak",
+  "slug": "irak",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "IQD",
+    "name": "dinar iracki",
+    "symbol": "ع.د"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "aramejski",
+   "sorani"
+  ],
+  "latlng": [
+   33,
+   44
+  ],
+  "area": 438317,
+  "landlocked": false,
+  "neighbors": [
+   "IR",
+   "JO",
+   "KW",
+   "SA",
+   "SY",
+   "TR"
+  ],
+  "callingCode": "+964",
+  "tld": ".iq",
+  "eu": false
+ },
+ {
+  "code": "IR",
+  "ccn3": "364",
+  "name": "Iran",
+  "slug": "iran",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "IRR",
+    "name": "rial irański",
+    "symbol": "﷼"
+   }
+  ],
+  "languages": [
+   "perski"
+  ],
+  "latlng": [
+   32,
+   53
+  ],
+  "area": 1648195,
+  "landlocked": false,
+  "neighbors": [
+   "AF",
+   "AM",
+   "AZ",
+   "IQ",
+   "PK",
+   "TR",
+   "TM"
+  ],
+  "callingCode": "+98",
+  "tld": ".ir",
+  "eu": false
+ },
+ {
+  "code": "IE",
+  "ccn3": "372",
+  "name": "Irlandia",
+  "slug": "irlandia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "irlandzki"
+  ],
+  "latlng": [
+   53,
+   -8
+  ],
+  "area": 70273,
+  "landlocked": false,
+  "neighbors": [
+   "GB"
+  ],
+  "callingCode": "+353",
+  "tld": ".ie",
+  "eu": true
+ },
+ {
+  "code": "IS",
+  "ccn3": "352",
+  "name": "Islandia",
+  "slug": "islandia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "ISK",
+    "name": "korona islandzka",
+    "symbol": "kr"
+   }
+  ],
+  "languages": [
+   "islandzki"
+  ],
+  "latlng": [
+   65,
+   -18
+  ],
+  "area": 103000,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+354",
+  "tld": ".is",
+  "eu": false
+ },
+ {
+  "code": "IL",
+  "ccn3": "376",
+  "name": "Izrael",
+  "slug": "izrael",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "ILS",
+    "name": "nowy szekel izraelski",
+    "symbol": "₪"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "hebrajski"
+  ],
+  "latlng": [
+   31.47,
+   35.13
+  ],
+  "area": 20770,
+  "landlocked": false,
+  "neighbors": [
+   "EG",
+   "JO",
+   "LB",
+   "SY"
+  ],
+  "callingCode": "+972",
+  "tld": ".il",
+  "eu": false
+ },
+ {
+  "code": "JM",
+  "ccn3": "388",
+  "name": "Jamajka",
+  "slug": "jamajka",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "JMD",
+    "name": "dolar jamajski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "jamajski"
+  ],
+  "latlng": [
+   18.25,
+   -77.5
+  ],
+  "area": 10991,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1876",
+  "tld": ".jm",
+  "eu": false
+ },
+ {
+  "code": "JP",
+  "ccn3": "392",
+  "name": "Japonia",
+  "slug": "japonia",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "JPY",
+    "name": "jen japoński",
+    "symbol": "¥"
+   }
+  ],
+  "languages": [
+   "japoński"
+  ],
+  "latlng": [
+   36,
+   138
+  ],
+  "area": 377930,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+81",
+  "tld": ".jp",
+  "eu": false
+ },
+ {
+  "code": "YE",
+  "ccn3": "887",
+  "name": "Jemen",
+  "slug": "jemen",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "YER",
+    "name": "rial jemeński",
+    "symbol": "﷼"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   15,
+   48
+  ],
+  "area": 527968,
+  "landlocked": false,
+  "neighbors": [
+   "OM",
+   "SA"
+  ],
+  "callingCode": "+967",
+  "tld": ".ye",
+  "eu": false
+ },
+ {
+  "code": "JO",
+  "ccn3": "400",
+  "name": "Jordania",
+  "slug": "jordania",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "JOD",
+    "name": "dinar jordański",
+    "symbol": "د.ا"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   31,
+   36
+  ],
+  "area": 89342,
+  "landlocked": false,
+  "neighbors": [
+   "IQ",
+   "IL",
+   "SA",
+   "SY"
+  ],
+  "callingCode": "+962",
+  "tld": ".jo",
+  "eu": false
+ },
+ {
+  "code": "KY",
+  "ccn3": "136",
+  "name": "Kajmany",
+  "slug": "kajmany",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "KYD",
+    "name": "dolar kajmański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   19.5,
+   -80.5
+  ],
+  "area": 264,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1345",
+  "tld": ".ky",
+  "eu": false
+ },
+ {
+  "code": "KH",
+  "ccn3": "116",
+  "name": "Kambodża",
+  "slug": "kambodza",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "KHR",
+    "name": "riel kambodżański",
+    "symbol": "៛"
+   },
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "khmerski"
+  ],
+  "latlng": [
+   13,
+   105
+  ],
+  "area": 181035,
+  "landlocked": false,
+  "neighbors": [
+   "LA",
+   "TH",
+   "VN"
+  ],
+  "callingCode": "+855",
+  "tld": ".kh",
+  "eu": false
+ },
+ {
+  "code": "CM",
+  "ccn3": "120",
+  "name": "Kamerun",
+  "slug": "kamerun",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XAF",
+    "name": "frank CFA BEAC",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "francuski"
+  ],
+  "latlng": [
+   6,
+   12
+  ],
+  "area": 475442,
+  "landlocked": false,
+  "neighbors": [
+   "CF",
+   "TD",
+   "CG",
+   "GQ",
+   "GA",
+   "NG"
+  ],
+  "callingCode": "+237",
+  "tld": ".cm",
+  "eu": false
+ },
+ {
+  "code": "CA",
+  "ccn3": "124",
+  "name": "Kanada",
+  "slug": "kanada",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "CAD",
+    "name": "dolar kanadyjski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "francuski"
+  ],
+  "latlng": [
+   60,
+   -95
+  ],
+  "area": 9984670,
+  "landlocked": false,
+  "neighbors": [
+   "US"
+  ],
+  "callingCode": "+1",
+  "tld": ".ca",
+  "eu": false
+ },
+ {
+  "code": "QA",
+  "ccn3": "634",
+  "name": "Katar",
+  "slug": "katar",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "QAR",
+    "name": "rial katarski",
+    "symbol": "ر.ق"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   25.5,
+   51.25
+  ],
+  "area": 11586,
+  "landlocked": false,
+  "neighbors": [
+   "SA"
+  ],
+  "callingCode": "+974",
+  "tld": ".qa",
+  "eu": false
+ },
+ {
+  "code": "KZ",
+  "ccn3": "398",
+  "name": "Kazachstan",
+  "slug": "kazachstan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "KZT",
+    "name": "tenge kazachskie",
+    "symbol": "₸"
+   }
+  ],
+  "languages": [
+   "kazachski",
+   "rosyjski"
+  ],
+  "latlng": [
+   48,
+   68
+  ],
+  "area": 2724900,
+  "landlocked": true,
+  "neighbors": [
+   "CN",
+   "KG",
+   "RU",
+   "TM",
+   "UZ"
+  ],
+  "callingCode": "+7",
+  "tld": ".kz",
+  "eu": false
+ },
+ {
+  "code": "KE",
+  "ccn3": "404",
+  "name": "Kenia",
+  "slug": "kenia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "KES",
+    "name": "szyling kenijski",
+    "symbol": "Sh"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "suahili"
+  ],
+  "latlng": [
+   1,
+   38
+  ],
+  "area": 580367,
+  "landlocked": false,
+  "neighbors": [
+   "ET",
+   "SO",
+   "SS",
+   "TZ",
+   "UG"
+  ],
+  "callingCode": "+254",
+  "tld": ".ke",
+  "eu": false
+ },
+ {
+  "code": "KG",
+  "ccn3": "417",
+  "name": "Kirgistan",
+  "slug": "kirgistan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "KGS",
+    "name": "som kirgiski",
+    "symbol": "с"
+   }
+  ],
+  "languages": [
+   "kirgiski",
+   "rosyjski"
+  ],
+  "latlng": [
+   41,
+   75
+  ],
+  "area": 199951,
+  "landlocked": true,
+  "neighbors": [
+   "CN",
+   "KZ",
+   "TJ",
+   "UZ"
+  ],
+  "callingCode": "+996",
+  "tld": ".kg",
+  "eu": false
+ },
+ {
+  "code": "KI",
+  "ccn3": "296",
+  "name": "Kiribati",
+  "slug": "kiribati",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "AUD",
+    "name": "dolar australijski",
+    "symbol": "$"
+   },
+   {
+    "code": "KID",
+    "name": "KID",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "gilbertański"
+  ],
+  "latlng": [
+   1.41666666,
+   173
+  ],
+  "area": 811,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+686",
+  "tld": ".ki",
+  "eu": false
+ },
+ {
+  "code": "CO",
+  "ccn3": "170",
+  "name": "Kolumbia",
+  "slug": "kolumbia",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "COP",
+    "name": "peso kolumbijskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   4,
+   -72
+  ],
+  "area": 1141748,
+  "landlocked": false,
+  "neighbors": [
+   "BR",
+   "EC",
+   "PA",
+   "PE",
+   "VE"
+  ],
+  "callingCode": "+57",
+  "tld": ".co",
+  "eu": false
+ },
+ {
+  "code": "KM",
+  "ccn3": "174",
+  "name": "Komory",
+  "slug": "komory",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "KMF",
+    "name": "frank komoryjski",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "francuski",
+   "Comorian"
+  ],
+  "latlng": [
+   -12.16666666,
+   44.25
+  ],
+  "area": 1862,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+269",
+  "tld": ".km",
+  "eu": false
+ },
+ {
+  "code": "CG",
+  "ccn3": "178",
+  "name": "Kongo",
+  "slug": "kongo",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XAF",
+    "name": "frank CFA BEAC",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "kongo",
+   "lingala"
+  ],
+  "latlng": [
+   -1,
+   15
+  ],
+  "area": 342000,
+  "landlocked": false,
+  "neighbors": [
+   "AO",
+   "CM",
+   "CF",
+   "CD",
+   "GA"
+  ],
+  "callingCode": "+242",
+  "tld": ".cg",
+  "eu": false
+ },
+ {
+  "code": "KR",
+  "ccn3": "410",
+  "name": "Korea Południowa",
+  "slug": "korea-poludniowa",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "KRW",
+    "name": "won południowokoreański",
+    "symbol": "₩"
+   }
+  ],
+  "languages": [
+   "koreański"
+  ],
+  "latlng": [
+   37,
+   127.5
+  ],
+  "area": 100210,
+  "landlocked": false,
+  "neighbors": [
+   "KP"
+  ],
+  "callingCode": "+82",
+  "tld": ".kr",
+  "eu": false
+ },
+ {
+  "code": "KP",
+  "ccn3": "408",
+  "name": "Korea Północna",
+  "slug": "korea-polnocna",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "KPW",
+    "name": "won północnokoreański",
+    "symbol": "₩"
+   }
+  ],
+  "languages": [
+   "koreański"
+  ],
+  "latlng": [
+   40,
+   127
+  ],
+  "area": 120538,
+  "landlocked": false,
+  "neighbors": [
+   "CN",
+   "KR",
+   "RU"
+  ],
+  "callingCode": "+850",
+  "tld": ".kp",
+  "eu": false
+ },
+ {
+  "code": "XK",
+  "ccn3": null,
+  "name": "Kosowo",
+  "slug": "kosowo",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "albański",
+   "serbski"
+  ],
+  "latlng": [
+   42.666667,
+   21.166667
+  ],
+  "area": 10908,
+  "landlocked": true,
+  "neighbors": [
+   "AL",
+   "MK",
+   "ME",
+   "RS"
+  ],
+  "callingCode": "+383",
+  "tld": ".xk",
+  "eu": false
+ },
+ {
+  "code": "CR",
+  "ccn3": "188",
+  "name": "Kostaryka",
+  "slug": "kostaryka",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "CRC",
+    "name": "colon kostarykański",
+    "symbol": "₡"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   10,
+   -84
+  ],
+  "area": 51100,
+  "landlocked": false,
+  "neighbors": [
+   "NI",
+   "PA"
+  ],
+  "callingCode": "+506",
+  "tld": ".cr",
+  "eu": false
+ },
+ {
+  "code": "CU",
+  "ccn3": "192",
+  "name": "Kuba",
+  "slug": "kuba",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "CUC",
+    "name": "peso kubańskie wymienialne",
+    "symbol": "$"
+   },
+   {
+    "code": "CUP",
+    "name": "peso kubańskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   21.5,
+   -80
+  ],
+  "area": 109884,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+53",
+  "tld": ".cu",
+  "eu": false
+ },
+ {
+  "code": "KW",
+  "ccn3": "414",
+  "name": "Kuwejt",
+  "slug": "kuwejt",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "KWD",
+    "name": "dinar kuwejcki",
+    "symbol": "د.ك"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   29.5,
+   45.75
+  ],
+  "area": 17818,
+  "landlocked": false,
+  "neighbors": [
+   "IQ",
+   "SA"
+  ],
+  "callingCode": "+965",
+  "tld": ".kw",
+  "eu": false
+ },
+ {
+  "code": "LA",
+  "ccn3": "418",
+  "name": "Laos",
+  "slug": "laos",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "LAK",
+    "name": "kip laotański",
+    "symbol": "₭"
+   }
+  ],
+  "languages": [
+   "laotański"
+  ],
+  "latlng": [
+   18,
+   105
+  ],
+  "area": 236800,
+  "landlocked": true,
+  "neighbors": [
+   "MM",
+   "KH",
+   "CN",
+   "TH",
+   "VN"
+  ],
+  "callingCode": "+856",
+  "tld": ".la",
+  "eu": false
+ },
+ {
+  "code": "LS",
+  "ccn3": "426",
+  "name": "Lesotho",
+  "slug": "lesotho",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "LSL",
+    "name": "loti sotyjskie",
+    "symbol": "L"
+   },
+   {
+    "code": "ZAR",
+    "name": "rand południowoafrykański",
+    "symbol": "R"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "sotho południowy"
+  ],
+  "latlng": [
+   -29.5,
+   28.5
+  ],
+  "area": 30355,
+  "landlocked": true,
+  "neighbors": [
+   "ZA"
+  ],
+  "callingCode": "+266",
+  "tld": ".ls",
+  "eu": false
+ },
+ {
+  "code": "LB",
+  "ccn3": "422",
+  "name": "Liban",
+  "slug": "liban",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "LBP",
+    "name": "funt libański",
+    "symbol": "ل.ل"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "francuski"
+  ],
+  "latlng": [
+   33.83333333,
+   35.83333333
+  ],
+  "area": 10452,
+  "landlocked": false,
+  "neighbors": [
+   "IL",
+   "SY"
+  ],
+  "callingCode": "+961",
+  "tld": ".lb",
+  "eu": false
+ },
+ {
+  "code": "LR",
+  "ccn3": "430",
+  "name": "Liberia",
+  "slug": "liberia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "LRD",
+    "name": "dolar liberyjski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   6.5,
+   -9.5
+  ],
+  "area": 111369,
+  "landlocked": false,
+  "neighbors": [
+   "GN",
+   "CI",
+   "SL"
+  ],
+  "callingCode": "+231",
+  "tld": ".lr",
+  "eu": false
+ },
+ {
+  "code": "LY",
+  "ccn3": "434",
+  "name": "Libia",
+  "slug": "libia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "LYD",
+    "name": "dinar libijski",
+    "symbol": "ل.د"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   25,
+   17
+  ],
+  "area": 1759540,
+  "landlocked": false,
+  "neighbors": [
+   "DZ",
+   "TD",
+   "EG",
+   "NE",
+   "SD",
+   "TN"
+  ],
+  "callingCode": "+218",
+  "tld": ".ly",
+  "eu": false
+ },
+ {
+  "code": "LI",
+  "ccn3": "438",
+  "name": "Liechtenstein",
+  "slug": "liechtenstein",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "CHF",
+    "name": "frank szwajcarski",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "niemiecki"
+  ],
+  "latlng": [
+   47.26666666,
+   9.53333333
+  ],
+  "area": 160,
+  "landlocked": true,
+  "neighbors": [
+   "AT",
+   "CH"
+  ],
+  "callingCode": "+423",
+  "tld": ".li",
+  "eu": false
+ },
+ {
+  "code": "LT",
+  "ccn3": "440",
+  "name": "Litwa",
+  "slug": "litwa",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "litewski"
+  ],
+  "latlng": [
+   56,
+   24
+  ],
+  "area": 65300,
+  "landlocked": false,
+  "neighbors": [
+   "BY",
+   "LV",
+   "PL",
+   "RU"
+  ],
+  "callingCode": "+370",
+  "tld": ".lt",
+  "eu": true
+ },
+ {
+  "code": "LU",
+  "ccn3": "442",
+  "name": "Luksemburg",
+  "slug": "luksemburg",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "niemiecki",
+   "francuski",
+   "luksemburski"
+  ],
+  "latlng": [
+   49.75,
+   6.16666666
+  ],
+  "area": 2586,
+  "landlocked": true,
+  "neighbors": [
+   "BE",
+   "FR",
+   "DE"
+  ],
+  "callingCode": "+352",
+  "tld": ".lu",
+  "eu": true
+ },
+ {
+  "code": "LV",
+  "ccn3": "428",
+  "name": "Łotwa",
+  "slug": "lotwa",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "łotewski"
+  ],
+  "latlng": [
+   57,
+   25
+  ],
+  "area": 64559,
+  "landlocked": false,
+  "neighbors": [
+   "BY",
+   "EE",
+   "LT",
+   "RU"
+  ],
+  "callingCode": "+371",
+  "tld": ".lv",
+  "eu": true
+ },
+ {
+  "code": "MK",
+  "ccn3": "807",
+  "name": "Macedonia Północna",
+  "slug": "macedonia-polnocna",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "MKD",
+    "name": "denar macedoński",
+    "symbol": "den"
+   }
+  ],
+  "languages": [
+   "macedoński"
+  ],
+  "latlng": [
+   41.83333333,
+   22
+  ],
+  "area": 25713,
+  "landlocked": true,
+  "neighbors": [
+   "AL",
+   "BG",
+   "GR",
+   "XK",
+   "RS"
+  ],
+  "callingCode": "+389",
+  "tld": ".mk",
+  "eu": false
+ },
+ {
+  "code": "MG",
+  "ccn3": "450",
+  "name": "Madagaskar",
+  "slug": "madagaskar",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "MGA",
+    "name": "ariary malgaski",
+    "symbol": "Ar"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "malgaski"
+  ],
+  "latlng": [
+   -20,
+   47
+  ],
+  "area": 587041,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+261",
+  "tld": ".mg",
+  "eu": false
+ },
+ {
+  "code": "MO",
+  "ccn3": "446",
+  "name": "Makau",
+  "slug": "makau",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "MOP",
+    "name": "pataca Makau",
+    "symbol": "P"
+   }
+  ],
+  "languages": [
+   "portugalski",
+   "chiński"
+  ],
+  "latlng": [
+   22.16666666,
+   113.55
+  ],
+  "area": 30,
+  "landlocked": false,
+  "neighbors": [
+   "CN"
+  ],
+  "callingCode": "+853",
+  "tld": ".mo",
+  "eu": false
+ },
+ {
+  "code": "MW",
+  "ccn3": "454",
+  "name": "Malawi",
+  "slug": "malawi",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "MWK",
+    "name": "kwacha malawijska",
+    "symbol": "MK"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "njandża"
+  ],
+  "latlng": [
+   -13.5,
+   34
+  ],
+  "area": 118484,
+  "landlocked": true,
+  "neighbors": [
+   "MZ",
+   "TZ",
+   "ZM"
+  ],
+  "callingCode": "+265",
+  "tld": ".mw",
+  "eu": false
+ },
+ {
+  "code": "MV",
+  "ccn3": "462",
+  "name": "Malediwy",
+  "slug": "malediwy",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "MVR",
+    "name": "rupia malediwska",
+    "symbol": ".ރ"
+   }
+  ],
+  "languages": [
+   "malediwski"
+  ],
+  "latlng": [
+   3.25,
+   73
+  ],
+  "area": 300,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+960",
+  "tld": ".mv",
+  "eu": false
+ },
+ {
+  "code": "MY",
+  "ccn3": "458",
+  "name": "Malezja",
+  "slug": "malezja",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "MYR",
+    "name": "ringgit malezyjski",
+    "symbol": "RM"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "malajski"
+  ],
+  "latlng": [
+   2.5,
+   112.5
+  ],
+  "area": 330803,
+  "landlocked": false,
+  "neighbors": [
+   "BN",
+   "ID",
+   "TH"
+  ],
+  "callingCode": "+60",
+  "tld": ".my",
+  "eu": false
+ },
+ {
+  "code": "ML",
+  "ccn3": "466",
+  "name": "Mali",
+  "slug": "mali",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   17,
+   -4
+  ],
+  "area": 1240192,
+  "landlocked": true,
+  "neighbors": [
+   "DZ",
+   "BF",
+   "GN",
+   "CI",
+   "MR",
+   "NE",
+   "SN"
+  ],
+  "callingCode": "+223",
+  "tld": ".ml",
+  "eu": false
+ },
+ {
+  "code": "MT",
+  "ccn3": "470",
+  "name": "Malta",
+  "slug": "malta",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "maltański"
+  ],
+  "latlng": [
+   35.83333333,
+   14.58333333
+  ],
+  "area": 316,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+356",
+  "tld": ".mt",
+  "eu": true
+ },
+ {
+  "code": "MA",
+  "ccn3": "504",
+  "name": "Maroko",
+  "slug": "maroko",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "MAD",
+    "name": "dirham marokański",
+    "symbol": "د.م."
+   }
+  ],
+  "languages": [
+   "arabski",
+   "Berber"
+  ],
+  "latlng": [
+   32,
+   -5
+  ],
+  "area": 446550,
+  "landlocked": false,
+  "neighbors": [
+   "DZ",
+   "ES"
+  ],
+  "callingCode": "+212",
+  "tld": ".ma",
+  "eu": false
+ },
+ {
+  "code": "MQ",
+  "ccn3": "474",
+  "name": "Martynika",
+  "slug": "martynika",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   14.666667,
+   -61
+  ],
+  "area": 1128,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+596",
+  "tld": ".mq",
+  "eu": false
+ },
+ {
+  "code": "MR",
+  "ccn3": "478",
+  "name": "Mauretania",
+  "slug": "mauretania",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "MRU",
+    "name": "ugija mauretańska",
+    "symbol": "UM"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   20,
+   -12
+  ],
+  "area": 1030700,
+  "landlocked": false,
+  "neighbors": [
+   "DZ",
+   "ML",
+   "SN"
+  ],
+  "callingCode": "+222",
+  "tld": ".mr",
+  "eu": false
+ },
+ {
+  "code": "MU",
+  "ccn3": "480",
+  "name": "Mauritius",
+  "slug": "mauritius",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "MUR",
+    "name": "rupia maurytyjska",
+    "symbol": "₨"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "francuski",
+   "kreolski Mauritiusa"
+  ],
+  "latlng": [
+   -20.28333333,
+   57.55
+  ],
+  "area": 2040,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+230",
+  "tld": ".mu",
+  "eu": false
+ },
+ {
+  "code": "MX",
+  "ccn3": "484",
+  "name": "Meksyk",
+  "slug": "meksyk",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "MXN",
+    "name": "peso meksykańskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   23,
+   -102
+  ],
+  "area": 1964375,
+  "landlocked": false,
+  "neighbors": [
+   "BZ",
+   "GT",
+   "US"
+  ],
+  "callingCode": "+52",
+  "tld": ".mx",
+  "eu": false
+ },
+ {
+  "code": "FM",
+  "ccn3": "583",
+  "name": "Mikronezja",
+  "slug": "mikronezja",
+  "continent": "australia-i-oceania",
+  "currencies": [],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   6.91666666,
+   158.25
+  ],
+  "area": 702,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+691",
+  "tld": ".fm",
+  "eu": false
+ },
+ {
+  "code": "MM",
+  "ccn3": "104",
+  "name": "Mjanma (Birma)",
+  "slug": "mjanma",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "MMK",
+    "name": "kiat birmański",
+    "symbol": "Ks"
+   }
+  ],
+  "languages": [
+   "birmański"
+  ],
+  "latlng": [
+   22,
+   98
+  ],
+  "area": 676578,
+  "landlocked": false,
+  "neighbors": [
+   "BD",
+   "CN",
+   "IN",
+   "LA",
+   "TH"
+  ],
+  "callingCode": "+95",
+  "tld": ".mm",
+  "eu": false
+ },
+ {
+  "code": "MD",
+  "ccn3": "498",
+  "name": "Mołdawia",
+  "slug": "moldawia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "MDL",
+    "name": "lej mołdawski",
+    "symbol": "L"
+   }
+  ],
+  "languages": [
+   "rumuński"
+  ],
+  "latlng": [
+   47,
+   29
+  ],
+  "area": 33846,
+  "landlocked": true,
+  "neighbors": [
+   "RO",
+   "UA"
+  ],
+  "callingCode": "+373",
+  "tld": ".md",
+  "eu": false
+ },
+ {
+  "code": "MC",
+  "ccn3": "492",
+  "name": "Monako",
+  "slug": "monako",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   43.73333333,
+   7.4
+  ],
+  "area": 2.02,
+  "landlocked": false,
+  "neighbors": [
+   "FR"
+  ],
+  "callingCode": "+377",
+  "tld": ".mc",
+  "eu": false
+ },
+ {
+  "code": "MN",
+  "ccn3": "496",
+  "name": "Mongolia",
+  "slug": "mongolia",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "MNT",
+    "name": "tugrik mongolski",
+    "symbol": "₮"
+   }
+  ],
+  "languages": [
+   "mongolski"
+  ],
+  "latlng": [
+   46,
+   105
+  ],
+  "area": 1564110,
+  "landlocked": true,
+  "neighbors": [
+   "CN",
+   "RU"
+  ],
+  "callingCode": "+976",
+  "tld": ".mn",
+  "eu": false
+ },
+ {
+  "code": "MZ",
+  "ccn3": "508",
+  "name": "Mozambik",
+  "slug": "mozambik",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "MZN",
+    "name": "metical mozambicki",
+    "symbol": "MT"
+   }
+  ],
+  "languages": [
+   "portugalski"
+  ],
+  "latlng": [
+   -18.25,
+   35
+  ],
+  "area": 801590,
+  "landlocked": false,
+  "neighbors": [
+   "MW",
+   "ZA",
+   "SZ",
+   "TZ",
+   "ZM",
+   "ZW"
+  ],
+  "callingCode": "+258",
+  "tld": ".mz",
+  "eu": false
+ },
+ {
+  "code": "NA",
+  "ccn3": "516",
+  "name": "Namibia",
+  "slug": "namibia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "NAD",
+    "name": "dolar namibijski",
+    "symbol": "$"
+   },
+   {
+    "code": "ZAR",
+    "name": "rand południowoafrykański",
+    "symbol": "R"
+   }
+  ],
+  "languages": [
+   "afrikaans",
+   "niemiecki",
+   "angielski",
+   "herero",
+   "Khoekhoe",
+   "Kwangali",
+   "lozi",
+   "ndonga",
+   "setswana"
+  ],
+  "latlng": [
+   -22,
+   17
+  ],
+  "area": 825615,
+  "landlocked": false,
+  "neighbors": [
+   "AO",
+   "BW",
+   "ZA",
+   "ZM"
+  ],
+  "callingCode": "+264",
+  "tld": ".na",
+  "eu": false
+ },
+ {
+  "code": "NR",
+  "ccn3": "520",
+  "name": "Nauru",
+  "slug": "nauru",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "AUD",
+    "name": "dolar australijski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "nauruański"
+  ],
+  "latlng": [
+   -0.53333333,
+   166.91666666
+  ],
+  "area": 21,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+674",
+  "tld": ".nr",
+  "eu": false
+ },
+ {
+  "code": "NP",
+  "ccn3": "524",
+  "name": "Nepal",
+  "slug": "nepal",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "NPR",
+    "name": "rupia nepalska",
+    "symbol": "₨"
+   }
+  ],
+  "languages": [
+   "nepalski"
+  ],
+  "latlng": [
+   28,
+   84
+  ],
+  "area": 147181,
+  "landlocked": true,
+  "neighbors": [
+   "CN",
+   "IN"
+  ],
+  "callingCode": "+977",
+  "tld": ".np",
+  "eu": false
+ },
+ {
+  "code": "DE",
+  "ccn3": "276",
+  "name": "Niemcy",
+  "slug": "niemcy",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "niemiecki"
+  ],
+  "latlng": [
+   51,
+   9
+  ],
+  "area": 357114,
+  "landlocked": false,
+  "neighbors": [
+   "AT",
+   "BE",
+   "CZ",
+   "DK",
+   "FR",
+   "LU",
+   "NL",
+   "PL",
+   "CH"
+  ],
+  "callingCode": "+49",
+  "tld": ".de",
+  "eu": true
+ },
+ {
+  "code": "NE",
+  "ccn3": "562",
+  "name": "Niger",
+  "slug": "niger",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   16,
+   8
+  ],
+  "area": 1267000,
+  "landlocked": true,
+  "neighbors": [
+   "DZ",
+   "BJ",
+   "BF",
+   "TD",
+   "LY",
+   "ML",
+   "NG"
+  ],
+  "callingCode": "+227",
+  "tld": ".ne",
+  "eu": false
+ },
+ {
+  "code": "NG",
+  "ccn3": "566",
+  "name": "Nigeria",
+  "slug": "nigeria",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "NGN",
+    "name": "naira nigeryjska",
+    "symbol": "₦"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   10,
+   8
+  ],
+  "area": 923768,
+  "landlocked": false,
+  "neighbors": [
+   "BJ",
+   "CM",
+   "TD",
+   "NE"
+  ],
+  "callingCode": "+234",
+  "tld": ".ng",
+  "eu": false
+ },
+ {
+  "code": "NI",
+  "ccn3": "558",
+  "name": "Nikaragua",
+  "slug": "nikaragua",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "NIO",
+    "name": "cordoba nikaraguańska",
+    "symbol": "C$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   13,
+   -85
+  ],
+  "area": 130373,
+  "landlocked": false,
+  "neighbors": [
+   "CR",
+   "HN"
+  ],
+  "callingCode": "+505",
+  "tld": ".ni",
+  "eu": false
+ },
+ {
+  "code": "NO",
+  "ccn3": "578",
+  "name": "Norwegia",
+  "slug": "norwegia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "NOK",
+    "name": "korona norweska",
+    "symbol": "kr"
+   }
+  ],
+  "languages": [
+   "norweski (nynorsk)",
+   "norweski (bokmål)",
+   "Sami"
+  ],
+  "latlng": [
+   62,
+   10
+  ],
+  "area": 323802,
+  "landlocked": false,
+  "neighbors": [
+   "FI",
+   "SE",
+   "RU"
+  ],
+  "callingCode": "+47",
+  "tld": ".no",
+  "eu": false
+ },
+ {
+  "code": "NC",
+  "ccn3": "540",
+  "name": "Nowa Kaledonia",
+  "slug": "nowa-kaledonia",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "XPF",
+    "name": "frank CFP",
+    "symbol": "₣"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   -21.5,
+   165.5
+  ],
+  "area": 18575,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+687",
+  "tld": ".nc",
+  "eu": false
+ },
+ {
+  "code": "NZ",
+  "ccn3": "554",
+  "name": "Nowa Zelandia",
+  "slug": "nowa-zelandia",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "NZD",
+    "name": "dolar nowozelandzki",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "maoryjski",
+   "New Zealand Sign Language"
+  ],
+  "latlng": [
+   -41,
+   174
+  ],
+  "area": 270467,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+64",
+  "tld": ".nz",
+  "eu": false
+ },
+ {
+  "code": "OM",
+  "ccn3": "512",
+  "name": "Oman",
+  "slug": "oman",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "OMR",
+    "name": "rial omański",
+    "symbol": "ر.ع."
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   21,
+   57
+  ],
+  "area": 309500,
+  "landlocked": false,
+  "neighbors": [
+   "SA",
+   "AE",
+   "YE"
+  ],
+  "callingCode": "+968",
+  "tld": ".om",
+  "eu": false
+ },
+ {
+  "code": "PK",
+  "ccn3": "586",
+  "name": "Pakistan",
+  "slug": "pakistan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "PKR",
+    "name": "rupia pakistańska",
+    "symbol": "₨"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "urdu"
+  ],
+  "latlng": [
+   30,
+   70
+  ],
+  "area": 881912,
+  "landlocked": false,
+  "neighbors": [
+   "AF",
+   "CN",
+   "IN",
+   "IR"
+  ],
+  "callingCode": "+92",
+  "tld": ".pk",
+  "eu": false
+ },
+ {
+  "code": "PW",
+  "ccn3": "585",
+  "name": "Palau",
+  "slug": "palau",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "palau"
+  ],
+  "latlng": [
+   7.5,
+   134.5
+  ],
+  "area": 459,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+680",
+  "tld": ".pw",
+  "eu": false
+ },
+ {
+  "code": "PA",
+  "ccn3": "591",
+  "name": "Panama",
+  "slug": "panama",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "PAB",
+    "name": "balboa panamski",
+    "symbol": "B/."
+   },
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   9,
+   -80
+  ],
+  "area": 75417,
+  "landlocked": false,
+  "neighbors": [
+   "CO",
+   "CR"
+  ],
+  "callingCode": "+507",
+  "tld": ".pa",
+  "eu": false
+ },
+ {
+  "code": "PG",
+  "ccn3": "598",
+  "name": "Papua-Nowa Gwinea",
+  "slug": "papua-nowa-gwinea",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "PGK",
+    "name": "kina papuańska",
+    "symbol": "K"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "hiri motu",
+   "tok pisin"
+  ],
+  "latlng": [
+   -6,
+   147
+  ],
+  "area": 462840,
+  "landlocked": false,
+  "neighbors": [
+   "ID"
+  ],
+  "callingCode": "+675",
+  "tld": ".pg",
+  "eu": false
+ },
+ {
+  "code": "PY",
+  "ccn3": "600",
+  "name": "Paragwaj",
+  "slug": "paragwaj",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "PYG",
+    "name": "guarani paragwajskie",
+    "symbol": "₲"
+   }
+  ],
+  "languages": [
+   "guarani",
+   "hiszpański"
+  ],
+  "latlng": [
+   -23,
+   -58
+  ],
+  "area": 406752,
+  "landlocked": true,
+  "neighbors": [
+   "AR",
+   "BO",
+   "BR"
+  ],
+  "callingCode": "+595",
+  "tld": ".py",
+  "eu": false
+ },
+ {
+  "code": "PE",
+  "ccn3": "604",
+  "name": "Peru",
+  "slug": "peru",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "PEN",
+    "name": "sol peruwiański",
+    "symbol": "S/."
+   }
+  ],
+  "languages": [
+   "ajmara",
+   "keczua",
+   "hiszpański"
+  ],
+  "latlng": [
+   -10,
+   -76
+  ],
+  "area": 1285216,
+  "landlocked": false,
+  "neighbors": [
+   "BO",
+   "BR",
+   "CL",
+   "CO",
+   "EC"
+  ],
+  "callingCode": "+51",
+  "tld": ".pe",
+  "eu": false
+ },
+ {
+  "code": "PF",
+  "ccn3": "258",
+  "name": "Polinezja Francuska",
+  "slug": "polinezja-francuska",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "XPF",
+    "name": "frank CFP",
+    "symbol": "₣"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   -15,
+   -140
+  ],
+  "area": 4167,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+689",
+  "tld": ".pf",
+  "eu": false
+ },
+ {
+  "code": "PR",
+  "ccn3": "630",
+  "name": "Portoryko",
+  "slug": "portoryko",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "hiszpański"
+  ],
+  "latlng": [
+   18.25,
+   -66.5
+  ],
+  "area": 8870,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1",
+  "tld": ".pr",
+  "eu": false
+ },
+ {
+  "code": "PT",
+  "ccn3": "620",
+  "name": "Portugalia",
+  "slug": "portugalia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "portugalski"
+  ],
+  "latlng": [
+   39.5,
+   -8
+  ],
+  "area": 92090,
+  "landlocked": false,
+  "neighbors": [
+   "ES"
+  ],
+  "callingCode": "+351",
+  "tld": ".pt",
+  "eu": true
+ },
+ {
+  "code": "CF",
+  "ccn3": "140",
+  "name": "Republika Środkowoafrykańska",
+  "slug": "republika-srodkowoafrykanska",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XAF",
+    "name": "frank CFA BEAC",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski",
+   "sango"
+  ],
+  "latlng": [
+   7,
+   21
+  ],
+  "area": 622984,
+  "landlocked": true,
+  "neighbors": [
+   "CM",
+   "TD",
+   "CD",
+   "CG",
+   "SS",
+   "SD"
+  ],
+  "callingCode": "+236",
+  "tld": ".cf",
+  "eu": false
+ },
+ {
+  "code": "RE",
+  "ccn3": "638",
+  "name": "Reunion",
+  "slug": "reunion",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   -21.15,
+   55.5
+  ],
+  "area": 2511,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+262",
+  "tld": ".re",
+  "eu": false
+ },
+ {
+  "code": "RU",
+  "ccn3": "643",
+  "name": "Rosja",
+  "slug": "rosja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "RUB",
+    "name": "rubel rosyjski",
+    "symbol": "₽"
+   }
+  ],
+  "languages": [
+   "rosyjski"
+  ],
+  "latlng": [
+   60,
+   100
+  ],
+  "area": 17098242,
+  "landlocked": false,
+  "neighbors": [
+   "AZ",
+   "BY",
+   "CN",
+   "EE",
+   "FI",
+   "GE",
+   "KZ",
+   "KP",
+   "LV",
+   "LT",
+   "MN",
+   "NO",
+   "PL",
+   "UA"
+  ],
+  "callingCode": "+7",
+  "tld": ".ru",
+  "eu": false
+ },
+ {
+  "code": "ZA",
+  "ccn3": "710",
+  "name": "RPA",
+  "slug": "rpa",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "ZAR",
+    "name": "rand południowoafrykański",
+    "symbol": "R"
+   }
+  ],
+  "languages": [
+   "afrikaans",
+   "angielski",
+   "ndebele południowy",
+   "sotho północny",
+   "sotho południowy",
+   "suazi",
+   "setswana",
+   "tsonga",
+   "venda",
+   "khosa",
+   "zulu"
+  ],
+  "latlng": [
+   -29,
+   24
+  ],
+  "area": 1221037,
+  "landlocked": false,
+  "neighbors": [
+   "BW",
+   "LS",
+   "MZ",
+   "NA",
+   "SZ",
+   "ZW"
+  ],
+  "callingCode": "+27",
+  "tld": ".za",
+  "eu": false
+ },
+ {
+  "code": "RO",
+  "ccn3": "642",
+  "name": "Rumunia",
+  "slug": "rumunia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "RON",
+    "name": "lej rumuński",
+    "symbol": "lei"
+   }
+  ],
+  "languages": [
+   "rumuński"
+  ],
+  "latlng": [
+   46,
+   25
+  ],
+  "area": 238391,
+  "landlocked": false,
+  "neighbors": [
+   "BG",
+   "HU",
+   "MD",
+   "RS",
+   "UA"
+  ],
+  "callingCode": "+40",
+  "tld": ".ro",
+  "eu": true
+ },
+ {
+  "code": "RW",
+  "ccn3": "646",
+  "name": "Rwanda",
+  "slug": "rwanda",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "RWF",
+    "name": "frank ruandyjski",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "francuski",
+   "kinya-ruanda"
+  ],
+  "latlng": [
+   -2,
+   30
+  ],
+  "area": 26338,
+  "landlocked": true,
+  "neighbors": [
+   "BI",
+   "CD",
+   "TZ",
+   "UG"
+  ],
+  "callingCode": "+250",
+  "tld": ".rw",
+  "eu": false
+ },
+ {
+  "code": "KN",
+  "ccn3": "659",
+  "name": "Saint Kitts i Nevis",
+  "slug": "saint-kitts-i-nevis",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "XCD",
+    "name": "dolar wschodniokaraibski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   17.33333333,
+   -62.75
+  ],
+  "area": 261,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1869",
+  "tld": ".kn",
+  "eu": false
+ },
+ {
+  "code": "LC",
+  "ccn3": "662",
+  "name": "Saint Lucia",
+  "slug": "saint-lucia",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "XCD",
+    "name": "dolar wschodniokaraibski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   13.88333333,
+   -60.96666666
+  ],
+  "area": 616,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1758",
+  "tld": ".lc",
+  "eu": false
+ },
+ {
+  "code": "VC",
+  "ccn3": "670",
+  "name": "Saint Vincent i Grenadyny",
+  "slug": "saint-vincent-i-grenadyny",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "XCD",
+    "name": "dolar wschodniokaraibski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   13.25,
+   -61.2
+  ],
+  "area": 389,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1784",
+  "tld": ".vc",
+  "eu": false
+ },
+ {
+  "code": "BL",
+  "ccn3": "652",
+  "name": "Saint-Barthélemy",
+  "slug": "saint-barthelemy",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   18.5,
+   -63.41666666
+  ],
+  "area": 21,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+590",
+  "tld": ".bl",
+  "eu": false
+ },
+ {
+  "code": "SV",
+  "ccn3": "222",
+  "name": "Salwador",
+  "slug": "salwador",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   13.83333333,
+   -88.91666666
+  ],
+  "area": 21041,
+  "landlocked": false,
+  "neighbors": [
+   "GT",
+   "HN"
+  ],
+  "callingCode": "+503",
+  "tld": ".sv",
+  "eu": false
+ },
+ {
+  "code": "WS",
+  "ccn3": "882",
+  "name": "Samoa",
+  "slug": "samoa",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "WST",
+    "name": "tala samoańskie",
+    "symbol": "T"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "samoański"
+  ],
+  "latlng": [
+   -13.58333333,
+   -172.33333333
+  ],
+  "area": 2842,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+685",
+  "tld": ".ws",
+  "eu": false
+ },
+ {
+  "code": "SM",
+  "ccn3": "674",
+  "name": "San Marino",
+  "slug": "san-marino",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "włoski"
+  ],
+  "latlng": [
+   43.76666666,
+   12.41666666
+  ],
+  "area": 61,
+  "landlocked": true,
+  "neighbors": [
+   "IT"
+  ],
+  "callingCode": "+378",
+  "tld": ".sm",
+  "eu": false
+ },
+ {
+  "code": "SN",
+  "ccn3": "686",
+  "name": "Senegal",
+  "slug": "senegal",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   14,
+   -14
+  ],
+  "area": 196722,
+  "landlocked": false,
+  "neighbors": [
+   "GM",
+   "GN",
+   "GW",
+   "ML",
+   "MR"
+  ],
+  "callingCode": "+221",
+  "tld": ".sn",
+  "eu": false
+ },
+ {
+  "code": "RS",
+  "ccn3": "688",
+  "name": "Serbia",
+  "slug": "serbia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "RSD",
+    "name": "dinar serbski",
+    "symbol": "дин."
+   }
+  ],
+  "languages": [
+   "serbski"
+  ],
+  "latlng": [
+   44,
+   21
+  ],
+  "area": 88361,
+  "landlocked": true,
+  "neighbors": [
+   "BA",
+   "BG",
+   "HR",
+   "HU",
+   "XK",
+   "MK",
+   "ME",
+   "RO"
+  ],
+  "callingCode": "+381",
+  "tld": ".rs",
+  "eu": false
+ },
+ {
+  "code": "SC",
+  "ccn3": "690",
+  "name": "Seszele",
+  "slug": "seszele",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "SCR",
+    "name": "rupia seszelska",
+    "symbol": "₨"
+   }
+  ],
+  "languages": [
+   "kreolski seszelski",
+   "angielski",
+   "francuski"
+  ],
+  "latlng": [
+   -4.58333333,
+   55.66666666
+  ],
+  "area": 452,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+248",
+  "tld": ".sc",
+  "eu": false
+ },
+ {
+  "code": "SL",
+  "ccn3": "694",
+  "name": "Sierra Leone",
+  "slug": "sierra-leone",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "SLL",
+    "name": "leone sierraleoński (1964-2022)",
+    "symbol": "Le"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   8.5,
+   -11.5
+  ],
+  "area": 71740,
+  "landlocked": false,
+  "neighbors": [
+   "GN",
+   "LR"
+  ],
+  "callingCode": "+232",
+  "tld": ".sl",
+  "eu": false
+ },
+ {
+  "code": "SG",
+  "ccn3": "702",
+  "name": "Singapur",
+  "slug": "singapur",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "SGD",
+    "name": "dolar singapurski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "malajski",
+   "tamilski",
+   "chiński"
+  ],
+  "latlng": [
+   1.36666666,
+   103.8
+  ],
+  "area": 710,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+65",
+  "tld": ".sg",
+  "eu": false
+ },
+ {
+  "code": "SX",
+  "ccn3": "534",
+  "name": "Sint Maarten",
+  "slug": "sint-maarten",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "ANG",
+    "name": "gulden antylski",
+    "symbol": "ƒ"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "francuski",
+   "niderlandzki"
+  ],
+  "latlng": [
+   18.033333,
+   -63.05
+  ],
+  "area": 34,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1721",
+  "tld": ".sx",
+  "eu": false
+ },
+ {
+  "code": "SK",
+  "ccn3": "703",
+  "name": "Słowacja",
+  "slug": "slowacja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "słowacki"
+  ],
+  "latlng": [
+   48.66666666,
+   19.5
+  ],
+  "area": 49037,
+  "landlocked": true,
+  "neighbors": [
+   "AT",
+   "CZ",
+   "HU",
+   "PL",
+   "UA"
+  ],
+  "callingCode": "+421",
+  "tld": ".sk",
+  "eu": true
+ },
+ {
+  "code": "SI",
+  "ccn3": "705",
+  "name": "Słowenia",
+  "slug": "slowenia",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "słoweński"
+  ],
+  "latlng": [
+   46.11666666,
+   14.81666666
+  ],
+  "area": 20273,
+  "landlocked": false,
+  "neighbors": [
+   "AT",
+   "HR",
+   "IT",
+   "HU"
+  ],
+  "callingCode": "+386",
+  "tld": ".si",
+  "eu": true
+ },
+ {
+  "code": "SO",
+  "ccn3": "706",
+  "name": "Somalia",
+  "slug": "somalia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "SOS",
+    "name": "szyling somalijski",
+    "symbol": "Sh"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "somalijski"
+  ],
+  "latlng": [
+   10,
+   49
+  ],
+  "area": 637657,
+  "landlocked": false,
+  "neighbors": [
+   "DJ",
+   "ET",
+   "KE"
+  ],
+  "callingCode": "+252",
+  "tld": ".so",
+  "eu": false
+ },
+ {
+  "code": "LK",
+  "ccn3": "144",
+  "name": "Sri Lanka",
+  "slug": "sri-lanka",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "LKR",
+    "name": "rupia lankijska",
+    "symbol": "Rs  රු"
+   }
+  ],
+  "languages": [
+   "syngaleski",
+   "tamilski"
+  ],
+  "latlng": [
+   7,
+   81
+  ],
+  "area": 65610,
+  "landlocked": false,
+  "neighbors": [
+   "IN"
+  ],
+  "callingCode": "+94",
+  "tld": ".lk",
+  "eu": false
+ },
+ {
+  "code": "SD",
+  "ccn3": "729",
+  "name": "Sudan",
+  "slug": "sudan",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "SDG",
+    "name": "funt sudański",
+    "symbol": "PT"
+   }
+  ],
+  "languages": [
+   "arabski",
+   "angielski"
+  ],
+  "latlng": [
+   15,
+   30
+  ],
+  "area": 1886068,
+  "landlocked": false,
+  "neighbors": [
+   "CF",
+   "TD",
+   "EG",
+   "ER",
+   "ET",
+   "LY",
+   "SS"
+  ],
+  "callingCode": "+249",
+  "tld": ".sd",
+  "eu": false
+ },
+ {
+  "code": "SS",
+  "ccn3": "728",
+  "name": "Sudan Południowy",
+  "slug": "sudan-poludniowy",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "SSP",
+    "name": "funt południowosudański",
+    "symbol": "£"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   7,
+   30
+  ],
+  "area": 619745,
+  "landlocked": true,
+  "neighbors": [
+   "CF",
+   "CD",
+   "ET",
+   "KE",
+   "SD",
+   "UG"
+  ],
+  "callingCode": "+211",
+  "tld": ".ss",
+  "eu": false
+ },
+ {
+  "code": "SR",
+  "ccn3": "740",
+  "name": "Surinam",
+  "slug": "surinam",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "SRD",
+    "name": "dolar surinamski",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "niderlandzki"
+  ],
+  "latlng": [
+   4,
+   -56
+  ],
+  "area": 163820,
+  "landlocked": false,
+  "neighbors": [
+   "BR",
+   "GY"
+  ],
+  "callingCode": "+597",
+  "tld": ".sr",
+  "eu": false
+ },
+ {
+  "code": "SY",
+  "ccn3": "760",
+  "name": "Syria",
+  "slug": "syria",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "SYP",
+    "name": "funt syryjski",
+    "symbol": "£"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   35,
+   38
+  ],
+  "area": 185180,
+  "landlocked": false,
+  "neighbors": [
+   "IQ",
+   "IL",
+   "JO",
+   "LB",
+   "TR"
+  ],
+  "callingCode": "+963",
+  "tld": ".sy",
+  "eu": false
+ },
+ {
+  "code": "CH",
+  "ccn3": "756",
+  "name": "Szwajcaria",
+  "slug": "szwajcaria",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "CHF",
+    "name": "frank szwajcarski",
+    "symbol": "Fr."
+   }
+  ],
+  "languages": [
+   "francuski",
+   "szwajcarski niemiecki",
+   "włoski",
+   "retoromański"
+  ],
+  "latlng": [
+   47,
+   8
+  ],
+  "area": 41284,
+  "landlocked": true,
+  "neighbors": [
+   "AT",
+   "FR",
+   "IT",
+   "LI",
+   "DE"
+  ],
+  "callingCode": "+41",
+  "tld": ".ch",
+  "eu": false
+ },
+ {
+  "code": "SE",
+  "ccn3": "752",
+  "name": "Szwecja",
+  "slug": "szwecja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "SEK",
+    "name": "korona szwedzka",
+    "symbol": "kr"
+   }
+  ],
+  "languages": [
+   "szwedzki"
+  ],
+  "latlng": [
+   62,
+   15
+  ],
+  "area": 450295,
+  "landlocked": false,
+  "neighbors": [
+   "FI",
+   "NO"
+  ],
+  "callingCode": "+46",
+  "tld": ".se",
+  "eu": true
+ },
+ {
+  "code": "TJ",
+  "ccn3": "762",
+  "name": "Tadżykistan",
+  "slug": "tadzykistan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "TJS",
+    "name": "somoni tadżyckie",
+    "symbol": "ЅМ"
+   }
+  ],
+  "languages": [
+   "rosyjski",
+   "tadżycki"
+  ],
+  "latlng": [
+   39,
+   71
+  ],
+  "area": 143100,
+  "landlocked": true,
+  "neighbors": [
+   "AF",
+   "CN",
+   "KG",
+   "UZ"
+  ],
+  "callingCode": "+992",
+  "tld": ".tj",
+  "eu": false
+ },
+ {
+  "code": "TH",
+  "ccn3": "764",
+  "name": "Tajlandia",
+  "slug": "tajlandia",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "THB",
+    "name": "baht tajski",
+    "symbol": "฿"
+   }
+  ],
+  "languages": [
+   "tajski"
+  ],
+  "latlng": [
+   15,
+   100
+  ],
+  "area": 513120,
+  "landlocked": false,
+  "neighbors": [
+   "MM",
+   "KH",
+   "LA",
+   "MY"
+  ],
+  "callingCode": "+66",
+  "tld": ".th",
+  "eu": false
+ },
+ {
+  "code": "TW",
+  "ccn3": "158",
+  "name": "Tajwan",
+  "slug": "tajwan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "TWD",
+    "name": "nowy dolar tajwański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "chiński"
+  ],
+  "latlng": [
+   23.5,
+   121
+  ],
+  "area": 36193,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+886",
+  "tld": ".tw",
+  "eu": false
+ },
+ {
+  "code": "TZ",
+  "ccn3": "834",
+  "name": "Tanzania",
+  "slug": "tanzania",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "TZS",
+    "name": "szyling tanzański",
+    "symbol": "Sh"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "suahili"
+  ],
+  "latlng": [
+   -6,
+   35
+  ],
+  "area": 945087,
+  "landlocked": false,
+  "neighbors": [
+   "BI",
+   "CD",
+   "KE",
+   "MW",
+   "MZ",
+   "RW",
+   "UG",
+   "ZM"
+  ],
+  "callingCode": "+255",
+  "tld": ".tz",
+  "eu": false
+ },
+ {
+  "code": "TL",
+  "ccn3": "626",
+  "name": "Timor Wschodni",
+  "slug": "timor-wschodni",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "portugalski",
+   "tetum"
+  ],
+  "latlng": [
+   -8.83333333,
+   125.91666666
+  ],
+  "area": 14874,
+  "landlocked": false,
+  "neighbors": [
+   "ID"
+  ],
+  "callingCode": "+670",
+  "tld": ".tl",
+  "eu": false
+ },
+ {
+  "code": "TG",
+  "ccn3": "768",
+  "name": "Togo",
+  "slug": "togo",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   8,
+   1.16666666
+  ],
+  "area": 56785,
+  "landlocked": false,
+  "neighbors": [
+   "BJ",
+   "BF",
+   "GH"
+  ],
+  "callingCode": "+228",
+  "tld": ".tg",
+  "eu": false
+ },
+ {
+  "code": "TO",
+  "ccn3": "776",
+  "name": "Tonga",
+  "slug": "tonga",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "TOP",
+    "name": "pa’anga tongijska",
+    "symbol": "T$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "tonga"
+  ],
+  "latlng": [
+   -20,
+   -175
+  ],
+  "area": 747,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+676",
+  "tld": ".to",
+  "eu": false
+ },
+ {
+  "code": "TT",
+  "ccn3": "780",
+  "name": "Trynidad i Tobago",
+  "slug": "trynidad-i-tobago",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "TTD",
+    "name": "dolar trynidadzki",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   11,
+   -61
+  ],
+  "area": 5130,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1868",
+  "tld": ".tt",
+  "eu": false
+ },
+ {
+  "code": "TN",
+  "ccn3": "788",
+  "name": "Tunezja",
+  "slug": "tunezja",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "TND",
+    "name": "dinar tunezyjski",
+    "symbol": "د.ت"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   34,
+   9
+  ],
+  "area": 163610,
+  "landlocked": false,
+  "neighbors": [
+   "DZ",
+   "LY"
+  ],
+  "callingCode": "+216",
+  "tld": ".tn",
+  "eu": false
+ },
+ {
+  "code": "TR",
+  "ccn3": "792",
+  "name": "Turcja",
+  "slug": "turcja",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "TRY",
+    "name": "lira turecka",
+    "symbol": "₺"
+   }
+  ],
+  "languages": [
+   "turecki"
+  ],
+  "latlng": [
+   39,
+   35
+  ],
+  "area": 783562,
+  "landlocked": false,
+  "neighbors": [
+   "AM",
+   "AZ",
+   "BG",
+   "GE",
+   "GR",
+   "IR",
+   "IQ",
+   "SY"
+  ],
+  "callingCode": "+90",
+  "tld": ".tr",
+  "eu": false
+ },
+ {
+  "code": "TM",
+  "ccn3": "795",
+  "name": "Turkmenistan",
+  "slug": "turkmenistan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "TMT",
+    "name": "manat turkmeński",
+    "symbol": "m"
+   }
+  ],
+  "languages": [
+   "rosyjski",
+   "turkmeński"
+  ],
+  "latlng": [
+   40,
+   60
+  ],
+  "area": 488100,
+  "landlocked": true,
+  "neighbors": [
+   "AF",
+   "IR",
+   "KZ",
+   "UZ"
+  ],
+  "callingCode": "+993",
+  "tld": ".tm",
+  "eu": false
+ },
+ {
+  "code": "TC",
+  "ccn3": "796",
+  "name": "Turks i Caicos",
+  "slug": "turks-i-caicos",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   21.75,
+   -71.58333333
+  ],
+  "area": 948,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1649",
+  "tld": ".tc",
+  "eu": false
+ },
+ {
+  "code": "TV",
+  "ccn3": "798",
+  "name": "Tuvalu",
+  "slug": "tuvalu",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "AUD",
+    "name": "dolar australijski",
+    "symbol": "$"
+   },
+   {
+    "code": "TVD",
+    "name": "TVD",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "tuvalu"
+  ],
+  "latlng": [
+   -8,
+   178
+  ],
+  "area": 26,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+688",
+  "tld": ".tv",
+  "eu": false
+ },
+ {
+  "code": "UG",
+  "ccn3": "800",
+  "name": "Uganda",
+  "slug": "uganda",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "UGX",
+    "name": "szyling ugandyjski",
+    "symbol": "Sh"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "suahili"
+  ],
+  "latlng": [
+   1,
+   32
+  ],
+  "area": 241550,
+  "landlocked": true,
+  "neighbors": [
+   "CD",
+   "KE",
+   "RW",
+   "SS",
+   "TZ"
+  ],
+  "callingCode": "+256",
+  "tld": ".ug",
+  "eu": false
+ },
+ {
+  "code": "UA",
+  "ccn3": "804",
+  "name": "Ukraina",
+  "slug": "ukraina",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "UAH",
+    "name": "hrywna ukraińska",
+    "symbol": "₴"
+   }
+  ],
+  "languages": [
+   "ukraiński"
+  ],
+  "latlng": [
+   49,
+   32
+  ],
+  "area": 603500,
+  "landlocked": false,
+  "neighbors": [
+   "BY",
+   "HU",
+   "MD",
+   "PL",
+   "RO",
+   "RU",
+   "SK"
+  ],
+  "callingCode": "+380",
+  "tld": ".ua",
+  "eu": false
+ },
+ {
+  "code": "UY",
+  "ccn3": "858",
+  "name": "Urugwaj",
+  "slug": "urugwaj",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "UYU",
+    "name": "peso urugwajskie",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   -33,
+   -56
+  ],
+  "area": 181034,
+  "landlocked": false,
+  "neighbors": [
+   "AR",
+   "BR"
+  ],
+  "callingCode": "+598",
+  "tld": ".uy",
+  "eu": false
+ },
+ {
+  "code": "US",
+  "ccn3": "840",
+  "name": "USA",
+  "slug": "usa",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   38,
+   -97
+  ],
+  "area": 9372610,
+  "landlocked": false,
+  "neighbors": [
+   "CA",
+   "MX"
+  ],
+  "callingCode": "+1",
+  "tld": ".us",
+  "eu": false
+ },
+ {
+  "code": "UZ",
+  "ccn3": "860",
+  "name": "Uzbekistan",
+  "slug": "uzbekistan",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "UZS",
+    "name": "som uzbecki",
+    "symbol": "so'm"
+   }
+  ],
+  "languages": [
+   "rosyjski",
+   "uzbecki"
+  ],
+  "latlng": [
+   41,
+   64
+  ],
+  "area": 447400,
+  "landlocked": true,
+  "neighbors": [
+   "AF",
+   "KZ",
+   "KG",
+   "TJ",
+   "TM"
+  ],
+  "callingCode": "+998",
+  "tld": ".uz",
+  "eu": false
+ },
+ {
+  "code": "VU",
+  "ccn3": "548",
+  "name": "Vanuatu",
+  "slug": "vanuatu",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "VUV",
+    "name": "vatu wanuackie",
+    "symbol": "Vt"
+   }
+  ],
+  "languages": [
+   "bislama",
+   "angielski",
+   "francuski"
+  ],
+  "latlng": [
+   -16,
+   167
+  ],
+  "area": 12189,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+678",
+  "tld": ".vu",
+  "eu": false
+ },
+ {
+  "code": "VA",
+  "ccn3": "336",
+  "name": "Watykan",
+  "slug": "watykan",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "włoski",
+   "łaciński"
+  ],
+  "latlng": [
+   41.9,
+   12.45
+  ],
+  "area": 0.44,
+  "landlocked": true,
+  "neighbors": [
+   "IT"
+  ],
+  "callingCode": "+3",
+  "tld": ".va",
+  "eu": false
+ },
+ {
+  "code": "VE",
+  "ccn3": "862",
+  "name": "Wenezuela",
+  "slug": "wenezuela",
+  "continent": "ameryka-poludniowa",
+  "currencies": [
+   {
+    "code": "VES",
+    "name": "boliwar wenezuelski",
+    "symbol": "Bs.S."
+   }
+  ],
+  "languages": [
+   "hiszpański"
+  ],
+  "latlng": [
+   8,
+   -66
+  ],
+  "area": 916445,
+  "landlocked": false,
+  "neighbors": [
+   "BR",
+   "CO",
+   "GY"
+  ],
+  "callingCode": "+58",
+  "tld": ".ve",
+  "eu": false
+ },
+ {
+  "code": "HU",
+  "ccn3": "348",
+  "name": "Węgry",
+  "slug": "wegry",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "HUF",
+    "name": "forint węgierski",
+    "symbol": "Ft"
+   }
+  ],
+  "languages": [
+   "węgierski"
+  ],
+  "latlng": [
+   47,
+   20
+  ],
+  "area": 93028,
+  "landlocked": true,
+  "neighbors": [
+   "AT",
+   "HR",
+   "RO",
+   "RS",
+   "SK",
+   "SI",
+   "UA"
+  ],
+  "callingCode": "+36",
+  "tld": ".hu",
+  "eu": true
+ },
+ {
+  "code": "GB",
+  "ccn3": "826",
+  "name": "Wielka Brytania",
+  "slug": "wielka-brytania",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "GBP",
+    "name": "funt szterling",
+    "symbol": "£"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   54,
+   -2
+  ],
+  "area": 242900,
+  "landlocked": false,
+  "neighbors": [
+   "IE"
+  ],
+  "callingCode": "+44",
+  "tld": ".uk",
+  "eu": false
+ },
+ {
+  "code": "VN",
+  "ccn3": "704",
+  "name": "Wietnam",
+  "slug": "wietnam",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "VND",
+    "name": "dong wietnamski",
+    "symbol": "₫"
+   }
+  ],
+  "languages": [
+   "wietnamski"
+  ],
+  "latlng": [
+   16.16666666,
+   107.83333333
+  ],
+  "area": 331212,
+  "landlocked": false,
+  "neighbors": [
+   "KH",
+   "CN",
+   "LA"
+  ],
+  "callingCode": "+84",
+  "tld": ".vn",
+  "eu": false
+ },
+ {
+  "code": "IT",
+  "ccn3": "380",
+  "name": "Włochy",
+  "slug": "wlochy",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   }
+  ],
+  "languages": [
+   "włoski"
+  ],
+  "latlng": [
+   42.83333333,
+   12.83333333
+  ],
+  "area": 301336,
+  "landlocked": false,
+  "neighbors": [
+   "AT",
+   "FR",
+   "SM",
+   "SI",
+   "CH",
+   "VA"
+  ],
+  "callingCode": "+39",
+  "tld": ".it",
+  "eu": true
+ },
+ {
+  "code": "CI",
+  "ccn3": "384",
+  "name": "Wybrzeże Kości Słoniowej",
+  "slug": "wybrzeze-kosci-sloniowej",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "XOF",
+    "name": "frank CFA",
+    "symbol": "Fr"
+   }
+  ],
+  "languages": [
+   "francuski"
+  ],
+  "latlng": [
+   8,
+   -5
+  ],
+  "area": 322463,
+  "landlocked": false,
+  "neighbors": [
+   "BF",
+   "GH",
+   "GN",
+   "LR",
+   "ML"
+  ],
+  "callingCode": "+225",
+  "tld": ".ci",
+  "eu": false
+ },
+ {
+  "code": "VI",
+  "ccn3": "850",
+  "name": "Wyspy Dziewicze USA",
+  "slug": "wyspy-dziewicze-usa",
+  "continent": "ameryka-polnocna",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   18.35,
+   -64.933333
+  ],
+  "area": 347,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+1340",
+  "tld": ".vi",
+  "eu": false
+ },
+ {
+  "code": "MH",
+  "ccn3": "584",
+  "name": "Wyspy Marshalla",
+  "slug": "wyspy-marshalla",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski",
+   "marszalski"
+  ],
+  "latlng": [
+   9,
+   168
+  ],
+  "area": 181,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+692",
+  "tld": ".mh",
+  "eu": false
+ },
+ {
+  "code": "FO",
+  "ccn3": "234",
+  "name": "Wyspy Owcze",
+  "slug": "wyspy-owcze",
+  "continent": "europa",
+  "currencies": [
+   {
+    "code": "DKK",
+    "name": "korona duńska",
+    "symbol": "kr"
+   },
+   {
+    "code": "FOK",
+    "name": "FOK",
+    "symbol": "kr"
+   }
+  ],
+  "languages": [
+   "duński",
+   "farerski"
+  ],
+  "latlng": [
+   62,
+   -7
+  ],
+  "area": 1393,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+298",
+  "tld": ".fo",
+  "eu": false
+ },
+ {
+  "code": "SB",
+  "ccn3": "090",
+  "name": "Wyspy Salomona",
+  "slug": "wyspy-salomona",
+  "continent": "australia-i-oceania",
+  "currencies": [
+   {
+    "code": "SBD",
+    "name": "dolar Wysp Salomona",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   -8,
+   159
+  ],
+  "area": 28896,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+677",
+  "tld": ".sb",
+  "eu": false
+ },
+ {
+  "code": "ST",
+  "ccn3": "678",
+  "name": "Wyspy Świętego Tomasza i Książęca",
+  "slug": "wyspy-swietego-tomasza-i-ksiazeca",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "STN",
+    "name": "dobra Wysp Świętego Tomasza i Książęcej",
+    "symbol": "Db"
+   }
+  ],
+  "languages": [
+   "portugalski"
+  ],
+  "latlng": [
+   1,
+   7
+  ],
+  "area": 964,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+239",
+  "tld": ".st",
+  "eu": false
+ },
+ {
+  "code": "CV",
+  "ccn3": "132",
+  "name": "Wyspy Zielonego Przylądka",
+  "slug": "wyspy-zielonego-przyladka",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "CVE",
+    "name": "escudo zielonoprzylądkowe",
+    "symbol": "Esc"
+   }
+  ],
+  "languages": [
+   "portugalski"
+  ],
+  "latlng": [
+   16,
+   -24
+  ],
+  "area": 4033,
+  "landlocked": false,
+  "neighbors": [],
+  "callingCode": "+238",
+  "tld": ".cv",
+  "eu": false
+ },
+ {
+  "code": "ZM",
+  "ccn3": "894",
+  "name": "Zambia",
+  "slug": "zambia",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "ZMW",
+    "name": "kwacha zambijska",
+    "symbol": "ZK"
+   }
+  ],
+  "languages": [
+   "angielski"
+  ],
+  "latlng": [
+   -15,
+   30
+  ],
+  "area": 752612,
+  "landlocked": true,
+  "neighbors": [
+   "AO",
+   "BW",
+   "CD",
+   "MW",
+   "MZ",
+   "NA",
+   "TZ",
+   "ZW"
+  ],
+  "callingCode": "+260",
+  "tld": ".zm",
+  "eu": false
+ },
+ {
+  "code": "ZW",
+  "ccn3": "716",
+  "name": "Zimbabwe",
+  "slug": "zimbabwe",
+  "continent": "afryka",
+  "currencies": [
+   {
+    "code": "BWP",
+    "name": "pula botswańska",
+    "symbol": "P"
+   },
+   {
+    "code": "CNY",
+    "name": "juan chiński",
+    "symbol": "¥"
+   },
+   {
+    "code": "EUR",
+    "name": "euro",
+    "symbol": "€"
+   },
+   {
+    "code": "GBP",
+    "name": "funt szterling",
+    "symbol": "£"
+   },
+   {
+    "code": "INR",
+    "name": "rupia indyjska",
+    "symbol": "₹"
+   },
+   {
+    "code": "JPY",
+    "name": "jen japoński",
+    "symbol": "¥"
+   },
+   {
+    "code": "USD",
+    "name": "dolar amerykański",
+    "symbol": "$"
+   },
+   {
+    "code": "ZAR",
+    "name": "rand południowoafrykański",
+    "symbol": "Rs"
+   },
+   {
+    "code": "ZWB",
+    "name": "ZWB",
+    "symbol": "$"
+   }
+  ],
+  "languages": [
+   "Chibarwe",
+   "angielski",
+   "Kalanga",
+   "Khoisan",
+   "Ndau",
+   "ndebele północny",
+   "njandża",
+   "shona",
+   "sotho południowy",
+   "Tonga",
+   "setswana",
+   "tsonga",
+   "venda",
+   "khosa",
+   "Zimbabwean Sign Language"
+  ],
+  "latlng": [
+   -20,
+   30
+  ],
+  "area": 390757,
+  "landlocked": true,
+  "neighbors": [
+   "BW",
+   "MZ",
+   "ZA",
+   "ZM"
+  ],
+  "callingCode": "+263",
+  "tld": ".zw",
+  "eu": false
+ },
+ {
+  "code": "AE",
+  "ccn3": "784",
+  "name": "Zjednoczone Emiraty Arabskie",
+  "slug": "zjednoczone-emiraty-arabskie",
+  "continent": "azja",
+  "currencies": [
+   {
+    "code": "AED",
+    "name": "dirham ZEA",
+    "symbol": "د.إ"
+   }
+  ],
+  "languages": [
+   "arabski"
+  ],
+  "latlng": [
+   24,
+   54
+  ],
+  "area": 83600,
+  "landlocked": false,
+  "neighbors": [
+   "OM",
+   "SA"
+  ],
+  "callingCode": "+971",
+  "tld": ".ae",
+  "eu": false
+ }
+]

@@ -1,0 +1,226 @@
+{
+  "slug": "wlochy",
+  "loc": "we Włoszech",
+  "to": "do Włoch",
+  "capital": "Rzym",
+  "popularity": 85,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Włochy",
+  "teaser": "Sycylia, Sardynia, Kalabria i Apulia na plażę, Rzym, Florencja i Wenecja na zwiedzanie. Najsmaczniejsze wakacje w Europie.",
+  "intro": [
+    "Włochy to kraj, w którym wakacje na plaży niemal zawsze łączą się z czymś więcej: zabytkiem, miasteczkiem na wzgórzu albo kolacją, którą pamięta się latami. Biura podróży najczęściej oferują Sycylię, Sardynię, Kalabrię i Apulię, czyli południe z najcieplejszym morzem i najdłuższym sezonem.",
+    "Na zwiedzanie najlepiej wybrać się do Rzymu, Florencji, Wenecji czy Neapolu, a połączenie kilku dni w mieście z tygodniem nad morzem to klasyk włoskich wakacji. Lot trwa około dwóch godzin, a tanie linie latają z Polski do kilkunastu włoskich lotnisk."
+  ],
+  "highlights": [
+    "Sycylia i Sardynia z najpiękniejszymi plażami Morza Śródziemnego",
+    "Rzym, Florencja, Wenecja i Neapol",
+    "Najlepsza kuchnia na świecie według wielu podróżników",
+    "Wulkany Etna i Wezuwiusz, Pompeje",
+    "Wystarczy dowód osobisty",
+    "Tanie loty z wielu polskich miast"
+  ],
+  "bestTime": {
+    "text": "Na wypoczynek na południu Włoch najlepsze są czerwiec i wrzesień. W lipcu i sierpniu jest bardzo gorąco, a Włosi masowo wyjeżdżają nad morze, co podnosi ceny. Na zwiedzanie miast idealne są kwiecień, maj i październik.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      15,
+      15,
+      17,
+      20,
+      24,
+      28,
+      31,
+      31,
+      28,
+      24,
+      20,
+      16
+    ],
+    "sea": [
+      15,
+      14,
+      15,
+      16,
+      19,
+      23,
+      26,
+      27,
+      25,
+      22,
+      19,
+      17
+    ],
+    "note": "Dane dla Sycylii (Katania). Na Sardynii jest podobnie, w Rzymie latem zbliżone temperatury powietrza."
+  },
+  "practical": {
+    "flight": "2 do 2,5 h",
+    "timeDiff": "0 h",
+    "documents": "Włochy są w Unii Europejskiej i strefie Schengen. Wystarczy dowód osobisty lub paszport.",
+    "money": "Walutą jest euro. W restauracjach doliczana jest często opłata coperto za nakrycie. Kawa przy barze jest tańsza niż przy stoliku.",
+    "plugs": "Gniazdka typu C, F i L. Polskie płaskie wtyczki pasują, do grubych przyda się przejściówka.",
+    "language": "Językiem urzędowym jest włoski. Na południu angielski jest mniej powszechny niż na północy.",
+    "safety": "Włochy są bezpieczne. W Rzymie, Neapolu i Mediolanie uważaj na kieszonkowców w komunikacji i przy zabytkach."
+  },
+  "regions": [
+    {
+      "slug": "sycylia",
+      "name": "Sycylia",
+      "loc": "na Sycylii",
+      "type": "wyspa",
+      "wakacjePath": "sycylia",
+      "gygQuery": "Sycylia",
+      "airport": "Katania (CTA), Palermo (PMO)",
+      "forWhom": "Etna, Taormina, greckie świątynie i barokowe miasta. Największa wyspa Morza Śródziemnego.",
+      "intro": [
+        "Sycylia to wyspa kontrastów: z jednej strony czynna Etna i dzikie wybrzeża, z drugiej barokowe miasta Noto i Ragusa, greckie świątynie w Agrigento i elegancka Taormina z teatrem nad morzem.",
+        "Hotele biur podróży skupiają się na wschodnim wybrzeżu, wokół Taorminy, Giardini Naxos i Katanii, a także na zachodzie w okolicach Cefalù i Trapani."
+      ],
+      "highlights": [
+        "Wejście na Etnę",
+        "Taormina",
+        "Dolina Świątyń w Agrigento",
+        "Cefalù"
+      ]
+    },
+    {
+      "slug": "sardynia",
+      "name": "Sardynia",
+      "loc": "na Sardynii",
+      "type": "wyspa",
+      "wakacjePath": "sardynia",
+      "gygQuery": "Sardynia",
+      "airport": "Olbia (OLB), Cagliari (CAG)",
+      "forWhom": "Karaibskie plaże w Europie: Costa Smeralda, La Maddalena i turkusowa woda.",
+      "intro": [
+        "Sardynia ma jedne z najpiękniejszych plaż w Europie, z białym piaskiem i wodą w kolorze lazuru. Costa Smeralda na północnym wschodzie słynie z luksusowych kurortów, a archipelag La Maddalena z rejsów od zatoczki do zatoczki.",
+        "Południe wyspy wokół Cagliari i Villasimius ma długie plaże i flamingi w lagunach."
+      ],
+      "highlights": [
+        "Archipelag La Maddalena",
+        "Costa Smeralda",
+        "Plaża La Pelosa",
+        "Nuragi, prehistoryczne wieże"
+      ]
+    },
+    {
+      "slug": "kalabria",
+      "name": "Kalabria",
+      "loc": "w Kalabrii",
+      "type": "region",
+      "wakacjePath": "kalabria",
+      "gygQuery": "Tropea",
+      "airport": "Lamezia Terme (SUF)",
+      "forWhom": "Tropea na klifie, Capo Vaticano i niskie ceny na czubku włoskiego buta.",
+      "intro": [
+        "Kalabria to czubek włoskiego buta, z dzikimi plażami i krystalicznie czystym Morzem Tyrreńskim. Najsłynniejsza jest Tropea, miasteczko na klifie z kościołem na skale nad plażą.",
+        "Kalabria jest tańsza od Sycylii i Sardynii, a z regionu można popłynąć na Wyspy Liparyjskie z wulkanem Stromboli."
+      ],
+      "highlights": [
+        "Tropea",
+        "Capo Vaticano",
+        "Rejs na Stromboli",
+        "Scilla"
+      ]
+    },
+    {
+      "slug": "apulia",
+      "name": "Apulia",
+      "loc": "w Apulii",
+      "type": "region",
+      "wakacjePath": "apulia",
+      "gygQuery": "Apulia",
+      "airport": "Bari (BRI), Brindisi (BDS)",
+      "forWhom": "Trulli w Alberobello, białe Ostuni, Polignano a Mare i oliwki po horyzont.",
+      "intro": [
+        "Apulia to obcas włoskiego buta i jeden z najmodniejszych regionów ostatnich lat. Słynie z domków trulli w Alberobello, białego miasta Ostuni i Polignano a Mare z plażą wciśniętą między klify.",
+        "Salento na południu ma piaszczyste plaże z wodą jak na Karaibach, a barokowe Lecce nazywane jest Florencją Południa."
+      ],
+      "highlights": [
+        "Alberobello",
+        "Polignano a Mare",
+        "Lecce",
+        "Plaże Salento"
+      ]
+    },
+    {
+      "slug": "rzym",
+      "name": "Rzym",
+      "loc": "w Rzymie",
+      "type": "miasto",
+      "gygQuery": "Rzym",
+      "airport": "Rzym Fiumicino (FCO), Ciampino (CIA)",
+      "forWhom": "Wieczne Miasto: Koloseum, Watykan i fontanny. Minimum trzy dni.",
+      "intro": [
+        "Rzym to jedno z najważniejszych miast świata dla historii i kultury. Koloseum, Forum Romanum, Panteon, Fontanna di Trevi i Schody Hiszpańskie leżą w odległości spaceru, a Watykan z Bazyliką Świętego Piotra i Kaplicą Sykstyńską to osobny dzień zwiedzania.",
+        "Bilety do Koloseum i Muzeów Watykańskich warto kupić z wyprzedzeniem, bo w sezonie kolejki są bardzo długie."
+      ],
+      "highlights": [
+        "Koloseum i Forum",
+        "Muzea Watykańskie",
+        "Panteon",
+        "Zatybrze wieczorem"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Koloseum",
+      "text": "Największy amfiteatr starożytnego Rzymu. Bilet obejmuje też Forum Romanum i Palatyn.",
+      "gygQuery": "Colosseum tickets"
+    },
+    {
+      "name": "Muzea Watykańskie i Kaplica Sykstyńska",
+      "text": "Jedna z największych kolekcji sztuki na świecie z freskami Michała Anioła.",
+      "gygQuery": "Vatican Museums"
+    },
+    {
+      "name": "Etna",
+      "text": "Najwyższy czynny wulkan Europy. Wjazd kolejką i jeepami do kraterów na wysokości ok. 2900 m.",
+      "gygQuery": "Etna"
+    },
+    {
+      "name": "Pompeje",
+      "text": "Rzymskie miasto zasypane przez Wezuwiusza w 79 roku, zachowane jak w kapsule czasu.",
+      "gygQuery": "Pompeii"
+    },
+    {
+      "name": "Wybrzeże Amalfi",
+      "text": "Kolorowe miasteczka Positano i Amalfi na klifach nad morzem.",
+      "gygQuery": "Amalfi Coast"
+    },
+    {
+      "name": "Wenecja",
+      "text": "Miasto na wodzie z Placem Świętego Marka i Canal Grande.",
+      "gygQuery": "Venice"
+    }
+  ],
+  "cuisine": [
+    "Włochy to raj dla smakoszy. Na Sycylii jedz arancini, caponatę i cannoli, w Neapolu prawdziwą pizzę, w Rzymie carbonarę i cacio e pepe, w Apulii orecchiette. Śniadanie to cornetto i cappuccino przy barze, a wieczorem aperitivo ze spritzem."
+  ],
+  "faq": [
+    {
+      "q": "Gdzie we Włoszech są najlepsze plaże?",
+      "a": "Na Sardynii (La Maddalena, La Pelosa, Costa Smeralda), w Salento w Apulii, w Kalabrii w okolicach Tropei oraz na Sycylii, np. San Vito Lo Capo."
+    },
+    {
+      "q": "Sycylia czy Sardynia?",
+      "a": "Sardynia ma piękniejsze plaże i wodę, Sycylia więcej zabytków, Etnę i ciekawsze miasta. Na plażowanie Sardynia, na zwiedzanie z plażą Sycylia."
+    },
+    {
+      "q": "Czy do Włoch wystarczy dowód osobisty?",
+      "a": "Tak, Włochy są w Unii Europejskiej i strefie Schengen."
+    }
+  ]
+}

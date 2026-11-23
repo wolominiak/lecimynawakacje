@@ -1,0 +1,142 @@
+{
+  "slug": "malta",
+  "loc": "na Malcie",
+  "to": "na Maltę",
+  "capital": "Valletta",
+  "popularity": 72,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Malta",
+  "teaser": "Mała wyspa z wielką historią: Valletta, Błękitna Laguna na Comino, Gozo i ciepłe morze przez pół roku.",
+  "intro": [
+    "Malta to jedno z najmniejszych państw Unii Europejskiej, ale na niewielkiej powierzchni mieści zaskakująco dużo: barokową stolicę Vallettę wpisaną w całości na listę UNESCO, megalityczne świątynie starsze od piramid, średniowieczną Mdinę i turkusową Błękitną Lagunę na wysepce Comino.",
+    "Na Malcie mówi się po angielsku, jeździ lewą stroną drogi, a wyspa jest popularna także wśród osób, które łączą wakacje z kursem językowym. Plaże są głównie skaliste, z kilkoma piaszczystymi zatokami, za to woda jest wyjątkowo czysta i przejrzysta."
+  ],
+  "highlights": [
+    "Valletta w całości na liście UNESCO",
+    "Błękitna Laguna na Comino",
+    "Angielski jako język urzędowy",
+    "Sezon kąpielowy od czerwca do października",
+    "Gozo, spokojniejsza siostrzana wyspa",
+    "Lot około 3 godzin"
+  ],
+  "bestTime": {
+    "text": "Na plażowanie najlepiej jechać na Maltę od czerwca do października. Wrzesień jest idealny: woda jest najcieplejsza, a upał mniejszy. Wiosna i późna jesień to świetny czas na zwiedzanie, a zimą jest około 16 stopni.",
+    "best": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      5
+    ]
+  },
+  "climate": {
+    "air": [
+      16,
+      16,
+      18,
+      20,
+      24,
+      28,
+      31,
+      31,
+      28,
+      25,
+      21,
+      17
+    ],
+    "sea": [
+      16,
+      15,
+      16,
+      17,
+      19,
+      22,
+      25,
+      26,
+      25,
+      23,
+      20,
+      17
+    ]
+  },
+  "practical": {
+    "flight": "około 3 h",
+    "timeDiff": "0 h",
+    "documents": "Malta jest w Unii Europejskiej i strefie Schengen. Wystarczy dowód osobisty lub paszport.",
+    "money": "Walutą jest euro. Ceny są zbliżone do południa Europy, a komunikacja autobusowa tania i dobrze rozwinięta.",
+    "plugs": "Gniazdka typu G (brytyjskie). Potrzebna przejściówka.",
+    "language": "Językami urzędowymi są maltański i angielski.",
+    "safety": "Malta jest bardzo bezpieczna. Ruch jest lewostronny."
+  },
+  "regions": [
+    {
+      "slug": "gozo",
+      "name": "Gozo i Comino",
+      "loc": "na Gozo",
+      "type": "wyspa",
+      "gygQuery": "Gozo Comino",
+      "airport": "Malta (MLA), dalej prom",
+      "forWhom": "Zielona, spokojna wyspa z cytadelą w Victorii i Błękitną Laguną po drodze.",
+      "intro": [
+        "Gozo to druga co do wielkości wyspa archipelagu, spokojniejsza i bardziej zielona od Malty. Słynie z cytadeli w Victorii, czerwonej plaży Ramla Bay, świątyń Ġgantija i nurkowania przy dawnym Lazurowym Oknie.",
+        "W drodze na Gozo mija się wysepkę Comino z Błękitną Laguną, najsłynniejszym miejscem kąpieli na Malcie."
+      ],
+      "highlights": [
+        "Błękitna Laguna",
+        "Cytadela w Victorii",
+        "Ramla Bay",
+        "Świątynie Ġgantija"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Valletta",
+      "text": "Barokowa stolica z Konkatedrą świętego Jana i obrazami Caravaggia.",
+      "gygQuery": "Valletta"
+    },
+    {
+      "name": "Błękitna Laguna",
+      "text": "Turkusowa zatoka na Comino. Najlepiej przypłynąć rano, przed tłumami.",
+      "gygQuery": "Blue Lagoon Comino"
+    },
+    {
+      "name": "Mdina",
+      "text": "Cicha średniowieczna stolica na wzgórzu w środku wyspy.",
+      "gygQuery": "Mdina"
+    },
+    {
+      "name": "Hypogeum Ħal Saflieni",
+      "text": "Podziemna świątynia sprzed 5000 lat. Bilety wyprzedają się tygodnie wcześniej.",
+      "gygQuery": "Hypogeum"
+    },
+    {
+      "name": "Trzy Miasta",
+      "text": "Birgu, Senglea i Cospicua po drugiej stronie Wielkiego Portu.",
+      "gygQuery": "Three Cities Malta"
+    },
+    {
+      "name": "Marsaxlokk",
+      "text": "Rybacka wioska z kolorowymi łodziami luzzu i niedzielnym targiem.",
+      "gygQuery": "Marsaxlokk"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy na Malcie są piaszczyste plaże?",
+      "a": "Tak, choć niewiele. Najpopularniejsze to Golden Bay, Mellieħa Bay i Ramla Bay na Gozo."
+    },
+    {
+      "q": "Czy na Malcie mówi się po angielsku?",
+      "a": "Tak, angielski jest jednym z dwóch języków urzędowych."
+    },
+    {
+      "q": "Ile dni potrzeba na Maltę?",
+      "a": "Tydzień wystarcza, by zobaczyć Vallettę, Mdinę, Gozo, Comino i odpocząć na plaży."
+    }
+  ]
+}

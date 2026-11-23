@@ -1,0 +1,85 @@
+{
+  "slug": "islandia",
+  "loc": "na Islandii",
+  "to": "na Islandię",
+  "capital": "Reykjavik",
+  "popularity": 62,
+  "touroperator": false,
+  "source": "manual",
+  "gygQuery": "Islandia",
+  "teaser": "Wodospady, gejzery, lodowce i zorza polarna. Kraj ognia i lodu na road trip wokół wyspy.",
+  "intro": [
+    "Islandia to wyspa, gdzie krajobrazy zmieniają się co kilkadziesiąt kilometrów: wodospady Gullfoss i Skógafoss, gejzer Strokkur wyrzucający wodę co kilka minut, czarne plaże Vík, lodowcowa laguna Jökulsárlón z dryfującymi górami lodowymi i pola lawy porośnięte mchem. To kierunek dla miłośników przyrody i road tripów, a nie leżenia na plaży.",
+    "Latem słońce prawie nie zachodzi, a drogi w głąb wyspy są otwarte. Zimą dni są krótkie, ale to czas zorzy polarnej i jaskiń lodowych. Islandia jest droga, więc wiele osób wynajmuje kampera lub łączy noclegi w guesthouse'ach z gotowaniem we własnym zakresie."
+  ],
+  "highlights": [
+    "Złoty Krąg: Þingvellir, Geysir i Gullfoss",
+    "Laguna lodowcowa Jökulsárlón",
+    "Zorza polarna od września do marca",
+    "Gorące źródła i Blue Lagoon",
+    "Wieloryby w Húsavík",
+    "Wystarczy dowód osobisty"
+  ],
+  "bestTime": {
+    "text": "Na objazd wyspy najlepiej jechać od czerwca do sierpnia: jest najcieplej (12 do 15 stopni), drogi są przejezdne, a dni trwają niemal całą dobę. Wrzesień to dobry kompromis z mniejszymi tłumami i pierwszymi zorzami. Od października do marca polujesz na zorzę i jaskinie lodowe, ale musisz liczyć się ze śniegiem i zamkniętymi drogami.",
+    "best": [6, 7, 8],
+    "ok": [5, 9]
+  },
+  "climate": {
+    "air": [2, 3, 3, 6, 10, 12, 14, 14, 11, 7, 4, 2],
+    "sea": null,
+    "note": "Dane dla Reykjaviku. Pogoda zmienia się bardzo szybko, zawsze miej kurtkę przeciwdeszczową."
+  },
+  "practical": {
+    "flight": "około 4 h",
+    "timeDiff": "-1 h zimą, -2 h latem",
+    "documents": "Islandia jest w strefie Schengen i Europejskim Obszarze Gospodarczym. Wystarczy dowód osobisty lub paszport.",
+    "money": "Walutą jest korona islandzka (ISK). Kartą płaci się wszędzie, nawet za toaletę, gotówka jest praktycznie zbędna. Islandia należy do najdroższych krajów Europy.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest islandzki. Niemal wszyscy mówią świetnie po angielsku, a w Islandii mieszka też duża społeczność Polaków.",
+    "safety": "Islandia jest bardzo bezpieczna, ale przyroda bywa groźna. Sprawdzaj prognozy na vedur.is i stan dróg na umferdin.is, nie podchodź do fal na czarnych plażach i nie wchodź na lodowce bez przewodnika."
+  },
+  "regions": [
+    {
+      "slug": "poludniowe-wybrzeze",
+      "name": "Południowe wybrzeże",
+      "loc": "na południowym wybrzeżu",
+      "type": "region",
+      "gygQuery": "South Coast Iceland",
+      "airport": "Keflavík (KEF)",
+      "forWhom": "Wodospady Seljalandsfoss i Skógafoss, czarna plaża Reynisfjara i lodowce.",
+      "intro": [
+        "Południowe wybrzeże to najczęściej odwiedzana część Islandii. Wzdłuż drogi nr 1 ciągną się wodospady Seljalandsfoss, za który można wejść, i Skógafoss z tęczą w słoneczne dni, czarna plaża Reynisfjara z bazaltowymi kolumnami i miasteczko Vík.",
+        "Dalej na wschód leżą lodowiec Vatnajökull i laguna Jökulsárlón z Diamentową Plażą."
+      ],
+      "highlights": ["Seljalandsfoss", "Reynisfjara", "Jökulsárlón", "Wycieczka po lodowcu"]
+    },
+    {
+      "slug": "fiordy-zachodnie",
+      "name": "Fiordy Zachodnie",
+      "loc": "na Fiordach Zachodnich",
+      "type": "region",
+      "gygQuery": "Westfjords Iceland",
+      "airport": "Ísafjörður (IFJ)",
+      "forWhom": "Najdziksza część Islandii: fiordy, wodospad Dynjandi, maskonury i Ísafjörður.",
+      "intro": [
+        "Fiordy Zachodnie to najbardziej odludna i najmniej zatłoczona część Islandii. Kręte drogi prowadzą wzdłuż fiordów do wodospadu Dynjandi, klifów Látrabjarg z maskonurami i czerwonej plaży Rauðisandur.",
+        "Stolicą regionu jest Ísafjörður, urokliwe miasteczko otoczone górami, popularne wśród pasażerów statków wycieczkowych. To dobra baza do rejsów do rezerwatu Hornstrandir i na wyspę Vigur."
+      ],
+      "highlights": ["Wodospad Dynjandi", "Klify Látrabjarg", "Ísafjörður", "Rezerwat Hornstrandir"]
+    }
+  ],
+  "attractions": [
+    { "name": "Złoty Krąg", "text": "Park Þingvellir, gejzer Strokkur i wodospad Gullfoss w jeden dzień z Reykjaviku.", "gygQuery": "Golden Circle tour" },
+    { "name": "Blue Lagoon", "text": "Słynne geotermalne kąpielisko z mleczno błękitną wodą koło lotniska.", "gygQuery": "Blue Lagoon Iceland" },
+    { "name": "Zorza polarna", "text": "Wieczorne wyjazdy na łowy zorzy od września do marca.", "gygQuery": "Northern lights tour Reykjavik" },
+    { "name": "Jaskinia lodowa", "text": "Niebieskie jaskinie w lodowcu Vatnajökull, dostępne zimą.", "gygQuery": "Ice cave Iceland" },
+    { "name": "Obserwacja wielorybów", "text": "Rejsy z Húsavík i Reykjaviku z dużą szansą na humbaki.", "gygQuery": "Whale watching Iceland" },
+    { "name": "Snorkeling w Silfrze", "text": "Pływanie w szczelinie między płytami tektonicznymi w krystalicznie czystej wodzie.", "gygQuery": "Silfra snorkeling" }
+  ],
+  "faq": [
+    { "q": "Kiedy jechać na Islandię?", "a": "Na objazd wyspy od czerwca do sierpnia. Na zorzę polarną od września do marca." },
+    { "q": "Czy Islandia jest droga?", "a": "Tak, to jeden z najdroższych krajów Europy. Najwięcej oszczędzisz, gotując samodzielnie i nocując w kamperze lub guesthouse'ach." },
+    { "q": "Czy na Islandię wystarczy dowód osobisty?", "a": "Tak, Islandia jest w strefie Schengen." }
+  ]
+}

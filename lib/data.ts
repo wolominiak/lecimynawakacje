@@ -1,0 +1,120 @@
+import fs from 'fs';
+import path from 'path';
+import base from '@/data/countries.json';
+import type { Country, CountryBase, CountryContent, ContinentSlug, Region } from './types';
+
+export const CONTINENTS: { slug: ContinentSlug; name: string; loc: string; teaser: string }[] = [
+  { slug: 'europa', name: 'Europa', loc: 'w Europie', teaser: 'Od greckich wysp po fiordy Norwegii - kierunki na krótki lot i długi weekend.' },
+  { slug: 'afryka', name: 'Afryka', loc: 'w Afryce', teaser: 'Egipt i Tunezja na ciepłą zimę, Zanzibar i Kenia na safari z plażą.' },
+  { slug: 'azja', name: 'Azja', loc: 'w Azji', teaser: 'Tajlandia, Bali, Malediwy, Emiraty - egzotyka, która przestała być daleko.' },
+  { slug: 'ameryka-polnocna', name: 'Ameryka Północna i Karaiby', loc: 'w Ameryce Północnej', teaser: 'Dominikana, Meksyk, Kuba i USA - Karaiby all inclusive i wielkie road tripy.' },
+  { slug: 'ameryka-poludniowa', name: 'Ameryka Południowa', loc: 'w Ameryce Południowej', teaser: 'Peru, Brazylia, Argentyna i Patagonia - podróże na co najmniej dwa tygodnie.' },
+  { slug: 'australia-i-oceania', name: 'Australia i Oceania', loc: 'w Australii i Oceanii', teaser: 'Najdalej, jak się da: Australia, Nowa Zelandia i wyspy Pacyfiku.' },
+];
+
+export const MONTHS = [
+  { slug: 'styczen', name: 'styczeń', loc: 'w styczniu' },
+  { slug: 'luty', name: 'luty', loc: 'w lutym' },
+  { slug: 'marzec', name: 'marzec', loc: 'w marcu' },
+  { slug: 'kwiecien', name: 'kwiecień', loc: 'w kwietniu' },
+  { slug: 'maj', name: 'maj', loc: 'w maju' },
+  { slug: 'czerwiec', name: 'czerwiec', loc: 'w czerwcu' },
+  { slug: 'lipiec', name: 'lipiec', loc: 'w lipcu' },
+  { slug: 'sierpien', name: 'sierpień', loc: 'w sierpniu' },
+  { slug: 'wrzesien', name: 'wrzesień', loc: 'we wrześniu' },
+  { slug: 'pazdziernik', name: 'październik', loc: 'w październiku' },
+  { slug: 'listopad', name: 'listopad', loc: 'w listopadzie' },
+  { slug: 'grudzien', name: 'grudzień', loc: 'w grudniu' },
+];
+
+/** Podstrony long-tail kraju (ten sam segment URL co regiony) */
+export const SUBPAGES = {
+  'kiedy-jechac': 'Kiedy jechać',
+  'all-inclusive': 'All inclusive',
+  atrakcje: 'Atrakcje i wycieczki',
+} as const;
+export type SubpageSlug = keyof typeof SUBPAGES;
+
+let cache: Country[] | null = null;
+
+function loadContent(): Record<string, CountryContent> {
+  const dir = path.join(process.cwd(), 'content', 'countries');
+  const out: Record<string, CountryContent> = {};
+  if (!fs.existsSync(dir)) return out;
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.json')) continue;
+    const data = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')) as CountryContent;
+    out[data.slug] = data;
+  }
+  return out;
+}
+
+export function getCountries(): Country[] {
+  if (cache) return cache;
+  const content = loadContent();
+  cache = (base as CountryBase[]).map((c) => ({ ...c, content: content[c.slug] || null }));
+  return cache;
+}
+
+export function getCountry(slug: string): Country | undefined {
+  return getCountries().find((c) => c.slug === slug);
+}
+
+export function getCountryByCode(code: string): Country | undefined {
+  return getCountries().find((c) => c.code === code);
+}
+
+export function getByContinent(slug: ContinentSlug): Country[] {
+  return getCountries().filter((c) => c.continent === slug);
+}
+
+/** Strona ma wystarczająco treści, żeby ją indeksować */
+export function isIndexable(c: Country): boolean {
+  return !!c.content && c.content.intro.join(' ').length > 400;
+}
+
+export function popular(limit = 12): Country[] {
+  return getCountries()
+    .filter((c) => c.content?.popularity)
+    .sort((a, b) => (b.content!.popularity || 0) - (a.content!.popularity || 0))
+    .slice(0, limit);
+}
+
+export function getRegion(c: Country, slug: string): Region | undefined {
+  return c.content?.regions?.find((r) => r.slug === slug);
+}
+
+export function availableSubpages(c: Country): SubpageSlug[] {
+  const out: SubpageSlug[] = [];
+  const ct = c.content;
+  if (!ct) return out;
+  if (ct.climate && ct.bestTime) out.push('kiedy-jechac');
+  if (ct.allInclusive?.length) out.push('all-inclusive');
+  if ((ct.attractions?.length || 0) >= 4) out.push('atrakcje');
+  return out;
+}
+
+export function continentOf(slug: ContinentSlug) {
+  return CONTINENTS.find((c) => c.slug === slug)!;
+}
+
+/** Kraje dobre na wypoczynek w danym miesiącu (0-11) wg danych klimatycznych */
+export function warmIn(month: number) {
+  return getCountries()
+    .filter((c) => c.content?.climate)
+    .map((c) => {
+      const air = c.content!.climate!.air[month];
+      const sea = c.content!.climate!.sea?.[month] ?? null;
+      const best = c.content!.bestTime?.best.includes(month + 1) || false;
+      const ok = c.content!.bestTime?.ok?.includes(month + 1) || false;
+      const pop = c.content!.popularity || 0;
+      const score = (best ? 18 : ok ? 10 : 0) + pop * 0.3 + (sea && sea >= 23 ? 8 : sea && sea >= 21 ? 4 : 0) - (air > 35 ? (air - 35) * 4 : 0);
+      return { country: c, air, sea, best, ok, score };
+    })
+    .filter((x) => x.air >= 24 && (x.best || x.ok))
+    .sort((a, b) => b.score - a.score);
+}
+
+export function countryName(code: string) {
+  return getCountryByCode(code);
+}

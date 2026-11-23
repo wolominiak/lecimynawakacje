@@ -1,0 +1,124 @@
+{
+  "slug": "tajlandia",
+  "loc": "w Tajlandii",
+  "to": "do Tajlandii",
+  "capital": "Bangkok",
+  "popularity": 90,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Tajlandia",
+  "teaser": "Rajskie wyspy Andamanu, świątynie Bangkoku, street food i masaże za grosze. Najpopularniejsza egzotyka Polaków na zimę.",
+  "intro": [
+    "Tajlandia to dla wielu Polaków pierwsza daleka podróż i kierunek, do którego chętnie się wraca. Kraj łączy wszystko, czego szukamy w egzotyce: wapienne skały wyrastające z turkusowego morza, białe plaże, złote świątynie, nocne targi i jedną z najlepszych kuchni świata. Ceny na miejscu są niskie, a infrastruktura turystyczna bardzo dobra.",
+    "Najpopularniejsze są wyspy i wybrzeże Morza Andamańskiego: Phuket, Krabi i Phi Phi, a także wyspy Zatoki Tajlandzkiej, czyli Koh Samui, Koh Phangan i Koh Tao. Warto zacząć lub zakończyć wyjazd w Bangkoku, a jeśli czas pozwala, pojechać na północ do Chiang Mai."
+  ],
+  "highlights": [
+    "Phuket, Krabi, Phi Phi i Koh Samui",
+    "Świątynie i Wielki Pałac w Bangkoku",
+    "Street food i masaże tajskie",
+    "Najlepszy sezon w polską zimę",
+    "Niskie ceny na miejscu",
+    "Ruch bezwizowy dla Polaków na pobyt turystyczny"
+  ],
+  "bestTime": {
+    "text": "Na wybrzeże Morza Andamańskiego (Phuket, Krabi) najlepiej jechać od listopada do kwietnia, kiedy jest sucho i słonecznie. Od maja do października trwa tam pora deszczowa. Koh Samui ma inny rytm: najbardziej deszczowo jest od października do grudnia, a najlepiej od stycznia do sierpnia. Bangkok jest najprzyjemniejszy od listopada do lutego.",
+    "best": [12, 1, 2, 3],
+    "ok": [11, 4]
+  },
+  "climate": {
+    "air": [32, 33, 33, 33, 32, 31, 31, 31, 30, 30, 31, 31],
+    "sea": [28, 28, 29, 30, 30, 29, 29, 29, 28, 28, 28, 28],
+    "note": "Dane dla Phuketu. Temperatura jest wysoka przez cały rok, różnicę robią opady."
+  },
+  "practical": {
+    "flight": "około 11 do 14 h z przesiadką",
+    "timeDiff": "+6 h zimą, +5 h latem",
+    "documents": "Polacy mogą obecnie wjechać do Tajlandii bez wizy na pobyt turystyczny. Limit dni bezwizowych był kilkukrotnie zmieniany, więc sprawdź go przed wyjazdem. Przed przylotem trzeba wypełnić elektroniczną kartę przyjazdu TDAC. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest bat tajski (THB). Najlepiej wymieniać pieniądze w kantorach w miastach, a nie na lotnisku. Bankomaty pobierają stałą prowizję za wypłatę.",
+    "plugs": "Gniazdka typu A, B, C i O. Polskie płaskie wtyczki zwykle pasują, przejściówka uniwersalna się przyda.",
+    "language": "Językiem urzędowym jest tajski. W turystycznych miejscach dogadasz się po angielsku.",
+    "safety": "Tajlandia jest bezpieczna. Uważaj na skutery, które są częstą przyczyną wypadków, i nie obrażaj rodziny królewskiej, bo jest to przestępstwo."
+  },
+  "allInclusive": [
+    "All inclusive w Tajlandii jest rzadkością. Większość hoteli oferuje śniadania, a resztę posiłków je się na mieście, co jest tanie i smaczne. Pełne wyżywienie znajdziesz głównie w luksusowych resortach na Phukecie i Koh Samui.",
+    "Warto rozważyć wyjazd ze śniadaniami i budżet na jedzenie na miejscu: posiłek w lokalnej restauracji kosztuje kilka do kilkunastu złotych."
+  ],
+  "regions": [
+    {
+      "slug": "phuket",
+      "name": "Phuket",
+      "loc": "na Phukecie",
+      "type": "wyspa",
+      "wakacjePath": "phuket",
+      "gygQuery": "Phuket",
+      "airport": "Phuket (HKT)",
+      "forWhom": "Największa wyspa Tajlandii: plaże na każdą okazję i rejsy na Phi Phi i do zatoki Phang Nga.",
+      "intro": [
+        "Phuket to największa tajska wyspa i najpopularniejszy kierunek w kraju. Patong słynie z życia nocnego i ulicy Bangla Road, Kata i Karon mają piękne plaże dla rodzin, a północne Mai Khao i Nai Yang są spokojne i dzikie.",
+        "Z Phuketu wypływają łodzie na Phi Phi, do zatoki Phang Nga z Wyspą Jamesa Bonda i na Similany, jedne z najlepszych miejsc do nurkowania w Azji."
+      ],
+      "highlights": ["Wielki Budda", "Stare Miasto Phuket", "Rejs do zatoki Phang Nga", "Wyspy Phi Phi"]
+    },
+    {
+      "slug": "krabi",
+      "name": "Krabi",
+      "loc": "w Krabi",
+      "type": "prowincja",
+      "wakacjePath": "krabi",
+      "gygQuery": "Krabi",
+      "airport": "Krabi (KBV)",
+      "forWhom": "Wapienne skały, Railay, Ao Nang i wyspy na wyciągnięcie ręki. Najpiękniejsze krajobrazy Tajlandii.",
+      "intro": [
+        "Krabi to kontynentalna prowincja nad Morzem Andamańskim, słynąca z wapiennych skał wyrastających z morza. Ao Nang to główny kurort, a półwysep Railay, dostępny tylko łodzią, to raj wspinaczy i miłośników plaż.",
+        "Z Krabi wypływają rejsy na cztery wyspy, Phi Phi i Koh Lanta."
+      ],
+      "highlights": ["Plaża Railay", "Tour 4 wysp", "Świątynia Tygrysa", "Szmaragdowy Basen"]
+    },
+    {
+      "slug": "koh-samui",
+      "name": "Koh Samui",
+      "loc": "na Koh Samui",
+      "type": "wyspa",
+      "wakacjePath": "koh-samui",
+      "gygQuery": "Koh Samui",
+      "airport": "Koh Samui (USM)",
+      "forWhom": "Palmy kokosowe, luksusowe wille i Park Morski Ang Thong. Dobra także latem.",
+      "intro": [
+        "Koh Samui to elegancka wyspa w Zatoce Tajlandzkiej, z plażami Chaweng i Lamai oraz spokojną północą w Bophut. Ma inny klimat niż Phuket, więc sprawdza się również latem, kiedy na Andamanie pada.",
+        "Z Samui pływa się do Parku Morskiego Ang Thong oraz na sąsiednie Koh Phangan i Koh Tao."
+      ],
+      "highlights": ["Park Morski Ang Thong", "Big Buddha", "Wioska Rybaków w Bophut", "Koh Tao"]
+    },
+    {
+      "slug": "bangkok",
+      "name": "Bangkok",
+      "loc": "w Bangkoku",
+      "type": "miasto",
+      "gygQuery": "Bangkok",
+      "airport": "Bangkok Suvarnabhumi (BKK), Don Mueang (DMK)",
+      "forWhom": "Złote świątynie, pływające targi, rooftop bary i najlepszy street food świata.",
+      "intro": [
+        "Bangkok to energetyczna metropolia, w której warto spędzić co najmniej dwa lub trzy dni. Wielki Pałac, Wat Pho z leżącym Buddą i Wat Arun nad rzeką to obowiązkowe punkty, a wieczorem warto wybrać się do Chinatown i na dachowe bary.",
+        "Z Bangkoku jeździ się na pływający targ Damnoen Saduak, do dawnej stolicy Ayutthayi i nad rzekę Kwai."
+      ],
+      "highlights": ["Wielki Pałac", "Wat Pho i Wat Arun", "Chinatown nocą", "Ayutthaya"]
+    }
+  ],
+  "attractions": [
+    { "name": "Wyspy Phi Phi i Maya Bay", "text": "Rejs na wyspy z filmu Niebiańska plaża, z snorkelingiem.", "gygQuery": "Phi Phi islands tour" },
+    { "name": "Zatoka Phang Nga", "text": "Wapienne skały, kajaki w jaskiniach i Wyspa Jamesa Bonda.", "gygQuery": "Phang Nga Bay" },
+    { "name": "Wielki Pałac w Bangkoku", "text": "Dawna rezydencja królów ze Szmaragdowym Buddą.", "gygQuery": "Grand Palace Bangkok" },
+    { "name": "Ayutthaya", "text": "Ruiny dawnej stolicy Syjamu, około godzinę od Bangkoku.", "gygQuery": "Ayutthaya" },
+    { "name": "Wyspy Similan", "text": "Park narodowy z najlepszym nurkowaniem w Tajlandii, otwarty od października do maja.", "gygQuery": "Similan islands" },
+    { "name": "Chiang Mai", "text": "Świątynie w górach, sanktuaria słoni i nocne bazary na północy kraju.", "gygQuery": "Chiang Mai" }
+  ],
+  "cuisine": [
+    "Kuchnia tajska to pad thai, zielone i czerwone curry, ostra sałatka z papai som tam, zupa tom yum i mango sticky rice na deser. Najlepiej jeść na nocnych targach i w małych lokalach, gdzie gotują przy tobie. Gdy nie lubisz ostrego, mów mai phet."
+  ],
+  "faq": [
+    { "q": "Kiedy najlepiej jechać do Tajlandii?", "a": "Na Phuket i Krabi od listopada do kwietnia. Na Koh Samui od stycznia do sierpnia. Bangkok najprzyjemniejszy jest od listopada do lutego." },
+    { "q": "Czy do Tajlandii potrzebna jest wiza?", "a": "Obecnie Polacy wjeżdżają do Tajlandii bez wizy na pobyt turystyczny, ale limit dni bywa zmieniany. Przed wylotem wypełnia się elektroniczną kartę przyjazdu TDAC." },
+    { "q": "Phuket czy Krabi?", "a": "Phuket ma więcej plaż, hoteli i rozrywek. Krabi jest spokojniejsze i ma piękniejsze krajobrazy z wapiennymi skałami." },
+    { "q": "Ile trwa lot do Tajlandii?", "a": "Z przesiadką lot trwa zwykle 11 do 14 godzin. W sezonie zimowym biura podróży organizują też loty czarterowe." }
+  ]
+}

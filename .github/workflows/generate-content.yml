@@ -1,0 +1,46 @@
+# Generowanie przewodników przez Gemini z poziomu GitHuba:
+# Actions -> "Generuj przewodniki" -> Run workflow.
+# Wymaga sekretu repozytorium GEMINI_API_KEY (Settings -> Secrets and variables -> Actions).
+name: Generuj przewodniki
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Ile krajów wygenerować'
+        default: '20'
+      only:
+        description: 'Tylko te slugi (np. islandia,norwegia), puste = kolejne brakujące'
+        default: ''
+      force:
+        description: 'Nadpisz istniejące pliki Gemini (true/false)'
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generuj
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS="--limit ${{ inputs.limit }}"
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          node scripts/generate-content.mjs $ARGS
+      - name: Sprawdź myślniki
+        run: node scripts/check-dashes.mjs
+      - name: Commit
+        run: |
+          git config user.name "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git add content/countries
+          git diff --cached --quiet || git commit -m "Nowe przewodniki (Gemini)"
+          git push

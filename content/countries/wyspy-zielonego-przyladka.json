@@ -1,0 +1,88 @@
+{
+  "slug": "wyspy-zielonego-przyladka",
+  "loc": "na Wyspach Zielonego Przylądka",
+  "to": "na Wyspy Zielonego Przylądka",
+  "capital": "Praia",
+  "popularity": 68,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Cape Verde Sal",
+  "teaser": "Afrykańskie wyspy na Atlantyku ze słońcem przez cały rok: Sal i Boa Vista z białymi plażami, kitesurfing i luz no stress.",
+  "intro": [
+    "Wyspy Zielonego Przylądka to archipelag dziesięciu wulkanicznych wysp na Atlantyku, około 600 kilometrów od wybrzeży Senegalu. Polskie biura podróży latają głównie na Sal i Boa Vista, gdzie są długie plaże z białym piaskiem i resorty all inclusive. Klimat jest suchy i słoneczny przez cały rok, a temperatury trzymają się w okolicach 25 do 30 stopni.",
+    "Wyspy słyną z hasła no stress, muzyki morna i wiatru, który przyciąga kitesurferów. Ocean jest tu chłodniejszy niż na Karaibach, a na części plaż bywają fale i prądy."
+  ],
+  "highlights": [
+    "Słońce i ciepło przez cały rok",
+    "Białe plaże Sal i Boa Vista",
+    "Kitesurfing i windsurfing",
+    "Żółwie składające jaja latem",
+    "Loty czarterowe około 6,5 godziny",
+    "Bez wizy dla Polaków"
+  ],
+  "bestTime": {
+    "text": "Wyspy Zielonego Przylądka to kierunek całoroczny. Od listopada do czerwca jest sucho i wietrznie, idealnie dla kitesurferów. Od sierpnia do października jest najcieplej, woda ma 25 do 27 stopni, ale zdarzają się krótkie deszcze.",
+    "best": [11, 12, 1, 2, 3, 4, 5, 6],
+    "ok": [7, 8, 9, 10]
+  },
+  "climate": {
+    "air": [25, 25, 26, 26, 27, 27, 28, 29, 30, 29, 28, 26],
+    "sea": [22, 21, 21, 22, 22, 23, 24, 26, 27, 26, 25, 23],
+    "note": "Dane dla wyspy Sal."
+  },
+  "practical": {
+    "flight": "około 6,5 h czarterem",
+    "timeDiff": "-2 h zimą, -3 h latem",
+    "documents": "Polacy nie potrzebują wizy przy krótkim pobycie, ale muszą zarejestrować się online w systemie EASE przed przylotem i opłacić opłatę lotniskową. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest escudo Zielonego Przylądka (CVE), powiązane kursem z euro. Euro jest powszechnie akceptowane.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest portugalski, na co dzień mówi się po kreolsku.",
+    "safety": "Wyspy są spokojne. Na plażach zwracaj uwagę na fale i flagi."
+  },
+  "allInclusive": [
+    "Na Sal i Boa Vista dominują duże resorty all inclusive przy plaży, bo poza Santa Maria na Sal oferta restauracji jest skromna. Hotele są nowoczesne i często należą do znanych sieci.",
+    "Przy wyborze hotelu sprawdź, czy plaża przed nim jest osłonięta od wiatru i fal, szczególnie przy wyjeździe z dziećmi."
+  ],
+  "regions": [
+    {
+      "slug": "sal",
+      "name": "Sal",
+      "loc": "na Sal",
+      "type": "wyspa",
+      "wakacjePath": "sal",
+      "gygQuery": "Sal Cape Verde",
+      "airport": "Sal (SID)",
+      "forWhom": "Santa Maria z molo, saliny Pedra de Lume i najlepsze warunki do kitesurfingu.",
+      "intro": [
+        "Sal to najpopularniejsza wyspa archipelagu, płaska i pustynna, z kilkukilometrową plażą w Santa Maria. Największe atrakcje to kąpiel w słonym jeziorze w kraterze Pedra de Lume i Blue Eye, podwodna grota z niebieską poświatą.",
+        "Kite Beach i Ponta Preta to światowej klasy miejsca do kite i windsurfingu."
+      ],
+      "highlights": ["Saliny Pedra de Lume", "Molo w Santa Maria", "Shark Bay z rekinami cytrynowymi", "Kite Beach"]
+    },
+    {
+      "slug": "boa-vista",
+      "name": "Boa Vista",
+      "loc": "na Boa Vista",
+      "type": "wyspa",
+      "wakacjePath": "boa-vista",
+      "gygQuery": "Boa Vista Cape Verde",
+      "airport": "Boa Vista (BVC)",
+      "forWhom": "Bezkresne dzikie plaże, pustynia Viana i żółwie karetta latem.",
+      "intro": [
+        "Boa Vista ma najpiękniejsze plaże archipelagu, w tym Santa Monica ciągnącą się kilkanaście kilometrów. Wyspa jest spokojniejsza niż Sal, a jej wnętrze to pustynia z wydmami.",
+        "Od lipca do października na plaże wychodzą żółwie karetta składać jaja."
+      ],
+      "highlights": ["Plaża Santa Monica", "Pustynia Viana", "Wrak Cabo Santa Maria", "Żółwie"]
+    }
+  ],
+  "attractions": [
+    { "name": "Pedra de Lume", "text": "Kąpiel w słonym jeziorze w kraterze wulkanu, gdzie unosisz się jak w Morzu Martwym.", "gygQuery": "Pedra de Lume" },
+    { "name": "Shark Bay", "text": "Brodzenie wśród niegroźnych rekinów cytrynowych.", "gygQuery": "Shark Bay Sal" },
+    { "name": "Safari quadami na Boa Vista", "text": "Przejazd przez pustynię Viana i dzikie plaże.", "gygQuery": "Boa Vista quad" },
+    { "name": "Obserwacja żółwi", "text": "Nocne wyjście na plażę, gdzie żółwie składają jaja (lipiec do października).", "gygQuery": "Cape Verde turtle" }
+  ],
+  "faq": [
+    { "q": "Czy na Wyspy Zielonego Przylądka potrzebna jest wiza?", "a": "Nie, ale trzeba zarejestrować się w systemie EASE przed przylotem i opłacić opłatę lotniskową." },
+    { "q": "Sal czy Boa Vista?", "a": "Sal ma więcej atrakcji i życia w Santa Maria, Boa Vista piękniejsze i spokojniejsze plaże." }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "chorwacja",
+  "loc": "w Chorwacji",
+  "to": "do Chorwacji",
+  "capital": "Zagrzeb",
+  "popularity": 86,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Chorwacja",
+  "teaser": "Krystalicznie czysty Adriatyk, tysiąc wysp, Dubrownik i Split. Najpopularniejszy kierunek na wakacje samochodem.",
+  "intro": [
+    "Chorwacja to jeden z ulubionych kierunków Polaków, zwłaszcza tych, którzy jadą na wakacje własnym autem. Adriatyk jest tu wyjątkowo czysty i przejrzysty, a wybrzeże usiane jest ponad tysiącem wysp. Plaże są głównie kamieniste i żwirowe, za to woda zachwyca kolorem i widocznością.",
+    "Kraj łączy wypoczynek nad morzem ze zwiedzaniem: Dubrownik z murami obronnymi, Split z Pałacem Dioklecjana, Plitwickie Jeziora z kaskadami wodospadów i Park Narodowy Krka, w którym kiedyś można było się kąpać pod wodospadami. Coraz więcej biur podróży oferuje też wakacje samolotowe do Splitu, Dubrownika i Zadaru."
+  ],
+  "highlights": [
+    "Jedna z najczystszych wód w Europie",
+    "Dubrownik, Split i Trogir z listy UNESCO",
+    "Plitwickie Jeziora i Krka",
+    "Wystarczy dowód osobisty, płaci się w euro",
+    "Idealny kierunek na wakacje samochodem",
+    "Rejsy po wyspach i żeglarstwo"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wakacje w Chorwacji to czerwiec i wrzesień: woda jest ciepła, plaże mniej zatłoczone, a ceny niższe. Lipiec i sierpień to szczyt sezonu z najcieplejszym morzem i najwyższymi cenami. Maj i październik nadają się do zwiedzania, ale woda jest chłodna.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5
+    ]
+  },
+  "climate": {
+    "air": [
+      11,
+      12,
+      14,
+      18,
+      23,
+      27,
+      30,
+      30,
+      26,
+      21,
+      16,
+      12
+    ],
+    "sea": [
+      13,
+      13,
+      14,
+      16,
+      19,
+      23,
+      25,
+      25,
+      23,
+      20,
+      17,
+      15
+    ],
+    "note": "Dane dla Splitu. Na Istrii jest o 1 do 2 stopnie chłodniej, w Dubrowniku podobnie jak w Splicie."
+  },
+  "practical": {
+    "flight": "około 2 h",
+    "timeDiff": "0 h",
+    "documents": "Chorwacja jest w Unii Europejskiej i strefie Schengen. Wystarczy dowód osobisty lub paszport.",
+    "money": "Walutą jest euro. Ceny w sezonie w popularnych miejscowościach są zbliżone do tych w Europie Zachodniej, szczególnie w Dubrowniku.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest chorwacki. Wiele słów brzmi podobnie jak po polsku, a w kurortach dogadasz się po angielsku i niemiecku.",
+    "safety": "Chorwacja jest bardzo bezpieczna. Na kamienistych plażach przydają się buty do wody, bo w morzu żyją jeżowce."
+  },
+  "regions": [
+    {
+      "slug": "dalmacja",
+      "name": "Dalmacja Środkowa i Split",
+      "loc": "w Dalmacji",
+      "type": "region",
+      "wakacjePath": "dalmacja",
+      "gygQuery": "Split",
+      "airport": "Split (SPU)",
+      "forWhom": "Split, Trogir, wyspy Brač i Hvar oraz Riwiera Makarska. Serce chorwackich wakacji.",
+      "intro": [
+        "Dalmacja Środkowa to najpopularniejsza część Chorwacji. Split z rzymskim Pałacem Dioklecjana jest żywym miastem, w którym ludzie mieszkają w murach antycznej rezydencji. W pobliżu leży Trogir na małej wyspie, a promy płyną na Brač ze słynną plażą Zlatni Rat i na modny Hvar.",
+        "Na południe od Splitu ciągnie się Riwiera Makarska z białymi żwirowymi plażami pod masywem Biokovo."
+      ],
+      "places": [
+        {
+          "name": "Makarska",
+          "text": "Główne miasto riwiery z promenadą i długą plażą, dobra baza dla rodzin."
+        },
+        {
+          "name": "Brela i Baška Voda",
+          "text": "Najpiękniejsze plaże riwiery wśród sosen."
+        },
+        {
+          "name": "Hvar",
+          "text": "Modna wyspa z lawendowymi polami, twierdzą i życiem nocnym."
+        },
+        {
+          "name": "Bol na Braču",
+          "text": "Plaża Zlatni Rat zmieniająca kształt z wiatrem."
+        }
+      ],
+      "highlights": [
+        "Pałac Dioklecjana",
+        "Zlatni Rat",
+        "Skywalk Biokovo",
+        "Trogir"
+      ]
+    },
+    {
+      "slug": "dubrownik",
+      "name": "Dubrownik",
+      "loc": "w Dubrowniku",
+      "type": "miasto",
+      "wakacjePath": "dubrownik",
+      "gygQuery": "Dubrownik",
+      "airport": "Dubrownik (DBV)",
+      "forWhom": "Perła Adriatyku: mury obronne, starówka z kamienia i rejsy na wyspy Elafickie.",
+      "intro": [
+        "Dubrownik to jedno z najpiękniejszych miast nad Morzem Śródziemnym. Spacer po kilometrowych murach otaczających starówkę z widokiem na czerwone dachy i morze to obowiązkowy punkt programu. Miasto zagrało też w serialu Gra o Tron.",
+        "Dubrownik jest drogi i zatłoczony w szczycie sezonu, dlatego warto nocować w okolicy, na przykład w Cavtat, i przyjeżdżać na zwiedzanie rano lub wieczorem."
+      ],
+      "highlights": [
+        "Mury obronne",
+        "Kolejka na Srđ",
+        "Wyspa Lokrum",
+        "Wycieczka do Kotoru w Czarnogórze"
+      ]
+    },
+    {
+      "slug": "istria",
+      "name": "Istria",
+      "loc": "na Istrii",
+      "type": "półwysep",
+      "wakacjePath": "istria",
+      "gygQuery": "Istria",
+      "airport": "Pula (PUY)",
+      "forWhom": "Włoski klimat, trufle, Rovinj i Pula z amfiteatrem. Najbliżej Polski.",
+      "intro": [
+        "Istria to najbardziej na północ wysunięta część chorwackiego wybrzeża i najbliższa Polsce przy podróży samochodem. Ma wyraźnie włoski charakter: miasteczka na wzgórzach, oliwki, trufle i świetne wina.",
+        "Rovinj to jedno z najbardziej malowniczych miasteczek Adriatyku, a Pula słynie z rzymskiego amfiteatru."
+      ],
+      "highlights": [
+        "Rovinj",
+        "Amfiteatr w Puli",
+        "Motovun i trufle",
+        "Park Narodowy Brijuni"
+      ]
+    },
+    {
+      "slug": "zadar",
+      "name": "Zadar i Dalmacja Północna",
+      "loc": "w Zadarze",
+      "type": "region",
+      "wakacjePath": "dalmacja-polnocna",
+      "gygQuery": "Zadar",
+      "airport": "Zadar (ZAD)",
+      "forWhom": "Organy morskie, Park Krka, Kornati i najpiękniejsze zachody słońca Adriatyku.",
+      "intro": [
+        "Zadar to miasto z rzymskim forum i słynnymi organami morskimi, które grają dzięki falom. Region jest dobrą bazą do wycieczek do Parku Narodowego Krka, Plitwickich Jezior i na archipelag Kornati.",
+        "Okoliczne miejscowości, takie jak Biograd na Moru i Vodice, oferują spokojne wakacje z niższymi cenami niż w Splicie."
+      ],
+      "highlights": [
+        "Organy morskie",
+        "Park Narodowy Krka",
+        "Kornati",
+        "Šibenik"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Plitwickie Jeziora",
+      "text": "Szesnaście jezior połączonych wodospadami, najsłynniejszy park narodowy Chorwacji.",
+      "gygQuery": "Plitvice Lakes"
+    },
+    {
+      "name": "Mury Dubrownika",
+      "text": "Dwukilometrowy spacer po murach otaczających starówkę.",
+      "gygQuery": "Dubrovnik walls"
+    },
+    {
+      "name": "Park Narodowy Krka",
+      "text": "Kaskady wodospadów Skradinski Buk i klasztor na wyspie Visovac.",
+      "gygQuery": "Krka"
+    },
+    {
+      "name": "Pałac Dioklecjana",
+      "text": "Rzymska rezydencja cesarza w samym centrum Splitu.",
+      "gygQuery": "Diocletian Palace"
+    },
+    {
+      "name": "Błękitna Grota na wyspie Biševo",
+      "text": "Jaskinia, w której w południe woda świeci na niebiesko.",
+      "gygQuery": "Blue Cave Croatia"
+    },
+    {
+      "name": "Rovinj",
+      "text": "Kolorowe miasteczko na Istrii z kościołem świętej Eufemii na wzgórzu.",
+      "gygQuery": "Rovinj"
+    }
+  ],
+  "cuisine": [
+    "W Chorwacji królują ryby i owoce morza z grilla, czarne risotto z sepią, ćevapčići i pljeskavica. W Dalmacji spróbuj peki, czyli mięsa duszonego pod żeliwną pokrywą, a na Istrii makaronu z truflami. Do tego lokalne wino i rakija."
+  ],
+  "faq": [
+    {
+      "q": "Czy w Chorwacji są piaszczyste plaże?",
+      "a": "Niewiele. Większość plaż jest żwirowa lub kamienista. Piaszczyste znajdziesz m.in. na wyspie Rab, w Ninie koło Zadaru i na Lopud."
+    },
+    {
+      "q": "Jaka waluta jest w Chorwacji?",
+      "a": "Od 2023 roku Chorwacja używa euro."
+    },
+    {
+      "q": "Czy do Chorwacji wystarczy dowód osobisty?",
+      "a": "Tak, Chorwacja jest w Unii Europejskiej i strefie Schengen."
+    },
+    {
+      "q": "Ile jedzie się samochodem do Chorwacji?",
+      "a": "Z południa Polski na Istrię jedzie się około 10 do 11 godzin, do Splitu około 13 do 15 godzin."
+    }
+  ]
+}

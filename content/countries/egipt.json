@@ -1,0 +1,213 @@
+{
+  "slug": "egipt",
+  "loc": "w Egipcie",
+  "to": "do Egiptu",
+  "capital": "Kair",
+  "popularity": 96,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Hurghada",
+  "teaser": "Słońce przez cały rok, rafy koralowe Morza Czerwonego i piramidy w Gizie. Najpopularniejszy kierunek na zimowe wakacje all inclusive.",
+  "intro": [
+    "Egipt to najpopularniejszy kierunek zimowy wśród Polaków. Kiedy w Polsce jest zimno i szaro, w Hurghadzie świeci słońce, temperatura przekracza 22 stopnie, a woda w Morzu Czerwonym ma około 22 do 23 stopni. Lot trwa około czterech godzin, a ceny wakacji all inclusive należą do najniższych wśród ciepłych kierunków.",
+    "Największym skarbem Egiptu jest podwodny świat. Rafy koralowe zaczynają się często kilka metrów od brzegu, więc kolorowe ryby, koralowce, a czasem żółwie i delfiny zobaczysz z maską i fajką, bez kursu nurkowania. Z wybrzeża łatwo dojechać do Luksoru, Doliny Królów i świątyni w Karnaku, a z Hurghady organizowane są też loty i przejazdy do Kairu i piramid w Gizie."
+  ],
+  "highlights": [
+    "Słońce i ciepło przez cały rok",
+    "Rafy koralowe przy samym brzegu",
+    "Jedne z najtańszych ofert all inclusive",
+    "Piramidy, Luksor i Dolina Królów na wycieczkach",
+    "Lot około 4 godzin",
+    "Wiza turystyczna kupowana na lotnisku"
+  ],
+  "bestTime": {
+    "text": "Egipt nad Morzem Czerwonym to kierunek całoroczny, ale najprzyjemniejsze są miesiące wiosenne i jesienne: marzec do maja oraz październik i listopad. Jest wtedy ciepło, woda ma 24 do 27 stopni, a słońce nie męczy. Latem temperatury sięgają 35 do 40 stopni, choć dzięki suchemu powietrzu i bryzie znosi się je lepiej niż w innych krajach. Zimą jest około 22 do 23 stopni w dzień, ale wieczory bywają chłodne i wietrzne.",
+    "best": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ],
+    "ok": [
+      1,
+      2,
+      6,
+      9,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      22,
+      23,
+      25,
+      29,
+      32,
+      34,
+      35,
+      35,
+      33,
+      30,
+      27,
+      23
+    ],
+    "sea": [
+      22,
+      21,
+      22,
+      23,
+      25,
+      27,
+      28,
+      29,
+      28,
+      27,
+      25,
+      23
+    ],
+    "note": "Dane dla Hurghady. W Marsa Alam jest zwykle o 1 do 2 stopnie cieplej, a w Sharm el Sheikh podobnie jak w Hurghadzie."
+  },
+  "practical": {
+    "flight": "4 do 4,5 h",
+    "timeDiff": "+1 h",
+    "documents": "Potrzebny jest paszport ważny co najmniej 6 miesięcy oraz wiza turystyczna. Wizę kupuje się na lotnisku po przylocie (25 USD) albo wcześniej przez internet. Przy pobycie wyłącznie w Sharm el Sheikh i na Synaju wystarcza bezpłatny stempel synajski.",
+    "money": "Walutą jest funt egipski (EGP), ale w kurortach powszechnie używa się dolarów i euro. Warto mieć drobne banknoty na napiwki, które są w Egipcie ważną częścią kultury.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest arabski. W hotelach i kurortach dogadasz się po angielsku, a sprzedawcy często znają kilka słów po polsku.",
+    "safety": "Kurorty nad Morzem Czerwonym są dobrze chronione. Pij tylko wodę butelkowaną, unikaj surowych sałatek poza hotelem i uważaj na słońce. Przed kąpielą sprawdzaj, czy w pobliżu rafy nie ma jeżowców, i chodź w butach do wody."
+  },
+  "allInclusive": [
+    "Egipt to jedno z najtańszych miejsc na wakacje all inclusive w ciepłym klimacie. Za cenę średniego hotelu w Grecji można tu dostać pięciogwiazdkowy resort z kilkoma basenami, aquaparkiem i własną rafą. Przy wyborze hotelu najważniejsze jest, czy ma dostęp do rafy lub piaszczystą plażę dla dzieci, bo to zupełnie inne warunki do kąpieli.",
+    "Hotele z rafą przy plaży znajdziesz głównie w Marsa Alam, Sharm el Sheikh i El Quseir. W Hurghadzie, Makadi Bay i Sahl Hasheesh plaże są zwykle piaszczyste, a rafy oglądasz z pomostu lub podczas rejsów. Ceny są najniższe w maju, czerwcu i na początku grudnia, a najwyższe w ferie zimowe i święta."
+  ],
+  "regions": [
+    {
+      "slug": "hurghada",
+      "name": "Hurghada",
+      "loc": "w Hurghadzie",
+      "type": "kurort",
+      "wakacjePath": "hurghada",
+      "gygQuery": "Hurghada",
+      "airport": "Hurghada (HRG)",
+      "forWhom": "Największy kurort Egiptu z ogromnym wyborem hoteli, życiem nocnym i rejsami na wyspy.",
+      "intro": [
+        "Hurghada to główny kurort egipskiego wybrzeża i najczęściej wybierany kierunek przez polskie biura podróży. Ciągnie się kilkadziesiąt kilometrów wzdłuż Morza Czerwonego, a hotele stoją zarówno w centrum, jak i w spokojniejszych częściach, takich jak El Gouna, Makadi Bay czy Sahl Hasheesh.",
+        "Z Hurghady najłatwiej zorganizować wycieczki: rejs na wyspę Giftun z rafami, nurkowanie, safari quadami po pustyni, a także jednodniowe wyjazdy do Luksoru i Kairu."
+      ],
+      "places": [
+        {
+          "name": "El Gouna",
+          "text": "Elegancka laguna z kanałami, marinami i restauracjami. Najładniejsza część regionu."
+        },
+        {
+          "name": "Makadi Bay",
+          "text": "Zatoka z resortami all inclusive i spokojnym morzem, około 30 km na południe."
+        },
+        {
+          "name": "Sahl Hasheesh",
+          "text": "Nowoczesny kurort z promenadą i dobrą rafą przy kilku hotelach."
+        }
+      ],
+      "highlights": [
+        "Rejs na wyspę Giftun",
+        "Safari quadami po pustyni",
+        "Promenada w El Gouna",
+        "Wycieczka do Luksoru"
+      ]
+    },
+    {
+      "slug": "marsa-alam",
+      "name": "Marsa Alam",
+      "loc": "w Marsa Alam",
+      "type": "region",
+      "wakacjePath": "marsa-alam",
+      "gygQuery": "Marsa Alam",
+      "airport": "Marsa Alam (RMF)",
+      "forWhom": "Najpiękniejsze rafy Egiptu, żółwie i diugonie. Raj dla miłośników snorkelingu.",
+      "intro": [
+        "Marsa Alam to cichsza i bardziej dzika część egipskiego wybrzeża, położona na południe od Hurghady. Hotele stoją tu w dużych odległościach od siebie, a większość z nich ma własne rafy dostępne prosto z plaży.",
+        "Region słynie z zatoki Abu Dabbab, gdzie pływają żółwie morskie, a przy odrobinie szczęścia można spotkać diugonia. To idealny kierunek dla osób, które chcą spędzić urlop z maską i fajką."
+      ],
+      "highlights": [
+        "Zatoka Abu Dabbab z żółwiami",
+        "Rafa Elphinstone",
+        "Rejs do Sataya z delfinami",
+        "Rezerwat Wadi el Gemal"
+      ]
+    },
+    {
+      "slug": "sharm-el-sheikh",
+      "name": "Sharm el Sheikh",
+      "loc": "w Sharm el Sheikh",
+      "type": "kurort",
+      "wakacjePath": "sharm-el-sheikh",
+      "gygQuery": "Sharm el Sheikh",
+      "airport": "Sharm el Sheikh (SSH)",
+      "forWhom": "Kurort na Synaju z legendarnymi rafami Ras Mohammed i wycieczkami na Górę Mojżesza.",
+      "intro": [
+        "Sharm el Sheikh leży na południowym krańcu Półwyspu Synaj. To jedno z najlepszych miejsc do nurkowania na świecie, z parkiem narodowym Ras Mohammed i wyspą Tiran. Hotele w Zatoce Naama, Nabq i Sharks Bay często mają własne rafy i pomosty.",
+        "Przy pobyciu wyłącznie na Synaju zamiast płatnej wizy wystarczy darmowy stempel synajski, choć nie pozwala on na wycieczki do Kairu i Luksoru."
+      ],
+      "highlights": [
+        "Park Narodowy Ras Mohammed",
+        "Wschód słońca na Górze Mojżesza",
+        "Klasztor Świętej Katarzyny",
+        "Old Market i Soho Square"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Piramidy w Gizie i Sfinks",
+      "text": "Jedyny zachowany cud świata starożytnego. Z Hurghady jeździ się na całodniową wycieczkę autokarem lub leci samolotem.",
+      "gygQuery": "Giza pyramids from Hurghada"
+    },
+    {
+      "name": "Luksor i Dolina Królów",
+      "text": "Grobowce faraonów, w tym Tutanchamona, oraz świątynie w Karnaku i Luksorze.",
+      "gygQuery": "Luxor from Hurghada"
+    },
+    {
+      "name": "Rejs na wyspę Giftun",
+      "text": "Najpopularniejsza wycieczka z Hurghady: rafy, snorkeling i biała plaża Orange Bay.",
+      "gygQuery": "Giftun island"
+    },
+    {
+      "name": "Abu Dabbab",
+      "text": "Zatoka w Marsa Alam, gdzie pływa się z żółwiami morskimi.",
+      "gygQuery": "Abu Dabbab"
+    },
+    {
+      "name": "Ras Mohammed",
+      "text": "Park narodowy u wybrzeży Synaju z jednymi z najpiękniejszych raf świata.",
+      "gygQuery": "Ras Mohammed"
+    },
+    {
+      "name": "Muzeum Egipskie w Gizie",
+      "text": "Nowe Wielkie Muzeum Egipskie pod piramidami z pełną kolekcją skarbów Tutanchamona.",
+      "gygQuery": "Grand Egyptian Museum"
+    }
+  ],
+  "cuisine": [
+    "W hotelach all inclusive kuchnia jest międzynarodowa, ale warto spróbować lokalnych dań: koszari (makaron z ryżem, soczewicą i sosem pomidorowym), ful medames z bobu, falafela zwanego tu tamija, szaszłyków kofta i świeżych ryb. Na deser baklawa i ciasto basbousa, a do picia herbata z hibiskusa karkade."
+  ],
+  "faq": [
+    {
+      "q": "Ile kosztuje wiza do Egiptu?",
+      "a": "Wiza turystyczna kosztuje 25 USD i można ją kupić na lotnisku po przylocie. Przy pobycie tylko w Sharm el Sheikh wystarczy darmowy stempel synajski."
+    },
+    {
+      "q": "Hurghada czy Marsa Alam?",
+      "a": "Hurghada daje więcej rozrywek, restauracji i wycieczek. Marsa Alam jest spokojniejsza i ma lepsze rafy przy hotelach. Do snorkelingu wybierz Marsa Alam, na rodzinny urlop z atrakcjami Hurghadę."
+    },
+    {
+      "q": "Czy w Egipcie jest ciepło zimą?",
+      "a": "Tak. W styczniu i lutym w Hurghadzie jest około 22 do 23 stopni w dzień, a woda ma około 21 do 22 stopni. Wieczory są chłodne, warto zabrać bluzę."
+    },
+    {
+      "q": "Czy można pić wodę z kranu w Egipcie?",
+      "a": "Nie. Do picia i mycia zębów używaj wody butelkowanej. To najprostszy sposób, żeby uniknąć problemów żołądkowych."
+    }
+  ]
+}

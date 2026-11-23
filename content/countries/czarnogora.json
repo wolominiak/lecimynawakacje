@@ -1,0 +1,162 @@
+{
+  "slug": "czarnogora",
+  "loc": "w Czarnogórze",
+  "to": "do Czarnogóry",
+  "capital": "Podgorica",
+  "popularity": 70,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Czarnogóra",
+  "teaser": "Góry wpadające do Adriatyku, Zatoka Kotorska, Budva i Sveti Stefan. Bałkańska perła w rozsądnej cenie.",
+  "intro": [
+    "Czarnogóra to mały kraj z wielkimi krajobrazami. Na niespełna 300 kilometrach wybrzeża góry schodzą prosto do Adriatyku, a Zatoka Kotorska przypomina norweski fiord. Ceny są niższe niż w sąsiedniej Chorwacji, a do wjazdu wystarczy dowód osobisty.",
+    "Biura podróży oferują głównie Budvę, Becici, Petrovac i Ulcinj. Warto poświęcić dzień na Kotor i Perast, a drugi na wycieczkę w głąb kraju: do kanionu Tary, Parku Narodowego Durmitor i nad Jezioro Szkoderskie."
+  ],
+  "highlights": [
+    "Zatoka Kotorska z listy UNESCO",
+    "Budva i wyspa Sveti Stefan",
+    "Wystarczy dowód osobisty",
+    "Ceny niższe niż w Chorwacji",
+    "Kanion Tary i Durmitor",
+    "Lot około 2 godzin"
+  ],
+  "bestTime": {
+    "text": "Najlepiej jechać do Czarnogóry w czerwcu i wrześniu. Lipiec i sierpień są najcieplejsze, ale plaże w Budvie są wtedy bardzo zatłoczone.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5
+    ]
+  },
+  "climate": {
+    "air": [
+      12,
+      13,
+      15,
+      18,
+      23,
+      27,
+      30,
+      30,
+      26,
+      21,
+      16,
+      13
+    ],
+    "sea": [
+      14,
+      14,
+      15,
+      16,
+      19,
+      23,
+      25,
+      25,
+      23,
+      21,
+      18,
+      16
+    ],
+    "note": "Dane dla Budvy."
+  },
+  "practical": {
+    "flight": "około 2 h",
+    "timeDiff": "0 h",
+    "documents": "Polacy mogą wjechać do Czarnogóry na dowód osobisty lub paszport, bez wizy, na pobyt do 90 dni.",
+    "money": "W Czarnogórze płaci się euro, choć kraj nie jest członkiem Unii Europejskiej.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest czarnogórski. Wielu mieszkańców rozumie podstawowe słowa po polsku.",
+    "safety": "Czarnogóra jest bezpieczna. Drogi górskie są wąskie i kręte."
+  },
+  "regions": [
+    {
+      "slug": "budva",
+      "name": "Budva i Riwiera Budvańska",
+      "loc": "w Budvie",
+      "type": "kurort",
+      "wakacjePath": "budva",
+      "gygQuery": "Budva",
+      "airport": "Tivat (TIV), Podgorica (TGD)",
+      "forWhom": "Stare miasto w murach, plaże Becici i Sveti Stefan. Centrum wakacji w Czarnogórze.",
+      "intro": [
+        "Budva to najpopularniejszy kurort Czarnogóry z otoczonym murami starym miastem na cyplu i wieloma plażami w okolicy. Becici ma długą piaszczysto żwirową plażę idealną dla rodzin, a Sveti Stefan to słynna wysepka hotelowa połączona z lądem groblą.",
+        "Budva ma bogate życie nocne, a stąd najłatwiej dojechać do Kotoru i Perastu."
+      ],
+      "highlights": [
+        "Stare Miasto Budva",
+        "Sveti Stefan",
+        "Plaża Mogren",
+        "Petrovac"
+      ]
+    },
+    {
+      "slug": "zatoka-kotorska",
+      "name": "Zatoka Kotorska",
+      "loc": "w Zatoce Kotorskiej",
+      "type": "region",
+      "gygQuery": "Kotor",
+      "airport": "Tivat (TIV)",
+      "forWhom": "Fiord Południa z Kotorem, Perastem i wyspą Matki Bożej na Skale.",
+      "intro": [
+        "Zatoka Kotorska wcina się głęboko w ląd między stromymi górami. Na jej brzegach leżą weneckie miasteczka: Kotor z murami pnącymi się na zbocze, barokowy Perast i Tivat z luksusową mariną Porto Montenegro.",
+        "Z Perastu łodzią dopływa się na wyspę Matki Bożej na Skale, sztucznie usypaną przez marynarzy."
+      ],
+      "highlights": [
+        "Mury Kotoru i twierdza",
+        "Perast",
+        "Wyspa Gospa od Škrpjela",
+        "Porto Montenegro"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kotor",
+      "text": "Średniowieczne miasto w murach z twierdzą świętego Jana na zboczu.",
+      "gygQuery": "Kotor"
+    },
+    {
+      "name": "Kanion Tary",
+      "text": "Drugi najgłębszy kanion świata, rafting i most Đurđevića.",
+      "gygQuery": "Tara rafting"
+    },
+    {
+      "name": "Jezioro Szkoderskie",
+      "text": "Największe jezioro Bałkanów z pelikanami i winnicami.",
+      "gygQuery": "Skadar Lake"
+    },
+    {
+      "name": "Monastyr Ostrog",
+      "text": "Klasztor wbudowany w pionową skałę.",
+      "gygQuery": "Ostrog"
+    },
+    {
+      "name": "Perast",
+      "text": "Barokowe miasteczko nad zatoką i rejs na wyspę.",
+      "gygQuery": "Perast"
+    },
+    {
+      "name": "Park Narodowy Durmitor",
+      "text": "Górskie jeziora, Czarne Jezioro i szczyty ponad 2500 m.",
+      "gygQuery": "Durmitor"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Czy w Czarnogórze płaci się euro?",
+      "a": "Tak, choć Czarnogóra nie jest w Unii Europejskiej, oficjalną walutą jest euro."
+    },
+    {
+      "q": "Czy do Czarnogóry wystarczy dowód osobisty?",
+      "a": "Tak, Polacy mogą wjechać na dowód osobisty na pobyt do 90 dni."
+    },
+    {
+      "q": "Czy plaże w Czarnogórze są piaszczyste?",
+      "a": "Większość jest żwirowa. Piaszczyste plaże są głównie w Ulcinju na południu, np. Velika Plaža."
+    }
+  ]
+}

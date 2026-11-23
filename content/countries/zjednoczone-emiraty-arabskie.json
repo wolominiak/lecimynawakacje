@@ -1,0 +1,106 @@
+{
+  "slug": "zjednoczone-emiraty-arabskie",
+  "loc": "w Emiratach Arabskich",
+  "to": "do Emiratów",
+  "capital": "Abu Zabi",
+  "popularity": 87,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Dubaj",
+  "teaser": "Dubaj z Burdż Chalifa, plaże Ras al Chajma i luksus Abu Zabi. Ciepła zima sześć godzin lotu od Polski.",
+  "intro": [
+    "Zjednoczone Emiraty Arabskie to jeden z najszybciej rosnących kierunków zimowych. Od października do kwietnia jest tu słonecznie i ciepło, a lot trwa około sześciu godzin, także bezpośrednio z kilku polskich miast. Dubaj kusi rekordowymi wieżowcami, centrami handlowymi i parkami rozrywki, a Ras al Chajma i Fudżajra spokojnymi plażami i hotelami all inclusive.",
+    "Emiraty to kierunek dla tych, którzy chcą połączyć plażę z wielkomiejskimi atrakcjami: wjazdem na Burdż Chalifa, safari na pustyni, wieczornym pokazem fontann i zakupami na suku złota. Abu Zabi dodaje do tego Wielki Meczet Szejka Zajida i Luwr Abu Zabi."
+  ],
+  "highlights": [
+    "Słonecznie i ciepło od października do kwietnia",
+    "Burdż Chalifa i Dubai Mall",
+    "Safari na pustyni z kolacją",
+    "Wielki Meczet w Abu Zabi",
+    "Bez wizy dla Polaków",
+    "Loty bezpośrednie z Polski"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wakacje w Emiratach to listopad do marca: w dzień jest 25 do 30 stopni, a morze ma 22 do 26 stopni. Październik i kwiecień są już bardzo ciepłe. Od maja do września upał przekracza 40 stopni i życie przenosi się do klimatyzowanych wnętrz.",
+    "best": [11, 12, 1, 2, 3],
+    "ok": [10, 4]
+  },
+  "climate": {
+    "air": [24, 25, 28, 33, 38, 40, 41, 41, 39, 35, 30, 26],
+    "sea": [22, 22, 23, 25, 28, 31, 32, 33, 32, 30, 27, 24],
+    "note": "Dane dla Dubaju."
+  },
+  "practical": {
+    "flight": "około 6 h",
+    "timeDiff": "+3 h zimą, +2 h latem",
+    "documents": "Polacy otrzymują bezpłatny stempel wjazdowy na lotnisku. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest dirham ZEA (AED). Kartą płaci się wszędzie. Emiraty nie są tanie, szczególnie alkohol i restauracje w hotelach.",
+    "plugs": "Gniazdka typu G (brytyjskie). Potrzebna przejściówka.",
+    "language": "Językiem urzędowym jest arabski, ale w praktyce wszędzie używa się angielskiego.",
+    "safety": "Emiraty są jednym z najbezpieczniejszych krajów świata. Obowiązują surowe przepisy: alkohol tylko w licencjonowanych miejscach, zakaz okazywania czułości w miejscach publicznych, skromny strój w meczetach i centrach handlowych."
+  },
+  "allInclusive": [
+    "Hotele all inclusive w Emiratach skupiają się głównie w Ras al Chajma i Fudżajrze, gdzie plaże są spokojniejsze, a ceny niższe niż w Dubaju. W Dubaju częściej wybiera się śniadania lub HB, bo miasto ma ogromną ofertę restauracji.",
+    "Pakiety all inclusive bywają droższe niż w Egipcie, ale w zamian dostajemy wyższy standard i łatwy dostęp do atrakcji Dubaju."
+  ],
+  "regions": [
+    {
+      "slug": "dubaj",
+      "name": "Dubaj",
+      "loc": "w Dubaju",
+      "type": "miasto",
+      "wakacjePath": "dubaj",
+      "gygQuery": "Dubaj",
+      "airport": "Dubaj (DXB), Dubaj World Central (DWC)",
+      "forWhom": "Miasto rekordów: Burdż Chalifa, Palm Jumeirah, plaże i pustynia za miastem.",
+      "intro": [
+        "Dubaj to miasto, które w ciągu kilkudziesięciu lat wyrosło z pustyni na globalną metropolię. Najwyższy budynek świata Burdż Chalifa, sztuczna wyspa Palm Jumeirah, Dubai Marina i plaża JBR to wizytówki nowoczesnej części miasta.",
+        "Stary Dubaj z dzielnicą Al Fahidi, sukami złota i przypraw oraz przeprawą abrą przez Dubai Creek pokazuje, jak wyglądało miasto przed boomem."
+      ],
+      "highlights": ["Burdż Chalifa", "Pokaz Fontann", "Palm Jumeirah", "Safari na pustyni"]
+    },
+    {
+      "slug": "ras-al-chajma",
+      "name": "Ras al Chajma",
+      "loc": "w Ras al Chajma",
+      "type": "emirat",
+      "wakacjePath": "ras-al-khaimah",
+      "gygQuery": "Ras Al Khaimah",
+      "airport": "Ras al Chajma (RKT), Dubaj (DXB)",
+      "forWhom": "Plaże i all inclusive bez dubajskich cen, góry Dżabal Dżajs i najdłuższa tyrolka świata.",
+      "intro": [
+        "Ras al Chajma to najbardziej na północ wysunięty emirat, około godziny jazdy od Dubaju. Słynie z hoteli all inclusive przy piaszczystych plażach na wyspie Al Marjan i z gór Dżabal Dżajs z najdłuższą tyrolką świata.",
+        "To dobry wybór dla rodzin i osób, które chcą wypocząć, a do Dubaju pojechać na jeden lub dwa dni."
+      ],
+      "highlights": ["Jebel Jais Flight", "Wyspa Al Marjan", "Stare miasto Al Jazirah Al Hamra", "Plaże z all inclusive"]
+    },
+    {
+      "slug": "abu-zabi",
+      "name": "Abu Zabi",
+      "loc": "w Abu Zabi",
+      "type": "miasto",
+      "wakacjePath": "abu-zabi",
+      "gygQuery": "Abu Dhabi",
+      "airport": "Abu Zabi (AUH)",
+      "forWhom": "Stolica z Wielkim Meczetem, Luwrem i parkami rozrywki na wyspie Yas.",
+      "intro": [
+        "Abu Zabi to stolica Emiratów, spokojniejsza i bardziej elegancka od Dubaju. Wielki Meczet Szejka Zajida z białego marmuru należy do najpiękniejszych budowli współczesnego świata, a Luwr Abu Zabi pod kopułą z metalowej koronki jest arcydziełem architektury.",
+        "Na wyspie Yas działają Ferrari World, Warner Bros. World i największy w regionie park wodny."
+      ],
+      "highlights": ["Wielki Meczet Szejka Zajida", "Luwr Abu Zabi", "Ferrari World", "Corniche"]
+    }
+  ],
+  "attractions": [
+    { "name": "Burdż Chalifa", "text": "Taras widokowy na 124. i 148. piętrze najwyższego budynku świata.", "gygQuery": "Burj Khalifa tickets" },
+    { "name": "Safari na pustyni", "text": "Przejazd jeepem po wydmach, sandboarding i kolacja w obozie beduińskim.", "gygQuery": "Dubai desert safari" },
+    { "name": "Wielki Meczet w Abu Zabi", "text": "Jeden z największych meczetów świata, otwarty dla zwiedzających.", "gygQuery": "Sheikh Zayed Grand Mosque" },
+    { "name": "Museum of the Future", "text": "Futurystyczny budynek z interaktywną wystawą o przyszłości.", "gygQuery": "Museum of the Future" },
+    { "name": "Dubai Frame", "text": "Złota rama widokowa między starym i nowym Dubajem.", "gygQuery": "Dubai Frame" },
+    { "name": "Aquaventure na Palm", "text": "Jeden z największych parków wodnych świata przy Atlantis The Palm.", "gygQuery": "Aquaventure" }
+  ],
+  "faq": [
+    { "q": "Czy do Dubaju potrzebna jest wiza?", "a": "Nie. Polacy dostają bezpłatny stempel wjazdowy na lotnisku. Paszport musi być ważny minimum 6 miesięcy." },
+    { "q": "Kiedy jechać do Dubaju?", "a": "Najlepiej od listopada do marca. Latem temperatura przekracza 40 stopni." },
+    { "q": "Dubaj czy Ras al Chajma?", "a": "Dubaj to atrakcje i miasto, Ras al Chajma spokojne plaże i all inclusive w niższej cenie. Wiele osób nocuje w Ras al Chajma i jeździ do Dubaju na wycieczki." }
+  ]
+}

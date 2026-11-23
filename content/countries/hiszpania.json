@@ -1,0 +1,275 @@
+{
+  "slug": "hiszpania",
+  "loc": "w Hiszpanii",
+  "to": "do Hiszpanii",
+  "capital": "Madryt",
+  "popularity": 94,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Hiszpania",
+  "teaser": "Wyspy Kanaryjskie na zimę, Majorka i Costa Brava na lato, Barcelona i Andaluzja na zwiedzanie. Hiszpania ma kierunek na każdy miesiąc.",
+  "intro": [
+    "Hiszpania to jeden z najbardziej różnorodnych kierunków wakacyjnych w Europie. Latem królują Baleary z Majorką i Ibizą oraz wybrzeża Costa Brava i Costa del Sol. Zimą Polacy masowo latają na Wyspy Kanaryjskie, gdzie przez cały rok jest wiosennie, a słońce świeci nawet w styczniu.",
+    "Poza plażami Hiszpania kusi miastami, które same w sobie są powodem do przyjazdu: Barceloną z dziełami Gaudíego, Sewillą, Granadą z Alhambrą, Walencją i Madrytem. Kuchnia, wino i styl życia z późnymi kolacjami i tapas sprawiają, że wiele osób wraca tu co roku."
+  ],
+  "highlights": [
+    "Wyspy Kanaryjskie ciepłe przez cały rok",
+    "Baleary i wybrzeże śródziemnomorskie latem",
+    "Barcelona, Sewilla i Granada na zwiedzanie",
+    "Unia Europejska: wystarczy dowód osobisty",
+    "Tanie loty z wielu polskich miast",
+    "Tapas, paella i hiszpańskie wina"
+  ],
+  "bestTime": {
+    "text": "Na wybrzeże Morza Śródziemnego i Baleary najlepiej jechać od czerwca do września, kiedy woda jest ciepła. Maj i październik są idealne do zwiedzania Andaluzji i miast. Wyspy Kanaryjskie to kierunek całoroczny: zimą jest tam 21 do 23 stopni, latem 26 do 29, a woda ma od 19 do 23 stopni. Najgoręcej w lipcu i sierpniu jest w Andaluzji, gdzie temperatury przekraczają 40 stopni.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      16,
+      17,
+      19,
+      21,
+      24,
+      28,
+      30,
+      31,
+      28,
+      24,
+      20,
+      17
+    ],
+    "sea": [
+      15,
+      14,
+      15,
+      16,
+      19,
+      22,
+      25,
+      26,
+      25,
+      22,
+      19,
+      16
+    ],
+    "note": "Dane dla Majorki (Palma). Na Wyspach Kanaryjskich zimą jest o kilka stopni cieplej, a latem chłodniej."
+  },
+  "practical": {
+    "flight": "3 do 5 h (Kanary około 5 h)",
+    "timeDiff": "0 h (Kanary -1 h)",
+    "documents": "Hiszpania jest w Unii Europejskiej i strefie Schengen. Wystarczy ważny dowód osobisty lub paszport, także na Wyspach Kanaryjskich i Balearach.",
+    "money": "Walutą jest euro. Kartą płaci się wszędzie. W wielu regionach turystycznych pobierana jest opłata klimatyczna doliczana do rachunku w hotelu.",
+    "plugs": "Gniazdka typu C i F, jak w Polsce.",
+    "language": "Językiem urzędowym jest hiszpański, a w Katalonii, Walencji i na Balearach także języki regionalne. W kurortach dogadasz się po angielsku.",
+    "safety": "Hiszpania jest bezpieczna. W Barcelonie i Madrycie uważaj na kieszonkowców w metrze i na popularnych ulicach."
+  },
+  "allInclusive": [
+    "All inclusive w Hiszpanii jest mniej powszechne niż w Turcji czy Egipcie, ale wybór jest duży, szczególnie na Majorce, Teneryfie, Gran Canarii i Fuerteventurze. Hotele są zwykle mniejsze, a jedzenie bardziej śródziemnomorskie: ryby, owoce morza, świeże warzywa i hiszpańskie wino.",
+    "Na Wyspach Kanaryjskich all inclusive ma sens zwłaszcza zimą, kiedy wiele osób spędza dłuższe urlopy. Na Majorce częściej wybiera się wyżywienie HB i kolacje w miasteczkach."
+  ],
+  "regions": [
+    {
+      "slug": "teneryfa",
+      "name": "Teneryfa",
+      "loc": "na Teneryfie",
+      "type": "Wyspy Kanaryjskie",
+      "wakacjePath": "teneryfa",
+      "gygQuery": "Teneryfa",
+      "airport": "Teneryfa Południe (TFS)",
+      "forWhom": "Wieczna wiosna, wulkan Teide, delfiny i czarne plaże. Najpopularniejsza z Kanarów.",
+      "intro": [
+        "Teneryfa to największa i najczęściej odwiedzana z Wysp Kanaryjskich. Nad wyspą góruje wulkan Teide, najwyższy szczyt Hiszpanii, na który można wjechać kolejką linową. Południe wyspy z Costa Adeje, Playa de las Américas i Los Cristianos jest suche i słoneczne, a północ zielona i bardziej deszczowa.",
+        "Teneryfa jest idealna zarówno zimą, kiedy uciekamy przed mrozem, jak i latem. Z portów na południu wypływają rejsy na obserwację wielorybów i delfinów, a w Loro Parque i Siam Parku spędzisz cały dzień z dziećmi."
+      ],
+      "highlights": [
+        "Wulkan Teide i park narodowy",
+        "Rejsy z delfinami i grindwalami",
+        "Siam Park i Loro Parque",
+        "Klify Los Gigantes"
+      ]
+    },
+    {
+      "slug": "gran-canaria",
+      "name": "Gran Canaria",
+      "loc": "na Gran Canarii",
+      "type": "Wyspy Kanaryjskie",
+      "wakacjePath": "gran-canaria",
+      "gygQuery": "Gran Canaria",
+      "airport": "Gran Canaria (LPA)",
+      "forWhom": "Kontynent w miniaturze: wydmy Maspalomas, górskie wioski i kurorty z całoroczną pogodą.",
+      "intro": [
+        "Gran Canaria nazywana jest kontynentem w miniaturze, bo na niewielkiej powierzchni ma pustynne wydmy, sosnowe lasy, wąwozy i górskie miasteczka. Na południu, w Maspalomas, Playa del Inglés i Puerto Rico, skupia się baza hotelowa, a stolica Las Palmas ma jedną z najlepszych miejskich plaż Europy.",
+        "To dobra wyspa dla osób, które chcą połączyć wypoczynek z jazdą samochodem po górskich serpentynach i odkrywaniem wiosek."
+      ],
+      "highlights": [
+        "Wydmy Maspalomas",
+        "Roque Nublo",
+        "Puerto de Mogán, mała Wenecja",
+        "Plaża Las Canteras"
+      ]
+    },
+    {
+      "slug": "fuerteventura",
+      "name": "Fuerteventura",
+      "loc": "na Fuerteventurze",
+      "type": "Wyspy Kanaryjskie",
+      "wakacjePath": "fuerteventura",
+      "gygQuery": "Fuerteventura",
+      "airport": "Fuerteventura (FUE)",
+      "forWhom": "Najdłuższe plaże Kanarów, wydmy Corralejo i wiatr dla surferów.",
+      "intro": [
+        "Fuerteventura to wyspa plaż. Ma ich ponad 150, a wiele ciągnie się kilometrami, z białym piaskiem i turkusową wodą. Krajobraz jest pustynny i surowy, a stały wiatr przyciąga surferów i kitesurferów z całego świata.",
+        "Najpopularniejsze miejsca to Corralejo z parkiem wydm na północy i Costa Calma oraz Jandía na południu."
+      ],
+      "highlights": [
+        "Wydmy Corralejo",
+        "Plaże Sotavento",
+        "Wyspa Lobos",
+        "Surfing i kitesurfing"
+      ]
+    },
+    {
+      "slug": "lanzarote",
+      "name": "Lanzarote",
+      "loc": "na Lanzarote",
+      "type": "Wyspy Kanaryjskie",
+      "wakacjePath": "lanzarote",
+      "gygQuery": "Lanzarote",
+      "airport": "Lanzarote (ACE)",
+      "forWhom": "Księżycowe krajobrazy wulkanów, winnice w czarnym popiele i architektura Césara Manrique.",
+      "intro": [
+        "Lanzarote wygląda jak inna planeta. Park Narodowy Timanfaya to pola zastygłej lawy i kratery, a winnice w La Geria rosną w lejach wykopanych w czarnym popiele wulkanicznym. Artysta César Manrique zadbał, by wyspa nie została zabudowana wieżowcami.",
+        "Hotele skupiają się w Puerto del Carmen, Costa Teguise i Playa Blanca. Lanzarote jest spokojniejsza niż Teneryfa i Gran Canaria."
+      ],
+      "highlights": [
+        "Park Narodowy Timanfaya",
+        "Jameos del Agua",
+        "Winnice La Geria",
+        "Plaże Papagayo"
+      ]
+    },
+    {
+      "slug": "majorka",
+      "name": "Majorka",
+      "loc": "na Majorce",
+      "type": "Baleary",
+      "wakacjePath": "majorka",
+      "gygQuery": "Majorka",
+      "airport": "Palma de Mallorca (PMI)",
+      "forWhom": "Turkusowe zatoczki, góry Tramuntana i elegancka Palma. Wyspa na każdy styl wakacji.",
+      "intro": [
+        "Majorka to największa wyspa Balearów i jedno z najpiękniejszych miejsc na Morzu Śródziemnym. Ma setki zatoczek z turkusową wodą, zwanych calas, góry Serra de Tramuntana wpisane na listę UNESCO i stolicę Palmę z gotycką katedrą.",
+        "Wschodnie wybrzeże z Cala d'Or i Cala Millor jest idealne dla rodzin, Alcúdia na północy ma długie płytkie plaże, a Magaluf słynie z życia nocnego."
+      ],
+      "highlights": [
+        "Katedra La Seu w Palmie",
+        "Serra de Tramuntana",
+        "Cuevas del Drach",
+        "Cala Mondragó i Es Trenc"
+      ]
+    },
+    {
+      "slug": "costa-del-sol",
+      "name": "Costa del Sol",
+      "loc": "na Costa del Sol",
+      "type": "wybrzeże",
+      "wakacjePath": "costa-del-sol",
+      "gygQuery": "Costa del Sol",
+      "airport": "Malaga (AGP)",
+      "forWhom": "Andaluzyjskie wybrzeże słońca: Malaga, Marbella i wycieczki do Granady i Sewilli.",
+      "intro": [
+        "Costa del Sol to słoneczne wybrzeże Andaluzji z Malagą, Torremolinos, Benalmádeną i Marbellą. Sezon trwa tu bardzo długo, a w zimie jest jednym z najcieplejszych miejsc kontynentalnej Europy.",
+        "Region jest świetną bazą do zwiedzania Andaluzji: Granady z Alhambrą, Sewilli, Kordoby, Rondy i białych miasteczek."
+      ],
+      "highlights": [
+        "Alhambra w Granadzie",
+        "Ronda i białe miasteczka",
+        "Muzeum Picassa w Maladze",
+        "Gibraltar"
+      ]
+    },
+    {
+      "slug": "barcelona",
+      "name": "Barcelona i Costa Brava",
+      "loc": "w Barcelonie",
+      "type": "miasto i wybrzeże",
+      "wakacjePath": "costa-brava",
+      "gygQuery": "Barcelona",
+      "airport": "Barcelona (BCN), Girona (GRO)",
+      "forWhom": "Gaudí, tapas i miejska plaża plus skaliste zatoki Costa Brava na wypoczynek.",
+      "intro": [
+        "Barcelona to jedno z najchętniej odwiedzanych miast Europy: Sagrada Família, Park Güell, Casa Batlló, gotycka dzielnica i plaża Barceloneta w jednym miejscu. Na północ od miasta ciągnie się Costa Brava ze skalistymi zatokami i kurortami Lloret de Mar, Tossa de Mar i Blanes.",
+        "To dobry wybór na wakacje łączące zwiedzanie z plażą, także przy wyjeździe samochodem z Polski."
+      ],
+      "highlights": [
+        "Sagrada Família",
+        "Park Güell",
+        "Tossa de Mar",
+        "Muzeum Dalíego w Figueres"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Sagrada Família",
+      "text": "Bazylika Gaudíego w Barcelonie, budowana od 1882 roku. Bilety trzeba rezerwować z wyprzedzeniem.",
+      "gygQuery": "Sagrada Familia"
+    },
+    {
+      "name": "Alhambra w Granadzie",
+      "text": "Mauretański zespół pałacowy z ogrodami Generalife, jeden z najważniejszych zabytków Europy.",
+      "gygQuery": "Alhambra"
+    },
+    {
+      "name": "Wulkan Teide",
+      "text": "Najwyższy szczyt Hiszpanii na Teneryfie. Kolejka wjeżdża na wysokość ponad 3500 metrów.",
+      "gygQuery": "Teide cable car"
+    },
+    {
+      "name": "Park Güell",
+      "text": "Kolorowy park Gaudíego z mozaikami i widokiem na Barcelonę.",
+      "gygQuery": "Park Guell"
+    },
+    {
+      "name": "Sewilla",
+      "text": "Katedra z wieżą Giralda, Alcázar i dzielnica Santa Cruz. Stolica flamenco.",
+      "gygQuery": "Sevilla"
+    },
+    {
+      "name": "Cuevas del Drach na Majorce",
+      "text": "Jaskinie z podziemnym jeziorem i koncertem muzyki klasycznej na łodziach.",
+      "gygQuery": "Cuevas del Drach"
+    }
+  ],
+  "cuisine": [
+    "Hiszpania to raj dla smakoszy. Zamawiaj tapas: patatas bravas, jamón ibérico, krokiety, kalmary i chorizo. Paella najlepsza jest w Walencji, gazpacho i salmorejo w Andaluzji, a na Kanarach spróbuj ziemniaków papas arrugadas z sosem mojo. Do tego sangria, wino Rioja lub zimne cerveza."
+  ],
+  "faq": [
+    {
+      "q": "Gdzie w Hiszpanii jest ciepło zimą?",
+      "a": "Na Wyspach Kanaryjskich: Teneryfie, Gran Canarii, Fuerteventurze i Lanzarote. W styczniu jest tam 20 do 22 stopni w dzień."
+    },
+    {
+      "q": "Która wyspa kanaryjska jest najlepsza?",
+      "a": "Teneryfa jest najbardziej różnorodna, Gran Canaria ma najwięcej krajobrazów, Fuerteventura najlepsze plaże, a Lanzarote najbardziej niezwykłe wulkaniczne widoki."
+    },
+    {
+      "q": "Czy do Hiszpanii wystarczy dowód osobisty?",
+      "a": "Tak. Hiszpania, w tym Wyspy Kanaryjskie i Baleary, należy do Unii Europejskiej i strefy Schengen."
+    },
+    {
+      "q": "Kiedy jechać na Majorkę?",
+      "a": "Najlepiej od czerwca do września. W maju i październiku jest przyjemnie ciepło, ale woda bywa chłodna."
+    }
+  ]
+}

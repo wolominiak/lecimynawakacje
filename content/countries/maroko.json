@@ -1,0 +1,94 @@
+{
+  "slug": "maroko",
+  "loc": "w Maroku",
+  "to": "do Maroka",
+  "capital": "Rabat",
+  "popularity": 74,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Maroko",
+  "teaser": "Agadir z ciepłą zimą nad Atlantykiem, Marrakesz z sukami i riadami, Sahara i góry Atlas na jednej wycieczce.",
+  "intro": [
+    "Maroko to najbliższa Polsce prawdziwa egzotyka. Kilka godzin lotu dzieli nas od labiryntów medyn, kolorowych suków, zapachu przypraw i miętowej herbaty. Biura podróży najczęściej oferują Agadir, kurort nad Atlantykiem z szeroką piaszczystą plażą i ponad 300 słonecznymi dniami w roku.",
+    "Z Agadiru warto ruszyć dalej: do Marrakeszu z placem Dżamaa al Fna, przez góry Atlas do kazb Ajt Bin Haddu i na wydmy Sahary w Merzudze. Maroko to również Fez z najstarszą medyną świata, niebieskie Szefszawan i Essaouira z portem i wiatrem dla surferów."
+  ],
+  "highlights": [
+    "Agadir: ciepło także zimą",
+    "Marrakesz, Fez i Szefszawan",
+    "Sahara i góry Atlas",
+    "Bez wizy dla Polaków do 90 dni",
+    "Riady, hammamy i kuchnia tadżin",
+    "Lot około 4,5 godziny"
+  ],
+  "bestTime": {
+    "text": "Agadir jest kierunkiem całorocznym: zimą jest 20 do 22 stopni, latem 26 do 28, a ocean od 18 do 22 stopni. Na zwiedzanie Marrakeszu i Sahary najlepsze są marzec do maja oraz październik i listopad. Latem w głębi kraju upał przekracza 40 stopni.",
+    "best": [4, 5, 9, 10],
+    "ok": [3, 6, 7, 8, 11]
+  },
+  "climate": {
+    "air": [21, 22, 23, 23, 25, 26, 28, 28, 27, 26, 24, 22],
+    "sea": [18, 18, 18, 18, 19, 20, 21, 22, 22, 21, 20, 19],
+    "note": "Dane dla Agadiru. W Marrakeszu latem jest ponad 37 stopni, zimą około 19."
+  },
+  "practical": {
+    "flight": "4,5 do 5 h",
+    "timeDiff": "0 h zimą, -1 h latem",
+    "documents": "Polacy nie potrzebują wizy przy pobycie do 90 dni. Potrzebny jest paszport ważny dłużej niż planowany pobyt.",
+    "money": "Walutą jest dirham marokański (MAD). Na sukach trzeba się targować. Gotówka jest niezbędna poza hotelami.",
+    "plugs": "Gniazdka typu C i E, polskie wtyczki pasują.",
+    "language": "Językami urzędowymi są arabski i berberyjski, powszechnie używa się francuskiego.",
+    "safety": "Maroko jest bezpieczne dla turystów, ale w medynach bywają natarczywi przewodnicy i naganiacze. Ubieraj się skromnie poza kurortem."
+  },
+  "allInclusive": [
+    "Hotele all inclusive w Maroku znajdziesz głównie w Agadirze, przy kilkukilometrowej piaszczystej plaży. Standard jest dobry, a kuchnia hotelowa często proponuje marokańskie dania obok międzynarodowych.",
+    "Maroko all inclusive to dobry pomysł na zimę, gdy Grecja i Hiszpania kontynentalna są za chłodne, ale warto zostawić czas na wycieczki do Marrakeszu i w góry."
+  ],
+  "regions": [
+    {
+      "slug": "agadir",
+      "name": "Agadir",
+      "loc": "w Agadirze",
+      "type": "kurort",
+      "wakacjePath": "agadir",
+      "gygQuery": "Agadir",
+      "airport": "Agadir (AGA)",
+      "forWhom": "Szeroka piaszczysta plaża, słońce przez cały rok i baza do wycieczek po Maroku.",
+      "intro": [
+        "Agadir to najpopularniejszy kurort Maroka, odbudowany po trzęsieniu ziemi w 1960 roku jako nowoczesne miasto. Ma dziesięciokilometrową plażę z promenadą, marinę, kolejkę na wzgórze kazby i duży suk El Had.",
+        "Nad oceanem często wieje, więc woda latem rzadko przekracza 22 stopnie, za to upał jest łagodniejszy niż w głębi kraju."
+      ],
+      "highlights": ["Kazba Agadir Oufella", "Suk El Had", "Paradise Valley", "Park Narodowy Souss Massa"]
+    },
+    {
+      "slug": "marrakesz",
+      "name": "Marrakesz",
+      "loc": "w Marrakeszu",
+      "type": "miasto",
+      "wakacjePath": "marrakesz",
+      "gygQuery": "Marrakesz",
+      "airport": "Marrakesz (RAK)",
+      "forWhom": "Czerwone miasto: Dżamaa al Fna, ogrody Majorelle, riady i suki.",
+      "intro": [
+        "Marrakesz to najbardziej znane miasto Maroka. Plac Dżamaa al Fna wieczorem zamienia się w ogromną jadłodajnię z zaklinaczami węży i muzykami, a wokół rozciąga się labirynt suków z przyprawami, skórami i lampami.",
+        "Warto zarezerwować nocleg w riadzie, czyli tradycyjnym domu z dziedzińcem, i zaplanować wycieczkę w góry Atlas lub na pustynię Agafay."
+      ],
+      "highlights": ["Plac Dżamaa al Fna", "Ogrody Majorelle", "Pałac Bahia", "Pustynia Agafay"]
+    }
+  ],
+  "attractions": [
+    { "name": "Sahara w Merzudze", "text": "Wydmy Erg Chebbi, przejażdżka na wielbłądach i noc w obozie na pustyni.", "gygQuery": "Merzouga desert tour" },
+    { "name": "Ajt Bin Haddu", "text": "Glinowe ksar na liście UNESCO, plan wielu filmów i seriali.", "gygQuery": "Ait Ben Haddou" },
+    { "name": "Szefszawan", "text": "Niebieskie miasteczko w górach Rif.", "gygQuery": "Chefchaouen" },
+    { "name": "Medyna w Fezie", "text": "Najstarsza i największa medyna świata z garbarniami.", "gygQuery": "Fes medina" },
+    { "name": "Essaouira", "text": "Portowe miasto z murami, mewami i wiatrem dla kitesurferów.", "gygQuery": "Essaouira" },
+    { "name": "Paradise Valley", "text": "Kanion z naturalnymi basenami w górach koło Agadiru.", "gygQuery": "Paradise Valley Agadir" }
+  ],
+  "cuisine": [
+    "Kuchnia marokańska to tadżin duszony w glinianym naczyniu, kuskus podawany w piątki, zupa harira, pastilla z kurczakiem i migdałami oraz grillowane szaszłyki. Wszystko popija się słodką herbatą z miętą."
+  ],
+  "faq": [
+    { "q": "Czy do Maroka potrzebna jest wiza?", "a": "Nie. Polacy mogą przebywać w Maroku bez wizy do 90 dni. Wymagany jest paszport." },
+    { "q": "Czy w Agadirze jest ciepło zimą?", "a": "Tak. W styczniu i lutym w dzień jest około 20 do 22 stopni, choć ocean ma tylko około 18 stopni." },
+    { "q": "Czy w Maroku trzeba się targować?", "a": "Na sukach tak, to część kultury. Zaczynaj od około jednej trzeciej ceny wyjściowej." }
+  ]
+}

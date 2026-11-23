@@ -1,0 +1,71 @@
+{
+  "slug": "sri-lanka",
+  "loc": "na Sri Lance",
+  "to": "na Sri Lankę",
+  "capital": "Kolombo",
+  "popularity": 73,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Sri Lanka",
+  "teaser": "Plantacje herbaty, Lwia Skała Sigiriya, słonie, lamparty i złote plaże. Wyspa na objazd i wypoczynek w jednym.",
+  "intro": [
+    "Sri Lanka to wyspa, na której w ciągu dwóch tygodni można zobaczyć więcej niż w niejednym dużym kraju. W centrum leży Trójkąt Kulturowy z Lwią Skałą Sigiriya, skalnymi świątyniami w Dambulli i świętym miastem Kandy. Wyżej rozciągają się plantacje herbaty w Nuwara Eliya i Ella, a w parkach narodowych żyją słonie i lamparty.",
+    "Południowe i zachodnie wybrzeże ma piękne plaże z palmami, surfing w Weligamie i Mirissę z wielorybami. Najpopularniejsza forma wyjazdu to objazd z kierowcą połączony z kilkoma dniami nad oceanem."
+  ],
+  "highlights": [
+    "Sigiriya i Trójkąt Kulturowy",
+    "Pociąg przez plantacje herbaty do Elli",
+    "Safari ze słoniami i lampartami",
+    "Wieloryby w Mirissie",
+    "Złote plaże zachodniego i południowego wybrzeża",
+    "Bardzo niskie ceny na miejscu"
+  ],
+  "bestTime": {
+    "text": "Na zachodnie i południowe wybrzeże oraz w góry najlepiej jechać od grudnia do kwietnia. Wschodnie wybrzeże z Trincomalee i Arugam Bay ma sezon od maja do września. Dzięki temu Sri Lanka jest kierunkiem całorocznym, trzeba tylko wybrać właściwą część wyspy.",
+    "best": [1, 2, 3, 12],
+    "ok": [4, 11]
+  },
+  "climate": {
+    "air": [30, 30, 31, 31, 30, 29, 29, 29, 29, 29, 29, 29],
+    "sea": [27, 28, 29, 29, 29, 28, 28, 28, 28, 28, 28, 27],
+    "note": "Dane dla południowo zachodniego wybrzeża (Bentota, Galle)."
+  },
+  "practical": {
+    "flight": "około 10 do 12 h z przesiadką lub czarterem",
+    "timeDiff": "+4,5 h zimą, +3,5 h latem",
+    "documents": "Do wjazdu potrzebne jest elektroniczne zezwolenie ETA lub e-wiza uzyskiwane online przed podróżą. Zasady i opłaty były w ostatnich latach kilkukrotnie zmieniane, więc sprawdź aktualne przed wylotem. Paszport musi być ważny co najmniej 6 miesięcy.",
+    "money": "Walutą jest rupia lankijska (LKR). Gotówka jest potrzebna poza hotelami, a bankomaty są w większych miastach.",
+    "plugs": "Gniazdka typu D, G i M. Potrzebna przejściówka.",
+    "language": "Językami urzędowymi są syngaleski i tamilski. Angielski jest powszechnie używany.",
+    "safety": "Sri Lanka jest bezpieczna dla turystów. Zakładaj zakryte ramiona i kolana w świątyniach i nie fotografuj się tyłem do posągów Buddy."
+  },
+  "regions": [
+    {
+      "slug": "poludniowe-wybrzeze",
+      "name": "Południowe wybrzeże",
+      "loc": "na południowym wybrzeżu",
+      "type": "wybrzeże",
+      "gygQuery": "Galle Mirissa",
+      "airport": "Kolombo (CMB)",
+      "forWhom": "Galle, Mirissa, Unawatuna i Bentota. Plaże, surfing i wieloryby.",
+      "intro": [
+        "Południowe i zachodnie wybrzeże Sri Lanki to najpopularniejsza część wyspy na wypoczynek. Bentota i Beruwala mają hotele dla rodzin, Unawatuna i Mirissa palmowe zatoki, a Weligama spokojne fale dla początkujących surferów.",
+        "Galle z holenderskim fortem wpisanym na listę UNESCO to jedno z najpiękniejszych miast wyspy."
+      ],
+      "highlights": ["Fort Galle", "Wieloryby w Mirissie", "Coconut Tree Hill", "Rzeka Madu w Bentocie"]
+    }
+  ],
+  "attractions": [
+    { "name": "Sigiriya", "text": "Twierdza na szczycie skały z freskami i Lwią Bramą.", "gygQuery": "Sigiriya" },
+    { "name": "Pociąg do Elli", "text": "Jedna z najpiękniejszych tras kolejowych świata przez plantacje herbaty.", "gygQuery": "Kandy Ella train" },
+    { "name": "Park Narodowy Yala", "text": "Safari z największym zagęszczeniem lampartów na świecie.", "gygQuery": "Yala safari" },
+    { "name": "Świątynia Zęba w Kandy", "text": "Najświętsze miejsce buddystów na Sri Lance.", "gygQuery": "Temple of the Tooth" },
+    { "name": "Dambulla", "text": "Skalne świątynie z setkami posągów Buddy.", "gygQuery": "Dambulla" },
+    { "name": "Słonie w Minneriya", "text": "Zgromadzenia setek słoni nad zbiornikiem wodnym.", "gygQuery": "Minneriya safari" }
+  ],
+  "faq": [
+    { "q": "Kiedy jechać na Sri Lankę?", "a": "Na południe i zachód od grudnia do kwietnia, na wschodnie wybrzeże od maja do września." },
+    { "q": "Czy na Sri Lankę potrzebna jest wiza?", "a": "Potrzebne jest zezwolenie ETA lub e-wiza uzyskiwane online. Zasady bywają zmieniane, sprawdź aktualne przed wyjazdem." },
+    { "q": "Ile dni potrzeba na Sri Lankę?", "a": "Optymalnie dwa tygodnie: tydzień na objazd Trójkąta Kulturowego i gór oraz tydzień na plaży." }
+  ]
+}

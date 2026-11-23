@@ -1,0 +1,70 @@
+{
+  "slug": "kuba",
+  "loc": "na Kubie",
+  "to": "na Kubę",
+  "capital": "Hawana",
+  "popularity": 64,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Kuba",
+  "teaser": "Hawana z klasycznymi autami, salsa, cygara i białe plaże Varadero oraz Cayo Coco. Karaiby z duszą.",
+  "intro": [
+    "Kuba to Karaiby zupełnie inne niż Dominikana czy Meksyk. Hawana z kolorowymi kamienicami, amerykańskimi krążownikami z lat 50. i muzyką płynącą z każdego baru to jedno z najbardziej klimatycznych miast świata. Trinidad i Viñales z polami tytoniu pokazują wiejskie oblicze wyspy.",
+    "Na wypoczynek biura podróży wybierają Varadero z dwudziestokilometrową plażą oraz wysepki Cayo Coco i Cayo Santa María z resortami all inclusive. Warto pamiętać, że infrastruktura na Kubie jest skromniejsza, a internet i zaopatrzenie bywają ograniczone."
+  ],
+  "highlights": [
+    "Stara Hawana i klasyczne samochody",
+    "Plaża Varadero",
+    "Cayo Coco i Cayo Santa María",
+    "Viñales i plantacje tytoniu",
+    "Kolonialny Trinidad",
+    "Salsa, rum i cygara"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na Kubę to pora sucha od listopada do kwietnia. Od czerwca do listopada trwa sezon huraganów, a latem jest gorąco i wilgotno.",
+    "best": [12, 1, 2, 3, 4],
+    "ok": [11, 5]
+  },
+  "climate": {
+    "air": [27, 27, 28, 29, 30, 31, 32, 32, 31, 30, 28, 27],
+    "sea": [25, 25, 25, 26, 27, 28, 29, 29, 29, 28, 27, 26],
+    "note": "Dane dla Varadero."
+  },
+  "practical": {
+    "flight": "około 11 h bezpośrednio",
+    "timeDiff": "-6 h",
+    "documents": "Potrzebny jest paszport, karta turystyczna (często w pakiecie biura podróży) oraz formularz elektroniczny D'Viajeros wypełniany przed przylotem.",
+    "money": "Walutą jest peso kubańskie (CUP), a turyści często płacą w euro lub dolarach gotówką. Karty wydane przez banki amerykańskie nie działają. Zabierz zapas gotówki.",
+    "plugs": "Gniazdka typu A, B i C. Przejściówka uniwersalna się przyda.",
+    "language": "Językiem urzędowym jest hiszpański.",
+    "safety": "Kuba jest bezpieczna dla turystów. Zabierz podstawowe leki, bo w aptekach bywają braki."
+  },
+  "regions": [
+    {
+      "slug": "varadero",
+      "name": "Varadero",
+      "loc": "w Varadero",
+      "type": "kurort",
+      "wakacjePath": "varadero",
+      "gygQuery": "Varadero",
+      "airport": "Varadero (VRA)",
+      "forWhom": "Dwudziestokilometrowa biała plaża i resorty all inclusive dwie godziny od Hawany.",
+      "intro": [
+        "Varadero leży na wąskim półwyspie Hicacos i ma jedną z najdłuższych plaż Karaibów, z białym piaskiem i płytką turkusową wodą. Wzdłuż niej stoją hotele all inclusive.",
+        "Z Varadero organizowane są wycieczki do Hawany, Trinidadu i na Cayo Blanco."
+      ],
+      "highlights": ["Plaża Varadero", "Jaskinia Saturno", "Rejs na Cayo Blanco", "Hawana"]
+    }
+  ],
+  "attractions": [
+    { "name": "Stara Hawana", "text": "Kolonialne place, Malecón i Capitolio, wpisane na listę UNESCO.", "gygQuery": "Havana" },
+    { "name": "Przejażdżka klasycznym autem", "text": "Kabrioletem z lat 50. po Hawanie.", "gygQuery": "Havana classic car" },
+    { "name": "Viñales", "text": "Dolina z mogotami i plantacjami tytoniu.", "gygQuery": "Vinales" },
+    { "name": "Trinidad", "text": "Kolonialne miasteczko z brukowanymi uliczkami.", "gygQuery": "Trinidad Cuba" },
+    { "name": "Cayo Santa María", "text": "Rajskie wysepki połączone z lądem groblą.", "gygQuery": "Cayo Santa Maria" }
+  ],
+  "faq": [
+    { "q": "Czy na Kubie działają karty płatnicze?", "a": "Część kart europejskich działa, ale nie wszędzie. Najbezpieczniej mieć zapas gotówki w euro." },
+    { "q": "Kiedy jechać na Kubę?", "a": "Od listopada do kwietnia, w porze suchej." }
+  ]
+}

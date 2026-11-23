@@ -1,0 +1,95 @@
+{
+  "slug": "tanzania",
+  "loc": "w Tanzanii",
+  "to": "do Tanzanii",
+  "capital": "Dodoma",
+  "popularity": 81,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Zanzibar",
+  "teaser": "Zanzibar z białymi plażami Oceanu Indyjskiego i safari w Serengeti. Najmodniejsza egzotyka ostatnich lat.",
+  "intro": [
+    "Tanzania stała się w ostatnich latach jednym z hitów polskich biur podróży, a wszystko za sprawą Zanzibaru. Wyspa ma białe, pudrowe plaże, turkusową wodę Oceanu Indyjskiego i zabytkowe Stone Town z historią sułtanów i handlu przyprawami. Czarterowe loty z Polski trwają około 9 godzin.",
+    "Kontynentalna Tanzania to z kolei jedno z najlepszych miejsc na safari w Afryce: Serengeti z Wielką Migracją, krater Ngorongoro i Kilimandżaro, najwyższa góra kontynentu. Wiele osób łączy tydzień na plaży Zanzibaru z dwu lub trzydniowym safari."
+  ],
+  "highlights": [
+    "Plaże Zanzibaru z białym piaskiem",
+    "Stone Town z listy UNESCO",
+    "Safari w Serengeti i Ngorongoro",
+    "Kilimandżaro",
+    "Loty czarterowe z Polski",
+    "Przypływy i odpływy tworzące niezwykłe krajobrazy"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na Zanzibar to czerwiec do października oraz grudzień do lutego. Pora długich deszczy trwa od kwietnia do maja i wtedy wiele hoteli jest zamkniętych. Krótsze deszcze zdarzają się w listopadzie. Na safari najlepsza jest pora sucha od czerwca do października.",
+    "best": [1, 2, 6, 7, 8, 9, 10, 12],
+    "ok": [3, 11]
+  },
+  "climate": {
+    "air": [32, 32, 32, 30, 29, 29, 28, 28, 29, 30, 31, 32],
+    "sea": [28, 29, 29, 28, 27, 26, 25, 25, 25, 26, 27, 28],
+    "note": "Dane dla Zanzibaru."
+  },
+  "practical": {
+    "flight": "około 9 h czarterem",
+    "timeDiff": "+2 h zimą, +1 h latem",
+    "documents": "Polacy potrzebują wizy, którą najwygodniej uzyskać online przed wyjazdem (e-wiza). Na Zanzibarze obowiązuje dodatkowo obowiązkowe ubezpieczenie wjazdowe wykupywane online. Wymagany jest paszport ważny co najmniej 6 miesięcy. Przy wjeździe z niektórych krajów potrzebne jest szczepienie na żółtą febrę.",
+    "money": "Walutą jest szyling tanzański (TZS), ale w turystyce dominuje dolar. Banknoty USD powinny być nowe (wydane po 2009 roku).",
+    "plugs": "Gniazdka typu D i G (brytyjskie). Potrzebna przejściówka.",
+    "language": "Językami urzędowymi są suahili i angielski. Przydatne słowa: jambo (cześć), asante (dziękuję), hakuna matata (nie ma problemu).",
+    "safety": "Rozważ profilaktykę antymalaryczną po konsultacji z lekarzem medycyny podróży. Pij wodę butelkowaną. Zanzibar jest muzułmański, poza plażą noś skromny strój."
+  },
+  "allInclusive": [
+    "Na Zanzibarze działa coraz więcej resortów all inclusive, głównie w Nungwi, Kendwie i na wschodnim wybrzeżu w Kiwengwie. Hotele są zwykle mniejsze niż w Egipcie, często w stylu afrykańskich lodge z dachami z liści palmowych.",
+    "Przy wyborze hotelu zwróć uwagę na wybrzeże: na północy w Nungwi i Kendwie odpływy są najmniejsze i można się kąpać przez cały dzień, a na wschodzie podczas odpływu morze cofa się nawet o kilometr."
+  ],
+  "regions": [
+    {
+      "slug": "zanzibar",
+      "name": "Zanzibar",
+      "loc": "na Zanzibarze",
+      "type": "wyspa",
+      "wakacjePath": "zanzibar",
+      "gygQuery": "Zanzibar",
+      "airport": "Zanzibar (ZNZ)",
+      "forWhom": "Białe plaże, Stone Town, delfiny, żółwie i przyprawy. Raj Oceanu Indyjskiego.",
+      "intro": [
+        "Zanzibar to archipelag u wybrzeży Tanzanii, a jego główna wyspa Unguja to najpopularniejszy kierunek egzotyczny ostatnich lat. Plaże w Nungwi, Kendwie, Paje i Matemwe to biały piasek i woda o kolorze od turkusu po szafir.",
+        "Stone Town, stare miasto z labiryntem uliczek, rzeźbionymi drzwiami i domem Freddiego Mercury'ego, to obowiązkowy punkt wycieczek."
+      ],
+      "places": [
+        { "name": "Nungwi i Kendwa", "text": "Północ wyspy z najmniejszymi pływami i zachodami słońca nad oceanem." },
+        { "name": "Paje", "text": "Wschodnie wybrzeże z płytką laguną, raj dla kitesurferów." },
+        { "name": "Kiwengwa i Matemwe", "text": "Spokojne resorty i rafa Mnemba z delfinami." }
+      ],
+      "highlights": ["Stone Town", "Atol Mnemba", "Prison Island z żółwiami", "Restauracja The Rock"]
+    },
+    {
+      "slug": "serengeti",
+      "name": "Serengeti i Ngorongoro",
+      "loc": "w Serengeti",
+      "type": "park narodowy",
+      "gygQuery": "Serengeti safari",
+      "airport": "Kilimandżaro (JRO), Arusha (ARK)",
+      "forWhom": "Wielka Migracja, wielka piątka i krater Ngorongoro. Klasyczne safari.",
+      "intro": [
+        "Serengeti to najsłynniejszy park narodowy Afryki, gdzie co roku ponad milion gnu i zebr wędruje w poszukiwaniu pastwisk. Krater Ngorongoro to naturalna arena z największym zagęszczeniem dzikich zwierząt na świecie.",
+        "Z Zanzibaru organizowane są safari z przelotem awionetką, trwające od jednego do kilku dni."
+      ],
+      "highlights": ["Wielka Migracja", "Krater Ngorongoro", "Tarangire i słonie", "Jezioro Manyara"]
+    }
+  ],
+  "attractions": [
+    { "name": "Stone Town", "text": "Zabytkowe miasto z czasów sułtanów, targ przypraw i dom Freddiego Mercury'ego.", "gygQuery": "Stone Town tour" },
+    { "name": "Atol Mnemba", "text": "Snorkeling na rafach i pływanie z delfinami.", "gygQuery": "Mnemba atoll" },
+    { "name": "Safari z Zanzibaru", "text": "Przelot do Mikumi, Selous lub Serengeti na jeden do trzech dni.", "gygQuery": "Zanzibar safari" },
+    { "name": "Prison Island", "text": "Wyspa z olbrzymimi żółwiami z Aldabry.", "gygQuery": "Prison Island Zanzibar" },
+    { "name": "Las Jozani", "text": "Rezerwat z endemicznymi małpami czerwonymi colobusami.", "gygQuery": "Jozani forest" },
+    { "name": "Plantacja przypraw", "text": "Wycieczka śladem goździków, wanilii i cynamonu.", "gygQuery": "Zanzibar spice tour" }
+  ],
+  "faq": [
+    { "q": "Czy na Zanzibar potrzebna jest wiza?", "a": "Tak. Polacy potrzebują wizy tanzańskiej, którą można uzyskać online. Dodatkowo obowiązuje ubezpieczenie wjazdowe Zanzibaru kupowane przed przylotem." },
+    { "q": "Kiedy jechać na Zanzibar?", "a": "Najlepiej od czerwca do października i od grudnia do lutego. Unikaj kwietnia i maja, kiedy trwa pora deszczowa." },
+    { "q": "Gdzie na Zanzibarze nie ma odpływów?", "a": "Najmniejsze pływy są na północy, w Nungwi i Kendwie. Na wschodnim wybrzeżu odpływy są duże." }
+  ]
+}

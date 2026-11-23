@@ -1,0 +1,215 @@
+{
+  "slug": "tunezja",
+  "loc": "w Tunezji",
+  "to": "do Tunezji",
+  "capital": "Tunis",
+  "popularity": 88,
+  "touroperator": true,
+  "source": "manual",
+  "gygQuery": "Tunezja",
+  "teaser": "Szerokie piaszczyste plaże, tanie all inclusive i Sahara na wyciągnięcie ręki. Djerba, Hammamet, Sousse czy Monastir?",
+  "intro": [
+    "Tunezja od lat jest jednym z najtańszych kierunków na wakacje all inclusive z Polski. Kraj ma długie, szerokie plaże z drobnym piaskiem i łagodnym wejściem do morza, co docenią zwłaszcza rodziny z dziećmi. Lot trwa około trzech godzin, a hotele, choć często starsze niż w Turcji, oferują dobre warunki za rozsądną cenę.",
+    "Tunezja to również brama do Sahary. Z kurortów organizowane są dwudniowe wycieczki na pustynię z noclegiem w oazie, przejazdem przez słone jezioro Chott el Djerid i odwiedzinami w miejscach, gdzie kręcono Gwiezdne Wojny. Warto też zobaczyć amfiteatr w El Jem, ruiny Kartaginy i biało niebieskie Sidi Bou Said."
+  ],
+  "highlights": [
+    "Jedne z najtańszych wakacji all inclusive",
+    "Szerokie piaszczyste plaże dla dzieci",
+    "Wycieczki na Saharę i do oaz",
+    "Amfiteatr w El Jem i ruiny Kartaginy",
+    "Lot około 3 godzin",
+    "Bez wizy dla Polaków do 90 dni"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wakacje w Tunezji to czerwiec i wrzesień, kiedy jest ciepło, ale nie upalnie, a woda ma 22 do 26 stopni. Lipiec i sierpień są gorące, szczególnie na Djerbie i w głębi lądu. Maj i październik są dobre na zwiedzanie i wycieczkę na Saharę. Zimą jest chłodno, około 16 do 18 stopni, i woda nie nadaje się do kąpieli.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      16,
+      17,
+      19,
+      22,
+      26,
+      30,
+      33,
+      33,
+      30,
+      26,
+      21,
+      17
+    ],
+    "sea": [
+      16,
+      15,
+      16,
+      17,
+      20,
+      23,
+      26,
+      27,
+      26,
+      24,
+      21,
+      18
+    ],
+    "note": "Dane dla Djerby. W Hammamecie i Sousse jest zbliżona temperatura powietrza, a woda bywa o 1 stopień chłodniejsza."
+  },
+  "practical": {
+    "flight": "2,5 do 3 h",
+    "timeDiff": "-1 h latem, 0 h zimą",
+    "documents": "Polacy nie potrzebują wizy przy pobycie do 90 dni. Potrzebny jest paszport ważny dłużej niż planowany pobyt.",
+    "money": "Walutą jest dinar tunezyjski (TND), którego nie można wywozić ani przywozić. Wymienia się go na miejscu, a zachowanie potwierdzeń wymiany ułatwia odkupienie euro przed wylotem.",
+    "plugs": "Gniazdka typu C i E, polskie wtyczki pasują.",
+    "language": "Językiem urzędowym jest arabski, powszechnie używa się też francuskiego. W hotelach dogadasz się po angielsku.",
+    "safety": "Kurorty są chronione i spokojne. Pij wodę butelkowaną, a podczas zakupów na suku targuj się spokojnie i stanowczo."
+  },
+  "allInclusive": [
+    "Tunezja to kierunek, gdzie all inclusive kosztuje najmniej spośród krajów basenu Morza Śródziemnego. Hotele są zwykle rozległe, z ogrodami, basenami i bezpośrednim dostępem do plaży. Jedzenie jest prostsze niż w Turcji, z przewagą kuchni międzynarodowej i lokalnych sałatek, kuskusu oraz grillowanych mięs.",
+    "Najlepsze plaże i największy wybór hoteli są na Djerbie oraz w Hammamecie i Mahdii. Najwięcej zaoszczędzisz w czerwcu i we wrześniu oraz przy rezerwacjach last minute."
+  ],
+  "regions": [
+    {
+      "slug": "djerba",
+      "name": "Djerba",
+      "loc": "na Djerbie",
+      "type": "wyspa",
+      "wakacjePath": "djerba",
+      "gygQuery": "Djerba",
+      "airport": "Djerba-Zarzis (DJE)",
+      "forWhom": "Wyspa palm i białych plaż, najcieplejsza część Tunezji i blisko na Saharę.",
+      "intro": [
+        "Djerba to największa wyspa Afryki Północnej i najpopularniejszy kierunek w Tunezji. Ma szerokie, białe plaże i bardzo płytkie morze, w którym dzieci mogą bezpiecznie bawić się przy brzegu. Hotele stoją wzdłuż strefy turystycznej Sidi Mahrez i Aghir.",
+        "Wyspa słynie z kolorowego miasteczka Houmt Souk z sukiem, synagogi El Ghriba, jednej z najstarszych w Afryce, oraz z wioski Djerbahood pełnej street artu. Z Djerby najbliżej na wycieczkę na Saharę."
+      ],
+      "highlights": [
+        "Suk w Houmt Souk",
+        "Synagoga El Ghriba",
+        "Murale Djerbahood",
+        "Wycieczka na Saharę"
+      ]
+    },
+    {
+      "slug": "hammamet",
+      "name": "Hammamet",
+      "loc": "w Hammamecie",
+      "type": "kurort",
+      "wakacjePath": "hammamet",
+      "gygQuery": "Hammamet",
+      "airport": "Enfidha (NBE)",
+      "forWhom": "Najbardziej elegancki kurort Tunezji z mediną nad morzem i Yasmine Hammamet.",
+      "intro": [
+        "Hammamet to jeden z najstarszych kurortów Tunezji, z białą mediną otoczoną murami tuż nad morzem. Nowa część, Yasmine Hammamet, ma marinę, park rozrywki Carthage Land i szeroki wybór hoteli.",
+        "Z Hammametu blisko do Tunisu, Kartaginy i Sidi Bou Said, więc to dobra baza do zwiedzania północy kraju."
+      ],
+      "highlights": [
+        "Medyna Hammametu",
+        "Yasmine Hammamet",
+        "Sidi Bou Said",
+        "Kartagina"
+      ]
+    },
+    {
+      "slug": "sousse",
+      "name": "Sousse i Port El Kantaoui",
+      "loc": "w Sousse",
+      "type": "kurort",
+      "wakacjePath": "sousse",
+      "gygQuery": "Sousse",
+      "airport": "Enfidha (NBE), Monastir (MIR)",
+      "forWhom": "Miasto z mediną UNESCO i marina Port El Kantaoui. Dużo atrakcji poza hotelem.",
+      "intro": [
+        "Sousse to tętniące życiem miasto z mediną wpisaną na listę UNESCO, ribatem i dużym sukiem. Kilka kilometrów na północ leży Port El Kantaoui, czyli zbudowana dla turystów marina z restauracjami, rejsami i polem golfowym.",
+        "Region jest dobrym wyborem dla osób, które chcą wychodzić wieczorem poza hotel."
+      ],
+      "highlights": [
+        "Medyna i ribat w Sousse",
+        "Port El Kantaoui",
+        "Amfiteatr w El Jem",
+        "Monastir"
+      ]
+    },
+    {
+      "slug": "mahdia",
+      "name": "Mahdia i Monastir",
+      "loc": "w Mahdii",
+      "type": "kurort",
+      "wakacjePath": "mahdia",
+      "gygQuery": "Mahdia",
+      "airport": "Monastir (MIR)",
+      "forWhom": "Najpiękniejsze plaże kontynentalnej Tunezji i spokojna atmosfera rybackiego miasta.",
+      "intro": [
+        "Mahdia ma jedne z najpiękniejszych plaż w Tunezji z jasnym piaskiem i krystalicznie czystą wodą. To spokojne, rybackie miasto z klimatyczną starówką na półwyspie.",
+        "Pobliski Monastir słynie z ribatu, w którym kręcono sceny do Żywota Briana, oraz z mauzoleum prezydenta Burgiby."
+      ],
+      "highlights": [
+        "Plaże Mahdii",
+        "Ribat w Monastirze",
+        "Mauzoleum Burgiby",
+        "El Jem, 45 minut jazdy"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Sahara i oaza Douz",
+      "text": "Dwudniowa wycieczka z przejażdżką na wielbłądach, noclegiem na pustyni i wizytą w górskich oazach.",
+      "gygQuery": "Sahara Tunisia tour"
+    },
+    {
+      "name": "Amfiteatr w El Jem",
+      "text": "Trzeci co do wielkości amfiteatr rzymski na świecie, zachowany lepiej niż Koloseum.",
+      "gygQuery": "El Jem"
+    },
+    {
+      "name": "Kartagina",
+      "text": "Ruiny potężnego miasta fenickiego i rzymskiego na przedmieściach Tunisu.",
+      "gygQuery": "Carthage"
+    },
+    {
+      "name": "Sidi Bou Said",
+      "text": "Biało niebieska wioska na klifie z widokiem na Zatokę Tunisu.",
+      "gygQuery": "Sidi Bou Said"
+    },
+    {
+      "name": "Matmata i Tatooine",
+      "text": "Podziemne domy Berberów i plenery z Gwiezdnych Wojen.",
+      "gygQuery": "Matmata"
+    },
+    {
+      "name": "Muzeum Bardo",
+      "text": "Jedna z największych kolekcji rzymskich mozaik na świecie, w Tunisie.",
+      "gygQuery": "Bardo Museum"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia tunezyjska jest aromatyczna i często ostra. Spróbuj kuskusu z rybą lub jagnięciną, brik (chrupiącego ciasta z jajkiem i tuńczykiem), sałatki mechouia i pasty harissa. Do tego świeże daktyle, miętowa herbata z orzeszkami piniowymi i słodycze z miodem."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Tunezji potrzebny jest paszport?",
+      "a": "Tak, przy wyjazdach indywidualnych potrzebny jest paszport. Wiza nie jest wymagana przy pobycie do 90 dni."
+    },
+    {
+      "q": "Djerba czy Hammamet?",
+      "a": "Djerba ma lepsze plaże, cieplejsze morze i bliżej na Saharę. Hammamet oferuje więcej atrakcji poza hotelem i bliskość Tunisu oraz Kartaginy."
+    },
+    {
+      "q": "Kiedy w Tunezji jest ciepłe morze?",
+      "a": "Od końca czerwca do października woda ma powyżej 23 stopni. Najcieplejsza jest w sierpniu, około 27 stopni."
+    },
+    {
+      "q": "Czy można wywieźć dinary z Tunezji?",
+      "a": "Nie. Dinar tunezyjski jest walutą zamkniętą, dlatego przed wylotem wymień niewykorzystane dinary z powrotem na euro."
+    }
+  ]
+}
