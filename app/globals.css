@@ -130,12 +130,23 @@ em.s { font-family: var(--serif); font-style: italic; font-weight: 500; letter-s
 .map-svg { width: 100%; height: auto; user-select: none; }
 .map-svg .sphere { fill: rgba(255, 255, 255, 0.03); stroke: rgba(255, 255, 255, 0.12); }
 .map-svg .grat { fill: none; stroke: rgba(255, 255, 255, 0.06); stroke-width: 0.6; }
-.map-svg .c { fill: #2b6b80; stroke: #06364a; stroke-width: 0.5; transition: fill 0.15s; }
+.map-svg .c { fill: #2b6b80; stroke: #06364a; stroke-width: 0.5; transition: fill 0.15s; vector-effect: non-scaling-stroke; }
 .map-svg .c.has { fill: #5fb3b3; }
 .map-svg .c.none { fill: #1d5468; }
 .map-svg a:hover .c, .map-svg a:focus .c { fill: var(--sun); cursor: pointer; }
-.map-svg .dot { fill: #9fe0d6; stroke: #06364a; stroke-width: 1; transition: fill 0.15s, r 0.15s; }
-.map-svg a:hover .dot { fill: var(--sun); r: 5.5; }
+.map-svg .dot { fill: #9fe0d6; stroke: #06364a; stroke-width: 1; transition: fill 0.15s; vector-effect: non-scaling-stroke; }
+.map-svg a:hover .dot { fill: var(--sun); }
+.map-svg .grat, .map-svg .sphere { vector-effect: non-scaling-stroke; }
+.map-zoom { position: relative; overflow: hidden; border-radius: 18px; touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+.map-zoom.zoomed { touch-action: none; cursor: grab; }
+.map-zoom.zoomed:active { cursor: grabbing; }
+.map-ctrl { position: absolute; right: 12px; bottom: 12px; display: flex; flex-direction: column; gap: 6px; z-index: 4; }
+.map-ctrl button {
+  width: 40px; height: 40px; border-radius: 12px; font: inherit; font-size: 1.3rem; font-weight: 600; line-height: 1; cursor: pointer;
+  border: 1px solid rgba(255,255,255,0.22); background: rgba(6,40,56,0.75); color: #fff; backdrop-filter: blur(6px); transition: background 0.15s;
+}
+.map-ctrl button:hover:not(:disabled) { background: var(--sun); border-color: var(--sun); }
+.map-ctrl button:disabled { opacity: 0.4; cursor: default; }
 .map-tip {
   position: absolute; pointer-events: none; z-index: 5; transform: translate(-50%, calc(-100% - 14px));
   background: #fff; color: var(--ink); padding: 8px 14px; border-radius: 12px; font-weight: 700; font-size: 0.95rem;
@@ -339,8 +350,7 @@ em.s { font-family: var(--serif); font-style: italic; font-weight: 500; letter-s
   .chero-in { grid-template-columns: 1fr; padding-bottom: 56px; }
   .chero .silhouette { display: none; }
   .hdr .search { display: none; }
-  .map-box { margin: 0 -24px; overflow-x: auto; }
-  .map-svg { min-width: 760px; }
+  .map-ctrl button { width: 36px; height: 36px; }
   .cta-band { padding: 30px; }
   .climate-bars { gap: 3px; }
   .cb .v, .cb .sea { font-size: 0.62rem; }

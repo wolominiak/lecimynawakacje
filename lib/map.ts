@@ -12,6 +12,7 @@ const H = 520;
 const NAME_FIX: Record<string, string> = { Kosovo: 'XK', 'N. Cyprus': 'CY', Somaliland: 'SO' };
 
 export interface MapShape {
+  id: string;
   d: string;
   slug: string | null;
   name: string;
@@ -43,7 +44,7 @@ export function worldMap() {
     if (c) used.add(c.code);
     const d = path(f);
     if (!d) continue;
-    shapes.push({ d, slug: c?.slug || null, name: c?.name || f.properties.name, hasContent: !!c?.content });
+    shapes.push({ id: String(id ?? f.properties.name), d, slug: c?.slug || null, name: c?.name || f.properties.name, hasContent: !!c?.content });
   }
 
   // Małe państwa i wyspy, których nie widać w skali 1:110m -> kropki
