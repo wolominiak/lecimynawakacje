@@ -55,6 +55,43 @@ const SCHEMA_HINT = `{
   "faq": [ 3-5 pytań: { "q": "pytanie, jakie wpisuje Polak w Google", "a": "konkretna odpowiedź 1-3 zdania" } ]
 }`;
 
+
+// Schemat odpowiedzi (structured output) - Gemini musi zwrócić poprawny JSON w tym kształcie
+const S = (type, extra = {}) => ({ type, ...extra });
+const STR = S('STRING');
+const STRS = S('ARRAY', { items: STR });
+const INTS = S('ARRAY', { items: S('INTEGER') });
+const NUMS = S('ARRAY', { items: S('NUMBER') });
+const RESPONSE_SCHEMA = S('OBJECT', {
+  properties: {
+    slug: STR, loc: STR, to: STR, capital: STR,
+    popularity: S('INTEGER'), touroperator: S('BOOLEAN'), gygQuery: STR, teaser: STR,
+    intro: STRS, highlights: STRS,
+    bestTime: S('OBJECT', { properties: { text: STR, best: INTS, ok: INTS }, required: ['text', 'best'] }),
+    climate: S('OBJECT', { properties: { air: NUMS, sea: S('ARRAY', { items: S('NUMBER'), nullable: true }), note: STR }, required: ['air'] }),
+    practical: S('OBJECT', { properties: { flight: STR, timeDiff: STR, documents: STR, money: STR, plugs: STR, language: STR, safety: STR } }),
+    regions: S('ARRAY', { items: S('OBJECT', {
+      properties: { slug: STR, name: STR, loc: STR, type: STR, gygQuery: STR, airport: STR, forWhom: STR, intro: STRS, highlights: STRS },
+      required: ['slug', 'name', 'loc', 'intro'],
+    }) }),
+    attractions: S('ARRAY', { items: S('OBJECT', { properties: { name: STR, text: STR, gygQuery: STR }, required: ['name', 'text'] }) }),
+    cuisine: STRS,
+    faq: S('ARRAY', { items: S('OBJECT', { properties: { q: STR, a: STR }, required: ['q', 'a'] }) }),
+  },
+  required: ['slug', 'loc', 'to', 'teaser', 'intro', 'highlights', 'popularity', 'touroperator', 'regions', 'attractions', 'faq'],
+});
+
+/** Awaryjna naprawa typowych błędów JSON (bloki ```, przecinki przed } lub ]) */
+function parseLoose(text) {
+  let t = text.trim().replace(/^```(?:json)?\s*/i, '').replace(/```\s*$/, '');
+  try { return JSON.parse(t); } catch {}
+  const a = t.indexOf('{');
+  const b = t.lastIndexOf('}');
+  if (a >= 0 && b > a) t = t.slice(a, b + 1);
+  t = t.replace(/,\s*([}\]])/g, '$1');
+  return JSON.parse(t);
+}
+
 function prompt(c) {
   return `Jesteś autorem polskiego portalu turystycznego lecimynawakacje.pl. Napisz przewodnik po kraju: ${c.name} (kod ${c.code}, kontynent: ${c.continent}, waluta: ${c.currencies.map((x) => x.code).join(', ')}, języki: ${c.languages.join(', ')}).
 
@@ -96,6 +133,7 @@ function validate(d, c) {
   return d;
 }
 
+let useSchema = true;
 async function gen(c) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`;
   const res = await fetch(url, {
@@ -103,13 +141,25 @@ async function gen(c) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       contents: [{ role: 'user', parts: [{ text: prompt(c) }] }],
-      generationConfig: { responseMimeType: 'application/json', temperature: 0.6 },
+      generationConfig: {
+        responseMimeType: 'application/json',
+        responseSchema: useSchema ? RESPONSE_SCHEMA : undefined,
+        temperature: 0.5,
+        maxOutputTokens: 16384,
+      },
     }),
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  if (!res.ok) {
+    const body = (await res.text()).slice(0, 300);
+    // starszy model bez obsługi schematu - dalej bez niego
+    if (res.status === 400 && useSchema && /schema/i.test(body)) { useSchema = false; return gen(c); }
+    throw new Error(`HTTP ${res.status}: ${body}`);
+  }
   const j = await res.json();
-  const text = j.candidates?.[0]?.content?.parts?.map((p) => p.text).join('') || '';
-  return validate(clean(JSON.parse(text)), c);
+  const cand = j.candidates?.[0];
+  if (cand?.finishReason === 'MAX_TOKENS') throw new Error('odpowiedź ucięta (MAX_TOKENS)');
+  const text = cand?.content?.parts?.map((p) => p.text).join('') || '';
+  return validate(clean(parseLoose(text)), c);
 }
 
 let ok = 0;
