@@ -1,0 +1,197 @@
+{
+  "slug": "arabia-saudyjska",
+  "loc": "w Arabii Saudyjskiej",
+  "to": "do Arabii Saudyjskiej",
+  "capital": "Rijad",
+  "popularity": 15,
+  "touroperator": false,
+  "gygQuery": "Saudi Arabia",
+  "teaser": "Odkryj Arabię Saudyjską - kraj, który otwiera się na świat, oferując starożytne zabytki, pustynne krajobrazy i nowoczesne metropolie.",
+  "intro": [
+    "Arabia Saudyjska, długo zamknięta dla masowej turystyki, w ostatnich latach dynamicznie otwiera swoje granice, zapraszając podróżników do odkrywania bogatej historii i kultury. To kierunek dla tych, którzy szukają autentycznych doświadczeń, pragną poznać kraj o silnych tradycjach i zobaczyć miejsca, które do niedawna były dostępne jedynie dla nielicznych. Od starożytnych miast Nabatejczyków po tętniące życiem, futurystyczne metropolie, Arabia Saudyjska oferuje podróż pełną kontrastów i niespodzianek. Nie jest to jeszcze kierunek dla każdego, ale z pewnością dla świadomego i ciekawego świata turysty.",
+    "Kraj ten przyciąga przede wszystkim miłośników historii i archeologii, dzięki takim perłom jak Hegra, wpisana na listę UNESCO. Pustynne krajobrazy, majestatyczne góry Asir i dziewicze wybrzeże Morza Czerwonego kuszą poszukiwaczy przygód i natury. Dla wielu podróż to także okazja do poznania unikalnej kultury Półwyspu Arabskiego, gościnności mieszkańców i codziennego życia w kraju, który dynamicznie się zmienia, jednocześnie pielęgnując swoje korzenie. To idealna propozycja dla osób otwartych na nowe doświadczenia i gotowych na podróż poza utartymi szlakami.",
+    "Podróż z Polski do Arabii Saudyjskiej zazwyczaj wymaga przesiadki, najczęściej w jednym z dużych hubów lotniczych, takich jak Dubaj, Stambuł czy Doha. Całkowity czas lotu, w zależności od połączenia, wynosi około 7-10 godzin. Wymagana jest wiza, którą Polacy mogą uzyskać online w formie e-wizy, co znacznie ułatwia proces. Przed wyjazdem warto zapoznać się z lokalnymi zwyczajami i przepisami, aby podróż przebiegła komfortowo i bezproblemowo, pamiętając o szacunku dla miejscowej kultury."
+  ],
+  "highlights": [
+    "Hegra - starożytne miasto Nabatejczyków",
+    "Futurystyczny Rijad i historyczna Dżudda",
+    "Pustynne krajobrazy i oazy",
+    "Gościnność i bogata kultura arabska",
+    "Dziewicze wybrzeże Morza Czerwonego",
+    "Dynamiczny rozwój i nowoczesność"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Arabii Saudyjskiej to miesiące zimowe, od października do kwietnia. Wtedy temperatury są umiarkowane i przyjemne do zwiedzania. Lato, od maja do września, charakteryzuje się ekstremalnymi upałami, często przekraczającymi 40°C, co może być wyzwaniem, zwłaszcza na pustyni i w miastach. W górach Asir, na południu kraju, klimat jest łagodniejszy przez cały rok.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      20,
+      23,
+      28,
+      34,
+      40,
+      42,
+      43,
+      42,
+      39,
+      34,
+      27,
+      22
+    ],
+    "sea": [
+      26,
+      25,
+      25,
+      26,
+      28,
+      29,
+      30,
+      30,
+      30,
+      29,
+      28,
+      27
+    ],
+    "note": "Dane dla Rijadu (temperatura powietrza) i Dżuddy (temperatura morza)"
+  },
+  "practical": {
+    "flight": "Około 7-10 h z przesiadką",
+    "timeDiff": "Od +1 do +2 godzin względem Polski, w zależności od pory roku",
+    "documents": "Obywatele Polski potrzebują wizy. Możliwe jest uzyskanie e-wizy turystycznej online. Zawsze sprawdź aktualne wymogi wizowe przed wyjazdem na stronie MSZ lub ambasady.",
+    "money": "Walutą jest rial saudyjski (SAR). Płatności kartą są powszechne w większych miastach i sklepach. Gotówka przyda się na targach i w mniejszych miejscowościach.",
+    "plugs": "Typ G (brytyjski), wymagany adapter.",
+    "language": "Oficjalnym językiem jest arabski. W hotelach, większych sklepach i miejscach turystycznych często można porozumieć się po angielsku.",
+    "safety": "Arabia Saudyjska jest generalnie bezpieczna dla turystów, ale należy zachować ostrożność i szanować lokalne prawa i zwyczaje. Kraj ma surowe przepisy dotyczące alkoholu, narkotyków i publicznego zachowania. Kobiety powinny ubierać się skromnie. Należy śledzić komunikaty MSZ dotyczące sytuacji w regionie."
+  },
+  "regions": [
+    {
+      "slug": "rijad",
+      "name": "Rijad",
+      "loc": "w Rijadzie",
+      "type": "miasto",
+      "gygQuery": "Riyadh",
+      "airport": "RUH",
+      "forWhom": "Dla miłośników nowoczesności, architektury i dynamicznego życia miejskiego.",
+      "intro": [
+        "Rijad, stolica Arabii Saudyjskiej, to tętniąca życiem metropolia, która doskonale łączy tradycję z futurystyczną wizją. Miasto pełne jest imponujących drapaczy chmur, luksusowych centrów handlowych i nowoczesnych muzeów, które opowiadają o bogatej historii królestwa. To centrum biznesowe i polityczne kraju, gdzie można poczuć puls współczesnej Arabii.",
+        "Oprócz nowoczesnych atrakcji, Rijad oferuje również wgląd w swoją przeszłość. Można odwiedzić historyczny fort Masmak, tradycyjne targi (souki) czy Muzeum Narodowe, które prezentuje dziedzictwo regionu. Warto również wybrać się na wycieczkę poza miasto, aby zobaczyć słynne 'Edge of the World' - zapierający dech w piersiach klif na pustyni."
+      ],
+      "highlights": [
+        "Kingdom Centre Tower",
+        "Fort Masmak",
+        "Edge of the World",
+        "Muzeum Narodowe"
+      ]
+    },
+    {
+      "slug": "dzudda",
+      "name": "Dżudda",
+      "loc": "w Dżuddzie",
+      "type": "miasto",
+      "gygQuery": "Jeddah",
+      "airport": "JED",
+      "forWhom": "Dla tych, którzy szukają historycznego uroku, nadmorskiej atmosfery i sztuki.",
+      "intro": [
+        "Dżudda, położona nad Morzem Czerwonym, to drugie co do wielkości miasto Arabii Saudyjskiej i historyczna brama do Mekki. Jej sercem jest Al-Balad, wpisana na listę UNESCO stara dzielnica z unikalnymi, wielopiętrowymi domami zbudowanymi z koralowca. Wąskie uliczki, tradycyjne targi i zabytkowe meczety tworzą atmosferę dawnych wieków.",
+        "Miasto oferuje również nowoczesne atrakcje, takie jak promenada Corniche z fontanną Króla Fahda, jedną z najwyższych na świecie. Dżudda jest bardziej liberalna niż Rijad, co widać w jej otwartej atmosferze i bogatej scenie artystycznej. To idealne miejsce na relaks nad morzem i zanurzenie się w historii regionu."
+      ],
+      "highlights": [
+        "Stare Miasto Al-Balad",
+        "Fontanna Króla Fahda",
+        "Kornisz Dżudda",
+        "Muzeum Abdul Raouf Khalil"
+      ]
+    },
+    {
+      "slug": "al-ula",
+      "name": "Al-Ula",
+      "loc": "w Al-Ula",
+      "type": "region",
+      "gygQuery": "AlUla",
+      "airport": "ULH",
+      "forWhom": "Dla miłośników archeologii, starożytnych cywilizacji i niezwykłych krajobrazów.",
+      "intro": [
+        "Al-Ula to obszar o niezwykłym pięknie naturalnym i bogatej historii, słynący przede wszystkim z Hegry (Madain Saleh) - starożytnego miasta Nabatejczyków, które jest saudyjskim odpowiednikiem Petry. To miejsce, gdzie majestatyczne grobowce wykute w piaskowcowych skałach świadczą o potędze dawnych cywilizacji. Region ten jest stopniowo otwierany na turystykę, oferując unikalne doświadczenia.",
+        "Oprócz Hegry, Al-Ula zachwyca również innymi formacjami skalnymi, takimi jak Elephant Rock (Jabal Al-Fil), oraz starożytnym miastem Al-Ula, które było ważnym punktem na szlaku kadzidlanym. To obszar, gdzie pustynne krajobrazy, palmy daktylowe i oazy tworzą malownicze scenerie, idealne do eksploracji i fotografowania."
+      ],
+      "highlights": [
+        "Hegra (Madain Saleh)",
+        "Elephant Rock (Jabal Al-Fil)",
+        "Stare Miasto Al-Ula",
+        "Dadan i Lihyan"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Hegra (Madain Saleh)",
+      "text": "Pierwszy obiekt UNESCO w Arabii Saudyjskiej, starożytne miasto Nabatejczyków z imponującymi grobowcami wykutymi w piaskowcu.",
+      "gygQuery": "Hegra Madain Saleh"
+    },
+    {
+      "name": "Al-Balad (Historyczna Dżudda)",
+      "text": "Wpisana na listę UNESCO stara dzielnica Dżuddy z unikalnymi, koralowymi domami i labiryntem wąskich uliczek.",
+      "gygQuery": "Al-Balad Jeddah"
+    },
+    {
+      "name": "Edge of the World (Jabal Fihrayn)",
+      "text": "Spektakularne klify wznoszące się nad pustynią niedaleko Rijadu, oferujące niezapomniane widoki.",
+      "gygQuery": "Edge of the World Riyadh"
+    },
+    {
+      "name": "Kingdom Centre Tower",
+      "text": "Jeden z najbardziej rozpoznawalnych drapaczy chmur w Rijadzie, z luksusowym centrum handlowym i punktem widokowym.",
+      "gygQuery": "Kingdom Centre Tower"
+    },
+    {
+      "name": "Al-Ahsa Oasis",
+      "text": "Największa oaza na świecie wpisana na listę UNESCO, z milionami palm daktylowych i historycznymi fortami.",
+      "gygQuery": "Al-Ahsa Oasis"
+    },
+    {
+      "name": "Jabal al-Fil (Elephant Rock)",
+      "text": "Naturalna formacja skalna w Al-Ula, przypominająca słonia, popularne miejsce do podziwiania zachodów słońca.",
+      "gygQuery": "Elephant Rock AlUla"
+    },
+    {
+      "name": "Farasan Islands",
+      "text": "Archipelag na Morzu Czerwonym, słynący z dziewiczych plaż, raf koralowych i bogatego życia morskiego, idealny do nurkowania.",
+      "gygQuery": "Farasan Islands"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia saudyjska to połączenie wpływów beduińskich, bliskowschodnich i indyjskich. Podstawą są ryż, mięso (głównie jagnięcina i kurczak) oraz daktyle. Popularne dania to Kabsa - aromatyczny ryż z mięsem i warzywami, Mandi - wolno pieczona jagnięcina z ryżem, oraz Harees - gęsta papka z pszenicy i mięsa. Do posiłków często podaje się świeży chleb (khobz) i różnorodne sałatki. Wszędzie dostępne są świeże soki owocowe i oczywiście kawa arabska (gahwa) podawana z daktylami. Pamiętaj, że w Arabii Saudyjskiej alkohol jest całkowicie zakazany."
+  ],
+  "faq": [
+    {
+      "q": "Jakie są zasady ubioru w Arabii Saudyjskiej dla turystów?",
+      "a": "Kobiety powinny ubierać się skromnie, zakrywając ramiona i kolana. Abaja nie jest obowiązkowa dla turystek, ale zaleca się luźne, nieprzezroczyste ubrania. Mężczyźni również powinni unikać szortów w miejscach publicznych."
+    },
+    {
+      "q": "Czy kobiety mogą podróżować samotnie po Arabii Saudyjskiej?",
+      "a": "Tak, kobiety mogą podróżować samotnie. Kraj jest coraz bardziej otwarty na turystki, jednak zawsze warto zachować ostrożność i szacunek dla lokalnych norm kulturowych."
+    },
+    {
+      "q": "Czy w Arabii Saudyjskiej można kupić alkohol?",
+      "a": "Nie, sprzedaż i spożycie alkoholu są całkowicie zakazane w Arabii Saudyjskiej. Należy przestrzegać tego prawa, aby uniknąć poważnych konsekwencji."
+    },
+    {
+      "q": "Czy w Arabii Saudyjskiej jest bezpiecznie?",
+      "a": "Kraj jest generalnie bezpieczny dla turystów. Należy jednak zachować podstawowe środki ostrożności, unikać demonstracji i pamiętać o surowych przepisach dotyczących publicznego zachowania i ubioru."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

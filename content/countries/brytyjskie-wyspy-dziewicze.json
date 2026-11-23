@@ -1,0 +1,220 @@
+{
+  "slug": "brytyjskie-wyspy-dziewicze",
+  "loc": "na Brytyjskich Wyspach Dziewiczych",
+  "to": "na Brytyjskie Wyspy Dziewicze",
+  "capital": "Road Town",
+  "popularity": 10,
+  "touroperator": false,
+  "gygQuery": "British Virgin Islands",
+  "teaser": "Brytyjskie Wyspy Dziewicze to idealne miejsce dla żeglarzy i miłośników spokoju, z krystalicznie czystą wodą i bajecznymi plażami.",
+  "intro": [
+    "Brytyjskie Wyspy Dziewicze, znane jako BVI, to archipelag ponad 60 wysp i wysepek na Morzu Karaibskim, słynący przede wszystkim z doskonałych warunków do żeglowania. To prawdziwa mekka dla tych, którzy marzą o rejsie jachtem po turkusowych wodach, odkrywaniu ukrytych zatoczek i nurkowaniu w bogatych rafach koralowych. Większość wysp jest górzysta, porośnięta bujną roślinnością, a ich wybrzeża zdobią białe, piaszczyste plaże, często dostępne tylko od strony morza. Infrastruktura turystyczna jest dobrze rozwinięta, choć utrzymana w kameralnym, luksusowym stylu, bez masowej turystyki.",
+    "Kraj ten przyciąga przede wszystkim osoby poszukujące aktywnego wypoczynku na wodzie, nurków, miłośników snorkelingu oraz tych, którzy cenią sobie spokój i prywatność. To także popularny kierunek dla par i nowożeńców, szukających romantycznego otoczenia. Nie znajdziesz tu dużych kurortów all-inclusive, a raczej butikowe hotele, prywatne wille i oczywiście liczne czartery jachtów. Jeśli lubisz spędzać czas na pokładzie, odkrywać nowe miejsca każdego dnia i cieszyć się słońcem w otoczeniu spektakularnej przyrody, BVI są dla Ciebie.",
+    "Podróż z Polski na Brytyjskie Wyspy Dziewicze wymaga zazwyczaj co najmniej jednej, a często dwóch przesiadek. Najczęściej lata się przez europejskie huby (np. Londyn, Amsterdam) lub Stany Zjednoczone (np. Miami, Nowy Jork) do San Juan w Portoryko (SJU) lub St. Maarten (SXM), skąd dostępne są dalsze połączenia regionalne na Tortolę (EIS) lub Virgin Gordę (VIJ). Cała podróż jest długa i może zająć od 15 do ponad 20 godzin, ale wysiłek wynagradza widok na Karaiby. Polscy turyści rzadko wybierają ten kierunek w ramach zorganizowanych wycieczek z biurami podróży, częściej organizując wyjazd samodzielnie."
+  ],
+  "highlights": [
+    "Żeglarski raj na Karaibach",
+    "Białe, piaszczyste plaże",
+    "Idealne do nurkowania i snorkelingu",
+    "The Baths na Virgin Gorda",
+    "Spokój i prywatność",
+    "Luksusowe rejsy jachtem"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Brytyjskich Wysp Dziewiczych to pora sucha, trwająca od grudnia do maja. W tym okresie panują najbardziej stabilne warunki pogodowe, z mniejszą ilością opadów i przyjemnymi temperaturami. Jest to również czas poza sezonem huraganów, co zapewnia większe bezpieczeństwo i spokój. Od czerwca do listopada trwa pora deszczowa i sezon huraganów, z największym ryzykiem we wrześniu i październiku, dlatego lepiej unikać podróży w tych miesiącach.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      28,
+      28,
+      29,
+      30,
+      31,
+      31,
+      31,
+      31,
+      30,
+      29,
+      29,
+      28
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28,
+      27
+    ],
+    "note": "dla Road Town, Tortola"
+  },
+  "practical": {
+    "flight": "około 15-20 h z co najmniej dwiema przesiadkami",
+    "timeDiff": "zimą -5 godzin, latem -6 godzin względem Polski",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu. Na pobyt do 90 dni w celach turystycznych wiza nie jest wymagana. Należy jednak pamiętać, że przesiadki przez USA wymagają posiadania wizy amerykańskiej lub autoryzacji ESTA. Zawsze zaleca się sprawdzenie aktualnych przepisów wizowych przed podróżą.",
+    "money": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są szeroko akceptowane, zwłaszcza w hotelach, restauracjach i sklepach. Warto mieć przy sobie trochę gotówki na mniejsze wydatki lub na mniejszych wyspach.",
+    "plugs": "Typ A i B (standard amerykański), napięcie 110V, częstotliwość 60Hz. Potrzebna przejściówka.",
+    "language": "Angielski",
+    "safety": "Brytyjskie Wyspy Dziewicze są generalnie bezpiecznym kierunkiem turystycznym. Należy zachować podstawowe środki ostrożności, zwłaszcza w nocy i w mniej uczęszczanych miejscach. Największym zagrożeniem naturalnym są huragany w okresie od czerwca do listopada. Zaleca się posiadanie ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "tortola",
+      "name": "Tortola",
+      "loc": "na Tortoli",
+      "type": "wyspa",
+      "gygQuery": "Tortola British Virgin Islands",
+      "airport": "EIS",
+      "forWhom": "Główna wyspa z kapitałem, idealna do rozpoczęcia rejsu i poznania lokalnego życia.",
+      "intro": [
+        "Tortola to największa i najbardziej zaludniona wyspa Brytyjskich Wysp Dziewiczych, będąca jednocześnie centrum administracyjnym i głównym portem wejściowym. To tutaj znajduje się stolica, Road Town, z jej kolorowymi budynkami, marinami i restauracjami. Wyspa oferuje malownicze, piaszczyste plaże, takie jak Cane Garden Bay, gdzie można zrelaksować się przy dźwiękach karaibskiej muzyki i skosztować lokalnych specjałów. Warto również odwiedzić Sage Mountain National Park, najwyższy punkt wyspy, oferujący piękne widoki i szlaki trekkingowe.",
+        "Mimo że Tortola jest najbardziej rozwinięta, nadal zachowuje swój karaibski urok i spokojną atmosferę. Jest doskonałym punktem startowym dla czarterów jachtów, z licznymi firmami oferującymi wynajem łodzi. Można tu znaleźć zarówno luksusowe hotele, jak i bardziej kameralne pensjonaty. Wyspa jest także bazą wypadową do odkrywania mniejszych, niezamieszkanych wysepek, oferując połączenie wygody z dostępem do dziewiczej przyrody."
+      ],
+      "highlights": [
+        "Stolica Road Town",
+        "Plaża Cane Garden Bay",
+        "Sage Mountain National Park",
+        "Główna baza żeglarska"
+      ]
+    },
+    {
+      "slug": "virgin-gorda",
+      "name": "Virgin Gorda",
+      "loc": "na Virgin Gordzie",
+      "type": "wyspa",
+      "gygQuery": "Virgin Gorda British Virgin Islands",
+      "airport": "VIJ",
+      "forWhom": "Wyspa słynąca z unikalnych formacji skalnych The Baths, idealna dla poszukiwaczy niezwykłych krajobrazów.",
+      "intro": [
+        "Virgin Gorda to trzecia co do wielkości wyspa w archipelagu, najbardziej znana z The Baths - unikalnego obszaru z gigantycznymi granitowymi głazami tworzącymi naturalne baseny i groty. To obowiązkowy punkt każdej wycieczki na BVI, oferujący niezapomniane wrażenia z kąpieli w krystalicznie czystej wodzie i eksploracji labiryntu skał. Oprócz The Baths, wyspa oferuje również piękne plaże, takie jak Savannah Bay czy Devil's Bay, idealne do relaksu i snorkelingu.",
+        "Wyspa jest bardziej ekskluzywna i spokojna niż Tortola, z luksusowymi kurortami i prywatnymi willami. Jest to doskonałe miejsce dla tych, którzy szukają ucieczki od zgiełku i pragną cieszyć się luksusem w otoczeniu spektakularnej przyrody. Można tu również uprawiać sporty wodne, takie jak windsurfing i kitesurfing, dzięki sprzyjającym wiatrom. Virgin Gorda to połączenie naturalnego piękna z wysokim standardem usług."
+      ],
+      "highlights": [
+        "The Baths - granitowe baseny",
+        "Plaże Savannah Bay i Devil's Bay",
+        "Luksusowe kurorty",
+        "Spokojna atmosfera"
+      ]
+    },
+    {
+      "slug": "jost-van-dyke",
+      "name": "Jost Van Dyke",
+      "loc": "na Jost Van Dyke",
+      "type": "wyspa",
+      "gygQuery": "Jost Van Dyke British Virgin Islands",
+      "airport": "EIS",
+      "forWhom": "Mała wyspa znana z luźnej atmosfery, barów na plaży i imprez, idealna dla młodszych podróżników i imprezowiczów.",
+      "intro": [
+        "Jost Van Dyke to niewielka, ale niezwykle popularna wyspa, słynąca z relaksującej atmosfery, barów na plaży i spontanicznych imprez. Jej najbardziej znana zatoka, White Bay, jest domem dla słynnego baru Soggy Dollar Bar, gdzie narodził się drink Painkiller. To idealne miejsce, aby zakotwiczyć jacht, popływać do brzegu i spędzić dzień na piasku, popijając koktajle i słuchając muzyki. Wyspa jest uosobieniem karaibskiego luzu i beztroski.",
+        "Mimo swojej reputacji imprezowej, Jost Van Dyke oferuje również spokojniejsze zakątki i piękne widoki. Można tu znaleźć urokliwe restauracje serwujące świeże owoce morza, a także podziwiać zachody słońca nad morzem. To miejsce, gdzie czas płynie wolniej, a gościnność mieszkańców sprawia, że każdy czuje się jak w domu. Wyspa jest łatwo dostępna promem lub jachtem z Tortoli."
+      ],
+      "highlights": [
+        "White Bay i Soggy Dollar Bar",
+        "Relaksująca atmosfera",
+        "Imprezy na plaży",
+        "Drink Painkiller"
+      ]
+    },
+    {
+      "slug": "anegada",
+      "name": "Anegada",
+      "loc": "na Anegadzie",
+      "type": "wyspa",
+      "gygQuery": "Anegada British Virgin Islands",
+      "airport": "NGD",
+      "forWhom": "Płaska wyspa koralowa z unikalnymi rafami, słynąca z dzikiej przyrody i świeżych homarów, dla poszukiwaczy autentycznych wrażeń.",
+      "intro": [
+        "Anegada to jedyna płaska wyspa koralowa w archipelagu, co odróżnia ją od górzystych sąsiadek. Jest otoczona rozległą rafą koralową, Horseshoe Reef, która jest jedną z największych na Karaibach i stanowi dom dla bogatego życia morskiego. To raj dla nurków i snorkelingu, oferujący możliwość odkrywania podwodnych jaskiń i wraków statków. Wyspa jest również znana z dzikich flamingów i rzadkich gatunków ptaków, co czyni ją atrakcyjną dla miłośników przyrody.",
+        "Anegada słynie z homarów, które są tu łowione i serwowane w lokalnych restauracjach w wielu wariantach. Wyspa oferuje autentyczne, spokojne doświadczenie, z dala od zgiełku. Można tu wynająć skuter lub rower i odkrywać puste plaże, takie jak Cow Wreck Beach, ciesząc się ciszą i pięknem natury. Anegada to idealne miejsce dla tych, którzy szukają prawdziwego odosobnienia i kontaktu z dziką przyrodą."
+      ],
+      "highlights": [
+        "Płaska wyspa koralowa",
+        "Horseshoe Reef - nurkowanie",
+        "Świeże homary",
+        "Dzikie flamingi"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "The Baths, Virgin Gorda",
+      "text": "Unikalne formacje skalne z gigantycznych granitowych głazów, tworzące naturalne baseny i groty, idealne do kąpieli i eksploracji.",
+      "gygQuery": "The Baths Virgin Gorda"
+    },
+    {
+      "name": "Cane Garden Bay, Tortola",
+      "text": "Jedna z najbardziej znanych plaż na Tortoli, oferująca biały piasek, turkusową wodę, bary na plaży i relaksującą atmosferę.",
+      "gygQuery": "Cane Garden Bay Tortola"
+    },
+    {
+      "name": "White Bay, Jost Van Dyke",
+      "text": "Słynna zatoka z kultowym Soggy Dollar Bar, idealna do pływania, relaksu i delektowania się drinkiem Painkiller.",
+      "gygQuery": "White Bay Jost Van Dyke"
+    },
+    {
+      "name": "Wrak RMS Rhone, Salt Island",
+      "text": "Jeden z najsłynniejszych wraków na Karaibach, doskonałe miejsce do nurkowania dla zaawansowanych, pełne życia morskiego.",
+      "gygQuery": "RMS Rhone wreck dive"
+    },
+    {
+      "name": "Anegada Reef",
+      "text": "Rozległa rafa koralowa otaczająca Anegadę, raj dla nurków i snorkelingu, z bogatym ekosystemem morskim i wrakami.",
+      "gygQuery": "Anegada Reef snorkeling"
+    },
+    {
+      "name": "Norman Island",
+      "text": "Bezpośrednia inspiracja dla powieści Roberta Louisa Stevensona \"Wyspa Skarbów\", znana z jaskiń morskich idealnych do snorkelingu.",
+      "gygQuery": "Norman Island snorkeling"
+    },
+    {
+      "name": "Smuggler's Cove, Tortola",
+      "text": "Odległa i spokojna plaża na zachodnim krańcu Tortoli, idealna dla tych, którzy szukają ucieczki od tłumów i dziewiczej natury.",
+      "gygQuery": "Smuggler's Cove Tortola"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Brytyjskich Wysp Dziewiczych to typowa kuchnia karaibska, z silnym naciskiem na świeże owoce morza i lokalne produkty. Królują tu homary, krewetki, ryby (np. snapper, mahi-mahi) przygotowywane na wiele sposobów - grillowane, smażone, w curry czy w postaci ceviche. Popularne są również dania z kurczaka i kozy, często podawane z ryżem i groszkiem (rice and peas), plantanami czy lokalnymi warzywami. Nie brakuje tu świeżych owoców, takich jak mango, papaja czy ananas. Warto spróbować lokalnych specjałów, takich jak roti (rodzaj placka z nadzieniem), conch fritters (smażone placuszki z mięsa ślimaka morskiego) czy oczywiście słynny koktajl Painkiller."
+  ],
+  "faq": [
+    {
+      "q": "Jak dolecieć na Brytyjskie Wyspy Dziewicze z Polski?",
+      "a": "Podróż z Polski wymaga co najmniej dwóch przesiadek, najczęściej przez główne lotniska w Europie (np. Londyn) lub USA (np. Miami) do Portoryko (San Juan) lub St. Maarten, skąd dostępne są regionalne loty na Tortolę (EIS) lub Virgin Gordę (VIJ)."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Brytyjskie Wyspy Dziewicze?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 90 dni. Pamiętaj jednak, że przesiadka przez USA wymaga posiadania autoryzacji ESTA lub wizy amerykańskiej. Zawsze sprawdź aktualne przepisy przed wyjazdem."
+    },
+    {
+      "q": "Jaka jest najlepsza pora na podróż na BVI?",
+      "a": "Najlepszy czas na podróż to pora sucha, od grudnia do maja. W tym okresie jest najmniej opadów i przyjemne temperatury, a także poza sezonem huraganów, który trwa od czerwca do listopada."
+    },
+    {
+      "q": "Czym się płaci na Brytyjskich Wyspach Dziewiczych?",
+      "a": "Oficjalną walutą jest dolar amerykański (USD). Karty kredytowe są szeroko akceptowane, ale warto mieć przy sobie trochę gotówki, zwłaszcza na mniejszych wyspach lub w lokalnych barach."
+    },
+    {
+      "q": "Czy Brytyjskie Wyspy Dziewicze są bezpieczne?",
+      "a": "BVI są generalnie bezpiecznym kierunkiem turystycznym. Należy zachować podstawowe środki ostrożności, jak wszędzie. Największe zagrożenie to huragany w sezonie od czerwca do listopada."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

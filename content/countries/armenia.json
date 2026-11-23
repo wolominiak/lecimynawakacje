@@ -1,0 +1,212 @@
+{
+  "slug": "armenia",
+  "loc": "w Armenii",
+  "to": "do Armenii",
+  "capital": "Erywań",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Armenia",
+  "teaser": "Armenia to kraj o bogatej historii i pięknych górskich krajobrazach. Idealna dla miłośników kultury, trekkingów i autentycznych podróży.",
+  "intro": [
+    "Armenia to jeden z najstarszych krajów chrześcijańskich na świecie, co widać na każdym kroku w postaci licznych klasztorów i kościołów, często osadzonych w spektakularnych górskich krajobrazach. To destynacja dla tych, którzy szukają autentycznych doświadczeń, z dala od masowej turystyki. Kraj ten oferuje unikalne połączenie starożytnej historii, zapierających dech w piersiach widoków Kaukazu i niezwykłej gościnności mieszkańców. Przygotuj się na podróż, która zaskoczy Cię swoją głębią i różnorodnością.",
+    "Kraj ten jest idealny dla aktywnych podróżników, miłośników historii i kultury, a także dla tych, którzy cenią sobie kontakt z naturą i lokalną społecznością. Armenia to także raj dla smakoszy, oferujący wyśmienitą kuchnię z wpływami Bliskiego Wschodu i Kaukazu, a także długą tradycję winiarską. Jeśli szukasz miejsca, gdzie możesz zanurzyć się w innej kulturze, odkrywać starożytne zabytki i wędrować po malowniczych górach, Armenia będzie doskonałym wyborem.",
+    "Podróż z Polski do Armenii zazwyczaj wymaga przesiadki, najczęściej w Wiedniu, Warszawie lub innym europejskim hubie. Cały lot trwa około 6-7 godzin, wliczając czas na przesiadkę. Po wylądowaniu w Erywaniu, stolicy kraju, od razu poczujesz odmienną atmosferę. Armenia jest krajem bezpiecznym dla turystów, choć zawsze warto zachować podstawowe środki ostrożności. Przygotuj się na różnicę czasu i na to, że angielski nie jest powszechny poza głównymi ośrodkami turystycznymi, ale życzliwość Ormian nadrabia wszelkie bariery językowe."
+  ],
+  "highlights": [
+    "Starożytne klasztory w górach",
+    "Malownicze jezioro Sewan",
+    "Gościnność lokalnych mieszkańców",
+    "Wulkaniczne krajobrazy i trekking",
+    "Wyśmienita kuchnia i wino",
+    "Historia pierwszego chrześcijańskiego kraju"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Armenii to wiosna (maj-czerwiec) i jesień (wrzesień-październik). W tych miesiącach pogoda jest przyjemna, idealna do zwiedzania i aktywności na świeżym powietrzu, a krajobrazy zachwycają kolorami. Lato (lipiec-sierpień) bywa upalne, szczególnie w Erywaniu i na nizinach, ale to dobry czas na wypoczynek nad Jeziorem Sewan lub wędrówki po wyższych partiach gór. Zimą Armenia oferuje możliwości narciarskie, ale wiele dróg do klasztorów może być trudno dostępnych.",
+    "best": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      1,
+      4,
+      10,
+      17,
+      23,
+      28,
+      32,
+      32,
+      27,
+      20,
+      12,
+      5
+    ],
+    "sea": null,
+    "note": "dla Erywania"
+  },
+  "practical": {
+    "flight": "około 6-7 h z przesiadką",
+    "timeDiff": "+2h",
+    "documents": "Obywatele Polski mogą wjechać do Armenii na podstawie ważnego paszportu, bez konieczności posiadania wizy, na okres do 180 dni w ciągu roku. Paszport powinien być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów na stronie MSZ przed podróżą.",
+    "money": "Walutą jest dram ormiański (AMD). W Erywaniu i większych miastach bez problemu zapłacisz kartą, ale poza nimi, zwłaszcza na targach i w mniejszych miejscowościach, gotówka jest niezbędna. Bankomaty są szeroko dostępne w miastach.",
+    "plugs": "Typy C i F, takie same jak w Polsce, więc adapter nie jest potrzebny.",
+    "language": "Oficjalnym językiem jest ormiański. Wielu Ormian, zwłaszcza starsze pokolenie, mówi po rosyjsku. Angielski jest coraz bardziej popularny wśród młodych ludzi i w miejscach turystycznych, ale podstawowe zwroty po rosyjsku mogą się przydać.",
+    "safety": "Armenia jest generalnie bezpiecznym krajem dla turystów. Należy jednak zachować ostrożność w rejonach przygranicznych z Azerbejdżanem, gdzie sytuacja polityczna jest napięta. Standardowe środki ostrożności, jak w każdym innym kraju, są zalecane. Opieka medyczna może być na niższym poziomie niż w Europie Zachodniej, dlatego warto mieć dobre ubezpieczenie turystyczne."
+  },
+  "regions": [
+    {
+      "slug": "erywan",
+      "name": "Erywań",
+      "loc": "w Erywaniu",
+      "type": "miasto",
+      "gygQuery": "Yerevan",
+      "airport": "EVN",
+      "forWhom": "Idealny dla miłośników miejskiego życia, kultury i historii.",
+      "intro": [
+        "Stolica Armenii, Erywań, to dynamiczne miasto zbudowane z różowego tufu wulkanicznego, co nadaje mu unikalny charakter. Jest to serce kraju, pełne muzeów, galerii sztuki, tętniących życiem kawiarni i restauracji. Odkryjesz tu zarówno ślady starożytnej historii, jak i nowoczesne akcenty, tworzące fascynującą mieszankę.",
+        "Nie przegap Kaskad, imponującego kompleksu schodów z rzeźbami i widokiem na miasto, a także Placu Republiki, słynącego z tańczących fontann. Erywań to także doskonała baza wypadowa do zwiedzania okolicznych atrakcji, z łatwym dostępem do wielu klasztorów i zabytków."
+      ],
+      "highlights": [
+        "Plac Republiki i tańczące fontanny",
+        "Kaskady i Centrum Sztuki Cafesjian",
+        "Muzeum Matenadaran z manuskryptami",
+        "Targ Vernissage z rękodziełem"
+      ]
+    },
+    {
+      "slug": "jezioro-sewan",
+      "name": "Jezioro Sewan",
+      "loc": "nad Jeziorem Sewan",
+      "type": "region",
+      "gygQuery": "Lake Sevan",
+      "airport": "EVN",
+      "forWhom": "Dla szukających ochłody, pięknych widoków i klasztorów nad wodą.",
+      "intro": [
+        "Jezioro Sewan, nazywane „perłą Armenii”, to jedno z największych wysokogórskich jezior słodkowodnych na świecie, położone na wysokości około 1900 m n.p.m. Jego krystalicznie czyste wody i otaczające je góry tworzą spektakularne krajobrazy, idealne do relaksu i podziwiania natury. Wokół jeziora znajdziesz liczne plaże, gdzie można odpocząć i spróbować świeżych ryb.",
+        "Główną atrakcją jest półwysep Sevanavank z dwoma średniowiecznymi klasztorami, które malowniczo wznoszą się nad wodą. To doskonałe miejsce na jednodniową wycieczkę z Erywania, oferujące ucieczkę od miejskiego zgiełku i możliwość podziwiania jednego z najpiękniejszych zakątków Armenii."
+      ],
+      "highlights": [
+        "Klasztory Sevanavank na półwyspie",
+        "Wypoczynek na plażach jeziora",
+        "Świeże ryby z jeziora",
+        "Panoramiczne widoki na góry"
+      ]
+    },
+    {
+      "slug": "garni-geghard",
+      "name": "Region Garni i Geghard",
+      "loc": "w regionie Garni i Geghard",
+      "type": "region",
+      "gygQuery": "Garni Geghard",
+      "airport": "EVN",
+      "forWhom": "Obowiązkowy punkt dla pasjonatów starożytnej architektury i wczesnego chrześcijaństwa.",
+      "intro": [
+        "Niedaleko Erywania, w malowniczej dolinie rzeki Azat, znajdują się dwie z najważniejszych atrakcji Armenii: świątynia Garni i klasztor Geghard. Świątynia Garni to jedyna zachowana pogańska świątynia w Armenii, zbudowana w stylu grecko-rzymskim, co stanowi niezwykły kontrast do otaczających ją chrześcijańskich zabytków. Jej położenie na skalistym cyplu oferuje zapierające dech w piersiach widoki na dolinę.",
+        "Klasztor Geghard, wpisany na listę UNESCO, to arcydzieło ormiańskiej architektury sakralnej, częściowo wykuty w skale. Jego unikalna struktura i mistyczna atmosfera sprawiają, że jest to jedno z najbardziej imponujących miejsc w kraju. Oba te miejsca są łatwo dostępne z Erywania i stanowią idealny cel jednodniowej wycieczki, pozwalającej zanurzyć się w bogatej historii Armenii."
+      ],
+      "highlights": [
+        "Pogańska świątynia Garni",
+        "Wykuty w skale klasztor Geghard",
+        "Widoki na Kanion Garni i Symphony of Stones",
+        "Historia wczesnego chrześcijaństwa"
+      ]
+    },
+    {
+      "slug": "dilijan",
+      "name": "Region Dilijan",
+      "loc": "w regionie Dilijan",
+      "type": "region",
+      "gygQuery": "Dilijan",
+      "airport": "EVN",
+      "forWhom": "Raj dla miłośników przyrody, pieszych wędrówek i spokoju.",
+      "intro": [
+        "Region Dilijan, często nazywany „armeńską Szwajcarią”, to zielone płuca kraju, słynące z gęstych lasów, górskich jezior i urokliwych miasteczek. Jest to idealne miejsce dla tych, którzy pragną uciec od zgiełku miasta i zanurzyć się w naturze. Park Narodowy Dilijan oferuje liczne szlaki trekkingowe, prowadzące do ukrytych wodospadów i malowniczych punktów widokowych.",
+        "W regionie znajdują się również piękne średniowieczne klasztory, takie jak Haghartsin i Goshavank, które wkomponowane są w bujną zieleń lasów. Samo miasto Dilijan to uzdrowiskowa miejscowość z tradycyjną architekturą i spokojną atmosferą, idealną na relaks po dniu pełnym wędrówek."
+      ],
+      "highlights": [
+        "Park Narodowy Dilijan i szlaki trekkingowe",
+        "Klasztory Haghartsin i Goshavank",
+        "Malownicze jezioro Parz",
+        "Uzdrowiskowa atmosfera Dilijan"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kaskady w Erywaniu",
+      "text": "Imponujący kompleks schodów z rzeźbami i fontannami, oferujący panoramiczne widoki na miasto i górę Ararat. Wewnątrz znajduje się Centrum Sztuki Cafesjian.",
+      "gygQuery": "Yerevan Cascade"
+    },
+    {
+      "name": "Plac Republiki w Erywaniu",
+      "text": "Centralny plac stolicy, otoczony monumentalnymi budynkami z różowego tufu. Słynie z wieczornych pokazów tańczących fontann.",
+      "gygQuery": "Republic Square Yerevan"
+    },
+    {
+      "name": "Klasztor Geghard",
+      "text": "Wpisany na listę UNESCO kompleks klasztorny, częściowo wykuty w skale, słynący z unikalnej architektury i mistycznej atmosfery. Znajduje się w malowniczej dolinie.",
+      "gygQuery": "Geghard Monastery"
+    },
+    {
+      "name": "Świątynia Garni",
+      "text": "Jedyna zachowana pogańska świątynia w Armenii, poświęcona bogu słońca Mitrze. Położona na skalistym cyplu, oferuje spektakularne widoki.",
+      "gygQuery": "Garni Temple"
+    },
+    {
+      "name": "Klasztor Khor Virap",
+      "text": "Symboliczny klasztor położony u stóp góry Ararat, oferujący jeden z najbardziej ikonicznych widoków w Armenii. To tutaj św. Grzegorz Oświeciciel był więziony.",
+      "gygQuery": "Khor Virap Monastery"
+    },
+    {
+      "name": "Jezioro Sewan i klasztor Sevanavank",
+      "text": "Wysokogórskie jezioro nazywane „perłą Armenii”, z malowniczym klasztorem Sevanavank na półwyspie. Idealne miejsce na relaks i podziwianie natury.",
+      "gygQuery": "Lake Sevan Sevanavank"
+    },
+    {
+      "name": "Muzeum Matenadaran",
+      "text": "Instytut Starożytnych Manuskryptów w Erywaniu, przechowujący jedną z najbogatszych kolekcji średniowiecznych rękopisów na świecie. Fascynujące dla miłośników historii i sztuki.",
+      "gygQuery": "Matenadaran"
+    },
+    {
+      "name": "Klasztor Tatew",
+      "text": "Imponujący kompleks klasztorny z IX wieku, położony na skalistym płaskowyżu. Dostępny dzięki najdłuższej na świecie odwracalnej kolejce linowej, „Skrzydła Tatewu”.",
+      "gygQuery": "Tatev Monastery"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia ormiańska to prawdziwa uczta dla zmysłów, bogata w smaki i aromaty, z silnymi wpływami Bliskiego Wschodu i Kaukazu. Bazuje na świeżych warzywach, ziołach, mięsie (głównie jagnięcina, wołowina, drób) i lokalnych serach. Koniecznie spróbuj khorovats (ormiański grill), dolmy (gołąbki z liści winogron lub warzyw), lavash (tradycyjny chleb pieczony w tonirze) oraz ghapamy (dynia faszerowana ryżem i suszonymi owocami). Armenia słynie również z doskonałych win, zwłaszcza z regionu Areni, oraz z brandy, które jest narodowym trunkiem. Pamiętaj, że posiłki to ważny element kultury i gościnności, często celebrowane w gronie rodziny i przyjaciół."
+  ],
+  "faq": [
+    {
+      "q": "Czy Armenia jest bezpiecznym krajem dla turystów?",
+      "a": "Tak, Armenia jest generalnie bezpieczna dla turystów, choć zawsze zaleca się zachowanie ostrożności i unikanie obszarów przygranicznych z Azerbejdżanem. W Erywaniu i innych miastach przestępczość jest niska."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne Polakom do wjazdu do Armenii?",
+      "a": "Obywatele Polski mogą wjechać do Armenii na podstawie ważnego paszportu, bez konieczności posiadania wizy, na okres do 180 dni w ciągu roku. Paszport powinien być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Armenii?",
+      "a": "Po Erywaniu można poruszać się metrem, taksówkami lub marszrutkami (busami). Do dalszych miejscowości najlepiej wynająć samochód z kierowcą, skorzystać z taksówek międzymiastowych lub marszrutek. Wynajem samochodu na własną rękę wymaga doświadczenia w jeździe po górskich, często słabo utrzymanych drogach."
+    },
+    {
+      "q": "Czy w Armenii można płacić kartą?",
+      "a": "W większych miastach, takich jak Erywań, płatności kartą są powszechne w sklepach i restauracjach. Poza miastami, zwłaszcza na targach i w mniejszych miejscowościach, dominują płatności gotówką, dlatego zawsze warto mieć przy sobie dramy ormiańskie (AMD)."
+    },
+    {
+      "q": "Jaka jest pogoda w Armenii?",
+      "a": "Armenia ma klimat kontynentalny z gorącymi latami i mroźnymi zimami, szczególnie w górach. Wiosna i jesień są łagodne i słoneczne, idealne do zwiedzania, z temperaturami między 15 a 25 stopni Celsjusza."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "curacao",
+  "loc": "na Curaçao",
+  "to": "na Curaçao",
+  "capital": "Willemstad",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Curacao",
+  "teaser": "Słoneczna wyspa na Karaibach, idealna na relaks i nurkowanie, z holenderskim klimatem i pięknymi plażami.",
+  "intro": [
+    "Curaçao to jeden z klejnotów holenderskich Karaibów, który przyciąga turystów przede wszystkim krystalicznie czystą wodą, malowniczymi plażami i bogatym życiem podwodnym. To idealne miejsce dla miłośników nurkowania i snorkelingu, którzy mogą podziwiać tu kolorowe rafy koralowe i wraki statków. Wyspa oferuje także unikalne połączenie kultury europejskiej i karaibskiej, co widać w architekturze stolicy, Willemstad, wpisanej na listę UNESCO.",
+    "Kraj ten jest doskonałym wyborem dla osób szukających ucieczki od zgiełku, ceniących sobie spokój i możliwość aktywnego wypoczynku na łonie natury. Curaçao to także gratka dla smakoszy, którzy mogą spróbować lokalnej kuchni z wpływami holenderskimi, afrykańskimi i latynoskimi. Nie jest to typowy kierunek dla imprezowiczów, raczej dla tych, którzy preferują relaks, eksplorację i autentyczne doświadczenia w otoczeniu pięknej przyrody.",
+    "Podróż z Polski na Curaçao wymaga przesiadek, najczęściej w Amsterdamie lub innych europejskich hubach, co sprawia, że jest to długa wyprawa, trwająca zazwyczaj około 12-14 godzin w powietrzu. Po wylądowaniu na wyspie czeka nas różnica czasu, która wynosi 5 lub 6 godzin wstecz w stosunku do czasu polskiego, w zależności od pory roku. Mimo długiego lotu, wyspa wynagradza trudy podróży swoim unikalnym urokiem i słoneczną atmosferą."
+  ],
+  "highlights": [
+    "Kolorowa architektura Willemstad",
+    "Plaże z białym piaskiem i turkusową wodą",
+    "Wyśmienite miejsca do nurkowania i snorkelingu",
+    "Most Królowej Emmy, most pontonowy",
+    "Fabryka likieru Curaçao",
+    "Park Narodowy Christoffel"
+  ],
+  "bestTime": {
+    "text": "Najlepszym okresem na wizytę na Curaçao jest pora sucha, która trwa od lutego do września. W tym czasie panuje stabilna, słoneczna pogoda z niewielkimi opadami deszczu, a temperatury są przyjemnie wysokie. Unikać należy okresu od października do stycznia, kiedy występuje większe ryzyko krótkich, intensywnych deszczów. Curaçao leży poza głównym pasem huraganów, więc ryzyko wystąpienia tych zjawisk jest znacznie mniejsze niż na innych wyspach Karaibów.",
+    "best": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      1,
+      10,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      30,
+      31,
+      31,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      31,
+      30
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "Willemstad"
+  },
+  "practical": {
+    "flight": "około 12-14 h z przesiadką",
+    "timeDiff": "5 lub 6 godzin wstecz do Polski",
+    "documents": "Obywatele Polski mogą przebywać na Curaçao bez wizy do 90 dni. Wymagany jest ważny paszport. Zawsze zaleca się sprawdzenie aktualnych wymagań przed wyjazdem.",
+    "money": "Walutą jest gulden antylski (ANG), ale dolary amerykańskie (USD) są powszechnie akceptowane. Płatności kartą są szeroko dostępne, bankomaty również.",
+    "plugs": "Typ A i B (amerykańskie), napięcie 127V, częstotliwość 50Hz. Wymagana przejściówka.",
+    "language": "Oficjalne języki to niderlandzki, angielski i papiamento. Angielski jest powszechnie używany w turystyce.",
+    "safety": "Curaçao jest generalnie bezpiecznym krajem, ale jak wszędzie, należy zachować podstawowe środki ostrożności, zwłaszcza w miejscach turystycznych i po zmroku. Uważać na drobne kradzieże."
+  },
+  "regions": [
+    {
+      "slug": "willemstad",
+      "name": "Willemstad",
+      "loc": "w Willemstad",
+      "type": "miasto",
+      "gygQuery": "Willemstad Curacao",
+      "airport": "CUR",
+      "forWhom": "Dla miłośników historii, architektury i miejskiego życia z karaibskim akcentem.",
+      "intro": [
+        "Willemstad, stolica Curaçao, to prawdziwa perełka Karaibów, której kolorowa architektura przypomina holenderskie miasteczka. Dzielnice Punda i Otrobanda, oddzielone zatoką St. Anna Bay, są wpisane na listę światowego dziedzictwa UNESCO, oferując spacerowiczom niezapomniane widoki. Znajdziemy tu wąskie uliczki, urocze place i mnóstwo sklepów, restauracji oraz kawiarni.",
+        "Charakterystycznym elementem miasta jest słynny most pontonowy Królowej Emmy, który otwiera się, aby przepuścić statki, oferując spektakularne widoki na kolorowe fasady domów. Willemstad to także centrum kulturalne wyspy, z muzeami, galeriami sztuki i tętniącym życiem nocnym. Warto poświęcić kilka dni na eksplorację tego urokliwego miasta."
+      ],
+      "highlights": [
+        "Kolorowe domy Punda i Otrobanda",
+        "Most Królowej Emmy",
+        "Fort Amsterdam",
+        "Synagoga Mikvé Israel-Emanuel"
+      ]
+    },
+    {
+      "slug": "zachodnie-wybrzeze",
+      "name": "Zachodnie Wybrzeże",
+      "loc": "na Zachodnim Wybrzeżu",
+      "type": "region",
+      "gygQuery": "Curacao West Coast beaches",
+      "airport": "CUR",
+      "forWhom": "Dla plażowiczów, nurków i osób szukających spokoju z dala od miejskiego zgiełku.",
+      "intro": [
+        "Zachodnie Wybrzeże Curaçao to królestwo idyllicznych plaż i zatoczek, które są wizytówką wyspy. To tutaj znajdziesz jedne z najpiękniejszych miejsc do relaksu, kąpieli i uprawiania sportów wodnych. Plaże takie jak Kenepa Grandi (Grote Knip), Cas Abao czy PortoMari zachwycają białym piaskiem i krystalicznie czystą, turkusową wodą, idealną do snorkelingu i nurkowania.",
+        "Wiele z tych plaż oferuje doskonałą infrastrukturę, w tym bary, wypożyczalnie sprzętu i leżaki, ale są też dzikie, ustronne zakątki. Region ten jest znacznie spokojniejszy niż okolice Willemstad, co czyni go idealnym miejscem na ucieczkę od codzienności i pełne zanurzenie się w karaibskim krajobrazie."
+      ],
+      "highlights": [
+        "Plaża Kenepa Grandi",
+        "Plaża Cas Abao",
+        "Plaża PortoMari",
+        "Miejsca do nurkowania i snorkelingu"
+      ]
+    },
+    {
+      "slug": "christoffelpark-i-shete-boka",
+      "name": "Christoffelpark i Shete Boka",
+      "loc": "w Christoffelpark i Shete Boka",
+      "type": "park narodowy",
+      "gygQuery": "Christoffelpark Shete Boka Curacao",
+      "airport": "CUR",
+      "forWhom": "Dla miłośników natury, pieszych wędrówek i spektakularnych widoków.",
+      "intro": [
+        "Park Narodowy Christoffelpark, położony w północno-zachodniej części wyspy, to największy obszar chroniony na Curaçao. Oferuje on różnorodne szlaki turystyczne, prowadzące przez wzgórza, lasy i plantacje, a także możliwość zdobycia najwyższego szczytu wyspy, Mount Christoffel. Z jego wierzchołka rozciągają się zapierające dech w piersiach widoki na całą wyspę i otaczające ją morze.",
+        "Tuż obok Christoffelpark znajduje się Park Narodowy Shete Boka, słynący z surowego, skalistego wybrzeża i spektakularnych jaskiń, w których fale rozbijają się z ogromną siłą. To doskonałe miejsce do obserwacji żółwi morskich, które składają tu jaja, oraz podziwiania potęgi natury. Oba parki stanowią idealne uzupełnienie plażowego wypoczynku, oferując aktywny kontakt z dziką przyrodą Curaçao."
+      ],
+      "highlights": [
+        "Wędrówka na Mount Christoffel",
+        "Jaskinie Boka Tabla",
+        "Obserwacja żółwi morskich",
+        "Dzikie, skaliste wybrzeże"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Willemstad",
+      "text": "Stolica wyspy, wpisana na listę UNESCO, słynąca z kolorowych holenderskich kamieniczek, mostu pontonowego Królowej Emmy i tętniącego życia portowego.",
+      "gygQuery": "Willemstad walking tour"
+    },
+    {
+      "name": "Plaża Kenepa Grandi (Grote Knip)",
+      "text": "Jedna z najpiękniejszych plaż na Curaçao, z białym piaskiem, turkusową wodą i doskonałymi warunkami do pływania i snorkelingu.",
+      "gygQuery": "Kenepa Grandi beach"
+    },
+    {
+      "name": "Park Narodowy Christoffelpark",
+      "text": "Największy park narodowy wyspy, oferujący szlaki turystyczne, możliwość zdobycia najwyższego szczytu Curaçao i obserwacji dzikiej fauny i flory.",
+      "gygQuery": "Christoffelpark hiking"
+    },
+    {
+      "name": "Shete Boka National Park",
+      "text": "Park chroniący surowe, skaliste wybrzeże z jaskiniami, w których fale rozbijają się z hukiem, oraz miejsca lęgowe żółwi morskich.",
+      "gygQuery": "Shete Boka National Park"
+    },
+    {
+      "name": "Nurkowanie i Snorkeling",
+      "text": "Curaçao to raj dla nurków, z setkami miejsc do nurkowania, w tym wrakami statków i kolorowymi rafami koralowymi dostępnymi prosto z plaży.",
+      "gygQuery": "Curacao diving snorkeling"
+    },
+    {
+      "name": "Fabryka likieru Curaçao",
+      "text": "Odwiedź historyczną plantację Landhuis Chobolobo, gdzie produkowany jest słynny niebieski likier Curaçao, i poznaj jego historię.",
+      "gygQuery": "Curacao Liqueur Distillery"
+    },
+    {
+      "name": "Plaża Cas Abao",
+      "text": "Prywatna plaża o doskonałej infrastrukturze, idealna na relaks, nurkowanie i spędzanie czasu z rodziną, często uznawana za jedną z najlepszych na wyspie.",
+      "gygQuery": "Cas Abao beach"
+    },
+    {
+      "name": "Mambo Beach (BLVD)",
+      "text": "Popularny kompleks plażowy z barami, restauracjami, sklepami i klubami, oferujący rozrywkę zarówno w dzień, jak i w nocy.",
+      "gygQuery": "Mambo Beach Curacao"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Curaçao to fascynująca mieszanka wpływów holenderskich, afrykańskich, latynoskich i indonezyjskich, co tworzy unikalne i aromatyczne smaki. Podstawą wielu dań są świeże owoce morza, takie jak ryby, krewetki czy homary, często podawane z ryżem i fasolą. Warto spróbować lokalnego dania 'Keshi Yená', czyli nadziewanego sera gouda, 'Stobá' - gulaszu z koziny lub wołowiny, oraz 'Pastechi' - smażonych pierożków z różnymi nadzieniami. Nie można zapomnieć o świeżych owocach tropikalnych i oczywiście o słynnym likierze Blue Curaçao, który jest produkowany na wyspie z gorzkich pomarańczy."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebna jest wiza na Curaçao dla Polaków?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na Curaçao na pobyty turystyczne do 90 dni. Wymagany jest jedynie ważny paszport."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Curaçao?",
+      "a": "Oficjalną walutą jest gulden antylski (ANG), ale dolary amerykańskie (USD) są powszechnie akceptowane w sklepach, restauracjach i hotelach. Karty płatnicze są również szeroko używane."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Curaçao?",
+      "a": "Najlepszym okresem na podróż na Curaçao jest pora sucha, od lutego do września. Wtedy panuje stabilna, słoneczna pogoda z mniejszym ryzykiem deszczu, a temperatury są idealne do wypoczynku."
+    },
+    {
+      "q": "Czy Curaçao jest bezpieczne dla turystów?",
+      "a": "Curaçao jest generalnie bezpiecznym kierunkiem turystycznym. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach i po zmroku, aby uniknąć drobnych kradzieży."
+    },
+    {
+      "q": "Czym różni się Curaçao od innych wysp Karaibów?",
+      "a": "Curaçao wyróżnia się unikalną holenderską architekturą Willemstad, położeniem poza głównym pasem huraganów, co zapewnia większą stabilność pogodową, oraz bogatą ofertą dla nurków i miłośników kultury."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

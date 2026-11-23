@@ -1,0 +1,196 @@
+{
+  "slug": "azerbejdzan",
+  "loc": "w Azerbejdżanie",
+  "to": "do Azerbejdżanu",
+  "capital": "Baku",
+  "popularity": 20,
+  "touroperator": false,
+  "gygQuery": "Azerbaijan",
+  "teaser": "Azerbejdżan to kraj kontrastów - od nowoczesnego Baku po starożytne zabytki i dziką naturę Kaukazu. Odkryj Ziemię Ognia, gdzie historia spotyka się z przyszłością.",
+  "intro": [
+    "Azerbejdżan, nazywany Ziemią Ognia, to fascynujące połączenie europejskiej nowoczesności z orientalną tradycją. Kraj leżący na styku Europy i Azji oferuje podróżnikom niezwykłe kontrasty - od futurystycznych wieżowców Baku, przez starożytne świątynie ognia, po majestatyczne krajobrazy Kaukazu. To miejsce, gdzie historia Jedwabnego Szlaku spotyka się z dynamicznym rozwojem, a gościnność mieszkańców jest równie ciepła jak słońce nad Morzem Kaspijskim.",
+    "Azerbejdżan to idealna propozycja dla doświadczonych podróżników szukających autentycznych wrażeń, miłośników historii i kultury, a także entuzjastów górskich wędrówek. Kraj ten nie jest jeszcze masowo oblegany przez turystów, co pozwala na odkrywanie jego uroków w bardziej kameralnej atmosferze. Przygotuj się na niezapomniane smaki lokalnej kuchni, intrygujące opowieści i widoki, które na długo pozostaną w pamięci.",
+    "Podróż z Polski do Azerbejdżanu zazwyczaj wymaga przesiadki, najczęściej w Stambule, Kijowie czy Frankfurcie, a lot trwa około 5-6 godzin. Dla obywateli Polski wymagana jest wiza, którą można wygodnie uzyskać online przed wyjazdem. Różnica czasu wynosi +3 godziny, co ułatwia aklimatyzację. Kraj oferuje dobrą infrastrukturę turystyczną w większych miastach, a poza nimi pozwala na prawdziwe zanurzenie się w lokalne życie."
+  ],
+  "highlights": [
+    "Futurystyczne wieżowce Baku",
+    "Stare Miasto w Baku (Icherisheher)",
+    "Wulkany błotne w Gobustanie",
+    "Płonąca góra Yanar Dag",
+    "Historyczne miasto Szeki (Sheki)",
+    "Malownicze krajobrazy Kaukazu"
+  ],
+  "bestTime": {
+    "text": "Wiosna (kwiecień-maj) i jesień (wrzesień-październik) to najlepsze pory na podróż do Azerbejdżanu. Temperatury są wtedy przyjemne, idealne do zwiedzania miast i wędrówek po górach. Lato bywa upalne, zwłaszcza w Baku i na nizinach, choć wybrzeże Morza Kaspijskiego oferuje wtedy możliwość kąpieli. Zimą temperatury spadają, a w górach pojawia się śnieg, co może utrudniać podróżowanie poza większymi miastami.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      7,
+      7,
+      10,
+      16,
+      22,
+      27,
+      30,
+      30,
+      25,
+      18,
+      13,
+      9
+    ],
+    "sea": [
+      6,
+      5,
+      6,
+      10,
+      16,
+      21,
+      24,
+      25,
+      22,
+      17,
+      12,
+      8
+    ],
+    "note": "dla Baku i wybrzeża Morza Kaspijskiego"
+  },
+  "practical": {
+    "flight": "około 5-6 h z przesiadką",
+    "timeDiff": "+3h",
+    "documents": "Wiza jest wymagana dla obywateli Polski. Można ją uzyskać online za pośrednictwem systemu e-wiza (ASAN Visa), co jest procesem szybkim i wygodnym. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych lub Ambasady Azerbejdżanu przed planowaną podróżą, gdyż przepisy mogą ulec zmianie.",
+    "money": "Manat azerbejdżański (AZN). Płatności kartą powszechne w miastach, poza nimi gotówka.",
+    "plugs": "Typ C i F (europejskie standardy).",
+    "language": "Azerbejdżański, rosyjski. Angielski coraz popularniejszy w turystycznych miejscach.",
+    "safety": "Azerbejdżan jest generalnie krajem bezpiecznym dla turystów, zwłaszcza w dużych miastach i popularnych regionach. Należy jednak zachować podstawową ostrożność, jak w każdym obcym miejscu, szczególnie w zatłoczonych miejscach. Bezwzględnie należy unikać podróży w strefy przygraniczne z Armenią, w tym do regionu Górskiego Karabachu, który jest obszarem konfliktu i min. Występuje ryzyko trzęsień ziemi."
+  },
+  "regions": [
+    {
+      "slug": "baku",
+      "name": "Baku",
+      "loc": "w Baku",
+      "type": "miasto",
+      "gygQuery": "Baku",
+      "airport": "GYD",
+      "forWhom": "Dla miłośników nowoczesności i historii, szukających tętniącej życiem metropolii.",
+      "intro": [
+        "Stolica Azerbejdżanu to dynamiczne miasto, gdzie futurystyczne wieżowce, takie jak Flame Towers, współistnieją z zabytkowym Starym Miastem (Icherisheher), wpisanym na listę UNESCO. Baku to centrum kulturalne i gospodarcze kraju, oferujące bogate życie nocne, liczne muzea, galerie sztuki oraz eleganckie bulwary nad Morzem Kaspijskim. Jest to idealne miejsce na rozpoczęcie przygody z Azerbejdżanem, oferujące łatwy dostęp do wielu atrakcji.",
+        "Przejdź się po wąskich uliczkach Icherisheher, podziwiając Pałac Szachów Szyrwanu i Wieżę Dziewiczą. Następnie zanurz się w nowoczesność, odwiedzając Centrum Hejdara Alijewa - architektoniczne arcydzieło Zaha Hadid, czy podziwiając widoki z Flame Towers. Baku to miasto, które nieustannie zaskakuje i inspiruje, łącząc w sobie wschodni urok z zachodnim stylem życia."
+      ],
+      "highlights": [
+        "Stare Miasto (Icherisheher)",
+        "Flame Towers",
+        "Centrum Hejdara Alijewa",
+        "Bulwar Nadmorski"
+      ]
+    },
+    {
+      "slug": "gobustan",
+      "name": "Gobustan",
+      "loc": "w Gobustanie",
+      "type": "region",
+      "gygQuery": "Gobustan",
+      "airport": "GYD",
+      "forWhom": "Dla poszukiwaczy prehistorycznych śladów i unikalnych zjawisk geologicznych.",
+      "intro": [
+        "Rezerwat Gobustan, położony około 60 km na południe od Baku, to prawdziwa podróż w czasie do epoki kamienia łupanego. Znajdują się tu tysiące petroglifów - rycin naskalnych, które przedstawiają sceny z życia prehistorycznych ludzi, zwierzęta i rytuały. To UNESCO-owskie dziedzictwo jest świadectwem obecności człowieka w tym regionie od ponad 40 00eli.",
+        "Gobustan słynie również z unikalnych wulkanów błotnych, które są jednym z najbardziej charakterystycznych krajobrazów Azerbejdżanu. Te niewielkie stożki wyrzucają zimne błoto, tworząc surrealistyczny, księżycowy krajobraz. Wizyta w Gobustanie to niezwykłe doświadczenie, które pozwala zrozumieć geologiczną i historyczną przeszłość kraju."
+      ],
+      "highlights": [
+        "Ryciny naskalne (petroglify)",
+        "Wulkany błotne",
+        "Muzeum Gobustan",
+        "Unikalny krajobraz"
+      ]
+    },
+    {
+      "slug": "szeki",
+      "name": "Szeki (Sheki)",
+      "loc": "w Szeki",
+      "type": "miasto",
+      "gygQuery": "Sheki",
+      "airport": "GAJ (Gandża)",
+      "forWhom": "Dla miłośników historii Jedwabnego Szlaku, tradycyjnej architektury i górskich widoków.",
+      "intro": [
+        "Szeki to urokliwe miasto położone u podnóża Wielkiego Kaukazu, które niegdyś było ważnym przystankiem na Jedwabnym Szlaku. Słynie z pięknego Pałacu Chanów Szeki, arcydzieła XVIII-wiecznej architektury z misternymi freskami i witrażami (szebeke), zbudowanego bez użycia gwoździ. Miasto zachowało swój historyczny charakter, z wąskimi uliczkami i tradycyjnymi domami.",
+        "Odwiedzając Szeki, poczujesz atmosferę dawnego handlu i rzemiosła. Warto zobaczyć również karawanseraj, gdzie niegdyś zatrzymywali się kupcy, oraz spróbować lokalnych słodyczy, zwłaszcza chałwy szekińskiej. Okoliczne góry oferują piękne krajobrazy i możliwości pieszych wycieczek."
+      ],
+      "highlights": [
+        "Pałac Chanów Szeki",
+        "Karawanseraj",
+        "Chałwa szekińska",
+        "Górska sceneria"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Icherisheher (Stare Miasto w Baku)",
+      "text": "Historyczne centrum Baku, otoczone murami obronnymi, z Pałacem Szachów Szyrwanu i Wieżą Dziewiczą.",
+      "gygQuery": "Icherisheher"
+    },
+    {
+      "name": "Flame Towers",
+      "text": "Trzy futurystyczne wieżowce dominujące nad panoramą Baku, szczególnie imponujące po zmroku dzięki iluminacjom.",
+      "gygQuery": "Flame Towers Baku"
+    },
+    {
+      "name": "Gobustan Rock Art Cultural Landscape",
+      "text": "Obszar z tysiącami prehistorycznych rycin naskalnych oraz unikalnymi wulkanami błotnymi.",
+      "gygQuery": "Gobustan"
+    },
+    {
+      "name": "Yanar Dag (Płonąca Góra)",
+      "text": "Naturalny, wiecznie płonący gazowy wyciek na zboczu wzgórza, niezwykły widok zwłaszcza po zmroku.",
+      "gygQuery": "Yanar Dag"
+    },
+    {
+      "name": "Ateshgah of Baku (Świątynia Ognia)",
+      "text": "Historyczna świątynia ognia, świadectwo kultu zoroastryjskiego i hinduistycznego w Azerbejdżanie.",
+      "gygQuery": "Ateshgah"
+    },
+    {
+      "name": "Pałac Chanów Szeki",
+      "text": "XVIII-wieczne arcydzieło architektury w Szeki, słynące z misternych witraży i fresków.",
+      "gygQuery": "Sheki Khan's Palace"
+    },
+    {
+      "name": "Centrum Hejdara Alijewa",
+      "text": "Ikoniczny budynek zaprojektowany przez Zahę Hadid, mieszczący muzea i sale wystawowe, symbol nowoczesnego Azerbejdżanu.",
+      "gygQuery": "Heydar Aliyev Center"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia azerbejdżańska to prawdziwa uczta dla podniebienia, łącząca wpływy tureckie, perskie i kaukaskie. Króluje tu pilaw, podawany w wielu odmianach z mięsem, owocami i orzechami. Popularne są także różne rodzaje kebabów, dolma (faszerowane liście winogron lub warzywa) oraz lawangi (nadziewany kurczak lub ryba). Nieodłącznym elementem każdego posiłku jest herbata, często serwowana w tradycyjnych szklankach armudu z konfiturami. Warto spróbować lokalnych serów, świeżych warzyw i owoców, a także słodkości, takich jak pakhlava czy chałwa."
+  ],
+  "faq": [
+    {
+      "q": "Czy Azerbejdżan jest bezpieczny dla turystów z Polski?",
+      "a": "Tak, Azerbejdżan jest generalnie bezpiecznym krajem dla turystów. Należy unikać stref przygranicznych z Armenią i zachować podstawową ostrożność, zwłaszcza w dużych miastach."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Azerbejdżanie i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest manat azerbejdżański (AZN). W większych miastach płatności kartą są powszechne, ale poza nimi zaleca się posiadanie gotówki."
+    },
+    {
+      "q": "Czy obywatele Polski potrzebują wizy do Azerbejdżanu?",
+      "a": "Tak, obywatele Polski potrzebują wizy. Można ją wygodnie uzyskać online za pośrednictwem systemu e-wiza (ASAN Visa) przed podróżą."
+    },
+    {
+      "q": "Kiedy najlepiej podróżować do Azerbejdżanu?",
+      "a": "Najlepszymi porami na podróż są wiosna (kwiecień-maj) i jesień (wrzesień-październik), kiedy temperatury są umiarkowane i sprzyjają zwiedzaniu oraz aktywnościom na świeżym powietrzu."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

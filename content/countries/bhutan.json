@@ -1,0 +1,208 @@
+{
+  "slug": "bhutan",
+  "loc": "w Bhutanie",
+  "to": "do Bhutanu",
+  "capital": "Thimphu",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Bhutan",
+  "teaser": "Bhutan, królestwo w Himalajach, to miejsce, gdzie czas płynie wolniej, a szczęście narodowe jest ważniejsze niż PKB. Odkryj jego unikalną kulturę.",
+  "intro": [
+    "Bhutan to kraj, który skutecznie opiera się masowej turystyce, stawiając na jakość i zrównoważony rozwój. Położony w sercu Himalajów, zachwyca majestatycznymi krajobrazami, starożytnymi klasztorami i głęboko zakorzenioną kulturą buddyjską. To miejsce, gdzie tradycja i duchowość są żywe na każdym kroku, a filozofia Szczęścia Narodowego Brutto (GNH) kieruje rozwojem kraju. Przygotuj się na podróż, która zmieni Twoje postrzeganie świata.",
+    "Bhutan jest idealnym kierunkiem dla podróżników szukających autentycznych doświadczeń, miłośników górskich wędrówek i tych, którzy pragną uciec od zgiełku cywilizacji. To propozycja dla osób ceniących spokój, kontemplację i możliwość głębszego poznania innej kultury. Ze względu na specyficzne regulacje turystyczne, jest to podróż wymagająca planowania i otwartości na lokalne zasady.",
+    "Podróż z Polski do Bhutanu to długa wyprawa, zazwyczaj z jedną lub dwiema przesiadkami w Azji (np. w Delhi, Katmandu, Bangkoku lub Singapurze). Bezpośrednich lotów nie ma, a łączny czas podróży to minimum 12-15 godzin. Wiza jest obowiązkowa i załatwiana przez lokalne biuro podróży, z którym musisz podróżować. Bhutan nie jest kierunkiem dla spontanicznych wyjazdów, ale nagradza cierpliwych i zorganizowanych turystów."
+  ],
+  "highlights": [
+    "Majestatyczne klasztory w Himalajach",
+    "Filozofia Szczęścia Narodowego Brutto",
+    "Dziewicza przyroda i górskie krajobrazy",
+    "Unikalna architektura dzongów",
+    "Autentyczna kultura buddyjska",
+    "Trekkingi i spływy rzeczne"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Bhutanu to wiosna (marzec-maj) i jesień (wrzesień-listopad). Wiosną kwitną rododendrony, a jesienią panuje stabilna pogoda z czystym niebem, idealna do podziwiania widoków Himalajów i trekkingów. Lato (czerwiec-sierpień) to pora deszczowa, a zima (grudzień-luty) bywa chłodna, zwłaszcza na wyższych wysokościach, choć słoneczne dni są częste.",
+    "best": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "ok": [
+      2,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      12,
+      14,
+      17,
+      20,
+      22,
+      24,
+      24,
+      23,
+      22,
+      21,
+      17,
+      14
+    ],
+    "sea": null,
+    "note": "dla Thimphu, w dolinach temperatury mogą być wyższe"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadkami",
+    "timeDiff": "UTC+6, czyli +5 h zimą, +4 h latem względem Polski",
+    "documents": "Wiza jest obowiązkowa i zazwyczaj załatwiana przez lokalne biuro podróży w Bhutanie, z którym trzeba podróżować. Obywatele Polski muszą posiadać paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Przed podróżą zawsze sprawdź aktualne wymogi wizowe na stronie MSZ lub ambasady.",
+    "money": "Walutą jest ngultrum (BTN), ale akceptowane są też rupie indyjskie (INR) w stosunku 1:1. Płatności kartą są rzadkie poza większymi miastami, dlatego warto mieć przy sobie gotówkę. Bankomaty są dostępne w większych miastach.",
+    "plugs": "Typ D i G (trzy okrągłe bolce lub trzy prostokątne bolce). Warto zabrać uniwersalny adapter.",
+    "language": "Dzongkha. W miejscach turystycznych i wśród młodych ludzi powszechny jest angielski.",
+    "safety": "Bhutan jest krajem bardzo bezpiecznym, z niskim wskaźnikiem przestępczości. Główne zagrożenia to choroba wysokościowa, zwłaszcza podczas trekkingów, oraz ryzyko związane z górskimi drogami. Opieka medyczna jest podstawowa, dlatego zaleca się wykupienie kompleksowego ubezpieczenia podróżnego obejmującego ewakuację."
+  },
+  "regions": [
+    {
+      "slug": "paro",
+      "name": "Paro",
+      "loc": "w Paro",
+      "type": "miasto",
+      "gygQuery": "Paro Bhutan",
+      "airport": "PBH",
+      "forWhom": "Idealne dla tych, którzy chcą od razu po przylocie zanurzyć się w bhutańskiej kulturze i krajobrazie.",
+      "intro": [
+        "Paro to brama do Bhutanu, gdzie znajduje się jedyne międzynarodowe lotnisko kraju. Dolina Paro, otoczona malowniczymi górami, jest domem dla wielu ważnych klasztorów i świątyń, w tym słynnego Tygrysiego Gniazda. To tutaj można poczuć prawdziwą atmosferę Bhutanu, podziwiać tradycyjną architekturę i spotkać lokalnych mieszkańców w ich codziennym życiu.",
+        "Miasto Paro, choć niewielkie, oferuje urokliwe uliczki z lokalnymi sklepami i restauracjami. Jest doskonałą bazą wypadową do zwiedzania okolicznych atrakcji, w tym starożytnych dzongów i buddyjskich klasztorów. To miejsce, gdzie historia i duchowość splatają się z zapierającymi dech w piersiach widokami."
+      ],
+      "highlights": [
+        "Klasztor Tygrysie Gniazdo",
+        "Paro Dzong",
+        "Narodowe Muzeum Bhutanu",
+        "Dolina Paro"
+      ]
+    },
+    {
+      "slug": "thimphu",
+      "name": "Thimphu",
+      "loc": "w Thimphu",
+      "type": "miasto",
+      "gygQuery": "Thimphu Bhutan",
+      "airport": "PBH",
+      "forWhom": "Obowiązkowy punkt dla każdego, kto chce poznać stolicę Bhutanu i jego administracyjne centrum.",
+      "intro": [
+        "Thimphu, choć jest stolicą, zachowało swój tradycyjny charakter, z brakiem sygnalizacji świetlnej i dominującą architekturą dzongów. To tutaj mieści się siedziba rządu, króla i wiele ważnych instytucji kulturalnych. Miasto łączy nowoczesność z głęboko zakorzenioną tradycją buddyjską, oferując unikalne doświadczenie.",
+        "W Thimphu można odwiedzić imponujący Tashichho Dzong, zobaczyć gigantyczny posąg Buddy Dordenmy, a także zgłębić lokalną kulturę na targu weekendowym czy w Muzeum Tekstyliów. To dynamiczne, a jednocześnie spokojne miasto, które doskonale oddaje ducha Bhutanu."
+      ],
+      "highlights": [
+        "Tashichho Dzong",
+        "Buddha Dordenma",
+        "Narodowy Pomnik Chorten",
+        "Weekendowy Targ"
+      ]
+    },
+    {
+      "slug": "punakha",
+      "name": "Punakha",
+      "loc": "w Punakhy",
+      "type": "dolina",
+      "gygQuery": "Punakha Bhutan",
+      "airport": "PBH",
+      "forWhom": "Idealna dla szukających cieplejszego klimatu, bujnej roślinności i jednego z najpiękniejszych dzongów.",
+      "intro": [
+        "Punakha, dawna stolica Bhutanu, leży na niższej wysokości niż Paro czy Thimphu, co skutkuje cieplejszym klimatem i bujniejszą roślinnością. Dolina słynie z Punakha Dzong, jednego z najbardziej imponujących i malowniczo położonych klasztorów w kraju, zbudowanego u zbiegu dwóch rzek. To miejsce pełne spokoju i naturalnego piękna.",
+        "Region Punakha oferuje również możliwość krótkich trekkingów, spływów rzecznych i wizyt w urokliwych wioskach. Jest to doskonałe miejsce, aby odpocząć od zgiełku i podziwiać spektakularne widoki, a także poznać wiejskie życie Bhutanu. Ciepłe powietrze i zielone krajobrazy sprzyjają relaksowi."
+      ],
+      "highlights": [
+        "Punakha Dzong",
+        "Chimi Lhakhang",
+        "Spływ rzeką Mo Chhu",
+        "Most wiszący w Punakha"
+      ]
+    },
+    {
+      "slug": "bumthang-valley",
+      "name": "Dolina Bumthang",
+      "loc": "w Dolinie Bumthang",
+      "type": "region",
+      "gygQuery": "Bumthang Valley Bhutan",
+      "airport": "BUT",
+      "forWhom": "Dla głęboko zainteresowanych duchowością i historią Bhutanu, gotowych na dłuższą podróż.",
+      "intro": [
+        "Dolina Bumthang, często nazywana 'sercem duchowym Bhutanu', to region składający się z czterech głównych dolin. Jest to miejsce narodzin buddyzmu w Bhutanie, pełne starożytnych świątyń, klasztorów i legendarnych miejsc związanych z Guru Rinpocze. Podróż do Bumthang to prawdziwa wyprawa w głąb bhutańskiej kultury i historii.",
+        "Krajobrazy w Dolinie Bumthang są spektakularne, z rozległymi polami, lasami i rzekami. Region oferuje wiele szlaków trekkingowych i możliwość poznania autentycznego życia wiejskiego. To idealne miejsce dla tych, którzy szukają spokoju, medytacji i głębszego zrozumienia buddyjskiej filozofii."
+      ],
+      "highlights": [
+        "Jakar Dzong",
+        "Kurjey Lhakhang",
+        "Tamshing Lhakhang",
+        "Produkcja sera i piwa"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Klasztor Paro Taktsang (Tygrysie Gniazdo)",
+      "text": "Ikoniczny klasztor buddyjski, zawieszony na skalnej ścianie, symbol Bhutanu i cel pielgrzymek. Wędrówka do niego to niezapomniane doświadczenie.",
+      "gygQuery": "Tiger's Nest Monastery Bhutan"
+    },
+    {
+      "name": "Punakha Dzong",
+      "text": "Jeden z najpiękniejszych dzongów w Bhutanie, położony malowniczo u zbiegu dwóch rzek, dawna stolica kraju. Zachwyca architekturą i otoczeniem.",
+      "gygQuery": "Punakha Dzong"
+    },
+    {
+      "name": "Buddha Dordenma",
+      "text": "Ogromny posąg Buddy Shakyamuniego, górujący nad doliną Thimphu, oferujący panoramiczne widoki na stolicę i okoliczne góry.",
+      "gygQuery": "Buddha Dordenma"
+    },
+    {
+      "name": "Tashichho Dzong",
+      "text": "Imponująca forteca-klasztor w Thimphu, siedziba rządu, króla i centrum religijne. Warto zobaczyć ceremonię zmiany warty.",
+      "gygQuery": "Tashichho Dzong"
+    },
+    {
+      "name": "Przełęcz Dochula (Dochula Pass)",
+      "text": "Malownicza przełęcz z 108 stupami (chortenami), oferująca spektakularne widoki na Himalaje w pogodne dni. Idealne miejsce na krótką przerwę.",
+      "gygQuery": "Dochula Pass"
+    },
+    {
+      "name": "Chimi Lhakhang",
+      "text": "Świątynia płodności, znana z fallicznych symboli, poświęcona ekscentrycznemu świętemu Drukpie Kunleyowi. Wizyta to ciekawe doświadczenie kulturowe.",
+      "gygQuery": "Chimi Lhakhang"
+    },
+    {
+      "name": "Dolina Phobjikha",
+      "text": "Rozległa dolina lodowcowa, ważny obszar ochrony przyrody, zimowisko czarnoszyich żurawi. Oferuje piękne krajobrazy i możliwość obserwacji ptaków.",
+      "gygQuery": "Phobjikha Valley"
+    },
+    {
+      "name": "Narodowy Pomnik Chorten (National Memorial Chorten)",
+      "text": "Ważny punkt kultu w Thimphu, gdzie mieszkańcy składają ofiary i modlą się. To żywe centrum buddyjskiej tradycji.",
+      "gygQuery": "National Memorial Chorten Thimphu"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia bhutańska jest znana z pikantnych smaków i obfitego użycia chili, które często traktowane jest jako warzywo, a nie tylko przyprawa. Narodową potrawą jest Ema Datshi, czyli chili z serem, podawane z czerwonym ryżem. Popularne są także Momos (pierogi), Phaksha Paa (wieprzowina z chili i warzywami) oraz Jasha Maroo (kurczak w pikantnym sosie). Warto spróbować lokalnego piwa i herbaty maślanej."
+  ],
+  "faq": [
+    {
+      "q": "Dlaczego podróż do Bhutanu jest tak droga?",
+      "a": "Bhutan stosuje politykę 'wysokiej wartości, niskiej objętości' turystyki. Obowiązkowa dzienna opłata (Sustainable Development Fee) pokrywa koszty przewodnika, transportu, zakwaterowania i wyżywienia, a także wspiera rozwój kraju i jego mieszkańców."
+    },
+    {
+      "q": "Czy mogę podróżować po Bhutanie samodzielnie?",
+      "a": "Nie, podróżowanie po Bhutanie wymaga wynajęcia licencjonowanego przewodnika i zorganizowania wyjazdu przez lokalne biuro podróży. Nie ma możliwości samodzielnego poruszania się po kraju bez wykupienia pakietu turystycznego."
+    },
+    {
+      "q": "Czym jest Szczęście Narodowe Brutto (GNH)?",
+      "a": "Szczęście Narodowe Brutto to filozofia rozwoju Bhutanu, która stawia dobrobyt duchowy i psychiczny obywateli ponad wzrostem gospodarczym. Opiera się na czterech filarach: zrównoważonym rozwoju, ochronie środowiska, zachowaniu kultury i dobrym rządzeniu."
+    },
+    {
+      "q": "Co spakować na wyjazd do Bhutanu?",
+      "a": "Zabierz odzież warstwową, wygodne buty trekkingowe, kurtkę przeciwdeszczową, nakrycie głowy, okulary przeciwsłoneczne i krem z filtrem. Przydatny będzie też mały plecak na dzienne wycieczki, podstawowe leki i adapter do gniazdek."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

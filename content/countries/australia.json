@@ -1,0 +1,224 @@
+{
+  "slug": "australia",
+  "loc": "w Australii",
+  "to": "do Australii",
+  "capital": "Canberra",
+  "popularity": 45,
+  "touroperator": false,
+  "gygQuery": "Australia",
+  "teaser": "Australia to kontynent pełen kontrastów, od tętniących życiem miast po dziką, czerwoną pustynię i rajskie plaże. Idealna dla poszukiwaczy przygód i unikalnych krajobrazów.",
+  "intro": [
+    "Australia to kraj, który fascynuje swoją różnorodnością. Od nowoczesnych metropolii, takich jak Sydney i Melbourne, po bezkresne pustynie Czerwonego Centrum, zielone lasy deszczowe i spektakularną Wielką Rafę Koralową. To miejsce, gdzie można spotkać unikalne gatunki zwierząt, takie jak kangury i koale, i zanurzyć się w pradawną kulturę Aborygenów. Każdy region oferuje coś innego, zapewniając niezapomniane wrażenia z podróży.",
+    "Kraj jest idealny dla doświadczonych podróżników, którzy cenią sobie przygodę, dziką naturę i odkrywanie odległych zakątków świata. To kierunek dla tych, którzy nie boją się długich lotów i chcą zobaczyć coś naprawdę wyjątkowego. Australia nie jest miejscem na krótki, budżetowy wyjazd, ale raczej na dłuższą wyprawę, która pozwoli poznać jej prawdziwe oblicze. Docenią ją miłośnicy nurkowania, trekkingu i road tripów.",
+    "Podróż z Polski do Australii to długa wyprawa, wymagająca co najmniej jednej, a często dwóch przesiadek, co przekłada się na około 20-24 godziny w powietrzu. Ze względu na znaczną różnicę czasu, aklimatyzacja zajmuje zazwyczaj kilka dni. Przed wyjazdem należy pamiętać o załatwieniu wizy, która jest obowiązkowa dla obywateli Polski. Mimo odległości, Australia jest krajem bezpiecznym i dobrze przygotowanym na przyjęcie turystów, oferującym wysokiej jakości usługi."
+  ],
+  "highlights": [
+    "Wielka Rafa Koralowa",
+    "Opera w Sydney",
+    "Czerwone Centrum i Uluru",
+    "Unikalna fauna i flora",
+    "Plaże i sporty wodne",
+    "Winiarnie i kuchnia fusion"
+  ],
+  "bestTime": {
+    "text": "Australia jest kontynentem o ogromnej powierzchni, co oznacza, że klimat znacznie różni się w zależności od regionu. Północ ma klimat tropikalny z porą suchą (zimą, maj-październik) i deszczową (latem, listopad-kwiecień). Południe charakteryzuje się klimatem umiarkowanym, z gorącym latem i łagodną zimą. Najlepszy czas na podróż zależy od planowanej trasy. Generalnie, wiosna (wrzesień-listopad) i jesień (marzec-maj) są często polecane jako najlepsze pory na zwiedzanie większości kraju, unikając ekstremalnych upałów lata na południu i intensywnych deszczów na północy.",
+    "best": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "ok": [
+      1,
+      2,
+      6,
+      7,
+      8,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      26,
+      26,
+      24,
+      22,
+      19,
+      17,
+      16,
+      17,
+      19,
+      21,
+      23,
+      25
+    ],
+    "sea": [
+      23,
+      23,
+      23,
+      22,
+      21,
+      19,
+      18,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "note": "Dane dla Sydney, na południowo-wschodnim wybrzeżu. Klimat w Australii jest bardzo zróżnicowany."
+  },
+  "practical": {
+    "flight": "około 20-24 h z 1-2 przesiadkami",
+    "timeDiff": "od +6 do +10 godzin, w zależności od regionu i pory roku w Polsce",
+    "documents": "Wiza jest wymagana. Obywatele Polski muszą posiadać ważny paszport i uzyskać odpowiednią wizę przed wyjazdem, np. eVisitor (subclass 651) do celów turystycznych. Warto sprawdzić aktualne wymogi na stronie ambasady Australii lub australijskiego departamentu spraw wewnętrznych.",
+    "money": "Walutą jest dolar australijski (AUD). Płatności kartą są powszechne, gotówka przydaje się w mniejszych miejscowościach.",
+    "plugs": "Typ I. Należy zabrać adapter.",
+    "language": "Angielski.",
+    "safety": "Australia jest krajem bezpiecznym. Należy jednak uważać na dziką faunę (węże, pająki, meduzy, krokodyle) oraz silne prądy morskie. Warto zadbać o ubezpieczenie turystyczne. Pamiętaj o ochronie przeciwsłonecznej."
+  },
+  "regions": [
+    {
+      "slug": "sydney",
+      "name": "Sydney",
+      "loc": "w Sydney",
+      "type": "miasto",
+      "gygQuery": "Sydney",
+      "airport": "SYD",
+      "forWhom": "Dla miłośników tętniących życiem metropolii, ikonicznych zabytków i pięknych plaż.",
+      "intro": [
+        "Sydney to największe miasto Australii i jeden z najbardziej rozpoznawalnych symboli kraju. Słynie z ikonicznej Opery w Sydney, majestatycznego mostu Harbour Bridge oraz złotych plaż, takich jak Bondi. To kosmopolityczne centrum kultury, sztuki i gastronomii, oferujące niezliczone atrakcje od muzeów po parki narodowe w okolicy.",
+        "Miasto jest doskonałą bazą wypadową do odkrywania regionu Nowej Południowej Walii, w tym malowniczych Gór Błękitnych. Sydney tętni życiem zarówno w dzień, jak i w nocy, z bogatą ofertą kawiarni, restauracji i barów, a także festiwali i wydarzeń kulturalnych przez cały rok."
+      ],
+      "highlights": [
+        "Opera w Sydney",
+        "Harbour Bridge",
+        "Plaża Bondi",
+        "Królewskie Ogrody Botaniczne"
+      ]
+    },
+    {
+      "slug": "queensland",
+      "name": "Queensland",
+      "loc": "w Queensland",
+      "type": "region",
+      "gygQuery": "Queensland Great Barrier Reef",
+      "airport": "CNS",
+      "forWhom": "Dla poszukiwaczy tropikalnych przygód, nurków i miłośników Wielkiej Rafy Koralowej.",
+      "intro": [
+        "Queensland, nazywane Słonecznym Stanem, to dom dla Wielkiej Rafy Koralowej, jednego z największych cudów natury. Rozciąga się od subtropikalnych plaż Gold Coast po deszczowe lasy Daintree na północy. To idealne miejsce na nurkowanie, snorkeling i rejsy po rafie, a także eksplorację parków narodowych.",
+        "Region oferuje różnorodne atrakcje, od tętniących życiem kurortów, takich jak Cairns i Port Douglas, po spokojne wyspy Whitsunday. Można tu spotkać unikalną faunę, w tym koale i kangury, oraz doświadczyć kultury Aborygenów. Pamiętaj o porze deszczowej na północy, która przypada na lato."
+      ],
+      "highlights": [
+        "Wielka Rafa Koralowa",
+        "Las deszczowy Daintree",
+        "Wyspy Whitsunday",
+        "Gold Coast"
+      ]
+    },
+    {
+      "slug": "red-centre",
+      "name": "Czerwone Centrum (Red Centre)",
+      "loc": "w Czerwonym Centrum",
+      "type": "region",
+      "gygQuery": "Uluru Kata Tjuta",
+      "airport": "AYQ",
+      "forWhom": "Dla tych, którzy pragną poznać duchowe serce Australii i jej pustynne krajobrazy.",
+      "intro": [
+        "Czerwone Centrum, położone w Terytorium Północnym, to symboliczna i duchowa kraina Australii. Jego sercem jest Uluru (Ayers Rock), masywna formacja skalna o ogromnym znaczeniu dla Aborygenów. To miejsce, gdzie pustynne krajobrazy, czerwona ziemia i bezkresne niebo tworzą niezapomniane wrażenia. Oprócz Uluru, warto odwiedzić Kata Tjuta (Olgas), inną imponującą grupę kopuł skalnych.",
+        "Podróż do Czerwonego Centrum to zanurzenie się w pradawną kulturę i historię. Należy przygotować się na ekstremalne temperatury, zwłaszcza latem, oraz ograniczoną infrastrukturę. To idealne miejsce na obserwację gwiazd i doświadczenie ciszy australijskiego outbacku."
+      ],
+      "highlights": [
+        "Uluru (Ayers Rock)",
+        "Kata Tjuta (Olgas)",
+        "Pustynne krajobrazy",
+        "Kultura Aborygenów"
+      ]
+    },
+    {
+      "slug": "melbourne",
+      "name": "Melbourne",
+      "loc": "w Melbourne",
+      "type": "miasto",
+      "gygQuery": "Melbourne",
+      "airport": "MEL",
+      "forWhom": "Dla miłośników kultury, sztuki, kawy i europejskiego stylu życia.",
+      "intro": [
+        "Melbourne, stolica stanu Wiktoria, często uznawane jest za kulturalną stolicę Australii. Słynie z ukrytych uliczek, kawiarni, galerii sztuki i mody. To miasto, które tętni życiem dzięki licznym festiwalom, wydarzeniom sportowym i bogatej scenie kulinarnej. Architektura łączy w sobie wiktoriański urok z nowoczesnymi wieżowcami.",
+        "Miasto jest również doskonałą bazą do odkrywania malowniczego regionu Wiktorii. Warto wybrać się na przejażdżkę wzdłuż Great Ocean Road, zobaczyć Dwunastu Apostołów lub odwiedzić regiony winiarskie. Melbourne oferuje bardziej europejski klimat niż Sydney, z wyraźnymi porami roku."
+      ],
+      "highlights": [
+        "Kulturalne uliczki",
+        "Scena gastronomiczna",
+        "Great Ocean Road",
+        "Sport i wydarzenia"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Opera w Sydney",
+      "text": "Ikoniczny symbol miasta i całej Australii, znany z unikalnej architektury. Warto zwiedzić ją od środka lub podziwiać z zewnątrz, szczególnie podczas zachodu słońca.",
+      "gygQuery": "Sydney Opera House"
+    },
+    {
+      "name": "Wielka Rafa Koralowa",
+      "text": "Największy system raf koralowych na świecie, raj dla nurków i miłośników podwodnego świata. Można ją podziwiać z łodzi, podczas snorkelingu lub nurkowania.",
+      "gygQuery": "Great Barrier Reef"
+    },
+    {
+      "name": "Uluru",
+      "text": "Ogromna, czerwona formacja skalna w sercu Australii, święte miejsce dla Aborygenów. Najlepiej podziwiać ją o wschodzie i zachodzie słońca, gdy zmienia kolory.",
+      "gygQuery": "Uluru"
+    },
+    {
+      "name": "Sydney Harbour Bridge",
+      "text": "Jeden z największych mostów łukowych na świecie, oferujący niezapomniane widoki na miasto. Można wspiąć się na jego szczyt lub przejść pieszo.",
+      "gygQuery": "Sydney Harbour Bridge Climb"
+    },
+    {
+      "name": "Great Ocean Road",
+      "text": "Malownicza trasa wzdłuż wybrzeża stanu Wiktoria, słynąca z formacji skalnych Dwunastu Apostołów. Idealna na road trip z zapierającymi dech w piersiach widokami.",
+      "gygQuery": "Great Ocean Road"
+    },
+    {
+      "name": "Park Narodowy Gór Błękitnych",
+      "text": "Niedaleko Sydney, oferuje spektakularne doliny, wodospady i formacje skalne Trzy Siostry. Doskonałe miejsce na trekking i podziwianie eukaliptusowych lasów.",
+      "gygQuery": "Blue Mountains National Park"
+    },
+    {
+      "name": "Wyspy Whitsunday",
+      "text": "Archipelag 74 wysp w sercu Wielkiej Rafy Koralowej, znany z białych, piaszczystych plaż, takich jak Whitehaven Beach. Idealne na rejsy i relaks.",
+      "gygQuery": "Whitsunday Islands"
+    }
+  ],
+  "cuisine": [
+    "Australia to tygiel kulinarny, odzwierciedlający jej wielokulturowość. Chociaż brak tu jednej, tradycyjnej \"kuchni australijskiej\" w europejskim sensie, kraj słynie z wysokiej jakości świeżych produktów: owoców morza, wołowiny, jagnięciny i egzotycznych owoców. Popularne są dania typu \"barbie\" (grill), a także kuchnia azjatycka, śródziemnomorska i fusion. Warto spróbować lokalnych specjałów, takich jak vegemite (pasta do smarowania), lamingtons (ciastka z kokosem) czy pavlova (deser bezowy). Australia to również kraj z rozwiniętą kulturą kawy i winnicami światowej klasy."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Australii?",
+      "a": "Tak, obywatele Polski muszą posiadać ważny paszport i uzyskać odpowiednią wizę przed wyjazdem. Najczęściej jest to wiza eVisitor (subclass 651) do celów turystycznych, którą można złożyć online."
+    },
+    {
+      "q": "Jak długo trwa lot do Australii?",
+      "a": "Lot z Polski do Australii, z co najmniej jedną przesiadką, trwa zazwyczaj od 20 do 24 godzin, w zależności od wybranego połączenia i miejsca docelowego w Australii."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Australii?",
+      "a": "Najlepszy czas na podróż zależy od regionu. Generalnie, wiosna (wrzesień-listopad) i jesień (marzec-maj) są polecane na zwiedzanie większości kraju, unikając ekstremalnych upałów lata na południu i pory deszczowej na północy."
+    },
+    {
+      "q": "Czy Australia jest droga?",
+      "a": "Australia jest krajem stosunkowo drogim, zwłaszcza jeśli chodzi o zakwaterowanie i transport. Ceny żywności i atrakcji są porównywalne do krajów Europy Zachodniej. Warto zaplanować budżet z wyprzedzeniem."
+    },
+    {
+      "q": "Jakie zwierzęta można spotkać w Australii?",
+      "a": "Australia słynie z unikalnej fauny. Można spotkać kangury, koale, wombaty, dzioborożce, a także różnorodne gatunki ptaków, gadów i ryb. Warto pamiętać o zachowaniu ostrożności w kontakcie z dzikimi zwierzętami."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

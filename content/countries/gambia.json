@@ -1,0 +1,187 @@
+{
+  "slug": "gambia",
+  "loc": "w Gambii",
+  "to": "do Gambii",
+  "capital": "Bandżul",
+  "popularity": 20,
+  "touroperator": true,
+  "gygQuery": "Gambia",
+  "teaser": "Odkryj Gambię, najmniejszy kraj Afryki kontynentalnej. Czekają tu piękne plaże, bogata kultura i życzliwi ludzie.",
+  "intro": [
+    "Gambia, choć jest najmniejszym krajem Afryki kontynentalnej, potrafi zaskoczyć. To miejsce, gdzie rzeka Gambia spotyka się z Oceanem Atlantyckim, tworząc malownicze krajobrazy i życiodajne ekosystemy. Kraj słynie z pięknych, piaszczystych plaż, które są doskonałym miejscem na relaks, oraz z bogatej kultury i niezwykle życzliwych mieszkańców. Gambia to prawdziwa perła dla tych, którzy szukają autentycznych afrykańskich doświadczeń, z dala od masowej turystyki.",
+    "Jest to idealny kierunek dla podróżników pragnących połączyć wypoczynek na słońcu z eksploracją lokalnej kultury i natury. Miłośnicy ptaków znajdą tu raj, obserwując setki gatunków w ich naturalnym środowisku. Kraj oferuje zarówno luksusowe kurorty, jak i możliwość zanurzenia się w życie lokalnych wiosek, co pozwala na pełniejsze zrozumienie gambijskiego stylu życia. To także doskonała opcja dla tych, którzy chcą poczuć prawdziwą Afrykę Zachodnią, bez konieczności długich i skomplikowanych podróży.",
+    "Podróż z Polski do Gambii zazwyczaj wiąże się z jedną lub dwoma przesiadkami, najczęściej w europejskich hubach takich jak Bruksela, Stambuł czy Lizbona. Czas lotu, wliczając przesiadki, wynosi zazwyczaj od 7 do 9 godzin. Na miejscu ląduje się na międzynarodowym lotnisku w Bandżulu (BJL), skąd łatwo dostać się do głównych kurortów. Coraz więcej polskich biur podróży oferuje zorganizowane wycieczki, co ułatwia planowanie wyjazdu i zapewnia komfort podróży."
+  ],
+  "highlights": [
+    "Piaszczyste plaże Atlantyku",
+    "Rejsy po rzece Gambia",
+    "Obserwacja egzotycznych ptaków",
+    "Kolorowe lokalne targi",
+    "Spotkania z życzliwymi mieszkańcami",
+    "Kultura i historia Gambii"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Gambii to pora sucha, trwająca od listopada do maja. W tych miesiącach panują przyjemne temperatury, niskie opady deszczu i dużo słońca, co sprzyja plażowaniu i zwiedzaniu. Pora deszczowa, od czerwca do października, charakteryzuje się wysoką wilgotnością i intensywnymi, choć zazwyczaj krótkimi ulewami, co może utrudniać podróżowanie i obserwację dzikiej przyrody.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      32,
+      34,
+      33,
+      32,
+      31,
+      30,
+      29,
+      30,
+      31,
+      31,
+      30
+    ],
+    "sea": [
+      24,
+      23,
+      23,
+      24,
+      26,
+      27,
+      28,
+      28,
+      28,
+      28,
+      27,
+      26
+    ],
+    "note": "dla Bandżulu"
+  },
+  "practical": {
+    "flight": "około 7-9 h z przesiadką",
+    "timeDiff": "UTC+0, czyli -1 h zimą, -2 h latem względem czasu polskiego.",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu) oraz wizy. Wizę można uzyskać w ambasadzie Gambii w Brukseli lub na lotnisku po przylocie, choć zaleca się załatwienie jej z wyprzedzeniem. Zawsze należy sprawdzić aktualne wymogi wizowe na stronie polskiego MSZ przed podróżą.",
+    "money": "Walutą jest dalasi gambijskie (GMD). Płatności kartą są możliwe w większych hotelach i restauracjach, ale w wielu miejscach preferowana jest gotówka. Bankomaty są dostępne w większych miastach i kurortach. Warto mieć przy sobie drobne nominały na codzienne zakupy i napiwki.",
+    "plugs": "Typ G (brytyjski), z trzema prostokątnymi bolcami. Niezbędny jest adapter.",
+    "language": "Oficjalnym językiem jest angielski, który jest powszechnie używany w turystyce. Oprócz tego mieszkańcy posługują się wieloma językami plemiennymi, takimi jak mandinka, wolof czy fula.",
+    "safety": "Gambia jest generalnie uważana za kraj bezpieczny dla turystów, choć zdarzają się drobne kradzieże, zwłaszcza w zatłoczonych miejscach. Zaleca się zachowanie ostrożności, unikanie samotnych spacerów po zmroku i nieobnoszenie się z wartościowymi przedmiotami. Warto pamiętać o profilaktyce malarii i innych chorób tropikalnych. Przed wyjazdem należy skonsultować się z lekarzem w sprawie zalecanych szczepień."
+  },
+  "regions": [
+    {
+      "slug": "bandzul-i-wybrzeze",
+      "name": "Bandżul i wybrzeże",
+      "loc": "w Bandżulu i na wybrzeżu",
+      "type": "region",
+      "gygQuery": "Banjul and coast",
+      "airport": "BJL",
+      "forWhom": "Idealne dla szukających słońca i łatwego dostępu do atrakcji.",
+      "intro": [
+        "To serce gambijskiej turystyki, oferujące szerokie, piaszczyste plaże, takie jak Kotu czy Kololi, idealne do relaksu i kąpieli słonecznych. Wzdłuż wybrzeża znajdziesz wiele hoteli, restauracji i barów, które zapewniają komfortowy pobyt. Stolica, Bandżul, choć niewielka, tętni życiem i oferuje wgląd w lokalną codzienność.",
+        "Na wybrzeżu można odwiedzić lokalne targi, takie jak słynny Albert Market, gdzie kupisz rękodzieło, świeże owoce i przyprawy. W pobliżu znajdują się również atrakcje przyrodnicze, jak rezerwat Bijilo Forest Park, znany z małp, czy basen krokodyli Kachikally, będący miejscem kultu. To doskonałe miejsce do rozpoczęcia przygody z Gambią."
+      ],
+      "highlights": [
+        "Plaże Kotu i Kololi",
+        "Albert Market w Bandżulu",
+        "Kachikally Crocodile Pool",
+        "Rezerwat Bijilo Forest Park"
+      ]
+    },
+    {
+      "slug": "rzeka-gambia",
+      "name": "Rzeka Gambia",
+      "loc": "nad rzeką Gambią",
+      "type": "region",
+      "gygQuery": "Gambia River",
+      "airport": "BJL",
+      "forWhom": "Dla miłośników przyrody, birdwatchingu i autentycznych doświadczeń.",
+      "intro": [
+        "Rzeka Gambia to arteria życia kraju, oferująca niezapomniane rejsy w głąb lądu. Podróżując w górę rzeki, odkryjesz dziewiczą przyrodę, gęste lasy namorzynowe i liczne gatunki ptaków, co czyni ten region rajem dla ornitologów. To także okazja do poznania autentycznego życia wiejskiego, z dala od turystycznego zgiełku wybrzeża.",
+        "Wzdłuż rzeki znajdują się historyczne miejsca, takie jak Wyspa Kunta Kinteh (dawniej James Island), wpisana na listę UNESCO, świadectwo handlu niewolnikami. Dalej na wschód, w Wassu, można podziwiać tajemnicze Kamienne Kręgi, również wpisane na listę światowego dziedzictwa. Rejsy statkiem to najlepszy sposób na eksplorację tego fascynującego regionu."
+      ],
+      "highlights": [
+        "Rejsy po rzece Gambia",
+        "Wyspa Kunta Kinteh (UNESCO)",
+        "Kamienne Kręgi w Wassu (UNESCO)",
+        "Obserwacja ptaków i dzikiej przyrody"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kotu i Kololi Beach",
+      "text": "Szerokie, piaszczyste plaże Atlantyku, idealne do relaksu, kąpieli i sportów wodnych.",
+      "gygQuery": "Kotu Kololi Beach"
+    },
+    {
+      "name": "Albert Market (Bandżul)",
+      "text": "Tętniący życiem lokalny targ, gdzie można kupić świeże produkty, rękodzieło i poczuć autentyczną atmosferę.",
+      "gygQuery": "Albert Market Banjul"
+    },
+    {
+      "name": "Kachikally Crocodile Pool",
+      "text": "Święty basen krokodyli w Bakau, gdzie można dotykać oswojonych krokodyli, miejsce kultu i atrakcja turystyczna.",
+      "gygQuery": "Kachikally Crocodile Pool"
+    },
+    {
+      "name": "Makasutu Culture Forest",
+      "text": "Prywatny rezerwat przyrody i kultury, oferujący rejsy kajakiem, spacery po lesie i pokazy lokalnych tradycji.",
+      "gygQuery": "Makasutu Culture Forest"
+    },
+    {
+      "name": "Wassu Stone Circles",
+      "text": "Tajemnicze megalityczne kręgi kamienne, wpisane na listę UNESCO, świadectwo starożytnych cywilizacji.",
+      "gygQuery": "Wassu Stone Circles"
+    },
+    {
+      "name": "Bijilo Forest Park (Monkey Park)",
+      "text": "Rezerwat leśny w pobliżu Kololi, gdzie można obserwować dzikie małpy w ich naturalnym środowisku.",
+      "gygQuery": "Bijilo Forest Park"
+    },
+    {
+      "name": "Tanji Fishing Village",
+      "text": "Kolorowa wioska rybacka, gdzie codziennie odbywa się spektakularne lądowanie łodzi z połowami i przetwórstwo ryb.",
+      "gygQuery": "Tanji Fishing Village"
+    },
+    {
+      "name": "Kunta Kinteh Island (James Island)",
+      "text": "Historyczna wyspa na rzece Gambia, wpisana na listę UNESCO, symbol handlu niewolnikami i ważny punkt edukacyjny.",
+      "gygQuery": "Kunta Kinteh Island"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia gambijska jest prosta, sycąca i pełna smaków, z silnymi wpływami afrykańskimi, arabskimi i portugalskimi. Podstawą są ryż, ryby (świeże i suszone), kurczak oraz warzywa, takie jak bataty, maniok i orzeszki ziemne. Popularne dania to \"domoda\" (gulasz z orzeszków ziemnych z mięsem lub rybą), \"yassa\" (kurczak lub ryba w sosie cebulowym z cytryną) oraz \"benechin\" (ryż z rybą i warzywami, znane też jako \"jollof rice\"). Warto spróbować świeżych owoców i lokalnych soków."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebna jest wiza do Gambii dla Polaków?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Gambii. Można ją uzyskać w ambasadzie Gambii w Brukseli lub na lotnisku po przylocie, ale zaleca się załatwienie jej z wyprzedzeniem."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Gambii i czy można płacić kartą?",
+      "a": "Oficjalną walutą jest dalasi gambijskie (GMD). Płatności kartą są możliwe w większych hotelach i niektórych restauracjach, ale w wielu miejscach preferowana jest gotówka."
+    },
+    {
+      "q": "Czy Gambia jest bezpieczna dla turystów z Polski?",
+      "a": "Gambia jest generalnie bezpieczna, ale zaleca się zachowanie ostrożności, unikanie samotnych spacerów po zmroku i dbanie o swoje wartościowe przedmioty. Warto również pamiętać o profilaktyce zdrowotnej."
+    },
+    {
+      "q": "Kiedy najlepiej podróżować do Gambii?",
+      "a": "Najlepszy czas na wizytę to pora sucha, od listopada do maja, kiedy panują przyjemne temperatury, mało opadów i dużo słońca, sprzyjające plażowaniu i zwiedzaniu."
+    },
+    {
+      "q": "Jakie są główne atrakcje turystyczne Gambii?",
+      "a": "Do głównych atrakcji należą piaszczyste plaże wybrzeża Atlantyku (Kotu, Kololi), rejsy po rzece Gambia, wizyty na lokalnych targach (Albert Market), basen krokodyli Kachikally oraz historyczne miejsca jak Wyspa Kunta Kinteh."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

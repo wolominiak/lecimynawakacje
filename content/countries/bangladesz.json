@@ -1,0 +1,218 @@
+{
+  "slug": "bangladesz",
+  "loc": "w Bangladeszu",
+  "to": "do Bangladeszu",
+  "capital": "Dhaka",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Bangladesh",
+  "teaser": "Bangladesz to kraj dla poszukiwaczy autentycznych doświadczeń, gotowych na intensywną podróż przez gęsto zaludniony, ale niezwykle żywy świat. Odkryj bogatą kulturę i przyrodę.",
+  "intro": [
+    "Bangladesz to kierunek dla tych, którzy szukają prawdziwej przygody i głębokiego zanurzenia w lokalną kulturę, z dala od utartych szlaków masowej turystyki. Ten kraj, położony w delcie Gangesu i Brahmaputry, oferuje niezwykłe krajobrazy, od rozległych lasów namorzynowych Sundarbanów, przez zielone plantacje herbaty, po tętniące życiem miasta. To miejsce, gdzie historia splata się z codziennością, a gościnność mieszkańców potrafi zaskoczyć.",
+    "Podróż do Bangladeszu to wyzwanie, ale i nagroda dla doświadczonych podróżników, którzy cenią sobie autentyczność ponad wygodę. Nie znajdziesz tu luksusowych kurortów czy rozbudowanej infrastruktury turystycznej, ale za to spotkasz prawdziwych ludzi, zobaczysz życie toczące się własnym rytmem i odkryjesz unikalne tradycje. Kraj ten jest idealny dla osób otwartych na nowe doświadczenia, gotowych na improwizację i akceptujących lokalne realia, które często odbiegają od europejskich standardów.",
+    "Z Polski do Bangladeszu nie ma bezpośrednich połączeń lotniczych. Podróż wymaga co najmniej jednej przesiadki, najczęściej w krajach Bliskiego Wschodu, takich jak Dubaj, Doha czy Stambuł, lub w europejskich hubach. Całkowity czas lotu, wraz z przesiadkami, wynosi zazwyczaj od 12 do 15 godzin. Przed wyjazdem należy pamiętać o konieczności uzyskania wizy, co jest kluczowym elementem planowania podróży."
+  ],
+  "highlights": [
+    "Rejs po Sundarbanach, domu tygrysów bengalskich.",
+    "Odkrywanie chaotycznej, ale fascynującej Dhaki.",
+    "Relaks na najdłuższej naturalnej plaży w Cox's Bazar.",
+    "Wędrówki po zielonych plantacjach herbaty w Sylhet.",
+    "Poznawanie lokalnej kuchni i ulicznych przysmaków.",
+    "Obserwowanie życia codziennego w wioskach i miastach."
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Bangladeszu to miesiące od listopada do lutego. W tym okresie panuje względnie chłodna i sucha pogoda, co sprzyja zwiedzaniu i eksploracji kraju. Marzec i październik to również dobre miesiące, choć temperatury są już wyższe, a wilgotność może być odczuwalna. Należy unikać podróży w porze monsunowej, od czerwca do września, kiedy to intensywne deszcze i wysoka wilgotność mogą utrudniać przemieszczanie się i zwiedzanie.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      26,
+      29,
+      33,
+      34,
+      33,
+      32,
+      31,
+      31,
+      31,
+      31,
+      29,
+      26
+    ],
+    "sea": [
+      23,
+      24,
+      26,
+      28,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      27,
+      25
+    ],
+    "note": "dla Dhaki (temperatura powietrza) i Cox's Bazar (temperatura morza)"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "różnica czasu względem Polski to +4 godziny latem i +5 godzin zimą",
+    "documents": "Wiza jest wymagana dla obywateli Polski. Najlepiej uzyskać ją przed wyjazdem w ambasadzie Bangladeszu. Paszport powinien być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze należy sprawdzić aktualne wymogi wizowe i paszportowe przed podróżą, gdyż mogą one ulec zmianie.",
+    "money": "Walutą jest taka bangladeska (BDT). Płatności kartą są możliwe w większych hotelach i sklepach w Dhace, ale poza stolicą dominują płatności gotówką. Bankomaty są dostępne w większych miastach, ale warto mieć przy sobie mniejsze nominały na codzienne wydatki.",
+    "plugs": "Typy A, C, D, G, K. Warto zabrać uniwersalny adapter.",
+    "language": "Oficjalnym językiem jest bengalski. W większych miastach i w sektorze turystycznym można porozumieć się po angielsku, zwłaszcza z osobami wykształconymi.",
+    "safety": "Bangladesz jest krajem, w którym należy zachować ostrożność. Ruch uliczny jest bardzo chaotyczny. Istnieje ryzyko drobnych przestępstw, zwłaszcza w zatłoczonych miejscach. Należy unikać demonstracji i zgromadzeń publicznych. Wskazane są szczepienia ochronne (np. tężec, dur brzuszny, WZW A i B) oraz rygorystyczna higiena wody i żywności. Warto skonsultować się z lekarzem medycyny podróży."
+  },
+  "regions": [
+    {
+      "slug": "dhaka",
+      "name": "Dhaka",
+      "loc": "w Dhace",
+      "type": "miasto",
+      "gygQuery": "Dhaka",
+      "airport": "DAC",
+      "forWhom": "Dla poszukiwaczy intensywnych wrażeń miejskich i bogatej historii.",
+      "intro": [
+        "Dhaka, stolica Bangladeszu, to miasto, które nigdy nie śpi. Jest to jedno z najgęściej zaludnionych miast świata, oferujące kalejdoskop dźwięków, zapachów i kolorów. Jej ulice tętnią życiem, wypełnione rikszami, autobusami i niezliczonymi sprzedawcami. To miejsce, gdzie starożytne meczety i kolonialne budynki stoją obok nowoczesnych konstrukcji, tworząc fascynujący kontrast.",
+        "Mimo początkowego chaosu, Dhaka potrafi zauroczyć. Można tu odkryć bogatą historię, odwiedzając forty, pałace i muzea, a także zanurzyć się w codzienne życie mieszkańców. To idealne miejsce, aby spróbować lokalnej kuchni, obserwować rzemieślników przy pracy i poczuć puls tego niezwykłego kraju. Przygotuj się na intensywne doświadczenia, które na długo pozostaną w pamięci."
+      ],
+      "highlights": [
+        "Fort Lalbagh",
+        "Ahsan Manzil (Różowy Pałac)",
+        "Meczet Gwiazd",
+        "Stary Bazar w Dhace"
+      ]
+    },
+    {
+      "slug": "coxs-bazar",
+      "name": "Cox's Bazar",
+      "loc": "w Cox's Bazar",
+      "type": "kurort",
+      "gygQuery": "Cox's Bazar",
+      "airport": "CXB",
+      "forWhom": "Dla tych, którzy szukają relaksu na plaży i nadmorskich krajobrazów.",
+      "intro": [
+        "Cox's Bazar słynie z posiadania najdłuższej naturalnej, nieprzerwanej plaży na świecie, rozciągającej się na ponad 120 kilometrów. To główne miejsce wypoczynku dla mieszkańców Bangladeszu, choć dla turystów z Zachodu oferuje bardziej lokalne doświadczenie niż typowy, międzynarodowy kurort. Plaże są szerokie i piaszczyste, idealne do długich spacerów i podziwiania wschodów oraz zachodów słońca nad Zatoką Bengalską.",
+        "Oprócz samego wybrzeża, w okolicy Cox's Bazar można odwiedzić lokalne wioski rybackie, obserwować codzienne życie rybaków i spróbować świeżych owoców morza. Chociaż infrastruktura turystyczna jest rozwijająca się, nadal zachowuje swój autentyczny, bangladeski charakter. To dobre miejsce na chwilę wytchnienia od zgiełku miast i podziwianie naturalnego piękna wybrzeża."
+      ],
+      "highlights": [
+        "Najdłuższa naturalna plaża",
+        "Wioski rybackie",
+        "Pagoda Ramu",
+        "Wyspa Maheshkhali"
+      ]
+    },
+    {
+      "slug": "sundarbans",
+      "name": "Sundarbans",
+      "loc": "w Sundarbanach",
+      "type": "park narodowy",
+      "gygQuery": "Sundarbans National Park",
+      "airport": "Jessore (JSR)",
+      "forWhom": "Dla miłośników dzikiej przyrody i ekoturystyki.",
+      "intro": [
+        "Sundarbans to największy na świecie las namorzynowy, wpisany na Listę Światowego Dziedzictwa UNESCO. Jest to unikalny ekosystem, labirynt rzek, kanałów i wysp, który stanowi dom dla niezwykłej różnorodności fauny i flory, w tym zagrożonego tygrysa bengalskiego. Podróżowanie po Sundarbanach odbywa się głównie łodziami, co pozwala na bliski kontakt z dziewiczą przyrodą i obserwację dzikich zwierząt w ich naturalnym środowisku.",
+        "Rejs po Sundarbanach to niezapomniane doświadczenie, oferujące szansę na zobaczenie krokodyli, jeleni, małp, a także wielu gatunków ptaków. To miejsce, gdzie natura dominuje, a człowiek jest tylko gościem. Wymaga to odpowiedniego przygotowania i podróżowania z doświadczonymi przewodnikami, aby zapewnić bezpieczeństwo i minimalny wpływ na środowisko. To prawdziwa gratka dla fotografów przyrody i poszukiwaczy odosobnienia."
+      ],
+      "highlights": [
+        "Rejsy po kanałach",
+        "Obserwacja tygrysów bengalskich",
+        "Bogactwo ptaków i dzikiej fauny",
+        "Unikalny ekosystem namorzynowy"
+      ]
+    },
+    {
+      "slug": "sylhet",
+      "name": "Sylhet",
+      "loc": "w Sylhet",
+      "type": "region",
+      "gygQuery": "Sylhet",
+      "airport": "ZYL",
+      "forWhom": "Dla fanów zielonych krajobrazów, plantacji herbaty i lokalnej kultury.",
+      "intro": [
+        "Region Sylhet, położony w północno-wschodniej części Bangladeszu, to kraina zielonych wzgórz, rozległych plantacji herbaty i bujnej roślinności. To miejsce o zupełnie innym charakterze niż chaotyczna Dhaka, oferujące spokój i piękne krajobrazy. Sylhet jest również ważnym centrum kulturalnym i religijnym, z licznymi sanktuariami sufickimi, które przyciągają pielgrzymów z całego kraju.",
+        "Wizyta w Sylhet to doskonała okazja do spacerów po malowniczych plantacjach herbaty, poznania procesu jej produkcji i spróbowania lokalnych odmian. Region ten jest także domem dla mniejszości etnicznych, co wzbogaca doświadczenie kulturowe. Można tu odwiedzić wodospady, jaskinie i parki narodowe, co sprawia, że Sylhet jest idealnym miejscem dla osób ceniących sobie zarówno relaks na łonie natury, jak i poznawanie lokalnych tradycji."
+      ],
+      "highlights": [
+        "Plantacje herbaty Srimangal",
+        "Sanktuarium Shah Jalal",
+        "Wodospady Jaflong",
+        "Park Narodowy Lawachara"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Fort Lalbagh",
+      "text": "Niedokończony fort z XVII wieku w Dhace, prezentujący architekturę Mogołów i oferujący wgląd w historię miasta.",
+      "gygQuery": "Lalbagh Fort"
+    },
+    {
+      "name": "Ahsan Manzil (Różowy Pałac)",
+      "text": "Dawna rezydencja nawabów Dhaki, obecnie muzeum, zachwycające swoją architekturą i położeniem nad rzeką Buriganga.",
+      "gygQuery": "Ahsan Manzil"
+    },
+    {
+      "name": "Meczet Gwiazd (Star Mosque)",
+      "text": "Piękny meczet w Dhace, słynący z misternych zdobień w kształcie gwiazd, wykonanych z porcelanowych płytek.",
+      "gygQuery": "Star Mosque Dhaka"
+    },
+    {
+      "name": "Park Narodowy Sundarbans",
+      "text": "Największy na świecie las namorzynowy, dom dla tygrysów bengalskich i niezwykłej różnorodności biologicznej.",
+      "gygQuery": "Sundarbans National Park"
+    },
+    {
+      "name": "Plaża Cox's Bazar",
+      "text": "Najdłuższa naturalna, nieprzerwana plaża na świecie, idealna do spacerów i podziwiania widoków Zatoki Bengalskiej.",
+      "gygQuery": "Cox's Bazar Beach"
+    },
+    {
+      "name": "Plantacje herbaty Srimangal",
+      "text": "Malownicze, zielone wzgórza pokryte plantacjami herbaty w regionie Sylhet, oferujące relaks i możliwość poznania procesu produkcji herbaty.",
+      "gygQuery": "Srimangal tea plantations"
+    },
+    {
+      "name": "Ruiny Paharpur (Somapura Mahavihara)",
+      "text": "Wpisany na listę UNESCO kompleks buddyjski z VIII wieku, jeden z największych klasztorów w Azji Południowej.",
+      "gygQuery": "Paharpur Buddhist Vihara"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia bangladeska, podobnie jak indyjska, jest bogata w smaki i aromaty, bazując głównie na ryżu, rybach i warzywach. Charakterystyczne są różnorodne curry, często pikantne, przygotowywane z kurczaka, baraniny, ryb lub soczewicy. Popularne są także dania z daal (soczewicy) oraz świeże owoce morza, zwłaszcza w regionach przybrzeżnych. Warto spróbować ulicznych przysmaków, takich jak samosy, pakory czy fuchka. Słodkości, często na bazie mleka i ryżu, są integralną częścią posiłków. Pamiętaj o piciu tylko butelkowanej wody i ostrożności przy jedzeniu surowych warzyw i owoców."
+  ],
+  "faq": [
+    {
+      "q": "Czy Bangladesz jest bezpieczny dla turystów?",
+      "a": "Bangladesz jest generalnie bezpieczny, ale wymaga zachowania ostrożności. Należy uważać na ruch uliczny, ryzyko drobnych kradzieży i unikać zgromadzeń. Kobiety podróżujące samotnie powinny być szczególnie czujne."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane do Bangladeszu?",
+      "a": "Nie ma obowiązkowych szczepień, ale zalecane są szczepienia przeciw tężcowi, durowi brzusznemu, WZW A i B, japońskiemu zapaleniu mózgu oraz profilaktyka antymalaryczna. Zawsze należy skonsultować się z lekarzem medycyny podróży przed wyjazdem."
+    },
+    {
+      "q": "Czy w Bangladeszu można płacić kartą?",
+      "a": "W większych miastach i hotelach płatności kartą są możliwe, ale poza nimi dominują płatności gotówką. Warto mieć przy sobie lokalną walutę (taka bangladeska) w mniejszych nominałach."
+    },
+    {
+      "q": "Jaka jest waluta w Bangladeszu?",
+      "a": "Oficjalną walutą Bangladeszu jest taka bangladeska (BDT). Kurs wymiany jest zmienny, najlepiej wymieniać pieniądze w bankach lub autoryzowanych kantorach."
+    },
+    {
+      "q": "Jak dostać się do Bangladeszu z Polski?",
+      "a": "Z Polski do Bangladeszu nie ma bezpośrednich lotów. Podróż wymaga co najmniej jednej przesiadki, najczęściej w hubach na Bliskim Wschodzie lub w Europie. Całkowity czas podróży to zazwyczaj 12-15 godzin."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

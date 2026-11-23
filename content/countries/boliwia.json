@@ -1,0 +1,207 @@
+{
+  "slug": "boliwia",
+  "loc": "w Boliwii",
+  "to": "do Boliwii",
+  "capital": "La Paz",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Bolivia",
+  "teaser": "Boliwia to kraj wysokich Andów, słonych pustyń i amazońskiej dżungli, oferujący autentyczne doświadczenie Ameryki Południowej.",
+  "intro": [
+    "Boliwia przyciąga przede wszystkim swoją surową, ale niezwykle różnorodną przyrodą oraz głęboko zakorzenioną kulturą indiańską. Od zapierających dech w piersiach krajobrazów Salar de Uyuni, przez majestatyczne szczyty Andów, po wilgotną dżunglę Amazonii - każdy region oferuje unikalne doświadczenia. To kraj, gdzie tradycja miesza się z codziennością, a życie toczy się w rytmie wyznaczanym przez naturę i starożytne wierzenia.",
+    "Kraj ten jest idealny dla doświadczonych podróżników szukających autentycznych przygód, z dala od masowej turystyki. Spodoba się miłośnikom trekkingu, fotografii krajobrazowej, etnografii oraz tym, którzy chcą zanurzyć się w kulturze andyjskiej. Boliwia wymaga elastyczności, cierpliwości i gotowości na wyzwania związane z wysokością, ale w zamian oferuje niezapomniane widoki i spotkania z lokalnymi społecznościami.",
+    "Podróż z Polski do Boliwii wymaga zazwyczaj co najmniej dwóch przesiadek, co sprawia, że jest to długa i męcząca wyprawa. Nie ma bezpośrednich lotów, a czas podróży wynosi od 18 do 24 godzin. Warto zaplanować podróż z wyprzedzeniem, uwzględniając aklimatyzację do wysokości, zwłaszcza jeśli planujesz pobyt w La Paz czy innych wysokogórskich regionach. Boliwia nie jest typowym kierunkiem na zorganizowane wakacje z biurem podróży, co sprzyja samodzielnym eksploracjom."
+  ],
+  "highlights": [
+    "Salar de Uyuni - największa solna pustynia świata",
+    "Jezioro Titicaca - najwyżej położone żeglowne jezioro",
+    "La Paz - stolica na wysokości ponad 3600 m n.p.m.",
+    "Droga Śmierci - kultowa trasa rowerowa",
+    "Amazonia Boliwijska - dzika przyroda i dżungla",
+    "Kultura andyjska - tradycje i rynki lokalne"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Boliwii to pora sucha, czyli od maja do października. W tym okresie pogoda jest najbardziej stabilna, a niebo bezchmurne, co sprzyja trekkingom i zwiedzaniu Salar de Uyuni. Pora deszczowa (od listopada do kwietnia) może utrudniać podróżowanie, zwłaszcza w regionach Amazonii i na niektórych drogach, choć widoki na Salarze de Uyuni po deszczu są wtedy unikalne.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      12,
+      12,
+      12,
+      13,
+      13,
+      12,
+      12,
+      13,
+      13,
+      14,
+      14,
+      13
+    ],
+    "sea": null,
+    "note": "dla La Paz (wysokość ok. 3600 m n.p.m.)"
+  },
+  "practical": {
+    "flight": "około 18-24 h z przesiadkami",
+    "timeDiff": "Zazwyczaj -5 lub -6 godzin względem czasu w Polsce, w zależności od pory roku.",
+    "documents": "Paszport ważny co najmniej 6 miesięcy. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze sprawdź aktualne wymogi przed wyjazdem w ambasadzie lub konsulacie.",
+    "money": "Waluta: Boliviano (BOB). Płatności kartą są możliwe w większych miastach, ale gotówka jest niezbędna poza nimi. Bankomaty dostępne w miastach.",
+    "plugs": "Typ A i C (płaskie i okrągłe wtyczki). Napięcie 230V, częstotliwość 50Hz. Adapter może być potrzebny.",
+    "language": "Hiszpański, ajmara, keczua, guarani. W regionach turystycznych można porozumieć się po angielsku.",
+    "safety": "Boliwia jest krajem o umiarkowanym poziomie bezpieczeństwa. Należy zachować ostrożność, zwłaszcza w dużych miastach (La Paz, Santa Cruz) oraz w nocy. Ryzyko kradzieży. Ważne jest ubezpieczenie medyczne i profilaktyka chorób wysokościowych."
+  },
+  "regions": [
+    {
+      "slug": "salar-de-uyuni",
+      "name": "Salar de Uyuni",
+      "loc": "na Salarze de Uyuni",
+      "type": "region",
+      "gygQuery": "Salar de Uyuni",
+      "airport": "Uyuni (UYU)",
+      "forWhom": "Dla poszukiwaczy niezwykłych krajobrazów i fotografów.",
+      "intro": [
+        "Salar de Uyuni to największa solna pustynia na świecie, rozciągająca się na ponad 10 000 km kwadratowych. To miejsce, gdzie horyzont zlewa się z niebem, tworząc surrealistyczne, niemal kosmiczne widoki. Szczególnie imponujący jest efekt lustra w porze deszczowej, gdy cienka warstwa wody pokrywa solną powierzchnię, odbijając otoczenie.",
+        "Wyprawy na Salar trwają zazwyczaj od 1 do 3 dni i obejmują noclegi w hotelach solnych. Oprócz samej pustyni, trasy prowadzą przez kolorowe laguny, gejzery, formacje skalne oraz cmentarzysko pociągów, co czyni każdą podróż niezapomnianą przygodą. Pamiętaj o ochronie przeciwsłonecznej i dobrym nawodnieniu."
+      ],
+      "highlights": [
+        "Lustrzany efekt na solnej powierzchni",
+        "Hotele zbudowane z bloków soli",
+        "Cmentarzysko pociągów",
+        "Kolorowe laguny i flamingi"
+      ]
+    },
+    {
+      "slug": "la-paz",
+      "name": "La Paz",
+      "loc": "w La Paz",
+      "type": "miasto",
+      "gygQuery": "La Paz",
+      "airport": "El Alto (LPB)",
+      "forWhom": "Dla miłośników kultury andyjskiej i życia miejskiego na wysokości.",
+      "intro": [
+        "La Paz, położone w Andach na wysokości ponad 3600 m n.p.m., to najwyżej położona stolica świata. Miasto zachwyca swoją chaotyczną energią, stromymi ulicami i wszechobecnymi widokami na ośnieżony szczyt Illimani. To centrum boliwijskiej kultury, gdzie nowoczesność przeplata się z głęboko zakorzenionymi tradycjami Ajmarów i Keczua.",
+        "Obowiązkowo trzeba przejechać się siecią Teleférico, miejskimi kolejkami linowymi, które oferują spektakularne panoramy miasta. Warto odwiedzić też Mercado de las Brujas (Targ Czarownic), kolonialne centrum z kościołem San Francisco oraz liczne muzea. La Paz to doskonała baza wypadowa do eksploracji okolicznych gór i dolin."
+      ],
+      "highlights": [
+        "Jazda kolejką linową Teleférico",
+        "Mercado de las Brujas (Targ Czarownic)",
+        "Kolonialna architektura centrum",
+        "Widoki na szczyt Illimani"
+      ]
+    },
+    {
+      "slug": "jezioro-titicaca",
+      "name": "Jezioro Titicaca",
+      "loc": "nad Jeziorem Titicaca",
+      "type": "region",
+      "gygQuery": "Lake Titicaca Bolivia",
+      "airport": "El Alto (LPB)",
+      "forWhom": "Dla odkrywców prekolumbijskiej historii i piękna wysokogórskich jezior.",
+      "intro": [
+        "Jezioro Titicaca, położone na granicy Boliwii i Peru, jest najwyżej położonym żeglownym jeziorem na świecie. Jego krystalicznie czyste wody otoczone są majestatycznymi Andami, a brzegi zamieszkują rdzenne społeczności, które od wieków pielęgnują swoje tradycje. Boliwijska strona jeziora jest mniej turystyczna niż peruwiańska, co pozwala na bardziej autentyczne doświadczenia.",
+        "Główną atrakcją jest Isla del Sol (Wyspa Słońca), uważana za miejsce narodzin słońca i cywilizacji Inków. Można tam podziwiać ruiny prekolumbijskich budowli, spacerować po malowniczych ścieżkach i podziwiać zachody słońca. Warto odwiedzić też Copacabanę, miasteczko nad jeziorem, znane z bazyliki i lokalnych rynków."
+      ],
+      "highlights": [
+        "Isla del Sol - kolebka Inków",
+        "Rejsy po jeziorze Titicaca",
+        "Miasteczko Copacabana",
+        "Kultura rdzennych mieszkańców"
+      ]
+    },
+    {
+      "slug": "amazonia-boliwijska",
+      "name": "Amazonia Boliwijska (Rurrenabaque)",
+      "loc": "w Amazonii Boliwijskiej",
+      "type": "region",
+      "gygQuery": "Rurrenabaque Amazon",
+      "airport": "Rurrenabaque (RBQ)",
+      "forWhom": "Dla fanów dzikiej przyrody i ekoturystyki.",
+      "intro": [
+        "Boliwijska Amazonia, z centrum w Rurrenabaque, to brama do dziewiczych lasów deszczowych i mokradeł. To idealne miejsce na spotkanie z dziką przyrodą, z dala od tłumów. Region oferuje zarówno wycieczki do dżungli (Jungle Tours) do Parku Narodowego Madidi, jak i na mokradła (Pampas Tours), gdzie obserwacja zwierząt jest łatwiejsza.",
+        "Podczas Pampas Tours można zobaczyć kajmany, kapibary, małpy, anakondy i różnorodne ptaki. Jungle Tours to z kolei głębsze zanurzenie w las deszczowy, z możliwością trekkingu, noclegów w prostych obozach i poznawania lokalnej flory i fauny. To niezapomniane doświadczenie dla każdego miłośnika natury."
+      ],
+      "highlights": [
+        "Obserwacja dzikich zwierząt na Pampas",
+        "Trekking w Parku Narodowym Madidi",
+        "Rejsy po rzekach Amazonii",
+        "Spotkania z lokalnymi plemionami"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Salar de Uyuni",
+      "text": "Największa solna pustynia świata, słynąca z lustrzanego efektu w porze deszczowej i surrealistycznych krajobrazów. Obowiązkowy punkt każdej podróży do Boliwii.",
+      "gygQuery": "Salar de Uyuni"
+    },
+    {
+      "name": "Droga Śmierci (Yungas Road)",
+      "text": "Jedna z najbardziej ekstremalnych dróg świata, obecnie popularna trasa rowerowa prowadząca z La Paz do Coroico. Oferuje niesamowite widoki, ale wymaga ostrożności.",
+      "gygQuery": "Death Road Bolivia"
+    },
+    {
+      "name": "Isla del Sol",
+      "text": "Święta wyspa na Jeziorze Titicaca, uważana za kolebkę cywilizacji Inków. Można tu podziwiać ruiny, spacerować i chłonąć magiczną atmosferę.",
+      "gygQuery": "Isla del Sol"
+    },
+    {
+      "name": "Wzgórze Cerro Rico w Potosí",
+      "text": "Srebrne wzgórze, które przez wieki było źródłem bogactwa Hiszpanii, a jednocześnie przyczyną tragedii tysięcy górników. Możliwe są wycieczki do działających kopalni.",
+      "gygQuery": "Cerro Rico Potosi"
+    },
+    {
+      "name": "Misje Jezuickie Chiquitos",
+      "text": "Zabytkowe misje jezuickie we wschodniej Boliwii, wpisane na listę UNESCO. To unikalne świadectwo architektury kolonialnej i syntezy kultur.",
+      "gygQuery": "Jesuit Missions Chiquitos"
+    },
+    {
+      "name": "Park Narodowy Madidi",
+      "text": "Jeden z najbardziej bioróżnorodnych parków narodowych na świecie, położony w boliwijskiej Amazonii. Idealny do obserwacji dzikiej fauny i flory.",
+      "gygQuery": "Madidi National Park"
+    },
+    {
+      "name": "Teleférico La Paz",
+      "text": "Rozbudowana sieć kolejek linowych, stanowiąca kręgosłup transportu publicznego w La Paz. Oferuje najlepsze widoki na miasto i okoliczne góry.",
+      "gygQuery": "La Paz Cable Car"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia boliwijska jest prosta, sycąca i mocno zakorzeniona w tradycjach andyjskich. Podstawą są ziemniaki (w Boliwii występuje ich tysiące odmian!), kukurydza, quinoa oraz mięso, często z lamy lub alpaki. Popularne dania to Salteñas (pieczone pierogi z mięsnym nadzieniem), Silpancho (cienki kotlet wołowy z ryżem, ziemniakami i jajkiem) oraz Planchitas (grillowane mięso z warzywami). Warto spróbować też zup, takich jak Sopa de maní (zupa orzechowa), oraz lokalnych napojów, np. Mate de coca na chorobę wysokościową. Kuchnia jest często pikantna, z dużą ilością lokalnych papryczek."
+  ],
+  "faq": [
+    {
+      "q": "Czy Boliwia jest bezpieczna dla turystów?",
+      "a": "Boliwia jest krajem o umiarkowanym poziomie bezpieczeństwa. Należy zachować ostrożność, zwłaszcza w dużych miastach i w nocy, oraz uważać na kradzieże. Zawsze miej oko na swoje rzeczy i unikaj samotnych spacerów po zmroku."
+    },
+    {
+      "q": "Jak poradzić sobie z chorobą wysokościową w Boliwii?",
+      "a": "Choroba wysokościowa (soroche) to realne zagrożenie. Aklimatyzuj się stopniowo, pij dużo wody, unikaj alkoholu i ciężkich posiłków. Pomocne bywa picie Mate de coca (herbaty z liści koki) lub zażywanie leków dostępnych na miejscu."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Boliwii?",
+      "a": "Najlepszy czas na podróż to pora sucha, od maja do października. W tym okresie jest najmniej opadów, co ułatwia podróżowanie i zwiedzanie, zwłaszcza w górach i na Salar de Uyuni."
+    },
+    {
+      "q": "Czy Polacy potrzebują wizy do Boliwii?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest ważny paszport (minimum 6 miesięcy ważności od daty wjazdu). Zawsze zaleca się sprawdzenie aktualnych wymogów przed wyjazdem."
+    },
+    {
+      "q": "Jak dostać się na Salar de Uyuni?",
+      "a": "Na Salar de Uyuni najczęściej dostaje się z miasteczka Uyuni, do którego można dolecieć z La Paz lub dojechać autobusem. Z Uyuni organizowane są kilkudniowe wycieczki jeepami po solnej pustyni i okolicznych atrakcjach."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

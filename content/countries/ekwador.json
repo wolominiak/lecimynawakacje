@@ -1,0 +1,198 @@
+{
+  "slug": "ekwador",
+  "loc": "w Ekwadorze",
+  "to": "do Ekwadoru",
+  "capital": "Quito",
+  "popularity": 18,
+  "touroperator": false,
+  "gygQuery": "Ecuador",
+  "teaser": "Ekwador to kraj niezwykłej różnorodności, gdzie Andy spotykają Amazonię, a Wyspy Galapagos oferują unikalne spotkania z dziką naturą.",
+  "intro": [
+    "Ekwador, choć niewielki, zaskakuje podróżnych z Polski swoją geograficzną i kulturową mozaiką. Od ośnieżonych szczytów Andów, przez wilgotne lasy Amazonii, po słoneczne wybrzeża Pacyfiku i unikalny archipelag Galapagos, każdy znajdzie tu coś dla siebie. To miejsce, gdzie kolonialne miasta wpisane na listę UNESCO sąsiadują z rdzennymi wioskami, a wulkany dominują nad krajobrazem.",
+    "Kraj ten jest idealny dla aktywnych podróżników, miłośników przyrody i autentycznych doświadczeń. Trekking w Andach, spływy kajakowe w Amazonii, nurkowanie na Galapagos czy eksploracja historycznych centrów Quito i Cuenca to tylko niektóre z możliwości. Ekwador to kierunek dla tych, którzy cenią sobie różnorodność i są gotowi na przygodę, a niekoniecznie szukają typowych, zorganizowanych wczasów.",
+    "Podróż z Polski do Ekwadoru wymaga czasu i zazwyczaj wiąże się z co najmniej dwoma przesiadkami, najczęściej w europejskich hubach, a następnie w jednym z większych miast Ameryki Północnej lub Południowej. Całkowity czas lotu, wraz z oczekiwaniem na połączenia, może wynieść od 15 do 20 godzin. Pamiętaj, aby planować podróż z odpowiednim wyprzedzeniem, zwłaszcza jeśli zamierzasz odwiedzić popularne Galapagos."
+  ],
+  "highlights": [
+    "Trekking w Andach i wulkany",
+    "Unikalna fauna Galapagos",
+    "Tajemnice amazońskiej dżungli",
+    "Kolonialne miasta, np. Quito",
+    "Rdzenne targi, np. w Otavalo",
+    "Relaks na pacyficznym wybrzeżu"
+  ],
+  "bestTime": {
+    "text": "Ze względu na różnorodność klimatyczną Ekwadoru, najlepszy czas na podróż zależy od planowanych aktywności. Generalnie, pora sucha w Andach (czerwiec-wrzesień) jest idealna do trekkingu i eksploracji górskich. Na Galapagos pogoda jest stabilna przez cały rok, ale od czerwca do grudnia wody są chłodniejsze, co sprzyja aktywnościom podwodnym. Amazonię najlepiej odwiedzać w porze suchej, aby uniknąć intensywnych opadów, choć deszcz jest tam zjawiskiem codziennym. Wybrzeże jest najcieplejsze od grudnia do maja.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      22,
+      22,
+      22,
+      22,
+      22,
+      23,
+      23,
+      23,
+      23,
+      22,
+      22,
+      22
+    ],
+    "sea": [
+      26,
+      27,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      23,
+      24,
+      25,
+      26
+    ],
+    "note": "dla Quito (Andy) i Manta (wybrzeże)"
+  },
+  "practical": {
+    "flight": "około 15-20 h z przesiadkami",
+    "timeDiff": "Zimą -6 godzin, latem -7 godzin",
+    "documents": "Paszport ważny min. 6 miesięcy od daty wjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zaleca się posiadanie ubezpieczenia podróżnego obejmującego koszty leczenia i transportu medycznego.",
+    "money": "Oficjalną walutą jest dolar amerykański (USD). Płatności kartą są szeroko akceptowane w większych miastach i turystycznych miejscach, ale zawsze warto mieć przy sobie gotówkę, zwłaszcza poza głównymi szlakami. Bankomaty są dostępne w miastach.",
+    "plugs": "Typ A i B (dwa płaskie bolce lub dwa płaskie i jeden okrągły). Napięcie 120 V, częstotliwość 60 Hz. Konieczny adapter.",
+    "language": "Oficjalnym językiem jest hiszpański. W wielu regionach używane są również języki rdzenne, zwłaszcza keczua. Podstawowa znajomość hiszpańskiego ułatwi komunikację poza głównymi ośrodkami turystycznymi.",
+    "safety": "Ekwador, podobnie jak wiele krajów Ameryki Południowej, wymaga zachowania ostrożności. W dużych miastach, takich jak Quito czy Guayaquil, zdarzają się kradzieże i napady, zwłaszcza po zmroku. Należy unikać noszenia drogiej biżuterii, ostentacyjnego używania smartfonów i przemieszczania się samotnie w nieznanych miejscach. Przed podróżą do Amazonii zaleca się szczepienie przeciwko żółtej febrze i profilaktykę antymalaryczną. Zawsze warto śledzić bieżące komunikaty Ministerstwa Spraw Zagranicznych."
+  },
+  "regions": [
+    {
+      "slug": "wyspy-galapagos",
+      "name": "Wyspy Galapagos",
+      "loc": "na Wyspach Galapagos",
+      "type": "region",
+      "gygQuery": "Galapagos Islands",
+      "airport": "GPS",
+      "forWhom": "Idealne dla miłośników unikalnej przyrody i podwodnego świata.",
+      "intro": [
+        "Archipelag Galapagos, oddalony o około 1000 km od wybrzeży Ekwadoru, to prawdziwy cud natury i żywe laboratorium ewolucji, które zainspirowało Karola Darwina. Słynie z endemicznych gatunków zwierząt, takich jak gigantyczne żółwie, iguany morskie, głuptaki niebieskonogie czy pingwiny równikowe, które żyją tu bez strachu przed człowiekiem. To miejsce, gdzie można podziwiać dziką przyrodę z niezwykłej bliskości, często podczas rejsów statkiem lub nurkowania.",
+        "Wizyta na Galapagos to zazwyczaj zorganizowana wyprawa, często na pokładzie statku wycieczkowego, co pozwala dotrzeć do odległych wysp i chronionych obszarów. Możliwe jest również samodzielne zwiedzanie bazując na kilku głównych wyspach, takich jak Santa Cruz, San Cristóbal czy Isabela, i korzystanie z lokalnych wycieczek. Pamiętaj, że jest to jeden z najdroższych regionów Ekwadoru, ale jego unikalność w pełni rekompensuje koszty."
+      ],
+      "highlights": [
+        "Spotkania z żółwiami olbrzymimi",
+        "Nurkowanie z rekinami i lwami morskimi",
+        "Obserwacja głuptaków niebieskonogich",
+        "Wędrówki po wulkanicznych krajobrazach"
+      ]
+    },
+    {
+      "slug": "andy-ekwadorskie",
+      "name": "Andy Ekwadorskie (Sierra)",
+      "loc": "w Andach Ekwadorskich",
+      "type": "region",
+      "gygQuery": "Ecuador Andes",
+      "airport": "UIO",
+      "forWhom": "Raj dla miłośników gór, trekkingu i kultury rdzennej ludności.",
+      "intro": [
+        "Andy Ekwadorskie, znane jako Sierra, to serce kraju, gdzie majestatyczne wulkany, takie jak Cotopaxi czy Chimborazo, dominują nad krajobrazem. Ten region oferuje spektakularne szlaki trekkingowe, malownicze jeziora w kraterach wulkanów, a także żywe tradycje rdzennych społeczności. Znajdują się tu kolonialne miasta Quito i Cuenca, które zachwycają architekturą i historią, będąc jednocześnie bazą wypadową do dalszych eksploracji.",
+        "Podróżując przez Andy, można odkryć urokliwe wioski, takie jak Otavalo ze słynnym targiem rękodzieła, czy Baños de Agua Santa, znane z gorących źródeł i sportów ekstremalnych. Klimat w Andach jest umiarkowany, z dużymi wahaniami temperatury między dniem a nocą. To idealne miejsce na aktywny wypoczynek, poznawanie lokalnej kultury i podziwianie zapierających dech w piersiach widoków górskich."
+      ],
+      "highlights": [
+        "Wspinaczka na wulkany",
+        "Jezioro Quilotoa w kraterze",
+        "Targ w Otavalo",
+        "Kolonialna architektura Quito i Cuenca"
+      ]
+    },
+    {
+      "slug": "amazonia-ekwadorska",
+      "name": "Amazonia Ekwadorska (Oriente)",
+      "loc": "w Amazonii Ekwadorskiej",
+      "type": "region",
+      "gygQuery": "Ecuador Amazon",
+      "airport": "LGQ",
+      "forWhom": "Dla poszukiwaczy przygód i miłośników dzikiej, tropikalnej przyrody.",
+      "intro": [
+        "Wschodnie regiony Ekwadoru to brama do amazońskiej dżungli, jednego z najbardziej bioróżnorodnych ekosystemów na świecie. To tu, w gęstych lasach deszczowych, można spotkać małpy, leniwce, kajmany, a także niezliczone gatunki ptaków i owadów. Rezerwaty takie jak Yasuni czy Cuyabeno oferują możliwość zanurzenia się w dzikiej naturze, często z noclegami w ekologicznych lodge'ach prowadzonych przez lokalne społeczności.",
+        "Wyprawy do Amazonii to zazwyczaj kilkudniowe wycieczki z przewodnikiem, obejmujące spływy kajakowe po rzekach, obserwację zwierząt, nocne spacery po dżungli oraz poznawanie kultury rdzennych plemion. To intensywne doświadczenie, które wymaga gotowości na wysoką wilgotność i obecność insektów, ale w zamian oferuje niezapomniane spotkanie z pierwotną naturą."
+      ],
+      "highlights": [
+        "Obserwacja dzikich zwierząt",
+        "Rejsy po rzekach Amazonii",
+        "Wędrówki po dżungli z przewodnikiem",
+        "Poznawanie kultury rdzennych plemion"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Mitad del Mundo (Środek Świata)",
+      "text": "Pomnik i muzeum położone na równiku, gdzie można stanąć jednocześnie na półkuli północnej i południowej. Oferuje interaktywne wystawy związane z geografią i kulturą Ekwadoru.",
+      "gygQuery": "Mitad del Mundo"
+    },
+    {
+      "name": "Park Narodowy Cotopaxi",
+      "text": "Dom dla jednego z najwyższych aktywnych wulkanów na świecie, Cotopaxi. Idealne miejsce na trekking, jazdę konną i podziwianie andyjskich krajobrazów.",
+      "gygQuery": "Cotopaxi National Park"
+    },
+    {
+      "name": "Jezioro Quilotoa",
+      "text": "Spektakularne jezioro w kraterze wulkanu, słynące z turkusowej wody. Można tu wędrować wokół krawędzi krateru lub zejść na dół do jeziora.",
+      "gygQuery": "Quilotoa Lake"
+    },
+    {
+      "name": "Cuenca",
+      "text": "Urocze kolonialne miasto, wpisane na listę UNESCO, z piękną architekturą, brukowanymi uliczkami i licznymi kościołami. Znane z produkcji kapeluszy panama.",
+      "gygQuery": "Cuenca Ecuador"
+    },
+    {
+      "name": "Baños de Agua Santa",
+      "text": "Miasteczko u podnóża wulkanu Tungurahua, popularne dzięki gorącym źródłom, wodospadom i możliwości uprawiania sportów ekstremalnych, takich jak rafting czy canyoning.",
+      "gygQuery": "Banos Ecuador"
+    },
+    {
+      "name": "Targ w Otavalo",
+      "text": "Jeden z największych i najbardziej znanych indiańskich targów w Ameryce Południowej, gdzie można kupić rękodzieło, tekstylia i lokalne produkty.",
+      "gygQuery": "Otavalo Market"
+    },
+    {
+      "name": "Park Narodowy Yasuni",
+      "text": "Ogromny rezerwat biosfery w Amazonii, uznawany za jeden z najbardziej bioróżnorodnych obszarów na Ziemi. Oferuje unikalne doświadczenia z dziką przyrodą dżungli.",
+      "gygQuery": "Yasuni National Park"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia ekwadorska jest zróżnicowana, czerpiąc z bogactwa produktów dostępnych w Andach, na wybrzeżu i w Amazonii. Podstawą wielu dań są kukurydza, ziemniaki, ryż i maniok. Na wybrzeżu królują owoce morza, a ceviche (marynowane owoce morza) jest obowiązkowym punktem programu. W Andach popularne są zupy, takie jak locro de papa (zupa ziemniaczana z serem i awokado), oraz dania mięsne, często z wieprzowiną lub kurczakiem. W Amazonii można spróbować egzotycznych owoców i ryb słodkowodnych. Warto też spróbować empanadas, platanos fritos (smażone banany) i świeżo wyciskanych soków z tropikalnych owoców."
+  ],
+  "faq": [
+    {
+      "q": "Czy Ekwador jest bezpieczny dla turystów?",
+      "a": "Ekwador wymaga zachowania ostrożności, zwłaszcza w dużych miastach i po zmroku. Zaleca się unikanie noszenia drogiej biżuterii, niepokazywanie gotówki i korzystanie z licencjonowanych taksówek. Warto śledzić komunikaty MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jakie szczepienia są zalecane przed podróżą do Ekwadoru?",
+      "a": "Zaleca się szczepienie przeciwko żółtej febrze, zwłaszcza w przypadku planowania podróży do Amazonii. Warto również skonsultować się z lekarzem w sprawie szczepień na tężec, błonicę, polio, dur brzuszny i WZW typu A i B."
+    },
+    {
+      "q": "Kiedy najlepiej odwiedzić Wyspy Galapagos?",
+      "a": "Galapagos można odwiedzać przez cały rok. Od czerwca do grudnia woda jest chłodniejsza, co sprzyja aktywnościom podwodnym i obserwacji niektórych gatunków. Od stycznia do maja jest cieplej i bardziej słonecznie, idealnie do pływania."
+    },
+    {
+      "q": "Jaki budżet jest potrzebny na podróż do Ekwadoru?",
+      "a": "Ekwador jest krajem stosunkowo niedrogim, z wyjątkiem Wysp Galapagos. Dzienny budżet może wahać się od 30-50 USD dla oszczędnych podróżników (bez Galapagos) do 80-150 USD dla osób preferujących większy komfort. Koszt lotów z Polski to zwykle 3000-5000 PLN."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

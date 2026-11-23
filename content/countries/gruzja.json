@@ -1,0 +1,243 @@
+{
+  "slug": "gruzja",
+  "loc": "w Gruzji",
+  "to": "do Gruzji",
+  "capital": "Tbilisi",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Georgia",
+  "teaser": "Gruzja to kraj pełen kontrastów: od górskich szczytów Kaukazu, przez zielone winnice Kachetii, po tętniące życiem Tbilisi. Idealna dla aktywnych i smakoszy.",
+  "intro": [
+    "Gruzja, położona na styku Europy i Azji, to kierunek, który w ostatnich latach zyskuje na popularności wśród Polaków. Kusi przede wszystkim majestatycznymi górami Kaukazu, starożytnymi monastyrami, pyszną kuchnią i winem, a także niezwykłą gościnnością mieszkańców. To kraj dla tych, którzy szukają autentycznych doświadczeń, cenią aktywny wypoczynek i chcą odkrywać miejsca jeszcze nieprzepełnione masową turystyką. Przygotuj się na niezapomniane widoki i smaki.",
+    "Kraj ten oferuje coś dla każdego: miłośnicy gór znajdą tu setki kilometrów szlaków trekkingowych, entuzjaści historii i kultury będą zachwyceni licznymi cerkwiami i miastami skalnymi, a smakosze docenią lokalne specjały i wina. Gruzja to także miejsce, gdzie wciąż czuć ducha tradycji i historii, a nowoczesność przeplata się z wiekowymi zwyczajami. To idealny wybór na podróż pełną przygód, zarówno dla singli, par, jak i rodzin z dziećmi, o ile lubią aktywny wypoczynek.",
+    "Podróż do Gruzji z Polski jest stosunkowo prosta. Bezpośrednie loty z kilku polskich miast, takich jak Warszawa, Katowice czy Gdańsk, docierają do Tbilisi lub Kutaisi w ciągu około 3-4 godzin. Dla obywateli Polski wystarczy dowód osobisty, co znacznie ułatwia planowanie wyjazdu. Różnica czasu wynosi dwie godziny do przodu, więc aklimatyzacja jest szybka. Kraj jest dobrze skomunikowany, a lokalny transport publiczny i taksówki są łatwo dostępne."
+  ],
+  "highlights": [
+    "Wędrówki po Kaukazie i malownicze krajobrazy",
+    "Wyśmienita kuchnia i tradycyjne wina",
+    "Zabytkowe monastyry i kościoły",
+    "Gościnność Gruzinów i autentyczna kultura",
+    "Tętniące życiem Tbilisi i jego historia",
+    "Plaże Batumi nad Morzem Czarnym"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Gruzji zależy od planowanych aktywności. Wiosna (maj-czerwiec) i jesień (wrzesień-październik) to idealne miesiące na zwiedzanie miast, winnic Kachetii i łagodne trekkingi, gdy temperatury są przyjemne, a przyroda zachwyca. Lato (lipiec-sierpień) sprzyja wysokogórskim wędrówkom w Swanetii czy Kazbegi, choć w miastach bywa wtedy gorąco. Zimą Gruzja oferuje doskonałe warunki do jazdy na nartach w kurortach takich jak Gudauri.",
+    "best": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      7,
+      8
+    ]
+  },
+  "climate": {
+    "air": [
+      5,
+      7,
+      12,
+      17,
+      22,
+      26,
+      29,
+      29,
+      24,
+      18,
+      11,
+      6
+    ],
+    "sea": [
+      9,
+      8,
+      9,
+      12,
+      16,
+      20,
+      24,
+      25,
+      23,
+      19,
+      15,
+      12
+    ],
+    "note": "Dane dla Tbilisi (temperatura powietrza) i Batumi (temperatura morza)"
+  },
+  "practical": {
+    "flight": "około 3-4 h lotu bezpośredniego",
+    "timeDiff": "+2 h do Polski",
+    "documents": "Obywatele Polski mogą wjechać do Gruzji na podstawie ważnego dowodu osobistego lub paszportu. Zaleca się sprawdzenie aktualnych wymogów przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest lari gruzińskie (GEL). W większych miastach bez problemu zapłacisz kartą, ale na prowincji i mniejszych miejscowościach gotówka jest niezbędna. Bankomaty są powszechne.",
+    "plugs": "W Gruzji stosuje się gniazdka typu C i F, takie same jak w Polsce, więc adapter nie jest potrzebny.",
+    "language": "Oficjalnym językiem jest gruziński. W starszym pokoleniu często można porozumieć się po rosyjsku, natomiast młodzi Gruzini coraz częściej mówią po angielsku, zwłaszcza w turystycznych regionach.",
+    "safety": "Gruzja jest krajem bezpiecznym dla turystów, choć zawsze zaleca się zachowanie ostrożności, zwłaszcza w dużych miastach. Należy unikać podróży do separatystycznych regionów Abchazji i Osetii Południowej. Przed wyjazdem warto wykupić ubezpieczenie turystyczne."
+  },
+  "regions": [
+    {
+      "slug": "tbilisi",
+      "name": "Tbilisi",
+      "loc": "w Tbilisi",
+      "type": "miasto",
+      "gygQuery": "Tbilisi",
+      "airport": "TBS",
+      "forWhom": "Dla miłośników historii, kultury i tętniącego życiem miasta.",
+      "intro": [
+        "Stolica Gruzji to mozaika kultur i epok, gdzie starożytne cerkwie sąsiadują z nowoczesną architekturą, a wąskie uliczki Starego Miasta prowadzą do modnych kawiarni. Tbilisi zachwyca atmosferą, widokami na rzekę Kurę i gościnnością mieszkańców. To idealne miejsce na rozpoczęcie gruzińskiej przygody, pozwalające poczuć puls kraju.",
+        "Odwiedź łaźnie siarkowe w dzielnicy Abanotubani, przespaceruj się po Moście Pokoju, wjedź kolejką linową do twierdzy Narikala, skąd roztacza się panorama miasta. Nie zapomnij o spacerze Aleją Rustaweli, głównej arterii miasta, gdzie znajdziesz muzea, teatry i galerie."
+      ],
+      "highlights": [
+        "Stare Miasto i jego urokliwe uliczki",
+        "Łaźnie siarkowe Abanotubani",
+        "Twierdza Narikala z widokiem na miasto",
+        "Nowoczesna architektura i kawiarnie"
+      ]
+    },
+    {
+      "slug": "kachetia",
+      "name": "Kachetia",
+      "loc": "w Kachetii",
+      "type": "region",
+      "gygQuery": "Kakheti wine region",
+      "airport": "TBS",
+      "forWhom": "Dla smakoszy wina i miłośników sielskich krajobrazów.",
+      "intro": [
+        "Kachetia to serce gruzińskiego winiarstwa, region słynący z tysiącletniej tradycji produkcji wina metodą qvevri, wpisanej na listę UNESCO. Malownicze winnice rozciągające się po horyzont, urokliwe miasteczka i gościnne winiarnie zapraszają do degustacji. To idealne miejsce na relaks i poznanie autentycznej gruzińskiej kultury.",
+        "Odwiedź ufortyfikowane miasto Sighnaghi, często nazywane 'Miastem Miłości', z pięknymi widokami na dolinę Alazani. Poznaj monastyry Alawerdi i Gremi, które są świadectwem bogatej historii regionu. Weź udział w degustacji wina w jednej z lokalnych winnic i spróbuj tradycyjnych potraw."
+      ],
+      "highlights": [
+        "Degustacje wina w lokalnych winiarniach",
+        "Malownicze miasto Sighnaghi",
+        "Monastyr Alawerdi",
+        "Widoki na dolinę Alazani"
+      ]
+    },
+    {
+      "slug": "swanetia",
+      "name": "Swanetię",
+      "loc": "w Swanetii",
+      "type": "region",
+      "gygQuery": "Svaneti",
+      "airport": "KUT",
+      "forWhom": "Dla miłośników gór, trekkingu i dzikiej przyrody.",
+      "intro": [
+        "Swanetię, położona w wysokich partiach Kaukazu, to jeden z najbardziej spektakularnych regionów Gruzji. Słynie z unikalnych średniowiecznych wież obronnych, które dominują nad krajobrazem, oraz z dzikiej, nietkniętej przyrody. To raj dla piechurów i fotografów, oferujący niezapomniane widoki i autentyczne górskie wioski.",
+        "Główne miasto regionu, Mestia, jest doskonałą bazą wypadową do wędrówek. Stąd można wyruszyć na szlaki prowadzące do lodowców, malowniczych jezior czy odległych wiosek, takich jak Uszguli, najwyżej położona osada w Europie, wpisana na listę UNESCO. Przygotuj się na wymagające szlaki i zapierające dech w piersiach panoramy."
+      ],
+      "highlights": [
+        "Średniowieczne wieże obronne w Mestii",
+        "Wioska Uszguli (UNESCO)",
+        "Trekkingi w wysokim Kaukazie",
+        "Dzika, nietknięta przyroda"
+      ]
+    },
+    {
+      "slug": "adzaria",
+      "name": "Adżarię",
+      "loc": "w Adżarii",
+      "type": "region",
+      "gygQuery": "Batumi",
+      "airport": "BUS",
+      "forWhom": "Dla szukających słońca, plaż i nadmorskich rozrywek.",
+      "intro": [
+        "Adżaria, położona nad Morzem Czarnym, to region o zupełnie innym charakterze niż reszta Gruzji. Jej stolicą jest Batumi, tętniący życiem kurort z nowoczesną architekturą, długą promenadą i zielonymi parkami. To idealne miejsce na połączenie plażowania z wieczornymi rozrywkami i odkrywaniem lokalnej kuchni, która ma swoje specyficzne, adżarskie warianty.",
+        "Odpocznij na kamienistych plażach Batumi, przespaceruj się po słynnym Batumi Boulevard, podziwiaj tańczące fontanny i wieżowce. Odwiedź Ogród Botaniczny, jeden z największych i najstarszych na świecie, oferujący spektakularne widoki na morze. Region oferuje też możliwość wycieczek w góry, do wodospadów i zabytkowych mostów."
+      ],
+      "highlights": [
+        "Plaże nad Morzem Czarnym",
+        "Batumi Boulevard i nowoczesna architektura",
+        "Ogród Botaniczny w Batumi",
+        "Adżarskie specjały kulinarne"
+      ]
+    },
+    {
+      "slug": "mccheta-mtianetia",
+      "name": "Mccheta-Mtianetię",
+      "loc": "w Mcchecie-Mtianetii",
+      "type": "region",
+      "gygQuery": "Mtskheta-Mtianeti",
+      "airport": "TBS",
+      "forWhom": "Dla poszukiwaczy duchowych wrażeń i widoków Kaukazu.",
+      "intro": [
+        "Region Mccheta-Mtianetia to kolebka gruzińskiego chrześcijaństwa i brama do wysokich Kaukazu. Znajdziesz tu starożytne stolice, takie jak Mccheta, wpisana na listę UNESCO, oraz zapierające dech w piersiach górskie krajobrazy z ikoną Gruzji, kościołem Cminda Sameba. To miejsce, gdzie historia splata się z naturą w niezwykły sposób.",
+        "Odwiedź Mcchetę z jej katedrą Sweti Cchoweli i monastyrem Dżwari, skąd roztacza się widok na zbieg rzek Aragwi i Kury. Następnie udaj się w stronę Kazbegi (Stepancminda), aby podziwiać słynny kościół Cminda Sameba na tle ośnieżonych szczytów Kaukazu, w tym góry Kazbek. To widok, który na długo pozostaje w pamięci."
+      ],
+      "highlights": [
+        "Katedra Sweti Cchoweli w Mcchecie (UNESCO)",
+        "Monastyr Dżwari",
+        "Kościół Cminda Sameba w Stepancmindzie",
+        "Widoki na górę Kazbek"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Katedra Cminda Sameba w Stepancmindzie",
+      "text": "Ikoniczny kościół położony malowniczo na tle ośnieżonych szczytów Kaukazu, symbol Gruzji. Wędrówka do niego to niezapomniane doświadczenie.",
+      "gygQuery": "Gergeti Trinity Church"
+    },
+    {
+      "name": "Stare Miasto w Tbilisi",
+      "text": "Labirynt wąskich uliczek, kolorowych kamienic, zabytkowych cerkwi i słynnych łaźni siarkowych. Serce stolicy tętniące życiem przez całą dobę.",
+      "gygQuery": "Tbilisi Old Town"
+    },
+    {
+      "name": "Sighnaghi",
+      "text": "Ufortyfikowane miasto w Kachetii, znane jako 'Miasto Miłości', z murami obronnymi i malowniczymi widokami na dolinę Alazani. Idealne na romantyczny spacer.",
+      "gygQuery": "Sighnaghi"
+    },
+    {
+      "name": "Mestia i wieże obronne",
+      "text": "Górska miejscowość w Swanetii, otoczona średniowiecznymi wieżami obronnymi i majestatycznymi szczytami Kaukazu. Brama do górskich trekkingów.",
+      "gygQuery": "Mestia Svaneti"
+    },
+    {
+      "name": "Uplistsikhe",
+      "text": "Starożytne skalne miasto, wykute w piaskowcu, będące świadectwem bogatej historii Gruzji. Fascynujący kompleks jaskiń, świątyń i domów.",
+      "gygQuery": "Uplistsikhe Cave Town"
+    },
+    {
+      "name": "Katedra Sweti Cchoweli w Mcchecie",
+      "text": "Jedna z najważniejszych świątyń Gruzji, miejsce koronacji i pochówku królów, wpisana na listę UNESCO. Centrum gruzińskiego chrześcijaństwa.",
+      "gygQuery": "Svetitskhoveli Cathedral"
+    },
+    {
+      "name": "Prometeusz Jaskinia",
+      "text": "Spektakularna jaskinia krasowa z imponującymi stalaktytami i stalagmitami, podświetlona kolorowymi światłami. Można ją zwiedzać pieszo lub łodzią.",
+      "gygQuery": "Prometheus Cave"
+    },
+    {
+      "name": "Batumi Boulevard",
+      "text": "Długa promenada nad Morzem Czarnym, otoczona palmami, nowoczesną architekturą i fontannami. Idealne miejsce na wieczorny spacer i relaks.",
+      "gygQuery": "Batumi Boulevard"
+    }
+  ],
+  "cuisine": [
+    "Gruzińska kuchnia to prawdziwa uczta dla podniebienia, pełna smaków, aromatów i świeżych składników. Charakterystyczne są dla niej chaczapuri (placek z serem w różnych wariantach), chinkali (soczyste pierożki z mięsnym farszem), szaszłyki (mtsvadi), lobio (danie z fasoli) oraz pyszne, świeże warzywa i zioła. Do tego oczywiście lokalne wino, produkowane tradycyjną metodą w glinianych qvevri, oraz czacza, mocny destylat z winogron. Gruzini celebrują jedzenie, a posiłki to często długie, biesiadne supry z toastami i śpiewem."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Gruzji potrzebna jest wiza?",
+      "a": "Nie, obywatele Polski mogą wjechać do Gruzji bez wizy na podstawie ważnego dowodu osobistego lub paszportu na pobyt do roku."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Gruzji i czy można płacić kartą?",
+      "a": "Obowiązującą walutą jest lari gruzińskie (GEL). W większych miastach płatności kartą są powszechne, ale na prowincji i w mniejszych miejscowościach warto mieć ze sobą gotówkę."
+    },
+    {
+      "q": "Jakie są najlepsze sposoby poruszania się po Gruzji?",
+      "a": "Po Gruzji można podróżować marszrutkami (lokalne minibusy), taksówkami (często z aplikacjami typu Bolt/Yandex w miastach) lub wynająć samochód. Dojazd do odległych regionów górskich bywa trudniejszy i wymaga samochodu terenowego."
+    },
+    {
+      "q": "Czy Gruzja jest bezpiecznym krajem dla turystów?",
+      "a": "Tak, Gruzja jest generalnie bezpiecznym krajem dla turystów. Należy zachować podstawowe środki ostrożności, zwłaszcza w dużych miastach. Odradza się podróżowanie do separatystycznych regionów Abchazji i Osetii Południowej."
+    },
+    {
+      "q": "Jakie są typowe gruzińskie potrawy, których trzeba spróbować?",
+      "a": "Koniecznie spróbuj chaczapuri (placek z serem), chinkali (pierogi z bulionem i farszem), szaszłyków (mtsvadi), lobio (fasola) oraz bakłażanów z orzechami."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

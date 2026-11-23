@@ -1,0 +1,177 @@
+{
+  "slug": "bahrajn",
+  "loc": "w Bahrajnie",
+  "to": "do Bahrajnu",
+  "capital": "Manama",
+  "popularity": 10,
+  "touroperator": false,
+  "gygQuery": "Bahrain",
+  "teaser": "Bahrajn to niewielkie królestwo na Bliskim Wschodzie, łączące nowoczesność z bogatą historią. Idealny na krótki, egzotyczny wypad.",
+  "intro": [
+    "Bahrajn, choć często pomijany na rzecz bardziej znanych sąsiadów, to fascynujące miejsce, gdzie tradycja spotyka się z nowoczesnością. To wyspiarskie państwo oferuje unikalne połączenie starożytnych zabytków, takich jak wpisane na listę UNESCO forty i kurhany, z dynamicznym rozwojem i luksusowymi udogodnieniami. Mimo niewielkich rozmiarów, Bahrajn zaskakuje różnorodnością atrakcji, od tętniących życiem souków po spokojne plaże i imponujące drapacze chmur.",
+    "Kraj ten jest idealny dla podróżników, którzy szukają autentycznych doświadczeń na Bliskim Wschodzie, ale jednocześnie cenią sobie komfort i nowoczesną infrastrukturę. To doskonały wybór na kilkudniowy city break lub jako przystanek w dłuższej podróży po Zatoce Perskiej. Bahrajn przyciąga miłośników historii, kultury, ale także tych, którzy chcą poczuć atmosferę wyścigów Formuły 1 na słynnym torze Bahrain International Circuit.",
+    "Podróż z Polski do Bahrajnu zazwyczaj wymaga jednej przesiadki, najczęściej w Stambule, Dubaju lub Dosze, co sprawia, że jest to relatywnie łatwo dostępny kierunek. Obywatele Polski potrzebują wizy, którą można uzyskać online lub na lotnisku. Różnica czasu jest niewielka, co ułatwia adaptację, a lokalna waluta, dinar bahrański, jest stabilna i łatwa w użyciu."
+  ],
+  "highlights": [
+    "Starożytne forty i kurhany Dilmun",
+    "Nowoczesna architektura Manamy",
+    "Tradycyjne souki i perły",
+    "Wyścigi Formuły 1 na torze BIC",
+    "Pustynne krajobrazy i Drzewo Życia",
+    "Gościnność mieszkańców i kuchnia"
+  ],
+  "bestTime": {
+    "text": "Pora sucha i chłodniejsza, od listopada do marca, to najlepszy czas na wizytę w Bahrajnie. Temperatury są wtedy przyjemne, idealne do zwiedzania i aktywności na świeżym powietrzu, unikając ekstremalnych upałów. W miesiącach letnich, od maja do września, temperatury często przekraczają 40 stopni Celsjusza, a wilgotność powietrza jest wysoka, co może być uciążliwe. Kwiecień i październik to miesiące przejściowe, z nieco wyższymi temperaturami, ale wciąż znośne.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      20,
+      21,
+      25,
+      30,
+      35,
+      37,
+      38,
+      38,
+      36,
+      33,
+      27,
+      22
+    ],
+    "sea": [
+      20,
+      19,
+      22,
+      25,
+      28,
+      30,
+      32,
+      33,
+      32,
+      30,
+      26,
+      22
+    ],
+    "note": "Manama"
+  },
+  "practical": {
+    "flight": "Około 7-9 h z przesiadką",
+    "timeDiff": "Zimą +2 godziny, latem +1 godzina",
+    "documents": "Obywatele Polski potrzebują wizy, którą można uzyskać online (e-wiza) lub na lotnisku po przylocie. Ważność paszportu minimum 6 miesięcy od daty wjazdu. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed podróżą.",
+    "money": "Walutą jest dinar bahrański (BHD). Płatności kartami kredytowymi są powszechne, bankomaty dostępne. Warto mieć gotówkę na mniejsze zakupy na souku.",
+    "plugs": "Typ G (brytyjski), wymagana przejściówka.",
+    "language": "Oficjalnym językiem jest arabski, ale angielski jest powszechnie używany w biznesie i turystyce.",
+    "safety": "Bahrajn jest generalnie bezpiecznym krajem dla turystów, jednak należy zachować ostrożność i szacunek dla lokalnych zwyczajów i prawa islamskiego. Unikaj demonstracji i zgromadzeń. Ubezpieczenie podróżne jest zalecane."
+  },
+  "regions": [
+    {
+      "slug": "manama",
+      "name": "Manama",
+      "loc": "w Manamie",
+      "type": "miasto",
+      "gygQuery": "Manama",
+      "airport": "BAH",
+      "forWhom": "Stolica Bahrajnu to centrum nowoczesności, kultury i rozrywki, idealne dla każdego podróżnika.",
+      "intro": [
+        "Manama to tętniące życiem serce Bahrajnu, gdzie błyszczące wieżowce stoją obok tradycyjnych souków i historycznych budowli. Miasto oferuje bogactwo atrakcji, od Muzeum Narodowego Bahrajnu, przez imponujący Meczet Al-Fatih, po luksusowe centra handlowe i restauracje z kuchnią z całego świata. To doskonałe miejsce, aby poczuć puls kraju i zanurzyć się w jego współczesnej atmosferze.",
+        "Wieczorem Manama ożywa, oferując szeroki wybór rozrywki, od eleganckich barów po tradycyjne kawiarnie. Spacer po dzielnicy handlowej Bab Al Bahrain czy wizyta na targu złota to obowiązkowe punkty programu. Miasto jest również świetną bazą wypadową do zwiedzania innych części Bahrajnu."
+      ],
+      "highlights": [
+        "Meczet Al-Fatih",
+        "Muzeum Narodowe Bahrajnu",
+        "Souk Bab Al Bahrain",
+        "Dzielnica finansowa z wieżowcami"
+      ]
+    },
+    {
+      "slug": "wyspa-muharraq",
+      "name": "Wyspa Muharraq",
+      "loc": "na Wyspie Muharraq",
+      "type": "wyspa",
+      "gygQuery": "Muharraq",
+      "airport": "BAH",
+      "forWhom": "Muharraq to historyczne serce Bahrajnu, idealne dla miłośników tradycji i architektury.",
+      "intro": [
+        "Wyspa Muharraq, połączona z Manamą mostami, jest dawną stolicą Bahrajnu i skarbnicą jego historii. To tutaj znajduje się słynny Szlak Poławiaczy Pereł, wpisany na listę UNESCO, który prowadzi przez tradycyjne domy, meczety i magazyny związane z historycznym przemysłem perłowym. Spacerując wąskimi uliczkami, można poczuć autentyczną atmosferę dawnego Bahrajnu.",
+        "Oprócz Szlaku Poławiaczy Pereł, Muharraq oferuje również urokliwe kawiarnie, galerie sztuki i tradycyjne souki. Znajduje się tu także Międzynarodowy Port Lotniczy Bahrajn (BAH). To idealne miejsce, aby uciec od zgiełku Manamy i zanurzyć się w bogatej przeszłości królestwa."
+      ],
+      "highlights": [
+        "Szlak Poławiaczy Pereł UNESCO",
+        "Tradycyjne domy i architektura",
+        "Fort Arad",
+        "Lokalne kawiarnie i souki"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Fort Bahrajn (Qal'at al-Bahrain)",
+      "text": "Wpisany na listę UNESCO starożytny fort, będący pozostałością po cywilizacji Dilmun i świadectwem tysięcy lat historii Bahrajnu.",
+      "gygQuery": "Qal'at al-Bahrain"
+    },
+    {
+      "name": "Meczet Al-Fatih",
+      "text": "Jeden z największych meczetów na świecie, imponujący swoją architekturą i otwarty dla zwiedzających, oferujący wgląd w kulturę islamu.",
+      "gygQuery": "Al-Fatih Mosque"
+    },
+    {
+      "name": "Drzewo Życia (Tree of Life)",
+      "text": "Samotne, 400-letnie drzewo akacjowe rosnące na pustyni, bez widocznego źródła wody, stanowiące lokalną zagadkę i symbol wytrwałości.",
+      "gygQuery": "Tree of Life Bahrain"
+    },
+    {
+      "name": "Muzeum Narodowe Bahrajnu",
+      "text": "Główne muzeum kraju, prezentujące bogatą historię Bahrajnu od czasów prehistorycznych po współczesność, w tym artefakty z cywilizacji Dilmun.",
+      "gygQuery": "Bahrain National Museum"
+    },
+    {
+      "name": "Bahrain International Circuit (BIC)",
+      "text": "Słynny tor wyścigowy Formuły 1, oferujący możliwość zwiedzania, a nawet przejażdżek supersamochodami dla fanów motoryzacji.",
+      "gygQuery": "Bahrain International Circuit"
+    },
+    {
+      "name": "Souk Bab Al Bahrain",
+      "text": "Tradycyjny rynek w Manamie, gdzie można kupić przyprawy, tkaniny, biżuterię, pamiątki i poczuć autentyczną atmosferę Bliskiego Wschodu.",
+      "gygQuery": "Bab Al Bahrain Souk"
+    },
+    {
+      "name": "Kurhany Dilmun (Dilmun Burial Mounds)",
+      "text": "Rozległe cmentarzysko z tysiącami kopców grobowych, świadectwo starożytnej cywilizacji Dilmun, wpisane na listę UNESCO.",
+      "gygQuery": "Dilmun Burial Mounds"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia bahrańska to smaczna mieszanka wpływów arabskich, perskich i indyjskich, z dużym naciskiem na świeże owoce morza ze względu na wyspiarskie położenie. Podstawą są ryż, mięso (głównie jagnięcina i kurczak) oraz świeże warzywa i przyprawy. Warto spróbować tradycyjnych dań, takich jak machboos (ryż z mięsem lub rybą), muhammar (słodki ryż z daktylami) czy falafel. Desery często bazują na daktylach i kardamonie. W Manamie znajdziesz zarówno tradycyjne restauracje, jak i luksusowe lokale z kuchnią międzynarodową."
+  ],
+  "faq": [
+    {
+      "q": "Czy Bahrajn jest bezpieczny dla turystów?",
+      "a": "Tak, Bahrajn jest generalnie bezpiecznym krajem. Należy jednak przestrzegać lokalnych zwyczajów, unikać demonstracji i zawsze mieć przy sobie dokumenty tożsamości. Zaleca się wykupienie ubezpieczenia podróżnego."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Bahrajnu z Polski?",
+      "a": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy oraz wizy. Wizę można uzyskać online (e-wiza) lub na lotnisku po przylocie. Zawsze sprawdź aktualne wymogi przed wyjazdem."
+    },
+    {
+      "q": "Czym płacić w Bahrajnie i czy akceptowane są karty?",
+      "a": "Walutą jest dinar bahrański (BHD). Karty kredytowe i debetowe są powszechnie akceptowane w hotelach, sklepach i restauracjach. Warto mieć gotówkę na mniejsze zakupy, zwłaszcza na tradycyjnych soukach."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Bahrajnu?",
+      "a": "Najlepszy czas na wizytę w Bahrajnie to okres od listopada do marca, kiedy temperatury są łagodniejsze i bardziej sprzyjające zwiedzaniu. Miesiące letnie (maj-wrzesień) są bardzo gorące i wilgotne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

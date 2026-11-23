@@ -1,0 +1,212 @@
+{
+  "slug": "austria",
+  "loc": "w Austrii",
+  "to": "do Austrii",
+  "capital": "Wiedeń",
+  "popularity": 55,
+  "touroperator": true,
+  "gygQuery": "Austria",
+  "teaser": "Góry, jeziora, zabytki i kawa - Austria to kierunek na aktywny urlop i kulturalne zwiedzanie. Blisko, bezpiecznie i z doskonałą infrastrukturą.",
+  "intro": [
+    "Austria, kraj położony w sercu Europy, to prawdziwa mozaika alpejskich szczytów, malowniczych jezior i eleganckich miast przesiąkniętych historią. Od majestatycznych Alp Wschodnich, przez zielone doliny, aż po naddunajskie winnice, oferuje różnorodne krajobrazy, które zachwycają o każdej porze roku. Bogata kultura, światowej klasy zabytki i doskonała infrastruktura turystyczna sprawiają, że każdy znajdzie tu coś dla siebie. To idealne miejsce na aktywny wypoczynek i kulturalne eksploracje.",
+    "Kraj ten przyciąga zarówno miłośników sportów zimowych, którzy znajdą tu setki kilometrów doskonale przygotowanych tras narciarskich, jak i fanów pieszych wędrówek, rowerzystów czy wspinaczy. Miłośnicy kultury i historii z pewnością docenią Wiedeń, Salzburg czy Innsbruck, gdzie na każdym kroku można podziwiać cesarskie pałace, barokowe kościoły i urokliwe stare miasta. Austria to także doskonała propozycja dla rodzin z dziećmi, oferująca liczne atrakcje, parki rozrywki i bezpieczne szlaki.",
+    "Dla turystów z Polski podróż do Austrii jest wyjątkowo komfortowa i szybka. Można tu łatwo dotrzeć samochodem, korzystając z dobrze rozwiniętej sieci autostrad (pamiętaj o winietach). Alternatywnie, liczne połączenia lotnicze z polskich miast do Wiednia, Salzburga czy Innsbrucka skracają podróż do zaledwie półtorej godziny. To sprawia, że Austria jest świetnym kierunkiem zarówno na dłuższy urlop, jak i na weekendowy wypad."
+  ],
+  "highlights": [
+    "Alpejskie szczyty i stoki narciarskie",
+    "Cesarski Wiedeń i jego zabytki",
+    "Malownicze jeziora i szlaki górskie",
+    "Urokliwe miasteczka jak Hallstatt",
+    "Kultura kawy i słodkości",
+    "Wyśmienite wina z regionu Wachau"
+  ],
+  "bestTime": {
+    "text": "Austria to kraj, który można odwiedzać przez cały rok, w zależności od preferowanych aktywności. Zima (grudzień-marzec) to szczyt sezonu narciarskiego, z doskonałymi warunkami na stokach i świąteczną atmosferą w miastach. Lato (lipiec-sierpień) sprzyja pieszym wędrówkom po górach, rowerowym wycieczkom i relaksowi nad jeziorami, oferując przyjemne temperatury i długie dni. Wiosna (kwiecień-maj) i jesień (wrzesień-październik) to idealny czas na zwiedzanie miast, degustację win i podziwianie zmieniających się krajobrazów, unikając tłumów i upałów.",
+    "best": [
+      7,
+      8,
+      12,
+      1
+    ],
+    "ok": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      2,
+      3
+    ]
+  },
+  "climate": {
+    "air": [
+      2,
+      4,
+      9,
+      15,
+      20,
+      23,
+      26,
+      26,
+      20,
+      14,
+      7,
+      3
+    ],
+    "sea": null,
+    "note": "Wiedeń"
+  },
+  "practical": {
+    "flight": "około 1.5-2 h",
+    "timeDiff": "brak",
+    "documents": "Dowód osobisty lub paszport. Zawsze sprawdź aktualne wymogi przed wyjazdem.",
+    "money": "Euro (EUR). Płatności kartą powszechne, gotówka przydatna w mniejszych miejscowościach.",
+    "plugs": "Typ F (Schuko), taki jak w Polsce.",
+    "language": "Niemiecki (lokalny dialekt bawarski). W regionach turystycznych łatwo porozumieć się po angielsku.",
+    "safety": "Kraj bezpieczny, z niskim wskaźnikiem przestępczości. Standardowe środki ostrożności wystarczą. Europejska Karta Ubezpieczenia Zdrowotnego (EKUZ) jest uznawana, ale warto rozważyć dodatkowe ubezpieczenie turystyczne."
+  },
+  "regions": [
+    {
+      "slug": "wieden",
+      "name": "Wiedeń",
+      "loc": "w Wiedniu",
+      "type": "miasto",
+      "gygQuery": "Vienna",
+      "airport": "VIE",
+      "forWhom": "Idealny dla miłośników historii, kultury, sztuki i eleganckiego życia miejskiego.",
+      "intro": [
+        "Stolica Austrii to miasto cesarskich pałaców, światowej klasy muzeów i kawiarnianej kultury. Spacerując po Ringstrasse, podziwiać można imponujące budowle, takie jak Opera Wiedeńska, Parlament czy Ratusz. Wiedeń to także miasto Mozarta, Straussa i Freuda, gdzie muzyka i sztuka są obecne na każdym kroku. Nie można pominąć wizyty w Pałacu Schönbrunn czy Hofburgu, które przenoszą w czasy świetności monarchii Habsburgów.",
+        "Oprócz klasycznych zabytków, Wiedeń oferuje tętniące życiem dzielnice, nowoczesne galerie i zielone parki. Spróbuj prawdziwej kawy i Sachertorte w jednej z historycznych kawiarni, odwiedź Prater z jego słynnym Diabelskim Młynem lub zrelaksuj się nad Dunajem. Miasto jest doskonale skomunikowane, a poruszanie się metrem czy tramwajem jest proste i wygodne."
+      ],
+      "highlights": [
+        "Pałac Schönbrunn",
+        "Katedra św. Szczepana",
+        "Kawiarnie i Sachertorte",
+        "Muzea i galerie"
+      ]
+    },
+    {
+      "slug": "tyrol",
+      "name": "Tyrol",
+      "loc": "w Tyrolu",
+      "type": "region",
+      "gygQuery": "Tyrol",
+      "airport": "INN",
+      "forWhom": "Raj dla miłośników gór, sportów zimowych i aktywnego wypoczynku na łonie natury.",
+      "intro": [
+        "Tyrol, serce austriackich Alp, to region znany z zapierających dech w piersiach krajobrazów, majestatycznych szczytów i malowniczych dolin. Zimą przyciąga narciarzy i snowboardzistów na światowej klasy stoki, takie jak te w Kitzbühel, Ischgl czy Sölden. Latem zamienia się w raj dla wędrowców, rowerzystów górskich i wspinaczy, oferując setki kilometrów szlaków o różnym stopniu trudności.",
+        "Stolicą regionu jest Innsbruck, miasto otoczone górami, z urokliwym Starym Miastem i słynnym Złotym Dachem. W Tyrolu znajdziesz także liczne jeziora, parki narodowe i uzdrowiska. To idealne miejsce na aktywny urlop, gdzie można połączyć wysiłek fizyczny z podziwianiem spektakularnych widoków i delektowaniem się lokalną kuchnią."
+      ],
+      "highlights": [
+        "Innsbruck i Złoty Dach",
+        "Stoki narciarskie (np. Kitzbühel)",
+        "Szlaki piesze i rowerowe",
+        "Muzeum Swarovski Kristallwelten"
+      ]
+    },
+    {
+      "slug": "salzburg-salzkammergut",
+      "name": "Salzburg i Salzkammergut",
+      "loc": "w Salzburgu i Salzkammergut",
+      "type": "region",
+      "gygQuery": "Salzburg and Salzkammergut",
+      "airport": "SZG",
+      "forWhom": "Dla miłośników barokowej architektury, muzyki i urokliwych krajobrazów jeziornych.",
+      "intro": [
+        "Salzburg, miasto Mozarta, to perła barokowej architektury, wpisana na listę UNESCO. Jego urokliwe Stare Miasto z wąskimi uliczkami, majestatyczną twierdzą Hohensalzburg i imponującą katedrą przyciąga rzesze turystów. To tu urodził się Wolfgang Amadeusz Mozart, a jego dom rodzinny jest dziś muzeum. Miasto słynie również z Festiwalu Salzburskiego, jednego z najważniejszych wydarzeń muzycznych na świecie.",
+        "Niedaleko Salzburga rozciąga się region Salzkammergut, kraina ponad 70 jezior otoczonych górami. To idealne miejsce na letni wypoczynek, pływanie, żeglowanie czy piesze wycieczki. Warto odwiedzić malownicze miasteczka, takie jak Hallstatt, St. Wolfgang czy Bad Ischl, które zachwycają swoją architekturą i położeniem. To połączenie kultury i natury, które urzeka każdego podróżnika."
+      ],
+      "highlights": [
+        "Stare Miasto w Salzburgu",
+        "Twierdza Hohensalzburg",
+        "Malownicze Hallstatt",
+        "Jeziora Salzkammergut"
+      ]
+    },
+    {
+      "slug": "karyntia",
+      "name": "Karyntia",
+      "loc": "w Karyntii",
+      "type": "region",
+      "gygQuery": "Carinthia",
+      "airport": "KLU",
+      "forWhom": "Idealna dla rodzin i osób szukających relaksu nad ciepłymi jeziorami i łagodnych górskich krajobrazów.",
+      "intro": [
+        "Położona na południu Austrii, Karyntia to kraina słońca i ciepłych jezior, takich jak Wörthersee, Millstätter See czy Ossiacher See. Region ten słynie z łagodnego klimatu i doskonałych warunków do uprawiania sportów wodnych, pływania i opalania. Wokół jezior znajdziesz liczne plaże, ścieżki rowerowe i trasy spacerowe, idealne na rodzinny wypoczynek. To austriacka alternatywa dla śródziemnomorskich kurortów.",
+        "Karyntia oferuje także piękne górskie krajobrazy, choć mniej strome niż w Tyrolu, co sprawia, że są one bardziej dostępne dla mniej zaawansowanych piechurów. Warto odwiedzić stolicę regionu, Klagenfurt, z urokliwym Starym Miastem, oraz podziwiać widoki z wieży widokowej Pyramidenkogel. Region jest również znany z doskonałej kuchni, łączącej wpływy austriackie, włoskie i słoweńskie."
+      ],
+      "highlights": [
+        "Ciepłe jeziora (np. Wörthersee)",
+        "Klagenfurt i Stare Miasto",
+        "Wieża widokowa Pyramidenkogel",
+        "Łagodne szlaki górskie"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Pałac Schönbrunn, Wiedeń",
+      "text": "Letnia rezydencja Habsburgów, z imponującymi wnętrzami, pięknymi ogrodami i najstarszym zoo na świecie.",
+      "gygQuery": "Schonbrunn Palace Vienna"
+    },
+    {
+      "name": "Katedra św. Szczepana, Wiedeń",
+      "text": "Gotycka perła Wiednia, symbol miasta, z możliwością wejścia na wieżę i podziwiania panoramy.",
+      "gygQuery": "St Stephen's Cathedral Vienna"
+    },
+    {
+      "name": "Hallstatt, Salzkammergut",
+      "text": "Bajkowa wioska położona nad jeziorem, otoczona górami, często uznawana za jedno z najpiękniejszych miejsc w Austrii.",
+      "gygQuery": "Hallstatt"
+    },
+    {
+      "name": "Grossglockner High Alpine Road",
+      "text": "Spektakularna droga panoramiczna przez Alpy, oferująca niezapomniane widoki na najwyższy szczyt Austrii.",
+      "gygQuery": "Grossglockner High Alpine Road"
+    },
+    {
+      "name": "Stare Miasto w Salzburgu",
+      "text": "Zespół zabytkowych budowli, uliczek i placów, wpisany na listę UNESCO, miejsce urodzenia Mozarta.",
+      "gygQuery": "Salzburg Old Town"
+    },
+    {
+      "name": "Muzeum Swarovski Kristallwelten, Wattens",
+      "text": "Fascynujący świat kryształów stworzony przez artystów, z imponującymi instalacjami i sklepem.",
+      "gygQuery": "Swarovski Crystal Worlds"
+    },
+    {
+      "name": "Jezioro Wolfgangsee, Salzkammergut",
+      "text": "Jedno z najpiękniejszych jezior regionu, idealne do rejsów statkiem, kąpieli i spacerów.",
+      "gygQuery": "Lake Wolfgangsee"
+    },
+    {
+      "name": "Lodowiec Kitzsteinhorn, Kaprun",
+      "text": "Całoroczny ośrodek narciarski i punkt widokowy, oferujący spektakularne widoki na Alpy z wysokości ponad 3000 m n.p.m.",
+      "gygQuery": "Kitzsteinhorn Glacier Kaprun"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia austriacka to połączenie tradycji alpejskich z wpływami monarchii austro-węgierskiej, oferujące sycące i smaczne potrawy. Króluje tu Wiener Schnitzel, czyli panierowany kotlet cielęcy, a także Tafelspitz - gotowana wołowina. Nie można zapomnieć o zupach, takich jak Frittatensuppe (rosół z paskami naleśników). Austria słynie również z wyśmienitych deserów: Apfelstrudel, Kaiserschmarrn (puszysty omlet z rodzynkami) czy słynna Sachertorte. Do tego kawa, która w Austrii jest prawdziwym rytuałem, oraz lokalne wina, zwłaszcza te z Doliny Wachau."
+  ],
+  "faq": [
+    {
+      "q": "Czy w Austrii potrzebuję winiety?",
+      "a": "Tak, podróżując autostradami i drogami szybkiego ruchu w Austrii, wymagana jest winieta. Można ją kupić w formie cyfrowej online lub jako naklejkę na stacjach benzynowych przed wjazdem do kraju."
+    },
+    {
+      "q": "Jakie są ceny w Austrii?",
+      "a": "Austria jest krajem o porównywalnych lub nieco wyższych cenach niż w Polsce, szczególnie w Wiedniu i popularnych kurortach narciarskich. Żywność w supermarketach jest zbliżona cenowo, ale restauracje i noclegi mogą być droższe."
+    },
+    {
+      "q": "Czy Austria jest dobra na wakacje z dziećmi?",
+      "a": "Zdecydowanie tak. Austria oferuje wiele atrakcji dla rodzin, od bezpiecznych szlaków górskich, przez parki rozrywki, po liczne jeziora z plażami i specjalnie przygotowane trasy narciarskie dla dzieci. Infrastruktura turystyczna jest bardzo dobrze rozwinięta."
+    },
+    {
+      "q": "Gdzie najlepiej jeździć na nartach w Austrii?",
+      "a": "Austria to narciarski raj. Do najpopularniejszych regionów należą Tyrol (np. Ischgl, Sölden, Kitzbühel), Ziemia Salzburska (np. Saalbach-Hinterglemm, Flachau) oraz Karyntia. Wybór zależy od preferencji - od luksusowych kurortów po spokojniejsze stoki rodzinne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

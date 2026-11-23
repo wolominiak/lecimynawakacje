@@ -1,0 +1,182 @@
+{
+  "slug": "burkina-faso",
+  "loc": "w Burkina Faso",
+  "to": "do Burkina Faso",
+  "capital": "Wagadugu",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Burkina Faso",
+  "teaser": "Burkina Faso to kraj dla prawdziwych poszukiwaczy przygód, oferujący autentyczne doświadczenia i bogatą kulturę Zachodniej Afryki.",
+  "intro": [
+    "Burkina Faso, kraj położony w sercu Afryki Zachodniej, to destynacja dla podróżników szukających głębokich, niekomercyjnych doświadczeń. To miejsce, gdzie tradycja splata się z codziennym życiem, a gościnność mieszkańców jest prawdziwie poruszająca. Odwiedzając Burkina Faso, przygotuj się na spotkanie z autentyczną kulturą, sztuką i rzemiosłem, które odzwierciedlają bogactwo etniczne tego regionu. Nie jest to cel masowej turystyki, co czyni go jeszcze bardziej intrygującym dla odważnych odkrywców.",
+    "Kraj ten przyciąga tych, którzy pragną zobaczyć Afrykę poza utartymi szlakami, bez luksusowych kurortów i zorganizowanych wycieczek. To idealne miejsce dla osób zainteresowanych antropologią, muzyką, tańcem i sztuką afrykańską. Możesz tu podziwiać tradycyjne festiwale, lokalne targi tętniące życiem oraz unikatową architekturę glinianych meczetów i osad. Podróżowanie po Burkina Faso wymaga elastyczności, cierpliwości i otwartości na nowe doświadczenia, często z dala od zachodnich standardów komfortu.",
+    "Podróż z Polski do Burkina Faso zazwyczaj wymaga co najmniej jednej, a często dwóch przesiadek, najczęściej w dużych europejskich hubach takich jak Paryż, Bruksela czy Stambuł. Cała podróż lotnicza zajmuje około 12-15 godzin, nie licząc czasu oczekiwania na przesiadki. Przed wyjazdem koniecznie zapoznaj się z aktualnymi ostrzeżeniami dla podróżnych wydawanymi przez polskie Ministerstwo Spraw Zagranicznych, ponieważ sytuacja bezpieczeństwa w kraju może być zmienna i wymaga szczególnej uwagi."
+  ],
+  "highlights": [
+    "Autentyczne doświadczenia kulturowe",
+    "Bogate tradycje muzyczne i taneczne",
+    "Unikalna architektura glinianych meczetów",
+    "Tętniące życiem lokalne targi",
+    "Rzemiosło artystyczne, np. maski",
+    "Parki narodowe z dziką fauną (z ostrożnością)"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Burkina Faso to sucha i chłodniejsza pora roku, która przypada na miesiące od listopada do lutego. W tym okresie temperatury są bardziej znośne, a wilgotność niska, co sprzyja zwiedzaniu i aktywnościom na świeżym powietrzu. Pora deszczowa, trwająca od czerwca do września, charakteryzuje się wysoką wilgotnością, intensywnymi opadami i wysokimi temperaturami, co może utrudniać podróżowanie.",
+    "best": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      32,
+      35,
+      38,
+      39,
+      38,
+      35,
+      32,
+      31,
+      32,
+      35,
+      34,
+      32
+    ],
+    "sea": null,
+    "note": "dla Wagadugu"
+  },
+  "practical": {
+    "flight": "około 12-15 h z 1-2 przesiadkami",
+    "timeDiff": "Latem -2h, zimą -1h w stosunku do czasu polskiego (Wagadugu: GMT+0)",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed wyjazdem w placówce dyplomatycznej Burkina Faso (najbliższa w Berlinie lub Paryżu). Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego powrotu. Zalecane są szczepienia przeciw żółtej febrze (wymagane przy wjeździe), tężcowi, błonicy, polio, durowi brzusznemu i WZW A i B. Koniecznie sprawdź aktualne wymogi wizowe i zdrowotne przed podróżą na stronie MSZ.",
+    "money": "Walutą jest frank CFA Zachodnioafrykański (XOF). Płatności kartą są rzadkie i możliwe głównie w większych hotelach w Wagadugu. Zaleca się posiadanie gotówki. Bankomaty są dostępne w dużych miastach, ale ich niezawodność bywa zmienna.",
+    "plugs": "Typ C i E. Napięcie 220 V, częstotliwość 50 Hz.",
+    "language": "Oficjalnym językiem jest francuski. W użyciu są również liczne języki lokalne, takie jak Mossi, Dyula czy Fulfulde.",
+    "safety": "Sytuacja bezpieczeństwa w Burkina Faso jest niestabilna. Istnieje wysokie ryzyko ataków terrorystycznych, porwań i przestępczości zbrojnej, szczególnie w regionach przygranicznych i poza dużymi miastami. Polskie Ministerstwo Spraw Zagranicznych odradza wszelkie podróże do wielu regionów kraju. Przed wyjazdem bezwzględnie zapoznaj się z aktualnymi ostrzeżeniami MSZ i rozważ rezygnację z podróży. Należy zachować najwyższą ostrożność, unikać samotnego podróżowania i poruszania się po zmroku. Wskazana jest również profilaktyka antymalaryczna."
+  },
+  "regions": [
+    {
+      "slug": "wagadugu",
+      "name": "Wagadugu",
+      "loc": "w Wagadugu",
+      "type": "miasto",
+      "gygQuery": "Ouagadougou",
+      "airport": "OUA",
+      "forWhom": "Stolica kraju to centrum kulturalne i artystyczne, oferujące wgląd w burkińskie życie miejskie.",
+      "intro": [
+        "Wagadugu, stolica Burkina Faso, to tętniące życiem miasto, które służy jako brama do zrozumienia kultury kraju. Jest to centrum administracyjne, gospodarcze i kulturalne, gdzie nowoczesność powoli splata się z głęboko zakorzenionymi tradycjami. Miasto słynie z Międzynarodowego Festiwalu Filmu i Telewizji (FESPACO), jednego z największych wydarzeń filmowych w Afryce, oraz z Międzynarodowego Targów Rzemiosła (SIAO).",
+        "W Wagadugu można odwiedzić Wielki Meczet, Narodowe Muzeum Burkina Faso, Pałac Moro-Naba, a także liczne rynki, gdzie znajdziesz lokalne rękodzieło, tkaniny i produkty spożywcze. Mimo że miasto jest najbardziej rozwiniętym ośrodkiem, nadal zachowuje swój afrykański charakter, z gwarnymi ulicami, ulicznymi sprzedawcami i motocyklami, które są głównym środkiem transportu."
+      ],
+      "highlights": [
+        "Narodowe Muzeum Burkina Faso",
+        "Wielki Meczet w Wagadugu",
+        "Targi rzemiosła SIAO",
+        "Pałac Moro-Naba"
+      ]
+    },
+    {
+      "slug": "bobo-dioulasso",
+      "name": "Bobo-Dioulasso",
+      "loc": "w Bobo-Dioulasso",
+      "type": "miasto",
+      "gygQuery": "Bobo-Dioulasso",
+      "airport": "BOY",
+      "forWhom": "Drugie co do wielkości miasto, znane z unikatowej architektury i bogatej sceny muzycznej.",
+      "intro": [
+        "Bobo-Dioulasso, często nazywane 'kulturalną stolicą' Burkina Faso, to miasto o zupełnie innym charakterze niż Wagadugu. Słynie z imponującego glinianego Wielkiego Meczetu w stylu sudańskim, który jest jednym z najbardziej rozpoznawalnych zabytków kraju. Miasto jest również ważnym ośrodkiem muzycznym, z licznymi barami i klubami, gdzie można posłuchać tradycyjnej muzyki i tańca.",
+        "Spacerując po Bobo-Dioulasso, natkniesz się na urokliwe dzielnice, takie jak stare miasto Kibidwé, z wąskimi uliczkami i tradycyjnymi domami. Warto odwiedzić rynek, gdzie sprzedawane są lokalne produkty i rękodzieło, a także zobaczyć pracownie rzemieślników, którzy tworzą kory, maski i inne tradycyjne instrumenty i przedmioty sztuki."
+      ],
+      "highlights": [
+        "Wielki Meczet w Bobo-Dioulasso",
+        "Stare Miasto Kibidwé",
+        "Rynek w Bobo-Dioulasso",
+        "Tradycyjne pracownie rzemieślnicze"
+      ]
+    },
+    {
+      "slug": "park-narodowy-arli",
+      "name": "Park Narodowy Arli",
+      "loc": "w Parku Narodowym Arli",
+      "type": "park narodowy",
+      "gygQuery": "Arly National Park",
+      "airport": "OUA (następnie transport lądowy)",
+      "forWhom": "Dla miłośników dzikiej przyrody i safari, choć z uwagi na bezpieczeństwo wymaga szczególnej ostrożności.",
+      "intro": [
+        "Park Narodowy Arli, będący częścią większego kompleksu W-Arly-Pendjari, to jeden z najważniejszych obszarów chronionych w Burkina Faso. Oferuje możliwość obserwacji dzikich zwierząt, takich jak słonie, lwy, bawoły, antylopy i liczne gatunki ptaków. Krajobraz parku charakteryzuje się sawanną, rzekami i sezonowymi zbiornikami wodnymi, które przyciągają zwierzynę.",
+        "Wizyta w parku wymaga dokładnego planowania i zapewnienia odpowiedniego bezpieczeństwa. Ze względu na niestabilną sytuację w regionie, podróżowanie do parków narodowych w Burkina Faso jest obarczone ryzykiem i powinno być konsultowane z aktualnymi zaleceniami MSZ. Jeśli jednak zdecydujesz się na wizytę, jest to szansa na doświadczenie afrykańskiej dziczy w jej naturalnym środowisku."
+      ],
+      "highlights": [
+        "Obserwacja dzikich zwierząt",
+        "Afrykańska sawanna",
+        "Bogactwo gatunków ptaków",
+        "Część kompleksu W-Arly-Pendjari"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wielki Meczet w Bobo-Dioulasso",
+      "text": "Imponujący gliniany meczet zbudowany w stylu sudańskim, będący perłą architektury zachodnioafrykańskiej.",
+      "gygQuery": "Grand Mosque Bobo-Dioulasso"
+    },
+    {
+      "name": "Narodowe Muzeum Burkina Faso",
+      "text": "Muzeum w Wagadugu prezentujące bogactwo kulturowe i historyczne kraju, w tym maski, rzeźby i tradycyjne stroje.",
+      "gygQuery": "National Museum of Burkina Faso"
+    },
+    {
+      "name": "Piki Sindou",
+      "text": "Unikalne formacje skalne, przypominające wieże i grzyby, które są ważnym miejscem kultu lokalnych społeczności.",
+      "gygQuery": "Sindou Peaks"
+    },
+    {
+      "name": "Pałac Moro-Naba",
+      "text": "Siedziba tradycyjnego władcy Mossi w Wagadugu, gdzie odbywają się cotygodniowe ceremonie Moro-Naba.",
+      "gygQuery": "Moro-Naba Palace Ouagadougou"
+    },
+    {
+      "name": "Park Narodowy W",
+      "text": "Transgraniczny park obejmujący część Burkina Faso, znany z różnorodności biologicznej i możliwości safari.",
+      "gygQuery": "W National Park Burkina Faso"
+    },
+    {
+      "name": "Muzeum Muzyki w Wagadugu",
+      "text": "Instytucja poświęcona bogatej tradycji muzycznej Burkina Faso, prezentująca instrumenty i historię muzyki.",
+      "gygQuery": "National Music Museum Ouagadougou"
+    },
+    {
+      "name": "Wielki Meczet w Wagadugu",
+      "text": "Główny meczet stolicy, ważny ośrodek religijny i architektoniczny punkt orientacyjny.",
+      "gygQuery": "Grand Mosque Ouagadougou"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Burkina Faso opiera się na prostych, pożywnych składnikach, takich jak proso, ryż, kukurydza i sorgo. Podstawą wielu dań jest 'tô', gęsta pasta z mąki zbożowej, podawana z różnymi sosami - często z orzeszków ziemnych, liści baobabu czy okry. Popularne są również ryż z sosami, fasola, słodkie ziemniaki oraz grillowane mięsa, zwłaszcza kurczak i koźlina. Warto spróbować 'brochettes' (szaszłyków) i 'bissap' (napoju z hibiskusa). Jedzenie jest często pikantne, a posiłki spożywa się zazwyczaj rękami, co jest częścią lokalnego doświadczenia."
+  ],
+  "faq": [
+    {
+      "q": "Czy Burkina Faso jest bezpieczne dla turystów?",
+      "a": "Sytuacja bezpieczeństwa w Burkina Faso jest niestabilna, a ryzyko ataków terrorystycznych i porwań jest wysokie, szczególnie poza dużymi miastami. Polskie MSZ odradza podróże do wielu regionów. Zawsze sprawdź aktualne ostrzeżenia MSZ przed wyjazdem."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do Burkina Faso?",
+      "a": "Obywatele Polski potrzebują wizy, którą należy uzyskać w placówce dyplomatycznej Burkina Faso przed wyjazdem. Paszport musi być ważny co najmniej 6 miesięcy. Wymagane jest również świadectwo szczepienia przeciw żółtej febrze."
+    },
+    {
+      "q": "Jaka jest waluta i jak płacić w Burkina Faso?",
+      "a": "Walutą jest frank CFA Zachodnioafrykański (XOF). Płatności kartą są rzadkie, dlatego zaleca się posiadanie gotówki. Bankomaty są dostępne w większych miastach, ale ich działanie bywa niepewne."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Burkina Faso?",
+      "a": "Najlepszy czas na podróż to sucha i chłodniejsza pora roku, od listopada do lutego. Temperatury są wtedy bardziej znośne, a warunki do zwiedzania sprzyjające. Unikaj pory deszczowej (czerwiec-wrzesień)."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

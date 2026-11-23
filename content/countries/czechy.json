@@ -1,0 +1,214 @@
+{
+  "slug": "czechy",
+  "loc": "w Czechach",
+  "to": "do Czech",
+  "capital": "Praga",
+  "popularity": 55,
+  "touroperator": false,
+  "gygQuery": "Czech Republic",
+  "teaser": "Czechy to bliski i niezwykle różnorodny kraj, idealny na weekendowy wypad, city break czy dłuższe wakacje pełne historii, piwa i górskich wędrówek.",
+  "intro": [
+    "Czechy, nasz południowy sąsiad, to kierunek, który oferuje znacznie więcej niż tylko słynną Pragę. Kraj ten kusi bogatą historią, malowniczymi zamkami i pałacami, urokliwymi miasteczkami oraz pięknymi krajobrazami górskimi i skalnymi miastami. To także raj dla miłośników piwa, które jest tu nie tylko napojem, ale wręcz elementem narodowej kultury. Niezależnie od tego, czy szukasz aktywnego wypoczynku, czy spokojnego zwiedzania, Czechy mają coś do zaoferowania.",
+    "Kraj ten jest idealny dla szerokiego grona turystów - od rodzin z dziećmi, przez pary szukające romantycznych zakątków, po grupy przyjaciół planujących city break. Miłośnicy historii i architektury znajdą tu setki zabytków, a entuzjaści natury docenią dobrze oznakowane szlaki turystyczne w górach i parkach narodowych. Czeska gościnność i przystępne ceny sprawiają, że to doskonały wybór na każdą kieszeń i każdą porę roku.",
+    "Podróż z Polski do Czech jest wyjątkowo łatwa i szybka. Wielu Polaków wybiera dojazd samochodem, co pozwala na elastyczne planowanie trasy i zwiedzanie mniejszych miejscowości. Dostępne są również połączenia kolejowe i autobusowe, które oferują komfortową podróż do większych miast. Bezpośrednie loty do Pragi z kilku polskich miast trwają zaledwie około godziny, co czyni stolicę Czech idealnym celem na krótki, intensywny wypad."
+  ],
+  "highlights": [
+    "Zabytkowa Praga z Mostem Karola",
+    "Bajkowy Czeski Krumlov",
+    "Piwne szlaki i browary rzemieślnicze",
+    "Malownicze skalne miasta",
+    "Winiarskie regiony Moraw",
+    "Aktywny wypoczynek w Karkonoszach"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na zwiedzanie Czech to wiosna (kwiecień-maj) oraz wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy turystów mniejsze. Lato (czerwiec-sierpień) sprzyja aktywnościom na świeżym powietrzu i festiwalom, choć bywa upalne. Zimą (grudzień-marzec) Czechy oferują dobre warunki do narciarstwa, zwłaszcza w Karkonoszach, a miasta urzekają świątecznym klimatem.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      6,
+      7,
+      8,
+      11,
+      12,
+      1,
+      2,
+      3
+    ]
+  },
+  "climate": {
+    "air": [
+      2,
+      4,
+      9,
+      15,
+      19,
+      22,
+      25,
+      24,
+      19,
+      13,
+      6,
+      3
+    ],
+    "sea": null,
+    "note": "Praga"
+  },
+  "practical": {
+    "flight": "Bezpośrednie loty z Polski do Pragi trwają około 1 godziny; dojazd samochodem lub pociągiem zajmuje od kilku do kilkunastu godzin.",
+    "timeDiff": "brak",
+    "documents": "Obywatele Polski mogą wjechać na teren Czech na podstawie ważnego dowodu osobistego lub paszportu. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronie Ministerstwa Spraw Zagranicznych.",
+    "money": "Walutą jest korona czeska (CZK). Płatności kartą są powszechne, zwłaszcza w większych miastach i turystycznych miejscowościach. Warto mieć przy sobie trochę gotówki na mniejsze wydatki.",
+    "plugs": "Gniazdka elektryczne są takie same jak w Polsce (typ E), więc nie potrzeba żadnych adapterów.",
+    "language": "Oficjalnym językiem jest czeski. W miejscowościach turystycznych oraz wśród młodzieży można porozumieć się po angielsku. Wielu Czechów rozumie także podstawowe zwroty po polsku, zwłaszcza w regionach przygranicznych.",
+    "safety": "Czechy to kraj bezpieczny dla turystów. Należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach, chroniąc się przed kieszonkowcami. Nie ma szczególnych zagrożeń zdrowotnych, a opieka medyczna jest na dobrym poziomie."
+  },
+  "regions": [
+    {
+      "slug": "praga",
+      "name": "Praga",
+      "loc": "w Pradze",
+      "type": "miasto",
+      "gygQuery": "Prague",
+      "airport": "PRG",
+      "forWhom": "Idealna na city break, dla miłośników historii, architektury i kultury.",
+      "intro": [
+        "Stolica Czech, Praga, to jedno z najpiękniejszych miast Europy, nazywana 'Złotym Miastem' lub 'Miastem Stu Wież'. Jej zabytkowe centrum, wpisane na listę UNESCO, zachwyca gotyckimi katedrami, barokowymi pałacami i urokliwymi uliczkami. Most Karola, Hradczany z Katedrą św. Wita i Rynek Staromiejski z zegarem astronomicznym to tylko niektóre z ikonicznych miejsc, które trzeba zobaczyć.",
+        "Praga oferuje także bogate życie kulturalne z licznymi teatrami, galeriami i muzeami. Wieczorami miasto tętni życiem w klimatycznych piwiarniach i restauracjach serwujących tradycyjną czeską kuchnię. Można tu spędzić weekend, ale i tydzień, nie nudząc się ani przez chwilę, odkrywając kolejne urokliwe zakątki."
+      ],
+      "highlights": [
+        "Most Karola i widoki na Wełtawę",
+        "Hradczany i Katedra św. Wita",
+        "Rynek Staromiejski z zegarem astronomicznym",
+        "Klimatyczne piwiarnie i restauracje"
+      ]
+    },
+    {
+      "slug": "morawy",
+      "name": "Morawy",
+      "loc": "na Morawach",
+      "type": "region",
+      "gygQuery": "Moravia",
+      "airport": "BRQ",
+      "forWhom": "Dla miłośników wina, spokojnego wypoczynku, rowerowych wycieczek i folkloru.",
+      "intro": [
+        "Morawy to wschodnia część Czech, słynąca z malowniczych krajobrazów, winnic i bogatej tradycji winiarskiej. To idealne miejsce na degustację lokalnych win, zwiedzanie piwniczek i podziwianie urokliwych miasteczek, takich jak Mikulov czy Znojmo. Stolicą regionu jest Brno, dynamiczne miasto z ciekawą architekturą i studencką atmosferą.",
+        "Region oferuje wiele szlaków rowerowych wijących się wśród winnic i pól, a także liczne zamki i pałace, w tym kompleks Lednicko-Valticki, wpisany na listę UNESCO. Morawy to także region o silnych tradycjach folklorystycznych, które można podziwiać podczas lokalnych festynów i uroczystości."
+      ],
+      "highlights": [
+        "Degustacje wina w winnicach",
+        "Kompleks Lednicko-Valticki",
+        "Miasto Brno i jego zabytki",
+        "Rowerowe szlaki wśród winnic"
+      ]
+    },
+    {
+      "slug": "poludniowe-czechy",
+      "name": "Południowe Czechy",
+      "loc": "w Południowych Czechach",
+      "type": "region",
+      "gygQuery": "South Bohemia",
+      "airport": "PRG",
+      "forWhom": "Dla szukających bajkowych miasteczek, zamków i dziewiczej przyrody.",
+      "intro": [
+        "Południowe Czechy to kraina pełna bajkowych miasteczek, rozległych lasów i setek stawów. Największą perłą regionu jest Czeski Krumlov, miasto wpisane na listę UNESCO, z imponującym zamkiem i malowniczo położonym Starym Miastem nad Wełtawą. To miejsce, które przenosi w czasie i zachwyca na każdym kroku.",
+        "Region oferuje także inne urokliwe miejscowości, takie jak Czeskie Budziejowice z ich słynnym browarem Budweiser, czy Trebon z jego uzdrowiskowym charakterem. Miłośnicy natury znajdą tu Park Narodowy Szumawa, idealny do pieszych wędrówek i obserwacji dzikiej przyrody."
+      ],
+      "highlights": [
+        "Czeski Krumlov - perła UNESCO",
+        "Zamek Hluboká nad Vltavou",
+        "Czeskie Budziejowice i browar Budweiser",
+        "Park Narodowy Szumawa"
+      ]
+    },
+    {
+      "slug": "czeska-szwajcaria",
+      "name": "Czeska Szwajcaria",
+      "loc": "w Czeskiej Szwajcarii",
+      "type": "park narodowy",
+      "gygQuery": "Bohemian Switzerland",
+      "airport": "PRG",
+      "forWhom": "Dla miłośników pieszych wędrówek, niezwykłych formacji skalnych i kontaktu z naturą.",
+      "intro": [
+        "Park Narodowy Czeska Szwajcaria to unikalny region na północy Czech, słynący z zapierających dech w piersiach formacji skalnych, głębokich wąwozów i malowniczych dolin rzecznych. Jego największą atrakcją jest Brama Pravčicka, największy naturalny most skalny w Europie, symbol regionu. Liczne szlaki turystyczne prowadzą przez lasy i skalne labirynty, oferując niezapomniane widoki.",
+        "Oprócz pieszych wędrówek, można tu wybrać się na rejs łodzią po wąwozach rzeki Kamenice, co stanowi dodatkową atrakcję. Czeska Szwajcaria to idealne miejsce na aktywny wypoczynek, zarówno dla rodzin, jak i dla doświadczonych piechurów, poszukujących bliskości z naturą i spektakularnych krajobrazów."
+      ],
+      "highlights": [
+        "Brama Pravčicka - naturalny most skalny",
+        "Wąwozy rzeki Kamenice i rejs łodzią",
+        "Szlaki turystyczne wśród skał",
+        "Malownicze widoki i punkty obserwacyjne"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Most Karola w Pradze",
+      "text": "Jeden z najsłynniejszych mostów Europy, łączący Stare Miasto z Małą Straną, ozdobiony barokowymi rzeźbami i oferujący niezapomniane widoki na Hradczany.",
+      "gygQuery": "Charles Bridge Prague"
+    },
+    {
+      "name": "Hradczany i Katedra św. Wita",
+      "text": "Kompleks zamkowy na wzgórzu, będący historyczną siedzibą królów Czech, z monumentalną Katedrą św. Wita, której budowa trwała setki lat.",
+      "gygQuery": "Prague Castle St Vitus Cathedral"
+    },
+    {
+      "name": "Rynek Staromiejski w Pradze",
+      "text": "Serce Starego Miasta, otoczone historycznymi kamienicami, z Ratuszem Staromiejskim i słynnym zegarem astronomicznym, który co godzinę ożywa figurami apostołów.",
+      "gygQuery": "Old Town Square Prague Astronomical Clock"
+    },
+    {
+      "name": "Czeski Krumlov",
+      "text": "Bajkowe miasteczko wpisane na listę UNESCO, z imponującym zamkiem i malowniczo położonym Starym Miastem, otoczonym zakolem Wełtawy.",
+      "gygQuery": "Cesky Krumlov"
+    },
+    {
+      "name": "Skały Adrszpasko-Teplickie",
+      "text": "Niezwykłe skalne miasta na północy Czech, oferujące labirynty piaskowcowych formacji, wąwozy i punkty widokowe, idealne na piesze wędrówki.",
+      "gygQuery": "Adrspach Teplice Rocks"
+    },
+    {
+      "name": "Kutná Hora - Katedra św. Barbary i Kaplica Czaszek",
+      "text": "Historyczne miasto górnicze, słynące z majestatycznej Katedry św. Barbary i unikalnej Kaplicy Czaszek w Sedlcu, ozdobionej tysiącami ludzkich kości.",
+      "gygQuery": "Kutna Hora St Barbara Church Bone Chapel"
+    },
+    {
+      "name": "Brama Pravčicka w Czeskiej Szwajcarii",
+      "text": "Największy naturalny most skalny w Europie, ikona Parku Narodowego Czeska Szwajcaria, oferujący spektakularne widoki na okoliczne formacje piaskowcowe.",
+      "gygQuery": "Pravcicka Gate Bohemian Switzerland"
+    },
+    {
+      "name": "Kompleks Lednicko-Valticki",
+      "text": "Rozległy obszar krajobrazowy na Morawach, wpisany na listę UNESCO, łączący dwa imponujące pałace z rozległymi ogrodami, stawami i romantycznymi budowlami.",
+      "gygQuery": "Lednice Valtice Cultural Landscape"
+    }
+  ],
+  "cuisine": "Czeska kuchnia jest sycąca i smaczna, często oparta na mięsie, ziemniakach i mącznych dodatkach. Królują tu knedliki, podawane z gulaszem, pieczoną wieprzowiną (vepřo-knedlo-zelo) czy pieczoną kaczką. Popularne są także smažený sýr, czyli smażony ser, oraz utopence - marynowane kiełbaski. Na deser warto spróbować trdelníka, słodkiego ciasta pieczonego na rożnie. Nie można zapomnieć o czeskim piwie, które jest narodowym napojem i dumnie reprezentuje kraj na całym świecie, od Pilsnera po lokalne browary rzemieślnicze.",
+  "faq": [
+    {
+      "q": "Co warto zobaczyć w Czechach poza Pragą?",
+      "a": "Poza Pragą warto odwiedzić bajkowy Czeski Krumlov, skalne miasta Adrszpasko-Teplickie, winnice Moraw, Park Narodowy Czeska Szwajcaria z Bramą Pravčicką oraz historyczne miasto Kutná Hora."
+    },
+    {
+      "q": "Czy w Czechach można płacić w euro?",
+      "a": "Oficjalną walutą jest korona czeska (CZK). W niektórych miejscach turystycznych, zwłaszcza w Pradze i przy granicy, można zapłacić w euro, ale reszta zazwyczaj wydawana jest w koronach. Kurs przeliczeniowy może być niekorzystny, dlatego najlepiej płacić w CZK lub kartą."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Czech?",
+      "a": "Obywatele Polski mogą wjechać na teren Czech na podstawie ważnego dowodu osobistego lub paszportu. Czechy są częścią Strefy Schengen, więc kontrola graniczna jest minimalna lub jej brak."
+    },
+    {
+      "q": "Czy Czechy są bezpieczne dla turystów?",
+      "a": "Czechy to kraj bezpieczny dla turystów. Należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach, chroniąc się przed kieszonkowcami. Nie ma szczególnych zagrożeń zdrowotnych."
+    },
+    {
+      "q": "Czy czeski jest trudny do zrozumienia dla Polaka?",
+      "a": "Czeski i polski to języki słowiańskie, więc wiele słów brzmi podobnie lub ma wspólne korzenie, co ułatwia podstawową komunikację. Jednak istnieją też 'fałszywi przyjaciele', czyli słowa brzmiące podobnie, ale oznaczające co innego, np. 'owoce' to 'zelenina' (warzywa)."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

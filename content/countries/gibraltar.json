@@ -1,0 +1,188 @@
+{
+  "slug": "gibraltar",
+  "loc": "na Gibraltarze",
+  "to": "na Gibraltar",
+  "capital": "Gibraltar",
+  "popularity": 20,
+  "touroperator": false,
+  "gygQuery": "Gibraltar",
+  "teaser": "Gibraltar to kawałek Wielkiej Brytanii nad Morzem Śródziemnym. Słynna Skała Gibraltarska, figlarne małpy i bogata historia czekają na odkrycie.",
+  "intro": [
+    "Gibraltar, choć niewielki, oferuje unikalne połączenie brytyjskiej kultury, śródziemnomorskiego klimatu i fascynującej historii. Dominująca nad okolicą Skała Gibraltarska, będąca domem dla jedynych wolno żyjących małp w Europie, jest wizytówką tego miejsca. Oprócz przyrody, Gibraltar to także labirynt tuneli, jaskiń i punktów widokowych, które świadczą o jego strategicznym znaczeniu.",
+    "To idealne miejsce na krótki, intensywny wypad dla podróżników szukających czegoś więcej niż tylko plażowania. Miłośnicy historii, militariów, geologii i przyrody znajdą tu coś dla siebie. Brytyjska atmosfera, sklepy wolnocłowe i hiszpańskie wpływy tworzą intrygującą mieszankę, która zaskakuje na każdym kroku. Gibraltar to świetna opcja na przedłużony weekend lub jako przystanek podczas podróży po Andaluzji.",
+    "Z Polski na Gibraltar nie ma bezpośrednich lotów. Najczęściej podróżuje się z przesiadką, zazwyczaj w Wielkiej Brytanii (np. Londyn) lub w Hiszpanii (np. Malaga). Z Malagi można dojechać autobusem lub wynajętym samochodem do granicy z Gibraltarem, a następnie przejść pieszo lub skorzystać z lokalnego transportu. Przejście graniczne jest proste, a dla obywateli Polski wystarczy dowód osobisty."
+  ],
+  "highlights": [
+    "Skała Gibraltarska i jej panoramiczne widoki",
+    "Małpy Berberyjskie - jedyne w Europie",
+    "Jaskinia św. Michała z niezwykłymi formacjami",
+    "Tunele Wielkiego Oblężenia - świadectwo historii",
+    "Europa Point z latarnią i meczetem",
+    "Main Street z brytyjskimi sklepami i pubami"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Gibraltarze to wiosna (kwiecień-maj) i jesień (wrzesień-październik). Temperatury są wtedy przyjemne, idealne do zwiedzania i wędrówek, a tłumy turystów mniejsze niż w szczycie sezonu. Lato (lipiec-sierpień) bywa bardzo upalne, ale to dobry okres dla tych, którzy lubią słońce i kąpiele morskie. Zimą panują łagodne temperatury, choć mogą zdarzyć się deszcze.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      7,
+      8,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      16,
+      16,
+      18,
+      20,
+      23,
+      26,
+      29,
+      29,
+      26,
+      23,
+      19,
+      17
+    ],
+    "sea": [
+      16,
+      15,
+      16,
+      17,
+      19,
+      22,
+      23,
+      23,
+      22,
+      20,
+      18,
+      16
+    ],
+    "note": "Gibraltar"
+  },
+  "practical": {
+    "flight": "około 4-6 h z przesiadką, często przez Wielką Brytanię lub Hiszpanię",
+    "timeDiff": "Brak różnicy czasu",
+    "documents": "Obywatele Polski mogą wjechać na Gibraltar na podstawie ważnego dowodu osobistego lub paszportu. Zaleca się sprawdzenie aktualnych wymogów przed wyjazdem.",
+    "money": "Walutą jest funt gibraltarski (GIP), który jest powiązany z funtem szterlingiem (GBP) w stosunku 1:1. Płatności kartą są powszechne, a w wielu miejscach akceptowane są również euro.",
+    "plugs": "Typ G (brytyjski standard, trzy prostokątne bolce). Warto zabrać adapter.",
+    "language": "Oficjalnym językiem jest angielski, ale ze względu na bliskość Hiszpanii, hiszpański jest również szeroko używany.",
+    "safety": "Gibraltar jest ogólnie bezpiecznym miejscem. Należy zachować standardowe środki ostrożności, zwłaszcza w zatłoczonych miejscach. Opieka medyczna jest na dobrym poziomie, ale przed wyjazdem warto wykupić ubezpieczenie turystyczne."
+  },
+  "regions": [
+    {
+      "slug": "gorna-skala",
+      "name": "Górna Skała (Upper Rock Nature Reserve)",
+      "loc": "na Górnej Skale",
+      "type": "region/park narodowy",
+      "gygQuery": "Gibraltar Upper Rock",
+      "airport": "GIB",
+      "forWhom": "Idealne miejsce dla miłośników przyrody, historii i zapierających dech w piersiach widoków.",
+      "intro": [
+        "Górna Skała to serce Gibraltaru, obszar chroniony, który kryje większość najważniejszych atrakcji. To tutaj spotkasz słynne małpy Berberyjskie, które swobodnie wędrują po zboczach. Możesz wjechać na szczyt kolejką linową, co samo w sobie jest już atrakcją, oferującą spektakularne widoki na Cieśninę Gibraltarską.",
+        "Oprócz małp, na Górnej Skale znajdują się historyczne fortyfikacje, takie jak Tunele Wielkiego Oblężenia, oraz przepiękna Jaskinia św. Michała, która często służy jako sala koncertowa. To także dom dla wielu rzadkich gatunków roślin i ptaków, co czyni ten obszar rajem dla obserwatorów przyrody i fotografów."
+      ],
+      "highlights": [
+        "Małpy Berberyjskie w ich naturalnym środowisku",
+        "Jaskinia św. Michała z imponującymi stalaktytami",
+        "Tunele Wielkiego Oblężenia z historią w tle",
+        "Kolejka linowa z panoramicznymi widokami"
+      ]
+    },
+    {
+      "slug": "centrum-miasta",
+      "name": "Centrum Miasta i Main Street",
+      "loc": "w Centrum Miasta",
+      "type": "miasto",
+      "gygQuery": "Gibraltar Main Street",
+      "airport": "GIB",
+      "forWhom": "Dla tych, którzy szukają brytyjskiej atmosfery, zakupów i lokalnej gastronomii.",
+      "intro": [
+        "Centrum miasta Gibraltar to tętniące życiem serce terytorium, gdzie brytyjskie wpływy są najbardziej widoczne. Główna ulica, Main Street, to raj dla miłośników zakupów wolnocłowych, oferująca szeroki wybór towarów, od elektroniki po biżuterię. Znajdziesz tu również liczne brytyjskie puby, kawiarnie i restauracje serwujące dania kuchni lokalnej i międzynarodowej.",
+        "Spacerując po ulicach, można podziwiać kolonialną architekturę, odwiedzić Katedrę Św. Marii Koronowanej czy Muzeum Gibraltarskie, które przybliża bogatą historię Skały. Casemates Square, niegdyś miejsce publicznych egzekucji, dziś jest popularnym placem pełnym restauracji i barów, idealnym na wieczorne wyjście."
+      ],
+      "highlights": [
+        "Zakupy wolnocłowe na Main Street",
+        "Casemates Square z restauracjami i barami",
+        "Katedra Św. Marii Koronowanej",
+        "Gibraltar Museum z historią Skały"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Skała Gibraltarska (The Rock)",
+      "text": "Symbol Gibraltaru, oferujący spektakularne widoki na Cieśninę Gibraltarską, Hiszpanię i Afrykę. To także dom dla słynnych małp Berberyjskich.",
+      "gygQuery": "Rock of Gibraltar"
+    },
+    {
+      "name": "Małpy Berberyjskie (Barbary Macaques)",
+      "text": "Jedyne wolno żyjące małpy w Europie, zamieszkujące Górną Skałę. Są ciekawskie, ale należy zachować ostrożność i nie karmić ich.",
+      "gygQuery": "Barbary Macaques Gibraltar"
+    },
+    {
+      "name": "Jaskinia św. Michała (St. Michael's Cave)",
+      "text": "Imponująca jaskinia krasowa z tysiącami stalaktytów i stalagmitów, często wykorzystywana jako niezwykła sala koncertowa.",
+      "gygQuery": "St Michael's Cave"
+    },
+    {
+      "name": "Tunele Wielkiego Oblężenia (Great Siege Tunnels)",
+      "text": "System tuneli wykutych w skale podczas Wielkiego Oblężenia w XVIII wieku. Stanowią fascynującą lekcję historii militarnej.",
+      "gygQuery": "Great Siege Tunnels"
+    },
+    {
+      "name": "Europa Point",
+      "text": "Najbardziej wysunięty na południe punkt Gibraltaru, z latarnią morską, meczetem Ibrahim-al-Ibrahim i widokami na Afrykę Północną.",
+      "gygQuery": "Europa Point Gibraltar"
+    },
+    {
+      "name": "Main Street",
+      "text": "Główna ulica handlowa Gibraltaru, pełna sklepów wolnocłowych, pubów i kawiarni, idealna na zakupy i spacer w brytyjskim stylu.",
+      "gygQuery": "Main Street Gibraltar"
+    },
+    {
+      "name": "Zamek Maurów (Moorish Castle)",
+      "text": "Średniowieczna fortyfikacja, której początki sięgają VIII wieku. Składa się z Wieży Hołdu i Bramy, oferując historyczny wgląd w przeszłość Gibraltaru.",
+      "gygQuery": "Moorish Castle Gibraltar"
+    },
+    {
+      "name": "Ogrody Botaniczne Alameda (Gibraltar Botanic Gardens)",
+      "text": "Spokojna oaza zieleni w sercu miasta, założona w 1816 roku. Idealne miejsce na relaks wśród egzotycznej roślinności.",
+      "gygQuery": "Gibraltar Botanic Gardens"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia gibraltarska to interesująca mieszanka wpływów brytyjskich, hiszpańskich i śródziemnomorskich. Znajdziesz tu tradycyjne brytyjskie puby serwujące fish and chips czy Sunday roast, obok hiszpańskich tapas i dań z owoców morza. Warto spróbować lokalnych specjałów, takich jak calentita (rodzaj placka z ciecierzycy), rolitos (roladki mięsne) czy pasteles (ciasta z mięsem). Ze względu na położenie, świeże owoce morza są zawsze dobrym wyborem. Nie brakuje też międzynarodowych restauracji."
+  ],
+  "faq": [
+    {
+      "q": "Jak dojechać na Gibraltar z Polski?",
+      "a": "Z Polski na Gibraltar nie ma bezpośrednich lotów. Najczęściej podróżuje się z przesiadką w Wielkiej Brytanii lub Hiszpanii, a następnie transportem lądowym (np. z Malagi) do granicy."
+    },
+    {
+      "q": "Czy na Gibraltarze potrzebna jest wiza dla Polaków?",
+      "a": "Nie, obywatele Polski mogą wjechać na Gibraltar na podstawie ważnego dowodu osobistego lub paszportu. Wiza nie jest wymagana."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Gibraltarze?",
+      "a": "Oficjalną walutą jest funt gibraltarski (GIP), który jest powiązany z funtem szterlingiem (GBP) w stosunku 1:1. W wielu miejscach akceptowane są również euro."
+    },
+    {
+      "q": "Czy Gibraltar jest bezpieczny dla turystów?",
+      "a": "Tak, Gibraltar jest uważany za bezpieczne miejsce dla turystów. Należy jednak zawsze zachować podstawowe środki ostrożności, zwłaszcza w miejscach publicznych."
+    },
+    {
+      "q": "Co warto zobaczyć na Gibraltarze w jeden dzień?",
+      "a": "W jeden dzień warto skupić się na Górnej Skale (kolejka linowa, małpy, Jaskinia św. Michała, Tunele Wielkiego Oblężenia) oraz na spacerze po Main Street i Casemates Square."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "grenada",
+  "loc": "na Grenadzie",
+  "to": "na Grenadę",
+  "capital": "St. George's",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Grenada",
+  "teaser": "Grenada to karaibska wyspa przypraw, z pięknymi plażami, bujną roślinnością i relaksującą atmosferą. Idealna dla poszukujących autentycznych wrażeń.",
+  "intro": [
+    "Grenada, często nazywana „Wyspą Przypraw”, kusi podróżnych aromatem gałki muszkatołowej, cynamonu i goździków unoszącym się w powietrzu. To miejsce, gdzie góry wulkaniczne pokryte lasami deszczowymi spotykają się z lazurowymi wodami Morza Karaibskiego, oferując spektakularne widoki i niezliczone możliwości aktywnego wypoczynku. Znajdziesz tu zarówno tętniące życiem rynki, jak i spokojne, ukryte zatoczki, które sprzyjają ucieczce od zgiełku. Autentyczność i ciepło mieszkańców sprawiają, że Grenada to idealny wybór dla tych, którzy pragną prawdziwie karaibskiego doświadczenia, z dala od masowej turystyki.",
+    "Kraj ten jest doskonały dla osób ceniących sobie spokój, kontakt z naturą i lokalną kulturą, a także dla miłośników nurkowania i snorkelingu, dzięki bogatemu podwodnemu światu i słynnemu podwodnemu parkowi rzeźb. Pary szukające romantycznego ucieczki, jak i rodziny pragnące spokojnego wypoczynku, znajdą tu coś dla siebie. Mimo że Grenada nie jest typowym kierunkiem dla masowej turystyki, oferuje komfortowe warunki i dobrze rozwiniętą infrastrukturę turystyczną, szczególnie w okolicach stolicy i głównych plaż. To idealne miejsce, aby zwolnić tempo i zanurzyć się w karaibskim rytmie życia.",
+    "Podróż z Polski na Grenadę wymaga zazwyczaj co najmniej dwóch przesiadek, najczęściej w dużych europejskich hubach, takich jak Londyn czy Amsterdam, a następnie w Ameryce Północnej lub na innej karaibskiej wyspie. Całkowity czas lotu, wraz z przesiadkami, wynosi zwykle od 15 do 20 godzin, co sprawia, że jest to długa, ale warta wysiłku wyprawa. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni, wystarczy ważny paszport. Przygotuj się na tropikalny klimat i serdeczność lokalnych mieszkańców, którzy chętnie dzielą się swoją kulturą i historią z przyjezdnymi."
+  ],
+  "highlights": [
+    "Odpoczynek na plaży Grand Anse",
+    "Zwiedzanie stolicy St. George's",
+    "Nurkowanie w podwodnym parku rzeźb",
+    "Wędrówki po Parku Narodowym Grand Etang",
+    "Degustacja przypraw i lokalnej czekolady",
+    "Rejs na sąsiednie wyspy Carriacou"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Grenady to sucha pora, która trwa od stycznia do maja. W tym okresie panują słoneczne dni, niższa wilgotność i przyjemne temperatury, co sprzyja plażowaniu, nurkowaniu i zwiedzaniu. Pora deszczowa, od czerwca do grudnia, charakteryzuje się wyższą wilgotnością i częstszymi, choć zazwyczaj krótkimi, opadami deszczu, a także ryzykiem huraganów, zwłaszcza od sierpnia do października.",
+    "best": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      12,
+      6
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      29,
+      30,
+      30,
+      30,
+      30,
+      30,
+      31,
+      30,
+      29,
+      29
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      29,
+      28,
+      28,
+      28
+    ],
+    "note": "dla St. George's"
+  },
+  "practical": {
+    "flight": "około 15-20 h z co najmniej dwoma przesiadkami",
+    "timeDiff": "5 lub 6 godzin wstecz względem Polski",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu. Wiza nie jest wymagana na pobyty turystyczne do 90 dni. Zawsze zalecamy sprawdzenie aktualnych wymagań wizowych przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest dolar wschodniokaraibski (XCD), ale dolary amerykańskie (USD) są powszechnie akceptowane. Karty kredytowe są akceptowane w hotelach i większych sklepach, ale warto mieć gotówkę na mniejsze zakupy i lokalne targi.",
+    "plugs": "Typ G (brytyjski standard), wymagany adapter. Napięcie 230V, częstotliwość 50Hz.",
+    "language": "Angielski",
+    "safety": "Grenada jest generalnie bezpiecznym krajem. Należy zachować podstawowe środki ostrożności, takie jak unikanie samotnych spacerów po zmroku i dbanie o swoje wartościowe przedmioty. Opieka medyczna jest dostępna, ale w przypadku poważniejszych problemów zdrowotnych może być konieczna ewakuacja medyczna, dlatego zalecane jest posiadanie kompleksowego ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "grenada-wyspa-glowna",
+      "name": "Grenada (wyspa główna)",
+      "loc": "na Grenadzie",
+      "type": "wyspa",
+      "gygQuery": "Grenada island",
+      "airport": "GND",
+      "forWhom": "Dla tych, którzy szukają połączenia pięknych plaż, bujnej przyrody i lokalnej kultury.",
+      "intro": [
+        "Wyspa Grenada to serce kraju, oferujące największą różnorodność atrakcji. Znajdziesz tu stolicę St. George's z malowniczym portem Carenage, kolorowymi domkami i historycznymi fortami. To idealne miejsce na spacer, zakupy na lokalnym targu i spróbowanie świeżych owoców morza. Wyspa słynie z plantacji przypraw, gdzie można poznać proces produkcji gałki muszkatołowej i innych aromatycznych skarbów, a także z destylarni rumu, które oferują degustacje.",
+        "Poza stolicą, Grenada zachwyca Parkiem Narodowym Grand Etang z jeziorem wulkanicznym, wodospadami (takimi jak Concord Falls) i licznymi szlakami turystycznymi, które prowadzą przez lasy deszczowe pełne egzotycznych ptaków i małp. Zachodnie wybrzeże to dom dla słynnej plaży Grand Anse, uznawanej za jedną z najpiękniejszych na Karaibach, idealnej do relaksu i sportów wodnych. Podwodne ogrody rzeźb w zatoce Molinere to obowiązkowy punkt dla nurków i snorkelingu."
+      ],
+      "highlights": [
+        "Plaża Grand Anse",
+        "Stolica St. George's i Carenage",
+        "Park Narodowy Grand Etang",
+        "Podwodny Park Rzeźb Molinere"
+      ]
+    },
+    {
+      "slug": "carriacou-i-petite-martinique",
+      "name": "Carriacou i Petite Martinique",
+      "loc": "na Carriacou i Petite Martinique",
+      "type": "wyspy",
+      "gygQuery": "Carriacou Petite Martinique",
+      "airport": "CRU",
+      "forWhom": "Idealne dla poszukujących ciszy, spokoju i autentycznego, nieskomercjalizowanego karaibskiego klimatu.",
+      "intro": [
+        "Carriacou, druga co do wielkości wyspa Grenady, oraz malutka Petite Martinique, to prawdziwe perełki dla tych, którzy pragną uciec od zgiełku i doświadczyć Karaibów w ich najbardziej autentycznej formie. Te wyspy, położone na północ od głównej Grenady, oferują spokojne plaże, krystalicznie czyste wody i poczucie, że czas zwalnia. Carriacou słynie z budowy łodzi, co jest ważnym elementem lokalnej kultury i tradycji. Można tu podziwiać rzemieślników pracujących nad drewnianymi konstrukcjami, a także uczestniczyć w lokalnych festiwalach.",
+        "Petite Martinique, najmniejsza zamieszkana wyspa w archipelagu, jest jeszcze bardziej odosobniona i oferuje prawdziwie wiejski styl życia. Obie wyspy są doskonałe do nurkowania, snorkelingu i żeglowania, z licznymi dziewiczymi rafami koralowymi i zatoczkami do odkrycia. Brak dużych kurortów i masowej turystyki sprawia, że Carriacou i Petite Martinique to idealne miejsca na prawdziwy relaks i zanurzenie się w lokalnej społeczności."
+      ],
+      "highlights": [
+        "Spokojne plaże i zatoczki",
+        "Tradycyjna budowa łodzi",
+        "Nurkowanie i snorkeling",
+        "Relaks w autentycznym otoczeniu"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Plaża Grand Anse",
+      "text": "Najsłynniejsza plaża Grenady, oferująca trzy kilometry białego piasku i spokojnych, turkusowych wód. Idealna do pływania, opalania i sportów wodnych, z licznymi barami i restauracjami wzdroż wybrzeża.",
+      "gygQuery": "Grand Anse Beach Grenada"
+    },
+    {
+      "name": "St. George's i Carenage",
+      "text": "Urocza stolica Grenady z kolorowymi domkami, historycznymi fortami i malowniczym portem Carenage. Warto przespacerować się wzdłuż nabrzeża, odwiedzić lokalny targ i poczuć karaibską atmosferę.",
+      "gygQuery": "St George's Carenage Grenada"
+    },
+    {
+      "name": "Podwodny Park Rzeźb Molinere",
+      "text": "Pierwszy na świecie podwodny park rzeźb, stworzony przez Jasona deCaires Taylora. To fascynujące miejsce dla nurków i snorkelingu, gdzie sztuka łączy się z naturą, tworząc nowe siedliska dla życia morskiego.",
+      "gygQuery": "Molinere Underwater Sculpture Park"
+    },
+    {
+      "name": "Park Narodowy Grand Etang",
+      "text": "Bujny las deszczowy otaczający jezioro wulkaniczne Grand Etang. Oferuje szlaki turystyczne, wodospady (np. Seven Sisters Falls) i możliwość obserwacji dzikiej przyrody, w tym małp gerez.",
+      "gygQuery": "Grand Etang National Park"
+    },
+    {
+      "name": "Fabryka Gałki Muszkatołowej Gouyave",
+      "text": "Wizyta w tej historycznej fabryce to okazja do poznania procesu przetwarzania gałki muszkatołowej, najważniejszej przyprawy Grenady. Można zobaczyć, jak orzechy są suszone, sortowane i pakowane.",
+      "gygQuery": "Gouyave Nutmeg Processing Station"
+    },
+    {
+      "name": "Wodospady Concord",
+      "text": "Seria pięknych wodospadów położonych w zachodniej części wyspy. Do pierwszego z nich łatwo dotrzeć, a dalsze wymagają krótkiej wędrówki przez las deszczowy. Idealne miejsce na orzeźwiającą kąpiel.",
+      "gygQuery": "Concord Falls Grenada"
+    },
+    {
+      "name": "Destylarnia Rumowa River Antoine",
+      "text": "Najstarsza działająca destylarnia rumu na Grenadzie, wykorzystująca tradycyjne metody napędzane kołem wodnym. Oferuje fascynujący wgląd w historię i produkcję rumu, z możliwością degustacji.",
+      "gygQuery": "River Antoine Rum Distillery"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Grenady to prawdziwa uczta dla zmysłów, bogata w świeże owoce morza, lokalne warzywa i oczywiście, przyprawy. Podstawą wielu dań jest gałka muszkatołowa, cynamon, goździki i imbir. Koniecznie spróbuj narodowego dania \"Oil Down\", gulaszu z solonej ryby lub mięsa, warzyw korzeniowych, klusek i mleka kokosowego, gotowanego w jednym garnku. Świeże ryby i owoce morza, takie jak homary, krewetki i conch, są dostępne wszędzie i często podawane z ryżem, groszkiem i lokalnymi sałatkami. Nie zapomnij spróbować lokalnych owoców, takich jak soursop, mango czy chlebowiec, a także świeżych soków i lokalnego rumu."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Grenady?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wystarczy ważny paszport. Zawsze zalecamy sprawdzenie aktualnych wymagań wizowych przed wyjazdem."
+    },
+    {
+      "q": "Jaka jest waluta w Grenadzie?",
+      "a": "Oficjalną walutą jest dolar wschodniokaraibski (XCD). Dolary amerykańskie (USD) są powszechnie akceptowane, zwłaszcza w miejscach turystycznych. Warto mieć gotówkę na mniejsze zakupy."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Grenady?",
+      "a": "Najlepszym okresem na podróż jest sucha pora, trwająca od stycznia do maja. Wtedy panują słoneczne dni, niższa wilgotność i przyjemne temperatury, idealne do zwiedzania i plażowania."
+    },
+    {
+      "q": "Jakie gniazdka elektryczne są na Grenadzie?",
+      "a": "Na Grenadzie używane są gniazdka typu G, czyli brytyjski standard. Konieczne będzie zabranie ze sobą adaptera. Napięcie wynosi 230V, a częstotliwość 50Hz."
+    },
+    {
+      "q": "Czy Grenada jest bezpieczna dla turystów?",
+      "a": "Grenada jest generalnie bezpiecznym krajem. Należy jednak zachować podstawowe środki ostrożności, takie jak dbanie o wartościowe przedmioty i unikanie samotnych spacerów po zmroku, zwłaszcza w mniej uczęszczanych miejscach."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

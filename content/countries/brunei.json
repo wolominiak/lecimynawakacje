@@ -1,0 +1,182 @@
+{
+  "slug": "brunei",
+  "loc": "w Brunei",
+  "to": "do Brunei",
+  "capital": "Bandar Seri Begawan",
+  "popularity": 7,
+  "touroperator": false,
+  "gygQuery": "Brunei",
+  "teaser": "Brunei to małe, bogate państwo na Borneo, oferujące unikalne połączenie islamskiej kultury, imponującej architektury i dziewiczej dżungli.",
+  "intro": [
+    "Brunei to sułtanat położony na wyspie Borneo, kraj niezwykle bogaty dzięki złożom ropy i gazu. Nie jest to typowy kierunek masowej turystyki, co czyni go atrakcyjnym dla podróżników szukających autentycznych doświadczeń i spokoju. Znajdziecie tu imponujące meczety, pałace i tradycyjne wioski na wodzie, kontrastujące z nowoczesną infrastrukturą. To idealne miejsce dla osób ceniących kulturę, historię oraz kontakt z dziewiczą przyrodą tropikalnej dżungli, bez tłumów.",
+    "Kraj przyciąga przede wszystkim swoją unikalną kulturą islamską, która jest głęboko zakorzeniona w codziennym życiu i widoczna w architekturze. Miłośnicy przyrody znajdą tu rozległe tereny lasów deszczowych, szczególnie w dystrykcie Temburong, gdzie można podziwiać bioróżnorodność Borneo. Brunei to także ciekawy przystanek dla tych, którzy podróżują po Azji Południowo-Wschodniej i chcą zobaczyć, jak wygląda życie w jednym z najbogatszych krajów świata, z dala od zgiełku popularnych kurortów.",
+    "Podróż z Polski do Brunei wymaga co najmniej jednej, a zazwyczaj dwóch przesiadek, najczęściej w dużych hubach lotniczych Azji, takich jak Dubaj, Singapur czy Kuala Lumpur. Całkowity czas lotu, wraz z przesiadkami, wynosi zazwyczaj około 15-20 godzin. Dla Polaków wjazd do Brunei jest bezwizowy na pobyty turystyczne do 90 dni, ale zawsze warto sprawdzić aktualne przepisy przed wyjazdem. Ze względu na brak bezpośrednich lotów i ofert biur podróży, podróż do Brunei organizuje się zazwyczaj samodzielnie."
+  ],
+  "highlights": [
+    "Meczet Sułtana Omara Alego Saifuddiena",
+    "Wioska na wodzie Kampong Ayer",
+    "Park Narodowy Ulu Temburong i Canopy Walk",
+    "Pałac Istana Nurul Iman",
+    "Muzeum Królewskich Regaliów",
+    "Luksusowe hotele i nowoczesna infrastruktura"
+  ],
+  "bestTime": {
+    "text": "Brunei leży w strefie klimatu równikowego, co oznacza, że jest gorąco i wilgotno przez cały rok. Pora sucha trwa od marca do października, charakteryzując się mniejszą ilością opadów i nieco przyjemniejszymi warunkami do zwiedzania. Pora deszczowa, od listopada do lutego, przynosi intensywniejsze, choć zazwyczaj krótkotrwałe ulewy. Mimo to, deszcz może padać o każdej porze roku. Najlepszy czas na wizytę to miesiące suche, gdy łatwiej jest eksplorować dżunglę i cieszyć się aktywnościami na świeżym powietrzu.",
+    "best": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      1,
+      2,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      31,
+      32,
+      33,
+      32,
+      32,
+      32,
+      32,
+      31,
+      31,
+      30,
+      30
+    ],
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "dla Bandar Seri Begawan"
+  },
+  "practical": {
+    "flight": "około 15-20 h z przesiadkami",
+    "timeDiff": "+7 h do Polski (czas letni), +6 h (czas zimowy)",
+    "documents": "Obywatele Polski mogą wjeżdżać do Brunei bez wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych i paszportowych przed podróżą w ambasadzie lub konsulacie.",
+    "money": "Walutą Brunei jest dolar brunejski (BND), który jest powiązany z dolarem singapurskim (SGD) w stosunku 1:1. Obie waluty są akceptowane w Brunei. Płatności kartą są powszechne w większych sklepach i hotelach, ale warto mieć przy sobie gotówkę na mniejsze zakupy i targi. Bankomaty są łatwo dostępne.",
+    "plugs": "Typy gniazdek G. Napięcie 240 V, częstotliwość 50 Hz. Potrzebna przejściówka.",
+    "language": "Oficjalnym językiem jest malajski. Angielski jest szeroko używany, szczególnie w biznesie i turystyce, więc komunikacja nie powinna stanowić problemu.",
+    "safety": "Brunei jest krajem bardzo bezpiecznym, z niskim wskaźnikiem przestępczości. Jest to konserwatywne państwo islamskie, więc należy szanować lokalne zwyczaje i ubiór, zwłaszcza podczas odwiedzania miejsc kultu. Spożywanie alkoholu jest ściśle ograniczone i nie jest dostępne w sprzedaży publicznej. Pamiętaj o piciu wody butelkowanej i ochronie przed komarami w rejonach dżungli."
+  },
+  "regions": [
+    {
+      "slug": "bandar-seri-begawan",
+      "name": "Bandar Seri Begawan",
+      "loc": "w Bandar Seri Begawan",
+      "type": "miasto",
+      "gygQuery": "Bandar Seri Begawan",
+      "airport": "BWN",
+      "forWhom": "Stolica kraju to serce Brunei, idealne dla tych, którzy chcą poznać kulturę i architekturę sułtanatu.",
+      "intro": [
+        "Bandar Seri Begawan to stolica Brunei, miasto, które łączy tradycję z nowoczesnością. Znajdują się tu jedne z najbardziej spektakularnych budowli w Azji Południowo-Wschodniej, w tym majestatyczny Meczet Sułtana Omara Alego Saifuddiena, który zachwyca złotymi kopułami i marmurowymi zdobieniami. W mieście mieści się także Muzeum Królewskich Regaliów, prezentujące bogactwo i historię sułtanatu.",
+        "Warto odwiedzić Kampong Ayer, czyli wioskę na wodzie, która jest domem dla tysięcy mieszkańców i stanowi fascynujący przykład tradycyjnego życia. Można wynająć łódź, aby przepłynąć kanałami i zobaczyć codzienne życie mieszkańców. Stolica oferuje również nowoczesne centra handlowe i restauracje, gdzie można spróbować lokalnej kuchni."
+      ],
+      "highlights": [
+        "Meczet Sułtana Omara Alego Saifuddiena",
+        "Kampong Ayer - wioska na wodzie",
+        "Muzeum Królewskich Regaliów",
+        "Pałac Istana Nurul Iman (z zewnątrz)"
+      ]
+    },
+    {
+      "slug": "ulu-temburong",
+      "name": "Ulu Temburong",
+      "loc": "w Ulu Temburong",
+      "type": "park narodowy",
+      "gygQuery": "Ulu Temburong National Park",
+      "airport": "BWN",
+      "forWhom": "Dla miłośników dziewiczej przyrody i ekoturystyki, szukających kontaktu z lasem deszczowym Borneo.",
+      "intro": [
+        "Park Narodowy Ulu Temburong to prawdziwa perła Brunei, chroniąca jeden z najlepiej zachowanych fragmentów lasu deszczowego na Borneo. Dostęp do parku jest ściśle kontrolowany, co pomaga chronić jego unikalny ekosystem. Można tu podziwiać bogactwo flory i fauny, w tym rzadkie gatunki roślin i zwierząt, których nie znajdzie się nigdzie indziej.",
+        "Główną atrakcją parku jest Canopy Walk, czyli spacer po wiszących mostach zawieszonych wysoko nad koronami drzew, oferujący niezapomniane widoki na dżunglę. Do parku można dotrzeć wyłącznie łodzią, co samo w sobie jest przygodą. To idealne miejsce na kilkudniową wyprawę z przewodnikiem, aby doświadczyć prawdziwej dziczy."
+      ],
+      "highlights": [
+        "Canopy Walk - spacer wśród koron drzew",
+        "Dziewiczy las deszczowy Borneo",
+        "Spływy rzeczne i wycieczki łodzią",
+        "Obserwacja rzadkich gatunków zwierząt"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Meczet Sułtana Omara Alego Saifuddiena",
+      "text": "Jeden z najpiękniejszych meczetów w Azji Południowo-Wschodniej, symbol Brunei, z majestatyczną złotą kopułą i marmurowymi minaretami.",
+      "gygQuery": "Omar Ali Saifuddien Mosque"
+    },
+    {
+      "name": "Kampong Ayer",
+      "text": "Historyczna wioska na wodzie, nazywana 'Wenecją Wschodu', z tysiącami domów, sklepów i szkół połączonych drewnianymi pomostami.",
+      "gygQuery": "Kampong Ayer"
+    },
+    {
+      "name": "Park Narodowy Ulu Temburong",
+      "text": "Dziewiczy las deszczowy, oferujący unikalne doświadczenia ekoturystyczne, w tym słynny Canopy Walk wysoko nad drzewami.",
+      "gygQuery": "Ulu Temburong National Park"
+    },
+    {
+      "name": "Muzeum Królewskich Regaliów",
+      "text": "Prezentuje bogate dziedzictwo sułtanatu, w tym insygnia koronacyjne, klejnoty i dary otrzymane przez sułtana.",
+      "gygQuery": "Royal Regalia Museum"
+    },
+    {
+      "name": "Meczet Jame' Asr Hassanil Bolkiah",
+      "text": "Największy meczet w Brunei, zbudowany przez obecnego sułtana, z 29 złotymi kopułami symbolizującymi jego wiek w momencie budowy.",
+      "gygQuery": "Jame' Asr Hassanil Bolkiah Mosque"
+    },
+    {
+      "name": "Istana Nurul Iman",
+      "text": "Oficjalna rezydencja sułtana Brunei, największy pałac mieszkalny na świecie, dostępny dla zwiedzających tylko z zewnątrz.",
+      "gygQuery": "Istana Nurul Iman"
+    },
+    {
+      "name": "Tamu Kianggeh",
+      "text": "Lokalny targ na świeżym powietrzu, gdzie można kupić świeże owoce, warzywa, lokalne przysmaki i pamiątki.",
+      "gygQuery": "Tamu Kianggeh"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Brunei jest silnie inspirowana kuchniami malajską, indonezyjską, indyjską i chińską, z wyraźnym wpływem kultury islamskiej, co oznacza, że wszystkie potrawy są halal. Podstawą diety jest ryż, często podawany z różnymi sosami curry, mięsem (kurczak, wołowina) lub rybami. Popularne dania to nasi lemak (ryż gotowany w mleku kokosowym), mee goreng (smażony makaron) i satay (szaszłyki z mięsa z sosem orzechowym). Narodowym daniem jest ambuyat, kleista masa z sago, którą je się pałeczkami, maczając w pikantnych sosach. W Brunei nie znajdziesz alkoholu w restauracjach, a napoje to głównie świeże soki, woda kokosowa i herbata."
+  ],
+  "faq": [
+    {
+      "q": "Czy w Brunei można kupić alkohol?",
+      "a": "Nie, w Brunei obowiązuje całkowity zakaz publicznej sprzedaży i spożywania alkoholu. Turyści mogą wwieźć ograniczoną ilość alkoholu na własny użytek, ale spożywać go tylko w prywatnych miejscach."
+    },
+    {
+      "q": "Jakie są zasady ubioru w Brunei?",
+      "a": "Brunei to kraj konserwatywny. Zaleca się noszenie skromnych ubrań, zakrywających ramiona i kolana, szczególnie podczas odwiedzania miejsc kultu. Kobiety powinny mieć chustę do zakrycia głowy w meczetach."
+    },
+    {
+      "q": "Czy Brunei jest drogie?",
+      "a": "Brunei jest uważane za kraj o wyższych kosztach życia niż większość innych państw Azji Południowo-Wschodniej. Ceny zakwaterowania i transportu mogą być porównywalne do krajów zachodnich, choć jedzenie na lokalnych targach jest stosunkowo tanie."
+    },
+    {
+      "q": "Czy Brunei jest bezpieczne dla samotnych podróżniczek?",
+      "a": "Tak, Brunei jest bardzo bezpiecznym krajem, również dla samotnych podróżniczek. Należy jednak pamiętać o szacunku dla lokalnych zwyczajów i kultury, zwłaszcza w kwestii ubioru i zachowania."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

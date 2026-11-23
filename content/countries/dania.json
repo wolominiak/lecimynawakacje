@@ -1,0 +1,218 @@
+{
+  "slug": "dania",
+  "loc": "w Danii",
+  "to": "do Danii",
+  "capital": "Kopenhaga",
+  "popularity": 45,
+  "touroperator": false,
+  "gygQuery": "Denmark",
+  "teaser": "Dania to kraj hygge, innowacyjnego designu i rowerów. Odkryj Kopenhagę, baśniowe zamki i Legoland, ciesząc się skandynawskim spokojem.",
+  "intro": [
+    "Dania, choć niewielka, przyciąga swoim unikalnym połączeniem miejskiej elegancji, bogatej historii i bliskości z naturą. To ojczyzna koncepcji hygge, która przekłada się na przytulne kawiarnie, dbałość o detale i spokojny tryb życia. Kraj słynie z innowacyjnego designu, zrównoważonego rozwoju oraz doskonałej infrastruktury rowerowej. Od tętniącej życiem Kopenhagi po urokliwe wioski rybackie i piaszczyste plaże, Dania oferuje różnorodne doświadczenia.",
+    "Kraj jest idealny dla rodzin z dziećmi, szczególnie ze względu na Legoland i liczne atrakcje edukacyjne. Zadowoleni będą też miłośnicy aktywnego wypoczynku, którzy mogą eksplorować Danię na rowerze lub kajakiem. Miłośnicy kultury i designu znajdą tu inspirację w muzeach, galeriach i architekturze. To także świetny kierunek na weekendowy wypad do Kopenhagi lub spokojniejsze wakacje na jednej z urokliwych wysp.",
+    "Podróż z Polski do Danii jest szybka i wygodna. Bezpośrednie loty z kilku polskich miast do Kopenhagi trwają około 1,5-2 godzin. Można również wybrać się samochodem, korzystając z połączeń promowych lub Mostu nad Sundem. Dzięki członkostwu w Unii Europejskiej, formalności są minimalne, a różnica czasu nie występuje, co ułatwia adaptację i pozwala od razu cieszyć się urlopem."
+  ],
+  "highlights": [
+    "Kopenhaga: Miasto kanałów i designu",
+    "Legoland: Raj dla dzieci i dorosłych",
+    "Hygge: Duńska sztuka szczęścia",
+    "Rowerowe szlaki: Aktywny wypoczynek",
+    "Baśniowe zamki: Dziedzictwo królewskie",
+    "Piaszczyste plaże: Odpoczynek nad morzem"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę w Danii to miesiące letnie, od czerwca do sierpnia, kiedy pogoda jest najcieplejsza i dni są najdłuższe, idealne do zwiedzania i aktywności na świeżym powietrzu. Wiosna (maj) i wczesna jesień (wrzesień) oferują przyjemne temperatury i mniej turystów, co sprzyja spokojniejszemu odkrywaniu. Zimą Dania zachwyca świątecznymi jarmarkami, zwłaszcza w Kopenhadze, choć temperatury są niskie.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      3,
+      3,
+      6,
+      11,
+      16,
+      19,
+      22,
+      21,
+      17,
+      12,
+      7,
+      4
+    ],
+    "sea": [
+      3,
+      2,
+      3,
+      6,
+      10,
+      14,
+      17,
+      18,
+      15,
+      12,
+      8,
+      5
+    ],
+    "note": "dla Kopenhagi"
+  },
+  "practical": {
+    "flight": "Około 1,5 - 2 godziny lotu bezpośredniego",
+    "timeDiff": "Brak",
+    "documents": "Dla obywateli Polski wystarczy ważny dowód osobisty lub paszport. Przed wyjazdem zawsze warto sprawdzić aktualne wymogi na stronie Ministerstwa Spraw Zagranicznych.",
+    "money": "Walutą jest korona duńska (DKK). Płatności kartą są powszechne, gotówka rzadko używana. Warto mieć kartę wielowalutową.",
+    "plugs": "Standardowe europejskie gniazdka typu C i F (dwa okrągłe bolce).",
+    "language": "Oficjalnym językiem jest duński, ale angielski jest powszechnie używany, zwłaszcza w miastach i miejscach turystycznych.",
+    "safety": "Dania jest jednym z najbezpieczniejszych krajów na świecie. Poziom przestępczości jest bardzo niski. Należy zachować standardową ostrożność, zwłaszcza w dużych skupiskach ludzi."
+  },
+  "regions": [
+    {
+      "slug": "kopenhaga",
+      "name": "Kopenhaga",
+      "loc": "w Kopenhadze",
+      "type": "miasto",
+      "gygQuery": "Copenhagen",
+      "airport": "CPH",
+      "forWhom": "Idealna dla miłośników designu, kultury i miejskiego życia.",
+      "intro": [
+        "Kopenhaga to miasto, które doskonale łączy królewską historię z nowoczesnym designem i zrównoważonym stylem życia. Przespaceruj się wzdłuż malowniczego kanału Nyhavn z kolorowymi kamienicami, odwiedź pałac Amalienborg, rezydencję duńskiej rodziny królewskiej, i zobacz słynną Małą Syrenkę. Miasto jest rajem dla rowerzystów, oferując rozbudowaną sieć ścieżek rowerowych.",
+        "Nie można pominąć wizyty w ogrodach Tivoli, jednym z najstarszych parków rozrywki na świecie, który wieczorem rozświetla się tysiącami świateł. Kopenhaga to także kulinarna mekka, od tradycyjnych smørrebrød po restauracje z gwiazdkami Michelin. To miasto, które zachęca do niespiesznego odkrywania i czerpania radości z każdej chwili."
+      ],
+      "highlights": [
+        "Kolorowy kanał Nyhavn",
+        "Ogrody Tivoli",
+        "Mała Syrenka",
+        "Wolne Miasto Christiania"
+      ]
+    },
+    {
+      "slug": "jutlandia",
+      "name": "Jutlandia",
+      "loc": "na Jutlandii",
+      "type": "region",
+      "gygQuery": "Jutland Denmark",
+      "airport": "AAR, BLL",
+      "forWhom": "Dla rodzin, miłośników natury i aktywnego wypoczynku.",
+      "intro": [
+        "Półwysep Jutlandzki to serce duńskiej natury i miejsce, gdzie historia splata się z nowoczesnością. To tutaj znajduje się słynny Legoland w Billund, który jest obowiązkowym punktem dla rodzin z dziećmi. Zachodnie wybrzeże Jutlandii zachwyca szerokimi, piaszczystymi plażami i surowym pięknem Morza Północnego, idealnym do długich spacerów i uprawiania sportów wodnych.",
+        "Warto odwiedzić urokliwe miasto Aarhus, z jego nowoczesną architekturą i bogatą ofertą kulturalną, w tym słynnym muzeum sztuki ARoS. Na północy Jutlandii, w Skagen, można podziwiać unikalne zjawisko spotkania Morza Północnego i Bałtyckiego. Jutlandia oferuje także liczne parki narodowe i rezerwaty przyrody, idealne do pieszych i rowerowych wycieczek."
+      ],
+      "highlights": [
+        "Legoland Billund",
+        "Muzeum ARoS w Aarhus",
+        "Spotkanie mórz w Skagen",
+        "Latarnia Rubjerg Knude Fyr"
+      ]
+    },
+    {
+      "slug": "fionia",
+      "name": "Fionia",
+      "loc": "na Fionii",
+      "type": "wyspa",
+      "gygQuery": "Funen Denmark",
+      "airport": "ODE",
+      "forWhom": "Dla szukających spokoju, baśniowych klimatów i urokliwych miasteczek.",
+      "intro": [
+        "Fionia, nazywana często „ogrodem Danii”, to zielona wyspa pełna sielskich krajobrazów, urokliwych miasteczek i baśniowych zamków. To tutaj urodził się Hans Christian Andersen, a jego rodzinne miasto Odense kultywuje pamięć o słynnym bajkopisarzu. Odwiedź Muzeum H.C. Andersena i poczuj magię jego opowieści na ulicach miasta.",
+        "Wyspa jest domem dla jednego z najlepiej zachowanych renesansowych zamków w Europie - Zamku Egeskov, otoczonego pięknymi ogrodami. Fionia to także idealne miejsce na wycieczki rowerowe po malowniczych trasach, które prowadzą przez pola, lasy i wzdłuż wybrzeża. Południowa Fionia z jej archipelagiem małych wysp to raj dla żeglarzy i miłośników spokoju."
+      ],
+      "highlights": [
+        "Muzeum H.C. Andersena w Odense",
+        "Zamek Egeskov",
+        "Archipelag Południowej Fionii",
+        "Malownicze trasy rowerowe"
+      ]
+    },
+    {
+      "slug": "bornholm",
+      "name": "Bornholm",
+      "loc": "na Bornholmie",
+      "type": "wyspa",
+      "gygQuery": "Bornholm",
+      "airport": "RNN",
+      "forWhom": "Idealny dla rowerzystów, smakoszy i poszukiwaczy słońca.",
+      "intro": [
+        "Bornholm, znany jako „słoneczna wyspa”, to duńska perła na Bałtyku, która oferuje nieco inny klimat niż reszta kraju. Charakteryzuje się unikalnymi formacjami skalnymi, piaszczystymi plażami na południu i urokliwymi wioskami rybackimi. Jest to raj dla rowerzystów, z gęstą siecią dobrze utrzymanych ścieżek, prowadzących przez różnorodne krajobrazy.",
+        "Wyspa słynie z okrągłych kościołów, które służyły zarówno jako miejsca kultu, jak i obronne twierdze. Koniecznie spróbuj lokalnych specjałów, zwłaszcza wędzonych śledzi, które są symbolem bornholmskiej kuchni. Odwiedź ruiny największego zamku w północnej Europie, Hammershus, i ciesz się relaksem w otoczeniu pięknej przyrody."
+      ],
+      "highlights": [
+        "Rowerowe szlaki Bornholmu",
+        "Okrągłe kościoły",
+        "Wędzone śledzie i lokalne smaki",
+        "Ruiny zamku Hammershus"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Ogrody Tivoli",
+      "text": "Jeden z najstarszych parków rozrywki na świecie, położony w sercu Kopenhagi. Oferuje zarówno klasyczne karuzele, jak i nowoczesne atrakcje, a także piękne ogrody i restauracje.",
+      "gygQuery": "Tivoli Gardens Copenhagen"
+    },
+    {
+      "name": "Nyhavn",
+      "text": "Malowniczy kanał w Kopenhadze, otoczony kolorowymi kamienicami z XVII i XVIII wieku. Idealne miejsce na spacer, kolację i podziwianie zabytkowych statków.",
+      "gygQuery": "Nyhavn Copenhagen"
+    },
+    {
+      "name": "Legoland Billund",
+      "text": "Park tematyczny zbudowany z klocków LEGO, oferujący atrakcje dla dzieci i dorosłych. Znajduje się w miejscowości Billund na Jutlandii.",
+      "gygQuery": "Legoland Billund"
+    },
+    {
+      "name": "Mała Syrenka",
+      "text": "Ikoniczny posąg z brązu, symbol Kopenhagi, inspirowany baśnią Hansa Christiana Andersena. Znajduje się w porcie Langelinie.",
+      "gygQuery": "Little Mermaid Copenhagen"
+    },
+    {
+      "name": "Zamek Kronborg",
+      "text": "Imponujący renesansowy zamek w Helsingør, znany jako miejsce akcji „Hamleta” Szekspira. Wpisany na listę UNESCO, oferuje fascynujące wnętrza i historię.",
+      "gygQuery": "Kronborg Castle"
+    },
+    {
+      "name": "Aarhus",
+      "text": "Drugie co do wielkości miasto Danii, położone na Jutlandii. Znane z nowoczesnej architektury, muzeów (ARoS, Den Gamle By) i tętniącego życia studenckiego.",
+      "gygQuery": "Aarhus Denmark"
+    },
+    {
+      "name": "Skagen",
+      "text": "Najbardziej wysunięte na północ miasto Danii, gdzie spotykają się wody Morza Północnego i Bałtyckiego. Słynie z pięknych plaż, latarni morskich i unikalnego światła, które przyciągało artystów.",
+      "gygQuery": "Skagen Denmark"
+    },
+    {
+      "name": "Klify Møns Klint",
+      "text": "Spektakularne białe klify kredowe na wyspie Møn, wznoszące się majestatycznie nad Bałtykiem. To jedno z najbardziej imponujących naturalnych zjawisk w Danii, idealne na piesze wędrówki.",
+      "gygQuery": "Mons Klint"
+    }
+  ],
+  "cuisine": [
+    "Duńska kuchnia to przede wszystkim smørrebrød, czyli otwarte kanapki z różnorodnymi dodatkami, od wędzonego łososia po pieczeń wołową. Popularne są także hot dogi, często z chrupiącą cebulką i ogórkami. Warto spróbować świeżych ryb i owoców morza, zwłaszcza śledzi, podawanych na wiele sposobów. Dania słynie również z doskonałych wypieków, takich jak wienerbrød (duńskie ciasto) oraz piwa, w tym znanych marek jak Carlsberg i Tuborg. Pamiętaj, że posiłki w restauracjach bywają drogie, ale street food i lokalne piekarnie oferują smaczne i przystępne cenowo alternatywy."
+  ],
+  "faq": [
+    {
+      "q": "Czy Dania jest droga dla turystów z Polski?",
+      "a": "Dania jest krajem o wysokich cenach, zwłaszcza w restauracjach i za noclegi. Warto planować budżet z wyprzedzeniem i szukać alternatyw, takich jak samodzielne gotowanie czy korzystanie z supermarketów."
+    },
+    {
+      "q": "Jakie pamiątki warto przywieźć z Danii?",
+      "a": "Warto postawić na duński design - ceramikę, szkło, biżuterię. Popularne są też figurki Małej Syrenki, klocki LEGO, produkty związane z hygge (świece, koce) oraz lokalne przysmaki, jak słodycze czy piwo."
+    },
+    {
+      "q": "Czy Dania to dobry kierunek na wakacje z dziećmi?",
+      "a": "Tak, Dania jest bardzo przyjazna rodzinom. Legoland, liczne parki rozrywki, interaktywne muzea i bezpieczne miasta sprawiają, że to doskonały wybór na wakacje z dziećmi w każdym wieku."
+    },
+    {
+      "q": "Co to jest hygge i gdzie można go doświadczyć?",
+      "a": "Hygge to duńska filozofia życia, która oznacza tworzenie przytulnej, ciepłej atmosfery i czerpanie radości z prostych rzeczy. Można go doświadczyć w każdej kawiarni, w domowym zaciszu, podczas spaceru po parku czy wieczornego spotkania z bliskimi."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

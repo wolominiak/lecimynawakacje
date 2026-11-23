@@ -1,0 +1,219 @@
+{
+  "slug": "dzibuti",
+  "loc": "w Dżibuti",
+  "to": "do Dżibuti",
+  "capital": "Dżibuti",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Djibouti",
+  "teaser": "Dżibuti to kraj dla poszukiwaczy autentycznych, surowych wrażeń. Odkryj wulkaniczne krajobrazy, słone jeziora i podwodny świat Morza Czerwonego.",
+  "intro": [
+    "Dżibuti, położone na Rogu Afryki, to jedno z tych miejsc, które nie trafiają na typowe listy podróżnicze. To kraj kontrastów, gdzie pustynne krajobrazy spotykają się z lazurowymi wodami zatok, a wulkaniczne formacje tworzą księżycowe scenerie. Nie znajdziesz tu luksusowych kurortów ani masowej turystyki, co czyni go idealnym celem dla doświadczonych podróżników szukających prawdziwej przygody i kontaktu z naturą w jej najdzikszej formie. To kierunek dla tych, którzy cenią autentyczność i są gotowi na wyzwania.",
+    "Kraj ten przyciąga przede wszystkim unikalnymi zjawiskami geologicznymi, takimi jak słone jezioro Assal, położone w depresji wulkanicznej, czy surrealistyczne krajobrazy jeziora Abbé z wapiennymi kominami. Miłośnicy nurkowania i snorkelingu docenią bogactwo podwodnego świata Morza Czerwonego, zwłaszcza możliwość spotkania z rekinami wielorybimi w sezonie. Dżibuti to także fascynujące spotkanie z kulturą Afarów i Somalijczyków, które jest dalekie od turystycznego blichtru, oferując wgląd w codzienne życie regionu.",
+    "Podróż z Polski do Dżibuti wymaga przesiadek, najczęściej w Stambule lub Addis Abebie, a cały lot zajmuje około 10-12 godzin. Bezpośrednich połączeń nie ma. Przed wyjazdem należy zadbać o wizę i odpowiednie przygotowanie logistyczne, ponieważ infrastruktura turystyczna jest ograniczona, zwłaszcza poza stolicą. Warto wynająć samochód terenowy z kierowcą, co ułatwi eksplorację odległych zakątków kraju, pamiętając o lokalnych realiach i bezpieczeństwie."
+  ],
+  "highlights": [
+    "Księżycowy krajobraz jeziora Assal",
+    "Wapienne kominy jeziora Abbé",
+    "Nurkowanie z rekinami wielorybimi",
+    "Wulkaniczne formacje Ardoukoba",
+    "Zabytkowa architektura Tadjoury",
+    "Odkrywanie kultury Afarów i Somalijczyków"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Dżibuti to okres od listopada do marca. W tych miesiącach temperatury są nieco niższe i bardziej znośne, a ryzyko upałów ekstremalnych jest mniejsze. Unikać należy okresu od czerwca do września, kiedy to temperatury mogą przekraczać 40 stopni Celsjusza, a wilgotność powietrza jest bardzo wysoka, co sprawia, że zwiedzanie jest męczące.",
+    "best": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      31,
+      33,
+      36,
+      39,
+      41,
+      39,
+      37,
+      34,
+      31,
+      29
+    ],
+    "sea": [
+      26,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      31,
+      30,
+      29,
+      28,
+      27
+    ],
+    "note": "dla miasta Dżibuti"
+  },
+  "practical": {
+    "flight": "około 10-12 h z przesiadką",
+    "timeDiff": "+2h w zimie, +1h w lecie",
+    "documents": "Obywatele Polski potrzebują paszportu ważnego co najmniej 6 miesięcy od daty planowanego wyjazdu oraz wizy. Wizę można uzyskać w ambasadzie Dżibuti lub online (e-wiza). Zawsze zaleca się sprawdzenie aktualnych wymagań wizowych przed podróżą w konsulacie Dżibuti lub na stronie MSZ.",
+    "money": "Walutą jest frank dżibutyjski (DJF). Płatności kartą są możliwe w większych hotelach i niektórych sklepach w stolicy, ale poza nią dominują transakcje gotówkowe. Warto mieć przy sobie mniejsze nominały. Bankomaty są dostępne w Dżibuti, ale nie zawsze działają.",
+    "plugs": "Typ C, E, F, G",
+    "language": "Oficjalnymi językami są arabski i francuski. W użyciu są również języki somalijski i afar. Znajomość francuskiego jest pomocna, zwłaszcza poza stolicą.",
+    "safety": "Dżibuti jest krajem o podwyższonym ryzyku. Występuje zagrożenie terroryzmem, zwłaszcza w miejscach publicznych i w pobliżu obiektów rządowych. Należy zachować szczególną ostrożność, unikać samotnych podróży poza stolicę i śledzić komunikaty władz. Problemem jest również przestępczość pospolita. Zaleca się szczepienia przeciwko żółtej febrze (jeśli podróżuje się z regionów endemicznych), tężcowi, błonicy, polio, durowi brzusznemu i wirusowemu zapaleniu wątroby typu A i B. Istnieje ryzyko malarii w niektórych regionach."
+  },
+  "regions": [
+    {
+      "slug": "dzibuti-miasto",
+      "name": "Miasto Dżibuti",
+      "loc": "w mieście Dżibuti",
+      "type": "miasto",
+      "gygQuery": "Djibouti City",
+      "airport": "JIB",
+      "forWhom": "To brama do kraju, oferująca wgląd w lokalne życie i punkt startowy do dalszych eksploracji.",
+      "intro": [
+        "Stolica Dżibuti to tętniące życiem portowe miasto, które łączy w sobie afrykańską, arabską i francuską atmosferę. Znajdziesz tu kolonialne budynki, gwarne targowiska, takie jak Marché Central, oraz restauracje serwujące świeże owoce morza. Mimo braku typowych atrakcji turystycznych, warto poświęcić czas na spacer po ulicach, by poczuć puls miasta i obserwować codzienne życie mieszkańców.",
+        "Miasto jest bazą wypadową do wielu atrakcji, a także miejscem, gdzie załatwisz formalności, znajdziesz hotele i zorganizujesz transport. Odwiedź port, zobacz Pałac Prezydencki z zewnątrz i zanurz się w labiryncie uliczek, gdzie każdy zakątek może kryć coś interesującego. To tutaj najlepiej poczujesz, jak Dżibuti jest odmienne od innych afrykańskich stolic."
+      ],
+      "highlights": [
+        "Marché Central - główny targ",
+        "Kolonialna architektura miasta",
+        "Port w Dżibuti",
+        "Restauracje z owocami morza"
+      ]
+    },
+    {
+      "slug": "jezioro-assal",
+      "name": "Jezioro Assal",
+      "loc": "nad jeziorem Assal",
+      "type": "region",
+      "gygQuery": "Lake Assal",
+      "airport": "JIB",
+      "forWhom": "Idealne dla miłośników unikalnych krajobrazów i geologicznych fenomenów.",
+      "intro": [
+        "Jezioro Assal to jeden z najbardziej surrealistycznych widoków w Dżibuti i na świecie. Jest to słone jezioro kraterowe, położone około 155 metrów poniżej poziomu morza, co czyni je najniżej położonym punktem w Afryce i trzecim najniższym na świecie. Jego brzegi pokryte są grubą warstwą kryształów soli, które mienią się w słońcu, tworząc księżycowy krajobraz. Woda w jeziorze jest niezwykle słona, co pozwala na unoszenie się na jej powierzchni.",
+        "Dookoła jeziora rozciągają się wulkaniczne formacje, a powietrze jest przesycone zapachem siarki. To miejsce, gdzie temperatura może być ekstremalnie wysoka, dlatego zaleca się wczesne wizyty. Jezioro Assal jest ważnym źródłem soli dla lokalnych plemion Afarów, którzy od wieków wydobywają ją w tradycyjny sposób. To doświadczenie, które na długo pozostaje w pamięci, oferując poczucie bycia na innej planecie."
+      ],
+      "highlights": [
+        "Najniższy punkt Afryki",
+        "Kryształowe brzegi jeziora",
+        "Wulkaniczne otoczenie",
+        "Tradycyjne wydobycie soli"
+      ]
+    },
+    {
+      "slug": "zatoka-tadjoura",
+      "name": "Zatoka Tadjoura",
+      "loc": "w Zatoce Tadjoura",
+      "type": "region",
+      "gygQuery": "Gulf of Tadjoura",
+      "airport": "JIB",
+      "forWhom": "Dla nurków, miłośników snorkelingu i tych, którzy szukają relaksu na wybrzeżu.",
+      "intro": [
+        "Zatoka Tadjoura to serce morskiej turystyki Dżibuti, oferująca jedne z najlepszych miejsc do nurkowania i snorkelingu w Morzu Czerwonym. Jej krystalicznie czyste wody kryją bogate rafy koralowe, różnorodne gatunki ryb i wraki statków. Od listopada do lutego zatoka staje się miejscem migracji rekinów wielorybich, co przyciąga entuzjastów podwodnej przygody z całego świata, dając szansę na pływanie obok tych majestatycznych stworzeń.",
+        "Wzdłuż zatoki leży miasto Tadjoura, nazywane Białym Miastem, z jego urokliwą architekturą i historycznym meczetem. Można tu poczuć bardziej spokojną atmosferę niż w stolicy. Oprócz nurkowania, zatoka oferuje możliwości rejsów łodzią, wędkowania oraz odkrywania małych, niezamieszkanych wysp, takich jak Seven Brothers Islands (Sawabi), które są rajem dla ptaków i idealnym miejscem na ucieczkę od zgiełku."
+      ],
+      "highlights": [
+        "Nurkowanie z rekinami wielorybimi",
+        "Bogate rafy koralowe",
+        "Miasto Tadjoura i jego meczet",
+        "Wyspy Sawabi (Seven Brothers)"
+      ]
+    },
+    {
+      "slug": "jezioro-abbe",
+      "name": "Jezioro Abbé",
+      "loc": "nad jeziorem Abbé",
+      "type": "region",
+      "gygQuery": "Lake Abbe",
+      "airport": "JIB",
+      "forWhom": "Dla fotografów, geologów i poszukiwaczy ekstremalnych, odległych krajobrazów.",
+      "intro": [
+        "Jezioro Abbé, położone na granicy z Etiopią, to kolejne zjawiskowe miejsce, które wygląda jak żywcem wyjęte z filmu science fiction. Charakteryzuje się setkami wapiennych kominów, z których niektóre osiągają wysokość 50 metrów, wydobywając parę i gazy. Te niezwykłe formacje powstały w wyniku aktywności geotermalnej i są domem dla tysięcy flamingów oraz innych ptaków, co tworzy kontrast z surowym, pustynnym otoczeniem.",
+        "Dojazd do jeziora Abbé jest wyzwaniem i wymaga dobrze zorganizowanej wyprawy samochodem terenowym, często z noclegiem w prostych obozowiskach Beduinów. Wschody i zachody słońca nad jeziorem, z kominami rzucającymi długie cienie, są niezapomnianym widokiem. To miejsce, które oferuje surowe piękno i poczucie odosobnienia, idealne dla tych, którzy chcą doświadczyć prawdziwej dziczy i geologicznych cudów natury."
+      ],
+      "highlights": [
+        "Wapienne kominy geotermalne",
+        "Tysiące flamingów",
+        "Księżycowy krajobraz",
+        "Wschody i zachody słońca"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Jezioro Assal",
+      "text": "Słone jezioro kraterowe, najniżej położony punkt w Afryce, otoczone wulkanicznymi krajobrazami i krystalicznymi brzegami soli.",
+      "gygQuery": "Lake Assal"
+    },
+    {
+      "name": "Jezioro Abbé",
+      "text": "Miejsce z setkami wapiennych kominów geotermalnych, dom dla flamingów, oferujące surrealistyczne, postapokaliptyczne widoki.",
+      "gygQuery": "Lake Abbe"
+    },
+    {
+      "name": "Miasto Dżibuti",
+      "text": "Stolica kraju, z kolonialną architekturą, gwarnym targiem Marché Central i portem, będąca punktem startowym do dalszych podróży.",
+      "gygQuery": "Djibouti City"
+    },
+    {
+      "name": "Zatoka Tadjoura",
+      "text": "Idealne miejsce do nurkowania i snorkelingu, znane z raf koralowych i możliwości pływania z rekinami wielorybimi w sezonie.",
+      "gygQuery": "Gulf of Tadjoura"
+    },
+    {
+      "name": "Wulkan Ardoukoba",
+      "text": "Jeden z najmłodszych wulkanów na świecie, którego krajobraz świadczy o aktywności tektonicznej regionu, oferując surowe widoki.",
+      "gygQuery": "Ardoukoba Volcano"
+    },
+    {
+      "name": "Park Narodowy Day Forest",
+      "text": "Jedyny znaczący obszar leśny w Dżibuti, dom dla rzadkich gatunków ptaków i endemicznych roślin, oferujący wytchnienie od pustynnego upału.",
+      "gygQuery": "Day Forest National Park"
+    },
+    {
+      "name": "Godoria Mangroves",
+      "text": "Obszar namorzynowy, ważny ekosystem morski, miejsce lęgowe dla wielu gatunków ptaków i ryb, idealne do obserwacji dzikiej przyrody.",
+      "gygQuery": "Godoria Mangroves"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Dżibuti to fascynująca mieszanka wpływów afrykańskich, arabskich i francuskich, z silnym naciskiem na świeże owoce morza. Popularne są gulasze i potrawki z mięsa (koziego, wołowego) lub ryb, często podawane z ryżem lub plackami injera, zapożyczonymi z kuchni etiopskiej. Ważnym elementem diety jest khubz, rodzaj płaskiego chleba. Warto spróbować świeżo złowionych ryb i owoców morza, przygotowywanych na różne sposoby. Powszechne są też dania z soczewicy i warzyw. Jako napój króluje mocna, słodka herbata z przyprawami."
+  ],
+  "faq": [
+    {
+      "q": "Czy Dżibuti jest bezpieczne dla turystów?",
+      "a": "Dżibuti jest krajem o podwyższonym ryzyku ze względu na zagrożenie terroryzmem i przestępczością pospolitą. Zaleca się szczególną ostrożność, unikanie samotnych podróży poza stolicę i bieżące śledzenie komunikatów MSZ."
+    },
+    {
+      "q": "Jaką walutę zabrać do Dżibuti?",
+      "a": "Oficjalną walutą jest frank dżibutyjski (DJF). Warto mieć ze sobą gotówkę, najlepiej w mniejszych nominałach, ponieważ płatności kartą są ograniczone, zwłaszcza poza stolicą."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Dżibuti jako Polak?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Dżibuti. Można ją uzyskać w ambasadzie lub online (e-wiza). Zawsze należy sprawdzić aktualne wymagania wizowe przed wyjazdem."
+    },
+    {
+      "q": "Kiedy jest najlepszy czas na podróż do Dżibuti?",
+      "a": "Najlepszym okresem na wizytę w Dżibuti jest czas od listopada do marca, kiedy temperatury są niższe i bardziej znośne. Należy unikać podróży w miesiącach letnich (czerwiec-wrzesień) z powodu ekstremalnych upałów."
+    },
+    {
+      "q": "Co warto zobaczyć w Dżibuti?",
+      "a": "Do głównych atrakcji należą słone jezioro Assal, surrealistyczne jezioro Abbé z wapiennymi kominami, Zatoka Tadjoura idealna do nurkowania oraz wulkaniczne krajobrazy Ardoukoby."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

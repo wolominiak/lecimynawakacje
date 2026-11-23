@@ -1,0 +1,216 @@
+{
+  "slug": "burundi",
+  "loc": "w Burundi",
+  "to": "do Burundi",
+  "capital": "Gitega",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Burundi",
+  "teaser": "Burundi, kraj w sercu Afryki, oferuje piękne krajobrazy i autentyczne doświadczenia, ale wymaga ostrożności i dobrego przygotowania.",
+  "intro": [
+    "Burundi, choć niewielkie i rzadko odwiedzane przez turystów, potrafi zaskoczyć. Leży nad wschodnim brzegiem jeziora Tanganika, jednego z najgłębszych i najdłuższych jezior słodkowodnych świata, oferując malownicze plaże i możliwości rejsów. W głębi lądu znajdziemy górzyste tereny, parki narodowe z dziką fauną oraz wodospady, które czekają na odkrycie przez nielicznych śmiałków. To kraj o bogatej historii i kulturze, gdzie tradycje są wciąż żywe.",
+    "Podróż do Burundi to propozycja dla doświadczonych i bardzo świadomych podróżników, którzy szukają autentycznych wrażeń z dala od utartych szlaków masowej turystyki. Nie ma tu rozbudowanej infrastruktury turystycznej ani luksusowych kurortów, co czyni wyprawę bardziej wymagającą, ale jednocześnie nagradza prawdziwym kontaktem z lokalną społecznością i dziewiczą przyrodą. To idealne miejsce dla tych, którzy cenią sobie przygodę i są gotowi na wyzwania.",
+    "Bezpośrednie loty z Polski do Burundi nie istnieją, a podróż wymaga kilku przesiadek, najczęściej w europejskich hubach, a następnie w Addis Abebie, Nairobi lub Kigali. Cała podróż lotnicza zajmuje zazwyczaj od 12 do 15 godzin, nie licząc czasu oczekiwania na połączenia. Przed wylotem należy dokładnie zaplanować logistykę, upewnić się co do aktualnych wymogów wizowych i zdrowotnych, a także zapoznać się z zaleceniami polskiego Ministerstwa Spraw Zagranicznych."
+  ],
+  "highlights": [
+    "Jezioro Tanganika i jego piaszczyste plaże",
+    "Park Narodowy Rusizi z hipopotamami",
+    "Wodospady Karera w południowym Burundi",
+    "Źródło Nilu w pobliżu Rutany",
+    "Autentyczna kultura i tradycje lokalne",
+    "Górzyste krajobrazy i rezerwaty przyrody"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Burundi to pora sucha, która występuje dwukrotnie w ciągu roku: od czerwca do września oraz od grudnia do lutego. W tych miesiącach opady deszczu są minimalne, drogi są łatwiej przejezdne, a warunki do obserwacji dzikiej przyrody są optymalne. Pora deszczowa, od marca do maja i od października do listopada, charakteryzuje się intensywnymi opadami, które mogą utrudniać przemieszczanie się i wpływać na komfort zwiedzania.",
+    "best": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      29,
+      29,
+      28,
+      28
+    ],
+    "sea": null,
+    "note": "dla Bujumbury"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadkami",
+    "timeDiff": "W czasie polskiej zimy +1 godzina, w czasie polskiego lata brak różnicy",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą w placówce dyplomatycznej Burundi (najbliższa w Berlinie). Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego powrotu. Obowiązkowe jest szczepienie przeciwko żółtej febrze i posiadanie międzynarodowej książeczki szczepień. Przed wyjazdem zawsze sprawdź aktualne wymogi na stronie MSZ.",
+    "money": "Walutą jest frank burundyjski (BIF). Płatności kartą są bardzo ograniczone, głównie w większych hotelach w Bujumburze. Zaleca się posiadanie gotówki w USD lub EUR, którą można wymienić w bankach lub kantorach. Bankomaty są nieliczne i często zawodne.",
+    "plugs": "Typ C, E i F. Napięcie 220V, częstotliwość 50Hz. Adaptery są zazwyczaj potrzebne.",
+    "language": "Oficjalnymi językami są francuski i rundi (kirundi). Angielski jest rzadko używany, głównie w sektorze turystycznym i biznesowym w stolicy. Znajomość podstaw francuskiego będzie bardzo pomocna.",
+    "safety": "Ministerstwo Spraw Zagranicznych odradza wszelkie podróże do Burundi, które nie są konieczne. Sytuacja bezpieczeństwa w kraju jest niestabilna, występuje wysokie zagrożenie przestępczością pospolitą, w tym zbrojnymi napadami, szczególnie po zmroku. Istnieje również ryzyko incydentów politycznych i zamieszek. Zaleca się stałe monitorowanie sytuacji, unikanie zgromadzeń i podróżowanie z lokalnym przewodnikiem. Wymagane są szczepienia przeciwko żółtej febrze, zalecane są też na dur brzuszny, tężec, błonicę, polio i WZW A i B. Należy stosować profilaktykę antymalaryczną."
+  },
+  "regions": [
+    {
+      "slug": "bujumbura",
+      "name": "Bujumbura",
+      "loc": "w Bujumburze",
+      "type": "miasto",
+      "gygQuery": "Bujumbura",
+      "airport": "BJM",
+      "forWhom": "To główne centrum gospodarcze i największe miasto Burundi, oferujące bazę wypadową do zwiedzania regionu.",
+      "intro": [
+        "Bujumbura, choć już nie jest oficjalną stolicą, pozostaje sercem gospodarczym i kulturalnym Burundi. Leży na północnym krańcu jeziora Tanganika, co nadaje jej specyficzny klimat z dostępem do piaszczystych plaż i możliwością uprawiania sportów wodnych. Miasto jest punktem tranzytowym dla większości podróżnych, oferującym hotele, restauracje i lokalne rynki.",
+        "Mimo niestabilnej sytuacji w kraju, Bujumbura tętni życiem, choć zawsze należy zachować ostrożność. Można tu poczuć puls afrykańskiego miasta, obserwować codzienne życie mieszkańców i spróbować lokalnej kuchni. To także baza do organizacji wycieczek do pobliskich parków narodowych i innych atrakcji."
+      ],
+      "highlights": [
+        "Plaże nad jeziorem Tanganika",
+        "Centralny Rynek w Bujumburze",
+        "Muzeum Życia w Burundi",
+        "Rejsy po jeziorze"
+      ]
+    },
+    {
+      "slug": "jezioro-tanganika",
+      "name": "Jezioro Tanganika",
+      "loc": "nad Jeziorem Tanganika",
+      "type": "region",
+      "gygQuery": "Lake Tanganyika Burundi",
+      "airport": "BJM",
+      "forWhom": "Idealne dla miłośników natury, relaksu nad wodą i obserwacji unikalnej fauny.",
+      "intro": [
+        "Jezioro Tanganika to drugi najgłębszy zbiornik słodkowodny na świecie i jeden z najstarszych. Jego burundyjski brzeg oferuje piękne, piaszczyste plaże, takie jak Saga Beach czy Karera Beach, które są popularnym miejscem wypoczynku dla mieszkańców i nielicznych turystów. Wody jeziora są krystalicznie czyste i pełne endemicznych gatunków ryb.",
+        "Oprócz kąpieli i opalania, jezioro Tanganika stwarza możliwości do rejsów łodzią, wędkowania czy obserwacji ptaków. Wzdłuż brzegu znajdują się wioski rybackie, gdzie można poznać codzienne życie lokalnych społeczności. To prawdziwa oaza spokoju, choć dostęp do niektórych miejsc może być utrudniony."
+      ],
+      "highlights": [
+        "Plaża Saga i Karera",
+        "Rejsy po jeziorze",
+        "Wędkowanie",
+        "Obserwacja ptaków"
+      ]
+    },
+    {
+      "slug": "park-narodowy-rusizi",
+      "name": "Park Narodowy Rusizi",
+      "loc": "w Parku Narodowym Rusizi",
+      "type": "park narodowy",
+      "gygQuery": "Rusizi National Park",
+      "airport": "BJM",
+      "forWhom": "Obowiązkowy punkt dla entuzjastów dzikiej przyrody i obserwatorów ptaków.",
+      "intro": [
+        "Położony zaledwie kilkanaście kilometrów od Bujumbury, Park Narodowy Rusizi to niewielki, ale ważny rezerwat przyrody, gdzie rzeka Rusizi wpada do jeziora Tanganika. Park słynie z dużej populacji hipopotamów, które często można zobaczyć w wodzie lub na brzegach. Jest to także raj dla ornitologów, z setkami gatunków ptaków wodnych i lądowych.",
+        "Oprócz hipopotamów i ptaków, w parku można spotkać antylopy, krokodyle i inne mniejsze ssaki. Safari łodzią po rzece Rusizi to najlepszy sposób na obserwację zwierząt w ich naturalnym środowisku. Park stanowi cenną ostoję bioróżnorodności w regionie, oferując unikalne doświadczenia przyrodnicze."
+      ],
+      "highlights": [
+        "Obserwacja hipopotamów",
+        "Safari łodzią po rzece",
+        "Setki gatunków ptaków",
+        "Spotkania z krokodylami"
+      ]
+    },
+    {
+      "slug": "gitega",
+      "name": "Gitega",
+      "loc": "w Gitega",
+      "type": "miasto",
+      "gygQuery": "Gitega Burundi",
+      "airport": "BJM",
+      "forWhom": "Dla tych, którzy chcą poznać historyczne i kulturalne serce Burundi oraz jego tradycje.",
+      "intro": [
+        "Gitega, obecna stolica Burundi, jest miastem o bogatej historii i znaczeniu kulturowym. Położona w centrum kraju, była dawniej siedzibą królów Burundi i do dziś zachowuje swój tradycyjny charakter. Znajduje się tu Muzeum Narodowe, które prezentuje artefakty z historii królestwa i etnografii kraju, dając wgląd w jego dziedzictwo.",
+        "Odwiedzając Gitegę, można poczuć bardziej autentyczny, mniej skomercjalizowany obraz Burundi. Miasto jest spokojniejsze niż Bujumbura i oferuje możliwość poznania lokalnych rzemieślników oraz tradycyjnych tańców bębniarzy, które są ważnym elementem kultury burundyjskiej. To centrum tradycji i historii kraju."
+      ],
+      "highlights": [
+        "Muzeum Narodowe w Gitega",
+        "Tradycyjne bębny burundyjskie",
+        "Architektura kolonialna",
+        "Lokalne rynki i rzemiosło"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Jezioro Tanganika",
+      "text": "Drugie najgłębsze jezioro świata, oferujące piaszczyste plaże, rejsy i obserwacje unikalnych gatunków ryb.",
+      "gygQuery": "Lake Tanganyika"
+    },
+    {
+      "name": "Park Narodowy Rusizi",
+      "text": "Rezerwat przyrody w pobliżu Bujumbury, słynący z dużych populacji hipopotamów, krokodyli i bogactwa ptactwa wodnego.",
+      "gygQuery": "Rusizi National Park"
+    },
+    {
+      "name": "Wodospady Karera",
+      "text": "Seria malowniczych kaskad w południowo-wschodnim Burundi, otoczona bujną roślinnością, idealna na piesze wycieczki.",
+      "gygQuery": "Karera Waterfalls"
+    },
+    {
+      "name": "Źródło Nilu",
+      "text": "Jedno z uznawanych źródeł Nilu, oznaczone symbolicznym pomnikiem w pobliżu Rutany, atrakcja dla geografów i poszukiwaczy.",
+      "gygQuery": "Source of the Nile Burundi"
+    },
+    {
+      "name": "Muzeum Narodowe w Gitega",
+      "text": "Placówka prezentująca bogatą historię królestwa Burundi, jego etnografię i tradycyjne rzemiosło.",
+      "gygQuery": "Gitega National Museum"
+    },
+    {
+      "name": "Rezerwat Leśny Bururi",
+      "text": "Górski las deszczowy, dom dla wielu gatunków ptaków i małp, oferujący szlaki trekkingowe i piękne widoki.",
+      "gygQuery": "Bururi Forest Reserve"
+    },
+    {
+      "name": "Monument Livingstone-Stanley",
+      "text": "Kamień upamiętniający spotkanie słynnych odkrywców Davida Livingstone'a i Henry'ego Stanleya w 1871 roku.",
+      "gygQuery": "Livingstone Stanley Monument Burundi"
+    },
+    {
+      "name": "Bębniarze z Gishory",
+      "text": "Tradycyjne występy bębniarzy, wpisane na listę UNESCO, prezentujące żywą kulturę i rytm Burundi.",
+      "gygQuery": "Gishora Drum Sanctuary"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia burundyjska jest prosta, ale pożywna, bazująca na lokalnych produktach. Podstawą diety są zboża, takie jak kukurydza i sorgo, z których przygotowuje się ugali - gęstą papkę podobną do polenty. Popularne są również fasola, groch, bataty, maniok oraz banany, często podawane w postaci smażonej lub gotowanej. Ze względu na dostęp do Jeziora Tanganika, ryby, zwłaszcza sangala i mukeke, stanowią ważny element diety, przygotowywane na wiele sposobów, często grillowane lub smażone. Mięso, głównie koźlina i wołowina, jest spożywane rzadziej. Warto spróbować lokalnych soków owocowych i tradycyjnego piwa bananowego."
+  ],
+  "faq": [
+    {
+      "q": "Czy Burundi jest bezpieczne dla turystów z Polski?",
+      "a": "Ministerstwo Spraw Zagranicznych odradza wszelkie podróże do Burundi, które nie są konieczne, ze względu na niestabilną sytuację bezpieczeństwa i wysokie ryzyko przestępczości. Należy zachować szczególną ostrożność."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do wjazdu do Burundi?",
+      "a": "Obywatele Polski potrzebują wizy, paszportu ważnego co najmniej 6 miesięcy oraz międzynarodowej książeczki szczepień z potwierdzeniem szczepienia na żółtą febrę."
+    },
+    {
+      "q": "Jaka jest waluta Burundi i czy można płacić kartą?",
+      "a": "Walutą jest frank burundyjski (BIF). Płatności kartą są bardzo ograniczone, głównie w większych hotelach w Bujumburze. Zaleca się posiadanie gotówki w USD lub EUR."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Burundi?",
+      "a": "Publiczny transport jest słabo rozwinięty. Najbezpieczniej i najwygodniej jest wynająć samochód z kierowcą lub korzystać z taksówek, zwłaszcza w Bujumburze. Podróże między miastami mogą być problematyczne ze względu na stan dróg i bezpieczeństwo."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Burundi?",
+      "a": "Najlepsze okresy na podróż to pora sucha: od czerwca do września oraz od grudnia do lutego. W tych miesiącach warunki pogodowe są najbardziej sprzyjające, a drogi łatwiej przejezdne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "francja",
+  "loc": "we Francji",
+  "to": "do Francji",
+  "capital": "Paryż",
+  "popularity": 55,
+  "touroperator": true,
+  "gygQuery": "France",
+  "teaser": "Francja to kraj o niezwykłej różnorodności - od romantycznego Paryża, przez słoneczne Lazurowe Wybrzeże, po majestatyczne Alpy. Każdy znajdzie tu coś dla siebie.",
+  "intro": [
+    "Francja, kraj o bogatej historii i kulturze, od lat przyciąga turystów z całego świata. To mozaika krajobrazów - od piaszczystych plaż Atlantyku i Morza Śródziemnego, przez malownicze winnice, po strzeliste szczyty Alp. Nie brakuje tu zabytków, światowej klasy muzeów i urokliwych miasteczek, które zachwycają swoją architekturą i atmosferą. Francuska kuchnia, wina i sery to osobny rozdział, który zadowoli nawet najbardziej wymagających smakoszy.",
+    "Francja jest idealnym kierunkiem dla każdego - dla zakochanych par szukających romantycznych chwil w Paryżu, dla rodzin z dziećmi, które docenią zamki Loary czy parki rozrywki. Miłośnicy aktywnego wypoczynku znajdą tu doskonałe warunki do narciarstwa, trekkingu czy sportów wodnych. Pasjonaci sztuki i historii będą zachwyceni licznymi galeriami i muzeami, a także średniowiecznymi miasteczkami rozsianymi po całym kraju. To także raj dla smakoszy, którzy chcą odkrywać regionalne specjały.",
+    "Podróż z Polski do Francji jest prosta i szybka. Bezpośrednie loty do Paryża, Nicei, Marsylii czy Lyonu oferuje wielu przewoźników, zarówno tradycyjnych, jak i niskokosztowych. Czas lotu to zazwyczaj około 2 do 3 godzin, w zależności od miasta docelowego. Dzięki przynależności do Unii Europejskiej, obywatele Polski mogą podróżować do Francji jedynie na dowód osobisty, co znacznie ułatwia planowanie wyjazdu. Drogi są dobrze rozwinięte, a transport publiczny, zwłaszcza kolejowy, działa sprawnie."
+  ],
+  "highlights": [
+    "Romantyczny Paryż i Wieża Eiffla",
+    "Słoneczne Lazurowe Wybrzeże",
+    "Majestatyczne Alpy Francuskie",
+    "Zamki w Dolinie Loary",
+    "Pola lawendy w Prowansji",
+    "Wyśmienita kuchnia i wina"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Francji zależy od celu wyjazdu. Wiosna (kwiecień-maj) i wczesna jesień (wrzesień-październik) to idealne miesiące na zwiedzanie miast i regionów winiarskich, gdy pogoda jest przyjemna, a tłumy mniejsze. Lato (czerwiec-sierpień) sprzyja wypoczynkowi na plażach Lazurowego Wybrzeża i aktywnościom w górach. Zimą Alpy Francuskie oferują doskonałe warunki do narciarstwa.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      7,
+      8,
+      12,
+      16,
+      19,
+      23,
+      25,
+      25,
+      21,
+      16,
+      11,
+      8
+    ],
+    "sea": [
+      13,
+      13,
+      13,
+      14,
+      17,
+      21,
+      23,
+      24,
+      22,
+      20,
+      17,
+      15
+    ],
+    "note": "Dane klimatyczne dla temperatury powietrza dotyczą Paryża, dla temperatury morza Lazurowego Wybrzeża (okolice Nicei)."
+  },
+  "practical": {
+    "flight": "około 2-3 h (loty bezpośrednie)",
+    "timeDiff": "brak (taka sama strefa czasowa)",
+    "documents": "Dla obywateli Polski wystarczy ważny dowód osobisty lub paszport. Przed wyjazdem zawsze sprawdź aktualne wymogi na stronach MSZ.",
+    "money": "Walutą jest euro (EUR). Płatności kartą są powszechne, gotówka przyda się na mniejsze wydatki na targach czy w małych sklepach.",
+    "plugs": "Typ E, taki sam jak w Polsce, więc nie potrzebujesz przejściówki.",
+    "language": "Oficjalnym językiem jest francuski. W regionach turystycznych i większych miastach bez problemu porozumiesz się po angielsku.",
+    "safety": "Francja jest krajem bezpiecznym, jednak w dużych miastach i popularnych miejscach turystycznych należy uważać na kieszonkowców. Zaleca się zachowanie ostrożności w zatłoczonych miejscach. Warto sprawdzić aktualne komunikaty MSZ przed wyjazdem."
+  },
+  "regions": [
+    {
+      "slug": "paryz",
+      "name": "Paryż",
+      "loc": "w Paryżu",
+      "type": "miasto",
+      "gygQuery": "Paris",
+      "airport": "CDG/ORY",
+      "forWhom": "Dla miłośników sztuki, historii i romantycznych spacerów, a także dla rodzin i poszukiwaczy kulinarnych wrażeń.",
+      "intro": [
+        "Paryż, stolica Francji, to miasto, które nie potrzebuje rekomendacji. Znany jako Miasto Miłości i Miasto Świateł, oferuje niezliczone atrakcje, od ikonicznej Wieży Eiffla, przez majestatyczny Luwr, po urokliwe uliczki Montmartre. Spacer wzdłuż Sekwany, wizyta w katedrze Notre-Dame czy rejs statkiem to tylko niektóre z obowiązkowych punktów programu.",
+        "Kulinarna scena Paryża to prawdziwa uczta dla podniebienia, od tradycyjnych bistro, po eleganckie restauracje z gwiazdkami Michelin. Miasto tętni życiem kulturalnym - liczne teatry, kabarety i galerie sztuki zapewniają rozrywkę na każdy wieczór. Paryż to także idealna baza wypadowa do zwiedzania pobliskich atrakcji, takich jak Pałac w Wersalu czy Disneyland."
+      ],
+      "highlights": [
+        "Wieża Eiffla i Luwr",
+        "Katedra Notre-Dame",
+        "Spacer po Montmartre",
+        "Rejs po Sekwanie",
+        "Pałac w Wersalu",
+        "Kawiarnie i cukiernie"
+      ]
+    },
+    {
+      "slug": "lazurowe-wybrzeze",
+      "name": "Lazurowe Wybrzeże",
+      "loc": "na Lazurowym Wybrzeżu",
+      "type": "region",
+      "gygQuery": "French Riviera",
+      "airport": "Nicea (NCE)",
+      "forWhom": "Idealne dla szukających słońca, luksusu, pięknych plaż i malowniczych miasteczek.",
+      "intro": [
+        "Lazurowe Wybrzeże, czyli Riwiera Francuska, to synonim słońca, błękitnego morza i luksusu. Rozciągające się od Menton po Saint-Tropez, oferuje piękne plaże, urokliwe zatoczki i tętniące życiem kurorty. Nicea, Cannes, Monako czy Saint-Tropez to tylko niektóre z miejsc, które przyciągają turystów swoim blaskiem i śródziemnomorskim klimatem.",
+        "Region ten słynie z festiwali filmowych, kasyn i eleganckich butików, ale także z malowniczych wiosek położonych na wzgórzach, takich jak Eze czy Saint-Paul de Vence. Lazurowe Wybrzeże to także doskonałe miejsce do uprawiania sportów wodnych, żeglarstwa i relaksu na jednej z licznych plaż. Kuchnia regionu obfituje w świeże owoce morza i lokalne warzywa."
+      ],
+      "highlights": [
+        "Plaże w Nicei i Cannes",
+        "Spacer po Promenadzie Anglików",
+        "Wizyta w Monako",
+        "Malownicze Eze Village",
+        "Żeglarstwo i sporty wodne",
+        "Lokalne targi prowansalskie"
+      ]
+    },
+    {
+      "slug": "alpy-francuskie",
+      "name": "Alpy Francuskie",
+      "loc": "w Alpach Francuskich",
+      "type": "region",
+      "gygQuery": "French Alps",
+      "airport": "Genewa (GVA) / Lyon (LYS)",
+      "forWhom": "Raj dla narciarzy zimą i miłośników górskich wędrówek, wspinaczki oraz pięknych krajobrazów latem.",
+      "intro": [
+        "Francuskie Alpy to jeden z najbardziej spektakularnych regionów górskich w Europie. Zimą przyciągają miliony narciarzy i snowboardzistów do światowej klasy ośrodków, takich jak Chamonix, Courchevel czy Val d'Isère. Oferują one setki kilometrów tras, nowoczesne wyciągi i doskonałą infrastrukturę après-ski.",
+        "Latem Alpy stają się rajem dla miłośników trekkingu, wspinaczki i kolarstwa górskiego. Malownicze szlaki prowadzą przez zielone doliny, obok krystalicznie czystych jezior i pod majestatycznymi szczytami, w tym Mont Blanc, najwyższym szczytem Europy Zachodniej. Region ten oferuje również wiele możliwości dla rodzin, z parkami linowymi, spływami kajakowymi i pięknymi widokami z kolejek linowych."
+      ],
+      "highlights": [
+        "Narciarstwo w Chamonix",
+        "Trekking w Parku Narodowym Vanoise",
+        "Widoki z Mont Blanc",
+        "Jezioro Annecy",
+        "Kolarstwo górskie",
+        "Alpejskie wioski"
+      ]
+    },
+    {
+      "slug": "dolina-loary",
+      "name": "Dolina Loary",
+      "loc": "w Dolinie Loary",
+      "type": "region",
+      "gygQuery": "Loire Valley",
+      "airport": "Tours (TUF)",
+      "forWhom": "Kraina zamków i ogrodów, idealna dla rodzin i pasjonatów historii, a także dla smakoszy wina.",
+      "intro": [
+        "Dolina Loary, wpisana na Listę Światowego Dziedzictwa UNESCO, to region słynący z ponad trzystu majestatycznych zamków. To tutaj królowie Francji i arystokracja budowali swoje rezydencje, tworząc architektoniczne arcydzieła. Chambord, Chenonceau, Villandry z jego słynnymi ogrodami - każdy zamek ma swoją unikalną historię i urok, które zachwycają zwiedzających.",
+        "Oprócz zamków, Dolina Loary to także kraina winnic, produkująca jedne z najlepszych białych win we Francji. Można tu odwiedzić liczne winiarnie i degustować lokalne specjały. Region jest idealny do zwiedzania rowerem, dzięki wielu malowniczym trasom wzdłuż rzeki Loary. To doskonałe miejsce na spokojny urlop, łączący historię, naturę i kulinaria."
+      ],
+      "highlights": [
+        "Zamek w Chambord",
+        "Zamek w Chenonceau",
+        "Ogrody Villandry",
+        "Degustacje win",
+        "Trasy rowerowe wzdłuż Loary",
+        "Malownicze miasteczka"
+      ]
+    },
+    {
+      "slug": "prowansja",
+      "name": "Prowansja",
+      "loc": "w Prowansji",
+      "type": "region",
+      "gygQuery": "Provence",
+      "airport": "Marsylia (MRS)",
+      "forWhom": "Dla tych, którzy pragną sielskich krajobrazów, lawendowych pól, śródziemnomorskiej kuchni i malowniczych wiosek.",
+      "intro": [
+        "Prowansja to esencja południowej Francji - region pełen słońca, zapachu lawendy i ziół, z charakterystycznymi kamiennymi wioskami i tętniącymi życiem targami. To kraina, która inspirowała artystów takich jak Van Gogh czy Cézanne. Od wzgórz Luberon, przez wąwozy Verdon, po wybrzeże Morza Śródziemnego, Prowansja oferuje różnorodność krajobrazów i doświadczeń.",
+        "Wizyta w Prowansji to okazja do odkrywania urokliwych miasteczek, takich jak Gordes, Roussillon czy Bonnieux, spacerów po lawendowych polach (szczególnie w lipcu), oraz delektowania się wyśmienitą kuchnią, opartą na świeżych produktach lokalnych. Marsylia i Awinion to większe miasta z bogatą historią i kulturą, które również warto odwiedzić."
+      ],
+      "highlights": [
+        "Lawendowe pola Valensole",
+        "Wąwóz Verdon",
+        "Miasteczka Luberon (Gordes, Roussillon)",
+        "Targi prowansalskie",
+        "Awinion i Pałac Papieski",
+        "Kuchnia prowansalska"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wieża Eiffla",
+      "text": "Symbol Paryża i całej Francji, oferujący spektakularne widoki na miasto, szczególnie o zachodzie słońca.",
+      "gygQuery": "Eiffel Tower"
+    },
+    {
+      "name": "Luwr",
+      "text": "Jedno z największych i najważniejszych muzeów sztuki na świecie, gdzie można podziwiać m.in. Monę Lisę.",
+      "gygQuery": "Louvre Museum"
+    },
+    {
+      "name": "Pałac w Wersalu",
+      "text": "Dawna rezydencja królów Francji, słynąca z bogatych wnętrz, Sali Lustrzanej i przepięknych ogrodów.",
+      "gygQuery": "Palace of Versailles"
+    },
+    {
+      "name": "Mont Saint-Michel",
+      "text": "Wyspa pływowa z benedyktyńskim klasztorem, wpisana na listę UNESCO, wygląda jak z bajki.",
+      "gygQuery": "Mont Saint-Michel"
+    },
+    {
+      "name": "Lazurowe Wybrzeże",
+      "text": "Słynny region na południu Francji, z pięknymi plażami, luksusowymi kurortami i malowniczymi miasteczkami.",
+      "gygQuery": "French Riviera"
+    },
+    {
+      "name": "Pola lawendy w Prowansji",
+      "text": "Rozległe, fioletowe pola lawendy, które w okresie kwitnienia (czerwiec-lipiec) tworzą niezapomniane krajobrazy.",
+      "gygQuery": "Provence lavender fields"
+    },
+    {
+      "name": "Katedra Notre-Dame",
+      "text": "Gotycka katedra w Paryżu, pomimo pożaru wciąż będąca symbolem miasta i ważnym zabytkiem.",
+      "gygQuery": "Notre Dame Cathedral"
+    },
+    {
+      "name": "Wąwóz Verdon",
+      "text": "Jeden z najgłębszych kanionów Europy, idealny do kajakarstwa, raftingu i pieszych wędrówek z zapierającymi dech w piersiach widokami.",
+      "gygQuery": "Verdon Gorge"
+    }
+  ],
+  "cuisine": [
+    "Francuska kuchnia to jeden z filarów kultury tego kraju, uznawana za dziedzictwo UNESCO. Jest niezwykle różnorodna, od eleganckich dań z gwiazdkami Michelin, po proste, regionalne specjały. Obowiązkowe pozycje to bagietki, sery (jest ich setki!), wina z różnych regionów, croissanty, makaroniki. Warto spróbować coq au vin, boeuf bourguignon, tartiflette w Alpach, ratatouille w Prowansji czy świeżych owoców morza na wybrzeżu. Każdy region ma swoje kulinarne perełki, a posiłek to dla Francuzów ważny rytuał, celebrowany z należytą uwagą."
+  ],
+  "faq": [
+    {
+      "q": "Czy Francja jest droga?",
+      "a": "Francja, zwłaszcza Paryż i Lazurowe Wybrzeże, może być droższa niż Polska. Ceny zakwaterowania, posiłków w restauracjach i atrakcji turystycznych są wyższe. Można jednak znaleźć tańsze opcje, korzystając z supermarketów, lokalnych targów i noclegów poza ścisłym centrum."
+    },
+    {
+      "q": "Jakie są typowe potrawy we Francji?",
+      "a": "Do typowych potraw należą coq au vin (kurczak w winie), boeuf bourguignon (wołowina po burgundzku), ratatouille (danie warzywne), quiche lorraine (placek z boczkiem i serem), a także liczne sery, bagietki, croissanty i makaroniki. Warto spróbować regionalnych specjałów."
+    },
+    {
+      "q": "Czy we Francji można płacić kartą?",
+      "a": "Tak, płatności kartą są bardzo powszechne we Francji, zarówno w sklepach, restauracjach, jak i hotelach. Gotówka przyda się na drobne zakupy na targach, w małych piekarniach czy kawiarniach."
+    },
+    {
+      "q": "Jaki język jest używany we Francji?",
+      "a": "Oficjalnym językiem jest francuski. W większych miastach i popularnych regionach turystycznych bez problemu porozumiesz się po angielsku, jednak znajomość podstawowych zwrotów po francusku jest zawsze mile widziana i doceniana przez mieszkańców."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Francji?",
+      "a": "Nie, obywatele Polski, jako członkowie Unii Europejskiej, nie potrzebują wizy do Francji. Wystarczy ważny dowód osobisty lub paszport, aby wjechać i przebywać na terenie kraju."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

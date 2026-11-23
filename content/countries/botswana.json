@@ -1,0 +1,207 @@
+{
+  "slug": "botswana",
+  "loc": "w Botswanie",
+  "to": "do Botswany",
+  "capital": "Gaborone",
+  "popularity": 15,
+  "touroperator": false,
+  "gygQuery": "Botswana",
+  "teaser": "Botswana to królestwo dzikiej przyrody, gdzie majestatyczna Delta Okawango i Park Narodowy Chobe oferują niezapomniane safari z bliskimi spotkaniami ze zwierzętami.",
+  "intro": [
+    "Botswana, położona w sercu Afryki Południowej, to prawdziwa perła dla miłośników dzikiej przyrody i autentycznych safari. Kraj ten słynie z rygorystycznej polityki ochrony środowiska, co przekłada się na jedne z najlepiej zachowanych ekosystemów na kontynencie. To miejsce, gdzie zamiast masowej turystyki, stawia się na jakość i kameralne doświadczenia, często w luksusowych, ale ekologicznych lodge'ach. Jeśli marzysz o spotkaniach z Wielką Piątką, eksploracji rozlewisk Delty Okawango mokoro (tradycyjną łodzią) lub podziwianiu tysięcy słoni w Chobe, Botswana jest kierunkiem dla Ciebie.",
+    "Ten kraj jest idealny dla doświadczonych podróżników, ceniących spokój, ciszę i bliskość natury, a także gotowych na wyższe koszty związane z zachowaniem unikalnego charakteru regionu. Jest to destynacja dla osób szukających prawdziwej przygody, z dala od utartych szlaków, gdzie każda chwila w buszu jest nieprzewidywalna i ekscytująca. Botswana to także raj dla fotografów, którzy znajdą tu niezliczone okazje do uchwycenia spektakularnych scen z życia afrykańskich zwierząt w ich naturalnym środowisku.",
+    "Podróż z Polski do Botswany wymaga przesiadek, najczęściej w europejskich hubach, takich jak Amsterdam, Frankfurt, Londyn, a następnie w Johannesburgu (RPA) lub Addis Abebie (Etiopia). Cała podróż, wliczając przesiadki, zajmuje zazwyczaj około 12-16 godzin. Po przylocie do głównego lotniska w Gaborone lub Maun, często kontynuuje się podróż małymi samolotami czarterowymi do odległych obozów safari, co samo w sobie jest już częścią afrykańskiej przygody. Warto zarezerwować wycieczkę z wyprzedzeniem, najlepiej przez wyspecjalizowane biuro podróży."
+  ],
+  "highlights": [
+    "Safari w Delcie Okawango - unikalny ekosystem",
+    "Park Narodowy Chobe - tysiące słoni",
+    "Rezerwat Central Kalahari - pustynne safari",
+    "Makgadikgadi Pans - solne pustynie i baobaby",
+    "Wędrówki mokoro po rozlewiskach",
+    "Obserwacja ptaków - raj dla ornitologów"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na safari w Botswanie to sucha pora, czyli od maja do października. W tym okresie zwierzęta gromadzą się wokół nielicznych źródeł wody, co ułatwia ich obserwację. Temperatury są przyjemne, a roślinność mniej bujna, co poprawia widoczność. Pora deszczowa (listopad-kwiecień) przynosi bujną zieleń i narodziny młodych zwierząt, ale utrudnia poruszanie się i obserwację, choć jest to świetny czas dla miłośników ptaków.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      32,
+      31,
+      30,
+      28,
+      25,
+      22,
+      22,
+      25,
+      29,
+      31,
+      32,
+      32
+    ],
+    "sea": null,
+    "note": "dla Gaborone"
+  },
+  "practical": {
+    "flight": "około 12-16 h z przesiadkami",
+    "timeDiff": "W okresie polskiej zimy (październik-marzec) Botswana wyprzedza Polskę o 1 godzinę. W okresie polskiego lata (kwiecień-wrzesień) czas jest taki sam jak w Polsce.",
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych przed podróżą.",
+    "money": "Walutą jest pula botswańska (BWP). Płatności kartą są powszechne w większych miastach i luksusowych lodge'ach, ale gotówka przyda się na drobne wydatki. Warto mieć dolary amerykańskie na napiwki.",
+    "plugs": "Typy D, G i M. Zaleca się zabranie uniwersalnego adaptera.",
+    "language": "Angielski i setswana. Angielski jest szeroko używany w turystyce i biznesie.",
+    "safety": "Botswana jest krajem stosunkowo bezpiecznym. Należy zachować ostrożność w miastach, szczególnie po zmroku. Największym zagrożeniem jest dzika przyroda - nigdy nie należy zbliżać się do zwierząt. W północnych regionach (Delta Okawango, Chobe) występuje ryzyko malarii, dlatego zaleca się profilaktykę i konsultację z lekarzem. Wymagane jest szczepienie przeciw żółtej febrze, jeśli przybywa się z kraju, gdzie choroba występuje endemicznie."
+  },
+  "regions": [
+    {
+      "slug": "delta-okawango",
+      "name": "Delta Okawango",
+      "loc": "w Delcie Okawango",
+      "type": "region",
+      "gygQuery": "Okavango Delta",
+      "airport": "MUB",
+      "forWhom": "To raj dla miłośników unikalnych ekosystemów i safari wodnego, oferujący bliskie spotkania z dziką przyrodą.",
+      "intro": [
+        "Delta Okawango to wpisany na listę UNESCO, największy śródlądowy system rzeczny świata, który zamiast do morza, uchodzi do pustyni Kalahari, tworząc rozległe mokradła, wyspy i kanały. To jedno z najbardziej dziewiczych miejsc na Ziemi, gdzie można doświadczyć safari w zupełnie inny sposób - pływając tradycyjnym mokoro (dłubanką) lub łodzią motorową, podziwiając zwierzęta wodne i lądowe.",
+        "Region ten jest domem dla ogromnej różnorodności fauny, w tym słoni, bawołów, hipopotamów, krokodyli, a także rzadkich gatunków ptaków. Luksusowe lodge są często położone na prywatnych koncesjach, co zapewnia ekskluzywne i kameralne doświadczenia safari, z dala od tłumów. Warto pamiętać, że dostęp do wielu obozów jest możliwy tylko małymi samolotami, co dodaje przygodzie wyjątkowego charakteru."
+      ],
+      "highlights": [
+        "Safari mokoro i łodzią",
+        "Wysoka koncentracja dzikich zwierząt",
+        "Obserwacja ptaków",
+        "Luksusowe, ekologiczne lodge"
+      ]
+    },
+    {
+      "slug": "park-narodowy-chobe",
+      "name": "Park Narodowy Chobe",
+      "loc": "w Parku Narodowym Chobe",
+      "type": "park narodowy",
+      "gygQuery": "Chobe National Park",
+      "airport": "BBK",
+      "forWhom": "Idealne miejsce dla tych, którzy chcą zobaczyć największe stada słoni w Afryce oraz bogactwo innych gatunków zwierząt.",
+      "intro": [
+        "Park Narodowy Chobe, położony w północnej Botswanie, słynie z największej populacji słoni afrykańskich na świecie - szacuje się, że żyje tu ponad 120 000 osobników. Rzeka Chobe, stanowiąca północną granicę parku, jest głównym źródłem wody i przyciąga niezliczone ilości zwierząt, zwłaszcza w porze suchej. Safari rzeczne to jedna z głównych atrakcji, pozwalająca obserwować słonie kąpiące się w rzece, hipopotamy i krokodyle z bliskiej odległości.",
+        "Oprócz słoni, w Chobe można spotkać lwy, lamparty, bawoły, żyrafy, zebry i wiele gatunków antylop. Park oferuje zarówno safari samochodowe, jak i niezapomniane rejsy po rzece Chobe, zwłaszcza o zachodzie słońca. Jest to jeden z najbardziej dostępnych parków w Botswanie, często łączony z wizytą w pobliskich Wodospadach Wiktorii (po stronie Zimbabwe lub Zambii)."
+      ],
+      "highlights": [
+        "Największa populacja słoni",
+        "Safari rzeczne po rzece Chobe",
+        "Duża różnorodność dzikich zwierząt",
+        "Bliskość Wodospadów Wiktorii"
+      ]
+    },
+    {
+      "slug": "rezerwat-central-kalahari",
+      "name": "Rezerwat Przyrody Central Kalahari",
+      "loc": "w Rezerwacie Przyrody Central Kalahari",
+      "type": "park narodowy",
+      "gygQuery": "Central Kalahari Game Reserve",
+      "airport": "GBE",
+      "forWhom": "Dla poszukiwaczy prawdziwej dziczy i unikalnych krajobrazów pustynnych, z dala od cywilizacji.",
+      "intro": [
+        "Rezerwat Przyrody Central Kalahari to drugi co do wielkości rezerwat dzikiej przyrody na świecie, zajmujący ogromną powierzchnię pustyni Kalahari. To miejsce dla prawdziwych poszukiwaczy przygód, którzy cenią sobie samotność i surowe piękno pustynnego krajobrazu. Mimo że jest to pustynia, rezerwat tętni życiem, szczególnie po deszczach, kiedy trawy zielenią się, przyciągając stada antylop, zebr i drapieżników.",
+        "Safari w Central Kalahari to doświadczenie inne niż w Delcie Okawango czy Chobe. Tutaj liczy się cierpliwość i umiejętność odnajdywania zwierząt w rozległych przestrzeniach. Można tu spotkać lwy, gepardy, hieny, a także unikalne gatunki pustynne, takie jak oryksy czy springboki. To także dom dla ludu San, rdzennych mieszkańców Kalahari, których kultura i wiedza o przetrwaniu w trudnych warunkach są fascynujące."
+      ],
+      "highlights": [
+        "Rozległe pustynne krajobrazy",
+        "Unikalne gatunki pustynne",
+        "Spotkania z ludem San",
+        "Prawdziwe doświadczenie dziczy"
+      ]
+    },
+    {
+      "slug": "makgadikgadi-pans",
+      "name": "Solniska Makgadikgadi",
+      "loc": "na Solniskach Makgadikgadi",
+      "type": "region",
+      "gygQuery": "Makgadikgadi Pans",
+      "airport": "MUB",
+      "forWhom": "Dla tych, którzy szukają surrealistycznych krajobrazów, ciszy i niezwykłych zjawisk przyrodniczych, takich jak migracje zebr.",
+      "intro": [
+        "Solniska Makgadikgadi to pozostałości po ogromnym prehistorycznym jeziorze, które wyschło tysiące lat temu. Dziś to jeden z największych kompleksów solnych na świecie, rozciągający się na tysiącach kilometrów kwadratowych. Krajobraz jest tu hipnotyzujący - płaskie, białe przestrzenie, przerywane jedynie przez samotne baobaby, tworzą wrażenie nieskończoności i kosmicznej scenerii. W porze suchej solniska są bezludne i ciche, idealne do kontemplacji gwiazd.",
+        "W porze deszczowej, kiedy solniska wypełniają się wodą, stają się domem dla tysięcy flamingów i innych ptaków wodnych. To także czas, kiedy ma miejsce druga co do wielkości migracja zebr i antylop w Afryce, ustępująca tylko tej w Serengeti. Można tu również spotkać surykatki, które są niezwykle fotogeniczne i pozwalają na bliskie obserwacje. Nocleg w namiocie na środku solniska to niezapomniane przeżycie."
+      ],
+      "highlights": [
+        "Surrealistyczne krajobrazy solne",
+        "Migracje zebr i antylop",
+        "Kolonie flamingów",
+        "Obserwacja surykatek"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Safari w Delcie Okawango",
+      "text": "Pływanie mokoro lub łodzią po kanałach Delty to esencja botswańskiego safari, pozwalająca na bliskie obserwacje zwierząt wodnych i lądowych.",
+      "gygQuery": "Okavango Delta safari"
+    },
+    {
+      "name": "Rejs po rzece Chobe",
+      "text": "Niezapomniane rejsy o zachodzie słońca, podczas których można podziwiać tysiące słoni, hipopotamy i krokodyle w ich naturalnym środowisku.",
+      "gygQuery": "Chobe River cruise"
+    },
+    {
+      "name": "Rezerwat Moremi",
+      "text": "Część Delty Okawango, słynąca z bogactwa dzikiej zwierzyny i różnorodności krajobrazów, od mokradeł po suche tereny leśne.",
+      "gygQuery": "Moremi Game Reserve safari"
+    },
+    {
+      "name": "Solniska Makgadikgadi",
+      "text": "Odkrywanie rozległych, białych solonisk z majestatycznymi baobabami, idealne do obserwacji gwiazd i spotkań z surykatkami.",
+      "gygQuery": "Makgadikgadi Pans tour"
+    },
+    {
+      "name": "Wodospady Wiktorii (strona Zimbabwe/Zambii)",
+      "text": "Choć leżą poza Botswaną, są często łączone z wycieczką do Chobe ze względu na bliskość i łatwy dostęp, oferując spektakularne widoki.",
+      "gygQuery": "Victoria Falls tour"
+    },
+    {
+      "name": "Wzgórza Tsodilo",
+      "text": "Miejsce wpisane na listę UNESCO, znane z ponad 4000 malowideł naskalnych, świadectwo tysięcy lat ludzkiej historii i kultury.",
+      "gygQuery": "Tsodilo Hills rock art"
+    },
+    {
+      "name": "Gaborone",
+      "text": "Stolica Botswany, oferująca wgląd w miejskie życie kraju, z lokalnymi rynkami, Muzeum Narodowym i rezerwatem przyrody Gaborone Game Reserve.",
+      "gygQuery": "Gaborone city tour"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia botswańska jest prosta, sycąca i opiera się głównie na mięsie, szczególnie wołowinie, oraz warzywach i kaszach. Narodowym daniem jest seswaa, czyli wolno gotowana, rozdrobniona wołowina (lub koźlęcina) podawana z pap (gęsta kasza kukurydziana) lub sorgo. Popularne są także potrawy z grilla, takie jak boerewors (kiełbaski) i braaivleis (grillowane mięso). Warto spróbować także morogo (dzikie warzywa liściaste) oraz mąki z larw mopane, która jest lokalnym przysmakiem i źródłem białka. W turystycznych lodge'ach serwuje się zazwyczaj kuchnię międzynarodową z elementami lokalnymi."
+  ],
+  "faq": [
+    {
+      "q": "Czy Botswana jest bezpieczna dla turystów?",
+      "a": "Botswana jest uważana za jeden z bezpieczniejszych krajów Afryki. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza w miastach, i zawsze pamiętać o bezpieczeństwie w kontakcie z dziką przyrodą."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Botswany?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze zalecamy sprawdzenie aktualnych wymogów przed podróżą."
+    },
+    {
+      "q": "Jaka waluta jest w Botswanie i czy mogę płacić kartą?",
+      "a": "Walutą jest pula botswańska (BWP). W większych miastach i luksusowych lodge'ach można płacić kartą, ale warto mieć gotówkę na drobne wydatki i napiwki. Dolary amerykańskie są często akceptowane."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na safari do Botswany?",
+      "a": "Najlepszy czas na safari to sucha pora, od maja do października. Wtedy zwierzęta gromadzą się wokół źródeł wody, a widoczność jest najlepsza. Pora deszczowa (listopad-kwiecień) jest dobra dla obserwacji ptaków i narodzin młodych."
+    },
+    {
+      "q": "Czy w Botswanie jest malaria?",
+      "a": "Tak, w północnych regionach Botswany (Delta Okawango, Chobe) występuje ryzyko malarii. Zaleca się stosowanie profilaktyki antymalarycznej, repelentów i spanie pod moskitierą. Przed wyjazdem skonsultuj się z lekarzem."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

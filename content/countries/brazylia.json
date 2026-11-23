@@ -1,0 +1,224 @@
+{
+  "slug": "brazylia",
+  "loc": "w Brazylii",
+  "to": "do Brazylii",
+  "capital": "Brasília",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "Brazil",
+  "teaser": "Brazylia to kraj kontrastów - od tętniących życiem metropolii i karnawałowych rytmów, po dziką Amazonię i majestatyczne wodospady.",
+  "intro": [
+    "Brazylia to olbrzymi kraj, który oferuje niezwykłą różnorodność doświadczeń. Przyciąga przede wszystkim swoją energią, słynnym karnawałem w Rio de Janeiro, pięknymi plażami, a także niezmierzoną dżunglą Amazonii i potężnymi wodospadami Iguaçu. To idealne miejsce dla tych, którzy szukają zarówno relaksu, jak i przygody, a także dla miłośników bogatej kultury i muzyki. Kraj jest mozaiką wpływów afrykańskich, europejskich i rdzennych, co widać w kuchni, sztuce i codziennym życiu.",
+    "Podróż do Brazylii to propozycja dla aktywnych turystów, którzy cenią sobie różnorodność i są gotowi na długie przeloty. Znajdą tu coś dla siebie zarówno imprezowicze, poszukiwacze słońca, jak i entuzjaści ekoturystyki czy fani sportów wodnych. Kraj jest ogromny, więc warto dobrze zaplanować trasę, aby zobaczyć jak najwięcej z jego ikonicznych miejsc. To kierunek dla tych, którzy chcą zanurzyć się w zupełnie innej kulturze i doświadczyć jej pełną piersią.",
+    "Loty z Polski do Brazylii zazwyczaj wymagają jednej przesiadki, najczęściej w europejskich hubach takich jak Amsterdam, Paryż, Frankfurt czy Lizbona. Cała podróż, w zależności od połączenia, trwa od 12 do nawet 18 godzin. Najczęściej ląduje się w Rio de Janeiro (GIG) lub São Paulo (GRU). Przed wylotem warto zadbać o szczepienia i ubezpieczenie, a także zapoznać się z lokalnymi zasadami bezpieczeństwa. Pamiętajcie, że Brazylia to kraj o dużej różnicy czasu."
+  ],
+  "highlights": [
+    "Karnawał w Rio - energia i rytm samby",
+    "Wodospady Iguaçu - potęga natury",
+    "Dżungla Amazonii - dzika przyroda",
+    "Słynne plaże Copacabana i Ipanema",
+    "Kolonialny urok Salvadoru",
+    "Statua Chrystusa Odkupiciela"
+  ],
+  "bestTime": {
+    "text": "Brazylia, ze względu na swój rozmiar, ma zróżnicowany klimat. Ogólnie, najlepszy czas na podróż to sucha pora, która w większości regionów przypada na miesiące od maja do września. Unikniecie wtedy intensywnych opadów, szczególnie w regionach tropikalnych. Dla Rio de Janeiro i południa kraju to także łagodniejsza pogoda, mniej upalna niż w szczycie lata. Jeśli planujecie podróż do Amazonii, sucha pora oznacza niższy poziom rzek, co ułatwia eksplorację, ale jednocześnie może ograniczać dostęp do niektórych terenów.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      4,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      30,
+      29,
+      28,
+      26,
+      26,
+      25,
+      26,
+      26,
+      27,
+      28,
+      29
+    ],
+    "sea": [
+      26,
+      27,
+      27,
+      26,
+      25,
+      24,
+      23,
+      23,
+      23,
+      24,
+      25,
+      26
+    ],
+    "note": "dla Rio de Janeiro"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "od -4 do -5 godzin względem Polski (w zależności od pory roku i strefy czasowej w Brazylii)",
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Brazylii. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Zawsze warto sprawdzić aktualne wymogi wizowe na stronie MSZ przed podróżą.",
+    "money": "Walutą jest real brazylijski (BRL). Płatności kartą są powszechne, zwłaszcza w większych miastach i turystycznych miejscach. Warto mieć przy sobie trochę gotówki na drobne wydatki i w mniej rozwiniętych rejonach.",
+    "plugs": "Typ N (standard brazylijski) oraz C (europejski, często kompatybilny). Warto zabrać uniwersalny adapter.",
+    "language": "Językiem urzędowym jest portugalski. W turystycznych miejscach i większych miastach można porozumieć się po angielsku, ale znajomość podstawowych zwrotów po portugalsku będzie bardzo pomocna.",
+    "safety": "Brazylia, zwłaszcza duże miasta, ma problemy z przestępczością. Należy zachować szczególną ostrożność, unikać noszenia drogiej biżuterii i sprzętu, nie spacerować samotnie po zmroku, zwłaszcza w mniej znanych dzielnicach. Zawsze miejcie oko na swoje rzeczy osobiste. Przed wyjazdem zaleca się wykupienie kompleksowego ubezpieczenia zdrowotnego i podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "rio-de-janeiro",
+      "name": "Rio de Janeiro",
+      "loc": "w Rio de Janeiro",
+      "type": "miasto",
+      "gygQuery": "Rio de Janeiro",
+      "airport": "GIG",
+      "forWhom": "Dla miłośników tętniącego życia, ikonicznych widoków i karnawałowych rytmów.",
+      "intro": [
+        "Rio to kwintesencja Brazylii, miasto znane z zapierających dech w piersiach krajobrazów, słynnych plaż Copacabana i Ipanema oraz monumentalnej figury Chrystusa Odkupiciela. Wjeżdżając na wzgórze Corcovado, można podziwiać panoramę miasta, zatok i gór, która na długo pozostaje w pamięci. Miasto pulsuje rytmem samby, szczególnie podczas karnawału, który jest największym show na świecie.",
+        "Oprócz ikonicznych atrakcji, Rio oferuje bogate życie nocne, liczne restauracje serwujące lokalne przysmaki oraz możliwość eksploracji dzielnic takich jak Lapa czy Santa Teresa, znanych z artystycznego klimatu i zabytkowej architektury. Mimo miejskiego zgiełku, w Rio znajdziemy też zielone oazy, jak Park Narodowy Tijuca, gdzie można uciec od zgiełku miasta."
+      ],
+      "highlights": [
+        "Plaże Copacabana i Ipanema",
+        "Chrystus Odkupiciel na Corcovado",
+        "Góra Cukru - Pão de Açúcar",
+        "Karnawał w Rio"
+      ]
+    },
+    {
+      "slug": "salvador",
+      "name": "Salvador",
+      "loc": "w Salvadorze",
+      "type": "miasto",
+      "gygQuery": "Salvador Brazil",
+      "airport": "SSA",
+      "forWhom": "Dla szukających korzeni afrykańskiej kultury, kolonialnej architektury i autentycznego brazylijskiego ducha.",
+      "intro": [
+        "Salvador, dawna stolica Brazylii, to serce afro-brazylijskiej kultury, gdzie tradycje afrykańskie są wciąż żywe i widoczne na każdym kroku. Jego historyczne centrum, Pelourinho, wpisane na listę UNESCO, zachwyca kolorowymi kolonialnymi budynkami, brukowanymi uliczkami i licznymi kościołami. To tutaj narodziła się capoeira i rozbrzmiewają rytmy axé i candomblé.",
+        "Miasto oferuje niezapomniane doświadczenia kulinarne, z kuchnią bahiańską pełną owoców morza i intensywnych smaków, takich jak moqueca czy acarajé. Salvador to miejsce, gdzie historia splata się z nowoczesnością, a każdy zakątek opowiada inną historię. Spacer po Pelourinho wieczorem, przy dźwiękach muzyki na żywo, to obowiązkowy punkt programu."
+      ],
+      "highlights": [
+        "Dzielnica Pelourinho (UNESCO)",
+        "Kościół São Francisco",
+        "Windy Lacerda",
+        "Afro-brazylijska kultura i muzyka"
+      ]
+    },
+    {
+      "slug": "amazonia",
+      "name": "Amazonia",
+      "loc": "w Amazonii",
+      "type": "region",
+      "gygQuery": "Amazon Rainforest Manaus",
+      "airport": "MAO (Manaus)",
+      "forWhom": "Dla poszukiwaczy przygód, miłośników dzikiej przyrody i unikalnych ekosystemów.",
+      "intro": [
+        "Brazylijska Amazonia to największy las deszczowy na świecie, prawdziwe płuca Ziemi i dom dla niezliczonej liczby gatunków roślin i zwierząt. Podróż do Amazonii to szansa na bliski kontakt z naturą, rejsy po rzekach, obserwację kajmanów, małp i egzotycznych ptaków. Najlepszą bazą wypadową jest miasto Manaus, skąd organizowane są liczne wycieczki w głąb dżungli.",
+        "Można tu spędzić dni na eksploracji rzek, wędkowaniu piranii, odwiedzaniu lokalnych społeczności indiańskich i nocowaniu w ekologicznych lodge'ach. To doświadczenie, które pozwala zrozumieć potęgę i delikatność tego niezwykłego ekosystemu. Pamiętajcie o odpowiednim przygotowaniu - repelenty na owady i lekkie ubrania to podstawa."
+      ],
+      "highlights": [
+        "Rejsy po rzece Amazonce",
+        "Obserwacja dzikiej fauny i flory",
+        "Spotkanie dwóch rzek (Manaus)",
+        "Eksploracja dżungli"
+      ]
+    },
+    {
+      "slug": "foz-do-iguacu",
+      "name": "Foz do Iguaçu",
+      "loc": "w Foz do Iguaçu",
+      "type": "miasto",
+      "gygQuery": "Iguazu Falls Brazil",
+      "airport": "IGU",
+      "forWhom": "Dla podziwiających potęgę natury i jedne z największych wodospadów na świecie.",
+      "intro": [
+        "Foz do Iguaçu to brama do jednego z najbardziej spektakularnych cudów natury - Wodospadów Iguaçu, rozciągających się na granicy Brazylii i Argentyny. Brazylijska strona oferuje panoramiczne widoki na kompleks wodospadów, w tym słynną \"Gardziel Diabła\", gdzie potężne masy wody spadają z hukiem w dół. To widok, który zapiera dech w piersiach i uświadamia potęgę żywiołu.",
+        "Oprócz podziwiania wodospadów z platform widokowych, można wybrać się na rejs łodzią pod samą kaskadę, co gwarantuje dawkę adrenaliny i niezapomniane wrażenia. Region oferuje również Park Ptaków (Parque das Aves) oraz możliwość odwiedzenia elektrowni Itaipu, jednej z największych na świecie. To idealne miejsce na kilkudniowy przystanek w podróży po Brazylii."
+      ],
+      "highlights": [
+        "Wodospady Iguaçu (strona brazylijska)",
+        "Gardziel Diabła",
+        "Rejs łodzią pod wodospady",
+        "Park Ptaków"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Chrystus Odkupiciel (Rio de Janeiro)",
+      "text": "Ikoniczna statua na szczycie góry Corcovado, oferująca spektakularne widoki na Rio de Janeiro i okolicę.",
+      "gygQuery": "Christ the Redeemer"
+    },
+    {
+      "name": "Góra Cukru (Rio de Janeiro)",
+      "text": "Charakterystyczna granitowa góra, na którą wjeżdża się kolejką linową, podziwiając panoramę miasta, zatoki i oceanu.",
+      "gygQuery": "Sugarloaf Mountain"
+    },
+    {
+      "name": "Wodospady Iguaçu",
+      "text": "Jeden z największych i najbardziej imponujących kompleksów wodospadów na świecie, położony na granicy Brazylii i Argentyny.",
+      "gygQuery": "Iguazu Falls"
+    },
+    {
+      "name": "Plaża Copacabana (Rio de Janeiro)",
+      "text": "Słynna na całym świecie plaża z charakterystyczną mozaiką chodnika, centrum życia towarzyskiego i sportowego Rio.",
+      "gygQuery": "Copacabana Beach"
+    },
+    {
+      "name": "Pelourinho (Salvador)",
+      "text": "Historyczne centrum Salvadoru, wpisane na listę UNESCO, z kolorowymi kolonialnymi budynkami, kościołami i tętniącą życiem afro-brazylijską kulturą.",
+      "gygQuery": "Pelourinho Salvador"
+    },
+    {
+      "name": "Amazonia",
+      "text": "Największy las deszczowy na świecie, oferujący rejsy po rzekach, obserwację dzikiej przyrody i spotkania z rdzennymi społecznościami.",
+      "gygQuery": "Amazon Rainforest tour"
+    },
+    {
+      "name": "Park Narodowy Lençóis Maranhenses",
+      "text": "Unikalny krajobraz ruchomych wydm piaskowych z lagunami słodkiej wody, tworzącymi się w porze deszczowej.",
+      "gygQuery": "Lencois Maranhenses"
+    },
+    {
+      "name": "Ouro Preto",
+      "text": "Zabytkowe miasto górnicze, wpisane na listę UNESCO, słynące z barokowej architektury i bogatych kościołów.",
+      "gygQuery": "Ouro Preto"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia brazylijska to prawdziwa uczta dla zmysłów, odzwierciedlająca bogactwo kultur, które ukształtowały ten kraj. Obowiązkowo spróbujcie feijoady, czyli gęstej zupy z czarnej fasoli z różnymi rodzajami mięs, podawanej z ryżem i farofą. Miłośnicy mięsa pokochają churrasco, czyli grillowane mięsa serwowane w systemie rodizio. Na plażach i ulicach znajdziecie świeże soki z egzotycznych owoców, a także pão de queijo - serowe bułeczki. Nie zapomnijcie o caipirinhi, narodowym drinku na bazie cachaçy, limonki i cukru. Kuchnia Bahia to z kolei wpływy afrykańskie, z daniami takimi jak moqueca (gulasz rybny lub z owoców morza) czy acarajé (smażone placki z fasoli)."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Brazylii potrzebna jest wiza dla Polaków?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne w Brazylii trwające do 90 dni. Wymagany jest jedynie ważny paszport."
+    },
+    {
+      "q": "Jaka jest waluta w Brazylii i czy można płacić kartą?",
+      "a": "Walutą jest real brazylijski (BRL). W większych miastach i miejscach turystycznych płatności kartą są powszechne, ale zawsze warto mieć przy sobie trochę gotówki na drobne wydatki."
+    },
+    {
+      "q": "Czy Brazylia jest bezpiecznym krajem dla turystów?",
+      "a": "Brazylia ma problemy z przestępczością, zwłaszcza w dużych miastach. Należy zachować ostrożność, unikać pokazywania cennych przedmiotów i nie spacerować samotnie po zmroku. Zalecane jest wykupienie ubezpieczenia."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Brazylii?",
+      "a": "Najlepszy czas na podróż to sucha pora, która w większości regionów przypada na miesiące od maja do września. Wtedy pogoda jest bardziej stabilna, a opady mniej intensywne."
+    },
+    {
+      "q": "Jakie szczepienia są zalecane przed podróżą do Brazylii?",
+      "a": "Zalecane są standardowe szczepienia (tężec, błonica, krztusiec), a także przeciwko żółtej febrze (szczególnie w regionach Amazonii), WZW A i B. Konsultacja z lekarzem medycyny podróży jest wskazana."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

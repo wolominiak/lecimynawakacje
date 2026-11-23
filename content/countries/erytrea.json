@@ -1,0 +1,221 @@
+{
+  "slug": "erytrea",
+  "loc": "w Erytrei",
+  "to": "do Erytrei",
+  "capital": "Asmara",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Eritrea",
+  "teaser": "Erytrea to jeden z najmniej odkrytych krajów Afryki, oferujący unikalną mieszankę włoskiej architektury kolonialnej i surowego piękna krajobrazów.",
+  "intro": [
+    "Erytrea, położona w Rogu Afryki, to kraj dla prawdziwych poszukiwaczy przygód i tych, którzy pragną doświadczyć autentycznej kultury z dala od masowej turystyki. To miejsce, gdzie czas zdaje się płynąć wolniej, a ślady włoskiej przeszłości są widoczne na każdym kroku, zwłaszcza w stolicy Asmarze, wpisanej na listę UNESCO.",
+    "Podróż do Erytrei to wyzwanie, ale i nagroda. Nie znajdziesz tu rozbudowanej infrastruktury turystycznej ani wszechobecnych udogodnień. Zamiast tego czeka na Ciebie surowy, ale fascynujący krajobraz, serdeczni ludzie i możliwość poznania kraju, który dopiero otwiera się na świat. To kierunek dla tych, którzy cenią autentyczność i są gotowi na pewne niedogodności.",
+    "Loty z Polski do Erytrei zawsze wymagają przesiadek, często dwóch, co sprawia, że podróż jest długa i męcząca. Przygotuj się na skomplikowane formalności wizowe i konieczność uzyskania pozwoleń na podróżowanie poza stolicę. Różnica czasu względem Polski wynosi od +1 do +2 godzin, w zależności od pory roku."
+  ],
+  "highlights": [
+    "Architektura Art Deco w Asmarze",
+    "Historyczny port Massawa",
+    "Targ w Keren",
+    "Nurkowanie na Wyspach Dahlak",
+    "Erytrejska ceremonia kawy",
+    "Wrakowiska czołgów pod Asmarą"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę w Erytrei to okres od października do marca. W tych miesiącach panują przyjemniejsze temperatury, zwłaszcza w wyżej położonej Asmarze, a opady deszczu są minimalne. Unikaj podróży w miesiącach letnich, kiedy upały, szczególnie na wybrzeżu, mogą być bardzo uciążliwe.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      5,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      22,
+      24,
+      26,
+      26,
+      27,
+      27,
+      23,
+      23,
+      25,
+      24,
+      23,
+      22
+    ],
+    "sea": [
+      26,
+      25,
+      26,
+      28,
+      30,
+      32,
+      33,
+      33,
+      32,
+      30,
+      28,
+      27
+    ],
+    "note": "Dane klimatyczne dla Asmary (powietrze) i Massawy (morze)"
+  },
+  "practical": {
+    "flight": "około 10-12 h z co najmniej jedną przesiadką",
+    "timeDiff": "od +1 do +2 godzin względem czasu w Polsce",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą. Proces wizowy jest skomplikowany i czasochłonny. Dodatkowo, do podróżowania poza Asmarą wymagane są specjalne pozwolenia. Przed wyjazdem zawsze sprawdź aktualne wymogi wizowe i bezpieczeństwa w Ambasadzie Erytrei lub na stronie MSZ.",
+    "money": "Walutą jest Nakfa Erytrejska (ERN). Płatności kartą są rzadkością, a bankomaty akceptujące karty międzynarodowe praktycznie nie istnieją. Konieczne jest posiadanie gotówki (USD lub EUR), którą można wymienić na miejscu. Warto zabrać ze sobą mniejsze nominały.",
+    "plugs": "Typ C, F, L (europejski dwubolcowy, włoski trójbolcowy)",
+    "language": "Oficjalne języki to tigrinia i arabski, ale angielski jest również używany, zwłaszcza w handlu i przez młodsze pokolenie. Przydatne mogą być podstawowe zwroty w tigrinia.",
+    "safety": "Erytrea jest krajem o podwyższonym ryzyku. Rząd kontroluje wiele aspektów życia, a podróżowanie poza stolicę wymaga specjalnych pozwoleń. Istnieją napięcia graniczne, zwłaszcza z Etiopią. Zaleca się zachowanie ostrożności, unikanie zgromadzeń i śledzenie komunikatów MSZ. Opieka medyczna jest na niskim poziomie."
+  },
+  "regions": [
+    {
+      "slug": "asmara",
+      "name": "Asmara",
+      "loc": "w Asmarze",
+      "type": "miasto",
+      "gygQuery": "Asmara",
+      "airport": "ASM",
+      "forWhom": "Dla miłośników architektury Art Deco i unikalnej atmosfery miasta-muzeum.",
+      "intro": [
+        "Asmara, stolica Erytrei, to prawdziwa perła architektury modernistycznej i Art Deco, często nazywana 'Małym Rzymem'. Jej uliczki pełne są niezwykłych budynków z okresu włoskiej kolonizacji, które zachowały się w doskonałym stanie. Spacer po mieście to podróż w czasie, podczas której można podziwiać kinoteatry, kawiarnie i budynki mieszkalne z lat 30. XX wieku.",
+        "Miasto oferuje spokojną atmosferę i jest stosunkowo bezpieczne do eksploracji na piechotę. Warto odwiedzić lokalne targi, spróbować kawy w tradycyjnej kawiarni i poczuć puls tego niezwykłego miejsca. Pamiętaj jednak o uzyskaniu wszelkich pozwoleń, jeśli planujesz wycieczki poza ścisłe centrum."
+      ],
+      "highlights": [
+        "Katedra św. Józefa",
+        "Budynek Fiat Tagliero",
+        "Opera Asmarska",
+        "Pałac Gubernatora"
+      ]
+    },
+    {
+      "slug": "massawa",
+      "name": "Massawa",
+      "loc": "w Massawie",
+      "type": "miasto",
+      "gygQuery": "Massawa",
+      "airport": "MSW",
+      "forWhom": "Dla zainteresowanych historią, portowym życiem i dostępem do Morza Czerwonego.",
+      "intro": [
+        "Massawa to historyczne miasto portowe na wybrzeżu Morza Czerwonego, które przez wieki było kluczowym punktem handlowym. Niestety, miasto zostało mocno zniszczone podczas wojny o niepodległość, ale jego ruiny i odbudowane fragmenty wciąż fascynują. Można tu poczuć orientalny klimat i zobaczyć wpływy osmańskie oraz egipskie.",
+        "Mimo zniszczeń, Massawa zachowuje swój unikalny charakter. Warto zobaczyć stary port, ruiny Pałacu Cesarskiego i meczety. To także brama do archipelagu Dahlak, jeśli uda się uzyskać pozwolenia na dalszą podróż. Pamiętaj, że temperatury tutaj są znacznie wyższe niż w Asmarze."
+      ],
+      "highlights": [
+        "Stary Port Massawa",
+        "Ruiny Pałacu Cesarskiego",
+        "Meczet Szejka Hanafi",
+        "Promenada nad Morzem Czerwonym"
+      ]
+    },
+    {
+      "slug": "keren",
+      "name": "Keren",
+      "loc": "w Keren",
+      "type": "miasto",
+      "gygQuery": "Keren Eritrea",
+      "airport": "ASM",
+      "forWhom": "Dla poszukujących autentycznych wrażeń na lokalnych targach i w mniejszych miasteczkach.",
+      "intro": [
+        "Keren to drugie co do wielkości miasto Erytrei, położone na północny zachód od Asmary. Słynie przede wszystkim z tętniącego życiem targu wielbłądów i bydła, który odbywa się każdego poniedziałku. To doskonała okazja, by zanurzyć się w lokalnej kulturze i obserwować codzienne życie mieszkańców.",
+        "Oprócz targu, w Keren można zobaczyć pozostałości po II wojnie światowej, w tym cmentarz wojenny i włoskie fortyfikacje. Miasto ma bardziej tradycyjny charakter niż Asmara i oferuje inny wgląd w erytrejskie społeczeństwo. Pamiętaj o uzyskaniu pozwolenia na podróż do Keren."
+      ],
+      "highlights": [
+        "Targ wielbłądów (poniedziałki)",
+        "Włoski cmentarz wojenny",
+        "Kaplica Mariam Da'arit",
+        "Lokalne bazary"
+      ]
+    },
+    {
+      "slug": "dahlak-archipelago",
+      "name": "Archipelag Dahlak",
+      "loc": "na Archipelagu Dahlak",
+      "type": "region",
+      "gygQuery": "Dahlak Islands",
+      "airport": "MSW",
+      "forWhom": "Dla nurków i miłośników dziewiczej przyrody morskiej, jeśli uda się uzyskać pozwolenia.",
+      "intro": [
+        "Archipelag Dahlak to grupa ponad 350 wysp na Morzu Czerwonym, z których tylko kilka jest zamieszkanych. To raj dla nurków i miłośników snorkelingu, oferujący dziewicze rafy koralowe, bogate życie morskie i wraki statków. Dostęp do archipelagu jest jednak ściśle kontrolowany i wymaga specjalnych pozwoleń.",
+        "Główna wyspa, Dahlak Kebir, jest największa i najbardziej rozwinięta, choć nadal bardzo podstawowa. Jeśli uda Ci się dotrzeć do tego odległego zakątka, zostaniesz nagrodzony niezapomnianymi widokami i poczuciem prawdziwej eksploracji. Planowanie podróży na wyspy wymaga cierpliwości i elastyczności."
+      ],
+      "highlights": [
+        "Dziewicze rafy koralowe",
+        "Nurkowanie i snorkeling",
+        "Obserwacja ptaków morskich",
+        "Spokój i izolacja"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Fiat Tagliero Building",
+      "text": "Ikoniczny budynek stacji paliw w Asmarze, przypominający samolot, to arcydzieło włoskiego futuryzmu.",
+      "gygQuery": "Fiat Tagliero Asmara"
+    },
+    {
+      "name": "Tank Graveyard",
+      "text": "Na obrzeżach Asmary znajduje się surrealistyczne cmentarzysko czołgów, pojazdów i sprzętu wojskowego, będące świadectwem długich konfliktów Erytrei.",
+      "gygQuery": "Tank Graveyard Asmara"
+    },
+    {
+      "name": "Katedra św. Józefa w Asmarze",
+      "text": "Imponująca budowla w stylu neoromańskim, jeden z najbardziej rozpoznawalnych symboli stolicy, oferująca piękne widoki z wieży.",
+      "gygQuery": "St Joseph Cathedral Asmara"
+    },
+    {
+      "name": "Pałac Gubernatora w Asmarze",
+      "text": "Monumentalny budynek w centrum Asmary, będący przykładem włoskiej architektury kolonialnej i obecną siedzibą prezydenta.",
+      "gygQuery": "Governor's Palace Asmara"
+    },
+    {
+      "name": "Port w Massawie",
+      "text": "Historyczny port, który przez wieki był bramą do Afryki Wschodniej, dziś częściowo zrujnowany, ale wciąż pełen charakteru.",
+      "gygQuery": "Massawa Port"
+    },
+    {
+      "name": "Kaplica Mariam Da'arit w Keren",
+      "text": "Wykuta w baobabie kaplica maryjna, będąca unikalnym miejscem kultu i świadectwem lokalnej pomysłowości.",
+      "gygQuery": "Mariam Da'arit Keren"
+    },
+    {
+      "name": "Muzeum Narodowe Erytrei",
+      "text": "Skromne muzeum w Asmarze prezentujące artefakty archeologiczne i etnograficzne, dające wgląd w bogatą historię kraju.",
+      "gygQuery": "National Museum Eritrea"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia erytrejska jest blisko spokrewniona z kuchnią etiopską, a jej podstawą jest injera - duży, miękki, kwaśny placek drożdżowy, używany jako naczynie do jedzenia. Injera podawana jest z różnorodnymi gulaszami (tsebhi) na bazie mięsa (wołowina, kurczak, jagnięcina) lub warzyw (soczewica, ciecierzyca), często bardzo pikantnymi. Ważnym elementem kultury jest ceremonia kawy, która jest długim i uroczystym rytuałem, celebrującym gościnność i wspólnotę. Warto spróbować także lokalnego piwa oraz herbaty z przyprawami."
+  ],
+  "faq": [
+    {
+      "q": "Czy Erytrea jest bezpieczna dla turystów?",
+      "a": "Erytrea jest krajem o podwyższonym ryzyku. Rząd ściśle kontroluje podróżowanie, a pozwolenia na wyjazd poza Asmarę są obowiązkowe. Zaleca się ostrożność, unikanie zgromadzeń i sprawdzanie bieżących komunikatów MSZ przed i w trakcie podróży."
+    },
+    {
+      "q": "Jak uzyskać wizę do Erytrei?",
+      "a": "Wiza do Erytrei musi być uzyskana przed podróżą w Ambasadzie Erytrei. Proces jest często długotrwały i wymaga dokładnego przygotowania dokumentów. Nie ma możliwości uzyskania wizy na lotnisku."
+    },
+    {
+      "q": "Jak płacić w Erytrei?",
+      "a": "W Erytrei dominuje płatność gotówką w lokalnej walucie, Nakfie (ERN). Karty płatnicze są praktycznie nieakceptowane, a bankomaty dla turystów niedostępne. Należy zabrać ze sobą dolary amerykańskie lub euro i wymieniać je na miejscu."
+    },
+    {
+      "q": "Czy można swobodnie podróżować po Erytrei?",
+      "a": "Nie, do podróżowania poza stolicą Asmarą wymagane są specjalne pozwolenia wydawane przez władze. Ich uzyskanie może być czasochłonne i nie zawsze jest gwarantowane. Swobodne podróżowanie po kraju jest mocno ograniczone."
+    },
+    {
+      "q": "Jaka jest najlepsza pora roku na wizytę?",
+      "a": "Najlepsza pora na podróż do Erytrei to miesiące od października do marca. Temperatury są wtedy łagodniejsze, a opady deszczu minimalne, co sprzyja zwiedzaniu, zwłaszcza w Asmarze."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

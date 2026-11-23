@@ -1,0 +1,225 @@
+{
+  "slug": "belgia",
+  "loc": "w Belgii",
+  "to": "do Belgii",
+  "capital": "Bruksela",
+  "popularity": 45,
+  "touroperator": false,
+  "gygQuery": "Belgium",
+  "teaser": "Belgia to kraj urokliwych miast, wyśmienitej czekolady, setek rodzajów piwa i bogatej historii. Idealna na weekendowy city break.",
+  "intro": [
+    "Belgia, choć niewielka, oferuje niezwykłe bogactwo kulturowe i architektoniczne. Od średniowiecznych rynków Brukseli i Brugii, przez modową Antwerpię, po artystyczną Gandawę, każde miasto ma swój unikalny charakter. Kraj słynie z wyśmienitej kuchni, zwłaszcza czekolady, gofrów i frytek, a także z niezliczonej liczby gatunków piwa, które są częścią lokalnej tradycji. To idealne miejsce dla tych, którzy cenią sobie piękne zabytki, dobrą kuchnię i europejski styl życia.",
+    "Belgia to doskonały kierunek dla miłośników historii, architektury i sztuki, a także dla smakoszy. Kraj świetnie sprawdzi się na krótkie, kilkudniowe wyjazdy, zwłaszcza jesienią czy wiosną, gdy pogoda jest sprzyjająca, a tłumy mniejsze niż latem. Nie jest to cel dla osób szukających typowych plażowych wakacji czy górskich wędrówek, ale raczej dla tych, którzy chcą zanurzyć się w miejskim zgiełku i odkrywać europejskie dziedzictwo.",
+    "Podróż z Polski do Belgii jest prosta i szybka. Istnieją bezpośrednie połączenia lotnicze z kilku polskich miast do Brukseli (BRU lub CRL), a lot trwa zazwyczaj około 1,5-2 godzin. Dzięki dobrze rozwiniętej sieci kolejowej, po wylądowaniu łatwo przemieszczać się między głównymi miastami. Obywatelom Polski wystarczy dowód osobisty do przekroczenia granicy, a brak różnicy czasu ułatwia aklimatyzację."
+  ],
+  "highlights": [
+    "Grand Place w Brukseli - arcydzieło architektury.",
+    "Romantyczne kanały i uliczki Brugii.",
+    "Degustacja belgijskiej czekolady i gofrów.",
+    "Odkrywanie setek rodzajów belgijskiego piwa.",
+    "Gotyckie katedry i zamki w Gandawie.",
+    "Moda i diamenty w Antwerpii."
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Belgii to wiosna (maj-czerwiec) lub wczesna jesień (wrzesień), kiedy pogoda jest przyjemna, a miasta tętnią życiem, ale nie ma jeszcze największych letnich tłumów. Letnie miesiące (lipiec-sierpień) są również dobre, choć mogą być bardziej zatłoczone. W grudniu warto odwiedzić jarmarki bożonarodzeniowe.",
+    "best": [
+      5,
+      6,
+      9
+    ],
+    "ok": [
+      4,
+      7,
+      8,
+      10,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      6,
+      7,
+      10,
+      14,
+      18,
+      21,
+      23,
+      23,
+      20,
+      15,
+      10,
+      7
+    ],
+    "sea": [
+      7,
+      6,
+      7,
+      9,
+      12,
+      15,
+      17,
+      18,
+      17,
+      14,
+      11,
+      8
+    ],
+    "note": "Dane dla Brukseli; dla morza: Ostenda. Temperatura wody w Morzu Północnym jest zazwyczaj zbyt niska do kąpieli."
+  },
+  "practical": {
+    "flight": "około 1 h 45 min - 2 h (lot bezpośredni)",
+    "timeDiff": "brak",
+    "documents": "Obywatele Polski mogą wjechać na teren Belgii na podstawie ważnego dowodu osobistego lub paszportu. Przed wyjazdem zaleca się sprawdzenie aktualnych wymogów na stronach MSZ.",
+    "money": "Walutą jest Euro (EUR). Płatności kartą są powszechne, ale warto mieć trochę gotówki na drobne wydatki.",
+    "plugs": "Typ E, jak w Polsce (dwie okrągłe dziurki i bolec uziemiający).",
+    "language": "Oficjalnymi językami są niderlandzki, francuski i niemiecki. W większości miejsc turystycznych można porozumieć się po angielsku.",
+    "safety": "Belgia jest krajem bezpiecznym. Należy zachować standardowe środki ostrożności, szczególnie w dużych miastach i w transporcie publicznym. Opieka zdrowotna jest na wysokim poziomie."
+  },
+  "regions": [
+    {
+      "slug": "bruksela",
+      "name": "Bruksela",
+      "loc": "w Brukseli",
+      "type": "miasto",
+      "gygQuery": "Brussels",
+      "airport": "BRU (Brussels Airport)",
+      "forWhom": "Idealna dla miłośników historii, architektury i europejskiej polityki.",
+      "intro": [
+        "Bruksela to tętniąca życiem stolica Belgii i de facto Unii Europejskiej, miasto pełne kontrastów, gdzie gotyckie zabytki sąsiadują z nowoczesnymi budynkami. Serce miasta bije na Grand Place, jednym z najpiękniejszych rynków świata, otoczonym misternie zdobionymi kamienicami gildii i ratuszem. Nie można pominąć symbolicznego Atomium czy słynnego Manneken Pis, który zaskakuje swoimi licznymi strojami.",
+        "Miasto to także raj dla smakoszy, oferujące niezliczone kawiarnie, restauracje i bary, gdzie można spróbować lokalnych specjałów, takich jak gofry, czekolada czy frytki. Bruksela to świetna baza wypadowa do zwiedzania innych części Belgii, a jej kosmopolityczny charakter sprawia, że każdy znajdzie tu coś dla siebie, od muzeów po tętniące życiem dzielnice."
+      ],
+      "highlights": [
+        "Grand Place - serce Brukseli.",
+        "Atomium - symbol nowoczesności.",
+        "Manneken Pis - słynny sikający chłopiec.",
+        "Muzeum Czekolady i Muzeum Piwa."
+      ]
+    },
+    {
+      "slug": "brugia",
+      "name": "Brugia",
+      "loc": "w Brugii",
+      "type": "miasto",
+      "gygQuery": "Bruges",
+      "airport": "BRU (Brussels Airport)",
+      "forWhom": "Doskonała dla par i romantyków szukających baśniowych widoków.",
+      "intro": [
+        "Brugia, często nazywana \"Wenecją Północy\", to jedno z najbardziej malowniczych miast w Europie, wpisane na listę UNESCO. Jej urokliwe kanały, brukowane uliczki i średniowieczna architektura tworzą niepowtarzalną atmosferę. Rejs łodzią po kanałach to obowiązkowy punkt programu, pozwalający podziwiać miasto z innej perspektywy i odkrywać ukryte zakątki.",
+        "Warto wspiąć się na wieżę Belfry, by podziwiać panoramę miasta, odwiedzić Bazylikę Świętej Krwi oraz spróbować lokalnych specjałów w jednej z licznych czekoladziarni. Brugia to miasto, które zachwyca na każdym kroku, idealne na spokojny spacer i delektowanie się jego baśniowym klimatem."
+      ],
+      "highlights": [
+        "Rejsy po malowniczych kanałach.",
+        "Wieża Belfry z widokiem na miasto.",
+        "Rynek Grote Markt i jego zabytki.",
+        "Muzeum Frytek i czekolady."
+      ]
+    },
+    {
+      "slug": "gandawa",
+      "name": "Gandawa",
+      "loc": "w Gandawie",
+      "type": "miasto",
+      "gygQuery": "Ghent",
+      "airport": "BRU (Brussels Airport)",
+      "forWhom": "Dla poszukiwaczy autentycznych wrażeń i nocnego życia.",
+      "intro": [
+        "Gandawa to dynamiczne miasto uniwersyteckie, które z powodzeniem łączy średniowieczny urok z nowoczesnym stylem życia. Mniej turystyczna niż Brugia, oferuje bardziej autentyczne doświadczenia. Jej centrum to imponujące zabytki, takie jak zamek Gravensteen, katedra św. Bawona z \"Ołtarzem Gandawskim\" czy trzy wieże Belfry, Katedry i Kościoła św. Mikołaja.",
+        "Wieczorami miasto ożywa, a liczne bary i restauracje zapełniają się studentami i mieszkańcami. Gandawa jest także znana z festiwali i wydarzeń kulturalnych, co sprawia, że zawsze coś się tu dzieje. To świetne miejsce, aby poczuć prawdziwy puls Flandrii."
+      ],
+      "highlights": [
+        "Zamek Gravensteen - twierdza rycerska.",
+        "Ołtarz Gandawski w Katedrze św. Bawona.",
+        "Tętniące życiem nabrzeża Graslei i Korenlei.",
+        "Wieża Belfry z dzwonnicą."
+      ]
+    },
+    {
+      "slug": "antwerpia",
+      "name": "Antwerpia",
+      "loc": "w Antwerpii",
+      "type": "miasto",
+      "gygQuery": "Antwerp",
+      "airport": "BRU (Brussels Airport) / ANR (Antwerp International Airport)",
+      "forWhom": "Dla miłośników mody, sztuki i diamentów.",
+      "intro": [
+        "Antwerpia to drugie co do wielkości miasto Belgii, znane jako światowa stolica diamentów i centrum mody. To miasto Rubensa, gdzie sztuka i historia splatają się z nowoczesnym designem. Imponująca Katedra Najświętszej Marii Panny, z dziełami Rubensa, dominuje nad panoramą miasta, a jej wieża jest widoczna z daleka.",
+        "W Antwerpii warto odwiedzić Dzielnicę Diamentów, butiki znanych projektantów oraz Muzeum Mody. Miasto ma również jeden z największych portów w Europie, co nadaje mu kosmopolityczny charakter. To idealne miejsce na zakupy, podziwianie sztuki i odkrywanie dynamicznego oblicza Belgii."
+      ],
+      "highlights": [
+        "Katedra Najświętszej Marii Panny.",
+        "Dom Rubensa - muzeum artysty.",
+        "Dzielnica Diamentów i Muzeum Diamentów.",
+        "Modne butiki i galerie sztuki."
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Grand Place (Bruksela)",
+      "text": "Centralny plac Brukseli, wpisany na listę UNESCO, otoczony wspaniałymi budynkami gildii i ratuszem, jest wizytówką miasta.",
+      "gygQuery": "Grand Place Brussels"
+    },
+    {
+      "name": "Atomium (Bruksela)",
+      "text": "Ikoniczna budowla w kształcie powiększonego kryształu żelaza, symbol Brukseli i Belgii, oferująca panoramiczne widoki.",
+      "gygQuery": "Atomium"
+    },
+    {
+      "name": "Manneken Pis (Bruksela)",
+      "text": "Słynna mała figurka sikającego chłopca, często ubierana w różne stroje, będąca jednym z najbardziej rozpoznawalnych symboli Brukseli.",
+      "gygQuery": "Manneken Pis"
+    },
+    {
+      "name": "Kanały Brugii",
+      "text": "Romantyczne kanały, po których można pływać łodzią, podziwiając średniowieczną architekturę i urokliwe zakątki miasta.",
+      "gygQuery": "Bruges canals"
+    },
+    {
+      "name": "Zamek Gravensteen (Gandawa)",
+      "text": "Imponująca średniowieczna twierdza z fosą, położona w sercu Gandawy, oferująca fascynującą podróż w czasie.",
+      "gygQuery": "Gravensteen Castle Ghent"
+    },
+    {
+      "name": "Katedra Najświętszej Marii Panny (Antwerpia)",
+      "text": "Monumentalna gotycka katedra, wpisana na listę UNESCO, z bogatą kolekcją dzieł sztuki, w tym obrazów Rubensa.",
+      "gygQuery": "Antwerp Cathedral"
+    },
+    {
+      "name": "Pole bitwy pod Waterloo",
+      "text": "Historyczne miejsce, gdzie Napoleon poniósł ostateczną klęskę, z muzeum i pomnikiem Lwa.",
+      "gygQuery": "Waterloo battlefield"
+    },
+    {
+      "name": "Ardeny",
+      "text": "Zalesiony region na południu Belgii, idealny do pieszych wędrówek, jazdy na rowerze i spływów kajakowych, oferujący piękne krajobrazy i zamki.",
+      "gygQuery": "Ardennes Belgium"
+    }
+  ],
+  "cuisine": [
+    "Belgijska kuchnia to prawdziwa uczta dla podniebienia, słynąca z kilku ikonicznych produktów. Obowiązkowo trzeba spróbować chrupiących frytek, często podawanych z różnorodnymi sosami, oraz oczywiście belgijskich gofrów, zarówno tych z Brukseli, jak i z Liège. Belgia to także królestwo czekolady - praliny, trufle i tabliczki to prawdziwe dzieła sztuki. Kraj szczyci się również bogatą tradycją piwowarską, oferując setki rodzajów piw, od jasnych lagerów po ciemne trappistowskie ale. Warto również spróbować mulek z frytkami (moules frites) oraz gulaszu wołowego w piwie (carbonnade flamande)."
+  ],
+  "faq": [
+    {
+      "q": "Czy Belgia jest drogim krajem dla turystów?",
+      "a": "Belgia jest krajem o cenach porównywalnych do innych zachodnioeuropejskich państw. Noclegi i posiłki w restauracjach mogą być droższe niż w Polsce, ale istnieją opcje budżetowe."
+    },
+    {
+      "q": "Co warto kupić jako pamiątkę z Belgii?",
+      "a": "Najpopularniejsze pamiątki to belgijska czekolada (praliny), lokalne piwa (często w ozdobnych butelkach i zestawach), koronki z Brugii oraz figurki Manneken Pis."
+    },
+    {
+      "q": "Ile dni potrzeba na zwiedzanie głównych miast Belgii?",
+      "a": "Na weekendowy city break w Brukseli wystarczą 2-3 dni. Jeśli chcesz zobaczyć Brugię i Gandawę, zaplanuj łącznie 4-5 dni. Na kompleksowe zwiedzanie z Antwerpią i Ardenami potrzeba około tygodnia."
+    },
+    {
+      "q": "Czy w Belgii można płacić polską kartą płatniczą?",
+      "a": "Tak, w Belgii powszechnie akceptowane są karty płatnicze Visa i Mastercard. Warto mieć przy sobie trochę gotówki na drobne wydatki, zwłaszcza w mniejszych sklepach czy na targach."
+    },
+    {
+      "q": "Jakie są główne lotniska w Belgii?",
+      "a": "Główne lotniska to Brussels Airport (BRU) - największe, oraz Brussels South Charleroi Airport (CRL) - często obsługujące tanie linie lotnicze."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

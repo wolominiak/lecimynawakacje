@@ -1,0 +1,219 @@
+{
+  "slug": "bermudy",
+  "loc": "na Bermudach",
+  "to": "na Bermudy",
+  "capital": "Hamilton",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Bermuda",
+  "teaser": "Bermudy to archipelag słynący z różowych plaż, brytyjskiego uroku i krystalicznie czystej wody. Idealne na spokojny wypoczynek.",
+  "intro": [
+    "Bermudy, choć często mylone z Karaibami, stanowią brytyjskie terytorium zamorskie na północnym Atlantyku, wyróżniające się unikalnym charakterem. To miejsce, gdzie kolonialna architektura łączy się z naturalnym pięknem, a różowe plaże są wizytówką archipelagu. Krystalicznie czyste wody wokół wysp to raj dla nurków i miłośników sportów wodnych, oferujący bogate życie morskie i liczne wraki. Brytyjskie dziedzictwo jest widoczne na każdym kroku, od tradycyjnej herbaty po lewostronny ruch uliczny.",
+    "Archipelag ten jest idealny dla osób szukających spokoju, luksusu i wysokiej jakości usług, choć trzeba liczyć się z wyższymi cenami. Przyciąga pary na romantyczne wyjazdy, miłośników golfa, nurkowania oraz żeglarstwa. To także świetny kierunek dla tych, którzy cenią sobie elegancję i dbałość o detale, z dala od masowej turystyki. Bermudy to nie miejsce na budżetowe wakacje, ale inwestycja w niezapomniane doświadczenia.",
+    "Podróż z Polski na Bermudy to zazwyczaj długa wyprawa, wymagająca co najmniej jednej, a często dwóch przesiadek, najczęściej w Wielkiej Brytanii lub Stanach Zjednoczonych. Całkowity czas lotu, wraz z oczekiwaniem na przesiadki, może wynieść od 10 do 15 godzin. Ze względu na brak bezpośrednich połączeń i wysokie koszty, Bermudy nie są masowym kierunkiem dla polskich turystów. Warto rezerwować loty z wyprzedzeniem, aby znaleźć korzystniejsze połączenia."
+  ],
+  "highlights": [
+    "Różowe plaże, takie jak Horseshoe Bay",
+    "Kolonialne miasteczka i brytyjski urok",
+    "Nurkowanie przy wrakach statków",
+    "Tajemnicze Jaskinie Kryształowe",
+    "Rejsy po spokojnych wodach Atlantyku",
+    "Fascynująca historia i kultura morska"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Bermudy to wiosna i wczesne lato, od kwietnia do czerwca, kiedy pogoda jest słoneczna, a temperatury przyjemne. Unika się wtedy szczytu sezonu huraganowego, który trwa od czerwca do listopada. W tym okresie woda w oceanie jest już wystarczająco ciepła do kąpieli i sportów wodnych, a opady deszczu są niewielkie. Jesień, zwłaszcza październik i listopad, również może być dobrym czasem, choć ryzyko huraganów jest wtedy większe.",
+    "best": [
+      4,
+      5,
+      6
+    ],
+    "ok": [
+      3,
+      7,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      20,
+      19,
+      20,
+      22,
+      25,
+      28,
+      30,
+      30,
+      29,
+      26,
+      23,
+      21
+    ],
+    "sea": [
+      20,
+      19,
+      19,
+      21,
+      23,
+      26,
+      28,
+      28,
+      27,
+      25,
+      23,
+      21
+    ],
+    "note": "dla miasta Hamilton"
+  },
+  "practical": {
+    "flight": "około 10-15 h z przesiadkami",
+    "timeDiff": "zimą -5h, latem -6h do Polski",
+    "documents": "Obywatele Polski mogą podróżować na Bermudy bez wizy na pobyt do 90 dni, jeśli posiadają ważny paszport. Należy jednak pamiętać o wymogach wizowych krajów tranzytowych, np. USA. Zawsze zaleca się sprawdzenie aktualnych przepisów wizowych przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest dolar bermudzki (BMD), który jest sztywno powiązany z dolarem amerykańskim (USD) w stosunku 1:1. Dolary amerykańskie są powszechnie akceptowane. Płatności kartą kredytową są szeroko dostępne w większości miejsc.",
+    "plugs": "Typ A i B (standard amerykański), napięcie 120 V, częstotliwość 60 Hz. Niezbędny adapter.",
+    "language": "Angielski",
+    "safety": "Bermudy są ogólnie bardzo bezpiecznym krajem o niskim wskaźniku przestępczości. Należy zachować podstawowe środki ostrożności, zwłaszcza w nocy. Głównym zagrożeniem naturalnym są huragany w sezonie od czerwca do listopada, dlatego warto śledzić prognozy pogody."
+  },
+  "regions": [
+    {
+      "slug": "hamilton",
+      "name": "Hamilton",
+      "loc": "w Hamilton",
+      "type": "miasto",
+      "gygQuery": "Hamilton Bermuda",
+      "airport": "BDA",
+      "forWhom": "Dla miłośników zakupów, dobrej kuchni i miejskiego życia z kolonialnym akcentem.",
+      "intro": [
+        "Hamilton, stolica Bermudów, to tętniące życiem centrum handlowe i kulturalne archipelagu, położone w malowniczej zatoce. Słynie z kolorowych, pastelowych budynków w stylu kolonialnym, eleganckich butików i restauracji oferujących dania kuchni lokalnej i międzynarodowej. Spacerując wzdłuż Front Street, można podziwiać jachty cumujące w porcie i poczuć kosmopolityczną atmosferę miasta.",
+        "Miasto oferuje również kilka interesujących muzeów, takich jak Bermuda Historical Society Museum, oraz piękne ogrody, w tym Victoria Park. Hamilton jest doskonałą bazą wypadową do zwiedzania innych części wyspy, a jego centralne położenie ułatwia dostęp do transportu publicznego. Wieczorami miasto ożywa dzięki barom i lokalom z muzyką na żywo."
+      ],
+      "highlights": [
+        "Front Street - zakupy i restauracje",
+        "Victoria Park - zielona oaza",
+        "Katedra Najświętszej Trójcy",
+        "Rejsy z portu"
+      ]
+    },
+    {
+      "slug": "st-georges",
+      "name": "St. George's",
+      "loc": "w St. George's",
+      "type": "miasto",
+      "gygQuery": "St George's Bermuda",
+      "airport": "BDA",
+      "forWhom": "Idealne dla pasjonatów historii i architektury, ceniących urok dawnych miast portowych.",
+      "intro": [
+        "St. George's, wpisane na listę światowego dziedzictwa UNESCO, to najstarsze angielskie miasto w Nowym Świecie, założone w 1612 roku. Jego wąskie, brukowane uliczki, zabytkowe kościoły i kolonialne domy przenoszą w czasie do epoki odkryć geograficznych. To miejsce, gdzie historia Bermudów jest najbardziej namacalna, a każdy zakątek opowiada swoją opowieść.",
+        "Warto odwiedzić St. Peter's Church, najstarszy anglikański kościół na półkuli zachodniej, oraz zwiedzić Fort St. Catherine, oferujący wspaniałe widoki na ocean. Miasto jest spokojniejsze niż Hamilton, co sprzyja relaksującym spacerom i chłonięciu atmosfery. Regularnie odbywają się tu inscenizacje historyczne, które dodatkowo ożywiają przeszłość."
+      ],
+      "highlights": [
+        "St. Peter's Church - najstarszy kościół",
+        "Fort St. Catherine - fortyfikacje",
+        "Wąskie, brukowane uliczki",
+        "Muzeum Historyczne St. George's"
+      ]
+    },
+    {
+      "slug": "royal-naval-dockyard",
+      "name": "Royal Naval Dockyard",
+      "loc": "w Royal Naval Dockyard",
+      "type": "region",
+      "gygQuery": "Royal Naval Dockyard Bermuda",
+      "airport": "BDA",
+      "forWhom": "Dla rodzin i miłośników historii morskiej, szukających rozrywki i edukacji w jednym miejscu.",
+      "intro": [
+        "Royal Naval Dockyard, położone na zachodnim krańcu Bermudów, to dawna baza marynarki wojennej, która została przekształcona w tętniące życiem centrum turystyczne. Znajduje się tu wiele atrakcji, w tym Bermuda Maritime Museum, które mieści się w historycznych budynkach i opowiada o bogatej historii morskiej wysp. To świetne miejsce na spędzenie całego dnia, łącząc naukę z rozrywką.",
+        "Oprócz muzeów, Dockyard oferuje sklepy z pamiątkami, galerie sztuki, restauracje i kawiarnie. Jest tu również centrum rzemiosła, gdzie można podziwiać lokalnych artystów przy pracy. Dla dzieci atrakcją będzie Dolphin Quest, gdzie można pływać z delfinami, oraz National Museum of Bermuda. To także główny port dla statków wycieczkowych."
+      ],
+      "highlights": [
+        "National Museum of Bermuda",
+        "Dolphin Quest - pływanie z delfinami",
+        "Galerie sztuki i sklepy rzemieślnicze",
+        "Wspaniałe widoki na ocean"
+      ]
+    },
+    {
+      "slug": "poludniowe-plaze",
+      "name": "Południowe Plaże",
+      "loc": "na Południowych Plażach",
+      "type": "region",
+      "gygQuery": "South Shore Beaches Bermuda",
+      "airport": "BDA",
+      "forWhom": "Dla miłośników słońca, kąpieli i fotografii, pragnących relaksu na kultowych różowych piaskach.",
+      "intro": [
+        "Południowe wybrzeże Bermudów to dom dla najsłynniejszych plaż archipelagu, charakteryzujących się unikalnym różowym piaskiem. To właśnie tutaj znajdują się takie ikony jak Horseshoe Bay Beach, często uznawana za jedną z najpiękniejszych plaż na świecie. Delikatny, różowawy odcień piasku, kontrastujący z turkusową wodą, tworzy niezapomniany krajobraz i jest idealnym tłem do zdjęć.",
+        "Oprócz Horseshoe Bay, wzdłuż południowego wybrzeża znajdziemy wiele innych urokliwych zatoczek i plaż, takich jak Warwick Long Bay czy Jobson's Cove, oferujących zarówno szerokie przestrzenie do opalania, jak i zaciszne miejsca otoczone skałami. To idealne miejsca na relaks, pływanie i snorkeling w krystalicznie czystych wodach Atlantyku."
+      ],
+      "highlights": [
+        "Horseshoe Bay Beach - ikona Bermudów",
+        "Warwick Long Bay - długa plaża",
+        "Jobson's Cove - malownicza zatoczka",
+        "Różowy piasek i turkusowa woda"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Horseshoe Bay Beach",
+      "text": "Jedna z najsłynniejszych plaż świata, znana z różowego piasku i turkusowej wody. Idealna do opalania, pływania i fotografowania.",
+      "gygQuery": "Horseshoe Bay Beach Bermuda"
+    },
+    {
+      "name": "Crystal & Fantasy Caves",
+      "text": "System podziemnych jaskiń z krystalicznie czystymi jeziorami i imponującymi formacjami stalaktytów i stalagmitów. Fascynujące dla każdego.",
+      "gygQuery": "Crystal Caves Bermuda"
+    },
+    {
+      "name": "St. Peter's Church, St. George's",
+      "text": "Najstarszy anglikański kościół na półkuli zachodniej, symbol historii i dziedzictwa Bermudów. Warto odwiedzić dla jego architektury i znaczenia historycznego.",
+      "gygQuery": "St Peter's Church Bermuda"
+    },
+    {
+      "name": "National Museum of Bermuda",
+      "text": "Położone w Royal Naval Dockyard muzeum, które opowiada o bogatej historii morskiej wyspy, wrakach statków i kulturze. Edukacyjna atrakcja dla całej rodziny.",
+      "gygQuery": "National Museum of Bermuda"
+    },
+    {
+      "name": "Gibbs Hill Lighthouse",
+      "text": "Jedna z najstarszych żeliwnych latarni morskich na świecie, oferująca panoramiczne widoki na cały archipelag po pokonaniu ponad 180 stopni. Warto dla widoków.",
+      "gygQuery": "Gibbs Hill Lighthouse Bermuda"
+    },
+    {
+      "name": "Jobson's Cove",
+      "text": "Malownicza, zaciszna zatoczka z różowym piaskiem, otoczona dramatycznymi formacjami skalnymi. Idealna na spokojne pływanie i snorkeling.",
+      "gygQuery": "Jobson's Cove Bermuda"
+    },
+    {
+      "name": "Bermuda Aquarium, Museum & Zoo (BAMZ)",
+      "text": "Połączenie akwarium, muzeum i zoo, prezentujące lokalną florę i faunę morską oraz lądową. Świetna atrakcja dla rodzin z dziećmi.",
+      "gygQuery": "Bermuda Aquarium Museum Zoo"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia bermudzka to fascynujące połączenie wpływów brytyjskich, afrykańskich i karaibskich, z silnym naciskiem na świeże owoce morza. Koniecznie trzeba spróbować słynnej zupy rybnej (Bermuda Fish Chowder), często podawanej z rumem i sosem sherry peppers. Popularnym daniem jest także śniadanie z dorsza (Codfish Breakfast), a także świeże ryby i owoce morza przygotowywane na wiele sposobów. Nie brakuje też brytyjskich akcentów, takich jak tradycyjna herbata o piątej. Lokalne rumy, w tym Dark 'n' Stormy, są nieodłącznym elementem kulinarnych doświadczeń."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Bermudy?",
+      "a": "Obywatele Polski nie potrzebują wizy na Bermudy na pobyt do 90 dni, wystarczy ważny paszport. Pamiętaj jednak o ewentualnych wymogach wizowych krajów, przez które będziesz podróżować tranzytem."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Bermudy?",
+      "a": "Najlepszy czas na podróż to wiosna i wczesne lato, od kwietnia do czerwca, kiedy pogoda jest słoneczna, a temperatury przyjemne. Unikniesz wtedy szczytu sezonu huraganowego."
+    },
+    {
+      "q": "Czy Bermudy są drogie?",
+      "a": "Tak, Bermudy są uznawane za jeden z droższych kierunków turystycznych na świecie. Ceny zakwaterowania, transportu i jedzenia są stosunkowo wysokie, dlatego warto zaplanować budżet z wyprzedzeniem."
+    },
+    {
+      "q": "Jakie są najpiękniejsze plaże na Bermudach?",
+      "a": "Do najpiękniejszych plaż należą Horseshoe Bay Beach, słynąca z różowego piasku, oraz malownicze zatoczki takie jak Jobson's Cove czy Warwick Long Bay. Warto odwiedzić kilka, aby poczuć ich unikalny urok."
+    },
+    {
+      "q": "Jak poruszać się po Bermudach?",
+      "a": "Na Bermudach nie można wypożyczyć samochodu, ale dostępny jest dobrze rozwinięty system autobusów i promów. Popularne są także skutery do wynajęcia oraz taksówki. Poruszanie się jest łatwe i wygodne."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

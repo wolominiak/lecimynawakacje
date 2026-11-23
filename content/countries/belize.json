@@ -1,0 +1,196 @@
+{
+  "slug": "belize",
+  "loc": "w Belize",
+  "to": "do Belize",
+  "capital": "Belmopan",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Belize",
+  "teaser": "Belize to karaibskie wybrzeże, rafa koralowa wpisana na listę UNESCO, starożytne ruiny Majów i dzika dżungla. Idealne dla poszukiwaczy przygód.",
+  "intro": [
+    "Belize, położone w Ameryce Środkowej, to kraj, który oferuje niezwykłe połączenie kultury karaibskiej z bogatym dziedzictwem Majów. Słynie przede wszystkim z drugiej co do wielkości bariery koralowej na świecie, co czyni go rajem dla nurków i miłośników sportów wodnych. Oprócz podwodnych cudów, Belize kusi gęstą dżunglą, tajemniczymi ruinami starożytnych cywilizacji i unikalną mieszanką etniczną, która tworzy niezwykle barwną mozaikę.",
+    "Kraj ten jest idealny dla podróżników szukających autentycznych doświadczeń, z dala od masowej turystyki. To miejsce dla tych, którzy cenią sobie kontakt z naturą, eksplorację podwodnego świata, odkrywanie historii w dżungli oraz relaks na małych, urokliwych wyspach. Belize przyciąga również ekoturystów, oferując liczne rezerwaty przyrody i parki narodowe, gdzie można obserwować egzotyczne ptaki i dzikie zwierzęta.",
+    "Podróż z Polski do Belize wymaga przynajmniej jednej, a zazwyczaj dwóch przesiadek, najczęściej w USA lub w jednym z europejskich hubów, a następnie w Ameryce Północnej. Ze względu na długi lot i brak bezpośrednich połączeń, Belize nie jest typowym kierunkiem na krótki urlop z biureem podróży, ale raczej celem wypraw organizowanych na własną rękę lub przez wyspecjalizowane agencje. Przed wylotem warto sprawdzić wymagania wizowe i celne, zwłaszcza przy przesiadkach w Stanach Zjednoczonych."
+  ],
+  "highlights": [
+    "Druga co do wielkości rafa koralowa na świecie",
+    "Nurkowanie i snorkeling w Wielkiej Błękitnej Dziurze",
+    "Starożytne ruiny Majów (Caracol, Lamanai)",
+    "Tropikalna dżungla i dzika przyroda",
+    "Karaibskie wyspy i relaksująca atmosfera",
+    "Jaskinie i podziemne rzeki"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Belize to pora sucha, która trwa od grudnia do maja. W tym okresie panują słoneczne dni, niższa wilgotność i mniejsze ryzyko opadów deszczu, co sprzyja aktywnościom na świeżym powietrzu i nurkowaniu. Pora deszczowa, od czerwca do listopada, charakteryzuje się wyższą wilgotnością i częstszymi, choć zazwyczaj krótkimi ulewami, a także ryzykiem huraganów, szczególnie we wrześniu i październiku.",
+    "best": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      27,
+      28,
+      29,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      29,
+      28,
+      27
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      27
+    ],
+    "note": "dla Belize City"
+  },
+  "practical": {
+    "flight": "około 15-20 h z przesiadkami",
+    "timeDiff": "zimą -7 godzin, latem -8 godzin",
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 30 dni, ale zaleca się sprawdzenie aktualnych przepisów przed wyjazdem. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu.",
+    "money": "Walutą jest dolar belizeński (BZD), który jest sztywno powiązany z dolarem amerykańskim (2 BZD = 1 USD). Dolary amerykańskie są powszechnie akceptowane. Karty płatnicze są akceptowane w większych hotelach i restauracjach, ale w mniejszych miejscowościach i na targach lepiej mieć gotówkę.",
+    "plugs": "Typy A, B (standard amerykański) oraz G (standard brytyjski). Napięcie 110/220 V. Warto zabrać adapter.",
+    "language": "Oficjalnym językiem jest angielski, co jest dużym ułatwieniem dla turystów. Powszechnie używany jest również kreolski belizeński oraz hiszpański, zwłaszcza w regionach graniczących z Meksykiem i Gwatemalą.",
+    "safety": "Belize jest krajem o umiarkowanym poziomie przestępczości. Należy zachować ostrożność, zwłaszcza w Belize City i unikać spacerów po zmroku w nieznanych rejonach. W popularnych miejscach turystycznych jest zazwyczaj bezpieczniej, ale zawsze warto dbać o swoje wartościowe przedmioty i stosować podstawowe zasady bezpieczeństwa."
+  },
+  "regions": [
+    {
+      "slug": "ambergris-caye",
+      "name": "Ambergris Caye",
+      "loc": "na Ambergris Caye",
+      "type": "wyspa",
+      "gygQuery": "Ambergris Caye",
+      "airport": "SPR",
+      "forWhom": "Idealna dla nurków, miłośników luksusu i aktywnego wypoczynku na wodzie.",
+      "intro": [
+        "Największa wyspa Belize, Ambergris Caye, to najbardziej rozwinięty turystycznie region kraju, znany przede wszystkim z miejscowości San Pedro. Jest to brama do Belize Barrier Reef, co czyni ją mekką dla nurków i snorkelingu. Znajdują się tu liczne centra nurkowe oferujące wycieczki do słynnej Wielkiej Błękitnej Dziury oraz rezerwatu morskiego Hol Chan.",
+        "Oprócz podwodnych atrakcji, Ambergris Caye oferuje szeroki wybór hoteli, restauracji i barów. Można tu uprawiać wędkarstwo morskie, kajakarstwo, kitesurfing czy po prostu relaksować się na piaszczystych plażach. Wyspa jest dobrze skomunikowana z lądem i innymi wyspami poprzez lokalne loty i wodne taksówki, co ułatwia eksplorację regionu."
+      ],
+      "highlights": [
+        "San Pedro - centrum turystyki",
+        "Bliskość Belize Barrier Reef",
+        "Nurkowanie i snorkeling",
+        "Luksusowe hotele i restauracje"
+      ]
+    },
+    {
+      "slug": "caye-caulker",
+      "name": "Caye Caulker",
+      "loc": "na Caye Caulker",
+      "type": "wyspa",
+      "gygQuery": "Caye Caulker",
+      "airport": "CUK",
+      "forWhom": "Dla podróżników szukających relaksu, budżetowych opcji i hipisowskiego klimatu.",
+      "intro": [
+        "Caye Caulker to mniejsza, bardziej wyluzowana siostra Ambergris Caye, znana z hasła „Go Slow”. Brak asfaltowych dróg i dominacja rowerów oraz elektrycznych wózków golfowych nadaje jej unikalny, spokojny charakter. Wyspa jest popularna wśród backpackerów i osób szukających autentycznego karaibskiego doświadczenia bez zgiełku.",
+        "Podobnie jak Ambergris Caye, Caye Caulker jest doskonałą bazą wypadową do nurkowania i snorkelingu na rafie koralowej. Oferuje liczne szkoły nurkowe i wycieczki. Wieczorami można delektować się świeżymi owocami morza w lokalnych restauracjach i barach, często z muzyką reggae na żywo, podziwiając zachody słońca."
+      ],
+      "highlights": [
+        "Spokojna, wyluzowana atmosfera",
+        "Dostęp do rafy koralowej",
+        "Świeże owoce morza",
+        "Idealna dla budżetowych podróży"
+      ]
+    },
+    {
+      "slug": "cayo-district",
+      "name": "Dystrykt Cayo",
+      "loc": "w Dystrykcie Cayo",
+      "type": "region",
+      "gygQuery": "Cayo District",
+      "airport": "BZE",
+      "forWhom": "Dla miłośników historii, przygód w dżungli i ekoturystyki.",
+      "intro": [
+        "Dystrykt Cayo, położony w zachodniej części Belize, to serce lądowej przygody. Jego stolicą jest San Ignacio, tętniące życiem miasto będące świetną bazą wypadową do eksploracji dżungli i starożytnych ruin Majów. To tutaj znajdują się jedne z najbardziej imponujących stanowisk archeologicznych, takich jak Caracol czy Xunantunich.",
+        "Region oferuje również niezliczone możliwości aktywnego spędzania czasu, od spływów kajakowych i tubingów w podziemnych rzekach, po trekking przez dżunglę i eksplorację jaskiń, w tym słynnej Actun Tunichil Muknal (ATM Cave). Wiele ekologicznych lodży i rezerwatów przyrody pozwala na bliski kontakt z bujną roślinnością i dziką fauną Belize."
+      ],
+      "highlights": [
+        "Ruiny Majów: Caracol, Xunantunich",
+        "Jaskinia Actun Tunichil Muknal (ATM)",
+        "San Ignacio - baza wypadowa",
+        "Ekoturystyka i przygody w dżungli"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wielka Błękitna Dziura (Great Blue Hole)",
+      "text": "Gigantyczna podwodna jaskinia, wpisana na listę UNESCO, to jedno z najbardziej znanych miejsc nurkowych na świecie, oferujące unikalne formacje skalne i rekiny.",
+      "gygQuery": "Great Blue Hole Belize"
+    },
+    {
+      "name": "Belize Barrier Reef",
+      "text": "Druga co do wielkości bariera koralowa na świecie, raj dla nurków i snorkelingu, dom dla tysięcy gatunków morskich, część światowego dziedzictwa UNESCO.",
+      "gygQuery": "Belize Barrier Reef"
+    },
+    {
+      "name": "Caracol",
+      "text": "Największe stanowisko archeologiczne Majów w Belize, ukryte głęboko w dżungli, z imponującą piramidą Caana - najwyższą budowlą w kraju.",
+      "gygQuery": "Caracol Mayan ruins"
+    },
+    {
+      "name": "Lamanai",
+      "text": "Starożytne miasto Majów, do którego dociera się malowniczą rzeczną podróżą. Słynie z dobrze zachowanych świątyń i licznych rzeźb.",
+      "gygQuery": "Lamanai Mayan ruins"
+    },
+    {
+      "name": "Xunantunich",
+      "text": "Imponujące ruiny Majów położone na wzgórzu, z którego roztacza się panoramiczny widok na dżunglę i granicę z Gwatemalą. Dostępne po krótkiej przeprawie promem rzecznym.",
+      "gygQuery": "Xunantunich Mayan ruins"
+    },
+    {
+      "name": "Actun Tunichil Muknal (ATM Cave)",
+      "text": "Niezwykła jaskinia, w której znajdują się szkielety ofiar Majów i starożytne artefakty. Wymaga pływania i wspinaczki, oferując niezapomniane doświadczenie.",
+      "gygQuery": "Actun Tunichil Muknal"
+    },
+    {
+      "name": "Rezerwat Morski Hol Chan",
+      "text": "Popularny rezerwat morski w pobliżu Ambergris Caye, idealny do snorkelingu i nurkowania z rekinami pielęgniarkami i płaszczkami w Shark Ray Alley.",
+      "gygQuery": "Hol Chan Marine Reserve"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Belize to fascynująca mieszanka wpływów karaibskich, meksykańskich i kreolskich. Podstawą wielu dań jest ryż i fasola, często podawane z gulaszem z kurczaka, wołowiny lub ryby. Owoce morza, takie jak homary, krewetki i świeże ryby, są świeże i obfite, zwłaszcza na wyspach. Popularne są również placki kukurydziane (tortille), smażone plantany oraz pikantne sosy. Warto spróbować lokalnych specjałów, takich jak ceviche, fry jacks (smażone pieczywo) na śniadanie czy tradycyjne dania Garifuna, np. hudut (zupa rybna z tłuczonymi bananami)."
+  ],
+  "faq": [
+    {
+      "q": "Czy do Belize potrzebna jest wiza dla Polaków?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny do 30 dni. Wymagany jest ważny paszport (min. 6 miesięcy ważności od daty wyjazdu)."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Belize i czy można płacić dolarami amerykańskimi?",
+      "a": "Obowiązującą walutą jest dolar belizeński (BZD), ale dolary amerykańskie (USD) są powszechnie akceptowane w stosunku 2 BZD za 1 USD. Warto mieć ze sobą gotówkę, zwłaszcza poza większymi miastami."
+    },
+    {
+      "q": "Jakie są główne środki transportu w Belize?",
+      "a": "Po lądzie najpopularniejsze są autobusy (często stare amerykańskie 'chicken busy') i taksówki. Między wyspami kursują wodne taksówki, a na dłuższe dystanse dostępne są loty krajowe małymi samolotami."
+    },
+    {
+      "q": "Czy Belize jest bezpiecznym krajem dla turystów?",
+      "a": "W większości miejsc turystycznych Belize jest bezpieczne, ale w Belize City i niektórych obszarach należy zachować szczególną ostrożność, unikać samotnych spacerów po zmroku i dbać o wartościowe przedmioty. Zawsze warto sprawdzić aktualne ostrzeżenia dla podróżnych."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

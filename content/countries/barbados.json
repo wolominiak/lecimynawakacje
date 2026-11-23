@@ -1,0 +1,229 @@
+{
+  "slug": "barbados",
+  "loc": "na Barbadosie",
+  "to": "na Barbados",
+  "capital": "Bridgetown",
+  "popularity": 38,
+  "touroperator": true,
+  "gygQuery": "Barbados",
+  "teaser": "Barbados to karaibska perła z pięknymi plażami, błękitną wodą i bogatą kulturą. Idealne miejsce na relaks i aktywny wypoczynek.",
+  "intro": [
+    "Barbados to wyspa na Małych Antylach, która słynie z malowniczych plaż z białym piaskiem, turkusowej wody i łagodnego klimatu. Jest to miejsce, gdzie brytyjska elegancja łączy się z karaibską swobodą, tworząc unikalną atmosferę. Wyspa przyciąga miłośników słońca, sportów wodnych oraz tych, którzy szukają relaksu w luksusowych warunkach. Bogata historia związana z produkcją rumu i kolonialna przeszłość dodają jej charakteru.",
+    "Kraj ten jest idealny dla par szukających romantycznego wypoczynku, rodzin z dziećmi ceniących bezpieczne plaże oraz dla entuzjastów nurkowania czy windsurfingu. Barbados oferuje zarówno tętniące życiem kurorty, jak i spokojne, ustronne zakątki. To także doskonały wybór dla smakoszy, którzy chcą poznać autentyczną kuchnię Bajan. Niezależnie od preferencji, każdy znajdzie tu coś dla siebie.",
+    "Podróż z Polski na Barbados wymaga przesiadek, najczęściej w jednym z europejskich hubów, takich jak Londyn czy Frankfurt, lub w Stanach Zjednoczonych. Całkowity czas lotu, wraz z oczekiwaniem na połączenia, zazwyczaj wynosi od 12 do 15 godzin. Przed wylotem do USA warto sprawdzić wymogi wizowe lub bezwizowe. Różnica czasu względem Polski wynosi 5 lub 6 godzin, zależnie od pory roku."
+  ],
+  "highlights": [
+    "Słoneczne plaże i turkusowe morze",
+    "Kolebka rumu, destylarnie",
+    "Światowej klasy nurkowanie",
+    "Kultura Bajan i lokalna kuchnia",
+    "Luksusowe kurorty i hotele",
+    "Tropikalne ogrody i jaskinie"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Barbadosu to pora sucha, która trwa od grudnia do maja. W tym okresie panują idealne warunki pogodowe - dużo słońca, niska wilgotność i przyjemne temperatury, a ryzyko opadów jest minimalne. Pora deszczowa, od czerwca do listopada, charakteryzuje się wyższą wilgotnością i częstszymi, choć zazwyczaj krótkimi, ulewami. Warto pamiętać, że od czerwca do listopada trwa również sezon huraganów, choć Barbados rzadko znajduje się na ich bezpośredniej trasie.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      30,
+      29
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "dla Bridgetown"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "Zimą -5 godzin, latem -6 godzin względem Polski.",
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny na Barbadosie trwający do 90 dni. Wymagany jest ważny paszport (zaleca się, aby był ważny co najmniej 6 miesięcy od daty planowanego wyjazdu), bilet powrotny lub na dalszą podróż oraz potwierdzenie posiadania wystarczających środków finansowych na czas pobytu. Zawsze przed wyjazdem należy sprawdzić aktualne wymogi w ambasadzie lub konsulacie Barbadosu lub na stronach MSZ.",
+    "money": "Oficjalną walutą jest dolar barbadoski (BBD), który jest sztywno powiązany z dolarem amerykańskim (USD) w stosunku 2:1. Dolary amerykańskie są powszechnie akceptowane. Płatności kartą kredytową są szeroko dostępne w hotelach i większych sklepach. Bankomaty są łatwo dostępne.",
+    "plugs": "Typ A i B (amerykański standard, potrzebna przejściówka). Napięcie 115 V, częstotliwość 50 Hz.",
+    "language": "Angielski (urzędowy), lokalny dialekt Bajan.",
+    "safety": "Barbados jest uznawany za jeden z bezpieczniejszych krajów Karaibów, jednak jak wszędzie, należy zachować podstawowe środki ostrożności. Drobna przestępczość, taka jak kradzieże, zdarza się, zwłaszcza w zatłoczonych miejscach i na plażach. Unikaj samotnych spacerów po zmroku w nieoświetlonych miejscach. Opieka medyczna jest dostępna, ale może być kosztowna, dlatego zaleca się wykupienie kompleksowego ubezpieczenia podróżnego. Pamiętaj o ochronie przed słońcem i komarami."
+  },
+  "regions": [
+    {
+      "slug": "poludniowe-wybrzeze",
+      "name": "Południowe Wybrzeże",
+      "loc": "na Południowym Wybrzeżu",
+      "type": "region",
+      "gygQuery": "Barbados South Coast",
+      "airport": "BGI",
+      "forWhom": "Idealne dla szukających rozrywki, restauracji i pięknych plaż.",
+      "intro": [
+        "Południowe Wybrzeże Barbadosu to dynamiczny region, który tętni życiem zarówno w dzień, jak i w nocy. Znajdziesz tu szeroki wybór hoteli, restauracji i barów, a także jedne z najpiękniejszych plaż, idealnych do pływania i uprawiania sportów wodnych.",
+        "Słynne St. Lawrence Gap oferuje mnóstwo lokali rozrywkowych, natomiast Oistins Fish Fry to weekendowa tradycja, której nie można przegapić, oferująca świeże owoce morza i lokalną atmosferę."
+      ],
+      "highlights": [
+        "Plaża Dover",
+        "St. Lawrence Gap",
+        "Oistins Fish Fry",
+        "Surfing i windsurfing"
+      ]
+    },
+    {
+      "slug": "zachodnie-wybrzeze",
+      "name": "Zachodnie Wybrzeże",
+      "loc": "na Zachodnim Wybrzeżu",
+      "type": "region",
+      "gygQuery": "Barbados West Coast",
+      "airport": "BGI",
+      "forWhom": "Dla ceniących luksus, spokój i doskonałe warunki do pływania.",
+      "intro": [
+        "Zachodnie Wybrzeże, często nazywane \"Platynowym Wybrzeżem\", to synonim luksusu i spokoju. Znajdują się tu ekskluzywne kurorty, prywatne wille i wykwintne restauracje.",
+        "Wody Morza Karaibskiego są tu zazwyczaj spokojniejsze, co sprzyja relaksowi na plaży, pływaniu i nurkowaniu. Miejscowości takie jak Holetown czy Speightstown oferują urokliwe butiki i galerie sztuki."
+      ],
+      "highlights": [
+        "Luksusowe kurorty",
+        "Spokojne plaże",
+        "Holetown",
+        "Rejsy katamaranem"
+      ]
+    },
+    {
+      "slug": "bridgetown",
+      "name": "Bridgetown",
+      "loc": "w Bridgetown",
+      "type": "miasto",
+      "gygQuery": "Bridgetown",
+      "airport": "BGI",
+      "forWhom": "Dla miłośników historii, kultury i zakupów.",
+      "intro": [
+        "Stolica Barbadosu, Bridgetown, wraz z pobliskim Garrison, została wpisana na listę światowego dziedzictwa UNESCO. To serce wyspy, gdzie historia spotyka się z nowoczesnością.",
+        "Można tu podziwiać kolonialną architekturę, odwiedzić historyczne budynki parlamentu oraz Muzeum Barbadosu. Miasto oferuje również liczne sklepy, targi i restauracje, pozwalając zanurzyć się w lokalnym życiu."
+      ],
+      "highlights": [
+        "Parliament Buildings",
+        "Garrison",
+        "Cheapside Market",
+        "Barbados Museum"
+      ]
+    },
+    {
+      "slug": "wschodnie-wybrzeze",
+      "name": "Wschodnie Wybrzeże",
+      "loc": "na Wschodnim Wybrzeżu",
+      "type": "region",
+      "gygQuery": "Barbados East Coast",
+      "airport": "BGI",
+      "forWhom": "Dla poszukujących dzikiej przyrody, surferów i pieszych wędrówek.",
+      "intro": [
+        "Wschodnie Wybrzeże Barbadosu to zupełnie inna odsłona wyspy - dzika, wietrzna i niezwykle malownicza. Silne wiatry i potężne fale Atlantyku sprawiają, że jest to raj dla surferów, zwłaszcza w rejonie Bathsheba, zwanym \"Soup Bowl\".",
+        "Krajobraz charakteryzują skaliste wybrzeża, bujna roślinność i dramatyczne widoki. To idealne miejsce dla miłośników przyrody, pieszych wędrówek i szukających ucieczki od zgiełku."
+      ],
+      "highlights": [
+        "Bathsheba",
+        "Soup Bowl",
+        "Andromeda Botanic Gardens",
+        "Widokowe trasy"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Harrison's Cave",
+      "text": "Wapienna jaskinia z imponującymi formacjami stalaktytów i stalagmitów, którą zwiedza się specjalnym tramwajem, odkrywając podziemne rzeki i wodospady.",
+      "gygQuery": "Harrison's Cave Barbados"
+    },
+    {
+      "name": "Mount Gay Rum Distillery",
+      "text": "Najstarsza na świecie destylarnia rumu, oferująca wycieczki i degustacje, pozwalające poznać historię i proces produkcji tego trunku.",
+      "gygQuery": "Mount Gay Rum Distillery"
+    },
+    {
+      "name": "Animal Flower Cave",
+      "text": "Naturalna jaskinia morska na północnym krańcu wyspy, z basenami skalnymi i widokami na ocean, nazwana tak od morskich ukwiałów.",
+      "gygQuery": "Animal Flower Cave"
+    },
+    {
+      "name": "Hunte's Gardens",
+      "text": "Spektakularny, prywatny ogród botaniczny, stworzony w naturalnym zagłębieniu terenu, pełen egzotycznych roślin i kwiatów, zapewniający oazę spokoju.",
+      "gygQuery": "Hunte's Gardens Barbados"
+    },
+    {
+      "name": "St. Nicholas Abbey",
+      "text": "Jedna z najstarszych plantacji trzciny cukrowej na wyspie, oferująca wgląd w kolonialną historię, produkcję rumu i syropu cukrowego w zabytkowej posiadłości.",
+      "gygQuery": "St Nicholas Abbey"
+    },
+    {
+      "name": "Oistins Fish Fry",
+      "text": "Cotygodniowy festiwal jedzenia w Oistins, gdzie lokalni rybacy sprzedają świeżo złowione ryby, przygotowywane na wiele sposobów, w towarzystwie muzyki i tańca.",
+      "gygQuery": "Oistins Fish Fry"
+    },
+    {
+      "name": "Carlisle Bay Marine Park",
+      "text": "Park morski w pobliżu Bridgetown, idealny do nurkowania i snorkelingu, z sześcioma zatopionymi wrakami statków i bogatym życiem morskim.",
+      "gygQuery": "Carlisle Bay Marine Park"
+    },
+    {
+      "name": "Crane Beach",
+      "text": "Jedna z najbardziej znanych i malowniczych plaż na Barbadosie, słynąca z różowego piasku i fal idealnych do bodyboardingu, otoczona klifami.",
+      "gygQuery": "Crane Beach Barbados"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Bajan, czyli barbadoska, to smakowita mieszanka wpływów afrykańskich, brytyjskich i karaibskich. Podstawą są świeże owoce morza, zwłaszcza latająca ryba (flying fish), często podawana z cou-cou - kaszą kukurydzianą z okrą. Popularne są także potrawy z kurczaka, wieprzowiny i wołowiny, często przyprawiane lokalnymi ziołami i pikantnymi sosami. Nie można zapomnieć o świeżych owocach tropikalnych i oczywiście o rumie, który jest integralną częścią kultury kulinarnej wyspy, często wykorzystywanym w drinkach i deserach."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Barbados?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyt turystyczny na Barbadosie trwający do 90 dni. Wymagany jest ważny paszport, bilet powrotny oraz potwierdzenie środków finansowych."
+    },
+    {
+      "q": "Jaka jest waluta na Barbadosie?",
+      "a": "Oficjalną walutą jest dolar barbadoski (BBD), który jest sztywno powiązany z dolarem amerykańskim (USD) w stosunku 2:1. Dolary amerykańskie są powszechnie akceptowane, a płatności kartą są szeroko dostępne."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Barbados?",
+      "a": "Najlepszy czas na podróż to pora sucha, trwająca od grudnia do maja, kiedy pogoda jest najbardziej stabilna, słoneczna, a ryzyko opadów minimalne."
+    },
+    {
+      "q": "Czy Barbados jest bezpieczny?",
+      "a": "Barbados jest generalnie bezpiecznym krajem, ale jak wszędzie, należy zachować ostrożność, zwłaszcza w nocy i w zatłoczonych miejscach, aby uniknąć drobnych kradzieży. Zaleca się ubezpieczenie podróżne."
+    },
+    {
+      "q": "Jak poruszać się po Barbadosie?",
+      "a": "Po wyspie można poruszać się autobusami publicznymi (tzw. 'reggae buses'), taksówkami lub wynajętym samochodem. Wynajem auta daje największą swobodę, ale pamiętaj o ruchu lewostronnym."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

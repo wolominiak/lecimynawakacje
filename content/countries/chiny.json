@@ -1,0 +1,206 @@
+{
+  "slug": "chiny",
+  "loc": "w Chinach",
+  "to": "do Chin",
+  "capital": "Pekin",
+  "popularity": 45,
+  "touroperator": true,
+  "gygQuery": "China",
+  "teaser": "Chiny to kraj kontrastów, gdzie starożytna historia spotyka się z futurystyczną nowoczesnością. Odkryj Wielki Mur, Zakazane Miasto i tętniące życiem metropolie.",
+  "intro": [
+    "Podróż do Chin to wyprawa do serca cywilizacji, która przez tysiące lat kształtowała świat. Od majestatycznych dynastii po dzisiejszą potęgę gospodarczą, kraj ten oferuje niezliczone oblicza. Przyciąga przede wszystkim bogactwem kultury, monumentalnymi zabytkami i krajobrazami, które potrafią zapierać dech w piersiach. Odwiedzając Chiny, przygotuj się na spotkanie z innym światem, gdzie tradycja i postęp splatają się w fascynującą mozaikę.",
+    "Chiny są idealne dla podróżników szukających głębokich doświadczeń kulturowych, miłośników historii i tych, którzy nie boją się wyzwań związanych z eksploracją ogromnego kraju. Nie jest to cel na typowe wczasy plażowe, ale raczej na intensywne zwiedzanie i poznawanie. Kraj oferuje zarówno zorganizowane wycieczki, które ułatwiają poruszanie się po nim, jak i możliwości dla bardziej niezależnych odkrywców pragnących zanurzyć się w lokalnym życiu.",
+    "Loty z Polski do Chin zazwyczaj wymagają jednej przesiadki, najczęściej w dużych europejskich hubach lub na Bliskim Wschodzie. Sama podróż trwa około 10-12 godzin, nie licząc czasu na przesiadkę. Przed wyjazdem konieczne jest uzyskanie wizy, co wymaga wcześniejszego zaplanowania. Na miejscu czeka na nas rozbudowana, choć momentami trudna do ogarnięcia, sieć transportu publicznego, w tym superszybkie pociągi."
+  ],
+  "highlights": [
+    "Odkryj Wielki Mur Chiński, symbol narodowy",
+    "Podziwiaj Terakotową Armię w Xi'an",
+    "Poznaj cesarską historię w Zakazanym Mieście w Pekinie",
+    "Doświadcz futurystycznego Szanghaju",
+    "Spotkaj pandy wielkie w Syczuanie",
+    "Podziwiaj malownicze krajobrazy krasowe w Guilin"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Chin to wiosna (kwiecień-maj) i jesień (wrzesień-październik). W tych miesiącach pogoda jest najbardziej sprzyjająca do zwiedzania większości regionów, z umiarkowanymi temperaturami i mniejszą ilością opadów. Lato bywa upalne i wilgotne, szczególnie na południu, a zima chłodna i sucha, zwłaszcza na północy.",
+    "best": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "ok": [
+      3,
+      6,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      1,
+      4,
+      11,
+      20,
+      26,
+      30,
+      31,
+      30,
+      26,
+      19,
+      10,
+      3
+    ],
+    "sea": null,
+    "note": "dla Pekinu"
+  },
+  "practical": {
+    "flight": "około 10-12 h z przesiadką",
+    "timeDiff": "plus 6 lub 7 godzin",
+    "documents": "Obywatele Polski potrzebują wizy do Chin. Należy złożyć wniosek w Ambasadzie Chińskiej Republiki Ludowej w Warszawie przed wyjazdem. Paszport powinien być ważny co najmniej 6 miesięcy od daty planowanego powrotu. Zawsze sprawdź aktualne wymogi wizowe przed podróżą.",
+    "money": "Walutą jest juan chiński (CNY). Płatności kartą są możliwe w dużych miastach, ale dominują płatności mobilne (WeChat Pay, Alipay), które mogą być trudne do uruchomienia dla turystów bez chińskiego konta bankowego. Warto mieć ze sobą gotówkę, zwłaszcza poza metropoliami.",
+    "plugs": "Typ A, C i I. Warto zabrać uniwersalny adapter, aby mieć pewność, że wszystkie urządzenia będą działać.",
+    "language": "Oficjalnym językiem jest chiński (mandaryński). W większych miastach i miejscach turystycznych można porozumieć się po angielsku, ale poza nimi komunikacja może być wyzwaniem. Warto zainstalować aplikację tłumaczącą.",
+    "safety": "Chiny są generalnie krajem bezpiecznym pod względem przestępczości. Należy uważać na kieszonkowców w zatłoczonych miejscach. Istnieją pewne ograniczenia dotyczące wolności słowa i dostępu do internetu (warto mieć VPN). Zaleca się wykupienie ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "pekin",
+      "name": "Pekin",
+      "loc": "w Pekinie",
+      "type": "miasto",
+      "gygQuery": "Beijing",
+      "airport": "PEK",
+      "forWhom": "Idealny dla miłośników historii i kultury, którzy chcą poznać cesarskie dziedzictwo Chin.",
+      "intro": [
+        "Pekin, stolica Chin, to miasto, gdzie starożytna historia spotyka się z nowoczesnością. To tutaj znajdziesz ikoniczne zabytki, takie jak Zakazane Miasto, Plac Tiananmen czy Świątynia Nieba, które świadczą o bogatej przeszłości cesarskiej. Miasto jest ogromne, ale dobrze skomunikowane metrem, co ułatwia zwiedzanie.",
+        "Oprócz zabytków, Pekin oferuje również tętniące życiem dzielnice handlowe, tradycyjne hutongi (stare uliczki) oraz nowoczesne galerie sztuki i centra rozrywki. To doskonałe miejsce, aby rozpocząć swoją chińską przygodę i poczuć puls tego niezwykłego kraju."
+      ],
+      "highlights": [
+        "Zakazane Miasto i Plac Tiananmen",
+        "Wielki Mur Chiński (sekcje Mutianyu, Badaling)",
+        "Świątynia Nieba i Letni Pałac",
+        "Tradycyjne hutongi"
+      ]
+    },
+    {
+      "slug": "szanghaj",
+      "name": "Szanghaj",
+      "loc": "w Szanghaju",
+      "type": "miasto",
+      "gygQuery": "Shanghai",
+      "airport": "PVG",
+      "forWhom": "Obowiązkowy punkt dla tych, którzy chcą zobaczyć futurystyczne oblicze współczesnych Chin.",
+      "intro": [
+        "Szanghaj to najbardziej kosmopolityczne i nowoczesne miasto Chin, tętniące życiem finansowe centrum. Jego ikoniczna panorama z wieżowcami dzielnicy Pudong, widoczna z Bundu, to jeden z najbardziej rozpoznawalnych symboli kraju. Miasto łączy kolonialną architekturę z futurystycznymi konstrukcjami.",
+        "Szanghaj oferuje niezliczone możliwości rozrywki, od ekskluzywnych butików i restauracji, przez muzea, po tętniące życiem kluby nocne. To idealne miejsce, aby doświadczyć szybkiego tempa rozwoju Chin i zanurzyć się w miejskim zgiełku."
+      ],
+      "highlights": [
+        "Bund i Pudong (Oriental Pearl Tower)",
+        "Ogrody Yuyuan i Stare Miasto",
+        "Francuska Koncesja",
+        "Muzeum Szanghaju"
+      ]
+    },
+    {
+      "slug": "xian",
+      "name": "Xi'an",
+      "loc": "w Xi'an",
+      "type": "miasto",
+      "gygQuery": "Xi'an",
+      "airport": "XIY",
+      "forWhom": "Kluczowe miejsce dla każdego, kto chce zgłębić starożytną historię Chin i zobaczyć Terakotową Armię.",
+      "intro": [
+        "Xi'an, dawna stolica Chin i wschodni kraniec Jedwabnego Szlaku, jest skarbnicą historycznych odkryć. Jego największą atrakcją jest Terakotowa Armia, niezwykłe mauzoleum pierwszego cesarza Chin, Qin Shi Huanga. To widok, który na długo pozostaje w pamięci i jest absolutnym \"must-see\" podczas wizyty w Chinach.",
+        "Oprócz Terakotowej Armii, Xi'an oferuje imponujące mury miejskie, po których można jeździć rowerem, Dzielnicę Muzułmańską z Wielkim Meczetem oraz Wieżę Dzwonu i Wieżę Bębna. Miasto emanuje historią i jest doskonałym przystankiem dla tych, którzy chcą poczuć dawny splendor Chin."
+      ],
+      "highlights": [
+        "Terakotowa Armia",
+        "Mury Miejskie Xi'an",
+        "Dzielnica Muzułmańska i Wielki Meczet",
+        "Wielka Pagoda Dzikich Gęsi"
+      ]
+    },
+    {
+      "slug": "guilin",
+      "name": "Guilin",
+      "loc": "w Guilin",
+      "type": "region",
+      "gygQuery": "Guilin",
+      "airport": "KWL",
+      "forWhom": "Dla podróżników szukających spektakularnych krajobrazów naturalnych i rejsów po rzekach.",
+      "intro": [
+        "Region Guilin słynie z jednych z najbardziej malowniczych krajobrazów w Chinach, charakteryzujących się wapiennymi wzgórzami krasowymi, które wyłaniają się z pól ryżowych i wijącej się rzeki Li. To sceneria, która często pojawia się na tradycyjnych chińskich obrazach i jest prawdziwą ucztą dla oka. Rejs po rzece Li z Guilin do Yangshuo to jedna z najpiękniejszych wycieczek w kraju.",
+        "Poza rejsami, okolice Guilin oferują również możliwość zwiedzania jaskiń, wędrówek po wzgórzach, a także poznawania życia lokalnych społeczności w Yangshuo. To idealne miejsce na relaks i podziwianie natury po intensywnym zwiedzaniu miast."
+      ],
+      "highlights": [
+        "Rejs po rzece Li do Yangshuo",
+        "Wzgórza krasowe i pola ryżowe",
+        "Jaskinia Trzcinowej Fletni",
+        "Wzgórze Fubo"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Wielki Mur Chiński",
+      "text": "Monumentalna konstrukcja obronna, rozciągająca się na tysiące kilometrów. Najlepiej dostępne i odrestaurowane sekcje to Mutianyu i Badaling w okolicach Pekinu.",
+      "gygQuery": "Great Wall of China"
+    },
+    {
+      "name": "Terakotowa Armia",
+      "text": "Armia glinianych wojowników i koni, strzegąca grobowca pierwszego cesarza Chin, Qin Shi Huanga, w Xi'an. Każda figura jest unikalna.",
+      "gygQuery": "Terracotta Army"
+    },
+    {
+      "name": "Zakazane Miasto w Pekinie",
+      "text": "Dawny pałac cesarski, centrum chińskiej władzy przez prawie 500 lat. Imponujący kompleks pałacowy, pełen historii i architektonicznego splendoru.",
+      "gygQuery": "Forbidden City Beijing"
+    },
+    {
+      "name": "Bund w Szanghaju",
+      "text": "Słynna promenada wzdłuż rzeki Huangpu, oferująca spektakularne widoki na futurystyczną panoramę dzielnicy Pudong i historyczne budynki po stronie Bundu.",
+      "gygQuery": "The Bund Shanghai"
+    },
+    {
+      "name": "Pandy Wielkie (Chengdu)",
+      "text": "Odwiedź Centrum Badawcze i Hodowlane Pandy Wielkiej w Chengdu, Syczuan, aby zobaczyć te urocze zwierzęta w ich naturalnym środowisku.",
+      "gygQuery": "Chengdu Panda Base"
+    },
+    {
+      "name": "Rzeka Li (Guilin)",
+      "text": "Malowniczy rejs po rzece Li, otoczonej spektakularnymi wzgórzami krasowymi, to esencja chińskiego krajobrazu. Często inspiracja dla tradycyjnych malowideł.",
+      "gygQuery": "Li River Cruise Guilin"
+    },
+    {
+      "name": "Park Narodowy Zhangjiajie",
+      "text": "Niesamowity park z pionowymi kolumnami piaskowcowymi, które zainspirowały twórców filmu \"Avatar\". Oferuje spektakularne widoki i szklane mosty.",
+      "gygQuery": "Zhangjiajie National Forest Park"
+    }
+  ],
+  "cuisine": [
+    "Chińska kuchnia to prawdziwa uczta dla zmysłów, charakteryzująca się ogromną różnorodnością regionalną. Od pikantnych dań Syczuanu, przez delikatne smaki kantonu, po dania oparte na makaronie i pierożkach na północy. Ryż i makaron stanowią podstawę wielu posiłków, często podawane z warzywami, mięsem (najczęściej wieprzowiną, kurczakiem, wołowiną) i różnorodnymi sosami. Nie zapomnij spróbować tradycyjnych pierożków jiaozi, pekińskiej kaczki czy dim sum. Warto być otwartym na nowe smaki i eksperymentować, bo każda prowincja oferuje coś wyjątkowego."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebna jest wiza do Chin?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Chin. Należy złożyć wniosek w Ambasadzie Chińskiej Republiki Ludowej w Warszawie przed planowanym wyjazdem. Proces może potrwać kilka dni lub tygodni, więc zaplanuj to z wyprzedzeniem."
+    },
+    {
+      "q": "Jakie są najlepsze miesiące na podróż do Chin?",
+      "a": "Najlepszymi miesiącami na podróż do Chin są wiosna (kwiecień-maj) i jesień (wrzesień-październik). W tych okresach pogoda jest umiarkowana i sprzyja zwiedzaniu większości regionów kraju."
+    },
+    {
+      "q": "Czy w Chinach można płacić kartą?",
+      "a": "W dużych miastach i sklepach akceptowane są karty płatnicze, ale dominują płatności mobilne (WeChat Pay, Alipay). Dla turystów bez chińskiego konta bankowego może to być wyzwanie, dlatego zawsze warto mieć ze sobą gotówkę."
+    },
+    {
+      "q": "Czy internet w Chinach działa normalnie?",
+      "a": "W Chinach obowiązuje cenzura internetu, co oznacza, że wiele popularnych zachodnich stron i aplikacji (jak Google, Facebook, Instagram, WhatsApp) jest zablokowanych. Aby z nich korzystać, konieczne jest użycie VPN (Virtual Private Network)."
+    },
+    {
+      "q": "Czy Chiny są bezpieczne dla turystów?",
+      "a": "Chiny są generalnie krajem bezpiecznym, z niskim wskaźnikiem przestępczości. Należy zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach. Problemy mogą wynikać raczej z barier językowych lub różnic kulturowych."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

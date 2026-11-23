@@ -1,0 +1,205 @@
+{
+  "slug": "gabon",
+  "loc": "w Gabonie",
+  "to": "do Gabonu",
+  "capital": "Libreville",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Gabon",
+  "teaser": "Gabon to niezbadany klejnot Afryki Środkowej, oferujący dziewicze lasy deszczowe, dzikie wybrzeża i bogactwo fauny dla prawdziwych odkrywców.",
+  "intro": [
+    "Gabon to kraj dla podróżników szukających autentycznych doświadczeń z dala od masowej turystyki. Jego największym atutem jest niezwykła przyroda, od gęstych lasów deszczowych, przez sawanny, po dziewicze wybrzeża Atlantyku. Można tu spotkać słonie spacerujące po plażach, goryle w ich naturalnym środowisku czy hipopotamy surfujące w oceanie. To prawdziwa gratka dla miłośników ekoturystyki i fotografii przyrodniczej.",
+    "Kierunek ten jest idealny dla osób ceniących sobie spokój, dzikość i możliwość obcowania z naturą w jej najczystszej formie. Nie ma tu rozbudowanej infrastruktury turystycznej, co oznacza, że podróżowanie wymaga elastyczności, cierpliwości i często korzystania z lokalnych przewodników. Gabon to wyzwanie i nagroda dla tych, którzy pragną zejść z utartych szlaków i odkryć Afrykę, jakiej niewielu doświadczyło.",
+    "Podróż z Polski do Gabonu wiąże się zazwyczaj z jedną lub dwiema przesiadkami, najczęściej w Paryżu, Stambule lub Addis Abebie. Cała podróż, w zależności od połączeń, może zająć od 12 do nawet 20 godzin. Pamiętaj, że Gabon nie jest krajem tanim w podróży, a logistyka wymaga wcześniejszego planowania, zwłaszcza w kwestii transportu wewnętrznego i zakwaterowania w parkach narodowych."
+  ],
+  "highlights": [
+    "Dziewicze lasy deszczowe i sawanny",
+    "Goryle, szympansy i słonie w naturze",
+    "Plażujące hipopotamy i żółwie morskie",
+    "Unikatowa flora i fauna Afryki Równikowej",
+    "Autentyczne doświadczenie poza szlakiem",
+    "Malownicze wybrzeże Atlantyku"
+  ],
+  "bestTime": {
+    "text": "Gabon leży na równiku, co oznacza klimat równikowy z dwiema porami suchymi i dwiema deszczowymi. Najlepszy czas na podróż to pory suche, kiedy deszcze są rzadsze, a drogi bardziej przejezdne. Długa pora sucha przypada na miesiące od czerwca do września, a krótka od grudnia do połowy lutego. W tych okresach łatwiej o obserwację dzikiej zwierzyny, która gromadzi się przy wodopojach.",
+    "best": [
+      7,
+      8,
+      12,
+      1
+    ],
+    "ok": [
+      6,
+      9,
+      2
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      31,
+      31,
+      31,
+      30,
+      29,
+      28,
+      28,
+      29,
+      30,
+      30,
+      30
+    ],
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27,
+      26,
+      27,
+      28,
+      28,
+      28
+    ],
+    "note": "dla Libreville"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "W czasie zimowym w Polsce +1 godzina, w czasie letnim brak różnicy",
+    "documents": "Obywatele Polski potrzebują wizy, którą należy uzyskać przed podróżą w ambasadzie Gabonu lub online (e-wiza). Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zaleca się sprawdzenie aktualnych wymogów wizowych i paszportowych przed wyjazdem, najlepiej na stronie MSZ.",
+    "money": "Walutą jest frank CFA (XAF). Płatności kartą są możliwe tylko w większych hotelach i supermarketach w Libreville. Poza stolicą dominują płatności gotówką. Warto mieć przy sobie drobne nominały.",
+    "plugs": "Typ C, E i F. Napięcie 220 V, częstotliwość 50 Hz. Polskie wtyczki pasują bez adaptera.",
+    "language": "Językiem urzędowym jest francuski. Warto znać podstawy francuskiego, ponieważ angielski jest rzadko używany poza środowiskiem turystycznym.",
+    "safety": "Gabon jest stosunkowo stabilny, ale należy zachować ostrożność. Występuje zagrożenie pospolitą przestępczością, zwłaszcza w miastach. Zaleca się unikanie samotnych spacerów po zmroku, zwłaszcza w mniej uczęszczanych miejscach. Wymagane jest szczepienie przeciwko żółtej febrze, a profilaktyka przeciwmalaryczna jest wysoce zalecana. Przed wyjazdem warto skonsultować się z lekarzem medycyny podróży."
+  },
+  "regions": [
+    {
+      "slug": "libreville",
+      "name": "Libreville",
+      "loc": "w Libreville",
+      "type": "miasto",
+      "gygQuery": "Libreville",
+      "airport": "LBV",
+      "forWhom": "Stolica Gabonu to brama do kraju, oferująca wgląd w jego kulturę i historię.",
+      "intro": [
+        "Libreville, rozciągające się wzdłuż wybrzeża Atlantyku, jest głównym punktem wjazdu do Gabonu i jego największym miastem. To tutaj znajduje się międzynarodowe lotnisko, a także większość hoteli, restauracji i urzędów. Miasto ma nowoczesną część z wieżowcami, ale też bardziej tradycyjne dzielnice z kolorowymi targami i lokalnymi sklepikami.",
+        "Choć nie jest to typowo turystyczne miasto, warto poświęcić dzień lub dwa na zwiedzanie. Można odwiedzić Pałac Prezydencki, Katedrę św. Michała, czy też lokalne bazary, by poczuć puls afrykańskiej metropolii. Libreville to także baza wypadowa do pobliskich parków narodowych, takich jak Pongara."
+      ],
+      "highlights": [
+        "Pałac Prezydencki",
+        "Katedra św. Michała",
+        "Targ rzemiosła",
+        "Muzeum Sztuki i Tradycji"
+      ]
+    },
+    {
+      "slug": "park-narodowy-loango",
+      "name": "Park Narodowy Loango",
+      "loc": "w Parku Narodowym Loango",
+      "type": "park narodowy",
+      "gygQuery": "Loango National Park",
+      "airport": "POG (Port-Gentil, potem łodzią/samochodem)",
+      "forWhom": "Idealny dla poszukiwaczy dzikiej przyrody i unikatowych widoków, gdzie las spotyka ocean.",
+      "intro": [
+        "Loango to jeden z najbardziej spektakularnych parków narodowych w Gabonie, słynący z \"surfujących hipopotamów\" i słoni spacerujących po plażach. Rozciąga się wzdłuż wybrzeża Atlantyku, łącząc ekosystemy lasów deszczowych, sawann, lagun i piaszczystych plaż. To jedno z niewielu miejsc na świecie, gdzie dzikie zwierzęta tak swobodnie korzystają z morskiego brzegu.",
+        "Park oferuje niezwykłe możliwości obserwacji zwierząt, w tym goryli, szympansów, bawołów, a także rzadkich gatunków ptaków. W okresie od lipca do września można obserwować wieloryby, a od listopada do marca żółwie morskie składające jaja na plażach. Dostęp do parku jest trudny i wymaga dobrego planowania, często z użyciem łodzi lub małych samolotów."
+      ],
+      "highlights": [
+        "Słonie na plażach",
+        "Surfujące hipopotamy",
+        "Obserwacja wielorybów",
+        "Goryle i szympansy"
+      ]
+    },
+    {
+      "slug": "park-narodowy-lope",
+      "name": "Park Narodowy Lopé",
+      "loc": "w Parku Narodowym Lopé",
+      "type": "park narodowy",
+      "gygQuery": "Lope National Park",
+      "airport": "LOP (Lopé)",
+      "forWhom": "Miejsce dla miłośników lasów deszczowych, kultury i badań archeologicznych.",
+      "intro": [
+        "Park Narodowy Lopé, wpisany na listę światowego dziedzictwa UNESCO, jest domem dla największej populacji goryli nizinnych w Gabonie. To rozległy obszar, który łączy w sobie gęste lasy deszczowe z fragmentami sawann, oferując różnorodność krajobrazów i ekosystemów. Park jest również ważnym miejscem badań nad naczelnymi.",
+        "Oprócz goryli i szympansów, w Lopé można spotkać bawoły, lamparty i wiele gatunków ptaków. Park jest także znany z prehistorycznych petroglifów, świadczących o dawnej obecności człowieka w tym regionie. Podróż do Lopé to zanurzenie się w serce afrykańskiej dżungli, z możliwością trekkingu i bliskiego kontaktu z naturą."
+      ],
+      "highlights": [
+        "Goryle nizinne",
+        "Prehistoryczne petroglify",
+        "Trekking w dżungli",
+        "Bogactwo ptactwa"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Park Narodowy Loango",
+      "text": "Słynący z unikalnego połączenia lasu i oceanu, gdzie dzikie zwierzęta, takie jak słonie i hipopotamy, często pojawiają się na plażach.",
+      "gygQuery": "Loango National Park"
+    },
+    {
+      "name": "Park Narodowy Lopé",
+      "text": "Obszar wpisany na listę UNESCO, znany z największej populacji goryli nizinnych w Gabonie oraz prehistorycznych petroglifów.",
+      "gygQuery": "Lope National Park"
+    },
+    {
+      "name": "Park Narodowy Akanda",
+      "text": "Obejmuje lasy namorzynowe i tereny morskie, będąc kluczowym miejscem dla migrujących ptaków i żółwi morskich.",
+      "gygQuery": "Akanda National Park"
+    },
+    {
+      "name": "Park Narodowy Pongara",
+      "text": "Położony blisko Libreville, oferuje plaże, lasy i możliwość obserwacji żółwi morskich składających jaja w sezonie.",
+      "gygQuery": "Pongara National Park"
+    },
+    {
+      "name": "Pałac Prezydencki w Libreville",
+      "text": "Imponujący budynek w stolicy, symbol władzy i nowoczesności Gabonu, choć dostępny tylko z zewnątrz.",
+      "gygQuery": "Presidential Palace Libreville"
+    },
+    {
+      "name": "Katedra św. Michała w Libreville",
+      "text": "Kościół z pięknymi drewnianymi rzeźbami przedstawiającymi sceny biblijne w afrykańskim stylu.",
+      "gygQuery": "St Michel Cathedral Libreville"
+    },
+    {
+      "name": "Wodospady Kongou (Park Narodowy Ivindo)",
+      "text": "Spektakularne kaskady wody w sercu lasu deszczowego, jedne z największych w Afryce Środkowej, dostępne dla bardziej wytrwałych podróżników.",
+      "gygQuery": "Kongou Falls Ivindo National Park"
+    },
+    {
+      "name": "Rzeka Ogooué",
+      "text": "Najdłuższa rzeka Gabonu, będąca ważną arterią transportową i oferująca możliwości rejsów oraz obserwacji życia nadbrzeżnego.",
+      "gygQuery": "Ogooue River Gabon"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia gabońska opiera się na świeżych, lokalnych składnikach, takich jak maniok, banany plantany, orzeszki ziemne, ryż oraz różnorodne ryby i owoce morza. Popularne są gulasze z mięsem (kurczak, wołowina, dziczyzna) lub rybą, często podawane z sosem z orzeszków ziemnych lub liści manioku. Warto spróbować \"poulet nyembwe\", czyli kurczaka w sosie z orzechów palmowych, uważanego za narodowe danie. Na wybrzeżu dominują świeże ryby i krewetki, często grillowane lub smażone."
+  ],
+  "faq": [
+    {
+      "q": "Czy Gabon jest bezpieczny dla turystów?",
+      "a": "Gabon jest stosunkowo bezpieczny, ale jak w każdym kraju afrykańskim, należy zachować ostrożność. Występuje pospolita przestępczość, zwłaszcza w miastach. Zaleca się unikanie samotnych spacerów po zmroku i dbanie o swoje wartościowe przedmioty."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane do Gabonu?",
+      "a": "Obowiązkowe jest szczepienie przeciwko żółtej febrze, potwierdzone wpisem w Międzynarodowej Książeczce Szczepień. Zalecane są również szczepienia na tężec, błonicę, polio, dur brzuszny, WZW A i B oraz profilaktyka przeciwmalaryczna."
+    },
+    {
+      "q": "Jaka jest waluta w Gabonie i czy można płacić kartą?",
+      "a": "Walutą jest frank CFA (XAF). Płatności kartą są rzadkością poza większymi hotelami i supermarketami w stolicy. Warto mieć przy sobie wystarczającą ilość gotówki na codzienne wydatki, zwłaszcza poza Libreville."
+    },
+    {
+      "q": "Jak dostać się do Gabonu z Polski?",
+      "a": "Z Polski do Gabonu (lotnisko w Libreville, LBV) nie ma bezpośrednich lotów. Podróż wymaga co najmniej jednej przesiadki, najczęściej w Paryżu, Stambule lub Addis Abebie. Całkowity czas podróży wynosi zazwyczaj od 12 do 15 godzin."
+    },
+    {
+      "q": "Co warto zobaczyć w Gabonie?",
+      "a": "Gabon słynie z dziewiczej przyrody. Koniecznie odwiedź Park Narodowy Loango z plażującymi słoniami i hipopotamami, Park Narodowy Lopé z gorylami nizinnych oraz stolicę Libreville z jej lokalnymi targami i architekturą."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

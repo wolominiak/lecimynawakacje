@@ -1,0 +1,224 @@
+{
+  "slug": "filipiny",
+  "loc": "na Filipinach",
+  "to": "na Filipiny",
+  "capital": "Manila",
+  "popularity": 40,
+  "touroperator": true,
+  "gygQuery": "Philippines",
+  "teaser": "Archipelag 7641 wysp oferuje rajskie plaże, podwodny świat i zielone tarasy ryżowe. Idealne dla miłośników przyrody i nurkowania.",
+  "intro": [
+    "Filipiny to kraj tysięcy wysp, z których każda kusi białym piaskiem, turkusową wodą i bujną tropikalną roślinnością. To idealne miejsce dla osób szukających ucieczki od zgiełku, pragnących zanurkować w krystalicznie czystych wodach pełnych życia lub po prostu relaksować się na jednych z najpiękniejszych plaż świata. Poza idyllicznymi krajobrazami, Filipiny oferują także bogatą kulturę, historię oraz niezwykłe cuda natury, takie jak wulkany czy tarasy ryżowe.",
+    "Ten azjatycki archipelag zadowoli zarówno zapalonych nurków i snorkelingu, którzy odkryją wraki statków i kolorowe rafy, jak i poszukiwaczy przygód, gotowych na trekking po wulkanach czy eksplorację jaskiń. Rodziny z dziećmi znajdą tu bezpieczne plaże i łagodne fale, a miłośnicy kultury docenią kolonialne dziedzictwo Manili oraz lokalne festiwale. Filipiny to kierunek dla tych, którzy cenią sobie autentyczność i chcą odkrywać miejsca mniej masowe niż sąsiednie kraje.",
+    "Podróż z Polski na Filipiny to długa wyprawa, zazwyczaj wymagająca jednej lub dwóch przesiadek, najczęściej w dużych hubach lotniczych Azji lub Bliskiego Wschodu. Całkowity czas lotu, wraz z przesiadkami, wynosi zazwyczaj od 15 do 20 godzin. Dla obywateli Polski pobyt do 30 dni jest bezwizowy, wystarczy ważny paszport. Warto jednak zawsze sprawdzić aktualne wymogi wizowe i paszportowe przed wyjazdem, aby uniknąć niespodzianek."
+  ],
+  "highlights": [
+    "Island hopping w El Nido i Coron",
+    "Nurkowanie w rafach koralowych i wrakach",
+    "Tarasy ryżowe w Banaue wpisane na UNESCO",
+    "Unikalne Czekoladowe Wzgórza na Boholu",
+    "Wulkan Mayon o idealnym stożku",
+    "Relaks na słynnej White Beach na Boracay"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Filipiny to pora sucha, która trwa od grudnia do maja. W tym okresie można liczyć na słoneczną pogodę, niską wilgotność i spokojne morze, idealne do pływania, nurkowania i island hoppingu. Pora deszczowa, od czerwca do listopada, charakteryzuje się wyższą wilgotnością i częstszymi opadami, a także ryzykiem tajfunów, zwłaszcza między lipcem a październikiem. Nawet w porze deszczowej często występują krótkie, intensywne ulewy, po których szybko wraca słońce.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "ok": [
+      5,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      31,
+      33,
+      34,
+      33,
+      32,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30
+    ],
+    "sea": [
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28
+    ],
+    "note": "dla Manili"
+  },
+  "practical": {
+    "flight": "około 15-20 h z jedną lub dwiema przesiadkami",
+    "timeDiff": "7 godzin w czasie zimowym, 6 godzin w letnim (do Polski)",
+    "documents": "Obywatele Polski mogą przebywać na Filipinach bez wizy do 30 dni. Wymagany paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Zawsze należy sprawdzić aktualne wymogi przed podróżą.",
+    "money": "Walutą jest peso filipińskie (PHP). W większych miastach i kurortach można płacić kartą, ale gotówka jest niezbędna, zwłaszcza w mniejszych miejscowościach. Bankomaty są dostępne, ale warto mieć zapas gotówki.",
+    "plugs": "Typy gniazdek: A, B, C. Napięcie 220V. Warto zabrać adapter uniwersalny, choć często gniazdka typu C (europejskie) są kompatybilne.",
+    "language": "Oficjalnymi językami są angielski i filipiński (tagalski). Angielski jest powszechnie używany, zwłaszcza w turystyce, co ułatwia komunikację.",
+    "safety": "Filipiny są generalnie bezpieczne dla turystów, jednak należy zachować ostrożność, szczególnie w dużych miastach, ze względu na drobne kradzieże. Unikać podróżowania do południowych części Mindanao z powodu zagrożenia terrorystycznego. Kraj jest narażony na trzęsienia ziemi, erupcje wulkanów i tajfuny, dlatego warto śledzić komunikaty pogodowe i ostrzeżenia."
+  },
+  "regions": [
+    {
+      "slug": "palawan",
+      "name": "Palawan",
+      "loc": "na Palawanie",
+      "type": "wyspa",
+      "gygQuery": "Palawan",
+      "airport": "Puerto Princesa (PPS)",
+      "forWhom": "Dla miłośników rajskich plaż, nurkowania, eksploracji jaskiń i dziewiczej przyrody.",
+      "intro": [
+        "Palawan to często nazywana \"ostatnią granicą Filipin\", słynąca z niezwykłych krajobrazów. Wyspa oferuje wapienne klify, ukryte laguny i krystalicznie czyste wody, które są domem dla bogatego życia morskiego. El Nido i Coron to dwie najpopularniejsze destynacje, znane z niezapomnianych wycieczek island hopping, podczas których odkrywa się sekretne plaże i zatoczki.",
+        "Oprócz spektakularnych widoków, Palawan to także raj dla nurków. W okolicach Coron można podziwiać wraki japońskich statków z II wojny światowej, a w El Nido - kolorowe rafy koralowe. W Puerto Princesa warto odwiedzić Podziemną Rzekę, wpisaną na listę UNESCO, która jest jednym z najdłuższych żeglownych podziemnych rzek na świecie. To miejsce, gdzie przygoda łączy się z relaksem w tropikalnym otoczeniu."
+      ],
+      "highlights": [
+        "Island hopping El Nido",
+        "Nurkowanie przy wrakach Coron",
+        "Podziemna Rzeka Puerto Princesa",
+        "Plaże i laguny Bacuit Archipelago"
+      ]
+    },
+    {
+      "slug": "bohol",
+      "name": "Bohol",
+      "loc": "na Boholu",
+      "type": "wyspa",
+      "gygQuery": "Bohol",
+      "airport": "Tagbilaran (TAG)",
+      "forWhom": "Idealny dla rodzin i tych, którzy szukają połączenia plażowania z unikalnymi atrakcjami przyrodniczymi.",
+      "intro": [
+        "Bohol to wyspa, która zachwyca różnorodnością krajobrazów i atrakcji. Najbardziej rozpoznawalnym symbolem są Czekoladowe Wzgórza - ponad 1200 symetrycznych stożkowych wzgórz, które w porze suchej zmieniają kolor na brązowy, przypominając czekoladowe dropsy. To unikalne zjawisko geologiczne przyciąga turystów z całego świata.",
+        "Oprócz wzgórz, na Boholu można spotkać maleńkie tarsjusze filipińskie, jedne z najmniejszych naczelnych na świecie, w specjalnych sanktuariach. Wyspa oferuje również piękne plaże, zwłaszcza na sąsiedniej Panglao, idealne do relaksu i nurkowania. Rzeka Loboc zachęca do rejsów z lunchem, a lasy mahoniowe do spacerów. Bohol to doskonałe miejsce na aktywny wypoczynek i kontakt z naturą."
+      ],
+      "highlights": [
+        "Czekoladowe Wzgórza",
+        "Sanktuarium Tarsjuszy",
+        "Rejs po rzece Loboc",
+        "Plaże na Panglao"
+      ]
+    },
+    {
+      "slug": "cebu",
+      "name": "Cebu",
+      "loc": "na Cebu",
+      "type": "wyspa",
+      "gygQuery": "Cebu",
+      "airport": "Mactan-Cebu (CEB)",
+      "forWhom": "Centrum Visayas, oferujące zarówno miejskie atrakcje, jak i łatwy dostęp do nurkowania i sąsiednich wysp.",
+      "intro": [
+        "Cebu to jedna z najbardziej rozwiniętych wysp Filipin i ważny węzeł komunikacyjny. Stolica, Cebu City, to tętniące życiem miasto z bogatą historią, gdzie można podziwiać kolonialne zabytki, takie jak Krzyż Magellana czy Bazylika Santo Niño. Mimo miejskiego charakteru, Cebu jest doskonałą bazą wypadową do odkrywania okolicznych atrakcji i wysp.",
+        "Wyspa Cebu słynie również z doskonałych miejsc do nurkowania i snorkelingu. Południowa część wyspy, zwłaszcza Moalboal, jest znana z sardynowych ławic i możliwości pływania z żółwiami. Można tu również wybrać się na wycieczkę do malowniczych wodospadów Kawasan, gdzie czeka canyoning i kąpiele w turkusowych kaskadach. Cebu to połączenie miejskiego zgiełku z rajskimi zakątkami natury."
+      ],
+      "highlights": [
+        "Krzyż Magellana w Cebu City",
+        "Wodospady Kawasan",
+        "Nurkowanie w Moalboal",
+        "Pływanie z rekinami wielorybimi (Oslob)"
+      ]
+    },
+    {
+      "slug": "luzon",
+      "name": "Luzon",
+      "loc": "na Luzonie",
+      "type": "wyspa",
+      "gygQuery": "Luzon",
+      "airport": "Manila (MNL)",
+      "forWhom": "Dla tych, którzy chcą poznać kulturę, historię i górskie krajobrazy Filipin.",
+      "intro": [
+        "Luzon to największa wyspa Filipin i centrum polityczne oraz kulturalne kraju. To tutaj znajduje się stolica, Manila, dynamiczna metropolia pełna kontrastów, gdzie nowoczesne wieżowce sąsiadują z zabytkowymi dzielnicami kolonialnymi, takimi jak Intramuros. Manila oferuje muzea, galerie sztuki, tętniące życiem rynki i bogate życie nocne.",
+        "Poza Manilą, Luzon to także spektakularne krajobrazy górskie. Na północy wyspy znajdują się słynne tarasy ryżowe w Banaue i Batad, wpisane na listę UNESCO, nazywane \"ósmym cudem świata\". To dzieła inżynierii rolniczej sprzed 2000 lat, stworzone przez lud Ifugao. Na Luzonie znajduje się również wulkan Mayon, znany ze swojego idealnego stożka, uznawanego za jeden z najpiękniejszych na świecie."
+      ],
+      "highlights": [
+        "Intramuros w Manili",
+        "Tarasy ryżowe Banaue i Batad",
+        "Wulkan Mayon",
+        "Jezioro Taal i wulkan Taal"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "El Nido, Palawan",
+      "text": "Archipelag Bacuit to kwintesencja rajskich Filipin - wapienne klify, ukryte laguny i dziewicze plaże. Island hopping to tu obowiązkowy punkt programu.",
+      "gygQuery": "El Nido island hopping"
+    },
+    {
+      "name": "Czekoladowe Wzgórza, Bohol",
+      "text": "Ponad 1200 stożkowych wzgórz, które w porze suchej przybierają brązowy kolor. To unikalne zjawisko geologiczne, które trzeba zobaczyć.",
+      "gygQuery": "Chocolate Hills Bohol"
+    },
+    {
+      "name": "Tarasy Ryżowe Banaue, Luzon",
+      "text": "Starożytne tarasy ryżowe, rzeźbione w górach Ifugao przez ponad 2000 lat. Zapierający dech w piersiach krajobraz i świadectwo ludzkiej pracy.",
+      "gygQuery": "Banaue Rice Terraces"
+    },
+    {
+      "name": "Coron, Palawan",
+      "text": "Raj dla nurków, słynący z wraków japońskich statków z II wojny światowej i krystalicznie czystych lagun. Idealne miejsce na podwodne przygody.",
+      "gygQuery": "Coron diving"
+    },
+    {
+      "name": "Wulkan Mayon, Luzon",
+      "text": "Aktywny wulkan o niemal idealnym stożku, uważany za jeden z najpiękniejszych na świecie. Oferuje spektakularne widoki i możliwości trekkingu.",
+      "gygQuery": "Mayon Volcano"
+    },
+    {
+      "name": "Tarsjusze Filipińskie, Bohol",
+      "text": "Najmniejsze naczelne na świecie, z wielkimi oczami i długimi palcami. Można je obserwować w ich naturalnym środowisku w sanktuarium na Boholu.",
+      "gygQuery": "Philippine Tarsier Bohol"
+    },
+    {
+      "name": "Podziemna Rzeka Puerto Princesa, Palawan",
+      "text": "Wpisana na listę UNESCO, jedna z najdłuższych żeglownych podziemnych rzek na świecie. Rejs łodzią przez jaskinie to niezapomniane doświadczenie.",
+      "gygQuery": "Puerto Princesa Underground River"
+    },
+    {
+      "name": "White Beach, Boracay",
+      "text": "Słynna na całym świecie plaża z białym, pudrowym piaskiem i turkusową wodą. Idealna do relaksu, kąpieli i podziwiania zachodów słońca.",
+      "gygQuery": "White Beach Boracay"
+    }
+  ],
+  "cuisine": [
+    "Filipińska kuchnia to fascynujące połączenie wpływów malajskich, hiszpańskich i chińskich, z dominacją ryżu, owoców morza i mięsa. Wśród najbardziej znanych dań znajdziemy adobo, czyli marynowane mięso (kurczak lub wieprzowina) w occie sojowym z czosnkiem, oraz sinigang, kwaśną zupę z tamaryndowca z różnymi rodzajami mięsa lub owoców morza. Warto spróbować lechón, czyli pieczonego prosiaka, który jest często gwiazdą świątecznych stołów. Kuchnia filipińska charakteryzuje się bogactwem smaków - od słodko-kwaśnych po pikantne, a świeże owoce, takie jak mango czy durian, są dostępne niemal wszędzie."
+  ],
+  "faq": [
+    {
+      "q": "Kiedy najlepiej lecieć na Filipiny?",
+      "a": "Najlepszym okresem na podróż na Filipiny jest pora sucha, od grudnia do maja. W tym czasie panuje słoneczna pogoda i niskie ryzyko opadów, co sprzyja zwiedzaniu i aktywnościom wodnym."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Filipiny?",
+      "a": "Obywatele Polski mogą podróżować na Filipiny bez wizy na pobyt do 30 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Jak poruszać się między wyspami na Filipinach?",
+      "a": "Między wyspami można podróżować samolotem (liczne loty krajowe), promami lub łodziami. Samoloty są najszybszą opcją, natomiast promy oferują bardziej autentyczne doświadczenie, choć są wolniejsze."
+    },
+    {
+      "q": "Czy Filipiny są bezpieczne dla turystów?",
+      "a": "Filipiny są generalnie bezpieczne, ale jak w każdym kraju, należy zachować ostrożność, zwłaszcza w dużych miastach. Zaleca się unikanie południowej części Mindanao ze względu na zagrożenie bezpieczeństwa. Warto śledzić lokalne komunikaty i ostrzeżenia."
+    },
+    {
+      "q": "Ile kosztuje podróż na Filipiny?",
+      "a": "Koszty podróży na Filipiny są zróżnicowane. Loty z Polski to około 3000-5000 PLN. Na miejscu ceny zakwaterowania, jedzenia i transportu są niższe niż w Europie, ale wycieczki po wyspach mogą być droższe. Dzienny budżet może wynieść od 150-300 PLN w zależności od stylu podróżowania."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

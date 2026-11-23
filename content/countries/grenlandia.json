@@ -1,0 +1,188 @@
+{
+  "slug": "grenlandia",
+  "loc": "na Grenlandii",
+  "to": "na Grenlandię",
+  "capital": "Nuuk",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Greenland",
+  "teaser": "Kraina lodu i fiordów, gdzie natura gra pierwsze skrzypce. Grenlandia to wyprawa dla poszukiwaczy prawdziwej arktycznej przygody i ciszy.",
+  "intro": [
+    "Grenlandia, największa wyspa świata, to esencja arktycznej dziczy. To miejsce, gdzie majestatyczne fiordy, gigantyczne góry lodowe i rozległe lodowce dominują krajobraz. Nie ma tu dróg łączących miasta, a transport odbywa się głównie samolotami, helikopterami lub łodziami. To kierunek dla tych, którzy szukają autentycznych doświadczeń w surowym, ale przepięknym środowisku, z dala od masowej turystyki.",
+    "Podróż na Grenlandię to inwestycja w niezapomniane widoki i spotkania z unikalną kulturą Inuitów. Wyspa przyciąga miłośników trekkingu, kajakarstwa wśród gór lodowych, obserwacji wielorybów i zorzy polarnej. To idealne miejsce dla fotografów, poszukiwaczy przygód i każdego, kto pragnie odłączyć się od zgiełku cywilizacji i zanurzyć w spokoju arktycznej natury. Należy być przygotowanym na wysokie ceny i logistyczne wyzwania.",
+    "Z Polski na Grenlandię nie ma bezpośrednich lotów. Najczęściej podróżuje się z przesiadką w Kopenhadze (Dania) lub Reykjaviku (Islandia), skąd Air Greenland lub Icelandair oferują połączenia do głównych miast, takich jak Kangerlussuaq czy Nuuk. Cała podróż, wliczając przesiadki, może zająć od 10 do 14 godzin. Planując wyjazd, warto zarezerwować loty z dużym wyprzedzeniem, szczególnie w sezonie letnim."
+  ],
+  "highlights": [
+    "Rejsy wśród gór lodowych i fiordów",
+    "Obserwacja zorzy polarnej (jesień/zima)",
+    "Wyprawy psimi zaprzęgami",
+    "Spotkania z kulturą Inuitów",
+    "Trekking po arktycznej tundrze",
+    "Obserwacja wielorybów"
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na podróż na Grenlandię jest lato, od czerwca do sierpnia. Temperatury są wtedy najwyższe, dni najdłuższe (aż do północy polarnej na północy), a dostęp do większości atrakcji i szlaków jest najłatwiejszy. Zimą, od października do kwietnia, panują ekstremalnie niskie temperatury, ale to idealny czas na obserwację zorzy polarnej i sporty zimowe, takie jak psie zaprzęgi czy skutery śnieżne.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "climate": {
+    "air": [
+      -7,
+      -7,
+      -6,
+      -2,
+      3,
+      6,
+      9,
+      8,
+      5,
+      0,
+      -3,
+      -5
+    ],
+    "sea": null,
+    "note": "dla Nuuk"
+  },
+  "practical": {
+    "flight": "około 10-14 h z dwiema przesiadkami",
+    "timeDiff": "różnica czasu zmienna, zazwyczaj -4 do -5 godzin względem czasu polskiego (w zależności od pory roku i konkretnego regionu Grenlandii).",
+    "documents": "Paszport jest wymagany. Grenlandia jest terytorium zależnym Danii, która należy do strefy Schengen, ale Grenlandia nie jest jej częścią. Dla obywateli Polski wiza turystyczna do 90 dni pobytu nie jest wymagana. Zawsze należy sprawdzić aktualne wymogi wizowe przed podróżą w ambasadzie Danii.",
+    "money": "Walutą jest korona duńska (DKK). Płatności kartą są powszechne w większych miejscowościach, ale warto mieć trochę gotówki, zwłaszcza w mniejszych osadach. Ceny są wysokie.",
+    "plugs": "Typ C i F, jak w Polsce.",
+    "language": "Językami urzędowymi są grenlandzki i duński. W miejscach turystycznych często można porozumieć się po angielsku.",
+    "safety": "Grenlandia to kraj bezpieczny, ale podróżowanie wiąże się z wyzwaniami pogodowymi i logistycznymi. Należy być przygotowanym na zmienne warunki, mieć odpowiedni ubiór i zawsze informować o planowanych trasach. Opieka medyczna jest dostępna, ale ograniczona poza większymi miastami. Ubezpieczenie medyczne jest absolutnie kluczowe."
+  },
+  "regions": [
+    {
+      "slug": "nuuk",
+      "name": "Nuuk",
+      "loc": "w Nuuk",
+      "type": "miasto",
+      "gygQuery": "Nuuk",
+      "airport": "GOH",
+      "forWhom": "Dla tych, którzy chcą poznać nowoczesną Grenlandię i jej stolicę, z dostępem do kultury i udogodnień.",
+      "intro": [
+        "Nuuk to stolica i największe miasto Grenlandii, położone na zachodnim wybrzeżu. Jest to mieszanka tradycyjnych inuickich domów i nowoczesnych budynków, otoczona przez surowe góry i fiordy. Znajdziemy tu Muzeum Narodowe Grenlandii, prezentujące bogatą historię i kulturę wyspy, a także galerie sztuki i lokalne restauracje.",
+        "Mimo swojej wielkości, Nuuk zachowuje bliski kontakt z naturą. Z portu można wybrać się na rejsy po fiordzie Nuuk, obserwować wieloryby lub odwiedzić opuszczone wioski. Miasto oferuje także możliwości wędkowania i krótkich wycieczek trekkingowych, będąc doskonałą bazą wypadową do odkrywania okolicznych krajobrazów."
+      ],
+      "highlights": [
+        "Muzeum Narodowe Grenlandii",
+        "Rejs po fiordzie Nuuk",
+        "Katedra w Nuuk",
+        "Obserwacja wielorybów"
+      ]
+    },
+    {
+      "slug": "ilulissat",
+      "name": "Ilulissat",
+      "loc": "w Ilulissat",
+      "type": "miasto",
+      "gygQuery": "Ilulissat",
+      "airport": "JHS",
+      "forWhom": "Idealne miejsce dla miłośników spektakularnych gór lodowych i cudów natury wpisanych na listę UNESCO.",
+      "intro": [
+        "Ilulissat, położone na zachodnim wybrzeżu, słynie z wpisanego na listę UNESCO fiordu lodowego Ilulissat (Ilulissat Icefjord). To tutaj lodowiec Sermeq Kujalleq, jeden z najszybszych i najbardziej aktywnych na świecie, wyrzuca ogromne ilości lodu do morza. Widok tysięcy dryfujących gór lodowych jest absolutnie hipnotyzujący i zapiera dech w piersiach.",
+        "W Ilulissat można wybrać się na rejsy statkiem wśród gór lodowych, podziwiając ich różnorodne kształty i odcienie błękitu. Popularne są także piesze wędrówki po wyznaczonych szlakach wzdłuż fiordu, skąd rozpościerają się panoramiczne widoki. Zimą miasto staje się bazą dla wypraw psimi zaprzęgami i obserwacji zorzy polarnej."
+      ],
+      "highlights": [
+        "Fiord Lodowy Ilulissat (UNESCO)",
+        "Rejsy wśród gór lodowych",
+        "Wędrówki po szlakach widokowych",
+        "Muzeum Knud Rasmussena"
+      ]
+    },
+    {
+      "slug": "poludniowa-grenlandia",
+      "name": "Południowa Grenlandia",
+      "loc": "na Południowej Grenlandii",
+      "type": "region",
+      "gygQuery": "South Greenland",
+      "airport": "UAK",
+      "forWhom": "Dla tych, którzy szukają zielonych krajobrazów, historii Wikingów i spokojniejszego, wiejskiego życia.",
+      "intro": [
+        "Południowa Grenlandia to region o zaskakująco zielonych krajobrazach, kontrastujących z resztą lodowej wyspy. Znajdziemy tu bujne doliny, owcze farmy i pozostałości osad Wikingów, w tym ruiny Brattahlid, dawnej posiadłości Eryka Rudego. To idealne miejsce na piesze wędrówki i kajakarstwo w otoczeniu fiordów i gór.",
+        "Główne miejscowości to Narsarsuaq (brama do regionu), Qaqortoq z kolorowymi domami i sztuką uliczną oraz Igaliku, malownicza wioska z wpisanymi na listę UNESCO pozostałościami nordyckich farm. Region oferuje unikalne połączenie historii, kultury i piękna natury, z gorącymi źródłami i możliwościami relaksu."
+      ],
+      "highlights": [
+        "Ruiny osad Wikingów",
+        "Zielone doliny i farmy",
+        "Gorące źródła Uunartoq",
+        "Kolorowe miasteczko Qaqortoq"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Fiord Lodowy Ilulissat",
+      "text": "Wpisany na listę UNESCO fiord, z którego nieustannie odrywają się gigantyczne góry lodowe, tworząc spektakularny krajobraz.",
+      "gygQuery": "Ilulissat Icefjord"
+    },
+    {
+      "name": "Nuuk",
+      "text": "Stolica Grenlandii, łącząca nowoczesność z tradycją, oferująca muzea, galerie i rejsy po rozległym fiordzie.",
+      "gygQuery": "Nuuk"
+    },
+    {
+      "name": "Qaqortoq",
+      "text": "Największe miasto Południowej Grenlandii, znane z kolorowych domów, sztuki ulicznej w kamieniu i malowniczego portu.",
+      "gygQuery": "Qaqortoq"
+    },
+    {
+      "name": "Kangerlussuaq",
+      "text": "Główna brama lotnicza na Grenlandię, z której można wyruszyć na wycieczki do lodowca Russell Glacier i obserwować zorzę polarną.",
+      "gygQuery": "Kangerlussuaq"
+    },
+    {
+      "name": "Disko Bay",
+      "text": "Zatoka pełna majestatycznych gór lodowych, idealna do rejsów i obserwacji wielorybów, szczególnie w okolicach Ilulissat.",
+      "gygQuery": "Disko Bay"
+    },
+    {
+      "name": "Wioska Igaliku",
+      "text": "Malownicza, zabytkowa osada z pozostałościami nordyckich farm, wpisana na listę UNESCO, otoczona zielonymi krajobrazami.",
+      "gygQuery": "Igaliku"
+    },
+    {
+      "name": "Scoresby Sund",
+      "text": "Największy system fiordów na świecie, położony we Wschodniej Grenlandii, oferujący surowe i dziewicze krajobrazy dla poszukiwaczy prawdziwej dziczy.",
+      "gygQuery": "Scoresby Sund"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia grenlandzka opiera się na tym, co oferuje arktyczna natura. Dominują tu ryby i owoce morza, takie jak dorsz, halibut, krewetki, a także mięso fok, wielorybów czy reniferów. Popularne są zupy rybne, suszone mięso oraz tradycyjne potrawy, np. mattak (skóra wieloryba z tłuszczem). Warto spróbować lokalnych specjałów, pamiętając, że ceny w restauracjach bywają bardzo wysokie. W większych miastach znajdziemy również dania kuchni międzynarodowej, ale z lokalnym akcentem."
+  ],
+  "faq": [
+    {
+      "q": "Czy Grenlandia jest droga?",
+      "a": "Tak, Grenlandia jest jednym z droższych kierunków turystycznych. Wysokie koszty wynikają z konieczności importu większości produktów oraz drogiego transportu lotniczego i morskiego. Należy przygotować odpowiednio wysoki budżet na podróż."
+    },
+    {
+      "q": "Czy potrzebna jest wiza na Grenlandię?",
+      "a": "Dla obywateli Polski wiza turystyczna do 90 dni pobytu na Grenlandii nie jest wymagana, jednak paszport jest obowiązkowy. Zawsze zaleca się sprawdzenie aktualnych wymogów wizowych przed wyjazdem w ambasadzie Danii."
+    },
+    {
+      "q": "Jak dostać się na Grenlandię z Polski?",
+      "a": "Z Polski nie ma bezpośrednich lotów. Najczęściej podróżuje się z przesiadką w Kopenhadze (Dania) lub Reykjaviku (Islandia), skąd dostępne są połączenia do głównych lotnisk na Grenlandii, takich jak Kangerlussuaq czy Nuuk."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Grenlandię?",
+      "a": "Lato (czerwiec-sierpień) jest najlepsze na trekking, rejsy wśród gór lodowych i obserwację wielorybów. Zima (październik-kwiecień) to idealny czas na zorzę polarną, psie zaprzęgi i skutery śnieżne, ale wiąże się z ekstremalnym zimnem."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

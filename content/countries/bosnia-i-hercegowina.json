@@ -1,0 +1,207 @@
+{
+  "slug": "bosnia-i-hercegowina",
+  "loc": "w Bośni i Hercegowinie",
+  "to": "do Bośni i Hercegowiny",
+  "capital": "Sarajewo",
+  "popularity": 25,
+  "touroperator": false,
+  "gygQuery": "Bosnia and Herzegovina",
+  "teaser": "Kraj bogatej historii, malowniczych krajobrazów i serdecznych ludzi. Odkryj Bałkany w autentycznym wydaniu.",
+  "intro": [
+    "Bośnia i Hercegowina to kraj, który choć nie jest na szczycie list popularnych kierunków wakacyjnych, oferuje niezwykłe doświadczenia. To mozaika kultur, gdzie Wschód spotyka się z Zachodem, a ślady burzliwej historii przeplatają się z zapierającą dech w piersiach przyrodą. Od tętniącego życiem Sarajewa, przez urokliwy Mostar z jego słynnym mostem, po dzikie rzeki i górskie szlaki, Bośnia i Hercegowina to idealne miejsce dla tych, którzy szukają autentyczności i chcą poznać Bałkany z innej perspektywy.",
+    "Kraj ten jest doskonały dla podróżników ceniących sobie niezależność, kulturę, historię i aktywny wypoczynek. Miłośnicy górskich wędrówek, raftingu czy kajakarstwa znajdą tu wiele możliwości. Docenią go również smakosze lokalnej kuchni oraz osoby poszukujące miejsc, które nie zostały jeszcze opanowane przez masową turystykę. Bośnia i Hercegowina to także lekcja historii, która porusza i skłania do refleksji, szczególnie w miejscach pamięci o wojnie z lat 90-tych.",
+    "Podróż z Polski do Bośni i Hercegowiny jest stosunkowo łatwa. Z Katowic dostępne są bezpośrednie loty do Tuzli, trwające około 2 godziny. Do Sarajewa często lata się z przesiadką, co wydłuża podróż do 4-6 godzin. Wielu Polaków wybiera też podróż samochodem, co pozwala na swobodne zwiedzanie kraju. Na miejscu poruszanie się jest proste, a ceny są zazwyczaj niższe niż w zachodniej Europie, co czyni Bośnię i Hercegowinę atrakcyjnym celem podróży pod względem budżetu."
+  ],
+  "highlights": [
+    "Mostar i Stari Most - ikona Bałkanów",
+    "Sarajewo - kulturowa mozaika Baščaršiji",
+    "Wodospady Kravica - bałkańska perła",
+    "Rafting na rzece Una i Neretwa",
+    "Ślady historii i architektura osmańska",
+    "Lokalna kuchnia i kawa po bośniacku"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na odwiedzenie Bośni i Hercegowiny to wiosna (maj-czerwiec) oraz wczesna jesień (wrzesień-październik). Temperatury są wtedy przyjemne, idealne do zwiedzania i aktywności na świeżym powietrzu, a krajobrazy zachwycają zielenią lub jesiennymi barwami. Lato (lipiec-sierpień) bywa upalne, szczególnie w Mostarze i dolinie Neretwy, ale to dobry czas na rafting i kąpiele w rzekach. Zima przynosi śnieg i jest odpowiednia dla miłośników sportów zimowych w górach, ale wiele atrakcji może być mniej dostępnych.",
+    "best": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "ok": [
+      4,
+      7,
+      8
+    ]
+  },
+  "climate": {
+    "air": [
+      2,
+      4,
+      9,
+      14,
+      19,
+      22,
+      25,
+      25,
+      20,
+      15,
+      9,
+      4
+    ],
+    "sea": null,
+    "note": "dane dla Sarajewa"
+  },
+  "practical": {
+    "flight": "około 2 h (do Tuzli) lub 4-6 h z przesiadką (do Sarajewa)",
+    "timeDiff": "brak różnicy czasu",
+    "documents": "Obywatele Polski mogą wjechać na terytorium Bośni i Hercegowiny na podstawie ważnego dowodu osobistego lub paszportu. Zaleca się sprawdzenie aktualnych wymogów przed wyjazdem na stronie MSZ.",
+    "money": "Walutą jest marka konwertowalna (BAM). Płatności kartą są możliwe w większych miastach i sklepach, ale w mniejszych miejscowościach i na targach często potrzebna jest gotówka. Warto mieć przy sobie drobne.",
+    "plugs": "Typ F (standardowe europejskie gniazdka z dwoma okrągłymi otworami i bolcem uziemiającym).",
+    "language": "Oficjalne języki to bośniacki, chorwacki i serbski, które są wzajemnie zrozumiałe. W miejscach turystycznych często można porozumieć się po angielsku, zwłaszcza z młodszym pokoleniem.",
+    "safety": "Bośnia i Hercegowina jest krajem bezpiecznym dla turystów. Należy zachować podstawową ostrożność, zwłaszcza w większych miastach. Ważne jest, aby unikać schodzenia z wyznaczonych szlaków w terenach wiejskich i górskich, ze względu na pozostałości min z czasów wojny. Przed podróżą warto zapoznać się z aktualnymi ostrzeżeniami MSZ."
+  },
+  "regions": [
+    {
+      "slug": "sarajewo",
+      "name": "Sarajewo",
+      "loc": "w Sarajewie",
+      "type": "miasto",
+      "gygQuery": "Sarajevo",
+      "airport": "SJJ",
+      "forWhom": "Idealne dla miłośników historii, kultury i miejskiego zgiełku z bałkańskim charakterem.",
+      "intro": [
+        "Sarajewo, stolica Bośni i Hercegowiny, to miasto o niezwykle bogatej i często burzliwej historii. Nazywane 'Jerozolimą Europy', jest miejscem, gdzie obok siebie stoją meczety, cerkwie, synagogi i kościoły katolickie, tworząc unikalną mozaikę kultur i religii. Spacer po Baščaršiji, starym tureckim bazarze, to podróż w czasie, gdzie można poczuć atmosferę dawnych wieków, spróbować lokalnych przysmaków i kupić rękodzieło.",
+        "Miasto jest pełne kontrastów - nowoczesne budynki przeplatają się z osmańską architekturą i pamiątkami po Austro-Węgrzech. Sarajewo to także miejsce pamięci o wojnie z lat 90-tych, co widoczne jest w licznych muzeach i miejscach upamiętniających oblężenie. Warto odwiedzić Tunel Nadziei, który był jedynym połączeniem miasta ze światem zewnętrznym podczas oblężenia, oraz Vrelo Bosne, malownicze źródła rzeki Bośnia, idealne na relaksujący spacer."
+      ],
+      "highlights": [
+        "Baščaršija - historyczny bazar",
+        "Tunel Nadziei - symbol przetrwania",
+        "Gazi Husrev-begova Džamija",
+        "Vrelo Bosne - oaza zieleni"
+      ]
+    },
+    {
+      "slug": "mostar",
+      "name": "Mostar",
+      "loc": "w Mostarze",
+      "type": "miasto",
+      "gygQuery": "Mostar",
+      "airport": "OMO",
+      "forWhom": "Obowiązkowy punkt dla każdego, kto chce zobaczyć ikoniczny Stari Most i poczuć klimat Hercegowiny.",
+      "intro": [
+        "Mostar to perła Hercegowiny, słynąca przede wszystkim z pięknego Starego Mostu (Stari Most), wpisanego na listę UNESCO. Ten łukowy most, odbudowany po wojnie, jest symbolem połączenia kultur i świadectwem niezwykłej architektury osmańskiej. Latem można podziwiać tu śmiałków skaczących z mostu do turkusowych wód rzeki Neretwy, co jest lokalną tradycją i atrakcją turystyczną.",
+        "Oprócz mostu, warto pospacerować po urokliwych, brukowanych uliczkach Starego Miasta, odwiedzić meczety, tureckie domy oraz liczne sklepiki z pamiątkami. Mostar to także świetna baza wypadowa do zwiedzania okolicznych atrakcji, takich jak wodospady Kravica, klasztor derwiszów w Blagaju czy średniowieczne miasto Počitelj. Panuje tu nieco inna atmosfera niż w Sarajewie, bardziej śródziemnomorska, z wyraźnymi wpływami osmańskimi."
+      ],
+      "highlights": [
+        "Stari Most - ikona Mostaru",
+        "Stare Miasto i Kujundžiluk",
+        "Wodospady Kravica (blisko Mostaru)",
+        "Tekija w Blagaju - klasztor derwiszów"
+      ]
+    },
+    {
+      "slug": "jajce",
+      "name": "Jajce",
+      "loc": "w Jajce",
+      "type": "miasto",
+      "gygQuery": "Jajce",
+      "airport": "SJJ (Sarajewo) lub BNX (Banja Luka)",
+      "forWhom": "Dla tych, którzy szukają połączenia historii z pięknem natury, z unikalnym wodospadem w centrum miasta.",
+      "intro": [
+        "Jajce to niezwykłe miasto, które może poszczycić się jedynym na świecie wodospadem znajdującym się w samym jego centrum. Rzeka Pliva wpada tu z hukiem do rzeki Vrbas, tworząc spektakularny widok. To historyczne miasto było stolicą średniowiecznego Królestwa Bośni, a jego fortyfikacje i zamek górujący nad miastem świadczą o jego dawnej świetności. Warto wspiąć się na zamek, by podziwiać panoramę miasta i okolic.",
+        "Oprócz wodospadu i zamku, Jajce oferuje wiele innych atrakcji, takich jak katakumby, stare młyny wodne na jeziorach Pliva oraz ruiny świątyni Mitry. Miasto jest spokojniejsze niż Sarajewo czy Mostar, co pozwala na głębsze zanurzenie się w jego historię i podziwianie urokliwych zakątków. To idealne miejsce na jednodniową wycieczkę lub krótki pobyt dla osób podróżujących samochodem przez Bośnię."
+      ],
+      "highlights": [
+        "Wodospad Pliva - unikat w centrum",
+        "Twierdza Królewska w Jajce",
+        "Jeziora Pliva i młyny wodne",
+        "Katakumby i świątynia Mitry"
+      ]
+    },
+    {
+      "slug": "park-narodowy-una",
+      "name": "Park Narodowy Una",
+      "loc": "w Parku Narodowym Una",
+      "type": "park narodowy",
+      "gygQuery": "Una National Park",
+      "airport": "ZAG (Zagrzeb, Chorwacja) lub BNX (Banja Luka)",
+      "forWhom": "Raj dla miłośników dzikiej przyrody, raftingu i aktywnego wypoczynku w otoczeniu krystalicznie czystej rzeki.",
+      "intro": [
+        "Park Narodowy Una, położony w północno-zachodniej części Bośni i Hercegowiny, to prawdziwy klejnot natury. Jego sercem jest rzeka Una, znana z krystalicznie czystej wody, licznych wodospadów i kaskad, które tworzą spektakularne widoki. To idealne miejsce na rafting, kajakarstwo czy po prostu podziwianie dziewiczej przyrody. Najbardziej znane wodospady to Štrbački Buk i Martin Brod, które zapierają dech w piersiach swoją potęgą i pięknem.",
+        "Park oferuje również liczne szlaki piesze i rowerowe, prowadzące przez bujne lasy i malownicze krajobrazy. Można tu spotkać rzadkie gatunki roślin i zwierząt. W okolicy znajdują się także historyczne ruiny i stare młyny wodne, które dodają uroku temu miejscu. To doskonała propozycja dla tych, którzy chcą uciec od zgiełku miast i zanurzyć się w spokoju i pięknie bałkańskiej natury."
+      ],
+      "highlights": [
+        "Wodospad Štrbački Buk",
+        "Rafting i kajakarstwo na Unie",
+        "Martin Brod i wodospady",
+        "Dzika przyroda i szlaki piesze"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stari Most w Mostarze",
+      "text": "Ikoniczny most z XVI wieku, symbol miasta i wpisany na listę UNESCO. Podziwiaj śmiałków skaczących z mostu do Neretwy.",
+      "gygQuery": "Stari Most Mostar"
+    },
+    {
+      "name": "Baščaršija w Sarajewie",
+      "text": "Historyczny bazar w Sarajewie, serce miasta, gdzie można poczuć atmosferę Orientu, kupić rękodzieło i spróbować lokalnych przysmaków.",
+      "gygQuery": "Bascarsija Sarajevo"
+    },
+    {
+      "name": "Tunel Nadziei w Sarajewie",
+      "text": "Muzeum upamiętniające oblężenie Sarajewa, przedstawiające tunel, który był jedyną drogą zaopatrzenia podczas wojny.",
+      "gygQuery": "Sarajevo Tunnel of Hope"
+    },
+    {
+      "name": "Wodospady Kravica",
+      "text": "Malowniczy kompleks wodospadów na rzece Trebižat, często nazywany 'małymi Plitwickimi Jeziorami', idealny na kąpiel i relaks.",
+      "gygQuery": "Kravica Waterfalls"
+    },
+    {
+      "name": "Tekija w Blagaju",
+      "text": "Klasztor derwiszów z XVI wieku, malowniczo położony u podnóża klifu, przy źródle rzeki Buna, oferuje niezwykłe widoki.",
+      "gygQuery": "Blagaj Tekija"
+    },
+    {
+      "name": "Wodospad w Jajce",
+      "text": "Unikatowy wodospad w centrum miasta, gdzie rzeka Pliva wpada do Vrbas, tworząc spektakularny widok.",
+      "gygQuery": "Jajce Waterfall"
+    },
+    {
+      "name": "Park Narodowy Una",
+      "text": "Dziki park z krystalicznie czystą rzeką Una, słynący z wodospadów Štrbački Buk i Martin Brod, idealny do raftingu i podziwiania natury.",
+      "gygQuery": "Una National Park"
+    },
+    {
+      "name": "Počitelj",
+      "text": "Średniowieczna osada z twierdzą, wpisana na listę UNESCO, malowniczo położona na wzgórzu nad rzeką Neretwą, z pięknymi widokami.",
+      "gygQuery": "Pocitelj"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia bośniacka to smaki Bałkanów z silnymi wpływami tureckimi i śródziemnomorskimi. Królują tu mięsne potrawy, takie jak ćevapi (grillowane paluszki z mięsa mielonego, podawane z pitą i cebulą), burek (ciasto filo z mięsem, serem lub szpinakiem) czy pljeskavica (duży kotlet mielony). Warto spróbować także sarma (gołąbki w liściach kapusty), dolma (faszerowane warzywa) oraz słodkich deserów, takich jak baklava czy tufahija (jabłka nadziewane orzechami). Do tego koniecznie kawa po bośniacku, parzona w tradycyjnym džezva, oraz lokalne wina i rakija."
+  ],
+  "faq": [
+    {
+      "q": "Czy Bośnia i Hercegowina jest bezpieczna dla turystów?",
+      "a": "Tak, Bośnia i Hercegowina jest ogólnie bezpiecznym krajem dla turystów. Należy zachować podstawową ostrożność, a w terenach wiejskich i górskich unikać schodzenia z wyznaczonych szlaków ze względu na miny z czasów wojny."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Bośni i Hercegowinie?",
+      "a": "Walutą jest marka konwertowalna (BAM). W większych miastach można płacić kartą, ale w mniejszych miejscowościach i na targach często potrzebna jest gotówka."
+    },
+    {
+      "q": "Czy do Bośni i Hercegowiny potrzebny jest paszport?",
+      "a": "Obywatele Polski mogą wjechać na teren Bośni i Hercegowiny na podstawie ważnego dowodu osobistego lub paszportu. Zawsze warto sprawdzić aktualne wymogi przed wyjazdem."
+    },
+    {
+      "q": "Co warto zobaczyć w Bośni i Hercegowinie?",
+      "a": "Koniecznie odwiedź Sarajewo z jego Baščaršiją, Mostar ze Starym Mostem, wodospady Kravica oraz Park Narodowy Una. Warto też zobaczyć Jajce z wodospadem w centrum miasta."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

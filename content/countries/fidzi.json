@@ -1,0 +1,199 @@
+{
+  "slug": "fidzi",
+  "loc": "na Fidżi",
+  "to": "na Fidżi",
+  "capital": "Suwa",
+  "popularity": 15,
+  "touroperator": false,
+  "gygQuery": "Fiji",
+  "teaser": "Fidżi to archipelag ponad 300 wysp na Pacyfiku, znany z turkusowych wód, bujnej roślinności i gościnności mieszkańców.",
+  "intro": [
+    "Fidżi to synonim egzotyki i relaksu na Pacyfiku, oferujący krystalicznie czyste wody, rafy koralowe pełne życia oraz malownicze piaszczyste plaże. Archipelag przyciąga przede wszystkim miłośników nurkowania i snorkelingu, którzy mogą podziwiać podwodny świat o niespotykanej różnorodności. Poza aktywnościami wodnymi, Fidżi oferuje również bogatą kulturę i tradycje, z którymi można zapoznać się podczas wizyt w lokalnych wioskach. To miejsce, gdzie czas płynie wolniej, a uśmiech jest na porządku dziennym.",
+    "Kraj jest idealny dla osób szukających ucieczki od zgiełku, pragnących spędzić czas na łonie natury i doświadczyć prawdziwego życia wyspiarskiego. Fidżi to także popularny kierunek dla nowożeńców i par, które cenią sobie romantyczne scenerie i luksusowe resorty. Rodziny z dziećmi również znajdą tu coś dla siebie, dzięki bezpiecznym plażom i hotelom oferującym liczne atrakcje. To destynacja dla tych, którzy marzą o prawdziwym wypoczynku w egzotycznym otoczeniu.",
+    "Podróż z Polski na Fidżi to daleka wyprawa, zazwyczaj wymagająca dwóch lub trzech przesiadek, najczęściej w Azji lub Australii. Nie ma bezpośrednich lotów, a cały proces podróży zajmuje sporo czasu. Fidżi nie jest kierunkiem masowej turystyki z Polski, co oznacza, że nie znajdziecie tam ofert typowych biur podróży z pakietowymi wycieczkami. Planując wyjazd, trzeba liczyć się z koniecznością samodzielnej organizacji przelotów i zakwaterowania, co jednak daje większą swobodę w eksploracji archipelagu."
+  ],
+  "highlights": [
+    "Nurkowanie i snorkeling na rafach koralowych",
+    "Relaks na białych, piaszczystych plażach",
+    "Poznawanie lokalnej kultury i tradycji",
+    "Rejsy między wyspami i island hopping",
+    "Wypoczynek w luksusowych resortach",
+    "Wodospady i bujna roślinność tropikalna"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Fidżi to okres suchy, który trwa od maja do października. W tych miesiącach pogoda jest najbardziej stabilna, z mniejszą ilością opadów i przyjemnymi temperaturami. Jest to również idealny czas na nurkowanie i snorkeling, ponieważ widoczność pod wodą jest wtedy najlepsza. Unikniecie również sezonu cyklonów, który przypada na miesiące letnie na półkuli południowej, czyli od listopada do kwietnia.",
+    "best": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      5,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      30,
+      29,
+      29,
+      28,
+      28,
+      29,
+      30,
+      30,
+      31
+    ],
+    "sea": [
+      28,
+      28,
+      28,
+      28,
+      27,
+      27,
+      26,
+      26,
+      27,
+      27,
+      28,
+      28
+    ],
+    "note": "Dane dla Nadi"
+  },
+  "practical": {
+    "flight": "Około 25-35 godzin z dwoma lub trzema przesiadkami",
+    "timeDiff": "11 godzin do przodu względem czasu polskiego (mniej w okresie polskiego czasu letniego)",
+    "documents": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 4 miesięcy. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Fidżi. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych na stronie Ministerstwa Spraw Zagranicznych przed podróżą.",
+    "money": "Walutą jest Dolar Fidżyjski (FJD). W większych kurortach i miastach można płacić kartą, ale na mniejszych wyspach i w lokalnych sklepach przyda się gotówka. Bankomaty są dostępne w większych miejscowościach.",
+    "plugs": "Typ I (trzy płaskie bolce), wymagana przejściówka.",
+    "language": "Oficjalne języki to angielski, fidżyjski i hindi fidżyjskie. Angielski jest powszechnie używany w turystyce.",
+    "safety": "Fidżi jest generalnie bezpiecznym krajem dla turystów, jednak należy zachować podstawowe środki ostrożności, zwłaszcza w większych miastach. Zaleca się unikanie samotnych spacerów po zmroku. Warto mieć ubezpieczenie podróżne i pamiętać o ochronie przeciwsłonecznej oraz nawodnieniu. Przed wyjazdem sprawdź zalecenia sanitarne."
+  },
+  "regions": [
+    {
+      "slug": "viti-levu",
+      "name": "Viti Levu",
+      "loc": "na Viti Levu",
+      "type": "wyspa",
+      "gygQuery": "Viti Levu",
+      "airport": "NAN (Nadi)",
+      "forWhom": "Dla tych, którzy szukają połączenia z cywilizacją, łatwego dostępu do innych wysp i różnorodnych atrakcji.",
+      "intro": [
+        "Viti Levu to największa wyspa Fidżi i główny punkt wejścia do kraju, gdzie znajduje się międzynarodowe lotnisko w Nadi. To tutaj znajdziecie największe miasta, takie jak Nadi i stolica Suwa, oferujące szeroki wybór hoteli, restauracji i sklepów. Wyspa stanowi doskonałą bazę wypadową do dalszych podróży po archipelagu, a także oferuje wiele atrakcji lądowych i morskich.",
+        "Zachodnie wybrzeże wyspy, zwane Coral Coast, słynie z pięknych plaż i resortów, idealnych do relaksu i uprawiania sportów wodnych. Wnętrze Viti Levu to górzyste tereny pokryte bujną roślinnością, idealne do trekkingu i odkrywania wodospadów. Możecie tu również odwiedzić lokalne wioski, poznać kulturę Fidżi i wziąć udział w tradycyjnej ceremonii kava."
+      ],
+      "highlights": [
+        "Międzynarodowe lotnisko w Nadi",
+        "Coral Coast z pięknymi plażami",
+        "Stolica Suwa i jej atrakcje",
+        "Wizyta w Ogrodzie Śpiącego Giganta"
+      ]
+    },
+    {
+      "slug": "mamanuca-islands",
+      "name": "Wyspy Mamanuca",
+      "loc": "na Wyspach Mamanuca",
+      "type": "archipelag",
+      "gygQuery": "Mamanuca Islands",
+      "airport": "NAN (Nadi) - potem łódź",
+      "forWhom": "Idealne dla par, rodzin i miłośników luksusowego wypoczynku z łatwym dostępem z głównej wyspy.",
+      "intro": [
+        "Wyspy Mamanuca to jeden z najbardziej znanych i popularnych archipelagów Fidżi, położony na zachód od Viti Levu. Te malownicze wyspy są znane z białych, piaszczystych plaż, turkusowych lagun i luksusowych resortów, które oferują wysoki standard usług. Łatwo dostępne z Nadi, są idealnym miejscem na krótki wypad lub dłuższy, relaksujący pobyt.",
+        "Archipelag Mamanuca to raj dla miłośników sportów wodnych - nurkowania, snorkelingu, surfingu i żeglarstwa. To tutaj znajdziecie słynne spoty surfingowe, takie jak Cloudbreak. Wyspy te były również scenerią dla wielu filmów i programów telewizyjnych, co tylko dodaje im uroku i popularności. Każda z wysp oferuje nieco inną atmosferę, od tętniących życiem kurortów po kameralne, spokojne zakątki."
+      ],
+      "highlights": [
+        "Luksusowe resorty i hotele",
+        "Idealne do nurkowania i snorkelingu",
+        "Słynne spoty surfingowe",
+        "Łatwy dostęp promem z Nadi"
+      ]
+    },
+    {
+      "slug": "yasawa-islands",
+      "name": "Wyspy Yasawa",
+      "loc": "na Wyspach Yasawa",
+      "type": "archipelag",
+      "gygQuery": "Yasawa Islands",
+      "airport": "NAN (Nadi) - potem łódź/hydroplan",
+      "forWhom": "Dla poszukiwaczy przygód, nurków i tych, którzy pragną uciec od zgiełku i doświadczyć bardziej autentycznego Fidżi.",
+      "intro": [
+        "Wyspy Yasawa to bardziej odległy i dziewiczy archipelag w porównaniu do Mamanuca, oferujący bardziej surowe piękno i mniej komercyjny charakter. Dostęp do nich jest nieco trudniejszy, często wymaga rejsu promem lub lotu hydroplanem, co jednak wynagradza widokami i spokojem. To idealne miejsce dla tych, którzy chcą zanurzyć się w lokalnej kulturze i podziwiać nieskażoną przyrodę.",
+        "Yasawa to raj dla nurków, z licznymi miejscami do podwodnych eksploracji, w tym jaskiniami i spektakularnymi rafami. Można tu również pływać z mantami i rekinami rafowymi. Wyspy oferują różnorodne zakwaterowanie, od prostych bungalowów po butikowe hotele, co pozwala na dopasowanie pobytu do różnych budżetów. Zachęcają do pieszych wędrówek, odkrywania ukrytych zatoczek i spędzania czasu z mieszkańcami."
+      ],
+      "highlights": [
+        "Dziewicza przyroda i spokój",
+        "Doskonałe miejsca do nurkowania",
+        "Pływanie z mantami i rekinami",
+        "Autentyczne doświadczenia kulturowe"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Garden of the Sleeping Giant",
+      "text": "Ogród orchidei w Nadi, założony przez aktora Raymonda Burra, oferuje piękne widoki i spokojny spacer wśród egzotycznych roślin.",
+      "gygQuery": "Garden of the Sleeping Giant"
+    },
+    {
+      "name": "Sri Siva Subramaniya Swami Temple",
+      "text": "Największa świątynia hinduska na Fidżi, położona w Nadi, zachwyca bogato zdobioną architekturą i kolorowymi malowidłami.",
+      "gygQuery": "Sri Siva Subramaniya Swami Temple"
+    },
+    {
+      "name": "Cloudbreak",
+      "text": "Jedno z najbardziej znanych miejsc do surfingu na świecie, położone w pobliżu Wysp Mamanuca, przyciąga doświadczonych surferów.",
+      "gygQuery": "Cloudbreak Fiji"
+    },
+    {
+      "name": "Bouma National Heritage Park",
+      "text": "Park na wyspie Taveuni, znany z wodospadów Tavoro, oferuje szlaki trekkingowe i możliwość kąpieli w naturalnych basenach.",
+      "gygQuery": "Bouma National Heritage Park"
+    },
+    {
+      "name": "Ceremonia Kava",
+      "text": "Tradycyjna ceremonia picia napoju kava, przygotowywanego z korzenia pieprzu metystynowego, to ważny element kultury Fidżi i doświadczenie, którego warto spróbować.",
+      "gygQuery": "Kava Ceremony Fiji"
+    },
+    {
+      "name": "Denarau Island",
+      "text": "Połączona z Viti Levu mostem, to ekskluzywna wyspa z luksusowymi resortami, polami golfowymi i mariną, z której odpływają promy na inne wyspy.",
+      "gygQuery": "Denarau Island"
+    },
+    {
+      "name": "Sigatoka Sand Dunes National Park",
+      "text": "Park Narodowy Wydm Sigatoka na Viti Levu, to unikalny krajobraz ruchomych wydm, będący ważnym miejscem archeologicznym.",
+      "gygQuery": "Sigatoka Sand Dunes National Park"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia fidżyjska opiera się na świeżych składnikach, zwłaszcza owocach morza, rybach i lokalnych warzywach korzeniowych, takich jak taro, maniok i ignamy. Często wykorzystuje się mleczko kokosowe, które dodaje potrawom kremowej konsystencji i egzotycznego smaku. Jednym z najbardziej tradycyjnych sposobów gotowania jest 'lovo' - potrawy pieczone w ziemnym piecu, co nadaje im wyjątkowy aromat. Warto spróbować 'kokoda', czyli fidżyjskiego ceviche z surowej ryby marynowanej w mleczku kokosowym i soku z limonki, oraz 'palusami' - liści taro gotowanych z mleczkiem kokosowym i mięsem."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy na Fidżi?",
+      "a": "Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 4 miesięcy. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wyjazdu z Fidżi."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Fidżi?",
+      "a": "Oficjalną walutą jest Dolar Fidżyjski (FJD). W większych kurortach i miastach można płacić kartą, ale na mniejszych wyspach i w lokalnych sklepach warto mieć gotówkę."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Fidżi?",
+      "a": "Najlepszy czas na podróż to okres suchy, od maja do października, kiedy pogoda jest najbardziej stabilna, a deszcze rzadsze. Unikniecie wtedy również sezonu cyklonów."
+    },
+    {
+      "q": "Czy Fidżi jest bezpieczne dla turystów?",
+      "a": "Fidżi jest generalnie bezpiecznym krajem, ale jak wszędzie, zaleca się zachowanie podstawowych środków ostrożności, zwłaszcza w większych miastach i po zmroku."
+    },
+    {
+      "q": "Jak dostać się na inne wyspy Fidżi?",
+      "a": "Między wyspami kursują promy i szybkie katamarany, a na bardziej odległe wyspy można dostać się lokalnymi liniami lotniczymi lub hydroplanem. Wiele resortów oferuje również własne transfery łodzią."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

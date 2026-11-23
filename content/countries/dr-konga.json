@@ -1,0 +1,192 @@
+{
+  "slug": "dr-konga",
+  "loc": "w Demokratycznej Republice Konga",
+  "to": "do Demokratycznej Republiki Konga",
+  "capital": "Kinszasa",
+  "popularity": 8,
+  "touroperator": false,
+  "gygQuery": "Democratic Republic of Congo",
+  "teaser": "Demokratyczna Republika Konga to podróż dla prawdziwych odkrywców. Oferuje dziką przyrodę, potężne rzeki i spotkania z gorylami górskimi.",
+  "intro": [
+    "Demokratyczna Republika Konga (DRK) to kraj o ogromnym potencjale, ale i wyzwaniach. Przyciąga przede wszystkim miłośników prawdziwej, nieokiełznanej przyrody i ekstremalnych przygód. To tutaj, w sercu Afryki, znajdziesz jedne z ostatnich siedlisk goryli górskich, aktywny wulkan Nyiragongo oraz potężną rzekę Kongo, która jest arterią życia dla milionów ludzi. DRK to esencja Afryki - surowa, piękna i nieprzewidywalna.",
+    "Podróż do DRK nie jest dla każdego. To destynacja dla doświadczonych podróżników, którzy są przygotowani na logistyczne trudności, podstawową infrastrukturę turystyczną i potrzebę elastyczności. Brak tu luksusowych kurortów czy zorganizowanych wycieczek w tradycyjnym sensie. Zamiast tego, DRK oferuje autentyczne doświadczenia, głębokie zanurzenie w lokalną kulturę i widoki, które na długo pozostają w pamięci. To kraj, który wymaga cierpliwości i otwartości, ale w zamian daje niezapomniane wspomnienia z prawdziwej, dzikiej Afryki.",
+    "Z Polski do DRK nie ma bezpośrednich lotów. Podróż zazwyczaj wymaga jednej lub dwóch przesiadek, najczęściej w europejskich hubach, takich jak Bruksela, Stambuł lub Addis Abeba, a następnie lotu do Kinszasy (N'djili International Airport, FIH) lub Gomy (Goma International Airport, GOM). Cała podróż, w zależności od połączeń, może zająć od 12 do nawet 20 godzin. Pamiętaj, aby przed wylotem dokładnie sprawdzić wszystkie wymagania wizowe i zdrowotne, gdyż są one kluczowe dla bezproblemowego wjazdu do kraju."
+  ],
+  "highlights": [
+    "Trekking z gorylami górskimi w Virunga",
+    "Wspinaczka na aktywny wulkan Nyiragongo",
+    "Rejs po potężnej rzece Kongo",
+    "Odkrywanie różnorodnych kultur i plemion",
+    "Obserwacja rzadkich gatunków zwierząt",
+    "Przygoda w dziewiczej afrykańskiej dżungli"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Demokratycznej Republiki Konga to pora sucha, która minimalizuje opady deszczu i ułatwia trekking, zwłaszcza w górskich regionach. W porze suchej szlaki są mniej błotniste, a warunki do obserwacji dzikich zwierząt, w tym goryli, są znacznie lepsze. Należy jednak pamiętać, że nawet w porze suchej mogą występować przelotne deszcze, a pogoda w górach bywa zmienna.",
+    "best": [
+      6,
+      7,
+      8,
+      9,
+      12,
+      1,
+      2
+    ],
+    "ok": [
+      3,
+      4,
+      5,
+      10,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      31,
+      32,
+      32,
+      31,
+      29,
+      28,
+      29,
+      30,
+      31,
+      31,
+      30
+    ],
+    "sea": null,
+    "note": "dla Kinszasy"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadką",
+    "timeDiff": "brak różnicy czasu w polskiej zimie, -1 godzina w polskim lecie (w Kinszasie)",
+    "documents": "Obywatele Polski potrzebują ważnego paszportu (minimum 6 miesięcy ważności od daty planowanego wyjazdu) oraz wizy. Wizę należy uzyskać przed podróżą w ambasadzie DRK. Konieczne jest również posiadanie aktualnego międzynarodowego świadectwa szczepień, w szczególności przeciwko żółtej febrze. Zawsze zalecamy sprawdzenie aktualnych wymogów wizowych i zdrowotnych w Ambasadzie DRK lub na stronie MSZ RP przed wyjazdem.",
+    "money": "Oficjalną walutą jest frank kongijski (CDF), ale dolary amerykańskie (USD) są powszechnie akceptowane, zwłaszcza w większych miastach i w turystyce. Warto mieć ze sobą gotówkę w mniejszych nominałach USD. Płatności kartą są rzadkością i możliwe tylko w nielicznych luksusowych hotelach. Bankomaty są nieliczne i często zawodne.",
+    "plugs": "Typ C, D, E. Warto mieć uniwersalny adapter.",
+    "language": "Językiem urzędowym jest francuski. Powszechnie używane są również języki regionalne: lingala (głównie w Kinszasie i na zachodzie), suahili (na wschodzie), kikongo i tshiluba. Znajomość podstaw francuskiego jest bardzo pomocna.",
+    "safety": "Demokratyczna Republika Konga jest krajem o wysokim ryzyku dla podróżnych. W wielu regionach występuje niestabilność polityczna, konflikty zbrojne, wysoki poziom przestępczości oraz zagrożenie chorobami zakaźnymi (malaria, cholera, ebola). Stanowczo odradza się podróżowanie bez zorganizowanego wsparcia logistycznego i przewodnika. Należy zachować szczególną ostrożność, unikać samotnych podróży, zwłaszcza po zmroku, i śledzić komunikaty MSZ RP. Konieczne są szczepienia i profilaktyka antymalaryczna."
+  },
+  "regions": [
+    {
+      "slug": "park-narodowy-virunga",
+      "name": "Park Narodowy Virunga",
+      "loc": "w Parku Narodowym Virunga",
+      "type": "park narodowy",
+      "gygQuery": "Virunga National Park",
+      "airport": "GOM",
+      "forWhom": "Idealne miejsce dla poszukiwaczy przygód i miłośników dzikiej przyrody, pragnących spotkać goryle górskie i zobaczyć aktywny wulkan.",
+      "intro": [
+        "Park Narodowy Virunga, położony we wschodniej części DRK, jest najstarszym parkiem narodowym w Afryce i wpisanym na listę UNESCO. To jeden z niewielu miejsc na świecie, gdzie można spotkać krytycznie zagrożone goryle górskie w ich naturalnym środowisku. Trekking do goryli to niezapomniane przeżycie, choć wymagające fizycznie.",
+        "Oprócz goryli, Virunga słynie z aktywnego wulkanu Nyiragongo, którego jezioro lawy jest jednym z największych na świecie. Nocna wspinaczka na wulkan i obserwacja bulgoczącej lawy to spektakularne doświadczenie. Park oferuje również różnorodność krajobrazów, od gęstych lasów deszczowych po sawanny i pasma górskie, będące domem dla wielu innych gatunków zwierząt i ptaków."
+      ],
+      "highlights": [
+        "Trekking z gorylami górskimi",
+        "Wspinaczka na wulkan Nyiragongo",
+        "Obserwacja dzikiej przyrody",
+        "Najstarszy park narodowy Afryki"
+      ]
+    },
+    {
+      "slug": "kinszasa",
+      "name": "Kinszasa",
+      "loc": "w Kinszasie",
+      "type": "miasto",
+      "gygQuery": "Kinshasa",
+      "airport": "FIH",
+      "forWhom": "Dla tych, którzy chcą poczuć tętniące życiem serce DRK, poznać lokalną kulturę i zgiełk afrykańskiej metropolii.",
+      "intro": [
+        "Kinszasa, stolica Demokratycznej Republiki Konga, to tętniąca życiem, chaotyczna i fascynująca metropolia. Jest to jedno z największych miast Afryki, położone nad rzeką Kongo, naprzeciwko Brazzaville, stolicy Konga. Miasto oferuje unikalne połączenie tradycyjnej afrykańskiej kultury z wpływami kolonialnymi, widoczne w architekturze, muzyce i codziennym życiu.",
+        "W Kinszasie można doświadczyć prawdziwego afrykańskiego zgiełku - zatłoczone targi, głośna muzyka, uliczni sprzedawcy i dynamiczne życie nocne. Mimo wyzwań, miasto ma swój niepowtarzalny urok. Warto odwiedzić lokalne rynki, takie jak Marché Central, zobaczyć rzekę Kongo i jej wodospady Livingstone’a, a także poznać lokalną scenę artystyczną i muzyczną, która jest niezwykle bogata i wpływowa w całej Afryce."
+      ],
+      "highlights": [
+        "Targ Marché Central",
+        "Muzyka i życie nocne",
+        "Wodospady Livingstone’a",
+        "Sanktuarium Lola ya Bonobo"
+      ]
+    },
+    {
+      "slug": "goma-i-jezioro-kivu",
+      "name": "Goma i Jezioro Kiwu",
+      "loc": "w Gomie i nad Jeziorem Kiwu",
+      "type": "miasto/region",
+      "gygQuery": "Goma Lake Kivu",
+      "airport": "GOM",
+      "forWhom": "Brama do wschodniej DRK i Parku Virunga, oferująca piękne widoki jeziora i dostęp do górskich przygód.",
+      "intro": [
+        "Goma to miasto położone na wschodzie DRK, nad malowniczym Jeziorem Kiwu, w cieniu wulkanu Nyiragongo. Jest to główna baza wypadowa dla turystów planujących odwiedzić Park Narodowy Virunga. Miasto samo w sobie ma burzliwą historię, naznaczoną konfliktami i erupcjami wulkanicznymi, co nadaje mu unikalny, nieco surowy charakter.",
+        "Jezioro Kiwu, jedno z Wielkich Jezior Afrykańskich, jest spokojną oazą w regionie. Oferuje piękne krajobrazy, możliwości rejsów łodzią i relaksu. Wokół jeziora można znaleźć niewielkie wioski rybackie i podziwiać codzienne życie lokalnych społeczności. To także ważny region rolniczy, znany z upraw kawy."
+      ],
+      "highlights": [
+        "Baza wypadowa do Virunga",
+        "Rejsy po Jeziorze Kiwu",
+        "Widoki na wulkan Nyiragongo",
+        "Lokalne wioski rybackie"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Trekking z gorylami górskimi",
+      "text": "Niezwykłe doświadczenie spotkania z zagrożonymi gorylami górskimi w Parku Narodowym Virunga, jedno z najbardziej poruszających przeżyć w Afryce.",
+      "gygQuery": "Virunga gorilla trekking"
+    },
+    {
+      "name": "Wulkan Nyiragongo",
+      "text": "Wspinaczka na aktywny wulkan Nyiragongo i obserwacja największego na świecie jeziora lawy to spektakularne i jedyne w swoim rodzaju widowisko.",
+      "gygQuery": "Mount Nyiragongo hike"
+    },
+    {
+      "name": "Rejs po rzece Kongo",
+      "text": "Podróż po drugiej co do wielkości rzece Afryki, dająca unikalny wgląd w życie nadbrzeżnych społeczności i dzikiej przyrody.",
+      "gygQuery": "Congo River cruise"
+    },
+    {
+      "name": "Sanktuarium Lola ya Bonobo",
+      "text": "Jedyna na świecie placówka zajmująca się ratowaniem i rehabilitacją bonobo, bliskich krewnych człowieka, położona niedaleko Kinszasy.",
+      "gygQuery": "Lola ya Bonobo sanctuary"
+    },
+    {
+      "name": "Park Narodowy Kahuzi-Biega",
+      "text": "Dom dla wschodnich goryli nizinnych, oferujący możliwość ich obserwacji w gęstych lasach deszczowych wschodniej DRK.",
+      "gygQuery": "Kahuzi-Biega National Park"
+    },
+    {
+      "name": "Wodospady Livingstone’a",
+      "text": "Seria potężnych kaskad i progów rzecznych na rzece Kongo, tworzących imponujący widok niedaleko Kinszasy.",
+      "gygQuery": "Livingstone Falls Kinshasa"
+    },
+    {
+      "name": "Marché Central (Kinszasa)",
+      "text": "Główny targ w Kinszasie, gdzie można poczuć tętno miasta, kupić lokalne produkty, rękodzieło i spróbować ulicznego jedzenia.",
+      "gygQuery": "Kinshasa Central Market"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Demokratycznej Republiki Konga jest prosta, sycąca i opiera się na lokalnych składnikach. Podstawą diety są węglowodany, takie jak fufu (gęsta pasta z manioku), ryż, bataty czy plantany. Często podawane są z różnego rodzaju sosami na bazie orzeszków ziemnych, pomidorów lub oleju palmowego. Popularne są ryby, zwłaszcza w regionach nad rzeką Kongo i jeziorami, a także kurczak i koza. Warzywa, takie jak liście manioku (saka-saka), okra czy szpinak, są często dodawane do gulaszów. Warto spróbować lokalnych specjałów, takich jak moambe (kurczak w sosie z orzeszków ziemnych i oleju palmowego) czy liboke (ryba lub mięso gotowane w liściach bananowca)."
+  ],
+  "faq": [
+    {
+      "q": "Czy Demokratyczna Republika Konga jest bezpieczna dla turystów?",
+      "a": "DRK jest krajem o wysokim ryzyku dla podróżnych ze względu na niestabilność polityczną, konflikty i przestępczość. Podróże są zalecane tylko z doświadczonymi przewodnikami i po dokładnym zaplanowaniu trasy, unikając regionów objętych konfliktem."
+    },
+    {
+      "q": "Jakie dokumenty są potrzebne do podróży do DRK z Polski?",
+      "a": "Obywatele Polski potrzebują ważnego paszportu (min. 6 miesięcy ważności) oraz wizy, którą należy uzyskać przed wyjazdem w ambasadzie DRK. Konieczne jest także posiadanie międzynarodowego świadectwa szczepień, w tym przeciwko żółtej febrze."
+    },
+    {
+      "q": "Czy w DRK można zobaczyć goryle?",
+      "a": "Tak, DRK jest jednym z trzech krajów, gdzie można podziwiać goryle górskie w ich naturalnym środowisku. Głównym miejscem jest Park Narodowy Virunga na wschodzie kraju, oferujący trekking do tych majestatycznych zwierząt."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Demokratycznej Republice Konga?",
+      "a": "Oficjalną walutą jest frank kongijski (CDF), ale dolary amerykańskie (USD) są powszechnie akceptowane, zwłaszcza w turystyce i większych miastach. Zaleca się posiadanie gotówki w USD w mniejszych nominałach."
+    },
+    {
+      "q": "Jakie szczepienia są wymagane przed podróżą do DRK?",
+      "a": "Obowiązkowe jest szczepienie przeciwko żółtej febrze, potwierdzone wpisem w międzynarodowej książeczce szczepień. Zalecane są również szczepienia przeciwko tężcowi, błonicy, polio, durowi brzusznemu, WZW A i B, a także profilaktyka antymalaryczna."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

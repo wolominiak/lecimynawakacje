@@ -1,0 +1,183 @@
+{
+  "slug": "eswatini",
+  "loc": "w Eswatini",
+  "to": "do Eswatini",
+  "capital": "Mbabane",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Eswatini",
+  "teaser": "Eswatini to niewielkie królestwo w południowej Afryce, oferujące autentyczne doświadczenia kulturowe i bliski kontakt z dziką naturą.",
+  "intro": [
+    "Eswatini, dawniej Suazi, to jeden z najmniejszych krajów Afryki, ale o wielkim sercu i bogatej kulturze. Przyciąga podróżników szukających autentycznych afrykańskich wrażeń, z dala od masowej turystyki. Można tu podziwiać malownicze krajobrazy, od górskich szczytów po sawanny, a także spotkać się z lokalnymi tradycjami i obyczajami. To idealne miejsce dla tych, którzy cenią sobie spokój i bliskość natury, z dala od zgiełku wielkich miast.",
+    "Kraj jest doskonały dla miłośników przyrody i safari, którzy chcą zobaczyć dzikie zwierzęta w mniejszych, bardziej kameralnych parkach narodowych. To również raj dla entuzjastów kultury, pragnących poznać życie i zwyczaje ludu Suazi, wciąż mocno zakorzenione w tradycji. Eswatini oferuje także możliwości aktywnego wypoczynku, takie jak trekking, jazda konna czy kajakarstwo, co czyni go atrakcyjnym dla poszukiwaczy przygód i aktywnego relaksu.",
+    "Podróż z Polski do Eswatini wymaga co najmniej jednej, a często dwóch przesiadek, najczęściej w dużych hubach europejskich, a następnie w Johannesburgu w RPA. Całkowity czas lotu, wraz z przesiadkami, wynosi zazwyczaj od 14 do 18 godzin. Brak jest bezpośrednich połączeń, co sprawia, że podróż jest długa, ale nagradza unikalnymi doświadczeniami. Połączenia lotnicze do Eswatini są dostępne głównie przez lotnisko King Mswati III International Airport (MKM)."
+  ],
+  "highlights": [
+    "Safari w Hlane Royal National Park",
+    "Kultura Suazi w Mantenga Cultural Village",
+    "Piesze wędrówki w Malolotja Nature Reserve",
+    "Zakupy rękodzieła w Swazi Candles",
+    "Niezwykłe formacje skalne Sibebe Rock",
+    "Obserwacja ptaków w Mlilwane Wildlife Sanctuary"
+  ],
+  "bestTime": {
+    "text": "Najlepszym czasem na odwiedzenie Eswatini jest sucha pora, czyli od maja do września. W tym okresie temperatury są umiarkowane, a roślinność mniej bujna, co ułatwia obserwację dzikich zwierząt, które gromadzą się wokół wodopojów. Pora deszczowa, od października do kwietnia, przynosi wysokie temperatury i obfite opady, choć krajobraz staje się wtedy bujniejszy i bardziej zielony.",
+    "best": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "ok": [
+      4,
+      10
+    ]
+  },
+  "climate": {
+    "air": [
+      26,
+      26,
+      25,
+      23,
+      22,
+      20,
+      20,
+      22,
+      24,
+      25,
+      25,
+      26
+    ],
+    "sea": null,
+    "note": "dla Mbabane"
+  },
+  "practical": {
+    "flight": "około 14-18 h z przesiadkami",
+    "timeDiff": "Brak w polskim lecie, +1 godzina w polskiej zimie",
+    "documents": "Wiza jest wymagana dla obywateli Polski. Należy ją uzyskać przed podróżą w ambasadzie lub konsulacie, lub sprawdzić możliwość uzyskania e-wizy. Zawsze weryfikuj aktualne wymogi wizowe na stronie MSZ lub ambasady Eswatini przed wyjazdem.",
+    "money": "Oficjalną walutą jest lilangeni (SZL), który jest sztywno powiązany z randem południowoafrykańskim (ZAR) w stosunku 1:1. Rand jest powszechnie akceptowany w całym kraju. Płatności kartą są możliwe w większych miastach i ośrodkach turystycznych, ale zawsze warto mieć przy sobie gotówkę.",
+    "plugs": "Typ M (trzy okrągłe, grube bolce), rzadziej D i N. Zalecamy zabranie uniwersalnego adaptera.",
+    "language": "Angielski (urzędowy), suazi (urzędowy).",
+    "safety": "Eswatini jest stosunkowo bezpiecznym krajem, ale należy zachować podstawowe środki ostrożności, zwłaszcza w większych miastach i na targowiskach. Unikaj samotnych spacerów po zmroku. Występuje ryzyko malarii w niżej położonych obszarach, dlatego zaleca się profilaktykę antymalaryczną. Należy również pamiętać o wysokim wskaźniku HIV/AIDS w kraju."
+  },
+  "regions": [
+    {
+      "slug": "ezulwini-valley",
+      "name": "Dolina Ezulwini",
+      "loc": "w Dolinie Ezulwini",
+      "type": "region",
+      "gygQuery": "Ezulwini Valley Eswatini",
+      "airport": "MKM",
+      "forWhom": "To turystyczne serce Eswatini, idealne dla osób szukających wygody, kultury i łatwego dostępu do atrakcji.",
+      "intro": [
+        "Dolina Ezulwini, nazywana również Doliną Niebios, to główny ośrodek turystyczny Eswatini, położony między stolicą Mbabane a Manzini. Znajdują się tu liczne hotele, restauracje, kasyna i centra handlowe, co czyni ją wygodną bazą wypadową do zwiedzania kraju. Jest to miejsce, gdzie nowoczesność spotyka się z tradycją, oferując zarówno komfortowe udogodnienia, jak i możliwość poznania lokalnej kultury.",
+        "W dolinie i jej okolicach znajdują się takie atrakcje jak Mantenga Cultural Village, gdzie można poznać tradycje i taniec ludu Suazi, oraz Mlilwane Wildlife Sanctuary, oferujące piesze safari i bliski kontakt z niespłoszonymi zwierzętami. To także centrum dla rzemiosła artystycznego, z licznymi galeriami i warsztatami, gdzie można podziwiać i kupować lokalne wyroby."
+      ],
+      "highlights": [
+        "Hotele i restauracje",
+        "Mantenga Cultural Village",
+        "Mlilwane Wildlife Sanctuary",
+        "Rzemiosło i sztuka"
+      ]
+    },
+    {
+      "slug": "hlane-royal-national-park",
+      "name": "Hlane Royal National Park",
+      "loc": "w Hlane Royal National Park",
+      "type": "park narodowy",
+      "gygQuery": "Hlane Royal National Park",
+      "airport": "MKM",
+      "forWhom": "Park jest idealny dla miłośników safari, którzy chcą zobaczyć Wielką Piątkę w Eswatini.",
+      "intro": [
+        "Hlane Royal National Park to największy park narodowy Eswatini i jedyne miejsce w kraju, gdzie można spotkać lwy, słonie i nosorożce. Park oferuje klasyczne doświadczenia safari, z możliwością samodzielnego poruszania się samochodem lub zorganizowanych wycieczek z przewodnikiem. To doskonałe miejsce do obserwacji dzikich zwierząt w ich naturalnym środowisku, z dala od tłumów.",
+        "Oprócz Wielkiej Piątki, w Hlane można spotkać również żyrafy, zebry, antylopy i wiele gatunków ptaków. Park jest znany z programów ochrony nosorożców i stanowi ważny element dziedzictwa przyrodniczego Eswatini. Dostępne są tu również opcje noclegowe, od kempingów po tradycyjne chaty, co pozwala na pełne zanurzenie się w afrykańskiej przygodzie."
+      ],
+      "highlights": [
+        "Lwy, słonie, nosorożce",
+        "Samodzielne safari",
+        "Obserwacja ptaków",
+        "Noclegi w parku"
+      ]
+    },
+    {
+      "slug": "malolotja-nature-reserve",
+      "name": "Malolotja Nature Reserve",
+      "loc": "w Malolotja Nature Reserve",
+      "type": "park narodowy",
+      "gygQuery": "Malolotja Nature Reserve",
+      "airport": "MKM",
+      "forWhom": "To raj dla piechurów i miłośników górskich krajobrazów, szukających aktywnego wypoczynku.",
+      "intro": [
+        "Malolotja Nature Reserve to górzysty rezerwat przyrody, położony w północno-zachodniej części Eswatini, słynący z malowniczych krajobrazów, wodospadów i bogatej flory. Jest to jedno z najlepiej zachowanych dziewiczych obszarów górskich w południowej Afryce, oferujące ponad 200 km szlaków turystycznych. Idealne miejsce na długie wędrówki i podziwianie panoramicznych widoków.",
+        "Rezerwat jest domem dla wielu gatunków ptaków, w tym rzadkich sępów, oraz dla różnorodnej roślinności, w tym endemicznych gatunków. Oprócz trekkingu, można tu spróbować zjazdów na tyrolce czy spływów kajakowych. Malolotja to idealne miejsce dla tych, którzy chcą uciec od zgiełku i zanurzyć się w dzikiej, górskiej przyrodzie."
+      ],
+      "highlights": [
+        "Szlaki trekkingowe",
+        "Wodospady i widoki",
+        "Obserwacja ptaków",
+        "Zjazdy na tyrolce"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Hlane Royal National Park",
+      "text": "Największy park narodowy Eswatini, gdzie można spotkać lwy, słonie i nosorożce. Oferuje klasyczne safari i możliwość samodzielnego zwiedzania.",
+      "gygQuery": "Hlane Royal National Park"
+    },
+    {
+      "name": "Mlilwane Wildlife Sanctuary",
+      "text": "Pierwszy rezerwat przyrody w Eswatini, znany z braku drapieżników, co pozwala na piesze i rowerowe safari. Idealny do bliskiego kontaktu z antylopami, zebrami i hipopotamami.",
+      "gygQuery": "Mlilwane Wildlife Sanctuary"
+    },
+    {
+      "name": "Mantenga Cultural Village",
+      "text": "Tradycyjna wioska Suazi, gdzie można poznać kulturę, zwyczaje i taniec ludu Suazi. Odbywają się tu pokazy tradycyjnych tańców i śpiewów.",
+      "gygQuery": "Mantenga Cultural Village"
+    },
+    {
+      "name": "Malolotja Nature Reserve",
+      "text": "Górzysty rezerwat przyrody z licznymi szlakami trekkingowymi, wodospadami i panoramicznymi widokami. Doskonały dla miłośników pieszych wędrówek i przyrody.",
+      "gygQuery": "Malolotja Nature Reserve"
+    },
+    {
+      "name": "Sibebe Rock",
+      "text": "Druga co do wielkości monolitowa skała na świecie, oferująca wymagające szlaki trekkingowe i spektakularne widoki na okoliczne krajobrazy.",
+      "gygQuery": "Sibebe Rock"
+    },
+    {
+      "name": "Ngwenya Glass",
+      "text": "Huta szkła, która przetwarza wyłącznie szkło z recyklingu, tworząc piękne wyroby artystyczne. Można obserwować proces produkcji i kupić unikalne pamiątki.",
+      "gygQuery": "Ngwenya Glass"
+    },
+    {
+      "name": "Swazi Candles",
+      "text": "Popularna atrakcja turystyczna, gdzie ręcznie wytwarza się ozdobne świece w kształcie zwierząt i innych motywów. Wokół znajduje się targowisko z lokalnym rękodziełem.",
+      "gygQuery": "Swazi Candles"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Eswatini jest prosta i opiera się głównie na produktach rolnych, takich jak kukurydza, sorgo, dynia i fasola. Podstawą wielu potraw jest pap (gęsta owsianka z mąki kukurydzianej), często podawana z gulaszem mięsnym (wołowina, koźlina) lub warzywnym. Popularne są również warzywa liściaste, takie jak szpinak czy kapusta. W miastach i ośrodkach turystycznych można znaleźć restauracje oferujące dania kuchni międzynarodowej, ale warto spróbować lokalnych specjałów, aby poczuć autentyczny smak Eswatini."
+  ],
+  "faq": [
+    {
+      "q": "Czy Eswatini jest bezpieczne dla turystów?",
+      "a": "Eswatini jest stosunkowo bezpieczne, ale jak w każdym kraju, należy zachować ostrożność, zwłaszcza w miastach i na targowiskach. Unikaj samotnych spacerów po zmroku i dbaj o swoje wartościowe przedmioty."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Eswatini jako Polak?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać do Eswatini. Zaleca się uzyskanie jej przed podróżą, choć w niektórych przypadkach możliwe jest uzyskanie e-wizy. Zawsze sprawdź aktualne wymogi wizowe na stronie MSZ lub ambasady."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Eswatini i czy akceptują inne?",
+      "a": "Oficjalną walutą jest lilangeni (SZL), ale rand południowoafrykański (ZAR) jest powszechnie akceptowany w stosunku 1:1. Warto mieć przy sobie gotówkę, zwłaszcza poza większymi miastami."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Eswatini?",
+      "a": "Najlepszym okresem na podróż do Eswatini jest sucha pora, od maja do września. Temperatury są wtedy przyjemniejsze, a obserwacja dzikich zwierząt łatwiejsza ze względu na mniejszą roślinność i gromadzenie się zwierząt przy wodopojach."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

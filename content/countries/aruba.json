@@ -1,0 +1,210 @@
+{
+  "slug": "aruba",
+  "loc": "na Arubie",
+  "to": "na Arubę",
+  "capital": "Oranjestad",
+  "popularity": 30,
+  "touroperator": false,
+  "gygQuery": "Aruba",
+  "teaser": "Aruba to karaibska wyspa słońca, wiatru i pięknych plaż. Idealna na relaks, sporty wodne i odkrywanie uroków holenderskich Karaibów.",
+  "intro": [
+    "Aruba, choć niewielka, to prawdziwa perła Karaibów, słynąca z niezwykle pięknych, białych plaż i krystalicznie czystej wody. Ta holenderska wyspa oferuje idealne warunki do relaksu pod palmami, a także do aktywnego spędzania czasu, zwłaszcza dla miłośników sportów wodnych. Stałe pasaty sprawiają, że upały są znośne, a słońce świeci tu niemal przez cały rok, gwarantując udany urlop niezależnie od pory.",
+    "Wyspa jest doskonałym wyborem dla osób szukających luksusowego wypoczynku, par na romantyczny wyjazd oraz rodzin z dziećmi, które docenią płytkie i spokojne wody przybrzeżne. Entuzjaści nurkowania i snorkelingu znajdą tu bogate rafy koralowe oraz wraki statków, a miłośnicy natury zachwycą się surowym krajobrazem Parku Narodowego Arikok. Aruba to miejsce, gdzie karaibska swoboda łączy się z europejską organizacją, tworząc unikalną atmosferę.",
+    "Podróż z Polski na Arubę wymaga nieco cierpliwości i zazwyczaj obejmuje dwie przesiadki, najczęściej w jednym z europejskich hubów, jak Amsterdam czy Frankfurt, a następnie w USA lub innym dużym porcie lotniczym Karaibów. Cała podróż, wliczając oczekiwanie na przesiadki, może trwać od kilkunastu do nawet dwudziestu godzin. Mimo to, widok lazurowej wody i piaszczystych plaż wynagradza trudy długiego lotu, otwierając drzwi do \"Happy Island\"."
+  ],
+  "highlights": [
+    "Białe, piaszczyste plaże i turkusowa woda",
+    "Idealne warunki do windsurfingu i kitesurfingu",
+    "Żywe rafy koralowe i wraki dla nurków",
+    "Holenderska architektura w Oranjestad",
+    "Park Narodowy Arikok z jaskiniami",
+    "Słoneczna pogoda przez cały rok"
+  ],
+  "bestTime": {
+    "text": "Aruba ma klimat półpustynny, więc jest sucho i słonecznie przez większość roku. Pora sucha trwa od stycznia do sierpnia, a od września do grudnia możliwe są krótkie, intensywne opady, ale rzadko psują one cały dzień. Stałe pasaty łagodzą upał, czyniąc klimat przyjemnym.",
+    "best": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      31,
+      31,
+      31,
+      31,
+      32,
+      32,
+      32,
+      32,
+      32,
+      31,
+      31,
+      31
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      28,
+      28,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "Dla Oranjestad"
+  },
+  "practical": {
+    "flight": "około 12-14 h z dwiema przesiadkami",
+    "timeDiff": "Zimą -5 h, latem -6 h",
+    "documents": "Paszport ważny min. 6 miesięcy od daty planowanego wyjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyt turystyczny do 30 dni, z możliwością przedłużenia. Zawsze sprawdź aktualne wymogi przed podróżą.",
+    "money": "Oficjalną walutą jest florin arubański (AWG), ale dolar amerykański (USD) jest powszechnie akceptowany. Płatności kartą są popularne, bankomaty dostępne.",
+    "plugs": "Typ A i B (amerykański standard), wymagana przejściówka.",
+    "language": "Oficjalne to niderlandzki i papiamento. Angielski jest bardzo powszechnie używany, zwłaszcza w turystyce.",
+    "safety": "Aruba jest uważana za bezpieczny kierunek turystyczny. Należy zachować podstawowe środki ostrożności, zwłaszcza po zmroku w mniej uczęszczanych miejscach. Opieka medyczna jest na dobrym poziomie."
+  },
+  "regions": [
+    {
+      "slug": "oranjestad",
+      "name": "Oranjestad",
+      "loc": "w Oranjestad",
+      "type": "miasto",
+      "gygQuery": "Oranjestad Aruba",
+      "airport": "AUA",
+      "forWhom": "Stolica Aruby to barwne miasto pełne holenderskiej architektury i karaibskiego klimatu.",
+      "intro": [
+        "Oranjestad, stolica Aruby, zachwyca urokliwymi, pastelowymi budynkami w stylu kolonialnym, które przywodzą na myśl Amsterdam. Warto przespacerować się wzdłuż głównej ulicy Caya G.F. Betico Croes, podziwiając sklepy, restauracje i urocze kawiarenki. Miasto oferuje także ciekawe muzea, takie jak Muzeum Archeologiczne Aruby, które przybliża historię wyspy.",
+        "Port w Oranjestad jest często odwiedzany przez statki wycieczkowe, co dodaje miastu życia i ruchu. Wieczorem można wybrać się na spacer po nabrzeżu, podziwiając zachód słońca nad morzem lub spróbować lokalnych specjałów w jednej z licznych restauracji. Warto także zobaczyć zabytkowy Fort Zoutman i jego Wieżę Willema III."
+      ],
+      "highlights": [
+        "Kolorowa holenderska architektura",
+        "Muzeum Archeologiczne Aruby",
+        "Fort Zoutman i Wieża Willema III",
+        "Liczne sklepy i restauracje"
+      ]
+    },
+    {
+      "slug": "palm-eagle-beach",
+      "name": "Palm Beach i Eagle Beach",
+      "loc": "na Palm Beach i Eagle Beach",
+      "type": "kurort",
+      "gygQuery": "Palm Beach Eagle Beach Aruba",
+      "airport": "AUA",
+      "forWhom": "To serce turystyczne wyspy, idealne dla miłośników luksusowego wypoczynku i pięknych plaż.",
+      "intro": [
+        "Palm Beach to najbardziej znana i tętniąca życiem część Aruby, gdzie znajdują się luksusowe hotele, restauracje, kasyna i centra handlowe. Długa, piaszczysta plaża z palmami oferuje mnóstwo atrakcji wodnych, od parasailingu po skutery wodne. To idealne miejsce dla tych, którzy szukają rozrywki i wygody na wyciągnięcie ręki.",
+        "Eagle Beach, położona nieco na południe, jest często uznawana za jedną z najpiękniejszych plaż na świecie, słynącą z szerokiego pasa białego piasku i charakterystycznych drzew divi-divi. Jest spokojniejsza niż Palm Beach, idealna na relaks i podziwianie zachodów słońca. To także miejsce, gdzie żółwie morskie składają jaja."
+      ],
+      "highlights": [
+        "Jedne z najpiękniejszych plaż świata",
+        "Luksusowe hotele i kurorty",
+        "Szeroka oferta sportów wodnych",
+        "Idealne na relaks i zachody słońca"
+      ]
+    },
+    {
+      "slug": "park-narodowy-arikok",
+      "name": "Park Narodowy Arikok",
+      "loc": "w Parku Narodowym Arikok",
+      "type": "park narodowy",
+      "gygQuery": "Arikok National Park Aruba",
+      "airport": "AUA",
+      "forWhom": "Dla poszukiwaczy przygód i miłośników dzikiej, surowej natury Karaibów.",
+      "intro": [
+        "Park Narodowy Arikok zajmuje około 20% powierzchni Aruby i oferuje zupełnie inny krajobraz niż turystyczne plaże. Znajdziesz tu kaktusy, jaskinie z indiańskimi petroglifami, formacje skalne, naturalne baseny i dzikie zatoczki. To idealne miejsce na piesze wędrówki, jazdę na rowerze górskim lub wycieczki jeepem.",
+        "W parku można odkryć takie atrakcje jak Natural Pool (Conchi), jaskinie Quadirikiri i Fontein, a także ruiny kopalni złota Bushiribana. Warto pamiętać o zabraniu odpowiedniego obuwia, wody i kremu z filtrem, gdyż słońce jest tu bardzo intensywne, a teren bywa wymagający. To prawdziwa gratka dla miłośników przyrody."
+      ],
+      "highlights": [
+        "Surowe krajobrazy i kaktusy",
+        "Naturalny Basen (Conchi)",
+        "Jaskinie z petroglifami",
+        "Ruiny kopalni złota Bushiribana"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Eagle Beach",
+      "text": "Jedna z najpiękniejszych plaż na świecie, słynąca z białego piasku i charakterystycznych drzew divi-divi. Idealna na relaks i podziwianie zachodów słońca.",
+      "gygQuery": "Eagle Beach Aruba"
+    },
+    {
+      "name": "Park Narodowy Arikok",
+      "text": "Obszar chroniony z kaktusami, jaskiniami, naturalnymi basenami i formacjami skalnymi. Idealny do pieszych wędrówek i odkrywania dzikiej natury wyspy.",
+      "gygQuery": "Arikok National Park Aruba"
+    },
+    {
+      "name": "California Lighthouse",
+      "text": "Historyczna latarnia morska oferująca panoramiczne widoki na północno-zachodnie wybrzeże Aruby. Popularne miejsce na podziwianie zachodów słońca.",
+      "gygQuery": "California Lighthouse Aruba"
+    },
+    {
+      "name": "Natural Pool (Conchi)",
+      "text": "Ukryty naturalny basen skalny, do którego można dotrzeć tylko pojazdem 4x4 lub pieszo. Oferuje orzeźwiającą kąpiel w otoczeniu dzikiej przyrody.",
+      "gygQuery": "Natural Pool Conchi Aruba"
+    },
+    {
+      "name": "Oranjestad (centrum)",
+      "text": "Kolorowa stolica Aruby z holenderską architekturą, sklepami, restauracjami i zabytkami takimi jak Fort Zoutman. Idealne na spacer i zakupy.",
+      "gygQuery": "Oranjestad Downtown Aruba"
+    },
+    {
+      "name": "Aruba Aloe Factory & Museum",
+      "text": "Najstarsza fabryka aloesu na świecie, gdzie można poznać proces produkcji i kupić lokalne produkty. Ciekawa lekcja historii i botaniki.",
+      "gygQuery": "Aruba Aloe Factory Museum"
+    },
+    {
+      "name": "Bushiribana Gold Mill Ruins",
+      "text": "Pozostałości po dawnej kopalni złota z XIX wieku, malowniczo położone na skalistym wybrzeżu. Fascynujące miejsce z historią w tle.",
+      "gygQuery": "Bushiribana Gold Mill Ruins Aruba"
+    },
+    {
+      "name": "Hooiberg",
+      "text": "Wulkaniczny stożek o wysokości 165 metrów, położony w centrum wyspy. Wejście po 600 schodach oferuje spektakularne widoki na całą Arubę.",
+      "gygQuery": "Hooiberg Aruba"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Aruby to apetyczna mieszanka wpływów holenderskich, karaibskich i południowoamerykańskich, z dużą ilością świeżych owoców morza. Warto spróbować lokalnych specjałów, takich jak \"keshi yena\" - wydrążony ser wypełniony przyprawionym mięsem, \"pastechi\" - małe smażone pierożki z różnymi nadzieniami, czy \"stobá\" - gulasz z koziny lub wołowiny. Popularne są także świeże ryby i owoce morza podawane z ryżem, fasolą i pikantnymi sosami. Nie brakuje też międzynarodowych restauracji, zwłaszcza w rejonach turystycznych."
+  ],
+  "faq": [
+    {
+      "q": "Czy na Arubie potrzebna jest wiza dla Polaków?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyt turystyczny na Arubie do 30 dni, z możliwością przedłużenia do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Jaka jest waluta na Arubie i czy można płacić dolarami?",
+      "a": "Oficjalną walutą jest florin arubański (AWG), ale dolar amerykański (USD) jest powszechnie akceptowany w większości miejsc. Można płacić kartą kredytową, a bankomaty są łatwo dostępne."
+    },
+    {
+      "q": "Kiedy najlepiej jechać na Arubę?",
+      "a": "Aruba jest doskonałym kierunkiem przez cały rok ze względu na stałą, słoneczną pogodę. Pora sucha trwa od stycznia do sierpnia, co jest uważane za najlepszy czas na podróż. Od września do grudnia mogą występować krótkie, intensywne opady, ale rzadko psują one cały dzień."
+    },
+    {
+      "q": "Czy Aruba jest bezpiecznym miejscem dla turystów?",
+      "a": "Tak, Aruba jest generalnie uważana za bardzo bezpieczny kierunek turystyczny. Należy jednak zawsze zachować podstawowe środki ostrożności, zwłaszcza po zmroku, i dbać o swoje wartościowe przedmioty."
+    },
+    {
+      "q": "Jak dostać się na Arubę z Polski?",
+      "a": "Z Polski na Arubę nie ma bezpośrednich lotów. Podróż zazwyczaj wymaga dwóch przesiadek, np. w Amsterdamie lub Frankfurcie, a następnie w USA (z wymogiem ESTA) lub innym karaibskim hubie. Cała podróż trwa około 12-14 godzin."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

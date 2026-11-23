@@ -1,0 +1,251 @@
+{
+  "slug": "etiopia",
+  "loc": "w Etiopii",
+  "to": "do Etiopii",
+  "capital": "Addis Abeba",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Ethiopia",
+  "teaser": "Etiopia to kraj o starożytnej historii, niezwykłej kulturze i zapierających dech w piersiach krajobrazach, oferujący podróż w głąb afrykańskich tradycji.",
+  "intro": [
+    "Etiopia, kolebka ludzkości i starożytne królestwo, to kraj, który wyróżnia się na tle Afryki. Posiada unikalną historię chrześcijaństwa, sięgającą pierwszych wieków naszej ery, co widać w skalnych kościołach Lalibeli czy starożytnych obeliskach Aksum. To miejsce, gdzie czas płynie inaczej, a codzienne życie jest głęboko zakorzenione w tradycjach i wierzeniach. Malownicze krajobrazy, od zielonych gór Semien po piekielnie gorącą Kotlinę Danakilską, dopełniają obrazu kraju pełnego kontrastów.",
+    "Podróż do Etiopii to propozycja dla doświadczonych podróżników, poszukujących autentycznych wrażeń i gotowych na wyzwania. To idealny kierunek dla miłośników historii, archeologii, trekkingu oraz tych, którzy chcą poznać różnorodne kultury plemienne. Etiopia wymaga otwartości, cierpliwości i elastyczności, nagradzając jednak niezapomnianymi spotkaniami i widokami. Nie jest to kraj na beztroskie wakacje all-inclusive, ale na prawdziwą przygodę.",
+    "Z Polski do Etiopii nie ma bezpośrednich lotów, co oznacza konieczność przesiadek, najczęściej w Stambule, Dubaju lub Dausze. Cała podróż, wliczając czas oczekiwania na połączenia, zajmuje zazwyczaj od 10 do 12 godzin. Przed wyjazdem należy dokładnie zaplanować trasę i sprawdzić aktualne wymogi wizowe oraz zalecenia zdrowotne, w tym szczepienia. Warto też przygotować się na różnice kulturowe i logistyczne wyzwania."
+  ],
+  "highlights": [
+    "Skalne kościoły Lalibeli",
+    "Wulkan Erta Ale i Kotlina Danakilska",
+    "Trekking w Górach Semien",
+    "Starożytne Aksum i zamki Gonderu",
+    "Plemiona Doliny Omo",
+    "Kultura kawy i lokalne rynki"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Etiopii to pora sucha, która trwa od października do lutego-marca. W tym okresie pogoda jest stabilna, a temperatury, zwłaszcza na wyżynach, są przyjemne. Unikamy wtedy intensywnych opadów deszczu, które mogą utrudniać podróżowanie po drogach gruntowych i trekking. Pora deszczowa, od czerwca do września, charakteryzuje się obfitymi opadami, szczególnie na północy kraju.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      5,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      24,
+      25,
+      25,
+      25,
+      25,
+      23,
+      21,
+      21,
+      22,
+      23,
+      23,
+      23
+    ],
+    "sea": null,
+    "note": "dla Addis Abeby"
+  },
+  "practical": {
+    "flight": "około 10-12 h z przesiadką",
+    "timeDiff": "Etiopia jest w strefie czasowej UTC+3. Względem Polski to +2 godziny zimą i +1 godzina latem.",
+    "documents": "Obywatele Polski potrzebują wizy, którą można uzyskać online (e-Visa) przed podróżą lub w ambasadzie Etiopii. Paszport musi być ważny co najmniej 6 miesięcy od daty planowanego wjazdu. Zawsze należy sprawdzić aktualne wymogi wizowe na stronie MSZ lub ambasady przed wyjazdem.",
+    "money": "Walutą jest birr etiopski (ETB). Płatności kartą są możliwe tylko w większych hotelach i niektórych restauracjach w Addis Abebie. W pozostałych miejscach królują gotówka i lokalne płatności mobilne. Warto mieć przy sobie mniejsze nominały. Bankomaty są dostępne w większych miastach, ale ich niezawodność bywa różna.",
+    "plugs": "W Etiopii stosuje się gniazdka typu C, E, F i L. Zaleca się zabranie uniwersalnego adaptera. Napięcie wynosi 220 V przy częstotliwości 50 Hz.",
+    "language": "Oficjalnym językiem jest amharski, ale w użyciu jest wiele innych języków etiopskich, np. oromo czy tigrinya. W obszarach turystycznych i w hotelach można porozumieć się po angielsku, choć nie jest to powszechne.",
+    "safety": "Etiopia jest krajem o podwyższonym ryzyku. Zaleca się śledzenie aktualnych komunikatów MSZ przed i w trakcie podróży. Występują zagrożenia związane z przestępczością pospolitą, zwłaszcza w miastach. Należy zachować ostrożność, unikać samotnego podróżowania po zmroku i dbać o swoje rzeczy. Wymagane są szczepienia, np. przeciw żółtej febrze (wymóg przy wjeździe z krajów endemicznych), tężcowi, błonicy, polio. Zalecana jest profilaktyka antymalaryczna w niektórych regionach."
+  },
+  "regions": [
+    {
+      "slug": "addis-abeba",
+      "name": "Addis Abeba",
+      "loc": "w Addis Abebie",
+      "type": "miasto",
+      "gygQuery": "Addis Ababa",
+      "airport": "ADD",
+      "forWhom": "Dla tych, którzy chcą poznać współczesne oblicze Etiopii i rozpocząć podróż od stolicy.",
+      "intro": [
+        "Addis Abeba, czyli \"nowy kwiat\", to tętniąca życiem stolica Etiopii i Afrykańska Stolica Dyplomacji. Miasto jest chaotyczne, ale fascynujące, pełne kontrastów między nowoczesnymi budynkami a tradycyjnymi targowiskami. To tutaj znajduje się siedziba Unii Afrykańskiej oraz liczne muzea, które pozwalają zgłębić bogatą historię i kulturę kraju.",
+        "Warto odwiedzić Muzeum Narodowe, gdzie można zobaczyć słynną Lucy, szkielet hominida sprzed 3,2 miliona lat, oraz Muzeum Etnograficzne. Spacer po Mercato, jednym z największych otwartych targowisk w Afryce, to niezapomniane doświadczenie. Addis Abeba to także miejsce, gdzie można spróbować wyśmienitej etiopskiej kawy i lokalnych potraw."
+      ],
+      "highlights": [
+        "Muzeum Narodowe Etiopii",
+        "Targ Mercato",
+        "Katedra św. Jerzego",
+        "Góra Entoto"
+      ]
+    },
+    {
+      "slug": "lalibela",
+      "name": "Lalibela",
+      "loc": "w Lalibeli",
+      "type": "miasto",
+      "gygQuery": "Lalibela",
+      "airport": "LLI",
+      "forWhom": "Dla poszukiwaczy duchowych wrażeń i miłośników unikalnej architektury sakralnej.",
+      "intro": [
+        "Lalibela to jedno z najbardziej niezwykłych miejsc na świecie, słynące z jedenastu monolitycznych kościołów wykutych w skale. Te XIII-wieczne budowle, wpisane na listę UNESCO, są aktywnymi miejscami kultu i pielgrzymek. Ich konstrukcja, wydrążona w dół, a nie budowana w górę, jest arcydziełem inżynierii i wiary.",
+        "Zwiedzanie Lalibeli to podróż w czasie, pozwalająca poczuć mistyczną atmosferę starożytnego chrześcijaństwa. Przewodnicy oprowadzają po labiryntach tuneli i dziedzińców, opowiadając historie i legendy. To miejsce, które zostaje w pamięci na długo, zwłaszcza podczas porannych modlitw, gdy kościoły wypełniają się wiernymi."
+      ],
+      "highlights": [
+        "Kościół św. Jerzego (Bet Giyorgis)",
+        "Kompleks Północny i Południowy",
+        "Jaskinie Yemrehana Krestos",
+        "Lokalne ceremonie religijne"
+      ]
+    },
+    {
+      "slug": "gory-semien",
+      "name": "Góry Semien",
+      "loc": "w Górach Semien",
+      "type": "park narodowy",
+      "gygQuery": "Simien Mountains",
+      "airport": "GDQ",
+      "forWhom": "Dla miłośników trekkingu, zapierających dech w piersiach krajobrazów i endemicznej fauny.",
+      "intro": [
+        "Park Narodowy Gór Semien to jeden z najbardziej spektakularnych górskich krajobrazów Afryki, często nazywany \"Grand Canyonem Afryki\". Charakteryzuje się dramatycznymi szczytami, głębokimi dolinami i przepaściami, tworzącymi idealne warunki do trekkingu. To także dom dla wielu endemicznych gatunków zwierząt, takich jak dżelada brunatna, koziorożec abisyński czy wilk etiopski.",
+        "Wędrówki po Semien oferują niezapomniane widoki, prowadząc przez malownicze wioski i tereny pasterskie. Noclegi w prostych lodżach lub pod namiotami pozwalają na pełne zanurzenie się w naturze. Trekkingi są dostępne na różnych poziomach trudności, od jednodniowych wycieczek po kilkudniowe ekspedycje z przewodnikiem i uzbrojoną eskortą."
+      ],
+      "highlights": [
+        "Punkt widokowy Sankaber",
+        "Wodospad Jinbar",
+        "Dżelady brunatne",
+        "Najwyższy szczyt Ras Dashen"
+      ]
+    },
+    {
+      "slug": "kotlina-danakilska",
+      "name": "Kotlina Danakilska",
+      "loc": "w Kotlinie Danakilskiej",
+      "type": "region",
+      "gygQuery": "Danakil Depression",
+      "airport": "MQX",
+      "forWhom": "Dla poszukiwaczy ekstremalnych wrażeń i najbardziej niezwykłych krajobrazów na Ziemi.",
+      "intro": [
+        "Kotlina Danakilska to jedno z najgorętszych i najniżej położonych miejsc na świecie, prawdziwie piekielny krajobraz. Znajduje się tu aktywny wulkan Erta Ale z jeziorem lawy oraz surrealistyczne formacje solne Dallol, mieniące się jaskrawymi kolorami. To obszar zamieszkany przez Afarów, którzy od wieków wydobywają sól.",
+        "Podróż do Danakil to wyprawa wymagająca, często organizowana w konwojach z uzbrojoną eskortą, ze względu na trudne warunki i kwestie bezpieczeństwa. Noclegi pod gwiazdami na pustyni i obserwacja wulkanu Erta Ale po zmroku to doświadczenia, które na zawsze pozostają w pamięci. To miejsce, gdzie natura pokazuje swoją najbardziej surową i spektakularną stronę."
+      ],
+      "highlights": [
+        "Wulkan Erta Ale",
+        "Kolorowe formacje Dallol",
+        "Jezioro solne Karum",
+        "Wioski Afarów i karawany solne"
+      ]
+    },
+    {
+      "slug": "polnoc-etiopii-szlak-historyczny",
+      "name": "Północ Etiopii - Szlak Historyczny",
+      "loc": "na Północy Etiopii",
+      "type": "region",
+      "gygQuery": "Ethiopian Historic Route",
+      "airport": "AXU",
+      "forWhom": "Dla miłośników starożytnych cywilizacji, królewskich zamków i malowniczych jezior.",
+      "intro": [
+        "Północ Etiopii to serce historycznego dziedzictwa kraju, obejmujące takie miejsca jak Aksum, Gonder i Bahir Dar. Aksum było stolicą potężnego królestwa, słynącego z gigantycznych obelisków i legendy o Arce Przymierza. Gonder to \"Camelot Afryki\", z imponującymi zamkami i pałacami z XVII wieku.",
+        "Bahir Dar, położony nad jeziorem Tana, jest bramą do klasztorów na wyspach i wodospadów Błękitnego Nilu. Podróż po tym regionie to zanurzenie się w bogatą przeszłość Etiopii, odkrywanie starożytnych ruin, średniowiecznych kościołów i fascynujących legend. Infrastruktura turystyczna jest tu nieco bardziej rozwinięta niż w innych częściach kraju."
+      ],
+      "highlights": [
+        "Obeliski Aksum",
+        "Zamki w Gonderze",
+        "Klasztory Jeziora Tana",
+        "Wodospady Błękitnego Nilu"
+      ]
+    },
+    {
+      "slug": "dolina-omo",
+      "name": "Dolina Omo",
+      "loc": "w Dolinie Omo",
+      "type": "region",
+      "gygQuery": "Omo Valley",
+      "airport": "JJM",
+      "forWhom": "Dla antropologów-amatorów i tych, którzy pragną poznać życie tradycyjnych plemion.",
+      "intro": [
+        "Dolina Omo to jeden z najbardziej zróżnicowanych kulturowo regionów Afryki, dom dla dziesiątek unikalnych plemion, takich jak Mursi, Hamer, Karo czy Dassanech. Każde z nich ma swoje odrębne tradycje, języki i obyczaje, w tym charakterystyczne zdobienia ciała, fryzury i rytuały. To miejsce, gdzie czas zatrzymał się wieki temu.",
+        "Wizyta w Dolinie Omo to głębokie zanurzenie się w życie tych społeczności, choć wymaga wrażliwości i szacunku dla lokalnych kultur. Podróżowanie odbywa się zazwyczaj z lokalnym przewodnikiem i samochodem terenowym. To unikalna okazja, by zobaczyć autentyczne życie plemienne, które powoli ulega zmianom pod wpływem cywilizacji."
+      ],
+      "highlights": [
+        "Plemiona Mursi i ich talerzyki w wargach",
+        "Rytuały Hamerów",
+        "Wioski Karo nad rzeką Omo",
+        "Lokalne targi plemienne"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Kościoły skalne w Lalibeli",
+      "text": "Wykute w skale kościoły z XIII wieku to arcydzieło architektury i wiary, wpisane na listę UNESCO.",
+      "gygQuery": "Lalibela rock hewn churches"
+    },
+    {
+      "name": "Wulkan Erta Ale i Kotlina Danakilska",
+      "text": "Aktywny wulkan z jeziorem lawy i surrealistyczne, kolorowe formacje solne w jednym z najgorętszych miejsc na Ziemi.",
+      "gygQuery": "Erta Ale Danakil Depression"
+    },
+    {
+      "name": "Park Narodowy Gór Semien",
+      "text": "Spektakularne górskie krajobrazy, głębokie wąwozy i unikalna fauna, idealne do trekkingu.",
+      "gygQuery": "Simien Mountains National Park"
+    },
+    {
+      "name": "Starożytne miasto Aksum",
+      "text": "Ruiny potężnego królestwa, gigantyczne obeliski i legendy związane z Arką Przymierza.",
+      "gygQuery": "Axum obelisks"
+    },
+    {
+      "name": "Zamki w Gonderze",
+      "text": "Kompleks królewskich zamków i pałaców z XVII wieku, nazywany 'Camelotem Afryki'.",
+      "gygQuery": "Gondar castles"
+    },
+    {
+      "name": "Jezioro Tana i wodospady Błękitnego Nilu",
+      "text": "Największe jezioro Etiopii z klasztorami na wyspach oraz majestatyczne wodospady Nilu Błękitnego.",
+      "gygQuery": "Lake Tana Blue Nile Falls"
+    },
+    {
+      "name": "Plemiona Doliny Omo",
+      "text": "Spotkanie z różnorodnymi plemionami o unikalnych tradycjach i obyczajach, żyjącymi w harmonii z naturą.",
+      "gygQuery": "Omo Valley tribes"
+    },
+    {
+      "name": "Muzeum Narodowe Etiopii (Addis Abeba)",
+      "text": "Miejsce, gdzie można zobaczyć słynną Lucy, szkielet hominida, oraz poznać bogatą historię kraju.",
+      "gygQuery": "National Museum of Ethiopia"
+    }
+  ],
+  "cuisine": [
+    "Etiopska kuchnia to prawdziwa uczta dla zmysłów, oparta na injerze, czyli dużej, kwaśnej placce z teffu, która służy jako pieczywo i sztućce. Do injery podaje się różnorodne woty - gęste gulasze mięsne lub warzywne, takie jak doro wot (kurczak) czy shiro wot (z ciecierzycy). Ważnym elementem kultury jest ceremonia parzenia kawy, będąca społecznym rytuałem. Warto spróbować też lokalnego miodowego wina tej oraz piwa tela. Kuchnia etiopską jest często pikantna i aromatyczna, pełna przypraw takich jak berbere."
+  ],
+  "faq": [
+    {
+      "q": "Czy Etiopia jest bezpieczna dla turystów?",
+      "a": "Etiopia jest krajem o podwyższonym ryzyku, dlatego należy zachować szczególną ostrożność i śledzić komunikaty MSZ. Zaleca się podróżowanie z doświadczonymi lokalnymi przewodnikami i unikanie niektórych regionów."
+    },
+    {
+      "q": "Jaka waluta obowiązuje w Etiopii i czy można płacić kartą?",
+      "a": "Obowiązującą walutą jest birr etiopski (ETB). Płatności kartą są rzadkością poza większymi hotelami w stolicy; wszędzie indziej dominuje gotówka. Warto mieć przy sobie mniejsze nominały."
+    },
+    {
+      "q": "Czy potrzebuję wizy do Etiopii?",
+      "a": "Tak, obywatele Polski potrzebują wizy do Etiopii. Można ją uzyskać online (e-Visa) przed wyjazdem lub w ambasadzie. Paszport musi być ważny co najmniej 6 miesięcy."
+    },
+    {
+      "q": "Kiedy najlepiej jechać do Etiopii?",
+      "a": "Najlepszy czas na podróż to pora sucha, od października do lutego-marca. Wtedy pogoda jest najbardziej sprzyjająca do zwiedzania i trekkingu, a temperatury są umiarkowane."
+    },
+    {
+      "q": "Co warto zobaczyć w Etiopii?",
+      "a": "Koniecznie zobacz skalne kościoły Lalibeli, wulkan Erta Ale w Kotlinie Danakilskiej, Park Narodowy Gór Semien oraz historyczne miejsca takie jak Aksum i Gonder."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

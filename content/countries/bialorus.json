@@ -1,0 +1,185 @@
+{
+  "slug": "bialorus",
+  "loc": "na Białorusi",
+  "to": "na Białoruś",
+  "capital": "Mińsk",
+  "popularity": 5,
+  "touroperator": false,
+  "gygQuery": "Belarus",
+  "teaser": "Białoruś to kraj o unikalnym charakterze, oferujący podróż w czasie do epoki postradzieckiej. To propozycja dla poszukiwaczy nietuzinkowych doświadczeń.",
+  "intro": [
+    "Białoruś, położona we wschodniej Europie, często pozostaje poza głównym nurtem turystycznym, co czyni ją intrygującą destynacją dla tych, którzy szukają autentycznych i niekomercyjnych wrażeń. Kraj ten, z jego rozległymi lasami, jeziorami i dobrze zachowaną architekturą z czasów Związku Radzieckiego, oferuje unikalną perspektywę na historię i kulturę regionu. To miejsce, gdzie nowoczesność przeplata się z tradycją, a spokój prowincji kontrastuje z miejskim życiem Mińska.",
+    "Podróż na Białoruś to propozycja dla świadomych turystów, którzy cenią sobie głębsze poznawanie odwiedzanych miejsc i potrafią odnaleźć piękno w mniej oczywistych zakątkach. Kraj ten zadowoli miłośników historii, zwłaszcza tej związanej z okresem radzieckim oraz II wojną światową, a także tych, którzy szukają kontaktu z dziką przyrodą. To także gratka dla osób zainteresowanych architekturą, od średniowiecznych zamków po monumentalne budowle socrealistyczne.",
+    "Z perspektywy turysty z Polski, podróż na Białoruś wymaga odpowiedniego przygotowania ze względu na obecną sytuację geopolityczną. Bezpośrednie połączenia lotnicze są zawieszone, co oznacza konieczność podróży drogą lądową lub z przesiadkami. Należy bezwzględnie śledzić aktualne komunikaty Ministerstwa Spraw Zagranicznych RP dotyczące warunków wjazdu i bezpieczeństwa, gdyż sytuacja może zmieniać się dynamicznie."
+  ],
+  "highlights": [
+    "Monumentalna architektura Mińska",
+    "Historyczne zamki w Mirze i Nieświeżu",
+    "Park Narodowy Puszcza Białowieska",
+    "Pamięć o II wojnie światowej w Brześciu",
+    "Miasta Grodno i Witebsk z ich historią",
+    "Sielska atmosfera białoruskiej wsi"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Białoruś to miesiące letnie, od czerwca do sierpnia, kiedy temperatury są najwyższe, a dni długie, sprzyjające zwiedzaniu i aktywnościom na świeżym powietrzu. Wiosna i wczesna jesień, czyli maj i wrzesień, również oferują przyjemne warunki, z mniejszymi tłumami i łagodniejszymi temperaturami. Zimą kraj pokrywa śnieg, co może być atrakcyjne dla miłośników zimowych krajobrazów, ale utrudnia podróżowanie.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      -2,
+      -1,
+      4,
+      12,
+      19,
+      22,
+      24,
+      23,
+      17,
+      10,
+      3,
+      -1
+    ],
+    "sea": null,
+    "note": "dla Mińska"
+  },
+  "practical": {
+    "flight": "brak regularnych połączeń lotniczych z Polski, podróż drogą lądową lub z przesiadkami",
+    "timeDiff": "+1 godzina",
+    "documents": "Obywatele Polski potrzebują wizy, aby wjechać na Białoruś. Konieczne jest sprawdzenie aktualnych wymogów wizowych i warunków wjazdu w Ambasadzie Białorusi lub na stronach MSZ RP przed planowaną podróżą, ponieważ przepisy mogą ulec zmianie.",
+    "money": "Walutą jest rubel białoruski (BYN). Płatności kartą są powszechne w większych miastach, ale warto mieć przy sobie gotówkę, zwłaszcza poza głównymi ośrodkami. Kantory są dostępne.",
+    "plugs": "Typ C i F, takie same jak w Polsce.",
+    "language": "Oficjalne języki to białoruski i rosyjski. Rosyjski jest znacznie bardziej powszechny w codziennej komunikacji. Znajomość podstaw rosyjskiego będzie bardzo pomocna.",
+    "safety": "Bezpieczeństwo na Białorusi jest kwestią, którą należy traktować z dużą ostrożnością. Ze względu na niestabilną sytuację polityczną w regionie oraz wewnętrzną politykę kraju, Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże na Białoruś. W przypadku konieczności podróży, zaleca się zachowanie najwyższej ostrożności, unikanie zgromadzeń publicznych i śledzenie lokalnych wiadomości. Opieka medyczna może być na niższym poziomie niż w Polsce."
+  },
+  "regions": [
+    {
+      "slug": "minsk",
+      "name": "Mińsk",
+      "loc": "w Mińsku",
+      "type": "miasto",
+      "gygQuery": "Minsk",
+      "airport": "MSQ",
+      "forWhom": "Dla miłośników historii radzieckiej i monumentalnej architektury, szukających miejskiego życia.",
+      "intro": [
+        "Mińsk, stolica Białorusi, to miasto, które zostało niemal całkowicie odbudowane po II wojnie światowej, co zaowocowało unikalnym stylem architektonicznym. Szerokie aleje, monumentalne place i budynki w stylu socrealistycznym dominują w krajobrazie, tworząc wrażenie podróży w czasie. Mimo tej surowości, Mińsk oferuje nowoczesne restauracje, kawiarnie i życie nocne, które zaskakuje wielu odwiedzających.",
+        "Warto poświęcić czas na spacer po ulicach, by odkryć ukryte zakątki, parki i muzea. Miasto jest czyste i dobrze utrzymane, a transport publiczny działa sprawnie. To doskonała baza wypadowa do dalszych eksploracji kraju, oferująca jednocześnie wiele atrakcji dla tych, którzy chcą poznać współczesną Białoruś i jej radziecką przeszłość."
+      ],
+      "highlights": [
+        "Plac Niepodległości i Czerwony Kościół",
+        "Wyspa Łez i Katedra Świętego Ducha",
+        "Narodowa Biblioteka Białorusi",
+        "Ulica Zybitskaya z klubami i barami"
+      ]
+    },
+    {
+      "slug": "grodno",
+      "name": "Grodno",
+      "loc": "w Grodnie",
+      "type": "miasto",
+      "gygQuery": "Grodno",
+      "airport": "GNA",
+      "forWhom": "Dla ceniących historyczne miasta z bogatą polską i litewską przeszłością.",
+      "intro": [
+        "Grodno, położone nad Niemnem, to jedno z najpiękniejszych miast Białorusi, z dobrze zachowaną starówką i licznymi zabytkami świadczącymi o jego wielokulturowej historii. To miasto, które przez wieki było ważnym ośrodkiem Rzeczypospolitej Obojga Narodów, co widać w architekturze, łączącej wpływy polskie, litewskie i białoruskie. Spacerując po jego ulicach, można poczuć dawny klimat i odkryć wiele urokliwych zakątków.",
+        "Grodno wyróżnia się na tle innych białoruskich miast swoją europejską atmosferą i bogactwem zabytków sakralnych, takich jak Katedra Św. Franciszka Ksawerego czy Cerkiew Świętych Borysa i Gleba. Miasto jest również znane z Nowego i Starego Zamku, które są kluczowymi punktami na mapie historycznych atrakcji. Jest to idealne miejsce dla tych, którzy szukają historycznego kontekstu i malowniczych widoków."
+      ],
+      "highlights": [
+        "Stary Zamek i Nowy Zamek",
+        "Katedra Św. Franciszka Ksawerego",
+        "Cerkiew Świętych Borysa i Gleba",
+        "Ulica Sowiecka i jej kamienice"
+      ]
+    },
+    {
+      "slug": "brzesc",
+      "name": "Brześć",
+      "loc": "w Brześciu",
+      "type": "miasto",
+      "gygQuery": "Brest Belarus",
+      "airport": "BQT",
+      "forWhom": "Dla zainteresowanych historią II wojny światowej i pamiątkami po Związku Radzieckim.",
+      "intro": [
+        "Brześć, miasto położone przy granicy z Polską, jest przede wszystkim znane z Twierdzy Brzeskiej, która stanowi monumentalny pomnik bohaterstwa obrońców podczas II wojny światowej. To miejsce o głębokim znaczeniu historycznym, które przyciąga turystów z całego świata, pragnących oddać hołd i poznać tragiczną historię. Kompleks twierdzy jest rozległy i zawiera wiele muzeów oraz pomników.",
+        "Poza twierdzą, Brześć oferuje również przyjemne centrum miasta z deptakiem, parkami i Muzeum Historii Miasta Brześć. Jest to miasto o strategicznym położeniu, które przez wieki odgrywało ważną rolę na pograniczu kultur. Spacer po jego ulicach pozwala poczuć zarówno radziecką przeszłość, jak i współczesny, spokojny rytm życia."
+      ],
+      "highlights": [
+        "Twierdza Brzeska i Pomnik Odwagi",
+        "Muzeum Obrony Twierdzy Brzeskiej",
+        "Ulica Sowiecka (deptak)",
+        "Park Kultury i Wypoczynku"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Mir Castle Complex",
+      "text": "Wpisany na listę UNESCO, imponujący zamek z XVI wieku, łączący style gotycki, renesansowy i barokowy. Otoczony malowniczymi stawami, oferuje wgląd w historię szlachecką Białorusi.",
+      "gygQuery": "Mir Castle Complex"
+    },
+    {
+      "name": "Niasvizh Castle",
+      "text": "Kolejny zamek UNESCO, rezydencja rodu Radziwiłłów, otoczony pięknymi ogrodami i parkiem. Jest to jeden z najważniejszych zabytków architektury białoruskiej, z bogatymi wnętrzami.",
+      "gygQuery": "Niasvizh Castle"
+    },
+    {
+      "name": "Białowieża Forest (białoruska część)",
+      "text": "Rozległy, pierwotny las, wpisany na listę UNESCO, znany z populacji żubrów. Oferuje dziewiczą przyrodę i możliwość obserwacji dzikich zwierząt.",
+      "gygQuery": "Belovezhskaya Pushcha National Park"
+    },
+    {
+      "name": "Brest Fortress",
+      "text": "Symbol bohaterskiej obrony podczas II wojny światowej, monumentalny kompleks pamięci. Obejmuje muzea, pomniki i ruiny twierdzy, będąc ważnym miejscem historycznym.",
+      "gygQuery": "Brest Fortress"
+    },
+    {
+      "name": "National Library of Belarus",
+      "text": "Futurystyczny budynek w kształcie rombokuboctahedronu, oferujący panoramiczny widok na Mińsk z tarasu widokowego. Jest to symbol nowoczesnego Mińska.",
+      "gygQuery": "National Library of Belarus"
+    },
+    {
+      "name": "Stalin Line Museum",
+      "text": "Muzeum-kompleks historyczno-kulturalny, prezentujący umocnienia z czasów II wojny światowej. Można tu zobaczyć autentyczne bunkry, broń i sprzęt wojskowy.",
+      "gygQuery": "Stalin Line Museum"
+    },
+    {
+      "name": "Khatyn Memorial Complex",
+      "text": "Wzruszający pomnik upamiętniający ofiary masakr w białoruskich wsiach podczas II wojny światowej. Miejsce refleksji i pamięci o tragicznych wydarzeniach.",
+      "gygQuery": "Khatyn Memorial Complex"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia białoruska jest sycąca i opiera się głównie na ziemniakach, mięsie i warzywach. Narodowym daniem są draniki, czyli placki ziemniaczane podawane ze śmietaną lub mięsem. Popularne są również zupy, takie jak barszcz czy solianka, oraz różnego rodzaju potrawy mięsne, często z wieprzowiny. Warto spróbować też machanki, czyli gęstego sosu mięsnego podawanego z plackami, oraz blinów - cienkich naleśników z różnymi farszami. Na deser często podaje się kisiel lub świeże owoce leśne. Białoruś słynie również z tradycyjnych napojów, takich jak kwas chlebowy czy miód pitny."
+  ],
+  "faq": [
+    {
+      "q": "Czy Białoruś jest bezpieczna dla turystów?",
+      "a": "Ministerstwo Spraw Zagranicznych RP odradza wszelkie podróże na Białoruś ze względu na niestabilną sytuację polityczną. W przypadku konieczności podróży, należy zachować najwyższą ostrożność i śledzić komunikaty MSZ."
+    },
+    {
+      "q": "Czy potrzebuję wizy na Białoruś jako Polak?",
+      "a": "Tak, obywatele Polski potrzebują wizy, aby wjechać na Białoruś. Należy sprawdzić aktualne wymogi wizowe w Ambasadzie Białorusi lub na stronach MSZ RP przed planowaną podróżą."
+    },
+    {
+      "q": "Jakie są opcje transportu na Białoruś z Polski?",
+      "a": "Obecnie brak jest regularnych bezpośrednich połączeń lotniczych z Polski. Podróż jest możliwa drogą lądową (autobus, samochód) lub z przesiadkami, co może być skomplikowane i czasochłonne."
+    },
+    {
+      "q": "Czym płacić na Białorusi?",
+      "a": "Oficjalną walutą jest rubel białoruski (BYN). W większych miastach akceptowane są karty płatnicze, ale poza nimi warto mieć ze sobą gotówkę. Kantory wymiany walut są dostępne."
+    },
+    {
+      "q": "Jakie języki są używane na Białorusi?",
+      "a": "Oficjalne języki to białoruski i rosyjski. Rosyjski jest znacznie bardziej powszechny w codziennej komunikacji. Znajomość podstaw rosyjskiego będzie bardzo pomocna."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

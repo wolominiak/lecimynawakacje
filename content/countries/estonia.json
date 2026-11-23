@@ -1,0 +1,219 @@
+{
+  "slug": "estonia",
+  "loc": "w Estonii",
+  "to": "do Estonii",
+  "capital": "Tallin",
+  "popularity": 30,
+  "touroperator": false,
+  "gygQuery": "Estonia",
+  "teaser": "Estonia to bałtycki klejnot, który łączy średniowieczną historię z nowoczesnością. Idealna na city break i eksplorację natury.",
+  "intro": [
+    "Estonia, najmniejszy z krajów bałtyckich, to fascynujące połączenie bogatej historii, dziewiczej przyrody i cyfrowej innowacyjności. Od brukowanych uliczek Tallina, wpisanego na listę UNESCO, po rozległe lasy, bagna i ponad 2000 wysp, kraj ten oferuje różnorodne doświadczenia. Estończycy są dumni ze swojej kultury, języka i osiągnięć technologicznych, co widać na każdym kroku w miastach.",
+    "Ten kraj najlepiej sprawdzi się dla podróżników szukających czegoś więcej niż typowe kurorty. To destynacja dla osób ceniących aktywny wypoczynek na łonie natury, miłośników historii i architektury, a także dla tych, którzy chcą poznać dynamicznie rozwijające się, nowoczesne społeczeństwo. Estonia jest idealna na kilkudniowy city break lub tygodniową podróż objazdową, łączącą zwiedzanie miast z eksploracją parków narodowych.",
+    "Podróż z Polski do Estonii jest prosta i szybka. Bezpośrednie loty do Tallina z Warszawy trwają zaledwie około 1,5-2 godzin, co czyni ją idealnym celem na weekendowy wypad. Jako kraj członkowski Unii Europejskiej, Estonia nie wymaga wiz od obywateli Polski, a płatności w euro są powszechne. To sprawia, że planowanie podróży jest bezproblemowe i wygodne."
+  ],
+  "highlights": [
+    "Odkryj średniowieczny Tallin",
+    "Piesze wędrówki po bagnach i lasach",
+    "Odwiedź wyspę Saaremaa",
+    "Poznaj nowoczesną kulturę e-Estonii",
+    "Spróbuj lokalnej kuchni",
+    "Podziwiaj latarnie morskie Bałtyku"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż do Estonii to miesiące letnie, od czerwca do sierpnia, kiedy dni są długie, a temperatury przyjemne do zwiedzania i aktywności na świeżym powietrzu. Wiosna (maj) i wczesna jesień (wrzesień) również są dobrym wyborem, oferując mniej turystów i piękne krajobrazy, choć pogoda bywa bardziej zmienna. Zimą Estonia zamienia się w bajkową krainę, idealną dla miłośników śniegu i świątecznej atmosfery, szczególnie w Tallinie.",
+    "best": [
+      6,
+      7,
+      8
+    ],
+    "ok": [
+      5,
+      9,
+      12
+    ]
+  },
+  "climate": {
+    "air": [
+      -2,
+      -2,
+      2,
+      8,
+      15,
+      19,
+      22,
+      21,
+      16,
+      10,
+      4,
+      0
+    ],
+    "sea": [
+      1,
+      0,
+      0,
+      2,
+      7,
+      13,
+      17,
+      18,
+      14,
+      9,
+      5,
+      2
+    ],
+    "note": "dla Tallina"
+  },
+  "practical": {
+    "flight": "około 1,5-2 h",
+    "timeDiff": "+1 h",
+    "documents": "Dowód osobisty lub paszport. Zawsze warto sprawdzić aktualne wymogi przed wyjazdem na stronach MSZ.",
+    "money": "Euro (EUR). Płatności kartą są bardzo powszechne, gotówka rzadko potrzebna.",
+    "plugs": "Typ F (polskie wtyczki pasują)",
+    "language": "Estoński. Angielski jest powszechnie używany, zwłaszcza w turystyce i wśród młodszych osób.",
+    "safety": "Estonia jest krajem bezpiecznym. Należy zachować standardowe środki ostrożności, zwłaszcza w zatłoczonych miejscach turystycznych. Opieka zdrowotna na dobrym poziomie."
+  },
+  "regions": [
+    {
+      "slug": "tallinn",
+      "name": "Tallin",
+      "loc": "w Tallinie",
+      "type": "miasto",
+      "gygQuery": "Tallinn",
+      "airport": "TLL",
+      "forWhom": "Idealny dla miłośników historii, architektury i nowoczesnych technologii.",
+      "intro": [
+        "Stolica Estonii to prawdziwa perła Bałtyku, która zachwyca doskonale zachowaną średniowieczną starówką, wpisaną na listę UNESCO. Spacerując brukowanymi uliczkami, można poczuć atmosferę dawnych wieków, podziwiając gotyckie kościoły, baszty obronne i urokliwe kamienice. Warto wspiąć się na Wzgórze Toompea, skąd rozpościera się malownicza panorama miasta i Zatoki Fińskiej.",
+        "Poza historycznym centrum, Tallin to także dynamiczne miasto XXI wieku, będące centrum estońskiej innowacyjności. Nowoczesne dzielnice, takie jak Rotermanni czy Telliskivi Creative City, oferują galerie sztuki, modne kawiarnie, restauracje i butiki. To miejsce, gdzie historia spotyka się z awangardą, tworząc unikalną mieszankę, która przyciąga zarówno turystów, jak i cyfrowych nomadów."
+      ],
+      "highlights": [
+        "Stare Miasto (UNESCO)",
+        "Wzgórze Toompea i Zamek",
+        "Dzielnica Telliskivi Creative City",
+        "Pałac i Park Kadriorg"
+      ]
+    },
+    {
+      "slug": "saaremaa",
+      "name": "Saaremaa",
+      "loc": "na Saaremie",
+      "type": "wyspa",
+      "gygQuery": "Saaremaa",
+      "airport": "URE",
+      "forWhom": "Dla szukających spokoju, natury i autentycznych estońskich krajobrazów.",
+      "intro": [
+        "Saaremaa to największa estońska wyspa, słynąca z dziewiczej przyrody, wiatraków, pól golfowych i unikalnych formacji geologicznych. To idealne miejsce na ucieczkę od zgiełku miasta, oferujące liczne szlaki piesze i rowerowe, piękne plaże oraz malownicze wybrzeża. Wyspa zachowała swój tradycyjny charakter, z kamiennymi murami i drewnianymi domami, co dodaje jej niezwykłego uroku.",
+        "Głównym miastem wyspy jest Kuressaare, gdzie dominuje imponujący średniowieczny zamek biskupów, jeden z najlepiej zachowanych w krajach bałtyckich. Saaremaa to także raj dla miłośników spa i wellness, oferujący wiele ośrodków z zabiegami na bazie lokalnych surowców. Nie można zapomnieć o kraterze meteorytowym Kaali, który jest jednym z najbardziej niezwykłych miejsc na wyspie."
+      ],
+      "highlights": [
+        "Zamek Biskupów w Kuressaare",
+        "Krater meteorytowy Kaali",
+        "Wiatraki w Angla",
+        "Dziewicza przyroda i plaże"
+      ]
+    },
+    {
+      "slug": "tartu",
+      "name": "Tartu",
+      "loc": "w Tartu",
+      "type": "miasto",
+      "gygQuery": "Tartu",
+      "airport": "TLL",
+      "forWhom": "Dla miłośników kultury, nauki i tętniącej życiem studenckiej atmosfery.",
+      "intro": [
+        "Tartu to drugie co do wielkości miasto Estonii, często nazywane jej intelektualną i kulturalną stolicą. To dom dla prestiżowego Uniwersytetu w Tartu, najstarszej uczelni w kraju, co nadaje miastu młodzieńczego i dynamicznego charakteru. Rynek Ratuszowy z klasycystycznym ratuszem i Krzywym Domem to serce miasta, otoczone kawiarniami i restauracjami, gdzie studenci i turyści spędzają czas.",
+        "Poza akademickim duchem, Tartu oferuje wiele atrakcji kulturalnych, takich jak Estońskie Muzeum Narodowe, prezentujące bogatą historię i kulturę kraju, czy Muzeum Nauki AHHAA, idealne dla rodzin. Miasto jest znane z festiwali, wydarzeń artystycznych i tętniącego życia nocnego. Spacer wzdłuż rzeki Emajõgi czy po urokliwych parkach to doskonały sposób na relaks."
+      ],
+      "highlights": [
+        "Uniwersytet w Tartu",
+        "Rynek Ratuszowy",
+        "Estońskie Muzeum Narodowe",
+        "Muzeum Nauki AHHAA"
+      ]
+    },
+    {
+      "slug": "lahemaa-national-park",
+      "name": "Park Narodowy Lahemaa",
+      "loc": "w Parku Narodowym Lahemaa",
+      "type": "park narodowy",
+      "gygQuery": "Lahemaa National Park",
+      "airport": "TLL",
+      "forWhom": "Dla entuzjastów przyrody, pieszych wędrówek i poszukiwaczy spokoju.",
+      "intro": [
+        "Park Narodowy Lahemaa, położony zaledwie godzinę jazdy od Tallina, to jeden z najstarszych i największych parków narodowych w Estonii. Jest to idealne miejsce, aby zanurzyć się w bałtyckiej przyrodzie, podziwiając malownicze wybrzeże, rozległe lasy, torfowiska i bagna. Park oferuje liczne szlaki turystyczne i platformy widokowe, które pozwalają na obserwację dzikiej fauny i flory.",
+        "Oprócz naturalnych krajobrazów, Lahemaa zachwyca także zabytkowymi wioskami rybackimi, takimi jak Käsmu czy Altja, oraz majestatycznymi dworami i pałacami, np. w Palmse i Sagadi. To doskonała okazja, aby poznać tradycyjną estońską wieś i jej dziedzictwo kulturowe. Park to idealne miejsce na jednodniową wycieczkę lub dłuższy pobyt dla tych, którzy pragną uciec od zgiełku miasta."
+      ],
+      "highlights": [
+        "Piesze szlaki po torfowiskach",
+        "Zabytkowe dwory (Palmse, Sagadi)",
+        "Wioski rybackie na wybrzeżu",
+        "Malownicze wybrzeże Bałtyku"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Stare Miasto w Tallinie",
+      "text": "Wpisane na listę UNESCO, zachwyca średniowiecznymi murami, wieżami i brukowanymi uliczkami, przenosząc w czasie do epoki Hanzy.",
+      "gygQuery": "Tallinn Old Town"
+    },
+    {
+      "name": "Pałac i Park Kadriorg",
+      "text": "Barokowy pałac zbudowany dla carycy Katarzyny I, otoczony pięknymi ogrodami, mieści obecnie oddział Muzeum Sztuki Estońskiej.",
+      "gygQuery": "Kadriorg Palace"
+    },
+    {
+      "name": "Muzeum Sztuki Kumu",
+      "text": "Główny oddział Estońskiego Muzeum Sztuki, prezentujący sztukę estońską od XVIII wieku po współczesność w nowoczesnym budynku.",
+      "gygQuery": "Kumu Art Museum"
+    },
+    {
+      "name": "Park Narodowy Lahemaa",
+      "text": "Jeden z największych parków narodowych, oferujący dziewicze wybrzeże, lasy, torfowiska i historyczne dwory.",
+      "gygQuery": "Lahemaa National Park"
+    },
+    {
+      "name": "Wyspa Saaremaa",
+      "text": "Największa estońska wyspa, słynąca z zamku w Kuressaare, krateru meteorytowego Kaali i tradycyjnych wiatraków.",
+      "gygQuery": "Saaremaa Island"
+    },
+    {
+      "name": "Uniwersytet w Tartu",
+      "text": "Najstarsza uczelnia w Estonii, symbol miasta, z imponującym gmachem głównym i bogatą historią.",
+      "gygQuery": "University of Tartu"
+    },
+    {
+      "name": "Estońskie Muzeum Narodowe (ERM)",
+      "text": "Nowoczesne muzeum w Tartu, które w interaktywny sposób prezentuje estońską kulturę, historię i tradycje.",
+      "gygQuery": "Estonian National Museum"
+    },
+    {
+      "name": "Plaże Parnu",
+      "text": "Popularny kurort letni na południowym wybrzeżu, znany z szerokich, piaszczystych plaż i uzdrowiskowej atmosfery.",
+      "gygQuery": "Parnu Beach"
+    }
+  ],
+  "cuisine": [
+    "Estońska kuchnia jest prosta, sycąca i opiera się na lokalnych produktach, z silnymi wpływami skandynawskimi, niemieckimi i rosyjskimi. Podstawą wielu dań są ziemniaki, kapusta, wieprzowina i ryby, zwłaszcza śledź. Koniecznie spróbuj czarnego chleba (leib), który jest dumą narodową i podawany do każdego posiłku. Warto poszukać tradycyjnych potraw, takich jak mulgipuder (kasza z ziemniakami i boczkiem) czy verivorst (kaszanka). W miastach znajdziesz też wiele nowoczesnych restauracji, które reinterpretują estońskie smaki. Nie zapomnij o piwie, które jest bardzo popularne, oraz o Vana Tallinn, słodkim likierze ziołowym."
+  ],
+  "faq": [
+    {
+      "q": "Co warto zobaczyć w Estonii?",
+      "a": "W Estonii koniecznie odwiedź średniowieczną starówkę Tallina, Park Narodowy Lahemaa, wyspę Saaremaa z zamkiem w Kuressaare oraz uniwersyteckie miasto Tartu. Warto też odkryć estońskie torfowiska i wybrzeże Bałtyku."
+    },
+    {
+      "q": "Czy w Estonii jest drogo?",
+      "a": "Estonia jest krajem Unii Europejskiej, a ceny są porównywalne do tych w Polsce, choć w Tallinie mogą być nieco wyższe, szczególnie w centrum. Poza stolicą koszty życia i usług są zazwyczaj przystępne."
+    },
+    {
+      "q": "Jak dojechać do Estonii z Polski?",
+      "a": "Najwygodniejszym sposobem jest lot samolotem. Z Warszawy do Tallina latają bezpośrednie samoloty, a podróż trwa około 1,5-2 godzin. Możliwa jest również podróż samochodem, ale jest to długa trasa."
+    },
+    {
+      "q": "Jaki język jest w Estonii?",
+      "a": "Oficjalnym językiem jest estoński. Jest to język z grupy fińsko-ugryjskiej, więc znacznie różni się od polskiego. W miejscach turystycznych i wśród młodszych osób bez problemu porozumiesz się po angielsku."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

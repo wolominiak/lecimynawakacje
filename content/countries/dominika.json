@@ -1,0 +1,207 @@
+{
+  "slug": "dominika",
+  "loc": "na Dominice",
+  "to": "na Dominikę",
+  "capital": "Roseau",
+  "popularity": 12,
+  "touroperator": false,
+  "gygQuery": "Dominica",
+  "teaser": "Dominika to zielona perła Karaibów, idealna dla miłośników dzikiej natury, wulkanów i wodospadów. Tu poczujesz prawdziwy, nieskażony klimat.",
+  "intro": [
+    "Dominika, nazywana często \"Wyspą Natury Karaibów\", to kierunek dla tych, którzy szukają prawdziwej, nieskażonej przyrody. Zamiast rozległych, białych plaż znajdziesz tu gęste lasy deszczowe, aktywne wulkany, gorące źródła i setki wodospadów. To miejsce, gdzie natura gra pierwsze skrzypce, oferując krajobrazy, które zapierają dech w piersiach swoją dzikością i zielenią. Wyspa słynie z unikalnego Boiling Lake, drugiego co do wielkości wrzącego jeziora na świecie, oraz bogatego życia podwodnego.",
+    "To idealna propozycja dla aktywnych podróżników, miłośników trekkingu, nurkowania i ekoturystyki. Dominika przyciąga tych, którzy pragną uciec od masowej turystyki i doświadczyć autentycznego karaibskiego życia. Nie znajdziesz tu luksusowych kurortów all-inclusive ani tłumów turystów, ale za to poznasz prawdziwe oblicze Karaibów, z ich gościnnymi mieszkańcami i spokojnym rytmem życia. To destynacja dla poszukiwaczy przygód i spokoju jednocześnie.",
+    "Podróż na Dominikę z Polski wymaga planowania i jest dość długa, zazwyczaj z dwoma lub trzema przesiadkami, najczęściej w europejskich hubach, a następnie w USA lub na innej wyspie Karaibów, np. Gwadelupie czy Martynice. Nie ma bezpośrednich lotów, a polskie biura podróży rzadko oferują zorganizowane wyjazdy. Wymaga to samodzielnej organizacji transportu i zakwaterowania, co jednak pozwala na większą elastyczność i poznanie wyspy we własnym tempie."
+  ],
+  "highlights": [
+    "Dzika, wulkaniczna natura i gęste lasy deszczowe.",
+    "Boiling Lake, gorące źródła i liczne wodospady.",
+    "Raj dla miłośników trekkingu i aktywnego wypoczynku.",
+    "Bogaty świat podwodny, nurkowanie i snorkeling.",
+    "Autentyczna kultura Karaibów, z dala od masowej turystyki.",
+    "Możliwość obserwacji kaszalotów w ich naturalnym środowisku."
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na wizytę na Dominice to pora sucha, która trwa od grudnia do maja. W tych miesiącach panują najbardziej sprzyjające warunki pogodowe, z mniejszą ilością opadów, przyjemnymi temperaturami i niższą wilgotnością. Od czerwca do listopada trwa pora deszczowa i sezon huraganów, z największym ryzykiem we wrześniu i październiku. Podróżowanie w tym okresie może wiązać się z utrudnieniami pogodowymi.",
+    "best": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      12
+    ],
+    "ok": [
+      6,
+      7,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      29,
+      29,
+      30,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      29
+    ],
+    "sea": [
+      27,
+      27,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      29,
+      29,
+      28,
+      28
+    ],
+    "note": "Dane dla Roseau, stolicy kraju."
+  },
+  "practical": {
+    "flight": "Około 12-15 godzin z przesiadkami (zazwyczaj 2-3), w zależności od połączeń.",
+    "timeDiff": "Zimą -5 godzin, latem -6 godzin względem czasu polskiego.",
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Zawsze zalecamy sprawdzenie aktualnych wymogów na stronie MSZ przed podróżą.",
+    "money": "Walutą jest dolar wschodniokaraibski (XCD), powiązany z dolarem amerykańskim. Można płacić również USD, karty kredytowe akceptowane są w większych hotelach i restauracjach. Warto mieć gotówkę na mniejsze zakupy i lokalne targi.",
+    "plugs": "Typ D i G. Napięcie 230V, częstotliwość 50Hz. Potrzebny będzie adapter.",
+    "language": "Angielski jest językiem urzędowym. Miejscowa ludność posługuje się także kreolskim patois opartym na francuskim.",
+    "safety": "Dominika jest generalnie bezpiecznym krajem, ale zdarzają się drobne kradzieże, zwłaszcza w miejscach turystycznych. Należy uważać na silne prądy morskie i zmienne warunki pogodowe. Występuje ryzyko chorób przenoszonych przez komary, dlatego zaleca się stosowanie repelentów. Pamiętaj o wykupieniu kompleksowego ubezpieczenia podróżnego."
+  },
+  "regions": [
+    {
+      "slug": "roseau",
+      "name": "Roseau i okolice",
+      "loc": "w Roseau i okolicach",
+      "type": "miasto i region",
+      "gygQuery": "Roseau Dominica",
+      "airport": "DOM",
+      "forWhom": "Dla tych, którzy chcą poznać stolicę, historię i mieć łatwy dostęp do południowych atrakcji wyspy.",
+      "intro": [
+        "Roseau, stolica Dominiki, to urocze miasto z kolonialną architekturą, tętniącym życiem targiem i malowniczym ogrodem botanicznym. Jest to doskonała baza wypadowa do zwiedzania południowej części wyspy i jej licznych cudów natury. Spacerując po ulicach Roseau, można poczuć prawdziwy karaibski klimat, obserwując codzienne życie mieszkańców i próbując lokalnych smaków.",
+        "Okolice Roseau oferują łatwy dostęp do wielu popularnych atrakcji, takich jak wodospady Trafalgar Falls, Titou Gorge czy gorące źródła. Bliskość Parku Narodowego Morne Trois Pitons sprawia, że Roseau jest idealnym miejscem dla tych, którzy chcą połączyć zwiedzanie miasta z aktywnym odkrywaniem przyrody. Znajdziesz tu również wiele restauracji i miejsc noclegowych."
+      ],
+      "highlights": [
+        "Targ w Roseau",
+        "Ogród Botaniczny",
+        "Trafalgar Falls",
+        "Titou Gorge"
+      ]
+    },
+    {
+      "slug": "morne-trois-pitons-national-park",
+      "name": "Park Narodowy Morne Trois Pitons",
+      "loc": "w Parku Narodowym Morne Trois Pitons",
+      "type": "park narodowy",
+      "gygQuery": "Morne Trois Pitons National Park",
+      "airport": "DOM",
+      "forWhom": "Obowiązkowy punkt dla miłośników trekkingu, wulkanicznych krajobrazów i dzikiej przyrody.",
+      "intro": [
+        "Wpisany na listę UNESCO Park Narodowy Morne Trois Pitons to serce dzikiej Dominiki, dom dla unikalnych wulkanicznych krajobrazów i gęstych lasów deszczowych. To tutaj znajduje się słynne Boiling Lake, drugie co do wielkości wrzące jezioro na świecie, którego osiągnięcie wymaga wymagającego, całodniowego trekkingu. Park oferuje niezliczone szlaki prowadzące przez bujną roślinność, obok gorących źródeł i gejzerów.",
+        "Oprócz Boiling Lake, park kryje w sobie takie perły jak Szmaragdowy Basen (Emerald Pool), wodospady Middleham Falls czy Wodospady Trafalgar. To idealne miejsce na aktywny wypoczynek, kąpiele w naturalnych basenach i obserwację egzotycznej flory i fauny. Przygotuj się na niezapomniane widoki i bliski kontakt z pierwotną naturą Karaibów."
+      ],
+      "highlights": [
+        "Boiling Lake",
+        "Emerald Pool",
+        "Valley of Desolation",
+        "Middleham Falls"
+      ]
+    },
+    {
+      "slug": "polnoc-wyspy-i-rezerwat-kalinago",
+      "name": "Północ wyspy i Rezerwat Kalinago",
+      "loc": "na północy wyspy",
+      "type": "region",
+      "gygQuery": "Kalinago Territory Dominica",
+      "airport": "DOM",
+      "forWhom": "Dla szukających autentycznych doświadczeń, kultury rdzennych mieszkańców i mniej uczęszczanych szlaków.",
+      "intro": [
+        "Północna część Dominiki to obszar mniej rozwinięty turystycznie, oferujący bardziej autentyczne doświadczenia i spokojniejsze plaże. Znajduje się tu Rezerwat Kalinago (dawniej Carib Territory), jedyne miejsce na Karaibach, gdzie rdzenna ludność Kalinago (Karaibowie) zachowała swoją kulturę i tradycje. Można tu odwiedzić wioski, poznać ich rękodzieło i spróbować lokalnej kuchni.",
+        "Region ten charakteryzuje się surowym wybrzeżem, ukrytymi zatoczkami i bujną roślinnością. To świetne miejsce na ucieczkę od zgiełku, relaks na mniej zatłoczonych plażach i odkrywanie lokalnych wiosek. Warto wybrać się na szlak prowadzący do wodospadu Spanny Falls lub po prostu podziwiać malownicze krajobrazy z dala od głównych szlaków turystycznych."
+      ],
+      "highlights": [
+        "Rezerwat Kalinago",
+        "Carib Cultural Village",
+        "Plaże Północy",
+        "Wodospad Spanny Falls"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Boiling Lake",
+      "text": "Drugie co do wielkości wrzące jezioro na świecie, osiągalne po wymagającym, całodniowym trekkingu przez wulkaniczny krajobraz.",
+      "gygQuery": "Boiling Lake Dominica"
+    },
+    {
+      "name": "Trafalgar Falls",
+      "text": "Dwa majestatyczne wodospady, Mother i Father, do których prowadzi łatwy szlak. Można tu zażyć kąpieli w naturalnych basenach.",
+      "gygQuery": "Trafalgar Falls Dominica"
+    },
+    {
+      "name": "Emerald Pool",
+      "text": "Urokliwy, szmaragdowy basen z wodospadem, do którego prowadzi krótki i łatwy spacer przez las deszczowy.",
+      "gygQuery": "Emerald Pool Dominica"
+    },
+    {
+      "name": "Titou Gorge",
+      "text": "Niezwykłe doświadczenie pływania w wąskim, skalnym wąwozie, do którego wpływa woda z gorących źródeł.",
+      "gygQuery": "Titou Gorge Dominica"
+    },
+    {
+      "name": "Champagne Reef",
+      "text": "Wyjątkowe miejsce do snorkelingu i nurkowania, gdzie bąbelki gazu wulkanicznego unoszą się z dna morskiego, tworząc efekt szampana.",
+      "gygQuery": "Champagne Reef Dominica"
+    },
+    {
+      "name": "Rezerwat Kalinago",
+      "text": "Jedyny rezerwat na Karaibach zamieszkały przez rdzennych Karaibów (Kalinago), gdzie można poznać ich kulturę i tradycje.",
+      "gygQuery": "Kalinago Territory Dominica"
+    },
+    {
+      "name": "Obserwacja kaszalotów",
+      "text": "Dominika to jedno z najlepszych miejsc na świecie do obserwacji kaszalotów, które zamieszkują okoliczne wody przez cały rok.",
+      "gygQuery": "Whale Watching Dominica"
+    },
+    {
+      "name": "Valley of Desolation",
+      "text": "Wulkaniczny krajobraz pełen gorących źródeł, gejzerów i strumieni siarki, będący częścią szlaku do Boiling Lake.",
+      "gygQuery": "Valley of Desolation Dominica"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia Dominiki to prawdziwa uczta dla podniebienia, bazująca na świeżych owocach morza, lokalnych warzywach i egzotycznych przyprawach. Popularne dania to zupy, takie jak kalalou (zupa z liści taro), oraz różnorodne potrawy z ryb i owoców morza, często podawane z tzw. \"provisions\" - gotowanymi bulwami jak jam, dasheen czy plantany. Warto spróbować lokalnych soków ze świeżych owoców, a także rumu, który jest nieodłącznym elementem karaibskiej kultury. Dominika oferuje smaki autentyczne, dalekie od międzynarodowych fast foodów."
+  ],
+  "faq": [
+    {
+      "q": "Czy Dominika to dobre miejsce na wakacje z dziećmi?",
+      "a": "Dominika to raczej destynacja dla aktywnych dorosłych i starszych dzieci. Wiele atrakcji wymaga trekkingu i dobrej kondycji fizycznej. Brakuje tu typowych kurortów z animacjami dla najmłodszych, ale starsze dzieci mogą docenić bliski kontakt z naturą."
+    },
+    {
+      "q": "Czy Dominika jest bezpieczna dla turystów?",
+      "a": "Dominika jest generalnie bezpieczna, ale jak wszędzie, należy zachować podstawowe środki ostrożności, zwłaszcza w nocy i w mniej uczęszczanych miejscach. Warto uważać na drobne kradzieże. Dużym zagrożeniem są też huragany w sezonie deszczowym, dlatego zawsze sprawdzaj prognozy pogody."
+    },
+    {
+      "q": "Jak najlepiej poruszać się po Dominice?",
+      "a": "Po Dominice najlepiej poruszać się taksówkami, które są łatwo dostępne, lub wynająć samochód terenowy, co daje największą swobodę. Drogi są często kręte i strome. Dostępne są również lokalne minibusy, które są tanie, ale kursują po ustalonych trasach i rozkładach."
+    },
+    {
+      "q": "Kiedy najlepiej wybrać się na Dominikę?",
+      "a": "Najlepszym okresem na wizytę jest pora sucha, trwająca od grudnia do maja. Pogoda jest wtedy najbardziej stabilna, z mniejszą ilością opadów i przyjemniejszymi temperaturami, co sprzyja trekkingowi i aktywnościom na świeżym powietrzu."
+    },
+    {
+      "q": "Czy potrzebuję adaptera do gniazdka na Dominice?",
+      "a": "Tak, na Dominice używa się gniazdek typu D i G, które różnią się od polskich. Napięcie wynosi 230V, a częstotliwość 50Hz. Konieczne będzie zabranie ze sobą odpowiedniego adaptera."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

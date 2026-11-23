@@ -1,0 +1,202 @@
+{
+  "slug": "bahamy",
+  "loc": "na Bahamach",
+  "to": "na Bahamy",
+  "capital": "Nassau",
+  "popularity": 15,
+  "touroperator": false,
+  "gygQuery": "Bahamas",
+  "teaser": "Archipelag tysięcy wysp i wysepek na Atlantyku kusi lazurową wodą, piaszczystymi plażami i relaksem w karaibskim stylu.",
+  "intro": [
+    "Bahamy to destynacja dla tych, którzy szukają klasycznego karaibskiego wypoczynku. Krystalicznie czysta woda, malownicze plaże i słońce przez cały rok to główne atuty. Archipelag oferuje zarówno luksusowe kurorty z pełną obsługą, jak i bardziej kameralne, spokojne zakątki na mniejszych wyspach. To idealne miejsce na snorkeling, nurkowanie, żeglowanie i po prostu leniuchowanie pod palmami.",
+    "Kraj ten jest przeznaczony dla podróżników ceniących komfort i wysoką jakość usług, często w połączeniu z aktywnościami wodnymi. Znajdą tu coś dla siebie zarówno pary szukające romantycznego wyjazdu, jak i rodziny z dziećmi, które skorzystają z bogatej oferty resortów. Miłośnicy przyrody będą zachwyceni podwodnym światem i dzikimi zakątkami, a poszukiwacze wrażeń znajdą kasyna i tętniące życiem nocne kluby.",
+    "Podróż z Polski na Bahamy to zazwyczaj długa wyprawa z minimum jedną, a często dwiema przesiadkami, najczęściej w dużych miastach Europy (np. Londyn, Frankfurt) lub USA (np. Miami, Nowy Jork). Obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni, jednak należy pamiętać o ewentualnych wymogach wizowych przy przesiadkach w USA, jeśli taka trasa zostanie wybrana. Loty są dostępne przez cały rok, ale ceny mogą się różnić w zależności od sezonu."
+  ],
+  "highlights": [
+    "Krystalicznie czysta, lazurowa woda",
+    "Pływające świnki na Exuma",
+    "Różowe plaże na Harbour Island",
+    "Nurkowanie i snorkeling na rafach",
+    "Luksusowe resorty i kasyna",
+    "Żeglowanie po archipelagu"
+  ],
+  "bestTime": {
+    "text": "Najlepszy czas na podróż na Bahamy to okres od grudnia do maja. W tym czasie panuje pora sucha, temperatury są przyjemne, a ryzyko huraganów minimalne. Od czerwca do listopada trwa pora deszczowa, z większą wilgotnością i możliwością wystąpienia tropikalnych sztormów, w tym huraganów, zwłaszcza od sierpnia do października. Poza sezonem jest jednak taniej i mniej tłoczno.",
+    "best": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ok": [
+      6,
+      7,
+      11
+    ]
+  },
+  "climate": {
+    "air": [
+      25,
+      25,
+      27,
+      28,
+      30,
+      31,
+      32,
+      32,
+      31,
+      29,
+      27,
+      26
+    ],
+    "sea": [
+      24,
+      24,
+      24,
+      26,
+      27,
+      28,
+      29,
+      29,
+      29,
+      28,
+      27,
+      25
+    ],
+    "note": "dla Nassau"
+  },
+  "practical": {
+    "flight": "około 12-15 h z przesiadkami",
+    "timeDiff": "minus 6 lub 7 godzin względem Polski (w zależności od pory roku w Polsce)",
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu. Wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze sprawdź aktualne wymogi przed podróżą.",
+    "money": "Walutą jest dolar bahamski (BSD), który jest sztywno powiązany z dolarem amerykańskim (USD) w stosunku 1:1. Dolar amerykański jest powszechnie akceptowany. Płatności kartą są szeroko dostępne w większych ośrodkach.",
+    "plugs": "Typ A i B (amerykańskie), napięcie 120 V, częstotliwość 60 Hz. Konieczny adapter.",
+    "language": "angielski",
+    "safety": "W regionach turystycznych jest zazwyczaj bezpiecznie, ale zaleca się ostrożność, szczególnie w nocy poza głównymi ośrodkami Nassau i Freeport. Unikaj noszenia drogiej biżuterii i dużych sum gotówki. Opieka zdrowotna jest na dobrym poziomie, ale droga, dlatego ubezpieczenie turystyczne jest niezbędne."
+  },
+  "regions": [
+    {
+      "slug": "new-providence",
+      "name": "New Providence",
+      "loc": "na New Providence",
+      "type": "wyspa",
+      "gygQuery": "Nassau",
+      "airport": "NAS",
+      "forWhom": "Dla szukających tętniącego życia, luksusowych resortów i łatwego dostępu do rozrywki.",
+      "intro": [
+        "New Providence to serce Bahamów, gdzie znajduje się stolica Nassau. To tu skupia się większość życia turystycznego, z dużymi hotelami, kasynami i bogatą ofertą gastronomiczną. Wyspa jest świetnie skomunikowana i oferuje szeroki wachlarz atrakcji, od historycznych zabytków po nowoczesne centra handlowe.",
+        "W Nassau warto przespacerować się po Bay Street, odwiedzić Straw Market, gdzie można kupić lokalne rękodzieło, oraz Fort Fincastle z pięknym widokiem na miasto. Na Paradise Island, połączonej mostem z New Providence, znajduje się słynny kompleks Atlantis z aquaparkiem, akwarium i kasynem, idealny dla rodzin i miłośników rozrywki."
+      ],
+      "highlights": [
+        "Stolica Nassau i Bay Street",
+        "Kompleks Atlantis na Paradise Island",
+        "Straw Market z lokalnym rękodziełem",
+        "Fort Fincastle i Queens Staircase"
+      ]
+    },
+    {
+      "slug": "exumas",
+      "name": "Exumas",
+      "loc": "na Exumas",
+      "type": "archipelag",
+      "gygQuery": "Exuma",
+      "airport": "GGT",
+      "forWhom": "Dla miłośników natury, żeglarstwa i unikalnych spotkań ze zwierzętami.",
+      "intro": [
+        "Exumas to archipelag ponad 365 wysp i wysepek, słynący z niesamowicie turkusowej wody i dziewiczych plaż. To tu znajdziesz słynne pływające świnki na Pig Beach, a także liczne rafy koralowe idealne do nurkowania i snorkelingu. Większość wysp jest niezamieszkana, co gwarantuje spokój i kontakt z naturą.",
+        "Główne wyspy to Great Exuma, Little Exuma i Exuma Cays. Rejsy łodzią po Cays to najlepszy sposób na odkrywanie ukrytych zatoczek i spotkanie z rekinami pielęgniarkami czy iguanami. To kwintesencja karaibskiego raju, często wybierana przez celebrytów ze względu na prywatność i piękno krajobrazów."
+      ],
+      "highlights": [
+        "Pływające świnki na Pig Beach",
+        "Krystalicznie czyste wody",
+        "Nurkowanie z rekinami pielęgniarkami",
+        "Archipelag niezamieszkanych wysp"
+      ]
+    },
+    {
+      "slug": "grand-bahama",
+      "name": "Grand Bahama",
+      "loc": "na Grand Bahama",
+      "type": "wyspa",
+      "gygQuery": "Grand Bahama",
+      "airport": "FPO",
+      "forWhom": "Dla tych, którzy szukają połączenia relaksu na plaży z aktywnościami i ekoturystyką.",
+      "intro": [
+        "Grand Bahama to druga co do wielkości wyspa Bahamów, oferująca zróżnicowane doświadczenia. Znajdziesz tu zarówno tętniące życiem Freeport z hotelami i kasynami, jak i spokojniejsze, naturalne obszary. Wyspa słynie z pięknych plaż, ale także z parków narodowych i jaskiń, co czyni ją atrakcyjną dla różnych typów podróżników.",
+        "Warto odwiedzić Lucayan National Park z jego podwodnymi jaskiniami i piękną Gold Rock Beach. Freeport oferuje sklepy wolnocłowe, restauracje i port, z którego kursują promy. Grand Bahama to również popularne miejsce do nurkowania, z licznymi wrakami i rafami koralowymi."
+      ],
+      "highlights": [
+        "Freeport i Port Lucaya Marketplace",
+        "Lucayan National Park i jaskinie",
+        "Gold Rock Beach",
+        "Nurkowanie wrakowe"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Pływające świnki na Big Major Cay",
+      "text": "Jedna z najbardziej rozpoznawalnych atrakcji Bahamów. Na tej niezamieszkanej wyspie Exumas żyje kolonia dzikich świń, które chętnie pływają w lazurowej wodzie w oczekiwaniu na smakołyki od turystów.",
+      "gygQuery": "Swimming Pigs Exuma"
+    },
+    {
+      "name": "Pink Sands Beach, Harbour Island",
+      "text": "Niesamowita plaża o delikatnie różowym piasku, położona na urokliwej Harbour Island. To idealne miejsce na długie spacery i relaks w otoczeniu niezwykłych krajobrazów.",
+      "gygQuery": "Pink Sands Beach Harbour Island"
+    },
+    {
+      "name": "Atlantis Paradise Island",
+      "text": "Ogromny kompleks resortowy z aquaparkiem Aquaventure, kasynem, lagunami z rekinami i delfinami oraz luksusowymi hotelami. Idealny dla rodzin i miłośników rozrywki.",
+      "gygQuery": "Atlantis Paradise Island"
+    },
+    {
+      "name": "Dean's Blue Hole, Long Island",
+      "text": "Najgłębsza znana morska jaskinia na świecie, położona niedaleko Clarence Town. To mekka dla nurków swobodnych i podwodnych eksploratorów, otoczona piękną zatoką.",
+      "gygQuery": "Dean's Blue Hole"
+    },
+    {
+      "name": "Lucayan National Park, Grand Bahama",
+      "text": "Park narodowy chroniący jeden z najdłuższych na świecie systemów podwodnych jaskiń oraz piękną plażę Gold Rock Beach. Oferuje szlaki spacerowe i edukacyjne.",
+      "gygQuery": "Lucayan National Park"
+    },
+    {
+      "name": "Straw Market, Nassau",
+      "text": "Tętniący życiem targ w centrum Nassau, gdzie można kupić lokalne rękodzieło, biżuterię, pamiątki i inne wyroby z plecionki. Idealne miejsce na zakup unikalnych pamiątek.",
+      "gygQuery": "Nassau Straw Market"
+    },
+    {
+      "name": "Thunderball Grotto, Exumas",
+      "text": "Podwodna jaskinia, która pojawiła się w filmach o Jamesie Bondzie. To popularne miejsce do snorkelingu i nurkowania, z fascynującymi formacjami skalnymi i bogatym życiem morskim.",
+      "gygQuery": "Thunderball Grotto"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia bahamska to przede wszystkim świeże owoce morza. Króluje tu conch, czyli mięso dużego ślimaka morskiego, podawane na wiele sposobów: w sałatkach (conch salad), smażone (cracked conch), w zupach (conch chowder) czy jako fritters. Popularne są także świeże ryby, homary i krewetki. Do tradycyjnych dań często serwuje się groch z ryżem (peas 'n' rice), smażone plantany i sałatki. Warto spróbować też lokalnych wypieków, takich jak guawa duff, oraz orzeźwiających napojów z lokalnych owoców."
+  ],
+  "faq": [
+    {
+      "q": "Czy na Bahamach jest bezpiecznie?",
+      "a": "W regionach turystycznych, takich jak Nassau czy Freeport, jest zazwyczaj bezpiecznie. Zaleca się jednak zachowanie ostrożności, szczególnie po zmroku i poza głównymi atrakcjami. Unikaj noszenia wartościowych przedmiotów w widocznym miejscu."
+    },
+    {
+      "q": "Jaka waluta obowiązuje na Bahamach i czy można płacić USD?",
+      "a": "Oficjalną walutą jest dolar bahamski (BSD), który ma stały kurs z dolarem amerykańskim (USD) 1:1. Dolar amerykański jest powszechnie akceptowany na Bahamach, więc nie ma potrzeby wymieniać go na BSD."
+    },
+    {
+      "q": "Kiedy najlepiej lecieć na Bahamy?",
+      "a": "Najlepszy czas na podróż to okres od grudnia do maja, kiedy panuje pora sucha, a temperatury są przyjemne. Pora deszczowa trwa od czerwca do listopada, z większą wilgotnością i ryzykiem huraganów, szczególnie między sierpniem a październikiem."
+    },
+    {
+      "q": "Czy na Bahamy potrzebna jest wiza dla Polaków?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne na Bahamach trwające do 90 dni. Wymagany jest ważny paszport (ważny co najmniej 6 miesięcy od daty planowanego wyjazdu)."
+    },
+    {
+      "q": "Czy na Bahamach są komary lub inne uciążliwe owady?",
+      "a": "Tak, szczególnie w porze deszczowej i wieczorami, mogą występować komary i inne owady. Zaleca się zabranie ze sobą repelentu na komary, zwłaszcza jeśli planujesz spędzać czas na zewnątrz poza terenem resortu."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}

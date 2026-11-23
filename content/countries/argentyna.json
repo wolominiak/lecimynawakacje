@@ -1,0 +1,226 @@
+{
+  "slug": "argentyna",
+  "loc": "w Argentynie",
+  "to": "do Argentyny",
+  "capital": "Buenos Aires",
+  "popularity": 40,
+  "touroperator": false,
+  "gygQuery": "Argentina",
+  "teaser": "Od tanga w Buenos Aires, przez lodowce Patagonii, po wodospady Iguazu - Argentyna to kraj kontrastów. Idealna dla poszukiwaczy przygód i miłośników kultury.",
+  "intro": [
+    "Argentyna to kraj o niezwykłej różnorodności, który potrafi zaskoczyć każdego podróżnika. Od tętniącej życiem stolicy Buenos Aires, przez majestatyczne Andy, po rozległe pampy, tropikalne lasy wokół wodospadów Iguazu i surową piękność Patagonii - każdy znajdzie tu coś dla siebie. To ojczyzna tanga, wyśmienitej wołowiny, znakomitego wina Malbec i fascynującej kultury gaucho, która wciąż żyje w sercach Argentyńczyków.",
+    "Kraj ten jest idealny dla aktywnych podróżników, miłośników natury, kultury i dobrej kuchni. Sprawdzą się tu zarówno poszukiwacze przygód, planujący trekking po górach Patagonii, jak i osoby ceniące sobie miejski zgiełk i nocne życie Buenos Aires. Argentyna nie jest typowym kierunkiem na wczasy all-inclusive, ale raczej miejscem na samodzielne odkrywanie, które wymaga nieco więcej planowania i otwartości na lokalne doświadczenia. Nie jest to kraj dla osób szukających tanich, masowych wyjazdów plażowych.",
+    "Podróż z Polski do Argentyny to daleka wyprawa, zazwyczaj wymagająca co najmniej jednej przesiadki i zajmująca kilkanaście godzin. Zazwyczaj organizuje się ją na własną rękę, rezerwując loty, noclegi i transport wewnętrzny. Ze względu na ogromny obszar kraju, warto zaplanować podróż na co najmniej dwa tygodnie, a najlepiej trzy, aby móc zobaczyć najważniejsze regiony bez pośpiechu. Po kraju najlepiej poruszać się samolotami lub komfortowymi autobusami dalekobieżnymi."
+  ],
+  "highlights": [
+    "Tango w Buenos Aires",
+    "Wodospady Iguazu",
+    "Lodowiec Perito Moreno",
+    "Kultura gaucho i steki",
+    "Malownicze Andy Północy",
+    "Trekking w Patagonii"
+  ],
+  "bestTime": {
+    "text": "Argentyna jest krajem o ogromnej rozciągłości południkowej, co oznacza zróżnicowany klimat. Dla Patagonii i Ziemi Ognistej najlepsze są miesiące letnie (grudzień-luty), kiedy temperatury są łagodniejsze, a szlaki dostępne. Północ kraju, w tym wodospady Iguazu, jest przyjemna przez większość roku, choć latem (grudzień-luty) bywa upalnie i wilgotno. Buenos Aires i centralne regiony najlepiej odwiedzać wiosną (wrzesień-listopad) lub jesienią (marzec-maj), kiedy pogoda jest komfortowa, a miasto tętni życiem. Jeśli planujesz zróżnicowaną podróż, łączącą południe z północą, wiosna lub jesień to dobry kompromis.",
+    "best": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "ok": [
+      4,
+      5,
+      9
+    ]
+  },
+  "climate": {
+    "air": [
+      30,
+      28,
+      26,
+      22,
+      18,
+      15,
+      14,
+      17,
+      19,
+      23,
+      26,
+      29
+    ],
+    "sea": [
+      19,
+      20,
+      19,
+      16,
+      13,
+      10,
+      9,
+      9,
+      10,
+      12,
+      14,
+      17
+    ],
+    "note": "dla Buenos Aires (powietrze) i Mar del Plata (morze)"
+  },
+  "practical": {
+    "flight": "około 16-20 h z przesiadką",
+    "timeDiff": "4-5 godzin wstecz względem czasu polskiego",
+    "documents": "Paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu, wiza nie jest wymagana dla obywateli Polski na pobyty turystyczne do 90 dni. Zawsze sprawdź aktualne wymogi przed wyjazdem w MSZ.",
+    "money": "Peso argentyńskie (ARS). Ze względu na wysoką inflację, kurs wymiany USD na pesos na tzw. \"dólar blue\" jest często znacznie korzystniejszy niż oficjalny. Warto mieć przy sobie gotówkę (USD). Karty płatnicze są akceptowane w większych miastach, ale w mniejszych miejscowościach gotówka jest niezbędna. Bankomaty często mają niskie limity wypłat i wysokie prowizje.",
+    "plugs": "Typ C i I. Warto mieć uniwersalny adapter. Napięcie 220V.",
+    "language": "Hiszpański (urzędowy), w niektórych regionach Guarani. Angielski w turystycznych miejscach jest zazwyczaj rozumiany.",
+    "safety": "Ogólnie bezpiecznie w rejonach turystycznych, ale w dużych miastach (zwłaszcza Buenos Aires) należy uważać na kradzieże kieszonkowe i oszustwa. Zaleca się unikanie samotnych spacerów po zmroku w mniej uczęszczanych miejscach. Woda z kranu nie zawsze jest zdatna do picia. W północnych rejonach ryzyko chorób przenoszonych przez komary."
+  },
+  "regions": [
+    {
+      "slug": "buenos-aires",
+      "name": "Buenos Aires",
+      "loc": "w Buenos Aires",
+      "type": "miasto",
+      "gygQuery": "Buenos Aires",
+      "airport": "EZE",
+      "forWhom": "Dla miłośników kultury, tanga, architektury i miejskiego zgiełku.",
+      "intro": [
+        "Buenos Aires, stolica Argentyny, to miasto, które nigdy nie śpi. Jego europejska architektura, szerokie aleje i liczne kawiarnie sprawiają, że często nazywane jest \"Paryżem Ameryki Południowej\". To serce argentyńskiej kultury, gdzie na każdym kroku czuć pasję do tanga, piłki nożnej i dobrego jedzenia. Spaceruj po eleganckiej dzielnicy Recoleta, podziwiaj kolorowe kamienice La Boca i daj się porwać wieczornym pokazom tanga.",
+        "Miasto oferuje niezliczone muzea, galerie sztuki, teatry i restauracje. Odwiedź historyczną dzielnicę San Telmo z jej cotygodniowym targiem staroci, zobacz słynny Obelisco na Avenida 9 de Julio i zrelaksuj się w zielonych parkach Palermo. Buenos Aires to także doskonała baza wypadowa do jednodniowych wycieczek do pobliskich estancji (rancz) na pampie, aby doświadczyć kultury gaucho."
+      ],
+      "highlights": [
+        "Pokazy tanga w San Telmo",
+        "Kolorowe Caminito w La Boca",
+        "Cmentarz Recoleta",
+        "Obelisco i Avenida 9 de Julio"
+      ]
+    },
+    {
+      "slug": "patagonia",
+      "name": "Patagonia",
+      "loc": "w Patagonii",
+      "type": "region",
+      "gygQuery": "Patagonia",
+      "airport": "FTE, USH",
+      "forWhom": "Dla poszukiwaczy przygód, trekkingowców, miłośników dzikiej przyrody i spektakularnych krajobrazów.",
+      "intro": [
+        "Patagonia to kraina surowego piękna, rozciągająca się na południu Argentyny i Chile. To miejsce, gdzie potężne lodowce spotykają się z błękitnymi jeziorami, a ośnieżone szczyty Andów dominują nad horyzontem. Jej argentyńska część słynie z Parku Narodowego Los Glaciares, z imponującym Lodowcem Perito Moreno, który jest jedną z największych atrakcji kontynentu. Można tu podziwiać pękające bryły lodu i wybrać się na trekking po lodowcu.",
+        "Innym popularnym miejscem jest El Chaltén, \"Narodowa Stolica Trekkingów\", skąd wyrusza się na szlaki prowadzące do podnóża słynnych szczytów Fitz Roy i Cerro Torre. Patagonia to także raj dla miłośników dzikiej fauny - można tu spotkać pingwiny, lamy guanaco, kondory i wiele innych gatunków. Najbardziej wysunięte na południe miasto świata, Ushuaia na Ziemi Ognistej, stanowi bramę do Antarktydy i punkt startowy rejsów po Kanale Beagle."
+      ],
+      "highlights": [
+        "Lodowiec Perito Moreno",
+        "Trekkingi pod Fitz Roy",
+        "Rejsy po Kanale Beagle z Ushuaia",
+        "Pingwiny na Półwyspie Valdés"
+      ]
+    },
+    {
+      "slug": "wodospady-iguazu",
+      "name": "Wodospady Iguazu",
+      "loc": "przy Wodospadach Iguazu",
+      "type": "park narodowy",
+      "gygQuery": "Iguazu Falls",
+      "airport": "IGR",
+      "forWhom": "Dla każdego, kto chce zobaczyć jeden z cudów natury świata i doświadczyć potęgi żywiołu.",
+      "intro": [
+        "Wodospady Iguazu, położone na granicy Argentyny i Brazylii, to jeden z najbardziej spektakularnych cudów natury. Składają się z setek kaskad rozciągających się na długości prawie 3 kilometrów, otoczonych bujną dżunglą. Najbardziej imponująca część to \"Gardziel Diabła\" (Garganta del Diablo), gdzie ogromne masy wody spadają z wysokości ponad 80 metrów, tworząc ogłuszający huk i niezliczone tęcze. Widoki są oszałamiające zarówno ze strony argentyńskiej, jak i brazylijskiej, choć strona argentyńska oferuje więcej szlaków i bliższy kontakt z wodospadami.",
+        "Park Narodowy Iguazu to nie tylko wodospady, ale także bogata flora i fauna. Można tu spotkać egzotyczne ptaki, małpy, motyle i kapibary. Warto poświęcić co najmniej dwa pełne dni na zwiedzanie, aby w pełni doświadczyć majestatu tego miejsca - jeden dzień na stronę argentyńską, drugi na brazylijską (jeśli planujesz przekroczenie granicy). Możliwe są też rejsy łodzią pod same kaskady, co dostarcza niezapomnianych wrażeń i solidnej dawki orzeźwienia."
+      ],
+      "highlights": [
+        "Gardziel Diabła (Garganta del Diablo)",
+        "Rejs łodzią pod wodospady",
+        "Ścieżki widokowe po stronie argentyńskiej",
+        "Bogactwo fauny i flory dżungli"
+      ]
+    },
+    {
+      "slug": "polnocny-zachod",
+      "name": "Północny Zachód (Salta)",
+      "loc": "na Północnym Zachodzie",
+      "type": "region",
+      "gygQuery": "Salta Argentina",
+      "airport": "SLA",
+      "forWhom": "Dla odkrywców andyjskich krajobrazów, rdzennej kultury, kolonialnej architektury i szlaków winnych.",
+      "intro": [
+        "Północny Zachód Argentyny, z miastem Salta jako centrum, to region o zupełnie innym charakterze niż reszta kraju. Charakteryzuje się suchym, andyjskim klimatem, pustynnymi krajobrazami, wielobarwnymi formacjami skalnymi i głęboko zakorzenioną kulturą rdzennych mieszkańców. Salta, znana jako \"La Linda\" (Piękna), zachwyca kolonialną architekturą, urokliwymi placami i żywą atmosferą. Z Salty można wyruszyć na niezapomniane wycieczki samochodowe po malowniczych drogach regionu.",
+        "Najważniejsze atrakcje to wpisana na listę UNESCO Quebrada de Humahuaca, dolina słynąca z kolorowych gór, takich jak Wzgórze Siedmiu Kolorów (Cerro de los Siete Colores) w Purmamarce, oraz miasteczka takie jak Tilcara czy Iruya. Region ten to także ważny obszar winiarski, zwłaszcza w dolinach Calchaquí, gdzie produkuje się doskonałe wina Torrontés. To idealne miejsce na połączenie przygody z degustacją wina i poznawaniem lokalnej historii."
+      ],
+      "highlights": [
+        "Quebrada de Humahuaca (UNESCO)",
+        "Wzgórze Siedmiu Kolorów (Purmamarca)",
+        "Dolina Calchaquí i winiarnie",
+        "Kolonialna architektura Salty"
+      ]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Obelisco de Buenos Aires",
+      "text": "Ikoniczny obelisk w centrum Buenos Aires, symbol miasta i miejsce ważnych wydarzeń kulturalnych i sportowych.",
+      "gygQuery": "Obelisco Buenos Aires"
+    },
+    {
+      "name": "La Boca i Caminito",
+      "text": "Kolorowa, artystyczna dzielnica Buenos Aires, słynąca z tanga, sztuki ulicznej i historycznego stadionu Boca Juniors.",
+      "gygQuery": "La Boca Caminito"
+    },
+    {
+      "name": "Lodowiec Perito Moreno",
+      "text": "Potężny, stale rosnący lodowiec w Patagonii, oferujący spektakularne widoki i odgłosy pękającego lodu.",
+      "gygQuery": "Perito Moreno Glacier"
+    },
+    {
+      "name": "Park Narodowy Iguazu",
+      "text": "Dom dla zapierających dech w piersiach Wodospadów Iguazu, jednego z największych i najbardziej imponujących systemów wodospadów na świecie.",
+      "gygQuery": "Iguazu National Park"
+    },
+    {
+      "name": "El Chaltén i Fitz Roy",
+      "text": "Mekka dla trekkingowców w Patagonii, z zapierającymi dech w piersiach szlakami prowadzącymi do podnóża majestatycznego szczytu Fitz Roy.",
+      "gygQuery": "El Chalten Fitz Roy"
+    },
+    {
+      "name": "Quebrada de Humahuaca",
+      "text": "Dolina wpisana na listę UNESCO, zachwycająca wielobarwnymi formacjami skalnymi i andyjskimi wioskami na Północnym Zachodzie.",
+      "gygQuery": "Quebrada de Humahuaca"
+    },
+    {
+      "name": "Ushuaia i Kanał Beagle",
+      "text": "Najbardziej wysunięte na południe miasto świata, brama do Antarktydy i punkt startowy rejsów po malowniczym Kanale Beagle.",
+      "gygQuery": "Ushuaia Beagle Channel"
+    },
+    {
+      "name": "Region Mendoza",
+      "text": "Słynny na całym świecie region winiarski, idealny do degustacji Malbeca i podziwiania widoków na Andy.",
+      "gygQuery": "Mendoza wine region"
+    }
+  ],
+  "cuisine": [
+    "Kuchnia argentyńska to przede wszystkim raj dla miłośników mięsa. Króluje tu wołowina, przygotowywana na wiele sposobów, z czego najsłynniejsze jest asado, czyli grillowane mięso, często podawane z sosem chimichurri. Koniecznie spróbujcie też empanad, czyli pieczonych pierożków z różnorodnym nadzieniem (mięsnym, serowym, warzywnym), oraz choripánu - grillowanej kiełbaski w bułce. Argentyna słynie również z doskonałego wina, zwłaszcza czerwonego Malbeca, oraz z mate - napoju ziołowego, który jest integralną częścią kultury i codziennego życia. Na deser obowiązkowo dulce de leche, słodki karmel, dodawany do wszystkiego, od tostów po lody."
+  ],
+  "faq": [
+    {
+      "q": "Czy potrzebuję wizy do Argentyny?",
+      "a": "Nie, obywatele Polski nie potrzebują wizy na pobyty turystyczne do 90 dni. Wymagany jest paszport ważny co najmniej 6 miesięcy od daty planowanego wyjazdu."
+    },
+    {
+      "q": "Jakie są najlepsze sposoby podróżowania po Argentynie?",
+      "a": "Ze względu na rozległość kraju, do pokonywania dużych odległości najlepiej sprawdzają się loty wewnętrzne. Na krótszych trasach popularne są komfortowe autobusy dalekobieżne, oferujące różne klasy usług."
+    },
+    {
+      "q": "Czy w Argentynie można płacić kartą?",
+      "a": "W dużych miastach i turystycznych miejscach karty są akceptowane, ale w mniejszych miejscowościach i na targach często preferowana jest gotówka. Zawsze warto mieć przy sobie pesos, a najlepiej także dolary amerykańskie do wymiany na korzystnym kursie."
+    },
+    {
+      "q": "Kiedy jest najlepszy czas na odwiedzenie Argentyny?",
+      "a": "Zależy od regionu, który chcesz odwiedzić. Generalnie, wiosna (październik-listopad) i jesień (marzec-kwiecień) oferują przyjemne temperatury w większości kraju, idealne do łączenia różnych atrakcji od północy po Patagonię."
+    },
+    {
+      "q": "Czy woda z kranu w Argentynie jest bezpieczna do picia?",
+      "a": "W większości dużych miast woda z kranu jest uzdatniana, ale dla pewności i uniknięcia problemów żołądkowych zaleca się picie wody butelkowanej, zwłaszcza poza głównymi ośrodkami."
+    }
+  ],
+  "source": "gemini",
+  "updated": "2026-11-23"
+}
