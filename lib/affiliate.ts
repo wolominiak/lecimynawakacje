@@ -9,16 +9,24 @@ export const SITE = {
 };
 
 export const TRAVELLEAD_AID = '1874';
+export const TRAVELLEAD_CID = '11111111';
 export const GYG_PARTNER_ID = 'JIO7LWL';
 
-/** Link do listy ofert na wakacje.pl, np. path = "grecja/kreta" */
+/** Parametry śledzące TravelLead - dokładnie jak w generatorze linków w panelu partnera */
+const TRAVELLEAD_PARAMS = {
+  utm_source: 'travellead',
+  utm_medium: 'cps',
+  utm_campaign: `${TRAVELLEAD_AID}-lecimynawakacje.pl`,
+  a_aid: TRAVELLEAD_AID,
+  a_cid: TRAVELLEAD_CID,
+};
+
+/** Link do listy ofert na wakacje.pl, np. path = "kreta" -> /wczasy/kreta/ */
 export function wakacjeUrl(path?: string, opts?: { allInclusive?: boolean; lastMinute?: boolean }) {
   let url = 'https://www.wakacje.pl/';
   if (opts?.lastMinute) url += 'lastminute/' + (path ? path.replace(/\/?$/, '/') : '');
   else url += 'wczasy/' + (path ? path.replace(/\/?$/, '/') : '');
-  const params = new URLSearchParams();
-  params.set('a_aid', TRAVELLEAD_AID);
-  let q = params.toString();
+  let q = new URLSearchParams(TRAVELLEAD_PARAMS).toString();
   if (opts?.allInclusive) q = 'all-inclusive&' + q;
   return url + '?' + q;
 }
