@@ -37,14 +37,49 @@ export type SubpageSlug = keyof typeof SUBPAGES;
 
 let cache: Country[] | null = null;
 
+/** Zabezpieczenie przed nietypowymi odpowiedziami Gemini (tekst zamiast listy itp.) */
+const arr = <T,>(v: unknown): T[] | undefined => (v == null ? undefined : Array.isArray(v) ? (v as T[]) : [v as T]);
+const nums = (v: unknown): number[] => (arr<unknown>(v) || []).map(Number).filter((n) => Number.isFinite(n));
+function normalize(d: any): CountryContent | null {
+  if (!d?.slug) return null;
+  d.intro = arr<string>(d.intro) || [];
+  for (const k of ['highlights', 'allInclusive', 'cuisine', 'attractions', 'faq', 'regions']) d[k] = arr(d[k]);
+  d.attractions = d.attractions?.filter((a: any) => a && typeof a === 'object' && a.name);
+  d.faq = d.faq?.filter((f: any) => f && f.q && f.a);
+  d.regions = d.regions?.filter((r: any) => r && r.slug && r.name).map((r: any) => ({
+    ...r,
+    intro: arr<string>(r.intro) || [],
+    highlights: arr(r.highlights),
+    places: arr<any>(r.places)?.filter((p) => p && p.name),
+  })).filter((r: any) => r.intro.length);
+  if (d.bestTime) {
+    d.bestTime.best = nums(d.bestTime.best).filter((m) => m >= 1 && m <= 12);
+    d.bestTime.ok = nums(d.bestTime.ok).filter((m) => m >= 1 && m <= 12);
+    if (!d.bestTime.text) delete d.bestTime;
+  }
+  if (d.climate) {
+    d.climate.air = nums(d.climate.air);
+    d.climate.sea = d.climate.sea ? nums(d.climate.sea) : null;
+    if (d.climate.air.length !== 12) delete d.climate;
+    else if (d.climate.sea && d.climate.sea.length !== 12) d.climate.sea = null;
+  }
+  if (d.practical && typeof d.practical !== 'object') delete d.practical;
+  return d as CountryContent;
+}
+
 function loadContent(): Record<string, CountryContent> {
   const dir = path.join(process.cwd(), 'content', 'countries');
   const out: Record<string, CountryContent> = {};
   if (!fs.existsSync(dir)) return out;
   for (const f of fs.readdirSync(dir)) {
     if (!f.endsWith('.json')) continue;
-    const data = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')) as CountryContent;
-    out[data.slug] = data;
+    try {
+      const data = normalize(JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')));
+      if (data) out[data.slug] = data;
+    } catch (e) {
+      // uszkodzony plik nie może wywalić całego builda
+      console.warn(`Pomijam ${f}: ${(e as Error).message}`);
+    }
   }
   return out;
 }

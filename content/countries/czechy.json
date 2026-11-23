@@ -186,7 +186,9 @@
       "gygQuery": "Lednice Valtice Cultural Landscape"
     }
   ],
-  "cuisine": "Czeska kuchnia jest sycąca i smaczna, często oparta na mięsie, ziemniakach i mącznych dodatkach. Królują tu knedliki, podawane z gulaszem, pieczoną wieprzowiną (vepřo-knedlo-zelo) czy pieczoną kaczką. Popularne są także smažený sýr, czyli smażony ser, oraz utopence - marynowane kiełbaski. Na deser warto spróbować trdelníka, słodkiego ciasta pieczonego na rożnie. Nie można zapomnieć o czeskim piwie, które jest narodowym napojem i dumnie reprezentuje kraj na całym świecie, od Pilsnera po lokalne browary rzemieślnicze.",
+  "cuisine": [
+    "Czeska kuchnia jest sycąca i smaczna, często oparta na mięsie, ziemniakach i mącznych dodatkach. Królują tu knedliki, podawane z gulaszem, pieczoną wieprzowiną (vepřo-knedlo-zelo) czy pieczoną kaczką. Popularne są także smažený sýr, czyli smażony ser, oraz utopence - marynowane kiełbaski. Na deser warto spróbować trdelníka, słodkiego ciasta pieczonego na rożnie. Nie można zapomnieć o czeskim piwie, które jest narodowym napojem i dumnie reprezentuje kraj na całym świecie, od Pilsnera po lokalne browary rzemieślnicze."
+  ],
   "faq": [
     {
       "q": "Co warto zobaczyć w Czechach poza Pragą?",

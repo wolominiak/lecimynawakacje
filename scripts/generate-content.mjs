@@ -78,6 +78,9 @@ const clean = (v) => typeof v === 'string' ? v.replace(/\s*[–—]\s*/g, ' - ')
 function validate(d, c) {
   if (!Array.isArray(d.intro) || d.intro.join(' ').length < 400) throw new Error('za krótkie intro');
   if (!d.loc || !d.to || !d.teaser) throw new Error('brak loc/to/teaser');
+  for (const k of ['intro', 'highlights', 'cuisine', 'attractions', 'faq', 'regions', 'allInclusive']) {
+    if (d[k] != null && !Array.isArray(d[k])) d[k] = [d[k]];
+  }
   if (d.climate && (!Array.isArray(d.climate.air) || d.climate.air.length !== 12)) delete d.climate;
   if (d.climate?.sea && d.climate.sea.length !== 12) d.climate.sea = null;
   if (!d.climate) delete d.bestTime;
