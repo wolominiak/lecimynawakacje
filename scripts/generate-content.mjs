@@ -126,3 +126,4 @@ for (const c of queue) {
   await new Promise((r) => setTimeout(r, 1200));
 }
 console.log(`Gotowe: ${ok}/${queue.length}`);
+if (queue.length && ok === 0) { console.error('Nie udało się wygenerować żadnego kraju - sprawdź błędy powyżej (klucz, model, limit API).'); process.exit(1); }
