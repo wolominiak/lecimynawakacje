@@ -18,20 +18,35 @@ const metaFile = path.join(root, 'data', 'exim-meta.json');
 fs.mkdirSync(outDir, { recursive: true });
 const meta = fs.existsSync(metaFile) ? JSON.parse(fs.readFileSync(metaFile, 'utf8')) : {};
 
-// 1. Czy feed się zmienił?
-const lu = await fetch(`https://api.tradedoubler.com/1.0/productsUnlimited/lastUpdated.json;fid=${FID}?token=${TOKEN}`);
-if (!lu.ok) { console.error('lastUpdated HTTP', lu.status); process.exit(1); }
-const last = (await lu.json()).lastUpdatedTime;
-console.log('Feed zaktualizowany:', last, '| poprzedni import:', meta.feedUpdated || 'brak');
-if (!FORCE && meta.feedUpdated === last) { console.log('Bez zmian, pomijam pobieranie.'); process.exit(0); }
+const mask = (u) => u.replace(/token=[^&;#]+/, 'token=***');
 
-// 2. Pobranie całego feedu
-const res = await fetch(`https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=${FID}?token=${TOKEN}`);
+// 1. Czy feed się zmienił? (jeśli endpoint nie odpowiada, pobieramy mimo to; import i tak idzie raz na dobę)
+let last = null;
+for (const base of ['https://api.tradedoubler.com/1.0/productsUnlimited/lastUpdated.json', 'https://api.tradedoubler.com/1.0/productsUnlimited/lastUpdated']) {
+  const url = `${base};fid=${FID}?token=${TOKEN}`;
+  try {
+    const r = await fetch(url, { headers: { Accept: 'application/json' } });
+    const body = await r.text();
+    if (r.ok) {
+      try { last = JSON.parse(body).lastUpdatedTime || null; } catch { last = (body.match(/\d{4}-\d{2}-\d{2}T[\d:.]+/) || [])[0] || null; }
+      if (last) break;
+    }
+    console.warn('lastUpdated', r.status, mask(url), body.slice(0, 200).replace(TOKEN, '***'));
+  } catch (e) { console.warn('lastUpdated błąd', e.message); }
+}
+console.log('Feed zaktualizowany:', last || 'nieznane', '| poprzedni import:', meta.feedUpdated || 'brak');
+if (!FORCE && last && meta.feedUpdated === last) { console.log('Bez zmian, pomijam pobieranie.'); process.exit(0); }
+
+// 2. Pobranie całego feedu (link z sekretu, jeśli to link Unlimited; inaczej budujemy go z tokenu)
+const feedUrl = /productsUnlimited/.test(FEED_URL) ? FEED_URL : `https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=${FID}?token=${TOKEN}`;
+console.log('Pobieram:', mask(feedUrl));
+const res = await fetch(feedUrl.replace(/^http:/, 'https:'), { headers: { Accept: 'application/json' } });
 if (res.status === 429) { console.error('429: limit pobrań tej wersji feedu wyczerpany, spróbuj jutro.'); process.exit(1); }
-if (!res.ok) { console.error('HTTP', res.status); process.exit(1); }
+if (!res.ok) { console.error('HTTP', res.status, (await res.text()).slice(0, 300).replace(TOKEN, '***')); process.exit(1); }
 const data = await res.json();
 const products = data.products || [];
 console.log('Ofert w feedzie:', products.length);
+if (!products.length) { console.error('Pusty feed - nic nie zapisuję.'); process.exit(1); }
 
 // 3. Dopasowanie krajów do slugów portalu
 const countries = JSON.parse(fs.readFileSync(path.join(root, 'data', 'countries.json'), 'utf8'));
@@ -91,6 +106,6 @@ for (const [slug, list] of Object.entries(byCountry)) {
   index[slug] = future.length;
 }
 fs.writeFileSync(path.join(outDir, 'index.json'), JSON.stringify(index));
-fs.writeFileSync(metaFile, JSON.stringify({ feedUpdated: last, imported: new Date().toISOString(), offers: products.length, countries: index }, null, 1) + '\n');
+fs.writeFileSync(metaFile, JSON.stringify({ feedUpdated: last || new Date().toISOString(), imported: new Date().toISOString(), offers: products.length, countries: index }, null, 1) + '\n');
 console.log('Kraje:', Object.keys(index).length, index);
 if (missing.size) console.log('Niedopasowane kraje:', Object.fromEntries(missing));
