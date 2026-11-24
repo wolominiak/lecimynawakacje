@@ -8,6 +8,7 @@ const API = 'https://widget.wakacje.pl/v2/api/widgets/offers';
 const IMG = 'https://i.wakacje.pl';
 
 type Offer = {
+  transport?: { label: string; value: number };
   id: number; name: string; price: string; priceOld: string; priceDiscount: number; duration: number;
   departureDate: string; returnDate: string; category: number;
   departure: { label: string; urlName: string; value: number };
@@ -84,7 +85,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
       if (cancel) return;
       const seen = new Set<number>();
       const all: Offer[] = [];
-      for (const l of lists) for (const o of l) if (!seen.has(o.id) && daysTo(o.departureDate) >= 0) { seen.add(o.id); all.push(o); }
+      for (const l of lists) for (const o of l) if (!seen.has(o.id) && daysTo(o.departureDate) >= 0 && o.placeName?.[0] !== 'Polska' && (!o.transport || o.transport.value === 1)) { seen.add(o.id); all.push(o); }
       setPool(all);
     });
     return () => { cancel = true; };
