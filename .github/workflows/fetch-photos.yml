@@ -1,12 +1,11 @@
-# Zdjęcia krajów i regionów z Pexels.
-# Wymaga sekretu PEXELS_API_KEY (darmowy klucz: https://www.pexels.com/api/).
-# Pexels pozwala na 200 zapytań na godzinę, więc workflow sam dobiera brakujące zdjęcia co 2 godziny.
-# Ręcznie: Actions -> "Pobierz zdjęcia" -> Run workflow.
+# Zdjęcia krajów i regionów z Pixabay (albo Pexels).
+# Wymaga sekretu PIXABAY_API_KEY (klucz widać na https://pixabay.com/api/docs/ po zalogowaniu).
+# Ręcznie: Actions -> "Pobierz zdjęcia" -> Run workflow. Raz dziennie dociąga brakujące (np. nowe regiony).
 name: Pobierz zdjęcia
 
 on:
   schedule:
-    - cron: '41 */2 * * *'
+    - cron: '41 5 * * *'
   workflow_dispatch:
     inputs:
       scope:
@@ -19,8 +18,8 @@ on:
         description: 'Podmień istniejące zdjęcia (true/false)'
         default: 'false'
       limit:
-        description: 'Ile zdjęć w jednej rundzie (max ok. 190)'
-        default: '180'
+        description: 'Ile zdjęć w jednej rundzie'
+        default: '2000'
 
 permissions:
   contents: write
@@ -32,7 +31,7 @@ concurrency:
 jobs:
   photos:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v5
         with:
@@ -43,22 +42,24 @@ jobs:
           cache: npm
       - name: Sprawdź klucz
         env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
-          if [ -z "$PEXELS_API_KEY" ]; then
-            echo "::warning::Brak sekretu PEXELS_API_KEY. Dodaj go w Settings -> Secrets and variables -> Actions."
+          if [ -z "$PIXABAY_API_KEY$PEXELS_API_KEY" ]; then
+            echo "::warning::Brak sekretu PIXABAY_API_KEY. Dodaj go w Settings -> Secrets and variables -> Actions."
             exit 0
           fi
           echo "HAS_KEY=1" >> $GITHUB_ENV
-      - name: Instaluj sharp
+      - name: Instaluj zależności
         if: env.HAS_KEY == '1'
         run: npm ci --no-audit --no-fund
       - name: Pobierz
         if: env.HAS_KEY == '1'
         env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
-          ARGS="--scope ${{ inputs.scope || 'all' }} --limit ${{ inputs.limit || '180' }}"
+          ARGS="--scope ${{ inputs.scope || 'all' }} --limit ${{ inputs.limit || '2000' }}"
           if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           node scripts/fetch-photos.mjs $ARGS
@@ -69,7 +70,7 @@ jobs:
           git config user.email "228559845+wolominiak@users.noreply.github.com"
           git add public/img data/photos.json
           if git diff --cached --quiet; then echo "Brak nowych zdjęć"; exit 0; fi
-          git commit -m "Nowe zdjęcia (Pexels)"
+          git commit -m "Nowe zdjęcia"
           for i in 1 2 3; do
             git pull --rebase origin main && git push origin HEAD:main && exit 0
             sleep 5

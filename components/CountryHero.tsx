@@ -16,7 +16,7 @@ export default function CountryHero({ c, title, lead, crumbs, imgKey, wakacjePat
   return (
     <section className={'chero' + (img ? ' has-img' : '')}>
       {img && <img className="himg" src={img} alt="" fetchPriority="high" />}
-      {credit && <a className="hcredit" href={credit.url} target="_blank" rel="nofollow noopener">Fot. {credit.by} / Pexels</a>}
+      {credit && <a className="hcredit" href={credit.url} target="_blank" rel="nofollow noopener">Fot. {credit.by} / {credit.src || 'Pexels'}</a>}
       <div className="wrap">
         <div style={{ position: 'relative', zIndex: 2, paddingTop: 22 }}><Crumbs items={crumbs} /></div>
         <div className="chero-in">

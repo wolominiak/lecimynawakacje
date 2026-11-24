@@ -19,6 +19,7 @@ export function imageFor(key: string, size: 'large' | 'small' = 'large'): string
   return null;
 }
 
-export function photoCredit(key: string): { by: string; url: string; alt: string } | null {
-  return (photos as Record<string, { by: string; url: string; alt: string }>)[key] || null;
+type Credit = { by: string; url: string; alt: string; src?: string };
+export function photoCredit(key: string): Credit | null {
+  return (photos as Record<string, Credit>)[key] || null;
 }
