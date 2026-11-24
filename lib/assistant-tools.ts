@@ -123,7 +123,7 @@ export function suggest(args: { miesiac: number }) {
   };
 }
 
-type OfferArgs = { kierunek?: string; od?: string; do?: string; noce_min?: number; noce_max?: number; wyzywienie?: string; lotnisko?: string; budzet_na_osobe?: number; sortuj?: string };
+type OfferArgs = { kierunek?: string; od?: string; do?: string; noce_min?: number; noce_max?: number; wyzywienie?: string; lotnisko?: string; budzet_na_osobe?: number; sortuj?: string; osoby?: number; typ?: string };
 
 const BOARD: Record<string, { tl: number; ex: RegExp }> = {
   'all inclusive': { tl: 1, ex: /all inclusive|\bai\b|ultra/i },
@@ -157,7 +157,9 @@ async function travellead(terms: Record<string, unknown>): Promise<any[]> {
 
 function tlCard(o: any, lm = false): Card {
   return {
-    title: o.name, place: (o.placeName || []).filter(Boolean).slice(0, 2).reverse().join(', '), stars: o.category, img: o.photo ? TL_IMG + o.photo : undefined,
+    title: o.name,
+    place: /objazd/i.test(o.placeName?.[1] || '') ? `Wycieczka objazdowa, ${o.placeName[0]}` : (o.placeName || []).filter(Boolean).slice(1).reverse().concat(o.placeName?.[0] || []).slice(0, 2).join(', '),
+    stars: /objazd/i.test(o.placeName?.[1] || '') ? undefined : o.category, img: o.photo ? TL_IMG + o.photo : undefined,
     from: o.departure?.label, date: o.departureDate, nights: o.duration ? o.duration - 1 : undefined, board: o.service?.label,
     pricePP: num(o.price), url: '/go/oferta/?c=asystent&u=' + encodeURIComponent(o.url), src: 'wakacje.pl', lm,
   };
@@ -175,7 +177,9 @@ const nightsOk = (n: number | undefined, a: OfferArgs) => n == null ? true : (!a
 const fromOk = (f: string | undefined, a: OfferArgs) => !a.lotnisko || norm(f || '').includes(norm(a.lotnisko).slice(0, 5));
 
 function finish(cards: Card[], a: OfferArgs, extra: Record<string, unknown>) {
-  let l = cards.filter((c) => !a.budzet_na_osobe || (c.pricePP || 0) <= a.budzet_na_osobe);
+  const n = a.osoby && a.osoby > 0 ? Math.min(12, Math.round(a.osoby)) : 0;
+  let l = cards.filter((c) => (!a.budzet_na_osobe || (c.pricePP || 0) <= a.budzet_na_osobe) && (!a.typ || (/objazd/i.test(a.typ) ? /objazdowa/.test(c.place) : !/objazdowa/.test(c.place))));
+  if (n) l = l.map((c) => ({ ...c, persons: n, priceTotal: (c.pricePP || 0) * n }));
   l = a.sortuj === 'data' ? l.sort((x, y) => (x.date || '').localeCompare(y.date || '')) : l.sort((x, y) => (x.pricePP || 0) - (y.pricePP || 0));
   // różne hotele, nie 6 terminów tego samego
   const seen = new Set<string>();
@@ -188,7 +192,8 @@ function finish(cards: Card[], a: OfferArgs, extra: Record<string, unknown>) {
         nr: i + 1, hotel: c.title, miejsce: c.place, gwiazdki: c.stars, wylot_z: c.from, data_wylotu: c.date, noce: c.nights,
         wyzywienie: c.board, cena_za_osobe_pln: c.pricePP, cena_razem_pln: c.priceTotal, osob: c.persons, zrodlo: c.src, link: c.url,
       })),
-      uwaga: top.length ? 'Karty z tymi ofertami (zdjęcie, cena, przycisk) użytkownik widzi pod Twoją odpowiedzią. Nie przepisuj wszystkich, polecaj 2 lub 3 i powiedz dlaczego.' : 'Brak ofert dla tych filtrów. Zaproponuj zmianę terminu, budżetu lub kierunku albo podaj link_wyszukiwarka.',
+      rodzaje: { objazdowe: cards.filter((c) => /objazdowa/.test(c.place)).length, wypoczynek: cards.filter((c) => !/objazdowa/.test(c.place)).length },
+      uwaga: top.length ? 'Karty z tymi ofertami (zdjęcie, cena, przycisk) użytkownik widzi pod Twoją odpowiedzią. Nie przepisuj wszystkich, polecaj 2 lub 3 i powiedz dlaczego. Gdy podano osoby, podaj też cenę razem.' : 'Brak ofert dla tych filtrów. Zaproponuj zmianę terminu, budżetu lub kierunku albo podaj link_wyszukiwarka.',
       ...extra,
     },
   };
@@ -315,7 +320,7 @@ export const TOOL_DECLARATIONS = [
   },
   {
     name: 'szukaj_ofert',
-    description: 'Prawdziwe oferty biur podróży (Exim Tours i wakacje.pl) z datą wylotu, liczbą nocy, wyżywieniem, miastem wylotu i ceną. Zawsze używaj, gdy padają ceny, terminy albo prośba o hotel.',
+    description: 'Prawdziwe oferty biur podróży (Exim Tours i wakacje.pl): wypoczynek w hotelach i wycieczki objazdowe, z datą wylotu, liczbą nocy, wyżywieniem, miastem wylotu i ceną za osobę. Używaj zawsze, gdy użytkownik chce gdzieś jechać, nawet bez podanego terminu.',
     parameters: {
       type: 'object',
       properties: {
@@ -328,6 +333,8 @@ export const TOOL_DECLARATIONS = [
         lotnisko: { type: 'string', description: 'Miasto wylotu, np. Katowice, Warszawa' },
         budzet_na_osobe: { type: 'integer', description: 'Maksymalna cena za osobę w PLN' },
         sortuj: { type: 'string', enum: ['cena', 'data'] },
+        osoby: { type: 'integer', description: 'Liczba osób (do ceny razem)' },
+        typ: { type: 'string', enum: ['objazdowa', 'wypoczynek'], description: 'Wycieczka objazdowa (zwiedzanie z przewodnikiem) albo wypoczynek w hotelu. Puste = wszystko' },
       },
       required: ['kierunek'],
     },

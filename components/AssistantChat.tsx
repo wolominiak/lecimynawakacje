@@ -96,6 +96,7 @@ function Cards({ cards }: { cards: Card[] }) {
             <small>{[c.date && dateFmt(c.date), c.nights && `${c.nights} nocy`, c.from && `z ${c.from}`].filter(Boolean).join(' · ')}</small>
             {c.board && <small>{c.board}</small>}
             <div className="as-price"><strong>{pln(c.pricePP)}</strong> <span>/ os.</span></div>
+            {!!c.priceTotal && !!c.persons && <small className="as-total">razem {pln(c.priceTotal)} za {c.persons} {c.persons === 1 ? 'osobę' : c.persons < 5 ? 'osoby' : 'osób'}</small>}
             <span className="as-src">{c.src}</span>
           </div>
         </a>

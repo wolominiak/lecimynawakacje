@@ -558,3 +558,5 @@ p { margin: 0 0 1em; }
 @media (max-width: 720px) {
   .lm-two, .cr-grid { grid-template-columns: 1fr !important; }
 }
+
+.as-total { font-weight: 600; color: var(--ink) !important; }
