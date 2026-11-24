@@ -6,5 +6,32 @@
     "a_aid": "1874",
     "a_cid": "11111111"
   },
-  "gygPartnerId": "JIO7LWL"
+  "gygPartnerId": "JIO7LWL",
+  "travelpayouts": {
+    "marker": "219652",
+    "trs": "173825",
+    "programs": {
+      "discovercars": {
+        "p": "3555",
+        "campaign_id": "117",
+        "hosts": [
+          "discovercars.com"
+        ]
+      },
+      "booking": {
+        "p": "2076",
+        "campaign_id": "84",
+        "hosts": [
+          "booking.com"
+        ]
+      },
+      "aviasales": {
+        "p": "4114",
+        "campaign_id": "100",
+        "hosts": [
+          "aviasales.com"
+        ]
+      }
+    }
+  }
 }

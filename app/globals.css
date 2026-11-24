@@ -560,3 +560,31 @@ p { margin: 0 0 1em; }
 }
 
 .as-total { font-weight: 600; color: var(--ink) !important; }
+
+/* ===== Na własną rękę (Travelpayouts) ===== */
+.ft { margin: 44px 0 10px; }
+.ft > p { color: var(--ink-2); margin: 0 0 16px; }
+.ft-card { display: block; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; color: var(--ink); }
+.ft-fly { background: linear-gradient(135deg, #f2f9fc, #fff); margin-bottom: 14px; }
+.ft-h { display: flex; gap: 14px; align-items: center; margin-bottom: 14px; }
+.ft-h h3, .ft-link h3 { margin: 0; font-size: 1.05rem; }
+.ft-h small, .ft-link small { color: var(--ink-2); font-size: 0.84rem; }
+.ft-i { width: 44px; height: 44px; flex: none; border-radius: 12px; background: var(--soft); display: grid; place-items: center; font-size: 1.3rem; }
+.ft-form { display: grid; grid-template-columns: 1.1fr 1.3fr 1fr 1fr 0.6fr; gap: 10px; align-items: end; }
+.ft-form label { display: flex; flex-direction: column; gap: 5px; font-size: 0.78rem; font-weight: 600; color: var(--ink-2); text-transform: uppercase; letter-spacing: 0.04em; }
+.ft-form select, .ft-form input[type='date'], .ft-form input[readonly] { font: inherit; font-size: 0.95rem; text-transform: none; letter-spacing: 0; color: var(--ink); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: #fff; min-width: 0; }
+.ft-form input[readonly] { background: var(--soft); }
+.ft-form .ft-ow { flex-direction: row; align-items: center; gap: 8px; text-transform: none; letter-spacing: 0; font-weight: 500; font-size: 0.9rem; grid-column: 1 / 4; }
+.ft-form .btn { grid-column: 4 / 6; justify-content: center; }
+.ft-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.ft-link { display: flex; align-items: center; gap: 14px; transition: box-shadow 0.15s, transform 0.15s; }
+.ft-link:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+.ft-link > div { flex: 1; min-width: 0; }
+.ft-go { font-weight: 700; color: var(--ocean); white-space: nowrap; }
+.ft-note { font-size: 0.75rem; color: #8a9aab; margin: 10px 0 0 !important; }
+@media (max-width: 860px) {
+  .ft-form { grid-template-columns: 1fr 1fr; }
+  .ft-form label:nth-child(2) { grid-column: 1 / 3; }
+  .ft-form .ft-ow, .ft-form .btn { grid-column: 1 / 3; }
+  .ft-row { grid-template-columns: 1fr; }
+}

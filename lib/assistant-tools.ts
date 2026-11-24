@@ -4,6 +4,7 @@ import { getCountries, warmIn, wakacjeCountryId, wakacjeRegionId, MONTHS } from 
 import { gygSearchUrl, wakacjeUrl } from './affiliate';
 import { esimFor, esimUrl } from './esim';
 import type { Country, Region } from './types';
+import { selfTravel } from './travelpayouts';
 import { CRUISE_AREAS, CRUISE_COUNTRY_ID, areaOf, lineOf, splitName } from './cruises';
 
 export type Card = {
@@ -86,6 +87,7 @@ export function guide(args: { kierunek: string }) {
     esim: es ? { link: esimUrl(c), cena_od_usd: es.package } : undefined,
     link_oferty_wakacje_pl: ct?.touroperator ? wakacjeUrl(ct.wakacjePath || c.slug) : undefined,
     link_wycieczki_getyourguide: gygSearchUrl(ct?.gygQuery || c.name),
+    na_wlasna_reke: selfTravel(c, r),
   };
   if (r) {
     return {

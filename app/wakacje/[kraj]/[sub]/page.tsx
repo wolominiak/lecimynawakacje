@@ -3,6 +3,7 @@ import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
 import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, wakacjeRegionId, type SubpageSlug } from '@/lib/data';
 import OffersWidget from '@/components/OffersWidget';
+import SelfTravel from '@/components/SelfTravel';
 import OffersBrowser from '@/components/OffersBrowser';
 import EximOffers from '@/components/EximOffers';
 import { eximCount } from '@/lib/exim';
@@ -122,6 +123,7 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
                 <OffersWidget region={wakacjeRegionId(c.slug, r.slug)} country={wakacjeCountryId(c.slug)} count={5} uid={`r${c.slug}-${r.slug}`} />
               </>
             )}
+            <SelfTravel c={c} r={r} />
             <GygWidget q={r.gygQuery || r.name} title={`Wycieczki fakultatywne ${r.loc}`} />
             {ct.bestTime && (
               <>

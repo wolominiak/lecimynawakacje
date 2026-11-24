@@ -10,6 +10,7 @@ import Faq from '@/components/Faq';
 import { GygWidget } from '@/components/Gyg';
 import { gygSearchUrl } from '@/lib/affiliate';
 import { EsimSection } from '@/components/Esim';
+import SelfTravel from '@/components/SelfTravel';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -136,6 +137,8 @@ export default async function CountryPage({ params }: P) {
                     {ct.cuisine.map((p, i) => <p key={i}>{p}</p>)}
                   </>
                 )}
+
+                <SelfTravel c={c} />
 
                 {ct.practical && (
                   <>
