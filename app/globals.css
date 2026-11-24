@@ -447,3 +447,20 @@ p { margin: 0 0 1em; }
   .lm-panel { padding: 16px; }
 }
 .lm-loading { font-size: 0.85rem; color: var(--ink-3); margin-left: 6px; }
+
+/* eSIM */
+.esim-box { background: var(--sand); }
+.esim-box p { color: #5c4a20; }
+.esim-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.esim-head h3 { margin: 0 !important; }
+.esim-ico { width: 40px; height: 40px; border-radius: 12px; background: var(--sun); color: var(--ink); display: grid; place-items: center; flex: none; }
+.esim-price { margin: 4px 0 12px; font-size: 0.95rem; }
+.esim-price b { font-size: 1.4rem; color: var(--ink); }
+.esim-box .btn { width: 100%; }
+.esim-sec { background: var(--sand); border-radius: var(--radius); padding: 22px 24px; margin: 24px 0; }
+.esim-sec h3 { margin-top: 0 !important; }
+.esim-opts { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 14px 0; }
+.prose .esim-opt, .esim-opt { display: flex; flex-direction: column; gap: 6px; background: #fff; border-radius: var(--radius-sm); padding: 16px; text-decoration: none; color: var(--ink); border: 1px solid transparent; transition: border-color 0.15s, box-shadow 0.15s; }
+.esim-opt:hover { border-color: var(--sun); box-shadow: var(--shadow); }
+.esim-opt span { font-size: 0.92rem; color: var(--ink-2); line-height: 1.5; }
+.esim-opt em { font-style: normal; font-weight: 800; color: var(--ocean); }

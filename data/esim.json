@@ -1,0 +1,737 @@
+{
+ "store": "https://esimgo.is/pl/products/",
+ "currency": "USD",
+ "countries": {
+  "ad": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "ae": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "af": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "ag": {
+   "package": 9.99,
+   "unlimited": 4.99
+  },
+  "ai": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "al": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "am": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "ao": {
+   "package": 13.99,
+   "unlimited": 7.99
+  },
+  "ar": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "at": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "au": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ax": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "az": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "ba": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "bb": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "bd": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "be": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "bf": {
+   "package": 8.99,
+   "unlimited": 4.99
+  },
+  "bg": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "bh": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "bj": {
+   "package": 5.99,
+   "unlimited": 4.99
+  },
+  "bl": {
+   "package": 0.99,
+   "unlimited": 1.35
+  },
+  "bm": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "bn": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "bo": {
+   "package": 1.99,
+   "unlimited": 19.15
+  },
+  "br": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "bs": {
+   "package": 11.99,
+   "unlimited": 5.99
+  },
+  "bt": {
+   "package": 2.99,
+   "unlimited": 4.9
+  },
+  "bw": {
+   "package": 7.99,
+   "unlimited": 3.99
+  },
+  "by": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "bz": {
+   "package": 13.99,
+   "unlimited": 6.99
+  },
+  "ca": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "cd": {
+   "package": 4.99,
+   "unlimited": 2.99
+  },
+  "cf": {
+   "package": 10.99
+  },
+  "cg": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "ch": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ci": {
+   "package": 7.99,
+   "unlimited": 7.2
+  },
+  "cl": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "cm": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "cn": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "co": {
+   "package": 0.99,
+   "unlimited": 2.99
+  },
+  "cr": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "cv": {
+   "package": 13.99,
+   "unlimited": 6.99
+  },
+  "cw": {
+   "package": 7.99,
+   "unlimited": 3.99
+  },
+  "cy": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "cz": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "de": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "dk": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "dm": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "do": {
+   "package": 1.99,
+   "unlimited": 4.99
+  },
+  "dz": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ec": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "ee": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "eg": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "es": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "fi": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "fj": {
+   "package": 2.99,
+   "unlimited": 2.99
+  },
+  "fo": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "fr": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ga": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "gb": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "gd": {
+   "package": 9.99,
+   "unlimited": 4.99
+  },
+  "ge": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "gf": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "gg": {
+   "package": 4.99
+  },
+  "gh": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "gi": {
+   "package": 4.99,
+   "unlimited": 2.99
+  },
+  "gl": {
+   "package": 6.99,
+   "unlimited": 8.62
+  },
+  "gm": {
+   "package": 12.99,
+   "unlimited": 5.99
+  },
+  "gn": {
+   "package": 12.99,
+   "unlimited": 5.99
+  },
+  "gp": {
+   "package": 4.99,
+   "unlimited": 1.42
+  },
+  "gr": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "gt": {
+   "package": 1.99,
+   "unlimited": 2.99
+  },
+  "gu": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "gw": {
+   "package": 8.99,
+   "unlimited": 4.99
+  },
+  "gy": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "hk": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "hn": {
+   "package": 1.99,
+   "unlimited": 2.99
+  },
+  "hr": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "ht": {
+   "package": 8.99,
+   "unlimited": 12.25
+  },
+  "hu": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "id": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ie": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "il": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "im": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "in": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "iq": {
+   "package": 3.99,
+   "unlimited": 1.99
+  },
+  "is": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "it": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "je": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "jm": {
+   "package": 1.99
+  },
+  "jo": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "jp": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ke": {
+   "package": 0.99,
+   "unlimited": 2.99
+  },
+  "kg": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "kh": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "kn": {
+   "package": 9.99,
+   "unlimited": 4.99
+  },
+  "kr": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ky": {
+   "package": 8.99,
+   "unlimited": 4.99
+  },
+  "kz": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "la": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "lc": {
+   "package": 9.99,
+   "unlimited": 4.99
+  },
+  "li": {
+   "package": 2.99,
+   "unlimited": 1.42
+  },
+  "lk": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "lr": {
+   "package": 8.99
+  },
+  "lt": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "lu": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "lv": {
+   "package": 1.99,
+   "unlimited": 1.42
+  },
+  "ly": {
+   "package": 13.99,
+   "unlimited": 7.99
+  },
+  "ma": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "mc": {
+   "package": 25.99,
+   "unlimited": 12.99
+  },
+  "md": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "me": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "mf": {
+   "package": 0.99,
+   "unlimited": 1.35
+  },
+  "mg": {
+   "package": 4.99
+  },
+  "mk": {
+   "package": 3.99,
+   "unlimited": 1.99
+  },
+  "ml": {
+   "package": 10.99
+  },
+  "mn": {
+   "package": 4.99,
+   "unlimited": 4.99
+  },
+  "mo": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "mq": {
+   "package": 0.99,
+   "unlimited": 1.35
+  },
+  "ms": {
+   "package": 9.99,
+   "unlimited": 4.99
+  },
+  "mt": {
+   "package": 1.99,
+   "unlimited": 1.42
+  },
+  "mu": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "mv": {
+   "package": 10.99,
+   "unlimited": 7.99
+  },
+  "mw": {
+   "package": 7.99,
+   "unlimited": 3.99
+  },
+  "mx": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "my": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "mz": {
+   "package": 2.99
+  },
+  "ne": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "ng": {
+   "package": 0.99,
+   "unlimited": 2.99
+  },
+  "ni": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "nl": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "no": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "np": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "nz": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "om": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "pa": {
+   "package": 1.99,
+   "unlimited": 3.99
+  },
+  "pe": {
+   "package": 0.99,
+   "unlimited": 2.99
+  },
+  "pf": {
+   "package": 24.99,
+   "unlimited": 12.99
+  },
+  "ph": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "pk": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "pl": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "pr": {
+   "package": 2.99
+  },
+  "pt": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "py": {
+   "package": 0.99,
+   "unlimited": 3.99
+  },
+  "qa": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "re": {
+   "package": 0.99,
+   "unlimited": 2.99
+  },
+  "ro": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "rs": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "ru": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "rw": {
+   "package": 13.99,
+   "unlimited": 7.99
+  },
+  "sa": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "sc": {
+   "package": 7.99,
+   "unlimited": 3.99
+  },
+  "sd": {
+   "package": 9.99
+  },
+  "se": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "sg": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "si": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "sk": {
+   "package": 1.99,
+   "unlimited": 5.99
+  },
+  "sl": {
+   "package": 8.99,
+   "unlimited": 5.99
+  },
+  "sm": {
+   "package": 0.99,
+   "unlimited": 1.42
+  },
+  "sn": {
+   "package": 1.99,
+   "unlimited": 4.99
+  },
+  "sr": {
+   "package": 7.99,
+   "unlimited": 4.99
+  },
+  "sv": {
+   "package": 1.99,
+   "unlimited": 12.49
+  },
+  "sz": {
+   "package": 12.99,
+   "unlimited": 7.99
+  },
+  "tc": {
+   "package": 7.99,
+   "unlimited": 3.99
+  },
+  "td": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "th": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "tj": {
+   "package": 2.99,
+   "unlimited": 1.99
+  },
+  "tn": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "tr": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "tt": {
+   "package": 11.99,
+   "unlimited": 5.99
+  },
+  "tz": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "ua": {
+   "package": 1.99,
+   "unlimited": 0.99
+  },
+  "ug": {
+   "package": 6.99,
+   "unlimited": 3.99
+  },
+  "us": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "uy": {
+   "package": 1.99,
+   "unlimited": 2.99
+  },
+  "uz": {
+   "package": 0.99,
+   "unlimited": 0.99
+  },
+  "va": {
+   "package": 0.99,
+   "unlimited": 1.42
+  },
+  "vc": {
+   "package": 11.99,
+   "unlimited": 5.99
+  },
+  "vg": {
+   "package": 9.99,
+   "unlimited": 4.99
+  },
+  "vn": {
+   "package": 0.99,
+   "unlimited": 1.99
+  },
+  "ws": {
+   "package": 5.99,
+   "unlimited": 2.99
+  },
+  "yt": {
+   "package": 0.99,
+   "unlimited": 1.35
+  },
+  "za": {
+   "package": 1.99,
+   "unlimited": 1.99
+  },
+  "zm": {
+   "package": 5.99,
+   "unlimited": 3.99
+  }
+ }
+}

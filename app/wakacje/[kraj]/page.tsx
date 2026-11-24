@@ -8,6 +8,7 @@ import Climate from '@/components/Climate';
 import Faq from '@/components/Faq';
 import { GygWidget } from '@/components/Gyg';
 import { gygSearchUrl } from '@/lib/affiliate';
+import { EsimSection } from '@/components/Esim';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -140,6 +141,7 @@ export default async function CountryPage({ params }: P) {
                     {ct.practical.documents && <><h3>Dokumenty i wizy</h3><p>{ct.practical.documents}</p></>}
                     {ct.practical.money && <><h3>Pieniądze i ceny</h3><p>{ct.practical.money}</p></>}
                     {ct.practical.plugs && <><h3>Gniazdka</h3><p>{ct.practical.plugs}</p></>}
+                    <EsimSection c={c} loc={ct.loc} />
                     {ct.practical.language && <><h3>Język</h3><p>{ct.practical.language}</p></>}
                     {ct.practical.safety && <><h3>Bezpieczeństwo i zdrowie</h3><p>{ct.practical.safety}</p></>}
                     <p className="notice">Przepisy wjazdowe się zmieniają. Przed wyjazdem sprawdź aktualne informacje MSZ na stronie <a href="https://www.gov.pl/web/dyplomacja/informacje-dla-podrozujacych" target="_blank" rel="noopener">gov.pl/dyplomacja</a>.</p>
