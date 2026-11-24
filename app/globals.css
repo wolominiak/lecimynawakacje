@@ -464,3 +464,9 @@ p { margin: 0 0 1em; }
 .esim-opt:hover { border-color: var(--sun); box-shadow: var(--shadow); }
 .esim-opt span { font-size: 0.92rem; color: var(--ink-2); line-height: 1.5; }
 .esim-opt em { font-style: normal; font-weight: 800; color: var(--ocean); }
+
+/* oferty Exim z terminem */
+.ex { margin: 0 0 40px; }
+.ex-filters input[type=date] { font: inherit; font-size: 0.95rem; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 9px 12px; min-height: 44px; width: 100%; }
+.ex-filters select { font: inherit; font-size: 0.95rem; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; min-height: 44px; width: 100%; }
+.ex-filters label { display: flex; flex-direction: column; gap: 6px; font-size: 0.8rem; font-weight: 700; color: var(--ink-2); flex: 1 1 150px; min-width: 0; }

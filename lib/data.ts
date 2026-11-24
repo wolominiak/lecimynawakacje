@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import base from '@/data/countries.json';
 import wakacjeIds from '@/data/wakacje-ids.json';
+import { eximCount } from './exim';
 import type { Country, CountryBase, CountryContent, ContinentSlug, Region } from './types';
 
 export const CONTINENTS: { slug: ContinentSlug; name: string; loc: string; teaser: string }[] = [
@@ -125,7 +126,7 @@ export function availableSubpages(c: Country): SubpageSlug[] {
   const out: SubpageSlug[] = [];
   const ct = c.content;
   if (!ct) return out;
-  if (wakacjeCountryId(c.slug)) out.push('oferty');
+  if (wakacjeCountryId(c.slug) || eximCount(c.slug)) out.push('oferty');
   if (ct.climate && ct.bestTime) out.push('kiedy-jechac');
   if (ct.allInclusive?.length) out.push('all-inclusive');
   if ((ct.attractions?.length || 0) >= 4) out.push('atrakcje');
