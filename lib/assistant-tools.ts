@@ -38,6 +38,34 @@ function climateLine(c: Country) {
   return MONTHS.map((m, i) => `${m.name.slice(0, 3)} ${cl.air[i]}°C${cl.sea?.[i] != null ? `/morze ${cl.sea[i]}°C` : ''}`).join(', ');
 }
 
+/** Kierunki wspomniane w tekście (odmiana: dopasowanie po rdzeniu nazwy), max 3 */
+export function detectPlaces(text: string): string[] {
+  const t = ' ' + norm(text).replace(/[^a-z0-9 ]/g, ' ') + ' ';
+  const stem = (n: string) => { const x = norm(n); return x.length <= 5 ? x.slice(0, 4) : x.slice(0, Math.max(5, x.length - 2)); };
+  // polska odmiana: Kreta -> na Krecie, Malta -> na Malcie, Teneryfa -> na Teneryfie
+  const MUT: Record<string, string[]> = { t: ['c'], d: ['dz'], r: ['rz'], k: ['c'], g: ['dz'], s: ['si', 'sz'], n: ['ni'], z: ['zi'] };
+  const hit = (n: string) => {
+    const st = stem(n);
+    if (st.length < 4) return false;
+    const vars = [st, ...(MUT[st.slice(-1)] || []).map((m) => st.slice(0, -1) + m)];
+    return vars.some((v) => t.includes(' ' + v));
+  };
+  const out: { name: string; len: number }[] = [];
+  for (const c of getCountries()) {
+    if (hit(c.name)) out.push({ name: c.name, len: c.name.length + 100 });
+    for (const r of c.content?.regions || []) if (hit(r.name)) out.push({ name: r.name, len: r.name.length });
+  }
+  return [...new Set(out.sort((a, b) => b.len - a.len).map((x) => x.name))].slice(0, 3);
+}
+
+/** Wszystkie ścieżki (zaczynające się od "/") w wyniku narzędzia */
+export function collectLinks(v: unknown, out = new Set<string>()): Set<string> {
+  if (typeof v === 'string') { if (v.startsWith('/') && !v.startsWith('//')) out.add(v); }
+  else if (Array.isArray(v)) v.forEach((x) => collectLinks(x, out));
+  else if (v && typeof v === 'object') Object.values(v).forEach((x) => collectLinks(x, out));
+  return out;
+}
+
 // 1. Przewodnik po kraju lub regionie
 export function guide(args: { kierunek: string }) {
   const p = resolvePlace(args.kierunek);

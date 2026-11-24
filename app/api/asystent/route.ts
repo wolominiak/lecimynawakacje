@@ -1,5 +1,5 @@
 import { NextRequest } from 'next/server';
-import { TOOL_DECLARATIONS, runTool, type Card } from '@/lib/assistant-tools';
+import { TOOL_DECLARATIONS, runTool, detectPlaces, collectLinks, guide, type Card } from '@/lib/assistant-tools';
 
 // Asystent podróży: Gemini + narzędzia z danymi portalu. Odpowiedź strumieniowo jako NDJSON:
 // {t:'status',v} {t:'text',v} {t:'cards',v:Card[]} {t:'error',v} {t:'done'}
@@ -30,7 +30,7 @@ const STATUS: Record<string, string> = {
   rejsy: 'Przeszukuję rejsy',
 };
 
-function system(page?: string) {
+function system(page?: string, known?: string) {
   const d = new Date();
   const date = d.toLocaleDateString('pl-PL', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Europe/Warsaw' });
   return `Jesteś asystentem podróży portalu lecimynawakacje.pl. Pomagasz Polakom wybrać kierunek, zaplanować wyjazd dzień po dniu, znaleźć konkretne oferty biur podróży, wycieczki i internet (eSIM).
@@ -39,13 +39,14 @@ Dzisiaj jest ${date} (${d.toISOString().slice(0, 10)}).${page ? `\nUżytkownik p
 Zasady:
 - Piszesz po polsku, naturalnie i konkretnie, jak doświadczony agent podróży. Nigdy nie używasz długich myślników (znaków \u2014 i \u2013), tylko zwykłego "-" albo przecinka.
 - Ceny, terminy, hotele i oferty bierzesz WYŁĄCZNIE z narzędzi. Nigdy nie wymyślaj cen, hoteli ani dostępności. Jeśli narzędzie nic nie zwróciło, powiedz to i zaproponuj zmianę filtrów albo link do wyszukiwarki z narzędzia.
-- Linki podajesz tylko te, które zwróciły narzędzia (zaczynają się od "/"). Format markdown: [tekst](/link/). Nie podawaj adresów zewnętrznych.
+- Linki: NIGDY nie wymyślaj adresów. Wolno Ci użyć wyłącznie ścieżek dosłownie skopiowanych z danych narzędzi lub z sekcji DANE Z PRZEWODNIKA (zaczynają się od "/", np. /wakacje/japonia/tokio/ albo /go/esim/jp_package/). Jedyny wyjątek: wycieczkę do dowolnej atrakcji możesz podlinkować jako /go/atrakcje/<nazwa atrakcji>/ (np. [wycieczki: Fushimi Inari](/go/atrakcje/Fushimi Inari/)). Format markdown: [tekst](/ścieżka/). Żadnych adresów z domeną.
+- Zanim opiszesz kierunek lub ułożysz plan, musisz mieć dane z narzędzia "przewodnik" albo z sekcji DANE Z PRZEWODNIKA. Jeśli ich nie masz, najpierw wywołaj "przewodnik". Linkuj strony regionów i przewodnika, gdy o nich piszesz.
 - Gdy ktoś chce zaplanować wyjazd: najpierw użyj "przewodnik", potem jeśli zna termin lub budżet "szukaj_ofert". Plan rozpisz dzień po dniu (### Dzień 1 itd.), krótko: co zobaczyć, gdzie zjeść lokalnie, jaka wycieczka fakultatywna (z linkiem link_wycieczki). Na końcu dodaj praktyczne rady i link do eSIM, jeśli narzędzie go podało.
 - Gdy brakuje kluczowej informacji (termin, liczba osób, miasto wylotu, budżet), zadaj maksymalnie 2 krótkie pytania naraz. Jeśli pytanie jest ogólne, odpowiedz od razu, a dopytaj na końcu.
 - Daty interpretuj względem dzisiejszej daty. "Majówka" to okolice 1 maja, "ferie" to połowa stycznia do końca lutego, "wakacje" to lipiec i sierpień.
 - Oferty pokazują się użytkownikowi jako karty ze zdjęciem pod Twoją odpowiedzią. W tekście poleć 2-3 najlepsze i krótko uzasadnij (cena, wyżywienie, termin). Cena "za osobę" to cena_za_osobe_pln.
 - Formatowanie: krótkie akapity, listy z "-", nagłówki "###", pogrubienia "**". Bez tabel. Odpowiedzi zwięzłe, plan wyjazdu może być dłuższy.
-- Nie rozmawiasz o tematach niezwiązanych z podróżami, uprzejmie wracasz do planowania wakacji.`;
+- Nie rozmawiasz o tematach niezwiązanych z podróżami, uprzejmie wracasz do planowania wakacji.${known ? `\n\nDANE Z PRZEWODNIKA (kierunki wspomniane w rozmowie):\n${known}` : ''}`;
 }
 
 type Msg = { role: 'user' | 'model'; text: string };
@@ -72,13 +73,23 @@ export async function POST(req: NextRequest) {
 
       const contents: any[] = clean;
       const origin = req.nextUrl.origin;
+
+      // Kierunki z ostatnich wiadomości użytkownika i ze strony: dane przewodnika od razu w kontekście
+      const recent = msgs.filter((m) => m.role === 'user').slice(-3).map((m) => m.text).join(' ');
+      const pageSlug = page?.match(/^\/wakacje\/([a-z0-9-]+)\/(?:([a-z0-9-]+)\/)?/);
+      const names = detectPlaces(recent);
+      const guides: unknown[] = [];
+      for (const n of names) { const g = guide({ kierunek: n }); if (!(g as any).blad) guides.push(g); }
+      if (!guides.length && pageSlug) { const g = guide({ kierunek: pageSlug[2] || pageSlug[1] }); if (!(g as any).blad) guides.push(g); }
+      const known = guides.length ? JSON.stringify(guides) : '';
+      if (guides.length) send({ t: 'links', v: [...collectLinks(guides)] });
       try {
         for (let round = 0; round < 5; round++) {
           const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:streamGenerateContent?alt=sse&key=${key}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-              systemInstruction: { parts: [{ text: system(page) }] },
+              systemInstruction: { parts: [{ text: system(page, known) }] },
               contents,
               tools: [{ functionDeclarations: TOOL_DECLARATIONS }],
               generationConfig: { temperature: 0.6, maxOutputTokens: 4096, thinkingConfig: { thinkingBudget: 0 } },
@@ -122,6 +133,7 @@ export async function POST(req: NextRequest) {
             send({ t: 'status', v: STATUS[c.name] || 'Sprawdzam' });
             const out = await runTool(c.name, c.args, origin).catch((e) => ({ result: { blad: String(e?.message || e) } }) as { result: unknown; cards?: Card[] });
             if (out.cards?.length) send({ t: 'cards', v: out.cards });
+            send({ t: 'links', v: [...collectLinks(out.result)] });
             responses.push({ functionResponse: { name: c.name, response: { content: out.result } } });
           }
           contents.push({ role: 'user', parts: responses });

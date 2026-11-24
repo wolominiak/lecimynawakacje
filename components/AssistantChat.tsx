@@ -2,7 +2,24 @@
 import { Fragment, useEffect, useRef, useState } from 'react';
 import type { Card } from '@/lib/assistant-tools';
 
-type Msg = { role: 'user' | 'model'; text: string; cards?: Card[] };
+type Msg = { role: 'user' | 'model'; text: string; cards?: Card[]; links?: string[] };
+
+// Linki, które wolno pokazać jako klikalne: z danych narzędzi, strony portalu (indeks wyszukiwarki),
+// stałe sekcje i wyszukiwanie wycieczek. Wymyślone przez model adresy zostają zwykłym tekstem.
+const STATIC = new Set(['/', '/wakacje/', '/last-minute/', '/rejsy/', '/asystent/', '/gdzie-na-wakacje/', '/rejsy/morze-srodziemne/', '/rejsy/karaiby/', '/rejsy/fiordy-i-europa-polnocna/', '/rejsy/wyspy-kanaryjskie/', '/rejsy/dalekie-rejsy/']);
+let pages: Set<string> | null = null;
+const loadPages = () => fetch('/search-index.json').then((r) => r.json()).then((l: { u: string }[]) => { pages = new Set(l.map((x) => x.u)); }).catch(() => {});
+function fixHref(raw: string, allowed: Set<string>): string | null {
+  const h = raw.trim().replace(/^https?:\/\/(www\.)?lecimynawakacje\.pl/i, '');
+  if (!h.startsWith('/') || h.startsWith('//')) return null;
+  const at = /^\/go\/atrakcje\/([^/?#]+)\/?$/.exec(h);
+  if (at) { let q = at[1]; try { q = decodeURIComponent(q); } catch {} return `/go/atrakcje/${encodeURIComponent(q.trim())}/`; }
+  if (allowed.has(h)) return h;
+  const path = h.split(/[?#]/)[0];
+  const withSlash = path.endsWith('/') ? path : path + '/';
+  if (STATIC.has(withSlash) || pages?.has(withSlash)) return withSlash + h.slice(path.length);
+  return null;
+}
 
 const KEY = 'lnw-asystent';
 const SUGGEST = [
@@ -18,32 +35,32 @@ const pln = (n?: number) => (n ? n.toLocaleString('pl-PL') + ' zł' : '');
 const dateFmt = (d?: string) => { if (!d) return ''; const x = new Date(d.slice(0, 10) + 'T12:00:00'); return x.toLocaleDateString('pl-PL', { day: 'numeric', month: 'short' }); };
 
 // Mini markdown: ### nagłówki, listy -, 1., **pogrubienie**, [link](/sciezka/)
-function inline(s: string, k: string) {
+function inline(s: string, k: string, allowed: Set<string>) {
   const out: React.ReactNode[] = [];
-  const re = /\*\*([^*]+)\*\*|\[([^\]]+)\]\(([^)\s]+)\)/g;
+  const re = /\*\*([^*]+)\*\*|\[([^\]]+)\]\(([^)]+)\)/g;
   let last = 0, m: RegExpExecArray | null, i = 0;
   while ((m = re.exec(s))) {
     if (m.index > last) out.push(s.slice(last, m.index));
     if (m[1]) out.push(<strong key={k + i++}>{m[1]}</strong>);
     else {
-      const href = m[3];
-      const safe = href.startsWith('/') && !href.startsWith('//');
-      const ext = href.startsWith('/go/');
-      out.push(safe ? <a key={k + i++} href={href} {...(ext ? { target: '_blank', rel: 'sponsored nofollow noopener' } : {})}>{m[2]}</a> : <span key={k + i++}>{m[2]}</span>);
+      const href = fixHref(m[3], allowed);
+      const ext = href?.startsWith('/go/');
+      out.push(href ? <a key={k + i++} href={href} {...(ext ? { target: '_blank', rel: 'sponsored nofollow noopener' } : {})}>{m[2]}</a> : <span key={k + i++}>{m[2]}</span>);
     }
     last = m.index + m[0].length;
   }
   if (last < s.length) out.push(s.slice(last));
   return out;
 }
-function Md({ text }: { text: string }) {
+function Md({ text, links }: { text: string; links?: string[] }) {
+  const allowed = new Set(links || []);
   const lines = text.split('\n');
   const blocks: React.ReactNode[] = [];
   let list: { ord: boolean; items: string[] } | null = null;
   const flush = (k: number) => {
     if (!list) return;
     const L = list.ord ? 'ol' : 'ul';
-    blocks.push(<L key={'l' + k}>{list.items.map((it, j) => <li key={j}>{inline(it, `${k}-${j}-`)}</li>)}</L>);
+    blocks.push(<L key={'l' + k}>{list.items.map((it, j) => <li key={j}>{inline(it, `${k}-${j}-`, allowed)}</li>)}</L>);
     list = null;
   };
   lines.forEach((raw, k) => {
@@ -59,8 +76,8 @@ function Md({ text }: { text: string }) {
     flush(k);
     if (!l) return;
     const h = /^#{1,4}\s+(.*)/.exec(l);
-    if (h) blocks.push(<h4 key={k}>{inline(h[1], k + '-')}</h4>);
-    else blocks.push(<p key={k}>{inline(l, k + '-')}</p>);
+    if (h) blocks.push(<h4 key={k}>{inline(h[1], k + '-', allowed)}</h4>);
+    else blocks.push(<p key={k}>{inline(l, k + '-', allowed)}</p>);
   });
   flush(lines.length);
   return <>{blocks}</>;
@@ -95,7 +112,7 @@ export default function AssistantChat({ full, onClose }: { full?: boolean; onClo
   const box = useRef<HTMLDivElement>(null);
   const ta = useRef<HTMLTextAreaElement>(null);
 
-  useEffect(() => { setMsgs(load()); }, []);
+  useEffect(() => { setMsgs(load()); if (!pages) loadPages().then(() => setMsgs((m) => [...m])); }, []);
   useEffect(() => { box.current?.scrollTo({ top: box.current.scrollHeight }); }, [msgs, status]);
   useEffect(() => { if (!full) ta.current?.focus(); }, [full]);
 
@@ -132,6 +149,7 @@ export default function AssistantChat({ full, onClose }: { full?: boolean; onClo
           const ev = JSON.parse(line);
           if (ev.t === 'text') { setStatus(''); upd((m) => ({ ...m, text: m.text + ev.v })); }
           else if (ev.t === 'status') setStatus(ev.v);
+          else if (ev.t === 'links') upd((m) => ({ ...m, links: [...new Set([...(m.links || []), ...ev.v])] }));
           else if (ev.t === 'cards') upd((m) => ({ ...m, cards: [...(m.cards || []), ...ev.v].slice(0, 12) }));
           else if (ev.t === 'error') upd((m) => ({ ...m, text: (m.text ? m.text + '\n\n' : '') + ev.v }));
         }
@@ -176,7 +194,7 @@ export default function AssistantChat({ full, onClose }: { full?: boolean; onClo
               <div className="as-u">{m.text}</div>
             ) : (
               <div className="as-m">
-                {m.text && <div className="as-txt"><Md text={m.text} /></div>}
+                {m.text && <div className="as-txt"><Md text={m.text} links={m.links} /></div>}
                 {!!m.cards?.length && <Cards cards={m.cards} />}
               </div>
             )}
