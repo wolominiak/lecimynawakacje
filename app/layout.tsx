@@ -8,13 +8,13 @@ import { SITE, wakacjeUrl } from '@/lib/affiliate';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
-  title: { default: 'Wakacje 2027 - przewodnik po kierunkach z całego świata | Lecimy na wakacje', template: '%s | Lecimy na wakacje' },
+  title: { default: 'Gdzie na wakacje? Przewodnik po kierunkach z całego świata | Lecimy na wakacje', template: '%s | Lecimy na wakacje' },
   description: 'Gdzie na wakacje? Przewodniki po krajach i regionach całego świata: kiedy jechać, pogoda, atrakcje, all inclusive i aktualne oferty biur podróży.',
   openGraph: { siteName: SITE.name, locale: 'pl_PL', type: 'website' },
   alternates: { canonical: '/' },
   icons: { icon: '/favicon.svg' },
 };
-export const viewport: Viewport = { themeColor: '#06364a', width: 'device-width', initialScale: 1 };
+export const viewport: Viewport = { themeColor: '#0b6e99', width: 'device-width', initialScale: 1 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const items = searchItems();

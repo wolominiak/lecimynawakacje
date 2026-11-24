@@ -18,7 +18,7 @@ export default function CountryHero({ c, title, lead, crumbs, imgKey, wakacjePat
         <div style={{ position: 'relative', zIndex: 2, paddingTop: 22 }}><Crumbs items={crumbs} /></div>
         <div className="chero-in">
           <div>
-            {eyebrow && <span className="eyebrow" style={{ color: 'var(--gold)' }}>{eyebrow}</span>}
+            {eyebrow && <span className="eyebrow" style={{ color: '#d9eef6' }}>{eyebrow}</span>}
             <h1 style={{ marginTop: eyebrow ? 12 : 0 }}>{title}</h1>
             {lead && <p className="lead">{lead}</p>}
             <div className="cta-row">

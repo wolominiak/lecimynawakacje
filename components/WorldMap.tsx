@@ -11,7 +11,7 @@ export default function WorldMap() {
           <path className="grat" d={m.graticule} />
           {m.shapes.map((s, i) =>
             s.slug ? (
-              <a key={i} href={`/wakacje/${s.slug}/`} data-id={s.id} data-n={s.name} data-s={s.hasContent ? 'Zobacz przewodnik i oferty' : 'Kliknij, aby zobaczyć'} aria-label={s.name}>
+              <a key={i} href={`/wakacje/${s.slug}/`} data-id={s.id} data-n={s.name} data-s={s.hasContent ? 'Przewodnik i oferty biur podróży' : 'Zobacz przewodnik'} aria-label={s.name}>
                 <path className={'c' + (s.hasContent ? ' has' : '')} d={s.d} />
               </a>
             ) : (
@@ -19,18 +19,17 @@ export default function WorldMap() {
             ),
           )}
           {m.dots.map((d) => (
-            <a key={d.slug} href={`/wakacje/${d.slug}/`} data-n={d.name} data-s={d.hasContent ? 'Zobacz przewodnik i oferty' : 'Kliknij, aby zobaczyć'} aria-label={d.name}>
+            <a key={d.slug} href={`/wakacje/${d.slug}/`} data-n={d.name} data-s={d.hasContent ? 'Przewodnik i oferty biur podróży' : 'Zobacz przewodnik'} aria-label={d.name}>
               <circle className="dot" cx={d.x} cy={d.y} r={3.6} />
             </a>
           ))}
         </svg>
       </MapTooltip>
       <div className="map-legend">
-        <span><i style={{ background: '#5fb3b3' }} />Kierunki z przewodnikiem</span>
-        <span><i style={{ background: '#2b6b80' }} />Pozostałe kraje</span>
-        <span><i style={{ background: '#9fe0d6', borderRadius: '50%' }} />Małe państwa i wyspy</span>
-        <span><i style={{ background: 'var(--sun)' }} />Najedź i kliknij</span>
-        <span>Kółko myszy, + lub dwuklik przybliża, przeciągnij, aby przesunąć</span>
+        <span><i style={{ background: '#0b6e99' }} />Oferty biur podróży</span>
+        <span><i style={{ background: '#bfddea' }} />Pozostałe kraje</span>
+        <span><i style={{ background: '#ffb020' }} />Najedź i kliknij</span>
+        <span className="hint">Kółko myszy, + lub dwuklik przybliża</span>
       </div>
     </div>
   );

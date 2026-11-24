@@ -44,7 +44,7 @@ export function worldMap() {
     if (c) used.add(c.code);
     const d = path(f);
     if (!d) continue;
-    shapes.push({ id: String(id ?? f.properties.name), d, slug: c?.slug || null, name: c?.name || f.properties.name, hasContent: !!c?.content });
+    shapes.push({ id: String(id ?? f.properties.name), d, slug: c?.slug || null, name: c?.name || f.properties.name, hasContent: !!c?.content?.touroperator });
   }
 
   // Małe państwa i wyspy, których nie widać w skali 1:110m -> kropki
@@ -53,7 +53,7 @@ export function worldMap() {
     if (used.has(c.code) || !c.latlng) continue;
     const p = projection([c.latlng[1], c.latlng[0]]);
     if (!p) continue;
-    dots.push({ x: Math.round(p[0] * 10) / 10, y: Math.round(p[1] * 10) / 10, slug: c.slug, name: c.name, hasContent: !!c.content });
+    dots.push({ x: Math.round(p[0] * 10) / 10, y: Math.round(p[1] * 10) / 10, slug: c.slug, name: c.name, hasContent: !!c.content?.touroperator });
   }
 
   const sphere = path({ type: 'Sphere' } as any) || '';
