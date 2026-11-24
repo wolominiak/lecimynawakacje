@@ -1,6 +1,6 @@
 import type { Country } from '@/lib/types';
 import { countryShape } from '@/lib/map';
-import { imageFor } from '@/lib/images';
+import { imageFor, photoCredit } from '@/lib/images';
 import { wakacjeUrl, gygSearchUrl } from '@/lib/affiliate';
 import Crumbs from './Crumbs';
 
@@ -8,12 +8,15 @@ export default function CountryHero({ c, title, lead, crumbs, imgKey, wakacjePat
   c: Country; title: React.ReactNode; lead?: string; crumbs: { name: string; url?: string }[];
   imgKey?: string; wakacjePath?: string; gygQ?: string; eyebrow?: string;
 }) {
-  const img = imageFor(imgKey || c.slug) || (imgKey ? imageFor(c.slug) : null);
+  const own = imgKey ? imageFor(imgKey) : null;
+  const img = own || imageFor(c.slug);
+  const credit = img ? photoCredit(own ? imgKey! : c.slug) : null;
   const shape = countryShape(c.ccn3, c.code, 320);
   const tour = c.content?.touroperator;
   return (
     <section className={'chero' + (img ? ' has-img' : '')}>
-      {img && <img className="himg" src={img} alt="" />}
+      {img && <img className="himg" src={img} alt="" fetchPriority="high" />}
+      {credit && <a className="hcredit" href={credit.url} target="_blank" rel="nofollow noopener">Fot. {credit.by} / Pexels</a>}
       <div className="wrap">
         <div style={{ position: 'relative', zIndex: 2, paddingTop: 22 }}><Crumbs items={crumbs} /></div>
         <div className="chero-in">

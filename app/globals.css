@@ -224,6 +224,8 @@ p { margin: 0 0 1em; }
 .chero { position: relative; overflow: hidden; color: #fff; background: var(--ocean); }
 .chero.has-img::before { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(4,22,32,0.88) 0%, rgba(4,22,32,0.55) 55%, rgba(4,22,32,0.15)); z-index: 1; }
 .chero .himg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.chero .hcredit { position: absolute; right: 16px; top: 12px; z-index: 2; font-size: 0.72rem; color: rgba(255,255,255,0.6); }
+.chero .hcredit:hover { color: #fff; }
 .chero-in { position: relative; z-index: 2; display: grid; grid-template-columns: 1.3fr 0.7fr; gap: 32px; align-items: center; padding: 28px 0 64px; }
 .chero .crumbs { color: rgba(255,255,255,0.7); padding-top: 0; margin-bottom: 26px; }
 .chero h1 { font-size: clamp(2.3rem, 5vw, 4.2rem); }
@@ -274,6 +276,9 @@ p { margin: 0 0 1em; }
 .regions { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
 .region { display: block; padding: 22px; border-radius: var(--radius); border: 1px solid var(--line); background: #fff; transition: all 0.15s; }
 .region:hover { box-shadow: var(--shadow); border-color: transparent; transform: translateY(-2px); }
+.region { overflow: hidden; }
+.region .rimg { display: block; width: calc(100% + 44px); max-width: none; margin: -22px -22px 16px; aspect-ratio: 16 / 9; object-fit: cover; background: var(--soft); }
+.region:hover .rimg { filter: saturate(1.08); }
 .region .t { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal); }
 .region h3 { margin: 6px 0 8px; font-size: 1.3rem; }
 .region p { font-size: 0.94rem; color: var(--ink-2); margin: 0; line-height: 1.55; }

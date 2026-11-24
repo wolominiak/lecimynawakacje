@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
 import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, wakacjeRegionId, type SubpageSlug } from '@/lib/data';
 import OffersWidget from '@/components/OffersWidget';
@@ -141,6 +142,7 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
                 <div className="regions">
                   {siblings.slice(0, 6).map((s) => (
                     <a key={s.slug} className="region" href={`/wakacje/${c.slug}/${s.slug}/`}>
+                      {imageFor(`${c.slug}-${s.slug}`, 'small') && <img className="rimg" src={imageFor(`${c.slug}-${s.slug}`, 'small')!} alt={s.name} loading="lazy" />}
                       {s.type && <span className="t">{s.type}</span>}
                       <h3>{s.name}</h3>
                       <p>{s.intro[0].length > 160 ? s.intro[0].slice(0, s.intro[0].lastIndexOf(' ', 150)) + '...' : s.intro[0]}</p>
@@ -243,6 +245,7 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
                     <div className="regions">
                       {ct.regions.map((r) => (
                         <a key={r.slug} className="region" href={wakacjeUrl(r.wakacjePath || ct.wakacjePath || c.slug, { allInclusive: true })} target="_blank" rel="sponsored nofollow noopener">
+                          {imageFor(`${c.slug}-${r.slug}`, 'small') && <img className="rimg" src={imageFor(`${c.slug}-${r.slug}`, 'small')!} alt={r.name} loading="lazy" />}
                           {r.type && <span className="t">{r.type}</span>}
                           <h3>{r.name} all inclusive</h3>
                           <p>{r.forWhom || r.intro[0].slice(0, 140) + '...'}</p>

@@ -12,7 +12,7 @@ const GRADS: Record<string, string> = {
 };
 
 export function DestCard({ c, big, tag }: { c: Country; big?: boolean; tag?: string }) {
-  const img = imageFor(c.slug);
+  const img = imageFor(c.slug, big ? 'large' : 'small');
   const shape = img ? null : countryShape(c.ccn3, c.code, 300);
   return (
     <a href={`/wakacje/${c.slug}/`} className={'dcard' + (big ? ' big' : '')}>

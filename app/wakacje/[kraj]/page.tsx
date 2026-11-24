@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
 import { getCountries, getCountry, getCountryByCode, continentOf, isIndexable, MONTHS, availableSubpages } from '@/lib/data';
 import CountryHero from '@/components/CountryHero';
@@ -80,6 +81,7 @@ export default async function CountryPage({ params }: P) {
                     <div className="regions">
                       {ct.regions.map((r) => (
                         <a key={r.slug} className="region" href={`/wakacje/${c.slug}/${r.slug}/`}>
+                          {imageFor(`${c.slug}-${r.slug}`, 'small') && <img className="rimg" src={imageFor(`${c.slug}-${r.slug}`, 'small')!} alt={r.name} loading="lazy" />}
                           {r.type && <span className="t">{r.type}</span>}
                           <h3>{r.name}</h3>
                           <p>{r.intro[0].length > 200 ? r.intro[0].slice(0, r.intro[0].lastIndexOf(' ', 190)) + '...' : r.intro[0]}</p>

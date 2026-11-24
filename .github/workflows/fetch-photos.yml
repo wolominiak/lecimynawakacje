@@ -1,0 +1,77 @@
+# Zdjęcia krajów i regionów z Pexels.
+# Wymaga sekretu PEXELS_API_KEY (darmowy klucz: https://www.pexels.com/api/).
+# Pexels pozwala na 200 zapytań na godzinę, więc workflow sam dobiera brakujące zdjęcia co 2 godziny.
+# Ręcznie: Actions -> "Pobierz zdjęcia" -> Run workflow.
+name: Pobierz zdjęcia
+
+on:
+  schedule:
+    - cron: '41 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: 'countries, regions albo all'
+        default: 'all'
+      only:
+        description: 'Tylko te klucze (np. grecja,grecja-kreta), puste = brakujące'
+        default: ''
+      force:
+        description: 'Podmień istniejące zdjęcia (true/false)'
+        default: 'false'
+      limit:
+        description: 'Ile zdjęć w jednej rundzie (max ok. 190)'
+        default: '180'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-photos
+  cancel-in-progress: false
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - name: Sprawdź klucz
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          if [ -z "$PEXELS_API_KEY" ]; then
+            echo "::warning::Brak sekretu PEXELS_API_KEY. Dodaj go w Settings -> Secrets and variables -> Actions."
+            exit 0
+          fi
+          echo "HAS_KEY=1" >> $GITHUB_ENV
+      - name: Instaluj sharp
+        if: env.HAS_KEY == '1'
+        run: npm ci --no-audit --no-fund
+      - name: Pobierz
+        if: env.HAS_KEY == '1'
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          ARGS="--scope ${{ inputs.scope || 'all' }} --limit ${{ inputs.limit || '180' }}"
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          node scripts/fetch-photos.mjs $ARGS
+      - name: Commit i push
+        if: env.HAS_KEY == '1'
+        run: |
+          git config user.name "wolominiak"
+          git config user.email "228559845+wolominiak@users.noreply.github.com"
+          git add public/img data/photos.json
+          if git diff --cached --quiet; then echo "Brak nowych zdjęć"; exit 0; fi
+          git commit -m "Nowe zdjęcia (Pexels)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
