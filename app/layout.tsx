@@ -3,6 +3,7 @@ import type { Metadata, Viewport } from 'next';
 import Logo from '@/components/Logo';
 import Search from '@/components/Search';
 import AssistantLauncher from '@/components/AssistantLauncher';
+import MobileMenu from '@/components/MobileMenu';
 import { CONTINENTS, popular } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
 
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="hdr-right">
               <Search placeholder="Szukaj kierunku..." />
               <a className="btn btn-sm" href="/last-minute/">Last minute</a>
+              <MobileMenu />
             </div>
           </div>
         </header>

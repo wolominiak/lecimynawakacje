@@ -137,7 +137,7 @@ export default function CruiseBrowser({ initialArea = '' }: { initialArea?: stri
 
   return (
     <div className="lm">
-      <div className="lm-filters">
+      <div className="lm-panel">
         <div className="lm-row">
           <span className="lm-label">Akwen</span>
           <div className="lm-pills" role="group" aria-label="Akwen">
