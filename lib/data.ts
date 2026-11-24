@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import base from '@/data/countries.json';
+import wakacjeIds from '@/data/wakacje-ids.json';
 import type { Country, CountryBase, CountryContent, ContinentSlug, Region } from './types';
 
 export const CONTINENTS: { slug: ContinentSlug; name: string; loc: string; teaser: string }[] = [
@@ -29,6 +30,7 @@ export const MONTHS = [
 
 /** Podstrony long-tail kraju (ten sam segment URL co regiony) */
 export const SUBPAGES = {
+  oferty: 'Oferty i ceny',
   'kiedy-jechac': 'Kiedy jechać',
   'all-inclusive': 'All inclusive',
   atrakcje: 'Atrakcje i wycieczki',
@@ -123,6 +125,7 @@ export function availableSubpages(c: Country): SubpageSlug[] {
   const out: SubpageSlug[] = [];
   const ct = c.content;
   if (!ct) return out;
+  if (wakacjeCountryId(c.slug)) out.push('oferty');
   if (ct.climate && ct.bestTime) out.push('kiedy-jechac');
   if (ct.allInclusive?.length) out.push('all-inclusive');
   if ((ct.attractions?.length || 0) >= 4) out.push('atrakcje');
@@ -152,4 +155,13 @@ export function warmIn(month: number) {
 
 export function countryName(code: string) {
   return getCountryByCode(code);
+}
+
+/** ID kraju w wyszukiwarce wakacje.pl (TravelLead), potrzebne do widgetu z ofertami */
+export function wakacjeCountryId(slug: string): number | null {
+  return (wakacjeIds.countries as Record<string, number>)[slug] ?? null;
+}
+/** ID regionu w wakacje.pl, np. "grecja/kreta" */
+export function wakacjeRegionId(countrySlug: string, regionSlug: string): number | null {
+  return (wakacjeIds.regions as Record<string, number>)[`${countrySlug}/${regionSlug}`] ?? null;
 }

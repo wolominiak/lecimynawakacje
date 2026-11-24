@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, type SubpageSlug } from '@/lib/data';
+import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, wakacjeRegionId, type SubpageSlug } from '@/lib/data';
+import OffersWidget from '@/components/OffersWidget';
 import type { Country, Region } from '@/lib/types';
 import CountryHero from '@/components/CountryHero';
 import Tabs from '@/components/Tabs';
@@ -42,6 +43,9 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
   if (r.region) {
     title = `Wakacje ${r.region.loc} ${YEAR} - co zobaczyć, gdzie nocować (${r.c.name})`;
     description = r.region.intro[0].slice(0, 155);
+  } else if (r.sub === 'oferty') {
+    title = `Wakacje ${ct.loc} ${YEAR} - aktualne oferty i ceny`;
+    description = `Aktualne oferty wakacji ${ct.loc} z cenami: all inclusive, first minute i last minute od wielu biur podróży. Sprawdź, ile kosztuje wyjazd ${ct.to}.`;
   } else if (r.sub === 'kiedy-jechac') {
     title = `Kiedy jechać ${ct.to}? Pogoda i temperatura wody miesiąc po miesiącu`;
     description = `Najlepszy termin na wakacje ${ct.loc}: średnie temperatury powietrza i wody w każdym miesiącu, sezon, ceny i pogoda.`;
@@ -108,6 +112,12 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
                 </div>
               </>
             ) : null}
+            {(wakacjeRegionId(c.slug, r.slug) || wakacjeCountryId(c.slug)) && (
+              <>
+                <h2>{wakacjeRegionId(c.slug, r.slug) ? `Oferty wakacji ${r.loc}` : `Oferty wakacji ${ct.loc}`}</h2>
+                <OffersWidget region={wakacjeRegionId(c.slug, r.slug)} country={wakacjeCountryId(c.slug)} count={5} uid={`r${c.slug}-${r.slug}`} />
+              </>
+            )}
             <GygWidget q={r.gygQuery || r.name} title={`Wycieczki fakultatywne ${r.loc}`} />
             {ct.bestTime && (
               <>
@@ -149,11 +159,13 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
   const cont = continentOf(c.continent);
   const crumbs = [{ name: 'Kierunki', url: '/wakacje/' }, { name: cont.name, url: `/kontynenty/${cont.slug}/` }, { name: c.name, url: `/wakacje/${c.slug}/` }, { name: SUBPAGES[sub] }];
   const titles: Record<SubpageSlug, React.ReactNode> = {
+    oferty: <>Wakacje {ct.loc}: oferty i ceny</>,
     'kiedy-jechac': <>Kiedy jechać {ct.to}?</>,
     'all-inclusive': <>All inclusive {ct.loc}</>,
     atrakcje: <>Atrakcje {ct.loc}</>,
   };
   const leads: Record<SubpageSlug, string> = {
+    oferty: `Aktualne oferty biur podróży z cenami za osobę. Lista odświeża się automatycznie.`,
     'kiedy-jechac': `Pogoda ${ct.loc} w każdym miesiącu: temperatury, woda, sezon i ceny. Wybierz termin pod siebie.`,
     'all-inclusive': `Gdzie szukać najlepszych hoteli all inclusive ${ct.loc} i na co zwrócić uwagę przy wyborze oferty.`,
     atrakcje: `Najciekawsze miejsca ${ct.loc} i wycieczki fakultatywne, które naprawdę warto wykupić.`,
@@ -165,6 +177,33 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
         <Tabs c={c} active={sub} />
         <div className="layout section-sm">
           <article className="prose">
+            {sub === 'oferty' && (
+              <>
+                <h2>Aktualne oferty wakacji {ct.loc}</h2>
+                <OffersWidget country={wakacjeCountryId(c.slug)} uid={`c${c.slug}`} />
+                <p className="muted" style={{ fontSize: '0.88rem' }}>Ceny dotyczą jednej osoby i zawierają przelot, zakwaterowanie oraz wyżywienie podane w ofercie. Rezerwacja odbywa się na wakacje.pl.</p>
+                <p><a href={wakacjeUrl(ct.wakacjePath || c.slug)} target="_blank" rel="sponsored nofollow noopener">Wszystkie oferty wakacji {ct.loc} na wakacje.pl</a></p>
+                {ct.bestTime && (
+                  <>
+                    <h2>Kiedy wakacje {ct.loc} są najtańsze?</h2>
+                    <p>{ct.bestTime.text}</p>
+                    <p>Najlepszy termin to {ct.bestTime.best.map((m) => MONTHS[m - 1].name).join(', ')}. <a href={`/wakacje/${c.slug}/kiedy-jechac/`}>Pogoda {ct.loc} miesiąc po miesiącu</a>.</p>
+                  </>
+                )}
+                {ct.allInclusive?.[0] && (
+                  <>
+                    <h2>Oferty all inclusive</h2>
+                    <p>{ct.allInclusive[0]}</p>
+                  </>
+                )}
+                {!!ct.regions?.length && (
+                  <>
+                    <h2>Dokąd {ct.to}? Regiony</h2>
+                    <div className="chips">{ct.regions.map((r) => <a key={r.slug} className="chip chip-light" href={`/wakacje/${c.slug}/${r.slug}/`}>{r.name}</a>)}</div>
+                  </>
+                )}
+              </>
+            )}
             {sub === 'kiedy-jechac' && (
               <>
                 <h2>Najlepszy termin na wakacje {ct.loc}</h2>

@@ -371,3 +371,7 @@ p { margin: 0 0 1em; }
   .cb .v, .cb .sea { font-size: 0.62rem; }
   .ftr-grid { grid-template-columns: 1fr; }
 }
+
+/* widget ofert wakacje.pl */
+.offers-widget { min-height: 420px; border-radius: var(--radius); background: var(--soft); padding: 12px; margin: 8px 0 24px; }
+.offers-widget > div { min-width: 0; }
