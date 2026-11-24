@@ -183,7 +183,11 @@ function finish(cards: Card[], a: OfferArgs, extra: Record<string, unknown>) {
   l = a.sortuj === 'data' ? l.sort((x, y) => (x.date || '').localeCompare(y.date || '')) : l.sort((x, y) => (x.pricePP || 0) - (y.pricePP || 0));
   // różne hotele, nie 6 terminów tego samego
   const seen = new Set<string>();
-  const top = l.filter((c) => { const k = c.title + c.place; if (seen.has(k)) return false; seen.add(k); return true; }).slice(0, 6);
+  const uniq = l.filter((c) => { const k = c.title + c.place; if (seen.has(k)) return false; seen.add(k); return true; });
+  // bez wskazanego typu: po połowie objazdówek i wypoczynku, jeśli są oba rodzaje
+  const obj = uniq.filter((c) => /objazdowa/.test(c.place));
+  const rest = uniq.filter((c) => !/objazdowa/.test(c.place));
+  const top = !a.typ && obj.length && rest.length ? [...obj.slice(0, 3), ...rest.slice(0, 3)] : uniq.slice(0, 6);
   return {
     cards: top,
     result: {
