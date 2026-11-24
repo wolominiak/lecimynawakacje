@@ -446,3 +446,4 @@ p { margin: 0 0 1em; }
   .lm-grid, .lm-selects { grid-template-columns: 1fr !important; }
   .lm-panel { padding: 16px; }
 }
+.lm-loading { font-size: 0.85rem; color: var(--ink-3); margin-left: 6px; }

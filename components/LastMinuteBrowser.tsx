@@ -52,9 +52,12 @@ const fmtDate = (d: string) => d.slice(8, 10) + '.' + d.slice(5, 7);
 const ofert = (n: number) => (n === 1 ? 'oferta' : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? 'oferty' : 'ofert');
 
 async function load(terms: Record<string, unknown>): Promise<Offer[]> {
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), 9000);
   try {
     const r = await fetch(API, {
       method: 'POST',
+      signal: ctl.signal,
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ terms: { regions: [], cities: [], countries: [], searchType: 'lastminute', ...terms } }),
     });
@@ -62,6 +65,8 @@ async function load(terms: Record<string, unknown>): Promise<Offer[]> {
     return Array.isArray(j.data) ? j.data : [];
   } catch {
     return [];
+  } finally {
+    clearTimeout(timer);
   }
 }
 
@@ -75,19 +80,30 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
   const [airport, setAirport] = useState('');
   const [sort, setSort] = useState('price');
   const [shown, setShown] = useState(12);
+  const [done, setDone] = useState(false);
 
   useEffect(() => {
     // ?kraj=egipt w adresie ustawia filtr (linki z innych stron)
     const k = new URLSearchParams(window.location.search).get('kraj');
     if (k) { const c = countries.find((x) => x.slug === k); if (c) setCountry(c.name); }
     let cancel = false;
-    Promise.all([load({ limit: 100 }), ...countries.map((c) => load({ limit: 30, countries: [c.id] }))]).then((lists) => {
+    const seen = new Set<number>();
+    const all: Offer[] = [];
+    const add = (l: Offer[]) => {
       if (cancel) return;
-      const seen = new Set<number>();
-      const all: Offer[] = [];
-      for (const l of lists) for (const o of l) if (!seen.has(o.id) && daysTo(o.departureDate) >= 0 && o.placeName?.[0] !== 'Polska' && (!o.transport || o.transport.value === 1)) { seen.add(o.id); all.push(o); }
-      setPool(all);
-    });
+      for (const o of l) {
+        if (!seen.has(o.id) && daysTo(o.departureDate) >= 0 && o.placeName?.[0] !== 'Polska' && (!o.transport || o.transport.value === 1)) { seen.add(o.id); all.push(o); }
+      }
+      setPool([...all]);
+    };
+    // najpierw ogólna pula, potem kraje po kilka naraz; wyniki pokazujemy, gdy tylko przyjdą
+    (async () => {
+      add(await load({ limit: 100 }));
+      const queue = [...countries];
+      const worker = async () => { while (queue.length && !cancel) { const c = queue.shift()!; add(await load({ limit: 30, countries: [c.id] })); } };
+      await Promise.all([worker(), worker(), worker(), worker()]);
+      if (!cancel) setDone(true);
+    })();
     return () => { cancel = true; };
   }, [countries]);
 
@@ -197,7 +213,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
       {pool === null && <div className="ob-empty">Szukamy ofert last minute w kilkudziesięciu biurach podróży...</div>}
       {pool !== null && (
         <div className="lm-bar">
-          <span><b>{list.length}</b> {ofert(list.length)} last minute{country ? ` - ${country}` : ''}</span>
+          <span><b>{list.length}</b> {ofert(list.length)} last minute{country ? ` - ${country}` : ''}{!done && <small className="lm-loading"> wczytujemy kolejne biura...</small>}</span>
           {active && <button type="button" className="lm-reset" onClick={reset}>Wyczyść filtry</button>}
         </div>
       )}
