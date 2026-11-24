@@ -1,4 +1,4 @@
-import { geoNaturalEarth1, geoPath, geoMercator, geoGraticule10 } from 'd3-geo';
+import { geoNaturalEarth1, geoPath, geoMercator, geoGraticule } from 'd3-geo';
 import { feature } from 'topojson-client';
 import world110 from 'world-atlas/countries-110m.json';
 import world50 from 'world-atlas/countries-50m.json';
@@ -33,7 +33,7 @@ export function worldMap() {
   const fc = feature(world110 as any, (world110 as any).objects.countries) as unknown as FeatureCollection<Geometry, { name: string }>;
 
   const projection = geoNaturalEarth1().fitExtent([[4, 4], [W - 4, H - 4]], { type: 'Sphere' } as any);
-  const path = geoPath(projection).digits(1);
+  const path = geoPath(projection).digits(0);
 
   const used = new Set<string>();
   const shapes: MapShape[] = [];
@@ -56,8 +56,10 @@ export function worldMap() {
     dots.push({ x: Math.round(p[0] * 10) / 10, y: Math.round(p[1] * 10) / 10, slug: c.slug, name: c.name, hasContent: !!c.content?.touroperator });
   }
 
-  const sphere = path({ type: 'Sphere' } as any) || '';
-  const graticule = path(geoGraticule10()) || '';
+  // Tło i siatka: zgrubna precyzja, bo to tylko dekoracja (wcześniej 38 KB)
+  const coarse = geoPath(projection).digits(0);
+  const sphere = coarse({ type: 'Sphere' } as any) || '';
+  const graticule = coarse(geoGraticule().step([20, 20]).precision(10)()) || '';
   return { width: W, height: H, shapes, dots, sphere, graticule };
 }
 
@@ -83,7 +85,7 @@ function buildShape(ccn3: string | null, code: string, size: number) {
   // Kraje przecinające południk 180 (Rosja, Fidżi, Kiribati) dają złe kontury - pomijamy
   if (['RU', 'FJ', 'KI', 'US'].includes(code)) return null;
   const projection = geoMercator().fitExtent([[8, 8], [size - 8, size - 8]], f as any);
-  const d = geoPath(projection).digits(1)(f as any);
+  const d = geoPath(projection).digits(0)(f as any);
   if (!d || d.length > 120000) return null;
   return { d, size };
 }

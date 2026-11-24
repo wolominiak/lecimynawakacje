@@ -1,11 +1,14 @@
 'use client';
 import { useEffect } from 'react';
+import { useNearView } from './useNearView';
 import { GYG_PARTNER_ID, gygSearchUrl } from '@/lib/affiliate';
 
 const SRC = 'https://widget.getyourguide.com/dist/pa.umd.production.min.js';
 
 export function GygWidget({ q, items = 4, title }: { q: string; items?: number; title?: string }) {
+  const [box, near] = useNearView<HTMLDivElement>();
   useEffect(() => {
+    if (!near) return;
     if (document.querySelector(`script[src="${SRC}"]`)) {
       // skrypt już jest - ponowne skanowanie widgetów po nawigacji
       (window as any).GYG?.Widget?.init?.();
@@ -17,10 +20,10 @@ export function GygWidget({ q, items = 4, title }: { q: string; items?: number; 
     s.defer = true;
     s.setAttribute('data-gyg-partner-id', GYG_PARTNER_ID);
     document.body.appendChild(s);
-  }, [q]);
+  }, [q, near]);
 
   return (
-    <div className="gyg-box">
+    <div className="gyg-box" ref={box}>
       <div className="gyg-head">
         <h3>{title || `Wycieczki i bilety: ${q}`}</h3>
         <a className="link-arrow" href={gygSearchUrl(q)} target="_blank" rel="sponsored nofollow noopener">Zobacz wszystkie &rarr;</a>

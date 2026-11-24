@@ -2,7 +2,6 @@ import './globals.css';
 import type { Metadata, Viewport } from 'next';
 import Logo from '@/components/Logo';
 import Search from '@/components/Search';
-import { searchItems } from '@/lib/search';
 import { CONTINENTS, popular } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
 
@@ -17,7 +16,6 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { themeColor: '#0b6e99', width: 'device-width', initialScale: 1 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const items = searchItems();
   const top = popular(8);
   return (
     <html lang="pl">
@@ -32,7 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/kontynenty/azja/">Egzotyka</a>
             </nav>
             <div className="hdr-right">
-              <Search items={items} placeholder="Szukaj kierunku..." />
+              <Search placeholder="Szukaj kierunku..." />
               <a className="btn btn-sm" href="/last-minute/">Last minute</a>
             </div>
           </div>

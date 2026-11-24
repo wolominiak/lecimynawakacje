@@ -2,7 +2,6 @@ import WorldMap from '@/components/WorldMap';
 import Search from '@/components/Search';
 import { DestCard } from '@/components/Cards';
 import { CONTINENTS, MONTHS, getCountries, getByContinent, popular, warmIn } from '@/lib/data';
-import { searchItems } from '@/lib/search';
 import { wakacjeUrl, SITE } from '@/lib/affiliate';
 
 const MONTH_TAG = ['Ferie', 'Ferie', 'Przedwiośnie', 'Wielkanoc', 'Majówka', 'Początek lata', 'Wakacje', 'Wakacje', 'Po sezonie', 'Złota jesień', 'Ucieczka od szarości', 'Święta'];
@@ -29,7 +28,7 @@ export default function Home() {
               <h1>Gdzie chcesz polecieć na wakacje?</h1>
               <div>
                 <p className="lead">Wybierz kraj na mapie albo wpisz kierunek. Podpowiemy, kiedy jechać, które regiony wybrać i ile kosztuje wyjazd.</p>
-                <div className="hero-search"><Search items={searchItems()} big /></div>
+                <div className="hero-search"><Search big /></div>
                 <div className="chips">{quick.map(([n, u]) => <a key={u} className="chip" href={u}>{n}</a>)}</div>
               </div>
             </div>
