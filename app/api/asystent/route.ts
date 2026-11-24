@@ -27,6 +27,7 @@ const STATUS: Record<string, string> = {
   propozycje_kierunkow: 'Szukam ciepłych kierunków',
   szukaj_ofert: 'Przeszukuję oferty biur podróży',
   last_minute: 'Przeszukuję last minute',
+  rejsy: 'Przeszukuję rejsy',
 };
 
 function system(page?: string) {

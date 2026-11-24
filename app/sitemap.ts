@@ -1,3 +1,4 @@
+import { CRUISE_AREAS } from '@/lib/cruises';
 import type { MetadataRoute } from 'next';
 import { CONTINENTS, MONTHS, getCountries, isIndexable, availableSubpages } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
@@ -8,6 +9,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const out: MetadataRoute.Sitemap = [u('/', 1), u('/wakacje/', 0.9), u('/gdzie-na-wakacje/', 0.8)];
   out.push(u('/last-minute/', 0.9));
   out.push(u('/asystent/', 0.8));
+  out.push(u('/rejsy/', 0.9));
+  CRUISE_AREAS.forEach((a) => out.push(u(`/rejsy/${a.slug}/`, 0.8)));
   lmCountries().forEach((c) => out.push(u(`/last-minute/${c.slug}/`, 0.8)));
   CONTINENTS.forEach((c) => out.push(u(`/kontynenty/${c.slug}/`, 0.7)));
   MONTHS.forEach((m) => out.push(u(`/gdzie-na-wakacje/${m.slug}/`, 0.7)));

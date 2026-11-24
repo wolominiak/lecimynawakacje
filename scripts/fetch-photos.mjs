@@ -57,6 +57,15 @@ if (SCOPE !== 'countries') {
   }
 }
 
+// Rejsy: zdjęcie ogólne i po jednym na akwen
+if (SCOPE !== 'regions') {
+  const cruises = [
+    ['rejsy', 'cruise ship sea'], ['rejsy-morze-srodziemne', 'cruise ship mediterranean'], ['rejsy-karaiby', 'caribbean cruise ship'],
+    ['rejsy-fiordy-i-europa-polnocna', 'norway fjord cruise ship'], ['rejsy-wyspy-kanaryjskie', 'tenerife cruise ship port'], ['rejsy-dalekie-rejsy', 'cruise ship glacier'],
+  ];
+  for (const [key, q] of cruises) jobs.unshift({ key, queries: [{ q, lang: 'en', travel: true }, { q, lang: 'en' }, { q: 'cruise ship', lang: 'en' }] });
+}
+
 const BAD = /\b(flag|map|passport|banknote|money|currency|coin|stamp|portrait|selfie|logo|text|document|globe|mask|covid|weapon|gun|soldier|army|war|protest|woman|man|girl|boy|model|fashion)\b/i;
 
 // Wspólny format wyniku: { id, width, alt, by, url, src }

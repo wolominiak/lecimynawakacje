@@ -4,6 +4,7 @@ import { getCountries, warmIn, wakacjeCountryId, wakacjeRegionId, MONTHS } from 
 import { gygSearchUrl, wakacjeUrl } from './affiliate';
 import { esimFor, esimUrl } from './esim';
 import type { Country, Region } from './types';
+import { CRUISE_AREAS, CRUISE_COUNTRY_ID, areaOf, lineOf, splitName } from './cruises';
 
 export type Card = {
   title: string; place: string; stars?: number; img?: string;
@@ -239,6 +240,40 @@ export async function lastMinute(a: { kierunek?: string; budzet_na_osobe?: numbe
   return finish(cards, { budzet_na_osobe: a.budzet_na_osobe }, { strona_last_minute: p ? `/last-minute/?kraj=${p.c.slug}` : '/last-minute/' });
 }
 
+// 5. Rejsy wycieczkowe
+export async function cruises(a: { akwen?: string; od?: string; do?: string; dni_min?: number; dni_max?: number; budzet_na_osobe?: number; dojazd?: string }) {
+  const terms: Record<string, unknown> = { countries: [CRUISE_COUNTRY_ID] };
+  if (a.budzet_na_osobe) terms.maxPrice = a.budzet_na_osobe;
+  const seen = new Set<number>();
+  const pool: any[] = [];
+  for (const t of [{}, { searchType: 'lastminute' }, { searchType: 'firstminute' }, { maxPrice: 6000 }]) {
+    for (const o of await travellead({ ...terms, ...t })) if (!seen.has(o.id)) { seen.add(o.id); pool.push(o); }
+  }
+  const want = a.akwen ? CRUISE_AREAS.find((x) => norm(x.name + ' ' + x.slug + ' ' + x.short).includes(norm(a.akwen!).slice(0, 6)))?.slug || areaOf(a.akwen) : '';
+  const cards: Card[] = [];
+  for (const o of pool) {
+    const area = areaOf(o.name, (o.placeName || []).slice(1).join(' '));
+    if (want && area !== want) continue;
+    if (a.dni_min && o.duration < a.dni_min) continue;
+    if (a.dni_max && o.duration > a.dni_max) continue;
+    if (a.dojazd && (norm(a.dojazd).includes('wlas') ? o.transport?.value === 1 : o.transport?.value !== 1)) continue;
+    const { ship, route } = splitName(o.name);
+    const c = tlCard(o);
+    c.title = route;
+    c.place = [lineOf(o.name), ship, o.placeName?.[2] ? 'start: ' + o.placeName[2] : ''].filter(Boolean).join(' · ');
+    c.nights = o.duration ? o.duration - 1 : undefined;
+    c.from = o.transport?.value === 1 ? o.departure?.label : 'dojazd własny';
+    c.stars = undefined;
+    if (!inRange(c.date, a as OfferArgs)) continue;
+    cards.push(c);
+  }
+  return finish(cards, { budzet_na_osobe: a.budzet_na_osobe }, {
+    akweny: CRUISE_AREAS.map((x) => ({ nazwa: x.name, link: `/rejsy/${x.slug}/`, kiedy: x.when })),
+    strona_rejsow: want ? `/rejsy/${want}/` : '/rejsy/',
+    info: 'Cena za osobę przy 2 osobach w kabinie. W polu hotel jest trasa rejsu, w polu miejsce armator, statek i port startowy.',
+  });
+}
+
 export const TOOL_DECLARATIONS = [
   {
     name: 'przewodnik',
@@ -282,6 +317,22 @@ export const TOOL_DECLARATIONS = [
       },
     },
   },
+  {
+    name: 'rejsy',
+    description: 'Rejsy wycieczkowe (MSC, Costa) z polskich biur: trasa, statek, port startowy, termin, długość, cena za osobę. Akweny: Morze Śródziemne, Karaiby, Fiordy i Europa Północna, Wyspy Kanaryjskie, Dalekie rejsy.',
+    parameters: {
+      type: 'object',
+      properties: {
+        akwen: { type: 'string', description: 'Np. Morze Śródziemne, Karaiby, fiordy, Kanary, dalekie' },
+        od: { type: 'string', description: 'Najwcześniejsza data wypłynięcia YYYY-MM-DD' },
+        do: { type: 'string', description: 'Najpóźniejsza data wypłynięcia YYYY-MM-DD' },
+        dni_min: { type: 'integer' },
+        dni_max: { type: 'integer' },
+        budzet_na_osobe: { type: 'integer' },
+        dojazd: { type: 'string', description: 'samolot albo wlasny' },
+      },
+    },
+  },
 ];
 
 export async function runTool(name: string, args: any, origin: string): Promise<{ result: unknown; cards?: Card[] }> {
@@ -290,6 +341,7 @@ export async function runTool(name: string, args: any, origin: string): Promise<
     case 'propozycje_kierunkow': return { result: suggest(args) };
     case 'szukaj_ofert': return offers(args, origin);
     case 'last_minute': return lastMinute(args);
+    case 'rejsy': return cruises(args);
     default: return { result: { blad: 'Nieznane narzędzie' } };
   }
 }

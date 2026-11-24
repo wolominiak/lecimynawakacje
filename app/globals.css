@@ -543,3 +543,18 @@ p { margin: 0 0 1em; }
   .as-fab { right: 14px; bottom: 14px; }
   .as-full { height: calc(100dvh - 120px); }
 }
+
+/* ===== Rejsy ===== */
+.lm-two { display: grid !important; grid-template-columns: 1fr 1fr; gap: 18px; }
+.lm-two > div { display: flex; flex-direction: column; gap: 10px; }
+.lm-pills button:disabled { opacity: 0.4; cursor: default; }
+.cr-areas { margin: 0 0 18px; }
+.cr-areas .chip.on { background: var(--ink); color: #fff; border-color: var(--ink); }
+.ob-promo.cr-line { background: rgba(14, 27, 43, 0.82); color: #fff; }
+.cr-ship { display: block; font-size: 0.86rem; color: var(--ocean); font-weight: 600; margin: 2px 0 6px; }
+.cr-ppd { font-size: 0.78rem; color: var(--ink-2); margin-top: 2px; }
+.cr-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin: 22px 0 10px; }
+.cr-grid .region h3 { margin-top: 6px; }
+@media (max-width: 720px) {
+  .lm-two, .cr-grid { grid-template-columns: 1fr !important; }
+}

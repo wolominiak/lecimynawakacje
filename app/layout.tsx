@@ -27,7 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="nav" aria-label="Główna nawigacja">
               <a href="/wakacje/">Kierunki</a>
               <a href="/gdzie-na-wakacje/">Gdzie na wakacje?</a>
-              <a href="/kontynenty/europa/">Europa</a>
+              <a href="/rejsy/">Rejsy</a>
               <a href="/kontynenty/azja/">Egzotyka</a>
               <a href="/asystent/" className="nav-ai">Asystent AI</a>
             </nav>
