@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import AssistantChat from '@/components/AssistantChat';
 
 export const metadata: Metadata = {
-  title: 'Asystent podróży AI - zaplanuj wakacje dzień po dniu | Lecimy na wakacje',
+  title: 'Asystent podróży AI - zaplanuj wakacje dzień po dniu',
   description: 'Asystent AI ułoży plan wyjazdu dzień po dniu, znajdzie oferty biur podróży z cenami i terminami, poleci wycieczki i internet eSIM.',
   alternates: { canonical: '/asystent/' },
 };

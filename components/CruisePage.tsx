@@ -28,7 +28,7 @@ export default function CruisePage({ area }: { area?: CruiseArea }) {
           <div className="chero-in cr-hero">
             <div>
               <span className="eyebrow" style={{ color: '#d9eef6' }}>Rejsy wycieczkowe</span>
-              <h1 style={{ marginTop: 12 }}>{area ? area.title : 'Rejsy wycieczkowe: Morze Śródziemne, Karaiby, fiordy'}</h1>
+              <h1 style={{ marginTop: 12 }}>{area ? area.title : 'Rejsy wycieczkowe'}</h1>
               <p className="lead">{area ? area.teaser : 'Rejsy MSC i Costa z polskich biur podróży, z przelotem albo dojazdem własnym. Wybierz akwen, miesiąc i budżet, a lista od razu się zawęzi.'}</p>
             </div>
           </div>
@@ -38,7 +38,7 @@ export default function CruisePage({ area }: { area?: CruiseArea }) {
       <div className="wrap section-sm">
         <div className="chips cr-areas">
           <a className={'chip' + (!area ? ' on' : '')} href="/rejsy/">Wszystkie rejsy</a>
-          {CRUISE_AREAS.map((a) => <a key={a.slug} className={'chip' + (area?.slug === a.slug ? ' on' : '')} href={`/rejsy/${a.slug}/`}>{a.title.replace(/^Rejsy /, '').replace(/^Dalekie rejsy: /, 'Dalekie: ')}</a>)}
+          {CRUISE_AREAS.map((a) => <a key={a.slug} className={'chip' + (area?.slug === a.slug ? ' on' : '')} href={`/rejsy/${a.slug}/`}>{a.short}</a>)}
         </div>
         <CruiseBrowser initialArea={area?.slug || ''} />
       </div>

@@ -12,7 +12,7 @@ export async function generateMetadata({ params }: { params: Promise<{ akwen: st
   const a = cruiseArea((await params).akwen);
   if (!a) return {};
   return {
-    title: `${a.title} 2027 - ceny, terminy, porty | Lecimy na wakacje`,
+    title: `${a.title} 2027 - ceny, terminy, porty`,
     description: a.teaser,
     alternates: { canonical: `/rejsy/${a.slug}/` },
   };
