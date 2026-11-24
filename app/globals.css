@@ -375,3 +375,43 @@ p { margin: 0 0 1em; }
 /* widget ofert wakacje.pl */
 .offers-widget { min-height: 420px; border-radius: var(--radius); background: var(--soft); padding: 12px; margin: 8px 0 24px; }
 .offers-widget > div { min-width: 0; }
+
+/* lista ofert z filtrami */
+.ob { margin: 0 0 32px; }
+.ob select, .ob input { font: inherit; font-size: 0.95rem; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; min-height: 44px; width: 100%; }
+.ob label { display: flex; flex-direction: column; gap: 6px; font-size: 0.8rem; font-weight: 700; color: var(--ink-2); flex: 1 1 150px; min-width: 0; }
+.ob-dates { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; background: var(--sand); border-radius: var(--radius); padding: 20px; margin-bottom: 32px; }
+.ob-dates-h { flex: 1 1 100%; display: flex; flex-direction: column; gap: 2px; }
+.ob-dates-h b { font-size: 1.1rem; }
+.ob-dates-h span { font-size: 0.92rem; color: #5c4a20; }
+.ob-dates .btn { flex: 0 0 auto; min-height: 44px; }
+.ob-head h2 { margin: 0 0 6px !important; }
+.ob-head p { margin: 0 0 16px; }
+.ob-filters { display: flex; flex-wrap: wrap; gap: 12px; padding: 16px; background: var(--soft); border-radius: var(--radius); margin-bottom: 16px; }
+.ob-count { font-size: 0.9rem; font-weight: 700; color: var(--ink-2); margin-bottom: 10px; }
+.ob-empty { padding: 32px; text-align: center; background: var(--soft); border-radius: var(--radius); color: var(--ink-2); }
+.prose ul.ob-list, .ob-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+.ob-list > li { margin: 0; }
+.ob-card { display: grid; grid-template-columns: 220px minmax(0, 1fr) 180px; gap: 18px; padding: 12px; border: 1px solid var(--line); border-radius: var(--radius); background: #fff; color: var(--ink); text-decoration: none !important; transition: box-shadow 0.15s, border-color 0.15s; }
+.ob-card:hover { box-shadow: var(--shadow); border-color: transparent; }
+.ob-img { position: relative; border-radius: 14px; overflow: hidden; background: var(--soft); aspect-ratio: 4 / 3; }
+.ob-img img { width: 100%; height: 100%; object-fit: cover; }
+.ob-promo { position: absolute; left: 8px; top: 8px; background: var(--sun); color: var(--ink); font-size: 0.75rem; font-weight: 800; padding: 4px 10px; border-radius: 999px; }
+.ob-body { display: flex; flex-direction: column; gap: 4px; padding: 4px 0; min-width: 0; }
+.ob-place { font-size: 0.8rem; font-weight: 700; color: var(--ocean); text-transform: uppercase; letter-spacing: 0.04em; }
+.ob-body h3 { font-size: 1.15rem !important; margin: 0 !important; }
+.ob-stars { color: #e09a00; font-size: 0.9rem; letter-spacing: 2px; }
+.prose ul.ob-meta, .ob-meta { list-style: none; padding: 0; margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 0.88rem; color: var(--ink-2); }
+.ob-meta li { margin: 0; color: var(--ink-2) !important; }
+.ob-side { display: flex; flex-direction: column; align-items: flex-end; justify-content: center; gap: 2px; text-align: right; padding-right: 6px; }
+.ob-rating { font-size: 0.8rem; color: var(--ink-2); margin-bottom: 6px; }
+.ob-rating b { background: var(--ocean); color: #fff; border-radius: 8px; padding: 2px 7px; margin-right: 4px; }
+.ob-old { font-size: 0.85rem; color: var(--ink-3); }
+.ob-price { font-size: 1.6rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; }
+.ob-pp { font-size: 0.8rem; color: var(--ink-2); margin-bottom: 8px; }
+.ob-more { margin: 18px auto 0; display: flex; }
+@media (max-width: 720px) {
+  .ob-card { grid-template-columns: 1fr; }
+  .ob-side { flex-direction: row; flex-wrap: wrap; align-items: baseline; justify-content: space-between; text-align: left; gap: 8px; }
+  .ob-side .btn { width: 100%; }
+}
