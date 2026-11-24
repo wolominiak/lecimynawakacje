@@ -84,7 +84,7 @@ export default function Home() {
               <span>Hotele z pełnym wyżywieniem w Turcji, Egipcie, Grecji i na Karaibach od kilkudziesięciu biur podróży.</span>
               <em>Sprawdź oferty &rarr;</em>
             </a>
-            <a href={wakacjeUrl(undefined, { lastMinute: true })} target="_blank" rel="sponsored nofollow noopener">
+            <a href="/last-minute/">
               <b>Last minute</b>
               <span>Wyloty w najbliższych dniach z polskich lotnisk, często w dużo niższej cenie.</span>
               <em>Zobacz wyloty &rarr;</em>

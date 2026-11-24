@@ -4,7 +4,7 @@ import Logo from '@/components/Logo';
 import Search from '@/components/Search';
 import { searchItems } from '@/lib/search';
 import { CONTINENTS, popular } from '@/lib/data';
-import { SITE, wakacjeUrl } from '@/lib/affiliate';
+import { SITE } from '@/lib/affiliate';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
@@ -33,7 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </nav>
             <div className="hdr-right">
               <Search items={items} placeholder="Szukaj kierunku..." />
-              <a className="btn btn-sm" href={wakacjeUrl(undefined, { lastMinute: true })} target="_blank" rel="sponsored nofollow noopener">Last minute</a>
+              <a className="btn btn-sm" href="/last-minute/">Last minute</a>
             </div>
           </div>
         </header>
@@ -58,6 +58,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <ul>
                   <li><a href="/wakacje/">Wszystkie kraje A-Z</a></li>
                   <li><a href="/gdzie-na-wakacje/">Gdzie na wakacje w danym miesiącu</a></li>
+                  <li><a href="/last-minute/">Last minute</a></li>
                   <li><a href="/o-serwisie/">O serwisie i współpraca</a></li>
                   <li><a href="/polityka-prywatnosci/">Polityka prywatności</a></li>
                 </ul>
