@@ -1,0 +1,295 @@
+// Narzędzia asystenta AI: dane portalu (przewodniki), oferty Exim i wakacje.pl, last minute, eSIM, wycieczki.
+// Model nie zna cen ani ofert z głowy, dostaje je wyłącznie stąd.
+import { getCountries, warmIn, wakacjeCountryId, wakacjeRegionId, MONTHS } from './data';
+import { gygSearchUrl, wakacjeUrl } from './affiliate';
+import { esimFor, esimUrl } from './esim';
+import type { Country, Region } from './types';
+
+export type Card = {
+  title: string; place: string; stars?: number; img?: string;
+  from?: string; date?: string; nights?: number; board?: string;
+  pricePP?: number; priceTotal?: number; persons?: number; url: string; src: string; lm?: boolean;
+};
+
+const TL_API = 'https://widget.wakacje.pl/v2/api/widgets/offers';
+const TL_IMG = 'https://i.wakacje.pl';
+const norm = (s: string) => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').trim();
+const cut = (s: string | undefined, n: number) => (!s ? undefined : s.length > n ? s.slice(0, s.lastIndexOf(' ', n - 3) > 0 ? s.lastIndexOf(' ', n - 3) : n - 3) + '...' : s);
+const today = () => new Date().toISOString().slice(0, 10);
+const num = (s: string | number) => Number(String(s).replace(/[^\d]/g, '')) || 0;
+const addDays = (d: string, n: number) => { const x = new Date(d + 'T12:00:00Z'); x.setUTCDate(x.getUTCDate() + n); return x.toISOString().slice(0, 10); };
+
+/** Kraj lub region po nazwie, w dowolnej formie ("Kreta", "grecja", "Wyspy Kanaryjskie") */
+export function resolvePlace(q: string): { c: Country; r?: Region } | null {
+  const t = norm(q);
+  if (!t) return null;
+  const all = getCountries();
+  for (const c of all) if (norm(c.name) === t || c.slug === t.replace(/\s+/g, '-')) return { c };
+  for (const c of all) for (const r of c.content?.regions || []) if (norm(r.name) === t || r.slug === t.replace(/\s+/g, '-')) return { c, r };
+  for (const c of all) for (const r of c.content?.regions || []) if (norm(r.name).includes(t) || t.includes(norm(r.name))) return { c, r };
+  for (const c of all) if (norm(c.name).startsWith(t) || t.includes(norm(c.name))) return { c };
+  return null;
+}
+
+function climateLine(c: Country) {
+  const cl = c.content?.climate;
+  if (!cl) return undefined;
+  return MONTHS.map((m, i) => `${m.name.slice(0, 3)} ${cl.air[i]}°C${cl.sea?.[i] != null ? `/morze ${cl.sea[i]}°C` : ''}`).join(', ');
+}
+
+// 1. Przewodnik po kraju lub regionie
+export function guide(args: { kierunek: string }) {
+  const p = resolvePlace(args.kierunek);
+  if (!p) return { blad: `Nie znam kierunku "${args.kierunek}". Poproś o doprecyzowanie.` };
+  const { c, r } = p;
+  const ct = c.content;
+  const es = esimFor(c);
+  const base: Record<string, unknown> = {
+    kraj: c.name,
+    link_przewodnik: `/wakacje/${c.slug}/`,
+    opis: ct?.teaser,
+    kiedy_jechac: ct?.bestTime?.text,
+    najlepsze_miesiace: ct?.bestTime?.best?.map((m) => MONTHS[m - 1]?.name),
+    klimat_srednie_max: climateLine(c),
+    praktyczne: ct?.practical,
+    waluta: c.currencies?.map((x) => x.code).join(', '),
+    ue: c.eu,
+    esim: es ? { link: esimUrl(c), cena_od_usd: es.package } : undefined,
+    link_oferty_wakacje_pl: ct?.touroperator ? wakacjeUrl(ct.wakacjePath || c.slug) : undefined,
+    link_wycieczki_getyourguide: gygSearchUrl(ct?.gygQuery || c.name),
+  };
+  if (r) {
+    return {
+      ...base,
+      region: r.name,
+      typ: r.type,
+      link_region: `/wakacje/${c.slug}/${r.slug}/`,
+      dla_kogo: r.forWhom,
+      lotnisko: r.airport,
+      opis_regionu: cut(r.intro?.join(' '), 900),
+      miejsca: r.places?.map((x) => ({ nazwa: x.name, opis: cut(x.text, 220) })),
+      wycieczki_region: gygSearchUrl(r.gygQuery || r.name),
+      link_oferty_region: wakacjeUrl(r.wakacjePath || ct?.wakacjePath || c.slug),
+    };
+  }
+  return {
+    ...base,
+    wstep: cut(ct?.intro?.join(' '), 700),
+    regiony: ct?.regions?.map((x) => ({ nazwa: x.name, typ: x.type, link: `/wakacje/${c.slug}/${x.slug}/`, dla_kogo: cut(x.forWhom, 200), lotnisko: x.airport })),
+    atrakcje: ct?.attractions?.slice(0, 12).map((a) => ({ nazwa: a.name, opis: cut(a.text, 200), link_wycieczki: gygSearchUrl(a.gygQuery || a.name) })),
+    all_inclusive: ct?.allInclusive?.slice(0, 4).map((x) => cut(x, 200)),
+    kuchnia: ct?.cuisine?.slice(0, 6).map((x) => cut(String(x), 120)),
+  };
+}
+
+// 2. Propozycje kierunków na dany miesiąc
+export function suggest(args: { miesiac: number }) {
+  const m = Math.min(12, Math.max(1, Math.round(args.miesiac || new Date().getMonth() + 1))) - 1;
+  return {
+    miesiac: MONTHS[m].name,
+    kierunki: warmIn(m).slice(0, 12).map((x) => ({
+      kraj: x.country.name, link: `/wakacje/${x.country.slug}/`, powietrze: x.air, morze: x.sea,
+      idealny_miesiac: x.best, oferty_biur: !!x.country.content?.touroperator, opis: x.country.content?.teaser,
+    })),
+  };
+}
+
+type OfferArgs = { kierunek?: string; od?: string; do?: string; noce_min?: number; noce_max?: number; wyzywienie?: string; lotnisko?: string; budzet_na_osobe?: number; sortuj?: string };
+
+const BOARD: Record<string, { tl: number; ex: RegExp }> = {
+  'all inclusive': { tl: 1, ex: /all inclusive|\bai\b|ultra/i },
+  'hb': { tl: 2, ex: /obiadokolac|\bhb\b|half/i },
+  'sniadania': { tl: 3, ex: /^sniadania$|\bbb\b/i },
+  'bez wyzywienia': { tl: 4, ex: /bez/i },
+};
+const boardKey = (s?: string) => {
+  const t = norm(s || '');
+  if (!t) return null;
+  if (t.includes('all') || t.includes('ultra')) return BOARD['all inclusive'];
+  if (t.includes('obiad') || t === 'hb' || t.includes('dwa')) return BOARD['hb'];
+  if (t.includes('sniad') || t === 'bb') return BOARD['sniadania'];
+  if (t.includes('bez')) return BOARD['bez wyzywienia'];
+  return null;
+};
+
+async function travellead(terms: Record<string, unknown>): Promise<any[]> {
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), 9000);
+  try {
+    const r = await fetch(TL_API, {
+      method: 'POST', signal: ctl.signal,
+      headers: { 'Content-Type': 'application/json', Origin: 'https://lecimynawakacje.pl', Referer: 'https://lecimynawakacje.pl/' },
+      body: JSON.stringify({ terms: { regions: [], cities: [], countries: [], limit: 100, ...terms } }),
+    });
+    const j = await r.json();
+    return Array.isArray(j.data) ? j.data : [];
+  } catch { return []; } finally { clearTimeout(timer); }
+}
+
+function tlCard(o: any, lm = false): Card {
+  return {
+    title: o.name, place: (o.placeName || []).filter(Boolean).slice(0, 2).reverse().join(', '), stars: o.category, img: o.photo ? TL_IMG + o.photo : undefined,
+    from: o.departure?.label, date: o.departureDate, nights: o.duration ? o.duration - 1 : undefined, board: o.service?.label,
+    pricePP: num(o.price), url: '/go/oferta/?c=asystent&u=' + encodeURIComponent(o.url), src: 'wakacje.pl', lm,
+  };
+}
+
+function inRange(date: string | undefined, a: OfferArgs) {
+  if (!date) return !a.od && !a.do;
+  const d = date.slice(0, 10);
+  if (d < today()) return false;
+  if (a.od && d < a.od) return false;
+  if (a.do && d > a.do) return false;
+  return true;
+}
+const nightsOk = (n: number | undefined, a: OfferArgs) => n == null ? true : (!a.noce_min || n >= a.noce_min) && (!a.noce_max || n <= a.noce_max);
+const fromOk = (f: string | undefined, a: OfferArgs) => !a.lotnisko || norm(f || '').includes(norm(a.lotnisko).slice(0, 5));
+
+function finish(cards: Card[], a: OfferArgs, extra: Record<string, unknown>) {
+  let l = cards.filter((c) => !a.budzet_na_osobe || (c.pricePP || 0) <= a.budzet_na_osobe);
+  l = a.sortuj === 'data' ? l.sort((x, y) => (x.date || '').localeCompare(y.date || '')) : l.sort((x, y) => (x.pricePP || 0) - (y.pricePP || 0));
+  // różne hotele, nie 6 terminów tego samego
+  const seen = new Set<string>();
+  const top = l.filter((c) => { const k = c.title + c.place; if (seen.has(k)) return false; seen.add(k); return true; }).slice(0, 6);
+  return {
+    cards: top,
+    result: {
+      znaleziono: l.length,
+      oferty: top.map((c, i) => ({
+        nr: i + 1, hotel: c.title, miejsce: c.place, gwiazdki: c.stars, wylot_z: c.from, data_wylotu: c.date, noce: c.nights,
+        wyzywienie: c.board, cena_za_osobe_pln: c.pricePP, cena_razem_pln: c.priceTotal, osob: c.persons, zrodlo: c.src, link: c.url,
+      })),
+      uwaga: top.length ? 'Karty z tymi ofertami (zdjęcie, cena, przycisk) użytkownik widzi pod Twoją odpowiedzią. Nie przepisuj wszystkich, polecaj 2 lub 3 i powiedz dlaczego.' : 'Brak ofert dla tych filtrów. Zaproponuj zmianę terminu, budżetu lub kierunku albo podaj link_wyszukiwarka.',
+      ...extra,
+    },
+  };
+}
+
+// 3. Oferty z terminami (Exim + wakacje.pl)
+export async function offers(a: OfferArgs, origin: string) {
+  const p = a.kierunek ? resolvePlace(a.kierunek) : null;
+  if (!p) return { cards: [], result: { blad: 'Podaj kraj lub region, np. Grecja albo Kreta.' } };
+  const { c, r } = p;
+  const bk = boardKey(a.wyzywienie);
+  const cards: Card[] = [];
+
+  // Exim (feed z datami, cena za 2 dorosłych)
+  try {
+    const res = await fetch(`${origin}/exim/${c.slug}.json`, { next: { revalidate: 3600 } } as RequestInit);
+    if (res.ok) {
+      const list: any[] = await res.json();
+      for (const o of list) {
+        if (!inRange(o.dd, a) || !nightsOk(o.nn, a) || !fromOk(o.d, a)) continue;
+        if (r && !norm(o.r + ' ' + o.c).includes(norm(r.name).slice(0, 5))) continue;
+        if (bk && !bk.ex.test(norm(o.b))) continue;
+        const persons = o.a || 2;
+        cards.push({
+          title: o.n, place: [o.c, o.r].filter(Boolean).join(', '), stars: o.s, img: o.img, from: o.d, date: o.dd, nights: o.nn, board: o.b,
+          pricePP: Math.round(o.p / persons), priceTotal: o.p, persons, url: `/go/exim/?k=${c.slug}&id=${encodeURIComponent(o.id)}`, src: 'Exim Tours', lm: o.lm,
+        });
+      }
+    }
+  } catch {}
+
+  // wakacje.pl (TravelLead): bez filtra dat w API, filtrujemy tutaj
+  const cid = wakacjeCountryId(c.slug);
+  const rid = r ? wakacjeRegionId(c.slug, r.slug) : null;
+  if (cid) {
+    const terms: Record<string, unknown> = rid ? { regions: [rid] } : { countries: [cid] };
+    if (bk) terms.service = [bk.tl];
+    if (a.budzet_na_osobe) terms.maxPrice = a.budzet_na_osobe;
+    const tl = await travellead(terms);
+    for (const o of tl) {
+      if (o.transport && o.transport.value !== 1) continue;
+      if (r && !rid && !norm((o.placeName || []).join(' ')).includes(norm(r.name).slice(0, 5))) continue;
+      const card = tlCard(o);
+      if (!inRange(card.date, a) || !nightsOk(card.nights, a) || !fromOk(card.from, a)) continue;
+      cards.push(card);
+    }
+  }
+
+  const f: string[] = [];
+  if (a.od) f.push('od-' + a.od);
+  if (a.do) f.push('do-' + a.do);
+  const q = new URLSearchParams({ p: (r?.wakacjePath || c.content?.wakacjePath || c.slug), f: f.join(',') });
+  return finish(cards, a, {
+    kierunek: r ? `${r.name} (${c.name})` : c.name,
+    link_wyszukiwarka: `/go/szukaj/?${q}`,
+    link_strona_ofert: `/wakacje/${c.slug}/oferty/`,
+    info: 'Exim podaje cenę za 2 dorosłych, przeliczona na osobę. wakacje.pl podaje cenę za osobę.',
+  });
+}
+
+// 4. Last minute
+export async function lastMinute(a: { kierunek?: string; budzet_na_osobe?: number; dni?: number; lotnisko?: string }) {
+  const p = a.kierunek ? resolvePlace(a.kierunek) : null;
+  const terms: Record<string, unknown> = { searchType: 'lastminute' };
+  if (p) {
+    const cid = wakacjeCountryId(p.c.slug);
+    if (!cid) return { cards: [], result: { blad: `Brak ofert last minute dla ${p.c.name}. Zaproponuj inny kierunek lub /last-minute/.` } };
+    terms.countries = [cid];
+  }
+  if (a.budzet_na_osobe) terms.maxPrice = a.budzet_na_osobe;
+  const tl = await travellead(terms);
+  const to = addDays(today(), a.dni || 21);
+  const cards = tl
+    .filter((o) => o.placeName?.[0] !== 'Polska' && (!o.transport || o.transport.value === 1))
+    .map((o) => tlCard(o, true))
+    .filter((c) => c.date && c.date.slice(0, 10) >= today() && c.date.slice(0, 10) <= to && fromOk(c.from, a as OfferArgs));
+  return finish(cards, { budzet_na_osobe: a.budzet_na_osobe }, { strona_last_minute: p ? `/last-minute/?kraj=${p.c.slug}` : '/last-minute/' });
+}
+
+export const TOOL_DECLARATIONS = [
+  {
+    name: 'przewodnik',
+    description: 'Dane z przewodnika portalu o kraju lub regionie: kiedy jechać, klimat miesiąc po miesiącu, regiony, atrakcje z linkami do wycieczek, praktyczne informacje, eSIM, linki. Używaj przed planowaniem wyjazdu i przy pytaniach o kierunek.',
+    parameters: { type: 'object', properties: { kierunek: { type: 'string', description: 'Kraj lub region po polsku, np. "Grecja", "Kreta", "Wyspy Kanaryjskie"' } }, required: ['kierunek'] },
+  },
+  {
+    name: 'propozycje_kierunkow',
+    description: 'Ciepłe kierunki na dany miesiąc z temperaturą powietrza i morza. Gdy użytkownik nie wie, dokąd jechać.',
+    parameters: { type: 'object', properties: { miesiac: { type: 'integer', description: 'Numer miesiąca 1-12' } }, required: ['miesiac'] },
+  },
+  {
+    name: 'szukaj_ofert',
+    description: 'Prawdziwe oferty biur podróży (Exim Tours i wakacje.pl) z datą wylotu, liczbą nocy, wyżywieniem, miastem wylotu i ceną. Zawsze używaj, gdy padają ceny, terminy albo prośba o hotel.',
+    parameters: {
+      type: 'object',
+      properties: {
+        kierunek: { type: 'string', description: 'Kraj lub region po polsku' },
+        od: { type: 'string', description: 'Najwcześniejsza data wylotu YYYY-MM-DD' },
+        do: { type: 'string', description: 'Najpóźniejsza data wylotu YYYY-MM-DD' },
+        noce_min: { type: 'integer' },
+        noce_max: { type: 'integer' },
+        wyzywienie: { type: 'string', description: 'all inclusive, hb, sniadania, bez wyzywienia' },
+        lotnisko: { type: 'string', description: 'Miasto wylotu, np. Katowice, Warszawa' },
+        budzet_na_osobe: { type: 'integer', description: 'Maksymalna cena za osobę w PLN' },
+        sortuj: { type: 'string', enum: ['cena', 'data'] },
+      },
+      required: ['kierunek'],
+    },
+  },
+  {
+    name: 'last_minute',
+    description: 'Oferty last minute z wylotem w najbliższych dniach, opcjonalnie dla kraju i budżetu.',
+    parameters: {
+      type: 'object',
+      properties: {
+        kierunek: { type: 'string', description: 'Kraj po polsku, puste = wszystkie' },
+        budzet_na_osobe: { type: 'integer' },
+        dni: { type: 'integer', description: 'Wylot w ciągu ilu dni, domyślnie 21' },
+        lotnisko: { type: 'string' },
+      },
+    },
+  },
+];
+
+export async function runTool(name: string, args: any, origin: string): Promise<{ result: unknown; cards?: Card[] }> {
+  switch (name) {
+    case 'przewodnik': return { result: guide(args) };
+    case 'propozycje_kierunkow': return { result: suggest(args) };
+    case 'szukaj_ofert': return offers(args, origin);
+    case 'last_minute': return lastMinute(args);
+    default: return { result: { blad: 'Nieznane narzędzie' } };
+  }
+}

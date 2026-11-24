@@ -2,6 +2,7 @@ import './globals.css';
 import type { Metadata, Viewport } from 'next';
 import Logo from '@/components/Logo';
 import Search from '@/components/Search';
+import AssistantLauncher from '@/components/AssistantLauncher';
 import { CONTINENTS, popular } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
 
@@ -28,6 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <a href="/gdzie-na-wakacje/">Gdzie na wakacje?</a>
               <a href="/kontynenty/europa/">Europa</a>
               <a href="/kontynenty/azja/">Egzotyka</a>
+              <a href="/asystent/" className="nav-ai">Asystent AI</a>
             </nav>
             <div className="hdr-right">
               <Search placeholder="Szukaj kierunku..." />
@@ -36,6 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </header>
         <main>{children}</main>
+        <AssistantLauncher />
         <footer className="ftr">
           <div className="wrap">
             <div className="ftr-grid">

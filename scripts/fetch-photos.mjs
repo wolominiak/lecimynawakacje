@@ -82,7 +82,7 @@ async function pexels(q, lang) {
   return ((await r.json()).photos || []).map((p) => ({ id: String(p.id), width: p.width, alt: p.alt, by: p.photographer, url: p.url, src: p.src.original + '?auto=compress&w=1800' }));
 }
 
-const clean = (s) => String(s || '').replace(/[–—]/g, '-').trim();
+const clean = (s) => String(s || '').replace(/[\u2013\u2014]/g, '-').trim();
 
 let done = 0, ok = 0;
 for (const job of jobs) {

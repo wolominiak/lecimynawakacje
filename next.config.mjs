@@ -7,6 +7,8 @@ const G = `partner_id=${aff.gygPartnerId}&cmp=lecimynawakacje&locale_autoredirec
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   trailingSlash: true,
+  // Asystent AI czyta przewodniki z dysku w funkcji serwerowej
+  outputFileTracingIncludes: { '/api/asystent': ['./content/**/*', './data/**/*'] },
   poweredByHeader: false,
   async redirects() {
     return [
