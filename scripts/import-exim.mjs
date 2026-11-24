@@ -37,16 +37,30 @@ for (const base of ['https://api.tradedoubler.com/1.0/productsUnlimited/lastUpda
 console.log('Feed zaktualizowany:', last || 'nieznane', '| poprzedni import:', meta.feedUpdated || 'brak');
 if (!FORCE && last && meta.feedUpdated === last) { console.log('Bez zmian, pomijam pobieranie.'); process.exit(0); }
 
-// 2. Pobranie całego feedu (link z sekretu, jeśli to link Unlimited; inaczej budujemy go z tokenu)
-const feedUrl = /productsUnlimited/.test(FEED_URL) ? FEED_URL : `https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=${FID}?token=${TOKEN}`;
+// 2. Pobranie całego feedu. TradeDoubler generuje plik Unlimited asynchronicznie:
+// pierwsze zapytanie zleca wygenerowanie, więc czekamy i ponawiamy, aż przyjdą produkty.
+let feedUrl = /productsUnlimited/.test(FEED_URL) ? FEED_URL : `https://api.tradedoubler.com/1.0/productsUnlimited.json;fid=${FID}?token=${TOKEN}`;
+feedUrl = feedUrl.replace(/^http:/, 'https:').replace(/;compress=[a-z]+/i, ''); // czysty JSON zamiast ZIP
 console.log('Pobieram:', mask(feedUrl));
-const res = await fetch(feedUrl.replace(/^http:/, 'https:'), { headers: { Accept: 'application/json' } });
-if (res.status === 429) { console.error('429: limit pobrań tej wersji feedu wyczerpany, spróbuj jutro.'); process.exit(1); }
-if (!res.ok) { console.error('HTTP', res.status, (await res.text()).slice(0, 300).replace(TOKEN, '***')); process.exit(1); }
-const data = await res.json();
-const products = data.products || [];
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+let products = [];
+for (let attempt = 1; attempt <= 15; attempt++) {
+  const res = await fetch(feedUrl, { headers: { Accept: 'application/json' } });
+  const type = res.headers.get('content-type') || '';
+  const body = await res.text();
+  if (res.status === 429) { console.error('429: limit pobrań tej wersji feedu wyczerpany, spróbuj jutro.', body.slice(0, 200)); process.exit(1); }
+  let data = null;
+  try { data = JSON.parse(body); } catch {}
+  products = data?.products || [];
+  console.log(`Próba ${attempt}: HTTP ${res.status}, ${type}, ${body.length} B, produktów: ${products.length}`);
+  if (products.length) break;
+  console.log('  Odpowiedź:', body.slice(0, 300).replace(TOKEN, '***'));
+  if (res.status >= 400 && res.status !== 404 && res.status !== 202) process.exit(1);
+  await sleep(60000); // plik się generuje, czekamy minutę
+}
 console.log('Ofert w feedzie:', products.length);
-if (!products.length) { console.error('Pusty feed - nic nie zapisuję.'); process.exit(1); }
+if (!products.length) { console.error('Feed nadal pusty po 15 minutach. Uruchom import ponownie później.'); process.exit(1); }
 
 // 3. Dopasowanie krajów do slugów portalu
 const countries = JSON.parse(fs.readFileSync(path.join(root, 'data', 'countries.json'), 'utf8'));
