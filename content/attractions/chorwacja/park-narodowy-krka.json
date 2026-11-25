@@ -1,0 +1,67 @@
+{
+  "name": "Park Narodowy Krka",
+  "slug": "park-narodowy-krka",
+  "country": "chorwacja",
+  "lead": "Park Narodowy Krka to jeden z najpiękniejszych parków narodowych w Chorwacji, słynący z kaskadowych wodospadów, szmaragdowych jezior i bujnej roślinności. To idealne miejsce na kontakt z naturą.",
+  "intro": [
+    "Park Narodowy Krka, położony w środkowej Dalmacji, to obszar chroniony wokół rzeki Krka. Jego największą atrakcją są liczne wodospady, z których najbardziej znany to Skradinski Buk. Park oferuje malownicze krajobrazy, idealne do spacerów i podziwiania przyrody.",
+    "Oprócz imponujących wodospadów, park obejmuje także jeziora, kaniony i historyczne obiekty, takie jak klasztor Franciszkanów na wyspie Visovac. Zwiedzający mogą korzystać z dobrze przygotowanych ścieżek i mostków, które prowadzą przez najciekawsze zakątki. Rejsy statkiem po rzece Krka to kolejna popularna forma eksploracji.",
+    "Park Narodowy Krka to miejsce, gdzie można poczuć bliskość natury i uciec od zgiełku miasta. Szum wody, śpiew ptaków i zieleń otoczenia tworzą relaksującą atmosferę. To doskonały wybór dla osób szukających aktywnego wypoczynku na łonie przyrody."
+  ],
+  "highlights": [
+    {
+      "name": "Wodospad Skradinski Buk",
+      "text": "To najsłynniejszy i największy system wodospadów w parku, składający się z 17 kaskad. Dookoła niego prowadzą drewniane kładki, umożliwiające bliskie podziwianie potęgi natury."
+    },
+    {
+      "name": "Klasztor na wyspie Visovac",
+      "text": "Położony na malowniczej wyspie na rzece Krka, klasztor Franciszkanów z kościołem Matki Bożej to miejsce o bogatej historii. Można do niego dotrzeć łodzią z przystani Skradinski Buk lub Stinice."
+    },
+    {
+      "name": "Wodospad Roški Slap",
+      "text": "Drugi co do wielkości wodospad w parku, charakteryzujący się szerokim, kaskadowym spadkiem wody. W jego okolicy znajdują się stare młyny wodne i jaskinia Oziđana Pećina."
+    },
+    {
+      "name": "Ścieżki edukacyjne",
+      "text": "W parku wytyczono liczne ścieżki edukacyjne, które pozwalają na poznanie flory i fauny regionu. Są one dobrze oznakowane i dostępne dla większości turystów."
+    },
+    {
+      "name": "Rejsy statkiem",
+      "text": "Rejsy po rzece Krka to świetny sposób na podziwianie parku z innej perspektywy. Statki kursują między głównymi atrakcjami, takimi jak Skradinski Buk, Visovac i Roški Slap."
+    }
+  ],
+  "visitTime": "Na zwiedzanie głównych atrakcji, takich jak Skradinski Buk i rejs na Visovac, warto zarezerwować co najmniej 4-5 godzin. Jeśli planuje się dotrzeć do Roški Slap i innych punktów, może to zająć cały dzień.",
+  "bestTime": "Najlepszy czas na wizytę to wiosna (kwiecień-maj) lub wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy mniejsze niż latem. Latem najlepiej przyjechać wcześnie rano, aby uniknąć największego natłoku turystów.",
+  "gettingThere": "Park Narodowy Krka jest łatwo dostępny samochodem. Najbliższe większe miasta to Szybenik i Split. Z wielu chorwackich kurortów organizowane są zorganizowane wycieczki autokarowe. Do parku można dojechać również autobusem publicznym do Skradinu, a stamtąd statkiem do Skradinskiego Buka.",
+  "tickets": "Bilet wstępu do Parku Narodowego Krka jest płatny, a jego cena zależy od sezonu. Zazwyczaj taniej jest kupić bilet online z wyprzedzeniem. Aktualne ceny i godziny otwarcia są dostępne na oficjalnej stronie internetowej parku. Warto rozważyć zakup biletu łączonego, jeśli planuje się rejsy po parku.",
+  "tips": [
+    "Załóż wygodne buty, ponieważ ścieżki w parku są kamieniste i drewniane.",
+    "Zabierz ze sobą wodę i przekąski, zwłaszcza jeśli planujesz dłuższe spacery.",
+    "Pamiętaj o ochronie przeciwsłonecznej - krem z filtrem, kapelusz i okulary są wskazane, szczególnie latem.",
+    "Na terenie parku obowiązują zasady ochrony przyrody - nie wolno karmić zwierząt, śmiecić ani schodzić z wyznaczonych szlaków.",
+    "Sprawdź aktualne informacje o możliwości kąpieli w rzece Krka, ponieważ zasady te mogą się zmieniać.",
+    "Przyjedź wcześnie rano, aby uniknąć tłumów i cieszyć się spokojniejszym zwiedzaniem."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto odwiedzić Park Narodowy Krka?",
+      "a": "Tak, Park Narodowy Krka to jedno z najpiękniejszych miejsc w Chorwacji, oferujące spektakularne wodospady i malownicze krajobrazy. To doskonały wybór dla miłośników przyrody i aktywnego wypoczynku."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Parku Narodowego Krka?",
+      "a": "Na zwiedzanie głównych atrakcji, takich jak Skradinski Buk i rejs na Visovac, warto zarezerwować od 4 do 5 godzin. Jeśli planujesz zobaczyć więcej, przygotuj się na cały dzień."
+    },
+    {
+      "q": "Czy w Parku Narodowym Krka można się kąpać?",
+      "a": "Od 2021 roku kąpiel w wodospadach Parku Narodowego Krka jest zabroniona. Należy sprawdzić aktualne przepisy na oficjalnej stronie parku, ponieważ mogą się one zmieniać."
+    },
+    {
+      "q": "Jak dojechać do Parku Narodowego Krka?",
+      "a": "Do parku można dojechać samochodem, autobusem publicznym do Skradinu lub wykupić zorganizowaną wycieczkę z pobliskich miast, takich jak Szybenik czy Split."
+    }
+  ],
+  "gygQuery": "Krka National Park tour",
+  "forWhom": "Park Narodowy Krka to idealne miejsce dla rodzin z dziećmi, par, miłośników przyrody i fotografii. Dobrze przygotowane ścieżki sprawiają, że jest dostępny dla osób w różnym wieku i o różnej kondycji fizycznej.",
+  "history": "Park Narodowy Krka został utworzony w 1985 roku w celu ochrony rzeki Krka i jej unikalnego ekosystemu. Rzeka ta, o długości 72,5 km, jest znana z siedmiu imponujących wodospadów, które powstały w wyniku osadzania się trawertynu. Obszar ten był zamieszkany od czasów prehistorycznych, o czym świadczą liczne stanowiska archeologiczne. Klasztor na wyspie Visovac ma swoje korzenie w XIV wieku.",
+  "gygTourId": 799134
+}

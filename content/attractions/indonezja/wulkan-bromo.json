@@ -1,0 +1,67 @@
+{
+  "name": "Wulkan Bromo",
+  "slug": "wulkan-bromo",
+  "country": "indonezja",
+  "lead": "Wulkan Bromo to jeden z najbardziej ikonicznych krajobrazów Indonezji. Odkryj księżycowy pejzaż kaldery o świcie, który zapiera dech w piersiach.",
+  "intro": [
+    "Wulkan Bromo, położony we wschodniej Jawie, jest aktywnym stratowulkanem i częścią masywu Tengger. Znajduje się w ogromnej kalderze, która sama w sobie jest niezwykłym widokiem, otoczona przez inne wierzchołki, takie jak Semeru. To miejsce przyciąga podróżnych z całego świata, pragnących doświadczyć jego surowego piękna i mistycznej atmosfery.",
+    "Główną atrakcją jest obserwacja wschodu słońca z punktów widokowych, skąd rozciąga się panorama na dymiący krater Bromo, otoczony przez morze piasku i wznoszące się w oddali szczyty. Następnie, wielu decyduje się na zejście do kaldery i podejście do samego krateru Bromo. Doświadczenie to łączy w sobie element przygody z kontemplacją potęgi natury.",
+    "Krajobraz wokół Bromo jest często opisywany jako księżycowy lub wręcz pozaziemski. Ogromna, piaszczysta kaldera, zwana Morzem Piasku, kontrastuje z zielonymi zboczami i błękitem nieba. Dym unoszący się z krateru dodaje dramatyzmu, a zmieniające się kolory nieba o świcie tworzą niezapomniane widowisko, które na długo pozostaje w pamięci."
+  ],
+  "highlights": [
+    {
+      "name": "Wschód słońca z punktu widokowego Penanjakan",
+      "text": "To klasyczny widok na Bromo, Semeru i całą kalderę Tengger. Warto przybyć wcześnie, aby zająć dobre miejsce i podziwiać zmieniające się barwy nieba."
+    },
+    {
+      "name": "Podejście do krateru Bromo",
+      "text": "Po wschodzie słońca można zejść do Morza Piasku, a następnie wspiąć się po schodach na krawędź aktywnego krateru, by zajrzeć do jego wnętrza."
+    },
+    {
+      "name": "Morze Piasku (Lautan Pasir)",
+      "text": "Przejazd lub przejście przez rozległą piaszczystą kalderę jest doświadczeniem samym w sobie. Krajobraz jest surowy i niezwykły."
+    },
+    {
+      "name": "Świątynia Pura Luhur Poten",
+      "text": "Hinduska świątynia położona na Morzu Piasku, u podnóża Bromo. Jest ważnym miejscem kultu dla lokalnej społeczności Tenggerese."
+    },
+    {
+      "name": "Wodospad Madakaripura",
+      "text": "W drodze powrotnej z Bromo, warto zatrzymać się przy tym imponującym wodospadzie, ukrytym w głębokiej dolinie, oferującym orzeźwienie i piękne widoki."
+    }
+  ],
+  "visitTime": "Na samo podziwianie wschodu słońca i podejście do krateru Bromo należy zarezerwować około 5-6 godzin, licząc od wyjazdu z hotelu wczesnym rankiem.",
+  "bestTime": "Najlepszy czas na wizytę to pora sucha, od kwietnia do października, kiedy pogoda jest najbardziej stabilna i widoczność najlepsza. Wschód słońca jest kluczowym momentem dnia, dlatego większość wycieczek rozpoczyna się w środku nocy.",
+  "gettingThere": "Zazwyczaj do Bromo dojeżdża się z miast takich jak Surabaya lub Malang. Najpopularniejszym sposobem jest zorganizowana wycieczka, która obejmuje transport jeepem do punktów widokowych i do kaldery. Można też dojechać autobusem do Cemoro Lawang, a stamtąd wynająć jeepa lub dojść pieszo.",
+  "tickets": "Wstęp do Parku Narodowego Bromo Tengger Semeru jest płatny. Bilety można kupić na miejscu, ale często są one wliczone w cenę zorganizowanych wycieczek. Zawsze warto sprawdzić aktualne ceny i zasady na oficjalnej stronie parku.",
+  "tips": [
+    "Ubierz się warstwowo - wczesnym rankiem na wulkanie jest bardzo zimno, ale w ciągu dnia temperatura szybko rośnie.",
+    "Zabierz ze sobą czapkę, rękawiczki i szalik - ochrona przed zimnem i wiatrem jest kluczowa.",
+    "Załóż wygodne buty trekkingowe - podejście do krateru Bromo i poruszanie się po Morzu Piasku wymaga stabilnego obuwia.",
+    "Miej przy sobie wodę i przekąski - na trasie nie ma wielu punktów, gdzie można coś kupić.",
+    "Zabierz maskę lub chustę na twarz - dym z krateru i piasek na Morzu Piasku mogą być uciążliwe.",
+    "Przygotuj się na tłumy, zwłaszcza w szczycie sezonu i w weekendy. Warto spróbować wybrać się w tygodniu."
+  ],
+  "faq": [
+    {
+      "q": "Czy wejście na Bromo jest trudne?",
+      "a": "Podejście do krateru Bromo nie jest technicznie trudne, ale wymaga pokonania wielu schodów. Wcześniejsze wstawanie i zimno mogą być wyzwaniem. Osoby z problemami z sercem lub oddechem powinny zachować ostrożność."
+    },
+    {
+      "q": "Czy Bromo jest bezpieczne?",
+      "a": "Bromo jest aktywnym wulkanem, ale jest monitorowany. Dostęp do krateru jest otwarty, gdy poziom aktywności jest niski. Zawsze należy przestrzegać lokalnych ostrzeżeń i instrukcji przewodników."
+    },
+    {
+      "q": "Czy można odwiedzić Bromo bez zorganizowanej wycieczki?",
+      "a": "Tak, jest to możliwe, ale wymaga więcej planowania. Można dojechać do Cemoro Lawang, a stamtąd wynająć jeepa lub dojść pieszo do punktów widokowych i krateru. Warto jednak rozważyć wycieczkę ze względu na logistykę i wczesną porę."
+    },
+    {
+      "q": "Co warto zobaczyć w okolicy Bromo?",
+      "a": "W okolicy Bromo warto rozważyć wizytę na wodospadzie Madakaripura. Można też połączyć wizytę z innymi atrakcjami Jawy, takimi jak świątynie Borobudur i Prambanan, lub z wycieczką na wulkan Ijen."
+    }
+  ],
+  "gygQuery": "Mount Bromo sunrise tour",
+  "forWhom": "Wulkan Bromo to idealne miejsce dla miłośników przyrody, fotografów i osób szukających niezapomnianych widoków. To także świetna opcja dla tych, którzy chcą doświadczyć przygody i poczuć potęgę natury.",
+  "history": "Wulkan Bromo jest częścią masywu Tengger, który powstał w wyniku aktywności wulkanicznej na przestrzeni milionów lat. Sama kaldera Tengger jest ogromną depresją powstałą po zapadnięciu się pradawnego wulkanu. Bromo jest jednym z młodszych stożków wulkanicznych w tej kalderze i pozostaje aktywny, regularnie wyrzucając dym i popiół. Dla lokalnej społeczności Tenggerese, Bromo jest świętym miejscem, odgrywającym kluczową rolę w ich wierzeniach i corocznych ceremoniach Yadnya Kasada.",
+  "gygTourId": 757266
+}

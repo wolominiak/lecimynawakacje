@@ -1,0 +1,71 @@
+{
+  "name": "Wenecja",
+  "slug": "wenecja",
+  "country": "wlochy",
+  "lead": "Wenecja, miasto zbudowane na wodzie, to unikalne miejsce, które urzeka swoją architekturą i atmosferą. Warto tu przyjechać, by doświadczyć jej niezwykłego charakteru.",
+  "intro": [
+    "Wenecja to miasto położone na ponad stu małych wyspach w Lagunie Weneckiej, połączonych setkami mostów. Zamiast ulic znajdziemy tu kanały, a głównym środkiem transportu są łodzie i gondole. To sprawia, że każda wizyta jest podróżą w czasie do epoki, gdy miasto było potęgą morską.",
+    "Zwiedzanie Wenecji to przede wszystkim spacerowanie wąskimi uliczkami, odkrywanie ukrytych placów i podziwianie misternych fasad budynków. Obowiązkowym punktem jest rejs gondolą po Canal Grande, który pozwala spojrzeć na miasto z innej perspektywy. Warto również zagubić się w labiryncie uliczek, by poczuć autentyczny klimat Wenecji, z dala od głównych szlaków turystycznych.",
+    "Miasto robi wrażenie swoją spójnością architektoniczną i wszechobecnością wody. Odgłosy gondolierów, zapach słonej wody i widoki na zabytkowe pałace tworzą niezapomnianą scenerię. Wenecja to miejsce, które pomimo swojej popularności, wciąż potrafi zaskoczyć i zauroczyć każdego, kto zdecyduje się ją odwiedzić."
+  ],
+  "highlights": [
+    {
+      "name": "Plac Świętego Marka",
+      "text": "Serce Wenecji, otoczone Bazyliką św. Marka, Pałacem Dożów i Wieżą Zegarową. To tutaj koncentruje się życie miasta i większość najważniejszych zabytków."
+    },
+    {
+      "name": "Bazylika Świętego Marka",
+      "text": "Imponująca katedra z bizantyjskimi mozaikami i bogatym wnętrzem. Warto zwrócić uwagę na złoty ołtarz Pala d'Oro i skarbiec."
+    },
+    {
+      "name": "Pałac Dożów",
+      "text": "Dawna siedziba władców Wenecji, arcydzieło gotyckiej architektury. Można zwiedzić bogato zdobione sale, więzienia i słynny Most Westchnień."
+    },
+    {
+      "name": "Most Rialto",
+      "text": "Jeden z najbardziej rozpoznawalnych mostów w Wenecji, łączący brzegi Canal Grande. Oferuje piękne widoki na kanał i jest otoczony licznymi sklepami."
+    },
+    {
+      "name": "Rejs gondolą po Canal Grande",
+      "text": "Klasyczne doświadczenie weneckie, pozwalające podziwiać miasto z perspektywy wody. To doskonały sposób na zobaczenie wielu zabytków i poczucie unikalnej atmosfery."
+    },
+    {
+      "name": "Most Westchnień",
+      "text": "Łączy Pałac Dożów z Nowym Więzieniem. Nazwa pochodzi od westchnień więźniów, którzy po raz ostatni oglądali Wenecję przez jego okna."
+    }
+  ],
+  "visitTime": "Na podstawowe zwiedzanie najważniejszych atrakcji Wenecji należy przeznaczyć co najmniej jeden pełny dzień. Jeśli planujesz wejść do muzeów i kościołów oraz spokojnie poczuć atmosferę, zarezerwuj 2-3 dni.",
+  "bestTime": "Najlepszy czas na wizytę to wiosna (kwiecień-maj) lub wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy nieco mniejsze niż latem. Warto unikać szczytu sezonu letniego (lipiec-sierpień) ze względu na upał i dużą liczbę turystów. Rano, tuż po wschodzie słońca, miasto jest spokojniejsze i można podziwiać je bez tłumów.",
+  "gettingThere": "Do Wenecji można łatwo dojechać pociągiem do stacji Venezia Santa Lucia, która znajduje się tuż przy Canal Grande. Z lotniska Marco Polo kursują autobusy wodne (Alilaguna) oraz autobusy lądowe do Piazzale Roma. Z lądu do Wenecji można również dojechać samochodem, parkując na Piazzale Roma lub wyspie Tronchetto, a następnie kontynuując podróż pieszo lub vaporetto (tramwajem wodnym).",
+  "tickets": "Większość głównych atrakcji, takich jak Pałac Dożów czy Bazylika św. Marka (za wejście do skarbca i na taras), wymaga zakupu biletów. Zaleca się rezerwację biletów online z wyprzedzeniem, aby uniknąć długich kolejek, szczególnie w sezonie. Warto rozważyć zakup karty turystycznej Venice Pass, która może obejmować wstępy do kilku atrakcji i transport. Aktualne ceny i godziny otwarcia zawsze sprawdzaj na oficjalnych stronach internetowych poszczególnych obiektów.",
+  "tips": [
+    "Noś wygodne buty - Wenecja to miasto, które zwiedza się głównie pieszo, a brukowane uliczki mogą być męczące.",
+    "Zawsze miej przy sobie butelkę wody, zwłaszcza latem. W mieście jest wiele fontann z pitną wodą.",
+    "Uważaj na kieszonkowców w zatłoczonych miejscach, szczególnie na Placu Świętego Marka.",
+    "Naucz się kilku podstawowych zwrotów po włosku, co zawsze jest mile widziane przez mieszkańców.",
+    "Zgub się w bocznych uliczkach - to tam często kryją się najpiękniejsze widoki i autentyczne restauracje.",
+    "Pamiętaj o odpowiednim stroju podczas zwiedzania kościołów i bazylik - ramiona i kolana powinny być zakryte."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto kupić bilet na gondolę?",
+      "a": "Rejs gondolą to ikoniczne doświadczenie w Wenecji. Choć jest to kosztowna atrakcja, dla wielu turystów jest to niezapomniany sposób na podziwianie miasta z perspektywy kanałów. Można też dzielić gondolę z innymi osobami, aby obniżyć koszt."
+    },
+    {
+      "q": "Jak poruszać się po Wenecji?",
+      "a": "Głównymi środkami transportu są piesze wędrówki oraz vaporetto (tramwaje wodne), które kursują po Canal Grande i do okolicznych wysp. Gondole i taksówki wodne są droższe, ale oferują bardziej prywatne doświadczenie."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Wenecji?",
+      "a": "Na podstawowe zwiedzanie najważniejszych atrakcji wystarczy jeden pełny dzień. Aby jednak w pełni poczuć atmosferę miasta i odwiedzić więcej miejsc, zaleca się 2-3 dni."
+    },
+    {
+      "q": "Czy Wenecja jest droga?",
+      "a": "Wenecja jest uważana za jedno z droższych miast we Włoszech, zwłaszcza jeśli chodzi o zakwaterowanie i posiłki w okolicach głównych atrakcji. Można jednak znaleźć tańsze opcje, oddalając się od centrum i szukając lokalnych restauracji."
+    }
+  ],
+  "gygQuery": "Venice tours",
+  "forWhom": "Wenecja to idealne miejsce dla par szukających romantycznego wyjazdu, miłośników historii i architektury, a także dla każdego, kto chce doświadczyć unikalnego miasta na wodzie. Ze względu na liczne mosty i brak samochodów, może być wyzwaniem dla osób z ograniczoną mobilnością.",
+  "history": "Wenecja powstała w V wieku, kiedy mieszkańcy lądu uciekali przed najazdami barbarzyńców na wyspy laguny. Z czasem, dzięki strategicznemu położeniu, miasto stało się potężną republiką morską, dominującą w handlu między Wschodem a Zachodem. Okres największej świetności przypada na wieki średnie i renesans, kiedy to Wenecja była jednym z najbogatszych i najbardziej wpływowych miast Europy, słynącym z architektury, sztuki i innowacji. Jej niezależność trwała aż do końca XVIII wieku, kiedy to została podbita przez Napoleona.",
+  "gygTourId": 947214
+}
