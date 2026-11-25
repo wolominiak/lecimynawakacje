@@ -1,0 +1,67 @@
+{
+  "name": "Aarhus",
+  "slug": "aarhus",
+  "country": "dania",
+  "lead": "Aarhus to tętniące życiem drugie co do wielkości miasto Danii, które łączy nowoczesną architekturę z bogatą historią i studencką atmosferą. To idealne miejsce na city break.",
+  "intro": [
+    "Aarhus, położone na wschodnim wybrzeżu Półwyspu Jutlandzkiego, jest dynamicznym centrum kultury i nauki. Miasto słynie z innowacyjnego podejścia do urbanistyki, co widać w jego nowoczesnych dzielnicach portowych i architekturze, która harmonijnie współgra z historyczną zabudową. To miejsce, gdzie tradycja spotyka się z awangardą, oferując odwiedzającym unikalne doświadczenia.",
+    "W Aarhus można spędzić czas na zwiedzaniu światowej klasy muzeów, takich jak ARoS Aarhus Kunstmuseum z jego ikonicznym tęczowym punktem widokowym, czy Den Gamle By - skansen przedstawiający życie w Danii na przestrzeni wieków. Miasto jest również znane z urokliwych uliczek, kawiarni i restauracji, które tętnią życiem dzięki dużej liczbie studentów. Spacer po Dzielnicy Łacińskiej to podróż w czasie, a nadbrzeże oferuje relaks i nowoczesne atrakcje.",
+    "Aarhus robi wrażenie swoją otwartością i energią. Jest to miasto, które nieustannie się rozwija, jednocześnie pielęgnując swoje korzenie. Odwiedzający mogą poczuć autentyczną duńską atmosferę, doświadczając zarówno spokojnych zakątków, jak i dynamicznego, miejskiego rytmu. To doskonałe miejsce dla tych, którzy szukają połączenia kultury, historii i nowoczesności."
+  ],
+  "highlights": [
+    {
+      "name": "ARoS Aarhus Kunstmuseum",
+      "text": "Jedno z największych muzeów sztuki w Europie Północnej, znane z instalacji 'Your rainbow panorama' na dachu, oferującej spektakularne widoki na miasto przez kolorowe szkła."
+    },
+    {
+      "name": "Den Gamle By (Stare Miasto)",
+      "text": "Żywe muzeum na świeżym powietrzu, gdzie można przenieść się w czasie do Danii z różnych epok, spacerując wśród autentycznych budynków i spotykając aktorów w strojach z epoki."
+    },
+    {
+      "name": "Katedra w Aarhus (Domkirke)",
+      "text": "Najdłuższy kościół w Danii, imponująca gotycka budowla z pięknymi freskami i bogatą historią, położona w sercu miasta."
+    },
+    {
+      "name": "Latinerkvarteret (Dzielnica Łacińska)",
+      "text": "Najstarsza część miasta z wąskimi, brukowanymi uliczkami, kolorowymi kamienicami, butikami, kawiarniami i restauracjami, idealna na spacer i posiłek."
+    },
+    {
+      "name": "Aarhus Ø (Dzielnica Portowa)",
+      "text": "Nowoczesna dzielnica z awangardową architekturą, taką jak budynek 'Iceberg', oferująca promenady, kąpieliska miejskie i restauracje z widokiem na morze."
+    }
+  ],
+  "visitTime": "Na zwiedzanie głównych atrakcji Aarhus warto zarezerwować 2-3 dni. Jeśli planujemy dokładne poznanie muzeów i relaks, nawet 4 dni.",
+  "bestTime": "Najlepiej odwiedzić Aarhus od maja do września, kiedy pogoda jest najprzyjemniejsza, a miasto tętni życiem festiwalami i wydarzeniami. Unikniemy wtedy zimnego wiatru i deszczu. Wiosna i jesień również są dobre, ale trzeba liczyć się z niższą temperaturą. Wczesne godziny poranne pozwalają uniknąć tłumów w popularnych muzeach.",
+  "gettingThere": "Do Aarhus najłatwiej dostać się samolotem - lotnisko Aarhus (AAR) obsługuje połączenia z kilkoma europejskimi miastami, skąd kursują autobusy do centrum. Alternatywnie, można przylecieć do Billund (BLL) i stamtąd dojechać autobusem (ok. 1,5 godziny). Z Kopenhagi do Aarhus można dojechać pociągiem (ok. 3 godziny) lub autobusem. Miasto jest dobrze skomunikowane, a po samym Aarhus najlepiej poruszać się pieszo, rowerem lub komunikacją miejską.",
+  "tickets": "Większość głównych atrakcji, takich jak ARoS i Den Gamle By, wymaga zakupu biletów. Warto sprawdzić oficjalne strony internetowe atrakcji, aby uzyskać aktualne ceny i godziny otwarcia. Często można zaoszczędzić, kupując bilety online z wyprzedzeniem lub decydując się na kartę turystyczną AarhusCARD, która oferuje darmowy wstęp do wielu miejsc i bezpłatny transport publiczny. Zwiedzanie z przewodnikiem jest dostępne dla niektórych atrakcji, ale miasto jest łatwe do eksploracji na własną rękę.",
+  "tips": [
+    "Zaopatrz się w AarhusCARD, jeśli planujesz intensywne zwiedzanie - może to być opłacalne.",
+    "Wypożycz rower - Aarhus jest bardzo przyjazne rowerzystom, a sieć ścieżek jest rozbudowana.",
+    "Spróbuj lokalnych specjałów w Dzielnicy Łacińskiej - kawiarnie i piekarnie oferują pyszne duńskie wypieki.",
+    "Ubierz się warstwowo, niezależnie od pory roku - pogoda w Danii bywa zmienna.",
+    "Odwiedź ARoS w ciągu dnia i wieczorem, aby zobaczyć 'Your rainbow panorama' w różnych odsłonach.",
+    "Zarezerwuj nocleg z wyprzedzeniem, szczególnie w sezonie letnim, gdy miasto jest popularne."
+  ],
+  "faq": [
+    {
+      "q": "Czy Aarhus jest drogie?",
+      "a": "Dania, w tym Aarhus, jest krajem o wysokich kosztach życia. Ceny zakwaterowania, jedzenia i atrakcji są wyższe niż w Polsce. Warto planować budżet z wyprzedzeniem i szukać promocji."
+    },
+    {
+      "q": "Ile dni potrzeba na zwiedzanie Aarhus?",
+      "a": "Na podstawowe zwiedzanie najważniejszych atrakcji Aarhus warto przeznaczyć 2-3 dni. Jeśli chcemy poznać miasto dokładniej, zrelaksować się i odwiedzić więcej muzeów, 4 dni będą optymalne."
+    },
+    {
+      "q": "Jak poruszać się po Aarhus?",
+      "a": "Aarhus jest miastem kompaktowym, idealnym do zwiedzania pieszo lub rowerem. Dostępna jest również dobrze rozwinięta sieć autobusów miejskich. Z AarhusCARD transport publiczny jest bezpłatny."
+    },
+    {
+      "q": "Czy warto odwiedzić Den Gamle By?",
+      "a": "Tak, Den Gamle By to jedna z głównych atrakcji Aarhus i Danii. To unikalne muzeum na świeżym powietrzu oferuje fascynujący wgląd w historię i kulturę kraju, będąc atrakcją dla osób w każdym wieku."
+    }
+  ],
+  "gygQuery": "Aarhus tours",
+  "forWhom": "Aarhus to idealne miejsce dla miłośników kultury, sztuki i nowoczesnej architektury. Spodoba się również rodzinom z dziećmi (Den Gamle By), studentom i osobom szukającym tętniącego życiem miasta z bogatą ofertą kulinarną.",
+  "history": "Historia Aarhus sięga czasów Wikingów, około VIII wieku, co czyni je jednym z najstarszych miast w Danii. Pierwotnie była to osada handlowa o nazwie Aros, położona u ujścia rzeki do morza. W średniowieczu miasto rozwijało się jako ważny ośrodek kościelny i handlowy, zyskując na znaczeniu dzięki swojej katedrze. Przez wieki Aarhus przechodziło przez okresy prosperity i upadków, by w XIX i XX wieku stać się dynamicznie rozwijającym się portem i centrum przemysłowym. Dziś jest to nowoczesne miasto, które dumnie prezentuje swoje historyczne korzenie, jednocześnie patrząc w przyszłość.",
+  "gygTourId": 1062349
+}

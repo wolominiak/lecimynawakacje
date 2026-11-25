@@ -1,0 +1,71 @@
+{
+  "name": "Machu Picchu",
+  "slug": "machu-picchu",
+  "country": "peru",
+  "lead": "Machu Picchu, zaginione miasto Inków, to jeden z siedmiu nowych cudów świata i symbol Peru. Spektakularnie położone w Andach, oferuje unikalne połączenie historii, architektury i zapierających dech w piersiach widoków.",
+  "intro": [
+    "Machu Picchu to starożytne miasto Inków, położone na wysokości około 2430 metrów n.p.m. Zbudowane w XV wieku, prawdopodobnie pełniło funkcje ceremonialne, religijne i astronomiczne. Jego precyzyjna architektura kamienna, idealnie wkomponowana w górski krajobraz, świadczy o zaawansowanej wiedzy Inków.",
+    "Zwiedzanie Machu Picchu to podróż w czasie do serca imperium Inków. Turyści mogą spacerować pośród ruin świątyń, tarasów rolniczych i domów, podziwiając mistrzostwo inżynierii i budownictwa. Wędrówka po kompleksie pozwala zrozumieć codzienne życie i wierzenia tej starożytnej cywilizacji.",
+    "Atmosfera tego miejsca jest niezwykła - otoczone zielonymi szczytami, często spowite mgłą, Machu Picchu emanuje tajemniczością. Widoki na rzekę Urubamba w dole i otaczające góry są niezapomniane. To miejsce, które skłania do refleksji nad potęgą natury i osiągnięciami ludzkiej cywilizacji."
+  ],
+  "highlights": [
+    {
+      "name": "Intihuatana",
+      "text": "Kamień Intihuatana, czyli 'Słoneczny Słup', to jeden z najważniejszych i najbardziej tajemniczych obiektów. Prawdopodobnie służył jako zegar słoneczny lub kalendarz astronomiczny."
+    },
+    {
+      "name": "Świątynia Słońca",
+      "text": "Okrągła Świątynia Słońca, zbudowana z precyzyjnie obrobionych kamieni, jest przykładem mistrzostwa architektonicznego Inków. Jej okna są idealnie ustawione do obserwacji przesileń słonecznych."
+    },
+    {
+      "name": "Świątynia Trzech Okien",
+      "text": "Ta imponująca budowla z trzema trapezoidalnymi oknami oferuje panoramiczne widoki na otaczający krajobraz. Uważa się, że miała znaczenie ceremonialne i astronomiczne."
+    },
+    {
+      "name": "Góra Huayna Picchu",
+      "text": "Dla bardziej aktywnych turystów dostępna jest wspinaczka na Huayna Picchu, górującą nad głównym kompleksem. Oferuje ona spektakularne widoki na całe Machu Picchu, ale wymaga wcześniejszej rezerwacji i jest limitowana."
+    },
+    {
+      "name": "Góra Machu Picchu",
+      "text": "Alternatywą dla Huayna Picchu jest wejście na górę Machu Picchu, która jest mniej stroma i oferuje równie imponujące widoki na ruiny i okoliczne doliny."
+    },
+    {
+      "name": "Most Inków",
+      "text": "Wąska ścieżka prowadząca do Mostu Inków to krótki, ale malowniczy spacer. Sam most to drewniana konstrukcja, którą można podziwiać z bezpiecznej odległości."
+    }
+  ],
+  "visitTime": "Na zwiedzanie samego kompleksu Machu Picchu należy przeznaczyć około 3-4 godzin. Jeśli planujesz wejście na Huayna Picchu lub górę Machu Picchu, dolicz dodatkowe 2-3 godziny.",
+  "bestTime": "Najlepszy czas na wizytę to pora sucha, czyli od maja do października. Warto przyjechać wcześnie rano, tuż po otwarciu, aby uniknąć tłumów i zobaczyć ruiny w porannej mgle, co dodaje im tajemniczości. Po południu bywa mniej ludzi, ale słońce może być intensywne.",
+  "gettingThere": "Do Machu Picchu nie da się dojechać bezpośrednio. Najpierw należy dotrzeć do Aguas Calientes (Machu Picchu Pueblo), zazwyczaj pociągiem z Ollantaytambo lub Cusco. Z Aguas Calientes kursują autobusy, które w około 25 minut dowożą turystów pod bramę wejściową do ruin. Można też wejść pieszo, co zajmuje około 1,5 godziny pod górę.",
+  "tickets": "Bilety wstępu do Machu Picchu są płatne i należy je kupić z dużym wyprzedzeniem, zwłaszcza jeśli planujesz wejście na Huayna Picchu lub górę Machu Picchu, ponieważ liczba miejsc jest limitowana. Najlepiej rezerwować online na oficjalnej stronie Ministerstwa Kultury Peru. Warto rozważyć wynajęcie lokalnego przewodnika, aby lepiej zrozumieć historię i znaczenie miejsca.",
+  "tips": [
+    "Zabierz ze sobą paszport - jest wymagany do wejścia.",
+    "Ubierz się warstwowo, ponieważ pogoda w górach może szybko się zmieniać. Przygotuj się na słońce, deszcz i chłodniejsze powietrze.",
+    "Załóż wygodne buty trekkingowe - teren jest nierówny, a ścieżki bywają strome.",
+    "Pamiętaj o nakryciu głowy, okularach przeciwsłonecznych i kremie z filtrem UV - słońce na tej wysokości jest bardzo intensywne.",
+    "Zabierz ze sobą wodę i przekąski, na terenie kompleksu nie ma sklepów. Pamiętaj, aby zabrać wszystkie śmieci ze sobą.",
+    "Na terenie Machu Picchu obowiązuje zakaz używania dronów i statywów. Szanuj zasady, aby chronić to wyjątkowe miejsce."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto wchodzić na Huayna Picchu?",
+      "a": "Wspinaczka na Huayna Picchu jest wymagająca, ale oferuje jedne z najlepszych widoków na Machu Picchu. Jeśli masz dobrą kondycję i nie boisz się wysokości, zdecydowanie warto, ale pamiętaj o wcześniejszej rezerwacji biletu."
+    },
+    {
+      "q": "Jak uniknąć choroby wysokościowej?",
+      "a": "Aby zminimalizować ryzyko choroby wysokościowej, aklimatyzuj się przez 1-2 dni w Cusco lub Świętej Dolinie przed wizytą w Machu Picchu. Pij dużo wody, unikaj alkoholu i jedz lekkie posiłki."
+    },
+    {
+      "q": "Czy potrzebuję przewodnika po Machu Picchu?",
+      "a": "Zgodnie z obecnymi przepisami, do wejścia na Machu Picchu wymagany jest przewodnik. Przewodnik znacznie wzbogaci Twoje doświadczenie, opowiadając o historii i znaczeniu ruin."
+    },
+    {
+      "q": "Czy można zwiedzać Machu Picchu z dziećmi?",
+      "a": "Tak, Machu Picchu można zwiedzać z dziećmi, ale należy pamiętać o wysokości i konieczności wchodzenia po schodach. Dla młodszych dzieci może to być męczące. Warto rozważyć nosidełko dla najmłodszych."
+    }
+  ],
+  "gygQuery": "Machu Picchu tours",
+  "forWhom": "Machu Picchu to idealne miejsce dla miłośników historii, archeologii i kultury, a także dla osób ceniących zapierające dech w piersiach krajobrazy i aktywny wypoczynek. Nadaje się również dla rodzin ze starszymi dziećmi.",
+  "history": "Historia Machu Picchu jest fascynująca i wciąż owiana tajemnicą. Zbudowane w połowie XV wieku przez Inków, prawdopodobnie za panowania Pachacuteca, miasto zostało opuszczone około sto lat później, prawdopodobnie z powodu podboju hiszpańskiego, choć Hiszpanie nigdy go nie odkryli. Przez wieki pozostawało ukryte w górach, znane jedynie lokalnym społecznościom, aż do 'odkrycia' przez amerykańskiego badacza Hirama Binghama w 1911 roku, co przywróciło je światu.",
+  "gygTourId": 856014
+}

@@ -1,0 +1,71 @@
+{
+  "name": "British Museum",
+  "slug": "british-museum",
+  "country": "wielka-brytania",
+  "lead": "British Museum to jedna z najważniejszych instytucji kultury na świecie, prezentująca bogactwo historii ludzkości. To obowiązkowy punkt dla każdego, kto odwiedza Londyn.",
+  "intro": [
+    "British Museum w Londynie to skarbnica wiedzy o cywilizacjach z całego globu, od prehistorii po czasy współczesne. Jego imponujące zbiory obejmują miliony eksponatów, które opowiadają historię ludzkości, sztuki i kultury na przestrzeni tysiącleci. Muzeum jest bezpłatne, co czyni je dostępnym dla każdego, kto pragnie zanurzyć się w świat starożytnych cywilizacji i odkryć fascynujące artefakty.",
+    "Zwiedzanie British Museum to podróż w czasie i przestrzeni. Można tu podziwiać arcydzieła starożytnego Egiptu, Grecji, Rzymu, a także Azji, Afryki i obu Ameryk. Każda galeria to nowa opowieść, a ogrom zbiorów sprawia, że nawet kilkukrotne odwiedziny nie pozwolą na zobaczenie wszystkiego. Warto poświęcić czas na zaplanowanie trasy, aby skupić się na interesujących nas kolekcjach.",
+    "Muzeum robi wrażenie nie tylko eksponatami, ale także swoją architekturą, zwłaszcza Wielkim Dziedzińcem z imponującym szklanym dachem. To miejsce, gdzie historia ożywa, a obiekty, które znamy z podręczników, stają się namacalne. British Museum to nie tylko zbiór przedmiotów, ale żywe centrum edukacji i badań, które nieustannie odkrywa i interpretuje przeszłość."
+  ],
+  "highlights": [
+    {
+      "name": "Kamień z Rosetty",
+      "text": "Klucz do rozszyfrowania egipskich hieroglifów, jeden z najsłynniejszych eksponatów muzeum. To dzięki niemu naukowcy mogli zrozumieć starożytne pisma."
+    },
+    {
+      "name": "Rzeźby z Partenonu (Marmury Elgina)",
+      "text": "Imponująca kolekcja rzeźb z ateńskiego Partenonu, przedstawiająca sceny mitologiczne i procesje. Budzą kontrowersje dotyczące ich pochodzenia, ale są niezwykle cennym świadectwem sztuki starożytnej Grecji."
+    },
+    {
+      "name": "Skarb z Sutton Hoo",
+      "text": "Zbiór anglosaskich artefaktów z królewskiego pochówku, w tym hełm, biżuteria i broń. To jedno z najważniejszych odkryć archeologicznych w Wielkiej Brytanii."
+    },
+    {
+      "name": "Egipskie mumie",
+      "text": "Obszerna kolekcja mumii i sarkofagów, dająca wgląd w starożytne wierzenia i praktyki pogrzebowe Egipcjan. To jedna z najpopularniejszych galerii w muzeum."
+    },
+    {
+      "name": "Głowy z Wyspy Wielkanocnej",
+      "text": "Jedna z kilku oryginalnych rzeźb Moai, sprowadzona z Wyspy Wielkanocnej. Stanowi fascynujący przykład sztuki polinezyjskiej."
+    },
+    {
+      "name": "Asyryjskie rzeźby z Nimrud",
+      "text": "Monumentalne rzeźby z pałaców asyryjskich królów, w tym skrzydlate byki z ludzkimi głowami. Pokazują potęgę i wyrafinowanie starożytnej cywilizacji Mezopotamii."
+    }
+  ],
+  "visitTime": "Na dokładne zwiedzenie najważniejszych galerii warto zarezerwować co najmniej 3-4 godziny. Jeśli chcesz zobaczyć więcej, przygotuj się na cały dzień.",
+  "bestTime": "Najlepiej odwiedzić muzeum w tygodniu, poza godzinami szczytu, czyli tuż po otwarciu lub późnym popołudniem. Unikaj weekendów i świąt, kiedy bywa bardzo tłoczno. W miesiącach poza sezonem letnim jest zazwyczaj spokojniej.",
+  "gettingThere": "British Museum znajduje się w centrum Londynu, w dzielnicy Bloomsbury. Najłatwiej dojechać metrem - najbliższe stacje to Russell Square (linia Piccadilly), Tottenham Court Road (linie Central i Elizabeth) oraz Holborn (linie Central i Piccadilly). Z wielu części Londynu można również dojechać autobusem.",
+  "tickets": "Wstęp do British Museum jest bezpłatny, ale niektóre wystawy czasowe mogą być płatne. Warto sprawdzić aktualne informacje na oficjalnej stronie muzeum. Zaleca się wcześniejszą rezerwację bezpłatnych biletów wstępu online, aby uniknąć kolejek, szczególnie w sezonie.",
+  "tips": [
+    "Zaplanuj swoją wizytę: Muzeum jest ogromne, więc warto wcześniej wybrać galerie, które najbardziej Cię interesują.",
+    "Skorzystaj z audioprzewodnika: Dostępne są audioprzewodniki, które wzbogacą Twoje doświadczenie i dostarczą szczegółowych informacji o eksponatach.",
+    "Zostaw duże torby w szatni: Dla komfortu zwiedzania i bezpieczeństwa, duże plecaki i torby należy zostawić w szatni.",
+    "Noś wygodne buty: Spędzisz dużo czasu na chodzeniu, więc wygodne obuwie to podstawa.",
+    "Zabierz ze sobą wodę: W muzeum można kupić napoje, ale warto mieć ze sobą własną butelkę wody.",
+    "Sprawdź program wydarzeń: Muzeum często organizuje bezpłatne wykłady, warsztaty i oprowadzania z przewodnikiem."
+  ],
+  "faq": [
+    {
+      "q": "Czy British Museum jest bezpłatne?",
+      "a": "Tak, wstęp do stałych kolekcji British Museum jest bezpłatny. Płatne mogą być jedynie niektóre wystawy czasowe."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie British Museum?",
+      "a": "Na ogólne zwiedzanie najważniejszych eksponatów warto przeznaczyć 3-4 godziny. Jeśli chcesz zobaczyć więcej, możesz spędzić tam cały dzień."
+    },
+    {
+      "q": "Jak dojechać do British Museum?",
+      "a": "Najłatwiej dojechać metrem. Najbliższe stacje to Russell Square, Tottenham Court Road i Holborn. Można też skorzystać z autobusów miejskich."
+    },
+    {
+      "q": "Czy warto rezerwować bilety do British Museum?",
+      "a": "Chociaż wstęp jest bezpłatny, zaleca się wcześniejszą rezerwację bezpłatnych biletów online, aby uniknąć kolejek i zapewnić sobie wejście, szczególnie w szczycie sezonu."
+    }
+  ],
+  "gygQuery": "British Museum London tours",
+  "forWhom": "British Museum to idealne miejsce dla miłośników historii, archeologii, sztuki i kultury, a także dla rodzin z dziećmi, które mogą uczyć się przez zabawę. To atrakcja dla każdego, kto chce poszerzyć swoją wiedzę o świecie.",
+  "history": "British Museum zostało założone w 1753 roku, głównie dzięki kolekcji Sir Hansa Sloane'a, lekarza i przyrodnika. Otwarto je dla publiczności w 1759 roku w Montagu House. Od samego początku muzeum miało charakter publiczny i było dostępne dla wszystkich. Z czasem, dzięki licznym darowiznom, zakupom i ekspedycjom archeologicznym, zbiory muzeum rozrosły się do gigantycznych rozmiarów, co doprowadziło do budowy obecnego, neoklasycystycznego gmachu w Bloomsbury, ukończonego w 1852 roku. Przez wieki British Museum stało się jednym z najważniejszych ośrodków badań i edukacji na świecie.",
+  "gygTourId": 765419
+}
