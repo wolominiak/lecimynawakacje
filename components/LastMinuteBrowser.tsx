@@ -298,7 +298,6 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
                     </div>
                     <div className="ob-side">
                       {o.ratingValue > 0 && <span className="ob-rating"><b>{o.ratingValue.toFixed(1)}</b> {o.ratingRecommends} opinii</span>}
-                      {old > price && <span className="lm-disc">-{Math.round((1 - price / old) * 100)}%</span>}
                       {old > price && <s className="ob-old">{fmt(old)} zł</s>}
                       <span className="ob-price">{fmt(price)} zł</span>
                       <span className="ob-pp">za osobę</span>

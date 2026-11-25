@@ -446,7 +446,6 @@ p { margin: 0 0 1em; }
 .lm-bar b { color: var(--ink); font-size: 1.2rem; }
 .lm-reset { font: inherit; font-weight: 700; color: var(--ocean); background: none; border: 0; cursor: pointer; text-decoration: underline; padding: 6px 0; }
 .ob-promo.hot { background: #e5484d; color: #fff; }
-.lm-disc { background: #fff0cc; color: #7a4b00; font-weight: 800; font-size: 0.8rem; padding: 2px 8px; border-radius: 999px; }
 @media (max-width: 720px) {
   .lm-grid, .lm-selects { grid-template-columns: 1fr !important; }
   .lm-panel { padding: 16px; }
