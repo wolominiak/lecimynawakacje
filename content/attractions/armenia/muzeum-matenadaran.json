@@ -1,0 +1,67 @@
+{
+  "name": "Muzeum Matenadaran",
+  "slug": "muzeum-matenadaran",
+  "country": "armenia",
+  "lead": "Matenadaran, czyli Instytut Starożytnych Manuskryptów w Erywaniu, to skarbnica wiedzy i sztuki, przechowująca jedną z najcenniejszych kolekcji średniowiecznych rękopisów na świecie. Obowiązkowy punkt dla każdego, kto interesuje się historią i kulturą Armenii.",
+  "intro": [
+    "Matenadaran to nie tylko muzeum, ale przede wszystkim instytut badawczy, którego zbiory obejmują ponad 23 000 manuskryptów oraz 500 000 dokumentów. Jest to jedno z najważniejszych centrów przechowywania, konserwacji i badania starożytnych rękopisów na świecie. Kolekcja obejmuje dzieła z różnych dziedzin, takich jak teologia, filozofia, historia, medycyna, literatura i sztuka.",
+    "Zwiedzanie Matenadaranu to podróż w czasie, pozwalająca na podziwianie misternie iluminowanych ksiąg, starożytnych map i dokumentów pisanych w języku ormiańskim, greckim, łacińskim, arabskim, perskim i wielu innych. Ekspozycje są starannie przygotowane, a prezentowane eksponaty świadczą o bogatej tradycji piśmienniczej i artystycznej Armenii. Warto poświęcić czas na dokładne przyjrzenie się detalom i zrozumienie kontekstu historycznego.",
+    "Muzeum robi wrażenie nie tylko ze względu na wartość historyczną i artystyczną zbiorów, ale także na architekturę samego budynku. Znajduje się on na wzgórzu, oferującym widok na Erywań. Jest to miejsce, które inspiruje do refleksji nad dziedzictwem kulturowym i znaczeniem słowa pisanego w historii ludzkości."
+  ],
+  "highlights": [
+    {
+      "name": "Główna Sala Ekspozycyjna",
+      "text": "Tutaj prezentowane są najcenniejsze i najbardziej reprezentatywne manuskrypty, w tym Ewangelie z Eczmiadzynu z X wieku i najstarsze ormiańskie księgi."
+    },
+    {
+      "name": "Miniatury i Iluminacje",
+      "text": "Podziwiaj kunszt średniowiecznych skrybów i iluminatorów, którzy tworzyli niezwykłe ilustracje do ksiąg, często zdobione złotem i drogimi pigmentami."
+    },
+    {
+      "name": "Starożytne Mapy i Atlasy",
+      "text": "Odkryj, jak świat był postrzegany wieki temu, oglądając dawne mapy i atlasy, które są świadectwem rozwoju kartografii."
+    },
+    {
+      "name": "Dokumenty Historyczne",
+      "text": "Sekcja poświęcona dokumentom historycznym, w tym traktatom, edyktom i listom, które rzucają światło na polityczne i społeczne życie Armenii."
+    },
+    {
+      "name": "Rękopisy w Obcych Językach",
+      "text": "Matenadaran posiada również bogatą kolekcję manuskryptów w językach innych niż ormiański, co świadczy o szerokich kontaktach kulturowych Armenii."
+    }
+  ],
+  "visitTime": "Około 2-3 godziny, jeśli chcesz dokładnie przyjrzeć się ekspozycjom i zrozumieć ich kontekst.",
+  "bestTime": "Najlepiej odwiedzić Matenadaran rano, tuż po otwarciu, aby uniknąć większych grup turystów. Pora roku nie ma większego znaczenia, gdyż jest to atrakcja wewnętrzna.",
+  "gettingThere": "Matenadaran znajduje się w Erywaniu, na północnym krańcu Alei Masztoca. Można dojechać tam taksówką, autobusem miejskim lub marszrutką. Z centrum miasta, np. Placu Republiki, to krótki przejazd. Warto połączyć wizytę z Kaskadami w Erywaniu, które są niedaleko.",
+  "tickets": "Bilet wstępu jest płatny. Aktualne ceny i godziny otwarcia najlepiej sprawdzić na oficjalnej stronie internetowej Matenadaranu. Często dostępne są zniżki dla studentów i seniorów. Istnieje możliwość wynajęcia przewodnika na miejscu, co jest rekomendowane dla głębszego zrozumienia kolekcji.",
+  "tips": [
+    "Ubierz się wygodnie - zwiedzanie wymaga trochę chodzenia.",
+    "Zabierz ze sobą aparat fotograficzny, ale pamiętaj o zasadach dotyczących robienia zdjęć wewnątrz - często jest to dozwolone bez lampy błyskowej.",
+    "Warto zaopatrzyć się w przewodnik po muzeum lub skorzystać z audioprzewodnika, aby lepiej zrozumieć eksponaty.",
+    "Po zwiedzaniu Matenadaranu, wybierz się na spacer w okolicy, podziwiając widoki na miasto.",
+    "W muzeum panuje stała temperatura i wilgotność, aby chronić rękopisy, więc warto mieć ze sobą coś do narzucenia, jeśli jesteś wrażliwy na chłód.",
+    "Nie dotykaj eksponatów - są bezcenne i bardzo delikatne."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto odwiedzić Matenadaran?",
+      "a": "Tak, Matenadaran to jedna z najważniejszych atrakcji Erywania i Armenii. Jest to unikalne miejsce dla każdego, kto ceni historię, sztukę i kulturę, a kolekcja manuskryptów jest naprawdę imponująca."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Matenadaranu?",
+      "a": "Na dokładne zwiedzanie i zapoznanie się z najważniejszymi eksponatami warto przeznaczyć około 2-3 godzin. Jeśli jesteś pasjonatem, możesz spędzić tam nawet dłużej."
+    },
+    {
+      "q": "Jak dojechać do Matenadaranu w Erywaniu?",
+      "a": "Matenadaran znajduje się w centrum Erywania, na wzgórzu. Najłatwiej dojechać tam taksówką, autobusem lub marszrutką. Z Placu Republiki to krótki przejazd."
+    },
+    {
+      "q": "Czy w Matenadaranie można robić zdjęcia?",
+      "a": "Zazwyczaj tak, ale bez użycia lampy błyskowej. Zawsze warto sprawdzić aktualne zasady na miejscu lub na oficjalnej stronie muzeum."
+    }
+  ],
+  "gygQuery": "Matenadaran Museum Yerevan",
+  "forWhom": "Matenadaran to idealne miejsce dla miłośników historii, sztuki, literatury i kultury. Zainteresuje także osoby poszukujące głębszego zrozumienia dziedzictwa Armenii. Nie jest to typowa atrakcja dla małych dzieci, choć starsze dzieci i młodzież mogą znaleźć tu coś dla siebie.",
+  "history": "Historia Matenadaranu sięga V wieku, kiedy to Mesrop Masztoc stworzył ormiański alfabet. Od tego czasu Armenia stała się ważnym ośrodkiem piśmiennictwa. Obecna instytucja powstała w 1920 roku, a w 1959 roku otwarto nowy budynek, który stał się domem dla bezcennych manuskryptów. Kolekcja była gromadzona przez wieki, często w trudnych warunkach, co świadczy o niezwykłej determinacji Ormian w zachowaniu swojego dziedzictwa kulturowego.",
+  "gygTourId": 1457183
+}

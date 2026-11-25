@@ -1,0 +1,67 @@
+{
+  "name": "Las deszczowy El Yunque",
+  "slug": "las-deszczowy-el-yunque",
+  "country": "portoryko",
+  "lead": "El Yunque to jedyny tropikalny las deszczowy w systemie parków narodowych USA, oferujący bujną roślinność, liczne wodospady i dobrze utrzymane szlaki turystyczne. To idealne miejsce na kontakt z portorykańską przyrodą.",
+  "intro": [
+    "Las deszczowy El Yunque to unikalny ekosystem na Portoryko, charakteryzujący się niezwykłą bioróżnorodnością. Jest to obszar chroniony, gdzie można podziwiać gęstą, tropikalną roślinność, liczne gatunki ptaków, płazów i owadów. To miejsce, które pozwala poczuć prawdziwą potęgę natury i uciec od zgiełku miasta.",
+    "Główną atrakcją El Yunque są szlaki turystyczne o różnym stopniu trudności, prowadzące przez las do malowniczych wodospadów i punktów widokowych. Można tu spędzić aktywnie czas, wędrując wśród zieleni, kąpiąc się w naturalnych basenach pod wodospadami lub po prostu relaksując się w otoczeniu tropikalnej przyrody. Park oferuje również centra dla zwiedzających, gdzie można dowiedzieć się więcej o lokalnej florze i faunie.",
+    "Odwiedzając El Yunque, można doświadczyć wilgotnego, ciepłego klimatu i usłyszeć charakterystyczne dźwięki lasu deszczowego, w tym śpiew żab coqui. Wrażenie robi wszechobecna zieleń, gigantyczne paprocie drzewiaste i kaskady wody. To miejsce, które pobudza wszystkie zmysły i pozwala na głębokie zanurzenie się w naturalnym środowisku Karaibów."
+  ],
+  "highlights": [
+    {
+      "name": "Wodospad La Mina (Juan Diego)",
+      "text": "Jeden z najbardziej popularnych wodospadów, do którego prowadzi krótki, utwardzony szlak. Można tu popływać w naturalnym basenie."
+    },
+    {
+      "name": "Wieża Yokahu",
+      "text": "Wieża widokowa oferująca panoramiczne widoki na las deszczowy i wybrzeże. To doskonałe miejsce na zdjęcia i podziwianie rozległej zieleni."
+    },
+    {
+      "name": "Szlak El Yunque",
+      "text": "Trudniejszy szlak prowadzący na szczyt El Yunque, skąd roztaczają się spektakularne widoki na całą wyspę, jeśli pogoda dopisze."
+    },
+    {
+      "name": "Centrum dla zwiedzających El Portal",
+      "text": "Nowoczesne centrum informacyjne, gdzie można zapoznać się z historią, ekologią i różnorodnością biologiczną lasu deszczowego. To dobry punkt startowy do zwiedzania parku."
+    },
+    {
+      "name": "Wodospad Coca",
+      "text": "Łatwo dostępny wodospad widoczny z drogi, idealny na szybki postój i zdjęcia."
+    }
+  ],
+  "visitTime": "Na zwiedzanie El Yunque warto przeznaczyć od pół dnia do całego dnia, w zależności od liczby planowanych szlaków i postojów przy wodospadach.",
+  "bestTime": "Najlepszy czas na wizytę to poranek, aby uniknąć tłumów i największych upałów. Pora sucha (od grudnia do maja) jest preferowana ze względu na mniejsze opady, choć las deszczowy jest atrakcyjny przez cały rok. Warto unikać weekendów i świąt, gdy park jest najbardziej zatłoczony.",
+  "gettingThere": "El Yunque znajduje się na wschodzie Portoryko, około godziny jazdy samochodem od San Juan. Najłatwiej dojechać tam wypożyczonym samochodem. Istnieją również zorganizowane wycieczki z San Juan, które obejmują transport i często przewodnika.",
+  "tickets": "Wstęp do El Yunque jest bezpłatny, jednak wymagana jest rezerwacja wjazdu samochodem w określonych godzinach. Rezerwacji należy dokonać online z wyprzedzeniem na oficjalnej stronie Recreation.gov. Zorganizowane wycieczki często obejmują opłatę za transport i przewodnika.",
+  "tips": [
+    "Załóż wygodne buty trekkingowe lub sportowe z dobrą przyczepnością, ponieważ szlaki mogą być mokre i śliskie.",
+    "Zabierz ze sobą dużo wody pitnej, przekąski i lunch, ponieważ w parku jest niewiele miejsc do zakupu jedzenia.",
+    "Spakuj strój kąpielowy i ręcznik, jeśli planujesz kąpiel w wodospadach.",
+    "Użyj repelentu na owady, zwłaszcza jeśli jesteś wrażliwy na ukąszenia.",
+    "Przygotuj się na deszcz - to las deszczowy, więc opady są częste. Warto mieć ze sobą lekką kurtkę przeciwdeszczową lub parasol.",
+    "Zostaw cenne rzeczy w bezpiecznym miejscu w samochodzie lub zabierz je ze sobą. Nie zostawiaj niczego na widoku w zaparkowanym pojeździe."
+  ],
+  "faq": [
+    {
+      "q": "Czy El Yunque jest bezpieczny do zwiedzania?",
+      "a": "Tak, El Yunque jest ogólnie bezpieczny dla turystów, pod warunkiem przestrzegania zasad bezpieczeństwa, pozostawania na wyznaczonych szlakach i dbania o swoje rzeczy osobiste."
+    },
+    {
+      "q": "Czy potrzebuję przewodnika, aby zwiedzić El Yunque?",
+      "a": "Nie jest to konieczne, ponieważ szlaki są dobrze oznakowane. Jednak przewodnik może wzbogacić doświadczenie, dzieląc się wiedzą o lokalnej florze i faunie."
+    },
+    {
+      "q": "Czy w El Yunque są miejsca do jedzenia?",
+      "a": "W parku jest niewiele opcji gastronomicznych. Zaleca się zabranie własnego jedzenia i napojów. Poza parkiem, w okolicznych miejscowościach, znajdziesz restauracje."
+    },
+    {
+      "q": "Czy można pływać w wodospadach El Yunque?",
+      "a": "Tak, w niektórych wodospadach, takich jak Juan Diego, można pływać w naturalnych basenach. Zawsze należy zachować ostrożność i ocenić warunki."
+    }
+  ],
+  "gygQuery": "El Yunque National Forest tour",
+  "forWhom": "El Yunque to idealne miejsce dla miłośników przyrody, pieszych wędrówek, rodzin z dziećmi szukających aktywnego wypoczynku oraz każdego, kto chce doświadczyć unikalnego ekosystemu lasu deszczowego.",
+  "history": "Las deszczowy El Yunque ma długą historię, sięgającą czasów prekolumbijskich, kiedy to był świętym miejscem dla rdzennych mieszkańców Taino. W 1876 roku, pod panowaniem Hiszpanii, został uznany za obszar chroniony, co czyni go jednym z najstarszych rezerwatów przyrody na półkuli zachodniej. Po przejęciu Portoryko przez USA, w 1903 roku został włączony do systemu leśnego Stanów Zjednoczonych, a w 2007 roku został oficjalnie uznany za Narodowy Las Deszczowy El Yunque.",
+  "gygTourId": 358455
+}

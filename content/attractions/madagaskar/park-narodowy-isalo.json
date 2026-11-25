@@ -1,0 +1,67 @@
+{
+  "name": "Park Narodowy Isalo",
+  "slug": "park-narodowy-isalo",
+  "country": "madagaskar",
+  "lead": "Park Narodowy Isalo na Madagaskarze to raj dla miłośników trekkingu i dzikiej przyrody, słynący z niezwykłych formacji skalnych, głębokich kanionów i naturalnych basenów.",
+  "intro": [
+    "Park Narodowy Isalo, położony w południowo-zachodniej części Madagaskaru, to rozległy obszar chroniony, znany z unikalnego krajobrazu. Charakteryzują go dramatyczne formacje piaskowcowe, erodowane przez wieki wiatrem i wodą, tworzące surrealistyczne kształty. Obszar ten jest domem dla różnorodnej flory i fauny, w tym kilku gatunków lemurów, co czyni go obowiązkowym punktem dla każdego, kto odwiedza wyspę.",
+    "Główną atrakcją Isalo jest możliwość trekkingu i eksploracji jego malowniczych szlaków. Trasy prowadzą przez kaniony, wzdłuż rzek i do ukrytych oaz z naturalnymi basenami, takimi jak Piscine Naturelle. To idealne miejsce na aktywny wypoczynek, oferujące zarówno łatwe spacery, jak i bardziej wymagające wędrówki, które pozwalają podziwiać spektakularne widoki i blisko obcować z madagaskarską przyrodą.",
+    "Krajobraz Isalo jest niezwykle zróżnicowany - od suchych sawann po zielone doliny z palmami i endemicznymi roślinami. Park oferuje nie tylko piękne widoki, ale także szansę na obserwację lemurów, takich jak lemury katta, lemury brązowe czy sifaki Verreauxa, w ich naturalnym środowisku. Spotkanie z tymi zwierzętami w otoczeniu pradawnych skał to niezapomniane doświadczenie, które podkreśla wyjątkowość tego miejsca."
+  ],
+  "highlights": [
+    {
+      "name": "Piscine Naturelle",
+      "text": "Naturalny basen z krystalicznie czystą wodą, otoczony bujną roślinnością i wodospadem, idealny na orzeźwiającą kąpiel po trekkingu."
+    },
+    {
+      "name": "Kanion Makis",
+      "text": "Jeden z najbardziej popularnych szlaków, prowadzący przez głęboki kanion, gdzie często można spotkać lemury katta i inne gatunki dzikich zwierząt."
+    },
+    {
+      "name": "Okna Isalo (La Fenêtre de l'Isalo)",
+      "text": "Niesamowita formacja skalna, która o zachodzie słońca przypomina okno, oferując spektakularne widoki na otaczający krajobraz."
+    },
+    {
+      "name": "Piscine Bleue i Piscine Noire",
+      "text": "Dwa kolejne naturalne baseny, często odwiedzane w ramach dłuższych tras trekkingowych, oferujące spokojne miejsca do odpoczynku."
+    },
+    {
+      "name": "Grobowce Bara",
+      "text": "Tradycyjne miejsca pochówku ludu Bara, często umieszczone w skalnych niszach, świadczące o bogatej kulturze i historii regionu."
+    }
+  ],
+  "visitTime": "Minimum jeden pełny dzień na podstawowe szlaki, a na bardziej rozbudowane trasy i pełne doświadczenie parku - 2 do 3 dni.",
+  "bestTime": "Najlepsza pora na wizytę to pora sucha, od maja do października, kiedy temperatury są umiarkowane, a szlaki łatwo dostępne. Warto unikać godzin południowych ze względu na upał.",
+  "gettingThere": "Park Narodowy Isalo znajduje się w pobliżu miasta Ranohira. Najłatwiej dojechać tam samochodem wynajętym z kierowcą z Antananarywy lub z pobliskiego Fianarantsoa. Wiele biur podróży oferuje zorganizowane wycieczki, które obejmują transport.",
+  "tickets": "Bilet wstępu do parku jest płatny i należy go kupić w centrum informacyjnym przy wejściu. Obowiązkowe jest wynajęcie lokalnego przewodnika, który poprowadzi po szlakach. Aktualne ceny i regulaminy najlepiej sprawdzić na oficjalnej stronie parku.",
+  "tips": [
+    "Zabierz ze sobą dużo wody - na szlakach jest ograniczony dostęp do pitnej wody.",
+    "Ubierz wygodne buty trekkingowe i lekkie, przewiewne ubranie, a także kapelusz lub czapkę chroniącą przed słońcem.",
+    "Nie zapomnij o kremie z filtrem UV i środku odstraszającym owady.",
+    "Pamiętaj o aparacie fotograficznym - widoki są spektakularne, a szansa na spotkanie z lemurami duża.",
+    "Słuchaj zaleceń przewodnika i nie zbaczaj ze szlaków, aby nie zakłócać spokoju zwierząt i nie niszczyć roślinności.",
+    "Zostaw po sobie tylko ślady stóp - zabierz ze sobą wszystkie śmieci."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto odwiedzić Park Narodowy Isalo?",
+      "a": "Tak, Park Narodowy Isalo to jedno z najbardziej malowniczych miejsc na Madagaskarze, oferujące unikalne krajobrazy, możliwość trekkingu i obserwacji lemurów. Jest to atrakcja warta uwagi dla każdego, kto ceni aktywny wypoczynek i dziką przyrodę."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Parku Narodowego Isalo?",
+      "a": "Na podstawowe szlaki i główne atrakcje wystarczy jeden pełny dzień. Jeśli chcesz odkryć więcej kanionów i basenów, warto zarezerwować 2-3 dni. Dłuższy pobyt pozwala na spokojniejsze tempo i eksplorację mniej uczęszczanych ścieżek."
+    },
+    {
+      "q": "Jak dojechać do Parku Narodowego Isalo?",
+      "a": "Park znajduje się w pobliżu miejscowości Ranohira. Najczęściej turyści dojeżdżają samochodem wynajętym z kierowcą z Antananarywy, Fianarantsoa lub Toliary. Wiele agencji turystycznych oferuje zorganizowane wycieczki, które obejmują transport."
+    },
+    {
+      "q": "Czy w Parku Narodowym Isalo są lemury?",
+      "a": "Tak, Park Narodowy Isalo jest domem dla kilku gatunków lemurów, w tym lemurów katta, lemurów brązowych i sifak Verreauxa. Szanse na ich obserwację są bardzo wysokie, szczególnie w Kanionie Makis."
+    }
+  ],
+  "gygQuery": "Isalo National Park",
+  "forWhom": "Park Narodowy Isalo jest idealny dla miłośników trekkingu, fotografii przyrodniczej i osób szukających aktywnego wypoczynku w otoczeniu niezwykłej przyrody. Spodoba się również rodzinom ze starszymi dziećmi, które cenią sobie wędrówki i spotkania z dzikimi zwierzętami.",
+  "history": "Krajobraz Parku Narodowego Isalo ukształtowały miliony lat erozji piaskowców z okresu jurajskiego. Wiatr i woda wyrzeźbiły w skałach niezwykłe formacje, kaniony i jaskinie. Obszar ten jest również ważny kulturowo dla lokalnego ludu Bara, który tradycyjnie wykorzystuje niektóre skalne nisze jako miejsca pochówku.",
+  "gygTourId": 539208
+}
