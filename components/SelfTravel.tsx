@@ -1,5 +1,6 @@
 import type { Country, Region } from '@/lib/types';
 import { selfTravel } from '@/lib/travelpayouts';
+import { hasFerry, ferryLink } from '@/lib/tradedoubler';
 import FlightForm from './FlightForm';
 
 // "Na własną rękę": lot (Aviasales), nocleg (Booking.com), auto (DiscoverCars). Linki partnerskie Travelpayouts.
@@ -28,6 +29,13 @@ export default function SelfTravel({ c, r }: { c: Country; r?: Region }) {
           <div><h3>Wynajem auta: {c.name}</h3><small>Porównanie ofert wielu wypożyczalni w DiscoverCars</small></div>
           <span className="ft-go">Porównaj &rarr;</span>
         </a>
+        {hasFerry(c.slug) && (
+          <a className="ft-card ft-link" href={ferryLink(c.slug, r?.slug)} target="_blank" rel="sponsored nofollow noopener">
+            <span className="ft-i" aria-hidden="true">⛴</span>
+            <div><h3>Promy: {place}</h3><small>Rozkłady i bilety na promy w Ferryhopper, po polsku</small></div>
+            <span className="ft-go">Sprawdź &rarr;</span>
+          </a>
+        )}
       </div>
       <p className="ft-note">Linki partnerskie: rezerwując przez nie, nie płacisz więcej.</p>
     </section>

@@ -33,5 +33,22 @@
         ]
       }
     }
+  },
+  "tradedoubler": {
+    "site": "3453752",
+    "programs": {
+      "ferryhopper": {
+        "p": "382550",
+        "hosts": [
+          "ferryhopper.com"
+        ]
+      },
+      "seeplaces": {
+        "p": "383711",
+        "hosts": [
+          "seeplaces.com"
+        ]
+      }
+    }
   }
 }

@@ -694,3 +694,4 @@ p { margin: 0 0 1em; }
   .tg { flex-direction: column; }
 }
 .fs-form .btn, .tg .btn { white-space: nowrap; }
+.ft-row { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }

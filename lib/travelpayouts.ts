@@ -3,6 +3,7 @@
 // Na stronie używamy zamaskowanych linków /go/auto/, /go/nocleg/, /go/lot/.
 import aff from '@/data/affiliate.json';
 import type { Country, Region } from './types';
+import { FERRY_COUNTRIES, ferryLink } from './tradedoubler';
 
 type Program = 'discovercars' | 'booking' | 'aviasales';
 const TP = aff.travelpayouts;
@@ -46,5 +47,6 @@ export function selfTravel(c: Country, r?: Region) {
     lotnisko: dest,
     noclegi: stayLink(r ? `${r.name}, ${c.name}` : c.name),
     auto: carLink(c),
+    ...(c.slug in FERRY_COUNTRIES ? { promy: ferryLink(c.slug, r?.slug) } : {}),
   };
 }
