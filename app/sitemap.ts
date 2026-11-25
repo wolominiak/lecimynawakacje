@@ -4,6 +4,7 @@ import { CONTINENTS, MONTHS, getCountries, isIndexable, availableSubpages } from
 import { SITE } from '@/lib/affiliate';
 import { lmCountries } from '@/lib/lastminute';
 import { imageFor } from '@/lib/images';
+import { attractionsOf } from '@/lib/attractions';
 
 // Sitemapa: wszystkie indeksowane strony, ze zdjęciami (Google Grafika).
 // Data aktualizacji tylko tam, gdzie treść faktycznie zmienia się codziennie (oferty, last minute, rejsy):
@@ -40,6 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     out.push(u(`/wakacje/${c.slug}/`, 0.9, { img }));
     c.content!.regions?.forEach((r) => out.push(u(`/wakacje/${c.slug}/${r.slug}/`, 0.8, { img: imageFor(`${c.slug}-${r.slug}`) || img })));
     availableSubpages(c).forEach((s) => out.push(u(`/wakacje/${c.slug}/${s}/`, s === 'oferty' ? 0.8 : 0.7, { daily: s === 'oferty', img })));
+    attractionsOf(c.slug).forEach((a) => out.push(u(`/wakacje/${c.slug}/atrakcje/${a.slug}/`, 0.7, { img })));
   }
   return out;
 }

@@ -16,6 +16,7 @@ import Tabs from '@/components/Tabs';
 import Aside from '@/components/Aside';
 import Climate from '@/components/Climate';
 import { GygWidget } from '@/components/Gyg';
+import { attractionUrl } from '@/lib/attractions';
 import { gygSearchUrl, wakacjeUrl } from '@/lib/affiliate';
 
 export const dynamicParams = false;
@@ -299,8 +300,9 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
                     <div className="attr-item" key={i}>
                       <div className="num">{i + 1}</div>
                       <div>
-                        <h3>{a.name}</h3>
+                        <h3>{attractionUrl(c, a.name) ? <a href={attractionUrl(c, a.name)!}>{a.name}</a> : a.name}</h3>
                         <p>{a.text}</p>
+                        {attractionUrl(c, a.name) && <a className="link-arrow" href={attractionUrl(c, a.name)!}>Zwiedzanie, bilety i porady &rarr;</a>}{' '}
                         <a className="gyg" href={gygSearchUrl(a.gygQuery || a.name)} target="_blank" rel="sponsored nofollow noopener">Bilety i wycieczki &rarr;</a>
                       </div>
                     </div>

@@ -5,6 +5,7 @@ import { gygSearchUrl, wakacjeUrl } from './affiliate';
 import { esimFor, esimUrl } from './esim';
 import type { Country, Region } from './types';
 import { selfTravel } from './travelpayouts';
+import { attractionUrl } from './attractions';
 import { CRUISE_AREAS, CRUISE_COUNTRY_ID, areaOf, lineOf, splitName } from './cruises';
 
 export type Card = {
@@ -107,7 +108,7 @@ export function guide(args: { kierunek: string }) {
     ...base,
     wstep: cut(ct?.intro?.join(' '), 700),
     regiony: ct?.regions?.map((x) => ({ nazwa: x.name, typ: x.type, link: `/wakacje/${c.slug}/${x.slug}/`, dla_kogo: cut(x.forWhom, 200), lotnisko: x.airport })),
-    atrakcje: ct?.attractions?.slice(0, 12).map((a) => ({ nazwa: a.name, opis: cut(a.text, 200), link_wycieczki: gygSearchUrl(a.gygQuery || a.name) })),
+    atrakcje: ct?.attractions?.slice(0, 12).map((a) => ({ nazwa: a.name, opis: cut(a.text, 200), link_wycieczki: gygSearchUrl(a.gygQuery || a.name), ...(attractionUrl(c, a.name) ? { link_opis: attractionUrl(c, a.name) } : {}) })),
     all_inclusive: ct?.allInclusive?.slice(0, 4).map((x) => cut(x, 200)),
     kuchnia: ct?.cuisine?.slice(0, 6).map((x) => cut(String(x), 120)),
   };

@@ -649,3 +649,20 @@ p { margin: 0 0 1em; }
   .st-btns .btn { justify-content: center; }
   .st-facts { grid-template-columns: 1fr; }
 }
+
+/* ===== Strona atrakcji ===== */
+.at-facts { display: grid; grid-template-columns: 1fr 2fr; gap: 12px; margin: 0 0 18px; }
+.at-facts div { background: var(--soft); border-radius: 14px; padding: 14px 16px; }
+.at-facts span { display: block; font-size: 0.74rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); margin-bottom: 4px; }
+.at-facts b { font-size: 0.98rem; font-weight: 600; line-height: 1.4; }
+.at-cta { margin: 0 0 8px; }
+.gyg-avail { margin: 0 0 10px; }
+.at-info { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.at-info div { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; }
+.at-info h3 { margin: 0 0 6px; font-size: 1rem; }
+.at-info p { margin: 0; font-size: 0.93rem; line-height: 1.55; color: var(--ink-2); }
+.at-others { display: flex; flex-wrap: wrap; gap: 8px; }
+.attr-item h3 a { color: inherit; }
+.attr-item h3 a:hover { color: var(--ocean); }
+@media (max-width: 860px) { .at-info, .at-facts { grid-template-columns: 1fr; } }
+.attr-item .link-arrow { font-size: 0.9rem; margin-right: 14px; }

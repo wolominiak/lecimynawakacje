@@ -1,0 +1,63 @@
+# Szczegółowe opisy atrakcji (Gemini) i numery wycieczek GetYourGuide.
+# Ręcznie: Actions -> "Generuj atrakcje" -> Run workflow. Co 3 godziny dorabia kolejne brakujące,
+# aż opisane będą wszystkie (potem nic nie robi). Wymaga sekretu GEMINI_API_KEY.
+name: Generuj atrakcje
+
+on:
+  schedule:
+    - cron: '23 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Ile atrakcji w jednym przebiegu'
+        default: '120'
+      only:
+        description: 'Tylko te kraje (np. grecja,hiszpania), puste = kolejne brakujące'
+        default: ''
+      force:
+        description: 'Nadpisz istniejące opisy (true/false)'
+        default: 'false'
+      tours_only:
+        description: 'Tylko szukaj numerów wycieczek GYG dla istniejących opisów (true/false)'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-attractions
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Generuj
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then echo "::error::Brak sekretu GEMINI_API_KEY"; exit 1; fi
+          ARGS="--limit ${{ inputs.limit || '120' }}"
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ "${{ inputs.tours_only }}" = "true" ]; then ARGS="$ARGS --tours-only"; fi
+          node scripts/generate-attractions.mjs $ARGS
+      - name: Commit i push
+        run: |
+          git config user.name "wolominiak"
+          git config user.email "228559845+wolominiak@users.noreply.github.com"
+          git add content/attractions
+          if git diff --cached --quiet; then echo "Nic nowego"; exit 0; fi
+          git commit -m "Nowe opisy atrakcji"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
