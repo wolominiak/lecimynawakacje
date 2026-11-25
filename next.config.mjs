@@ -10,6 +10,13 @@ const nextConfig = {
   // Asystent AI czyta przewodniki z dysku w funkcji serwerowej
   outputFileTracingIncludes: { '/api/asystent': ['./content/**/*', './data/**/*'] },
   poweredByHeader: false,
+  // Zdjęcia: przeglądarka trzyma je tydzień (wcześniej pobierała przy każdej wizycie)
+  async headers() {
+    return [
+      { source: '/img/:path*', headers: [{ key: 'Cache-Control', value: 'public, max-age=604800, stale-while-revalidate=2592000' }] },
+      { source: '/og.jpg', headers: [{ key: 'Cache-Control', value: 'public, max-age=604800' }] },
+    ];
+  },
   async redirects() {
     return [
       // Zamaskowane linki partnerskie: /go/... -> partner z parametrami śledzącymi
