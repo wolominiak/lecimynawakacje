@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { seo, ogImage } from '@/lib/seo';
-import { CONTINENTS, getByContinent, getCountries } from '@/lib/data';
+import { CONTINENTS, getByContinent, getCountries, availableSubpages } from '@/lib/data';
 import Crumbs from '@/components/Crumbs';
 
 export const metadata: Metadata = seo({
@@ -10,14 +10,16 @@ export const metadata: Metadata = seo({
 });
 
 export default function All() {
-  const n = getCountries().length;
+  const all = getCountries();
+  const n = all.length;
+  const withOffers = all.filter((c) => availableSubpages(c).includes('oferty')).length;
   return (
     <div className="wrap">
       <Crumbs items={[{ name: 'Kierunki' }]} />
       <section className="section-sm">
         <span className="eyebrow">{n} krajów i terytoriów</span>
         <h1 style={{ marginTop: 12 }}>Kierunki wakacyjne od A do Z</h1>
-        <p className="lead" style={{ marginTop: 16 }}>Wszystkie kraje świata w jednym miejscu. Pogrubione kierunki mają pełny przewodnik z regionami, pogodą i atrakcjami.</p>
+        <p className="lead" style={{ marginTop: 16 }}>Wszystkie kraje świata w jednym miejscu, każdy z przewodnikiem: kiedy jechać, regiony, atrakcje, noclegi i wynajem auta. <b>Pogrubione</b> kierunki ({withOffers}) mają też aktualne oferty biur podróży z cenami i terminami.</p>
       </section>
       {CONTINENTS.map((ct) => (
         <section key={ct.slug} className="section-sm" style={{ borderTop: '1px solid var(--line)' }}>
@@ -27,7 +29,7 @@ export default function All() {
           </div>
           <div className="clist">
             {getByContinent(ct.slug).map((c) => (
-              <a key={c.slug} href={`/wakacje/${c.slug}/`} className={c.content ? 'has' : ''}><span className="pip" />{c.name}</a>
+              <a key={c.slug} href={`/wakacje/${c.slug}/`} className={availableSubpages(c).includes('oferty') ? 'has' : ''} title={availableSubpages(c).includes('oferty') ? 'Przewodnik i oferty biur podróży' : 'Przewodnik'}><span className="pip" />{c.name}</a>
             ))}
           </div>
         </section>
