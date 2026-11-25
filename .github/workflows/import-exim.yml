@@ -1,6 +1,6 @@
 # Codzienny import ofert Exim Tours z feedu TradeDoublera.
 # Wymaga sekretu EXIM_FEED_URL (link Unlimited JSON z TradeDoublera) (Settings -> Secrets and variables -> Actions).
-name: Import ofert Exim
+name: Import ofert Exim i SeePlaces
 
 on:
   schedule:
@@ -36,13 +36,20 @@ jobs:
         run: |
           if [ -z "$EXIM_FEED_URL$TRADEDOUBLER_TOKEN" ]; then echo "::error::Brak sekretu EXIM_FEED_URL"; exit 1; fi
           if [ "${{ inputs.force }}" = "true" ]; then node scripts/import-exim.mjs --force; else node scripts/import-exim.mjs; fi
+      - name: Import SeePlaces
+        continue-on-error: true
+        env:
+          EXIM_FEED_URL: ${{ secrets.EXIM_FEED_URL }}
+          TRADEDOUBLER_TOKEN: ${{ secrets.TRADEDOUBLER_TOKEN }}
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then node scripts/import-seeplaces.mjs --force; else node scripts/import-seeplaces.mjs; fi
       - name: Commit i push
         run: |
           git config user.name "wolominiak"
           git config user.email "228559845+wolominiak@users.noreply.github.com"
-          git add public/exim data/exim-meta.json
+          git add public/exim data/exim-meta.json public/seeplaces data/seeplaces-meta.json 2>/dev/null || git add public/exim data/exim-meta.json
           if git diff --cached --quiet; then echo "Brak zmian"; exit 0; fi
-          git commit -m "Oferty Exim: aktualizacja feedu"
+          git commit -m "Oferty Exim i wycieczki SeePlaces: aktualizacja feedów"
           for i in 1 2 3; do
             git pull --rebase origin main && git push origin HEAD:main && exit 0
             sleep 5
