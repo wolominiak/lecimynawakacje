@@ -18,6 +18,21 @@ type Offer = {
 
 export type LmCountry = { id: number; name: string; slug: string };
 
+/** Ustawienia wyszukiwarki dla kategorii (last minute, all inclusive, egzotyka...) */
+export type DealCfg = {
+  mode: 'lastminute' | 'all';   // lastminute: wylot w najbliższych dniach, all: wszystkie terminy (filtr miesięcy)
+  service?: number;             // stałe wyżywienie (1 = all inclusive)
+  maxPrice?: number;            // stały limit ceny za osobę
+  kind?: 'objazd' | 'wypoczynek';
+  label: string;                // "last minute", "all inclusive"...
+  cmp: string;                  // znacznik w linku /go/oferta/?c=
+  allLink: string;              // link "zobacz wszystkie na wakacje.pl"
+};
+const LM_CFG: DealCfg = { mode: 'lastminute', label: 'last minute', cmp: 'last-minute', allLink: '/go/last-minute/' };
+const isObjazd = (o: { placeName: string[] }) => /objazd/i.test(o.placeName?.[1] || '');
+const monthKey = (d: string) => d.slice(0, 7);
+const monthLabel = (k: string) => new Date(k + '-15T12:00:00').toLocaleDateString('pl-PL', { month: 'short', year: 'numeric' });
+
 const WHEN = [
   { v: 3, label: 'do 3 dni' },
   { v: 7, label: 'do tygodnia' },
@@ -51,7 +66,7 @@ const daysTo = (iso: string) => Math.round((new Date(iso + 'T00:00:00').getTime(
 const fmtDate = (d: string) => d.slice(8, 10) + '.' + d.slice(5, 7);
 const ofert = (n: number) => (n === 1 ? 'oferta' : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? 'oferty' : 'ofert');
 
-async function load(terms: Record<string, unknown>): Promise<Offer[]> {
+async function load(terms: Record<string, unknown>, cfg: DealCfg): Promise<Offer[]> {
   const ctl = new AbortController();
   const timer = setTimeout(() => ctl.abort(), 9000);
   try {
@@ -59,7 +74,13 @@ async function load(terms: Record<string, unknown>): Promise<Offer[]> {
       method: 'POST',
       signal: ctl.signal,
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ terms: { regions: [], cities: [], countries: [], searchType: 'lastminute', ...terms } }),
+      body: JSON.stringify({ terms: {
+        regions: [], cities: [], countries: [],
+        ...(cfg.mode === 'lastminute' ? { searchType: 'lastminute' } : {}),
+        ...(cfg.service ? { service: [cfg.service] } : {}),
+        ...(cfg.maxPrice ? { maxPrice: cfg.maxPrice } : {}),
+        ...terms,
+      } }),
     });
     const j = await r.json();
     return Array.isArray(j.data) ? j.data : [];
@@ -70,7 +91,9 @@ async function load(terms: Record<string, unknown>): Promise<Offer[]> {
   }
 }
 
-export default function LastMinuteBrowser({ countries, initialCountry = '' }: { countries: LmCountry[]; initialCountry?: string }) {
+export default function LastMinuteBrowser({ countries, initialCountry = '', cfg = LM_CFG, globalPool = true }: { countries: LmCountry[]; initialCountry?: string; cfg?: DealCfg; globalPool?: boolean }) {
+  const lm = cfg.mode === 'lastminute';
+  const [month, setMonth] = useState('');
   const [pool, setPool] = useState<Offer[] | null>(null);
   const [country, setCountry] = useState(initialCountry);
   const [when, setWhen] = useState(0);
@@ -92,15 +115,19 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
     const add = (l: Offer[]) => {
       if (cancel) return;
       for (const o of l) {
-        if (!seen.has(o.id) && daysTo(o.departureDate) >= 0 && o.placeName?.[0] !== 'Polska' && (!o.transport || o.transport.value === 1)) { seen.add(o.id); all.push(o); }
+        if (seen.has(o.id) || daysTo(o.departureDate) < 0 || o.placeName?.[0] === 'Polska' || (o.transport && o.transport.value !== 1)) continue;
+        if (cfg.kind === 'objazd' && !isObjazd(o)) continue;
+        if (cfg.kind === 'wypoczynek' && isObjazd(o)) continue;
+        seen.add(o.id); all.push(o);
       }
       setPool([...all]);
     };
     // najpierw ogólna pula, potem kraje po kilka naraz; wyniki pokazujemy, gdy tylko przyjdą
     (async () => {
-      add(await load({ limit: 100 }));
+      if (globalPool) add(await load({ limit: 100 }, cfg));
       const queue = [...countries];
-      const worker = async () => { while (queue.length && !cancel) { const c = queue.shift()!; add(await load({ limit: 30, countries: [c.id] })); } };
+      const per = lm ? 30 : 40;
+      const worker = async () => { while (queue.length && !cancel) { const c = queue.shift()!; add(await load({ limit: per, countries: [c.id] }, cfg)); } };
       await Promise.all([worker(), worker(), worker(), worker()]);
       if (!cancel) setDone(true);
     })();
@@ -114,6 +141,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
   const pass = (o: Offer, skip?: string) =>
     (skip === 'country' || !country || o.placeName[0] === country) &&
     (skip === 'when' || !when || daysTo(o.departureDate) <= when) &&
+    (skip === 'month' || !month || monthKey(o.departureDate) === month) &&
     (skip === 'service' || !service || o.service?.value === service) &&
     (skip === 'length' || !length || (length === 's' ? o.duration <= 7 : length === 'm' ? o.duration >= 8 && o.duration <= 10 : o.duration >= 11)) &&
     (skip === 'budget' || !budget || num(o.price) <= budget) &&
@@ -124,14 +152,21 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
     (pool || []).filter((o) => pass(o, 'country')).forEach((o) => m.set(o.placeName[0], (m.get(o.placeName[0]) || 0) + 1));
     return [...m.entries()].sort((a, b) => b[1] - a[1]);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [pool, when, service, length, budget, airport]);
+  }, [pool, when, month, service, length, budget, airport]);
+
+  const months = useMemo(() => {
+    const m = new Map<string, number>();
+    (pool || []).filter((o) => pass(o, 'month')).forEach((o) => { const k = monthKey(o.departureDate); m.set(k, (m.get(k) || 0) + 1); });
+    return [...m.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pool, country, service, length, budget, airport]);
 
   const airports = useMemo(() => {
     const m = new Map<string, { label: string; n: number }>();
     (pool || []).filter((o) => pass(o, 'airport')).forEach((o) => { const a = o.departure; if (a?.urlName) m.set(a.urlName, { label: a.label, n: (m.get(a.urlName)?.n || 0) + 1 }); });
     return [...m.entries()].sort((a, b) => b[1].n - a[1].n);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [pool, country, when, service, length, budget]);
+  }, [pool, country, when, month, service, length, budget]);
 
   const list = useMemo(() => {
     const l = (pool || []).filter((o) => pass(o));
@@ -143,22 +178,32 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
     };
     return l.sort(by[sort]);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [pool, country, when, service, length, budget, airport, sort]);
+  }, [pool, country, when, month, service, length, budget, airport, sort]);
 
-  useEffect(() => { setShown(12); }, [country, when, service, length, budget, airport, sort]);
+  useEffect(() => { setShown(12); }, [country, when, month, service, length, budget, airport, sort]);
 
-  const reset = () => { setCountry(''); setWhen(0); setService(0); setLength(''); setBudget(0); setAirport(''); };
-  const active = !!(country || when || service || length || budget || airport);
+  const reset = () => { setCountry(''); setWhen(0); setMonth(''); setService(0); setLength(''); setBudget(0); setAirport(''); };
+  const active = !!(country || when || month || service || length || budget || airport);
 
   return (
     <div className="lm">
       <div className="lm-panel">
-        <div className="lm-row">
-          <span className="lm-label">Wylot</span>
-          <div className="lm-pills" role="group" aria-label="Wylot w ciągu">
-            {WHEN.map((w) => <button key={w.v} type="button" className={when === w.v ? 'on' : ''} aria-pressed={when === w.v} onClick={() => setWhen(w.v)}>{w.label}</button>)}
+        {lm ? (
+          <div className="lm-row">
+            <span className="lm-label">Wylot</span>
+            <div className="lm-pills" role="group" aria-label="Wylot w ciągu">
+              {WHEN.map((w) => <button key={w.v} type="button" className={when === w.v ? 'on' : ''} aria-pressed={when === w.v} onClick={() => setWhen(w.v)}>{w.label}</button>)}
+            </div>
           </div>
-        </div>
+        ) : (
+          <div className="lm-row">
+            <span className="lm-label">Miesiąc wylotu</span>
+            <div className="lm-pills" role="group" aria-label="Miesiąc wylotu">
+              <button type="button" className={!month ? 'on' : ''} onClick={() => setMonth('')}>Dowolny</button>
+              {months.map(([k, n]) => <button key={k} type="button" className={month === k ? 'on' : ''} aria-pressed={month === k} onClick={() => setMonth(month === k ? '' : k)}>{monthLabel(k)} <small>{n}</small></button>)}
+            </div>
+          </div>
+        )}
         <div className="lm-row">
           <span className="lm-label">Kierunek</span>
           <div className="lm-pills lm-scroll" role="group" aria-label="Kierunek">
@@ -169,12 +214,12 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
           </div>
         </div>
         <div className="lm-row lm-grid">
-          <div>
+          {!cfg.service && <div>
             <span className="lm-label">Wyżywienie</span>
             <div className="lm-pills" role="group" aria-label="Wyżywienie">
               {SERVICE.map((s) => <button key={s.v} type="button" className={service === s.v ? 'on' : ''} aria-pressed={service === s.v} onClick={() => setService(s.v)}>{s.label}</button>)}
             </div>
-          </div>
+          </div>}
           <div>
             <span className="lm-label">Długość pobytu</span>
             <div className="lm-pills" role="group" aria-label="Długość pobytu">
@@ -188,7 +233,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
             <input
               type="range"
               min={Math.max(500, Math.floor((isFinite(minPrice) ? minPrice : 500) / 500) * 500)}
-              max={maxPrice || 10000}
+              max={cfg.maxPrice || maxPrice || 10000}
               step={250}
               value={budget || maxPrice || 10000}
               onChange={(e) => { const v = Number(e.target.value); setBudget(v >= maxPrice ? 0 : v); }}
@@ -210,17 +255,17 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
         </div>
       </div>
 
-      {pool === null && <div className="ob-empty">Szukamy ofert last minute w kilkudziesięciu biurach podróży...</div>}
+      {pool === null && <div className="ob-empty">Szukamy ofert {cfg.label} w kilkudziesięciu biurach podróży...</div>}
       {pool !== null && (
         <div className="lm-bar">
-          <span><b>{list.length}</b> {ofert(list.length)} last minute{country ? ` - ${country}` : ''}{!done && <small className="lm-loading"> wczytujemy kolejne biura...</small>}</span>
+          <span><b>{list.length}</b> {ofert(list.length)} {cfg.label}{country ? ` - ${country}` : ''}{!done && <small className="lm-loading"> wczytujemy kolejne biura...</small>}</span>
           {active && <button type="button" className="lm-reset" onClick={reset}>Wyczyść filtry</button>}
         </div>
       )}
       {pool !== null && list.length === 0 && (
         <div className="ob-empty">
           Brak ofert dla wybranych filtrów. <button type="button" className="lm-reset" onClick={reset}>Wyczyść filtry</button> albo{' '}
-          <a href="/go/last-minute/" target="_blank" rel="sponsored nofollow noopener">zobacz wszystkie last minute na wakacje.pl</a>.
+          <a href={cfg.allLink} target="_blank" rel="sponsored nofollow noopener">zobacz wszystkie oferty na wakacje.pl</a>.
         </div>
       )}
 
@@ -233,15 +278,17 @@ export default function LastMinuteBrowser({ countries, initialCountry = '' }: { 
               const d = daysTo(o.departureDate);
               return (
                 <li key={o.id}>
-                  <a className="ob-card" href={'/go/oferta/?c=last-minute&u=' + encodeURIComponent(o.url)} target="_blank" rel="sponsored nofollow noopener">
+                  <a className="ob-card" href={`/go/oferta/?c=${cfg.cmp}&u=` + encodeURIComponent(o.url)} target="_blank" rel="sponsored nofollow noopener">
                     <div className="ob-img">
                       {o.photo && <img src={IMG + o.photo} alt={o.name} loading="lazy" />}
-                      <span className={'ob-promo' + (d <= 3 ? ' hot' : '')}>{d === 0 ? 'Wylot dziś' : d === 1 ? 'Wylot jutro' : `Wylot za ${d} dni`}</span>
+                      {lm || d <= 14
+                        ? <span className={'ob-promo' + (d <= 3 ? ' hot' : '')}>{d === 0 ? 'Wylot dziś' : d === 1 ? 'Wylot jutro' : `Wylot za ${d} dni`}</span>
+                        : isObjazd(o) ? <span className="ob-promo">Objazd</span> : null}
                     </div>
                     <div className="ob-body">
                       <span className="ob-place">{o.placeName.join(' / ')}</span>
                       <h3>{o.name}</h3>
-                      <span className="ob-stars" aria-label={`Standard ${o.category} gwiazdki`}>{'★'.repeat(Math.round(o.category || 0))}</span>
+                      {!isObjazd(o) && <span className="ob-stars" aria-label={`Standard ${o.category} gwiazdki`}>{'★'.repeat(Math.round(o.category || 0))}</span>}
                       <ul className="ob-meta">
                         <li>{fmtDate(o.departureDate)} - {fmtDate(o.returnDate)} ({o.duration} dni)</li>
                         <li>Wylot: {o.departure?.label}</li>

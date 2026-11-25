@@ -1,6 +1,7 @@
 import LastMinuteBrowser from './LastMinuteBrowser';
 import Crumbs from './Crumbs';
 import Faq from './Faq';
+import CategoryBar from './CategoryBar';
 import { lmCountries } from '@/lib/lastminute';
 import type { Country } from '@/lib/types';
 
@@ -36,6 +37,7 @@ export default function LastMinutePage({ country, apiName }: { country?: Country
           </div>
         </div>
       </section>
+      <div className="wrap"><CategoryBar active="last-minute" /></div>
       <div className="wrap section-sm">
         <LastMinuteBrowser countries={list} initialCountry={apiName} />
       </div>

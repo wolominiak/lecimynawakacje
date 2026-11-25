@@ -8,7 +8,7 @@ export default function SelfTravel({ c, r }: { c: Country; r?: Region }) {
   const place = r ? r.name : c.name;
   const loc = r ? r.loc : c.content?.loc || `w kraju ${c.name}`;
   return (
-    <section className="ft">
+    <section className="ft" id="lot">
       <h2>Na własną rękę: lot, nocleg i auto {loc}</h2>
       <p>Wolisz zorganizować wyjazd sam? Porównaj loty z Polski, noclegi i wynajem samochodu.</p>
       {s.lotnisko && (

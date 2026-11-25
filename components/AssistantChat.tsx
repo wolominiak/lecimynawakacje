@@ -6,7 +6,7 @@ type Msg = { role: 'user' | 'model'; text: string; cards?: Card[]; links?: strin
 
 // Linki, które wolno pokazać jako klikalne: z danych narzędzi, strony portalu (indeks wyszukiwarki),
 // stałe sekcje i wyszukiwanie wycieczek. Wymyślone przez model adresy zostają zwykłym tekstem.
-const STATIC = new Set(['/', '/wakacje/', '/last-minute/', '/rejsy/', '/asystent/', '/gdzie-na-wakacje/', '/rejsy/morze-srodziemne/', '/rejsy/karaiby/', '/rejsy/fiordy-i-europa-polnocna/', '/rejsy/wyspy-kanaryjskie/', '/rejsy/dalekie-rejsy/']);
+const STATIC = new Set(['/', '/wakacje/', '/last-minute/', '/rejsy/', '/asystent/', '/gdzie-na-wakacje/', '/rejsy/morze-srodziemne/', '/rejsy/karaiby/', '/rejsy/fiordy-i-europa-polnocna/', '/rejsy/wyspy-kanaryjskie/', '/rejsy/dalekie-rejsy/', '/all-inclusive/', '/tanie-wakacje/', '/wakacje-nad-morzem/', '/egzotyka/', '/wycieczki-objazdowe/', '/loty/', '/hotele/', '/wynajem-auta/', '/wycieczki-fakultatywne/']);
 let pages: Set<string> | null = null;
 const loadPages = () => fetch('/search-index.json').then((r) => r.json()).then((l: { u: string }[]) => { pages = new Set(l.map((x) => x.u)); }).catch(() => {});
 function fixHref(raw: string, allowed: Set<string>): string | null {

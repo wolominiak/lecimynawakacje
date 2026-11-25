@@ -29,6 +29,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     u('/rejsy/', 0.9, { daily: true, img: imageFor('rejsy') }),
     u('/asystent/', 0.8),
     u('/o-serwisie/', 0.3),
+    ...['all-inclusive', 'tanie-wakacje', 'wakacje-nad-morzem', 'egzotyka', 'wycieczki-objazdowe'].map((k) => u(`/${k}/`, 0.9, { daily: true })),
+    ...['loty', 'hotele', 'wynajem-auta', 'wycieczki-fakultatywne'].map((k) => u(`/${k}/`, 0.8)),
   ];
   CRUISE_AREAS.forEach((a) => out.push(u(`/rejsy/${a.slug}/`, 0.8, { daily: true, img: imageFor(`rejsy-${a.slug}`) })));
   lmCountries().forEach((c) => out.push(u(`/last-minute/${c.slug}/`, 0.8, { daily: true, img: imageFor(c.slug) })));

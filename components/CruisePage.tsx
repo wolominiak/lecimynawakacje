@@ -1,6 +1,7 @@
 import CruiseBrowser from './CruiseBrowser';
 import Crumbs from './Crumbs';
 import Faq from './Faq';
+import CategoryBar from './CategoryBar';
 import { CRUISE_AREAS, type CruiseArea } from '@/lib/cruises';
 import { imageFor, photoCredit } from '@/lib/images';
 
@@ -35,6 +36,7 @@ export default function CruisePage({ area }: { area?: CruiseArea }) {
         </div>
       </section>
 
+      <div className="wrap"><CategoryBar active="rejsy" /></div>
       <div className="wrap section-sm">
         <div className="chips cr-areas">
           <a className={'chip' + (!area ? ' on' : '')} href="/rejsy/">Wszystkie rejsy</a>

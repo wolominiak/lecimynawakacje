@@ -1,3 +1,4 @@
+import CategoryBar from '@/components/CategoryBar';
 import WorldMap from '@/components/WorldMap';
 import Search from '@/components/Search';
 import { DestCard } from '@/components/Cards';
@@ -41,6 +42,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <div className="wrap"><CategoryBar title="Jakich wakacji szukasz?" /></div>
 
       <section className="section">
         <div className="wrap">
