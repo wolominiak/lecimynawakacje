@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, wakacjeRegionId, type SubpageSlug } from '@/lib/data';
 import OffersWidget from '@/components/OffersWidget';
 import SelfTravel from '@/components/SelfTravel';
+import { HotelsView, CarsView } from '@/components/StayCarViews';
 import OffersBrowser from '@/components/OffersBrowser';
 import EximOffers from '@/components/EximOffers';
 import { eximCount } from '@/lib/exim';
@@ -57,6 +58,12 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
   } else if (r.sub === 'all-inclusive') {
     title = `All inclusive ${ct.loc} ${YEAR} - gdzie jechać i na co uważać`;
     description = `Wakacje all inclusive ${ct.loc}: najlepsze regiony, kiedy jechać, czego się spodziewać w hotelach i jak szukać tanich ofert.`;
+  } else if (r.sub === 'hotele') {
+    title = `Hotele i noclegi ${ct.loc} - gdzie spać, najlepsze regiony`;
+    description = `Gdzie nocować ${ct.loc}: regiony dla rodzin, par i aktywnych, kiedy rezerwować i aktualne oferty hoteli, apartamentów i pensjonatów.`;
+  } else if (r.sub === 'wynajem-auta') {
+    title = `Wynajem samochodu ${ct.loc} - porównanie wypożyczalni i porady`;
+    description = `Wynajem auta ${ct.loc}: porównanie cen wypożyczalni, lotniska odbioru, prawo jazdy, ubezpieczenie, kaucja i zasady na drodze.`;
   } else {
     title = `Atrakcje ${ct.loc} - co zobaczyć i jakie wycieczki fakultatywne wybrać`;
     description = `Najciekawsze atrakcje ${ct.loc}: zabytki, plaże, przyroda i wycieczki fakultatywne warte swojej ceny.`;
@@ -170,12 +177,16 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
     'kiedy-jechac': <>Kiedy jechać {ct.to}?</>,
     'all-inclusive': <>All inclusive {ct.loc}</>,
     atrakcje: <>Atrakcje {ct.loc}</>,
+    hotele: <>Hotele i noclegi {ct.loc}</>,
+    'wynajem-auta': <>Wynajem auta {ct.loc}</>,
   };
   const leads: Record<SubpageSlug, string> = {
     oferty: `Aktualne oferty biur podróży z cenami za osobę. Lista odświeża się automatycznie.`,
     'kiedy-jechac': `Pogoda ${ct.loc} w każdym miesiącu: temperatury, woda, sezon i ceny. Wybierz termin pod siebie.`,
     'all-inclusive': `Gdzie szukać najlepszych hoteli all inclusive ${ct.loc} i na co zwrócić uwagę przy wyborze oferty.`,
     atrakcje: `Najciekawsze miejsca ${ct.loc} i wycieczki fakultatywne, które naprawdę warto wykupić.`,
+    hotele: `Gdzie spać ${ct.loc}: regiony dla rodzin, par i aktywnych oraz aktualne oferty noclegów.`,
+    'wynajem-auta': `Porównanie wypożyczalni, lotniska odbioru i wszystko, co trzeba wiedzieć przed wynajmem auta ${ct.loc}.`,
   };
   return (
     <>
@@ -263,6 +274,8 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
                 </div>
               </>
             )}
+            {sub === 'hotele' && <HotelsView c={c} />}
+            {sub === 'wynajem-auta' && <CarsView c={c} />}
             {sub === 'atrakcje' && (
               <>
                 <h2>Co zobaczyć {ct.loc}: lista atrakcji</h2>

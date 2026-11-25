@@ -35,7 +35,11 @@ export const SUBPAGES = {
   'kiedy-jechac': 'Kiedy jechać',
   'all-inclusive': 'All inclusive',
   atrakcje: 'Atrakcje i wycieczki',
+  hotele: 'Hotele i noclegi',
+  'wynajem-auta': 'Wynajem auta',
 } as const;
+// Kraje, w których wynajem auta nie ma sensu (wyspy bez dróg, mikropaństwa)
+const NO_CAR = new Set(['malediwy', 'watykan', 'monako', 'tuvalu', 'nauru', 'kiribati', 'wyspy-marshalla', 'palau', 'mikronezja', 'antarktyda']);
 export type SubpageSlug = keyof typeof SUBPAGES;
 
 let cache: Country[] | null = null;
@@ -130,6 +134,8 @@ export function availableSubpages(c: Country): SubpageSlug[] {
   if (ct.climate && ct.bestTime) out.push('kiedy-jechac');
   if (ct.allInclusive?.length) out.push('all-inclusive');
   if ((ct.attractions?.length || 0) >= 4) out.push('atrakcje');
+  if (ct.regions?.length) out.push('hotele');
+  if (ct.regions?.length && !NO_CAR.has(c.slug)) out.push('wynajem-auta');
   return out;
 }
 

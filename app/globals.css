@@ -625,3 +625,27 @@ p { margin: 0 0 1em; }
 .menu-open .as-fab { display: none; }
 .lm-budget { min-width: 0; }
 .lm-budget input[type='range'] { width: 100%; max-width: 100%; margin: 0; }
+
+/* ===== Hotele i wynajem auta ===== */
+.st-main { margin: 18px 0 24px; }
+.st-list { display: flex; flex-direction: column; gap: 12px; margin: 16px 0 10px; }
+.st-item { display: flex; gap: 18px; align-items: center; justify-content: space-between; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 20px; }
+.st-txt { min-width: 0; }
+.st-txt .t { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ocean); }
+.st-txt h3 { margin: 4px 0 4px; font-size: 1.08rem; }
+.st-txt p { margin: 0 0 4px; color: var(--ink-2); font-size: 0.93rem; line-height: 1.5; }
+.st-txt small { color: var(--ink-2); font-size: 0.82rem; }
+.st-btns { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; flex: none; }
+.st-btns .btn { white-space: nowrap; }
+.st-more { font-size: 0.86rem; font-weight: 700; color: var(--ocean); }
+.st-facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 0 0 10px; }
+.st-facts div { background: var(--soft); border-radius: 14px; padding: 14px 16px; }
+.st-facts span { display: block; font-size: 0.74rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
+.st-facts b { font-size: 1rem; }
+.st-alt { background: var(--soft); border-radius: 14px; padding: 14px 18px; }
+@media (max-width: 720px) {
+  .st-item { flex-direction: column; align-items: stretch; }
+  .st-btns { align-items: stretch; }
+  .st-btns .btn { justify-content: center; }
+  .st-facts { grid-template-columns: 1fr; }
+}
