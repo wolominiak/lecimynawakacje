@@ -4,6 +4,7 @@ import Logo from '@/components/Logo';
 import Search from '@/components/Search';
 import AssistantLauncher from '@/components/AssistantLauncher';
 import MobileMenu from '@/components/MobileMenu';
+import TpDrive from '@/components/TpDrive';
 import { CONTINENTS, popular } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
 import { seo } from '@/lib/seo';
@@ -43,6 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <main>{children}</main>
         <AssistantLauncher />
+        <TpDrive />
         <footer className="ftr">
           <div className="wrap">
             <div className="ftr-grid">
