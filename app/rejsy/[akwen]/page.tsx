@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { seo, ogImage, pick } from '@/lib/seo';
 import { notFound } from 'next/navigation';
 import CruisePage from '@/components/CruisePage';
 import { CRUISE_AREAS, cruiseArea } from '@/lib/cruises';
@@ -11,11 +12,12 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ akwen: string }> }): Promise<Metadata> {
   const a = cruiseArea((await params).akwen);
   if (!a) return {};
-  return {
-    title: `${a.title} 2027 - ceny, terminy, porty`,
-    description: a.teaser,
-    alternates: { canonical: `/rejsy/${a.slug}/` },
-  };
+  return seo({
+    title: pick(`${a.title} - ceny, terminy, porty`, `${a.title} - ceny i terminy`, a.title),
+    description: `${a.teaser} Aktualne rejsy z cenami i terminami.`,
+    path: `/rejsy/${a.slug}/`,
+    image: ogImage(`rejsy-${a.slug}`, 'rejsy'),
+  });
 }
 
 export default async function Page({ params }: { params: Promise<{ akwen: string }> }) {

@@ -1,12 +1,13 @@
 import type { Metadata } from 'next';
+import { seo, ogImage } from '@/lib/seo';
 import { MONTHS, warmIn } from '@/lib/data';
 import Crumbs from '@/components/Crumbs';
 
-export const metadata: Metadata = {
+export const metadata: Metadata = seo({
   title: 'Gdzie na wakacje? Kierunki na każdy miesiąc roku',
-  description: 'Gdzie jest ciepło w styczniu, a gdzie najlepiej pojechać w sierpniu? Zestawienie kierunków wakacyjnych na każdy miesiąc z temperaturą powietrza i wody.',
-  alternates: { canonical: '/gdzie-na-wakacje/' },
-};
+  description: 'Gdzie jest ciepło w styczniu, a gdzie pojechać w sierpniu? Kierunki wakacyjne na każdy miesiąc z temperaturą powietrza i wody.',
+  path: '/gdzie-na-wakacje/',
+});
 
 export default function Months() {
   return (

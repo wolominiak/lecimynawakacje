@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { seo, ogImage } from '@/lib/seo';
 import { notFound } from 'next/navigation';
 import { CONTINENTS, getByContinent } from '@/lib/data';
 import type { ContinentSlug } from '@/lib/types';
@@ -13,7 +14,11 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
   const { slug } = await params;
   const ct = CONTINENTS.find((c) => c.slug === slug);
   if (!ct) return {};
-  return { title: `Wakacje ${ct.loc} - kraje, kierunki i najlepsze regiony`, description: ct.teaser, alternates: { canonical: `/kontynenty/${slug}/` } };
+  return seo({
+    title: `Wakacje ${ct.loc} - kraje, kierunki i regiony`,
+    description: `${ct.teaser} Sprawdź, kiedy jechać, co zobaczyć i jakie są oferty wakacji ${ct.loc}.`,
+    path: `/kontynenty/${slug}/`,
+  });
 }
 
 export default async function ContinentPage({ params }: P) {

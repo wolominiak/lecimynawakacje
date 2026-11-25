@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { seo, ogImage, pick } from '@/lib/seo';
+import { SITE } from '@/lib/affiliate';
 import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
 import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, wakacjeRegionId, type SubpageSlug } from '@/lib/data';
@@ -17,7 +19,8 @@ import { GygWidget } from '@/components/Gyg';
 import { gygSearchUrl, wakacjeUrl } from '@/lib/affiliate';
 
 export const dynamicParams = false;
-const YEAR = 2027;
+// Od września pokazujemy kolejny rok (ludzie szukają już "wakacje 2027")
+const YEAR = new Date().getMonth() >= 8 ? new Date().getFullYear() + 1 : new Date().getFullYear();
 
 export function generateStaticParams() {
   const out: { kraj: string; sub: string }[] = [];
@@ -47,29 +50,34 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
   let title = '';
   let description = '';
   if (r.region) {
-    title = `Wakacje ${r.region.loc} ${YEAR} - co zobaczyć, gdzie nocować (${r.c.name})`;
-    description = r.region.intro[0].slice(0, 155);
+    title = pick(`Wakacje ${r.region.loc} ${YEAR} - co zobaczyć, gdzie nocować (${r.c.name})`, `${r.region.name} (${r.c.name}) ${YEAR} - co zobaczyć, gdzie nocować`, `${r.region.name} (${r.c.name}) - co zobaczyć, gdzie nocować`, `${r.region.name} (${r.c.name}) - przewodnik`, `${r.region.name}, ${r.c.name}`);
+    description = r.region.intro.join(" ");
   } else if (r.sub === 'oferty') {
-    title = `Wakacje ${ct.loc} ${YEAR} - aktualne oferty i ceny`;
+    title = pick(`Wakacje ${ct.loc} ${YEAR} - aktualne oferty i ceny`, `Wakacje ${ct.loc} ${YEAR} - oferty i ceny`, `Oferty wakacji ${ct.loc}`);
     description = `Aktualne oferty wakacji ${ct.loc} z cenami: all inclusive, first minute i last minute od wielu biur podróży. Sprawdź, ile kosztuje wyjazd ${ct.to}.`;
   } else if (r.sub === 'kiedy-jechac') {
-    title = `Kiedy jechać ${ct.to}? Pogoda i temperatura wody miesiąc po miesiącu`;
+    title = pick(`Kiedy jechać ${ct.to}? Pogoda i temperatura wody miesiąc po miesiącu`, `Kiedy jechać ${ct.to}? Pogoda i temperatura wody`, `Kiedy jechać ${ct.to}? Pogoda w miesiącach`, `Kiedy jechać ${ct.to}?`);
     description = `Najlepszy termin na wakacje ${ct.loc}: średnie temperatury powietrza i wody w każdym miesiącu, sezon, ceny i pogoda.`;
   } else if (r.sub === 'all-inclusive') {
-    title = `All inclusive ${ct.loc} ${YEAR} - gdzie jechać i na co uważać`;
+    title = pick(`All inclusive ${ct.loc} ${YEAR} - gdzie jechać i na co uważać`, `All inclusive ${ct.loc} ${YEAR} - gdzie jechać`, `All inclusive ${ct.loc} ${YEAR}`);
     description = `Wakacje all inclusive ${ct.loc}: najlepsze regiony, kiedy jechać, czego się spodziewać w hotelach i jak szukać tanich ofert.`;
   } else if (r.sub === 'hotele') {
-    title = `Hotele i noclegi ${ct.loc} - gdzie spać, najlepsze regiony`;
+    title = pick(`Hotele i noclegi ${ct.loc} - gdzie spać, najlepsze regiony`, `Hotele i noclegi ${ct.loc} - gdzie spać`, `Noclegi ${ct.loc}: gdzie spać`);
     description = `Gdzie nocować ${ct.loc}: regiony dla rodzin, par i aktywnych, kiedy rezerwować i aktualne oferty hoteli, apartamentów i pensjonatów.`;
   } else if (r.sub === 'wynajem-auta') {
-    title = `Wynajem samochodu ${ct.loc} - porównanie wypożyczalni i porady`;
+    title = pick(`Wynajem samochodu ${ct.loc} - porównanie wypożyczalni i porady`, `Wynajem samochodu ${ct.loc} - ceny i porady`, `Wynajem auta ${ct.loc}`);
     description = `Wynajem auta ${ct.loc}: porównanie cen wypożyczalni, lotniska odbioru, prawo jazdy, ubezpieczenie, kaucja i zasady na drodze.`;
   } else {
-    title = `Atrakcje ${ct.loc} - co zobaczyć i jakie wycieczki fakultatywne wybrać`;
+    title = pick(`Atrakcje ${ct.loc} - co zobaczyć i jakie wycieczki fakultatywne wybrać`, `Atrakcje ${ct.loc} - co zobaczyć i jakie wycieczki wybrać`, `Atrakcje ${ct.loc} - co zobaczyć, wycieczki`, `Atrakcje ${ct.loc}: co zobaczyć`);
     description = `Najciekawsze atrakcje ${ct.loc}: zabytki, plaże, przyroda i wycieczki fakultatywne warte swojej ceny.`;
   }
-  const url = `/wakacje/${r.c.slug}/${sub}/`;
-  return { title, description, alternates: { canonical: url }, openGraph: { title, url } };
+  return seo({
+    title,
+    description,
+    path: `/wakacje/${r.c.slug}/${sub}/`,
+    image: ogImage(r.region ? `${r.c.slug}-${r.region.slug}` : undefined, r.c.slug),
+    type: 'article',
+  });
 }
 
 export default async function SubPage({ params }: P) {
@@ -164,6 +172,13 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
           <Aside c={c} wakacjePath={path} ctaTitle={`Wakacje ${r.loc}`} />
         </div>
       </div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org', '@type': 'TouristDestination',
+        name: r.name, description: r.intro[0], url: `${SITE.url}/wakacje/${c.slug}/${r.slug}/`,
+        ...(imageFor(`${c.slug}-${r.slug}`) ? { image: SITE.url + imageFor(`${c.slug}-${r.slug}`) } : {}),
+        containedInPlace: { '@type': 'Country', name: c.name, url: `${SITE.url}/wakacje/${c.slug}/` },
+        ...(r.places?.length ? { includesAttraction: r.places.map((x) => ({ '@type': 'TouristAttraction', name: x.name, description: x.text })) } : {}),
+      }) }} />
     </>
   );
 }
@@ -292,6 +307,10 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
                   ))}
                 </div>
                 <GygWidget q={ct.gygQuery || c.name} items={6} title={`Wycieczki fakultatywne ${ct.loc}`} />
+                <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+                  '@context': 'https://schema.org', '@type': 'ItemList', name: `Atrakcje ${ct.loc}`,
+                  itemListElement: ct.attractions!.map((a, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'TouristAttraction', name: a.name, description: a.text } })),
+                }) }} />
               </>
             )}
           </article>

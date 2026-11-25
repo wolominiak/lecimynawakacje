@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { seo, ogImage, pick } from '@/lib/seo';
+import { SITE } from '@/lib/affiliate';
 import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
 import { getCountries, getCountry, getCountryByCode, continentOf, isIndexable, MONTHS, availableSubpages } from '@/lib/data';
@@ -19,21 +21,23 @@ export function generateStaticParams() {
 
 type P = { params: Promise<{ kraj: string }> };
 
-const YEAR = 2027;
+// Od września pokazujemy kolejny rok (ludzie szukają już "wakacje 2027")
+const YEAR = new Date().getMonth() >= 8 ? new Date().getFullYear() + 1 : new Date().getFullYear();
 
 export async function generateMetadata({ params }: P): Promise<Metadata> {
   const { kraj } = await params;
   const c = getCountry(kraj);
   if (!c) return {};
   const ct = c.content;
-  const title = ct ? `Wakacje ${ct.loc} ${YEAR} - kiedy jechać, regiony, atrakcje` : `${c.name} - wakacje i podróże, informacje praktyczne`;
-  return {
+  const title = ct ? pick(`Wakacje ${ct.loc} ${YEAR} - kiedy jechać, regiony, atrakcje`, `Wakacje ${ct.loc} ${YEAR} - kiedy jechać i co zobaczyć`, `Wakacje ${ct.loc} ${YEAR} - przewodnik`, `Wakacje ${ct.loc} ${YEAR}`) : `${c.name} - wakacje i podróże, informacje praktyczne`;
+  return seo({
     title,
     description: ct?.teaser || `${c.name}: waluta, język, sąsiednie kraje, wycieczki i atrakcje. Informacje dla podróżujących z Polski.`,
-    alternates: { canonical: `/wakacje/${c.slug}/` },
-    robots: isIndexable(c) ? undefined : { index: false, follow: true },
-    openGraph: { title, url: `/wakacje/${c.slug}/` },
-  };
+    path: `/wakacje/${c.slug}/`,
+    image: ogImage(c.slug),
+    noindex: !isIndexable(c),
+    type: 'article',
+  });
 }
 
 export default async function CountryPage({ params }: P) {
@@ -188,8 +192,10 @@ export default async function CountryPage({ params }: P) {
       {ct && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           '@context': 'https://schema.org', '@type': 'TouristDestination', name: c.name, description: ct.teaser,
-          touristType: ['Wypoczynek', 'Zwiedzanie'],
-          ...(ct.regions?.length ? { includesAttraction: ct.regions.map((r) => ({ '@type': 'TouristDestination', name: r.name })) } : {}),
+          url: `${SITE.url}/wakacje/${c.slug}/`, touristType: ['Wypoczynek', 'Zwiedzanie'],
+          ...(imageFor(c.slug) ? { image: SITE.url + imageFor(c.slug) } : {}),
+          ...(c.latlng ? { geo: { '@type': 'GeoCoordinates', latitude: c.latlng[0], longitude: c.latlng[1] } } : {}),
+          ...(ct.regions?.length ? { includesAttraction: ct.regions.map((r) => ({ '@type': 'TouristDestination', name: r.name, url: `${SITE.url}/wakacje/${c.slug}/${r.slug}/` })) } : {}),
         }) }} />
       )}
     </>

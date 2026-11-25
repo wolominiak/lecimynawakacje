@@ -1,11 +1,12 @@
 import type { Metadata } from 'next';
+import { seo, ogImage } from '@/lib/seo';
 import AssistantChat from '@/components/AssistantChat';
 
-export const metadata: Metadata = {
-  title: 'Asystent podróży AI - zaplanuj wakacje dzień po dniu',
+export const metadata: Metadata = seo({
+  title: 'Asystent podróży AI - zaplanuj wakacje z pomocą AI',
   description: 'Asystent AI ułoży plan wyjazdu dzień po dniu, znajdzie oferty biur podróży z cenami i terminami, poleci wycieczki i internet eSIM.',
-  alternates: { canonical: '/asystent/' },
-};
+  path: '/asystent/',
+});
 
 export default function Page() {
   return (

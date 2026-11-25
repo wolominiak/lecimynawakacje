@@ -114,7 +114,11 @@ export default function Home() {
         </div>
       </section>
 
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url, inLanguage: 'pl-PL' }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify([
+        { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url, inLanguage: 'pl-PL', publisher: { '@id': SITE.url + '/#org' } },
+        { '@context': 'https://schema.org', '@type': 'Organization', '@id': SITE.url + '/#org', name: SITE.name, url: SITE.url, logo: SITE.url + '/favicon.svg',
+          address: { '@type': 'PostalAddress', streetAddress: 'Aðalstræti 24', postalCode: '400', addressLocality: 'Ísafjörður', addressCountry: 'IS' }, legalName: 'Gjafaland ehf.' },
+      ]) }} />
     </>
   );
 }

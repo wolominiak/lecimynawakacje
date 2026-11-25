@@ -1,12 +1,13 @@
 import type { Metadata } from 'next';
+import { seo, ogImage } from '@/lib/seo';
 import { CONTINENTS, getByContinent, getCountries } from '@/lib/data';
 import Crumbs from '@/components/Crumbs';
 
-export const metadata: Metadata = {
+export const metadata: Metadata = seo({
   title: 'Kierunki wakacyjne A-Z - wszystkie kraje świata',
   description: 'Lista wszystkich krajów świata podzielona na kontynenty. Wybierz kierunek i sprawdź, kiedy jechać, co zobaczyć i jakie są oferty wakacji.',
-  alternates: { canonical: '/wakacje/' },
-};
+  path: '/wakacje/',
+});
 
 export default function All() {
   const n = getCountries().length;

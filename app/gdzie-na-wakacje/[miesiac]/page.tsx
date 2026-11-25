@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { seo, ogImage } from '@/lib/seo';
 import { notFound } from 'next/navigation';
 import { MONTHS, warmIn } from '@/lib/data';
 import Crumbs from '@/components/Crumbs';
@@ -13,11 +14,11 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
   const i = MONTHS.findIndex((m) => m.slug === miesiac);
   if (i < 0) return {};
   const top = warmIn(i).slice(0, 4).map((x) => x.country.name).join(', ');
-  return {
-    title: `Gdzie na wakacje ${MONTHS[i].loc} 2027? Ciepłe kierunki i temperatury`,
-    description: `Gdzie jest ciepło ${MONTHS[i].loc}? ${top} i inne kierunki z temperaturą powietrza i wody. Sprawdź, gdzie pojechać na wakacje.`,
-    alternates: { canonical: `/gdzie-na-wakacje/${miesiac}/` },
-  };
+  return seo({
+    title: `Gdzie na wakacje ${MONTHS[i].loc}? Ciepłe kierunki i temperatury`,
+    description: `Gdzie jest ciepło ${MONTHS[i].loc}? ${top} i inne kierunki z temperaturą powietrza i wody. Sprawdź, gdzie pojechać.`,
+    path: `/gdzie-na-wakacje/${miesiac}/`,
+  });
 }
 
 export default async function MonthPage({ params }: P) {

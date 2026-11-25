@@ -19,7 +19,7 @@ export function EsimBox({ c }: { c: Country }) {
       <div className="esim-head"><span className="esim-ico"><Icon /></span><h3>Internet w podróży: {c.name}</h3></div>
       <p>{c.eu ? 'W UE działa roaming z Polski, ale limit danych w abonamencie bywa mały. ' : 'Roaming poza UE jest drogi. '}Karta eSIM działa od razu po wylądowaniu, bez wymiany karty SIM.</p>
       <p className="esim-price">od <b>{usd(from)}</b></p>
-      <a className="btn" href={esimUrl(c, e.package != null ? 'package' : 'unlimited')} target="_blank" rel="noopener">Kup eSIM {c.name} &rarr;</a>
+      <a className="btn" href={esimUrl(c, e.package != null ? 'package' : 'unlimited')} target="_blank" rel="nofollow noopener">Kup eSIM {c.name} &rarr;</a>
     </div>
   );
 }
@@ -39,14 +39,14 @@ export function EsimSection({ c, loc }: { c: Country; loc: string }) {
       </p>
       <div className="esim-opts">
         {e.package != null && (
-          <a className="esim-opt" href={esimUrl(c, 'package')} target="_blank" rel="noopener">
+          <a className="esim-opt" href={esimUrl(c, 'package')} target="_blank" rel="nofollow noopener">
             <b>Pakiet danych</b>
             <span>Określona liczba GB na 7 do 30 dni. Najlepszy na krótki urlop.</span>
             <em>od {usd(e.package)} &rarr;</em>
           </a>
         )}
         {e.unlimited != null && (
-          <a className="esim-opt" href={esimUrl(c, 'unlimited')} target="_blank" rel="noopener">
+          <a className="esim-opt" href={esimUrl(c, 'unlimited')} target="_blank" rel="nofollow noopener">
             <b>Pakiet dzienny</b>
             <span>Dzienny limit danych na wybraną liczbę dni. Dla tych, którzy dużo korzystają z internetu.</span>
             <em>od {usd(e.unlimited)} &rarr;</em>

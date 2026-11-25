@@ -6,13 +6,15 @@ import AssistantLauncher from '@/components/AssistantLauncher';
 import MobileMenu from '@/components/MobileMenu';
 import { CONTINENTS, popular } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
+import { seo } from '@/lib/seo';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
-  title: { default: 'Gdzie na wakacje? Przewodnik po kierunkach z całego świata | Lecimy na wakacje', template: '%s | Lecimy na wakacje' },
-  description: 'Gdzie na wakacje? Przewodniki po krajach i regionach całego świata: kiedy jechać, pogoda, atrakcje, all inclusive i aktualne oferty biur podróży.',
-  openGraph: { siteName: SITE.name, locale: 'pl_PL', type: 'website' },
-  alternates: { canonical: '/' },
+  ...seo({
+    title: 'Gdzie na wakacje? Przewodnik po kierunkach z całego świata',
+    description: 'Gdzie na wakacje? Przewodniki po krajach i regionach całego świata: kiedy jechać, pogoda, atrakcje, all inclusive i aktualne oferty biur podróży.',
+    path: '/',
+  }),
   icons: { icon: '/favicon.svg' },
 };
 export const viewport: Viewport = { themeColor: '#0b6e99', width: 'device-width', initialScale: 1 };
