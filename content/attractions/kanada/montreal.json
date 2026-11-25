@@ -1,0 +1,71 @@
+{
+  "name": "Montreal",
+  "slug": "montreal",
+  "country": "kanada",
+  "lead": "Montreal, drugie co do wielkości miasto Kanady, to fascynujące połączenie północnoamerykańskiego dynamizmu z wyraźnym francuskim dziedzictwem. Warto je odwiedzić dla jego unikalnej kultury i architektury.",
+  "intro": [
+    "Montreal to miasto, które wyróżnia się na tle Kanady swoją silną frankofońską tożsamością. Spacerując po jego ulicach, łatwo zapomnieć, że znajdujemy się w Ameryce Północnej, a nie we Francji. Jest to miejsce, gdzie historia splata się z nowoczesnością, oferując zarówno urokliwe zakątki Starego Montrealu, jak i tętniące życiem dzielnice biznesowe i artystyczne.",
+    "Miasto oferuje szeroki wachlarz aktywności. Można podziwiać gotycką architekturę Bazyliki Notre-Dame, zgubić się w labiryncie brukowanych uliczek Vieux-Montréal, a także odkrywać liczne muzea, galerie sztuki i parki. Montreal słynie również z bogatej sceny kulinarnej, od tradycyjnych potraw po nowoczesne fusion, oraz z festiwali odbywających się przez cały rok.",
+    "Montreal robi wrażenie swoją energią i otwartością. Jest to miasto wielokulturowe, gdzie angielski i francuski współistnieją, tworząc dynamiczną atmosferę. Odwiedzający mogą poczuć zarówno europejski szyk, jak i amerykański rozmach, co czyni to miejsce wyjątkowym punktem na mapie Kanady."
+  ],
+  "highlights": [
+    {
+      "name": "Stary Montreal (Vieux-Montréal)",
+      "text": "Historyczne serce miasta, z brukowanymi uliczkami, kolonialną architekturą i urokliwymi placami. Warto poświęcić czas na spacer i podziwianie zabytków."
+    },
+    {
+      "name": "Bazylika Notre-Dame w Montrealu",
+      "text": "Imponująca neogotycka bazylika, znana z bogato zdobionego wnętrza i spektakularnych witraży. Jest to jeden z najważniejszych punktów orientacyjnych miasta."
+    },
+    {
+      "name": "Wzgórze Królewskie (Mont Royal)",
+      "text": "Park miejski oferujący panoramiczne widoki na miasto. Idealne miejsce na spacer, piknik i podziwianie zachodu słońca."
+    },
+    {
+      "name": "Dzielnica Plateau Mont-Royal",
+      "text": "Charakterystyczna dzielnica z kolorowymi kamienicami, krętymi schodami zewnętrznymi i licznymi butikami oraz kawiarniami. Idealna do poczucia lokalnego klimatu."
+    },
+    {
+      "name": "Podziemne Miasto (RESO)",
+      "text": "Rozległa sieć tuneli i pasaży pod centrum Montrealu, łącząca stacje metra, centra handlowe i atrakcje. Szczególnie przydatna w chłodniejsze dni."
+    },
+    {
+      "name": "Port Starego Montrealu (Vieux-Port de Montréal)",
+      "text": "Odnowiona strefa portowa z atrakcjami takimi jak diabelski młyn, centrum nauki i rejsy po rzece Świętego Wawrzyńca."
+    }
+  ],
+  "visitTime": "Na zwiedzanie głównych atrakcji Montrealu warto przeznaczyć co najmniej 2-3 pełne dni. Jeśli planujemy odwiedzić muzea i delektować się atmosferą, 4-5 dni będzie optymalne.",
+  "bestTime": "Najlepszym czasem na wizytę w Montrealu jest późna wiosna (maj-czerwiec) lub wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy turystów mniejsze niż w szczycie sezonu letniego. Latem (lipiec-sierpień) miasto tętni życiem festiwalowym, ale jest wtedy najwięcej ludzi i wyższe temperatury. Zimą jest bardzo zimno i śnieżnie, ale miasto ma swój urok, zwłaszcza podczas świąt.",
+  "gettingThere": "Montreal posiada międzynarodowe lotnisko (Montréal-Pierre Elliott Trudeau International Airport - YUL) z połączeniami do wielu miast na świecie. Z lotniska do centrum można dojechać autobusem 747 lub taksówką. Miasto jest dobrze skomunikowane koleją z innymi miastami Kanady i USA. W samym Montrealu najlepiej poruszać się metrem i autobusami, sieć komunikacji publicznej jest bardzo rozbudowana.",
+  "tickets": "Wiele atrakcji w Montrealu, takich jak Bazylika Notre-Dame czy muzea, wymaga zakupu biletów. Zazwyczaj można je nabyć na miejscu, ale dla popularnych miejsc warto rozważyć zakup online z wyprzedzeniem, aby uniknąć kolejek i potencjalnie skorzystać z niższych cen. Warto sprawdzić oficjalne strony internetowe poszczególnych atrakcji w celu uzyskania aktualnych informacji o cenach i godzinach otwarcia.",
+  "tips": [
+    "Naucz się kilku podstawowych zwrotów po francusku - docenią to lokalni mieszkańcy, choć w większości miejsc można porozumieć się po angielsku.",
+    "Zaopatrz się w wygodne buty - Stary Montreal najlepiej zwiedzać pieszo, a brukowane uliczki wymagają odpowiedniego obuwia.",
+    "Skorzystaj z karty miejskiej (np. Montréal Museums Pass), jeśli planujesz odwiedzić wiele muzeów - może to być bardziej opłacalne.",
+    "Spróbuj lokalnych specjałów, takich jak poutine, bajgle w stylu montrealskim (Montreal-style bagels) czy wędzone mięso (smoked meat sandwich).",
+    "Pamiętaj o napiwkach w restauracjach i taksówkach - są one standardem w Kanadzie i wynoszą zazwyczaj 15-20% rachunku.",
+    "Zimą ubierz się warstwowo i ciepło, ponieważ temperatury mogą być bardzo niskie. Latem natomiast warto mieć ze sobą lekkie ubranie i coś przeciwdeszczowego."
+  ],
+  "faq": [
+    {
+      "q": "Czy Montreal jest bezpiecznym miastem dla turystów?",
+      "a": "Montreal jest ogólnie uważany za bezpieczne miasto. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza w zatłoczonych miejscach i wieczorami."
+    },
+    {
+      "q": "Czy w Montrealu mówi się po angielsku?",
+      "a": "Tak, choć francuski jest językiem urzędowym prowincji Quebec, w Montrealu większość mieszkańców, zwłaszcza w sektorze usług, posługuje się również angielskim."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Montrealu?",
+      "a": "Na podstawowe zwiedzanie głównych atrakcji Montrealu zaleca się przeznaczyć co najmniej 2-3 dni. Jeśli chcesz głębiej poznać miasto, warto zaplanować 4-5 dni."
+    },
+    {
+      "q": "Czy warto kupić kartę miejską w Montrealu?",
+      "a": "Jeśli planujesz odwiedzić wiele muzeów i atrakcji, karta miejska, taka jak Montréal Museums Pass, może być opłacalna. Warto porównać koszty przed zakupem."
+    }
+  ],
+  "gygQuery": "Montreal city tour",
+  "forWhom": "Montreal to miasto dla każdego - miłośników historii i architektury, koneserów sztuki i kultury, smakoszy, a także rodzin z dziećmi. Jego różnorodność sprawia, że każdy znajdzie tu coś dla siebie.",
+  "history": "Montreal został założony w 1642 roku przez francuskich osadników jako Ville Marie. Szybko stał się ważnym ośrodkiem handlu futrami i misji religijnych. Po podboju brytyjskim w 1760 roku miasto zachowało swój francuski charakter, stając się dwujęzycznym centrum Kanady. W XIX i XX wieku Montreal był największym miastem Kanady i ważnym portem, a jego rozwój gospodarczy i kulturalny ukształtował jego obecny wygląd i tożsamość.",
+  "gygTourId": 1445547
+}

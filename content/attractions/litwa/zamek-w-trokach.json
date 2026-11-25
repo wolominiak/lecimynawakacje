@@ -1,0 +1,66 @@
+{
+  "name": "Zamek w Trokach",
+  "slug": "zamek-w-trokach",
+  "country": "litwa",
+  "lead": "Zamek w Trokach to perła Litwy, dawna siedziba Wielkich Książąt Litewskich, malowniczo położona na wyspie jeziora Galwe. To obowiązkowy punkt na mapie każdego podróżnika.",
+  "intro": [
+    "Zamek w Trokach to imponująca średniowieczna forteca, która dumnie wznosi się na wyspie na jeziorze Galwe, niedaleko Wilna. Jest to jeden z najbardziej rozpoznawalnych symboli Litwy i świadectwo jej bogatej historii. Otoczony wodą, zamek prezentuje się wyjątkowo malowniczo, zwłaszcza w słoneczne dni, kiedy jego czerwone mury odbijają się w tafli jeziora.",
+    "Obecnie w zamku mieści się Muzeum Historyczne w Trokach, które prezentuje bogate zbiory dotyczące historii Litwy, życia na dworze książęcym oraz rzemiosła. Zwiedzający mogą podziwiać sale wystawowe, komnaty książęce, zbrojownię oraz kaplicę. Często organizowane są tu również wystawy czasowe i wydarzenia kulturalne, które ożywiają to historyczne miejsce.",
+    "Wizyta w Trokach to nie tylko lekcja historii, ale także okazja do podziwiania piękna litewskiej przyrody. Otoczenie jeziora Galwe sprzyja spacerom, rejsom łodzią czy kajakiem. Po zwiedzaniu zamku warto przespacerować się po miasteczku, spróbować lokalnych specjałów, takich jak kibiny, i poczuć unikalną atmosferę tego regionu, gdzie przez wieki współistniały różne kultury."
+  ],
+  "highlights": [
+    {
+      "name": "Dziedziniec Zamkowy",
+      "text": "Przestronny dziedziniec, otoczony murami obronnymi, stanowi serce zamku. To stąd można podziwiać architekturę fortecy i poczuć jej dawny majestat."
+    },
+    {
+      "name": "Muzeum Historyczne",
+      "text": "Wnętrza zamku kryją bogate zbiory Muzeum Historycznego, prezentujące eksponaty związane z historią Litwy, dynastią Giedyminowiczów i życiem codziennym w średniowieczu."
+    },
+    {
+      "name": "Wieża Główna (Donżon)",
+      "text": "Wejście na wieżę główną oferuje panoramiczne widoki na jezioro Galwe, okoliczne wyspy i miasteczko Troki. To doskonałe miejsce na zdjęcia."
+    },
+    {
+      "name": "Most Drewniany",
+      "text": "Malowniczy drewniany most prowadzący na wyspę zamkową to pierwszy element, który wprowadza w historyczną atmosferę miejsca i jest często fotografowany."
+    },
+    {
+      "name": "Rejs po Jeziorze Galwe",
+      "text": "Warto rozważyć rejs łodzią lub kajakiem wokół zamku. Pozwala to podziwiać fortecę z innej perspektywy i cieszyć się spokojem jeziora."
+    }
+  ],
+  "visitTime": "Na zwiedzanie samego zamku i muzeum należy przeznaczyć około 2-3 godzin. Jeśli planujesz rejs po jeziorze lub spacer po miasteczku, zarezerwuj pół dnia.",
+  "bestTime": "Najlepszym czasem na wizytę jest wiosna lub wczesna jesień, kiedy pogoda jest przyjemna, a tłumy turystów mniejsze niż latem. Wczesne godziny poranne pozwalają uniknąć największego natłoku zwiedzających.",
+  "gettingThere": "Z Wilna do Trok najłatwiej dojechać autobusem z dworca autobusowego (podróż trwa około 30-40 minut) lub pociągiem. Można również dojechać samochodem, parkingi znajdują się w pobliżu zamku. Wiele biur podróży oferuje zorganizowane wycieczki z Wilna.",
+  "tickets": "Bilet wstępu do zamku i muzeum jest płatny. Aktualne ceny i godziny otwarcia najlepiej sprawdzić na oficjalnej stronie internetowej Muzeum Historycznego w Trokach. Warto rozważyć zakup biletu online, aby uniknąć kolejek, zwłaszcza w sezonie. Przewodnik lokalny może wzbogacić zwiedzanie o ciekawe historie i kontekst.",
+  "tips": [
+    "Ubierz wygodne buty - czeka Cię sporo chodzenia po zamkowych dziedzińcach i schodach.",
+    "Zabierz ze sobą aparat fotograficzny - widoki na zamek i jezioro są wyjątkowo malownicze.",
+    "Spróbuj kibinów - to tradycyjne pierogi karaimskie, lokalny przysmak, który znajdziesz w wielu restauracjach w Trokach.",
+    "W sezonie letnim pamiętaj o nakryciu głowy i butelce wody, zwłaszcza jeśli planujesz dłuższy spacer.",
+    "Jeśli podróżujesz z Wilna, rozważ połączenie wizyty w Trokach z innymi atrakcjami, np. Starym Miastem w Wilnie lub Ostrą Bramą."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto odwiedzić Zamek w Trokach?",
+      "a": "Tak, Zamek w Trokach to jeden z najważniejszych i najpiękniejszych zabytków Litwy, zdecydowanie wart odwiedzenia ze względu na jego historię, architekturę i malownicze położenie."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Zamku w Trokach?",
+      "a": "Na samo zwiedzanie zamku i muzeum należy przeznaczyć około 2-3 godzin. Jeśli planujesz rejs po jeziorze lub spacer po okolicy, warto zarezerwować pół dnia."
+    },
+    {
+      "q": "Jak dojechać do Zamku w Trokach z Wilna?",
+      "a": "Z Wilna do Trok najłatwiej dojechać autobusem z dworca autobusowego (ok. 30-40 minut) lub pociągiem. Można również skorzystać z samochodu lub zorganizowanej wycieczki."
+    },
+    {
+      "q": "Czy w Zamku w Trokach są udogodnienia dla osób niepełnosprawnych?",
+      "a": "Zamek, ze względu na swoją historyczną konstrukcję, może mieć ograniczenia w dostępie dla osób z ograniczoną mobilnością, zwłaszcza na wyższe piętra i wieże. Warto sprawdzić szczegóły na oficjalnej stronie muzeum."
+    }
+  ],
+  "gygQuery": "Trakai Castle tour",
+  "forWhom": "To miejsce jest idealne dla miłośników historii, rodzin z dziećmi, par oraz wszystkich, którzy cenią sobie piękne krajobrazy i architekturę. Zamek oferuje zarówno edukację, jak i relaks na łonie natury.",
+  "history": "Budowę zamku rozpoczął Wielki Książę Kiejstut w XIV wieku, a jego syn, Witold, kontynuował rozbudowę, czyniąc z Trok jedną z najważniejszych rezydencji i ośrodków politycznych Wielkiego Księstwa Litewskiego. Zamek był świadkiem wielu ważnych wydarzeń historycznych, a w XVII wieku, podczas wojen z Moskwą, został poważnie zniszczony. Przez wieki popadał w ruinę, by w XX wieku zostać pieczołowicie odbudowanym i przywróconym do dawnej świetności, stając się symbolem litewskiej państwowości.",
+  "gygTourId": 65144
+}

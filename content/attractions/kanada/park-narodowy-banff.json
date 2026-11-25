@@ -1,0 +1,71 @@
+{
+  "name": "Park Narodowy Banff",
+  "slug": "park-narodowy-banff",
+  "country": "kanada",
+  "lead": "Park Narodowy Banff to najstarszy park narodowy Kanady, serce Gór Skalistych, słynący z turkusowych jezior, lodowców i bogatej fauny. To idealne miejsce do trekkingu i podziwiania krajobrazów.",
+  "intro": [
+    "Park Narodowy Banff, położony w prowincji Alberta, to klejnot Kanadyjskich Gór Skalistych i pierwszy park narodowy w kraju, założony w 1885 roku. Rozciągający się na ponad 6600 kilometrach kwadratowych, oferuje spektakularne widoki, które przyciągają miliony turystów rocznie. Jego krajobraz to mozaika strzelistych szczytów, gęstych lasów iglastych, krystalicznie czystych rzek i błyszczących lodowców.",
+    "Główne atrakcje parku koncentrują się wokół jego naturalnego piękna. Odwiedzający mogą wybierać spośród niezliczonych szlaków turystycznych, od łatwych spacerów po jeziorach, takich jak słynne Jezioro Louise i Jezioro Moraine, po wymagające wspinaczki górskie. Park jest również domem dla bogatej fauny, w tym niedźwiedzi grizzly i czarnych, łosi, jeleni wapiti i kozic górskich, co czyni go rajem dla miłośników przyrody i fotografii.",
+    "Poza aktywnościami na świeżym powietrzu, Banff oferuje również urokliwe miasteczko Banff, z jego restauracjami, sklepami i muzeami. Można tu odpocząć po dniu pełnym wrażeń, skorzystać z gorących źródeł lub wjechać kolejką gondolową na Sulphur Mountain, aby podziwiać panoramę. Park jest doskonałą bazą wypadową do dalszych eksploracji regionu, w tym malowniczej trasy Icefields Parkway, prowadzącej do Parku Narodowego Jasper."
+  ],
+  "highlights": [
+    {
+      "name": "Jezioro Louise",
+      "text": "Ikoniczne, turkusowe jezioro otoczone majestatycznymi górami i lodowcem Victoria. Można tu spacerować brzegiem, pływać kajakiem lub podziwiać widoki z Fairmont Chateau Lake Louise."
+    },
+    {
+      "name": "Jezioro Moraine",
+      "text": "Znane z intensywnie niebieskiego koloru wody, otoczone dziesięcioma szczytami. Najlepsze widoki są z Rockpile Trail, szczególnie wczesnym rankiem lub późnym popołudniem."
+    },
+    {
+      "name": "Icefields Parkway",
+      "text": "Jedna z najbardziej malowniczych dróg na świecie, łącząca Banff z Parkiem Narodowym Jasper. Oferuje liczne punkty widokowe, wodospady i lodowce, w tym Columbia Icefield."
+    },
+    {
+      "name": "Miasteczko Banff",
+      "text": "Urokliwe miasteczko w sercu parku, oferujące zakwaterowanie, restauracje, sklepy i dostęp do atrakcji takich jak Banff Gondola czy Upper Hot Springs."
+    },
+    {
+      "name": "Sulphur Mountain Gondola",
+      "text": "Wjazd kolejką gondolową na szczyt Sulphur Mountain, skąd roztacza się panoramiczny widok na dolinę Bow, miasteczko Banff i otaczające góry. Na szczycie znajduje się promenada i restauracja."
+    },
+    {
+      "name": "Johnston Canyon",
+      "text": "Popularny szlak wiodący przez malowniczy kanion z serią wodospadów, w tym Lower i Upper Falls. Zimą wodospady zamarzają, tworząc spektakularne lodowe formacje."
+    }
+  ],
+  "visitTime": "Na samo miasteczko Banff i jedną z głównych atrakcji, jak Jezioro Louise, warto zarezerwować cały dzień. Aby w pełni doświadczyć parku i zobaczyć więcej jezior oraz przejechać część Icefields Parkway, potrzeba co najmniej 3-5 dni.",
+  "bestTime": "Najlepszy czas na wizytę to lato (czerwiec-wrzesień), kiedy wszystkie szlaki są dostępne, a pogoda jest najprzyjemniejsza. Wiosna i jesień oferują mniej tłumów i piękne kolory, ale niektóre drogi i szlaki mogą być jeszcze zamknięte. Zimą park jest idealny do sportów zimowych. Aby uniknąć tłumów, warto odwiedzać popularne miejsca wcześnie rano lub późnym popołudniem.",
+  "gettingThere": "Park Narodowy Banff jest łatwo dostępny samochodem. Najbliższe duże miasto to Calgary (około 1,5 godziny jazdy). Z Calgary można dojechać autostradą Trans-Canada Highway (Highway 1). W obrębie parku najlepszym sposobem poruszania się jest samochód, co daje największą swobodę. Dostępne są również autobusy lokalne (Roam Transit) łączące miasteczko Banff z głównymi atrakcjami, a także wycieczki zorganizowane z Calgary.",
+  "tickets": "Do Parku Narodowego Banff wymagany jest bilet wstępu (Park Pass), który można kupić online na stronie Parks Canada, w centrach informacyjnych lub przy wjeździe do parku. Bilet jest ważny na wszystkie parki narodowe w Kanadzie. Warto sprawdzić aktualne ceny i opcje biletów rodzinnych. Na niektóre atrakcje, jak Banff Gondola czy rejsy po jeziorach, obowiązują oddzielne bilety, które często warto rezerwować z wyprzedzeniem online, szczególnie w sezonie.",
+  "tips": [
+    "Zawsze miej przy sobie spray na niedźwiedzie i wiedz, jak go używać. Informuj się o bieżących ostrzeżeniach dotyczących aktywności niedźwiedzi.",
+    "Ubieraj się warstwowo. Pogoda w górach może szybko się zmieniać, nawet latem. Zawsze miej ze sobą kurtkę przeciwdeszczową.",
+    "Zarezerwuj zakwaterowanie z dużym wyprzedzeniem, szczególnie jeśli planujesz podróż w szczycie sezonu letniego. Miejsca szybko się wyprzedają.",
+    "Pamiętaj o odpowiednim obuwiu. Nawet na łatwych szlakach przydadzą się wygodne buty trekkingowe.",
+    "Pij dużo wody i miej ze sobą przekąski, zwłaszcza podczas dłuższych wędrówek. Nie wszędzie znajdziesz sklepy czy restauracje.",
+    "Szanuj dziką przyrodę. Nie karm zwierząt, nie zostawiaj śmieci i trzymaj się wyznaczonych szlaków."
+  ],
+  "faq": [
+    {
+      "q": "Czy Park Narodowy Banff jest drogi?",
+      "a": "Koszty w Banff mogą być zróżnicowane. Sam wstęp do parku jest płatny, a ceny zakwaterowania i niektórych atrakcji, jak kolejki gondolowe czy rejsy, mogą być wysokie, zwłaszcza w sezonie. Można jednak znaleźć tańsze opcje noclegowe poza głównymi miejscowościami i korzystać z bezpłatnych szlaków turystycznych."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Parku Banff?",
+      "a": "Aby zobaczyć najważniejsze atrakcje i poczuć atmosferę parku, zaleca się poświęcić co najmniej 3-5 dni. Jeśli chcesz tylko \"zaliczyć\" Jezioro Louise i miasteczko Banff, wystarczy jeden intensywny dzień, ale to nie pozwoli na pełne doświadczenie."
+    },
+    {
+      "q": "Czy w Parku Narodowym Banff można zobaczyć niedźwiedzie?",
+      "a": "Tak, Park Banff jest domem dla niedźwiedzi grizzly i czarnych. Szanse na ich spotkanie są realne, szczególnie na mniej uczęszczanych szlakach. Zawsze należy zachować ostrożność, głośno rozmawiać na szlakach i mieć ze sobą spray na niedźwiedzie. Nigdy nie zbliżaj się do dzikich zwierząt."
+    },
+    {
+      "q": "Czy warto wynająć samochód do zwiedzania Banff?",
+      "a": "Zdecydowanie tak. Wynajęcie samochodu daje największą swobodę w eksplorowaniu parku i dotarciu do mniej dostępnych miejsc. Chociaż istnieją autobusy, samochód jest najbardziej elastyczną opcją, szczególnie jeśli planujesz przejechać Icefields Parkway."
+    }
+  ],
+  "gygQuery": "Banff National Park tours",
+  "forWhom": "Park Narodowy Banff jest idealny dla miłośników przyrody, turystyki pieszej, fotografów, rodzin z dziećmi szukających aktywności na świeżym powietrzu oraz wszystkich, którzy pragną podziwiać spektakularne górskie krajobrazy.",
+  "history": "Historia Parku Narodowego Banff rozpoczęła się w 1883 roku, kiedy to trzej pracownicy kolei odkryli gorące źródła u podnóża Sulphur Mountain. Dwa lata później, w 1885 roku, obszar ten został ogłoszony rezerwatem o powierzchni 26 kilometrów kwadratowych, stając się pierwszym parkiem narodowym Kanady i trzecim na świecie. Jego rozwój był ściśle związany z budową kolei transkanadyjskiej, która otworzyła region na turystykę. Z biegiem lat park był wielokrotnie powiększany, aby chronić coraz większe obszary Kanadyjskich Gór Skalistych, aż do obecnych rozmiarów.",
+  "gygTourId": 594506
+}

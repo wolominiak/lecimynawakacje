@@ -1,0 +1,66 @@
+{
+  "name": "Plaże Parnu",
+  "slug": "plaze-parnu",
+  "country": "estonia",
+  "lead": "Parnu to popularny estoński kurort letni, słynący z rozległych, piaszczystych plaż i uzdrowiskowej atmosfery, idealny na relaksujący wypoczynek nad Bałtykiem.",
+  "intro": [
+    "Plaże Parnu to serce letniej stolicy Estonii, oferujące szerokie pasy drobnego piasku i płytkie, ciepłe wody Zatoki Parnu. To idealne miejsce do opalania, kąpieli i uprawiania sportów wodnych, przyciągające zarówno rodziny z dziećmi, jak i osoby szukające aktywnego wypoczynku. Długość plaż pozwala na swobodne znalezienie ustronnego miejsca, nawet w szczycie sezonu.",
+    "Oprócz samego wybrzeża, wzdłuż plaż rozciąga się promenada, która tętni życiem, szczególnie wieczorami. Znajdują się tu liczne kawiarnie, restauracje i punkty z lodami, a także place zabaw dla dzieci. Atmosfera jest swobodna i wakacyjna, sprzyjająca długim spacerom i podziwianiu zachodów słońca nad morzem.",
+    "Parnu jest również znane ze swoich tradycji uzdrowiskowych, co dodaje plażom dodatkowego uroku. W pobliżu znajdują się sanatoria i spa, oferujące różnorodne zabiegi relaksacyjne i lecznicze. Połączenie morskiego klimatu z możliwością skorzystania z dobrodziejstw uzdrowisk sprawia, że Parnu to kompleksowa destynacja wypoczynkowa."
+  ],
+  "highlights": [
+    {
+      "name": "Główna Plaża Parnu",
+      "text": "Najbardziej popularna i najlepiej zagospodarowana część wybrzeża, z pełną infrastrukturą, ratownikami i wypożyczalniami sprzętu wodnego."
+    },
+    {
+      "name": "Promenada Parnu",
+      "text": "Malownicza trasa spacerowa wzdłuż plaży, idealna na wieczorne przechadzki, z licznymi restauracjami, kawiarniami i placami zabaw."
+    },
+    {
+      "name": "Molo w Parnu",
+      "text": "Długie molo wcinające się w morze, popularne miejsce na spacery, podziwianie widoków i obserwowanie statków."
+    },
+    {
+      "name": "Park Rannapark",
+      "text": "Zielona oaza tuż przy plaży, oferująca cień i spokój, idealna na piknik lub odpoczynek od słońca."
+    },
+    {
+      "name": "Uzdrowiska i Spa",
+      "text": "W okolicy plaż znajduje się wiele hoteli i ośrodków oferujących zabiegi spa i wellness, nawiązujące do długiej historii Parnu jako kurortu."
+    }
+  ],
+  "visitTime": "Od kilku godzin do całego dnia, w zależności od planowanych aktywności - od krótkiego spaceru po plaży po plażowanie i korzystanie z atrakcji wodnych.",
+  "bestTime": "Najlepiej odwiedzić Parnu latem, od czerwca do sierpnia, kiedy pogoda sprzyja plażowaniu, a woda jest najcieplejsza. Wczesny ranek lub późne popołudnie to dobry czas, aby uniknąć największych tłumów.",
+  "gettingThere": "Parnu jest łatwo dostępne samochodem, autobusy kursują regularnie z Tallina (około 2 godziny jazdy) i Tartu. Plaże znajdują się w bezpośrednim sąsiedztwie centrum miasta, więc można do nich dojść pieszo lub skorzystać z lokalnego transportu.",
+  "tickets": "Dostęp do plaż jest bezpłatny. Płatne są jedynie wypożyczalnie sprzętu wodnego, leżaków czy parasoli. W przypadku chęci skorzystania z usług spa lub uzdrowisk, warto sprawdzić oferty i rezerwować z wyprzedzeniem na oficjalnych stronach ośrodków.",
+  "tips": [
+    "Zawsze miej ze sobą krem z filtrem przeciwsłonecznym, nawet w pochmurne dni.",
+    "Woda w Zatoce Parnu jest płytka i nagrzewa się szybko, co jest idealne dla dzieci, ale pamiętaj o nadzorze.",
+    "Na promenadzie znajdziesz wiele miejsc, gdzie można kupić napoje i jedzenie, ale warto mieć ze sobą wodę.",
+    "Wieczorem temperatury mogą spaść, więc warto mieć ze sobą lekką bluzę.",
+    "Jeśli planujesz aktywnie spędzić czas, sprawdź możliwości wypożyczenia rowerów lub sprzętu do sportów wodnych."
+  ],
+  "faq": [
+    {
+      "q": "Czy plaże w Parnu są piaszczyste?",
+      "a": "Tak, plaże w Parnu są szerokie i piaszczyste, z drobnym, jasnym piaskiem, idealne do plażowania i spacerów."
+    },
+    {
+      "q": "Czy woda w Parnu jest ciepła?",
+      "a": "Woda w Zatoce Parnu jest stosunkowo płytka, dzięki czemu nagrzewa się szybciej niż na otwartym morzu, osiągając przyjemne temperatury latem."
+    },
+    {
+      "q": "Czy Parnu to dobre miejsce dla rodzin z dziećmi?",
+      "a": "Zdecydowanie tak. Płytka woda, place zabaw na plaży i wzdłuż promenady oraz spokojna atmosfera sprawiają, że Parnu jest bardzo przyjazne dla rodzin z dziećmi."
+    },
+    {
+      "q": "Co jeszcze można robić w Parnu oprócz plażowania?",
+      "a": "Oprócz plażowania, można spacerować po promenadzie, odwiedzić park Rannapark, skorzystać z zabiegów w uzdrowiskach, a także zwiedzić niewielkie, urokliwe centrum miasta."
+    }
+  ],
+  "gygQuery": "Parnu beaches",
+  "forWhom": "Plaże Parnu są idealne dla rodzin z dziećmi, par szukających romantycznego wypoczynku, a także dla osób ceniących aktywny relaks i tradycje uzdrowiskowe.",
+  "history": "Parnu zyskało status kurortu w XIX wieku, kiedy to zaczęły powstawać pierwsze uzdrowiska i pensjonaty. Rozwój turystyki nadmorskiej sprawił, że miasto stało się popularnym celem letnich wyjazdów, a jego plaże zyskały sławę dzięki łagodnemu klimatowi i leczniczym właściwościom morskiego powietrza.",
+  "gygTourId": 1285788
+}

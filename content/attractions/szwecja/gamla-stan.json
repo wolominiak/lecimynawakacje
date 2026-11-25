@@ -1,0 +1,67 @@
+{
+  "name": "Gamla Stan",
+  "slug": "gamla-stan",
+  "country": "szwecja",
+  "lead": "Gamla Stan to średniowieczna starówka Sztokholmu, która zachwyca wąskimi uliczkami i kolorowymi kamienicami. To idealne miejsce na spacer i zanurzenie się w historii miasta.",
+  "intro": [
+    "Gamla Stan, czyli Stare Miasto, to serce Sztokholmu i jedna z najlepiej zachowanych średniowiecznych dzielnic w Europie. Położona na wyspie Stadsholmen, stanowi labirynt brukowanych uliczek, które prowadzą do urokliwych placów i zabytkowych budynków. To tutaj Sztokholm narodził się w XIII wieku i przez wieki pełnił funkcję centrum politycznego i handlowego.",
+    "Spacer po Gamla Stan to podróż w czasie. Wąskie uliczki, często tak ciasne, że z trudem mieszczą dwie osoby, otoczone są wysokimi, kolorowymi kamienicami, które tworzą malownicze fasady. Można tu podziwiać architekturę z różnych epok, od średniowiecznych piwnic po barokowe zdobienia. Liczne kawiarnie, restauracje i butiki zapraszają do odpoczynku i zakupów, a galerie sztuki prezentują lokalnych artystów.",
+    "Atmosfera Gamla Stan jest niepowtarzalna - to połączenie historii, kultury i tętniącego życia. Odwiedzający mogą poczuć dawny klimat miasta, zwiedzając Pałac Królewski, katedrę Storkyrkan czy Muzeum Nobla. To miejsce, które angażuje wszystkie zmysły - od zapachu świeżo parzonej kawy po widok zabytkowych detali architektonicznych. Gamla Stan to obowiązkowy punkt na mapie każdego turysty odwiedzającego Sztokholm."
+  ],
+  "highlights": [
+    {
+      "name": "Pałac Królewski (Kungliga Slottet)",
+      "text": "Oficjalna rezydencja monarchy Szwecji, jeden z największych pałaców na świecie. Warto zobaczyć zmianę warty i zwiedzić apartamenty królewskie, salę reprezentacyjną oraz muzea pałacowe."
+    },
+    {
+      "name": "Stortorget",
+      "text": "Główny plac Gamla Stan, otoczony kolorowymi kamienicami, które są jednym z najbardziej rozpoznawalnych symboli Sztokholmu. To idealne miejsce na zdjęcia i odpoczynek w jednej z kawiarni."
+    },
+    {
+      "name": "Katedra Sztokholmska (Storkyrkan)",
+      "text": "Najstarszy kościół w Sztokholmie, miejsce koronacji i ślubów królewskich. Wewnątrz można podziwiać gotycką architekturę i cenne dzieła sztuki, w tym rzeźbę św. Jerzego i Smoka."
+    },
+    {
+      "name": "Mårten Trotzigs Gränd",
+      "text": "Najwęższa uliczka w Sztokholmie, mierząca zaledwie 90 centymetrów szerokości w najwęższym miejscu. To ciekawa atrakcja, która pozwala poczuć klimat średniowiecznych zaułków."
+    },
+    {
+      "name": "Muzeum Nobla (Nobelmuseet)",
+      "text": "Muzeum poświęcone Alfredowi Noblowi, laureatom Nagrody Nobla i historii tego prestiżowego wyróżnienia. Interaktywne wystawy prezentują osiągnięcia nauki, literatury i pokoju."
+    }
+  ],
+  "visitTime": "Na dokładne zwiedzanie Gamla Stan, wliczając Pałac Królewski i inne atrakcje, warto zarezerwować co najmniej pół dnia, a nawet cały dzień, jeśli chcemy spokojnie posiedzieć w kawiarniach i poszukać pamiątek.",
+  "bestTime": "Najlepszy czas na wizytę to wiosna (maj-czerwiec) i wczesna jesień (wrzesień), kiedy pogoda jest przyjemna, a tłumy nieco mniejsze niż w szczycie sezonu letniego. Warto przyjść rano, aby uniknąć największego natłoku turystów, szczególnie na Stortorget.",
+  "gettingThere": "Gamla Stan jest łatwo dostępna z każdej części Sztokholmu. Najprościej dojechać metrem (zielona lub czerwona linia) do stacji Gamla Stan. Z centrum miasta można również dojść pieszo, co zajmuje około 10-15 minut, lub skorzystać z autobusów miejskich.",
+  "tickets": "Wstęp na teren Gamla Stan jest bezpłatny. Bilety są wymagane do poszczególnych atrakcji, takich jak Pałac Królewski, Muzeum Nobla czy Katedra. Warto sprawdzić oficjalne strony internetowe tych miejsc pod kątem aktualnych cen i możliwości zakupu biletów online, co często pozwala zaoszczędzić czas i pieniądze. Zwiedzanie z przewodnikiem jest dobrym pomysłem, aby poznać historię i anegdoty związane z dzielnicą.",
+  "tips": [
+    "Załóż wygodne buty - brukowane uliczki Gamla Stan mogą być wyzwaniem dla stóp.",
+    "Zabierz ze sobą aparat - Gamla Stan to niezwykle fotogeniczne miejsce, szczególnie Stortorget i wąskie uliczki.",
+    "Zgub się w zaułkach - celowe zejście z głównych szlaków pozwoli odkryć urokliwe, mniej zatłoczone miejsca.",
+    "Spróbuj szwedzkich przysmaków - w Gamla Stan znajdziesz wiele kawiarni oferujących tradycyjne fika (przerwę na kawę i ciastko).",
+    "Bądź przygotowany na tłumy - Gamla Stan jest bardzo popularna, więc w sezonie turystycznym może być zatłoczona.",
+    "Uważaj na kieszonkowców - jak w każdej popularnej atrakcji turystycznej, zachowaj ostrożność wobec swoich rzeczy."
+  ],
+  "faq": [
+    {
+      "q": "Czy Gamla Stan jest droga?",
+      "a": "Wstęp na teren Gamla Stan jest bezpłatny. Ceny w restauracjach i sklepach są typowe dla Sztokholmu, który jest miastem o wysokich kosztach życia. Można jednak znaleźć miejsca na każdą kieszeń."
+    },
+    {
+      "q": "Czy warto kupić Sztokholmską Kartę (Stockholm Pass) na zwiedzanie Gamla Stan?",
+      "a": "Sztokholmska Karta może być opłacalna, jeśli planujesz intensywne zwiedzanie wielu płatnych atrakcji w Sztokholmie, w tym tych w Gamla Stan, oraz korzystanie z komunikacji miejskiej. Warto przeliczyć, czy opłaca się w Twoim przypadku, biorąc pod uwagę planowane wizyty."
+    },
+    {
+      "q": "Czy Gamla Stan jest dostępna dla osób na wózkach inwalidzkich?",
+      "a": "Wiele uliczek w Gamla Stan jest brukowanych i wąskich, co może stanowić wyzwanie dla osób poruszających się na wózkach. Główne ulice i place są bardziej dostępne, ale niektóre zaułki mogą być trudne do pokonania. Warto sprawdzić dostępność konkretnych atrakcji na ich stronach internetowych."
+    },
+    {
+      "q": "Co warto zjeść w Gamla Stan?",
+      "a": "W Gamla Stan znajdziesz wiele restauracji oferujących tradycyjne szwedzkie dania, takie jak klopsiki (köttbullar), śledzie (sill) czy kanapki z krewetkami (räksmörgås). Warto również spróbować szwedzkich słodkości, np. cynamonowych bułeczek (kanelbullar), w jednej z licznych kawiarni."
+    }
+  ],
+  "gygQuery": "Gamla Stan Stockholm walking tour",
+  "forWhom": "Gamla Stan to idealne miejsce dla miłośników historii, architektury i kultury, par szukających romantycznych spacerów oraz rodzin z dziećmi, które docenią bajkową atmosferę. To także świetna opcja dla osób, które chcą poczuć puls miasta i zatopić się w jego dawnej atmosferze.",
+  "history": "Historia Gamla Stan sięga XIII wieku, kiedy to Sztokholm został założony przez Birgera Jarla. Początkowo miasto było obwarowaną osadą handlową, a jego strategiczne położenie na wyspie u ujścia jeziora Melar do Morza Bałtyckiego sprzyjało rozwojowi. W średniowieczu Gamla Stan stała się ważnym ośrodkiem handlowym Ligi Hanzeatyckiej. W XVI i XVII wieku, w okresie świetności Szwecji jako potęgi europejskiej, Gamla Stan rozbudowywano, a wiele obecnych budynków pochodzi właśnie z tego okresu. Pomimo pożarów i przebudów, dzielnica zachowała swój średniowieczny układ urbanistyczny, co czyni ją unikalnym świadectwem historii Sztokholmu.",
+  "gygTourId": 669048
+}
