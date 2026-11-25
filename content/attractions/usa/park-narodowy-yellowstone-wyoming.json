@@ -1,0 +1,67 @@
+{
+  "name": "Park Narodowy Yellowstone, Wyoming",
+  "slug": "park-narodowy-yellowstone-wyoming",
+  "country": "usa",
+  "lead": "Yellowstone to pierwszy park narodowy na świecie, znany z gejzerów, gorących źródeł i dzikiej przyrody. To obowiązkowy punkt dla każdego, kto chce doświadczyć potęgi natury.",
+  "intro": [
+    "Park Narodowy Yellowstone, położony głównie w stanie Wyoming, to ikona amerykańskiej przyrody. Słynie z unikalnych zjawisk geotermalnych, takich jak gejzery, wulkany błotne i gorące źródła, które przyciągają miliony turystów rocznie. Jest to miejsce, gdzie ziemia dosłownie oddycha, oferując spektakularne widoki i niezapomniane doświadczenia.",
+    "Oprócz aktywności geotermalnej, Yellowstone jest domem dla bogatej fauny. Można tu spotkać bizony, łosie, jelenie, a przy odrobinie szczęścia również niedźwiedzie grizzly i czarne. Park oferuje rozległe szlaki turystyczne, punkty widokowe oraz możliwość obserwacji zwierząt w ich naturalnym środowisku. Infrastruktura parku jest dobrze rozwinięta, z licznymi kempingami i schroniskami.",
+    "Zwiedzanie Yellowstone to podróż przez różnorodne krajobrazy - od gęstych lasów, przez rozległe łąki, po jałowe tereny wulkaniczne. Park robi wrażenie swoją skalą i różnorodnością, dając poczucie bliskości z dziką naturą. To idealne miejsce dla miłośników przyrody, fotografów i poszukiwaczy przygód."
+  ],
+  "highlights": [
+    {
+      "name": "Old Faithful",
+      "text": "Najsłynniejszy gejzer w parku, regularnie wyrzucający słup wody na wysokość kilkudziesięciu metrów. Warto sprawdzić prognozowane godziny erupcji."
+    },
+    {
+      "name": "Grand Prismatic Spring",
+      "text": "Największe gorące źródło w USA i trzecie na świecie, zachwycające intensywnymi kolorami tęczy. Najlepszy widok jest z punktu widokowego na wzgórzu."
+    },
+    {
+      "name": "Mammoth Hot Springs",
+      "text": "Unikalne tarasy trawertynowe, tworzone przez gorącą wodę bogatą w minerały. Można spacerować po drewnianych kładkach, podziwiając zmieniające się formacje."
+    },
+    {
+      "name": "Yellowstone Grand Canyon",
+      "text": "Wielki Kanion Yellowstone, z wodospadami Lower i Upper Falls, oferuje spektakularne widoki. Punkty widokowe takie jak Artist Point są idealne do fotografowania."
+    },
+    {
+      "name": "Hayden Valley i Lamar Valley",
+      "text": "Najlepsze miejsca do obserwacji dzikiej przyrody, zwłaszcza bizonów, łosi i niedźwiedzi. Warto zabrać lornetkę i przyjechać wcześnie rano lub późnym popołudniem."
+    }
+  ],
+  "visitTime": "Na dokładne zwiedzenie Yellowstone należy zarezerwować co najmniej 3-5 pełnych dni. Park jest ogromny, a atrakcje są rozrzucone na dużej powierzchni.",
+  "bestTime": "Najlepszy czas na wizytę to późna wiosna (maj-czerwiec) lub wczesna jesień (wrzesień-początek października), kiedy pogoda jest przyjemna, a tłumy mniejsze niż latem. Lato (lipiec-sierpień) to szczyt sezonu, z największą liczbą turystów. Zimą wiele dróg jest zamkniętych, ale park oferuje unikalne doświadczenia dla miłośników sportów zimowych.",
+  "gettingThere": "Yellowstone jest najlepiej dostępny samochodem. Najbliższe lotniska to Bozeman (BZN) w Montanie oraz Jackson Hole (JAC) w Wyoming. Z tych miast można wynająć samochód i dojechać do jednego z pięciu wejść do parku. Możliwe są również zorganizowane wycieczki autokarowe z większych miast w regionie.",
+  "tickets": "Bilet wstępu do Parku Narodowego Yellowstone jest płatny i obejmuje wjazd na 7 dni. Aktualne ceny i opcje biletów (np. roczne karnety America the Beautiful) najlepiej sprawdzić na oficjalnej stronie internetowej National Park Service. Rezerwacja noclegów w parku, zwłaszcza w sezonie, jest konieczna z dużym wyprzedzeniem.",
+  "tips": [
+    "Zawsze miej przy sobie wodę i przekąski, zwłaszcza podczas długich spacerów.",
+    "Ubieraj się warstwowo, ponieważ pogoda w Yellowstone może szybko się zmieniać.",
+    "Zachowaj bezpieczną odległość od dzikich zwierząt - co najmniej 25 jardów (23 metry) od bizonów i łosi, i 100 jardów (91 metrów) od niedźwiedzi.",
+    "Trzymaj się wyznaczonych szlaków i kładek, zwłaszcza w obszarach geotermalnych, aby uniknąć wypadków.",
+    "Pamiętaj o ochronie przeciwsłonecznej - czapka, okulary i krem z filtrem są niezbędne.",
+    "Zabierz ze sobą lornetkę do obserwacji zwierząt i aparat fotograficzny z dobrym zoomem."
+  ],
+  "faq": [
+    {
+      "q": "Czy Yellowstone jest bezpieczny?",
+      "a": "Tak, Yellowstone jest bezpieczny, pod warunkiem przestrzegania zasad bezpieczeństwa, zwłaszcza w odniesieniu do dzikich zwierząt i obszarów geotermalnych. Należy zawsze trzymać się wyznaczonych ścieżek."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Yellowstone?",
+      "a": "Aby zobaczyć główne atrakcje i poczuć atmosferę parku, zaleca się poświęcić co najmniej 3-5 dni. Park jest bardzo duży, a atrakcje są rozłożone na znacznych odległościach."
+    },
+    {
+      "q": "Czy w Yellowstone są niedźwiedzie?",
+      "a": "Tak, w Yellowstone żyją zarówno niedźwiedzie grizzly, jak i czarne. Należy zachować ostrożność, nosić spray na niedźwiedzie i wiedzieć, jak się zachować w przypadku spotkania z nimi."
+    },
+    {
+      "q": "Czy można nocować w Yellowstone?",
+      "a": "Tak, w parku dostępne są hotele, domki i kempingi. Rezerwacje, zwłaszcza w sezonie letnim, należy robić z dużym wyprzedzeniem, często nawet rok wcześniej."
+    }
+  ],
+  "gygQuery": "Yellowstone National Park tours",
+  "forWhom": "Yellowstone to idealne miejsce dla miłośników przyrody, entuzjastów pieszych wędrówek, rodzin z dziećmi oraz każdego, kto chce zobaczyć unikalne zjawiska geotermalne i dziką faunę w naturalnym środowisku.",
+  "history": "Park Narodowy Yellowstone został utworzony 1 marca 1872 roku przez prezydenta Ulyssesa S. Granta, stając się pierwszym parkiem narodowym na świecie. Jego powstanie było wynikiem uznania unikalnych walorów geologicznych i przyrodniczych tego obszaru. Teren parku powstał w wyniku aktywności wulkanicznej, a jego obecny kształt jest efektem erupcji superwulkanu Yellowstone, z których ostatnia miała miejsce około 640 000 lat temu.",
+  "gygTourId": 52996
+}

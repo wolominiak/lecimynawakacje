@@ -1,0 +1,67 @@
+{
+  "name": "Park Narodowy Connemara",
+  "slug": "park-narodowy-connemara",
+  "country": "irlandia",
+  "lead": "Park Narodowy Connemara to esencja dzikiej, zachodniej Irlandii. To obszar torfowisk, gór i jezior, idealny do pieszych wędrówek i podziwiania krajobrazów.",
+  "intro": [
+    "Park Narodowy Connemara, położony w hrabstwie Galway, to jeden z sześciu parków narodowych Irlandii. Obejmuje rozległe tereny górskie, torfowiska, wrzosowiska, lasy i łąki, tworząc mozaikę unikalnych ekosystemów. Jest to miejsce, gdzie natura gra pierwsze skrzypce, oferując schronienie dla wielu gatunków roślin i zwierząt.",
+    "Główną atrakcją parku są liczne szlaki turystyczne o różnym stopniu trudności, które prowadzą przez malownicze krajobrazy. Można tu podziwiać widoki na pasmo górskie Twelve Bens, rozległe torfowiska oraz krystalicznie czyste jeziora. To idealne miejsce dla tych, którzy szukają aktywnego wypoczynku na łonie natury i chcą doświadczyć surowego piękna irlandzkiego interioru.",
+    "Wizyta w Connemarze to podróż w głąb dzikiej Irlandii, gdzie czas płynie wolniej, a dominują spokój i cisza. Rozległe, otwarte przestrzenie pozwalają na oddech od zgiełku cywilizacji i oferują niezapomniane widoki, szczególnie przy zmiennej, typowej dla Irlandii pogodzie, która potrafi w jednej chwili zmienić krajobraz z ponurego na słoneczny."
+  ],
+  "highlights": [
+    {
+      "name": "Diamond Hill",
+      "text": "Najpopularniejszy szlak w parku, prowadzący na szczyt Diamond Hill, z którego roztaczają się panoramiczne widoki na całą okolicę, w tym na opactwo Kylemore i Ocean Atlantycki."
+    },
+    {
+      "name": "Szlaki turystyczne",
+      "text": "Park oferuje kilka dobrze oznakowanych szlaków o różnej długości i trudności, od krótkich spacerów po torfowiskach po wymagające górskie wędrówki. Każdy znajdzie coś dla siebie."
+    },
+    {
+      "name": "Centrum dla zwiedzających",
+      "text": "W Visitor Centre można dowiedzieć się więcej o historii parku, jego florze i faunie, a także zapoznać się z mapami szlaków i aktualnymi warunkami pogodowymi."
+    },
+    {
+      "name": "Torfowiska",
+      "text": "Spacer po drewnianych kładkach przez torfowiska pozwala z bliska poznać ten unikalny ekosystem, będący domem dla wielu rzadkich gatunków roślin i owadów."
+    },
+    {
+      "name": "Dzika przyroda",
+      "text": "W parku można spotkać dzikie kuce Connemara, jelenie, a także wiele gatunków ptaków. Warto mieć oczy szeroko otwarte i aparat fotograficzny w pogotowiu."
+    }
+  ],
+  "visitTime": "Na zwiedzanie parku i przejście jednego z głównych szlaków, np. na Diamond Hill, należy zarezerwować co najmniej 3-4 godziny. Jeśli planujesz więcej wędrówek, nawet cały dzień.",
+  "bestTime": "Najlepszy czas na wizytę to wiosna (maj-czerwiec) i wczesna jesień (wrzesień-październik), kiedy pogoda jest zazwyczaj stabilniejsza, a krajobrazy zachwycają kolorami. Latem jest cieplej, ale też najwięcej turystów. Warto przyjechać rano, aby uniknąć tłumów na szlakach.",
+  "gettingThere": "Park Narodowy Connemara znajduje się w pobliżu miejscowości Letterfrack w hrabstwie Galway. Najłatwiej dojechać samochodem, co daje swobodę w zwiedzaniu. Z Galway to około 1,5-2 godziny jazdy. Istnieją również połączenia autobusowe, ale są one mniej elastyczne. Można też dołączyć do zorganizowanej wycieczki, często łączącej Connemarę z opactwem Kylemore.",
+  "tickets": "Wstęp do Parku Narodowego Connemara jest bezpłatny. Płatne mogą być niektóre atrakcje w okolicy, np. opactwo Kylemore. Warto sprawdzić oficjalną stronę parku przed wizytą, aby uzyskać aktualne informacje. Nie ma potrzeby rezerwacji wejścia.",
+  "tips": [
+    "Ubierz się warstwowo - pogoda w Connemarze potrafi zmieniać się bardzo szybko, od słońca po deszcz i wiatr.",
+    "Załóż wygodne, wodoodporne buty trekkingowe - szlaki bywają błotniste i kamieniste.",
+    "Zabierz ze sobą wodę i przekąski, zwłaszcza jeśli planujesz dłuższą wędrówkę - na szlakach nie ma punktów gastronomicznych.",
+    "Pamiętaj o aparacie fotograficznym - widoki są spektakularne i zasługują na uwiecznienie.",
+    "Szanuj naturę - nie zostawiaj śmieci, trzymaj się wyznaczonych szlaków i nie płosz zwierząt.",
+    "Sprawdź prognozę pogody przed wyjazdem i dostosuj plany do warunków."
+  ],
+  "faq": [
+    {
+      "q": "Czy Park Narodowy Connemara jest odpowiedni dla rodzin z dziećmi?",
+      "a": "Tak, park oferuje szlaki o różnym stopniu trudności, w tym łatwe trasy odpowiednie dla rodzin z dziećmi. Dzieciom mogą spodobać się spacery po torfowiskach i obserwowanie dzikich kucyków."
+    },
+    {
+      "q": "Czy w parku są toalety i miejsca do jedzenia?",
+      "a": "Toalety dostępne są w Visitor Centre w Letterfrack. W samym parku nie ma punktów gastronomicznych, dlatego warto zabrać ze sobą prowiant. W Letterfrack znajdziesz kawiarnie i restauracje."
+    },
+    {
+      "q": "Czy można wejść na Diamond Hill bez przewodnika?",
+      "a": "Tak, szlak na Diamond Hill jest dobrze oznakowany i można go pokonać samodzielnie. W Visitor Centre dostępne są mapy i informacje o trasie."
+    },
+    {
+      "q": "Co warto zobaczyć w okolicy Parku Narodowego Connemara?",
+      "a": "W pobliżu parku znajduje się malownicze opactwo Kylemore, które jest często łączone z wizytą w Connemarze. Warto również przejechać się malowniczą trasą Sky Road w Clifden, aby podziwiać widoki na wybrzeże."
+    }
+  ],
+  "gygQuery": "Connemara National Park tours",
+  "forWhom": "Park Narodowy Connemara to idealne miejsce dla miłośników natury, pieszych wędrówek, fotografów i wszystkich szukających spokoju oraz kontaktu z dziką przyrodą Irlandii. Jest odpowiedni zarówno dla rodzin z dziećmi, jak i dla bardziej doświadczonych turystów górskich.",
+  "history": "Obszar dzisiejszego Parku Narodowego Connemara był zamieszkany od tysięcy lat, o czym świadczą pozostałości megalitycznych grobowców. Sam park został utworzony w 1980 roku, a jego celem jest ochrona unikalnych krajobrazów i ekosystemów Connemary. Większość terenów parku została zakupiona od prywatnych właścicieli, w tym od posiadłości Kylemore Abbey.",
+  "gygTourId": 393544
+}

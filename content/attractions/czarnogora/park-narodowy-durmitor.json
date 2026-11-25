@@ -1,0 +1,67 @@
+{
+  "name": "Park Narodowy Durmitor",
+  "slug": "park-narodowy-durmitor",
+  "country": "czarnogora",
+  "lead": "Park Narodowy Durmitor to serce górskiej Czarnogóry, wpisany na listę UNESCO. Oferuje spektakularne krajobrazy, jeziora polodowcowe i szczyty przekraczające 2500 m n.p.m.",
+  "intro": [
+    "Park Narodowy Durmitor, położony w północnej części Czarnogóry, to jeden z najcenniejszych przyrodniczo obszarów Bałkanów. Jego krajobraz kształtowały lodowce, tworząc głębokie kaniony, takie jak Kanion Tary, oraz liczne jeziora polodowcowe, zwane \"górskimi oczami\". To idealne miejsce dla miłośników aktywnego wypoczynku i dziewiczej przyrody.",
+    "Centralnym punktem parku jest masyw Durmitoru z najwyższym szczytem Bobotov Kuk (2523 m n.p.m.). Oprócz wędrówek górskimi szlakami, popularne są tu spływy raftingowe Tarą, rowerowe wycieczki i eksploracja jaskiń. Zimą Durmitor przekształca się w ośrodek narciarski, oferując trasy zjazdowe i biegowe.",
+    "Park Narodowy Durmitor zachwyca surowym pięknem i różnorodnością. Od zielonych łąk i gęstych lasów, po skaliste szczyty i krystalicznie czyste jeziora, takie jak słynne Czarne Jezioro. To miejsce, gdzie można poczuć prawdziwą potęgę natury i uciec od zgiełku cywilizacji."
+  ],
+  "highlights": [
+    {
+      "name": "Czarne Jezioro (Crno Jezero)",
+      "text": "Najsłynniejsze i najłatwiej dostępne jezioro w parku, otoczone gęstym lasem. Idealne na spacer dookoła, piknik lub kąpiel w letnie dni."
+    },
+    {
+      "name": "Bobotov Kuk",
+      "text": "Najwyższy szczyt Durmitoru (2523 m n.p.m.), oferujący wymagającą, ale niezwykle satysfakcjonującą wędrówkę z panoramicznymi widokami na cały park."
+    },
+    {
+      "name": "Kanion Tary",
+      "text": "Jeden z najgłębszych kanionów w Europie, idealny do raftingu. Widoki z mostu Đurđevića Tara są spektakularne i warte zatrzymania się."
+    },
+    {
+      "name": "Jeziora polodowcowe",
+      "text": "Oprócz Czarnego Jeziora, warto odkryć mniej znane, ale równie piękne jeziora, takie jak Zmijinje Jezero czy Jablan Jezero, do których prowadzą malownicze szlaki."
+    },
+    {
+      "name": "Durmitorska Okolica",
+      "text": "Malownicza trasa samochodowa, która prowadzi przez serce parku, oferując niezapomniane widoki na góry, doliny i pasterskie osady."
+    }
+  ],
+  "visitTime": "Na samo Czarne Jezioro i krótki spacer wystarczą 2-3 godziny. Na dłuższą wędrówkę po górach lub rafting należy zarezerwować cały dzień.",
+  "bestTime": "Najlepszy czas na wizytę to późna wiosna, lato i wczesna jesień (maj-październik), kiedy szlaki są dostępne, a pogoda sprzyja aktywnościom. W lipcu i sierpniu bywa tłoczno, dlatego warto przyjechać rano, aby uniknąć największych tłumów.",
+  "gettingThere": "Główną bazą wypadową jest miasteczko Žabljak, do którego można dojechać samochodem. Z większych miast Czarnogóry, takich jak Podgorica czy Kotor, podróż zajmuje kilka godzin. Dostępne są również lokalne autobusy, ale ich częstotliwość jest ograniczona. Wiele biur podróży oferuje zorganizowane wycieczki.",
+  "tickets": "Wstęp do Parku Narodowego Durmitor jest płatny. Bilet można kupić przy wjeździe do parku lub w punktach informacyjnych. Aktualne ceny i ewentualne zniżki dla dzieci lub grup najlepiej sprawdzić na oficjalnej stronie internetowej parku. Na rafting Tarą bilety kupuje się u lokalnych organizatorów, często z wyprzedzeniem.",
+  "tips": [
+    "Zawsze miej przy sobie odpowiednią odzież - pogoda w górach może zmieniać się dynamicznie.",
+    "Obowiązkowo zabierz wygodne buty trekkingowe, nawet na krótkie spacery wokół jezior.",
+    "Pamiętaj o wodzie i przekąskach, zwłaszcza planując dłuższe wędrówki, bo na szlakach nie ma sklepów.",
+    "Szanuj przyrodę - nie zostawiaj śmieci i trzymaj się wyznaczonych szlaków.",
+    "Przed wyruszeniem w góry sprawdź prognozę pogody i poinformuj kogoś o swoich planach.",
+    "Zabierz aparat - widoki są naprawdę spektakularne i warte uwiecznienia."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto odwiedzić Park Narodowy Durmitor?",
+      "a": "Tak, zdecydowanie warto. To jedno z najpiękniejszych miejsc w Czarnogórze, oferujące niezapomniane widoki i mnóstwo możliwości aktywnego spędzania czasu na łonie natury."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Durmitoru?",
+      "a": "Na szybkie zobaczenie Czarnego Jeziora wystarczą 2-3 godziny. Jeśli planujesz wędrówki, rafting lub zwiedzanie okolicy, zarezerwuj co najmniej jeden pełny dzień, a najlepiej 2-3 dni."
+    },
+    {
+      "q": "Jak dojechać do Parku Narodowego Durmitor?",
+      "a": "Najłatwiej samochodem do Žabljaka. Można też skorzystać z autobusów z większych miast lub zorganizowanych wycieczek, które często obejmują transport."
+    },
+    {
+      "q": "Czy Durmitor jest odpowiedni dla rodzin z dziećmi?",
+      "a": "Tak, Durmitor oferuje wiele atrakcji dla rodzin. Krótkie spacery wokół Czarnego Jeziora są łatwe, a starsze dzieci mogą spróbować lżejszych szlaków lub raftingu (zależnie od wieku i warunków)."
+    }
+  ],
+  "gygQuery": "Durmitor National Park",
+  "forWhom": "Park Narodowy Durmitor to idealne miejsce dla miłośników górskich wędrówek, raftingu, fotografii przyrodniczej oraz dla każdego, kto szuka ucieczki od zgiełku i pragnie obcować z dziką naturą. Jest odpowiedni zarówno dla doświadczonych turystów, jak i rodzin z dziećmi, które mogą cieszyć się łatwiejszymi szlakami.",
+  "history": "Masyw Durmitoru jest częścią Gór Dynarskich, a jego obecny kształt jest wynikiem intensywnej działalności lodowców w plejstocenie. To właśnie one wyrzeźbiły charakterystyczne doliny U-kształtne, cyrki lodowcowe i liczne jeziora. Obszar ten został uznany za Park Narodowy w 1952 roku, a w 1980 roku wpisano go na listę światowego dziedzictwa UNESCO, głównie ze względu na Kanion Tary i jego unikatową florę i faunę.",
+  "gygTourId": 1205389
+}

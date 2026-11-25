@@ -1,0 +1,67 @@
+{
+  "name": "Ogrody Watykańskie",
+  "slug": "ogrody-watykanskie",
+  "country": "watykan",
+  "lead": "Ogrody Watykańskie to zielona oaza spokoju w sercu Watykanu, oferująca malownicze krajobrazy i ucieczkę od zgiełku miasta. To idealne miejsce na chwilę wytchnienia i podziwianie starannie pielęgnowanej natury.",
+  "intro": [
+    "Ogrody Watykańskie zajmują ponad połowę powierzchni Państwa Watykańskiego, stanowiąc rozległy kompleks zieleni, fontann i rzeźb. Są to prywatne ogrody papieskie, dostępne dla zwiedzających wyłącznie w ramach zorganizowanych wycieczek, co gwarantuje ich wyjątkowy charakter i kameralną atmosferę.",
+    "Podczas spaceru po ogrodach można podziwiać różnorodność roślinności, od starożytnych drzew po egzotyczne kwiaty, a także liczne pomniki, groty i budowle sakralne. Ścieżki prowadzą przez urokliwe zakątki, oferując co rusz nowe perspektywy i widoki na kopułę Bazyliki św. Piotra.",
+    "Zwiedzanie Ogrodów Watykańskich to nie tylko kontakt z naturą, ale także z historią i sztuką. To doświadczenie pozwala spojrzeć na Watykan z innej strony, odkrywając jego ukryte piękno i spokój, który kontrastuje z tłumnie odwiedzanymi muzeami i bazyliką."
+  ],
+  "highlights": [
+    {
+      "name": "Fontanny i kaskady",
+      "text": "W ogrodach znajduje się wiele pięknych fontann, w tym słynna Fontanna Orła, które dodają uroku i są doskonałym tłem do zdjęć."
+    },
+    {
+      "name": "Grota Matki Bożej z Lourdes",
+      "text": "Replika słynnej groty z Lourdes, będąca miejscem modlitwy i refleksji."
+    },
+    {
+      "name": "Wieża św. Jana",
+      "text": "Historyczna wieża, która służyła jako rezydencja papieska, oferująca ciekawe spojrzenie na architekturę Watykanu."
+    },
+    {
+      "name": "Ogrody francuskie i angielskie",
+      "text": "Różnorodność stylów ogrodowych, od geometrycznych form ogrodów francuskich po bardziej naturalne kompozycje ogrodów angielskich."
+    },
+    {
+      "name": "Widoki na kopułę Bazyliki św. Piotra",
+      "text": "Z wielu punktów w ogrodach roztaczają się spektakularne widoki na kopułę Bazyliki, co stanowi unikalną perspektywę na ten symbol Watykanu."
+    }
+  ],
+  "visitTime": "Około 2-3 godziny, w zależności od tempa zwiedzania i wybranej trasy.",
+  "bestTime": "Najlepszy czas na wizytę to wiosna (kwiecień-maj) lub jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a roślinność prezentuje się najpiękniej. Warto wybrać się rano, aby uniknąć największych upałów i cieszyć się spokojem.",
+  "gettingThere": "Ogrody Watykańskie znajdują się na terenie Państwa Watykańskiego. Dojazd do Watykanu jest możliwy metrem (linia A, stacja Ottaviano-S. Pietro) lub autobusem. Wejście do ogrodów odbywa się zazwyczaj przez bramę prowadzącą do Muzeów Watykańskich.",
+  "tickets": "Bilety na zwiedzanie Ogrodów Watykańskich są płatne i dostępne wyłącznie w ramach zorganizowanych wycieczek z przewodnikiem lub w połączeniu ze zwiedzaniem Muzeów Watykańskich i Kaplicy Sykstyńskiej. Zdecydowanie zaleca się rezerwację biletów online z dużym wyprzedzeniem, ponieważ liczba miejsc jest ograniczona. Aktualne ceny i dostępność należy sprawdzić na oficjalnej stronie Muzeów Watykańskich.",
+  "tips": [
+    "Ubierz się odpowiednio - ramiona i kolana powinny być zakryte, podobnie jak przy wizycie w Bazylice św. Piotra.",
+    "Załóż wygodne buty - trasa zwiedzania obejmuje sporo chodzenia po nierównych ścieżkach.",
+    "Zabierz ze sobą wodę, zwłaszcza latem, ponieważ w ogrodach może być gorąco.",
+    "Pamiętaj o aparacie fotograficznym, ale sprawdź zasady dotyczące robienia zdjęć w niektórych miejscach.",
+    "Przygotuj się na kontrolę bezpieczeństwa, podobną do tej na lotnisku.",
+    "Zaplanuj wizytę w ogrodach w połączeniu ze zwiedzaniem Muzeów Watykańskich i Kaplicy Sykstyńskiej, aby w pełni wykorzystać czas w Watykanie."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto zwiedzać Ogrody Watykańskie?",
+      "a": "Tak, zdecydowanie warto. To unikalna okazja, aby zobaczyć Watykan z innej perspektywy, cieszyć się spokojem i pięknem natury, a także podziwiać mniej znane zakątki Państwa Watykańskiego."
+    },
+    {
+      "q": "Ile trwa zwiedzanie Ogrodów Watykańskich?",
+      "a": "Zwiedzanie trwa zazwyczaj około 2-3 godziny, w zależności od wybranej trasy i tempa grupy."
+    },
+    {
+      "q": "Jak kupić bilety do Ogrodów Watykańskich?",
+      "a": "Bilety należy kupić online, na oficjalnej stronie Muzeów Watykańskich. Dostępne są wyłącznie w ramach wycieczek z przewodnikiem lub pakietów łączonych z Muzeami."
+    },
+    {
+      "q": "Czy Ogrody Watykańskie są dostępne dla osób na wózkach inwalidzkich?",
+      "a": "Część Ogrodów jest dostępna dla osób z ograniczoną mobilnością, ale zaleca się wcześniejszy kontakt z biurem rezerwacji Muzeów Watykańskich w celu uzyskania szczegółowych informacji i organizacji specjalnego dostępu."
+    }
+  ],
+  "gygQuery": "Vatican Gardens tour",
+  "forWhom": "Ogrody Watykańskie to idealne miejsce dla osób szukających spokoju i wytchnienia, miłośników natury, historii i sztuki, a także dla tych, którzy chcą zobaczyć Watykan z innej, mniej zatłoczonej perspektywy. Nie jest to atrakcja dla małych dzieci, które mogą się nudzić podczas długiego spaceru z przewodnikiem.",
+  "history": "Historia Ogrodów Watykańskich sięga XIII wieku, kiedy to papież Mikołaj III przeniósł swoją rezydencję z Lateranu do Watykanu i kazał założyć sad, łąki oraz ogród. Przez wieki ogrody były rozbudowywane i upiększane przez kolejnych papieży, którzy dodawali fontanny, rzeźby, a także różnorodne gatunki roślin. Dziś stanowią harmonijne połączenie stylów renesansowych, barokowych i angielskich, będąc świadectwem bogatej historii i duchowości Watykanu.",
+  "gygTourId": 378664
+}

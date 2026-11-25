@@ -1,0 +1,71 @@
+{
+  "name": "Lazurowe Wybrzeże",
+  "slug": "lazurowe-wybrzeze",
+  "country": "francja",
+  "lead": "Lazurowe Wybrzeże, czyli słynna Riwiera Francuska, to region luksusowych kurortów, malowniczych miasteczek i pięknych plaż. To idealne miejsce na relaks i podziwianie śródziemnomorskiego krajobrazu.",
+  "intro": [
+    "Lazurowe Wybrzeże, znane również jako Côte d'Azur, rozciąga się wzdłuż południowo-wschodniego wybrzeża Francji, od Cassis na zachodzie po granicę z Włochami na wschodzie. Region ten słynie z krystalicznie czystej wody Morza Śródziemnego, słonecznej pogody przez większość roku oraz urokliwych miasteczek położonych na wzgórzach lub tuż nad brzegiem morza. Jest to symbol luksusu i elegancji, przyciągający turystów z całego świata.",
+    "Na Lazurowym Wybrzeżu można spędzić czas na wiele sposobów. Od relaksu na piaszczystych lub żwirowych plażach, przez zwiedzanie historycznych centrów miast, po odkrywanie lokalnej kuchni i win. Region oferuje również liczne możliwości aktywnego wypoczynku, takie jak sporty wodne, piesze wycieczki po górach Esterel czy przejażdżki rowerowe malowniczymi trasami. Bogactwo krajobrazów i atrakcji sprawia, że każdy znajdzie tu coś dla siebie.",
+    "Lazurowe Wybrzeże robi wrażenie swoim zróżnicowaniem - od tętniących życiem kurortów, takich jak Nicea czy Cannes, po spokojne, urokliwe wioski, jak Èze czy Saint-Paul-de-Vence. Połączenie błękitu morza, zieleni śródziemnomorskiej roślinności i pastelowych fasad budynków tworzy niezapomniane widoki. To miejsce, gdzie historia spotyka się z nowoczesnością, a luksus z autentycznym francuskim urokiem."
+  ],
+  "highlights": [
+    {
+      "name": "Nicea",
+      "text": "Stolica Lazurowego Wybrzeża, słynąca z Promenady Anglików, urokliwego Starego Miasta (Vieux Nice) i Wzgórza Zamkowego z panoramicznymi widokami."
+    },
+    {
+      "name": "Cannes",
+      "text": "Miasto znane z Międzynarodowego Festiwalu Filmowego i luksusowego bulwaru La Croisette, idealne do spacerów i podziwiania jachtów."
+    },
+    {
+      "name": "Monako i Monte Carlo",
+      "text": "Niezależne księstwo, synonim przepychu, z kasynem w Monte Carlo, Pałacem Książęcym i Ogrodem Egzotycznym."
+    },
+    {
+      "name": "Saint-Tropez",
+      "text": "Dawna wioska rybacka, która stała się symbolem luksusu i miejsca spotkań celebrytów, z pięknymi plażami i urokliwym portem."
+    },
+    {
+      "name": "Èze",
+      "text": "Malownicza średniowieczna wioska położona na szczycie wzgórza, oferująca zapierające dech w piersiach widoki na morze i otoczenie."
+    },
+    {
+      "name": "Grasse",
+      "text": "Światowa stolica perfum, gdzie można odwiedzić muzea perfum i wziąć udział w warsztatach tworzenia własnych zapachów."
+    }
+  ],
+  "visitTime": "Na zwiedzanie kluczowych miast i miasteczek Lazurowego Wybrzeża warto przeznaczyć co najmniej 5-7 dni, aby poczuć atmosferę regionu i zobaczyć najważniejsze atrakcje.",
+  "bestTime": "Najlepszym czasem na wizytę jest wiosna (kwiecień-maj) lub wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy turystów mniejsze niż w szczycie sezonu letniego. Latem (lipiec-sierpień) jest bardzo gorąco i tłoczno, zwłaszcza na plażach i w popularnych kurortach.",
+  "gettingThere": "Na Lazurowe Wybrzeże najłatwiej dostać się samolotem, lądując na lotnisku w Nicei (Nice Côte d'Azur Airport). Z lotniska do głównych miast regionu kursują autobusy i pociągi. Po regionie najlepiej poruszać się samochodem, co daje swobodę w odkrywaniu urokliwych zakątków, lub pociągiem regionalnym (TER), który łączy większość nadmorskich miejscowości.",
+  "tickets": "Wiele atrakcji na Lazurowym Wybrzeżu, takich jak muzea czy ogrody, jest płatnych. Bilety często można kupić online z wyprzedzeniem, co pozwala uniknąć kolejek i czasem oferuje niższe ceny. Warto sprawdzić oficjalne strony internetowe poszczególnych atrakcji, aby uzyskać aktualne informacje o cenach i godzinach otwarcia. Dostępne są również karnety turystyczne, które mogą być opłacalne przy intensywnym zwiedzaniu.",
+  "tips": [
+    "Zawsze miej przy sobie butelkę wody, szczególnie latem - słońce bywa bardzo intensywne.",
+    "Wygodne buty to podstawa, zwłaszcza jeśli planujesz zwiedzać stare miasta z brukowanymi uliczkami i licznymi schodami.",
+    "Pamiętaj o ochronie przeciwsłonecznej: krem z filtrem, kapelusz i okulary przeciwsłoneczne są niezbędne.",
+    "Spróbuj lokalnych specjałów, takich jak socca (naleśnik z mąki ciecierzycowej), salade niçoise czy tarta tropézienne.",
+    "Rozważ wynajęcie samochodu, aby swobodnie poruszać się po regionie i odkrywać mniej znane miejsca.",
+    "W popularnych miejscowościach, zwłaszcza w sezonie, rezerwuj noclegi i stoliki w restauracjach z wyprzedzeniem."
+  ],
+  "faq": [
+    {
+      "q": "Czy Lazurowe Wybrzeże jest drogie?",
+      "a": "Lazurowe Wybrzeże uchodzi za region luksusowy i ceny mogą być wyższe niż w innych częściach Francji. Można jednak znaleźć opcje noclegowe i gastronomiczne na każdą kieszeń, jeśli poszuka się poza głównymi, najbardziej prestiżowymi kurortami."
+    },
+    {
+      "q": "Ile dni potrzeba na zwiedzanie Lazurowego Wybrzeża?",
+      "a": "Optymalny czas na zwiedzanie Lazurowego Wybrzeża to około 5-7 dni. Pozwoli to na zobaczenie najważniejszych miast i miasteczek, a także na relaks na plaży i poznanie lokalnej kultury."
+    },
+    {
+      "q": "Jakie są najlepsze plaże na Lazurowym Wybrzeżu?",
+      "a": "Lazurowe Wybrzeże oferuje różnorodne plaże. Popularne są piaszczyste plaże w Cannes i Saint-Tropez, a także żwirowe w Nicei. Warto poszukać również mniejszych, urokliwych zatoczek, np. w okolicach Cassis czy Èze."
+    },
+    {
+      "q": "Czy warto wynająć samochód na Lazurowym Wybrzeżu?",
+      "a": "Wynajęcie samochodu jest bardzo polecane, zwłaszcza jeśli planujesz zwiedzać wiele miejsc i masz ochotę na wycieczki poza główne szlaki. Daje to dużą swobodę i pozwala dotrzeć do urokliwych wiosek i punktów widokowych, do których trudno dojechać komunikacją publiczną."
+    }
+  ],
+  "gygQuery": "French Riviera tours",
+  "forWhom": "Lazurowe Wybrzeże to idealne miejsce dla par szukających romantycznych zakątków, rodzin z dziećmi ceniących plażowanie i atrakcje wodne, miłośników sztuki i historii, a także dla tych, którzy pragną poczuć odrobinę luksusu i elegancji.",
+  "history": "Historia Lazurowego Wybrzeża sięga starożytności, kiedy to tereny te były zasiedlane przez Greków i Rzymian. W średniowieczu region był świadkiem wielu konfliktów i zmian władzy. Prawdziwy rozkwit turystyczny nastąpił w XIX wieku, kiedy to brytyjska arystokracja zaczęła przyjeżdżać tu na zimowe wakacje, doceniając łagodny klimat. W XX wieku Lazurowe Wybrzeże stało się ulubionym miejscem artystów, pisarzy i celebrytów, co ugruntowało jego status jako jednego z najbardziej prestiżowych regionów turystycznych na świecie.",
+  "gygTourId": 462501
+}

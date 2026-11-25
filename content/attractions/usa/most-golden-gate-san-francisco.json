@@ -1,0 +1,67 @@
+{
+  "name": "Most Golden Gate, San Francisco",
+  "slug": "most-golden-gate-san-francisco",
+  "country": "usa",
+  "lead": "Most Golden Gate to ikona San Francisco i arcydzieło inżynierii. Warto go zobaczyć z bliska i z różnych perspektyw, by docenić jego majestat.",
+  "intro": [
+    "Most Golden Gate to jeden z najbardziej rozpoznawalnych symboli Stanów Zjednoczonych, łączący San Francisco z hrabstwem Marin. Jego charakterystyczny pomarańczowy kolor i monumentalna konstrukcja sprawiają, że jest to obiekt chętnie fotografowany i podziwiany przez miliony turystów rocznie.",
+    "Wizyta przy moście to nie tylko okazja do podziwiania jego architektury, ale także do spacerów, przejażdżek rowerowych czy rejsów statkiem. Most oferuje spektakularne widoki na Zatokę San Francisco, wyspę Alcatraz i panoramę miasta, szczególnie o wschodzie lub zachodzie słońca.",
+    "Wrażenie, jakie robi Most Golden Gate, jest niezapomniane. Jego rozmiar, elegancja i położenie w otoczeniu naturalnego piękna sprawiają, że jest to miejsce, które zachwyca zarówno miłośników inżynierii, jak i osoby poszukujące malowniczych krajobrazów."
+  ],
+  "highlights": [
+    {
+      "name": "Spacer po moście",
+      "text": "Przejście pieszo po moście, choć długie, pozwala poczuć jego skalę i podziwiać widoki z unikalnej perspektywy. Istnieje wydzielona ścieżka dla pieszych."
+    },
+    {
+      "name": "Punkty widokowe",
+      "text": "Zarówno po stronie San Francisco (np. Welcome Center), jak i po stronie Marin (Vista Point, Battery Spencer) znajdują się doskonałe miejsca do robienia zdjęć i podziwiania mostu w całej okazałości."
+    },
+    {
+      "name": "Centrum dla odwiedzających",
+      "text": "Golden Gate Bridge Welcome Center oferuje informacje o historii i budowie mostu, a także sklep z pamiątkami."
+    },
+    {
+      "name": "Rejs po zatoce",
+      "text": "Wiele firm oferuje rejsy statkiem, które przepływają pod mostem, zapewniając zupełnie inną perspektywę i możliwość zobaczenia go od spodu."
+    },
+    {
+      "name": "Przejażdżka rowerowa",
+      "text": "Wypożyczenie roweru i przejazd przez most do Sausalito to popularna aktywność, łącząca aktywny wypoczynek z podziwianiem widoków."
+    }
+  ],
+  "visitTime": "Na podziwianie mostu z kilku punktów widokowych i krótki spacer po nim warto zarezerwować 2-3 godziny. Jeśli planujesz przejażdżkę rowerową lub rejs, może to zająć pół dnia.",
+  "bestTime": "Najlepsza pora na wizytę to wiosna lub jesień, kiedy pogoda jest zazwyczaj łagodniejsza, a mgła mniej intensywna niż latem. Warto przyjechać wcześnie rano lub późnym popołudniem, aby uniknąć tłumów i podziwiać most w najlepszym świetle.",
+  "gettingThere": "Most Golden Gate jest łatwo dostępny z San Francisco. Można dojechać samochodem (płatny parking), skorzystać z autobusów miejskich Muni (linie 28, 76X) lub dojechać rowerem. Wiele wycieczek zorganizowanych z San Francisco również obejmuje wizytę przy moście.",
+  "tickets": "Przejście pieszo lub rowerem przez most jest bezpłatne. Płatny jest przejazd samochodem w kierunku południowym (do San Francisco) - opłata pobierana jest elektronicznie. Aktualne informacje o opłatach i sposobach płatności najlepiej sprawdzić na oficjalnej stronie Golden Gate Bridge.",
+  "tips": [
+    "Ubierz się warstwowo - pogoda w San Francisco bywa zmienna, a na moście często wieje silny wiatr i bywa chłodno, nawet w słoneczny dzień.",
+    "Sprawdź prognozę pogody przed wyjazdem - mgła może znacząco ograniczyć widoczność.",
+    "Zabierz ze sobą aparat fotograficzny - widoki są spektakularne, a most to doskonały obiekt do zdjęć.",
+    "Jeśli planujesz spacer po moście, załóż wygodne buty.",
+    "Uważaj na kieszonkowców, szczególnie w zatłoczonych miejscach i na parkingach.",
+    "Rozważ zakup San Francisco CityPASS, jeśli planujesz zwiedzać więcej atrakcji w mieście, może on obejmować transport."
+  ],
+  "faq": [
+    {
+      "q": "Czy można przejść pieszo przez Most Golden Gate?",
+      "a": "Tak, Most Golden Gate posiada wydzieloną ścieżkę dla pieszych, dostępną w określonych godzinach. Spacer po moście jest bezpłatny."
+    },
+    {
+      "q": "Czy Most Golden Gate jest płatny?",
+      "a": "Przejazd samochodem przez Most Golden Gate w kierunku południowym (do San Francisco) jest płatny. Opłata pobierana jest elektronicznie. Przejście pieszo i rowerem jest bezpłatne."
+    },
+    {
+      "q": "Skąd najlepiej podziwiać Most Golden Gate?",
+      "a": "Most Golden Gate najlepiej podziwiać z kilku perspektyw. Popularne punkty widokowe to Golden Gate Bridge Welcome Center i Fort Point po stronie San Francisco oraz Vista Point i Battery Spencer po stronie Marin."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Mostu Golden Gate?",
+      "a": "Na podziwianie mostu z kilku punktów widokowych i krótki spacer po nim warto zarezerwować 2-3 godziny. Jeśli planujesz przejażdżkę rowerową lub rejs, może to zająć pół dnia."
+    }
+  ],
+  "gygQuery": "Golden Gate Bridge San Francisco tours",
+  "forWhom": "Most Golden Gate to atrakcja dla każdego - miłośników architektury, fotografii, spacerów i pięknych widoków. Spodoba się rodzinom z dziećmi, parom i podróżującym samotnie.",
+  "history": "Budowa Mostu Golden Gate rozpoczęła się w 1933 roku, w szczycie Wielkiego Kryzysu, i trwała ponad cztery lata. Otwarty w 1937 roku, był wówczas najdłuższym mostem wiszącym na świecie. Projektantem był Joseph Strauss, który musiał pokonać wiele wyzwań inżynieryjnych i finansowych, aby zrealizować to monumentalne przedsięwzięcie. Jego nazwa pochodzi od cieśniny Golden Gate, którą łączy.",
+  "gygTourId": 3285
+}
