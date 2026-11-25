@@ -1,0 +1,67 @@
+{
+  "name": "Góry Rwenzori",
+  "slug": "gory-rwenzori",
+  "country": "uganda",
+  "lead": "Góry Rwenzori, znane jako Góry Księżycowe, to raj dla miłośników trekkingu i wspinaczki, oferujący unikalne ekosystemy alpejskie i lodowce w sercu Ugandy.",
+  "intro": [
+    "Góry Rwenzori to pasmo górskie położone na granicy Ugandy i Demokratycznej Republiki Konga, będące częścią Parku Narodowego Gór Rwenzori. Jest to trzecie co do wysokości pasmo górskie w Afryce, z najwyższym szczytem - Górą Stanleya (5109 m n.p.m.). Region ten słynie z niezwykłej różnorodności biologicznej, w tym endemicznych gatunków roślin i zwierząt, a także z lodowców, które pomimo globalnego ocieplenia wciąż zdobią najwyższe partie gór.",
+    "Główną aktywnością w Rwenzori jest trekking i wspinaczka. Dostępne są trasy o różnym stopniu trudności, od kilkudniowych wędrówek po dolinach po wymagające wyprawy na szczyty, które często wymagają użycia sprzętu wspinaczkowego. Szlaki prowadzą przez różnorodne strefy klimatyczne - od wilgotnych lasów deszczowych, przez wrzosowiska i bambusowe gaje, aż po alpejskie łąki i skaliste, oblodzone wierzchołki. To prawdziwe wyzwanie dla każdego, kto szuka kontaktu z dziką, nieskażoną przyrodą.",
+    "Wędrówka przez Góry Księżycowe to nie tylko wysiłek fizyczny, ale także podróż przez zmieniające się krajobrazy i ekosystemy. Widoki na lodowce, kaskady wodospadów i bujną roślinność, często spowitą mgłą, tworzą atmosferę tajemniczości i odosobnienia. Spotkanie z unikalnymi gatunkami roślin, takimi jak gigantyczne lobelie czy starce, dodaje wyprawie edukacyjnego wymiaru. To doświadczenie, które pozostaje w pamięci na długo, oferując perspektywę na potęgę i piękno afrykańskiej przyrody."
+  ],
+  "highlights": [
+    {
+      "name": "Wędrówka na Górę Stanleya",
+      "text": "Najwyższy szczyt Rwenzori, oferujący wymagającą wspinaczkę i niezapomniane widoki na otaczające pasmo górskie. Wyprawa na szczyt wymaga dobrego przygotowania fizycznego i doświadczenia wspinaczkowego."
+    },
+    {
+      "name": "Dolina Bujuku",
+      "text": "Malownicza dolina, często nazywana 'Doliną Gigantów' ze względu na występowanie gigantycznych lobelii i starców. To popularny odcinek wielu tras trekkingowych, oferujący spektakularne krajobrazy."
+    },
+    {
+      "name": "Lodowce Rwenzori",
+      "text": "Mimo globalnego ocieplenia, na najwyższych szczytach Rwenzori wciąż można podziwiać lodowce. Ich widok w sercu Afryki jest niezwykłym doświadczeniem i przypomnieniem o kruchości ekosystemów."
+    },
+    {
+      "name": "Flora i fauna Parku Narodowego",
+      "text": "Park Narodowy Gór Rwenzori to dom dla wielu endemicznych gatunków roślin i zwierząt. Podczas trekkingu można spotkać rzadkie ptaki, małpy, a nawet słonie leśne, choć te ostatnie są bardzo płochliwe."
+    },
+    {
+      "name": "Szlaki trekkingowe",
+      "text": "Różnorodne szlaki trekkingowe, od łatwiejszych, kilkudniowych tras po dolinach, po zaawansowane wyprawy na szczyty. Każdy znajdzie coś dla siebie, zależnie od kondycji i doświadczenia."
+    }
+  ],
+  "visitTime": "W zależności od wybranej trasy, trekking w Górach Rwenzori może trwać od 3 do 10 dni. Sama podróż do bazy i powrót zajmą dodatkowo 1-2 dni.",
+  "bestTime": "Najlepszy czas na trekking w Rwenzori to pora sucha, czyli od grudnia do lutego oraz od czerwca do sierpnia. W tych miesiącach opady są mniejsze, a szlaki bardziej dostępne. Należy jednak pamiętać, że pogoda w górach jest zmienna i deszcz może zaskoczyć o każdej porze roku.",
+  "gettingThere": "Góry Rwenzori znajdują się w zachodniej Ugandzie. Najbliższe większe miasto to Kasese, do którego można dojechać autobusem z Kampali lub Entebbe. Z Kasese do bram parku (Nyakalengija) najlepiej dotrzeć wynajętym samochodem z kierowcą lub taksówką. Większość zorganizowanych wycieczek zapewnia transport z Kampali lub Entebbe.",
+  "tickets": "Wstęp do Parku Narodowego Gór Rwenzori jest płatny. Ceny różnią się w zależności od długości pobytu i rodzaju aktywności. Zdecydowanie zaleca się wykupienie zorganizowanej wycieczki z przewodnikiem i tragarzami, co jest często wymagane przez park. Rezerwacji należy dokonać z dużym wyprzedzeniem, szczególnie w sezonie wysokim. Aktualne informacje o opłatach i regulaminie są dostępne na oficjalnej stronie Uganda Wildlife Authority.",
+  "tips": [
+    "Zadbaj o odpowiednie przygotowanie fizyczne przed wyjazdem. Trekking w Rwenzori jest wymagający.",
+    "Zabierz ze sobą ciepłą, warstwową odzież, nieprzemakalną kurtkę i spodnie, solidne buty trekkingowe oraz śpiwór dostosowany do niskich temperatur.",
+    "Pamiętaj o zabraniu apteczki pierwszej pomocy, leków na chorobę wysokościową (jeśli planujesz wejścia na wysokie szczyty) oraz środka odstraszającego owady.",
+    "Pij dużo wody, aby uniknąć odwodnienia. Woda ze strumieni powinna być przegotowana lub przefiltrowana.",
+    "Wynajęcie doświadczonego przewodnika i tragarzy jest kluczowe dla bezpieczeństwa i komfortu wyprawy.",
+    "Szanuj lokalną kulturę i środowisko. Nie zostawiaj śmieci i nie zakłócaj spokoju dzikiej przyrody."
+  ],
+  "faq": [
+    {
+      "q": "Czy trekking w Górach Rwenzori jest bezpieczny?",
+      "a": "Tak, trekking w Rwenzori jest bezpieczny, pod warunkiem korzystania z usług licencjonowanych przewodników i przestrzegania zasad parku. Należy być przygotowanym na zmienne warunki pogodowe i fizyczne wyzwania."
+    },
+    {
+      "q": "Czy potrzebuję specjalnego sprzętu do trekkingu w Rwenzori?",
+      "a": "Tak, na wyższe partie gór potrzebny jest sprzęt wspinaczkowy (raki, czekan, uprząż), który można wypożyczyć na miejscu. Na niższe trasy wystarczą dobre buty trekkingowe, ciepła odzież i sprzęt biwakowy."
+    },
+    {
+      "q": "Czy w Rwenzori występują choroby wysokościowe?",
+      "a": "Tak, na wysokościach powyżej 2500 m n.p.m. mogą wystąpić objawy choroby wysokościowej. Ważna jest aklimatyzacja i powolne zdobywanie wysokości. Warto skonsultować się z lekarzem przed wyjazdem."
+    },
+    {
+      "q": "Czy mogę połączyć trekking w Rwenzori z innymi atrakcjami Ugandy?",
+      "a": "Zdecydowanie tak. Uganda oferuje wiele innych atrakcji, takich jak trekking z gorylami górskimi w Bwindi, safari w Parku Narodowym Królowej Elżbiety czy rafting na Nilu w Jinja. Warto zaplanować dłuższą podróż, aby doświadczyć różnorodności tego kraju."
+    }
+  ],
+  "gygQuery": "Rwenzori Mountains trekking Uganda",
+  "forWhom": "Góry Rwenzori są idealne dla doświadczonych trekkerów, wspinaczy i miłośników przyrody, którzy szukają wymagających wyzwań i chcą odkrywać unikalne ekosystemy. Nie jest to miejsce dla osób z bardzo słabą kondycją fizyczną czy małych dzieci.",
+  "history": "Góry Rwenzori powstały w wyniku ruchów tektonicznych, które doprowadziły do wypiętrzenia się masywów górskich wzdłuż Wielkich Rowów Afrykańskich. Ich unikalne ukształtowanie i obecność lodowców w pobliżu równika sprawiły, że zyskały miano 'Gór Księżycowych', nawiązujące do starożytnych opisów źródła Nilu.",
+  "gygTourId": 1033253
+}
