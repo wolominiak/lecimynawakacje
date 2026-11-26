@@ -4,7 +4,7 @@ import { getCountries } from '@/lib/data';
 import { countryIata, iataOf } from '@/lib/travelpayouts';
 import ServiceHub from '@/components/ServiceHub';
 import FlightSearch from '@/components/FlightSearch';
-import { allRoutes, routeUrl, zl } from '@/lib/flights';
+import { allRoutes, routeUrl, zl, fmtDay, FLIGHTS_UPDATED } from '@/lib/flights';
 
 export const metadata: Metadata = seo({
   title: 'Tanie loty z Polski - porównanie cen lotów',
@@ -45,7 +45,8 @@ export default function Page() {
       <FlightSearch dests={dests} />
       {routes.length > 0 && (
         <div className="fl-hub">
-          <h2>Najtańsze loty z Polski teraz</h2>
+          <h2>Najtańsze loty z Polski w ostatnich dniach</h2>
+          <p className="ft-note">Ceny w obie strony za osobę, znalezione w wyszukiwaniach z ostatnich 48 godzin{FLIGHTS_UPDATED ? ` (aktualizacja ${fmtDay(FLIGHTS_UPDATED)})` : ''}. Aktualną cenę zobaczysz po kliknięciu.</p>
           <div className="chips">{routes.slice(0, 24).map((x) => <a key={x.slug} className="chip chip-light" href={routeUrl(x.slug)}>{x.oName} - {x.name}: od {zl(x.price)}</a>)}</div>
           {origins.map(([o, list]) => (
             <div key={o}>

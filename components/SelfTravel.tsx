@@ -22,7 +22,7 @@ export default function SelfTravel({ c, r }: { c: Country; r?: Region }) {
           <FlightForm dest={s.lotnisko} destName={place} />
           {prices.length > 0 && (
             <div className="ft-prices">
-              <span>Najtańsze loty w obie strony:</span>
+              <span>Najtańsze loty w obie strony z ostatnich dni:</span>
               {prices.map((x) => <a key={x.slug} href={routeUrl(x.slug)}>{x.oName} - {x.name} <b>od {zl(x.price)}</b></a>)}
             </div>
           )}
