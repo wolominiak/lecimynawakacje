@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: '41 3 * * *'
   workflow_dispatch:
+    inputs:
+      probe:
+        description: 'Tylko test pól API (true/false)'
+        default: 'false'
 
 permissions:
   contents: write
@@ -28,8 +32,11 @@ jobs:
       - name: Pobierz ceny
         env:
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
-        run: node scripts/fetch-flights.mjs
+        run: |
+          if [ "${{ inputs.probe }}" = "true" ]; then node scripts/probe-flights.mjs; exit 0; fi
+          node scripts/fetch-flights.mjs
       - name: Commit i push
+        if: ${{ inputs.probe != 'true' }}
         run: |
           git config user.name "wolominiak"
           git config user.email "228559845+wolominiak@users.noreply.github.com"
