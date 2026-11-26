@@ -1,0 +1,67 @@
+{
+  "name": "Góry Tibesti",
+  "slug": "gory-tibesti",
+  "country": "czad",
+  "lead": "Góry Tibesti to wulkaniczny masyw na północy Czadu, najwyższe góry Sahary, oferujące surowe krajobrazy i wulkany. To wyprawa dla poszukiwaczy prawdziwej przygody.",
+  "intro": [
+    "Masyw Tibesti, położony w sercu Sahary, jest jednym z najbardziej odległych i dziewiczych regionów Afryki. Charakteryzuje się dramatycznymi, wulkanicznymi krajobrazami, głębokimi kanionami i majestatycznymi szczytami, z których najwyższy to Emi Koussi. To miejsce, gdzie natura ukazuje swoją potęgę w najbardziej surowej formie, oferując niezapomniane widoki.",
+    "Podróż do Tibesti to przede wszystkim eksploracja unikalnego środowiska pustynnego i wulkanicznego. Można tu podziwiać formacje skalne, gejzery, gorące źródła oraz pozostałości starożytnych wulkanów. Region ten jest również domem dla nielicznych plemion Tubu, których tradycyjny styl życia jest ściśle związany z tym trudnym terenem. Odwiedzający mają szansę poznać ich kulturę i gościnność.",
+    "Wyprawa do Gór Tibesti to prawdziwe wyzwanie logistyczne i fizyczne, ale nagrodą są widoki, które zapierają dech w piersiach. Odwiedzający mogą spodziewać się ciszy i spokoju, przerywanych jedynie szumem wiatru i odgłosami pustyni. To miejsce, które pozostawia trwałe wrażenie i pozwala na głębokie połączenie z naturą w jej najbardziej pierwotnej formie."
+  ],
+  "highlights": [
+    {
+      "name": "Emi Koussi",
+      "text": "Najwyższy szczyt Gór Tibesti i całej Sahary, wulkan wznoszący się na wysokość ponad 3400 m n.p.m. Oferuje spektakularne widoki na otaczający pustynny krajobraz."
+    },
+    {
+      "name": "Trou au Natron",
+      "text": "Ogromny krater wulkaniczny wypełniony solą i minerałami, tworzący księżycowy krajobraz. Jest to jedno z najbardziej fotogenicznych miejsc w Tibesti."
+    },
+    {
+      "name": "Guelta d'Archei",
+      "text": "Choć technicznie poza masywem Tibesti, jest często łączona z wyprawami w ten region. To oaza z jeziorem, gdzie żyją krokodyle pustynne, otoczona imponującymi formacjami skalnymi."
+    },
+    {
+      "name": "Sztuka naskalna",
+      "text": "W wielu jaskiniach i schroniskach skalnych Tibesti można znaleźć starożytne malowidła i ryty naskalne, świadectwo dawnych kultur zamieszkujących te tereny."
+    },
+    {
+      "name": "Krajobrazy wulkaniczne",
+      "text": "Eksploracja różnorodnych formacji wulkanicznych, od zastygłych pól lawy po stożki wulkaniczne i kratery, które świadczą o geologicznej historii regionu."
+    }
+  ],
+  "visitTime": "Ze względu na trudny dostęp i rozległość terenu, na eksplorację Gór Tibesti należy zarezerwować co najmniej 7-10 dni. Sama podróż do regionu zajmuje kilka dni.",
+  "bestTime": "Najlepszy czas na wizytę to chłodniejsze miesiące, od października do marca, kiedy temperatury są bardziej znośne. Należy unikać lata, gdy upały są ekstremalne.",
+  "gettingThere": "Dostęp do Gór Tibesti jest wyjątkowo trudny i wymaga specjalnie zorganizowanej ekspedycji. Najbliższe większe miasto to Faya-Largeau, skąd dalsza podróż odbywa się pojazdami terenowymi z doświadczonymi przewodnikami i ochroną. Nie ma regularnych połączeń komunikacyjnych.",
+  "tickets": "Nie ma biletów wstępu do samych Gór Tibesti, ale wymagane są pozwolenia na wjazd do regionu, które załatwia się za pośrednictwem lokalnych agencji turystycznych. Konieczne jest również wynajęcie przewodnika i eskorty. Wszystkie formalności i logistykę najlepiej załatwiać z dużym wyprzedzeniem poprzez wyspecjalizowane biuro podróży.",
+  "tips": [
+    "Wybierz sprawdzone biuro podróży z doświadczeniem w organizacji wypraw do Czadu.",
+    "Zabierz ze sobą odpowiedni sprzęt kempingowy, odzież na zmienne temperatury (gorące dni, chłodne noce) oraz ochronę przed słońcem.",
+    "Zadbaj o odpowiednie nawodnienie - pij dużo wody i elektrolitów.",
+    "Szanuj lokalne zwyczaje i kulturę plemion Tubu. Pamiętaj o zgodzie przed fotografowaniem ludzi.",
+    "Przygotuj się na brak zasięgu telefonicznego i internetu przez większość czasu.",
+    "Zabierz ze sobą podstawowe leki i apteczkę pierwszej pomocy, dostęp do opieki medycznej jest bardzo ograniczony."
+  ],
+  "faq": [
+    {
+      "q": "Czy podróż do Gór Tibesti jest bezpieczna?",
+      "a": "Region Tibesti jest odległy i historycznie bywał niestabilny. Podróż wymaga specjalnych pozwoleń i eskorty. Zawsze należy sprawdzić aktualne ostrzeżenia dla podróżnych przed wyjazdem i korzystać z usług doświadczonych organizatorów."
+    },
+    {
+      "q": "Jakie są główne atrakcje w Górach Tibesti?",
+      "a": "Główne atrakcje to wulkan Emi Koussi, krater Trou au Natron, unikalne krajobrazy wulkaniczne, starożytna sztuka naskalna oraz możliwość poznania kultury plemion Tubu."
+    },
+    {
+      "q": "Czy potrzebuję specjalnego pozwolenia na wjazd do Tibesti?",
+      "a": "Tak, wymagane są specjalne pozwolenia na wjazd do regionu Tibesti, które zazwyczaj załatwia się za pośrednictwem agencji turystycznej organizującej wyprawę. Bez nich wjazd jest niemożliwy."
+    },
+    {
+      "q": "Czy można połączyć wizytę w Tibesti z innymi atrakcjami Czadu?",
+      "a": "Tak, często wyprawy do Tibesti są łączone z wizytą na Płaskowyżu Ennedi i w Guelta d'Archei, które również oferują spektakularne krajobrazy i sztukę naskalną. Ze względu na logistykę, takie wyjazdy to zazwyczaj długie ekspedycje."
+    }
+  ],
+  "gygQuery": "Tibesti Mountains Chad tour",
+  "forWhom": "To miejsce jest idealne dla doświadczonych podróżników, poszukiwaczy przygód, miłośników geologii, pustynnych krajobrazów i dzikiej przyrody, a także dla tych, którzy pragną poznać odległe kultury.",
+  "history": "Góry Tibesti są wynikiem intensywnej aktywności wulkanicznej, która trwała przez miliony lat, kształtując obecny, dramatyczny krajobraz. Najstarsze skały w regionie mają ponad 2 miliardy lat. Obszar ten był zamieszkany przez ludzi od czasów prehistorycznych, o czym świadczą liczne stanowiska ze sztuką naskalną, przedstawiające sceny z życia dawnych mieszkańców i zwierzęta, które niegdyś żyły na tych terenach.",
+  "gygTourId": 1242823
+}

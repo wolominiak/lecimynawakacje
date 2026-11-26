@@ -1,0 +1,67 @@
+{
+  "name": "K2 (Góra)",
+  "slug": "k2-gora",
+  "country": "pakistan",
+  "lead": "K2, drugi najwyższy szczyt świata, to symbol pakistańskiego Karakorum i cel marzeń alpinistów. Widoki z jego okolic zapierają dech w piersiach, oferując niezapomniane wrażenia.",
+  "intro": [
+    "K2, znane również jako Czogori, wznosi się na wysokość 8611 metrów nad poziomem morza, ustępując jedynie Mount Everestowi. Położony w paśmie Karakorum na granicy Pakistanu i Chin, jest uważany za jeden z najtrudniejszych technicznie i najbardziej niebezpiecznych ośmiotysięczników. Jego majestatyczna sylwetka, często spowita chmurami, stanowi wyzwanie dla najbardziej doświadczonych wspinaczy.",
+    "Dla większości turystów K2 nie jest celem do zdobycia, lecz inspiracją do podziwiania. Region wokół K2 oferuje spektakularne krajobrazy wysokogórskie, lodowce i surową przyrodę. Trekking do bazy pod K2, choć wymagający, jest jedną z najbardziej epickich przygód, jakie można przeżyć, pozwalając z bliska doświadczyć potęgi gór.",
+    "Sama obecność w cieniu tak potężnego szczytu budzi respekt i pokorę. Surowe piękno lodowców, szum wiatru i poczucie odosobnienia od cywilizacji sprawiają, że wizyta w okolicach K2 to doświadczenie głęboko poruszające. To miejsce, gdzie natura pokazuje swoją prawdziwą, nieujarzmioną siłę."
+  ],
+  "highlights": [
+    {
+      "name": "Trek do Bazy pod K2",
+      "text": "Najpopularniejsza aktywność, prowadząca przez lodowiec Baltoro do Concordia, skąd rozpościera się widok na K2 i inne szczyty. To wymagająca, kilkunastodniowa wyprawa."
+    },
+    {
+      "name": "Concordia",
+      "text": "Miejsce zbiegu kilku lodowców, nazywane 'Placem Królów Gór', oferujące panoramiczne widoki na K2, Broad Peak i Gaszerbrumy. To jeden z najbardziej spektakularnych punktów widokowych na świecie."
+    },
+    {
+      "name": "Lodowiec Baltoro",
+      "text": "Jeden z najdłuższych lodowców poza regionami polarnymi, przez który prowadzi trasa treku do bazy pod K2. Jego ogrom i rzeźba terenu są imponujące."
+    },
+    {
+      "name": "Wioski Balti",
+      "text": "Po drodze do K2 mija się tradycyjne wioski ludu Balti, co pozwala poznać lokalną kulturę i gościnność mieszkańców. Warto zatrzymać się na chwilę i porozmawiać z nimi."
+    },
+    {
+      "name": "Widoki z Trango Towers",
+      "text": "W pobliżu trasy treku znajdują się słynne granitowe turnie Trango Towers, będące celem wspinaczy. Ich potężne ściany stanowią dodatkową atrakcję krajobrazową."
+    }
+  ],
+  "visitTime": "Trek do bazy pod K2 trwa zazwyczaj od 14 do 20 dni, w zależności od tempa i planowanych aklimatyzacji. Sama podróż do Skardu i powrót zajmuje dodatkowe dni.",
+  "bestTime": "Najlepszy czas na trekking w regionie K2 to miesiące letnie - od czerwca do września. W tym okresie pogoda jest najbardziej stabilna, choć nadal należy spodziewać się zmiennych warunków. Poza tym okresem warunki są znacznie trudniejsze i niebezpieczne.",
+  "gettingThere": "Podróż do K2 rozpoczyna się zazwyczaj w Skardu, do którego można dolecieć z Islamabadu lub dojechać Autostradą Karakorum. Ze Skardu organizowane są wyprawy trekkingowe z przewodnikami i tragarzami. Samodzielne dotarcie do bazy pod K2 jest niemożliwe i niebezpieczne.",
+  "tickets": "Nie ma 'biletów' na K2, ale wymagane są pozwolenia na trekking w regionie Karakorum, które załatwia się za pośrednictwem lokalnych agencji turystycznych. Koszt takiej wyprawy jest znaczny i obejmuje przewodników, tragarzy, pozwolenia i logistykę. Rezerwacja z dużym wyprzedzeniem jest konieczna ze względu na ograniczoną dostępność i skomplikowaną organizację.",
+  "tips": [
+    "Zadbaj o odpowiednie ubezpieczenie górskie, obejmujące akcje ratunkowe na dużych wysokościach.",
+    "Przygotuj się fizycznie - trek do bazy pod K2 jest bardzo wymagający i wymaga dobrej kondycji.",
+    "Zabierz ze sobą ciepłą odzież warstwową, dobre buty trekkingowe, czapkę, rękawiczki i okulary przeciwsłoneczne z filtrem UV.",
+    "Pamiętaj o aklimatyzacji - nie spiesz się i daj swojemu organizmowi czas na przystosowanie się do wysokości.",
+    "Szanuj lokalną kulturę i zwyczaje ludu Balti. Ubieraj się skromnie i pytaj o zgodę przed robieniem zdjęć.",
+    "Pij dużo wody, aby uniknąć odwodnienia i choroby wysokościowej. Woda butelkowana jest dostępna w niektórych miejscach, ale warto mieć filtr do wody."
+  ],
+  "faq": [
+    {
+      "q": "Czy K2 jest dostępne dla zwykłych turystów?",
+      "a": "Samo wejście na szczyt K2 jest zarezerwowane wyłącznie dla doświadczonych alpinistów. Jednakże, trekking do bazy pod K2 jest dostępny dla turystów z dobrą kondycją fizyczną i doświadczeniem w górach wysokich, zawsze w towarzystwie zorganizowanej wyprawy."
+    },
+    {
+      "q": "Jakie pozwolenia są potrzebne do trekkingu w regionie K2?",
+      "a": "Do trekkingu w regionie K2 wymagane są specjalne pozwolenia od władz pakistańskich. Zazwyczaj są one załatwiane przez agencje turystyczne organizujące wyprawę, co jest częścią pakietu usług."
+    },
+    {
+      "q": "Czy w regionie K2 jest bezpiecznie?",
+      "a": "Region Gilgit-Baltistan, gdzie znajduje się K2, jest generalnie uważany za bezpieczny dla turystów. Jednakże, jak w każdym rejonie górskim, należy zachować ostrożność, a ryzyka związane z wysokością i pogodą są zawsze obecne. Warto śledzić aktualne ostrzeżenia dla podróżnych."
+    },
+    {
+      "q": "Co to jest Concordia?",
+      "a": "Concordia to miejsce zbiegu kilku lodowców, w tym Baltoro i Godwin Austen, położone u podnóża K2. Jest to jeden z najbardziej spektakularnych punktów widokowych na świecie, oferujący panoramiczne widoki na wiele ośmiotysięczników."
+    }
+  ],
+  "gygQuery": "K2 Base Camp Trek Pakistan",
+  "forWhom": "Miejsce to jest przeznaczone dla doświadczonych trekkerów, miłośników gór wysokich i osób poszukujących ekstremalnych przygód. Nie jest odpowiednie dla rodzin z małymi dziećmi ani osób bez wcześniejszego doświadczenia w górach.",
+  "history": "K2 zostało po raz pierwszy zmierzone w 1856 roku przez europejską ekspedycję pod dowództwem Henry'ego Havershama Godwin-Austena, stąd jego alternatywna nazwa. Pierwszego udanego wejścia na szczyt dokonali włoscy alpiniści Achille Compagnoni i Lino Lacedelli w 1954 roku. Od tego czasu K2 pozostaje jednym z największych wyzwań w świecie alpinizmu, słynąc z trudnych warunków i wysokiej śmiertelności.",
+  "gygTourId": 495534
+}

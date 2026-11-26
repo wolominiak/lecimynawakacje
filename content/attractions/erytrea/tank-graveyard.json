@@ -1,0 +1,67 @@
+{
+  "name": "Tank Graveyard",
+  "slug": "tank-graveyard",
+  "country": "erytrea",
+  "lead": "Cmentarzysko Czołgów w Asmarze to unikalne świadectwo burzliwej historii Erytrei. To miejsce, gdzie czas zatrzymał się w zardzewiałych wrakach, oferuje refleksyjny wgląd w przeszłość.",
+  "intro": [
+    "Na obrzeżach Asmary, stolicy Erytrei, rozciąga się niezwykłe i nieco surrealistyczne \"cmentarzysko\" - Tank Graveyard. Jest to rozległy teren, na którym zgromadzono setki zniszczonych czołgów, pojazdów opancerzonych, ciężarówek i innego sprzętu wojskowego, będącego pozostałością po długotrwałych konfliktach, które nękały kraj.",
+    "Spacerując po tym miejscu, można z bliska przyjrzeć się wrakom, które przez lata ulegały korozji i stały się częścią krajobrazu. To nie jest typowa atrakcja turystyczna, lecz raczej otwarte muzeum pod gołym niebem, które zmusza do refleksji nad kosztem wojny i wytrwałością narodu erytrejskiego.",
+    "Widok zardzewiałych kolosów, często porośniętych roślinnością, tworzy silne wrażenie. Dla wielu jest to symboliczne miejsce, przypominające o dążeniu Erytrei do niepodległości i pokoju. To doświadczenie, które pozostaje w pamięci na długo, inne niż typowe zwiedzanie zabytków."
+  ],
+  "highlights": [
+    {
+      "name": "Zardzewiałe wraki czołgów",
+      "text": "Główną atrakcją są setki czołgów różnych typów, które stoją w bezruchu, niszczejąc pod wpływem czasu i warunków atmosferycznych."
+    },
+    {
+      "name": "Pojazdy opancerzone i ciężarówki",
+      "text": "Oprócz czołgów, na cmentarzysku znajdują się również liczne pojazdy opancerzone, ciężarówki wojskowe i inny sprzęt, tworząc mozaikę zniszczenia."
+    },
+    {
+      "name": "Symbolika miejsca",
+      "text": "Dla wielu to miejsce ma głębokie znaczenie historyczne i symboliczne, reprezentując trudną przeszłość Erytrei i jej walkę o niepodległość."
+    },
+    {
+      "name": "Fotografia",
+      "text": "Cmentarzysko oferuje unikalne kadry dla fotografów, z kontrastem między zardzewiałą stalą a surowym krajobrazem."
+    },
+    {
+      "name": "Refleksja nad historią",
+      "text": "To miejsce sprzyja zadumie nad konsekwencjami konfliktów zbrojnych i ceną pokoju."
+    }
+  ],
+  "visitTime": "Około 1-2 godzin, w zależności od zainteresowania i chęci eksploracji terenu.",
+  "bestTime": "Najlepiej odwiedzić cmentarzysko w chłodniejszych miesiącach, od października do marca, aby uniknąć upałów. Wczesny ranek lub późne popołudnie to dobre pory dnia na zdjęcia i spokojne zwiedzanie.",
+  "gettingThere": "Cmentarzysko Czołgów znajduje się na obrzeżach Asmary. Najłatwiej dojechać tam taksówką lub wynajętym samochodem z kierowcą. Można również dołączyć do zorganizowanej wycieczki po Asmarze, która często obejmuje to miejsce.",
+  "tickets": "Wejście na teren cmentarzyska jest zazwyczaj bezpłatne. Warto jednak rozważyć wynajęcie lokalnego przewodnika, który opowie o historii poszczególnych wraków i kontekście historycznym. Aktualne informacje o ewentualnych opłatach lub wymaganych zezwoleniach najlepiej sprawdzić na miejscu lub w lokalnym biurze turystycznym.",
+  "tips": [
+    "Ubierz wygodne buty, ponieważ teren jest nierówny i piaszczysty.",
+    "Zabierz ze sobą wodę pitną, szczególnie w cieplejsze dni, ponieważ na miejscu nie ma punktów usługowych.",
+    "Pamiętaj o ochronie przeciwsłonecznej - kapeluszu, okularach i kremie z filtrem.",
+    "Zachowaj ostrożność podczas poruszania się po terenie, niektóre wraki mogą mieć ostre krawędzie.",
+    "Przed robieniem zdjęć ludziom, zawsze poproś o zgodę.",
+    "Szanuj to miejsce jako świadectwo trudnej historii; nie wspinaj się na wraki i nie zabieraj pamiątek."
+  ],
+  "faq": [
+    {
+      "q": "Czy Tank Graveyard jest bezpieczne do zwiedzania?",
+      "a": "Tak, teren jest ogólnie bezpieczny do zwiedzania, ale należy zachować ostrożność ze względu na nierówny teren i ostre elementy wraków."
+    },
+    {
+      "q": "Czy potrzebuję przewodnika, aby odwiedzić cmentarzysko?",
+      "a": "Nie jest to obowiązkowe, ale przewodnik może wzbogacić wizytę o kontekst historyczny i ciekawe opowieści związane z eksponatami."
+    },
+    {
+      "q": "Czy można robić zdjęcia na cmentarzysku?",
+      "a": "Tak, fotografowanie jest dozwolone i wiele osób uważa to miejsce za bardzo fotogeniczne. Zawsze jednak należy szanować prywatność innych osób."
+    },
+    {
+      "q": "Czy cmentarzysko jest dostępne dla osób z ograniczoną mobilnością?",
+      "a": "Teren jest nierówny i piaszczysty, co może stanowić wyzwanie dla osób z ograniczoną mobilnością. Dostępność jest ograniczona."
+    }
+  ],
+  "gygQuery": "Asmara Tank Graveyard tour",
+  "forWhom": "To miejsce jest idealne dla miłośników historii, fotografów, osób zainteresowanych geopolityką oraz tych, którzy szukają nietypowych i refleksyjnych doświadczeń podróżniczych.",
+  "history": "Cmentarzysko Czołgów w Asmarze jest pozostałością po długotrwałych konfliktach zbrojnych, w szczególności po wojnie o niepodległość Erytrei z Etiopią, która trwała od 1961 do 1991 roku. Zgromadzony tu sprzęt wojskowy to głównie wraki pojazdów zniszczonych lub porzuconych podczas walk, które były zbyt kosztowne do usunięcia lub naprawy. Stały się one niemym świadkiem burzliwej historii regionu.",
+  "gygTourId": 1521641
+}

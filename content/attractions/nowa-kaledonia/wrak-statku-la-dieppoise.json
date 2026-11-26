@@ -1,0 +1,63 @@
+{
+  "name": "Wrak statku La Dieppoise",
+  "slug": "wrak-statku-la-dieppoise",
+  "country": "nowa-kaledonia",
+  "lead": "Wrak statku La Dieppoise to popularne miejsce nurkowe w pobliżu Numei, oferujące fascynujące spotkanie z podwodnym światem i zatopioną historią.",
+  "intro": [
+    "La Dieppoise, dawny okręt marynarki wojennej, spoczywa na dnie oceanu, tworząc sztuczną rafę tętniącą życiem. Jest to jedna z najbardziej dostępnych i cenionych atrakcji dla nurków w Nowej Kaledonii, oferująca unikalne doświadczenie eksploracji zatopionego obiektu.",
+    "Nurkowanie wokół wraku pozwala podziwiać bogactwo morskiej fauny i flory, która osiedliła się na jego strukturach. Od małych, kolorowych ryb rafowych po większe drapieżniki, wrak jest domem dla wielu gatunków, co czyni każdą wizytę niepowtarzalną.",
+    "Oprócz biologicznej różnorodności, samo eksplorowanie zatopionego statku dostarcza wrażeń. Widok koralowców porastających metalowe elementy i przenikające przez nie światło słoneczne tworzą magiczną atmosferę, która urzeka zarówno początkujących, jak i doświadczonych nurków."
+  ],
+  "highlights": [
+    {
+      "name": "Eksploracja wraku",
+      "text": "Okrążenie i oglądanie zewnętrznych części wraku, podziwiając jego rozmiar i to, jak stał się częścią podwodnego ekosystemu."
+    },
+    {
+      "name": "Życie morskie",
+      "text": "Obserwacja różnorodnych gatunków ryb, żółwi, rekinów rafowych i innych stworzeń morskich, które zamieszkują wrak i jego okolice."
+    },
+    {
+      "name": "Fotografia podwodna",
+      "text": "Idealne miejsce do robienia zdjęć podwodnych, z wrakiem jako tłem i bogatym życiem morskim jako obiektami."
+    },
+    {
+      "name": "Nurkowanie na różnych głębokościach",
+      "text": "Wrak leży na głębokościach dostępnych dla nurków o różnym poziomie zaawansowania, co pozwala na dostosowanie nurkowania do umiejętności."
+    }
+  ],
+  "visitTime": "Około pół dnia, wliczając dojazd, przygotowanie do nurkowania i samo nurkowanie.",
+  "bestTime": "Najlepszy czas na nurkowanie to sucha pora roku, od maja do listopada, kiedy widoczność pod wodą jest najlepsza. Warto unikać weekendów, aby uniknąć większych grup nurkowych.",
+  "gettingThere": "Wrak znajduje się w pobliżu Numei. Najłatwiej dotrzeć tam zorganizowaną wycieczką nurkową, która zazwyczaj obejmuje transport łodzią z portu w Numei.",
+  "tickets": "Nurkowanie do wraku La Dieppoise jest dostępne wyłącznie poprzez zorganizowane wycieczki z centrami nurkowymi. Cena obejmuje sprzęt i opiekę instruktora. Zaleca się wcześniejszą rezerwację, zwłaszcza w sezonie, aby zapewnić sobie miejsce. Aktualne ceny i dostępność należy sprawdzić bezpośrednio u operatorów nurkowych.",
+  "tips": [
+    "Upewnij się, że posiadasz aktualne certyfikaty nurkowe i ubezpieczenie.",
+    "Zawsze nurkuj z doświadczonym przewodnikiem lub instruktorem.",
+    "Pamiętaj o odpowiednim nawodnieniu przed i po nurkowaniu.",
+    "Nie dotykaj wraku ani życia morskiego, aby chronić delikatny ekosystem.",
+    "Zabierz ze sobą krem z filtrem UV i nakrycie głowy na czas rejsu łodzią.",
+    "Jeśli masz własny sprzęt nurkowy, upewnij się, że jest w dobrym stanie."
+  ],
+  "faq": [
+    {
+      "q": "Czy wrak La Dieppoise jest odpowiedni dla początkujących nurków?",
+      "a": "Tak, wrak leży na głębokościach dostępnych dla nurków na różnym poziomie zaawansowania, a wiele centrów nurkowych oferuje wycieczki dla początkujących z instruktorem."
+    },
+    {
+      "q": "Jakie życie morskie można spotkać przy wraku?",
+      "a": "Wokół wraku można spotkać liczne gatunki ryb rafowych, barakudy, żółwie morskie, a czasem rekiny rafowe i płaszczki."
+    },
+    {
+      "q": "Czy potrzebuję własnego sprzętu nurkowego?",
+      "a": "Nie, większość centrów nurkowych oferuje wynajem kompletnego sprzętu nurkowego w ramach pakietu wycieczki."
+    },
+    {
+      "q": "Czy można zwiedzić wnętrze wraku?",
+      "a": "Wnętrze wraku jest zazwyczaj dostępne tylko dla zaawansowanych nurków z odpowiednim szkoleniem i doświadczeniem w nurkowaniu wrakowym. Standardowe wycieczki koncentrują się na zewnętrznej eksploracji."
+    }
+  ],
+  "gygQuery": "La Dieppoise shipwreck diving New Caledonia",
+  "forWhom": "To miejsce jest idealne dla miłośników nurkowania, zarówno początkujących, jak i zaawansowanych, a także dla osób zainteresowanych podwodną fotografią i eksploracją zatopionych obiektów.",
+  "history": "La Dieppoise był okrętem marynarki wojennej, który został celowo zatopiony w 1988 roku, aby stworzyć sztuczną rafę i atrakcję nurkową. Od tego czasu stał się domem dla bogatego ekosystemu morskiego.",
+  "gygTourId": 1177367
+}

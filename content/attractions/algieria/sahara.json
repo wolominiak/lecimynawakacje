@@ -1,0 +1,67 @@
+{
+  "name": "Sahara",
+  "slug": "sahara",
+  "country": "algieria",
+  "lead": "Algieria to brama do Sahary, gdzie bezkresne wydmy i oazy tworzą krajobraz zapierający dech w piersiach, oferując autentyczne doświadczenie pustyni.",
+  "intro": [
+    "Sahara w Algierii to nie tylko pustynia, ale rozległy ekosystem, który od wieków kształtuje życie i kulturę regionu. Jej algierska część charakteryzuje się różnorodnością krajobrazów, od piaszczystych ergów, przez kamieniste hamady, po zielone oazy. To miejsce, gdzie można poczuć potęgę natury i doświadczyć ciszy, jakiej nie znajdzie się nigdzie indziej.",
+    "Podróż na Saharę to przede wszystkim możliwość obcowania z niezwykłym środowiskiem. Turyści często decydują się na przejażdżki na wielbłądach, trekking po wydmach, a także noclegi pod gwiazdami w tradycyjnych obozach. Jest to szansa na poznanie lokalnej kultury Berberów i Tuaregów, którzy od pokoleń zamieszkują te tereny.",
+    "Pustynia Sahara oferuje unikalne wrażenia estetyczne. Zachody i wschody słońca nad wydmami malują niebo w odcieniach pomarańczu i fioletu, tworząc niezapomniane widoki. Odwiedzający mogą również podziwiać starożytne petroglify i malowidła naskalne, świadczące o dawnej obecności ludzi na tych terenach, co dodaje głębi temu doświadczeniu."
+  ],
+  "highlights": [
+    {
+      "name": "Wielbłądzia karawana",
+      "text": "Przejażdżka na wielbłądach to klasyczne doświadczenie Sahary, pozwalające poczuć rytm pustyni i tradycyjny sposób podróżowania."
+    },
+    {
+      "name": "Nocleg pod gwiazdami",
+      "text": "Spędzenie nocy w tradycyjnym obozie na pustyni, z dala od świateł miasta, oferuje spektakularne widoki rozgwieżdżonego nieba."
+    },
+    {
+      "name": "Oaza Djanet",
+      "text": "Jedna z najbardziej malowniczych oaz, będąca bramą do Parku Narodowego Tassili n'Ajjer, znanego z formacji skalnych i sztuki naskalnej."
+    },
+    {
+      "name": "Wspinaczka na wydmy",
+      "text": "Zdobywanie najwyższych wydm, takich jak te w okolicach Timimoun, nagradza panoramicznymi widokami na bezkresny krajobraz pustyni."
+    },
+    {
+      "name": "Sztuka naskalna Tassili n'Ajjer",
+      "text": "W Parku Narodowym Tassili n'Ajjer można podziwiać tysiące prehistorycznych malowideł i rycin, świadczących o dawnej, bujniejszej florze i faunie regionu."
+    }
+  ],
+  "visitTime": "W zależności od wybranej trasy i aktywności, wycieczka na Saharę może trwać od 2-3 dni do tygodnia lub dłużej. Same przejażdżki na wielbłądach to kilka godzin.",
+  "bestTime": "Najlepszy czas na odwiedzenie algierskiej Sahary to okres od października do kwietnia, kiedy temperatury są bardziej umiarkowane. Unikaj lata, gdy upały są ekstremalne. Wschody i zachody słońca to idealne pory dnia na podziwianie krajobrazów.",
+  "gettingThere": "Dostęp do algierskiej Sahary jest możliwy głównie przez lotniska w większych miastach pustynnych, takich jak Djanet, Tamanrasset czy Ghardaia. Z tych miejsc organizowane są wycieczki z przewodnikiem, często z transportem terenowym 4x4. Podróżowanie na własną rękę po pustyni jest niewskazane i często wymaga specjalnych zezwoleń.",
+  "tickets": "Nie ma jednego biletu wstępu na Saharę, ale konieczne jest wykupienie zorganizowanej wycieczki z lokalnym biurem podróży. Cena zależy od długości, standardu i zakresu usług. Zaleca się rezerwację z wyprzedzeniem, szczególnie w sezonie. Wycieczki z przewodnikiem są obowiązkowe ze względów bezpieczeństwa i logistyki.",
+  "tips": [
+    "Pamiętaj o odpowiednim nawodnieniu - zabierz ze sobą dużo wody.",
+    "Ubierz się warstwowo, w lekkie, przewiewne ubrania chroniące przed słońcem w dzień i chłodem w nocy.",
+    "Zabierz kapelusz z szerokim rondem, okulary przeciwsłoneczne i krem z wysokim filtrem UV.",
+    "Wybierz wygodne, zakryte buty, które ochronią stopy przed piaskiem i kamieniami.",
+    "Zawsze podróżuj z doświadczonym lokalnym przewodnikiem.",
+    "Szanuj lokalne zwyczaje i kulturę, szczególnie podczas odwiedzin w oazach i wioskach."
+  ],
+  "faq": [
+    {
+      "q": "Czy podróż na Saharę w Algierii jest bezpieczna?",
+      "a": "Podróżowanie po algierskiej Saharze jest generalnie bezpieczne, jeśli odbywa się w ramach zorganizowanej wycieczki z licencjonowanym biurem podróży i doświadczonym przewodnikiem. Niektóre obszary mogą wymagać specjalnych zezwoleń."
+    },
+    {
+      "q": "Ile kosztuje wycieczka na Saharę?",
+      "a": "Koszt wycieczki na Saharę jest bardzo zróżnicowany i zależy od długości pobytu, standardu zakwaterowania, liczby osób i zakresu usług. Ceny zaczynają się od kilkuset euro za krótkie wycieczki i mogą sięgać kilku tysięcy za dłuższe ekspedycje."
+    },
+    {
+      "q": "Co zabrać ze sobą na pustynię?",
+      "a": "Należy zabrać lekkie, przewiewne ubrania, nakrycie głowy, okulary przeciwsłoneczne, krem z filtrem, wygodne buty, dużą ilość wody, podstawowe leki, aparat fotograficzny i power bank. Warto mieć też chustę chroniącą przed piaskiem."
+    },
+    {
+      "q": "Czy na Saharze jest zasięg telefoniczny i internet?",
+      "a": "Zasięg telefoniczny i internetowy jest bardzo ograniczony na większości obszarów pustyni. W większych miastach i oazach można znaleźć dostęp do sieci, ale na otwartych przestrzeniach należy liczyć się z jego brakiem."
+    }
+  ],
+  "gygQuery": "Algerian Sahara desert tour",
+  "forWhom": "Sahara to idealne miejsce dla poszukiwaczy przygód, miłośników natury, fotografów oraz osób pragnących doświadczyć autentycznej kultury pustynnej. Jest to również doskonała opcja dla tych, którzy szukają ucieczki od zgiełku cywilizacji.",
+  "history": "Sahara, największa gorąca pustynia świata, formowała się przez miliony lat w wyniku procesów geologicznych i klimatycznych. Kiedyś była to zielona kraina z rzekami i jeziorami, zamieszkiwana przez różnorodne zwierzęta i ludzi, o czym świadczą liczne malowidła naskalne. Zmiany klimatyczne doprowadziły do jej obecnego, suchego charakteru, ale wciąż pozostaje świadectwem potęgi natury i historii ludzkości.",
+  "gygTourId": 508952
+}
