@@ -7,8 +7,7 @@ import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MO
 import OffersWidget from '@/components/OffersWidget';
 import SelfTravel from '@/components/SelfTravel';
 import { HotelsView, CarsView } from '@/components/StayCarViews';
-import OffersBrowser from '@/components/OffersBrowser';
-import EximOffers from '@/components/EximOffers';
+import OfferSearch from '@/components/OfferSearch';
 import { eximCount } from '@/lib/exim';
 import type { Country, Region } from '@/lib/types';
 import CountryHero from '@/components/CountryHero';
@@ -217,9 +216,8 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
           <article className="prose">
             {sub === 'oferty' && (
               <>
-                {eximCount(c.slug) > 0 && <EximOffers slug={c.slug} loc={ct.loc} />}
-                {wakacjeCountryId(c.slug) && <OffersBrowser countryId={wakacjeCountryId(c.slug)!} wakacjePath={ct.wakacjePath || c.slug} loc={ct.loc} />}
-                <p className="muted" style={{ fontSize: '0.88rem' }}>Ceny dotyczą jednej osoby i zawierają przelot, zakwaterowanie oraz wyżywienie podane w ofercie. Liczbę osób i pokoje wybierasz na wakacje.pl po kliknięciu w ofertę.</p>
+                {(eximCount(c.slug) > 0 || wakacjeCountryId(c.slug)) && <OfferSearch slug={c.slug} countryId={wakacjeCountryId(c.slug) ?? undefined} wakacjePath={ct.wakacjePath || c.slug} loc={ct.loc} />}
+                <p className="muted" style={{ fontSize: '0.88rem' }}>Ceny dotyczą jednej osoby i zawierają przelot, zakwaterowanie oraz wyżywienie podane w ofercie. Liczbę osób i pokoje wybierasz u biura podróży po kliknięciu w ofertę.</p>
                 <p><a href={wakacjeUrl(ct.wakacjePath || c.slug)} target="_blank" rel="sponsored nofollow noopener">Wszystkie oferty wakacji {ct.loc} na wakacje.pl</a></p>
                 {ct.bestTime && (
                   <>
