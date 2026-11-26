@@ -1,9 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import { matchHotel, normName } from './hotelmatch';
 
 // Karty hoteli: content/hotels/<slug>.json (generator: scripts/generate-hotels.mjs)
 export type Hotel = {
-  id: number; slug: string; name: string; country: string; place: string[]; stars: number; photo: string | null;
+  id: number | string; slug: string; name: string; country: string; place: string[]; stars: number; photo: string | null;
   city: string; area?: string; address?: string;
   beachDistanceM?: number | null; beachType?: string; privateBeach?: boolean | null;
   airportName?: string; airportKm?: number | null; centerKm?: number | null;
@@ -17,6 +18,8 @@ export type Hotel = {
 };
 
 export const HOTEL_IMG = 'https://i.wakacje.pl';
+/** Adres zdjęcia: z wakacje.pl (ścieżka) albo pełny adres (Exim) */
+export const hotelImg = (p?: string | null) => (!p ? '' : p.startsWith('http') ? p : HOTEL_IMG + p);
 const dir = path.join(process.cwd(), 'content', 'hotels');
 let cache: Hotel[] | null = null;
 
@@ -44,3 +47,26 @@ export function nearbyHotels(h: Hotel, n = 6): Hotel[] {
 export const distLabel = (m?: number | null) => (m == null ? '' : m < 1000 ? `${Math.round(m / 10) * 10} m` : `${(m / 1000).toFixed(1).replace('.', ',')} km`);
 /** "150 m od plaży" albo "przy plaży" */
 export const beachLabel = (m?: number | null) => (m == null ? '' : m <= 30 ? 'przy plaży' : `${distLabel(m)} od plaży`);
+
+// ---- Exim: oferty dopasowane do kart hoteli po nazwie i miejscu ----
+export type EximOffer = { id: string; n: string; c: string; r: string; s: number; d: string; dd: string; rd: string; nn: number; b: string; a: number; k: number; p: number; img: string; u: string };
+const eximCache = new Map<string, EximOffer[]>();
+export function eximOffers(country: string): EximOffer[] {
+  if (eximCache.has(country)) return eximCache.get(country)!;
+  const f = path.join(process.cwd(), 'public', 'exim', `${country}.json`);
+  let l: EximOffer[] = [];
+  try { l = fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : []; } catch { l = []; }
+  eximCache.set(country, l);
+  return l;
+}
+const hotelPlaces = (h: Hotel) => [h.city, h.area || '', ...h.place.slice(1)].filter(Boolean);
+/** Karta hotelu dla oferty Exim (lub undefined) */
+export function hotelForExim(country: string, o: Pick<EximOffer, 'n' | 'c' | 'r'>): Hotel | undefined {
+  return hotelsOf(country).find((h) => (typeof h.id === 'string' && h.id === eximHotelId(country, o.n)) || matchHotel(o.n, [o.c, o.r], h.name, hotelPlaces(h)));
+}
+export const eximHotelId = (country: string, name: string) => `x:${country}:${normName(name)}`;
+/** Oferty Exim dla danego hotelu, przyszłe terminy */
+export function eximOffersFor(h: Hotel): EximOffer[] {
+  const today = new Date().toISOString().slice(0, 10);
+  return eximOffers(h.country).filter((o) => o.dd >= today && hotelForExim(h.country, o)?.slug === h.slug).sort((a, b) => a.p - b.p);
+}

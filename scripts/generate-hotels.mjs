@@ -6,6 +6,7 @@
 // Wymaga GEMINI_API_KEY (poza --index-only).
 import fs from 'fs';
 import path from 'path';
+import { matchHotel, normName } from './hotelmatch.mjs';
 
 const args = process.argv.slice(2);
 const arg = (k, d) => { const i = args.indexOf('--' + k); return i >= 0 ? (args[i + 1] && !args[i + 1].startsWith('--') ? args[i + 1] : true) : d; };
@@ -60,6 +61,33 @@ for (const [slug, id] of countries) {
   await sleep(150);
 }
 for (const h of seenNow.values()) index[h.id] = { ...index[h.id], ...h, seen: new Date().toISOString().slice(0, 10) };
+
+// hotele, które są tylko w ofertach Exim (public/exim/<kraj>.json), dostają własne wpisy "x:kraj:nazwa"
+const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l').replace(/\(.*?\)/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const usedSlugs = new Set(Object.values(index).map((h) => h.slug));
+let eximNew = 0;
+const exDir = 'public/exim';
+for (const f of fs.existsSync(exDir) ? fs.readdirSync(exDir).filter((x) => x.endsWith('.json') && x !== 'index.json') : []) {
+  const country = f.slice(0, -5);
+  if (ONLY && !ONLY.includes(country)) continue;
+  let cName = country;
+  try { cName = JSON.parse(fs.readFileSync(`content/countries/${country}.json`, 'utf8')).name || country; } catch { /* brak przewodnika */ }
+  const wk = Object.values(index).filter((h) => h.country === country && typeof h.id === 'number');
+  const today = new Date().toISOString().slice(0, 10);
+  for (const o of JSON.parse(fs.readFileSync(path.join(exDir, f), 'utf8'))) {
+    if (!o.n || o.dd < today) continue;
+    const key = `x:${country}:${normName(o.n)}`;
+    if (index[key]) { index[key].offers++; continue; }
+    if (wk.some((h) => matchHotel(o.n, [o.c, o.r], h.name, h.place.slice(1)))) continue;
+    let slug = slugify(o.n);
+    if (usedSlugs.has(slug)) slug = `${slug}-${slugify(o.c || country)}`;
+    if (usedSlugs.has(slug)) continue;
+    usedSlugs.add(slug);
+    index[key] = { id: key, slug, name: o.n, country, place: [cName, o.r, o.c].filter((x, i, a) => x && a.indexOf(x) === i), stars: o.s || 0, photo: o.img || null, rating: 0, recommends: 0, offers: 1, minPrice: 0, src: 'exim', seen: today };
+    eximNew++;
+  }
+}
+console.log('Nowe hotele tylko z Exim:', eximNew);
 fs.writeFileSync(indexFile, JSON.stringify(index));
 console.log('Hoteli w indeksie:', Object.keys(index).length, '(teraz w ofertach:', seenNow.size, ')');
 if (INDEX_ONLY) process.exit(0);

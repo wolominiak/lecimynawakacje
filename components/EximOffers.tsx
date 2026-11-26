@@ -1,5 +1,7 @@
 'use client';
 import { useEffect, useMemo, useState } from 'react';
+import { useHotelPages } from './useHotelPages';
+import { normName } from '@/lib/hotelmatch';
 
 // Oferty Exim Tours z feedu TradeDoublera (public/exim/<kraj>.json, aktualizowane codziennie).
 // Każda oferta ma konkretny termin, więc filtr dat działa tutaj, na stronie.
@@ -23,6 +25,7 @@ const dmy = (d: string) => d.slice(8, 10) + '.' + d.slice(5, 7) + '.' + d.slice(
 const ofert = (n: number) => (n === 1 ? 'oferta' : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? 'oferty' : 'ofert');
 
 export default function EximOffers({ slug, loc }: { slug: string; loc: string }) {
+  const hp = useHotelPages();
   const [all, setAll] = useState<O[] | null>(null);
   const [from, setFrom] = useState('');
   const [to, setTo] = useState('');
@@ -105,7 +108,7 @@ export default function EximOffers({ slug, loc }: { slug: string; loc: string })
             const people = o.a + o.k;
             return (
               <li key={o.id}>
-                <a className="ob-card" href={'/go/exim/?u=' + encodeURIComponent(o.u)} target="_blank" rel="sponsored nofollow noopener">
+                <a className="ob-card" {...(hp[`x:${slug}:${normName(o.n)}`] ? { href: `/hotel/${hp[`x:${slug}:${normName(o.n)}`]}/` } : { href: '/go/exim/?u=' + encodeURIComponent(o.u), target: '_blank', rel: 'sponsored nofollow noopener' })}>
                   <div className="ob-img">
                     {o.img && <img src={o.img} alt={o.n} loading="lazy" />}
                     {o.lm && <span className="ob-promo hot">Last minute</span>}

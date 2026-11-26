@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { seo, pick } from '@/lib/seo';
 import { getCountry } from '@/lib/data';
-import { allHotels, getHotel, hotelUrl, nearbyHotels, distLabel, beachLabel, HOTEL_IMG, type Hotel } from '@/lib/hotels';
+import { allHotels, getHotel, hotelUrl, nearbyHotels, distLabel, beachLabel, hotelImg, eximOffersFor, type Hotel } from '@/lib/hotels';
 import Crumbs from '@/components/Crumbs';
 import Faq from '@/components/Faq';
 import HotelTerms from '@/components/HotelTerms';
@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
     title: pick(`${h.name}${stars}, ${where(h)}: opis, opinie, ceny`, `${h.name}${stars}, ${where(h)}: opis i ceny`, `${h.name}: opis i ceny`, h.name),
     description: `${h.name}${stars} (${where(h)}): położenie${h.beachDistanceM != null ? `, ${beachLabel(h.beachDistanceM)}` : ''}, pokoje, wyżywienie, baseny, zalety i wady. Aktualne terminy i ceny wczasów.`,
     path: hotelUrl(h.slug),
-    image: h.photo ? HOTEL_IMG + h.photo : undefined,
+    image: h.photo ? hotelImg(h.photo) : undefined,
   });
 }
 
@@ -39,12 +39,13 @@ export default async function Page({ params }: P) {
   if (!h) notFound();
   const c = getCountry(h.country);
   const near = nearbyHotels(h);
+  const exim = eximOffersFor(h);
   const yes = (v?: boolean | null) => (v ? true : null);
   const bbox = h.geo ? [h.geo.lon - 0.02, h.geo.lat - 0.012, h.geo.lon + 0.02, h.geo.lat + 0.012].map((x) => x.toFixed(5)).join('%2C') : '';
 
   const ld = {
     '@context': 'https://schema.org', '@type': 'Hotel', name: h.name, description: h.intro[0],
-    ...(h.photo ? { image: HOTEL_IMG + h.photo } : {}),
+    ...(h.photo ? { image: hotelImg(h.photo) } : {}),
     address: { '@type': 'PostalAddress', addressLocality: h.city || h.place.at(-1), addressCountry: h.place[0], ...(h.address ? { streetAddress: h.address } : {}) },
     ...(h.geo ? { geo: { '@type': 'GeoCoordinates', latitude: h.geo.lat, longitude: h.geo.lon } } : {}),
     ...(h.stars ? { starRating: { '@type': 'Rating', ratingValue: h.stars } } : {}),
@@ -62,7 +63,7 @@ export default async function Page({ params }: P) {
             { name: h.name },
           ]} />
           <div className="hh">
-            {h.photo && <img className="hh-img" src={HOTEL_IMG + h.photo} alt={h.name} />}
+            {h.photo && <img className="hh-img" src={hotelImg(h.photo)} alt={h.name} />}
             <div className="hh-body">
               {!!h.stars && <span className="ob-stars" aria-label={`Standard ${h.stars} gwiazdki`}>{'★'.repeat(Math.round(h.stars))}</span>}
               <h1>{h.name}</h1>
@@ -103,7 +104,27 @@ export default async function Page({ params }: P) {
             </div>
 
             <h2 id="terminy">Terminy i ceny: {h.name}</h2>
-            <HotelTerms id={h.id} name={h.name} />
+            {typeof h.id === 'number' && <HotelTerms id={h.id} name={h.name} />}
+            {exim.length > 0 && (
+              <>
+                {typeof h.id === 'number' && <h3>Terminy w Exim Tours</h3>}
+                <ul className="ht-list">
+                  {exim.slice(0, 15).map((o) => {
+                    const pp = Math.round(o.p / Math.max(1, (o.a || 0) + (o.k || 0)));
+                    return (
+                      <li key={o.id}>
+                        <div className="ht-when"><b>{o.dd.split('-').reverse().join('.')}</b><small>{o.nn} nocy</small></div>
+                        <div className="ht-what"><span>{o.b}</span><small>Wylot: {o.d}</small></div>
+                        <div className="ht-price"><b>{pp.toLocaleString('pl-PL')} zł</b><small>za osobę</small></div>
+                        <a className="btn btn-sm" href={'/go/exim/?u=' + encodeURIComponent(o.u)} target="_blank" rel="sponsored nofollow noopener">Zarezerwuj</a>
+                      </li>
+                    );
+                  })}
+                </ul>
+                <p className="ft-note">Oferty Exim Tours, ceny za osobę (cena pakietu podzielona przez liczbę osób w ofercie), aktualizacja codziennie.</p>
+              </>
+            )}
+            {typeof h.id !== 'number' && exim.length === 0 && <div className="notice">Teraz brak wolnych terminów w tym hotelu. Zobacz podobne hotele w okolicy poniżej.</div>}
 
             {h.sections.map((s) => (
               <section key={s.title}>
@@ -155,7 +176,7 @@ export default async function Page({ params }: P) {
                 <div className="hn">
                   {near.map((x) => (
                     <a key={x.slug} className="hn-card" href={hotelUrl(x.slug)}>
-                      {x.photo && <img src={HOTEL_IMG + x.photo} alt={x.name} loading="lazy" />}
+                      {x.photo && <img src={hotelImg(x.photo)} alt={x.name} loading="lazy" />}
                       <span>{!!x.stars && <i>{'★'.repeat(Math.round(x.stars))}</i>}<b>{x.name}</b><small>{x.city || x.place.at(-1)}</small></span>
                     </a>
                   ))}
