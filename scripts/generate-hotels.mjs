@@ -46,7 +46,10 @@ async function offers(terms) {
 const countries = Object.entries(ids).filter(([slug, id]) => id !== 521 && (!ONLY || ONLY.includes(slug)));
 const seenNow = new Map();
 for (const [slug, id] of countries) {
-  const lists = await Promise.all([offers({ countries: [id] }), offers({ countries: [id], service: [1] }), offers({ countries: [id], searchType: 'lastminute' })]);
+  // wiele różnych zapytań, bo API zwraca maks. 100 ofert naraz, a każde zapytanie daje trochę inną pulę hoteli
+  const variants = [{}, { service: [1] }, { service: [2] }, { service: [3] }, { service: [4] }, { searchType: 'lastminute' }, { searchType: 'firstminute' },
+    { maxPrice: 2000 }, { maxPrice: 3000 }, { maxPrice: 4500 }, { maxPrice: 7000 }, { service: [1], maxPrice: 3500 }, { service: [1], searchType: 'lastminute' }];
+  const lists = await Promise.all(variants.map((v) => offers({ countries: [id], ...v })));
   for (const o of lists.flat()) {
     if (!o.hotelId || !o.hotelUrlName || /objazd/i.test(o.placeName?.[1] || '') || o.placeName?.[0] === 'Polska') continue;
     const cur = seenNow.get(o.hotelId) || {
