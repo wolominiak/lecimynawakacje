@@ -33,17 +33,24 @@ const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').
 const airports = await fetch(`${API}/data/en/airports.json`).then((r) => r.json());
 const cityOf = new Map(airports.map((a) => [a.code, a.city_code || a.code]));
 
+// Polskie nazwy miast, gdy w przewodniku jest nazwa lotniska
+const CITY_PL = { ROM: 'Rzym', MIL: 'Mediolan', BTS: 'Bratysława', TIA: 'Tirana', LON: 'Londyn', PAR: 'Paryż', TNR: 'Antananarywa', BUH: 'Bukareszt', LIS: 'Lizbona', ATH: 'Ateny', VIE: 'Wiedeń', PRG: 'Praga', BCN: 'Barcelona', NAP: 'Neapol', VCE: 'Wenecja', FLR: 'Florencja', TRS: 'Triest', NYC: 'Nowy Jork', TYO: 'Tokio', BKK: 'Bangkok', CPH: 'Kopenhaga', STO: 'Sztokholm', BER: 'Berlin', MUC: 'Monachium', BRU: 'Bruksela', GVA: 'Genewa', CAI: 'Kair', IST: 'Stambuł', LCA: 'Larnaka', SOF: 'Sofia', BEG: 'Belgrad', HEL: 'Helsinki', DUB: 'Dublin', EDI: 'Edynburg', REK: 'Reykjavik', MOW: 'Moskwa', IEV: 'Kijów', SEL: 'Seul', BJS: 'Pekin', DXB: 'Dubaj', AUH: 'Abu Zabi', DPS: 'Bali', HKT: 'Phuket', MLE: 'Male', ZNZ: 'Zanzibar' };
+
 // 2. Kierunki z przewodników: pole "airport" regionów, np. "Heraklion (HER) lub Chania (CHQ)"
 const dests = new Map(); // kod miasta -> { d, name, country, region }
 const dir = 'content/countries';
-for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.json'))) {
-  const c = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+// popularniejsze kraje pierwsze: Rzym (ROM) ma należeć do Włoch, nie do Watykanu
+const files = fs.readdirSync(dir).filter((x) => x.endsWith('.json'))
+  .map((f) => ({ f, c: JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')) }))
+  .sort((a, b) => (b.c.popularity || 0) - (a.c.popularity || 0));
+for (const { f, c } of files) {
   const slug = c.slug || f.replace(/\.json$/, '');
   for (const r of c.regions || []) {
     for (const m of (r.airport || '').matchAll(/([^,();]+?)\s*\(([A-Z]{3})\)/g)) {
       const city = cityOf.get(m[2]) || m[2];
       if (city === 'WAW' || dests.has(city)) continue;
-      let label = m[1].replace(/^(lub|i|oraz)\s+/i, '').replace(/^lotnisko\s+/i, '').trim();
+      let label = m[1].trim().replace(/^[\/|+&.:;\s]+/, '').replace(/^(lub|i|oraz|albo)\s+/i, '').replace(/^lotnisko\s+/i, '').trim();
+      if (CITY_PL[city]) label = CITY_PL[city];
       if (/airport|international|lotnisko|port lotniczy/i.test(label) || label.length > 28) label = r.name;
       dests.set(city, { d: city, name: label, country: slug, region: r.slug });
     }
