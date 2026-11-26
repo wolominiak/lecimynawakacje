@@ -1,0 +1,137 @@
+{
+ "id": 44882,
+ "slug": "pickalbatros-water-valley-resort-neverland",
+ "name": "Pickalbatros Water Valley Resort Neverland",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Hurghada"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/pickalbatros-water-valley-resort-neverland-aquapark-teren-hotelu-1824099814-570-428.jpg",
+ "city": "Hurghada",
+ "intro": [
+  "Pickalbatros Water Valley Resort Neverland to pięciogwiazdkowy obiekt położony w południowej części Hurghady, w Egipcie, będący częścią rozległego kompleksu Neverland City. Hotel, otwarty we wrześniu 2022 roku, charakteryzuje się nowoczesnością i bogatą infrastrukturą, skupioną wokół atrakcji wodnych.",
+  "Obiekt jest idealnym wyborem dla rodzin z dziećmi, aktywnych podróżników oraz miłośników wodnych rozrywek, oferując przestronne zakwaterowanie i szeroki wachlarz udogodnień, w tym dostęp do jednego z największych aquaparków w regionie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się około 900 metrów od prywatnej, piaszczystej plaży hotelowej, do której regularnie kursuje bezpłatny bus. Zejście do morza jest piaszczysto-żwirowe, a na plaży dostępny jest pomost. Na plaży i przy basenach goście mogą korzystać z bezpłatnych leżaków, parasoli i ręczników."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje przestronne pokoje, takie jak Premium Family Room (120 m²), Family Superior Room (120 m²) i Duplex Room (110 m²). Wszystkie pokoje są klimatyzowane i wyposażone w dwie sypialnie, pokój dzienny, minibar, telewizor SAT LCD, dwie łazienki, sejf oraz balkon lub taras."
+  },
+  {
+   "title": "Baseny i aquapark",
+   "text": "Na terenie obiektu znajduje się 8 odkrytych basenów, w tym 2 podgrzewane sezonowo. Goście mają bezpłatny i nielimitowany dostęp do Neverland Aqua Park, największego aquaparku w Egipcie, oferującego ponad 40 zjeżdżalni. Dla dzieci przygotowano wodne place zabaw i 3 brodziki, w tym jeden ze statkiem pirackim."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje licznymi restauracjami (6-9) serwującymi kuchnie międzynarodową, marokańską, niemiecką, azjatycką, włoską i indyjską. Koncepcja \"dine-around\" umożliwia korzystanie z wybranych restauracji i barów w sąsiednich hotelach. Pakiet All Inclusive obejmuje śniadania, obiady, kolacje, przekąski, lody oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano mini klub (4-12 lat), wodne place zabaw, brodziki ze zjeżdżalniami oraz bogaty program animacji dziennych i wieczornych. Dostępne są również bezpłatne łóżeczka dla dzieci."
+  },
+  {
+   "title": "Sport i rekreacja",
+   "text": "Hotel oferuje siłownię, aerobik, rzutki, boisko wielofunkcyjne, siatkówkę, tenis stołowy, mini golfa oraz dwa korty tenisowe. Centrum spa zapewnia płatne masaże, saunę, jacuzzi i zabiegi kosmetyczne. Bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  }
+ ],
+ "pros": [
+  "Bardzo duży aquapark i bogaty wybór basenów",
+  "Przestronne apartamenty rodzinne",
+  "Liczne atrakcje i animacje dla dzieci",
+  "Możliwość korzystania z restauracji i barów sąsiednich hoteli",
+  "Podgrzewane baseny zimą"
+ ],
+ "cons": [
+  "Plaża oddalona od budynków hotelowych, wymaga dojazdu busem",
+  "Brak rafy koralowej bezpośrednio przy plaży hotelowej",
+  "Potencjalne zatłoczenie w szczycie sezonu w restauracjach i aquaparku",
+  "Sporadyczne uwagi o powtarzalności posiłków"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się około 900 metrów od hotelu. Do plaży regularnie kursuje bezpłatny bus hotelowy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel posiada duży aquapark z ponad 40 zjeżdżalniami, będący częścią Neverland Aqua Park, największego aquaparku w Egipcie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując mini klub, wodne place zabaw, brodziki i bogaty program animacji."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska w Hurghadzie (HRG) wynosi około 13 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Ile restauracji znajduje się w hotelu?",
+   "a": "Hotel dysponuje 6-9 restauracjami serwującymi różnorodne kuchnie."
+  }
+ ],
+ "address": "Safaga Road, P.O. Box 606, Hurghada, Red Sea, Egipt",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Hurghada (HRG)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Mini golf",
+  "Siatkówka",
+  "Tenis stołowy",
+  "Rzutki",
+  "Boisko wielofunkcyjne"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "południowa część Hurghady, część kompleksu Neverland City",
+ "bars": 5,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysta, piaszczysto-żwirowe zejście do morza",
+ "centerKm": 17,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Aktywne rodziny",
+  "Miłośnicy wodnych atrakcji",
+  "Osoby szukające rozrywki"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2022,
+ "pools": 8,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": 6,
+ "roomTypes": [
+  "Premium Family Room (120 m², dwie sypialnie, pokój dzienny, klimatyzacja, minibar, telefon, telewizor SAT LCD, dwie łazienki z WC, suszarka do włosów, zestaw kosmetyków, sejf, balkon/taras)",
+  "Family Superior Room (120 m², dwie sypialnie, pokój dzienny, klimatyzacja, minibar, telefon, telewizor SAT LCD, dwie łazienki z WC, suszarka do włosów, zestaw kosmetyków, sejf, balkon/taras)",
+  "Duplex Room (110 m², dwie sypialnie, pokój dzienny, klimatyzacja, minibar, telefon, telewizor SAT LCD, dwie łazienki z WC, suszarka do włosów, zestaw kosmetyków, sejf, balkon/taras)"
+ ],
+ "rooms": 214,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "goegipt.pl",
+  "1atravel.rs",
+  "pickalbatros.com",
+  "coraltravel.pl",
+  "trivago.com",
+  "trivago.pl",
+  "wakacje.pl",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-26"
+}

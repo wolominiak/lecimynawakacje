@@ -1,0 +1,135 @@
+{
+ "id": 271647,
+ "slug": "baron-cairo",
+ "name": "Baron Cairo",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Kair"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001743078-570-428.jpg",
+ "city": "Kair",
+ "intro": [
+  "Hotel Baron Cairo to czterogwiazdkowy obiekt położony w dzielnicy Heliopolis, w sercu Kairu. Hotel oferuje komfortowe zakwaterowanie w nowoczesnym budynku, z widokiem na zabytkowy Pałac Barona Empaina. Jest to idealne miejsce zarówno dla podróżujących służbowo, jak i turystów pragnących połączyć zwiedzanie miasta z relaksem.",
+  "Obiekt jest przyjazny rodzinom, oferując szereg udogodnień i usług, które zapewnią przyjemny pobyt. Położenie w pobliżu międzynarodowego lotniska w Kairze oraz centrum miasta sprawia, że jest to dogodna baza wypadowa do odkrywania uroków stolicy Egiptu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Baron Cairo znajduje się w dzielnicy Heliopolis w Kairze, oferując dogodny dostęp do głównych atrakcji miasta. W bezpośrednim sąsiedztwie hotelu znajduje się Pałac Barona Empaina, który można podziwiać z niektórych pokoi i restauracji. Odległość od międzynarodowego lotniska w Kairze wynosi około 7-12 km, a do centrum miasta około 8-12 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 126 pokojami, które zostały odnowione w 2020 roku. Pokoje są klimatyzowane i przestronne, wyposażone w telewizor z płaskim ekranem, minibar, zestaw do parzenia kawy/herbaty oraz bezpłatne WiFi. W łazienkach znajdują się prysznic, bidet, suszarka do włosów, szlafroki i kapcie. Dostępne są pokoje typu Superior, Deluxe z widokiem na pałac oraz apartamenty Executive."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu Baron Cairo znajdują się trzy restauracje i bary. Goście mogą delektować się elegancką restauracją z panoramicznym widokiem na Pałac Barona Empaina, spróbować kuchni meksykańskiej w restauracji Terrace lub skosztować francuskich wypieków w cukierni Baron Pastry Shop. Dodatkowo dostępne są bar El Pacha, bar przy basenie oraz dyskoteka Churchill z wieczorną rozrywką."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen, w tym basen na dachu, idealny do relaksu i podziwiania widoków. Na terenie obiektu znajduje się również centrum fitness/siłownia, a także kompleksowe centrum spa i odnowy biologicznej. W spa goście mogą korzystać z sauny, łaźni parowej, łaźni tureckiej, masaży i zabiegów kosmetycznych."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne WiFi w pokojach i przestrzeniach publicznych. Dostępny jest 24-godzinny room service. Hotel oferuje również usługi opieki nad dziećmi na zapytanie. Wieczorami organizowane są rozrywki i muzyka w dyskotece Churchill."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja w dzielnicy Heliopolis",
+  "Bliskość Pałacu Barona Empaina",
+  "Dobre udogodnienia, w tym basen na dachu i spa",
+  "Pomocny i przyjazny personel",
+  "Bogate śniadania"
+ ],
+ "cons": [
+  "Brak plaży (hotel miejski)",
+  "Brak pakietu all inclusive",
+  "Niektóre łazienki mogą wymagać odświeżenia",
+  "Małe rozmiary niektórych pokoi",
+  "Wolna obsługa w niektórych przypadkach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Baron Cairo znajduje się około 7-12 km od międzynarodowego lotniska w Kairze (CAI)."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel dysponuje odkrytym basenem, w tym basenem na dachu."
+  },
+  {
+   "q": "Czy hotel jest przyjazny dzieciom?",
+   "a": "Tak, hotel jest określany jako przyjazny dzieciom, a usługi opieki nad dziećmi są dostępne na zapytanie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne WiFi w pokojach i w przestrzeniach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Brak informacji o pakiecie all inclusive. Śniadania w formie bufetu są dostępne za dodatkową opłatą."
+  },
+  {
+   "q": "Jak daleko jest hotel od centrum Kairu?",
+   "a": "Hotel znajduje się około 8-12 km od centrum Kairu."
+  }
+ ],
+ "address": "Ma'ahad Al Sahary Street, Heliopolis, P.O Box 2531, Kair, Egipt",
+ "adultsOnly": false,
+ "airportKm": 7.24,
+ "airportName": "Cairo International Airport",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Basen na dachu",
+  "Room service 24h",
+  "Cukiernia",
+  "Dyskoteka"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Heliopolis",
+ "bars": 3,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 8.2,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1980,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2020,
+ "restaurants": 3,
+ "roomTypes": [
+  "Superior Double or Twin Room",
+  "Deluxe Room z widokiem na Pałac Barona",
+  "Executive Suite z widokiem na Pałac Barona"
+ ],
+ "rooms": 126,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 30.08603,
+  "lon": 31.33152,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "google.com.jm",
+  "com-cairo.com",
+  "travelweekly.com",
+  "hotels.com",
+  "mapy.com",
+  "baronhotels.com",
+  "trip.com"
+ ],
+ "updated": "2026-11-26"
+}
