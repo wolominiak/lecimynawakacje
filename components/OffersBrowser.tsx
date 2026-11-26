@@ -1,4 +1,5 @@
 'use client';
+import { useHotelPages } from './useHotelPages';
 import { useEffect, useMemo, useState } from 'react';
 
 // Lista ofert wakacje.pl (TravelLead) z filtrami, na stronie kraju.
@@ -10,6 +11,7 @@ const API = 'https://widget.wakacje.pl/v2/api/widgets/offers';
 const IMG = 'https://i.wakacje.pl';
 
 type Offer = {
+  hotelId?: number;
   id: number;
   name: string;
   price: string;
@@ -50,6 +52,7 @@ const fmtDate = (d: string) => d.slice(8, 10) + '.' + d.slice(5, 7);
 const fmtPrice = (n: number) => n.toLocaleString('pl-PL');
 
 export default function OffersBrowser({ countryId, wakacjePath, loc }: { countryId: number; wakacjePath: string; loc: string }) {
+  const hp = useHotelPages();
   const [service, setService] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
   const [region, setRegion] = useState('');
@@ -187,7 +190,7 @@ export default function OffersBrowser({ countryId, wakacjePath, loc }: { country
               const old = num(o.priceOld);
               return (
                 <li key={o.id}>
-                  <a className="ob-card" href={'/go/oferta/?u=' + encodeURIComponent(o.url)} target="_blank" rel="sponsored nofollow noopener">
+                  <a className="ob-card" {...(hp[o.hotelId ?? 0] ? { href: `/hotel/${hp[o.hotelId ?? 0]}/` } : { href: '/go/oferta/?u=' + encodeURIComponent(o.url), target: '_blank', rel: 'sponsored nofollow noopener' })}>
                     <div className="ob-img">
                       {o.photo && <img src={IMG + o.photo} alt={o.name} loading="lazy" />}
                       {o.promos?.[0] && PROMO[o.promos[0]] && <span className="ob-promo">{PROMO[o.promos[0]]}</span>}

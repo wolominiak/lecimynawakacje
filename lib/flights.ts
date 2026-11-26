@@ -9,8 +9,8 @@ export type FlightRoute = {
   monthDates?: Record<string, [string, string | null]>;
 };
 
-const ROUTES = (data as { updated: string | null; routes: Record<string, FlightRoute> }).routes || {};
-export const FLIGHTS_UPDATED = (data as { updated: string | null }).updated;
+const ROUTES = (data as unknown as { updated: string | null; routes: Record<string, FlightRoute> }).routes || {};
+export const FLIGHTS_UPDATED = (data as unknown as { updated: string | null }).updated;
 
 export const allRoutes = () => Object.entries(ROUTES).map(([slug, r]) => ({ slug, ...r }));
 export type Route = ReturnType<typeof allRoutes>[number];

@@ -1,0 +1,54 @@
+# Karty hoteli: lista hoteli z ofert wakacje.pl i własne opisy z publicznych faktów (Gemini + Google, OpenStreetMap).
+# Co 4 godziny dorabia kolejne brakujące karty. Wymaga sekretu GEMINI_API_KEY.
+name: Generuj hotele
+
+on:
+  schedule:
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Ile hoteli w jednym przebiegu'
+        default: '60'
+      only:
+        description: 'Tylko te kraje (np. egipt,turcja), puste = wszystkie'
+        default: ''
+      force:
+        description: 'Nadpisz istniejące karty (true/false)'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-hotels
+  cancel-in-progress: false
+
+jobs:
+  hotels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Generuj
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS="--limit ${{ inputs.limit || '60' }}"
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          node scripts/generate-hotels.mjs $ARGS
+      - name: Commit i push
+        run: |
+          git config user.name "wolominiak"
+          git config user.email "228559845+wolominiak@users.noreply.github.com"
+          git add content/hotels data/hotels-index.json
+          if git diff --cached --quiet; then echo "Nic nowego"; exit 0; fi
+          git commit -m "Nowe karty hoteli"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 5; done
+          exit 1

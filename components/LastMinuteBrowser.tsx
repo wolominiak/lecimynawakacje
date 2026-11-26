@@ -1,4 +1,5 @@
 'use client';
+import { useHotelPages } from './useHotelPages';
 import { useEffect, useMemo, useState } from 'react';
 
 // Last minute: oferty z wylotem w najbliższych tygodniach (API widgetu TravelLead, searchType "lastminute").
@@ -8,6 +9,7 @@ const API = 'https://widget.wakacje.pl/v2/api/widgets/offers';
 const IMG = 'https://i.wakacje.pl';
 
 type Offer = {
+  hotelId?: number;
   transport?: { label: string; value: number };
   id: number; name: string; price: string; priceOld: string; priceDiscount: number; duration: number;
   departureDate: string; returnDate: string; category: number;
@@ -92,6 +94,7 @@ async function load(terms: Record<string, unknown>, cfg: DealCfg): Promise<Offer
 }
 
 export default function LastMinuteBrowser({ countries, initialCountry = '', cfg = LM_CFG, globalPool = true }: { countries: LmCountry[]; initialCountry?: string; cfg?: DealCfg; globalPool?: boolean }) {
+  const hp = useHotelPages();
   const lm = cfg.mode === 'lastminute';
   const [month, setMonth] = useState('');
   const [pool, setPool] = useState<Offer[] | null>(null);
@@ -278,7 +281,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
               const d = daysTo(o.departureDate);
               return (
                 <li key={o.id}>
-                  <a className="ob-card" href={`/go/oferta/?c=${cfg.cmp}&u=` + encodeURIComponent(o.url)} target="_blank" rel="sponsored nofollow noopener">
+                  <a className="ob-card" {...(hp[o.hotelId ?? 0] ? { href: `/hotel/${hp[o.hotelId ?? 0]}/` } : { href: `/go/oferta/?c=${cfg.cmp}&u=` + encodeURIComponent(o.url), target: '_blank', rel: 'sponsored nofollow noopener' })}>
                     <div className="ob-img">
                       {o.photo && <img src={IMG + o.photo} alt={o.name} loading="lazy" />}
                       {lm || d <= 14
