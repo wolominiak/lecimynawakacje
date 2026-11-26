@@ -186,9 +186,12 @@ async function geocode(h, city) {
   return null;
 }
 
+// najpierw najpopularniejsze kierunki Polaków, potem reszta
+const TOP = ['egipt', 'turcja', 'grecja', 'hiszpania', 'tunezja', 'bulgaria', 'albania', 'cypr', 'chorwacja', 'wlochy', 'portugalia', 'czarnogora', 'maroko', 'zjednoczone-emiraty-arabskie', 'malta', 'tajlandia', 'dominikana', 'meksyk', 'tanzania', 'kuba'];
+const prio = (h) => { const i = TOP.indexOf(h.country); return i < 0 ? 99 : i; };
 const todo = Object.values(index)
   .filter((h) => (!ONLY || ONLY.includes(h.country)) && !h.failed && (FORCE || !fs.existsSync(path.join(OUT, `${h.slug}.json`))))
-  .sort((a, b) => b.offers - a.offers || b.rating - a.rating)
+  .sort((a, b) => prio(a) - prio(b) || b.offers - a.offers || b.rating - a.rating)
   .slice(0, LIMIT);
 console.log('Do opisania:', todo.length);
 
