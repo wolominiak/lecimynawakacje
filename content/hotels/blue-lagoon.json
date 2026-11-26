@@ -1,0 +1,139 @@
+{
+ "id": 261105,
+ "slug": "blue-lagoon",
+ "name": "Blue Lagoon",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Marsa El Alam"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/blue-lagoon-basen-teren-hotelu-1765089531-570-428.jpg",
+ "city": "Marsa Alam",
+ "intro": [
+  "TH Blue Lagoon to czterogwiazdkowy hotel położony bezpośrednio przy prywatnej plaży, około 20 km na południe od Marsa Alam. Obiekt charakteryzuje się rozległym terenem z zadbanymi ogrodami, oferując spokojny wypoczynek z dostępem do morskich atrakcji.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz miłośników snorkelingu, którzy cenią sobie bliskość rafy koralowej i możliwość podziwiania podwodnego świata. To idealne miejsce dla osób szukających aktywnego, ale jednocześnie relaksującego pobytu w Egipcie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel TH Blue Lagoon znajduje się około 1,5 km od centrum Marsa Alam i 85-86 km od międzynarodowego lotniska Marsa Alam (RMF). Położony jest bezpośrednio przy prywatnej, piaszczystej plaży z łagodnym zejściem do morza. Dno morskie zawiera fragmenty koralowe, a rafa znajduje się około 500 m od brzegu, co sprzyja snorkelingowi."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 176 pokojami, w tym typami dwuosobowymi, trzyosobowymi, czteroosobowymi oraz pokojami Superior z widokiem na ogród, basen lub morze. Wszystkie pokoje są klimatyzowane i wyposażone w balkon, minibar, telewizor z płaskim ekranem, sejf, suszarkę do włosów oraz prywatną łazienkę z wanną lub prysznicem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się dwa odkryte baseny, z których jeden jest czynny przez cały rok. Hotel oferuje również dostęp do aquaparku. Goście mogą korzystać z centrum spa z jacuzzi, sauną i siłownią. Prowadzone są animacje, głównie w języku włoskim."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, np. Dolphin Restaurant, oraz trzy bary/lounge. Pakiet all inclusive obejmuje posiłki i napoje na terenie obiektu, a codziennie serwowane jest bezpłatne śniadanie w formie bufetu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości dostępny jest mini klub, zapewniający rozrywkę i zajęcia. Hotel nie jest wyłącznie dla dorosłych, co czyni go odpowiednim wyborem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Dobre warunki do snorkelingu przy rafie koralowej",
+  "Smaczne jedzenie i pomocny personel",
+  "Zadbany kompleks hotelowy z krótkimi odległościami między obiektami",
+  "Dostępne spa, siłownia i aquapark"
+ ],
+ "cons": [
+  "Długi transfer z lotniska (ok. 85-86 km)",
+  "Animacje prowadzone głównie w języku włoskim",
+  "Starszy standard części pokoi i łazienek",
+  "Brak promenady czy szerokiego wyboru restauracji poza resortem w odległości spaceru"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy prywatnej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska Marsa Alam (RMF) wynosi około 85-86 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel posiada aquapark. Należy jednak potwierdzić zasady korzystania."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin, w tym mini klub dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w miejscach publicznych."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża jest w dużej części piaszczysta, z łagodnym zejściem do morza. Dno morskie zawiera fragmenty koralowe."
+  }
+ ],
+ "address": "Halayeb We Shalateen Rd, Marsa Alam, Red Sea Governorate 1923115, Egipt",
+ "adultsOnly": false,
+ "airportKm": 85,
+ "airportName": "Marsa Alam (RMF)",
+ "amenities": [
+  "jacuzzi",
+  "sauna",
+  "centrum fitness",
+  "bezpłatne kosmetyki",
+  "woda butelkowana"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 1.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy snorkelingu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój trzyosobowy",
+  "pokój czteroosobowy",
+  "Standard Twin",
+  "Superior Queen",
+  "Standard z widokiem na ogród",
+  "Superior z widokiem na basen",
+  "Superior z widokiem na morze",
+  "Superior Quadruple dwupokojowe"
+ ],
+ "rooms": 176,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.337241,
+  "lon": 25.0552981,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "goegipt.pl",
+  "google.com",
+  "booking.com",
+  "hoteles.com",
+  "myhotels.sa",
+  "trip.com",
+  "hotelsmarsaalam.com"
+ ],
+ "updated": "2026-11-26"
+}
