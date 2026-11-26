@@ -788,3 +788,4 @@ p { margin: 0 0 1em; }
 .fl-m small { font-size: 0.75rem; color: var(--ink-3); }
 .fl-hub { margin-top: 28px; }
 .fl-hub h3 { margin: 18px 0 8px; }
+.prose .ft-card h2 { font-size: 1.3rem; margin-bottom: 14px; }
