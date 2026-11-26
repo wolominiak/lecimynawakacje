@@ -1,0 +1,135 @@
+{
+ "id": 6373,
+ "slug": "sindbad-club",
+ "name": "Sindbad Club",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Hurghada"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/sindbad-club-aquapark-60190554-570-428.jpg",
+ "city": "Hurghada",
+ "intro": [
+  "Sindbad Club to czterogwiazdkowy hotel położony w turystycznej dzielnicy Al Mamsha El Seyahi w Hurghadzie, nad Morzem Czerwonym. Obiekt, otwarty w 2007 roku i odnowiony w 2020, oferuje kompleksową infrastrukturę dla rodzin z dziećmi, par oraz osób szukających zarówno relaksu, jak i aktywnego wypoczynku.",
+  "Hotel wyróżnia się dużym aquaparkiem, różnorodnymi basenami oraz bogatą ofertą gastronomiczną i rozrywkową. Bliskość prywatnej, piaszczystej plaży oraz dogodna lokalizacja pomiędzy lotniskiem a centrum miasta sprawiają, że jest to popularny wybór na wakacje w Egipcie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sindbad Club znajduje się w Hurghadzie, w dzielnicy Al Mamsha El Seyahi, około 5 km od lotniska i 4.3 km od centrum miasta. Prywatna, piaszczysta plaża jest oddalona o 350-400 metrów od lobby, co stanowi krótki spacer. Na plaży dostępne są bezpłatne leżaki, parasole i ręczniki plażowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 731 pokojami, w tym standardowymi, rodzinnymi, typu Wellness Rooms, Junior Suites i Executive Suites. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, sejf, suszarkę do włosów, prywatną łazienkę oraz balkon lub taras. W pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu all inclusive goście mają dostęp do 5 restauracji: dwóch bufetowych (Gusto i Botanica) oraz trzech à la carte (włoska Pronto Italian, azjatycka Sawatdi i śródziemnomorska Fakhr El Din). Hotel oferuje również 9 barów, w tym bary przy basenach i na plaży. Pakiet obejmuje śniadania, obiady, kolacje, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się 6 basenów, w tym basen dla dzieci ze zjeżdżalniami. Cztery z basenów zewnętrznych są podgrzewane w sezonie zimowym (listopad-marzec). Goście mają bezpłatny dostęp do dużego aquaparku z 15 zjeżdżalniami (7 dla dorosłych, 8 dla dzieci) oraz basenu z falami. Dostępne są również korty tenisowe, siłownia, bilard, tenis stołowy oraz szeroka oferta sportów wodnych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen ze zjeżdżalniami, plac zabaw"
+  }
+ ],
+ "pros": [
+  "Duży aquapark z wieloma zjeżdżalniami",
+  "Różnorodność restauracji i dobre jedzenie",
+  "Przyjazny personel",
+  "Bogaty program animacyjny",
+  "Prywatna piaszczysta plaża",
+  "Dobra lokalizacja blisko lotniska i promenady",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Hałas w niektórych pokojach (np. z widokiem na jadalnię)",
+  "Długa droga do pokoju, jeśli jest daleko od wind",
+  "Dodatkowe opłaty za niektóre usługi spa",
+  "Wspominana niższa jakość obsługi pokoju lub śniadań w niektórych opiniach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Prywatna, piaszczysta plaża znajduje się około 350-400 metrów od lobby hotelowego, co odpowiada 3-5 minutom spaceru."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel ma duży aquapark z 15 zjeżdżalniami (7 dla dorosłych i 8 dla dzieci) oraz basenem z falami, do którego goście mają bezpłatny dostęp."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując basen ze zjeżdżalniami, plac zabaw"
+  }
+ ],
+ "address": "1 Mohamed Said Street, Village Road, Hurghada, Red Sea, Egypt",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Międzynarodowy Port Lotniczy Hurghada (HRG)",
+ "amenities": [
+  "Recepcja 24h",
+  "Usługi pralnicze (płatne)",
+  "Kantor wymiany walut",
+  "Sklepy",
+  "Opieka medyczna (na życzenie, płatna)",
+  "Parking"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Al Mamsha El Seyahi",
+ "bars": 9,
+ "beachDistanceM": 350,
+ "beachType": "Piaszczysta",
+ "centerKm": 4.3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu",
+  "Osoby szukające aktywnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2007,
+ "pools": 6,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 5,
+ "roomTypes": [
+  "Standard",
+  "Rodzinny",
+  "Wellness Rooms",
+  "Junior Suites",
+  "Executive Suites",
+  "Dla osób niepełnosprawnych",
+  "Deluxe",
+  "Superior",
+  "Premium",
+  "Quadruple",
+  "Triple",
+  "Double",
+  "Twin/Double"
+ ],
+ "rooms": 731,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.1893094,
+  "lon": 33.8313398,
+  "src": "osm"
+ },
+ "sources": [
+  "sindbadclub.nl",
+  "expedia.com",
+  "hotelhurghada.net",
+  "directbooking.ro",
+  "fibula.co.rs",
+  "trip.com",
+  "google.com.ng",
+  "tui.co.uk"
+ ],
+ "updated": "2026-11-26"
+}

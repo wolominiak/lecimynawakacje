@@ -1,0 +1,137 @@
+{
+ "id": 6654,
+ "slug": "uni-sharm-ex-karma",
+ "name": "Uni Sharm (ex. Karma)",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Sharm el Sheikh"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/uni-sharm-ex-karma-basen-1774104492-570-428.jpg",
+ "city": "Sharm el Sheikh",
+ "intro": [
+  "Hotel Uni Sharm (ex. Karma), znany również jako Uni Sharm Aqua Park, to trzygwiazdkowy obiekt położony w dzielnicy Hadaba w Sharm el Sheikh. Jest to miejsce odpowiednie dla rodzin, par i przyjaciół, którzy szukają relaksu i aktywnego wypoczynku.",
+  "Hotel oferuje dostęp do prywatnej plaży, aquaparku oraz szereg udogodnień dla dzieci i dorosłych. Jego lokalizacja umożliwia łatwy dostęp do lokalnych atrakcji, takich jak centra handlowe i Stary Rynek, a także zapewnia bezpłatny transport do popularnej zatoki Naama Bay."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w dzielnicy Hadaba, niedaleko centrów handlowych Il Mercato (200-311 m) i kompleksu rozrywkowego Alf Leila Wa Leila. Prywatna plaża hotelowa oddalona jest o kilkaset metrów, a dojazd zapewnia bezpłatny bus wahadłowy. W okolicy plaży panują dobre warunki do snorkelingu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Pokoje są klimatyzowane i posiadają balkon, minibar, telewizor z płaskim ekranem oraz łazienkę z prysznicem. Dostępne są pokoje standardowe, rodzinne i luksusowe apartamenty z widokiem na ogród lub basen. Niektóre opinie wskazują na starsze meble."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje restauracją bufetową i à la carte, barem oraz barem z przekąskami przy basenie. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, a także wybrane lokalne napoje bezalkoholowe i alkoholowe serwowane w godzinach 10:00-22:00. Należy pamiętać, że All Inclusive nie obejmuje wielu napojów, w tym piwa, wina, importowanych alkoholi oraz obsługi w barze na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen, w tym jeden podgrzewany w zimie, oraz basen dla dzieci. Aquapark oferuje 4 zjeżdżalnie dla dorosłych i 6 dla dzieci. Hotel zapewnia również centrum fitness, kort tenisowy, siatkówkę plażową i różnorodne sporty wodne. Wieczorami organizowane są programy rozrywkowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości dostępny jest basen dla dzieci, w pełni wyposażony mini klub oraz plac zabaw. Aquapark z 6 zjeżdżalniami dla dzieci stanowi dodatkową atrakcję, zapewniając rozrywkę dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Dobry stosunek jakości do ceny",
+  "Miła i pomocna obsługa",
+  "Aquapark z atrakcjami dla dzieci i dorosłych",
+  "Dostęp do prywatnej plaży z bezpłatnym transferem",
+  "Dogodna lokalizacja blisko centrów handlowych i Starego Rynku"
+ ],
+ "cons": [
+  "Podstawowe śniadania",
+  "Stare meble w niektórych pokojach",
+  "Ograniczony zakres All Inclusive",
+  "Brak Wi-Fi w pokojach (według niektórych opinii)",
+  "Odległość od plaży wymaga transferu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Prywatna plaża hotelowa oddalona jest o kilkaset metrów. Hotel zapewnia bezpłatny bus wahadłowy na plażę."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel ma aquapark z 4 zjeżdżalniami dla dorosłych i 6 dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje basen dla dzieci, mini klub, plac zabaw i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowe lotnisko Sharm El Sheikh (SSH) znajduje się około 20-22 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne, jednak niektóre źródła wskazują, że może być płatne w pokojach lub tylko w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje transfer do centrum?",
+   "a": "Tak, hotel zapewnia bezpłatny transfer do Naama Bay, która jest oddalona o około 8-11 km."
+  }
+ ],
+ "address": "El Fanar Street, Sharm El-Sheikh, Egipt",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Sharm El Sheikh (SSH)",
+ "amenities": [
+  "klimatyzacja",
+  "minibar",
+  "telewizor z płaskim ekranem",
+  "czajnik elektryczny",
+  "prywatna łazienka z prysznicem",
+  "szafa"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Hadaba",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "prywatna",
+ "centerKm": 8,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające relaksu",
+  "młodzi ludzie",
+  "przyjaciele"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój rodzinny",
+  "luksusowy apartament"
+ ],
+ "rooms": null,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.8620474,
+  "lon": 34.3121306,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "travelplanet.pl",
+  "youtube.com",
+  "almosafer.com",
+  "blogspot.com",
+  "wikimapia.org",
+  "airpaz.com",
+  "laterooms.com"
+ ],
+ "updated": "2026-11-26"
+}
