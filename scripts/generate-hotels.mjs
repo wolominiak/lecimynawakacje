@@ -197,19 +197,21 @@ ${facts}`;
   return clean(parseLoose(j.candidates?.[0]?.content?.parts?.map((p) => p.text).join('') || '{}'));
 }
 
-// współrzędne z OpenStreetMap (limit 1 zapytanie na sekundę)
+// współrzędne z OpenStreetMap (limit 1 zapytanie na sekundę, wspólna kolejka dla wszystkich wątków)
+let osmQueue = Promise.resolve();
+const osmSlot = () => { const p = osmQueue.then(() => sleep(1100)); osmQueue = p; return p; };
 async function geocode(h, city) {
   const country = h.place[0];
   const base = h.name.replace(/\(.*?\)/g, '').replace(/\b(ex|dawniej)\b.*$/i, '').trim();
   for (const q of [`${base}, ${city || h.place.at(-1)}, ${country}`, `${base}, ${country}`, `${base} hotel`]) {
     try {
+      await osmSlot();
       const r = await fetch(`https://nominatim.openstreetmap.org/search?format=json&limit=1&accept-language=pl&q=${encodeURIComponent(q)}`, {
         headers: { 'User-Agent': 'lecimynawakacje.pl hotel pages (kontakt: lecimynawakacje.pl)' },
       });
       const j = await r.json();
-      await sleep(1100);
       if (j[0] && /hotel|tourism|resort|guest|apartment|building/i.test(`${j[0].type} ${j[0].class} ${j[0].display_name}`)) return { lat: +j[0].lat, lon: +j[0].lon, src: 'osm' };
-    } catch { await sleep(1100); }
+    } catch { /* następna próba */ }
   }
   return null;
 }
@@ -223,15 +225,15 @@ const todo = Object.values(index)
   .slice(0, LIMIT);
 console.log('Do opisania:', todo.length);
 
+// praca równoległa: CONC hoteli naraz (płatne Gemini ma wysokie limity zapytań na minutę)
+const CONC = Number(process.env.HOTEL_CONC || 6);
 let ok = 0;
-for (const h of todo) {
+async function one(h) {
   try {
     const r = await research(h);
-    await sleep(6500);
-    if (!r.text || /NIE ZNALEZIONO/.test(r.text) || r.text.length < 300) { index[h.id].failed = true; console.log('pomijam (brak danych):', h.name); continue; }
+    if (!r.text || /NIE ZNALEZIONO/.test(r.text) || r.text.length < 300) { index[h.id].failed = true; console.log('pomijam (brak danych):', h.name); return; }
     const d = await write(h, r.text);
-    await sleep(6500);
-    if (!d.found || !Array.isArray(d.intro) || d.intro.join(' ').length < 300) { index[h.id].failed = true; console.log('pomijam (niepewne):', h.name); continue; }
+    if (!d.found || !Array.isArray(d.intro) || d.intro.join(' ').length < 300) { index[h.id].failed = true; console.log('pomijam (niepewne):', h.name); return; }
     const webGeo = typeof d.lat === 'number' && typeof d.lon === 'number' && Math.abs(d.lat) <= 90 && Math.abs(d.lon) <= 180 && (d.lat !== 0 || d.lon !== 0) ? { lat: d.lat, lon: d.lon, src: 'web' } : null;
     const geo = await geocode(h, d.city) || webGeo;
     const out = {
@@ -247,5 +249,10 @@ for (const h of todo) {
     await sleep(5000);
   }
 }
+
+let next = 0;
+await Promise.all(Array.from({ length: Math.min(CONC, todo.length) }, async () => {
+  while (next < todo.length) await one(todo[next++]);
+}));
 fs.writeFileSync(indexFile, JSON.stringify(index));
 console.log('Gotowe, nowych kart:', ok);

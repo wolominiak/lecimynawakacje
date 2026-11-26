@@ -1,10 +1,10 @@
 # Karty hoteli: lista hoteli z ofert wakacje.pl i własne opisy z publicznych faktów (Gemini + Google, OpenStreetMap).
-# Co 2 godziny dorabia kolejne brakujące karty. Wymaga sekretu GEMINI_API_KEY.
+# Co godzinę dorabia kolejne brakujące karty. Wymaga sekretu GEMINI_API_KEY.
 name: Generuj hotele
 
 on:
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
     inputs:
       limit:
@@ -27,7 +27,7 @@ concurrency:
 jobs:
   hotels:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v5
         with:
@@ -38,6 +38,7 @@ jobs:
       - name: Generuj
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          HOTEL_CONC: '6'
         run: |
           ARGS="--limit ${{ inputs.limit || '60' }}"
           if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
