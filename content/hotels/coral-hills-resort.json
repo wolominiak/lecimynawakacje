@@ -1,0 +1,143 @@
+{
+ "id": 15047,
+ "slug": "coral-hills-resort",
+ "name": "Coral Hills Resort",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Sharm el Sheikh",
+  "Sharm El Sheikh"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/coral-hills-resort-pool-bar-basen-187754-570-428.jpg",
+ "city": "Sharm El Sheikh",
+ "intro": [
+  "Coral Hills Resort to trzygwiazdkowy obiekt położony w egipskim Sharm El Sheikh, w malowniczej dzielnicy El Hadaba, na klifie Um El Sid. Hotel oferuje spokojny wypoczynek w otoczeniu zadbanego ogrodu, stanowiąc dobrą bazę wypadową do odkrywania uroków regionu.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz miłośników nurkowania i snorkelingu, dzięki bliskości raf koralowych. Zapewnia komfortowe zakwaterowanie i szereg udogodnień, które sprzyjają zarówno aktywnemu, jak i relaksującemu urlopowi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w dzielnicy El Hadaba, około 1,5 km od plaży. Do wyznaczonej strefy hotelowej na publicznej plaży, charakteryzującej się łagodnym wejściem do wody i bliskością raf koralowych, kursuje bezpłatny autobus wahadłowy. Na plaży dostępne są leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Coral Hills Resort dysponuje 131 pokojami, w tym standardowymi, rodzinnymi, apartamentami i willami. Wszystkie pokoje wyposażone są w klimatyzację, łazienkę, telewizor z telewizją satelitarną, minibar, sejf oraz balkon lub taras. Niektóre pokoje posiadają kuchnię, a wiele z nich oferuje widok na basen."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny, w tym jeden relaksacyjny z jacuzzi, oraz dedykowany basen dla dzieci. Goście mogą korzystać z centrum spa z sauną i jacuzzi, siłowni oraz zagrać w bilard, tenis stołowy czy rzutki. Hotel oferuje również programy rozrywkowe i aktywny zespół animatorów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu serwuje posiłki w formie bufetu, oferując dania kuchni międzynarodowej i lokalnej. Dodatkowo dostępna jest restauracja z pizzą. Na terenie obiektu znajdują się również bar przy basenie i bar w lobby, serwujące wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano dedykowany basen, plac zabaw oraz mini klub dla dzieci w wieku od 4 do 12 lat. Hotel jest przyjazny rodzinom i oferuje animacje dostosowane do różnych grup wiekowych."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje i baseny",
+  "Urozmaicone posiłki w formie bufetu",
+  "Aktywny zespół animatorów",
+  "Bezpłatny transfer na plażę",
+  "Centrum nurkowe na miejscu"
+ ],
+ "cons": [
+  "Odległość od plaży (1,5 km)",
+  "Hotel jest starszy i wymaga odświeżenia",
+  "Brak windy",
+  "Niektóre udogodnienia mogą być sezonowe lub płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 1,5 km od plaży. Zapewniony jest bezpłatny autobus wahadłowy do wyznaczonej strefy hotelowej na publicznej plaży."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu. Dostępne są dwa baseny odkryte oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak basen dla dzieci, plac zabaw i mini klub dla dzieci w wieku od 4 do 12 lat."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska Sharm El Sheikh (SSH) wynosi około 20-25 km, co zajmuje około 20-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w miejscach publicznych. Wi-Fi w pokojach może być płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest przyjazny rodzinom i oferuje udogodnienia dla dzieci."
+  }
+ ],
+ "address": "El-Forosia Street, Sharm el-Sheikh, Egipt, 46619, South Sinai",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Sharm El Sheikh (SSH)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard",
+  "Tenis stołowy",
+  "Rzutki",
+  "Łucznictwo",
+  "Zajęcia fitness",
+  "Joga",
+  "Snorkeling",
+  "Centrum nurkowe"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "El Hadaba, klif Um El Sid",
+ "bars": 2,
+ "beachDistanceM": 1500,
+ "beachType": "publiczna, piaszczysta z rafami koralowymi",
+ "centerKm": 2.3,
+ "goodFor": [
+  "Rodziny z małymi dziećmi",
+  "Pary",
+  "Nurkowie",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1996,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój standardowy (jednoosobowy, dwuosobowy/twin, trzyosobowy)",
+  "Pokój rodzinny",
+  "Apartament rodzinny",
+  "Willa deluxe",
+  "Pokój budżetowy"
+ ],
+ "rooms": 131,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.8645618,
+  "lon": 34.3093791,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "com-sharmelsheikh.com",
+  "ohotel.uk",
+  "sharmelsheikhhotels.org",
+  "hoteles.com",
+  "loveholidays.com",
+  "expedia.co.uk",
+  "trivago.com"
+ ],
+ "updated": "2026-11-26"
+}

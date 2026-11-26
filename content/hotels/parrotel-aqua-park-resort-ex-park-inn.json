@@ -1,0 +1,143 @@
+{
+ "id": 10196,
+ "slug": "parrotel-aqua-park-resort-ex-park-inn",
+ "name": "Parrotel Aqua Park Resort (ex. Park Inn)",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Sharm el Sheikh"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/parrotel-aqua-park-resort-ex-park-inn-basen-teren-hotelu-826105867-570-428.jpg",
+ "city": "Sharm el Sheikh",
+ "intro": [
+  "Parrotel Aqua Park Resort (ex. Park Inn) to czterogwiazdkowy hotel położony w dzielnicy Nabq Bay w Sharm el Sheikh, na drugiej linii brzegowej. Obiekt, otwarty w 2002 lub 2005 roku i częściowo odnawiany, oferuje rozległy teren o powierzchni 25 000 m² z licznymi atrakcjami.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par oraz grup szukających aktywnego wypoczynku. Dzięki bogatej ofercie rekreacyjnej, w tym dużemu aquaparkowi i programom animacyjnym, każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w chronionym obszarze Nabq Bay, około 600 metrów od prywatnej plaży siostrzanego hotelu Parrotel Beach Resort. Na plażę, która jest skalista z rafą koralową, kursuje bezpłatny autobus wahadłowy. Leżaki i ręczniki są dostępne zarówno na plaży, jak i przy basenach."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 401 klimatyzowanymi pokojami i apartamentami, w tym pokojami Standard, Superior, Family oraz Junior Suite. Wszystkie pokoje wyposażone są w balkon lub taras, telewizję satelitarną, minibar, sejf, telefon i suszarkę do włosów. Pokoje rodzinne i Junior Suity oferują większą przestrzeń."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje aquapark z 25 zjeżdżalniami (9 dla dorosłych, 16 dla dzieci), basenem ze sztuczną falą i leniwą rzeką. Do dyspozycji gości jest 7 odkrytych basenów dla dorosłych (w tym podgrzewane) oraz oddzielny basen dla dzieci. Hotel zapewnia codzienne animacje i wieczorne pokazy rozrywkowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu all inclusive hotel oferuje śniadania, obiady i kolacje w formie bufetu w restauracji Cascades, a także przekąski i podwieczorek. Dostępne są 2 lub 3 restauracje oraz 4 lub 5 barów, serwujących lokalne napoje alkoholowe i bezalkoholowe od 10:00 do północy lub zachodu słońca."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz mini klub dla dzieci do 12 lat, działający codziennie. Hotel jest przyjazny rodzinom i oferuje liczne atrakcje, które zapewnią rozrywkę dzieciom w każdym wieku."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel posiada siłownię/centrum fitness oraz spa z łaźniami tureckimi, saunami, jacuzzi i gabinetami masażu. Goście mogą korzystać z kortu tenisowego (płatny), siatkówki, tenisa stołowego i innych aktywności. Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "pros": [
+  "Duży aquapark z wieloma zjeżdżalniami",
+  "Liczne baseny, w tym podgrzewane",
+  "Dostęp do prywatnej plaży z transportem",
+  "Udogodnienia dla rodzin z dziećmi",
+  "Różnorodne jedzenie i animacje"
+ ],
+ "cons": [
+  "Starsze meble i wystrój w niektórych pokojach",
+  "Brak wind w trzypiętrowych budynkach",
+  "Głośne wieczorne animacje",
+  "Skalista plaża",
+  "Wi-Fi ograniczone do miejsc publicznych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od plaży o około 600 metrów. Na plażę kursuje bezpłatny autobus wahadłowy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel posiada duży aquapark z 25 zjeżdżalniami (9 dla dorosłych i 16 dla dzieci), basenem ze sztuczną falą i leniwą rzeką."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferuje mini klub, brodzik, plac zabaw i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowe lotnisko Sharm el Sheikh (SSH) znajduje się około 9-10 km od hotelu, co zajmuje 10-15 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, takich jak lobby, bar Lotus i baseny aquaparku."
+  },
+  {
+   "q": "Czy plaża jest piaszczysta?",
+   "a": "Plaża hotelowa jest skalista, z rafą koralową."
+  }
+ ],
+ "address": "Qesm Sharm Ash Sheikh, South Sinai Governorate",
+ "adultsOnly": false,
+ "airportKm": 9.5,
+ "airportName": "Sharm el Sheikh (SSH)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "kort tenisowy",
+  "siatkówka",
+  "tenis stołowy",
+  "rzutki",
+  "aerobik",
+  "piłka wodna"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Nabq Bay",
+ "bars": 5,
+ "beachDistanceM": 600,
+ "beachType": "skalista z rafą koralową",
+ "centerKm": 20,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy szukające aktywnego wypoczynku",
+  "aktywna młodzież"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2002,
+ "pools": 8,
+ "privateBeach": true,
+ "renovated": 2011,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standard Room",
+  "Superior Room",
+  "Family Room (72 m²)",
+  "Junior Suite (85 m² z oddzielną częścią wypoczynkową)"
+ ],
+ "rooms": 401,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0254973,
+  "lon": 34.4338712,
+  "src": "osm"
+ },
+ "sources": [
+  "broadwaytravel.com",
+  "agoda.com",
+  "hoteles.com",
+  "trivago.com",
+  "coral.ge",
+  "waze.com",
+  "thomascook.com",
+  "yellowpages.com.eg"
+ ],
+ "updated": "2026-11-26"
+}

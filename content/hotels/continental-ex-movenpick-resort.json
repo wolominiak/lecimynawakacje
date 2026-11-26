@@ -1,0 +1,147 @@
+{
+ "id": 9713,
+ "slug": "continental-ex-movenpick-resort",
+ "name": "Continental (ex Movenpick Resort)",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Hurghada"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/continental-ex-movenpick-resort-teren-hotelu-1478554404-570-428.jpg",
+ "city": "Hurghada",
+ "intro": [
+  "Hotel Continental (dawniej Movenpick Resort) to pięciogwiazdkowy obiekt położony bezpośrednio nad Morzem Czerwonym w Hurghadzie, w popularnej dzielnicy Al Mamsha El Seyahi. Oferuje prywatną, piaszczystą plażę z mariną oraz rozległe tereny zielone o powierzchni 13,5 hektara.",
+  "To idealne miejsce dla rodzin z dziećmi, par oraz osób aktywnych, ceniących sobie wypoczynek w komfortowych warunkach. Bliskość lotniska i promenady Village Road to dodatkowe atuty, zapewniające wygodę i dostęp do lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Continental znajduje się w Hurghadzie, w dzielnicy Al Mamsha El Seyahi, zaledwie 5-8 km od lotniska. Położony jest bezpośrednio przy prywatnej, piaszczystej plaży z łagodnym zejściem do morza. Do dyspozycji gości są bezpłatne leżaki, parasole i ręczniki. Obok plaży funkcjonuje marina, a strefa pływania jest wyznaczona bojami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 252 pokojami, rozmieszczonymi w pięciopiętrowym budynku głównym oraz sześciu dwupiętrowych willach. Pokoje są klimatyzowane i wyposażone w łazienkę, TV satelitarną, sejf, minibar (uzupełniany wodą) oraz zestaw do parzenia kawy i herbaty. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna Palm's Brasserie oraz dwie restauracje à la carte: włoska Al Dente i grill Marina Grill House. Dostępnych jest również kilka barów, w tym bar przy basenie, na plaży i lobby bar. Pakiet All Inclusive obejmuje śniadania, obiady, kolacje, przekąski, lody oraz wybrane napoje lokalne od 10:00 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje co najmniej jeden duży basen zewnętrzny, podgrzewany zimą, oraz brodzik dla dzieci. Na terenie obiektu dostępne są codzienne animacje, wieczorne pokazy i muzyka na żywo. Goście mogą korzystać z siłowni, tenisa stołowego, minigolfa, squasha, siatkówki i kortu tenisowego. Centrum Spa oferuje saunę, łaźnię parową, jacuzzi i masaże."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano wydzielony brodzik, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Hotel jest przyjazny rodzinom i oferuje animacje dostosowane do potrzeb dzieci."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Duży basen główny podgrzewany zimą",
+  "Krótki transfer z lotniska",
+  "Przestronne pokoje z Wi-Fi",
+  "Dobre jedzenie i zadbane tereny zielone"
+ ],
+ "cons": [
+  "Brak silnej rafy koralowej przy plaży",
+  "Brak dużego aquaparku",
+  "Ograniczona strefa pływania na plaży",
+  "Dodatkowe opłaty za niektóre napoje i usługi",
+  "Część pokoi może wymagać odświeżenia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy prywatnej, piaszczystej plaży z łagodnym zejściem do morza."
+  },
+  {
+   "q": "Czy hotel ma aquapark?",
+   "a": "Hotel nie posiada dużego aquaparku, ale oferuje brodzik dla dzieci i basen zewnętrzny."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest położony około 5-8 km od Międzynarodowego Portu Lotniczego Hurghada (HRG), co oznacza około 10 minut jazdy."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje mini klub dla dzieci, brodzik, plac zabaw oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego resortu oraz w pokojach."
+  },
+  {
+   "q": "Co obejmuje pakiet All Inclusive?",
+   "a": "Pakiet All Inclusive obejmuje śniadania, obiady, kolacje w formie bufetu, gorące napoje, wybrane herbaty, kawę, napoje bezalkoholowe i lokalne napoje alkoholowe od 10:00 do 23:00, a także przekąski i lody w ciągu dnia."
+  }
+ ],
+ "address": "El Fareek Youssef Affifi Street, Village Road, 84511 Hurghada",
+ "adultsOnly": false,
+ "airportKm": 6.5,
+ "airportName": "Międzynarodowy Port Lotniczy Hurghada (HRG)",
+ "amenities": [
+  "prywatna plaża",
+  "marina",
+  "podgrzewany basen",
+  "mini klub dla dzieci",
+  "siłownia",
+  "Spa",
+  "kort tenisowy",
+  "minigolf",
+  "squash",
+  "siatkówka",
+  "boisko do piłki nożnej",
+  "rzutki",
+  "boccia",
+  "centrum nurkowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Al Mamsha El Seyahi (Village Road)",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 11.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby aktywne",
+  "nurkowie"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1994,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Classic Room (z częściowym lub pełnym widokiem na morze)",
+  "Deluxe Room (z widokiem na morze)",
+  "Family Room (z bocznym widokiem na morze lub częściowym widokiem na morze)",
+  "Junior Suite",
+  "Apartamenty",
+  "Wille z prywatnym basenem"
+ ],
+ "rooms": 252,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.1612591,
+  "lon": 33.8273898,
+  "src": "osm"
+ },
+ "sources": [
+  "goegipt.pl",
+  "hotelhurghada.net",
+  "coraltravel.pl",
+  "travelweekly.com",
+  "com-hurghada.com",
+  "booking.com",
+  "continental-hurghada.com",
+  "mapy.com"
+ ],
+ "updated": "2026-11-26"
+}

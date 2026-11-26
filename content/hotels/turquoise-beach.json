@@ -1,0 +1,141 @@
+{
+ "id": 4637,
+ "slug": "turquoise-beach",
+ "name": "Turquoise Beach",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Sharm el Sheikh",
+  "Sharm El Sheikh"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/turquoise-beach-basen-obiekt-1858507971-570-428.jpg",
+ "city": "Sharm El Sheikh",
+ "intro": [
+  "Hotel Turquoise Beach to kameralny obiekt położony w egipskiej miejscowości Sharm El Sheikh, w dzielnicy Hadaba, bezpośrednio przy prywatnej, piaszczystej plaży. Zlokalizowany w zatoce Sharm El Maya, jest idealnym miejscem dla osób szukających relaksu nad morzem oraz bliskości lokalnych atrakcji.",
+  "Obiekt polecany jest zarówno dla par, jak i rodzin z dziećmi, a także dla miłośników nurkowania, ze względu na dogodne położenie w popularnej zatoce. Oferuje połączenie wypoczynku na plaży z możliwością poznawania lokalnej kultury i korzystania z licznych aktywności wodnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Turquoise Beach znajduje się w Sharm El Sheikh, w dzielnicy Hadaba, zaledwie 10 metrów od prywatnej, piaszczystej plaży Hala Beach. Goście mają do dyspozycji bezpłatne leżaki, parasole i ręczniki plażowe. Obiekt jest dogodnie położony około 0.3 km od centrum Sharm El Sheikh i 5-10 minut spacerem od Starego Rynku."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 71 klimatyzowanymi pokojami, w tym pokojami dwuosobowymi z widokiem na ogród, morze lub basen, a także apartamentami dwupokojowymi z salonem. Wszystkie pokoje wyposażone są w telewizję satelitarną, minibar lub mini-lodówkę, sejf, telefon oraz łazienkę z prysznicem lub wanną. Wiele z nich posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, w tym restauracja główna serwująca dania kuchni międzynarodowej w formie bufetu. Pakiet all inclusive obejmuje śniadania, obiady i kolacje, a także przekąski i lokalne napoje alkoholowe i bezalkoholowe dostępne w barach od około 10:00 do 22:00. Do dyspozycji gości są bar przy basenie, bar na plaży oraz bar/lounge."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje odkryty i kryty basen, a także basen dla dzieci. Goście mogą korzystać z centrum fitness, spa i masaży. Hotel zapewnia rozrywkę, taką jak poranne ćwiczenia na plaży, a także możliwość uprawiania sportów wodnych, takich jak windsurfing, snorkeling czy nurkowanie (za dodatkową opłatą)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen dla dzieci oraz wysokie krzesełka w restauracji. Hotel jest przyjazny rodzinom, co czyni go dobrym wyborem na wakacje z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i Starego Rynku",
+  "Prywatna, piaszczysta plaża z bezpłatnymi leżakami",
+  "Bardzo przyjazny i pomocny personel",
+  "Smaczne jedzenie",
+  "Czyste i komfortowe pokoje"
+ ],
+ "cons": [
+  "Niezremontowane pokoje mogą być przestarzałe",
+  "Klimatyzacja w starszych pokojach bywa głośna",
+  "Menu jedzenia może być mało zróżnicowane",
+  "Płatne Wi-Fi w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się zaledwie 10 metrów od prywatnej, piaszczystej plaży, po drugiej stronie drogi."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Sharm El Sheikh (SSH) oddalony jest o około 16.5 km, co oznacza 20-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci oraz wysokie krzesełka w restauracji."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w miejscach publicznych. W pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "Tak, hotel posiada centrum fitness oraz oferuje usługi spa i masaże."
+  }
+ ],
+ "address": "V76Q+PC5, Mohammed Al Yamani, 46619, Sharm el-Sheikh, Egipt",
+ "adultsOnly": false,
+ "airportKm": 16.5,
+ "airportName": "Międzynarodowy Port Lotniczy Sharm El Sheikh (SSH)",
+ "amenities": [
+  "Basen odkryty",
+  "Basen kryty",
+  "Basen dla dzieci",
+  "Wysokie krzesełka w restauracji",
+  "Spa",
+  "Centrum fitness",
+  "Windsurfing",
+  "Snorkeling",
+  "Surfing",
+  "Nurkowanie",
+  "Siatkówka plażowa",
+  "Bilard",
+  "Aerobik"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Hadaba, zatoka Sharm El Maya",
+ "bars": 3,
+ "beachDistanceM": 10,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Nurkowie"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2000,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2015,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (widok na ogród, morze lub basen) z klimatyzacją, telewizją satelitarną, minibar/mini-lodówką, sejfem, telefonem, łazienką (prysznic/wanna), suszarką do włosów, zestawem do parzenia kawy/herbaty, często z balkonem/tarasem.",
+  "Apartament dwupokojowy z salonem z sofą, klimatyzacją, telewizją satelitarną, minibar/mini-lodówką, sejfem, telefonem, łazienką (prysznic/wanna), suszarką do włosów, zestawem do parzenia kawy/herbaty, często z balkonem/tarasem."
+ ],
+ "rooms": 71,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.8615479,
+  "lon": 34.2880337,
+  "src": "osm"
+ },
+ "sources": [
+  "sharmelsheikhhotels.org",
+  "trivago.com",
+  "coral.ge",
+  "com-sharmelsheikh.com",
+  "booking.com",
+  "directbooking.ro",
+  "hotelsharmelsheikh.net",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-26"
+}

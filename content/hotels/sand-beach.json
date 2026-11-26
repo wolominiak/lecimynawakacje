@@ -1,0 +1,134 @@
+{
+ "id": 6657,
+ "slug": "sand-beach",
+ "name": "Sand Beach",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Hurghada"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/sand-beach-teren-hotelu-1001721582-570-428.jpg",
+ "city": "Hurghada",
+ "intro": [
+  "Hotel Sand Beach to trzygwiazdkowy obiekt położony w Hurghadzie, w dzielnicy Dahar, zaledwie kilka kroków od Morza Czerwonego. Charakteryzuje się prostą, ale przyjemną zabudową, składającą się z budynku głównego i bungalowów, otoczonych zielenią i palmami.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, ze względu na liczne udogodnienia dla najmłodszych, takie jak brodzik, plac zabaw i aquapark. To także dobra baza dla miłośników nurkowania, dzięki własnemu centrum nurkowemu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sand Beach znajduje się w Hurghadzie, w dzielnicy Dahar, przy Corniche Street. Obiekt dysponuje prywatną, piaszczysto-żwirową plażą z kamienistym zejściem do morza i pomostem, oddaloną o około 50 metrów. Na plaży dostępne są leżaki, parasole i ręczniki."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 140 do 158 pokoi rozmieszczonych na dwóch piętrach, w budynku głównym i bungalowach. Pokoje są klimatyzowane i wyposażone w balkon, telewizor, minibar oraz prywatną łazienkę z prysznicem. Niektóre pokoje są antyalergiczne, a z okien roztacza się widok na morze, basen lub ulicę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni międzynarodowej w formie bufetu, z wieczorami tematycznymi. Dodatkowo dostępna jest restauracja z pizzą i owocami morza. Na terenie obiektu funkcjonują trzy bary, w tym bar przy basenie. Opcja all inclusive obejmuje posiłki i napoje, z wyłączeniem niektórych alkoholi premium."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji trzy odkryte baseny o różnej głębokości oraz jeden basen kryty. Na terenie hotelu znajduje się również aquapark ze zjeżdżalniami. Hotel oferuje pełne usługi spa, siłownię, centrum nurkowe oraz sporty wodne. Wieczorami organizowane są animacje, a dla dorosłych dostępny jest klub nocny."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano brodzik, plac zabaw oraz łóżeczka i kojce. Hotel posiada również aquapark ze zjeżdżalniami, które zapewnią rozrywkę. Mini klub dla dzieci jest dostępny za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Prywatna plaża z leżakami i ręcznikami",
+  "Ładny widok z basenu",
+  "Dostępność aquaparku i udogodnień dla dzieci",
+  "Dogodna lokalizacja blisko centrum i lotniska",
+  "Centrum nurkowe na miejscu"
+ ],
+ "cons": [
+  "Niska jakość i mała różnorodność jedzenia",
+  "Pokoje mogą być stare i nieczyste",
+  "Zimny, nieogrzewany basen",
+  "Woda z kranu jako pitna",
+  "Kamieniste zejście do morza na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sand Beach posiada prywatną plażę, do której jest około 50 metrów."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Hurghada (HRG), znajduje się w odległości około 5 do 15.1 km, co zajmuje około 15-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, na terenie hotelu Sand Beach dostępny jest aquapark ze zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, łóżeczka i kojce oraz mini klub (za dodatkową opłatą)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Sand Beach nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "Corniche Street, Dahar, Hurghada",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Międzynarodowy Port Lotniczy Hurghada (HRG)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Centrum nurkowe",
+  "Sporty wodne"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Dahar",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysto-żwirowa z kamienistym zejściem i pomostem",
+ "centerKm": 0.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "nurkowie"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1990,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": 2012,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Double",
+  "Standard Single",
+  "Standard Triple",
+  "Family Room (dla 4 osób dorosłych)",
+  "Suity"
+ ],
+ "rooms": 140,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.2608731,
+  "lon": 33.820928,
+  "src": "osm"
+ },
+ "sources": [
+  "hurghadaehotel.com",
+  "redseahotelsegypt.com",
+  "hotel-hurghada.com",
+  "hotelhurghada.net",
+  "reserving.com",
+  "sandbeach-hurghada.com",
+  "coraltravel.pl",
+  "google.com.ng"
+ ],
+ "updated": "2026-11-26"
+}
