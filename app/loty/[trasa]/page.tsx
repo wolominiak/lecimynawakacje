@@ -8,8 +8,8 @@ import Faq from '@/components/Faq';
 import FlightForm from '@/components/FlightForm';
 import { liveRoute, checkedAt } from '@/lib/flights-live';
 
-// ceny odświeżane z API najwyżej raz na godzinę (przy wejściu odwiedzającego)
-export const revalidate = 3600;
+// ceny odświeżane z API najwyżej co 15 minut (przy wejściu odwiedzającego)
+export const revalidate = 900;
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -71,7 +71,7 @@ export default async function Page({ params }: P) {
               {r.transfers != null && <>, {transfersLabel(r.transfers)}</>}.
             </p>
             <p><a className="btn" href={searchHref(r, r.dep, r.ret)} target="_blank" rel="sponsored nofollow noopener">Zarezerwuj ten lot &rarr;</a></p>
-            <p className="fl-live">{r.live ? <>Cena sprawdzona dziś o {at}, aktualizacja co godzinę. Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</> : <>Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</>}</p>
+            <p className="fl-live">{r.live ? <>Cena sprawdzona dziś o {at}, aktualizacja co 15 minut. Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</> : <>Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</>}</p>
           </div>
         </div>
       </section>
@@ -87,7 +87,7 @@ export default async function Page({ params }: P) {
             {rows.length > 1 && (
               <>
                 <h2>Ceny lotów {r.oName} - {r.name} w kolejnych miesiącach</h2>
-                <p>Najniższa cena biletu w obie strony w danym miesiącu, aktualizowana co godzinę. Kliknij miesiąc, żeby zobaczyć wszystkie loty.</p>
+                <p>Najniższa cena biletu w obie strony w danym miesiącu, aktualizowana co 15 minut. Kliknij miesiąc, żeby zobaczyć wszystkie loty.</p>
                 <div className="fl-months">
                   {rows.map(([m, p]) => (
                     <a key={m} className={'fl-m' + (best && m === best[0] ? ' best' : '')} href={searchHref(r, `${m}-15`)} target="_blank" rel="sponsored nofollow noopener">
@@ -140,7 +140,7 @@ export default async function Page({ params }: P) {
 
             <h2>Najczęstsze pytania</h2>
             <Faq items={faq} />
-            <p className="ft-note">Ceny za jedną osobę w obie strony, aktualizowane co godzinę. Dostępność biletów w danej cenie jest ograniczona. Linki partnerskie.</p>
+            <p className="ft-note">Ceny za jedną osobę w obie strony, aktualizowane co 15 minut. Dostępność biletów w danej cenie jest ograniczona. Linki partnerskie.</p>
           </article>
         </div>
       </div>

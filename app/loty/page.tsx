@@ -7,7 +7,7 @@ import FlightSearch from '@/components/FlightSearch';
 import { allRoutes, routeUrl, zl } from '@/lib/flights';
 import { livePrices, checkedAt } from '@/lib/flights-live';
 
-export const revalidate = 3600;
+export const revalidate = 900;
 
 export const metadata: Metadata = seo({
   title: 'Tanie loty z Polski - porównanie cen lotów',
@@ -51,7 +51,7 @@ export default async function Page() {
       {routes.length > 0 && (
         <div className="fl-hub">
           <h2>Najtańsze loty z Polski dziś</h2>
-          <p className="fl-live">{live.live ? `Ceny sprawdzone dziś o ${at}, aktualizacja co godzinę. ` : ''}Ceny w obie strony za osobę. Najtańsze bilety szybko znikają.</p>
+          <p className="fl-live">{live.live ? `Ceny sprawdzone dziś o ${at}, aktualizacja co 15 minut. ` : ''}Ceny w obie strony za osobę. Najtańsze bilety szybko znikają.</p>
           <div className="chips">{routes.slice(0, 24).map((x) => <a key={x.slug} className="chip chip-light" href={routeUrl(x.slug)}>{x.oName} - {x.name}: od {zl(x.price)}</a>)}</div>
           {origins.map(([o, list]) => (
             <div key={o}>

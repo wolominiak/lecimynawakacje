@@ -1,10 +1,10 @@
-// Świeże ceny lotów prosto z Aviasales Data API (po stronie serwera, cache 1 godzina).
+// Świeże ceny lotów prosto z Aviasales Data API (po stronie serwera, cache 15 minut).
 // Jeśli brak tokena albo API nie odpowie, zostają ceny z codziennego pliku data/flights.json.
 import type { Route } from './flights';
 
 const API = 'https://api.travelpayouts.com';
 const TOKEN = process.env.TRAVELPAYOUTS_TOKEN;
-export const LIVE_TTL = 3600;
+export const LIVE_TTL = 900;
 
 async function get(p: string, params: Record<string, string>) {
   if (!TOKEN) return null;
