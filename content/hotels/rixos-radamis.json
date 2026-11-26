@@ -1,0 +1,152 @@
+{
+ "id": "x:egipt:rixos radamis",
+ "slug": "rixos-radamis",
+ "name": "Rixos Radamis",
+ "country": "egipt",
+ "place": [
+  "egipt",
+  "Sharm El Sheikh"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/egypt/sharm-el-sheikh/sharm-el-sheikh/rixos-radamis/-02-26_at_1-13-37_pm.jpeg",
+ "city": "Sharm El Sheikh",
+ "intro": [
+  "Rixos Radamis to luksusowy, pięciogwiazdkowy hotel położony w egipskiej zatoce Nabq Bay, otwarty w 2024 roku lub ponownie po gruntownym remoncie w listopadzie 2023 roku. Obiekt zajmuje rozległy teren o powierzchni 300 000 m², oferując nowoczesne udogodnienia i szeroki wachlarz usług w ramach koncepcji Ultra All-Inclusive. Hotel składa się z trzech połączonych części: Blue Planet, Tirana i Beachside, zapewniając różnorodne opcje zakwaterowania i rekreacji.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par oraz miłośników snorkelingu i nurkowania. Bliskość lotniska, prywatna plaża z dostępem do rafy koralowej oraz bogata oferta rozrywkowa i gastronomiczna sprawiają, że jest to miejsce na aktywny i komfortowy wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Rixos Radamis znajduje się w pierwszej linii brzegowej w zatoce Nabq Bay, oferując prywatną plażę. Plaża jest piaszczysta i koralowa, z bezpośrednim dostępem do rafy koralowej przez pomost. Goście mogą korzystać z bezpłatnych leżaków, parasoli i ręczników plażowych, a do plaży z niektórych budynków kursuje hotelowy shuttle bus."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 1642 pokojami i 26 willami, rozmieszczonymi w częściach Tirana, Blue Planet i Beach Side. Pokoje są przestronne, nowocześnie urządzone i wyposażone w klimatyzację, telewizor, Wi-Fi, minibar, zestaw do parzenia kawy/herbaty oraz łazienkę z prysznicem. Wille dodatkowo oferują prywatne baseny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach koncepcji Ultra All-Inclusive hotel oferuje posiłki w trzech restauracjach bufetowych oraz w 14-16 restauracjach à la carte, serwujących kuchnie z całego świata. Do dyspozycji gości jest również 9-10 barów, w tym bary przy basenach i na plaży. Minibar w pokojach jest codziennie uzupełniany."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada liczne baseny zewnętrzne, w tym trzy główne, dwa relaksacyjne, jeden rodzinny i jeden dla dzieci. Niektóre baseny są podgrzewane w sezonie zimowym. Na terenie obiektu znajduje się duży aquapark z 29 zjeżdżalniami. Goście mogą korzystać z centrum fitness, kortów tenisowych, siatkówki plażowej oraz szerokiej gamy zajęć sportowych i animacji."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano Rixy Kids Town, który oferuje własną recepcję, restaurację, warsztaty, place zabaw, park wodny i wiele innych atrakcji. Hotel zapewnia codzienne animacje i programy rozrywkowe dostosowane do potrzeb dzieci w wieku 4-14 lat."
+  },
+  {
+   "title": "Spa i wellness",
+   "text": "W hotelu znajduje się Anjana Spa o powierzchni 2000 m², oferujące bezpłatny dostęp do łaźni tureckiej, sauny, łaźni parowej i jacuzzi. Masaże i zabiegi kosmetyczne są dostępne za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Wyjątkowa oferta dla dzieci (Rixy Kids Town)",
+  "Duży aquapark i liczne baseny",
+  "Szeroki wybór restauracji à la carte",
+  "Nowoczesny i niedawno odnowiony obiekt",
+  "Krótki transfer z lotniska"
+ ],
+ "cons": [
+  "Plaża może być oddalona od niektórych budynków (wymaga shuttle busa)",
+  "Płytka i skalista/koralowa woda przy brzegu, utrudniająca pływanie",
+  "Trudności z rezerwacją restauracji à la carte w szczycie sezonu",
+  "Niespójna obsługa, zwłaszcza przy basenach i w recepcji",
+  "Hałas samolotów w zależności od kierunku wiatru"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony w pierwszej linii brzegowej i posiada prywatną plażę. Z niektórych budynków do plaży kursuje bezpłatny hotelowy shuttle bus."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 5-10 km od międzynarodowego lotniska Sharm El Sheikh (SSH), a transfer zajmuje około 10-15 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, na terenie obiektu znajduje się duży aquapark z 29 zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując Rixy Kids Town, liczne baseny i bogaty program animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przeznaczony dla rodzin i par, nie jest to obiekt wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "El-Shaikh Zayed Street, 46619, Sharm el-Sheikh, Egipt",
+ "adultsOnly": false,
+ "airportKm": 7.5,
+ "airportName": "Sharm El Sheikh (SSH)",
+ "amenities": [
+  "Rixy Kids Town",
+  "Anjana Spa",
+  "Centrum fitness",
+  "Korty tenisowe",
+  "Siatkówka plażowa",
+  "Tenis stołowy",
+  "Rzutki",
+  "Bilard",
+  "Zajęcia fitness (aerobik, joga, TRX, CrossFit, Kangoo Jump)",
+  "Kajakarstwo",
+  "Paddleboarding",
+  "Żeglarstwo"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Nabq Bay",
+ "bars": 9,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-koralowa",
+ "centerKm": 21,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby poszukujące luksusu",
+  "entuzjaści snorkelingu i nurkowania",
+  "podróżni ceniący krótki czas transferu z lotniska"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2024,
+ "pools": 7,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 17,
+ "roomTypes": [
+  "Superior",
+  "Family",
+  "Junior Suite",
+  "Senior Suite",
+  "Executive Suite",
+  "Queen Suite",
+  "Presidential Suite",
+  "Royal Suite",
+  "Wille z prywatnymi basenami"
+ ],
+ "rooms": 1642,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0064706,
+  "lon": 34.4264952,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "easyjet.com",
+  "sharmtransfer.com",
+  "rixos.com",
+  "gotobeach.co.uk",
+  "trivago.com",
+  "charm-rental.com",
+  "fromplacetoplace.travel"
+ ],
+ "updated": "2026-11-26"
+}
