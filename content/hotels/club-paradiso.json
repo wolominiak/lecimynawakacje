@@ -1,0 +1,150 @@
+{
+ "id": 11696,
+ "slug": "club-paradiso",
+ "name": "Club Paradiso",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Kestel"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/club-paradiso-basen-teren-hotelu-obiekt-1863639775-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Club Paradiso to pięciogwiazdkowy hotel położony w dzielnicy Kestel w Alanyi, na wzgórzu z widokiem na Morze Śródziemne i góry Taurus. Obiekt oferuje szeroki zakres udogodnień dla rodzin i par, zapewniając komfortowy wypoczynek w malowniczej okolicy.",
+  "Hotel dysponuje prywatną plażą, na którą kursuje bezpłatny transfer, a także licznymi basenami i aquaparkiem. Dzięki bogatemu programowi animacyjnemu i mini klubowi dla dzieci, jest to dobry wybór dla rodzin z dziećmi, szukających aktywnego urlopu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Club Paradiso znajduje się w Alanyi, w dzielnicy Kestel, na wzgórzu. Do piaszczysto-żwirowej plaży jest około 900 metrów, czyli około 19 minut spacerem. Hotel zapewnia bezpłatny transfer wahadłowy na prywatną plażę, gdzie dostępne są bezpłatne leżaki i parasole. Ręczniki plażowe są dostępne za depozytem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje około 281-310 pokoi, w tym Standard, Superior, Family Suite oraz Penthouse Suite. Wszystkie pokoje są wyposażone w klimatyzację, telewizor LCD, minibar, sejf (często płatny), suszarkę do włosów, łazienkę oraz balkon lub taras. Pokoje rodzinne posiadają oddzielne sypialnie i salon z rozkładanymi sofami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel działa w formule Ultra All Inclusive, obejmującej śniadania, obiady i kolacje w formie bufetu. Goście mogą korzystać z restauracji głównej, restauracji à la carte (mięsna, rybna, BBQ) oraz kawiarni. Na terenie obiektu znajduje się również kilka barów, w tym bar przy basenie, bar na plaży i lounge bar. Restauracje à la carte są bezpłatne przy pobytach od 7 nocy."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Club Paradiso posiada wiele basenów zewnętrznych, w tym sezonowy i relaksacyjny, a także basen kryty i brodziki dla dzieci. Na terenie hotelu znajduje się aquapark ze zjeżdżalniami dla dorosłych i dzieci. Hotel oferuje również centrum spa z łaźnią turecką, sauną i gabinetami masażu, a także siłownię oraz korty tenisowe, boisko do koszykówki i siatkówki plażowej."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodziki, place zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Hotel organizuje również programy animacyjne dla dzieci, mini disco oraz wieczorne rozrywki, takie jak pokazy i muzyka na żywo."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel i dobra obsługa",
+  "Smaczna i różnorodna kuchnia",
+  "Przestronne pokoje z widokami",
+  "Bogaty program animacyjny dla dzieci i dorosłych",
+  "Aquapark i liczne baseny"
+ ],
+ "cons": [
+  "Hotel położony na wzgórzu, co wymaga poruszania się po pochyłościach",
+  "Płatne Wi-Fi w pokojach",
+  "Możliwy tłok na plaży i przy basenach",
+  "Sejf w pokoju często płatny",
+  "Napoje premium dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża oddalona jest o około 900 metrów od hotelu. Hotel oferuje bezpłatny transfer wahadłowy na prywatną plażę."
+  },
+  {
+   "q": "Czy hotel ma aquapark?",
+   "a": "Tak, hotel posiada aquapark z licznymi zjeżdżalniami dla dorosłych i dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, place zabaw, brodziki oraz animacje dla dzieci."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya Airport (GZP), oddalone o około 34-40 km. Lotnisko Antalya (AYT) znajduje się w odległości około 120-135 km."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w lobby, natomiast w pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest to obiekt rodzinny."
+  }
+ ],
+ "address": "Kestel, Hastepe Cd. No:33, 07410 Alanya/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Gazipaşa-Alanya Airport (GZP)",
+ "amenities": [
+  "łaźnia turecka",
+  "sauna",
+  "łaźnia parowa",
+  "jacuzzi",
+  "masaże",
+  "zabiegi na ciało i twarz",
+  "tenis",
+  "koszykówka",
+  "siatkówka plażowa",
+  "bilard",
+  "rzutki",
+  "tenis stołowy",
+  "mini golf",
+  "squash",
+  "aerobik",
+  "gimnastyka w wodzie",
+  "sporty wodne (kajaki, rowery wodne)",
+  "łucznictwo",
+  "mini piłka nożna",
+  "kawiarnia/cukiernia"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kestel",
+ "bars": null,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 6.7,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2000,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": 2019,
+ "restaurants": null,
+ "roomTypes": [
+  "Standard",
+  "Superior",
+  "Family Suite (A, B, C)",
+  "Penthouse Suite (A, B)"
+ ],
+ "rooms": 281,
+ "spa": true,
+ "wifi": null,
+ "geo": {
+  "lat": 36.5234337,
+  "lon": 32.0647954,
+  "src": "osm"
+ },
+ "sources": [
+  "kompastour.com",
+  "travelyalla.com",
+  "coral.ge",
+  "reserving.com",
+  "yandex.com.tr",
+  "youtube.com",
+  "trivago.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-26"
+}

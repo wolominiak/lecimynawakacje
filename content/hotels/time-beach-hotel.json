@@ -1,0 +1,135 @@
+{
+ "id": 8227,
+ "slug": "time-beach-hotel",
+ "name": "Time Beach Hotel",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/time-beach-hotel-obiekt-1828131101-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Time Beach Hotel to trzygwiazdkowy obiekt położony w sercu Alanyi, w dzielnicy Saray Mahallesi, zaledwie kilkadziesiąt metrów od słynnej Plaży Kleopatry. Jego centralna lokalizacja sprawia, że jest doskonałą bazą wypadową do zwiedzania miasta i korzystania z jego atrakcji.",
+  "Hotel jest polecany dla par, młodych osób oraz rodzin z dziećmi, które cenią sobie bliskość miejskich rozrywek i jednocześnie chcą cieszyć się wypoczynkiem nad morzem. Oferuje komfortowe warunki i dobrą relację jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Time Beach Hotel znajduje się w centrum Alanyi, w dzielnicy Saray Mahallesi, przy ulicy Güzelyalı Caddesi. Jest oddalony o około 50-70 metrów od publicznej, piaszczystej Plaży Kleopatry, do której prowadzi przejście przez ulicę. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 70 pokoi typu Standard, Economy oraz Standard z widokiem na morze lub ląd. Wszystkie pokoje wyposażone są w klimatyzację (sezonową), łazienkę z prysznicem, suszarkę do włosów, TV-Sat, mini bar oraz balkon. Sejf i telefon są dostępne za dodatkową opłatą, a Wi-Fi w pokojach jest płatne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje główną restauracją serwującą posiłki w formie bufetu. Goście mogą korzystać z wyżywienia w formule Half Board (HB), obejmującej śniadania i kolacje. Napoje do kolacji są dodatkowo płatne. Na terenie obiektu znajdują się również bar przy basenie i lobby bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden zewnętrzny basen dla dorosłych oraz wydzielony brodzik dla dzieci. Przy basenie dostępne są bezpłatne leżaki i parasole. Hotel oferuje również centrum spa z sauną i hammamem (za opłatą) oraz siłownię. Możliwe jest uprawianie tenisa stołowego i siatkówki plażowej, a sporty wodne na plaży są płatne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzielony brodzik przy basenie oraz wysokie krzesełka w restauracji. Na życzenie dostępne jest również łóżeczko dla dziecka. Hotel nie posiada mini klubu ani animacji dla dzieci."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko Plaży Kleopatry i centrum Alanyi",
+  "Miła i pomocna obsługa",
+  "Dobre i urozmaicone jedzenie (śniadania i kolacje)",
+  "Czyste i odnowione pokoje",
+  "Dobry stosunek ceny do jakości"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Płatne napoje do kolacji",
+  "Płatne Wi-Fi w pokojach",
+  "Mały basen",
+  "Ograniczona przestrzeń do przechowywania w pokojach trzyosobowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 50-70 metrów od publicznej, piaszczystej Plaży Kleopatry."
+  },
+  {
+   "q": "Jakie są najbliższe lotniska i ich odległości?",
+   "a": "Najbliższe lotniska to Antalya (AYT) około 125 km i Gazipaşa (GZP) około 43,1 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik i wysokie krzesełka."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest bezpłatne w częściach wspólnych hotelu, natomiast w pokojach jest płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i posiada udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Güzelyalı Caddesi, Kum Sk. No: 1, 07400 Alanya/Antalya",
+ "adultsOnly": false,
+ "airportKm": 43.1,
+ "airportName": "Gazipaşa (GZP)",
+ "amenities": [
+  "Spa",
+  "Sauna",
+  "Hammam",
+  "Siłownia",
+  "Tenis stołowy",
+  "Siatkówka plażowa"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Saray Mahallesi",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "pary",
+  "młode osoby",
+  "rodziny z dziećmi",
+  "zwiedzanie"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1998,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard",
+  "Economy",
+  "Standard z widokiem na morze (Standard Room Sea View)",
+  "Standard z bocznym widokiem na morze (Standard Room SSV)",
+  "Standard z widokiem na ląd (Standard Room Land View)"
+ ],
+ "rooms": 70,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "enuygun.com",
+  "etstur.com",
+  "kayak.com",
+  "timebeachotel.com",
+  "yandex.com.tr",
+  "travelplanet.pl",
+  "tui.pl",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-26"
+}

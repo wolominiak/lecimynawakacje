@@ -1,0 +1,137 @@
+{
+ "id": 43688,
+ "slug": "skalion",
+ "name": "Skalion",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001406621-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Skalion to czterogwiazdkowy obiekt położony w sercu Starego Miasta Stambułu, w historycznej dzielnicy Kumkapı. Jego centralna lokalizacja sprawia, że jest to idealne miejsce dla osób pragnących zwiedzać najważniejsze zabytki miasta pieszo.",
+  "Obiekt polecany jest dla par, rodzin oraz miłośników historii, którzy cenią sobie łatwy dostęp do atrakcji turystycznych i komfortowy pobyt w tętniącej życiem okolicy. Hotel oferuje szereg udogodnień, w tym restaurację na dachu z widokiem na morze oraz strefę spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Skalion znajduje się w dzielnicy Kumkapı, w samym centrum Starego Miasta Fatih w Stambule. Z hotelu można w ciągu kilku minut dojść do takich atrakcji jak Grand Bazaar (0.6 km), Błękitny Meczet (1 km) czy Hagia Sophia (0.8 km). Okolica charakteryzuje się stromymi ulicami i bliskością lokalnych restauracji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 67 pokojami, które zostały wyremontowane w 2021 roku. W ofercie znajdują się różne typy zakwaterowania, od pokoi Economic i Standard, po apartamenty Family i Superior Suite z widokiem na morze i tarasem. Każdy pokój wyposażony jest w klimatyzację, telewizor, minibar, zestaw do kawy/herbaty oraz prywatną łazienkę z prysznicem i bezpłatnymi kosmetykami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Skalion serwowane jest codzienne śniadanie w formie bufetu. Goście mogą korzystać z restauracji Skalion Terrace Café & Restaurant, która oferuje dania kuchni tureckiej i międzynarodowej. Restauracja na dachu z tarasem o powierzchni 200 m² zapewnia widoki na okolicę i morze. Do dyspozycji są również bar/lounge oraz lobby bar."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Hotel oferuje pełne spa, gdzie goście mogą skorzystać z masaży, zabiegów na ciało i twarz, a także z łaźni parowej, sauny i hammamu. Usługi spa są dodatkowo płatne. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi. Hotel nie posiada basenów rekreacyjnych ani siłowni."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w sercu Starego Miasta",
+  "Czyste pokoje i wygodne łóżka",
+  "Bardzo pomocny i przyjazny personel",
+  "Dobre śniadanie w formie bufetu, często z widokiem na morze",
+  "Dostęp do strefy spa (łaźnia turecka, sauna, hammam)"
+ ],
+ "cons": [
+  "Hałas z ulicy i restauracji w niżej położonych pokojach",
+  "Pokoje mogą być kompaktowe",
+  "Mała winda",
+  "Strome ulice w okolicy mogą być wyzwaniem",
+  "Usługi spa są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel Skalion jest od głównych atrakcji Stambułu?",
+   "a": "Hotel Skalion jest położony w sercu Starego Miasta. Grand Bazaar znajduje się 0.6 km (7 minut pieszo), Błękitny Meczet 1 km (10-13 minut pieszo), a Hagia Sophia 0.8 km (15-17 minut pieszo)."
+  },
+  {
+   "q": "Czy hotel Skalion posiada basen lub aquapark?",
+   "a": "Nie, hotel Skalion nie posiada basenów rekreacyjnych ani aquaparku. Oferuje natomiast strefę spa z łaźnią parową, sauną i hammamem."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotniska to Stambuł Sabiha Gökçen (SAW) oddalone o około 43-44 km (około 1 godziny 40 minut jazdy) oraz Port Lotniczy Stambuł (IST) oddalony o około 55 km (około 1.5 godziny jazdy)."
+  },
+  {
+   "q": "Czy hotel Skalion jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel nie jest tylko dla dorosłych. Dzieci w wieku do 3 lat mogą przebywać bezpłatnie w pokoju rodziców. Dostępne są również pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Skalion nie oferuje pakietu all inclusive. Codziennie rano serwowane jest bogate śniadanie w formie bufetu."
+  }
+ ],
+ "address": "Mimar Hayrettin, Çifte Gelinler Cd. No:6, 34130 Fatih/İstanbul, Türkiye",
+ "adultsOnly": false,
+ "airportKm": 31.3,
+ "airportName": "Stambuł Sabiha Gökçen (SAW)",
+ "amenities": [
+  "Spa",
+  "Bezpłatne Wi-Fi",
+  "Restauracja na dachu"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kumkapı, Fatih (Stare Miasto)",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Osoby zwiedzające miasto",
+  "Miłośnicy historii",
+  "Pary",
+  "Rodziny"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2014,
+ "pools": 0,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economic Room",
+  "Standard Single Room",
+  "Economic Double-Twin Room",
+  "Economic Triple Room",
+  "Standard Triple Room",
+  "Family Room - Connecting",
+  "Superior Suite z widokiem na morze i tarasem",
+  "Family Suite z widokiem na morze i tarasem",
+  "Standard Double-Twin Room",
+  "Superior Family Room",
+  "Accessible Room (klimatyzacja, minibar, TV satelitarna, czajnik, WiFi, prywatna łazienka z prysznicem, suszarka, kosmetyki, szafa, biurko, kapcie, szczoteczka, szlafrok)"
+ ],
+ "rooms": 67,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0050223,
+  "lon": 28.9647246,
+  "src": "osm"
+ },
+ "sources": [
+  "myhotels.sa",
+  "skalionhotel.com",
+  "dejongintra.nl",
+  "pegast.ru",
+  "turkeyparadise.com",
+  "o-hotel.in",
+  "google.com",
+  "moovitapp.com"
+ ],
+ "updated": "2026-11-26"
+}
