@@ -7,12 +7,12 @@ const TTL = 30 * 60 * 1000;
 type Raw = {
   id: number; hotelId?: number; name: string; price: string; duration: number; departureDate: string; category: number;
   departure?: { label: string }; service?: { label: string; value: number }; transport?: { value: number };
-  placeName?: string[]; ratingValue?: number; url: string;
+  placeName?: string[]; ratingValue?: number; url: string; tourOperatorName?: string; returnDate?: string;
 };
 
 export type PromoOffer = {
   id: number; hotelId?: number; hotel: string; price: number; date: string; days: number; stars: number;
-  from: string; board: string; place: string[]; rating: number; url: string; tour: boolean;
+  from: string; board: string; place: string[]; rating: number; url: string; tour: boolean; operator: string; ret: string;
 };
 
 const mem = new Map<string, Promise<PromoOffer[]>>();
@@ -22,6 +22,7 @@ function norm(o: Raw): PromoOffer {
     id: o.id, hotelId: o.hotelId, hotel: o.name, price: Number(String(o.price).replace(/\s/g, '')) || 0, date: o.departureDate,
     days: o.duration || 0, stars: o.category || 0, from: o.departure?.label || '', board: o.service?.label || '',
     place: o.placeName || [], rating: o.ratingValue || 0, url: o.url, tour: /objazd/i.test(o.placeName?.[1] || ''),
+    operator: o.tourOperatorName || '', ret: o.returnDate || '',
   };
 }
 
@@ -33,7 +34,7 @@ export const offerHref = (o: PromoOffer, c: string) => `/go/oferta/?c=${c}&u=` +
 
 /** Oferty dla podanych warunków: tylko przyszłe wyloty samolotem, bez Polski. */
 export function promoOffers(terms: Record<string, unknown>): Promise<PromoOffer[]> {
-  const key = 'promo:' + JSON.stringify(terms);
+  const key = 'promo2:' + JSON.stringify(terms);
   const hit = mem.get(key);
   if (hit) return hit;
   const p = (async () => {

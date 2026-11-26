@@ -104,26 +104,7 @@ export default async function Page({ params }: P) {
             </div>
 
             <h2 id="terminy">Terminy i ceny: {h.name}</h2>
-            {typeof h.id === 'number' && <HotelTerms id={h.id} name={h.name} />}
-            {exim.length > 0 && (
-              <>
-                {typeof h.id === 'number' && <h3>Terminy w Exim Tours</h3>}
-                <ul className="ht-list">
-                  {exim.slice(0, 15).map((o) => {
-                    const pp = Math.round(o.p / Math.max(1, (o.a || 0) + (o.k || 0)));
-                    return (
-                      <li key={o.id}>
-                        <div className="ht-when"><b>{o.dd.split('-').reverse().join('.')}</b><small>{o.nn} nocy</small></div>
-                        <div className="ht-what"><span>{o.b}</span><small>Wylot: {o.d}</small></div>
-                        <div className="ht-price"><b>{pp.toLocaleString('pl-PL')} zł</b><small>za osobę</small></div>
-                        <a className="btn btn-sm" href={'/go/exim/?u=' + encodeURIComponent(o.u)} target="_blank" rel="sponsored nofollow noopener">Zarezerwuj</a>
-                      </li>
-                    );
-                  })}
-                </ul>
-              </>
-            )}
-            {typeof h.id !== 'number' && exim.length === 0 && <div className="notice">Teraz brak wolnych terminów w tym hotelu. Zobacz podobne hotele w okolicy poniżej.</div>}
+            <HotelTerms id={typeof h.id === 'number' ? h.id : undefined} name={h.name} exim={exim.map((o) => ({ id: o.id, dd: o.dd, rd: o.rd, nn: o.nn, b: o.b, d: o.d, pp: Math.round(o.p / Math.max(1, (o.a || 0) + (o.k || 0))), u: o.u }))} />
 
             {h.sections.map((s) => (
               <section key={s.title}>

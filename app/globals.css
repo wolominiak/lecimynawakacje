@@ -831,3 +831,7 @@ p { margin: 0 0 1em; }
 
 /* Wspólna wyszukiwarka ofert */
 .os-op { display: inline-block; margin-top: 6px; font-size: 0.75rem; font-weight: 700; color: var(--ocean); background: var(--teal-soft); border-radius: 999px; padding: 2px 9px; }
+.ht-list li { grid-template-columns: 1.1fr 1.3fr 0.9fr 0.9fr auto; }
+.ht-op { font-size: 0.8rem; font-weight: 700; color: var(--ocean); }
+.prose .ht-list .btn, .prose .ht-list .btn:hover { text-decoration: none; color: var(--ink); }
+@media (max-width: 640px) { .ht-list li { grid-template-columns: 1fr 1fr; } }
