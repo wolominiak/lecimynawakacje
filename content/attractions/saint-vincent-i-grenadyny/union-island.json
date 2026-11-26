@@ -1,0 +1,71 @@
+{
+  "name": "Union Island",
+  "slug": "union-island",
+  "country": "saint-vincent-i-grenadyny",
+  "lead": "Union Island to kluczowy punkt dla żeglarzy na Grenadynach, oferujący tętniące życiem Clifton i malownicze widoki na okoliczne wyspy. To idealne miejsce na relaks i aktywny wypoczynek na Karaibach.",
+  "intro": [
+    "Union Island, często nazywana \"Bramą do Grenadyn\", to jedna z najbardziej wysuniętych na południe wysp archipelagu Saint Vincent i Grenadyny. Charakteryzuje się górzystym terenem, z dwoma głównymi szczytami - Mount Taboi i Mount Parnassus, które dominują nad krajobrazem. Wyspa jest popularnym celem dla żeglarzy, oferując bezpieczne przystanie i łatwy dostęp do innych, mniejszych wysp regionu.",
+    "Głównym ośrodkiem Union Island jest miasteczko Clifton, które tętni życiem dzięki licznym restauracjom, barom i sklepom. Znajduje się tu również port, gdzie cumują jachty z całego świata. Poza Clifton, wyspa oferuje spokojniejsze zakątki, takie jak Ashton, oraz piękne plaże, idealne do pływania i snorkelingu.",
+    "Odwiedzający Union Island mogą spodziewać się autentycznej karaibskiej atmosfery, połączonej z udogodnieniami dla turystów. To doskonała baza wypadowa do odkrywania Tobago Cays Marine Park, Bequii czy Mayreau, a także miejsce, gdzie można po prostu odpocząć, podziwiając turkusowe wody i zielone wzgórza."
+  ],
+  "highlights": [
+    {
+      "name": "Clifton",
+      "text": "Główne miasteczko wyspy, z tętniącym życiem portem, restauracjami, barami i sklepami. To centrum aktywności na Union Island."
+    },
+    {
+      "name": "Chatham Bay",
+      "text": "Spokojna zatoka na zachodnim wybrzeżu, idealna do pływania, snorkelingu i relaksu. Często odwiedzana przez żeglarzy."
+    },
+    {
+      "name": "Happy Island",
+      "text": "Unikalna, sztuczna wyspa zbudowana z muszli, gdzie znajduje się bar serwujący drinki i owoce morza. Dostępna łodzią."
+    },
+    {
+      "name": "Widok z Mount Taboi",
+      "text": "Wędrówka na jeden ze szczytów wyspy oferuje spektakularne panoramiczne widoki na Union Island i okoliczne Grenadyny."
+    },
+    {
+      "name": "Snorkeling i Nurkowanie",
+      "text": "Okolice Union Island, w tym pobliski Tobago Cays Marine Park, słyną z bogatych raf koralowych i różnorodności życia morskiego."
+    },
+    {
+      "name": "Ashton",
+      "text": "Mniejsze, bardziej tradycyjne miasteczko, oferujące wgląd w lokalne życie z dala od turystycznego zgiełku Cliftonu."
+    }
+  ],
+  "visitTime": "Na zwiedzanie samej wyspy i relaks warto zarezerwować 2-3 dni. Jeśli planujesz wycieczki na okoliczne wyspy, potrzebujesz co najmniej tygodnia.",
+  "bestTime": "Najlepszy czas na wizytę to pora sucha, od grudnia do maja, kiedy pogoda jest słoneczna i stabilna. Unikaj szczytu sezonu huraganów (sierpień-październik).",
+  "gettingThere": "Na Union Island można dotrzeć samolotem z Barbadosu, Saint Vincent lub Grenady. Istnieją również połączenia promowe z innymi wyspami Grenadyn. Po wyspie można poruszać się taksówkami, wypożyczonymi skuterami lub pieszo w obrębie miasteczek.",
+  "tickets": "Na Union Island większość atrakcji, takich jak plaże czy miasteczka, jest bezpłatna. Płatne są wycieczki łodzią na Happy Island, do Tobago Cays czy na snorkeling. Bilety na takie wycieczki najlepiej kupić bezpośrednio u lokalnych operatorów w Clifton. Warto porównać oferty i negocjować ceny.",
+  "tips": [
+    "Zabierz ze sobą krem z filtrem, kapelusz i okulary przeciwsłoneczne - słońce jest bardzo intensywne.",
+    "Miej przy sobie gotówkę (dolary wschodnokaraibskie lub amerykańskie), ponieważ nie wszędzie można płacić kartą.",
+    "Pamiętaj o repelencie na komary, szczególnie wieczorami.",
+    "Spróbuj lokalnych potraw, zwłaszcza świeżych owoców morza.",
+    "Szukaj lokalnych przewodników do wycieczek łodzią, często oferują bardziej autentyczne doświadczenia.",
+    "Pamiętaj o zabraniu sprzętu do snorkelingu, jeśli planujesz eksplorować podwodny świat."
+  ],
+  "faq": [
+    {
+      "q": "Czy Union Island jest bezpieczna dla turystów?",
+      "a": "Tak, Union Island jest ogólnie uważana za bezpieczną. Należy jednak zachować podstawowe środki ostrożności, zwłaszcza po zmroku."
+    },
+    {
+      "q": "Jakie są najlepsze plaże na Union Island?",
+      "a": "Do najlepszych plaż należą Chatham Bay i Big Sands Beach, oferujące piękne widoki i spokojne wody."
+    },
+    {
+      "q": "Czy na Union Island są bankomaty?",
+      "a": "Tak, w Clifton znajdują się bankomaty, ale warto mieć ze sobą gotówkę na mniejsze wydatki."
+    },
+    {
+      "q": "Czy warto połączyć wizytę na Union Island z innymi wyspami?",
+      "a": "Zdecydowanie tak. Union Island to świetna baza wypadowa do Tobago Cays Marine Park, Mayreau i innych Grenadyn. Warto rozważyć rejs po archipelagu."
+    }
+  ],
+  "gygQuery": "Union Island tours Saint Vincent and the Grenadines",
+  "forWhom": "Union Island jest idealna dla żeglarzy, miłośników sportów wodnych, osób szukających relaksu na plaży oraz tych, którzy chcą odkrywać autentyczne Karaiby. To dobre miejsce dla par i małych grup.",
+  "history": "Union Island została nazwana tak ze względu na połączenie dwóch wzniesień, które tworzą jej charakterystyczny kształt. Wyspa była w przeszłości wykorzystywana do uprawy bawełny i cukru, a jej historia jest ściśle związana z kolonializmem i handlem niewolnikami. Dziś jest ważnym ośrodkiem turystycznym, zachowującym jednak swój lokalny charakter.",
+  "gygTourId": 1214799
+}
