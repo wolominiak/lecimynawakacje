@@ -4,7 +4,10 @@ import { getCountries } from '@/lib/data';
 import { countryIata, iataOf } from '@/lib/travelpayouts';
 import ServiceHub from '@/components/ServiceHub';
 import FlightSearch from '@/components/FlightSearch';
-import { allRoutes, routeUrl, zl, fmtDay, FLIGHTS_UPDATED } from '@/lib/flights';
+import { allRoutes, routeUrl, zl } from '@/lib/flights';
+import { livePrices, checkedAt } from '@/lib/flights-live';
+
+export const revalidate = 3600;
 
 export const metadata: Metadata = seo({
   title: 'Tanie loty z Polski - porównanie cen lotów',
@@ -12,7 +15,7 @@ export const metadata: Metadata = seo({
   path: '/loty/',
 });
 
-export default function Page() {
+export default async function Page() {
   const pop = getCountries().filter((c) => c.content).sort((a, b) => (b.content!.popularity || 0) - (a.content!.popularity || 0));
   const dests: { code: string; name: string }[] = [];
   const seen = new Set<string>();
@@ -22,7 +25,9 @@ export default function Page() {
       if (code && !seen.has(code) && dests.length < 120) { seen.add(code); dests.push({ code, name: `${r.name}, ${c.name}` }); }
     }
   }
-  const routes = allRoutes().sort((a, b) => a.price - b.price);
+  const live = await livePrices(allRoutes());
+  const at = checkedAt();
+  const routes = live.routes.sort((a, b) => a.price - b.price);
   const byO = new Map<string, typeof routes>();
   for (const x of routes) byO.set(x.o, [...(byO.get(x.o) || []), x]);
   const origins = [...byO.entries()];
@@ -45,8 +50,8 @@ export default function Page() {
       <FlightSearch dests={dests} />
       {routes.length > 0 && (
         <div className="fl-hub">
-          <h2>Najtańsze loty z Polski w ostatnich dniach</h2>
-          <p className="ft-note">Ceny w obie strony za osobę, znalezione w wyszukiwaniach z ostatnich 48 godzin{FLIGHTS_UPDATED ? ` (aktualizacja ${fmtDay(FLIGHTS_UPDATED)})` : ''}. Aktualną cenę zobaczysz po kliknięciu.</p>
+          <h2>Najtańsze loty z Polski dziś</h2>
+          <p className="fl-live">{live.live ? `Ceny sprawdzone dziś o ${at}, aktualizacja co godzinę. ` : ''}Ceny w obie strony za osobę. Najtańsze bilety szybko znikają.</p>
           <div className="chips">{routes.slice(0, 24).map((x) => <a key={x.slug} className="chip chip-light" href={routeUrl(x.slug)}>{x.oName} - {x.name}: od {zl(x.price)}</a>)}</div>
           {origins.map(([o, list]) => (
             <div key={o}>

@@ -2,10 +2,14 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { seo, pick, ogImage } from '@/lib/seo';
 import { getCountry, getRegion, wakacjeCountryId } from '@/lib/data';
-import { allRoutes, getRoute, routeUrl, searchHref, transfersLabel, monthRows, monthShort, monthLoc, fmtDay, zl, FLIGHTS_UPDATED } from '@/lib/flights';
+import { allRoutes, getRoute, routeUrl, searchHref, transfersLabel, monthRows, monthShort, monthLoc, fmtDay, zl } from '@/lib/flights';
 import Crumbs from '@/components/Crumbs';
 import Faq from '@/components/Faq';
 import FlightForm from '@/components/FlightForm';
+import { liveRoute, checkedAt } from '@/lib/flights-live';
+
+// ceny odświeżane z API najwyżej raz na godzinę (przy wejściu odwiedzającego)
+export const revalidate = 3600;
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -16,8 +20,9 @@ type P = { params: Promise<{ trasa: string }> };
 
 export async function generateMetadata({ params }: P): Promise<Metadata> {
   const { trasa } = await params;
-  const r = getRoute(trasa);
-  if (!r) return {};
+  const base = getRoute(trasa);
+  if (!base) return {};
+  const r = await liveRoute(base);
   const c = getCountry(r.country);
   return seo({
     title: pick(`Tanie loty ${r.oName} - ${r.name} od ${zl(r.price)} | ceny w miesiącach`, `Tanie loty ${r.oName} - ${r.name} od ${zl(r.price)}`, `Loty ${r.oName} - ${r.name} od ${zl(r.price)}`),
@@ -29,8 +34,10 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
 
 export default async function Page({ params }: P) {
   const { trasa } = await params;
-  const r = getRoute(trasa);
-  if (!r) notFound();
+  const base = getRoute(trasa);
+  if (!base) notFound();
+  const r = await liveRoute(base);
+  const at = checkedAt();
   const c = getCountry(r.country);
   const reg = c ? getRegion(c, r.region) : undefined;
   const rows = monthRows(r);
@@ -44,8 +51,8 @@ export default async function Page({ params }: P) {
   const title = `Tanie loty ${r.oName} - ${r.name}`;
 
   const faq = [
-    { q: `Ile kosztuje lot ${r.oFrom} do: ${r.name}?`, a: `Najtańszy lot w obie strony znaleziony w ostatnich dniach kosztował ${zl(r.price)} za osobę${r.dep ? ` (wylot ${fmtDay(r.dep)}${r.ret ? `, powrót ${fmtDay(r.ret)}` : ''})` : ''}. Ceny zmieniają się codziennie, aktualną sprawdzisz w wyszukiwarce.` },
-    ...(best && worst && best[0] !== worst[0] ? [{ q: `Kiedy najtaniej polecieć ${r.oFrom} do: ${r.name}?`, a: `Według ostatnich wyszukiwań najtaniej jest ${monthLoc(best[0])} (od ${zl(best[1])}), a najdrożej ${monthLoc(worst[0])} (od ${zl(worst[1])}).` }] : []),
+    { q: `Ile kosztuje lot ${r.oFrom} do: ${r.name}?`, a: `Dziś najtańszy lot w obie strony kosztuje ${zl(r.price)} za osobę${r.dep ? ` (wylot ${fmtDay(r.dep)}${r.ret ? `, powrót ${fmtDay(r.ret)}` : ''})` : ''}. Ceny tanich lotów zmieniają się kilka razy dziennie.` },
+    ...(best && worst && best[0] !== worst[0] ? [{ q: `Kiedy najtaniej polecieć ${r.oFrom} do: ${r.name}?`, a: `Najtaniej jest ${monthLoc(best[0])} (od ${zl(best[1])}), a najdrożej ${monthLoc(worst[0])} (od ${zl(worst[1])}).` }] : []),
     ...(flightTime ? [{ q: `Ile trwa lot z Polski${c ? ` do kraju ${c.name}` : ''}?`, a: flightTime }] : []),
     { q: 'Czy cena obejmuje bagaż?', a: 'To zależy od linii i taryfy. Tanie linie w najniższej cenie mają zwykle tylko mały bagaż podręczny. Przed zakupem sprawdź warunki w wynikach wyszukiwania.' },
   ];
@@ -59,11 +66,12 @@ export default async function Page({ params }: P) {
             <span className="eyebrow">Loty {r.oFrom}{c ? `, ${c.name}` : ''}</span>
             <h1>{title}</h1>
             <p className="lead">
-              Najtańszy lot w obie strony z ostatnich dni: <b>{zl(r.price)}</b> za osobę
+              Dzisiejsza okazja: lot w obie strony za <b>{zl(r.price)}</b> za osobę
               {r.dep && <>, wylot {fmtDay(r.dep)}{r.ret && <>, powrót {fmtDay(r.ret)}</>}</>}
               {r.transfers != null && <>, {transfersLabel(r.transfers)}</>}.
             </p>
-            <p><a className="btn" href={searchHref(r, r.dep, r.ret)} target="_blank" rel="sponsored nofollow noopener">Sprawdź ten termin &rarr;</a></p>
+            <p><a className="btn" href={searchHref(r, r.dep, r.ret)} target="_blank" rel="sponsored nofollow noopener">Zarezerwuj ten lot &rarr;</a></p>
+            <p className="fl-live">{r.live ? <>Cena sprawdzona dziś o {at}, aktualizacja co godzinę. Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</> : <>Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</>}</p>
           </div>
         </div>
       </section>
@@ -79,7 +87,7 @@ export default async function Page({ params }: P) {
             {rows.length > 1 && (
               <>
                 <h2>Ceny lotów {r.oName} - {r.name} w kolejnych miesiącach</h2>
-                <p>Najniższa cena biletu w obie strony w danym miesiącu, z wyszukiwań z ostatnich dni. Kliknij miesiąc, żeby sprawdzić aktualne ceny.</p>
+                <p>Najniższa cena biletu w obie strony w danym miesiącu, aktualizowana co godzinę. Kliknij miesiąc, żeby zobaczyć wszystkie loty.</p>
                 <div className="fl-months">
                   {rows.map(([m, p]) => (
                     <a key={m} className={'fl-m' + (best && m === best[0] ? ' best' : '')} href={searchHref(r, `${m}-15`)} target="_blank" rel="sponsored nofollow noopener">
@@ -132,7 +140,7 @@ export default async function Page({ params }: P) {
 
             <h2>Najczęstsze pytania</h2>
             <Faq items={faq} />
-            <p className="ft-note">Ceny pochodzą z wyszukiwań w serwisie Aviasales z ostatnich 48 godzin{FLIGHTS_UPDATED ? ` (aktualizacja ${fmtDay(FLIGHTS_UPDATED)})` : ''}. Dotyczą jednej osoby w obie strony i mogą się zmienić. Linki partnerskie.</p>
+            <p className="ft-note">Ceny za jedną osobę w obie strony, aktualizowane co godzinę. Dostępność biletów w danej cenie jest ograniczona. Linki partnerskie.</p>
           </article>
         </div>
       </div>
