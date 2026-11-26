@@ -63,7 +63,6 @@ export default function HotelTerms({ id, name }: { id: number; name: string }) {
         </ul>
       )}
       {list && shown.length > 10 && !more && <button className="btn btn-ghost btn-sm" onClick={() => setMore(true)}>Pokaż wszystkie terminy ({shown.length})</button>}
-      {list && <p className="ft-note">Ceny na żywo z ofert biur podróży w serwisie wakacje.pl, za osobę. Rezerwacja i płatność na wakacje.pl.</p>}
     </div>
   );
 }

@@ -121,7 +121,6 @@ export default async function Page({ params }: P) {
                     );
                   })}
                 </ul>
-                <p className="ft-note">Oferty Exim Tours, ceny za osobę (cena pakietu podzielona przez liczbę osób w ofercie), aktualizacja codziennie.</p>
               </>
             )}
             {typeof h.id !== 'number' && exim.length === 0 && <div className="notice">Teraz brak wolnych terminów w tym hotelu. Zobacz podobne hotele w okolicy poniżej.</div>}
