@@ -2,12 +2,16 @@ import type { Country, Region } from '@/lib/types';
 import { selfTravel } from '@/lib/travelpayouts';
 import { hasFerry, ferryLink } from '@/lib/tradedoubler';
 import FlightForm from './FlightForm';
+import { routesTo, routeUrl, zl } from '@/lib/flights';
 
 // "Na własną rękę": lot (Aviasales), nocleg (Booking.com), auto (DiscoverCars). Linki partnerskie Travelpayouts.
 export default function SelfTravel({ c, r }: { c: Country; r?: Region }) {
   const s = selfTravel(c, r);
   const place = r ? r.name : c.name;
   const loc = r ? r.loc : c.content?.loc || `w kraju ${c.name}`;
+  // najtańsze loty z różnych miast (po jednym na lotnisko wylotu)
+  const seen = new Set<string>();
+  const prices = routesTo(c.slug, r?.slug).filter((x) => !seen.has(x.o) && seen.add(x.o)).slice(0, 4);
   return (
     <section className="ft" id="lot">
       <h2>Na własną rękę: lot, nocleg i auto {loc}</h2>
@@ -16,6 +20,12 @@ export default function SelfTravel({ c, r }: { c: Country; r?: Region }) {
         <div className="ft-card ft-fly">
           <div className="ft-h"><span className="ft-i" aria-hidden="true">✈</span><div><h3>Loty do: {place}</h3><small>Porównanie cen wielu linii lotniczych i agencji</small></div></div>
           <FlightForm dest={s.lotnisko} destName={place} />
+          {prices.length > 0 && (
+            <div className="ft-prices">
+              <span>Najtańsze loty w obie strony:</span>
+              {prices.map((x) => <a key={x.slug} href={routeUrl(x.slug)}>{x.oName} - {x.name} <b>od {zl(x.price)}</b></a>)}
+            </div>
+          )}
         </div>
       )}
       <div className="ft-row">

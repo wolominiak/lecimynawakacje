@@ -4,8 +4,8 @@ import { ORIGINS } from '@/lib/travelpayouts';
 
 const plus = (n: number) => { const x = new Date(); x.setDate(x.getDate() + n); return x.toISOString().slice(0, 10); };
 
-export default function FlightForm({ dest, destName }: { dest: string; destName: string }) {
-  const [o, setO] = useState('WAW');
+export default function FlightForm({ dest, destName, origin = 'WAW' }: { dest: string; destName: string; origin?: string }) {
+  const [o, setO] = useState(origin);
   const [dd, setDd] = useState(plus(30));
   const [rd, setRd] = useState(plus(37));
   const [a, setA] = useState(2);

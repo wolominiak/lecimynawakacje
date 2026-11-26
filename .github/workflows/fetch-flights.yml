@@ -1,0 +1,39 @@
+# Codzienne ceny lotów z Polski (Aviasales Data API przez Travelpayouts).
+# Wymaga sekretu TRAVELPAYOUTS_TOKEN (Settings -> Secrets and variables -> Actions).
+name: Ceny lotów
+
+on:
+  schedule:
+    - cron: '41 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-flights
+  cancel-in-progress: false
+
+jobs:
+  flights:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - name: Pobierz ceny
+        env:
+          TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
+        run: node scripts/fetch-flights.mjs
+      - name: Commit i push
+        run: |
+          git config user.name "wolominiak"
+          git config user.email "228559845+wolominiak@users.noreply.github.com"
+          git add data/flights.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Ceny lotów: aktualizacja"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin main && break; sleep 5; done

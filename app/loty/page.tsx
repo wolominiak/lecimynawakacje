@@ -4,6 +4,7 @@ import { getCountries } from '@/lib/data';
 import { countryIata, iataOf } from '@/lib/travelpayouts';
 import ServiceHub from '@/components/ServiceHub';
 import FlightSearch from '@/components/FlightSearch';
+import { allRoutes, routeUrl, zl } from '@/lib/flights';
 
 export const metadata: Metadata = seo({
   title: 'Tanie loty z Polski - porównanie cen lotów',
@@ -21,6 +22,10 @@ export default function Page() {
       if (code && !seen.has(code) && dests.length < 120) { seen.add(code); dests.push({ code, name: `${r.name}, ${c.name}` }); }
     }
   }
+  const routes = allRoutes().sort((a, b) => a.price - b.price);
+  const byO = new Map<string, typeof routes>();
+  for (const x of routes) byO.set(x.o, [...(byO.get(x.o) || []), x]);
+  const origins = [...byO.entries()];
   const links = pop.slice(0, 30).filter((c) => countryIata(c)).map((c) => ({ href: `/wakacje/${c.slug}/#lot`, label: `Loty: ${c.name}` }));
   return (
     <ServiceHub
@@ -38,6 +43,18 @@ export default function Page() {
       ]}
     >
       <FlightSearch dests={dests} />
+      {routes.length > 0 && (
+        <div className="fl-hub">
+          <h2>Najtańsze loty z Polski teraz</h2>
+          <div className="chips">{routes.slice(0, 24).map((x) => <a key={x.slug} className="chip chip-light" href={routeUrl(x.slug)}>{x.oName} - {x.name}: od {zl(x.price)}</a>)}</div>
+          {origins.map(([o, list]) => (
+            <div key={o}>
+              <h3>Loty {list[0].oFrom}</h3>
+              <div className="chips">{list.slice(0, 16).map((x) => <a key={x.slug} className="chip chip-light" href={routeUrl(x.slug)}>{x.name} od {zl(x.price)}</a>)}</div>
+            </div>
+          ))}
+        </div>
+      )}
     </ServiceHub>
   );
 }

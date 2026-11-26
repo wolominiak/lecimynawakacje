@@ -32,7 +32,9 @@
           "aviasales.com"
         ]
       }
-    }
+    },
+    "whiteLabel": "",
+    "_whiteLabelInfo": "Domena White Label (loty.lecimynawakacje.pl). Puste = linki idą do aviasales.com. Wpisać dopiero, gdy CNAME działa."
   },
   "tradedoubler": {
     "site": "3453752",

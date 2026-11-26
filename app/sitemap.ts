@@ -5,6 +5,7 @@ import { SITE } from '@/lib/affiliate';
 import { lmCountries } from '@/lib/lastminute';
 import { imageFor } from '@/lib/images';
 import { attractionsOf } from '@/lib/attractions';
+import { allRoutes } from '@/lib/flights';
 
 // Sitemapa: wszystkie indeksowane strony, ze zdjęciami (Google Grafika).
 // Data aktualizacji tylko tam, gdzie treść faktycznie zmienia się codziennie (oferty, last minute, rejsy):
@@ -45,5 +46,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     availableSubpages(c).forEach((s) => out.push(u(`/wakacje/${c.slug}/${s}/`, s === 'oferty' ? 0.8 : 0.7, { daily: s === 'oferty', img })));
     attractionsOf(c.slug).forEach((a) => out.push(u(`/wakacje/${c.slug}/atrakcje/${a.slug}/`, 0.7, { img })));
   }
+  allRoutes().forEach((r) => out.push(u(`/loty/${r.slug}/`, 0.6, { daily: true })));
   return out;
 }
