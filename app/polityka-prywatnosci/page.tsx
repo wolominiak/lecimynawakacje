@@ -18,7 +18,7 @@ export default function Privacy() {
         <h2>Jakie dane przetwarzamy</h2>
         <p>Serwis nie wymaga rejestracji i nie zbiera danych osobowych przez formularze. Serwer hostingowy (Vercel) zapisuje standardowe logi techniczne, takie jak adres IP i typ przeglądarki.</p>
         <h2>Linki partnerskie i widgety</h2>
-        <p>Na stronach znajdują się linki i widgety partnerów: wakacje.pl (program TravelLead), Exim Tours, Ferryhopper i SeePlaces (TradeDoubler), GetYourGuide, Booking.com, DiscoverCars i Aviasales (program Travelpayouts) oraz sklep esimgo.is. Po kliknięciu partner może zapisać w przeglądarce plik cookie, aby przypisać rezerwację do naszego serwisu. Na stronach działa też skrypt Travelpayouts, który zamienia linki do serwisów turystycznych na linki partnerskie i może zapisywać pliki cookie. Zasady przetwarzania danych przez partnerów opisują ich własne polityki prywatności.</p>
+        <p>Na stronach znajdują się linki i widgety partnerów: wakacje.pl (program TravelLead), Exim Tours, Ferryhopper i SeePlaces (TradeDoubler), GetYourGuide, Booking.com, DiscoverCars i Aviasales (program Travelpayouts) oraz sklep esimgo.is. Po kliknięciu partner może zapisać w przeglądarce plik cookie, aby przypisać rezerwację do naszego serwisu. Zasady przetwarzania danych przez partnerów opisują ich własne polityki prywatności.</p>
         <h2>Asystent podróży AI</h2>
         <p>Wiadomości wpisane w czacie asystenta są przesyłane do modelu Gemini firmy Google w celu przygotowania odpowiedzi. Nie zapisujemy rozmów na serwerze. Historia rozmowy jest przechowywana tylko w Twojej przeglądarce do zamknięcia karty. Nie wpisuj w czacie danych osobowych, których nie chcesz przekazywać.</p>
         <h2>Twoje prawa</h2>

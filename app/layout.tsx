@@ -4,7 +4,6 @@ import Logo from '@/components/Logo';
 import Search from '@/components/Search';
 import AssistantLauncher from '@/components/AssistantLauncher';
 import MobileMenu from '@/components/MobileMenu';
-import TpDrive from '@/components/TpDrive';
 import { DealBar } from '@/components/Promo';
 import Analytics from '@/components/Analytics';
 import { CONTINENTS, popular } from '@/lib/data';
@@ -47,7 +46,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <DealBar />
         <main>{children}</main>
         <AssistantLauncher />
-        <TpDrive />
         <Analytics />
         <footer className="ftr">
           <div className="wrap">
