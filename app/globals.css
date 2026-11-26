@@ -713,3 +713,61 @@ p { margin: 0 0 1em; }
 .sp-price s { color: #8a9aab; font-size: 0.82rem; }
 @media (max-width: 860px) { .sp-list { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 520px) { .sp-list { grid-template-columns: 1fr; } }
+
+/* Własne banery promocyjne */
+.dealbar { background: var(--sand); border-bottom: 1px solid #f3e2b5; font-size: 0.9rem; }
+.dealbar-in { display: flex; align-items: center; gap: 12px; min-height: 44px; }
+.dealbar-tag { flex: none; background: var(--ink); color: var(--sun); font-size: 0.7rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em; padding: 4px 9px; border-radius: 999px; }
+.dealbar-a { flex: 1; min-width: 0; display: flex; align-items: center; gap: 12px; color: var(--ink); text-decoration: none; }
+.dealbar-t { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.dealbar-m { color: var(--ink-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1; min-width: 0; }
+.dealbar-p { margin-left: auto; flex: none; font-weight: 800; }
+.dealbar-p small { font-weight: 600; color: var(--ink-3); }
+.dealbar-a:hover .dealbar-t b { text-decoration: underline; }
+@media (max-width: 760px) { .dealbar-m { display: none; } .dealbar-tag { display: none; } }
+
+.promo-label { position: absolute; right: 14px; top: 12px; font-size: 0.68rem; color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.05em; }
+.promo-guide { position: relative; margin: 28px 0; padding: 20px 22px; border-radius: var(--radius-sm); background: var(--soft); border: 1px solid var(--line); }
+.prose .promo-guide p { margin: 0; }
+.prose .promo-eyebrow { font-size: 0.8rem; font-weight: 700; color: var(--ocean); }
+.prose .promo-h, .promo-h { font-size: 1.1rem; font-weight: 800; margin: 2px 0 10px; }
+.prose .promo-rows { list-style: none; padding: 0; margin: 0; }
+.promo-rows li { border-top: 1px solid var(--line); margin: 0; padding: 0; }
+.promo-rows li::before { display: none; }
+.promo-rows a { display: flex; align-items: center; gap: 12px; padding: 9px 0; color: var(--ink); text-decoration: none; }
+.promo-rows a:hover b { text-decoration: underline; }
+.pr-main { flex: 1; min-width: 0; font-size: 0.92rem; }
+.pr-main small { display: block; color: var(--ink-3); font-size: 0.8rem; }
+.pr-price { flex: none; font-weight: 800; }
+.promo-skel li { height: 52px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.7), transparent) var(--soft); }
+.prose .promo-more { display: inline-block; margin-top: 10px; font-weight: 700; font-size: 0.9rem; }
+
+.promo-side { position: relative; background: var(--teal-soft); }
+.promo-ico { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: #fff; color: var(--ocean); }
+.promo-side h3 { margin: 12px 0 4px; }
+.promo-side p { font-size: 0.9rem; color: var(--ink-2); }
+.promo-side .promo-from { margin: 10px 0 12px; color: var(--ink); min-height: 1.6em; }
+.promo-from b { font-size: 1.35rem; }
+.promo-side .btn { width: 100%; justify-content: center; }
+
+.promo-season { position: relative; display: flex; align-items: center; gap: 18px; margin: 8px 0 4px; padding: 18px 22px; border-radius: var(--radius-sm); background: var(--sand); border: 1px solid #f3e2b5; }
+.promo-season .promo-ico { color: #b7791f; flex: none; }
+.ps-body { flex: 1; min-width: 0; }
+.ps-body .promo-h { margin: 0; }
+.ps-lead { margin: 0 0 8px; font-size: 0.85rem; color: var(--ink-3); }
+.ps-dests { display: flex; flex-wrap: wrap; gap: 8px; min-height: 34px; }
+.ps-dests a { background: #fff; border: 1px solid #f3e2b5; border-radius: 999px; padding: 6px 12px; font-size: 0.88rem; font-weight: 700; color: var(--ink); text-decoration: none; }
+.ps-dests a span { font-weight: 600; color: var(--ocean); }
+.ps-dests a:hover { border-color: var(--sun); }
+.ps-skel { width: 60%; height: 34px; border-radius: 999px; background: rgba(255,255,255,0.6); }
+.promo-season .btn { flex: none; }
+@media (max-width: 760px) { .promo-season { flex-wrap: wrap; } .promo-season .promo-ico { display: none; } .promo-season .btn { width: 100%; justify-content: center; } }
+
+/* Zgoda na cookies */
+.consent { position: fixed; left: 16px; bottom: 16px; z-index: 90; max-width: 420px; background: #fff; border-radius: var(--radius-sm); box-shadow: 0 10px 40px rgba(14,27,43,0.22); padding: 16px 18px; font-size: 0.88rem; }
+.consent p { margin: 0 0 12px; color: var(--ink-2); }
+.consent-b { display: flex; gap: 8px; justify-content: flex-end; }
+@media (max-width: 560px) { .consent { left: 8px; right: 8px; bottom: 8px; max-width: none; } }
+.linkbtn { background: none; border: 0; padding: 0; color: var(--ocean); text-decoration: underline; cursor: pointer; font: inherit; }
+.prose .promo-rows a { color: var(--ink); text-decoration: none; font-weight: 400; }
+.prose .promo-rows a b { font-weight: 700; }

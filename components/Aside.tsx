@@ -2,6 +2,9 @@ import type { Country } from '@/lib/types';
 import { getByContinent, continentOf } from '@/lib/data';
 import { wakacjeUrl } from '@/lib/affiliate';
 import { EsimBox } from './Esim';
+import { SidePromo } from './Promo';
+
+const EXOTIC = new Set(['tajlandia', 'dominikana', 'tanzania', 'meksyk', 'malediwy', 'sri-lanka', 'wietnam', 'indonezja', 'kenia', 'kuba', 'mauritius', 'seszele']);
 
 export default function Aside({ c, wakacjePath, ctaTitle }: { c: Country; wakacjePath?: string; ctaTitle?: string }) {
   const others = getByContinent(c.continent).filter((x) => x.slug !== c.slug && x.content).sort((a, b) => (b.content!.popularity || 0) - (a.content!.popularity || 0)).slice(0, 8);
@@ -16,6 +19,7 @@ export default function Aside({ c, wakacjePath, ctaTitle }: { c: Country; wakacj
           <p style={{ fontSize: '0.78rem', margin: '10px 0 0', opacity: 0.8 }}>Oferty wakacje.pl, link partnerski</p>
         </div>
       )}
+      <SidePromo seed={c.slug} exclude={EXOTIC.has(c.slug) ? 'egzotyka' : undefined} />
       <EsimBox c={c} />
       {!!ct?.regions?.length && (
         <div className="box">

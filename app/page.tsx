@@ -1,4 +1,5 @@
 import CategoryBar from '@/components/CategoryBar';
+import { SeasonBanner } from '@/components/Promo';
 import WorldMap from '@/components/WorldMap';
 import Search from '@/components/Search';
 import { DestCard } from '@/components/Cards';
@@ -43,6 +44,7 @@ export default function Home() {
         </div>
       </section>
       <div className="wrap"><CategoryBar title="Jakich wakacji szukasz?" /></div>
+      <div className="wrap"><SeasonBanner /></div>
 
       <section className="section">
         <div className="wrap">

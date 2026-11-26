@@ -3,7 +3,7 @@ import { seo, ogImage, pick } from '@/lib/seo';
 import { SITE } from '@/lib/affiliate';
 import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
-import { getCountries, getCountry, getCountryByCode, continentOf, isIndexable, MONTHS, availableSubpages } from '@/lib/data';
+import { getCountries, getCountry, getCountryByCode, continentOf, isIndexable, MONTHS, availableSubpages, wakacjeCountryId } from '@/lib/data';
 import CountryHero from '@/components/CountryHero';
 import Tabs from '@/components/Tabs';
 import Aside from '@/components/Aside';
@@ -13,6 +13,7 @@ import { GygWidget } from '@/components/Gyg';
 import { gygSearchUrl } from '@/lib/affiliate';
 import { EsimSection } from '@/components/Esim';
 import SelfTravel from '@/components/SelfTravel';
+import { GuideDeals } from '@/components/Promo';
 
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -79,6 +80,7 @@ export default async function CountryPage({ params }: P) {
                 <h2>{c.name} na wakacje: co warto wiedzieć</h2>
                 {ct.intro.map((p, i) => <p key={i}>{p}</p>)}
                 {ct.highlights && <ul className="hl">{ct.highlights.map((h, i) => <li key={i}>{h}</li>)}</ul>}
+                {wakacjeCountryId(c.slug) && <GuideDeals countryId={wakacjeCountryId(c.slug)!} loc={ct.loc} allHref={`/wakacje/${c.slug}/oferty/`} />}
 
                 {!!ct.regions?.length && (
                   <>

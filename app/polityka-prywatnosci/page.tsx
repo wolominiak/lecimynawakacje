@@ -1,3 +1,4 @@
+import { ConsentLink } from '@/components/Analytics';
 import type { Metadata } from 'next';
 import { seo, ogImage } from '@/lib/seo';
 import Crumbs from '@/components/Crumbs';
@@ -21,6 +22,8 @@ export default function Privacy() {
         <h2>Asystent podróży AI</h2>
         <p>Wiadomości wpisane w czacie asystenta są przesyłane do modelu Gemini firmy Google w celu przygotowania odpowiedzi. Nie zapisujemy rozmów na serwerze. Historia rozmowy jest przechowywana tylko w Twojej przeglądarce do zamknięcia karty. Nie wpisuj w czacie danych osobowych, których nie chcesz przekazywać.</p>
         <h2>Twoje prawa</h2>
+        <h2>Statystyki (Google Analytics)</h2>
+        <p>Korzystamy z Google Analytics 4, żeby sprawdzać, które strony są czytane i skąd przychodzą odwiedzający. Pliki cookie Google Analytics zapisujemy dopiero po Twojej zgodzie w okienku na dole strony. Bez zgody Google otrzymuje tylko anonimowe sygnały bez plików cookie. Nie używamy danych do reklam personalizowanych. Decyzję możesz zmienić w każdej chwili: <ConsentLink /></p>
         <p>Możesz w każdej chwili usunąć pliki cookie w ustawieniach przeglądarki lub zablokować ich zapisywanie.</p>
       </section>
     </div>

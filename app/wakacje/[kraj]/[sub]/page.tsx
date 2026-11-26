@@ -14,6 +14,7 @@ import type { Country, Region } from '@/lib/types';
 import CountryHero from '@/components/CountryHero';
 import Tabs from '@/components/Tabs';
 import Aside from '@/components/Aside';
+import { GuideDeals } from '@/components/Promo';
 import Climate from '@/components/Climate';
 import { GygWidget } from '@/components/Gyg';
 import { attractionUrl } from '@/lib/attractions';
@@ -121,6 +122,7 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
             <h2>{r.name}: dlaczego warto</h2>
             {r.intro.map((p, i) => <p key={i}>{p}</p>)}
             {r.highlights && <ul className="hl">{r.highlights.map((h, i) => <li key={i}>{h}</li>)}</ul>}
+            {wakacjeCountryId(c.slug) && <GuideDeals countryId={wakacjeCountryId(c.slug)!} loc={ct.loc} region={r.name} regionLoc={r.loc} allHref={`/wakacje/${c.slug}/oferty/`} />}
             {r.places?.length ? (
               <>
                 <h2>Miejscowości i miejsca warte uwagi</h2>

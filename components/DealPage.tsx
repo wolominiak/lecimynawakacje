@@ -2,6 +2,7 @@ import LastMinuteBrowser from './LastMinuteBrowser';
 import Crumbs from './Crumbs';
 import Faq from './Faq';
 import CategoryBar from './CategoryBar';
+import { SeasonBanner } from './Promo';
 import { catCountries, type DealCat } from '@/lib/categories';
 import { getCountry } from '@/lib/data';
 
@@ -21,6 +22,7 @@ export default function DealPage({ cat }: { cat: DealCat }) {
         </div>
       </section>
       <div className="wrap"><CategoryBar active={cat.slug} /></div>
+      <div className="wrap"><SeasonBanner /></div>
       <div className="wrap section-sm">
         <LastMinuteBrowser countries={list} cfg={cat.cfg} globalPool={cat.globalPool} />
       </div>
