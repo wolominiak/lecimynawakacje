@@ -93,7 +93,7 @@ export function GuideDeals({ countryId, loc, region, regionLoc, allHref }: { cou
           {list.map((o) => (
             <li key={o.id}>
               <a href={offerHref(o, 'przewodnik')} target="_blank" rel="sponsored nofollow noopener">
-                <span className="pr-main"><b>{o.hotel}</b>{o.stars ? ` ${o.stars}*` : ''}<small>{[fmtDate(o.date), nights(o.days), o.board, o.from].filter(Boolean).join(', ')}</small></span>
+                <span className="pr-main"><b>{o.hotel}</b>{o.stars ? ` ${o.stars}*` : ''}<small>{[fmtDate(o.date) + (o.date.slice(0, 4) !== String(new Date().getFullYear()) ? '.' + o.date.slice(0, 4) : ''), nights(o.days), o.board, o.from].filter(Boolean).join(', ')}</small></span>
                 <span className="pr-price">{fmtPrice(o.price)}</span>
               </a>
             </li>
