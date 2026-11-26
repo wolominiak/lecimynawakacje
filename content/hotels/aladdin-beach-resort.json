@@ -1,0 +1,136 @@
+{
+ "id": 7204,
+ "slug": "aladdin-beach-resort",
+ "name": "Aladdin Beach Resort",
+ "country": "egipt",
+ "place": [
+  "Egipt",
+  "Hurghada"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/aladdin-beach-resort-rozrywka-zjezdzalnia-aquapark-basen-teren-hotelu-1333449171-570-428.jpg",
+ "city": "Hurghada",
+ "intro": [
+  "Aladdin Beach Resort to czterogwiazdkowy obiekt położony bezpośrednio przy prywatnej plaży w Hurghadzie, w dzielnicy Village Road. Hotel oferuje bogate zaplecze rekreacyjne i jest idealnym miejscem dla rodzin z dziećmi oraz par, szukających aktywnego wypoczynku nad Morzem Czerwonym.",
+  "Zlokalizowany zaledwie 7-8 km od lotniska, hotel zapewnia łatwy dostęp do atrakcji regionu, jednocześnie oferując spokój i szeroki wachlarz udogodnień, w tym dostęp do aquaparku w sąsiednim hotelu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Aladdin Beach Resort znajduje się bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży z łagodnym wejściem do morza. Leżaki, parasole i ręczniki są dostępne bezpłatnie zarówno na plaży, jak i przy basenach. Obiekt jest położony w dzielnicy Village Road, około 7-8 km od lotniska w Hurghadzie i około 15-16 km od centrum miasta."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 439 pokoi w budynkach 1- i 2-piętrowych oraz bungalowach. Dostępne są pokoje standardowe, deluxe, rodzinne oraz junior suite. Każdy pokój wyposażony jest w klimatyzację, łazienkę z wanną lub prysznicem, balkon lub taras, telewizor, minibar oraz sejf. Część starszych bungalowów oczekuje na renowację."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja \"Agrabah\" serwuje dania kuchni międzynarodowej w formie bufetu. Goście mogą również skorzystać z restauracji à la carte (włoska, azjatycka, mongolska, owoce morza, plażowa), raz bezpłatnie po wcześniejszej rezerwacji. Na terenie obiektu znajduje się kilka barów, w tym bar przy basenie, bar na plaży i lobby bar czynny 24h. Pakiet All Inclusive obejmuje śniadania, obiady, kolacje, przekąski, popołudniową kawę/herbatę z ciastkami oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje kilkoma odkrytymi basenami, w tym podgrzewanymi w sezonie zimowym oraz brodzikiem dla dzieci. Goście mają bezpłatny dostęp do aquaparku w siostrzanym hotelu Ali Baba Palace. Dostępne są również siłownia, korty tenisowe, tenis stołowy, siatkówka plażowa, rzutki i minigolf. Za dodatkową opłatą dostępne są sporty wodne oraz centrum spa z sauną, łaźnią parową i masażami."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano brodzik, plac zabaw (wewnętrzny i zewnętrzny) oraz mini klub dla dzieci w wieku 4-12 lat, oferujący zajęcia w ciągu dnia i mini disco wieczorem. Międzynarodowy zespół animatorów prowadzi różnorodne animacje i programy rozrywkowe dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej plaży.",
+  "Dostęp do aquaparku w sąsiednim hotelu Ali Baba Palace.",
+  "Dobre programy animacyjne dla dorosłych i dzieci.",
+  "Dobra jakość i różnorodność jedzenia.",
+  "Wspólna infrastruktura z sąsiednimi resortami tworzy duży kompleks."
+ ],
+ "cons": [
+  "Część pokoi (starsze bungalowy) wymaga renowacji.",
+  "Teren hotelu nie jest szczególnie zielony.",
+  "Wejście do morza w niektórych miejscach może być kamieniste.",
+  "Wi-Fi może mieć średnią prędkość, zwłaszcza wieczorami.",
+  "Dyskoteka może wydawać się przestarzała."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, goście mają bezpłatny dostęp do aquaparku w sąsiednim siostrzanym hotelu Ali Baba Palace."
+  },
+  {
+   "q": "Jaka jest odległość hotelu od lotniska?",
+   "a": "Hotel jest oddalony o około 7-8 km od międzynarodowego lotniska w Hurghadzie (HRG)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne bezpłatnie w pokojach i miejscach publicznych, choć prędkość może być średnia i słabsza wieczorami."
+  },
+  {
+   "q": "Czy w hotelu są podgrzewane baseny?",
+   "a": "Tak, niektóre odkryte baseny są podgrzewane w sezonie zimowym."
+  }
+ ],
+ "address": "17 Village Road, Hurghada, Red Sea, Egypt",
+ "adultsOnly": false,
+ "airportKm": 7,
+ "airportName": "Hurghada (HRG)",
+ "amenities": [
+  "Klimatyzacja",
+  "Prywatna łazienka",
+  "Balkon lub taras",
+  "Telewizor z płaskim ekranem",
+  "Minibar",
+  "Telefon",
+  "Sejf"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Village Road",
+ "bars": null,
+ "beachDistanceM": 0,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 15,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1995,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": 2007,
+ "restaurants": null,
+ "roomTypes": [
+  "Pokoje standardowe (anex, bungalow)",
+  "Pokoje deluxe (z widokiem na ogród)",
+  "Pokoje rodzinne (family suite)",
+  "Junior suite"
+ ],
+ "rooms": 439,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.1062435,
+  "lon": 33.8293049,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "alida.lv",
+  "hwaidakhotels.com",
+  "hoteles.com",
+  "hurghadaehotel.com",
+  "reserving.com",
+  "com-hurghada.com",
+  "mapy.com"
+ ],
+ "updated": "2026-11-26"
+}
