@@ -1,0 +1,134 @@
+{
+ "id": 1039,
+ "slug": "karbel",
+ "name": "Karbel",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Likijskie",
+  "Oludeniz"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/karbel-sport-i-rekreacja-basen-790277113-570-428.jpg",
+ "city": "Oludeniz",
+ "intro": [
+  "Hotel Karbel to czterogwiazdkowy obiekt położony w spokojnej okolicy Oludeniz, otoczony górami i zielonym ogrodem palmowym. Składa się z trzynastu trzypiętrowych budynków utrzymanych w tradycyjnym stylu, co nadaje mu kameralny charakter. Hotel przeszedł remont w 2005 roku, a pokoje i łazienki były odnawiane, prezentując świeży wygląd.",
+  "Obiekt jest polecany zarówno dla rodzin, jak i par, które szukają relaksującego wypoczynku w dobrej cenie. Jego centralna lokalizacja sprawia, że jest doskonałym wyborem dla osób ceniących bliskość plaży oraz dostęp do lokalnych atrakcji, sklepów i restauracji, bez konieczności korzystania z luksusowych udogodnień."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Karbel znajduje się w Oludeniz, w dzielnicy Fethiye. Jest oddalony o zaledwie 400-650 metrów od publicznej plaży Belcekiz/Oludeniz, do której można dojść w 5-10 minut. Plaża jest piaszczysto-żwirowa lub kamienista, a leżaki i parasole są dostępne za dodatkową opłatą. W pobliżu hotelu, w odległości 2-10 minut spacerem, znajdują się liczne sklepy, bary i restauracje."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 213 pokoi, w tym dwuosobowe, rodzinne, superior oraz junior suite. Standardowe wyposażenie obejmuje balkon (niektóre pokoje w piwnicy mogą go nie mieć), klimatyzację, minibar, telewizor z kanałami satelitarnymi, telefon, suszarkę do włosów oraz prywatną łazienkę z prysznicem lub wanną. Sejf jest dostępny za dodatkową opłatą. Pokoje są codziennie sprzątane."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Karbel dostępna jest restauracja główna serwująca posiłki w formie bufetu (śniadanie, obiad, kolacja) oraz restauracja à la carte (dodatkowo płatna, wymagana rezerwacja). Na terenie obiektu znajdują się cztery bary: Pool Bar, Lobby Bar, Terrace Bar i Snack Bar. Pakiet All Inclusive obejmuje lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-23:00, a także przekąski, lody oraz kawę i ciasto w ciągu dnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami zewnętrznymi, w tym jednym przeznaczonym tylko dla dorosłych, oraz dwoma basenami dla dzieci. Dla najmłodszych gości przygotowano plac zabaw i mini klub. Dorośli mogą korzystać z siłowni, sauny i hammamu w strefie spa, a także z bilarda, tenisa stołowego i rzutek. Wieczorem hotel organizuje okazjonalne animacje, takie jak bingo, wieczory tematyczne i karaoke."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum Oludeniz",
+  "Czyste i niedawno odnowione pokoje",
+  "Przyjazny i pomocny personel",
+  "Smaczne jedzenie z wystarczającym wyborem",
+  "Dostęp do udogodnień spa i siłowni"
+ ],
+ "cons": [
+  "Brak zjeżdżalni wodnych/aquaparku",
+  "Potencjalny hałas z pobliskich barów/ulicy",
+  "Ograniczone animacje",
+  "Możliwe problemy z ciśnieniem wody pod prysznicem",
+  "Wczesne rezerwowanie leżaków przy basenie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Karbel jest oddalony o około 400-650 metrów od plaży Oludeniz, co oznacza krótki, 5-10 minutowy spacer."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie wodne?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni wodnych. Dostępne są dwa baseny zewnętrzne i dwa baseny dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Nie, hotel Karbel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak baseny dla dzieci, plac zabaw i mini klub."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Dalaman Airport (DLM), oddalone o około 60-70 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych, choć sygnał w pokojach może być ograniczony."
+  },
+  {
+   "q": "Czy hotel oferuje animacje?",
+   "a": "Tak, hotel oferuje okazjonalne wieczorne animacje, takie jak bingo, wieczory tematyczne (np. tureckie z tańcem brzucha), karaoke i pokazy."
+  }
+ ],
+ "address": "Ölüdeniz Mahallesi Kıdırak Caddesi No:5, Fethiye/Muğla",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Dalaman Airport (DLM)",
+ "amenities": [
+  "sauna",
+  "hammam",
+  "masaż",
+  "bilard",
+  "tenis stołowy",
+  "rzutki",
+  "plac zabaw"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Fethiye",
+ "bars": 4,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysto-żwirowa lub kamienista",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby ceniące dobrą lokalizację"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy/twin",
+  "pokój rodzinny",
+  "pokój superior",
+  "junior suite"
+ ],
+ "rooms": 213,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5496066,
+  "lon": 29.125948,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelscombined.com",
+  "karbelhotel.com",
+  "sunshine.co.uk",
+  "planetofhotels.com",
+  "guestreservations.com",
+  "tui.co.uk",
+  "firstchoice.co.uk",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-26"
+}

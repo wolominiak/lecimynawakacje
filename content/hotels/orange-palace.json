@@ -1,0 +1,145 @@
+{
+ "id": 25219,
+ "slug": "orange-palace",
+ "name": "Orange Palace",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Side"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/orange-palace-zjezdzalnia-basen-1487003443-570-428.jpg",
+ "city": "Side",
+ "intro": [
+  "Hotel Orange Palace to pięciogwiazdkowy obiekt położony w turystycznej dzielnicy Evrenseki w Side, na Riwierze Tureckiej. Otwarty w 2014 roku i odnowiony w 2025/2026 roku, oferuje komfortowe warunki pobytu w dwóch czteropiętrowych budynkach.",
+  "Hotel jest polecany zarówno dla par, jak i rodzin z dziećmi, dzięki szerokiej ofercie udogodnień, w tym aquaparkowi, mini klubowi i animacjom. Bliskość prywatnej, piaszczystej plaży z bezpłatnym transferem to dodatkowy atut."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Orange Palace znajduje się w dzielnicy Evrenseki w Side, około 350 metrów od prywatnej, piaszczystej plaży Side West Beach. Na plażę kursuje bezpłatny bus hotelowy. Leżaki, parasole i ręczniki plażowe są dostępne bezpłatnie, a wejście do morza jest piaszczyste i płytkie. Centrum Side oddalone jest o około 6-7 km, a lotnisko w Antalyi o 57-64 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 180 pokojami, które zostały całkowicie odnowione zimą 2025/2026. Wszystkie pokoje są klimatyzowane, wyposażone w balkon (niektóre z widokiem na góry), podłogę parkietową, telewizor satelitarny, minibar (uzupełniany w wodę i napoje bezalkoholowe), czajnik elektryczny, sejf i suszarkę do włosów. Dostępne są pokoje standardowe, ekonomiczne, rodzinne, superior oraz King Suite."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach formuły all inclusive hotel oferuje śniadania, późne śniadania, obiady, kolacje (w tym a la carte), nocne przekąski oraz różnorodne przekąski w ciągu dnia, takie jak gozleme, fast food i wypieki. Do dyspozycji gości są dwie restauracje - główna bufetowa i a la carte - oraz dwa bary, w tym bar przy basenie i bar na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży basen zewnętrzny ze słodką wodą, basen kryty oraz oddzielny basen dla dzieci. Dodatkową atrakcją jest aquapark ze zjeżdżalniami. Hotel oferuje również centrum spa z sauną, łaźnią turecką i siłownią. Goście mogą korzystać z tenisa stołowego, rzutek i siatkówki, a także z animacji organizowanych przez personel."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub dla dzieci w wieku 4-12 lat oraz plac zabaw. Dodatkowo, obecność aquaparku i basenu dla dzieci sprawia, że jest to dobre miejsce na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Prywatna, piaszczysta plaża z bezpłatnym transportem",
+  "Aquapark i udogodnienia dla dzieci",
+  "Czyste i odnowione pokoje",
+  "Dobre jedzenie i rozrywka",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Starsze opinie wskazywały na ograniczoną ofertę napojów alkoholowych",
+  "Możliwe chaotyczna atmosfera w restauracji (starsze opinie)",
+  "Niektóre źródła podają sejf za opłatą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Orange Palace jest oddalony od morza o około 350 metrów. Na plażę kursuje bezpłatny bus hotelowy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel dysponuje aquaparkiem ze zjeżdżalniami."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Antalya (AYT), oddalone o około 57-64 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje mini klub, plac zabaw, basen dla dzieci oraz aquapark."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych i w pokojach."
+  },
+  {
+   "q": "Kiedy hotel był ostatnio remontowany?",
+   "a": "Pokoje hotelowe były całkowicie odnawiane zimą 2025/2026."
+  }
+ ],
+ "address": "Evren Mahallesi 29, Sokak No. 11, 07600 Side, Turcja",
+ "adultsOnly": false,
+ "airportKm": 60.5,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "prywatna plaża",
+  "bezpłatny transfer na plażę",
+  "leżaki i parasole na plaży",
+  "ręczniki plażowe",
+  "centrum spa",
+  "sauna",
+  "łaźnia turecka (hammam)",
+  "tenis stołowy",
+  "rzutki",
+  "siatkówka",
+  "minibar w pokoju",
+  "czajnik elektryczny w pokoju",
+  "sejf w pokoju",
+  "suszarka do włosów",
+  "bezpłatne kosmetyki",
+  "pokoje dla osób niepełnosprawnych"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Evrenseki",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 6.5,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2014,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2026,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Room: około 26 m², z jednym łóżkiem podwójnym i jednym pojedynczym, dla maksymalnie 3 osób.",
+  "Economy Double Room: około 20-21.5 m², z jednym łóżkiem podwójnym, bez balkonu, dla maksymalnie 2 osób.",
+  "Family Room: dwie oddzielne sypialnie, około 37.7 m², z dwoma łóżkami pojedynczymi i jednym podwójnym, dla maksymalnie 4 osób.",
+  "Superior Room: około 33 m², z łóżkiem typu king-size, łazienką z dwiema umywalkami, oddzielnym prysznicem i WC, pakietem VIP, szlafrokiem, menu poduszkowym, dużym telewizorem LED i powitalnym poczęstunkiem.",
+  "King Suite: około 85 m², z łóżkiem typu king-size, jacuzzi w pokoju, garderobą, dużym balkonem z zestawem wypoczynkowym i leżakiem, śniadaniem do pokoju."
+ ],
+ "rooms": 180,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.8076526,
+  "lon": 31.3501444,
+  "src": "osm"
+ },
+ "sources": [
+  "kayak.com",
+  "directbooking.ro",
+  "holidaycheck.at",
+  "reserving.com",
+  "expedia.com",
+  "booking.com",
+  "thomascook.com",
+  "travelyalla.com"
+ ],
+ "updated": "2026-11-26"
+}

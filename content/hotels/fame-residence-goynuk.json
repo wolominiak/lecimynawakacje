@@ -1,0 +1,137 @@
+{
+ "id": 7828,
+ "slug": "fame-residence-goynuk",
+ "name": "Fame Residence Goynuk",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Goynuk"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/fame-residence-goynuk-basen-826060483-570-428.jpg",
+ "city": "Goynuk",
+ "intro": [
+  "Fame Residence Goynuk to czterogwiazdkowy hotel położony w miejscowości Goynuk, w regionie Kemer na Riwierze Tureckiej. Obiekt znajduje się w centrum miejscowości, zaledwie około 90-100 metrów od prywatnej, piaszczysto-żwirowej plaży. Hotel, otwarty w 1998 roku i częściowo odnowiony, oferuje komfortowe warunki zakwaterowania w 257 pokojach.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, oferując szereg udogodnień i atrakcji dla najmłodszych, w tym mini klub, basen i animacje. Goście mogą korzystać z formuły All Inclusive, która obejmuje posiłki, przekąski oraz wybrane lokalne napoje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Fame Residence Goynuk usytuowany jest w centrum miejscowości Goynuk, w regionie Kemer. Odległość od prywatnej plaży wynosi około 90-100 metrów, a dojście do niej prowadzi przez drogę. Plaża jest piaszczysto-żwirowa/kamienista, z szybko pogłębiającą się wodą. Na plaży dostępne są bezpłatne leżaki, parasole i ręczniki."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 257 pokojami, w tym standardowymi, rodzinnymi (jedno- i dwupokojowymi superior) oraz przystosowanymi dla osób niepełnosprawnych. Wszystkie pokoje wyposażone są w klimatyzację, telewizor, sejf, minibar, łazienkę oraz bezpłatne Wi-Fi. Większość pokoi posiada również balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu oraz dwie restauracje à la carte (włoska i rybna), które są dodatkowo płatne. Goście mogą korzystać z kilku barów, w tym Lobby Bar, Pool Bar i Beach Bar. Formuła All Inclusive obejmuje śniadania, obiady, kolacje, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-00:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny zewnętrzne, jeden basen kryty oraz basen dla dzieci. Hotel posiada aquapark z trzema zjeżdżalniami. Na terenie obiektu znajduje się centrum fitness, a także spa z sauną, łaźnią turecką i jacuzzi (masaże i zabiegi są płatne). Hotel oferuje dzienne i wieczorne programy animacyjne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Fame Residence Goynuk to hotel przyjazny rodzinom z dziećmi. Dla najmłodszych przygotowano basen, plac zabaw, mini disco oraz mini klub dla dzieci w wieku od 4 do 12 lat. Animacje są dostępne zarówno dla dorosłych, jak i dla dzieci."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel",
+  "Dobra lokalizacja przy plaży",
+  "Różnorodność jedzenia",
+  "Dobre udogodnienia dla dzieci",
+  "Animacje"
+ ],
+ "cons": [
+  "Zbyt wiele miejsc dla palących",
+  "Potencjalne zatłoczenie plaży",
+  "Brak podgrzewanego basenu",
+  "Płatne restauracje à la carte",
+  "Szybko pogłębiająca się woda na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel jest położony około 90-100 metrów od prywatnej, piaszczysto-żwirowej plaży, do której prowadzi przejście przez drogę."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Antalya (AYT), oddalone o około 40-52 km. Czas transferu wynosi około 50 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada aquapark z trzema zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując mini klub, basen dla dzieci, plac zabaw i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych (lobby)."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "Cumhuriyet Mah Ahu Ünal Aysal Cad. No: 14, Goynuk, Kemer, Antalya, Turcja, 07970",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Lotnisko Antalya (AYT)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Aerobik",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Joga",
+  "Mini klub dla dzieci",
+  "Plac zabaw dla dzieci",
+  "Mini disco"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kemer",
+ "bars": 6,
+ "beachDistanceM": 90,
+ "beachType": "piaszczysto-żwirowa/kamienista",
+ "centerKm": 0,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1998,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2019,
+ "restaurants": 3,
+ "roomTypes": [
+  "pokoje standardowe (18-22 m²)",
+  "pokoje rodzinne (25-32 m², jedno- i dwupokojowe superior)",
+  "pokoje dla osób niepełnosprawnych"
+ ],
+ "rooms": 257,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.66362,
+  "lon": 30.56271,
+  "src": "web"
+ },
+ "sources": [
+  "onthebeach.ie",
+  "agoda.com",
+  "loveholidays.com",
+  "corendon.nl",
+  "kemerroyalhotel.com",
+  "odeontravel.rs",
+  "hrs.com",
+  "d-reizen.nl"
+ ],
+ "updated": "2026-11-26"
+}

@@ -1,0 +1,135 @@
+{
+ "id": 29121,
+ "slug": "club-yali-hotels-resort",
+ "name": "Club Yali Hotels & Resort",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Kusadasi"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/club-yali-hotels-resort-basen-teren-hotelu-1824289464-570-428.jpg",
+ "city": "Gümüldür",
+ "intro": [
+  "Club Yali Hotels & Resort to pięciogwiazdkowy obiekt położony bezpośrednio przy prywatnej, piaszczystej plaży w miejscowości Gümüldür, na malowniczym Wybrzeżu Egejskim w Turcji. Hotel oferuje rozbudowaną infrastrukturę rekreacyjną i gastronomiczną, zapewniając komfortowy wypoczynek w otoczeniu zielonych ogrodów.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par oraz wszystkich, którzy poszukują zarówno relaksu, jak i aktywnego spędzania czasu. Bliskość aquaparku Yali Castle oraz bogaty program animacyjny sprawiają, że każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Club Yali Hotels & Resort znajduje się w Gümüldür, około 3 km od centrum miejscowości. Położony jest bezpośrednio przy prywatnej, piaszczystej plaży z certyfikatem Błękitnej Flagi i łagodnym wejściem do morza. Leżaki, parasole są bezpłatne, a ręczniki dostępne za kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje ponad 350 pokojami, w tym standardowymi, rodzinnymi oraz bungalowami. Wszystkie pokoje wyposażone są w klimatyzację, telewizję satelitarną, minibar, sejf, suszarkę do włosów oraz balkon lub taras. Dostępne są również pokoje przystosowane dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Oferta Ultra All Inclusive obejmuje posiłki w restauracji głównej oraz możliwość skorzystania raz w tygodniu z jednej z trzech restauracji à la carte (rybnej, włoskiej, tureckiej). Na terenie hotelu znajdują się również cukiernia, snack bar, lobby bar oraz cztery bary, w tym jeden czynny do późnych godzin nocnych. Minibar jest uzupełniany napojami bezalkoholowymi przy przyjeździe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji trzy baseny zewnętrzne oraz jeden basen kryty, podgrzewany poza sezonem. Dodatkową atrakcją jest aquapark Yali Castle, oddalony o 200 metrów, z bezpłatnym wstępem w dni powszednie. Hotel oferuje bogaty program animacyjny, siłownię oraz szeroki wybór sportów, takich jak tenis, siatkówka plażowa czy minigolf."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano trzy brodziki, plac zabaw oraz mini kluby dla różnych grup wiekowych (4-7 lat, 8-12 lat, 13-17 lat). Hotel organizuje również dzienne i wieczorne animacje, w tym mini disco, zapewniając rozrywkę dla dzieci przez cały dzień."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Bezpłatny wstęp do pobliskiego aquaparku Yali Castle",
+  "Bogata oferta dla dzieci (mini kluby, brodziki, animacje)",
+  "Różnorodna kuchnia w ramach Ultra All Inclusive",
+  "Duże ogrody i czystość obiektu"
+ ],
+ "cons": [
+  "Niektóre pokoje i wyposażenie mogą być przestarzałe",
+  "Ograniczony zasięg Wi-Fi",
+  "Minibar uzupełniany napojami bezalkoholowymi tylko przy przyjeździe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Club Yali Hotels & Resort jest położony bezpośrednio przy prywatnej, piaszczystej plaży z łagodnym wejściem do morza."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Izmir Adnan Menderes Airport (ADB), oddalone o około 40-52 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnego aquaparku na terenie, ale aquapark Yali Castle ze zjeżdżalniami znajduje się około 200 metrów od obiektu i oferuje bezpłatny wstęp w dni powszednie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi. Oferuje liczne udogodnienia, takie jak brodziki, place zabaw, mini kluby dla różnych grup wiekowych oraz bogaty program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych, choć niektórzy goście zgłaszają ograniczony zasięg."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Ataturk Mah - Gumussu Cad N 17, 35490, Gümüldür",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Izmir Adnan Menderes Airport (ADB)",
+ "amenities": [
+  "Prywatna plaża",
+  "Aquapark Yali Castle (bezpłatny wstęp)",
+  "Mini kluby dla dzieci",
+  "Animacje dzienne i wieczorne",
+  "Centrum SPA",
+  "Siłownia",
+  "Korty tenisowe",
+  "Sporty wodne"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Wybrzeże Egejskie",
+ "bars": 5,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "aktywny wypoczynek",
+  "relaks"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1998,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": 2010,
+ "restaurants": 4,
+ "roomTypes": [
+  "pokój standardowy z klimatyzacją, telefonem, TV sat, minibarem, sejfem, zestawem wypoczynkowym, suszarką do włosów, łazienką z prysznicem/wanną, marmurową podłogą, balkonem/tarasem",
+  "pokój rodzinny (1 lub 2 sypialnie) z klimatyzacją, telefonem, TV sat, minibarem, sejfem, zestawem wypoczynkowym, suszarką do włosów, łazienką z prysznicem/wanną, marmurową podłogą, balkonem/tarasem",
+  "bungalow z klimatyzacją, telefonem, TV sat, minibarem, sejfem, zestawem wypoczynkowym, suszarką do włosów, łazienką z prysznicem/wanną, marmurową podłogą, balkonem/tarasem",
+  "pokój w budynku aneksowym z klimatyzacją, telefonem, TV sat, minibarem, sejfem, zestawem wypoczynkowym, suszarką do włosów, łazienką z prysznicem/wanną, marmurową podłogą, balkonem/tarasem",
+  "pokój przystosowany dla osób niepełnosprawnych"
+ ],
+ "rooms": 350,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "directbooking.ro",
+  "travelodeal.co.uk",
+  "check24.de",
+  "trivago.ie",
+  "kartago.sk",
+  "trivago.com",
+  "h-rez.com",
+  "youtube.com"
+ ],
+ "updated": "2026-11-26"
+}

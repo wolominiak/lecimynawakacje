@@ -1,0 +1,135 @@
+{
+ "id": 8104,
+ "slug": "riviera-spa-alanya",
+ "name": "Riviera SPA (Alanya)",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/riviera-spa-alanya-teren-hotelu-1820815101-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Riviera SPA to czterogwiazdkowy obiekt położony w Alanyi, w dzielnicy Saray, tuż przy słynnej Plaży Kleopatry. Jest to idealna propozycja dla osób ceniących sobie bliskość morza oraz łatwy dostęp do miejskich atrakcji.",
+  "Obiekt, odnowiony w 2014 roku, oferuje komfortowe zakwaterowanie w 193 pokojach, rozmieszczonych w trzech budynkach. Hotel jest polecany zarówno dla rodzin z dziećmi, par, jak i turystów poszukujących połączenia relaksu z aktywnym wypoczynkiem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Riviera SPA znajduje się w Alanyi, w dzielnicy Saray Mahallesi, zaledwie około 50 metrów od piaszczystej Plaży Kleopatry. Do centrum Alanyi można dojść w kilka minut, pokonując około 1 km. Obiekt posiada prywatną plażę, jednak leżaki i parasole są dostępne za dodatkową opłatą. Ręczniki plażowe są oferowane przez hotel."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 193 pokojami, które zostały całkowicie odnowione w 2014 roku. Dostępne są pokoje dwuosobowe, trzyosobowe, rodzinne (Family Suite), jednoosobowe, Junior Suite oraz Honeymoon Suite. Wszystkie pokoje wyposażone są w klimatyzację, balkon (w większości), bezpłatne Wi-Fi, telewizor satelitarny/LCD, minibar, sejf oraz łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni śródziemnomorskiej i międzynarodowej w formie bufetu. Goście mogą korzystać z trzech barów: Lobby Bar, Pool Bar i Beach Bar. Pakiet all inclusive obejmuje śniadanie, lunch i kolację w formie bufetu, późne śniadanie, popołudniowe ciasto i lody, a także lokalne napoje alkoholowe i bezalkoholowe dostępne od 10:00 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa odkryte baseny oraz jeden kryty basen, który jest podgrzewany od listopada do marca. Dla dzieci przygotowano oddzielny basen i plac zabaw. Goście mogą korzystać z centrum fitness/siłowni, tenisa stołowego i siatkówki plażowej. Hotel organizuje również okazjonalną rozrywkę i muzykę na żywo dwa razy w tygodniu."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "W hotelu znajduje się pełne centrum spa z ofertą masaży, sauny i łaźni tureckiej (hammam). Sauna jest bezpłatna w określonych godzinach. Bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych. W pobliżu hotelu (0.4 km) znajduje się Alanya Aquapark."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko Plaży Kleopatry i centrum",
+  "Smaczne i różnorodne jedzenie w formie bufetu",
+  "Uprzejmy i pomocny personel",
+  "Czyste pokoje i dobre Wi-Fi",
+  "Dostępne baseny i centrum spa"
+ ],
+ "cons": [
+  "Dodatkowe opłaty za leżaki i parasole na plaży",
+  "Potencjalny hałas uliczny w pokojach w głównym budynku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 50 metrów od piaszczystej Plaży Kleopatry."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "W hotelu nie ma zjeżdżalni wodnych, ale w pobliżu (0.4 km) znajduje się Alanya Aquapark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje oddzielny basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 39.6-45 km. Lotnisko Antalya (AYT) znajduje się w odległości około 113.3-126.4 km."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są wliczone w cenę?",
+   "a": "Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  }
+ ],
+ "address": "Güzelyalı Cad. No:32, 07400 Alanya/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 39.6,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Plac zabaw dla dzieci",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Łaźnia turecka (hammam)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Saray Mahallesi (Saray)",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Turyści"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój dwuosobowy lub typu twin",
+  "Pokój trzyosobowy",
+  "Pokój rodzinny (Family Suite) z dwoma balkonami",
+  "Pokój jednoosobowy",
+  "Junior Suite",
+  "Honeymoon Suite"
+ ],
+ "rooms": 193,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 33.8461044,
+  "lon": -116.5440527,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.co.uk",
+  "agoda.com",
+  "trbnb.com",
+  "booking.com",
+  "expedia.com",
+  "hoteles.com",
+  "holidaycheck.de",
+  "riviera.com.tr"
+ ],
+ "updated": "2026-11-26"
+}
