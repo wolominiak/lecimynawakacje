@@ -778,7 +778,7 @@ p { margin: 0 0 1em; }
 .ft-prices a { background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 5px 12px; color: var(--ink); text-decoration: none; }
 .ft-prices a b { color: var(--ocean); }
 .ft-prices a:hover { border-color: var(--ocean); }
-.fl-months { display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); gap: 8px; margin: 16px 0; }
+.fl-months { display: grid; grid-template-columns: repeat(auto-fill, minmax(86px, 1fr)); gap: 8px; margin: 16px 0; }
 .prose .fl-m { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 10px 6px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: #fff; color: var(--ink); text-decoration: none; font-weight: 400; }
 .fl-m:hover { border-color: var(--ocean); }
 .fl-bar { display: flex; align-items: flex-end; width: 22px; height: 70px; }
@@ -790,3 +790,4 @@ p { margin: 0 0 1em; }
 .fl-hub h3 { margin: 18px 0 8px; }
 .prose .ft-card h2 { font-size: 1.3rem; margin-bottom: 14px; }
 .fl-live { font-size: 0.85rem; color: var(--ink-2); margin: 10px 0 0; } .fl-live::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #22c55e; margin-right: 8px; vertical-align: 1px; }
+.fl-m small.fl-d { font-size: 0.68rem; color: var(--ocean); white-space: nowrap; }

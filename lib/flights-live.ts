@@ -29,11 +29,17 @@ export async function liveRoute(r: Route): Promise<Route & { live: boolean }> {
   ]);
   const t = Array.isArray(cheap) ? (cheap[0] as Ticket | undefined) : undefined;
   const m: Record<string, number> = {};
-  if (months && typeof months === 'object') for (const [k, v] of Object.entries(months as Record<string, Ticket>)) if (v?.price) m[k.slice(0, 7)] = Math.round(v.price);
-  if (!t?.price) return { ...r, months: Object.keys(m).length ? m : r.months, live: Object.keys(m).length > 0 };
+  const md: Record<string, [string, string | null]> = {};
+  if (months && typeof months === 'object') for (const [k, v] of Object.entries(months as Record<string, Ticket>)) if (v?.price) {
+    m[k.slice(0, 7)] = Math.round(v.price);
+    if (v.departure_at) md[k.slice(0, 7)] = [v.departure_at.slice(0, 10), v.return_at?.slice(0, 10) || null];
+  }
+  const hasM = Object.keys(m).length > 0;
+  const mm = hasM ? { months: m, monthDates: md } : { months: r.months, monthDates: r.monthDates };
+  if (!t?.price) return { ...r, ...mm, live: hasM };
   return {
     ...r, live: true, price: Math.round(t.price), dep: t.departure_at?.slice(0, 10), ret: t.return_at?.slice(0, 10) || null,
-    transfers: t.transfers ?? r.transfers, airline: t.airline || r.airline, months: Object.keys(m).length ? m : r.months,
+    transfers: t.transfers ?? r.transfers, airline: t.airline || r.airline, ...mm,
   };
 }
 

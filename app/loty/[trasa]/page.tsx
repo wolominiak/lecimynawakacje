@@ -87,13 +87,14 @@ export default async function Page({ params }: P) {
             {rows.length > 1 && (
               <>
                 <h2>Ceny lotów {r.oName} - {r.name} w kolejnych miesiącach</h2>
-                <p>Najniższa cena biletu w obie strony w danym miesiącu, aktualizowana co 15 minut. Kliknij miesiąc, żeby zobaczyć wszystkie loty.</p>
+                <p>Najniższa cena biletu w obie strony w danym miesiącu, aktualizowana co 15 minut. Kliknij miesiąc, żeby sprawdzić lot w tym terminie.</p>
                 <div className="fl-months">
                   {rows.map(([m, p]) => (
-                    <a key={m} className={'fl-m' + (best && m === best[0] ? ' best' : '')} href={searchHref(r, `${m}-15`)} target="_blank" rel="sponsored nofollow noopener">
+                    <a key={m} className={'fl-m' + (best && m === best[0] ? ' best' : '')} href={r.monthDates?.[m] ? searchHref(r, r.monthDates[m][0], r.monthDates[m][1]) : searchHref(r, `${m}-15`)} title={r.monthDates?.[m] ? `${fmtDay(r.monthDates[m][0])}${r.monthDates[m][1] ? ` - ${fmtDay(r.monthDates[m][1])}` : ''}` : undefined} target="_blank" rel="sponsored nofollow noopener">
                       <span className="fl-bar"><i style={{ height: `${Math.max(12, Math.round((p / max) * 100))}%` }} /></span>
                       <b>{zl(p)}</b>
                       <small>{monthShort(m)}</small>
+                      {r.monthDates?.[m] && <small className="fl-d">{r.monthDates[m][0].slice(8, 10)}.{r.monthDates[m][0].slice(5, 7)}{r.monthDates[m][1] ? ` - ${r.monthDates[m][1]!.slice(8, 10)}.${r.monthDates[m][1]!.slice(5, 7)}` : ''}</small>}
                     </a>
                   ))}
                 </div>

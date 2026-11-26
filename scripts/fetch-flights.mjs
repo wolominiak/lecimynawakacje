@@ -70,7 +70,7 @@ for (const [o, oName, oSlug, oFrom] of ORIGINS) {
     if (routes[key] && routes[key].price <= t.price) continue;
     routes[key] = {
       o, oName, oFrom, ...ds, price: Math.round(t.price), dep: t.departure_at?.slice(0, 10), ret: t.return_at?.slice(0, 10) || null,
-      airline: t.airline || null, transfers: t.transfers ?? null, months: {},
+      airline: t.airline || null, transfers: t.transfers ?? null, months: {}, monthDates: {},
     };
     n++;
   }
@@ -85,7 +85,10 @@ for (const k of keys) {
   const r = routes[k];
   const g = await get('/aviasales/v3/grouped_prices', { origin: r.o, destination: r.d, group_by: 'month', one_way: 'false' });
   if (g && typeof g === 'object') {
-    for (const [m, t] of Object.entries(g)) if (t?.price) r.months[m.slice(0, 7)] = Math.round(t.price);
+    for (const [m, t] of Object.entries(g)) if (t?.price) {
+      r.months[m.slice(0, 7)] = Math.round(t.price);
+      if (t.departure_at) r.monthDates[m.slice(0, 7)] = [t.departure_at.slice(0, 10), t.return_at?.slice(0, 10) || null];
+    }
   }
   if (++done % 100 === 0) console.log('miesiące:', done, '/', keys.length);
   await sleep(250);

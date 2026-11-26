@@ -5,6 +5,8 @@ export type FlightRoute = {
   o: string; oName: string; oFrom: string; d: string; name: string; country: string; region: string;
   price: number; dep?: string; ret?: string | null; airline?: string | null; transfers?: number | null;
   months: Record<string, number>;
+  /** daty najtańszego lotu w miesiącu: [wylot, powrót] */
+  monthDates?: Record<string, [string, string | null]>;
 };
 
 const ROUTES = (data as { updated: string | null; routes: Record<string, FlightRoute> }).routes || {};
