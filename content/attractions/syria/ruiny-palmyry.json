@@ -1,0 +1,67 @@
+{
+  "name": "Ruiny Palmyry",
+  "slug": "ruiny-palmyry",
+  "country": "syria",
+  "lead": "Palmyra to starożytna oaza i miasto, którego monumentalne ruiny świadczą o dawnej świetności. Mimo zniszczeń, wciąż pozostaje świadectwem bogatej historii regionu.",
+  "intro": [
+    "Ruiny Palmyry, położone na pustyni syryjskiej, to pozostałości po potężnym mieście, które przez wieki pełniło rolę ważnego ośrodka handlowego na szlaku jedwabnym. Łączyło wpływy rzymskie i perskie, co widoczne jest w unikalnej architekturze i urbanistyce. Dziś, choć poważnie uszkodzone, wciąż fascynują swoją skalą i historią.",
+    "Zwiedzanie Palmyry to podróż w czasie do epoki, gdy miasto było tętniącą życiem metropolią. Spacerując wśród kolumnad, świątyń i teatrów, można wyobrazić sobie dawny splendor. Pomimo tragicznych wydarzeń ostatnich lat, które odcisnęły piętno na wielu zabytkach, Palmyra nadal porusza i skłania do refleksji nad kruchością dziedzictwa kulturowego.",
+    "Atrakcja ta oferuje unikalne doświadczenie dla miłośników archeologii i historii. Rozległość terenu wymaga czasu, aby w pełni docenić poszczególne elementy kompleksu. To miejsce, które mimo swojej smutnej historii, wciąż ma wiele do powiedzenia o przeszłości Bliskiego Wschodu i potędze starożytnych cywilizacji."
+  ],
+  "highlights": [
+    {
+      "name": "Wielka Kolumnada",
+      "text": "Główna arteria miasta, niegdyś licząca ponad kilometr długości, wzdłuż której rozciągały się najważniejsze budowle publiczne. Jej monumentalne pozostałości wciąż robią wrażenie."
+    },
+    {
+      "name": "Teatr Rzymski",
+      "text": "Dobrze zachowany teatr, który służył rozrywce mieszkańców Palmyry. Oferuje wgląd w życie społeczne starożytnego miasta."
+    },
+    {
+      "name": "Świątynia Bela",
+      "text": "Jedna z najważniejszych świątyń Palmyry, poświęcona bóstwu Belowi. Niestety, została poważnie zniszczona, ale jej pozostałości nadal świadczą o dawnej świetności."
+    },
+    {
+      "name": "Łuk Triumfalny",
+      "text": "Imponujący łuk, który stanowił bramę do głównej kolumnady. Mimo uszkodzeń, jego fragmenty wciąż są symbolem potęgi Palmyry."
+    },
+    {
+      "name": "Wieże grobowe",
+      "text": "Charakterystyczne dla Palmyry wieże grobowe, położone poza głównym obszarem miasta, były miejscami pochówku zamożnych mieszkańców."
+    }
+  ],
+  "visitTime": "Co najmniej pół dnia, aby spokojnie przejść przez główny kompleks i zobaczyć najważniejsze ruiny. Cały dzień, jeśli planujemy dokładniejsze eksploracje i wizytę w muzeum (o ile jest dostępne).",
+  "bestTime": "Najlepszy czas na wizytę to wiosna (marzec-kwiecień) lub jesień (październik-listopad), kiedy temperatury są łagodniejsze. Unikaj szczytu lata ze względu na upały. Warto przyjechać wcześnie rano, aby uniknąć słońca i ewentualnych tłumów.",
+  "gettingThere": "Palmyra jest położona na pustyni, około 215 km na północny wschód od Damaszku. Dojazd jest możliwy głównie samochodem, często w ramach zorganizowanej wycieczki z Damaszku lub Homs. Publiczny transport może być ograniczony lub nieregularny, dlatego zaleca się wynajęcie samochodu z kierowcą lub dołączenie do grupy.",
+  "tickets": "Bilet wstępu do kompleksu ruin jest płatny. Aktualne informacje o cenach i możliwościach zakupu biletów należy sprawdzić na oficjalnych stronach syryjskich instytucji turystycznych lub u lokalnych organizatorów wycieczek. Warto rozważyć wynajęcie lokalnego przewodnika, który opowie o historii i znaczeniu poszczególnych obiektów, zwłaszcza w kontekście ostatnich zniszczeń.",
+  "tips": [
+    "Zabierz ze sobą dużo wody i nakrycie głowy - słońce na pustyni bywa bezlitosne.",
+    "Ubierz wygodne buty, ponieważ teren jest rozległy i nierówny.",
+    "Pamiętaj o odpowiednim stroju, zakrywającym ramiona i kolana, z szacunku dla lokalnej kultury.",
+    "Upewnij się, że masz zgodę na fotografowanie, zwłaszcza w pobliżu obiektów wojskowych lub strategicznych.",
+    "Bądź świadomy sytuacji bezpieczeństwa i zawsze przestrzegaj zaleceń lokalnych władz oraz organizatorów wycieczek.",
+    "Zabierz ze sobą power bank do telefonu, aby nie zabrakło energii na zdjęcia i nawigację."
+  ],
+  "faq": [
+    {
+      "q": "Czy Palmyra jest bezpieczna do zwiedzania?",
+      "a": "Sytuacja bezpieczeństwa w Syrii jest zmienna. Przed planowaniem podróży zawsze należy sprawdzić aktualne ostrzeżenia Ministerstwa Spraw Zagranicznych i korzystać z usług renomowanych biur podróży, które monitorują sytuację."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie ruin Palmyry?",
+      "a": "Na zwiedzanie głównych ruin Palmyry należy przeznaczyć co najmniej pół dnia. Jeśli chcemy dokładnie poznać historię i zobaczyć wszystkie dostępne miejsca, warto zarezerwować cały dzień."
+    },
+    {
+      "q": "Czy ruiny Palmyry zostały odbudowane po zniszczeniach?",
+      "a": "Prowadzone są prace konserwatorskie i częściowe odbudowy, jednak wiele obiektów zostało poważnie zniszczonych i ich pełne przywrócenie do dawnego stanu jest długotrwałym procesem. Wiele ruin pozostaje w stanie uszkodzonym."
+    },
+    {
+      "q": "Czy warto odwiedzić Palmyrę, biorąc pod uwagę jej zniszczenia?",
+      "a": "Mimo zniszczeń, Palmyra nadal jest miejscem o ogromnym znaczeniu historycznym i kulturowym. Wizyta pozwala zrozumieć skalę dawnej świetności miasta oraz tragiczne konsekwencje konfliktów. Dla miłośników historii i archeologii jest to wciąż cenne doświadczenie."
+    }
+  ],
+  "gygQuery": "Palmyra ruins tour Syria",
+  "forWhom": "Palmyra to idealne miejsce dla miłośników historii, archeologii i kultury starożytnej. Docenią ją osoby szukające głębokich doświadczeń i refleksji nad dziedzictwem cywilizacji.",
+  "history": "Palmyra, znana jako 'Perła Pustyni', rozkwitła w I-III wieku n.e. jako kluczowe miasto-oaza na szlaku handlowym między Wschodem a Zachodem. Jej strategiczne położenie pozwoliło na rozwój unikalnej kultury, łączącej wpływy rzymskie, greckie i perskie. W III wieku n.e. królowa Zenobia zbuntowała się przeciwko Rzymowi, tworząc krótkotrwałe imperium. Po jej klęsce miasto zostało splądrowane przez Rzymian. W późniejszych wiekach podupadło, by ostatecznie stać się ruinami na pustyni, odkrytymi na nowo przez europejskich podróżników.",
+  "gygTourId": 1333651
+}

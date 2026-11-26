@@ -1,0 +1,67 @@
+{
+  "name": "Ermitaż i Pałac Zimowy",
+  "slug": "ermitaz-i-palac-zimowy",
+  "country": "rosja",
+  "lead": "Ermitaż i Pałac Zimowy w Petersburgu to jedna z najważniejszych instytucji kultury na świecie, prezentująca miliony dzieł sztuki od starożytności po współczesność. To obowiązkowy punkt dla każdego miłośnika sztuki i historii.",
+  "intro": [
+    "Państwowe Muzeum Ermitażu, mieszczące się w kompleksie budynków, z których najważniejszym jest Pałac Zimowy, to skarbnica światowego dziedzictwa. Jego kolekcje obejmują ponad trzy miliony eksponatów, od prehistorii po sztukę XX wieku. Zwiedzanie Ermitażu to podróż przez epoki i kultury, wymagająca czasu i zaangażowania.",
+    "Wnętrza Pałacu Zimowego, dawnej rezydencji rosyjskich carów, same w sobie stanowią dzieła sztuki, z ich bogatymi zdobieniami, freskami i luksusowymi salami. Muzeum prezentuje dzieła takich mistrzów jak Leonardo da Vinci, Rafael, Michał Anioł, Rembrandt czy Rubens. Oprócz malarstwa, podziwiać można rzeźby, przedmioty użytkowe, biżuterię i artefakty archeologiczne.",
+    "Ermitaż to nie tylko muzeum, ale symbol rosyjskiej historii i potęgi. Skala i różnorodność zbiorów mogą przytłoczyć, dlatego warto zaplanować wizytę z wyprzedzeniem, koncentrując się na wybranych sekcjach. To miejsce, które pozwala zrozumieć ewolucję sztuki i cywilizacji w kontekście europejskim i światowym."
+  ],
+  "highlights": [
+    {
+      "name": "Pałac Zimowy",
+      "text": "Dawna rezydencja carów, której bogato zdobione wnętrza, takie jak Sala Tronowa czy Galeria Wojenna, są częścią ekspozycji muzealnej. To serce kompleksu Ermitażu i symbol rosyjskiego imperium."
+    },
+    {
+      "name": "Kolekcja sztuki zachodnioeuropejskiej",
+      "text": "Jedna z najbogatszych na świecie, z dziełami mistrzów renesansu, baroku i klasycyzmu. Znajdują się tu obrazy Leonarda da Vinci (Madonna Litta), Rafaela (Madonna Conestabile) i Rembrandta (Powrót syna marnotrawnego)."
+    },
+    {
+      "name": "Złota Komnata",
+      "text": "Specjalna ekspozycja prezentująca cenne przedmioty ze złota, biżuterię i artefakty scytyjskie. Wymaga osobnego biletu i często jest dostępna tylko z przewodnikiem."
+    },
+    {
+      "name": "Kolekcja sztuki starożytnej",
+      "text": "Zbiory sztuki egipskiej, greckiej i rzymskiej, w tym sarkofagi, rzeźby i mozaiki. Pozwalają na wgląd w początki cywilizacji."
+    },
+    {
+      "name": "Sala Pawia",
+      "text": "Imponująca sala z mechanicznym zegarem w kształcie pawia, który ożywa w określonych godzinach. Jest to jeden z symboli Ermitażu i przykład kunsztu XVIII wieku."
+    }
+  ],
+  "visitTime": "Na dokładne zwiedzanie Ermitażu należy zarezerwować co najmniej cały dzień, a najlepiej dwa dni, aby uniknąć pośpiechu. Jeśli masz ograniczony czas, wybierz konkretne galerie do zobaczenia.",
+  "bestTime": "Najlepszy czas na wizytę to wczesna wiosna (kwiecień-maj) lub wczesna jesień (wrzesień-październik), kiedy pogoda jest przyjemna, a tłumy turystów mniejsze niż latem. Warto przyjść zaraz po otwarciu lub godzinę przed zamknięciem, aby uniknąć największego natłoku.",
+  "gettingThere": "Ermitaż znajduje się w centrum Petersburga, na Placu Pałacowym. Najłatwiej dojechać metrem do stacji Admiralteyskaya, a następnie przejść kilka minut. Wiele linii autobusowych i trolejbusowych również zatrzymuje się w pobliżu.",
+  "tickets": "Bilet wstępu jest płatny. Zaleca się zakup biletów online z wyprzedzeniem na oficjalnej stronie muzeum, aby uniknąć długich kolejek. Często dostępne są różne rodzaje biletów - na jeden dzień, na dwa dni lub na konkretne wystawy. Zwiedzanie z przewodnikiem jest zalecane dla tych, którzy chcą lepiej zrozumieć kontekst i historię zbiorów.",
+  "tips": [
+    "Zaplanuj swoją wizytę - muzeum jest ogromne, wybierz wcześniej, które sekcje chcesz zobaczyć.",
+    "Ubierz wygodne buty - będziesz dużo chodzić po marmurowych posadzkach.",
+    "Zostaw duże plecaki i torby w szatni - obowiązuje zakaz wnoszenia ich na ekspozycje.",
+    "Sprawdź aktualne zasady dotyczące fotografowania - w niektórych salach może być zabronione lub wymagać dodatkowej opłaty.",
+    "Przygotuj się na kontrolę bezpieczeństwa przy wejściu.",
+    "Rozważ wynajęcie audioprzewodnika, aby wzbogacić doświadczenie zwiedzania."
+  ],
+  "faq": [
+    {
+      "q": "Czy warto odwiedzić Ermitaż?",
+      "a": "Tak, Ermitaż to jedno z najważniejszych muzeów na świecie i obowiązkowy punkt dla każdego, kto odwiedza Petersburg. Jego kolekcje są niezwykle bogate i różnorodne."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie Ermitażu?",
+      "a": "Na pobieżne zwiedzanie najważniejszych sal i dzieł sztuki potrzeba minimum 4-5 godzin. Aby w pełni docenić zbiory, należy zarezerwować cały dzień lub nawet dwa."
+    },
+    {
+      "q": "Czy można kupić bilety na Ermitaż online?",
+      "a": "Tak, zdecydowanie zaleca się zakup biletów online na oficjalnej stronie muzeum. Pozwala to uniknąć długich kolejek i zaoszczędzić czas."
+    },
+    {
+      "q": "Czy w Ermitażu są szatnie?",
+      "a": "Tak, w Ermitażu dostępne są szatnie, w których należy zostawić duże plecaki, torby i okrycia wierzchnie. Jest to bezpłatne."
+    }
+  ],
+  "gygQuery": "Hermitage Museum St Petersburg",
+  "forWhom": "Ermitaż jest idealny dla miłośników sztuki, historii, architektury oraz dla każdego, kto chce poznać bogactwo rosyjskiej kultury. Ze względu na rozmiar i ilość eksponatów, może być mniej odpowiedni dla bardzo małych dzieci.",
+  "history": "Historia Ermitażu sięga 1764 roku, kiedy caryca Katarzyna Wielka zaczęła gromadzić prywatną kolekcję dzieł sztuki. Początkowo zbiory mieściły się w Małym Ermitażu, a następnie rozrosły się, zajmując kolejne budynki, w tym Pałac Zimowy, który od XVIII wieku był główną rezydencją rosyjskich carów. Muzeum zostało otwarte dla publiczności w 1852 roku jako Nowy Ermitaż, a po rewolucji październikowej cały kompleks został upaństwowiony i udostępniony jako Państwowe Muzeum Ermitażu.",
+  "gygTourId": 741972
+}
