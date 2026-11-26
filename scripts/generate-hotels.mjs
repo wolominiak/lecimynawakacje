@@ -82,7 +82,7 @@ async function research(h) {
   const where = [...h.place].reverse().join(', ');
   const prompt = `Znajdź w internecie aktualne, publiczne informacje o hotelu "${h.name}" (${where}). Kategoria w ofertach biur: ${h.stars || '?'}*.
 Wypisz WYŁĄCZNIE sprawdzone fakty w punktach (bez przepisywania opisów z innych stron, własnymi słowami, krótko):
-- dokładna lokalizacja (miejscowość, dzielnica, przy jakiej plaży/zatoce), adres
+- dokładna lokalizacja (miejscowość, dzielnica, przy jakiej plaży/zatoce), adres, współrzędne GPS hotelu (np. z Google Maps)
 - odległość od plaży, rodzaj plaży (piaszczysta, kamienista, żwirowa, wejście z pomostu, rafa), czy plaża jest hotelowa, leżaki, ręczniki
 - odległość od najbliższego lotniska (nazwa lotniska) i od centrum miejscowości
 - rok otwarcia i ostatniego remontu, liczba pokoi, wielkość terenu, rodzaj zabudowy (jeden budynek, bungalowy)
@@ -109,7 +109,7 @@ const SCHEMA = {
     city: S('miejscowość'),
     area: S('dzielnica, zatoka lub okolica, puste jeśli brak'),
     address: S('adres, puste jeśli brak'),
-    lat: N('szerokość geograficzna, tylko jeśli podana w faktach'),
+    lat: N('szerokość geograficzna hotelu, jeśli podana w faktach'),
     lon: N('długość geograficzna, tylko jeśli podana w faktach'),
     beachDistanceM: N('odległość od plaży w metrach'),
     beachType: S('rodzaj plaży po polsku, puste jeśli brak'),
@@ -173,7 +173,7 @@ ${facts}`;
 async function geocode(h, city) {
   const country = h.place[0];
   const base = h.name.replace(/\(.*?\)/g, '').replace(/\b(ex|dawniej)\b.*$/i, '').trim();
-  for (const q of [`${base}, ${city || h.place.at(-1)}, ${country}`, `${base}, ${country}`]) {
+  for (const q of [`${base}, ${city || h.place.at(-1)}, ${country}`, `${base}, ${country}`, `${base} hotel`]) {
     try {
       const r = await fetch(`https://nominatim.openstreetmap.org/search?format=json&limit=1&accept-language=pl&q=${encodeURIComponent(q)}`, {
         headers: { 'User-Agent': 'lecimynawakacje.pl hotel pages (kontakt: lecimynawakacje.pl)' },
@@ -201,7 +201,8 @@ for (const h of todo) {
     const d = await write(h, r.text);
     await sleep(6500);
     if (!d.found || !Array.isArray(d.intro) || d.intro.join(' ').length < 300) { index[h.id].failed = true; console.log('pomijam (niepewne):', h.name); continue; }
-    const geo = await geocode(h, d.city) || (d.lat && d.lon ? { lat: d.lat, lon: d.lon, src: 'web' } : null);
+    const webGeo = typeof d.lat === 'number' && typeof d.lon === 'number' && Math.abs(d.lat) <= 90 && Math.abs(d.lon) <= 180 && (d.lat !== 0 || d.lon !== 0) ? { lat: d.lat, lon: d.lon, src: 'web' } : null;
+    const geo = await geocode(h, d.city) || webGeo;
     const out = {
       id: h.id, slug: h.slug, name: h.name, country: h.country, place: h.place, stars: h.stars, photo: h.photo,
       ...d, geo, sources: r.sources, updated: new Date().toISOString().slice(0, 10),

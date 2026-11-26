@@ -42,3 +42,5 @@ export function nearbyHotels(h: Hotel, n = 6): Hotel[] {
 }
 
 export const distLabel = (m?: number | null) => (m == null ? '' : m < 1000 ? `${Math.round(m / 10) * 10} m` : `${(m / 1000).toFixed(1).replace('.', ',')} km`);
+/** "150 m od plaży" albo "przy plaży" */
+export const beachLabel = (m?: number | null) => (m == null ? '' : m <= 30 ? 'przy plaży' : `${distLabel(m)} od plaży`);

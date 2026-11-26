@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { seo, pick } from '@/lib/seo';
 import { getCountry } from '@/lib/data';
-import { allHotels, getHotel, hotelUrl, nearbyHotels, distLabel, HOTEL_IMG, type Hotel } from '@/lib/hotels';
+import { allHotels, getHotel, hotelUrl, nearbyHotels, distLabel, beachLabel, HOTEL_IMG, type Hotel } from '@/lib/hotels';
 import Crumbs from '@/components/Crumbs';
 import Faq from '@/components/Faq';
 import HotelTerms from '@/components/HotelTerms';
@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: P): Promise<Metadata> {
   const stars = h.stars ? ` ${h.stars}*` : '';
   return seo({
     title: pick(`${h.name}${stars}, ${where(h)}: opis, opinie, ceny`, `${h.name}${stars}, ${where(h)}: opis i ceny`, `${h.name}: opis i ceny`, h.name),
-    description: `${h.name}${stars} (${where(h)}): położenie${h.beachDistanceM != null ? `, ${distLabel(h.beachDistanceM)} od plaży` : ''}, pokoje, wyżywienie, baseny, zalety i wady. Aktualne terminy i ceny wczasów.`,
+    description: `${h.name}${stars} (${where(h)}): położenie${h.beachDistanceM != null ? `, ${beachLabel(h.beachDistanceM)}` : ''}, pokoje, wyżywienie, baseny, zalety i wady. Aktualne terminy i ceny wczasów.`,
     path: hotelUrl(h.slug),
     image: h.photo ? HOTEL_IMG + h.photo : undefined,
   });
@@ -68,7 +68,7 @@ export default async function Page({ params }: P) {
               <h1>{h.name}</h1>
               <p className="hh-where">{[h.area, h.city, h.place[1] !== h.city ? h.place[1] : '', h.place[0]].filter(Boolean).join(', ')}</p>
               <div className="hh-chips">
-                {h.beachDistanceM != null && <span>{distLabel(h.beachDistanceM)} od plaży</span>}
+                {h.beachDistanceM != null && <span>{beachLabel(h.beachDistanceM)}</span>}
                 {h.airportKm != null && <span>{h.airportKm} km od lotniska</span>}
                 {h.aquapark && <span>aquapark</span>}
                 {h.kidsClub && <span>mini klub</span>}
@@ -87,7 +87,7 @@ export default async function Page({ params }: P) {
             {h.intro.map((p, i) => <p key={i} className={i === 0 ? 'lead' : undefined}>{p}</p>)}
 
             <div className="hf-grid">
-              <Fact label="Plaża" value={h.beachDistanceM != null ? `${distLabel(h.beachDistanceM)}${h.beachType ? `, ${h.beachType}` : ''}` : h.beachType} />
+              <Fact label="Plaża" value={h.beachDistanceM != null ? `${h.beachDistanceM <= 30 ? 'przy plaży' : distLabel(h.beachDistanceM)}${h.beachType ? `, ${h.beachType}` : ''}` : h.beachType} />
               <Fact label="Plaża hotelowa" value={yes(h.privateBeach)} />
               <Fact label="Lotnisko" value={h.airportName ? `${h.airportName}${h.airportKm != null ? `, ${h.airportKm} km` : ''}` : null} />
               <Fact label="Centrum" value={h.centerKm != null ? `${String(h.centerKm).replace('.', ',')} km` : null} />
