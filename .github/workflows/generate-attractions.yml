@@ -4,9 +4,8 @@
 name: Generuj atrakcje
 
 on:
-  # schedule wstrzymany (limit minut GitHub Actions)
-  # schedule:
-  #   - cron: '23 */3 * * *'
+  schedule:
+    - cron: '23 */3 * * *'
   workflow_dispatch:
     inputs:
       limit:
