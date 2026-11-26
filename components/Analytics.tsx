@@ -41,7 +41,7 @@ gtag('js',new Date());gtag('config','${GA_ID}');`}</Script>
       <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="lazyOnload" />
       {ask && (
         <div className="consent" role="dialog" aria-label="Pliki cookie">
-          <p>Używamy Google Analytics, żeby wiedzieć, które przewodniki są czytane. Partnerzy zapisują też cookies po kliknięciu w ich oferty. <a href="/polityka-prywatnosci/">Szczegóły</a></p>
+          <p>Ta strona używa plików cookie. <a href="/polityka-prywatnosci/">Polityka prywatności</a></p>
           <div className="consent-b">
             <button className="btn btn-sm btn-ghost" onClick={() => choose('denied')}>Tylko niezbędne</button>
             <button className="btn btn-sm" onClick={() => choose('granted')}>Akceptuję</button>
