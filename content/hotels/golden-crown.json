@@ -1,0 +1,136 @@
+{
+ "id": "x:turcja:golden crown",
+ "slug": "golden-crown",
+ "name": "Golden Crown",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Stambuł"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/turecko/istanbul/istanbul/golden-crown-pl/3740/88_amtstr131k_1057836-244.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Golden Crown to trzygwiazdkowy obiekt położony w sercu historycznej dzielnicy Sultanahmet w Stambule, co czyni go idealną bazą wypadową do zwiedzania najważniejszych atrakcji miasta. W bezpośrednim sąsiedztwie znajdują się takie zabytki jak Błękitny Meczet, Hagia Sophia czy Wielki Bazar, do których można dotrzeć w kilka minut spacerem. Hotel jest dogodnie usytuowany około 0,5 km od centrum Stambułu.",
+  "Obiekt jest przyjazny rodzinom i parom, oferując komfortowe zakwaterowanie w odnowionych wnętrzach. Dzięki centralnej lokalizacji i dostępowi do komunikacji miejskiej, Golden Crown stanowi praktyczny wybór dla turystów, którzy chcą aktywnie poznawać kulturę i historię Stambułu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Golden Crown mieści się w historycznej dzielnicy Sultanahmet, zaledwie 500 metrów od Kolumny Konstantyna. W odległości kilku minut spacerem znajdują się tak ikoniczne miejsca jak Błękitny Meczet, Hagia Sophia oraz Wielki Bazar. Do Złotego Rogu można dojść w około 20 minut, a najbliższe lotniska to Sabiha Gökçen (ok. 31 km) i Lotnisko w Stambule (ok. 34 km)."
+  },
+  {
+   "title": "Plaża",
+   "text": "Hotel jest oddalony o około 15 minut spacerem od Morza Marmara. Należy pamiętać, że Golden Crown to hotel miejski, a nie typowy kurort plażowy, dlatego brak jest szczegółowych informacji na temat rodzaju plaży, jej statusu (hotelowa czy publiczna) oraz dostępności leżaków i ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 28 lub 35 pokoi, w tym typu Suite, Pokój Gościnny, Pokój Dwuosobowy, Standardowy Pokój Trzyosobowy, Standardowy Pokój Jednoosobowy oraz Duży Pokój Rodzinny/Apartament Rodzinny. Wszystkie pokoje są klimatyzowane, ogrzewane i wyposażone w minibar, dźwiękoszczelne okna, telewizor LCD z kanałami satelitarnymi oraz bezpłatne Wi-Fi. W łazience znajduje się bidet, prysznic, suszarka do włosów i bezpłatne kosmetyki. Niektóre pokoje oferują widok na miasto lub ogród."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja à la carte, która serwuje dania kuchni lokalnej i międzynarodowej. Codziennie rano podawane jest bezpłatne śniadanie w formie bufetu, z opcjami przyjaznymi dzieciom. Goście mogą również zamówić śniadanie do pokoju. Dostępny jest bar w lobby oraz bar przekąskowy, a hotel oferuje możliwość rezerwacji opcji z niepełnym wyżywieniem."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Na terenie hotelu dostępne jest bezpłatne Wi-Fi. Goście mogą skorzystać z jacuzzi. W pobliżu, około 300 metrów od obiektu, znajduje się łaźnia turecka Kadirga Hamam. Hotel jest przyjazny dzieciom, oferuje łóżeczka dziecięce i specjalne menu."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko głównych atrakcji turystycznych Stambułu.",
+  "Przyjazny i pomocny personel.",
+  "Dobre śniadania w formie bufetu z lokalnymi specjałami.",
+  "Bezpłatne Wi-Fi w całym hotelu.",
+  "Pokoje klimatyzowane i dźwiękoszczelne."
+ ],
+ "cons": [
+  "Niektóre obszary hotelu mogą wymagać remontu lub wydają się przestarzałe.",
+  "Możliwy hałas i małe rozmiary niektórych pokoi.",
+  "Brak basenów i siłowni na terenie obiektu.",
+  "Brak informacji o plaży hotelowej oraz leżakach i ręcznikach plażowych."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Golden Crown od centrum Stambułu?",
+   "a": "Hotel znajduje się około 0,5 km od centrum Stambułu, co odpowiada około 5-minutowemu spacerowi."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko do hotelu Golden Crown?",
+   "a": "Najbliższe lotniska to Międzynarodowy Port Lotniczy Sabiha Gökçen (SAW), oddalony o około 30,95 km oraz Lotnisko w Stambule (IST), oddalone o około 34,01 km."
+  },
+  {
+   "q": "Czy hotel Golden Crown jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom. Oferuje łóżeczka dziecięce oraz menu dla dzieci, a dzieci w wieku 5-6 lat mogą przebywać w hotelu bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu Golden Crown jest dostępny aquapark lub baseny?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy w hotelu Golden Crown jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 15 minut spacerem od morza (Morze Marmara)."
+  }
+ ],
+ "address": "Piyerloti Cad. No:10, Sultanahmet, Stambuł, Turcja",
+ "adultsOnly": false,
+ "airportKm": 30.95,
+ "airportName": "Sabiha Gökçen (SAW)",
+ "amenities": [
+  "Jacuzzi",
+  "Łóżeczka dziecięce",
+  "Menu dla dzieci",
+  "Sprzęt do prasowania"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Sultanahmet (Stare Miasto)",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Osoby zwiedzające Stambuł",
+  "Pary",
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2003,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2009,
+ "restaurants": 1,
+ "roomTypes": [
+  "Suite",
+  "Pokój Gościnny",
+  "Pokój Dwuosobowy",
+  "Standardowy Pokój Dwuosobowy lub typu Twin",
+  "Standardowy Pokój Trzyosobowy",
+  "Standardowy Pokój Jednoosobowy",
+  "Duży Pokój Rodzinny / Apartament Rodzinny"
+ ],
+ "rooms": 28,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0067945,
+  "lon": 28.9710024,
+  "src": "osm"
+ },
+ "sources": [
+  "inistanbulhotels.com",
+  "agoda.com",
+  "bookstaygo.com",
+  "amimir.com",
+  "lastminute.com",
+  "istanbulahotel.com",
+  "booking.com",
+  "google.ws"
+ ],
+ "updated": "2026-11-26"
+}

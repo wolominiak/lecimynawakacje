@@ -1,0 +1,145 @@
+{
+ "id": "x:turcja:saphir resort",
+ "slug": "saphir-resort",
+ "name": "Saphir Resort",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Okurcular"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/okurcular/saphir-resort-pl/6997/e6_saphir_resort__13_-252.jpg",
+ "city": "Okurcalar",
+ "intro": [
+  "Saphir Resort to pięciogwiazdkowy hotel położony w malowniczej zatoce Karaburun, w miejscowości Okurcalar na Riwierze Tureckiej. Obiekt, otwarty w 2008 roku, zajmuje obszar 18 000 m² i oferuje komfortowe zakwaterowanie w budynku głównym oraz willach.",
+  "Hotel jest idealnym miejscem na wakacje dla rodzin z dziećmi, par oraz grup znajomych, szukających aktywnego wypoczynku i relaksu. Bezpośredni dostęp do plaży, bogata oferta rekreacyjna i animacyjna sprawiają, że każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Saphir Resort zlokalizowany jest bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży o długości 150 metrów, wyróżnionej certyfikatem Błękitnej Flagi. Plaża charakteryzuje się łagodnym zejściem do morza, a dla gości dostępne są bezpłatne leżaki, parasole i ręczniki. Centrum Okurcalar oddalone jest o około 500 metrów, a do Alanyi jest około 27-35 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 333 pokojami, rozmieszczonymi w sześciopiętrowym budynku głównym oraz w trzypiętrowych willach. Pokoje standardowe mają powierzchnię 27-30 m², a rodzinne (Family Connection Rooms) około 35-39 m². Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, prywatną łazienkę, telewizor LCD, minibar, sejf oraz zestaw do kawy/herbaty. Większość pokoi oferuje widok na morze, ogród lub basen."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu Ultra All Inclusive hotel oferuje posiłki w formie bufetu w restauracji głównej. Do dyspozycji gości są również dwie restauracje à la carte - włoska i turecka/osmańska, z możliwością jednej bezpłatnej wizyty na pobyt. Na terenie obiektu znajduje się sześć barów, w tym lobby bar, bar przy basenie, snack bar, bar na plaży i disco bar, z których jeden jest czynny 24 godziny na dobę."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa baseny zewnętrzne, w tym jeden o powierzchni 1500 m², oraz dwa baseny kryte, z których jeden jest podgrzewany. Dla miłośników wodnych atrakcji przygotowano trzy zjeżdżalnie dla dorosłych i jedną dla dzieci. Goście mogą korzystać z centrum SPA z hammamem i sauną, siłowni, kortu tenisowego oraz szeregu aktywności sportowych, takich jak siatkówka plażowa, mini golf czy aerobik. Wieczorami organizowane są animacje, show i muzyka na żywo."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub (dla dzieci w wieku 4-10 lat), mini disco, plac zabaw oraz kryty i odkryty brodzik. Dostępne są również specjalne animacje i zajęcia dostosowane do potrzeb dzieci, zapewniając im rozrywkę przez cały pobyt."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej plaży z Błękitną Flagą",
+  "Bogata oferta animacji i aktywności sportowych",
+  "Urozmaicone wyżywienie, szczególnie kolacje",
+  "Czystość i zadbany teren hotelu",
+  "Bezpłatne Wi-Fi w pokojach i częściach wspólnych"
+ ],
+ "cons": [
+  "Jedzenie bywa oceniane jako średnie (szczególnie śniadania i obiady)",
+  "Ograniczona różnorodność sałatek",
+  "Dominacja muzyki rosyjskiej podczas animacji (w niektórych okresach)",
+  "Trudności ze znalezieniem wolnych leżaków w godzinach szczytu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Saphir Resort położony jest bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Hotel oddalony jest o około 90 km od lotniska Antalya (AYT) i około 67-75 km od lotniska Gazipaşa-Alanya (GZP)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel oferuje trzy zjeżdżalnie wodne dla dorosłych i jedną dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując mini klub, plac zabaw, brodziki i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich częściach wspólnych hotelu."
+  },
+  {
+   "q": "Co obejmuje pakiet Ultra All Inclusive?",
+   "a": "Pakiet Ultra All Inclusive obejmuje śniadania, późne śniadania, obiady, przekąski, podwieczorki, kolacje i późne kolacje, lokalne napoje alkoholowe i bezalkoholowe oraz gorące napoje. Minibar w pokoju jest codziennie uzupełniany wodą."
+  }
+ ],
+ "address": "Okurcalar Alara Turizm Merkezi İlifos Caddesi No: 28, 07400 Alanya/Antalya, Turkey",
+ "adultsOnly": false,
+ "airportKm": 67,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "hammam",
+  "sauna",
+  "gabinet masażu",
+  "salon piękności",
+  "kort tenisowy",
+  "tenis stołowy",
+  "rzutki",
+  "koszykówka",
+  "siatkówka plażowa",
+  "mini golf",
+  "gimnastyka wodna",
+  "zumba",
+  "aerobik",
+  "gry basenowe"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "zatoka Karaburun",
+ "bars": 6,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy znajomych",
+  "turyści w każdym wieku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2008,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje Standardowe: około 27-30 m², łóżko podwójne i pojedyncze, możliwość dostawki dla łóżeczka dziecięcego",
+  "Pokoje Rodzinne (Family Connection Rooms): około 35-39 m², dwie sypialnie i jedna łazienka",
+  "Pokoje typu Suite: około 33-35 m², bardziej przestronne",
+  "Pokoje typu Honeymoon Suite"
+ ],
+ "rooms": 333,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.6516773,
+  "lon": 31.6708292,
+  "src": "osm"
+ },
+ "sources": [
+  "saphirhotels.com.tr",
+  "coraltravel.pl",
+  "yandex.com.tr",
+  "multitour.ru",
+  "r.pl",
+  "travelpunkt.pl",
+  "youtube.com",
+  "hrs.com"
+ ],
+ "updated": "2026-11-26"
+}

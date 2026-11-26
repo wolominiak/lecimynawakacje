@@ -1,0 +1,125 @@
+{
+ "id": 2153,
+ "slug": "tuvana",
+ "name": "Tuvana",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Obagol"
+ ],
+ "stars": 0,
+ "photo": "/no-index/hotel/tuvana-basen-obiekt-825716943-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Tuvanna Beach to 3-gwiazdkowy obiekt położony w dzielnicy Obagol w Alanyi, około 3 km od centrum miasta. Oferuje on 40 jednostek zakwaterowania i jest dogodnie usytuowany blisko publicznej plaży.",
+  "Hotel jest odpowiedni dla rodzin, dzięki udogodnieniom takim jak basen dla dzieci i plac zabaw. Goście mogą korzystać z formuły all inclusive, a także z bezpłatnego Wi-Fi na terenie całego obiektu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Tuvanna Beach znajduje się w dzielnicy Obagol w Alanyi, około 3 km od centrum miasta. Do publicznej, piaszczysto-żwirowej plaży z pomostem jest około 300 metrów, a dojście prowadzi ulicą. Na plaży dostępne są leżaki, parasole i ręczniki, a także bar."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 40 pokojami, wyposażonymi w klimatyzację, centralne ogrzewanie, łazienkę oraz balkon lub taras. W pokojach znajduje się wykładzina dywanowa, mini-lodówka, telefon i telewizor. Łazienki wyposażone są w prysznic i suszarkę do włosów. Dostępne są również pokoje przystosowane dla osób na wózkach inwalidzkich."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja oraz trzy bary: bar, bar przy basenie i bar na plaży. Oferta all inclusive obejmuje śniadanie, obiad, kolację, napoje alkoholowe i bezalkoholowe oraz przekąski. Starsze opinie wskazywały na dowożenie jedzenia cateringiem i niską jakość posiłków."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji jeden basen zewnętrzny oraz basen dla dzieci. Na terenie obiektu znajduje się również zjeżdżalnia wodna. Hotel oferuje tenis stołowy i rzutki, a także możliwość wypożyczenia rowerów za opłatą. Strefa wellness z solarium jest dostępna za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży (ok. 300 m)",
+  "Dobry dojazd do centrum Alanyi",
+  "Bezpłatne Wi-Fi na terenie całego obiektu",
+  "Udogodnienia dla rodzin z dziećmi (basen, plac zabaw)",
+  "Bar na plaży"
+ ],
+ "cons": [
+  "Plaża publiczna, piaszczysto-żwirowa, w starszych opiniach określana jako żwirowo-kamienista i niezbyt przyjemna",
+  "Starsze opinie (z 2010 r.) wskazywały na niską jakość jedzenia i brudny basen",
+  "Brak danych o roku ostatniego remontu",
+  "Duża odległość od lotniska (ok. 130 km)",
+  "Brak siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Tuvanna Beach znajduje się około 300 metrów od publicznej, piaszczysto-żwirowej plaży. Dojście do plaży prowadzi ulicą."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada jedną zjeżdżalnię wodną."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje basen dla dzieci i plac zabaw, co czyni go odpowiednim dla rodzin."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Lotnisko Antalya (AYT), oddalone o około 130 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje all inclusive?",
+   "a": "Tak, hotel oferuje formułę all inclusive, która obejmuje śniadanie, obiad, kolację, napoje alkoholowe i bezalkoholowe oraz przekąski."
+  }
+ ],
+ "address": "Obagol Mah Mersin Yolu Uzeri No 13, Cikcilli/Alanya/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 130,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "Basen zewnętrzny",
+  "Basen dla dzieci",
+  "Zjeżdżalnia wodna",
+  "Plac zabaw",
+  "Tenis stołowy",
+  "Rzutki",
+  "Wypożyczalnia rowerów (płatna)",
+  "Strefa wellness z solarium (płatna)"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "Obagol",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "publiczna, piaszczysto-żwirowa z pomostem",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój z klimatyzacją, centralnym ogrzewaniem, łazienką (prysznic, suszarka do włosów, płytki), balkonem/tarasem, wykładziną dywanową, mini-lodówką, telefonem, TV. Dostępne pokoje przystosowane dla osób na wózkach inwalidzkich."
+ ],
+ "rooms": 40,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.885659,
+  "lon": 30.7062664,
+  "src": "osm"
+ },
+ "sources": [
+  "transferise.com",
+  "agoda.com",
+  "wakacje.pl"
+ ],
+ "updated": "2026-11-26"
+}

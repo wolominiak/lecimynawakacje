@@ -1,0 +1,137 @@
+{
+ "id": 77492,
+ "slug": "almina",
+ "name": "Almina",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/almina-obiekt-1663776523-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Almina Hotel - Special Class to czterogwiazdkowy hotel butikowy, położony w sercu historycznej dzielnicy Sultanahmet w Stambule. Jest to idealne miejsce dla osób pragnących zanurzyć się w kulturze i historii miasta, dzięki bliskości najważniejszych zabytków.",
+  "Hotel jest polecany dla par poszukujących kulturalnego wypoczynku oraz dla rodzin, oferując komfortowe zakwaterowanie i szereg udogodnień, w tym restaurację na dachu z widokiem na morze i pełne usługi spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Almina znajduje się w dzielnicy Sultanahmet, zaledwie 550 metrów od centrum Stambułu. W bezpośrednim sąsiedztwie znajdują się takie atrakcje jak Błękitny Meczet, Hagia Sophia i Pałac Topkapi. Obiekt jest oddalony o około 850 metrów od Morza Marmara."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym pokoje rodzinne, trzyosobowe, Junior Suite z balkonem oraz pokoje standardowe i ekonomiczne. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, sejf oraz zestaw do parzenia kawy i herbaty. Dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Almina znajduje się restauracja oraz bar. Codziennie serwowane jest bezpłatne śniadanie kontynentalne w formie bufetu. Goście mogą również korzystać z restauracji na dachu, która oferuje widoki na morze. Dostępny jest także 24-godzinny room service."
+  },
+  {
+   "title": "Rekreacja i udogodnienia",
+   "text": "Hotel dysponuje pełnym centrum spa, które obejmuje łaźnię turecką (hammam), saunę, łaźnię parową oraz gabinety masażu. Dla aktywnych dostępny jest klub fitness oraz wypożyczalnia rowerów. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznej dzielnicy Sultanahmet",
+  "Bliskość głównych atrakcji turystycznych",
+  "Restauracja na dachu z widokiem na morze",
+  "Dobre śniadania i pomocny personel",
+  "Pełne usługi spa i siłownia"
+ ],
+ "cons": [
+  "Hałas z pobliskiej linii kolejowej w niektórych pokojach",
+  "Niektóre pokoje mogą być kompaktowe lub mieć zróżnicowany układ",
+  "Strome podejście od przystanku tramwajowego",
+  "Zróżnicowana jakość Wi-Fi",
+  "Brak informacji o plaży hotelowej i leżakach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 850 metrów od brzegu Morza Marmara."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom, akceptuje dzieci w każdym wieku i oferuje pokoje rodzinne."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Lotnisko Stambuł (IST) około 44 km i Lotnisko Sabiha Gökçen (SAW) około 30.5 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pomieszczeniach ogólnodostępnych i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Hotel serwuje bezpłatne śniadanie kontynentalne."
+  }
+ ],
+ "address": "Küçük Ayasofya Caddesi, Akbıyık Değirmeni Sokak No:27, Fatih, 34122 Stambuł",
+ "adultsOnly": false,
+ "airportKm": 30.5,
+ "airportName": "Sabiha Gökçen (SAW)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Restauracja na dachu",
+  "Wypożyczalnia rowerów",
+  "Room service 24h"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Sultanahmet",
+ "bars": 1,
+ "beachDistanceM": 850,
+ "beachType": "",
+ "centerKm": 0.55,
+ "goodFor": [
+  "Pary szukające kulturalnego wypoczynku",
+  "Turyści pragnący zwiedzać zabytki",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje rodzinne",
+  "Pokoje trzyosobowe",
+  "Junior Suite z balkonem",
+  "Pokoje standardowe",
+  "Pokoje ekonomiczne",
+  "Pokoje dwuosobowe lub typu twin",
+  "Pokoje jednoosobowe",
+  "Pokoje rodzinne łączone",
+  "Pokoje rodzinne z widokiem na morze",
+  "Pokoje dwuosobowe z widokiem na ogród"
+ ],
+ "rooms": 25,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 50.0984534,
+  "lon": 18.2250872,
+  "src": "osm"
+ },
+ "sources": [
+  "inistanbulhotels.com",
+  "hotel-istanbul.net",
+  "obilet.com",
+  "travelweekly.com",
+  "loveholidays.com",
+  "h-rez.com",
+  "kayak.pl",
+  "trivago.com"
+ ],
+ "updated": "2026-11-26"
+}

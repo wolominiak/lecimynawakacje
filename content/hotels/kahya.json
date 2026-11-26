@@ -1,0 +1,135 @@
+{
+ "id": 7640,
+ "slug": "kahya",
+ "name": "Kahya",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/kahya-zjezdzalnia-basen-1576732070-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Kahya to czterogwiazdkowy obiekt położony w centrum Alanyi, w dzielnicy Saray Mahallesi. Jest to idealne miejsce dla osób ceniących sobie bliskość plaży Kleopatry oraz miejskich atrakcji, takich jak Alanya Aquapark czy kolejka linowa Damlataş.",
+  "Obiekt jest rekomendowany zarówno dla rodzin z dziećmi, jak i dla par, oferując szereg udogodnień, w tym mini klub, baseny dla dzieci oraz program animacyjny. Ostatni remont w latach 2023-2024 zapewnił nowoczesne i komfortowe warunki pobytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Kahya znajduje się w centrum Alanyi, zaledwie 50-100 metrów od piaszczystej plaży Kleopatry. Jest to plaża hotelowa, jednak leżaki, parasole oraz jedzenie i napoje są dodatkowo płatne, ponieważ pakiet all inclusive nie obejmuje usług plażowych. Obiekt jest również blisko Alanya Aquaparku i stacji kolejki linowej Damlataş, a do ścisłego centrum miasta jest około 1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 223 do 247 pokoi, które zostały odnowione w latach 2023-2024. Wszystkie pokoje posiadają prywatne balkony, indywidualnie sterowaną klimatyzację, telewizor z płaskim ekranem, minibar (uzupełniany wodą przy zameldowaniu), bezpłatny sejf oraz suszarkę do włosów. Łazienki wyposażone są w prysznic (niektóre z wanną) i bezpłatne kosmetyki. Dostępne są pokoje standardowe, dwuosobowe, a także rodzinne z widokiem na morze i dwiema sypialniami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się 3 restauracje, w tym główna i a la carte, kawiarnia oraz cztery bary (na plaży, przy basenie i dwa bary/lounge). Pakiet all inclusive obejmuje posiłki i napoje serwowane na terenie obiektu. Należy pamiętać, że za posiłki w niektórych restauracjach a la carte, specjalne dania oraz wybrane napoje mogą obowiązywać dodatkowe opłaty."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu mogą korzystać z basenu zewnętrznego, basenu dla dzieci oraz podgrzewanego basenu (dostępnego w sezonie zimowym). Na terenie obiektu znajduje się również zjeżdżalnia wodna. Hotel oferuje pełne centrum spa z masażami, zabiegami na ciało i twarz, sauną oraz łaźnią turecką. Dostępna jest również całodobowa siłownia. Dla aktywnych gości przygotowano siatkówkę plażową, tenis stołowy, rzutki oraz sporty wodne takie jak aquafit, piłka wodna i aerobik w wodzie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Kahya jest przyjazny rodzinom, oferując szereg udogodnień dla najmłodszych. Dostępny jest basen dla dzieci, plac zabaw oraz mini klub dla dzieci w wieku od 4 do 12 lat. Ponadto, organizowane są animacje zarówno dla dzieci, jak i dorosłych, obejmujące programy dzienne i wieczorne pokazy."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum Alanyi",
+  "Dobre i różnorodne jedzenie",
+  "Przyjazny i pomocny personel",
+  "Czyste i nowoczesne pokoje po remoncie",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Pakiet all inclusive nie obejmuje usług na plaży (leżaki, napoje płatne)",
+  "Sporadyczne problemy z wyposażeniem pokoi",
+  "Zimne lub bezsmakowe jedzenie w niektórych recenzjach",
+  "Okazjonalne uwagi dotyczące czystości basenu krytego"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Kahya jest oddalony o 50-100 metrów od piaszczystej plaży Kleopatry."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Gazipaşa (GZP), oddalone o około 39-42,5 km. Lotnisko w Antalyi (AYT) znajduje się w odległości około 110,4 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Tak, hotel posiada zjeżdżalnię wodną oraz basen zewnętrzny i basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje basen dla dzieci, plac zabaw, mini klub dla dzieci w wieku 4-12 lat oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Saray Mahallesi, Güzelyalı Caddesi No:24, Alanya",
+ "adultsOnly": false,
+ "airportKm": 39,
+ "airportName": "Gazipaşa (GZP)",
+ "amenities": [
+  "Centrum spa",
+  "Siłownia 24h",
+  "Siatkówka plażowa",
+  "Tenis stołowy",
+  "Rzutki",
+  "Sporty wodne (aquafit, piłka wodna, aerobik)",
+  "Kawiarnia"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Saray Mahallesi",
+ "bars": 4,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1988,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2024,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje standardowe (18-23 m2) z balkonem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką z prysznicem",
+  "Pokoje dwuosobowe (20-22 m2) z balkonem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką z prysznicem",
+  "Pokoje rodzinne z widokiem na morze i dwiema sypialniami"
+ ],
+ "rooms": 223,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.598006,
+  "lon": 31.8296883,
+  "src": "osm"
+ },
+ "sources": [
+  "soleazur.rs",
+  "google.com",
+  "amimagazine.global",
+  "expedia.ca",
+  "google.com.tr",
+  "hrs.com",
+  "expedia.co.uk",
+  "expedia.com"
+ ],
+ "updated": "2026-11-26"
+}

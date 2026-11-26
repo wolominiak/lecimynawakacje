@@ -1,0 +1,131 @@
+{
+ "id": "x:turcja:green garden resort and spa",
+ "slug": "green-garden-resort-spa",
+ "name": "Green Garden Resort & Spa",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Obagol"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/obagol/green-garden-resort-a-spa/82d_green_garden__17_.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Green Garden Resort & Spa to pięciogwiazdkowy obiekt położony w tureckiej miejscowości Alanya, w dzielnicy Obagol, tuż przy Morzu Śródziemnym. Hotel, otwarty w 1998 roku i odnowiony w 2020 roku, oferuje komfortowe warunki na powierzchni ponad 28 000 m².",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, oferując liczne udogodnienia i programy rozrywkowe dla najmłodszych. Docenią go również osoby szukające aktywnego wypoczynku z łatwym dostępem do centrum miasta oraz bogatą ofertą gastronomiczną w formule Ultra All Inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Alanyi, w dzielnicy Obagol, około 3 km od centrum Alanyi i 250 metrów od centrum miejscowości Oba. Plaża piaszczysto-żwirowa, z bezpłatnymi leżakami i parasolami, oddalona jest o około 50-150 metrów, z dostępem przez tunel pod ulicą. Na plaży dostępny jest bar (usługi gastronomiczne płatne)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Green Garden Resort & Spa dysponuje 340 pokojami, rozmieszczonymi w pięciopiętrowym bloku głównym oraz 41 jednopiętrowych bungalowach. Oferowane są pokoje standardowe, rodzinne, apartamenty oraz wille, niektóre z prywatnymi basenami. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, łazienkę, telewizor satelitarny, sejf, minibar i zestaw do parzenia kawy i herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się 5 restauracji, w tym bufetowa oraz dwie à la carte (kuchnia turecka i włoska), dostępne raz na pobyt po rezerwacji. Do dyspozycji gości są również 4 bary, w tym bar przy basenie i na plaży. Formuła Ultra All Inclusive obejmuje posiłki, późne śniadanie, przekąski oraz napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje 3 baseny dla dorosłych (dwa odkryte, jeden kryty i podgrzewany) oraz 2 brodziki dla dzieci. Na terenie hotelu znajduje się aquapark z 4 zjeżdżalniami dla dorosłych i 1 dla dzieci. Do dyspozycji gości jest również siłownia, kort tenisowy, mini golf oraz centrum spa z hammamem i sauną."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw, mini klub dla dzieci w wieku 6-12 lat oraz mini disco. Hotel oferuje również bogaty program animacyjny, zapewniając rozrywkę dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko plaży i centrum Oba",
+  "Smaczne i różnorodne jedzenie w formule Ultra All Inclusive",
+  "Bogaty program animacyjny i atrakcje dla dzieci",
+  "Odnowione pokoje i części wspólne (2020 rok)",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Plaża publiczna, z kamienistym wejściem do morza (zalecane buty do wody)",
+  "Usługi gastronomiczne w barze na plaży są dodatkowo płatne",
+  "Odległość od lotniska Antalya (AYT) to około 120-130 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży i jaka jest jej charakterystyka?",
+   "a": "Plaża znajduje się około 50-150 metrów od hotelu, z dostępem przez tunel. Jest to plaża publiczna, piaszczysto-żwirowa, z piaszczysto-żwirowym zejściem do morza, choć niektóre opinie wskazują na kamieniste wejście. Na plaży dostępne są bezpłatne parasole, leżaki i ręczniki."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel dysponuje aquaparkiem z 4 zjeżdżalniami dla dorosłych i 1 dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując mini klub, plac zabaw, brodziki i animacje dla najmłodszych."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotniska to Antalya (AYT) oddalone o około 120-130 km oraz Gazipaşa-Alanya (GZP) w odległości około 35-39 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt rodzinny."
+  }
+ ],
+ "address": "Obagöl Mahallesi, 4. Sk. No:3, 07460 Alanya/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "łaźnia turecka (hammam)",
+  "sauna",
+  "mini golf",
+  "kort tenisowy"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Obagol",
+ "bars": 4,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby szukające aktywnego wypoczynku",
+  "osoby chcące połączyć wypoczynek z dostępem do miasta"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1998,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 5,
+ "roomTypes": [
+  "pokój standardowy (20-25 m²)",
+  "pokój rodzinny",
+  "apartament typu Economy Comfort (30-35 m²)",
+  "apartament typu Comfort (32-38 m²)",
+  "willa dwupokojowa (około 49 m²)",
+  "pokój przystosowany dla osób niepełnosprawnych"
+ ],
+ "rooms": 340,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "coraltravel.pl",
+  "trivago.com",
+  "google.com",
+  "google.com.ng",
+  "kayak.pl",
+  "greengardenhotels.com",
+  "tripbase.com",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-26"
+}

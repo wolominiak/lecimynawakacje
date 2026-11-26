@@ -1,0 +1,134 @@
+{
+ "id": "x:turcja:floria beach",
+ "slug": "floria-beach",
+ "name": "Floria Beach",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/alanya/floria-beach-pl/6306/09dedac8268564ec491f8f79e1640dc3_dji_0031-252.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Floria Beach to czterogwiazdkowy obiekt położony w Alanyi, bezpośrednio przy słynnej plaży Kleopatry. Oferuje on spokojną atmosferę, jednocześnie zapewniając łatwy dostęp do tętniącego życiem centrum miasta. Jest to idealne miejsce zarówno dla par, jak i rodzin szukających relaksującego wypoczynku nad morzem.",
+  "Obiekt, choć zbudowany w 2017 roku (lub gruntownie wyremontowany w tym czasie), dysponuje 93-110 pokojami rozmieszczonymi w dwóch budynkach na terenie o powierzchni 3000 m². Goście doceniają jego doskonałą lokalizację, bliskość plaży oraz przyjazną obsługę, co czyni go dobrym wyborem na wakacje na Riwierze Tureckiej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Floria Beach znajduje się w dzielnicy Dinek w Alanyi, bezpośrednio przy zachodnim krańcu piaszczysto-żwirowej plaży Kleopatry. Obiekt posiada prywatną część plaży, gdzie leżaki i parasole są bezpłatne. Ze względu na kamieniste wejście do morza, zalecane jest obuwie ochronne. Do centrum Alanyi jest około 1-3 km, co pozwala na spacer lub krótki przejazd taksówką."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje typu Standard Double lub Twin o powierzchni od 20 do 23,5 m². Większość z nich posiada balkon lub taras, a także widok na morze, basen lub góry. Standardowe wyposażenie obejmuje klimatyzację, minibar, sejf, telewizor z płaskim ekranem, suszarkę do włosów oraz bezpłatne kosmetyki. Pokoje mają ceramiczne podłogi, a niektóre są przystosowane dla osób na wózkach inwalidzkich."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja serwująca śniadania, obiady i kolacje w formie bufetu. Goście mogą korzystać z baru z przekąskami oraz dwóch barów/lounge, w tym jednego przy basenie. Pakiet all inclusive obejmuje posiłki w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe, serwowane zazwyczaj od 10:30 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Floria Beach dysponuje jednym odkrytym basenem, który działa sezonowo i posiada wydzieloną sekcję dla dzieci. Hotel oferuje okazjonalne wieczorne animacje, takie jak występy folklorystyczne czy muzyka na żywo, a także dzienne aktywności w postaci tenisa stołowego i rzutek. Na terenie obiektu znajduje się również centrum spa z sauną i łaźnią turecką oraz siłownia. Sporty wodne na plaży są dostępne za dodatkową opłatą u prywatnych dostawców."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Floria Beach jest polecany dla rodzin i par, które szukają spokojnego wypoczynku nad morzem, ale jednocześnie chcą mieć łatwy dostęp do atrakcji Alanyi. Jego lokalizacja bezpośrednio przy plaży Kleopatry oraz bliskość centrum sprawiają, że jest to dobra baza wypadowa do zwiedzania i relaksu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży Kleopatry",
+  "Prywatna część plaży z bezpłatnymi leżakami i parasolami",
+  "Dobre i urozmaicone jedzenie w ramach all inclusive",
+  "Przyjazna i wielojęzyczna obsługa",
+  "Czyste i zadbane pokoje"
+ ],
+ "cons": [
+  "Pokoje mogą być małe/kompaktowe",
+  "Kamieniste wejście do morza, zalecane obuwie do pływania",
+  "Potencjalny hałas z pobliskiej drogi w niektórych pokojach",
+  "Brak portów USB w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Floria Beach od plaży?",
+   "a": "Hotel Floria Beach znajduje się bezpośrednio przy plaży Kleopatry, zaledwie 0,1 km (1 minuta spacerem)."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 35-48 km, co zajmuje około 47 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel Floria Beach posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen z wydzieloną sekcją dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Posiada wydzieloną sekcję dla dzieci w basenie zewnętrznym i oferuje okazjonalne animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych hotelu."
+  },
+  {
+   "q": "Czy hotel Floria Beach jest tylko dla dorosłych?",
+   "a": "Nie, hotel Floria Beach nie jest obiektem wyłącznie dla dorosłych; jest to hotel rodzinny."
+  }
+ ],
+ "address": "Dinek Mah. Emirgan Cad. No:19, 07400 Alanya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Spa",
+  "Sauna",
+  "Łaźnia turecka",
+  "Siłownia",
+  "Tenis stołowy",
+  "Rzutki",
+  "Siatkówka plażowa"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Dinek",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "wypoczynek nad morzem"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2017,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double lub Twin Room (20-23,5 m², klimatyzacja, minibar, sejf, telefon, suszarka do włosów, bezpłatne kosmetyki, telewizor z płaskim ekranem/telewizja satelitarna, radio, podłogi ceramiczne, czajnik, balkon/taras)"
+ ],
+ "rooms": 93,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5572303,
+  "lon": 31.9656982,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "holidaycheck.de",
+  "floriabeachhotel.com",
+  "onthebeach.co.uk",
+  "sunshine.co.uk",
+  "trivago.com",
+  "yandex.com.tr",
+  "multitour.ru"
+ ],
+ "updated": "2026-11-26"
+}

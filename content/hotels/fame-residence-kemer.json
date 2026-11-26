@@ -1,0 +1,139 @@
+{
+ "id": "x:turcja:fame residence kemer",
+ "slug": "fame-residence-kemer",
+ "name": "Fame Residence Kemer",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/kemer/fame-residence-kemer/_yeni_dji_0287__copy_.JPG",
+ "city": "Kemer",
+ "intro": [
+  "Fame Residence Kemer to pięciogwiazdkowy hotel położony bezpośrednio przy prywatnej, żwirowo-kamienistej plaży w malowniczej miejscowości Kemer na Riwierze Tureckiej. Obiekt, otwarty w 2002 roku i częściowo odnowiony w 2019/2020 roku, oferuje komfortowy wypoczynek w eleganckim otoczeniu.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par oraz wszystkich ceniących sobie połączenie bliskości morza z łatwym dostępem do centrum miasta. Dzięki bogatej ofercie rekreacyjnej, animacjom i udogodnieniom dla najmłodszych, zapewnia udane wakacje dla każdego."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Fame Residence Kemer znajduje się w dzielnicy Merkez Mah. w Kemer, zaledwie 200 metrów do 1 km od centrum miasta. Hotel usytuowany jest bezpośrednio przy 100-metrowej, prywatnej plaży żwirowo-kamienistej, która posiada certyfikat Błękitnej Flagi. Do dyspozycji gości są bezpłatne leżaki, materace, parasole i ręczniki plażowe, a także pomost."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 246 pokoi, w tym pokoje standardowe (22-26 m²), rodzinne (30-45 m²), deluxe oraz przystosowane dla osób niepełnosprawnych. Wszystkie pokoje wyposażone są w klimatyzację, telewizję satelitarną, minibar, sejf, telefon, suszarkę do włosów i zestaw do parzenia kawy/herbaty. Większość posiada balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach koncepcji \"Fame Style All Inclusive\" goście mogą korzystać z posiłków w głównej restauracji, serwującej śniadania, obiady i kolacje w formie bufetu. Dostępne są również bufety dietetyczne i dziecięce. Hotel oferuje restauracje à la carte (turecką, włoską, rybną) za dodatkową opłatą. Na terenie obiektu znajduje się wiele barów, w tym Lobby Bar (czynny 24h), Beach Bar, Pool Bar i Disco Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami dla dorosłych - jednym zewnętrznym (270 m²) i jednym krytym (195 m²), który jest podgrzewany. Dla dzieci przygotowano brodzik (20 m²) oraz zjeżdżalnie wodne. Na terenie obiektu znajduje się również centrum fitness, spa z łaźnią turecką i sauną, a także możliwości do uprawiania sportów takich jak bilard, rzutki czy tenis stołowy. Hotel oferuje dzienne animacje i wieczorne show."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości w wieku 4-12 lat działa Mini Club (w sezonie letnim), zapewniający różnorodne zajęcia. Dzieci mogą korzystać z brodzika oraz zjeżdżalni wodnych. Wieczorami organizowane jest mini disco, a w głównej restauracji dostępne są specjalne bufety dziecięce."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i blisko centrum Kemer",
+  "Urozmaicone i smaczne jedzenie w ramach all inclusive",
+  "Dobra infrastruktura dla rodzin z dziećmi (mini klub, brodzik, zjeżdżalnie)",
+  "Niedawny remont części wspólnych",
+  "Bezpłatne Wi-Fi w pokojach i częściach wspólnych"
+ ],
+ "cons": [
+  "Plaża kamienisto-żwirowa, zalecane obuwie ochronne",
+  "Restauracje à la carte dodatkowo płatne",
+  "Napoje importowane i świeże soki płatne",
+  "Sporadyczne problemy z zasięgiem Wi-Fi na wyższych piętrach",
+  "Możliwe tłumy w głównej restauracji w szczycie sezonu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Fame Residence Kemer położony jest bezpośrednio przy prywatnej plaży."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża jest żwirowo-kamienista, z wejściem do morza również żwirowym i pomostem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada rozbudowanego aquaparku, ale oferuje zjeżdżalnie wodne dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, brodzik, zjeżdżalnie i animacje."
+  },
+  {
+   "q": "Ile kilometrów jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko (Antalya - AYT) oddalone jest o około 50-60 km."
+  },
+  {
+   "q": "Czy w hotelu jest darmowe Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w częściach wspólnych hotelu."
+  }
+ ],
+ "address": "Deniz Cad. No:15, 07980 Kemer/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 55,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "Łaźnia turecka (hammam)",
+  "Sauna",
+  "Jacuzzi",
+  "Siłownia",
+  "Bilard (płatny)",
+  "Rzutki",
+  "Tenis stołowy",
+  "Aerobik wodny"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Merkez Mah.",
+ "bars": 7,
+ "beachDistanceM": 0,
+ "beachType": "żwirowa/kamienista",
+ "centerKm": 0.6,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby ceniące komfortowy wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2002,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 4,
+ "roomTypes": [
+  "Pokój standardowy (ok. 22-26 m², max 3 osoby, klimatyzacja, TV sat, balkon, minibar, sejf, telefon, suszarka, zestaw do kawy/herbaty, łazienka z prysznicem)",
+  "Pokój rodzinny (ok. 30-45 m², klimatyzacja, TV sat, balkon, minibar, sejf, telefon, suszarka, zestaw do kawy/herbaty, łazienka z prysznicem)",
+  "Pokój deluxe (klimatyzacja, TV sat, balkon, minibar, sejf, telefon, suszarka, zestaw do kawy/herbaty, łazienka z prysznicem)",
+  "Pokój jednoosobowy (klimatyzacja, TV sat, balkon, minibar, sejf, telefon, suszarka, zestaw do kawy/herbaty, łazienka z prysznicem)",
+  "Pokój dla osób niepełnosprawnych (klimatyzacja, TV sat, balkon, minibar, sejf, telefon, suszarka, zestaw do kawy/herbaty, łazienka z prysznicem)"
+ ],
+ "rooms": 246,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.602969,
+  "lon": 30.5664161,
+  "src": "osm"
+ },
+ "sources": [
+  "admiral.travel",
+  "multitour.ru",
+  "coral.ge",
+  "yandex.com.tr",
+  "kemerroyalhotel.com",
+  "thomascook.com",
+  "famehotels.com",
+  "travelweekly.com"
+ ],
+ "updated": "2026-11-26"
+}

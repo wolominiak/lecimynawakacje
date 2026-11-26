@@ -1,0 +1,138 @@
+{
+ "id": "x:turcja:anitas",
+ "slug": "anitas",
+ "name": "Anitas",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Konakli"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/konakli/anitas/b1408a64669f542e3b0cc8a47ecc4fcb_anitas__5_.JPG",
+ "city": "Konakli",
+ "intro": [
+  "Hotel Anitas to kameralny obiekt położony w miejscowości Konakli na Riwierze Tureckiej, zaledwie kilka kroków od prywatnej, piaszczysto-żwirowej plaży. Zbudowany w 1991 roku i odnowiony w 2006 roku, oferuje 120 pokoi w sześciopiętrowym budynku. Hotel jest klasyfikowany jako 3-gwiazdkowy, mimo że w zapytaniu podano 4*.",
+  "Obiekt jest idealny dla rodzin, par i grup, które szukają spokojnego wypoczynku z bezpośrednim dostępem do morza. Oferuje podstawowe udogodnienia, takie jak baseny, restaurację, bary oraz animacje, co czyni go dobrą opcją dla osób ceniących sobie relaks w przystępnej cenie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Anitas znajduje się w Konakli, około 1.5-3 km od centrum miejscowości i 10-12 km od Alanyi. Obiekt leży bezpośrednio przy prywatnej plaży Konakli, która jest piaszczysto-żwirowa z kamienistym zejściem i naturalnymi płytami skalnymi, dlatego zaleca się korzystanie z pomostu. Leżaki i parasole są dostępne bezpłatnie, ręczniki plażowe za opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 120 pokojami jedno-, dwu- i trzyosobowymi o powierzchni około 24-25 m². Każdy pokój wyposażony jest w centralną klimatyzację (działającą w określonych godzinach), balkon, łazienkę z prysznicem i suszarką do włosów, telewizor SAT-TV, telefon oraz minibar uzupełniany codziennie wodą. Sejf jest dodatkowo płatny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Anitas obowiązuje formuła All Inclusive, która obejmuje śniadania, obiady i kolacje w formie bufetu w głównej restauracji z tarasem. Dostępne są również późne śniadania, przekąski, kawa/herbata z ciastkami, lody (w określonych godzinach) oraz zupa o północy. Lokalne napoje alkoholowe i bezalkoholowe serwowane są od 10:00 do 24:00. Świeżo wyciskane soki są płatne dodatkowo. Na terenie obiektu znajdują się bar, bar przy basenie i snack bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu mogą korzystać z jednego odkrytego basenu oraz oddzielnego basenu dla dzieci. Hotel oferuje dzienne animacje, wieczorne pokazy, tenis stołowy, rzutki i siatkówkę plażową. Na terenie obiektu znajduje się również centrum fitness oraz centrum spa z łaźnią turecką i sauną (masaże i zabiegi beauty są dodatkowo płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował basen dla dzieci, plac zabaw oraz mini klub. Dostępne są również menu dla dzieci w restauracji, co sprawia, że hotel jest przyjazny rodzinom."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej plaży z pomostem",
+  "Dobra lokalizacja z widokiem na morze i góry",
+  "Przyjazna i pomocna obsługa",
+  "Czystość w całym obiekcie",
+  "Animacje dla dorosłych i dzieci"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w pokojach i sejf",
+  "Plaża piaszczysto-żwirowa z kamienistym zejściem i płytami skalnymi",
+  "Ograniczona różnorodność jedzenia w porównaniu do dużych resortów",
+  "Hotel po remoncie w 2006 roku",
+  "Lotnisko w Antalyi oddalone o 120 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Anitas od plaży?",
+   "a": "Hotel Anitas znajduje się bezpośrednio przy prywatnej plaży Konakli, zaledwie kilka kroków od obiektu."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży przy hotelu Anitas?",
+   "a": "Plaża jest piaszczysto-żwirowa/kamienista z naturalnymi płytami skalnymi. Zaleca się korzystanie z wejścia do morza z pomostu."
+  },
+  {
+   "q": "Czy w hotelu Anitas jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada jeden odkryty basen i basen dla dzieci. Brak informacji o zjeżdżalniach czy aquaparku dla dorosłych."
+  },
+  {
+   "q": "Czy hotel Anitas jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje basen dla dzieci, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Jak daleko jest hotel Anitas od lotniska?",
+   "a": "Najbliższe lotnisko Gazipaşa-Alanya (GZP) znajduje się około 52-55 km od hotelu. Lotnisko w Antalyi (AYT) jest oddalone o około 120 km."
+  },
+  {
+   "q": "Czy w hotelu Anitas jest dostępne Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w lobby. W pokojach i innych częściach hotelu Wi-Fi jest płatne."
+  }
+ ],
+ "address": "Alaydın Sok. No:5, Konaklı, Alanya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 52,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Łaźnia turecka (hammam)",
+  "Sauna",
+  "Centrum fitness",
+  "Tenis stołowy",
+  "Rzutki",
+  "Siatkówka plażowa",
+  "Gry przy basenie",
+  "Plac zabaw"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Konaklı Mah.",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "Piaszczysto-żwirowa/kamienista z pomostem",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Grupy szukające relaksującego wypoczynku na plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1991,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2006,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy (ok. 24-25 m², klimatyzacja, balkon, łazienka z prysznicem, TV-SAT, telefon, minibar, sejf)",
+  "Pokój dwuosobowy (ok. 24-25 m², klimatyzacja, balkon, łazienka z prysznicem, TV-SAT, telefon, minibar, sejf)",
+  "Pokój trzyosobowy (ok. 24-25 m², klimatyzacja, balkon, łazienka z prysznicem, TV-SAT, telefon, minibar, sejf)"
+ ],
+ "rooms": 120,
+ "spa": true,
+ "wifi": false,
+ "geo": {
+  "lat": 36.5771127,
+  "lon": 31.8876932,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "antalyacoasthotels.net",
+  "booking.com",
+  "trivago.com",
+  "loveholidays.com",
+  "reserving.com",
+  "skyscanner.qa",
+  "oxfordtravels.com"
+ ],
+ "updated": "2026-11-26"
+}

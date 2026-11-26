@@ -1,0 +1,134 @@
+{
+ "id": 12010,
+ "slug": "hawaii",
+ "name": "Hawaii",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Marmaris"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/hawaii-basen-1088620611-570-428.jpg",
+ "city": "Marmaris",
+ "intro": [
+  "Hotel Hawaii to obiekt położony w centrum Marmaris, w tureckiej części Wybrzeża Egejskiego. Dzięki swojej lokalizacji blisko plaży i promenady, stanowi dobrą bazę wypadową do zwiedzania okolicy oraz korzystania z uroków nadmorskiego kurortu.",
+  "Hotel jest polecany zarówno dla rodzin, jak i par czy przyjaciół, którzy szukają połączenia relaksu z możliwościami rozrywki. Oferuje udogodnienia dla dzieci oraz strefę spa dla dorosłych, a także wieczorne animacje raz w tygodniu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hawaii znajduje się w centrum Marmaris, zaledwie 15-50 metrów od prywatnej, hotelowej plaży. Plaża jest żwirowa, miejscami piaszczysto-żwirowa, z dostępnymi leżakami i parasolami. Centrum miejscowości oddalone jest o około 1-1.5 km, co pozwala na łatwy dostęp do atrakcji Marmaris."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 96 pokoi, w tym standardowe pokoje dwuosobowe (z widokiem na ląd lub morze), pokoje Superior Deluxe oraz pokoje rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, balkon, telewizor LED z kanałami satelitarnymi, minibar, sejf (płatny), telefon, zestaw do parzenia kawy/herbaty oraz łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa serwująca dania kuchni tureckiej i międzynarodowej, a także restauracja à la carte z widokiem na basen. Goście mogą korzystać z baru przy basenie, baru w lobby oraz snack baru. Pakiet all inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe w wyznaczonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest sezonowy basen odkryty oraz podgrzewany basen kryty w strefie spa. Dla dzieci przygotowano brodzik i plac zabaw. Hotel oferuje również centrum fitness, tenis stołowy i bilard. Raz w tygodniu organizowane są wieczory z muzyką na żywo lub wieczory tureckie."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Luana Spa Centre oferuje saunę, łaźnię turecką (hammam), jacuzzi oraz płatne masaże i zabiegi. W całym hotelu, w tym w pokojach, dostępne jest bezpłatne Wi-Fi. Hotel został otwarty w 1986 roku, a ostatnie remonty miały miejsce w latach 2021/2023."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Zadbany basen",
+  "Dobre jedzenie w formie bufetu",
+  "Nowoczesny design (po remoncie)"
+ ],
+ "cons": [
+  "Brak zjeżdżalni wodnych w hotelu (poza małym placem zabaw dla dzieci)",
+  "Brak parkingu na miejscu",
+  "Lobby i korytarze bez klimatyzacji",
+  "Niektóre opinie sugerują, że hotel nie spełnia standardów 4 gwiazdek"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się od 15 do 50 metrów od prywatnej, hotelowej plaży."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Dalaman (DLM), oddalone o około 85-100 km. Czas transferu wynosi około 2 godziny."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani dużych zjeżdżalni. Dostępny jest plac zabaw dla dzieci z małymi zjeżdżalniami. Park wodny Atlantis Marmaris znajduje się około 0.6-1.1 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Posiada basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest odpowiedni dla rodzin i par, posiada udogodnienia dla dzieci."
+  }
+ ],
+ "address": "Çıldır Mahallesi, 228. Sokak No:3, 48700 Marmaris / Muğla, Turcja",
+ "adultsOnly": false,
+ "airportKm": 90,
+ "airportName": "Dalaman (DLM)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Bilard",
+  "Plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Çıldır Mahallesi",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "Żwirowa, miejscami piaszczysto-żwirowa",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Przyjaciele"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1986,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standardowe pokoje dwuosobowe (z widokiem na ląd lub morze) z klimatyzacją, balkonem, TV, minibarem, sejfem (płatnym), telefonem, zestawem do kawy/herbaty, łazienką z prysznicem i suszarką do włosów.",
+  "Pokoje typu Superior Deluxe z klimatyzacją, balkonem, TV, minibarem, sejfem (płatnym), telefonem, zestawem do kawy/herbaty, łazienką z prysznicem i suszarką do włosów.",
+  "Pokoje rodzinne z klimatyzacją, balkonem, TV, minibarem, sejfem (płatnym), telefonem, zestawem do kawy/herbaty, łazienką z prysznicem i suszarką do włosów."
+ ],
+ "rooms": 96,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.8476439,
+  "lon": 28.2595234,
+  "src": "osm"
+ },
+ "sources": [
+  "themarmarishotels.com",
+  "kayak.com",
+  "loveholidays.com",
+  "trivago.co.uk",
+  "fivestarstours.com",
+  "hotels-in-marmaris.com",
+  "hotels-of-marmaris.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-26"
+}

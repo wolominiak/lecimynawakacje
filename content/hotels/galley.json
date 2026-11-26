@@ -1,0 +1,140 @@
+{
+ "id": "x:turcja:galley",
+ "slug": "galley",
+ "name": "Galley",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Stambuł"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/turecko/istanbul/istanbul/galley/b08324917f371c4029beb.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Galley to kameralny obiekt o standardzie 3 gwiazdek, położony w sercu historycznej dzielnicy Sultanahmet w Stambule. Oferuje komfortowe zakwaterowanie w bliskiej odległości od najważniejszych atrakcji miasta, co czyni go idealnym wyborem dla osób pragnących zanurzyć się w lokalnej kulturze i historii.",
+  "Obiekt jest szczególnie polecany dla par, rodzin oraz turystów indywidualnych, którzy cenią sobie dogodną lokalizację, przyjazną obsługę i dostęp do udogodnień takich jak bezpłatne Wi-Fi czy centrum fitness. Bliskość plaży oraz możliwość skorzystania z lekcji gotowania i wieczorów filmowych to dodatkowe atuty, które wzbogacą pobyt w Stambule."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Galley znajduje się w dzielnicy Şehsuvar Bey Mahallesi, Kadırga, Fatih, w historycznej części Sultanahmet. Od centrum miasta dzieli go zaledwie 0.2 km. W odległości 5 minut spacerem od hotelu znajduje się plaża, na której dostępne są parasole i leżaki. Obiekt jest dogodnie położony względem głównych atrakcji, takich jak Błękitny Meczet czy Hagia Sophia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 9 lub 10 pokojami, oferując różnorodne typy zakwaterowania, w tym pokoje dwuosobowe, trzyosobowe, a także pokoje rodzinne i typu Suite. Wyposażenie obejmuje klimatyzację, prywatną łazienkę, biurko, minibar, bezpłatne Wi-Fi, telewizor z płaskim ekranem, zestaw do parzenia kawy/herbaty oraz suszarkę do włosów. Niektóre pokoje posiadają balkon i widok na Morze Marmara."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni bliskowschodniej i tureckiej, w tym śniadania w formie bufetu, kontynentalne lub amerykańskie. Goście mogą również skorzystać z kawiarni oraz baru/salonu. Hotel oferuje bezpłatne wieczorne przyjęcia towarzyskie, a śniadanie jest dostępne, czasem za dodatkową opłatą. Brak informacji o pakiecie all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Galley oferuje bezpłatne Wi-Fi we wszystkich pokojach i miejscach publicznych. Do dyspozycji gości jest centrum fitness/siłownia oraz usługi spa, w tym manicure i pedicure. Obiekt organizuje wieczory filmowe i lekcje gotowania. W okolicy dostępne są aktywności takie jak łucznictwo, jazda konna, wędkarstwo, jazda na rowerze, bilard i kręgielnia."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w pobliżu historycznych atrakcji",
+  "Bardzo przyjazny i pomocny personel",
+  "Czyste pokoje",
+  "Dobre połączenie z plażą",
+  "Widoki na Morze Marmara z niektórych pokoi"
+ ],
+ "cons": [
+  "Możliwy hałas z ulicy lub metra",
+  "Śniadanie bywa oceniane jako niewystarczające",
+  "Pokoje mogą być małe",
+  "Brak parkingu na miejscu",
+  "Słabe wygłuszenie w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Galley znajduje się 5 minut spacerem od plaży."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Lotnisko Stambuł (IST) oddalone o około 42.7 km oraz Międzynarodowe Lotnisko Sabiha Gökçen (SAW) oddalone o około 31.05 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Jedno źródło wspomina o basenach, jednak inne źródła nie potwierdzają istnienia basenów jako udogodnienia hotelowego. Brak informacji o aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Dostępne są łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o pakiecie all inclusive. Hotel oferuje śniadania oraz bezpłatne wieczorne przyjęcia towarzyskie."
+  }
+ ],
+ "address": "Şehsuvar Bey Mahallesi Cömertler Sokak No:25 Kadırga, 34130, Istanbul, Turkey",
+ "adultsOnly": false,
+ "airportKm": 31.05,
+ "airportName": "Międzynarodowe Lotnisko Sabiha Gökçen (SAW)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Centrum fitness",
+  "Spa",
+  "Kawiarnia",
+  "Bar/salon",
+  "Lekcje gotowania",
+  "Wieczory filmowe",
+  "Łóżeczka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Şehsuvar Bey Mahallesi, Kadırga, Fatih, w historycznej dzielnicy Sultanahmet",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby zwiedzające",
+  "Podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room (z częściowym widokiem na morze, z widokiem na morze, bez widoku)",
+  "Standard Triple Room",
+  "Economy Quadruple Room",
+  "Double Room z balkonem i widokiem na morze",
+  "Attic Double Room z widokiem na morze i balkonem",
+  "Budget Double Room",
+  "Economy Single Room",
+  "Comfort Family Rooms",
+  "pokoje typu Suite"
+ ],
+ "rooms": 10,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.0317147,
+  "lon": 27.4299904,
+  "src": "osm"
+ },
+ "sources": [
+  "hoteles.com",
+  "trivago.com",
+  "booking.com",
+  "agoda.com",
+  "galleyhotel.com",
+  "clickistanbulhotels.com",
+  "trip.com",
+  "istanbulahotel.com"
+ ],
+ "updated": "2026-11-26"
+}

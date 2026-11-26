@@ -1,0 +1,131 @@
+{
+ "id": "x:turcja:sealine",
+ "slug": "sealine",
+ "name": "Sealine",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/alanya/sealine/e71dd1ea019f659ad37a88c05909b760_seline.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Sealine to kameralny obiekt położony w Alanyi, w dzielnicy Güllerpınarı, zaledwie kilkaset metrów od piaszczysto-żwirowej plaży Keykubat. Dzięki dogodnej lokalizacji blisko centrum miasta, hotel stanowi dobrą bazę zarówno dla osób szukających relaksu nad morzem, jak i tych, którzy chcą korzystać z miejskich atrakcji.",
+  "Obiekt jest polecany dla rodzin oraz osób ceniących sobie spokojną, rodzinną atmosferę połączoną z turecką gościnnością. Hotel oferuje podstawowe udogodnienia, takie jak baseny, restauracja i bar, co czyni go odpowiednim wyborem na wakacje bez zbędnego zgiełku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sealine znajduje się w Alanyi, w dzielnicy Güllerpınarı, zaledwie 500-800 metrów od centrum miasta. Od piaszczysto-żwirowej plaży Keykubat dzieli go około 200-500 metrów. Niektóre źródła wskazują, że hotel posiada własną plażę z bezpłatnymi leżakami i parasolami, oddaloną o około 500 metrów, inne wspominają o publicznej plaży z takimi samymi udogodnieniami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 114 pokoi typu suite, rozmieszczonych w dwóch siedmiopiętrowych budynkach. Wszystkie pokoje są klimatyzowane i wyposażone w sejf, telewizor z płaskim ekranem, telefon, minibar oraz suszarkę do włosów. Każdy pokój posiada również balkon, a łazienki wyposażone są w prysznic i toaletę. W niektórych pokojach dostępne są aneksy kuchenne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa odkryte baseny, w tym jeden ze zjeżdżalnią, oraz oddzielny basen dla dzieci. Przy basenach dostępne są bezpłatne leżaki i parasole. Hotel oferuje wieczorne programy rozrywkowe. Na terenie obiektu można bezpłatnie korzystać z tenisa stołowego, a za dodatkową opłatą z bilarda i sportów wodnych na plaży."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Sealine znajduje się restauracja bufetowa, bar w lobby oraz bar przy basenie. Oferta All Inclusive obejmuje śniadanie, obiad i kolację w formie bufetu, a także lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje spa i masaże za dodatkową opłatą, a także salon fryzjerski. W lobby dostępne jest bezpłatne Wi-Fi, jednak internet w pokojach, restauracji i przy basenie może być dodatkowo płatny. Hotel został zbudowany w 1997 roku i całkowicie odnowiony w 2011 roku."
+  }
+ ],
+ "pros": [
+  "Czystość i dobra obsługa",
+  "Smaczne i świeże jedzenie",
+  "Dobra lokalizacja blisko centrum i plaży",
+  "Kameralna atmosfera i brak tłoku przy basenie"
+ ],
+ "cons": [
+  "Monotonia w kuchni (np. brak lodów)",
+  "Płatny internet w pokojach i przy basenie",
+  "Napoje i jedzenie na prywatnej plaży hotelu (Havana) są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sealine jest oddalony o około 200-500 metrów od piaszczysto-żwirowej plaży Keykubat. Niektóre źródła wskazują, że hotel posiada własną plażę z bezpłatnymi leżakami i parasolami, oddaloną o około 500 metrów."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 38.1 km w linii prostej lub 40.8 km drogą. Podróż zajmuje około 48 minut. Lotnisko w Antalyi (AYT) jest oddalone o około 120-127 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, w hotelu znajdują się dwa odkryte baseny, w tym jeden ze zjeżdżalnią."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest przyjazny rodzinom i posiada basen dla dzieci. Oferuje również wieczorne programy rozrywkowe."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "W lobby hotelu dostępne jest bezpłatne Wi-Fi. Internet w pokojach, restauracji i przy basenie może wymagać dodatkowej opłaty."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Sealine jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Kerim Kaptanlar Sk, No:20-22, 07400 Alanya, Türkiye",
+ "adultsOnly": false,
+ "airportKm": 38.1,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Spa",
+  "Masaże (płatne)",
+  "Salon fryzjerski",
+  "Tenis stołowy (bezpłatny)",
+  "Bilard (płatny)",
+  "Sporty wodne na plaży (płatne)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Güllerpınarı",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Osoby szukające relaksu w rodzinnej atmosferze",
+  "Osoby chcące korzystać z miejskich rozrywek"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1997,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Suite: klimatyzacja, sejf, telewizor z płaskim ekranem i kanałami satelitarnymi, telefon, minibar, suszarka do włosów, balkon, łazienka z prysznicem i toaletą. Niektóre z aneksem kuchennym."
+ ],
+ "rooms": 114,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5460274,
+  "lon": 32.0085292,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelscombined.com",
+  "multitour.ru",
+  "lastminute.com",
+  "hotelplanner.com",
+  "sealinehotel.com",
+  "yandex.com.tr",
+  "hotels-antalya.net",
+  "expedia.com"
+ ],
+ "updated": "2026-11-26"
+}

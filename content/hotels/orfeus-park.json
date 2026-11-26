@@ -1,0 +1,135 @@
+{
+ "id": 12057,
+ "slug": "orfeus-park",
+ "name": "Orfeus Park",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Colakli"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/orfeus-park-teren-hotelu-obiekt-1818925072-570-428.jpg",
+ "city": "Çolaklı",
+ "intro": [
+  "Hotel Orfeus Park to czterogwiazdkowy obiekt położony w miejscowości Çolaklı na Riwierze Tureckiej, około 300-350 metrów od piaszczystej, prywatnej plaży. Oferuje komfortowe zakwaterowanie w budynku głównym i aneksach, z bezpłatnym serwisem busowym na plażę.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, oferując bogate zaplecze rekreacyjne, w tym baseny ze zjeżdżalniami, mini klub oraz programy animacyjne dla wszystkich grup wiekowych. Hotel zapewnia również wyżywienie w formule All Inclusive z różnorodną kuchnią i lokalnymi napojami."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Orfeus Park znajduje się w Çolaklı, około 1,5-2,3 km od centrum miejscowości. Do piaszczystej, prywatnej plaży jest 300-350 metrów, a goście mogą korzystać z bezpłatnego busa kursującego co 10-15 minut. Na plaży dostępne są bezpłatne leżaki, parasole i ręczniki. Między hotelem a plażą przebiega droga."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 287-300 pokoi, w tym standardowe (23 m²), rodzinne (43 m²), dla osób niepełnosprawnych oraz ekonomiczne. Wszystkie wyposażone są w klimatyzację, TV LCD/satelitarną, minibar (woda bezpłatnie), telefon, łazienkę z prysznicem lub wanną oraz balkon lub taras. Podłogi pokryte są laminatem lub płytkami ceramicznymi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja główna serwująca dania kuchni międzynarodowej i wegetariańskiej w formie bufetu. Goście mają do dyspozycji 3-4 bary, w tym lobby bar, pool bar i beach bar. Pakiet All Inclusive obejmuje śniadania, obiady, kolacje, przekąski, nocne przekąski, ciasta i lody, a także wybrane lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-24:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami zewnętrznymi i jednym krytym, a także oddzielnymi basenami dla dzieci (zewnętrznym i krytym) oraz 2-3 zjeżdżalniami wodnymi. Na terenie obiektu znajduje się siłownia, sauna, łaźnia turecka oraz kort tenisowy. Dostępne są również zajęcia takie jak tenis stołowy, rzutki, siatkówka plażowa, aerobik i boccia."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw, mini klub (dla dzieci w wieku 4-12 lat) oraz mini disco. Hotel oferuje również programy animacyjne dla wszystkich grup wiekowych, w tym wieczorne programy rozrywkowe i muzykę na żywo."
+  }
+ ],
+ "pros": [
+  "Prywatna piaszczysta plaża z bezpłatnym serwisem busowym",
+  "Dobra jakość i różnorodność jedzenia",
+  "Przyjazny zespół animacyjny i programy rozrywkowe",
+  "Zadbany teren hotelowy",
+  "Baseny ze zjeżdżalniami"
+ ],
+ "cons": [
+  "Pokoje mogą być nieco stare, a łazienki małe",
+  "Zasięg Wi-Fi ograniczony do lobby",
+  "Problemy z czystością w pokojach",
+  "Możliwe problemy z overbookingiem",
+  "Płatne sporty wodne i niektóre zabiegi spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Orfeus Park jest położony około 300-350 metrów od prywatnej, piaszczystej plaży. Dostępny jest bezpłatny bus hotelowy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada 2-3 zjeżdżalnie wodne oraz baseny zewnętrzne i kryte."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując mini klub, plac zabaw, mini disco oraz baseny dla dzieci i animacje."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 55 km od lotniska w Antalyi (AYT)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i/lub w miejscach publicznych."
+  },
+  {
+   "q": "Jakie jest wyżywienie w hotelu?",
+   "a": "Hotel oferuje wyżywienie w formule All Inclusive, obejmujące śniadania, obiady, kolacje, przekąski, ciasta, lody oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  }
+ ],
+ "address": "Çolaklı, Turizm Cd. No:53, 07550, Çolakli, Turkey",
+ "adultsOnly": false,
+ "airportKm": 55,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Sklepy",
+  "Fryzjer",
+  "Pralnia (płatna)",
+  "Opieka medyczna (płatna)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Çolaklı",
+ "bars": 4,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój standardowy (23 m², klimatyzacja, sejf, TV, minibar, telefon, łazienka, balkon/taras)",
+  "Pokój rodzinny (43 m², klimatyzacja, sejf, TV, minibar, telefon, łazienka, balkon/taras)",
+  "Pokój dla osób niepełnosprawnych (23 m², klimatyzacja, sejf, TV, minibar, telefon, łazienka, balkon/taras)",
+  "Pokój ekonomiczny"
+ ],
+ "rooms": 296,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.8208296,
+  "lon": 31.30579,
+  "src": "osm"
+ },
+ "sources": [
+  "fibula.co.rs",
+  "obilet.com",
+  "trivago.ie",
+  "hotels-antalya.net",
+  "amimir.com",
+  "tropki.com",
+  "holidaycheck.de",
+  "megalotravel.com"
+ ],
+ "updated": "2026-11-26"
+}

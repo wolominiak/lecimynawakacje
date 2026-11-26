@@ -1,0 +1,133 @@
+{
+ "id": "x:turcja:annabella park",
+ "slug": "annabella-park",
+ "name": "Annabella Park",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Incekum"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/incekum/annabella-park-pl/9416/b05980a3cbd8a188c838d5440d58edad_annex-01-252.jpg",
+ "city": "Avsallar",
+ "intro": [
+  "Hotel Annabella Park to czterogwiazdkowy obiekt położony w turystycznej miejscowości Avsallar, w dzielnicy Incekum na Riwierze Tureckiej. Znajduje się około 20-30 km od centrum Alanyi, oferując spokojny wypoczynek z łatwym dostępem do lokalnych atrakcji. Obiekt jest idealnym wyborem dla rodzin z dziećmi oraz par poszukujących relaksującego pobytu blisko morza.",
+  "Hotel, zbudowany w 2013 roku i odnowiony w 2025 roku, dysponuje 96 pokojami w jednym siedmiopiętrowym budynku. Jego atutem jest bliskość do prywatnej, piaszczystej plaży, a także dostęp do udogodnień takich jak baseny, zjeżdżalnie wodne oraz mini klub dla najmłodszych gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Annabella Park znajduje się w miejscowości Avsallar, w dzielnicy Incekum, około 20-30 km od Alanyi. Prywatna, piaszczysta plaża Incekum oddalona jest o 200-300 metrów od hotelu. Na plaży dostępne są bezpłatne leżaki, parasole i ręczniki plażowe, z możliwością jednej bezpłatnej zmiany dziennie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 96 pokoi standardowych, każdy o powierzchni około 19 m². Pokoje wyposażone są w balkon, klimatyzację, telewizor z płaskim ekranem, sejf (płatny), mini lodówkę oraz łazienkę z prysznicem i suszarką do włosów. Należy pamiętać, że niektóre pokoje mogą wymagać odświeżenia."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach koncepcji All Inclusive, hotel serwuje posiłki w formie bufetu w głównej restauracji. Dostępne są śniadania, brunche, obiady, kolacje i zupa o północy. Goście mogą korzystać z lokalnych napojów alkoholowych i bezalkoholowych w barze przy basenie i disco-barze. Minibar uzupełniany jest wodą, a w dniu przyjazdu również napojami bezalkoholowymi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny: jeden dla dorosłych (117 m²) i jeden dla dzieci (50 m²). Dostępne są również 3 zjeżdżalnie wodne dla dorosłych i dzieci. Goście mogą korzystać z centrum fitness, tenisa stołowego, rzutek, aerobiku, bocci i siatkówki plażowej. Centrum spa oferuje łaźnię turecką i saunę, a masaże są dodatkowo płatne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz mini klub dla dzieci w wieku od 4 do 12 lat. Dostępne są również animacje dzienne i wieczorne, w tym wieczorne show w amfiteatrze, zapewniając rozrywkę dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Prywatna, piaszczysta plaża z łagodnym zejściem do morza",
+  "Bezpłatne leżaki, parasole i ręczniki plażowe",
+  "Dobre udogodnienia dla rodzin z dziećmi (mini klub, basen, zjeżdżalnie)",
+  "Zadbane tereny zielone",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Pokoje mogą być nieco przestarzałe i wymagać odświeżenia",
+  "Jedzenie bywa monotonne po kilku dniach",
+  "Rozrywka jest raczej dyskretna",
+  "Odległość od lotniska Antalya to około 100-110 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Annabella Park znajduje się około 200-300 metrów od prywatnej, piaszczystej plaży Incekum."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Tak, hotel oferuje 3 zjeżdżalnie wodne dla dorosłych i dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z małymi dziećmi, oferując mini klub, plac zabaw oraz basen dla dzieci."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Gazipaşa (GZP), oddalone o około 60 km. Lotnisko Antalya (AYT) znajduje się około 100-110 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom. Minimalny wiek do zameldowania to 18 lat."
+  }
+ ],
+ "address": "İncekum mahallesi Dr.Ülkü Güney cad.no:1A, Alanya-Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Gazipaşa (GZP)",
+ "amenities": [
+  "Centrum fitness",
+  "Spa (hammam, sauna)",
+  "Tenis stołowy",
+  "Rzutki",
+  "Aerobik",
+  "Boccia",
+  "Siatkówka plażowa"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Incekum",
+ "bars": 2,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z małymi dziećmi",
+  "Pary szukające relaksującego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2013,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój standardowy (około 19 m², balkon, klimatyzacja, telewizor, sejf, mini lodówka, łazienka z prysznicem)"
+ ],
+ "rooms": 96,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.63261,
+  "lon": 31.75281,
+  "src": "web"
+ },
+ "sources": [
+  "kompastour.com",
+  "agoda.com",
+  "coral.ge",
+  "mapcarta.com",
+  "booking.com",
+  "travelyalla.com",
+  "wego.com.sg",
+  "fibula.rs"
+ ],
+ "updated": "2026-11-26"
+}
