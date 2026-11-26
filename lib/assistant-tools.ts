@@ -11,7 +11,7 @@ import { CRUISE_AREAS, CRUISE_COUNTRY_ID, areaOf, lineOf, splitName } from './cr
 export type Card = {
   title: string; place: string; stars?: number; img?: string;
   from?: string; date?: string; nights?: number; board?: string;
-  pricePP?: number; priceTotal?: number; persons?: number; url: string; src: string; lm?: boolean;
+  pricePP?: number; priceTotal?: number; persons?: number; url: string; src: string; lm?: boolean; hotelId?: number;
 };
 
 const TL_API = 'https://widget.wakacje.pl/v2/api/widgets/offers';
@@ -164,7 +164,7 @@ function tlCard(o: any, lm = false): Card {
     place: /objazd/i.test(o.placeName?.[1] || '') ? `Wycieczka objazdowa, ${o.placeName[0]}` : (o.placeName || []).filter(Boolean).slice(1).reverse().concat(o.placeName?.[0] || []).slice(0, 2).join(', '),
     stars: /objazd/i.test(o.placeName?.[1] || '') ? undefined : o.category, img: o.photo ? TL_IMG + o.photo : undefined,
     from: o.departure?.label, date: o.departureDate, nights: o.duration ? o.duration - 1 : undefined, board: o.service?.label,
-    pricePP: num(o.price), url: '/go/oferta/?c=asystent&u=' + encodeURIComponent(o.url), src: 'wakacje.pl', lm,
+    pricePP: num(o.price), url: '/go/oferta/?c=asystent&u=' + encodeURIComponent(o.url), src: 'wakacje.pl', lm, hotelId: o.hotelId,
   };
 }
 

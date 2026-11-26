@@ -1,6 +1,7 @@
 'use client';
 import { Fragment, useEffect, useRef, useState } from 'react';
 import type { Card } from '@/lib/assistant-tools';
+import { useHotelPages } from './useHotelPages';
 
 type Msg = { role: 'user' | 'model'; text: string; cards?: Card[]; links?: string[] };
 
@@ -84,10 +85,11 @@ function Md({ text, links }: { text: string; links?: string[] }) {
 }
 
 function Cards({ cards }: { cards: Card[] }) {
+  const hp = useHotelPages();
   return (
     <div className="as-cards">
       {cards.map((c, i) => (
-        <a key={i} className="as-card" href={c.url} target="_blank" rel="sponsored nofollow noopener">
+        <a key={i} className="as-card" href={c.hotelId && hp[c.hotelId] ? `/hotel/${hp[c.hotelId]}/` : c.url} target="_blank" rel={c.hotelId && hp[c.hotelId] ? 'noopener' : 'sponsored nofollow noopener'}>
           <div className="as-img">{c.img && <img src={c.img} alt="" loading="lazy" onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }} />}{c.lm && <span className="as-lm">Last minute</span>}</div>
           <div className="as-body">
             <b>{c.title}</b>

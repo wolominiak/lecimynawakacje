@@ -3,6 +3,12 @@ import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { promoOffers, cheapest, daysTo, fmtDate, fmtPrice, offerHref, type PromoOffer } from '@/lib/promo';
 import { useNearView } from './useNearView';
+import { useHotelPages } from './useHotelPages';
+
+// link do karty hotelu (zostajemy na portalu) albo bezpośrednio do oferty
+const link = (o: PromoOffer, c: string, hp: Record<string, string>) => (o.hotelId && hp[o.hotelId]
+  ? { href: `/hotel/${hp[o.hotelId]}/` }
+  : { href: offerHref(o, c), target: '_blank', rel: 'sponsored nofollow noopener' });
 
 // Własne banery promocyjne z aktualnymi cenami (zamiast reklam displayowych).
 // Każdy baner pokazuje prawdziwą ofertę; jeśli ofert brak, baner znika albo zostaje tekst bez ceny.
@@ -22,6 +28,7 @@ const DAILY = [37, 16, 65, 29, 110]; // Egipt, Turcja, Tunezja, Grecja, Cypr
 
 export function DealBar() {
   const path = usePathname();
+  const hp = useHotelPages();
   const [o, setO] = useState<PromoOffer | null>(null);
   useEffect(() => after(1200, async () => {
     const day = Math.floor(Date.now() / 86400000);
@@ -42,7 +49,7 @@ export function DealBar() {
       <div className="wrap dealbar-in">
         <span className="dealbar-tag">Okazja dnia</span>
         {o ? (
-          <a className="dealbar-a" href={offerHref(o, 'okazja-dnia')} target="_blank" rel="sponsored nofollow noopener">
+          <a className="dealbar-a" {...link(o, 'okazja-dnia', hp)}>
             <span className="dealbar-t"><b>Last minute: {place(o)}</b>{o.board ? `, ${o.board.toLowerCase()}` : ''}{o.stars ? `, ${o.stars}*` : ''}</span>
             <span className="dealbar-m">wylot {when(o.date)}{o.from ? ` (${o.from})` : ''}{o.days ? `, ${o.days} dni` : ''}{o.rating ? `, ocena ${o.rating.toFixed(1)}` : ''}</span>
             <span className="dealbar-p">{fmtPrice(o.price)}<small> /os.</small></span>
@@ -62,6 +69,7 @@ export function DealBar() {
 
 export function GuideDeals({ countryId, loc, region, regionLoc, allHref }: { countryId: number; loc: string; region?: string; regionLoc?: string; allHref: string }) {
   const [ref, near] = useNearView<HTMLDivElement>('300px');
+  const hp = useHotelPages();
   const [list, setList] = useState<PromoOffer[] | null>(null);
   const [inRegion, setInRegion] = useState(false);
   useEffect(() => {
@@ -92,7 +100,7 @@ export function GuideDeals({ countryId, loc, region, regionLoc, allHref }: { cou
         <ul className="promo-rows">
           {list.map((o) => (
             <li key={o.id}>
-              <a href={offerHref(o, 'przewodnik')} target="_blank" rel="sponsored nofollow noopener">
+              <a {...link(o, 'przewodnik', hp)}>
                 <span className="pr-main"><b>{o.hotel}</b>{o.stars ? ` ${o.stars}*` : ''}<small>{[fmtDate(o.date) + (o.date.slice(0, 4) !== String(new Date().getFullYear()) ? '.' + o.date.slice(0, 4) : ''), nights(o.days), o.board, o.from].filter(Boolean).join(', ')}</small></span>
                 <span className="pr-price">{fmtPrice(o.price)}</span>
               </a>

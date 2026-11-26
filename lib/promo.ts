@@ -5,13 +5,13 @@ const API = 'https://widget.wakacje.pl/v2/api/widgets/offers';
 const TTL = 30 * 60 * 1000;
 
 type Raw = {
-  id: number; name: string; price: string; duration: number; departureDate: string; category: number;
+  id: number; hotelId?: number; name: string; price: string; duration: number; departureDate: string; category: number;
   departure?: { label: string }; service?: { label: string; value: number }; transport?: { value: number };
   placeName?: string[]; ratingValue?: number; url: string;
 };
 
 export type PromoOffer = {
-  id: number; hotel: string; price: number; date: string; days: number; stars: number;
+  id: number; hotelId?: number; hotel: string; price: number; date: string; days: number; stars: number;
   from: string; board: string; place: string[]; rating: number; url: string; tour: boolean;
 };
 
@@ -19,7 +19,7 @@ const mem = new Map<string, Promise<PromoOffer[]>>();
 
 function norm(o: Raw): PromoOffer {
   return {
-    id: o.id, hotel: o.name, price: Number(String(o.price).replace(/\s/g, '')) || 0, date: o.departureDate,
+    id: o.id, hotelId: o.hotelId, hotel: o.name, price: Number(String(o.price).replace(/\s/g, '')) || 0, date: o.departureDate,
     days: o.duration || 0, stars: o.category || 0, from: o.departure?.label || '', board: o.service?.label || '',
     place: o.placeName || [], rating: o.ratingValue || 0, url: o.url, tour: /objazd/i.test(o.placeName?.[1] || ''),
   };
