@@ -51,7 +51,7 @@ export default async function Page({ params }: P) {
   const title = `Tanie loty ${r.oName} - ${r.name}`;
 
   const faq = [
-    { q: `Ile kosztuje lot ${r.oFrom} do: ${r.name}?`, a: `Dziś najtańszy lot w obie strony kosztuje ${zl(r.price)} za osobę${r.dep ? ` (wylot ${fmtDay(r.dep)}${r.ret ? `, powrót ${fmtDay(r.ret)}` : ''})` : ''}. Ceny tanich lotów zmieniają się kilka razy dziennie.` },
+    { q: `Ile kosztuje lot ${r.oFrom} do: ${r.name}?`, a: `Dziś najtańsze loty w obie strony kosztują od ${zl(r.price)} za osobę${r.dep ? ` (wylot ${fmtDay(r.dep)}${r.ret ? `, powrót ${fmtDay(r.ret)}` : ''})` : ''}. Ceny tanich lotów zmieniają się kilka razy dziennie.` },
     ...(best && worst && best[0] !== worst[0] ? [{ q: `Kiedy najtaniej polecieć ${r.oFrom} do: ${r.name}?`, a: `Najtaniej jest ${monthLoc(best[0])} (od ${zl(best[1])}), a najdrożej ${monthLoc(worst[0])} (od ${zl(worst[1])}).` }] : []),
     ...(flightTime ? [{ q: `Ile trwa lot z Polski${c ? ` do kraju ${c.name}` : ''}?`, a: flightTime }] : []),
     { q: 'Czy cena obejmuje bagaż?', a: 'To zależy od linii i taryfy. Tanie linie w najniższej cenie mają zwykle tylko mały bagaż podręczny. Przed zakupem sprawdź warunki w wynikach wyszukiwania.' },
@@ -66,12 +66,12 @@ export default async function Page({ params }: P) {
             <span className="eyebrow">Loty {r.oFrom}{c ? `, ${c.name}` : ''}</span>
             <h1>{title}</h1>
             <p className="lead">
-              Dzisiejsza okazja: lot w obie strony za <b>{zl(r.price)}</b> za osobę
+              Dzisiejsza okazja: lot w obie strony od <b>{zl(r.price)}</b> za osobę
               {r.dep && <>, wylot {fmtDay(r.dep)}{r.ret && <>, powrót {fmtDay(r.ret)}</>}</>}
               {r.transfers != null && <>, {transfersLabel(r.transfers)}</>}.
             </p>
             <p><a className="btn" href={searchHref(r, r.dep, r.ret)} target="_blank" rel="sponsored nofollow noopener">Zarezerwuj ten lot &rarr;</a></p>
-            <p className="fl-live">{r.live ? <>Cena sprawdzona dziś o {at}, aktualizacja co 15 minut. Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</> : <>Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</>}</p>
+            <p className="fl-live">{r.live ? <>Cena sprawdzona dziś o {at}{r.foundH ? `, bilet znaleziony ${r.foundH <= 1 ? 'w ostatniej godzinie' : `${r.foundH} godz. temu`}` : ''}. Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</> : <>Tanie bilety szybko znikają, rezerwuj, póki cena jest aktualna.</>}</p>
           </div>
         </div>
       </section>

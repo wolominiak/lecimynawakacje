@@ -27,7 +27,8 @@ export default async function Page() {
   }
   const live = await livePrices(allRoutes());
   const at = checkedAt();
-  const routes = live.routes.sort((a, b) => a.price - b.price);
+  // przy świeżych danych pokazujemy tylko trasy z ceną znalezioną w ostatnich godzinach
+  const routes = (live.live ? live.routes.filter((x) => x.fresh) : live.routes).sort((a, b) => a.price - b.price);
   const byO = new Map<string, typeof routes>();
   for (const x of routes) byO.set(x.o, [...(byO.get(x.o) || []), x]);
   const origins = [...byO.entries()];

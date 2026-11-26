@@ -1,61 +1,87 @@
-// Świeże ceny lotów prosto z Aviasales Data API (po stronie serwera, cache 15 minut).
-// Jeśli brak tokena albo API nie odpowie, zostają ceny z codziennego pliku data/flights.json.
+// Świeże ceny lotów z Aviasales Data API (po stronie serwera, cache 15 minut).
+// Bierzemy tylko bilety znalezione niedawno (pole found_at): najpierw z ostatnich 24 godzin,
+// jeśli takich brak, z 72 godzin. Starsze ceny często są już nieaktualne.
+// Bez tokena albo przy błędzie API zostają ceny z codziennego pliku data/flights.json.
 import type { Route } from './flights';
 
 const API = 'https://api.travelpayouts.com';
 const TOKEN = process.env.TRAVELPAYOUTS_TOKEN;
 export const LIVE_TTL = 900;
 
-async function get(p: string, params: Record<string, string>) {
+type Latest = { origin: string; destination: string; depart_date: string; return_date?: string | null; value: number; found_at?: string; number_of_changes?: number; actual?: boolean };
+
+async function latest(params: Record<string, string>): Promise<Latest[] | null> {
   if (!TOKEN) return null;
-  const q = new URLSearchParams({ currency: 'pln', market: 'pl', ...params });
+  const q = new URLSearchParams({
+    currency: 'pln', market: 'pl', period_type: 'year', one_way: 'false', sorting: 'price', limit: '1000', page: '1', show_to_affiliates: 'true', ...params,
+  });
   try {
-    const r = await fetch(`${API}${p}?${q}`, { headers: { 'X-Access-Token': TOKEN }, next: { revalidate: LIVE_TTL } });
+    const r = await fetch(`${API}/aviasales/v3/get_latest_prices?${q}`, { headers: { 'X-Access-Token': TOKEN }, next: { revalidate: LIVE_TTL } });
     if (!r.ok) return null;
     const j = await r.json();
-    return j?.data ?? null;
+    return Array.isArray(j?.data) ? j.data : null;
   } catch {
     return null;
   }
 }
 
-type Ticket = { destination: string; price: number; departure_at?: string; return_at?: string; transfers?: number; airline?: string };
+const HOUR = 3600000;
+const ageH = (t: Latest) => (t.found_at ? (Date.now() - Date.parse(t.found_at)) / HOUR : 999);
 
-/** Trasa z aktualną najniższą ceną i cenami w miesiącach */
-export async function liveRoute(r: Route): Promise<Route & { live: boolean }> {
-  const [cheap, months] = await Promise.all([
-    get('/aviasales/v3/prices_for_dates', { origin: r.o, destination: r.d, one_way: 'false', sorting: 'price', limit: '1' }),
-    get('/aviasales/v3/grouped_prices', { origin: r.o, destination: r.d, group_by: 'month', one_way: 'false' }),
-  ]);
-  const t = Array.isArray(cheap) ? (cheap[0] as Ticket | undefined) : undefined;
-  const m: Record<string, number> = {};
-  const md: Record<string, [string, string | null]> = {};
-  if (months && typeof months === 'object') for (const [k, v] of Object.entries(months as Record<string, Ticket>)) if (v?.price) {
-    m[k.slice(0, 7)] = Math.round(v.price);
-    if (v.departure_at) md[k.slice(0, 7)] = [v.departure_at.slice(0, 10), v.return_at?.slice(0, 10) || null];
+/** Bilety przyszłe i świeże: najpierw do 24 h, potem do 72 h */
+function fresh(list: Latest[]): Latest[] {
+  const today = new Date().toISOString().slice(0, 10);
+  const ok = list.filter((t) => t.value > 0 && t.actual !== false && t.depart_date?.slice(0, 10) >= today);
+  for (const h of [24, 72]) {
+    const f = ok.filter((t) => ageH(t) <= h);
+    if (f.length) return f;
   }
-  const hasM = Object.keys(m).length > 0;
-  const mm = hasM ? { months: m, monthDates: md } : { months: r.months, monthDates: r.monthDates };
-  if (!t?.price) return { ...r, ...mm, live: hasM };
+  return [];
+}
+
+export type LiveRoute = Route & { live: boolean; foundH?: number };
+
+/** Trasa z aktualną najniższą ceną i cenami w miesiącach (tylko świeże bilety) */
+export async function liveRoute(r: Route): Promise<LiveRoute> {
+  const list = await latest({ origin: r.o, destination: r.d });
+  if (!list) return { ...r, live: false };
+  const f = fresh(list);
+  if (!f.length) return { ...r, live: false };
+  const months: Record<string, number> = {};
+  const monthDates: Record<string, [string, string | null]> = {};
+  for (const t of f) {
+    const m = t.depart_date.slice(0, 7);
+    if (!months[m] || t.value < months[m]) {
+      months[m] = Math.round(t.value);
+      monthDates[m] = [t.depart_date.slice(0, 10), t.return_date?.slice(0, 10) || null];
+    }
+  }
+  const best = f.reduce((a, b) => (b.value < a.value ? b : a));
   return {
-    ...r, live: true, price: Math.round(t.price), dep: t.departure_at?.slice(0, 10), ret: t.return_at?.slice(0, 10) || null,
-    transfers: t.transfers ?? r.transfers, airline: t.airline || r.airline, ...mm,
+    ...r, live: true, foundH: Math.max(1, Math.round(ageH(best))),
+    price: Math.round(best.value), dep: best.depart_date.slice(0, 10), ret: best.return_date?.slice(0, 10) || null,
+    transfers: best.number_of_changes ?? r.transfers,
+    months: Object.keys(months).length > 1 ? months : r.months,
+    monthDates: Object.keys(months).length > 1 ? monthDates : r.monthDates,
   };
 }
 
 /** Aktualne najniższe ceny dla listy tras (jedno zapytanie na lotnisko wylotu) */
-export async function livePrices<T extends Route>(routes: T[]): Promise<{ routes: T[]; live: boolean }> {
+export async function livePrices<T extends Route>(routes: T[]): Promise<{ routes: (T & { fresh?: boolean })[]; live: boolean }> {
   const origins = [...new Set(routes.map((r) => r.o))];
-  const lists = await Promise.all(origins.map((o) => get('/aviasales/v3/prices_for_dates', { origin: o, unique: 'true', sorting: 'price', limit: '1000', one_way: 'false' })));
-  const best = new Map<string, Ticket>();
+  const lists = await Promise.all(origins.map((o) => latest({ origin: o })));
+  const best = new Map<string, Latest>();
   origins.forEach((o, i) => {
-    const l = lists[i];
-    if (Array.isArray(l)) for (const t of l as Ticket[]) best.set(`${o}-${t.destination}`, t);
+    for (const t of fresh(lists[i] || [])) {
+      const k = `${o}-${t.destination}`;
+      const cur = best.get(k);
+      if (!cur || t.value < cur.value) best.set(k, t);
+    }
   });
   if (!best.size) return { routes, live: false };
   const out = routes.map((r) => {
     const t = best.get(`${r.o}-${r.d}`);
-    return t?.price ? { ...r, price: Math.round(t.price), dep: t.departure_at?.slice(0, 10), ret: t.return_at?.slice(0, 10) || null } : r;
+    return t ? { ...r, fresh: true, price: Math.round(t.value), dep: t.depart_date.slice(0, 10), ret: t.return_date?.slice(0, 10) || null } : { ...r, fresh: false };
   });
   return { routes: out, live: true };
 }

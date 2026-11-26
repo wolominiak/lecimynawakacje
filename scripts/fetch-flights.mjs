@@ -78,17 +78,29 @@ for (const [o, oName, oSlug, oFrom] of ORIGINS) {
   await sleep(400);
 }
 
-// 4. Ceny w kolejnych miesiącach dla tras (najpierw najtańsze, limit MAX_ROUTES)
+// 4. Ceny w kolejnych miesiącach i najtańszy lot, tylko z biletów znalezionych niedawno (found_at do 72 h)
 const keys = Object.keys(routes).sort((a, b) => routes[a].price - routes[b].price).slice(0, MAX_ROUTES);
+const todayIso = new Date().toISOString().slice(0, 10);
+const ageH = (t) => (t.found_at ? (Date.now() - Date.parse(t.found_at)) / 3600000 : 999);
 let done = 0;
 for (const k of keys) {
   const r = routes[k];
-  const g = await get('/aviasales/v3/grouped_prices', { origin: r.o, destination: r.d, group_by: 'month', one_way: 'false' });
-  if (g && typeof g === 'object') {
-    for (const [m, t] of Object.entries(g)) if (t?.price) {
-      r.months[m.slice(0, 7)] = Math.round(t.price);
-      if (t.departure_at) r.monthDates[m.slice(0, 7)] = [t.departure_at.slice(0, 10), t.return_at?.slice(0, 10) || null];
+  const list = (await get('/aviasales/v3/get_latest_prices', {
+    origin: r.o, destination: r.d, period_type: 'year', one_way: 'false', sorting: 'price', limit: '1000', page: '1', show_to_affiliates: 'true',
+  })) || [];
+  const ok = list.filter((t) => t.value > 0 && t.actual !== false && t.depart_date?.slice(0, 10) >= todayIso);
+  const f = ok.filter((t) => ageH(t) <= 24).length ? ok.filter((t) => ageH(t) <= 24) : ok.filter((t) => ageH(t) <= 72);
+  r.months = {}; r.monthDates = {};
+  for (const t of f) {
+    const m = t.depart_date.slice(0, 7);
+    if (!r.months[m] || t.value < r.months[m]) {
+      r.months[m] = Math.round(t.value);
+      r.monthDates[m] = [t.depart_date.slice(0, 10), t.return_date?.slice(0, 10) || null];
     }
+  }
+  if (f.length) {
+    const best = f.reduce((a, b) => (b.value < a.value ? b : a));
+    Object.assign(r, { price: Math.round(best.value), dep: best.depart_date.slice(0, 10), ret: best.return_date?.slice(0, 10) || null, transfers: best.number_of_changes ?? r.transfers });
   }
   if (++done % 100 === 0) console.log('miesiące:', done, '/', keys.length);
   await sleep(250);
