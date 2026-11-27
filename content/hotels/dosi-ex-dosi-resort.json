@@ -1,0 +1,137 @@
+{
+ "id": 7936,
+ "slug": "dosi-ex-dosi-resort",
+ "name": "Dosi (ex. Dosi Resort)",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Side"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/dosi-ex-dosi-resort-zjezdzalnia-basen-obiekt-1856330904-570-428.jpg",
+ "city": "Side",
+ "intro": [
+  "Hotel Dosi (ex. Dosi Resort) to czterogwiazdkowy obiekt położony w dzielnicy Kumköy w Side, zaledwie około 2-3 km od centrum miejscowości. Hotel, zbudowany w 2001 roku i niedawno odnowiony, oferuje 172 pokoje i jest idealnym miejscem dla rodzin, par oraz osób szukających relaksu w kameralnej atmosferze.",
+  "Obiekt jest ceniony za dobrą relację jakości do ceny oraz bogatą ofertę udogodnień, w tym baseny, centrum spa i fitness, a także program animacyjny. Dzięki udogodnieniom dla dzieci, takim jak mini klub i plac zabaw, hotel jest szczególnie polecany rodzinom z dziećmi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Dosi znajduje się w Side, w dzielnicy Kumköy, około 700 metrów od piaszczystej plaży. Obiekt oferuje bezpłatny transfer na plażę, gdzie goście mogą korzystać z prywatnej części oraz bezpłatnych leżaków i parasoli. Centrum Side oddalone jest o około 2-3 km, a lotnisko w Antalyi o około 63-67 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 172 pokojami, w tym standardowymi (jedno- i dwuosobowymi) oraz rodzinnymi (Family Suites/Family Quadruple room). Wszystkie pokoje wyposażone są w klimatyzację (sezonowo), łazienkę z prysznicem/wanną i suszarką do włosów, telewizor z płaskim ekranem, minibar, telefon, sejf (często płatny) oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive, hotel oferuje wszystkie posiłki (śniadanie, obiad, kolacja i przekąski) serwowane w głównej restauracji bufetowej lub restauracji na świeżym powietrzu. Do posiłków dostępne są napoje bezalkoholowe, piwo, wino, woda oraz lokalne napoje alkoholowe. Na terenie obiektu znajdują się również trzy bary, w tym bar przy basenie i lobby bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa odkryte baseny, w tym jeden ze zjeżdżalnią wodną, oraz oddzielny basen dla dzieci. Goście mogą korzystać z centrum spa (sauna, hammam, masaże płatne), siłowni, kortów tenisowych i do siatkówki, tenisa stołowego, rzutek oraz bezpłatnych rowerów. Hotel oferuje także program animacyjny i wieczorne rozrywki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował basen dla dzieci, plac zabaw oraz mini klub. Obiekt jest przyjazny rodzinom, zapewniając udogodnienia i rozrywkę dla dzieci w różnym wieku."
+  }
+ ],
+ "pros": [
+  "Dobra relacja jakości do ceny",
+  "Przyjazny i pomocny personel",
+  "Dostępny bezpłatny transfer na plażę",
+  "Dwa baseny, w tym jeden ze zjeżdżalnią",
+  "Dobra lokalizacja, blisko sklepów i centrum Side"
+ ],
+ "cons": [
+  "Pokoje i wyposażenie bywają określane jako \"nieco przestarzałe\"",
+  "Jedzenie może być powtarzalne",
+  "Woda w basenach bywa zimna",
+  "Brak wystarczającej liczby leżaków przy basenie w szczycie sezonu",
+  "Klimatyzacja w pokojach rodzinnych może być tylko w jednym pomieszczeniu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Dosi jest oddalony od piaszczystej plaży o około 700 metrów. Hotel oferuje bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel dysponuje jednym basenem ze zjeżdżalnią wodną oraz osobnym basenem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak basen dla dzieci, plac zabaw i mini klub."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Antalya (AYT), oddalone od hotelu o około 63-67 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi w całym obiekcie oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Dosi nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Kumköy Yolu, 07300 Side, Turcja",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Siatkówka",
+  "Tenis stołowy",
+  "Rzutki",
+  "Bilard",
+  "Bezpłatne rowery"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kumköy",
+ "bars": 3,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 2.9,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2001,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje standardowe (jednoosobowe, dwuosobowe/twin) z klimatyzacją, łazienką, TV, minibarem, telefonem, sejfem i balkonem.",
+  "Pokoje rodzinne (Family Suites/Family Quadruple room) z klimatyzacją, łazienką, TV, minibarem, telefonem, sejfem i balkonem/tarasem."
+ ],
+ "rooms": 172,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 10.2582769,
+  "lon": 123.8175755,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "holidaycheck.de",
+  "zoover.nl",
+  "thomascook.com",
+  "kayak.com",
+  "holidaygems.co.uk",
+  "onthebeach.co.uk",
+  "britishairways.com"
+ ],
+ "updated": "2026-11-27"
+}

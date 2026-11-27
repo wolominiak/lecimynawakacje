@@ -1,0 +1,132 @@
+{
+ "id": 7648,
+ "slug": "kleopatra-beach",
+ "name": "Kleopatra Beach",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/kleopatra-beach-obiekt-1514778899-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Kleopatra Beach położony jest w Alanyi, w dzielnicy Kizlarpinari Qtr, tuż przy słynnej piaszczystej plaży Kleopatry. Obiekt, otwarty w 1993 lub 1996 roku i odnawiany w latach 2011-2014, składa się z trzech pięcio- lub sześciopiętrowych budynków.",
+  "Hotel jest polecany dla rodzin oraz osób szukających relaksującego wypoczynku, ceniących bliskość plaży i centrum miasta. Oferuje podstawowe udogodnienia i formułę all inclusive, co czyni go dobrą bazą wypadową do zwiedzania Alanyi i okolic."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się zaledwie 30-100 metrów od plaży Kleopatry, często oddzielony ulicą. Plaża, oznaczona Błękitną Flagą, jest piaszczysta z drobnym, złotym piaskiem, a woda staje się głęboka po około 8-10 metrach od brzegu. Hotel posiada prywatną strefę na publicznej plaży, jednak leżaki i parasole są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 203-208 pokojami dwuosobowymi o powierzchni około 22-24 m². Każdy pokój wyposażony jest w indywidualnie sterowaną klimatyzację, telewizor LCD, minibar (płatny), sejf (płatny), telefon, łazienkę z prysznicem oraz balkon. Podłogi są ceramiczne lub pokryte wykładziną, a niektóre pokoje oferują częściowy widok na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa, serwująca śniadania, obiady, kolacje i lekkie posiłki. Dostępny jest bar przy basenie oraz bar w restauracji. Pakiet all inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane napoje bezalkoholowe i alkoholowe w godzinach 10:00-23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa odkryte baseny, w tym jeden ze zjeżdżalnią dla dorosłych i jeden dla dzieci. Hotel oferuje lekkie animacje dwa razy w tygodniu. Na terenie obiektu znajduje się również centrum spa z sauną i łaźnią turecką, siłownia, bilard, tenis stołowy i siatkówka plażowa. Sporty wodne na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano basen dla dzieci oraz mini klub dla dzieci w wieku 4-12 lat. Dostępna jest również zjeżdżalnia wodna."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży Kleopatry",
+  "Bliskość centrum Alanyi i lokalnych atrakcji",
+  "Udogodnienia spa i siłownia",
+  "Baseny z zjeżdżalniami dla dorosłych i dzieci",
+  "Mini klub dla dzieci"
+ ],
+ "cons": [
+  "Mieszane opinie dotyczące czystości i konserwacji pokoi",
+  "Obsługa bywa oceniana jako nieuważna",
+  "Monotonne i przeciętne jedzenie",
+  "Płatne Wi-Fi w pokojach i na terenie hotelu",
+  "Brak bezpłatnych ręczników plażowych/basenowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Kleopatra Beach od plaży?",
+   "a": "Hotel znajduje się bardzo blisko plaży Kleopatry, zaledwie kilka kroków lub około 30-100 metrów, często oddzielony ulicą."
+  },
+  {
+   "q": "Czy hotel oferuje bezpłatne Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w pokojach i w miejscach publicznych, ale za dodatkową opłatą (około 3 EUR za dzień)."
+  },
+  {
+   "q": "Czy hotel Kleopatra Beach jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje basen dla dzieci, zjeżdżalnię dla dzieci oraz mini klub dla dzieci w wieku 4-12 lat."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Gazipaşa (GZP) oddalone o około 45 km oraz Antalya (AYT) oddalone o około 118-123 km."
+  },
+  {
+   "q": "Czy na plaży są bezpłatne leżaki i parasole?",
+   "a": "Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Ręczniki plażowe nie są zapewniane bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada zjeżdżalnię wodną dla dorosłych oraz zjeżdżalnię dla dzieci."
+  }
+ ],
+ "address": "Kizlarpinari Qtr, Ataturk St. No:194/A, No 194 Alanya, Türkiye",
+ "adultsOnly": false,
+ "airportKm": 45,
+ "airportName": "Gazipaşa (GZP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard",
+  "Tenis stołowy",
+  "Siatkówka plażowa"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kizlarpinari Qtr",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "relaksujący wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Dwuosobowy (Standard Double Room) - około 22-24 m², indywidualna klimatyzacja, telewizor LCD, minibar (płatny), sejf (płatny), telefon, łazienka z prysznicem, suszarka do włosów, balkon, bezpłatne przybory toaletowe, podłoga ceramiczna lub wykładzina"
+ ],
+ "rooms": 203,
+ "spa": true,
+ "wifi": false,
+ "geo": {
+  "lat": 36.5517994,
+  "lon": 31.9773368,
+  "src": "osm"
+ },
+ "sources": [
+  "lastminute.com",
+  "vivehotels.com",
+  "hoteles.com",
+  "kleopatrabeachotel.com",
+  "fibula.rs",
+  "kayak.com",
+  "thomascook.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

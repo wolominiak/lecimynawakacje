@@ -1,0 +1,138 @@
+{
+ "id": 22099,
+ "slug": "mandarin-resort",
+ "name": "Mandarin Resort",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Bodrum"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/mandarin-resort-teren-hotelu-basen-1281494706-570-428.jpg",
+ "city": "Bodrum",
+ "intro": [
+  "Mandarin Resort to pięciogwiazdkowy hotel położony w samym sercu popularnego kurortu Bodrum, w dzielnicy Bodrum City Center. Obiekt charakteryzuje się niską, białą zabudową z kamiennymi gzymsami, oferując nowoczesne pokoje z balkonami. Jego centralne położenie sprawia, że jest doskonałą bazą wypadową do zwiedzania miasta i korzystania z lokalnych atrakcji.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i par, dzięki szerokiej gamie udogodnień, w tym mini klubowi, placowi zabaw i kilku basenom. Bliskość plaży miejskiej oraz bogatej oferty gastronomicznej i rozrywkowej Bodrum sprawia, że Mandarin Resort to atrakcyjna opcja dla osób szukających aktywnego wypoczynku w tętniącym życiem mieście."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Mandarin Resort znajduje się w centrum Bodrum, zaledwie 200 metrów od ulicy handlowej z restauracjami i sklepami. Najbliższa plaża miejska, kamienista, oddalona jest o około 200 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, gdyż nie jest to plaża hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 181 pokoi, w tym standardowe, trzyosobowe i rodzinne. Wszystkie pokoje są gustownie urządzone, posiadają laminowane podłogi, indywidualnie sterowaną klimatyzację (dodatkowo płatną), łazienkę z wanną lub prysznicem, balkon, mini lodówkę, sejf (dodatkowo płatny) oraz telewizor z płaskim ekranem. Pokoje rodzinne mogą mieć oddzielne salony lub łóżka piętrowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, bar przy basenie, bar w lobby, snack bar oraz kawiarnia Cafe Leon. Oferowane są pakiety all inclusive, które obejmują posiłki i napoje bezalkoholowe. Śniadania i kolacje serwowane są w formie bufetu, natomiast obiady à la carte, z daniami kuchni międzynarodowej i tureckiej."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Mandarin Resort dysponuje kilkoma odkrytymi basenami (sezonowymi), basenem krytym, podgrzewanym basenem oraz brodzikiem dla dzieci. Na terenie obiektu znajduje się plac zabaw ze zjeżdżalniami. Hotel oferuje również pełne centrum spa z sauną, łaźnią turecką i jacuzzi, a także małą siłownię. Dostępne są animacje w ciągu dnia i wieczorem."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak brodzik, plac zabaw ze zjeżdżalniami oraz mini klub. Zespół animacyjny zapewnia rozrywkę dla młodszych gości, a także wieczorne pokazy."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Bodrum",
+  "Przystępne ceny pakietów all inclusive",
+  "Nowoczesne pokoje z balkonami",
+  "Dobre udogodnienia dla rodzin (mini klub, plac zabaw, baseny)",
+  "Pełne centrum spa z hammamem i sauną"
+ ],
+ "cons": [
+  "Plaża miejska, leżaki i parasole płatne",
+  "Brak widoków na morze z pokoi",
+  "Opłaty za sejfy i klimatyzację",
+  "Małe centrum fitness",
+  "Słaby sygnał Wi-Fi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża miejska jest oddalona o około 200 metrów (2-3 minuty spacerem)."
+  },
+  {
+   "q": "Czy na plaży są leżaki i parasole?",
+   "a": "Tak, leżaki i parasole są dostępne na plaży, ale za opłatą, ponieważ nie jest to plaża hotelowa."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Milas-Bodrum (BJV) wynosi około 35-39 km, a czas dojazdu to około 27-37 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu znajduje się plac zabaw dla dzieci ze zjeżdżalniami, ale brak informacji o dużym aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw ze zjeżdżalniami oraz mini klub dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu, choć niektórzy goście zgłaszają słaby sygnał."
+  }
+ ],
+ "address": "Kumbahçe, Dr. Mümtaz Ataman Cd. No:27, 48400 Bodrum/Muğla, Turcja",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Milas-Bodrum (BJV)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Klimatyzacja",
+  "Mini lodówka",
+  "Sejf",
+  "Telewizor",
+  "Czajnik elektryczny",
+  "Balkon"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Bodrum City Center",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "kamienista",
+ "centerKm": 0,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": null,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój trzyosobowy",
+  "pokój rodzinny (z oddzielnym salonem lub łóżkami piętrowymi)"
+ ],
+ "rooms": 181,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.0344709,
+  "lon": 27.4387515,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "oyster.com",
+  "expedia.com",
+  "mandarinresortbodrum.com",
+  "mybodrumhotels.com",
+  "yandex.com.tr",
+  "google.com",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-27"
+}

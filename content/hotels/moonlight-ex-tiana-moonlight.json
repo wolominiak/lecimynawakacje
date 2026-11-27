@@ -1,0 +1,139 @@
+{
+ "id": 27363,
+ "slug": "moonlight-ex-tiana-moonlight",
+ "name": "Moonlight (ex. Tiana Moonlight)",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Turgutreis"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/moonlight-ex-tiana-moonlight-basen-962075113-570-428.jpg",
+ "city": "Turgutreis",
+ "intro": [
+  "Moonlight (ex. Tiana Moonlight) to 3-gwiazdkowy hotel położony bezpośrednio nad Morzem Egejskim w miejscowości Turgutreis, w regionie Bodrum. Obiekt, otwarty w 2003 roku i odnowiony w 2022 lub 2023 roku, oferuje spokojną atmosferę i jest idealny dla par oraz rodzin szukających relaksującego wypoczynku.",
+  "Hotel znajduje się w bliskiej odległości od centrum Turgutreis, co umożliwia łatwy dostęp do lokalnych atrakcji. Dzięki prywatnej, piaszczystej plaży z leżakami i parasolami, goście mogą cieszyć się słońcem i morzem w komfortowych warunkach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Moonlight jest dogodnie usytuowany w Turgutreis, bezpośrednio przy piaszczystej, prywatnej plaży. W pobliżu znajdują się plaże Günbatımı Plajı i Sunset Beach. Centrum Turgutreis oddalone jest o około 1 km, a centrum Bodrum o 18-20 km. Najbliższe lotnisko Milas-Bodrum (BJV) znajduje się w odległości 50-56 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 56 lub 100 pokojami, w tym standardowymi, dwuosobowymi, trzyosobowymi oraz rodzinnymi/suite, niektóre z widokiem na morze. Każdy pokój wyposażony jest w klimatyzację, telewizor z telewizją satelitarną, telefon, suszarkę do włosów, prysznic i WC, a także balkon lub taras. Pokoje są sprzątane codziennie, a minibar uzupełniany wodą w dniu przyjazdu."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Moonlight goście mogą korzystać z restauracji głównej, serwującej śniadania, obiady i kolacje w formie bufetu. Dostępna jest również kawiarnia z przekąskami oraz bar przy basenie i bar/lounge. Pakiet All Inclusive obejmuje posiłki oraz lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-23:00. Napoje importowane, świeżo wyciskane soki i kawa po turecku są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje sezonowy basen zewnętrzny oraz oddzielny basen dla dzieci. Brak informacji o zjeżdżalniach wodnych czy aquaparku. W ramach rekreacji dostępne są rzutki i tenis stołowy. Płatne sporty wodne są dostępne na plaży. Brak informacji o spa i siłowni."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera",
+  "Bardzo dobra lokalizacja bezpośrednio przy prywatnej plaży",
+  "Bliskość centrum Turgutreis",
+  "Piękne zachody słońca",
+  "Czystość i przyjazny personel"
+ ],
+ "cons": [
+  "Jedzenie bywa monotonne i powtarzalne",
+  "Wi-Fi może działać słabo lub tylko w recepcji",
+  "Leżaki na plaży mogą być zużyte",
+  "Brak spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Moonlight od plaży?",
+   "a": "Hotel Moonlight jest położony bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska do hotelu?",
+   "a": "Hotel znajduje się około 50-56 km od lotniska Milas-Bodrum (BJV)."
+  },
+  {
+   "q": "Czy hotel Moonlight posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach wodnych w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i posiada basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, jednak opinie gości wskazują, że może działać słabo lub tylko w okolicach recepcji."
+  },
+  {
+   "q": "Czy w hotelu Moonlight jest siłownia lub spa?",
+   "a": "Brak informacji o siłowni i spa w hotelu."
+  }
+ ],
+ "address": "Bahçelievler Mahallesi, Bahçelievler Caddesi No:131, 48400 Bodrum/Muğla, Turcja",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Milas-Bodrum (BJV)",
+ "amenities": [
+  "prywatna plaża",
+  "leżaki i parasole na plaży",
+  "ręczniki plażowe",
+  "klimatyzacja",
+  "telewizor",
+  "telefon",
+  "suszarka do włosów",
+  "minibar",
+  "sejf (płatny)",
+  "balkon/taras",
+  "rzutki",
+  "tenis stołowy",
+  "płatne sporty wodne"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Bodrum",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "pary",
+  "rodziny",
+  "spokojny wypoczynek"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój dwuosobowy/twin",
+  "pokój trzyosobowy",
+  "pokój rodzinny/suite"
+ ],
+ "rooms": 56,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.992842,
+  "lon": 29.0261887,
+  "src": "osm"
+ },
+ "sources": [
+  "aquatour.bg",
+  "agoda.com",
+  "kompastour.com",
+  "hotels.com",
+  "tiket.com",
+  "mybodrumhotels.com",
+  "turnedtravel.com",
+  "admiral.travel"
+ ],
+ "updated": "2026-11-27"
+}

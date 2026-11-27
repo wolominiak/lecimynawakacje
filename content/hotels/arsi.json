@@ -1,0 +1,137 @@
+{
+ "id": 6699,
+ "slug": "arsi",
+ "name": "Arsi",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/arsi-basen-1254781315-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Arsi to czterogwiazdkowy obiekt położony w centrum Alanyi, na Riwierze Tureckiej. Jest to propozycja dla osób szukających zakwaterowania blisko plaży oraz miejskich atrakcji. Hotel oferuje szereg udogodnień zarówno dla dorosłych, jak i dla rodzin z dziećmi.",
+  "Obiekt, choć otwarty w 1993 roku i ostatnio remontowany w 2015, zapewnia komfortowy wypoczynek w standardowych pokojach. Dzięki formule all inclusive goście mogą cieszyć się lokalną kuchnią oraz napojami, a dostęp do basenów i strefy spa dodatkowo urozmaica pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Arsi znajduje się w centrum Alanyi, zaledwie około 100-180 metrów od piaszczysto-żwirowej plaży. Dojście do plaży jest ułatwione dzięki bezpiecznemu przejściu podziemnemu. Goście mają dostęp do prywatnej strefy plażowej, jednak leżaki i parasole są tam dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 50-83 pokojami, w tym standardowymi, dwuosobowymi/twin oraz trzyosobowymi. Każdy pokój wyposażony jest w klimatyzację, telewizor, telefon, minibar (uzupełniany wodą), suszarkę do włosów i prywatną łazienkę. Większość pokoi posiada balkon, a sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja główna, serwująca dania kuchni tureckiej i międzynarodowej w formie bufetu. Dostępne są również trzy bary: przy basenie, w lobby oraz na plaży. Pakiet all inclusive obejmuje śniadania, obiady i kolacje, a także lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-22:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z odkrytego basenu dla dorosłych (75 m²) oraz krytego basenu. Dla dzieci przygotowano brodzik i zjeżdżalnie wodne. Hotel oferuje także centrum fitness, hammam, saunę oraz możliwość skorzystania z masaży i zabiegów spa (dodatkowo płatne). Dostępne są również tenis stołowy i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Arsi jest przyjazny rodzinom z dziećmi. Dla najmłodszych gości dostępny jest brodzik oraz mini klub dla dzieci w wieku 4-12 lat, gdzie zespół animatorów organizuje różnorodne zajęcia. Hotel posiada również zjeżdżalnie wodne, co jest dodatkową atrakcją dla dzieci."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży i centrum Alanyi",
+  "Dobre jedzenie w formie bufetu",
+  "Przyjazny personel",
+  "Dostęp do spa i hammamu",
+  "Udogodnienia dla rodzin z dziećmi (mini klub, brodzik, zjeżdżalnie)"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są dodatkowo płatne",
+  "Niektóre pokoje mogą być małe i nie odzwierciedlać zdjęć",
+  "Zdarzają się opinie o problemach z czystością",
+  "Ograniczone napoje w ramach all inclusive (np. wino płatne)",
+  "Ograniczone animacje wieczorne w niektórych okresach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel Arsi jest od plaży?",
+   "a": "Hotel Arsi jest położony około 100-180 metrów od piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel Arsi posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Tak, hotel Arsi posiada zjeżdżalnie wodne."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu Arsi?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 36.7-39.2 km."
+  },
+  {
+   "q": "Czy hotel Arsi jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Arsi jest polecany dla rodzin z dziećmi, oferuje brodzik, mini klub i zjeżdżalnie wodne."
+  },
+  {
+   "q": "Czy w hotelu Arsi jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w całym hotelu."
+  },
+  {
+   "q": "Co obejmuje pakiet all inclusive w hotelu Arsi?",
+   "a": "Pakiet all inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, a także lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-22:00."
+  }
+ ],
+ "address": "Cumhuriyet Mahallesi, Selam Sokak 13, 07425 Alanya, Antalya",
+ "adultsOnly": false,
+ "airportKm": 36.7,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Telefon",
+  "Minibar",
+  "Suszarka do włosów",
+  "Bezpłatne kosmetyki",
+  "Prywatna łazienka",
+  "Balkon (większość pokoi)",
+  "Sejf (płatny)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Centrum Alanyi",
+ "bars": 3,
+ "beachDistanceM": 100,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój standardowy",
+  "Pokój dwuosobowy/twin",
+  "Pokój trzyosobowy"
+ ],
+ "rooms": 70,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5449556,
+  "lon": 32.0175774,
+  "src": "osm"
+ },
+ "sources": [
+  "multitour.ru",
+  "coral.ge",
+  "yandex.com",
+  "kompastour.com",
+  "obilet.com",
+  "lastminute.ie",
+  "thomascook.com",
+  "myhotels.sa"
+ ],
+ "updated": "2026-11-27"
+}

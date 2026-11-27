@@ -1,0 +1,136 @@
+{
+ "id": 37817,
+ "slug": "citrus-park",
+ "name": "Citrus Park",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Antalya"
+ ],
+ "stars": 0,
+ "photo": "/no-index/hotel/citrus-park-obiekt-budynek-glowny-846005843-570-428.jpg",
+ "city": "Antalya",
+ "intro": [
+  "Hotel Citrus Park to obiekt położony w Antalyi, w dzielnicy Konyaaltı, zaledwie kilka minut spacerem od publicznej plaży Konyaaltı. Jest to propozycja dla osób szukających równowagi między wypoczynkiem nad morzem a zwiedzaniem miasta, z uwagi na bliskość zarówno plaży, jak i centrum Antalyi.",
+  "Hotel jest rekomendowany dla rodzin, par, osób podróżujących samotnie oraz w celach biznesowych. Oferuje udogodnienia dla dzieci, w tym plac zabaw i brodzik, co czyni go odpowiednim wyborem dla rodzin. Goście doceniają jego dogodną lokalizację i dobrą relację jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Citrus Park znajduje się w dzielnicy Konyaaltı w Antalyi, w odległości około 70-200 metrów od publicznej plaży Konyaaltı. Plaża jest kamienista, z trudnym wejściem do morza. Leżaki i parasole są dostępne do wynajęcia w barach plażowych, hotel nie zapewnia ręczników plażowych. Centrum Antalyi oddalone jest o około 4.7-5 km, a lotnisko Antalya (AYT) o 13.5-23 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym standardowe, rodzinne, ekonomiczne czteroosobowe, deluxe suite, deluxe studio suite, eco garden room oraz superior room. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, telewizor z płaskim ekranem, minibar, czajnik elektryczny oraz bezpłatne Wi-Fi. Niektóre pokoje posiadają balkon, a wybrane apartamenty wyposażone są w kuchnię."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, w tym CitrusRestobar, oraz bar. Hotel oferuje głównie śniadania w formie bufetu, które mogą być wliczone w cenę pokoju lub dostępne za dodatkową opłatą. Brak informacji o dostępności pakietu all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje co najmniej jednym sezonowym odkrytym basenem, który jest czynny od 1 kwietnia do 16 października. Dla dzieci dostępny jest plac zabaw oraz brodzik. Na terenie obiektu znajduje się również strefa spa oraz centrum fitness. Hotel oferuje możliwość organizacji wycieczek rowerowych i pieszych."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i na terenie całego obiektu. Dostępne są udogodnienia takie jak sejf, sprzęt do prasowania na życzenie oraz łóżeczka dziecięce na życzenie. Hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje",
+  "Dobra relacja jakości do ceny",
+  "Dostępność sezonowego basenu"
+ ],
+ "cons": [
+  "Pokoje i meble mogą być przestarzałe",
+  "Problemy z łącznością Wi-Fi",
+  "Kamienista plaża ze stromym zejściem do morza",
+  "Hałas z otoczenia lub remontów",
+  "Monotonne śniadania"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się w odległości od 70 do 200 metrów od publicznej plaży Konyaaltı, co odpowiada 2-6 minutom spaceru."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Lotnisko Antalya (AYT) znajduje się w odległości od około 13.5 km do 23 km od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel posiada sezonowy odkryty basen oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokoje rodzinne, plac zabaw dla dzieci oraz brodzik."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu, choć niektórzy goście zgłaszali problemy z łącznością."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje głównie śniadania w formie bufetu. Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Arapsuyu Mah. 608 Sok No 8, 07070 Antalya, Türkiye",
+ "adultsOnly": false,
+ "airportKm": 13.5,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Plac zabaw dla dzieci",
+  "Brodzik dla dzieci",
+  "Sezonowy odkryty basen"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Konyaaltı (Arapsuyu Mah.)",
+ "bars": 1,
+ "beachDistanceM": 70,
+ "beachType": "kamienista",
+ "centerKm": 4.7,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby podróżujące samotnie",
+  "Podróże biznesowe"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój standardowy",
+  "Pokój rodzinny",
+  "Pokój ekonomiczny czteroosobowy",
+  "Deluxe suite",
+  "Deluxe studio suite",
+  "Eco garden room",
+  "Superior room"
+ ],
+ "rooms": null,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "hotels-antalya.net",
+  "skyscanner.net",
+  "antalyalihotel.com",
+  "kompastour.com",
+  "guestreservations.com",
+  "google.com.ng",
+  "rooms.bh",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

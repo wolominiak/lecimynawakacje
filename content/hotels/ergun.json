@@ -1,0 +1,139 @@
+{
+ "id": 19398,
+ "slug": "ergun",
+ "name": "Ergun",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/ergun-zwiedzanie-1436205179-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Ergun to trzygwiazdkowy obiekt położony w samym sercu Alanyi, w dzielnicy Kadıpaşa. Jego centralna lokalizacja sprawia, że jest to dobra baza wypadowa do zwiedzania miasta i korzystania z jego atrakcji.",
+  "Hotel jest polecany dla par i osób podróżujących solo, które cenią sobie łatwy dostęp do miejskich udogodnień, sklepów, restauracji i życia nocnego. Jest również odpowiedni dla rodzin z dziećmi, oferując podstawowe udogodnienia dla najmłodszych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ergun znajduje się w centrum Alanyi, zaledwie 0.3-0.5 km od ścisłego centrum miasta. Do publicznej plaży w Alanyi jest około 700 metrów, a do słynnej plaży Kleopatry około 600-800 metrów. Na piaszczysto-żwirowej plaży Kleopatra leżaki i parasole są dostępne do wynajęcia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 60 lub 62 pokojami rozmieszczonymi w czteropiętrowym lub pięciopiętrowym budynku. W ofercie znajdują się pokoje dwuosobowe, rodzinne, standardowe, potrójne i poczwórne, niektóre z balkonem i widokiem na miasto lub góry. Standardowe wyposażenie obejmuje klimatyzację, sejf, telewizor z płaskim ekranem, minibar oraz łazienkę z prysznicem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja oraz bar/lounge, często zlokalizowane na tarasie na dachu, skąd roztacza się widok. Serwowane są śniadania i kolacje w formie bufetu. Opcja all inclusive obejmuje posiłki w formie bufetu oraz lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-22:00. Należy pamiętać, że wybór napojów w ramach all inclusive może być ograniczony, a koktajle są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada sezonowy odkryty basen, często usytuowany na dachu lub tarasie. Brak informacji o basenach podgrzewanych, krytych, zjeżdżalniach czy aquaparku. Wi-Fi jest dostępne w lobby i na tarasie na dachu, natomiast w pokojach może być płatne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje plac zabaw. Na życzenie dostępne są również łóżeczka dziecięce i krzesełka do karmienia. Hotel jest określany jako"
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko plaży i centrum miasta",
+  "Imponujący widok z restauracji na dachu",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie (według opinii)",
+  "Czyste pokoje (według opinii)"
+ ],
+ "cons": [
+  "Hałas z drzwi w pokojach",
+  "Mały basen",
+  "Wi-Fi płatne w pokojach",
+  "Ograniczony wybór na śniadanie",
+  "Ograniczona oferta napojów w ramach all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Ergun jest oddalony o około 700 metrów od publicznej plaży w Alanyi i około 600-800 metrów od plaży Kleopatry. Plaża Kleopatra jest piaszczysto-żwirowa, a leżaki i parasole są płatne."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 41 km. Lotnisko Antalya (AYT) znajduje się w odległości około 120-127.5 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel dysponuje sezonowym odkrytym basenem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako"
+  }
+ ],
+ "address": "Alabacak Sokak 1, Kadıpaşa, Alanya",
+ "adultsOnly": false,
+ "airportKm": 41,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Klimatyzacja",
+  "Sejf",
+  "Telewizor z płaskim ekranem",
+  "Balkon (w większości pokoi)",
+  "Suszarka do włosów",
+  "Minibar",
+  "Telefon",
+  "Łazienka z prysznicem",
+  "Plac zabaw dla dzieci",
+  "Łóżeczka dziecięce (na życzenie)",
+  "Krzesełka do karmienia (na życzenie)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kadıpaşa",
+ "bars": 1,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące solo",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 2001,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy/twin",
+  "Pokój rodzinny",
+  "Pokój standardowy",
+  "Pokój potrójny",
+  "Pokój poczwórny",
+  "Pokój z balkonem",
+  "Pokój z widokiem na miasto",
+  "Pokój z widokiem na góry",
+  "Pokój ekonomiczny"
+ ],
+ "rooms": 60,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 50.2293312,
+  "lon": 120.1735798,
+  "src": "osm"
+ },
+ "sources": [
+  "kayak.com",
+  "antalyacoasthotels.net",
+  "yandex.com",
+  "yandex.com.tr",
+  "travelocity.com",
+  "sunshine.co.uk",
+  "thomascook.com",
+  "prijsvrij.nl"
+ ],
+ "updated": "2026-11-27"
+}

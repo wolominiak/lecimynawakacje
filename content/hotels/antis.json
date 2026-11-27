@@ -1,0 +1,134 @@
+{
+ "id": 78207,
+ "slug": "antis",
+ "name": "Antis",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/antis-obiekt-1674625980-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Antis to czterogwiazdkowy obiekt położony w sercu historycznej dzielnicy Sultanahmet w Stambule. Oferuje on doskonałą bazę wypadową do zwiedzania najważniejszych atrakcji miasta, takich jak Błękitny Meczet czy Hagia Sophia, które znajdują się w zasięgu krótkiego spaceru. Z tarasu na dachu hotelu roztaczają się malownicze widoki na Morze Marmara.",
+  "Hotel Antis jest polecany zarówno dla par, jak i rodzin, dzięki swojej centralnej lokalizacji i udogodnieniom, takim jak łóżeczka dla dzieci. To idealne miejsce dla osób, które cenią sobie bliskość historycznych zabytków i możliwość wieczornych spacerów wzdłuż brzegu morza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Antis znajduje się w dzielnicy Sultanahmet, w samym centrum historycznego Stambułu. Główne atrakcje, takie jak Błękitny Meczet, Hagia Sophia, Pałac Topkapi i Wielki Bazar, są oddalone o krótki spacer. Z tarasu na dachu można podziwiać widoki na Morze Marmara."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje około 25-35 pokoi, w tym pokoje standardowe, jednoosobowe, deluxe, trzyosobowe oraz apartamenty Junior Suite z widokiem na morze. Wszystkie pokoje są wyposażone w klimatyzację, ogrzewanie, minibar, telewizor LCD, bezpłatne Wi-Fi, sejf oraz zestaw do parzenia kawy/herbaty. Dostępne są również łóżeczka dla dzieci."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja na dachu, z której roztacza się widok na Morze Marmara i Błękitny Meczet, serwująca dania à la carte. Hotel oferuje śniadanie w formie bufetu. Goście mogą również korzystać z baru amerykańskiego, baru w lobby, kawiarni oraz baru na tarasie."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach i miejscach publicznych. Do dyspozycji gości jest także sala fitness. Hotel nie posiada basenów ani aquaparku, skupiając się na udogodnieniach miejskich i bliskości atrakcji turystycznych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznym centrum Stambułu",
+  "Piękne widoki na Morze Marmara i Błękitny Meczet z tarasu",
+  "Pomocny i przyjazny personel",
+  "Czyste pokoje",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Pokoje mogą być małe i kompaktowe",
+  "Możliwy hałas z ulicy/okolicy",
+  "Ulica dojazdowa może być stroma",
+  "Brak udogodnień dla osób na wózkach inwalidzkich"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel nie jest obiektem plażowym. Znajduje się w odległości spaceru od brzegu Morza Marmara, ale brak informacji o konkretnej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotniska to Stambuł (IST) około 45 km i Sabiha Gökçen (SAW) około 40-45 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"przyjazny rodzinom\" i oferuje łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Hotel oferuje śniadanie w formie bufetu."
+  }
+ ],
+ "address": "Akbıyık Cd. No:98, Sultanahmet, İstanbul, Türkiye, 34122",
+ "adultsOnly": false,
+ "airportKm": 45,
+ "airportName": "Stambuł (IST)",
+ "amenities": [
+  "sala fitness",
+  "bezpłatne Wi-Fi",
+  "restauracja na dachu",
+  "bar w lobby",
+  "kawiarnia",
+  "taras z widokiem"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Sultanahmet",
+ "bars": 4,
+ "beachDistanceM": null,
+ "beachType": "brak informacji",
+ "centerKm": 1,
+ "goodFor": [
+  "pary",
+  "podróżujący służbowo",
+  "zwiedzanie historycznych miejsc",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2009,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy dwuosobowy lub typu twin",
+  "pokój jednoosobowy",
+  "apartament z widokiem na morze",
+  "pokój deluxe",
+  "pokój trzyosobowy",
+  "apartament typu Junior Suite z widokiem na morze"
+ ],
+ "rooms": 30,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0035965,
+  "lon": 28.9791271,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "onthebeach.co.uk",
+  "reserving.com",
+  "antishotel.com",
+  "trip.com",
+  "yandex.com.tr",
+  "kompastour.com",
+  "multitour.ru"
+ ],
+ "updated": "2026-11-27"
+}

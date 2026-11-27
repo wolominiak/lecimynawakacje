@@ -1,0 +1,135 @@
+{
+ "id": 16205,
+ "slug": "magic-sun",
+ "name": "Magic Sun",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Beldibi"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/magic-sun-basen-1492028664-570-428.jpg",
+ "city": "Beldibi",
+ "intro": [
+  "Hotel Magic Sun to czterogwiazdkowy obiekt położony w miejscowości Beldibi na Riwierze Tureckiej, niedaleko Kemer. Jest to propozycja dla osób szukających wypoczynku w przystępnej cenie, zarówno dla rodzin z dziećmi, jak i dla par czy singli.",
+  "Obiekt oferuje szereg udogodnień, w tym basen ze zjeżdżalniami, mini klub dla dzieci oraz programy animacyjne. Bliskość prywatnej plaży żwirowej oraz dostęp do centrum spa sprawiają, że każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Magic Sun znajduje się przy wjeździe do Beldibi, około 0.45-1.2 km od centrum miejscowości, gdzie dostępne są sklepy i udogodnienia. Odległość od lotniska w Antalyi (AYT) wynosi około 38-43 km. Prywatna plaża hotelowa, żwirowo-kamienista z piaszczysto-żwirowym wejściem do morza, oddalona jest o około 100-400 m. Na plaży dostępne są bezpłatne leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 175 pokojami rozmieszczonymi w czteropiętrowym budynku. W ofercie znajdują się pokoje dwuosobowe, rodzinne, standardowe oraz ekonomiczne. Każdy pokój wyposażony jest w klimatyzację, telewizor z płaskim ekranem, minibar, balkon oraz prywatną łazienkę z prysznicem i suszarką do włosów. Z pokoi roztacza się widok na morze, basen lub góry."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Magic Sun dostępna jest główna restauracja bufetowa serwująca dania kuchni tureckiej i międzynarodowej. Oferowane są posiłki halal, wegetariańskie, wegańskie i bezglutenowe. Do dyspozycji gości są również lobby bar, bar przy basenie i snack bar. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, a także przekąski i napoje w ciągu dnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się sezonowy basen zewnętrzny oraz brodzik dla dzieci. Hotel posiada zjeżdżalnie wodne, plac zabaw dla dzieci oraz mini klub dla dzieci w wieku 6-12 lat. Goście mogą korzystać z centrum spa z sauną i łaźnią turecką, sali fitness, tenisa stołowego, rzutek, aqua gym i aerobiku. Wieczorami organizowane są programy rozrywkowe i animacje."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel",
+  "Dobre jedzenie i różnorodna oferta kulinarna",
+  "Dobry stosunek jakości do ceny",
+  "Duży basen ze zjeżdżalniami",
+  "Bliskość prywatnej plaży"
+ ],
+ "cons": [
+  "Płatne lub słabe Wi-Fi",
+  "Kamieniste wejście do morza (zalecane buty)",
+  "Hotel wymaga remontu, widoczne zużycie",
+  "Ograniczony wybór alkoholi",
+  "Problemy z czystością w jadalni i monotonne jedzenie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Magic Sun od plaży?",
+   "a": "Hotel znajduje się około 100-400 metrów od prywatnej, żwirowo-kamienistej plaży."
+  },
+  {
+   "q": "Czy hotel Magic Sun ma aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada zjeżdżalnie wodne oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel Magic Sun jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje mini klub dla dzieci, plac zabaw oraz brodzik."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko w Antalyi (AYT) oddalone jest o około 38-43 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w pokojach za dodatkową opłatą, natomiast w lobby jest bezpłatne."
+  },
+  {
+   "q": "Czy w hotelu Magic Sun jest siłownia lub spa?",
+   "a": "Tak, hotel posiada salę fitness oraz centrum spa z sauną i łaźnią turecką."
+  }
+ ],
+ "address": "Atatürk Caddesi Beldibi 2 Mevkii Kemer Antalya lub Beldibi, No: 264 07980, Eski Kemer Yolu, 07985 Kemer / Antalya",
+ "adultsOnly": false,
+ "airportKm": 40.5,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "Klimatyzacja",
+  "Sejf (płatny)",
+  "Telewizor z płaskim ekranem",
+  "Minibar (płatny)",
+  "Balkon",
+  "Prywatna łazienka z prysznicem",
+  "Suszarka do włosów",
+  "Bezpłatny zestaw kosmetyków"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Beldibi, Kemer",
+ "bars": 3,
+ "beachDistanceM": 250,
+ "beachType": "żwirowa/kamienista",
+ "centerKm": 0.825,
+ "goodFor": [
+  "Rodziny",
+  "Osoby z ograniczonym budżetem"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2006,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2024,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy/typu twin z klimatyzacją, sejfem, TV, minibarem, balkonem, łazienką z prysznicem i suszarką do włosów",
+  "Pokój rodzinny z klimatyzacją, sejfem, TV, minibarem, balkonem, łazienką z prysznicem i suszarką do włosów",
+  "Pokój standardowy z klimatyzacją, sejfem, TV, minibarem, balkonem, łazienką z prysznicem i suszarką do włosów",
+  "Pokój ekonomiczny z klimatyzacją, sejfem, TV, minibarem, balkonem, łazienką z prysznicem i suszarką do włosów",
+  "Mały pokój z klimatyzacją, sejfem, TV, minibarem, balkonem, łazienką z prysznicem i suszarką do włosów"
+ ],
+ "rooms": 175,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7245098,
+  "lon": 30.5607754,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "thomascook.com",
+  "hotel.com.au",
+  "magicsunhotels.com.tr",
+  "navitime.com",
+  "1atravel.rs",
+  "booking.com",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,137 @@
+{
+ "id": 6967,
+ "slug": "kleopatra-micador",
+ "name": "Kleopatra Micador",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/kleopatra-micador-obiekt-841440285-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Hotel Kleopatra Micador to czterogwiazdkowy obiekt położony w Alanyi, w dzielnicy Kızlar Pınarı Mah., zaledwie 150-200 metrów od słynnej plaży Kleopatry. Jest to idealne miejsce dla osób ceniących bliskość morza i centrum miasta, które znajduje się w odległości 500 metrów do 1,5 km.",
+  "Hotel, otwarty w latach 2000/2001 i odnowiony w 2014/2015 roku, oferuje 84-85 pokoi na 7 piętrach. Jest polecany zarówno dla rodzin z dziećmi, par, jak i podróżujących służbowo, zapewniając komfortowy wypoczynek w tureckim słońcu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Kleopatra Micador Hotel znajduje się w Alanyi, w dzielnicy Kızlar Pınarı Mah., około 150-200 metrów od piaszczystej plaży Kleopatry. Dojście do plaży zajmuje około 5 minut spacerem. Hotel posiada własną, prywatną część plaży. Leżaki i parasole przy basenie są bezpłatne, natomiast na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 84-85 pokoi, w tym jedno-, dwu- i trzyosobowe, a także pokoje rodzinne. Dostępne są również pokoje typu Suite z jacuzzi oraz jeden pokój przystosowany dla osób niepełnosprawnych. Większość pokoi posiada balkon, a wszystkie są wyposażone w klimatyzację, łazienkę z prysznicem, suszarkę do włosów, minibar (płatny), telewizor, telefon, płatny sejf oraz czajnik elektryczny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja serwująca śniadania, obiady i kolacje w formie bufetu, oferująca dania kuchni tureckiej i międzynarodowej. Dostępne są również bar w lobby oraz bar przy plaży. Hotel oferuje opcję all inclusive, która obejmuje bufetowe posiłki oraz przerwę na kawę w godzinach 16:00-17:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Kleopatra Micador dysponuje sezonowym basenem zewnętrznym oraz oddzielnym basenem dla dzieci. Na terenie hotelu znajduje się centrum spa i wellness z sauną, łaźnią turecką oraz płatnymi masażami. Goście mogą korzystać z siłowni, a także z bezpłatnych sportów, takich jak siatkówka plażowa, tenis stołowy i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz brodzik. Hotel oferuje również programy animacyjne, w tym raz w tygodniu. W pobliżu, około 1 km od hotelu, znajduje się Alanya Aquapark."
+  }
+ ],
+ "pros": [
+  "Doskonała obsługa i przyjazny personel",
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Czystość w całym obiekcie",
+  "Smaczne jedzenie"
+ ],
+ "cons": [
+  "Płatne Wi-Fi",
+  "Brak ręczników plażowych",
+  "Dodatkowa opłata za leżaki i parasole na plaży",
+  "Pojedyncze opinie o małych pokojach lub problemach z ciepłą wodą/klimatyzacją"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 150-200 metrów od plaży Kleopatry, co odpowiada około 5-minutowemu spacerowi."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 30-45 km. Lotnisko w Antalyi (AYT) znajduje się w odległości około 120-125 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma zjeżdżalni wodnych. W pobliżu (około 1 km) znajduje się Alanya Aquapark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i posiada udogodnienia dla dzieci, takie jak basen dla dzieci, plac zabaw oraz programy animacyjne."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Wi-Fi jest dostępne, ale zazwyczaj za dodatkową opłatą, zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy w hotelu jest spa lub siłownia?",
+   "a": "Tak, hotel posiada centrum spa z sauną i łaźnią turecką, a także siłownię."
+  }
+ ],
+ "address": "Mehmet Akif Ersoy Cd. No:26, 07400 Alanya/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Przechowalnia bagażu",
+  "Pralnia (płatna)",
+  "Wypożyczalnia samochodów (płatna)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Kızlar Pınarı Mah.",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2000,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój rodzinny",
+  "Pokój standardowy (z balkonem lub bez)",
+  "Pokój Suite z jacuzzi",
+  "Pokój przystosowany dla osób niepełnosprawnych"
+ ],
+ "rooms": 84,
+ "spa": true,
+ "wifi": false,
+ "geo": {
+  "lat": 36.5511,
+  "lon": 31.9828,
+  "src": "web"
+ },
+ "sources": [
+  "booking.com",
+  "directbooking.ro",
+  "yandex.com.tr",
+  "google.com.ng",
+  "kompastour.com",
+  "youtube.com",
+  "micadorhotel.com",
+  "otelz.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": 44002,
+ "slug": "sun-beach-hill",
+ "name": "Sun Beach Hill",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Side"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/sun-beach-hill-obiekt-1432367105-570-428.jpg",
+ "city": "Side",
+ "intro": [
+  "Hotel Sun Beach Hill to czterogwiazdkowy obiekt położony w tureckiej miejscowości Side, w dzielnicy Kumkoy. Jest to idealne miejsce dla osób szukających wypoczynku blisko piaszczystej plaży oraz w niedużej odległości od historycznego centrum miasta.",
+  "Obiekt, odnowiony w 2023 roku, jest polecany zarówno dla rodzin z dziećmi, jak i par czy miłośników historii. Oferuje szereg udogodnień, w tym prywatną strefę plażową oraz programy animacyjne dla dorosłych i dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sun Beach Hill znajduje się w Side, w dzielnicy Side Mahallesi (Kumkoy), zaledwie 350 metrów od piaszczystej plaży Kumkoy. Do centrum Side jest około 1 km. Hotel dysponuje prywatną strefą plażową, gdzie leżaki i parasole są bezpłatne, natomiast ręczniki plażowe są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 210 pokoi, w tym Economy (bez balkonu), Standard z widokiem na ląd lub morze, oraz pokoje dwuosobowe z balkonem. Wszystkie pokoje wyposażone są w klimatyzację, łazienkę, suszarkę do włosów, telewizor satelitarny, telefon, minibar (uzupełniany wodą) i sejf. Podłogi są laminowane lub ceramiczne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa z tarasem oraz bar przy basenie i lobby bar. Pakiet All Inclusive (10:00-23:00) obejmuje śniadania, obiady, kolacje w formie bufetu, przekąski, popołudniową kawę i ciasto oraz lokalne napoje alkoholowe i bezalkoholowe. Napoje importowane, butelkowane, świeżo wyciskane soki, wina specjalne, kawa turecka oraz jedzenie i napoje na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym basenem odkrytym z jedną zjeżdżalnią oraz jednym basenem krytym (niepodgrzewanym). Dla dzieci dostępny jest oddzielny brodzik i pokój zabaw. Obiekt oferuje również mini klub, programy animacyjne dla dorosłych i dzieci oraz muzykę na żywo raz w tygodniu. Goście mogą korzystać z siłowni, tenisa stołowego, siatkówki plażowej i rzutek."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "W hotelu znajduje się centrum spa i wellness z sauną i łaźnią turecką (hammam), które są bezpłatne w określonych godzinach (12:00-14:00) po wcześniejszym zgłoszeniu. Masaże i niektóre zabiegi są dodatkowo płatne. Siłownia jest czynna od 08:00 do 20:00."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum Side.",
+  "Prywatna strefa plażowa z bezpłatnymi leżakami i parasolami.",
+  "Hotel odnowiony w 2023 roku.",
+  "Przyjazny personel baru, kuchni i spa.",
+  "Duży basen zewnętrzny."
+ ],
+ "cons": [
+  "Jedzenie bywa monotonne.",
+  "Pokoje mogą być przestarzałe lub słabo utrzymane.",
+  "Brak baru, restauracji i toalety na plaży.",
+  "Słabe wyciszenie pokoi, możliwy hałas z ulicy.",
+  "Ręczniki plażowe są dodatkowo płatne."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się około 350 metrów od hotelu, co odpowiada około 7-minutowemu spacerowi."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Przy basenie zewnętrznym znajduje się jedna zjeżdżalnia."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje mini klub, oddzielny brodzik dla dzieci oraz pokój zabaw."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Antalya (AYT), jest oddalone o około 65 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w lobby. Wi-Fi w pokojach może być płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt rodzinny."
+  }
+ ],
+ "address": "İnönü Bulvarı No.7, 07330 Side/ANTALYA",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Port lotniczy Antalya (AYT)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "sauna",
+  "łaźnia turecka (hammam)",
+  "tenis stołowy",
+  "siatkówka plażowa",
+  "rzutki",
+  "pokój zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Side Mahallesi (Kumkoy)",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta, płaska, drobnoziarnista",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "miłośnicy historii",
+  "turyści z ograniczonym budżetem"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": 2007,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy (bez balkonu i widoku)",
+  "Standard z widokiem na ląd",
+  "Standard z widokiem na morze",
+  "Pokoje dwuosobowe z balkonem (widok na miasto lub morze)"
+ ],
+ "rooms": 210,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "directbooking.ro",
+  "thomascook.com",
+  "lastminute.com",
+  "skyscanner.co.il",
+  "reserving.com",
+  "intourist.ru",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-27"
+}

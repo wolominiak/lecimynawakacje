@@ -1,0 +1,131 @@
+{
+ "id": 43644,
+ "slug": "royan-hagia-sophia-radisson-individuals",
+ "name": "Royan Hagia Sophia Radisson Individuals",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001417759-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Royan Hagia Sophia Radisson Individuals to czterogwiazdkowy hotel położony w samym sercu historycznej dzielnicy Sultanahmet w Stambule. Otwarty w 2022 roku, oferuje nowoczesne udogodnienia w dwóch połączonych budynkach, idealny dla osób pragnących zwiedzać miasto i być blisko głównych atrakcji.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz turystów indywidualnych, którzy cenią sobie centralną lokalizację i łatwy dostęp do zabytków. Bliskość Morza Marmara oraz udogodnienia dla najmłodszych sprawiają, że jest to komfortowe miejsce na pobyt w tureckiej metropolii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Royan Hagia Sophia Radisson Individuals znajduje się w historycznej dzielnicy Sultanahmet w Stambule, około 280 metrów od Morza Marmara. Lokalizacja w centrum miasta zapewnia łatwy dostęp do najważniejszych atrakcji, takich jak Hagia Sophia, Błękitny Meczet czy Pałac Topkapi, które są w zasięgu krótkiego spaceru."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 49 pokoi w różnych kategoriach, od Standard po Presidential Suite. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, minibar, sejf, telewizor z płaskim ekranem oraz bezpłatne WiFi. Wybrane apartamenty posiadają jacuzzi lub hammam, a część pokoi oferuje widok na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, Cisterna Brasserie, serwująca dania kuchni międzynarodowej i tureckiej na śniadania, obiady i kolacje. Goście mogą korzystać z obfitych śniadań w formie bufetu. Dostępne są również opcje menu dla osób z alergiami pokarmowymi, takie jak dania halal, wegetariańskie, wegańskie i bezglutenowe. Do dyspozycji jest także jeden bar/lounge."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Royan Hagia Sophia Radisson Individuals dysponuje siłownią (fitness suite). Niektóre apartamenty oferują prywatne udogodnienia spa, takie jak hammam czy wanny spa. Bezpłatne Wi-Fi jest dostępne na terenie całego obiektu. Hotel nie posiada ogólnodostępnego basenu ani aquaparku."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak łóżeczka dziecięce na życzenie, krzesełka w restauracji oraz specjalne menu dla najmłodszych. Goście od 13 roku życia są traktowani jako dorośli."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznym centrum Sultanahmet",
+  "Bardzo pomocny i uprzejmy personel",
+  "Czyste i komfortowe pokoje",
+  "Dobre i obfite śniadania w formie bufetu",
+  "Nowoczesny i stylowy wystrój"
+ ],
+ "cons": [
+  "Pokoje mogą być małe",
+  "Słaba izolacja akustyczna w pokojach",
+  "Brak basenu i typowych udogodnień resortowych",
+  "W pojedynczych przypadkach zgłaszano brak ciepłej wody"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 280 metrów od wybrzeża Morza Marmara. Brak informacji o konkretnym rodzaju plaży czy jej statusie (hotelowa/publiczna)."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Sabiha Gökçen International Airport (SAW), oddalone o około 44.6 km drogą. Istanbul Airport (IST) jest również w podobnej odległości."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia takie jak łóżeczka dziecięce, krzesełka w restauracji oraz menu dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych. Jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Yeni Sarachane Sok. No. 18, Fatih, Istanbul, Türkiye, 34122",
+ "adultsOnly": false,
+ "airportKm": 44.6,
+ "airportName": "Sabiha Gökçen International Airport (SAW)",
+ "amenities": [
+  "Wifi",
+  "Siłownia",
+  "Restauracja",
+  "Bar",
+  "Udogodnienia dla rodzin z dziećmi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Sultanahmet (Cankurtaran Mah.)",
+ "bars": 1,
+ "beachDistanceM": 280,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Turyści zwiedzający miasto"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2022,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard",
+  "Superior",
+  "Junior Suite",
+  "Suite (z jacuzzi i widokiem na morze)",
+  "Presidential Suite"
+ ],
+ "rooms": 49,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "agoda.com",
+  "radissonhotels.com",
+  "booking.com",
+  "amimir.com",
+  "royanhotels.com.tr",
+  "rome2rio.com",
+  "hoteliersweb.com",
+  "guestreservations.com"
+ ],
+ "updated": "2026-11-27"
+}

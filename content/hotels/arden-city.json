@@ -1,0 +1,133 @@
+{
+ "id": 80545,
+ "slug": "arden-city",
+ "name": "Arden City",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/arden-city-teren-hotelu-obiekt-1717769035-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Arden City to czterogwiazdkowy obiekt położony w sercu historycznej dzielnicy Sultanahmet w Stambule, w dzielnicy Fatih. Jego lokalizacja sprawia, że jest to idealny wybór dla turystów pragnących zwiedzać najważniejsze zabytki miasta, takie jak Hagia Sophia, Błękitny Meczet czy Pałac Topkapi, które znajdują się w zasięgu krótkiego spaceru.",
+  "Obiekt, choć mieści się w budynku z 1946 roku, był kilkukrotnie odnawiany, ostatnio w 2013 roku, co zapewnia komfortowy pobyt. Hotel jest przyjazny rodzinom, oferując pokoje rodzinne i łóżeczka dziecięce, a także polecany parom i wszystkim, którzy cenią sobie centralne położenie i łatwy dostęp do kulturalnych atrakcji Stambułu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Arden City Hotel mieści się w dzielnicy Sultanahmet, zaledwie kilkaset metrów od centrum. Z tarasu na dachu roztacza się widok na Bosfor, Złoty Róg i Hagia Sophia. W bezpośrednim sąsiedztwie znajdują się liczne atrakcje turystyczne, co czyni go doskonałą bazą wypadową do odkrywania Stambułu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 35 do 43 pokoi, w tym pokoje jedno-, dwu- i trzyosobowe, a także pokoje Superior, Deluxe i Suite. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, telewizor z płaskim ekranem, minibar, sejf na laptopa oraz bezpłatne Wi-Fi. Pokoje zostały odnowione w 2012 roku, a niektóre z nich oferują widoki na miasto, morze lub Bosfor."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Telescopic na dachu, serwująca dania kuchni tureckiej i międzynarodowej z widokiem na Bosfor i Hagia Sophia, oraz Arden Bosphorus z kuchnią międzynarodową i tarasem z widokiem na ogród. Goście mogą również skorzystać z Arden Bistro Bar, stylizowanego na brytyjski pub. W cenę pobytu wliczone jest bezpłatne śniadanie w formie bufetu; hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Do dyspozycji gości jest tradycyjny marmurowy hammam, idealny do relaksu. Hotel oferuje bezpłatne Wi-Fi we wszystkich pomieszczeniach. Ze względu na centralne położenie, goście mogą korzystać z pieszych wycieczek po okolicy. Hotel nie posiada basenów ani siłowni."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznym centrum Sultanahmet",
+  "Bliskość głównych atrakcji turystycznych (Hagia Sophia, Błękitny Meczet)",
+  "Przyjazny i pomocny personel",
+  "Czyste i komfortowe pokoje",
+  "Smaczne śniadania w formie bufetu z widokiem na Bosfor"
+ ],
+ "cons": [
+  "Pokoje mogą być małe",
+  "Hałas z ulicy w pokojach wychodzących na ulicę",
+  "Winda bywa wolna lub czasami nie działa",
+  "Brak basenów i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Arden City nie jest obiektem plażowym i nie ma informacji o dostępie do plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 41-46 km od lotniska Istanbul Airport (IST) oraz około 39.4-45 km od lotniska Sabiha Gökçen International Airport (SAW)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokoje rodzinne i łóżeczka dziecięce na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu all inclusive. W cenę wliczone jest bezpłatne śniadanie w formie bufetu."
+  }
+ ],
+ "address": "Alemdar Mah. Prof. Kazım İsmail Gürkan Cad. No:2, Fatih, Istanbul",
+ "adultsOnly": false,
+ "airportKm": 41,
+ "airportName": "Istanbul Airport (IST)",
+ "amenities": [
+  "Hammam",
+  "Bezpłatne Wi-Fi",
+  "Restauracja na dachu z widokiem",
+  "Bar"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Sultanahmet (Stare Miasto Sultanahmet), Fatih",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Turyści",
+  "Pary",
+  "Rodziny",
+  "Zainteresowani architekturą i zabytkami"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1946,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2013,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje jednoosobowe (Single)",
+  "Pokoje dwuosobowe (Double/Twin)",
+  "Pokoje trzyosobowe (Triple)",
+  "Pokoje Superior",
+  "Pokoje Superior Triple",
+  "Pokoje Deluxe",
+  "Suite"
+ ],
+ "rooms": 43,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0099916,
+  "lon": 28.9764162,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "expedia.com",
+  "hotel-istanbul.net",
+  "oyster.com",
+  "istanbulotels.com",
+  "yandex.com.tr",
+  "trip.com",
+  "multitour.ru"
+ ],
+ "updated": "2026-11-27"
+}

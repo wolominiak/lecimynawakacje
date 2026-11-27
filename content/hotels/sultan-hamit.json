@@ -1,0 +1,129 @@
+{
+ "id": 68004,
+ "slug": "sultan-hamit",
+ "name": "Sultan Hamit",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/sultan-hamit-obiekt-1597464819-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Sultan Hamit to trzygwiazdkowy obiekt położony w historycznej dzielnicy Fatih w Stambule, w sercu Sultanahmet. Jego lokalizacja w dzielnicy Cankurtaran sprawia, że jest doskonałą bazą wypadową do zwiedzania najważniejszych atrakcji miasta pieszo.",
+  "Obiekt jest szczególnie polecany dla turystów, par i rodzin z dziećmi, które pragną zanurzyć się w kulturze i historii Stambułu. Hotel oferuje komfortowe zakwaterowanie z dostępem do bezpłatnego Wi-Fi i usług spa, co czyni go atrakcyjnym wyborem dla osób ceniących sobie wygodę i bliskość zabytków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie",
+   "text": "Hotel Sultan Hamit znajduje się w dzielnicy Fatih, w historycznym centrum Sultanahmet. W niewielkiej odległości od hotelu znajdują się takie atrakcje jak Hagia Sophia (320-720 m), Błękitny Meczet (450-870 m), Pałac Topkapi (600-800 m) i Cysterna Bazyliki (320-550 m)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 28 lub 45 pokojami w jednym budynku. Pokoje są wyposażone w klimatyzację, prywatną łazienkę, telewizor z płaskim ekranem, minibar, sejf oraz bezpłatne Wi-Fi. Dostępne są pokoje standardowe, ekonomiczne, z widokiem na miasto lub morze, a także pokoje trzyosobowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, która serwuje śniadania w formie bufetu, w tym opcje kontynentalne, wegetariańskie, wegańskie i halal. Goście mogą również korzystać z bezpłatnych przekąsek, herbaty i wody dostępnych przez cały dzień. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w pokojach i miejscach publicznych oraz pełen zakres usług spa. Dzieci w wieku od 3 do 8 lat mogą przebywać w hotelu bezpłatnie, co czyni go przyjaznym dla rodzin. Brak informacji o basenach, siłowni czy animacjach."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Sultanahmet",
+  "Bardzo pomocny personel",
+  "Smaczne i urozmaicone śniadania",
+  "Czyste pokoje",
+  "Dostępność bezpłatnych przekąsek i napojów"
+ ],
+ "cons": [
+  "Ograniczone wygłuszenie między pokojami",
+  "Brak windy w niektórych częściach hotelu",
+  "Brak basenu",
+  "Brak siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od głównych atrakcji Stambułu?",
+   "a": "Hotel Sultan Hamit jest położony w niewielkiej odległości od głównych atrakcji historycznych, takich jak Hagia Sophia (około 320-720 m), Błękitny Meczet (około 450-870 m), Pałac Topkapi (około 600-800 m) i Cysterna Bazyliki (około 320-550 m)."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Odległość od lotniska Stambuł Sabiha Gökçen (SAW) wynosi około 30-40 km, a od lotniska Stambuł (IST) około 35-45 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku w hotelu Sultan Hamit."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, a dzieci w wieku od 3 do 8 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje jedynie śniadania w formie bufetu."
+  }
+ ],
+ "address": "Cankurtaran Mahallesi Yeni Sarachane Sokak 3, Sultanahmet, Fatih, 34122 Stambuł, Turcja",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Stambuł Sabiha Gökçen (SAW) lub Stambuł (IST)",
+ "amenities": [
+  "Spa",
+  "Bezpłatne Wi-Fi",
+  "Przekąski i napoje"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Fatih, Sultanahmet, Cankurtaran",
+ "bars": null,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Turyści",
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double or Twin Room",
+  "Economy Double or Twin Room (Basement Floor)",
+  "Double or Twin Room with Side Sea View",
+  "Standard Triple Room",
+  "Deluxe Double or Twin Room with Sea View"
+ ],
+ "rooms": 28,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0059909,
+  "lon": 28.9818871,
+  "src": "osm"
+ },
+ "sources": [
+  "sultanhamithotel.com",
+  "myhotels.sa",
+  "trivago.com",
+  "istanbulotels.com",
+  "holidaycheck.de",
+  "agoda.com",
+  "hoteles.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}
