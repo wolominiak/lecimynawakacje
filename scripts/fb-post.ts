@@ -10,7 +10,7 @@ import { allRoutes, routeUrl } from '@/lib/flights';
 const SITE = 'https://lecimynawakacje.pl';
 const TOKEN = process.env.FB_PAGE_TOKEN || '';
 const PAGE = process.env.FB_PAGE_ID || '';
-const API_V = process.env.FB_API_VERSION || 'v24.0';
+const API_V = process.env.FB_API_VERSION || 'v27.0';
 const args = process.argv.slice(2);
 const DRY = args.includes('--dry') || !TOKEN || !PAGE;
 const FORCE_SLOT = args.includes('--slot') ? args[args.indexOf('--slot') + 1] : '';
