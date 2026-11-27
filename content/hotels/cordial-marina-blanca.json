@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:cordial marina blanca",
+ "slug": "cordial-marina-blanca",
+ "name": "Cordial Marina Blanca",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Lanzarote",
+  "Playa Blanca"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/lanzarote/playa-blanca/cordial-marina-blanca-pl/2843/f79054a78248bafa9b8f3-244.jpg",
+ "city": "Playa Blanca",
+ "intro": [
+  "Hotel Cordial Marina Blanca to czterogwiazdkowy obiekt położony w popularnej miejscowości Playa Blanca na Lanzarote, w bliskim sąsiedztwie eleganckiego portu jachtowego Marina Rubicón. Otwarty w 2004 roku i gruntownie wyremontowany w 2022 roku, hotel oferuje nowoczesne apartamenty, idealne dla osób szukających komfortowego wypoczynku na Wyspach Kanaryjskich.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz grup przyjaciół, którzy cenią sobie swobodę apartamentów z aneksem kuchennym i dostęp do licznych udogodnień. Bliskość piaszczystych plaż oraz centrum miejscowości sprawia, że jest to doskonała baza wypadowa do odkrywania uroków Lanzarote."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Cordial Marina Blanca zlokalizowany jest w Playa Blanca, około 500 metrów od piaszczystej plaży Playa Dorada. W odległości 600 metrów znajduje się również plaża przy Marina Rubicón, a do centrum miejscowości jest około 1 km. Najbliższe lotnisko Lanzarote (ACE) oddalone jest o około 29-30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 96 nowoczesnymi apartamentami z jedną lub dwiema sypialniami oraz studiami ekonomicznymi. Wszystkie pokoje wyposażone są w klimatyzację, w pełni wyposażoną kuchnię lub aneks kuchenny, salon z rozkładaną sofą, balkon lub taras, telewizor z płaskim ekranem oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się duży odkryty basen, podgrzewany w sezonie zimowym, z dostępnymi leżakami i parasolami. Hotel oferuje również siłownię, centrum wellness (za dodatkową opłatą) oraz możliwość gry w tenis stołowy, bilard i piłkarzyki. Dostępne są bezpłatne ręczniki basenowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat, działający w sezonie letnim. Hotel oferuje także program animacyjny w ciągu dnia, a dla nastolatków dostępny jest klub z automatami do gier (za dodatkową opłatą)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej na śniadania i kolacje. Goście mogą również korzystać z baru przy basenie, który oferuje napoje, lekkie posiłki i przekąski. Hotel oferuje opcje wyżywienia takie jak \"Bed and Breakfast\" oraz \"Self Catering\"."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko Marina Rubicón, restauracji i sklepów",
+  "Wysoka czystość i spokojna atmosfera",
+  "Duży, podgrzewany basen z dużą ilością leżaków",
+  "Przestronne, nowoczesne i dobrze wyposażone apartamenty",
+  "Przyjazny personel"
+ ],
+ "cons": [
+  "Brak oferty all inclusive",
+  "Trwające prace budowlane w pobliżu głównego wejścia (potencjalna niedogodność)",
+  "Dodatkowo płatne niektóre atrakcje (bilard, piłkarzyki, spa)",
+  "Brak aquaparku lub zjeżdżalni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel jest oddalony o około 500 metrów od piaszczystej plaży Playa Dorada. Do plaży przy Marina Rubicón jest około 600 metrów, a do Playa Blanca około 1,5 km."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko Lanzarote (ACE) znajduje się około 29-30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje plac zabaw oraz mini klub dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, w całym obiekcie i w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy basen jest podgrzewany?",
+   "a": "Tak, duży odkryty basen jest podgrzewany w zimie."
+  }
+ ],
+ "address": "C. la Cocinilla, 1, 35580 Playa Blanca, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Lanzarote Airport (ACE)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Siłownia",
+  "Basen zewnętrzny",
+  "Podgrzewany basen",
+  "Plac zabaw dla dzieci",
+  "Mini klub",
+  "Restauracja bufetowa",
+  "Bar przy basenie",
+  "Centrum wellness (płatne)",
+  "Tenis stołowy (płatny)",
+  "Bilard (płatny)",
+  "Piłkarzyki (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Marina Rubicón",
+ "bars": 1,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "przyjaciele"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2004,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartamenty z jedną sypialnią (klimatyzacja, w pełni wyposażona kuchnia, salon z rozkładaną sofą, balkon/taras, TV, sejf, łazienka z suszarką)",
+  "Apartamenty z dwiema sypialniami (klimatyzacja, w pełni wyposażona kuchnia, salon z rozkładaną sofą, balkon/taras, TV, sejf, łazienka z suszarką)",
+  "Studia ekonomiczne (klimatyzacja, aneks kuchenny, salon z rozkładaną sofą, balkon/taras, TV, sejf, łazienka z suszarką)"
+ ],
+ "rooms": 96,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "becordial.com",
+  "google.com",
+  "tui.co.uk",
+  "booking.com",
+  "expedia.co.uk",
+  "cordialresortholidays.com",
+  "rome2rio.com",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

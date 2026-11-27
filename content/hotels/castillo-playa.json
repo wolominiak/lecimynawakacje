@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:castillo playa",
+ "slug": "castillo-playa",
+ "name": "Castillo Playa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Caleta de Fuste"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/caleta-de-fuste/castillo-playa-pl/5_img_20180528_125946.jpg",
+ "city": "Caleta de Fuste",
+ "intro": [
+  "Hotel Castillo Playa to kompleks dwugwiazdkowych bungalowów, położony w spokojnej części Caleta de Fuste na Fuerteventurze. Obiekt jest idealnym wyborem dla osób ceniących sobie niezależność i samodzielne przygotowywanie posiłków, oferując komfortowe warunki zakwaterowania w przestronnych bungalowach z aneksami kuchennymi.",
+  "Dzięki doskonałej lokalizacji, blisko plaży, centrum handlowego i portu sportowego, hotel sprawdzi się zarówno dla rodzin z dziećmi, par, jak i osób poszukujących relaksującego wypoczynku w przystępnej cenie. Ostatni remont obiektu miał miejsce w 2011 roku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Castillo Playa znajduje się w Caleta de Fuste, zaledwie 150-200 metrów od piaszczystej plaży Caleta de Fuste (Playa del Castillo). Plaża jest publiczna, z łagodnym zejściem do wody, co czyni ją odpowiednią dla rodzin. W pobliżu hotelu, około 200-300 metrów, znajduje się centrum miejscowości z licznymi sklepami i restauracjami."
+  },
+  {
+   "title": "Bungalowy",
+   "text": "Hotel dysponuje 80 bungalowami z jedną sypialnią. Każdy bungalow wyposażony jest w salon z telewizorem, prywatną łazienkę z wanną lub prysznicem, aneks kuchenny oraz prywatny taras. Aneks kuchenny zawiera lodówkę, mikrofalówkę, toster, czajnik, płytę grzewczą i naczynia. Klimatyzacja dostępna jest za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Castillo Playa oferuje zakwaterowanie z własnym wyżywieniem (self-catering), co umożliwia gościom samodzielne przygotowywanie posiłków w pełni wyposażonych aneksach kuchennych. Na terenie obiektu znajduje się bar przy basenie. W bliskiej odległości od hotelu dostępnych jest wiele lokalnych restauracji i barów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen dla dorosłych oraz oddzielny brodzik dla dzieci. Leżaki przy basenie są dostępne bezpłatnie. Dla aktywnych gości hotel oferuje siłownię, saunę, boisko wielofunkcyjne oraz kort tenisowy (płatny). W okolicy można również uprawiać golf i sporty wodne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz brodzik. Plaża Caleta de Fuste z łagodnym zejściem do wody jest bezpieczna i idealna dla rodzin. Hotel jest polecany dla rodzin z dziećmi."
+  },
+  {
+   "title": "Internet",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi, dostępne we wszystkich pomieszczeniach, w tym w bungalowach, oraz w miejscach ogólnodostępnych i przy recepcji."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czyste i dobrze wyposażone bungalowy",
+  "Pomocna i uprzejma obsługa",
+  "Przyjemna strefa basenowa",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Brak klimatyzacji w standardzie (dostępna za opłatą)",
+  "Brak ręczników basenowych",
+  "Obiekt ma już swoje lata (ostatni remont w 2011 roku)",
+  "Brak opcji all inclusive",
+  "Brak animacji hotelowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Castillo Playa jest położony około 150-200 metrów od piaszczystej plaży Caleta de Fuste."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Tak, odległość od lotniska Fuerteventura (FUE) wynosi około 7 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni. Dostępny jest odkryty basen dla dorosłych i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik i plac zabaw, a pobliska plaża jest bezpieczna dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w całym hotelu, w tym w bungalowach i miejscach ogólnodostępnych, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu jest opcja all inclusive?",
+   "a": "Nie, hotel oferuje zakwaterowanie z własnym wyżywieniem (self-catering) w bungalowach z aneksami kuchennymi. Opcja all inclusive nie jest dostępna."
+  }
+ ],
+ "address": "Calle Pitera 8, 35610 Caleta de Fuste, Antigua, Fuerteventura, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 7,
+ "airportName": "Fuerteventura (FUE)",
+ "amenities": [
+  "Siłownia",
+  "Sauna",
+  "Boisko wielofunkcyjne",
+  "Kort tenisowy (płatny)",
+  "Plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Caleta de Fuste",
+ "bars": 1,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.25,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające spokojnego wypoczynku",
+  "Podróżujący z ograniczonym budżetem",
+  "Preferujący samodzielne wyżywienie"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 0,
+ "roomTypes": [
+  "Bungalow z jedną sypialnią: salon z telewizorem, sejf (płatny), aneks kuchenny (lodówka, mikrofalówka, toster, czajnik, płyta grzewcza, naczynia), prywatna łazienka (wanna/prysznic, WC), prywatny taras. Klimatyzacja płatna (5 EUR/dzień) lub wiatrak sufitowy."
+ ],
+ "rooms": 80,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.4094832,
+  "lon": -119.6952553,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "atrapalo.com",
+  "reserving.com",
+  "castilloplaya.es",
+  "youtube.com",
+  "fibula.rs",
+  "guestreservations.com",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}
