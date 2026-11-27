@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:hacienda de abajo",
+ "slug": "hacienda-de-abajo",
+ "name": "Hacienda De Abajo",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "La Palma"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/la-palma/tazacorte/hacienda-de-abajo/9266/9f5b3c33046e02aa67c5811d5b3c73f3_1-244.jpg",
+ "city": "Tazacorte",
+ "intro": [
+  "Hotel Hacienda De Abajo to pięciogwiazdkowy obiekt położony w historycznym centrum Tazacorte na wyspie La Palma, w otoczeniu plantacji bananowców i z widokiem na Ocean Atlantycki. Ten luksusowy hotel, zbudowany na bazie odrestaurowanej XVII-wiecznej posiadłości, oferuje unikalne połączenie historii i nowoczesnego komfortu.",
+  "Obiekt jest przeznaczony wyłącznie dla dorosłych (od 14 lub 16 lat), co czyni go idealnym miejscem dla par, nowożeńców oraz osób szukających spokoju, relaksu i eleganckiego otoczenia. Goście cenią sobie autentyczną atmosferę La Palmy oraz luksusowe warunki pobytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel Hacienda De Abajo znajduje się w miejscowości Tazacorte, około 350-500 metrów od centrum. Obiekt jest usytuowany wśród plantacji bananowców, oferując widoki na Ocean Atlantycki. Odległość od lotniska Santa Cruz de La Palma (SPC) wynosi około 27-45 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Najbliższa plaża, Puerto de Tazacorte, oddalona jest od hotelu o około 2 km. Jest to publiczna, piaszczysta plaża z czarnym piaskiem i łagodnym zejściem do morza. Dojście do plaży zajmuje około 25 minut pieszo lub 10 minut autobusem. Parasole i leżaki na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 32 indywidualnie urządzone pokoje, w tym typy Superior, Premium, Junior Suite i Suite, dekorowane dziełami sztuki. Wszystkie pokoje wyposażone są w klimatyzację, bezpłatne Wi-Fi, telewizor z płaskim ekranem oraz minibar z bezpłatnie uzupełnianą wodą i napojami bezalkoholowymi. Większość pokoi posiada balkon lub taras, a apartamenty Suite oferują przestronny salon, sypialnię oraz łazienkę z wolnostojącą wanną i oddzielnym prysznicem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą, który jest sezonowo podgrzewany. Przy basenie dostępne są bezpłatne parasole, leżaki i materace. Hotelowe spa oferuje saunę i jacuzzi/hydromasaż, a za dodatkową opłatą dostępne są masaże i zabiegi pielęgnacyjne."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu działa restauracja \"El Sitio\", serwująca dania kuchni lokalnej i międzynarodowej, w tym opcje wegetariańskie, w formie bufetu lub z obsługą kelnerską. Goście mogą również korzystać z baru \"El Sitio\" oraz baru przy basenie. Śniadania podawane są w formie bufetu do 10:30, a kontynentalne śniadania dla późno wstających do 12:00."
+  }
+ ],
+ "pros": [
+  "Spokojna i autentyczna atmosfera La Palmy",
+  "Luksusowe otoczenie i piękne ogrody",
+  "Podgrzewany basen",
+  "Bardzo przyjazny i pomocny personel",
+  "Pięknie odrestaurowana posiadłość z kolekcjami sztuki"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na publicznej plaży",
+  "Brak siłowni",
+  "Niektóre udogodnienia mogą być płatne dodatkowo"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Puerto de Tazacorte znajduje się około 2 km od hotelu. Dojście pieszo zajmuje około 25 minut, a autobusem około 10 minut."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel Hacienda De Abajo jest przeznaczony wyłącznie dla dorosłych (od 14 lub 16 lat)."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą, który jest sezonowo podgrzewany."
+  },
+  {
+   "q": "Czy hotel oferuje Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i miejscach ogólnodostępnych."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Odległość od lotniska Santa Cruz de La Palma (SPC) wynosi około 27-45 km, co przekłada się na około 45 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "C/ Miguel de Unamuno, 11, 38770 Villa y Puerto de Tazacorte, La Palma, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 27,
+ "airportName": "Santa Cruz de La Palma (SPC)",
+ "amenities": [
+  "Spa",
+  "Jacuzzi",
+  "Sauna",
+  "Bezpłatne Wi-Fi",
+  "Sezonowo podgrzewany basen"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "historyczne centrum Tazacorte",
+ "bars": 2,
+ "beachDistanceM": 2000,
+ "beachType": "piaszczysta, czarny piasek",
+ "centerKm": 0.35,
+ "goodFor": [
+  "Pary",
+  "Nowożeńcy",
+  "Goście ceniący elegancję i luksus",
+  "Osoby szukające spokoju i relaksu"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2012,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Superior",
+  "Premium",
+  "Junior Suite",
+  "Suite (74 m², salon, sypialnia z łóżkiem z XVIII wieku, duży balkon z widokiem na Atlantyk, łazienka z wolnostojącą wanną i oddzielnym prysznicem)"
+ ],
+ "rooms": 32,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.6434289,
+  "lon": -17.9346042,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "visitlapalma.es",
+  "hotelhaciendadeabajo.com",
+  "alhenamedia.info",
+  "holidaycheck.de",
+  "theluxuryeditor.com",
+  "islascanarias-hoteles.com",
+  "itaka.pl"
+ ],
+ "updated": "2026-11-27"
+}

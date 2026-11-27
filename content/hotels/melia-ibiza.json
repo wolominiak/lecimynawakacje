@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:melia ibiza",
+ "slug": "melia-ibiza",
+ "name": "Melia Ibiza",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Ibiza",
+  "Santa Eulalia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/ibiza/santa-eulalia/sol-ibiza-pl/7183/seibizareceptionlobby-244.jpg",
+ "city": "Santa Eulalia del Río",
+ "intro": [
+  "Melia Ibiza to czterogwiazdkowy hotel położony w spokojnej części Santa Eulalia na Ibizie, bezpośrednio przy morzu, blisko przystani. Obiekt, otwarty w maju 2024 roku po gruntownym remoncie, oferuje nowoczesne udogodnienia i stylowy design.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych (powyżej 16 lat), co czyni go idealnym wyborem dla par i osób szukających relaksu w luksusowym otoczeniu. Goście docenią doskonałą lokalizację, piękne widoki na morze oraz łatwy dostęp do atrakcji wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Melia Ibiza znajduje się bezpośrednio przy morzu w Santa Eulalia del Río. Do piaszczystej plaży jest około 1 km, co zajmuje 10-15 minut spacerem. Obiekt położony jest w spokojnej okolicy, blisko przystani Santa Eulalia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 285 lub 300 pokojami, rozmieszczonymi w siedmiopiętrowym budynku. Wszystkie pokoje są wyposażone w klimatyzację, łazienkę z prysznicem, telewizor, sejf, minibar oraz bezpłatne Wi-Fi. Większość pokoi posiada balkon lub taras, często z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się cztery restauracje, oferujące kuchnię międzynarodową, śródziemnomorską i włoską. Goście mogą wybierać spośród opcji Bed & Breakfast oraz Half Board (śniadania i kolacje). Do dyspozycji są również trzy bary, w tym Skybar na dachu z panoramicznym widokiem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Melia Ibiza oferuje dwa zewnętrzne baseny z widokiem na morze, w tym basen typu infinity na dachu dostępny dla gości The Level. Hotel zapewnia programy rozrywkowe, sesje muzyki akustycznej i DJ-ów. Na terenie obiektu znajduje się również spa z tureckim hammamem oraz całodobowa siłownia."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest polecany dla par i osób podróżujących w luksusie, szukających spokojnego wypoczynku w nowoczesnym otoczeniu. Ze względu na politykę \"tylko dla dorosłych\" (powyżej 16 lat), jest to idealne miejsce na relaks bez dzieci, z łatwym dostępem do życia nocnego Ibizy."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja nad morzem",
+  "Piękne widoki, zwłaszcza z basenu na dachu",
+  "Pomocna i przyjazna obsługa",
+  "Dobre jedzenie i duży wybór na śniadanie",
+  "Nowoczesny design i odnowione wnętrza"
+ ],
+ "cons": [
+  "Ograniczone wygłuszenie między pokojami",
+  "Ograniczona dostępność parkingu na miejscu",
+  "Brak pełnej prywatności w łazience w niektórych pokojach",
+  "Ograniczone opcje kolacji w restauracji włoskiej"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża znajduje się około 1 km od hotelu, co oznacza około 10-15 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Ibiza (IBZ), oddalone o około 17-24 km (25-30 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Oferuje dwa baseny zewnętrzne, w tym jeden typu infinity na dachu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel Melia Ibiza jest przeznaczony wyłącznie dla dorosłych (powyżej 16 lat)."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich częściach publicznych hotelu."
+  },
+  {
+   "q": "Czy hotel posiada siłownię i spa?",
+   "a": "Tak, hotel dysponuje całodobową siłownią oraz spa z zewnętrznym obiegiem wodnym, masażami i tureckim hammamem."
+  }
+ ],
+ "address": "Carrer Pare Vicent Costa, 2, 07840 Santa Eulària des Riu, Illes Balears, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 20.5,
+ "airportName": "Lotnisko Ibiza (IBZ)",
+ "amenities": [
+  "Spa",
+  "Siłownia 24h",
+  "Joga",
+  "Pilates",
+  "Programy rozrywkowe",
+  "Muzyka akustyczna",
+  "DJ-e podczas zachodu słońca",
+  "Wieczorne pokazy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Santa Eulalia, blisko przystani i zatoki Santa Eulalia",
+ "bars": 3,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Pary",
+  "Podróżujący w luksusie",
+  "Osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2024,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2024,
+ "restaurants": 4,
+ "roomTypes": [
+  "Pokój Melia",
+  "Junior Suite z widokiem na morze",
+  "The Level Junior Suite Deluxe/Supreme z widokiem na morze",
+  "The Level Master Suite z widokiem na morze (dwie sypialnie)"
+ ],
+ "rooms": 292,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.9856206,
+  "lon": 1.5458015,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.co.uk",
+  "booking.com",
+  "onthebeach.ie",
+  "thomascook.com",
+  "melia.com",
+  "ibiza-spotlight.com",
+  "ibizahotels.net",
+  "theibizahotels.com"
+ ],
+ "updated": "2026-11-27"
+}

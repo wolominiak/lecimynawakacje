@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:ebano hotel apartments and spa",
+ "slug": "ebano-hotel-apartments-spa",
+ "name": "Ebano Hotel Apartments & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Ibiza",
+  "Playa de Bossa"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/ibiza/playa-de-bossa/ebano-hotel-apartments-a-spa/dbacdccdd2bd23c85e447.jpg",
+ "city": "Playa d'en Bossa, Ibiza",
+ "intro": [
+  "Ebano Hotel Apartments & Spa to czterogwiazdkowy obiekt położony w sercu turystycznej miejscowości Playa d'en Bossa na Ibizie. Oferuje on komfortowe apartamenty z aneksem kuchennym, idealne dla par, grup przyjaciół oraz rodzin, które cenią sobie niezależność i dostęp do licznych atrakcji wyspy.",
+  "Hotel wyróżnia się doskonałą lokalizacją, blisko piaszczystej plaży oraz słynnych klubów nocnych, co czyni go atrakcyjnym wyborem dla osób poszukujących zarówno relaksu, jak i rozrywki. Obiekt oferuje szereg udogodnień, w tym basen, spa i siłownię, zapewniając komfortowy pobyt w dynamicznym otoczeniu Ibizy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Ebano Hotel Apartments & Spa znajduje się w centrum Playa d'en Bossa, przy ulicy Carrer de les Begonies 22-24. W bezpośrednim sąsiedztwie hotelu znajdują się znane kluby nocne, takie jak Ushuaïa i Hï Ibiza. Piaszczysta plaża Playa d'en Bossa oddalona jest o około 300-450 metrów od obiektu. Lotnisko Ibiza (IBZ) jest w odległości około 4-5 km, a stolica wyspy, miasto Ibiza, około 5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 82 apartamenty, rozmieszczone w niskich, trzypiętrowych blokach. Dostępne są apartamenty Premium z balkonem, apartamenty Premium z dostępem do basenu oraz apartamenty Premium z prywatnym basenem (te ostatnie tylko dla dorosłych). Każdy apartament wyposażony jest w klimatyzację, prywatny balkon (w większości), w pełni wyposażony aneks kuchenny, salon z rozkładaną sofą, dwa telewizory z płaskim ekranem, radio Bluetooth oraz prywatną łazienkę. Bezpłatne Wi-Fi jest dostępne we wszystkich pokojach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca śniadania w formie bufetu oraz dania à la carte kuchni europejskiej. Goście mogą również korzystać z baru przy basenie (swim-up bar), kawiarni i snack baru. Śniadanie jest dostępne, często za dodatkową opłatą. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje odkrytym basenem oraz brodzikiem dla dzieci. Na terenie hotelu znajduje się centrum spa i odnowy biologicznej z sauną, łaźnią turecką, jacuzzi, solarium oraz gabinetami zabiegowymi oferującymi masaże i zabiegi na twarz i ciało. Dostępna jest również dobrze wyposażona siłownia. Hotel oferuje możliwości uprawiania sportów takich jak nurkowanie, snorkeling, kajakarstwo, piesze wycieczki i jazda na rowerze."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Ebano Hotel Apartments & Spa jest polecany dla par i grup przyjaciół szukających relaksu, rozrywki i luksusu. Ze względu na bliskość klubów nocnych i plażowych, jest idealny dla osób chcących doświadczyć życia nocnego Ibizy. Hotel oferuje również udogodnienia dla rodzin, takie jak brodzik dla dzieci i łóżeczka dziecięce na życzenie."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży, klubów i restauracji",
+  "Czyste i przestronne apartamenty z aneksem kuchennym",
+  "Dobre udogodnienia: basen, spa, siłownia",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadania i dobra wartość za pieniądze"
+ ],
+ "cons": [
+  "Słaba jakość połączenia Wi-Fi w pokojach",
+  "Klimatyzacja czasem działa tylko na ciepło",
+  "Potencjalny hałas z otoczenia (ulica, kluby, samoloty)",
+  "Ograniczone godziny otwarcia basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 300-450 metrów od piaszczystej plaży Playa d'en Bossa."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Odległość od lotniska Ibiza (IBZ) wynosi około 4-5 km, co oznacza około 5 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Na terenie obiektu znajduje się odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Mimo sprzecznych informacji, hotel oferuje brodzik dla dzieci, łóżeczka dziecięce na życzenie oraz apartamenty rodzinne, co sugeruje, że jest odpowiedni dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i pomieszczeniach ogólnodostępnych, choć jakość połączenia w pokojach bywa słaba."
+  },
+  {
+   "q": "Czy hotel posiada spa lub siłownię?",
+   "a": "Tak, hotel posiada centrum spa i odnowy biologicznej z sauną, łaźnią turecką, jacuzzi oraz dobrze wyposażoną siłownię."
+  }
+ ],
+ "address": "Carrer de les Begonies, 22-24, Playa d'en Bossa, Ibiza",
+ "adultsOnly": null,
+ "airportKm": 4.5,
+ "airportName": "Ibiza (IBZ)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Basen zewnętrzny",
+  "Brodzik dla dzieci",
+  "Aneks kuchenny w pokojach",
+  "Balkon w większości pokoi",
+  "Wifi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Playa d'en Bossa",
+ "bars": 2,
+ "beachDistanceM": 375,
+ "beachType": "piaszczysta",
+ "centerKm": 0.431,
+ "goodFor": [
+  "Pary",
+  "Grupy przyjaciół",
+  "Rodziny z dziećmi (ze względu na udogodnienia)"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament Premium z balkonem",
+  "Apartament Premium z dostępem do basenu",
+  "Apartament Premium z prywatnym basenem (tylko dla dorosłych)"
+ ],
+ "rooms": 82,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "theibizahotels.com",
+  "planetofhotels.com",
+  "ibizahotels.net",
+  "loveholidays.com",
+  "ebanoibiza.com",
+  "trivago.co.uk",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

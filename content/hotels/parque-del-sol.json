@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:parque del sol",
+ "slug": "parque-del-sol",
+ "name": "Parque Del Sol",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/parque-del-sol-pl/7306/a461ddaee36a9c12955de4c9c75eb1e1_11-244.jpg",
+ "city": "Costa Adeje",
+ "intro": [
+  "Hotel Parque Del Sol to trzygwiazdkowy obiekt położony w popularnej miejscowości Costa Adeje na Teneryfie, w spokojnej dzielnicy Fañabé. Składa się z dziesięciu trzypiętrowych budynków apartamentowych, oferując komfortowe zakwaterowanie z aneksem kuchennym. To idealne miejsce dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz wszystkich, którzy szukają spokojnego wypoczynku w dobrej lokalizacji. Bliskość piaszczystych plaż oraz centrum kurortu sprawia, że hotel stanowi doskonałą bazę wypadową do zwiedzania okolicy i korzystania z lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Parque Del Sol znajduje się w Costa Adeje, w dzielnicy Fañabé, zaledwie około 500 metrów (5 minut spacerem) od piaszczystych plaż Playa Fañabé i Playa del Duque. Do centrum kurortu Costa Adeje jest około 2 km, co zajmuje około 20 minut spacerem. Najbliższe lotnisko, Tenerife South (TFS), oddalone jest o około 19 km."
+  },
+  {
+   "title": "Pokoje i apartamenty",
+   "text": "Hotel oferuje 184 pokoje i apartamenty, w tym pokoje dwuosobowe z widokiem na basen oraz apartamenty z jedną lub dwiema sypialniami. Każdy pokój wyposażony jest w aneks kuchenny z pełnym wyposażeniem, balkon lub taras, część wypoczynkową, telewizor z Netflixem, sejf (płatny), wentylator sufitowy oraz prywatną łazienkę. Dostępne są również łóżeczka dla dzieci."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden odkryty basen, podgrzewany przez cały rok, z jacuzzi przeznaczonym dla dorosłych. Dla najmłodszych dostępny jest oddzielny brodzik oraz plac zabaw i pokój gier. Goście mogą korzystać z siłowni, minigolfa, bilarda, tenisa stołowego oraz wypożyczalni rowerów. Wieczorami organizowane są rozrywki dla dorosłych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Parque Del Sol oferuje opcję wyżywienia Half Board, obejmującą śniadania i kolacje w formie bufetu w restauracji El Jardín, serwującej dania kuchni lokalnej i międzynarodowej. Napoje do kolacji nie są wliczone w cenę. Dodatkowo, przy basenie znajduje się bar, gdzie można zamówić napoje i przekąski, również na wynos."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie lub w miejscach publicznych. Na terenie hotelu dostępna jest sauna i solarium. Obiekt jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak brodzik i plac zabaw. W pobliżu hotelu dostępne są również sporty wodne i pole golfowe."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja, blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czystość obiektu",
+  "Podgrzewany basen",
+  "Dobrze wyposażone apartamenty z aneksem kuchennym"
+ ],
+ "cons": [
+  "Brak klimatyzacji w niektórych pokojach (dostępne wentylatory sufitowe)",
+  "Napoje do kolacji nie są wliczone w cenę przy opcji Half Board",
+  "Brak zjeżdżalni lub aquaparku na terenie hotelu",
+  "Brak mini klubu dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Parque Del Sol znajduje się około 500 metrów (5 minut spacerem) od piaszczystych plaż Playa Fañabé i Playa del Duque."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu Parque Del Sol nie ma aquaparku ani zjeżdżalni. Dostępny jest natomiast brodzik dla dzieci."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Tenerife South (TFS), oddalone o około 19 km od hotelu Parque Del Sol."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Parque Del Sol jest przyjazny rodzinom z dziećmi, oferuje brodzik, plac zabaw oraz pokój gier. Dostępne są również łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie lub w miejscach publicznych."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "W niektórych opiniach gości wskazywano na brak klimatyzacji w pokojach, jednak dostępne są wentylatory sufitowe."
+  }
+ ],
+ "address": "Calle Londres, 11, 38660 Costa Adeje, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 19,
+ "airportName": "Tenerife South (TFS)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Plac zabaw",
+  "Pokój gier",
+  "Sauna",
+  "Solarium",
+  "Minigolf",
+  "Bilard",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Fañabé",
+ "bars": 1,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1989,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe z widokiem na basen (aneks kuchenny, balkon/taras, część wypoczynkowa, TV, sejf, wentylator, żelazko, suszarka do włosów, łazienka)",
+  "Apartamenty z jedną sypialnią (aneks kuchenny, balkon/taras, część wypoczynkowa, TV, sejf, wentylator, żelazko, suszarka do włosów, łazienka)",
+  "Apartamenty z dwiema sypialniami (aneks kuchenny, balkon/taras, część wypoczynkowa, TV, sejf, wentylator, żelazko, suszarka do włosów, łazienka)",
+  "Apartamenty typu Deluxe King Suite (aneks kuchenny, balkon/taras, część wypoczynkowa, TV, sejf, wentylator, żelazko, suszarka do włosów, łazienka)"
+ ],
+ "rooms": 184,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0896534,
+  "lon": -16.7360021,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "thomascook.com",
+  "holidaycheck.de",
+  "hotelsadeje.com",
+  "reserving.com",
+  "parquedelsol.net",
+  "wanderlog.com",
+  "wanderboat.ai"
+ ],
+ "updated": "2026-11-27"
+}

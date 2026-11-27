@@ -1,0 +1,133 @@
+{
+ "id": "x:hiszpania:ecuador",
+ "slug": "ecuador",
+ "name": "Ecuador",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/ecuador-pl/9060/8bec28e744e53831667071396efae81b_1-244.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Apartamentos Ecuador to dwugwiazdkowy kompleks położony w popularnej miejscowości Playa del Inglés na Gran Canarii. Obiekt, składający się z dwóch budynków i oferujący 54 apartamenty, jest idealną propozycją dla osób ceniących sobie niezależność i swobodę, dzięki w pełni wyposażonym kuchniom w każdym pokoju.",
+  "Hotel jest polecany dla indywidualistów, par oraz wszystkich, którzy szukają spokojnego miejsca na wypoczynek, jednocześnie mając łatwy dostęp do atrakcji turystycznych, plaży oraz centrów handlowych. Bliskość wydmowej plaży i centrum miejscowości to jego niewątpliwe atuty."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Apartamentos Ecuador znajduje się w Playa del Inglés, zaledwie 300-500 metrów od piaszczystej, wydmowej plaży De Las Dunas. Centrum miejscowości oddalone jest o około 0.5-0.7 km, co zapewnia łatwy dostęp do sklepów i restauracji. Najbliższe lotnisko Gran Canaria (LPA) mieści się w odległości 27-33 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje komfortowe apartamenty jednopokojowe o powierzchni około 35 m². Każdy apartament posiada oddzielną sypialnię, salon z rozkładaną sofą, łazienkę oraz w pełni wyposażoną kuchnię. Goście mają do dyspozycji także balkon lub taras, telewizję satelitarną i sejf (za opłatą), a klimatyzacja jest dostępna na życzenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie kompleksu znajdują się dwa odkryte baseny, w tym jeden podgrzewany i jeden ze słoną wodą. Przy basenach dostępne są tarasy słoneczne z leżakami i parasolami. Dla aktywnych gości hotel oferuje bilard, rzutki oraz kort tenisowy, a także siłownię i solarium."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Apartamenty wyposażone są w kuchnie, co umożliwia samodzielne przygotowywanie posiłków. Na miejscu znajduje się minimarket, a hotel oferuje również możliwość wykupienia opcji wyżywienia typu \"half board\" (śniadania i kolacje). Obiekt nie posiada opcji all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje mini klub dla dzieci. Brak jest jednak informacji o zjeżdżalniach, aquaparku czy rozbudowanych animacjach dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Spokojna atmosfera i czystość obiektu",
+  "Przyjazny i pomocny personel",
+  "Dobrze wyposażone kuchnie w apartamentach",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Obiekt jest \"nieco w latach\", choć zadbany",
+  "Brak rozbudowanych animacji",
+  "Klimatyzacja i sejf dostępne za dodatkową opłatą",
+  "Brak all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Apartamentos Ecuador znajduje się około 300-500 metrów od piaszczystej, wydmowej plaży De Las Dunas."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od najbliższego lotniska Gran Canaria (LPA) wynosi około 27-33 km, co zajmuje około 25-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu. Dostępne są dwa odkryte baseny."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie jest przeznaczony wyłącznie dla dorosłych i posiada mini klub, co czyni go odpowiednim dla rodzin. Należy jednak pamiętać o braku rozbudowanych animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Tak, według niektórych źródeł hotel posiada siłownię."
+  }
+ ],
+ "address": "Calle Roma 19, ES35100 Playa del Inglés, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 27,
+ "airportName": "Gran Canaria Airport, LPA",
+ "amenities": [
+  "Minimarket",
+  "Solarium",
+  "Bilard",
+  "Rzutki",
+  "Kort tenisowy"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Playa del Inglés",
+ "bars": null,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta, wydmowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Indywidualiści",
+  "Pary",
+  "Osoby szukające spokoju",
+  "Osoby ceniące centralne położenie"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament jednopokojowy (ok. 35 m²) z oddzielną sypialnią (dwa łóżka), salonem (rozkładana sofa), łazienką (prysznic, suszarka do włosów), w pełni wyposażoną kuchnią (lodówka, mikrofalówka, ekspres do kawy, toster, czajnik, jajowar), telewizją satelitarną, sejfem (za opłatą), balkonem/tarasem. Klimatyzacja na życzenie (za opłatą)."
+ ],
+ "rooms": 54,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7534903,
+  "lon": -15.572765,
+  "src": "osm"
+ },
+ "sources": [
+  "playadelinglesweb.com",
+  "latitude.to",
+  "reserving.com",
+  "booking.com",
+  "d-reizen.nl",
+  "hotels-gran-canaria.net",
+  "holidaycheck.de",
+  "youtube.com"
+ ],
+ "updated": "2026-11-27"
+}

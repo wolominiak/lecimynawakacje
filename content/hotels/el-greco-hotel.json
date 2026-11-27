@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:el greco hotel",
+ "slug": "el-greco-hotel",
+ "name": "El Greco Hotel",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Portoryko"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/puerto-rico/el-greco-hotel/2376/fc8d77b58b40e59253752-244.jpg",
+ "city": "Puerto Rico",
+ "intro": [
+  "Hotel El Greco to czterogwiazdkowy obiekt położony w miejscowości Puerto Rico na południowo-zachodnim wybrzeżu Gran Canarii. Jego atutem jest bezpośredni dostęp do piaszczystej plaży oraz bliskość centrum handlowego z licznymi restauracjami i barami. Oferuje on komfortowe apartamenty, suity i bungalowy, z których część przeznaczona jest wyłącznie dla dorosłych.",
+  "Obiekt jest rekomendowany dla par, małych grup przyjaciół oraz rodzin, które cenią sobie niezależność i dostęp do szerokiej gamy aktywności. Hotel zapewnia przyjemny pobyt dzięki dobrze wyposażonym pokojom, basenom i różnorodnym opcjom gastronomicznym, a także dzięki przyjaznej obsłudze."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel El Greco znajduje się w Puerto Rico, na Gran Canarii, zaledwie 20 metrów od piaszczystej plaży. Obiekt oferuje widoki na morze i przystań. W bezpośrednim sąsiedztwie, około 50 metrów, znajduje się centrum handlowe z barami, restauracjami i sklepami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 86 jednostkami mieszkalnymi, w tym apartamentami jedno- i dwusypialnianymi, suitami oraz bungalowami. Wszystkie pokoje są klimatyzowane i ogrzewane, wyposażone w balkon lub taras, telewizor, aneks kuchenny z pełnym wyposażeniem, łazienkę z prysznicem i suszarką do włosów, a także pralkę i zestaw do prasowania."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, z czego jeden jest podgrzewany w wybranych miesiącach. Jeden z basenów posiada zintegrowany brodzik dla dzieci. Dostępny jest również mniejszy basen dla gości bungalowów i suit. Obiekt oferuje siłownię, jacuzzi oraz płatne masaże i solarium. W okolicy dostępne są liczne aktywności, takie jak sporty wodne, golf czy piesze wycieczki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel El Greco posiada trzy restauracje: grillową, El Molino (kuchnia hiszpańska i włoska) oraz La Cantina (kuchnia kanaryjska, hiszpańska, włoska i francuska). Na terenie obiektu znajdują się również bary, w tym bar przy basenie serwujący przekąski. Hotel nie oferuje opcji all inclusive, ale możliwe jest wykupienie śniadań w formie bufetu lub niepełnego wyżywienia w sezonie zimowym."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przestronne i dobrze wyposażone apartamenty",
+  "Wysoka czystość obiektu i pokoi",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie w hotelowych restauracjach"
+ ],
+ "cons": [
+  "Brak opcji all inclusive",
+  "Brak zjeżdżalni lub aquaparku",
+  "Brak mini klubu dla dzieci",
+  "Brak szczegółowych animacji hotelowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel El Greco znajduje się zaledwie 20 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko Gran Canaria (LPA) oddalone jest o około 48-50 km, co zajmuje około 30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu El Greco nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik dla dzieci i menu dla dzieci. Należy jednak pamiętać, że bungalowy i suity w strefie VIP są przeznaczone wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym obiekcie, w tym w pokojach, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Możliwe jest wykupienie śniadań lub niepełnego wyżywienia (śniadania i kolacje) w sezonie zimowym."
+  }
+ ],
+ "address": "Calle Doreste y Molina, 38, 35130 Puerto Rico (Mogán), Las Palmas, Gran Canaria, Hiszpania",
+ "adultsOnly": null,
+ "airportKm": 49,
+ "airportName": "Lotnisko Gran Canaria (LPA)",
+ "amenities": [
+  "jacuzzi",
+  "masaż (płatny)",
+  "solarium",
+  "bilard",
+  "wypożyczalnia rowerów",
+  "sporty wodne na plaży (jet ski, narty wodne)",
+  "golf",
+  "windsurfing",
+  "nurkowanie",
+  "snorkeling",
+  "kajakarstwo",
+  "piesze wycieczki",
+  "jazda konna",
+  "wędkarstwo",
+  "mini golf"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Puerto Rico",
+ "bars": null,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 0.05,
+ "goodFor": [
+  "pary",
+  "małe grupy",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 3,
+ "roomTypes": [
+  "apartamenty z jedną sypialnią (dla 2-3 osób) z klimatyzacją, centralnym ogrzewaniem, balkonem/tarasem, telewizorem z płaskim ekranem i kanałami satelitarnymi, kuchnią/aneksem kuchennym (lodówka z zamrażarką, mikrofalówka, płyta ceramiczna, ekspres do kawy, czajnik, toster, naczynia), łazienką z prysznicem i suszarką do włosów, pralką, zestawem do prasowania, sejfem (płatny), telefonem",
+  "apartamenty z dwiema sypialniami (dla 3-5 osób) z klimatyzacją, centralnym ogrzewaniem, balkonem/tarasem, telewizorem z płaskim ekranem i kanałami satelitarnymi, kuchnią/aneksem kuchennym (lodówka z zamrażarką, mikrofalówka, płyta ceramiczna, ekspres do kawy, czajnik, toster, naczynia), łazienką z prysznicem i suszarką do włosów, pralką, zestawem do prasowania, sejfem (płatny), telefonem",
+  "suity (dla 2-4 osób, niektóre z dwiema sypialniami i dwiema łazienkami) z klimatyzacją, centralnym ogrzewaniem, balkonem/tarasem, telewizorem z płaskim ekranem i kanałami satelitarnymi, kuchnią/aneksem kuchennym (lodówka z zamrażarką, mikrofalówka, płyta ceramiczna, ekspres do kawy, czajnik, toster, naczynia), łazienką z prysznicem i suszarką do włosów, pralką, zestawem do prasowania, sejfem (płatny), telefonem",
+  "bungalowy (dla 4 osób, w strefie VIP, tylko dla dorosłych) z klimatyzacją, centralnym ogrzewaniem, balkonem/tarasem, telewizorem z płaskim ekranem i kanałami satelitarnymi, kuchnią/aneksem kuchennym (lodówka z zamrażarką, mikrofalówka, płyta ceramiczna, ekspres do kawy, czajnik, toster, naczynia), łazienką z prysznicem i suszarką do włosów, pralką, zestawem do prasowania, sejfem (płatny), telefonem"
+ ],
+ "rooms": 86,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.6789105,
+  "lon": -3.9698054,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "elgrecopuertorico.com",
+  "islandspots.io",
+  "onthebeach.co.uk",
+  "sunway.ie",
+  "tjareborg.fi",
+  "thomascook.com",
+  "puertoricograncanaria.com"
+ ],
+ "updated": "2026-11-27"
+}

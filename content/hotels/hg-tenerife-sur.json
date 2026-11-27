@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:hg tenerife sur",
+ "slug": "hg-tenerife-sur",
+ "name": "Hg Tenerife Sur",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Los Cristianos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/los-cristianos/hg-tenerife-sur-pl/5256/fa6843a8487b9d484b889cb09c30de01_1-244.jpg",
+ "city": "Los Cristianos",
+ "intro": [
+  "Hg Tenerife Sur to trzygwiazdkowy kompleks apartamentów położony w sercu Los Cristianos na słonecznej Teneryfie. Hotel oferuje komfortowe zakwaterowanie z aneksami kuchennymi, co czyni go idealnym wyborem dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz osób szukających niedrogiego, ale dobrze zlokalizowanego miejsca na wypoczynek. Bliskość plaży i centrum miejscowości, a także dostęp do udogodnień takich jak baseny i siłownia, zapewniają komfortowy pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hg Tenerife Sur znajduje się w centrum Los Cristianos, zaledwie 500-850 metrów od piaszczystej plaży Playa de Los Cristianos. Do Playa de Las Vistas jest około 1.2 km. Obie plaże charakteryzują się drobnym, złotym piaskiem i spokojnymi wodami, a leżaki i parasole są dostępne do wynajęcia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 189 lub 195 pokoi, w tym studia oraz apartamenty z jedną lub dwiema sypialniami, niektóre z widokiem na basen. Wszystkie apartamenty urządzone są w stylu kanaryjskim i wyposażone w aneks kuchenny, łazienkę, salon/jadalnię, telewizor, wentylatory sufitowe oraz prywatny balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się dwa odkryte baseny, w tym jeden podgrzewany oraz brodzik dla dzieci. Goście mogą korzystać z centrum spa i wellness (za opłatą), dobrze wyposażonej siłowni, squasha i bilarda (za opłatą). W hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni hiszpańskiej, włoskiej i międzynarodowej na śniadania, obiady i kolacje. Dostępny jest również bar przy basenie. Obiekt funkcjonuje głównie w formule samoobsługowej, brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje brodzik oraz plac zabaw i pokój gier. Hotel jest przyjazny rodzinom, co czyni go dobrym wyborem na wakacje z dziećmi, choć nie posiada mini klubu ani animacji."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja, blisko plaży i centrum",
+  "Czystość i miła obsługa",
+  "Dobrze wyposażone aneksy kuchenne",
+  "Dostępny podgrzewany basen",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Płatny sejf w pokojach",
+  "Brak mini klubu i animacji dla dzieci",
+  "Bar zamyka się zbyt wcześnie (według niektórych opinii)",
+  "Brak aquaparku na terenie hotelu",
+  "Odległość od plaży do 850m"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 500-850 metrów od plaży Playa de Los Cristianos i około 1.2 km od Playa de Las Vistas."
+  },
+  {
+   "q": "Czy hotel posiada baseny?",
+   "a": "Tak, na terenie obiektu znajdują się dwa odkryte baseny, w tym jeden podgrzewany, oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada aquaparku ani zjeżdżalni. Najbliższy duży park wodny, Siam Park, znajduje się około 2.6 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw i pokój gier."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, Wi-Fi jest dostępne w całym obiekcie i jest bezpłatne."
+  },
+  {
+   "q": "Ile kilometrów jest do lotniska?",
+   "a": "Hotel jest oddalony o około 16-17 km od lotniska Tenerife South (Reina Sofia Airport, TFS)."
+  }
+ ],
+ "address": "Avenida Ámsterdam, 3, 38650 Los Cristianos, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "Tenerife South (Reina Sofia Airport, TFS)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Squash",
+  "Bilard",
+  "Restauracja bufetowa",
+  "Bar przy basenie",
+  "Plac zabaw",
+  "Pokój gier",
+  "Aneks kuchenny w pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Los Cristianos",
+ "bars": 1,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.49,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Podróżujący samotnie",
+  "Osoby szukające niedrogiego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2009,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (dla 2 osób)",
+  "Apartament z jedną sypialnią (dla 2 dorosłych + 2 dzieci lub 3 dorosłych + 1 dziecko)",
+  "Apartament z widokiem na basen",
+  "Apartament Superior",
+  "Dwupokojowy apartament typu Suite"
+ ],
+ "rooms": 189,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0523376,
+  "lon": -16.7109798,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.ie",
+  "amimagazine.global",
+  "hghoteles.com",
+  "directbooking.ro",
+  "travelweekly.com",
+  "google.com.ng",
+  "tenerifehotelguide.com",
+  "holidaygems.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

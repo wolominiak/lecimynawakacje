@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:cordial mogan solaz",
+ "slug": "cordial-mogan-solaz",
+ "name": "Cordial Mogan Solaz",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Mogán"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/mogan/cordial-mogan-solaz/8090/6cfa072f06163dcab73d315f6fc95b8c_12-244.jpg",
+ "city": "Mogán",
+ "intro": [
+  "Cordial Mogan Solaz to kompleks nowo wybudowanych domów wakacyjnych, położony w malowniczym Puerto de Mogán na Gran Canarii, często nazywanym \"małą Wenecją\". Obiekt oferuje prywatność i przestronność apartamentów, jednocześnie zapewniając dostęp do bogatej infrastruktury sąsiedniego, siostrzanego Hotelu Cordial Mogán Playa.",
+  "Hotel jest idealnym wyborem dla rodzin z młodszymi dziećmi, par oraz osób ceniących sobie komfort i niezależność. Bliskość plaży, portu i centrum miejscowości sprawia, że jest to doskonała baza wypadowa do odkrywania uroków okolicy, a szeroki wachlarz udogodnień gwarantuje udany wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Cordial Mogan Solaz znajduje się w dzielnicy Lomo Quiebre, zaledwie około 300 metrów od plaży Mogán, charakteryzującej się drobnym, złotym piaskiem. W podobnej odległości, około 300 metrów, znajduje się urokliwy port w Mogán oraz centrum miejscowości. Najbliższe lotnisko Gran Canaria (LPA) oddalone jest o około 51-53 km."
+  },
+  {
+   "title": "Domy wakacyjne",
+   "text": "Obiekt składa się z 21 nowocześnie urządzonych domów wakacyjnych, oferujących jedną lub dwie sypialnie. Każdy apartament jest klimatyzowany i posiada w pełni wyposażoną kuchnię, salon z telewizją satelitarną oraz prywatną łazienkę. Większość domów dysponuje także tarasem lub dachem z prywatnym jacuzzi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście Cordial Mogan Solaz korzystają z rozbudowanej oferty gastronomicznej Hotelu Cordial Mogán Playa. Dostępna jest restauracja bufetowa Tamarona (śniadania i kolacje), a także ekskluzywna restauracja fine dining Los Guayres, wyróżniona gwiazdką Michelin. Na terenie kompleksu znajdują się również bary przy basenach, lobby bar oraz disco-bar. Hotel oferuje opcje wyżywienia ze śniadaniem (Bed & Breakfast) lub wyżywieniem częściowym (Halfpension)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa lub trzy baseny w Hotelu Cordial Mogán Playa, w tym baseny podgrzewane zimą i jacuzzi. Na terenie obiektu znajduje się również siłownia. Za dodatkową opłatą można skorzystać z kortów tenisowych, centrum nurkowego i rowerowego, a także z Inagua Spa & Wellness (wstęp od 18 lat). Bezpłatne WiFi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom z dziećmi, oferując specjalny basen dla dzieci (podgrzewany zimą), plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Dostępne są również dzienne i wieczorne animacje, które zapewniają rozrywkę najmłodszym gościom."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum Puerto de Mogán",
+  "Przestronne, dobrze wyposażone domy wakacyjne, często z prywatnym jacuzzi",
+  "Dostęp do bogatych udogodnień siostrzanego hotelu (baseny, restauracje, animacje, spa)",
+  "Wysoki standard obiektu i czystość",
+  "Przyjazny personel i chwalone śniadania"
+ ],
+ "cons": [
+  "Wolna obsługa napojów podczas kolacji i ograniczony wybór dań obiadowych (opinie gości)",
+  "Dodatkowe opłaty za niektóre udogodnienia (sejf, woda do kolacji, wstęp do spa)",
+  "Wymagany dress code (długie spodnie dla panów) na kolację w restauracjach siostrzanego hotelu",
+  "Plaża nie jest hotelowa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Mogán z drobnym, złotym piaskiem znajduje się około 300 metrów od hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 51-53 km od lotniska Gran Canaria (LPA)."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku, ale jedno ze zdjęć przedstawia basen ze zjeżdżalnią. Goście mają dostęp do basenów siostrzanego hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z młodszymi dziećmi, oferując basen dla dzieci, plac zabaw i mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "q": "Czy w hotelu jest spa?",
+   "a": "Tak, Inagua Spa & Wellness jest dostępne za dodatkową opłatą, wstęp od 18 lat."
+  }
+ ],
+ "address": "Calle La Puntilla 26-27, 35138 Puerto de Mogán, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 51,
+ "airportName": "Lotnisko Gran Canaria (LPA)",
+ "amenities": [
+  "Klimatyzacja",
+  "W pełni wyposażona kuchnia",
+  "Prywatna łazienka",
+  "Taras lub dach z jacuzzi (w większości apartamentów)",
+  "Telewizja satelitarna",
+  "Siłownia",
+  "WiFi"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Lomo Quiebre",
+ "bars": null,
+ "beachDistanceM": 300,
+ "beachType": "Plaża z drobnym, złotym piaskiem",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Rodziny z młodszymi dziećmi",
+  "Pary",
+  "Osoby ceniące prywatność i przestrzeń"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Domy wakacyjne z jedną sypialnią",
+  "Domy wakacyjne z dwiema sypialniami",
+  "1 Bedroom Classic Holiday Home",
+  "1 Bedroom Classic - Private Jacuzzi"
+ ],
+ "rooms": 21,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.8203794,
+  "lon": -15.7607366,
+  "src": "osm"
+ },
+ "sources": [
+  "becordial.com",
+  "cordialresortholidays.com",
+  "sunway.ie",
+  "jet2holidays.com",
+  "trip.com",
+  "yandex.ru",
+  "stayforrewards.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

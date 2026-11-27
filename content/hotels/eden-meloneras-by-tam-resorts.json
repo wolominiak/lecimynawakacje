@@ -1,0 +1,131 @@
+{
+ "id": "x:hiszpania:eden meloneras by tam resorts",
+ "slug": "eden-meloneras-by-tam-resorts",
+ "name": "Eden Meloneras By Tam Resorts",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Meloneras"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/meloneras/eden-meloneras-by-tam-resorts/53_amtses25p8_1084568.jpg",
+ "city": "Meloneras",
+ "intro": [
+  "Eden Meloneras By Tam Resorts to kameralny obiekt położony w Maspalomas, w dzielnicy Meloneras, na słonecznej Gran Canarii. Hotel, odnowiony w 2013 roku, oferuje 23 apartamenty rozmieszczone w trzypiętrowym budynku, otoczone zadbanym ogrodem z palmami.",
+  "Obiekt jest idealnym wyborem zarówno dla par, jak i rodzin poszukujących spokojnego wypoczynku blisko atrakcji. Bliskość słynnych wydm Maspalomas, latarni morskiej oraz piaszczystej plaży sprawia, że jest to doskonała baza do zwiedzania i relaksu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Eden Meloneras By Tam Resorts znajduje się w Maspalomas, w dzielnicy Meloneras, w odległości około 350 metrów od publicznej, piaszczystej plaży Maspalomas. Spacer do plaży zajmuje około 5 minut. W pobliżu hotelu znajdują się również słynne wydmy Maspalomas oraz latarnia morska Maspalomas. Centrum Maspalomas oddalone jest o około 1,4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje apartamenty z jedną lub dwiema sypialniami, wszystkie wyposażone w pełni funkcjonalne kuchnie z mikrofalówką, lodówką, piekarnikiem, czajnikiem i ekspresem do kawy. W każdym apartamencie znajduje się również część wypoczynkowa z sofą, telewizor z płaskim ekranem, sejf oraz prywatna łazienka z suszarką do włosów. Do dyspozycji gości jest także patio lub balkon. Klimatyzacja jest dostępna za dodatkową opłatą, a bezpłatne łóżeczka dziecięce są dostępne na życzenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden całoroczny basen zewnętrzny w stylu infinity, który jest podgrzewany zimą. Goście mogą korzystać z bezpłatnych leżaków przy basenie. Hotel oferuje również studio fitness/siłownię. W okolicy dostępne są dodatkowo płatne aktywności takie jak windsurfing, golf (w promieniu 3 km), solarium, wypożyczalnia rowerów, minigolf oraz piesze wycieczki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się bar, a apartamenty wyposażone są w pełni funkcjonalne kuchnie, co umożliwia samodzielne przygotowywanie posiłków. Hotel oferuje opcje wyżywienia takie jak śniadanie, obiad i kolacja, z możliwością rezerwacji z opcją częściowego (HB) lub pełnego wyżywienia (FB)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, pokój zabaw oraz miniklub. Na życzenie dostępne są bezpłatne łóżeczka dziecięce. W okolicy dostępne są również aktywności związane z parkiem wodnym, które mogą być dodatkowo płatne."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży, wydm i latarni morskiej",
+  "Spokojna atmosfera i zadbany ogród",
+  "Dobrze wyposażone apartamenty z kuchnią",
+  "Pomocna obsługa",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Dodatkowo płatna klimatyzacja",
+  "Płatny i ograniczony parking",
+  "Sporadyczne uwagi dotyczące czystości",
+  "Brak wygłuszenia w niektórych apartamentach",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel jest położony około 350 metrów od plaży Maspalomas, co odpowiada około 5 minutom spaceru."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Gran Canaria (LPA), oddalone o około 30 km. Czas dojazdu to około 30 minut samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnego aquaparku, ale w okolicy dostępne są aktywności związane z parkiem wodnym (mogą być dodatkowo płatne)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada plac zabaw, pokój zabaw oraz miniklub dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany zarówno dla par, jak i rodzin."
+  }
+ ],
+ "address": "Avenida Del Oasis, 3, 35100 Maspalomas, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "basen zewnętrzny",
+  "studio fitness/siłownia",
+  "Wi-Fi",
+  "plac zabaw",
+  "pokój zabaw",
+  "miniklub",
+  "bar"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Meloneras",
+ "bars": 1,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 1.4,
+ "goodFor": [
+  "pary",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2013,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (dla par): w pełni wyposażona kuchnia (mikrofalówka, lodówka, piekarnik, czajnik, ekspres do kawy, naczynia), sofa, część wypoczynkowa, telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z suszarką do włosów, patio lub balkon. Klimatyzacja za dodatkową opłatą.",
+  "Apartament z dwiema sypialniami (dla rodzin): w pełni wyposażona kuchnia (mikrofalówka, lodówka, piekarnik, czajnik, ekspres do kawy, naczynia), sofa, część wypoczynkowa, telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z suszarką do włosów, patio lub balkon. Klimatyzacja za dodatkową opłatą."
+ ],
+ "rooms": 23,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "guestreservations.com",
+  "tamresorts.com",
+  "hotels.com",
+  "holidaycheck.de",
+  "itaka.pl",
+  "tui.com",
+  "agoda.com",
+  "grancanariahotel24.com"
+ ],
+ "updated": "2026-11-27"
+}

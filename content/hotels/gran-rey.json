@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:gran rey",
+ "slug": "gran-rey",
+ "name": "Gran Rey",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "La Gomera"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/la-gomera/valle-gran-rey/gran-rey/9600/a9f4a5fcb1cb48e05d8569ebfbcfbffe__u1z3559-244.jpg",
+ "city": "Valle Gran Rey",
+ "intro": [
+  "Hotel Gran Rey to trzygwiazdkowy obiekt położony w malowniczej miejscowości Valle Gran Rey na wyspie La Gomera, bezpośrednio przy nadmorskiej promenadzie i plaży Playa de la Puntilla. Jest to idealne miejsce dla osób poszukujących spokojnego wypoczynku z dala od zgiełku masowej turystyki, oferujące komfortowe warunki i piękne widoki.",
+  "Obiekt jest przeznaczony wyłącznie dla osób dorosłych (minimalny wiek zameldowania to 18 lat), co czyni go doskonałym wyborem dla par oraz miłośników pieszych wędrówek, którzy docenią bliskość Parku Narodowego Garajonay i lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Gran Rey usytuowany jest w dzielnicy La Puntilla, zaledwie 30 metrów od naturalnej plaży Playa de la Puntilla z ciemnym, wulkanicznym piaskiem. W pobliżu znajdują się bardziej piaszczyste odcinki. Obiekt leży w sercu Valle Gran Rey, co zapewnia łatwy dostęp do restauracji, barów i sklepów. Port Vueltas oddalony jest o 1,5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 99 pokojami, które zostały odnowione w 2013 roku. Goście mogą wybierać spośród pokoi jedno- i dwuosobowych z widokiem na góry lub morze, a także przestronnych apartamentów typu Suite z widokiem na morze. Wszystkie pokoje wyposażone są w balkon lub taras, klimatyzację, telewizor z płaskim ekranem, bezpłatne Wi-Fi, łazienkę z suszarką do włosów oraz minibar."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, gdzie serwowane są śniadania z widokiem na morze oraz kolacje z daniami kuchni kanaryjskiej i międzynarodowej. Dodatkowo, na dachu obiektu mieści się restauracja à la carte \"La Pardela\". Do dyspozycji gości jest również bar przy basenie. Hotel oferuje opcje ze śniadaniem lub niepełnym wyżywieniem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Gran Rey oferuje dwa odkryte baseny, w tym jeden na dachu z panoramicznym widokiem na ocean i dolinę. Hotel posiada również siłownię/centrum fitness oraz kort tenisowy. Bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Gran Rey jest polecany dla osób dorosłych szukających spokoju i relaksu, z dala od zgiełku. To idealne miejsce dla par, miłośników pieszych wędrówek oraz tych, którzy cenią sobie bliskość plaży i lokalnych atrakcji. Bliskość Parku Narodowego Garajonay stanowi dodatkowy atut dla aktywnych turystów."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Spokojna atmosfera, idealna do relaksu",
+  "Przyjazny i profesjonalny personel",
+  "Piękne widoki z basenu na dachu",
+  "Dobre śniadania i ogólna jakość jedzenia"
+ ],
+ "cons": [
+  "Ograniczona różnorodność dań podczas kolacji",
+  "Mały parking",
+  "Brak informacji o leżakach i ręcznikach na plaży",
+  "Brak rozbudowanych animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Gran Rey znajduje się zaledwie 30 metrów od plaży Playa de la Puntilla."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel jest przeznaczony wyłącznie dla osób dorosłych, minimalny wiek zameldowania to 18 lat."
+  },
+  {
+   "q": "Jak daleko jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko La Gomera (GMZ) znajduje się około 45 km od hotelu (około 45 minut jazdy)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel ma dwa odkryte baseny, w tym jeden na dachu z widokiem na ocean i dolinę."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla osób dorosłych (minimalny wiek zameldowania to 18 lat)."
+  }
+ ],
+ "address": "Avenida Marítima, Nº1, 38870 Valle Gran Rey, La Gomera, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 45,
+ "airportName": "La Gomera (GMZ)",
+ "amenities": [
+  "Siłownia",
+  "Kort tenisowy",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "La Puntilla",
+ "bars": 1,
+ "beachDistanceM": 30,
+ "beachType": "naturalna, z ciemnym, wulkanicznym piaskiem",
+ "centerKm": 0,
+ "goodFor": [
+  "Osoby szukające spokoju",
+  "Pary",
+  "Miłośnicy pieszych wędrówek",
+  "Osoby ceniące życie plażowe",
+  "Osoby ceniące lokalne atrakcje"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1996,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2013,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy z widokiem na góry (balkon/taras, klimatyzacja, TV, telefon, Wi-Fi, łazienka, sejf, minibar)",
+  "Pokój jednoosobowy z widokiem na morze (balkon/taras, klimatyzacja, TV, telefon, Wi-Fi, łazienka, sejf, minibar)",
+  "Pokój dwuosobowy typu Twin z widokiem na góry (balkon/taras, klimatyzacja, TV, telefon, Wi-Fi, łazienka, sejf, minibar)",
+  "Pokój dwuosobowy typu Twin z widokiem na morze (balkon/taras, klimatyzacja, TV, telefon, Wi-Fi, łazienka, sejf, minibar)",
+  "Pokój dwuosobowy (Double Room) (balkon/taras, klimatyzacja, TV, telefon, Wi-Fi, łazienka, sejf, minibar)",
+  "Apartament typu Suite z widokiem na morze (większa przestrzeń, strefa relaksu, balkon/taras, klimatyzacja, TV, telefon, Wi-Fi, łazienka, sejf, minibar)"
+ ],
+ "rooms": 99,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0891,
+  "lon": -17.3388176,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelgranrey.es",
+  "agoda.com",
+  "booking.com",
+  "h-rez.com",
+  "thehotelguru.com",
+  "gomeralive.de",
+  "tui.co.uk",
+  "cachet-travel.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

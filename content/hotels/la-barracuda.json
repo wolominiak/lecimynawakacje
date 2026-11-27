@@ -1,0 +1,136 @@
+{
+ "id": 12023,
+ "slug": "la-barracuda",
+ "name": "La Barracuda",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa del Sol",
+  "Torremolinos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/la-barracuda-basen-826726132-570-428.jpg",
+ "city": "Torremolinos",
+ "intro": [
+  "Hotel La Barracuda to trzygwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży La Carihuela w Torremolinos, na słonecznym wybrzeżu Costa del Sol. Jest to idealne miejsce dla osób ceniących sobie bliskość morza i spokojne wody, doskonałe do relaksującego wypoczynku.",
+  "Hotel, otwarty w 1975 roku, jest rekomendowany dla rodzin, par i przyjaciół, którzy szukają nadmorskiego pobytu z dostępem do udogodnień i animacji, szczególnie w sezonie letnim. Oferuje duży ogród i widoki na morze z wielu pokoi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel La Barracuda znajduje się w dzielnicy Carihuela, bezpośrednio przy publicznej plaży La Carihuela, charakteryzującej się ciemnym, piaszczystym brzegiem i płytkimi wodami. Do centrum Torremolinos jest około 2,2-3 km. Lotnisko w Maladze (AGP) oddalone jest o około 10 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 227 lub 234 pokojami, w tym dwuosobowymi, jednoosobowymi i trzyosobowymi, a także Junior Suite z tarasem. Większość pokoi posiada balkon oraz widok na morze lub basen. Standardowe wyposażenie obejmuje klimatyzację, telewizor z kanałami satelitarnymi, bezpłatne Wi-Fi, sejf, biurko oraz prywatną łazienkę z wanną/prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z restauracji bufetowej serwującej dania kuchni śródziemnomorskiej i międzynarodowej, a także restauracji à la carte. Na terenie hotelu znajdują się trzy bary: bar przy basenie, bar w salonie z muzyką na żywo oraz bar na dachu z widokiem na morze, otwarty dla wszystkich gości."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen ze słodką wodą, sezonowo dostępna duża zjeżdżalnia wodna oraz plac zabaw dla dzieci. W sezonie letnim hotel oferuje animacje dla dzieci i dorosłych, w tym zajęcia sportowe takie jak aquagym, pilates, joga, tenis stołowy, piłka nożna, waterpolo, łucznictwo i petanka. Wieczorami organizowane są występy, w tym muzyka na żywo i flamenco."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja bezpośrednio przy plaży",
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje i dobre widoki",
+  "Bezpłatne Wi-Fi w pokojach i częściach wspólnych",
+  "Animacje dla dzieci i dorosłych w sezonie letnim"
+ ],
+ "cons": [
+  "Pokoje mogą być podstawowe i wymagać odświeżenia",
+  "Ograniczony wybór owoców i jogurtów na śniadanie",
+  "Basen szybko się zapełnia, a leżaki są zajmowane ręcznikami",
+  "Brak bezpłatnego pobytu dla dzieci (możliwe dodatkowe opłaty)",
+  "Ograniczony program animacji poza sezonem letnim"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel La Barracuda znajduje się bezpośrednio przy piaszczystej plaży La Carihuela."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 10 km od lotniska w Maladze (AGP), co zajmuje około 15 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Hotel posiada dużą zjeżdżalnię wodną, dostępną w sezonie letnim raz w tygodniu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje plac zabaw i animacje dla dzieci w sezonie letnim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Jak daleko jest do centrum Torremolinos?",
+   "a": "Hotel jest położony około 2,2 km do 3 km od centrum Torremolinos."
+  }
+ ],
+ "address": "Avenida de España 1, Torremolinos",
+ "adultsOnly": false,
+ "airportKm": 10,
+ "airportName": "Malaga Airport-AGP",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon (w większości pokoi)",
+  "Telewizor z kanałami satelitarnymi",
+  "Sejf",
+  "Lodówka/minilodówka",
+  "Suszarka do włosów",
+  "Biurko"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Carihuela",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta z ciemnym piaskiem",
+ "centerKm": 2.2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Przyjaciele",
+  "Miłośnicy plażowania"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1975,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2002,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe/typu twin (z widokiem na basen/morze)",
+  "Pokoje jednoosobowe (z widokiem na basen)",
+  "Pokoje trzyosobowe (z widokiem na basen, z 3 łóżkami)",
+  "Pokoje ekonomiczne dwuosobowe",
+  "Junior Suite z tarasem"
+ ],
+ "rooms": 234,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.6029929,
+  "lon": -4.5087472,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "mapcarta.com",
+  "torremolinoshotels.info",
+  "torremolinosahotel.com",
+  "booking.com",
+  "h-rez.com",
+  "wakacje.pl",
+  "hotellabarracuda.com"
+ ],
+ "updated": "2026-11-27"
+}
