@@ -1,0 +1,132 @@
+{
+ "id": 17617,
+ "slug": "latania-apartamenty",
+ "name": "Latania Apartamenty",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Stalida"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/latania-apartamenty-budynek-glowny-obiekt-1620185103-570-428.jpg",
+ "city": "Stalida",
+ "intro": [
+  "Latania Apartamenty to kompleks hotelowy położony w centrum popularnego kurortu Stalida na Krecie, idealny dla osób ceniących sobie niezależność i bliskość lokalnych atrakcji. Obiekt oferuje studia i apartamenty z aneksem kuchennym, co sprawia, że jest doskonałym wyborem dla rodzin, par oraz wszystkich, którzy preferują samodzielne przygotowywanie posiłków.",
+  "Hotel wyróżnia się dogodną lokalizacją, zaledwie kilka kroków od piaszczystej plaży Stalis Beach, co czyni go atrakcyjnym miejscem dla miłośników słońca i morskich kąpieli. Spokojna atmosfera i udogodnienia dla dzieci sprawiają, że to także dobra opcja na relaksujące wakacje z rodziną."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Latania Apartamenty usytuowane są w sercu kurortu Stalida, przy ulicy Beach Road Agiou Ioannou. Zaledwie 30-100 metrów dzieli hotel od piaszczystej plaży Stalis Beach, do której można dojść w 2-4 minuty. W okolicy znajdują się liczne bary, restauracje i sklepy. Najbliższe lotnisko w Heraklionie (HER) oddalone jest o około 27-30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Kompleks oferuje 44 studia i apartamenty, rozmieszczone w pięciu budynkach. Dostępne są studia dla 2-4 osób oraz apartamenty z oddzielną sypialnią dla 4-5 osób, w tym studia rodzinne. Wszystkie pokoje wyposażone są w aneks kuchenny, lodówkę, telewizor, balkon lub taras, a także prywatną łazienkę. Klimatyzacja i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen, przy którym dostępne są bezpłatne leżaki i parasole. Dla dzieci przygotowano brodzik oraz plac zabaw. Hotel nie posiada aquaparku ani zjeżdżalni, jednak w odległości około 5 minut jazdy samochodem znajduje się park wodny Star Beach Water Park. Dostępne są również gry w salonie gier oraz bilard."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Latania Apartamenty oferuje zakwaterowanie w opcji \"bed and breakfast\", z możliwością samodzielnego wyżywienia dzięki aneksom kuchennym w pokojach. Na terenie obiektu znajduje się restauracja à la carte, bar przekąskowy (sezonowy), kawiarnia, bar przy basenie oraz bar/lounge."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik oraz plac zabaw. Dostępny jest również codzienny program zajęć dla dzieci. Na życzenie można otrzymać łóżeczko dziecięce, co czyni obiekt odpowiednim dla rodzin z małymi dziećmi."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja w centrum kurortu, blisko plaży",
+  "Przyjazna i pomocna obsługa",
+  "Czyste i przestronne pokoje z aneksem kuchennym",
+  "Dobry stosunek jakości do ceny",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Klimatyzacja i sejf dodatkowo płatne",
+  "Basen niepodgrzewany (może być zimny poza sezonem)",
+  "Ograniczona liczba leżaków przy basenie w szczycie sezonu",
+  "Niektóre pokoje w aneksie, oddalone od głównego kompleksu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Stalis Beach znajduje się bardzo blisko, od 30 do 100 metrów od hotelu, co oznacza 2-4 minuty spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko w Heraklionie (HER), oddalone jest o około 27-30 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Najbliższy park wodny Star Beach Water Park znajduje się około 5 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje brodzik dla dzieci, plac zabaw oraz codzienny program zajęć dla najmłodszych."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. Wi-Fi w pokojach może być dodatkowo płatne."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel Latania Apartamenty oferuje opcję \"bed and breakfast\" i jest aparthotelem z możliwością samodzielnego wyżywienia. Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Beach Road Agiou Ioannou 33, Stalida 70007, Grecja",
+ "adultsOnly": false,
+ "airportKm": 27,
+ "airportName": "Międzynarodowe Lotnisko w Heraklionie (HER)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Brodzik dla dzieci",
+  "Plac zabaw dla dzieci",
+  "Bilard",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum kurortu Stalida",
+ "bars": 4,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające relaksu i słońca",
+  "Osoby szukające niedrogiego pobytu",
+  "Osoby preferujące samodzielne wyżywienie"
+ ],
+ "gym": null,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (dla 2-4 osób) z aneksem kuchennym, lodówką, kuchenką mikrofalową, czajnikiem, TV, sejfem (płatnym), balkonem/tarasem, łazienką z prysznicem/wanną, suszarką do włosów, telefonem, zasłonami zaciemniającymi.",
+  "Apartament z oddzielną sypialnią (dla 4-5 osób) z aneksem kuchennym, lodówką, kuchenką mikrofalową, czajnikiem, TV, sejfem (płatnym), balkonem/tarasem, łazienką z prysznicem/wanną, suszarką do włosów, telefonem, zasłonami zaciemniającymi.",
+  "Studio rodzinne z aneksem kuchennym, lodówką, kuchenką mikrofalową, czajnikiem, TV, sejfem (płatnym), balkonem/tarasem, łazienką z prysznicem/wanną, suszarką do włosów, telefonem, zasłonami zaciemniającymi."
+ ],
+ "rooms": 44,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "loveholidays.com",
+  "booking.com",
+  "thomascook.com",
+  "onthebeach.ie",
+  "lataniacretehotel.com",
+  "trivago.co.uk",
+  "youtube.com",
+  "skyscanner.es"
+ ],
+ "updated": "2026-11-27"
+}

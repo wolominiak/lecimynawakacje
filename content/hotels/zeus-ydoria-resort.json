@@ -1,0 +1,135 @@
+{
+ "id": 10556,
+ "slug": "zeus-ydoria-resort",
+ "name": "Zeus Ydoria Resort",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Adelianos Kampos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/zeus-ydoria-resort-basen-budynek-glowny-obiekt-1808868377-570-428.jpg",
+ "city": "Adelianos Kampos",
+ "intro": [
+  "Zeus Ydoria Resort to czterogwiazdkowy hotel położony w miejscowości Adelianos Kampos na Krecie, w regionie Rethymno. Obiekt, zbudowany w 1996 roku i częściowo odnowiony w 2025 roku, oferuje komfortowe warunki pobytu w odnowionej recepcji i jadalni.",
+  "Hotel jest idealnym miejscem zarówno dla rodzin z dziećmi, par, jak i osób poszukujących relaksującego wypoczynku. Dzięki bliskości plaży, licznym basenom, bogatej ofercie gastronomicznej oraz animacjom dla wszystkich grup wiekowych, Zeus Ydoria Resort zapewnia kompleksowe doświadczenie wakacyjne."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Zeus Ydoria Resort znajduje się w Adelianos Kampos, zaledwie około 200-300 metrów (2-8 minut spacerem) od plaży. Plaża jest piaszczysto-żwirowa, z wejściem do morza z kamiennej platformy i kamyków. Leżaki i parasole są dostępne, często za dodatkową opłatą. Do centrum Adelianos Kampos jest około 291 metrów, a do Rethymno około 6 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 190 pokojami, które posiadają balkony lub tarasy. W ofercie znajdują się pokoje standardowe, superior, rodzinne, a także opcje z prywatnym basenem. Każdy pokój wyposażony jest w klimatyzację, telewizor, bezpłatne Wi-Fi, mini-lodówkę, czajnik oraz zestaw do parzenia kawy i herbaty. W łazience znajduje się prysznic lub wanna oraz suszarka do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni międzynarodowej, śródziemnomorskiej i greckiej, z pokazami gotowania i wieczorami tematycznymi. Dostępne są opcje wegetariańskie i dla dzieci. Na terenie obiektu znajdują się również dwa bary przy basenie. Pakiet All Inclusive obejmuje śniadania, obiady, kolacje, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe do godziny 23:00 lub 24:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje cztery baseny, w tym sezonowe baseny zewnętrzne, jeden basen kryty oraz brodzik dla dzieci. Jeden z basenów wyposażony jest w zjeżdżalnie. Dla dorosłych i dzieci organizowane są dzienne i wieczorne animacje, w tym gimnastyka w wodzie, water polo, rzutki, boule, tenis stołowy, quizy, bingo, tańce i mini disco. Dostępne są również siłownia, spa (masaże, sauna, zabiegi kosmetyczne - płatne) oraz tenis stołowy (bezpłatnie)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz mini klub z nadzorowanymi zajęciami. Dostępny jest również brodzik. Wieczorne mini disco zapewnia dodatkową rozrywkę dla dzieci."
+  }
+ ],
+ "pros": [
+  "Przyjazna i pomocna obsługa",
+  "Czyste udogodnienia i przyjemne baseny",
+  "Urozmaicone i smaczne jedzenie",
+  "Bogate animacje dla dzieci i dorosłych",
+  "Dobra lokalizacja blisko plaży i sklepów",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Niektóre starsze sekcje mogą wymagać odświeżenia",
+  "Pokoje mogą być podstawowo wyposażone",
+  "Ograniczone zajęcia w deszczową pogodę",
+  "Możliwość zatłoczenia w szczycie sezonu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 200-300 metrów od plaży, co odpowiada 2-8 minutom spaceru."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Lotnisko Heraklion (HER), oddalone o około 72-75 km, oraz Lotnisko Chania (CHQ), oddalone o około 77 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, jeden z basenów hotelowych jest wyposażony w zjeżdżalnie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując brodzik, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Adelianos Kambos, GR 74150, Kreta, Grecja",
+ "adultsOnly": false,
+ "airportKm": 72,
+ "airportName": "Heraklion (HER)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Bilard",
+  "Aerobik"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Adelianos Kampos",
+ "bars": 3,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.291,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1996,
+ "pools": 4,
+ "privateBeach": null,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standardowe pokoje dwuosobowe",
+  "Pokoje dwuosobowe superior",
+  "Pokoje rodzinne",
+  "Pokoje dwuosobowe superior z prywatnym basenem",
+  "Pokoje rodzinne superior z 2 sypialniami",
+  "Pokoje rodzinne superior z prywatnym basenem",
+  "Pokoje rodzinne superior z 2 sypialniami i prywatnym basenem"
+ ],
+ "rooms": 190,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "planetofhotels.com",
+  "zeushotels.gr",
+  "giatadrive.com",
+  "kayak.com",
+  "easemytrip.com",
+  "skytravel.jp",
+  "trip.com",
+  "grhotels.gr"
+ ],
+ "updated": "2026-11-27"
+}

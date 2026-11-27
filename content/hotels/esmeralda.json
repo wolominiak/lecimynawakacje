@@ -1,0 +1,135 @@
+{
+ "id": 10967,
+ "slug": "esmeralda",
+ "name": "Esmeralda",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos",
+  "Kremasti"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/esmeralda-basen-1580693187-570-428.jpg",
+ "city": "Kremasti",
+ "intro": [
+  "Hotel Esmeralda to trzygwiazdkowy aparthotel położony w miejscowości Kremasti na Rodos, oferujący kameralną atmosferę i grecką gościnność. Obiekt jest idealnym wyborem dla rodzin i par szukających spokojnego wypoczynku w pobliżu lokalnych atrakcji.",
+  "Hotel jest dogodnie usytuowany, zaledwie 5 minut spacerem od centrum Kremasti i około 2-7 km od lotniska. Oferuje komfortowe zakwaterowanie z aneksem kuchennym, co jest atutem dla osób preferujących samodzielne przygotowywanie posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Esmeralda znajduje się w Kremasti, około 5 minut spacerem od centrum miejscowości. Najbliższa plaża żwirowa oddalona jest o około 15 minut spacerem (1-1.2 km), choć niektóre źródła podają 0.35 km. Przystanek autobusowy znajduje się tuż przy hotelu, co ułatwia podróżowanie po wyspie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 21 pokoi, w tym pokoje dwuosobowe, rodzinne i apartamenty z dwiema sypialniami. Wszystkie pokoje są dźwiękoszczelne i wyposażone w klimatyzację (często za dopłatą), prywatną łazienkę, telewizor oraz aneks kuchenny z podstawowym sprzętem. Każdy pokój posiada również balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Esmeralda znajduje się jedna restauracja serwująca dania kuchni greckiej oraz bar/lounge i bar przy basenie. Hotel nie oferuje pakietu all inclusive, a goście mogą korzystać z opcji wyżywienia takich jak śniadania (często za dopłatą) oraz posiłki a la carte."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden sezonowy odkryty basen oraz wydzielony basen dla dzieci. Hotel oferuje również bilard i rzutki. W okolicy można zorganizować nurkowanie, piesze wycieczki i jazdę konną, a także wypożyczyć rowery i samochody."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i miejscach publicznych. Goście mogą skorzystać ze zniżki w pobliskim centrum fitness. Na terenie obiektu dostępny jest sejf (często za dopłatą) oraz żelazko i deska do prasowania."
+  }
+ ],
+ "pros": [
+  "Przyjazna, rodzinna atmosfera",
+  "Wysoka czystość",
+  "Dobra kuchnia (domowe greckie jedzenie)",
+  "Dogodna lokalizacja blisko centrum i przystanku autobusowego",
+  "Pomocna obsługa"
+ ],
+ "cons": [
+  "Basen położony blisko ruchliwej drogi",
+  "Mały basen ze stromym i śliskim wejściem",
+  "Klimatyzacja i sejf często za dodatkową opłatą",
+  "Brak widoku na morze",
+  "Brak pakietu all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Esmeralda od plaży?",
+   "a": "Hotel Esmeralda jest oddalony o około 15 minut spacerem (1-1.2 km) od plaży żwirowej. Niektóre źródła podają odległość 0.35 km."
+  },
+  {
+   "q": "Czy hotel Esmeralda oferuje pakiety all inclusive?",
+   "a": "Nie, hotel Esmeralda nie oferuje pakietu all inclusive. Dostępne są opcje wyżywienia takie jak śniadania (często za dopłatą), obiady i kolacje a la carte."
+  },
+  {
+   "q": "Czy hotel Esmeralda jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Esmeralda jest przyjazny rodzinom (family-friendly) i posiada basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu Esmeralda jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Esmeralda jest położony około 2 km do 7 km od Międzynarodowego Lotniska Rodos \"Diagoras\" (RHO), co oznacza około 5-10 minut dojazdu samochodem."
+  },
+  {
+   "q": "Czy w hotelu Esmeralda jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  }
+ ],
+ "address": "Leof. Eleftherias 30, Kremasti 851 04, Grecja",
+ "adultsOnly": false,
+ "airportKm": 2,
+ "airportName": "Rodos \"Diagoras\" (RHO)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Aneks kuchenny w pokojach",
+  "Wypożyczalnia rowerów i samochodów",
+  "Bilard",
+  "Rzutki"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Kremasti",
+ "bars": 2,
+ "beachDistanceM": 1000,
+ "beachType": "Żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1992,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe",
+  "Apartamenty (Suite z 2 sypialniami)",
+  "Pokoje rodzinne (Family Standard Room)"
+ ],
+ "rooms": 21,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4129737,
+  "lon": 28.123971,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "easyjet.com",
+  "grhotels.gr",
+  "google.com.gi",
+  "google.com",
+  "onthebeach.co.uk",
+  "reserving.com",
+  "teletextholidays.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

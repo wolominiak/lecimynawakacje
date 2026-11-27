@@ -1,0 +1,134 @@
+{
+ "id": 7531,
+ "slug": "esperides-limenas",
+ "name": "Esperides (Limenas)",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Thassos",
+  "Limenas"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/esperides-limenas-plaza-obiekt-1729047175-570-428.jpg",
+ "city": "Limenas",
+ "intro": [
+  "Hotel Esperides (Limenas) to odnowiony obiekt położony w Limenas, na wyspie Thassos, w malowniczej zatoce Papalimani, otoczony lasem sosnowym. Oferuje spokojny wypoczynek w otoczeniu bujnego ogrodu, jednocześnie zapewniając łatwy dostęp do centrum miasta.",
+  "Hotel jest idealnym wyborem dla rodzin oraz osób poszukujących relaksu w cichej okolicy, z prywatną plażą i możliwością szybkiego dotarcia do głównych atrakcji wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w miejscowości Limenas (Thassos), w obszarze Glikadi, przy zatoce Papalimani, około 3-5 km od centrum miasta. Posiada własną, prywatną, piaszczystą plażę z naturalnym cieniem i stopniowym zejściem do morza. Leżaki i parasole są bezpłatne dla gości, a ręczniki plażowe dostępne na życzenie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 50 jednostek zakwaterowania, w tym pokoje standardowe, klasyczne, z widokiem na morze, junior suity oraz apartamenty executive i rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, telewizor LCD, minibar/lodówkę, sejf, suszarkę do włosów oraz prywatny balkon. Łazienki posiadają prysznice."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, bar, bar przy basenie oraz snack bar. Oferowane jest zakwaterowanie ze śniadaniem w formie bufetu, serwowanym od 07:00 do 11:00. Hotel promuje koncepcję \"cusina povera\", skupiającą się na autentycznych greckich smakach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest zewnętrzny basen. Hotel oferuje również usługi masażu. Aktywności dostępne na miejscu to nurkowanie, wędkarstwo oraz wycieczki związane z lokalną kulturą."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Esperides (Limenas) jest szczególnie polecany dla rodzin oraz osób szukających cichego i spokojnego wypoczynku. Bliskość centrum Limenas sprawia, że jest to również dobra baza wypadowa do zwiedzania wyspy."
+  }
+ ],
+ "pros": [
+  "Cicha i spokojna okolica",
+  "Prywatna, piaszczysta plaża hotelowa z bezpłatnymi leżakami",
+  "Bliskość centrum Limenas",
+  "Czyste pokoje i wygodne łóżka",
+  "Uprzejmy i pomocny personel"
+ ],
+ "cons": [
+  "Śniadanie bywa oceniane jako \"trochę słabe\"",
+  "Brak aquaparku i animacji",
+  "Brak siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy własnej, prywatnej plaży."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Kawali (KVA). Jest ono oddalone o 17 km od portu w Keramoti, skąd kursują promy na Thassos."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby, przy recepcji, wokół basenu, w barze oraz w pokojach."
+  },
+  {
+   "q": "Jak daleko jest do centrum Limenas?",
+   "a": "Hotel znajduje się około 3-5 km od centrum Limenas, co odpowiada 2-3 minutom jazdy samochodem."
+  }
+ ],
+ "address": "4 km Limena-Prinos, 640 04 Limenas Thassou, Grecja",
+ "adultsOnly": false,
+ "airportKm": null,
+ "airportName": "Międzynarodowe Lotnisko w Kawali (KVA)",
+ "amenities": [
+  "masaże",
+  "nurkowanie",
+  "wędkarstwo",
+  "wycieczki kulturalne"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Glikadi, zatoka Papalimani",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta z kamykami",
+ "centerKm": 4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "spokojny wypoczynek"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (20m²)",
+  "pokój klasyczny",
+  "pokój z widokiem na morze",
+  "junior suita (30m²)",
+  "apartament executive (40m²)",
+  "apartament rodzinny z dwiema sypialniami"
+ ],
+ "rooms": 50,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.0056357,
+  "lon": 25.5862954,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "reserve-online.net",
+  "esperides-thassos.com",
+  "secretsedition.com",
+  "agoda.com",
+  "grckainfo.com",
+  "etabooking.net",
+  "nikana.gr"
+ ],
+ "updated": "2026-11-27"
+}

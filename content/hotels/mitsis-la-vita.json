@@ -1,0 +1,130 @@
+{
+ "id": 11373,
+ "slug": "mitsis-la-vita",
+ "name": "Mitsis La Vita",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/mitsis-la-vita-teren-hotelu-obiekt-1581108921-570-428.jpg",
+ "city": "Rodos",
+ "intro": [
+  "Mitsis La Vita to czterogwiazdkowy hotel położony w centrum miasta Rodos, idealny dla osób pragnących połączyć relaks nad morzem ze zwiedzaniem i korzystaniem z miejskich atrakcji. Jego lokalizacja tuż obok akwarium i nowej promenady sprawia, że jest doskonałą bazą wypadową do odkrywania uroków wyspy.",
+  "Obiekt jest odpowiedni zarówno dla par, rodzin z dziećmi, jak i podróżujących służbowo czy grup przyjaciół. Hotel oferuje komfortowe zakwaterowanie i szereg udogodnień, zapewniając przyjemny pobyt w sercu tętniącego życiem miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mitsis La Vita znajduje się w centrum miasta Rodos, przy ulicy Papanikolaou, zaledwie około 50 metrów od publicznej plaży Elli. Plaża ta, składająca się z piasku i kamyków/żwiru, oferuje leżaki i parasole za dodatkową opłatą. Hotel jest również dogodnie położony około 500 metrów od głównej dzielnicy handlowej i 1,5 km od Starego Miasta."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 126 pokojami, które zostały niedawno odnowione. Dostępne są różne typy pokoi, w tym z widokiem na morze lub bocznym widokiem na morze, niektóre z balkonem. Wszystkie pokoje wyposażone są w klimatyzację, łazienkę, suszarkę do włosów, minilodówkę, telewizor, sejf, zestaw do parzenia kawy/herbaty oraz bezpłatne WiFi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słoną wodą oraz oddzielny brodzik ze słoną wodą dla dzieci. Goście mogą korzystać z centrum fitness, a także z udogodnień spa w siostrzanym hotelu Mitsis Petit Palais (za dodatkową opłatą). Okazjonalnie organizowane są wieczorne rozrywki z muzyką na żywo (sezonowo, od czerwca do października)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Mitsis La Vita serwowane są śniadania w formie bufetu w restauracji głównej. Kolacje w formie bufetu podawane są w restauracji siostrzanego hotelu Mitsis Petit Palais, oddalonego o około 150 metrów. W lobby hotelu działa bar, oferujący różnorodne napoje i koktajle. Hotel oferuje wyżywienie w opcji Bed & Breakfast lub Half Board."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Rodos, blisko plaży i atrakcji.",
+  "Przyjazny i pomocny personel.",
+  "Czystość w całym obiekcie.",
+  "Dobre śniadania w formie bufetu.",
+  "Bezpłatne WiFi dostępne w całym hotelu."
+ ],
+ "cons": [
+  "Basen bywa opisywany jako mały.",
+  "Kolacje serwowane są w siostrzanym hotelu i otrzymują mieszane recenzje.",
+  "W pobliżu mogą trwać prace budowlane.",
+  "Niektóre pokoje mogą wymagać odświeżenia."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Mitsis La Vita jest położony około 50 metrów od publicznej plaży Elli."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 15 km od Międzynarodowego Lotniska Rodos (Diagoras, RHO)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen ze słoną wodą i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje m.in. brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w całym obiekcie dostępne jest bezpłatne WiFi."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Nie, hotel oferuje opcje wyżywienia Bed & Breakfast (śniadania) oraz Half Board (śniadania i kolacje)."
+  }
+ ],
+ "address": "28 Papanikolaou str., 85100 Rodos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Międzynarodowe Lotnisko Rodos (Diagoras, RHO)",
+ "amenities": [
+  "centrum fitness",
+  "bezpłatne WiFi",
+  "ręczniki basenowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum miasta Rodos",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "podróżujący służbowo",
+  "rodziny z dziećmi",
+  "przyjaciele",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Single Side Sea View",
+  "Twin Sea View",
+  "Twin Side Sea View",
+  "Twin Sea View with Balcony",
+  "Twin Side Sea View with Balcony"
+ ],
+ "rooms": 126,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.45385,
+  "lon": 28.2193703,
+  "src": "osm"
+ },
+ "sources": [
+  "mitsis.com",
+  "onthebeach.co.uk",
+  "thomascook.com",
+  "booking.com",
+  "loveholidays.com",
+  "google.com.gi",
+  "grecomap.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

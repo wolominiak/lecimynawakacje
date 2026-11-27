@@ -1,0 +1,122 @@
+{
+ "id": 26786,
+ "slug": "royal-apart-hotel",
+ "name": "Royal Apart Hotel",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/royal-apart-hotel-balkon-taras-1617560411-570-428.jpg",
+ "city": "Rodos",
+ "intro": [
+  "Royal Apart Hotel to dwugwiazdkowy obiekt położony w sercu Rodos, idealny dla osób ceniących sobie bliskość miejskich atrakcji. Znajduje się w handlowej dzielnicy, przy spokojnej ulicy dla pieszych, co zapewnia łatwy dostęp do sklepów, restauracji i zabytków.",
+  "Hotel jest doskonałą bazą wypadową dla par i rodzin, które planują intensywne zwiedzanie miasta i okolic. Oferuje komfortowe apartamenty z aneksami kuchennymi oraz pokoje hotelowe, co pozwala na elastyczne planowanie wyżywienia i pobytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Royal Apart Hotel mieści się w centrum miasta Rodos, przy cichej ulicy dla pieszych w dzielnicy handlowej. W odległości około 5 minut spacerem (400-700 metrów) znajduje się plaża Elli Beach. W pobliżu dostępne są również plaże Paralia Enidriou (800m) i Sachtouri Beach (2km)."
+  },
+  {
+   "title": "Pokoje i apartamenty",
+   "text": "Hotel oferuje łącznie 39 jednostek mieszkalnych, w tym 18 przestronnych apartamentów i 21 komfortowych pokoi, rozmieszczonych na 4 piętrach. Wszystkie apartamenty są w pełni umeblowane i wyposażone w podwójne łóżko, sofę, prywatną łazienkę, stół jadalny, telewizor, mini lodówkę, aneks kuchenny, kuchenkę mikrofalową, klimatyzację, telefon i balkon. Pokoje hotelowe posiadają podwójne lub dwa pojedyncze łóżka, prywatną łazienkę, telewizor, telefon i mini lodówkę. W łazienkach dostępne są suszarki do włosów."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Na terenie hotelu znajduje się kawiarnia. Ze względu na wyposażenie apartamentów w aneksy kuchenne, goście mają możliwość samodzielnego przygotowywania posiłków. W bezpośredniej okolicy hotelu znajduje się wiele barów, tawern i restauracji, oferujących szeroki wybór lokalnych i międzynarodowych dań."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach/apartamentach oraz w pomieszczeniach ogólnodostępnych. Dostępne są również usługi opieki nad dziećmi, co czyni go odpowiednim wyborem dla rodzin. W okolicy można skorzystać z nurkowania."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w mieście Rodos",
+  "Bliskość plaż i Starego Miasta",
+  "Czystość i pomocna obsługa",
+  "Dobre Wi-Fi",
+  "Dobra baza wypadowa do zwiedzania"
+ ],
+ "cons": [
+  "Może być głośno w sobotnie wieczory",
+  "Meblownictwo może być nieco przestarzałe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Elli Beach jest oddalona o około 5 minut spacerem (400-700 metrów) od hotelu."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Rodos-Diagoras (RHO) znajduje się około 13 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub basen?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje pokoje rodzinne i usługi opieki nad dziećmi (za dodatkową opłatą), co czyni go odpowiednim dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi we wszystkich pokojach/apartamentach oraz w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Apartamenty wyposażone są w aneksy kuchenne, co sugeruje opcję samodzielnego wyżywienia."
+  }
+ ],
+ "address": "Grigoriou Lambraki 50 & Sofokli Venizelou, Rodos 85100, Grecja",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Międzynarodowy Port Lotniczy Rodos-Diagoras",
+ "amenities": [
+  "wifi",
+  "opieka nad dziećmi (płatna)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "centrum miasta Rodos, dzielnica handlowa",
+ "bars": null,
+ "beachDistanceM": 400,
+ "beachType": "publiczna plaża miejska",
+ "centerKm": 0,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament: w pełni umeblowany, podwójne łóżko, sofa/pojedyncze łóżko, prywatna łazienka, stół jadalny, telewizor, mini lodówka, aneks kuchenny, kuchenka mikrofalowa, klimatyzacja, telefon, balkon.",
+  "Pokój hotelowy: jedno podwójne lub dwa pojedyncze łóżka, prywatna łazienka, telewizor, telefon, mini lodówka, klimatyzacja."
+ ],
+ "rooms": 39,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 50.0875638,
+  "lon": 19.898229,
+  "src": "osm"
+ },
+ "sources": [
+  "travelyalla.com",
+  "royalaparthotel.gr",
+  "loveholidays.com",
+  "reserve-online.net",
+  "agoda.com",
+  "traveltsh.com",
+  "hotels.com",
+  "rhodesislandhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

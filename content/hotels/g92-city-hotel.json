@@ -1,0 +1,132 @@
+{
+ "id": 45106,
+ "slug": "g92-city-hotel",
+ "name": "G92 City Hotel",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/g92-city-hotel-obiekt-1580571965-570-428.jpg",
+ "city": "Rodos",
+ "intro": [
+  "G92 City Hotel to dwugwiazdkowy obiekt położony w samym sercu miasta Rodos, na greckiej wyspie Dodekanez. Jego centralna lokalizacja sprawia, że jest to idealna baza wypadowa do zwiedzania historycznych atrakcji, portu Mandraki oraz pobliskich plaż. Hotel jest dobrym wyborem dla osób ceniących sobie łatwy dostęp do miejskich udogodnień i komunikacji.",
+  "Obiekt jest polecany dla turystów nastawionych na zwiedzanie, podróżujących z ograniczonym budżetem oraz dla rodzin. Oferuje podstawowe, lecz komfortowe zakwaterowanie, z naciskiem na wygodę i dostępność kluczowych punktów miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel G92 City Hotel znajduje się w centrum miasta Rodos, w regionie Dodekanez, co zapewnia łatwy dostęp do głównych atrakcji. Od portu Mandraki dzieli go około 300 metrów, a od Zamku Wielkich Mistrzów około 650 metrów. Najbliższe lotnisko Rodos (RHO) oddalone jest o około 12 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Plaża Elli, piaszczysto-żwirowa i publiczna, znajduje się w odległości około 600-700 metrów od hotelu. Plaża Akti Kanari jest oddalona o mniej niż 1 km. Na plażach leżaki i parasole są płatne, a hotel nie zapewnia ręczników plażowych ani nie posiada własnej plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 31 pokojami, które są częściowo odnowione. W ofercie znajdują się pokoje rodzinne, jednoosobowe Budget, standardowe dwuosobowe lub typu twin z balkonem, trzyosobowe oraz czteroosobowe, wszystkie z prywatną łazienką. Wyposażenie obejmuje klimatyzację, telewizor z płaskim ekranem, lodówkę, bezpłatne Wi-Fi, sejf oraz zestaw do parzenia kawy/herbaty. W łazienkach dostępne są prysznic, suszarka do włosów i zestaw kosmetyków."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu G92 City Hotel dostępny jest bar oraz kawiarnia. Oferta wyżywienia obejmuje nocleg ze śniadaniem, które jest wysoko oceniane przez gości. Brak informacji o dostępności opcji all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi na terenie całego obiektu. W okolicy dostępne jest nurkowanie. Brak informacji o basenach, aquaparku, strefie spa, siłowni czy animacjach. Hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi, takie jak pokoje rodzinne i możliwość dostawienia łóżeczek."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko atrakcji i komunikacji",
+  "Czyste pokoje i pomocny personel",
+  "Dobry stosunek jakości do ceny",
+  "Cicha ulica pomimo centralnego położenia",
+  "Darmowe Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Brak basenu, siłowni i spa",
+  "Tylko częściowo odnowiony",
+  "Płatne leżaki i parasole na plaży",
+  "Potencjalny hałas uliczny w niektórych pokojach",
+  "Brak ręczników plażowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Elli oddalona jest o około 600-700 metrów, a plaża Akti Kanari o mniej niż 1 km. Obie są publiczne, piaszczysto-żwirowe."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Hotel jest oddalony o około 12 km od międzynarodowego lotniska Rodos (RHO)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje pokoje rodzinne i możliwość dostawienia łóżeczek dla dzieci, co czyni go odpowiednim dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Rodos (RHO)",
+ "amenities": [
+  "Bar",
+  "Kawiarnia",
+  "Bezpłatne Wi-Fi",
+  "Pokoje rodzinne",
+  "Możliwość dostawienia łóżeczek dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0,
+ "goodFor": [
+  "Osoby zwiedzające",
+  "Podróżujący z ograniczonym budżetem",
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Pokój rodzinny",
+  "Pokój jednoosobowy Budget",
+  "Standardowy pokój dwuosobowy lub typu twin z balkonem",
+  "Pokój trzyosobowy z prywatną łazienką",
+  "Pokój czteroosobowy z prywatną łazienką"
+ ],
+ "rooms": 31,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "g92cityhotel.com",
+  "booking.com",
+  "nekera.pl",
+  "rhodeshotel24.com",
+  "rhodes-town-hotels.com",
+  "mediteraneo.rs",
+  "lastminute.com",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-27"
+}

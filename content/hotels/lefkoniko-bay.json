@@ -1,0 +1,130 @@
+{
+ "id": 10734,
+ "slug": "lefkoniko-bay",
+ "name": "Lefkoniko Bay",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Rethymnon"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/lefkoniko-bay-basen-826172684-570-428.jpg",
+ "city": "Rethymno",
+ "intro": [
+  "Lefkoniko Bay to trzygwiazdkowy aparthotel położony w dzielnicy Nowe Miasto w Rethymnonie na Krecie. Obiekt, zbudowany w 1999 roku i odnowiony w 2005 roku, oferuje 40 pokoi typu studio i apartamentów, idealnych dla rodzin, par oraz osób podróżujących samotnie.",
+  "Hotel wyróżnia się doskonałą lokalizacją, zaledwie kilkadziesiąt metrów od piaszczystej plaży Rethymno i w niewielkiej odległości od historycznego centrum miasta. Goście mogą korzystać z udogodnień siostrzanego hotelu Lefkoniko Beach, co poszerza ofertę gastronomiczną i rekreacyjną."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lefkoniko Bay znajduje się w Rethymnonie, w dzielnicy Nowe Miasto, przy ulicy Panepistimiou Kritis 2. Jest usytuowany zaledwie 30-50 metrów od długiej, piaszczystej plaży Rethymno, znanej również jako Blue Beach lub Town Beach. Odległość od centrum Rethymno to około 800 metrów do 1,5 km, a od Starego Miasta około 800 metrów do 1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 40 pokojami, w tym studiami, apartamentami jednosypialnianymi (rodzinnymi) oraz pokojami jednoosobowymi. Każdy pokój wyposażony jest w klimatyzację, aneks kuchenny z płytą grzejną i lodówką, telewizor satelitarny oraz bezpłatne Wi-Fi. Do dyspozycji gości jest również prywatna łazienka z suszarką do włosów oraz umeblowany balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Lefkoniko Bay posiada bar przy basenie oraz snack bar. Goście hotelu mają pełny dostęp do wszystkich udogodnień siostrzanego hotelu Lefkoniko Beach, położonego po drugiej stronie ulicy. Tam serwowane są śniadania i kolacje w formie bufetu, a także dostępne są pakiety all-inclusive obejmujące posiłki i napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa sezonowe baseny zewnętrzne: jeden dla dorosłych i jeden wydzielony dla dzieci. Dla najmłodszych przygotowano również plac zabaw. Goście mogą korzystać z siłowni, tenisa stołowego, bilarda i rzutek w siostrzanym hotelu Lefkoniko Beach. Na pobliskiej plaży dostępne są również sporty wodne."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum Rethymno",
+  "Przyjazny dla rodzin, z udogodnieniami dla dzieci",
+  "Możliwość korzystania z udogodnień siostrzanego hotelu Lefkoniko Beach",
+  "Czyste i przestronne pokoje z aneksem kuchennym",
+  "Bezpłatne Wi-Fi i klimatyzacja w pokojach"
+ ],
+ "cons": [
+  "Wystrój pokoi może być nieco przestarzały",
+  "Jedzenie w opcji all-inclusive bywa krytykowane za mały wybór i monotonność",
+  "Brak głównej restauracji i baru bezpośrednio w Lefkoniko Bay",
+  "Brak parkingu na terenie hotelu",
+  "Procedura zameldowania może odbywać się w siostrzanym hotelu Lefkoniko Beach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Lefkoniko Bay jest położony zaledwie 30-50 metrów od piaszczystej plaży Rethymno."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku bezpośrednio w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje wydzielony basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotniska to Chania (CHQ) oddalone o około 68-81 km oraz Heraklion (HER) oddalone o około 75-82 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Gdzie odbywają się posiłki w hotelu Lefkoniko Bay?",
+   "a": "Śniadania i kolacje w formie bufetu są zazwyczaj serwowane w restauracji siostrzanego hotelu Lefkoniko Beach, z którego goście Lefkoniko Bay mogą korzystać."
+  }
+ ],
+ "address": "Panepistimiou Kritis 2, Rethymno, 741 00",
+ "adultsOnly": false,
+ "airportKm": 68,
+ "airportName": "Chania (Ioannis Daskalogiannis Airport - CHQ)",
+ "amenities": [
+  "klimatyzacja",
+  "aneks kuchenny",
+  "lodówka",
+  "telewizor satelitarny",
+  "prywatna łazienka",
+  "suszarka do włosów",
+  "balkon/taras",
+  "sejf (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Nowe Miasto",
+ "bars": 2,
+ "beachDistanceM": 30,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby podróżujące samotnie"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1999,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 1,
+ "roomTypes": [
+  "studio z aneksem kuchennym, lodówką, telewizorem satelitarnym, Wi-Fi, łazienką, balkonem/tarasem",
+  "apartament jednosypialniany (rodzinny) z aneksem kuchennym, lodówką, telewizorem satelitarnym, Wi-Fi, łazienką, balkonem/tarasem",
+  "pokój jednoosobowy z aneksem kuchennym, lodówką, telewizorem satelitarnym, Wi-Fi, łazienką, balkonem/tarasem"
+ ],
+ "rooms": 40,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "expedia.com",
+  "skyscanner.qa",
+  "hotels.com",
+  "onthebeach.ie",
+  "lefkonikobay.gr",
+  "fibula.rs",
+  "visit.guide",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

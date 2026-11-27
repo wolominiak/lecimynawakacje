@@ -1,0 +1,132 @@
+{
+ "id": 31599,
+ "slug": "lefkimi",
+ "name": "Lefkimi",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Korfu",
+  "Kavos"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/lefkimi-basen-teren-hotelu-1563942120-570-428.jpg",
+ "city": "Kavos",
+ "intro": [
+  "Hotel Lefkimi to dwugwiazdkowy obiekt położony w samym sercu tętniącego życiem Kavos na Korfu, idealny dla osób szukających prostego, ale komfortowego zakwaterowania w bliskiej odległości od plaży i rozrywek. Hotel jest odpowiedni dla rodzin, par oraz podróżujących samotnie, którzy cenią sobie łatwy dostęp do lokalnych atrakcji.",
+  "Zbudowany w 1989 roku i odnowiony w 2020 roku, hotel oferuje 64 pokoje w rodzinnej atmosferze. Goście mogą korzystać z odkrytego basenu oraz baru przy basenie, co czyni go dobrą bazą wypadową do odkrywania uroków Korfu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lefkimi znajduje się w centrum miejscowości Kavos, zaledwie około 50 metrów od piaszczystej plaży Kavos Beach. W pobliżu hotelu znajdują się liczne bary, sklepy i restauracje, a główna część miejscowości jest oddalona o około 5 minut spacerem. Najbliższe lotnisko, Międzynarodowe Lotnisko Korfu, oddalone jest o około 44-46 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 64 proste, ale komfortowe pokoje dwuosobowe/typu twin. Każdy pokój wyposażony jest w balkon lub taras, łazienkę z prysznicem i toaletą, suszarkę do włosów, lodówkę, szafę oraz komputer osobisty. Klimatyzacja i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Lefkimi serwowane jest śniadanie kontynentalne. Na terenie obiektu znajduje się bar przy basenie oraz oddzielny bar/lounge, gdzie goście mogą delektować się napojami i przekąskami. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen, a także sezonowy basen kryty. Przy basenie dostępne są leżaki. Hotel oferuje również możliwości aktywnego spędzania czasu, takie jak tenis stołowy i bilard. Brak informacji o aquaparku czy zjeżdżalniach."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel Lefkimi zapewnia bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych. Jest to hotel rodzinny, nieprzeznaczony wyłącznie dla dorosłych. W pokojach ręczniki zmieniane są co dwa dni, a pościel dwa razy w tygodniu."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum Kavos",
+  "Czyste i komfortowe pokoje",
+  "Przyjazny i pomocny personel",
+  "Ładny basen i bar przy basenie z dobrym jedzeniem",
+  "Dostęp do tenisa stołowego i bilarda"
+ ],
+ "cons": [
+  "Śniadanie kontynentalne o ograniczonym wyborze",
+  "Małe łazienki",
+  "Wi-Fi głównie w częściach wspólnych",
+  "Klimatyzacja i sejf za dodatkową opłatą",
+  "Hotel w ruchliwej okolicy, co może generować hałas"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bardzo blisko plaży, około 50 metrów lub 1 minuta spacerem. Niektóre źródła podają 550 metrów od Paralia Kavos Beach."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża jest piaszczysta, określana również jako złota piaszczysta plaża lub piaszczysto-żwirowa."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Korfu (CFU), znajduje się około 44-46 km od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest hotelem rodzinnym i jest odpowiedni dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "address": "Kavos Area, Kavos, 49080, Korfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 44,
+ "airportName": "Międzynarodowe Lotnisko Korfu (Ioannis Kapodistrias Airport, CFU)",
+ "amenities": [
+  "tenis stołowy",
+  "bilard"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kavos",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "osoby szukające tętniącego życia",
+  "podróżujący lubiący imprezy",
+  "rodziny",
+  "pary",
+  "podróżujący samotnie"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1989,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": null,
+ "roomTypes": [
+  "Pokój dwuosobowy/twin: balkon lub taras, łazienka z prysznicem i oddzielną toaletą, suszarka do włosów, lodówka, szafa, komputer osobisty. Klimatyzacja i sejf za dodatkową opłatą."
+ ],
+ "rooms": 64,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.4380636,
+  "lon": 20.045017,
+  "src": "osm"
+ },
+ "sources": [
+  "corfugreecehotels.com",
+  "hotelscorfuisland.com",
+  "reserving.com",
+  "korfuhotels.com",
+  "dnatatravel.com",
+  "hotels-corfu.com",
+  "thomascook.com",
+  "xo.gr"
+ ],
+ "updated": "2026-11-27"
+}

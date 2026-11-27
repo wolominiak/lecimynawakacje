@@ -1,0 +1,132 @@
+{
+ "id": 942,
+ "slug": "chc-marilena",
+ "name": "CHC Marilena",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Amoudara"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/chc-marilena-basen-teren-hotelu-1826270833-570-428.jpg",
+ "city": "Amoudara",
+ "intro": [
+  "Hotel CHC Marilena to czterogwiazdkowy obiekt położony w miejscowości Amoudara na Krecie, zaledwie kilkaset metrów od piaszczystej plaży. Obiekt, otwarty w 1985 roku i odnowiony w 2008 roku, składa się z trzech budynków mieszczących 227-230 pokoi.",
+  "Hotel jest polecany dla rodzin z dziećmi oraz par, szukających spokojnego wypoczynku z łatwym dostępem do plaży i możliwością zwiedzania pobliskiego Heraklionu. Oferuje formułę All Inclusive oraz podstawowe udogodnienia dla dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "CHC Marilena znajduje się w Amoudarze, około 120-200 metrów od publicznej, piaszczystej plaży. Plaża jest oddzielona od hotelu drogą. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, natomiast ręczniki plażowe można otrzymać za depozytem. Centrum Heraklionu oddalone jest o około 5 km, a centrum Amoudary o 50-300 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 227-230 pokojami rozmieszczonymi w trzech budynkach. Wśród dostępnych typów pokoi są m.in. Economy Standard, Superior Double (również z widokiem na morze), Quadruple oraz Two-Bedroom Family Room. Wszystkie pokoje wyposażone są w indywidualną klimatyzację, bezpłatne Wi-Fi, telewizor, mini lodówkę oraz prywatną łazienkę. Sejf dostępny jest za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu oraz sezonowy kącik souvlaki. Do dyspozycji gości są również dwa bary: bar przy basenie/snack bar oraz lobby bar. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, a także przekąski w barze przy basenie w ciągu dnia. Lokalne napoje alkoholowe i bezalkoholowe są dostępne w godzinach 10:00-23:00. Lody i kawa poza posiłkami są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden zewnętrzny basen ze słodką wodą. Dla aktywnych dostępne są takie sporty jak koszykówka, rzutki i tenis stołowy. Bilard i air hockey są płatne. Hotel organizuje lekkie animacje dzienne i wieczorne, w tym wieczory tematyczne, pokazy tańca i okazjonalną muzykę na żywo."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw w ogrodzie oraz pokój zabaw. W restauracji dostępne są wysokie krzesełka, a łóżeczka dziecięce są bezpłatne na życzenie dla dzieci do 2 lat. Hotel jest rekomendowany dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Miła i pomocna obsługa",
+  "Dobra lokalizacja blisko plaży i przystanku autobusowego",
+  "Dobre i różnorodne jedzenie",
+  "Czystość i codzienne sprzątanie pokoi",
+  "Darmowe Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Pokoje i łazienki mogą wymagać odnowienia",
+  "Mała stołówka, co może prowadzić do kolejek",
+  "Lody i kawa poza posiłkami płatne w All Inclusive",
+  "Płatne leżaki i parasole na plaży",
+  "Słaba izolacja akustyczna w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel CHC Marilena znajduje się około 120-200 metrów od piaszczystej, publicznej plaży Amoudara."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje plac zabaw, pokój zabaw, wysokie krzesełka w restauracji i łóżeczka dziecięce na życzenie."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska i centrum miasta?",
+   "a": "Hotel jest oddalony o około 10 km od lotniska w Heraklionie (HER) i około 5 km od centrum Heraklionu. Centrum Amoudary znajduje się 50-300 metrów od hotelu."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy leżaki na plaży są wliczone w cenę?",
+   "a": "Nie, leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  }
+ ],
+ "address": "Leof. Andrea Papandreou 173, 71414, Amoudara Heraklion, Grecja",
+ "adultsOnly": false,
+ "airportKm": 10,
+ "airportName": "Nikos Kazantzakis International Airport - HER",
+ "amenities": [
+  "Plac zabaw",
+  "Pokój zabaw",
+  "Wysokie krzesełka w restauracji",
+  "Łóżeczka dziecięce na życzenie"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Amoudara",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 2,
+ "roomTypes": [
+  "Economy Standard Room (parter, 20-23m2)",
+  "Superior Double Room (20-23m2, z 2 łóżkami pojedynczymi i 1 sofą)",
+  "Superior Double Room Sea View (20-23m2)",
+  "Quadruple Room (23-25m2, z 2 łóżkami pojedynczymi, sofą i łóżkiem składanym)",
+  "Double Room Single Use (16-19m2, z 1 łóżkiem pojedynczym)",
+  "Two-Bedroom Family Room (27-30m2, z 2 sypialniami, 2 łóżkami pojedynczymi i 1 podwójnym)"
+ ],
+ "rooms": 227,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "wakacje.pl",
+  "trivago.pl",
+  "chc.gr",
+  "tui.pl",
+  "booking.com",
+  "airstop.pl",
+  "wakacjeamigos.pl",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}

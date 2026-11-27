@@ -1,0 +1,150 @@
+{
+ "id": 41900,
+ "slug": "sunray",
+ "name": "Sunray",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Thassos",
+  "Limenaria"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/sunray-basen-1081670115-570-428.jpg",
+ "city": "Limenaria",
+ "intro": [
+  "Hotel Sunray to kameralny, odnowiony obiekt położony bezpośrednio przy piaszczysto-żwirkowej plaży Limenaria na greckiej wyspie Thassos. Charakteryzuje się współczesnym wystrojem i spokojną atmosferą, idealną dla osób szukających relaksu w urokliwej scenerii.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par ceniących sobie bliskość morza i lokalnych atrakcji. Hotel oferuje wygodne pokoje oraz udogodnienia zapewniające komfortowy pobyt, zaledwie krótki spacer od centrum miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sunray usytuowany jest w miejscowości Limenaria, bezpośrednio przy publicznej plaży Limenaria. Jest to plaża piaszczysto-żwirkowa, a leżaki i parasole są na niej płatne. Centrum Limenarii znajduje się w odległości około 500 m do 1 km od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 16 odnowionymi pokojami, w tym typu Studio, Klasyczny Pokój Trzyosobowy, Pokój Rodzinny, Ekonomiczny Pokój Dwuosobowy oraz Pokój Dwuosobowy z Balkonem. Pokoje rodzinne posiadają oddzielną sypialnię. Standardowe wyposażenie obejmuje klimatyzację, telewizor, łazienkę, balkon (często z widokiem na morze), sejf, mini-lodówkę i czajnik (w studiach)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca tradycyjne dania z Thassos, kuchnię śródziemnomorską i owoce morza. Goście mogą korzystać z baru oraz baru przy basenie i baru z przekąskami. Hotel oferuje śniadania w formie bufetu oraz obiadokolacje serwowane z karty, przy czym napoje do kolacji mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden sezonowy odkryty basen ze słodką wodą, otoczony tarasem słonecznym z bezpłatnymi leżakami i parasolami. Hotel organizuje wieczory greckie i muzykę na żywo. Okoliczne płytkie wody sprzyjają snorkelingowi."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje łóżeczka (na zapytanie) oraz krzesełka w restauracji. Wieczorne mini-disco zapewnia rozrywkę dla dzieci, co czyni hotel odpowiednim miejscem na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Bliskość centrum Limenarii",
+  "Przyjazny personel i wysoka czystość",
+  "Dobre jedzenie, szczególnie śniadania i kolacje",
+  "Kameralna i spokojna atmosfera"
+ ],
+ "cons": [
+  "Monotonne śniadania (wg niektórych opinii)",
+  "Płatna woda podczas kolacji",
+  "Małe pokoje/łazienki (wg niektórych opinii)",
+  "Słabe oświetlenie w łazienkach",
+  "Wysokie ceny napojów"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Sunray jest usytuowany bezpośrednio przy plaży Limenaria, zaledwie kilka kroków od niej."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży przy hotelu?",
+   "a": "Plaża przy hotelu jest publiczna, piaszczysto-żwirkowa."
+  },
+  {
+   "q": "Czy na plaży są dostępne leżaki i parasole?",
+   "a": "Tak, leżaki i parasole na plaży są dostępne, ale są płatne."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Kawala, oddalony o około 61-62.2 km (około 2 godziny 10 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje łóżeczka, krzesełka w restauracji oraz mini-disco."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Limenaria, 64002, Grecja",
+ "adultsOnly": false,
+ "airportKm": 61,
+ "airportName": "Międzynarodowy Port Lotniczy Kawala (Megas Alexandros Airport)",
+ "amenities": [
+  "Sezonowy odkryty basen",
+  "Taras słoneczny z bezpłatnymi leżakami i parasolami",
+  "Restauracja",
+  "Bar",
+  "Bar przy basenie",
+  "Bar z przekąskami",
+  "Wieczory greckie",
+  "Muzyka na żywo",
+  "Łóżeczka dla dzieci (na zapytanie)",
+  "Krzesełka w restauracji",
+  "Mini-disco"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirkowa",
+ "centerKm": 0.75,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby preferujące spokojny wypoczynek"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (dla 2 osób dorosłych)",
+  "Klasyczny Pokój Trzyosobowy",
+  "Pokój Rodzinny (podwójne łóżko i oddzielna sypialnia z dwoma pojedynczymi łóżkami)",
+  "Ekonomiczny Pokój Dwuosobowy",
+  "Pokój Dwuosobowy z Balkonem"
+ ],
+ "rooms": 16,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.4157988,
+  "lon": 23.1611192,
+  "src": "osm"
+ },
+ "sources": [
+  "w-reservation.com",
+  "sunray-hotel.gr",
+  "oxfordtravels.com",
+  "xo.gr",
+  "booking.com",
+  "tui.co.uk",
+  "hotels-thassos.com",
+  "wego.qa"
+ ],
+ "updated": "2026-11-27"
+}

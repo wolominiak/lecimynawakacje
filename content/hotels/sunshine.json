@@ -1,0 +1,135 @@
+{
+ "id": 28083,
+ "slug": "sunshine",
+ "name": "Sunshine",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Malia"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/sunshine-basen-1596394254-570-428.jpg",
+ "city": "Malia",
+ "intro": [
+  "Hotel Sunshine to dwugwiazdkowy obiekt położony w miejscowości Malia na Krecie, oferujący spokojny wypoczynek w połączeniu z bliskością tętniącego życiem centrum. Jest to idealne miejsce dla osób szukających zarówno relaksu, jak i dostępu do atrakcji kurortu.",
+  "Obiekt jest szczególnie polecany dla par i grup przyjaciół, którzy cenią sobie kameralną atmosferę i dogodną lokalizację. Dzięki odnowionym wnętrzom i podstawowym udogodnieniom hotel zapewnia komfortowy pobyt w przystępnej cenie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Sunshine znajduje się w Malii, zaledwie 150 metrów od centrum kurortu. Do starego miasta i ruchliwej ulicy plażowej można dojść w około 5 minut. Najbliższe lotnisko w Heraklionie oddalone jest o około 27-32.5 km, co przekłada się na około 28 minut jazdy samochodem."
+  },
+  {
+   "title": "Plaża",
+   "text": "Najbliższa piaszczysta plaża oddalona jest od hotelu o około 600-800 metrów. Przy basenie dostępne są bezpłatne leżaki i parasole. Na plaży leżaki i parasole mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 21 pokojami, a wspólne obszary i większość pokoi zostały odnowione na sezon 2017. Pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, lodówkę, ekspres do kawy, czajnik elektryczny, suszarkę do włosów oraz prywatną łazienkę. Niektóre pokoje posiadają balkon lub aneks kuchenny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen ze słodką wodą oraz taras słoneczny. Goście mogą korzystać z centrum odnowy biologicznej i spa, które oferuje masaże, zabiegi na ciało oraz saunę. Dostępne są również bilard, wędkarstwo oraz wypożyczalnia rowerów i samochodów."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Hotel oferuje śniadania w formie bufetu za dodatkową opłatą. Na terenie obiektu znajduje się bar oraz bar przy basenie, gdzie można delektować się napojami i przekąskami."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja, blisko centrum Malii, ale cicho",
+  "Bardzo miła i pomocna obsługa",
+  "Czyste pokoje i basen",
+  "Odnowione wspólne obszary i większość pokoi",
+  "Dostępne bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Plaża oddalona o 600-800 metrów",
+  "Brak informacji o pakiecie all inclusive",
+  "Leżaki i parasole na plaży mogą być płatne",
+  "Brak siłowni",
+  "Brak aquaparku i animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa piaszczysta plaża znajduje się w odległości około 600-800 metrów od hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel oddalony jest od Międzynarodowego Lotniska w Heraklionie (Heraklion International Airport N. Kazantzakis) o około 27-32.5 km, co zajmuje około 28 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Hotel jest polecany głównie dla par i grup przyjaciół. Brak informacji o mini klubie, strefie dla dzieci czy animacjach."
+  },
+  {
+   "q": "Czy jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel posiada spa?",
+   "a": "Tak, hotel dysponuje centrum odnowy biologicznej i spa, które oferuje masaże, zabiegi na ciało oraz saunę."
+  }
+ ],
+ "address": "Machis Kritis 7, Malia 700-07, Kreta",
+ "adultsOnly": null,
+ "airportKm": 27,
+ "airportName": "Heraklion International Airport N. Kazantzakis",
+ "amenities": [
+  "Spa",
+  "Bilard",
+  "Wędkarstwo",
+  "Wypożyczalnia rowerów",
+  "Wypożyczalnia samochodów"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Malia",
+ "bars": 2,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta",
+ "centerKm": 0.15,
+ "goodFor": [
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2017,
+ "restaurants": null,
+ "roomTypes": [
+  "Standard Double Room (z widokiem na basen lub bez)",
+  "Budget Double Room",
+  "Junior Suite (z widokiem na basen lub bez)",
+  "Comfort Quadruple (składający się z 2 oddzielnych pokoi, z widokiem na basen lub bez)"
+ ],
+ "rooms": 21,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.2854146,
+  "lon": 25.4642964,
+  "src": "osm"
+ },
+ "sources": [
+  "myboutiquehotel.com",
+  "booking.com",
+  "loveholidays.com",
+  "sunshine-malia.gr",
+  "com-crete-hotels.com",
+  "avistratravel.com",
+  "directbooking.ro",
+  "maliacrete.com"
+ ],
+ "updated": "2026-11-27"
+}
