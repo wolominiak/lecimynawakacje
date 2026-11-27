@@ -1,0 +1,133 @@
+{
+ "id": 6020,
+ "slug": "tasmaria",
+ "name": "Tasmaria",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/tasmaria-basen-teren-hotelu-1461046360-570-428.jpg",
+ "city": "Paphos City",
+ "intro": [
+  "Hotel Tasmaria to trzygwiazdkowy obiekt położony w Paphos na Cyprze Południowym, w historycznej dzielnicy, niedaleko Grobowców Królów. Charakteryzuje się dogodną lokalizacją w głównej strefie turystycznej, co czyni go dobrą bazą wypadową do zwiedzania miasta i okolic.",
+  "Kompleks składa się z sześciu bloków i oferuje pokoje oraz apartamenty z aneksem kuchennym. Jest to miejsce polecane dla rodzin oraz osób poszukujących budżetowego zakwaterowania, ceniących sobie niezależność i bliskość lokalnych atrakcji, barów i restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Tasmaria znajduje się w Paphos, w odległości około 1,2 km od centrum miasta. Najbliższa plaża, Anaoulionas Beach, oddalona jest o około 600 metrów. W pobliżu, bo około 850 metrów, znajduje się również piaszczysto-żwirowa Faros Beach, wyróżniona Błękitną Flagą. Międzynarodowe Lotnisko Paphos (PFO) jest oddalone o około 15-16,2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 53 lub 54 klimatyzowane studia i apartamenty z jedną sypialnią. Wszystkie pokoje wyposażone są w aneks kuchenny z lodówką, piekarnikiem lub płytą grzewczą, czajnikiem elektrycznym oraz naczyniami. Do dyspozycji gości jest także prywatna łazienka, telewizor z płaskim ekranem i kanałami satelitarnymi, balkon lub taras oraz sejf (dodatkowo płatny)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Tasmaria znajduje się restauracja serwująca śniadania, obiady i kolacje, a także bar przy basenie oraz snack bar/deli. Hotel oferuje opcję „Light All Inclusive”, która obejmuje posiłki w formie bufetu lub a la carte oraz osiem napojów. Okazjonalnie organizowane są wieczory tematyczne, takie jak BBQ czy Kleftiko."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest jeden odkryty basen, czynny przez cały rok. Przy basenie goście mogą korzystać z bezpłatnych leżaków i parasoli. Hotel oferuje również bilard, a w okolicy dostępne są możliwości nurkowania. Brak informacji o zjeżdżalniach, aquaparku czy strefie spa i siłowni."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych, a w niektórych pokojach również. Na życzenie dostępne są łóżeczka dla dzieci. Obiekt dysponuje również bezpłatnym parkingiem. Hotel jest kompleksem rodzinnym, nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Centralna i dogodna lokalizacja blisko atrakcji, barów i sklepów",
+  "Przestronne pokoje/apartamenty z aneksem kuchennym",
+  "Przyjazny i pomocny personel",
+  "Dobry stosunek jakości do ceny",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być głośne z powodu budowy lub ruchliwej drogi",
+  "Zmienna jakość Wi-Fi",
+  "Brak windy (utrudnienie dla osób z ograniczoną mobilnością)",
+  "Hotel może wydawać się przestarzały i wymagać remontu",
+  "Niewygodne łóżka i problemy z ciepłą wodą w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Tasmaria od plaży?",
+   "a": "Najbliższa plaża, Anaoulionas Beach, znajduje się około 600 metrów od hotelu. Plaża Faros z Błękitną Flagą jest oddalona o około 850 metrów."
+  },
+  {
+   "q": "Czy hotel Tasmaria jest daleko od lotniska?",
+   "a": "Międzynarodowe Lotnisko Paphos (PFO) jest oddalone od hotelu o około 15-16,2 km."
+  },
+  {
+   "q": "Czy w hotelu Tasmaria jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu Tasmaria. Dostępny jest jeden odkryty basen."
+  },
+  {
+   "q": "Czy hotel Tasmaria jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest kompleksem rodzinnym. Na życzenie dostępne są łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu Tasmaria jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, a w niektórych pokojach również."
+  },
+  {
+   "q": "Czy hotel Tasmaria oferuje opcję all inclusive?",
+   "a": "Tak, hotel oferuje opcję \"Light All Inclusive\", która obejmuje posiłki i osiem napojów."
+  }
+ ],
+ "address": "50 Tombs of the Kings Avenue, Paphos City 8045, Cypr",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Międzynarodowe Lotnisko Paphos (PFO)",
+ "amenities": [
+  "bezpłatny parking",
+  "bilard",
+  "łóżeczka dla dzieci na życzenie"
+ ],
+ "animations": false,
+ "aquapark": null,
+ "area": "historyczna dzielnica, w głównej strefie turystycznej, w pobliżu Grobowców Królów",
+ "bars": 1,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 1.2,
+ "goodFor": [
+  "rodziny",
+  "osoby szukające budżetowej bazy wypadowej"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (aneks kuchenny, łazienka, TV, balkon/taras, sejf)",
+  "Apartament z jedną sypialnią (aneks kuchenny, łazienka, TV, balkon/taras, sejf)",
+  "Superior Double Room",
+  "Suite"
+ ],
+ "rooms": 53,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 34.7707413,
+  "lon": 32.4110381,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "skyscanner.net",
+  "heartofcyprus.com",
+  "reserving.com",
+  "mapcarta.com",
+  "lastminute.com",
+  "flyin.com",
+  "almosafer.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,141 @@
+{
+ "id": 3238,
+ "slug": "marina",
+ "name": "Marina",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/marina-teren-hotelu-basen-obiekt-143522-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Hotel Marina to trzygwiazdkowy obiekt położony w spokojnej, podwyższonej okolicy Ayia Napa na Cyprze Południowym. Zapewnia łatwy dostęp do atrakcji, takich jak Park Rzeźb Ayia Napa i Most Miłości, a także do piaszczystej plaży Pantachou.",
+  "Obiekt jest szczególnie polecany dla par, rodzin z dziećmi oraz młodych par, oferując udogodnienia dla najmłodszych, takie jak basen dla dzieci i mini klub. Hotel wyróżnia się dużym, egzotycznym ogrodem i dobrą bazą rekreacyjną."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Marina znajduje się w spokojnej części Ayia Napa, zaledwie minutę spacerem od Parku Rzeźb i pięć minut od Mostu Miłości. Do piaszczystej plaży Pantachou Beach można dojść w około 6 minut (360 metrów). Centrum miejscowości oddalone jest o około 900 metrów, co zapewnia zarówno spokój, jak i bliskość rozrywek."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 131 pokojami, z których większość została niedawno odnowiona. Dostępne są pokoje jedno-, dwu- i trzyosobowe, a także pokoje rodzinne i łączone. Wszystkie pokoje wyposażone są w klimatyzację, balkon, prywatną łazienkę, telewizor, małą lodówkę oraz zestaw do parzenia kawy/herbaty. Sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Marina znajdują się dwie restauracje oraz bar i bar przy basenie. Goście mogą wybrać opcję ze śniadaniem (Bed and Breakfast), niepełne wyżywienie (Half Board) lub pełne wyżywienie (Full Board). Śniadania serwowane są w formie bezpłatnego bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje sezonowy odkryty basen oraz oddzielny basen dla dzieci. Na terenie obiektu znajduje się również centrum fitness, kort tenisowy, bilard i tenis stołowy. Dostępne są masaże za dodatkową opłatą. Wieczorami organizowane są wieczory taneczne i gry."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen dla dzieci, plac zabaw oraz pokój gier. Dostępne są wysokie krzesełka w restauracji oraz usługa opieki nad dziećmi (baby-sitting). Hotel prowadzi również przedszkole (kindergarten)."
+  }
+ ],
+ "pros": [
+  "Przyjazny i doświadczony personel",
+  "Piękne ogrody",
+  "Dobre jedzenie, zwłaszcza śniadania",
+  "Czystość i dobra lokalizacja (spokojna, blisko centrum i plaży)",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Niektóre opinie wspominają o oddaleniu od głównych ulic i sklepów",
+  "Strome podejście pod górę do hotelu z plaży",
+  "Ręczniki basenowe/plażowe za dodatkową opłatą",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża Pantachou Beach jest oddalona o około 360 metrów (6 minut spacerem)."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie ze śniadaniem (Bed and Breakfast), niepełne wyżywienie (Half Board) lub pełne wyżywienie (Full Board)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci, plac zabaw, pokój gier oraz przedszkole."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe lotnisko w Larnace (LCA), znajduje się około 52 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach (prędkość 100+ Mbps)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu."
+  }
+ ],
+ "address": "51 Kryou Nerou Avenue, 5340, Ayia Napa, Cypr",
+ "adultsOnly": false,
+ "airportKm": 52,
+ "airportName": "Międzynarodowe lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Kort tenisowy",
+  "Bilard",
+  "Tenis stołowy",
+  "Masaże (za opłatą)",
+  "Plac zabaw",
+  "Pokój gier",
+  "Wysokie krzesełka dla dzieci",
+  "Usługa opieki nad dziećmi (baby-sitting)",
+  "Dwie windy"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "spokojna, podwyższona okolica",
+ "bars": 2,
+ "beachDistanceM": 360,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.9,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi",
+  "Młode pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy (widok na morze, basen)",
+  "Pokój dwuosobowy (widok na morze, boczny widok na morze, basen)",
+  "Pokój trzyosobowy (boczny widok na morze, widok na ogród)",
+  "Pokój rodzinny (widok na ląd, 21 mkw, dla 2 dorosłych + 2 dzieci lub 3 dorosłych)",
+  "Pokoje łączone dla rodzin",
+  "Pokoje dla osób niepełnosprawnych"
+ ],
+ "rooms": 131,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.9858974,
+  "lon": 34.0161496,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "ayianapabeachhotels.com",
+  "cymply-cy.com",
+  "hotels21.com",
+  "marinahotel.com.cy",
+  "hotels.com",
+  "trivago.com",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

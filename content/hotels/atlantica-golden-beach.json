@@ -1,0 +1,138 @@
+{
+ "id": 21123,
+ "slug": "atlantica-golden-beach",
+ "name": "Atlantica Golden Beach",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/atlantica-golden-beach-teren-hotelu-basen-998098036-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Hotel Atlantica Golden Beach to czterogwiazdkowy obiekt położony w spokojnej miejscowości Kissonerga na Cyprze Południowym, w otoczeniu plantacji bananów. Jest to idealne miejsce dla osób poszukujących relaksu i ucieczki od zgiełku, z bezpośrednim dostępem do zacisznej plaży.",
+  "Obiekt jest przeznaczony wyłącznie dla dorosłych (Adults Only), przyjmując gości od 16 roku życia, co gwarantuje spokojną atmosferę. Jest szczególnie polecany dla par, nowożeńców oraz osób podróżujących solo, ceniących sobie komfort i wysoką jakość usług."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Atlantica Golden Beach usytuowany jest bezpośrednio przy kamienisto-piaszczystej plaży w Kissonerga, z prywatną strefą hotelową. Ze względu na kamieniste podłoże, zalecane jest obuwie ochronne. Obiekt znajduje się około 7.5-12 km od centrum Paphos i 1.5 km od centrum Kissonergi, co zapewnia spokojną okolicę, ale wymaga transportu do większych atrakcji. Leżaki, parasole i ręczniki basenowe są dostępne zarówno przy basenie, jak i na plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 204 pokoje, w tym różne kategorie, takie jak pokoje dwuosobowe z widokiem na ląd lub morze, pokoje superior oraz apartamenty. Standardowe wyposażenie obejmuje klimatyzację, telewizor, lodówkę, zestaw do kawy/herbaty, suszarkę do włosów, sejf oraz balkon lub taras. Niektóre pokoje superior posiadają dodatkowo wannę z hydromasażem lub prywatny basen."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje: główna restauracja bufetowa Mediterraneo, restauracja à la carte Olive & Thyme oraz sezonowa Basilico Beach Restaurant. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, jedną kolację à la carte na pobyt (przy pobytach powyżej 4 nocy) oraz lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-00:00. Dostępne są również przekąski, popołudniowa herbata oraz pikniki na wycieczki. Goście mogą korzystać z trzech barów, w tym baru przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: duży basen zewnętrzny w kształcie laguny oraz basen kryty, podgrzewany od listopada do kwietnia. Hotel posiada centrum spa (Aegeo Spas lub Aphrodite Health Club) z masażami, zabiegami kosmetycznymi, sauną i jacuzzi, a także siłownię. Aktywni goście mogą korzystać z tenisa, rzutek, tenisa stołowego, aqua-gym, bocci i aerobiku. W całym obiekcie i w pokojach dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Spokojna atmosfera (tylko dla dorosłych)",
+  "Wysoka jakość i różnorodność jedzenia",
+  "Czystość obiektu i pokoi",
+  "Przyjazny i pomocny personel",
+  "Dostępne spa i siłownia"
+ ],
+ "cons": [
+  "Kamienista plaża (wymagane obuwie ochronne)",
+  "Lokalizacja nieco na uboczu, wymaga transportu do centrum",
+  "Możliwe problemy z dostępnością leżaków w godzinach porannych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Atlantica Golden Beach leży bezpośrednio przy kamienistej plaży, z prywatną strefą hotelową."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (Adults Only) i przyjmuje gości od 16 roku życia."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Paphos (PFO), oddalone o około 21.8 km do 27 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni, ponieważ jest przeznaczony wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie oraz w pokojach."
+  },
+  {
+   "q": "Czy plaża jest piaszczysta?",
+   "a": "Plaża jest kamienista (pebbly beach), z mieszanką piasku i małych kamyków, dlatego zalecane jest obuwie ochronne."
+  }
+ ],
+ "address": "Kissonergas Avenue 8102, Paphos, Cyprus lub Chrysoneras Avenue, Kissonerga, 8574, Paphos, Cyprus",
+ "adultsOnly": true,
+ "airportKm": 21.8,
+ "airportName": "Międzynarodowe Lotnisko Paphos (PFO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis",
+  "Rzutki",
+  "Tenis stołowy",
+  "Aqua-gym",
+  "Boccia",
+  "Aerobik"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kissonerga",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "kamienista z piaskiem",
+ "centerKm": 7.5,
+ "goodFor": [
+  "Pary",
+  "Nowożeńcy",
+  "Osoby podróżujące solo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "Twin Room Inland View",
+  "Twin / Double Room Side Sea View",
+  "Superior Room Side Sea View (z wanną z hydromasażem)",
+  "Superior Sea View (z wanną z hydromasażem)",
+  "Superior Room Swim up Inland View",
+  "Superior Room Sea View",
+  "Deluxe Superior Room with Private Pool Sea View",
+  "One-Bedroom Suite with Sea View"
+ ],
+ "rooms": 204,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.8215226,
+  "lon": 32.3930261,
+  "src": "osm"
+ },
+ "sources": [
+  "wego.com.co",
+  "trivago.co.uk",
+  "thomascook.com",
+  "mapcarta.com",
+  "yandex.com",
+  "visitcyprus.com",
+  "youtube.com",
+  "tui.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

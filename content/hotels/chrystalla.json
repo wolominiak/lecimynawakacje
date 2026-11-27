@@ -1,0 +1,136 @@
+{
+ "id": 10808,
+ "slug": "chrystalla",
+ "name": "Chrystalla",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/chrystalla-obiekt-pool-bar-7172313-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Hotel Chrystalla położony jest w miejscowości Protaras na Cyprze Południowym, w centralnej dzielnicy, zaledwie 100 metrów od słynnej piaszczystej plaży Fig Tree Bay. Obiekt, otwarty w 1988 roku, oferuje niedawno odnowione pokoje i stanowi doskonałą bazę wypadową do zwiedzania okolicy oraz korzystania z uroków cypryjskiego wybrzeża.",
+  "Hotel Chrystalla to idealne miejsce dla rodzin z małymi dziećmi, par oraz wszystkich, którzy szukają relaksu w bliskiej odległości od plaży i centrum miejscowości. Oferuje przyjazną atmosferę, różnorodne opcje wyżywienia oraz dostęp do udogodnień takich jak baseny i siłownia."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Chrystalla znajduje się w centrum Protaras, zaledwie 75-100 metrów od piaszczystej plaży Fig Tree Bay, co zajmuje około 2 minuty spacerem. Do centrum miejscowości jest również tylko 100 metrów. Najbliższe lotnisko w Larnace oddalone jest o 42-50 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 77 pokojami, które zostały niedawno odnowione. Dostępne są pokoje dwuosobowe, jednoosobowe, rodzinne oraz łączone, z możliwością wyboru widoku na basen, góry, okolicę lub morze. Każdy pokój wyposażony jest w klimatyzację, telewizor, telefon, radio, sejf (płatny), suszarkę do włosów, lodówkę i zestaw do parzenia kawy i herbaty, a także balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni cypryjskiej i międzynarodowej, z codziennymi kolacjami tematycznymi. Goście mogą korzystać z baru przy basenie oraz baru wewnątrz hotelu. Hotel oferuje opcje wyżywienia takie jak śniadania, obiadokolacje (Half Board) oraz pełne wyżywienie (Full Board), które obejmuje śniadania, obiady, kolacje, napoje i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa odkryte baseny - jeden duży i jeden dla dzieci, a także jacuzzi. Dostępna jest dobrze wyposażona siłownia, tenis stołowy, rzutki, bilard i bingo. Za dodatkową opłatą można skorzystać ze sportów wodnych na plaży oraz z oferty hotelowej szkoły nurkowania."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przyjazna, rodzinna atmosfera i uprzejma obsługa",
+  "Czyste i dobrze utrzymane pokoje",
+  "Dobre jedzenie, w tym kolacje tematyczne",
+  "Basen z jacuzzi i strefą dla dzieci"
+ ],
+ "cons": [
+  "Brak Wi-Fi w pokojach (możliwość zakupu)",
+  "Łazienki w starszej części hotelu mogą wymagać remontu",
+  "Hałas z pobliskich lokali rozrywkowych",
+  "Praktyka wczesnego rezerwowania leżaków ręcznikami",
+  "Obszar basenu i leżaki mogą wymagać odświeżenia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 75-100 metrów od piaszczystej plaży Fig Tree Bay, co stanowi 2 minuty spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Larnaka (LCA) oddalony jest od hotelu o około 42-50 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i akceptuje dzieci w każdym wieku. Posiada oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu, jednak niektórzy goście zgłaszali brak Wi-Fi w pokojach i konieczność jego zakupu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest obiektem tylko dla dorosłych i jest przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "D. Lagiou 6, Protaras, 5296",
+ "adultsOnly": false,
+ "airportKm": 42,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor",
+  "Telefon",
+  "Radio",
+  "Sejf",
+  "Suszarka do włosów",
+  "Lodówka",
+  "Czajnik elektryczny",
+  "Balkon"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centralny Protaras",
+ "bars": 2,
+ "beachDistanceM": 75,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny z małymi dziećmi",
+  "Pary",
+  "Osoby szukające relaksu i bliskości plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1988,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe/typu twin",
+  "Pokoje jednoosobowe",
+  "Pokoje rodzinne",
+  "Pokoje łączone"
+ ],
+ "rooms": 77,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 35.0111172,
+  "lon": 34.0580228,
+  "src": "osm"
+ },
+ "sources": [
+  "kayak.com",
+  "exploreprotaras.com",
+  "planetofhotels.com",
+  "cyprus-hotel.com",
+  "hfind.com",
+  "tui.co.uk",
+  "firstchoice.co.uk",
+  "nusatrip-api.com"
+ ],
+ "updated": "2026-11-27"
+}

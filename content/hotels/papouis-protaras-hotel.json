@@ -1,0 +1,138 @@
+{
+ "id": 25137,
+ "slug": "papouis-protaras-hotel",
+ "name": "Papouis Protaras Hotel",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/papouis-protaras-hotel-basen-obiekt-1840757006-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Papouis Protaras Hotel to trzygwiazdkowy obiekt położony w dzielnicy Pernera w Protaras na Cyprze Południowym. Hotel jest dogodnie usytuowany w odległości spaceru od piaszczystych plaż i oferuje szeroki zakres udogodnień, które zapewnią komfortowy pobyt.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz osób poszukujących relaksu w przystępnej cenie. Dzięki niedawnym renowacjom i bogatej ofercie rekreacyjnej, w tym parkowi wodnemu i basenom, hotel stanowi atrakcyjną opcję na wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Papouis Protaras znajduje się w Protaras, w dzielnicy Pernera, około 500 metrów od plaży Marlita Beach i Vrissiana Beach. Do piaszczystej zatoki można dojść w około 10 minut. Plaża nie jest prywatna, a leżaki i parasole dostępne są przy basenach hotelowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 137 lub 183 pokojami, które zostały odnowione na początku 2023 roku. W ofercie znajdują się pokoje dwuosobowe, rodzinne, trzyosobowe oraz z łóżkiem piętrowym, a także pokoje łączone. Każdy pokój wyposażony jest w klimatyzację, lodówkę, telewizor, balkon lub taras, prywatną łazienkę, suszarkę do włosów, zestaw do parzenia kawy/herbaty, sejf oraz bezpłatne WiFi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, w tym jedna bufetowa serwująca dania kuchni międzynarodowej i cypryjskiej. Goście mogą korzystać z baru przy basenie (Sunspot Pool Bar) oraz baru w lobby. Pakiet all inclusive obejmuje śniadanie, przekąski, lunch, grill na żywo i kolację, a także nieograniczone lokalne napoje i lody serwowane od 10:00 do 24:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje dwa odkryte baseny, w tym nowy basen przeznaczony wyłącznie dla dorosłych. Dla dzieci przygotowano brodzik, park wodny z pirackim statkiem i trzema zjeżdżalniami, kryty plac zabaw oraz ogólny plac zabaw. W hotelu działa mini klub, a codziennie organizowane są programy rozrywkowe, w tym muzyka na żywo i wieczorne pokazy."
+  },
+  {
+   "title": "Udogodnienia i aktywności",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu. Do dyspozycji gości jest dobrze wyposażona siłownia oraz spa z sauną i masażami (za opłatą). Aktywności sportowe obejmują tenis stołowy, bilard, rzutki, siatkówkę plażową, koszykówkę, squasha, aqua aerobik i jogę."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Wysoka czystość i niedawne renowacje",
+  "Dobre i różnorodne jedzenie w formie bufetu",
+  "Świetne udogodnienia dla dzieci, w tym park wodny",
+  "Dobra lokalizacja blisko plaży i centrum"
+ ],
+ "cons": [
+  "Jedzenie bywa letnie",
+  "Ograniczone godziny posiłków",
+  "Niska jakość napojów (bezalkoholowych i alkoholowych)",
+  "Rzadka zmiana ręczników (co 3 dni)",
+  "Hałas z wieczornych animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 500-700 metrów od plaży, a do piaszczystej zatoki można dojść w około 10 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel posiada park wodny (splash park) z pirackim statkiem i trzema zjeżdżalniami dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując mini klub, brodzik, park wodny i place zabaw."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 63-64 km od Międzynarodowego Portu Lotniczego Larnaka (LCA), co zajmuje około 45 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Tak, hotel oferuje pakiet all inclusive, który obejmuje posiłki, przekąski, grill na żywo, lokalne napoje i lody."
+  }
+ ],
+ "address": "Mantaliou 7, 5296 Protaras, Cypr",
+ "adultsOnly": false,
+ "airportKm": 63,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "WiFi",
+  "Mini klub dla dzieci",
+  "Park wodny",
+  "Basen tylko dla dorosłych"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Pernera",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające wypoczynku w przystępnej cenie"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy/twin z widokiem na ląd/góry/miasto/basen",
+  "pokój rodzinny",
+  "pokój trzyosobowy",
+  "pokój z łóżkiem piętrowym",
+  "pokój łączony"
+ ],
+ "rooms": 137,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.0256238,
+  "lon": 34.0410053,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "papouishotels.com",
+  "skyscanner.net",
+  "loveholidays.com",
+  "protarashotels.net",
+  "kj.tours",
+  "travelhouse.co.uk",
+  "mercuryholidays.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

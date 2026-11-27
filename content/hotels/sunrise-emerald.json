@@ -1,0 +1,131 @@
+{
+ "id": 267394,
+ "slug": "sunrise-emerald",
+ "name": "Sunrise Emerald",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/sunrise-emerald-plaza-teren-hotelu-obiekt-1794416997-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Sunrise Emerald to nowoczesny, pięciogwiazdkowy hotel położony bezpośrednio przy złotej, piaszczystej plaży Vrisoudia w Protaras na Cyprze Południowym. Obiekt, otwarty w 2026 roku, oferuje luksusowe zakwaterowanie i szeroki wachlarz udogodnień, idealnych zarówno dla rodzin z dziećmi, jak i par czy indywidualnych podróżników poszukujących komfortowego wypoczynku.",
+  "Hotel charakteryzuje się nowoczesną architekturą i wysokim standardem usług, w tym opcją premium all-inclusive. Goście mogą korzystać z licznych basenów, bogatej oferty gastronomicznej oraz udogodnień takich jak spa i centrum fitness. Jest to doskonały wybór dla osób ceniących sobie bezpośredni dostęp do plaży i kompleksową obsługę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sunrise Emerald znajduje się w dzielnicy Pernera w Protaras, oferując bezpośredni dostęp do złotej, piaszczystej plaży Vrisoudia. Plaża jest prywatna, co zapewnia spokój i komfort wypoczynku. Centrum Protaras oddalone jest o około 3 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 170 pokojami, w tym pokojami Deluxe z widokiem na morze lub basen oraz przestronnymi apartamentami (Junior Suite, One-Bedroom Suite, Two-Bedroom Suite). Wszystkie pokoje są klimatyzowane i wyposażone w balkon, prywatną łazienkę z prysznicem deszczowym, minibar z bezpłatnymi napojami powitalnymi, telewizor z płaskim ekranem oraz ekspres do kawy."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mają do dyspozycji cztery restauracje, w tym główną restaurację bufetową, azjatycką restaurację na dachu oraz restauracje a la carte serwujące dania kuchni śródziemnomorskiej i włoskiej. Śniadania w formie bufetu oferują opcje wegetariańskie, wegańskie i bezglutenowe. Na terenie obiektu znajdują się również trzy stylowe bary, w tym bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje cztery baseny: zewnętrzny, kryty, podgrzewany, basen dla dorosłych oraz basen dla dzieci. Dla relaksu dostępna jest strefa spa z zabiegami Elemis oraz centrum fitness. W okolicy można skorzystać z możliwości nurkowania."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub, zapewniając im rozrywkę i opiekę. Dostępny jest również specjalny basen dla dzieci, co czyni hotel idealnym miejscem na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Nowoczesny, luksusowy obiekt z 2026 roku",
+  "Bogata oferta gastronomiczna z opcją premium all-inclusive",
+  "Cztery baseny, w tym podgrzewany i dla dzieci",
+  "Spa, centrum fitness i bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Brak dostępnych opinii gości ze względu na nowe otwarcie hotelu",
+  "Brak informacji o zjeżdżalniach/aquaparku",
+  "Brak szczegółowych informacji o animacjach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sunrise Emerald ma bezpośredni dostęp do złotej, piaszczystej plaży Vrisoudia, znajdując się zaledwie metry od niej."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Larnaka (LCA), oddalony o około 50-65 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje mini klub dla dzieci oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Dostępne fakty nie zawierają szczegółowych informacji na temat zjeżdżalni czy aquaparku w hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom."
+  }
+ ],
+ "address": "77 Vrysoudion, Pernera, Protaras, Cypr (kod pocztowy 5295 lub 5296)",
+ "adultsOnly": false,
+ "airportKm": 57.5,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "Spa",
+  "Centrum fitness",
+  "Bezpłatne Wi-Fi",
+  "Klimatyzacja",
+  "Minibar"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Pernera",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny",
+  "każdy rodzaj podróżnika"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2026,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 4,
+ "roomTypes": [
+  "Deluxe (z ograniczonym widokiem na morze, z bocznym widokiem na morze i basen)",
+  "Junior Suite Sea View",
+  "One-Bedroom Suite Sea View",
+  "One-Bedroom Suite Panoramic Sea View",
+  "Two-Bedroom Suite Panoramic Sea View",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 170,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 8.2148352,
+  "lon": 79.7119063,
+  "src": "osm"
+ },
+ "sources": [
+  "protarashotels.net",
+  "booking.com",
+  "reserve-online.net",
+  "britishairways.com"
+ ],
+ "updated": "2026-11-27"
+}

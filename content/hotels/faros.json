@@ -1,0 +1,136 @@
+{
+ "id": 11809,
+ "slug": "faros",
+ "name": "Faros",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/faros-obiekt-teren-hotelu-basen-825727087-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Hotel Faros to czterogwiazdkowy obiekt położony w popularnym kurorcie Ayia Napa na Cyprze Południowym. Zlokalizowany jest w pobliżu portu rybackiego i zaledwie kilka minut spacerem od centrum miasta, co zapewnia łatwy dostęp do lokalnych atrakcji. Hotel otoczony jest palmowymi ogrodami, oferując spokojne otoczenie, jednocześnie będąc blisko tętniącego życiem centrum.",
+  "Obiekt jest idealnym wyborem zarówno dla rodzin z dziećmi, jak i dla par, które szukają komfortowego miejsca na wypoczynek. Położenie blisko piaszczystej plaży Limanaki oraz dostępność udogodnień dla najmłodszych sprawiają, że hotel Faros jest dobrą bazą do odkrywania uroków Cypru."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Faros znajduje się przy Makariou Avenue 34 w Ayia Napa, zaledwie 5 minut spacerem od centrum miasta. Od piaszczystej plaży Limanaki dzieli go około 300 metrów. Leżaki i parasole na plaży są dodatkowo płatne, jednak hotel zapewnia ręczniki basenowe, które można zabrać ze sobą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 161 lub 181 pokoi, rozmieszczonych w budynku głównym i aneksie. Dostępne są różne typy, w tym Inland View, Sea View, Side Sea View, Superior Sea View, Garden Suite Poolfront, Couple's Suite Sea View oraz Family Room. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, bezpłatne Wi-Fi, telefon, suszarkę do włosów, sejf i mini lodówkę. Wybrane apartamenty posiadają dodatkowo kapcie, a niektóre łazienki wyposażone są w wanny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży, nieregularny basen zewnętrzny z mostkami, fontannami i wodospadami, a także oddzielny brodzik dla dzieci. Dostępny jest również sezonowy basen kryty, którego korzystanie jest dodatkowo płatne. Goście mogą korzystać z siłowni, a w Oriental Spa dostępne są masaże, sauna, jacuzzi oraz zabiegi na ciało i twarz (dodatkowo płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował oddzielny brodzik oraz plac zabaw. Dostępny jest również mini klub, zapewniający rozrywkę i opiekę. Hotel Faros jest przyjazny rodzinom i nie jest hotelem wyłącznie dla dorosłych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Chez Makis serwuje dania kuchni międzynarodowej i cypryjskiej w formie bufetu na śniadania, obiady i kolacje. Organizowane są tu również wieczory tematyczne i menu à la carte. Na terenie obiektu znajdują się trzy bary: Chin Chin Bar, Faros Wet Pool Bar (bar w basenie) oraz Faros Lobby. Śniadanie w formie bufetu jest wliczone w cenę dla wszystkich gości."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży, portu i centrum",
+  "Przyjazny i pomocny personel",
+  "Duży i atrakcyjny basen",
+  "Smaczne i zróżnicowane śniadania",
+  "Wysoki standard czystości"
+ ],
+ "cons": [
+  "Pokoje z widokiem na ląd mogą być hałaśliwe",
+  "Leżaki i parasole na plaży są płatne",
+  "Korzystanie z krytego basenu jest płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Faros znajduje się około 300 metrów od piaszczystej plaży Limanaki."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel Faros nie posiada aquaparku ani zjeżdżalni na swoim terenie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Faros jest przyjazny rodzinom, oferuje brodzik, plac zabaw i mini klub dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe lotnisko w Larnace (LCA), oddalone o około 38-58 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Nie, hotel Faros nie jest hotelem tylko dla dorosłych, jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Makariou Avenue 34, 5330 Ayia Napa, Famagusta, Cypr",
+ "adultsOnly": false,
+ "airportKm": 38,
+ "airportName": "Międzynarodowe lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Blisko portu rybackiego Ayia Napa i centrum miasta",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1995,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Inland View Room",
+  "Sea View Room",
+  "Side Sea View Room",
+  "Superior Sea View Room",
+  "Garden Suite Poolfront",
+  "Couple's Suite Sea View",
+  "Family Room"
+ ],
+ "rooms": 161,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.9834568,
+  "lon": 34.0005552,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "atticaholidays.com",
+  "faroshotel.com.cy",
+  "onthebeach.co.uk",
+  "hotelayianapa.com",
+  "sunshine.co.uk",
+  "thomascook.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

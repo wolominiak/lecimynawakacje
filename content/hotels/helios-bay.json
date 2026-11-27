@@ -1,0 +1,135 @@
+{
+ "id": 63250,
+ "slug": "helios-bay",
+ "name": "Helios Bay",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/helios-bay-teren-hotelu-obiekt-1816956684-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Helios Bay to rodzinny hotel położony w turystycznej dzielnicy Chloraka w Paphos, na Cyprze Południowym. Obiekt, prowadzony przez rodzinę od 1982 roku, oferuje zakwaterowanie w apartamentach i willach, co czyni go odpowiednim wyborem dla osób ceniących sobie niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Hotel jest polecany dla rodzin i par poszukujących spokojnego i relaksującego wypoczynku. Dzięki swojej lokalizacji blisko plaży oraz udogodnieniom takim jak baseny, plac zabaw i animacje, Helios Bay stanowi dobrą bazę do odkrywania uroków Cypru."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Helios Bay znajduje się w dzielnicy Chloraka w Paphos, pomiędzy popularnym Coral Bay a Grobowcami Królów. Obiekt jest położony bezpośrednio przy piaszczystej plaży lub w odległości około 50-100 metrów. Warto jednak zaznaczyć, że plaża bezpośrednio przy hotelu może być kamienista w wodzie. Od centrum Paphos dzieli go około 4-5 km."
+  },
+  {
+   "title": "Pokoje i wille",
+   "text": "Helios Bay oferuje łącznie 68 pokoi, w tym studia, apartamenty z jedną lub dwiema sypialniami oraz wille z dwiema lub trzema sypialniami. Wszystkie pokoje wyposażone są w klimatyzację, w pełni wyposażony aneks kuchenny, łazienkę, telewizor, sejf oraz balkon lub taras. Wille były remontowane w 2016 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Helios Bay dysponuje barem przy basenie, gdzie serwowane są śniadania w formie bufetu, przekąski i napoje. Dodatkowo dostępny jest bar w lobby. Hotel oferuje opcje wyżywienia Bed and Breakfast (śniadania) lub Self Catering (bez wyżywienia), co oznacza, że nie ma opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny: główny basen oraz oddzielny basen dla dzieci. Goście mogą korzystać z siłowni, sauny i jacuzzi. Dostępne są również takie aktywności jak siatkówka, tenis stołowy i bilard. Od maja do października hotel organizuje animacje 6 dni w tygodniu, a raz w tygodniu wieczory folklorystyczne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz oddzielny basen. W sezonie (od maja do października) dostępne są animacje dla dzieci, co sprawia, że hotel jest odpowiednim miejscem na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko plaży i udogodnień",
+  "Dobra relacja jakości do ceny",
+  "Czyste i przestronne pokoje z aneksami kuchennymi",
+  "Spokojna atmosfera i ładny basen z widokiem na morze"
+ ],
+ "cons": [
+  "Brak opcji all inclusive",
+  "Plaża bezpośrednio przy hotelu może być kamienista w wodzie",
+  "Niektóre urządzenia na siłowni są starsze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Helios Bay jest położony bezpośrednio przy piaszczystej plaży lub w odległości około 50-100 metrów."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Paphos (PFO), oddalone o około 13-23 km, co zajmuje około 16-25 minut samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje plac zabaw, basen dla dzieci i animacje w sezonie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest bezpłatne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel Helios Bay oferuje wyżywienie w opcji Bed and Breakfast (śniadania) lub Self Catering (bez wyżywienia)."
+  }
+ ],
+ "address": "143 Chloraka Ave, Chloraka, Paphos CY 8220, Cypr",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Międzynarodowy Port Lotniczy Paphos (PFO)",
+ "amenities": [
+  "siłownia",
+  "sauna",
+  "jacuzzi",
+  "siatkówka",
+  "tenis stołowy",
+  "bilard"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Chloraka",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta (miejscami kamienista w wodzie)",
+ "centerKm": 4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1982,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio (Standard, z widokiem na morze, ogrodowe, z widokiem na basen w aneksie)",
+  "Apartament z jedną sypialnią (z bocznym widokiem na morze, ograniczonym widokiem na morze, superior z widokiem na morze)",
+  "Apartament z dwiema sypypialniami",
+  "Willa z dwiema sypialniami",
+  "Willa z trzema sypialniami"
+ ],
+ "rooms": 68,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.811142,
+  "lon": 32.3956725,
+  "src": "osm"
+ },
+ "sources": [
+  "helioshotelapartments.com",
+  "reserve-online.net",
+  "heliosbayhotel.com",
+  "google.com.ng",
+  "tui.co.uk",
+  "firstchoice.co.uk",
+  "loveholidays.com",
+  "itinera.com"
+ ],
+ "updated": "2026-11-27"
+}

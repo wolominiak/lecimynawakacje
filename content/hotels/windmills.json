@@ -1,0 +1,138 @@
+{
+ "id": 36567,
+ "slug": "windmills",
+ "name": "Windmills",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/windmills-basen-1471497411-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Windmills Hotel Apartments to 3.5-gwiazdkowy obiekt położony w cypryjskiej miejscowości Protaras, w spokojnej dzielnicy Pernera. Hotel zaprojektowany jest w tradycyjnym stylu wioski, otoczony zadbanymi ogrodami, co sprzyja relaksowi i wypoczynkowi.",
+  "Hotel jest szczególnie polecany dla par i rodzin szukających komfortowego zakwaterowania z możliwością samodzielnego przygotowywania posiłków. Bliskość piaszczystych plaż oraz udogodnienia dla dzieci sprawiają, że to dobry wybór na wakacje na Cyprze."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Windmills znajduje się w Protaras, w dzielnicy Pernera, około 500-600 metrów od najbliższej piaszczystej plaży. W pobliżu znajdują się plaże Pernera Beach i Kalamies Beach. Centrum Protaras oddalone jest o około 2-3 km, a międzynarodowe lotnisko w Larnace (LCA) o około 56 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 88 lub 113 apartamentów, w tym studia dla 2-3 osób oraz apartamenty z jedną sypialnią dla maksymalnie 4 osób. Każdy pokój wyposażony jest w prywatny balkon lub taras, w pełni wyposażony aneks kuchenny, łazienkę, telefon, telewizor oraz klimatyzację (dodatkowo płatną)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, Windmills Restaurant, serwująca dania kuchni cypryjskiej i międzynarodowej na śniadania, obiady i kolacje. Dostępne są również dwa bary/salony oraz bar przy basenie. Goście mogą wybrać opcję śniadań w formie bufetu lub niepełnego wyżywienia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu dostępne są dwa baseny, w tym sezonowy basen zewnętrzny i brodzik dla dzieci. Hotel oferuje animacje, takie jak karaoke i wieczorne występy na żywo. Dla aktywnych dostępna jest siłownia, sauna (za opłatą), bilard, rzutki oraz możliwość nurkowania."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Windmills Hotel Apartments to obiekt przyjazny rodzinom. Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz pokój gier. Hotel oferuje również animacje, które umilą czas dzieciom i dorosłym."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dobra atmosfera",
+  "Świetna lokalizacja blisko plaż",
+  "Duży basen",
+  "Przestronne pokoje z aneksem kuchennym"
+ ],
+ "cons": [
+  "Pokoje mogą być przestarzałe",
+  "Klimatyzacja dodatkowo płatna i bywa problematyczna",
+  "Słabe ciśnienie wody",
+  "Hałas z rozrywki lub od sąsiadów",
+  "Podstawowe wyposażenie kuchenne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel jest oddalony o około 500-600 metrów od najbliższej piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel Windmills posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada brodzik dla dzieci, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowe lotnisko w Larnace (LCA) oddalone jest od hotelu o około 56 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak brodzik, plac zabaw i pokój gier."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy w hotelu jest opcja all inclusive?",
+   "a": "Nie ma informacji o pakiecie all inclusive. Hotel oferuje śniadania w formie bufetu oraz opcję niepełnego wyżywienia."
+  }
+ ],
+ "address": "Pernera Avenue 75 (lub 69), Protaras, Cypr",
+ "adultsOnly": false,
+ "airportKm": 56,
+ "airportName": "Larnaka (LCA)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Balkon/taras w pokojach",
+  "Siłownia",
+  "Sauna (za opłatą)",
+  "Bilard",
+  "Rzutki",
+  "Nurkowanie",
+  "Plac zabaw dla dzieci",
+  "Pokój gier",
+  "Klub nocny"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Pernera",
+ "bars": 3,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 2.3,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1981,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (dla 2-3 osób) z aneksem kuchennym, łazienką, balkonem/tarasem",
+  "Apartament z jedną sypialnią (dla maksymalnie 4 osób) z aneksem kuchennym, łazienką, balkonem/tarasem"
+ ],
+ "rooms": 88,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 49.1870868,
+  "lon": -2.1911526,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "kayak.co.uk",
+  "agoda.com",
+  "reserve-online.net",
+  "planetofhotels.com",
+  "protaras-hotels.com",
+  "windmillshotel.com.cy",
+  "jet2holidays.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,143 @@
+{
+ "id": 35529,
+ "slug": "mc-palace",
+ "name": "MC Palace",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Północny",
+  "Kyrenia (Girne)"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/mc-palace-basen-1616307495-570-428.jpg",
+ "city": "Kyrenia (Girne)",
+ "intro": [
+  "Hotel MC Palace to czterogwiazdkowy obiekt położony w cypryjskiej miejscowości Kyrenia, w dzielnicy Catalkoy. Otwarty w 2019 roku i odnowiony w 2023 roku, oferuje nowoczesne udogodnienia w trzypiętrowym budynku. Hotel jest usytuowany blisko prywatnej plaży platformowej oraz w niewielkiej odległości od centrum miasta, co czyni go atrakcyjnym wyborem dla osób poszukujących zarówno relaksu, jak i dostępu do lokalnych atrakcji.",
+  "Hotel jest rekomendowany zarówno dla rodzin z dziećmi, dzięki dostępnym udogodnieniom takim jak mini klub i plac zabaw, jak i dla par czy dorosłych ceniących sobie spokój i możliwość skorzystania z centrum Spa & Wellness. Oferuje różnorodne opcje zakwaterowania oraz szeroki wachlarz usług rekreacyjnych, w tym baseny, siłownię i wieczorne animacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "MC Palace znajduje się w dzielnicy Catalkoy, około 5-7 km od centrum Kyrenii. Hotel jest oddalony o 250 metrów od prywatnej plaży platformowej, na której dostępne są leżaki. Najbliższe lotnisko Ercan (ECN) oddalone jest o około 30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 116 pokojami, w tym pokojami dwuosobowymi, rodzinnymi, Deluxe oraz King Room z różnymi widokami. Wszystkie pokoje wyposażone są w klimatyzację, minibar, bezpłatne Wi-Fi, telewizor, suszarkę do włosów, sejf oraz zestaw do parzenia kawy/herbaty. Niektóre pokoje posiadają balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna bufetowa, restauracja A'la Carte Bistro, Patisserie & Cafe oraz restauracja z daniami kuchni tureckiej. Goście mogą korzystać z kilku barów, w tym Lobby Baru czynnego całą dobę, Pool Baru oraz English Pubu. Hotel oferuje opcje zakwaterowania ze śniadaniami lub śniadaniami i obiadokolacjami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "MC Palace oferuje duży odkryty basen oraz oddzielny basen dla dzieci. Na terenie obiektu znajduje się centrum Spa & Wellness z sauną, łaźnią turecką i gabinetami zabiegowymi, a także centrum fitness. Dla aktywnych dostępne są bilard, tenis stołowy, rzutki, joga i sporty wodne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat z profesjonalnymi animatorami. Hotel jest przyjazny rodzinom i oferuje wieczorne animacje i rozrywkę dla wszystkich gości."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel i czystość",
+  "Dobre śniadania i przestronne pokoje",
+  "Szeroki zakres udogodnień wellness",
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Możliwość zatłoczenia w szczycie sezonu",
+  "Brak balkonów w niektórych pokojach",
+  "Monotonia lub turecki charakter posiłków (poza śniadaniami)",
+  "Brak aquaparku/zjeżdżalni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel MC Palace jest położony 250 metrów od prywatnej plaży platformowej."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Ercan Airport (ECN), oddalone o około 30 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada baseny ze zjeżdżalniami lub aquapark?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku. Hotel dysponuje dużym odkrytym basenem oraz basenem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada basen dla dzieci, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat z animatorami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; posiada udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Uğur Mumcu Bulvarı, Bademli sokak No:2 Çatalköy, Kyrenia, Cypr, 99300",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Ercan Airport (ECN)",
+ "amenities": [
+  "Centrum Spa & Wellness",
+  "Centrum fitness",
+  "Bezpłatne Wi-Fi",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Wieczorne animacje",
+  "Bilard",
+  "Tenis stołowy",
+  "Rzutki",
+  "Zajęcia jogi",
+  "Sporty wodne"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Catalkoy (Çatalköy)",
+ "bars": 4,
+ "beachDistanceM": 250,
+ "beachType": "platformowa",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "dorośli szukający relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2019,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 4,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double)",
+  "Pokój rodzinny (Family Room)",
+  "Pokój Deluxe",
+  "King Room z widokiem na góry",
+  "King Room z widokiem na morze",
+  "Economy Double Room"
+ ],
+ "rooms": 116,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.737152,
+  "lon": 7.424119,
+  "src": "osm"
+ },
+ "sources": [
+  "cyprusparadise.com",
+  "cypruspremier.com",
+  "planetofhotels.com",
+  "mcpalacehotel.com",
+  "skytravel.jp",
+  "halalworld.com",
+  "lastminute.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

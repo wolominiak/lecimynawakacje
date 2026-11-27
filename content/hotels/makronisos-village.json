@@ -1,0 +1,138 @@
+{
+ "id": 31637,
+ "slug": "makronisos-village",
+ "name": "Makronisos Village",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001453441-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Makronisos Village to trzygwiazdkowy hotel położony na obrzeżach Ayia Napa na Cyprze, w spokojnej dzielnicy Makronissos. Obiekt ma charakter wioski turystycznej, z budynkami mieszkalnymi rozmieszczonymi wśród zadbanych ogrodów. Hotel jest idealny dla rodzin z dziećmi, oferując liczne udogodnienia i aktywności dla wszystkich grup wiekowych, a także dla par szukających spokojnego wypoczynku z łatwym dostępem do atrakcji.",
+  "Ostatni remont hotelu miał miejsce w 2016 roku, a jego zabudowa nawiązuje do tradycyjnego cypryjskiego stylu. Goście doceniają przyjazną atmosferę i dobrą lokalizację, która pozwala na relaks z dala od zgiełku, jednocześnie zapewniając bliskość pięknych plaż i parku wodnego."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Makronisos Village znajduje się w Ayia Napa, w spokojnej dzielnicy Makronissos, około 8 km od centrum miasta. Złocista, piaszczysta plaża Makronissos oddalona jest o 500-800 metrów. W pobliżu, około 750-820 metrów, znajduje się również park wodny WaterWorld."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 110 lub 122 pokoje, w tym Studio, Bungalow, Apartament i Suite. Pokoje są odnowione i nowocześnie urządzone, wyposażone w aneks kuchenny, telewizor z płaskim ekranem, bezpłatne Wi-Fi oraz balkon lub werandę. Na powitanie goście otrzymują butelkę wody i wina."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja \"Athena\" serwuje śniadania, obiady i kolacje w formie bufetu. Dostępne są również dwie restauracje à la carte: \"Poseidon\" z daniami kuchni cypryjskiej i międzynarodowej oraz \"Garden of Eden\" z menu dla smakoszy. Pakiet All Inclusive obejmuje posiłki, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe od 10:00 do 24:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się duży basen zewnętrzny oraz oddzielny basen dla dzieci, a także jacuzzi. Hotel oferuje program animacyjny z zajęciami dziennymi i wieczorną rozrywką. Dostępne są również siłownia, spa z sauną, kort tenisowy oraz bilard."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub (dla dzieci w wieku 4-12 lat, działający od maja do października) oraz plac zabaw. Dostępny jest również basen dla dzieci, co czyni hotel atrakcyjnym wyborem dla rodzin."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel",
+  "Spokojna lokalizacja blisko plaży i parku wodnego",
+  "Przestronne i czyste pokoje (wiele odnowionych)",
+  "Duży basen i zadbane ogrody",
+  "Dobre jedzenie w barze przy basenie"
+ ],
+ "cons": [
+  "Hotel jest starszy (choć odnowiony w 2016 roku)",
+  "Sporadyczne problemy z utrzymaniem czystości/wymianą ręczników",
+  "Basen może być chłodny poza sezonem",
+  "Klimatyzacja w niektórych typach pokoi może być dodatkowo płatna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża Makronissos oddalona jest od hotelu o około 500-800 metrów."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Międzynarodowe lotnisko w Larnace (LCA) znajduje się około 51-52 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni, ale park wodny WaterWorld znajduje się w odległości około 750-820 metrów."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje mini klub, plac zabaw oraz basen dla dzieci, a także animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest polecany dla rodzin."
+  }
+ ],
+ "address": "148 Nissi Avenue, Ayia Napa, 5340 Cypr",
+ "adultsOnly": false,
+ "airportKm": 51,
+ "airportName": "Larnaca (LCA)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "Sauna",
+  "Jacuzzi",
+  "Kort tenisowy",
+  "Bilard",
+  "Rzutki",
+  "Tenis stołowy",
+  "Siatkówka",
+  "Siatkówka plażowa",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Makronissos",
+ "bars": 1,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 8,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1980,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 3,
+ "roomTypes": [
+  "Superior Studio",
+  "Superior One-Bedroom Apartment",
+  "Bungalow",
+  "One-Bedroom Suite",
+  "Studio Suite",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 110,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "waze.com",
+  "makronisosvillage.com",
+  "reserve-online.net",
+  "cyprushotelassociation.org",
+  "chaf.com.cy",
+  "onthebeach.co.uk",
+  "booking.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

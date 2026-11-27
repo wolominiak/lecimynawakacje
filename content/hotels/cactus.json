@@ -1,0 +1,138 @@
+{
+ "id": 3633,
+ "slug": "cactus",
+ "name": "Cactus",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Larnaka"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/cactus-basen-obiekt-845859679-570-428.jpg",
+ "city": "Larnaka",
+ "intro": [
+  "Hotel Cactus w Larnace na Cyprze Południowym to dwugwiazdkowy obiekt, który został całkowicie odnowiony w 2016 roku. Położony jest w dzielnicy Makenzie, około 200 metrów od piaszczystej plaży Kastella, co czyni go atrakcyjnym wyborem dla osób ceniących bliskość morza.",
+  "Hotel jest polecany dla rodzin, par oraz osób podróżujących w celach wypoczynkowych, szukających ekonomicznego zakwaterowania. Oferuje udogodnienia dla dzieci i sezonowy program rozrywkowy dla dorosłych, co sprawia, że jest odpowiedni dla różnych grup gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Cactus znajduje się w Larnace, w dzielnicy Makenzie, około 200 metrów od piaszczystej plaży Kastella. Odległość ta odpowiada około 4-minutowemu spacerowi. Obiekt jest położony za ulicą prowadzącą wzdłuż wybrzeża, co zapewnia ochronę przed hałasem. Do centrum Larnaki jest około 2 km, a do lotniska LCA około 5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 58 do 60 klimatyzowanych pokoi jedno-, dwu- i trzyosobowych, rozmieszczonych na trzech piętrach. Każdy pokój wyposażony jest w prywatną łazienkę z suszarką do włosów, balkon lub taras, telewizor z płaskim ekranem i kanałami satelitarnymi oraz telefon. Sejf jest dostępny, a lodówka za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni śródziemnomorskiej, europejskiej i greckiej. Codziennie rano podawane jest śniadanie w formie bufetu. Goście mogą również skorzystać z baru w lobby oraz baru przy basenie, który oferuje przekąski. Dostępna jest opcja all inclusive, obejmująca bufety na śniadanie, obiad i kolację, z możliwością wyboru dań à la carte."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym basenem ze słodką wodą, przy którym dostępne są leżaki i parasole. Dla aktywnych gości dostępna jest siłownia, a także możliwość uprawiania windsurfingu, nurkowania, jazdy na rowerze oraz aerobiku. Hotel oferuje również masaże i saunę za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował kącik dla dzieci oraz plac zabaw. Hotel jest prowadzony jako rodzinny i oferuje udogodnienia dostosowane do potrzeb rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Czyste pokoje i obiekt",
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko plaży i lotniska",
+  "Ładny i czysty basen",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Podstawowe śniadania z ograniczoną różnorodnością",
+  "Lodówka w pokojach za dodatkową opłatą",
+  "Brak czajnika, kawy i herbaty w pokojach",
+  "Sporadyczny hałas",
+  "Zapach ręczników"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Cactus od plaży?",
+   "a": "Hotel Cactus znajduje się około 200 metrów od piaszczystej plaży Kastella, co odpowiada około 4-minutowemu spacerowi."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 5 km od Międzynarodowego Lotniska w Larnace (LCA), co zajmuje około 7-10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu Cactus. Dostępny jest jeden odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest prowadzony jako rodzinny i oferuje kącik dla dzieci oraz plac zabaw. Jest polecany dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne szybkie Wi-Fi we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel Cactus jest tylko dla dorosłych?",
+   "a": "Nie, hotel Cactus nie jest obiektem tylko dla dorosłych. Jest to hotel rodzinny z udogodnieniami dla dzieci."
+  }
+ ],
+ "address": "6-8 Tyrimou Str, 6027 Larnaca, Cypr",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Międzynarodowe Lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Klimatyzacja",
+  "Recepcja 24h",
+  "Przechowalnia bagażu",
+  "Winda",
+  "Wypożyczalnia samochodów",
+  "Prasowanie",
+  "Pralnia"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Makenzie",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby podróżujące",
+  "Osoby szukające ekonomicznego zakwaterowania"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1984,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy/typu twin (klimatyzacja, prywatna łazienka z suszarką do włosów, balkon/taras, telewizor z płaskim ekranem i kanałami satelitarnymi, telefon, sejf, lodówka za opłatą)",
+  "Pokój trzyosobowy (dla 3 dorosłych lub 2 dorosłych + 1 dziecka, klimatyzacja, prywatna łazienka z suszarką do włosów, balkon/taras, telewizor z płaskim ekranem i kanałami satelitarnymi, telefon, sejf, lodówka za opłatą)"
+ ],
+ "rooms": 60,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.9006031,
+  "lon": 33.6355832,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "cactushotel.cy",
+  "cyprushotel.net",
+  "geoview.info",
+  "yandex.com",
+  "booking.com",
+  "holidaycheck.de",
+  "larnakahotel.com"
+ ],
+ "updated": "2026-11-27"
+}

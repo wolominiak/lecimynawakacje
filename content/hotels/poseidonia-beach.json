@@ -1,0 +1,139 @@
+{
+ "id": 12188,
+ "slug": "poseidonia-beach",
+ "name": "Poseidonia Beach",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Limassol"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/poseidonia-beach-obiekt-1459076074-570-428.jpg",
+ "city": "Limassol",
+ "intro": [
+  "Hotel Poseidonia Beach to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w turystycznej części Limassol, w dzielnicy Amathus Area na Cyprze Południowym. Otoczony 2000 m² ogrodów, oferuje relaksujący wypoczynek z łatwym dostępem do morza.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i par szukających spokoju oraz aktywnego wypoczynku. Dzięki licznym udogodnieniom, takim jak baseny, animacje i spa, stanowi dobrą bazę do odkrywania uroków Limassol i okolic."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Poseidonia Beach znajduje się bezpośrednio przy piaszczystej plaży w Zatoce Limassol, w dzielnicy Amathus Area. Od centrum Limassol dzieli go około 7-8 km. Na plaży dostępny jest sztywny dywan ułatwiający dostęp, a leżaki i parasole są dostępne za niewielką opłatą. Ręczniki plażowe są zapewnione przez hotel."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 140 pokojami, w tym standardowymi, rodzinnymi, apartamentami Executive i Presidential, a także pokojami przystosowanymi dla osób niepełnosprawnych. Wszystkie pokoje są klimatyzowane i wyposażone w łazienkę z bidetem, suszarkę do włosów, telewizor z płaskim ekranem, sejf, minibar oraz zestaw do parzenia kawy/herbaty. Większość pokoi posiada balkon z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive hotel oferuje śniadania, lunche i kolacje w formie bufetu w restauracji Poseidon, serwującej kuchnię międzynarodową i śródziemnomorską. Dostępne są również przekąski, podwieczorek z herbatą i ciastkami oraz lody dla dzieci. Na terenie obiektu znajdują się bary: Trident Bar, Wanax Beach Bar (sezonowo) oraz Wanax Mediterranean Tapas Bar, oferujące lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa odkryte baseny ze słodką wodą (jeden dla dorosłych, jeden dla dzieci), które w zimie są kryte i podgrzewane. Dostępny jest również brodzik dla najmłodszych. Na terenie obiektu znajduje się centrum fitness/siłownia, dwa oświetlone korty tenisowe, tenis stołowy i siatkówka plażowa. Animacje dla całej rodziny organizowane są 6 dni w tygodniu (od maja do października)."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "Deity Spa / Spa & Gym oferuje szeroki zakres usług, w tym saunę, łaźnię parową, jacuzzi, masaże i różnorodne zabiegi. Na miejscu dostępny jest również salon piękności i fryzjer, co pozwala na pełen relaks i odnowę biologiczną podczas pobytu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy piaszczystej plaży",
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje i dobre Wi-Fi",
+  "Dobre i różnorodne śniadania",
+  "Udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Niektóre udogodnienia mogą być nieco przestarzałe",
+  "Leżaki i parasole na plaży są płatne",
+  "Brak aquaparku na terenie hotelu",
+  "Hotel otwarty w 1979 roku, mimo renowacji",
+  "Ograniczone animacje poza sezonem (maj-październik)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy piaszczystej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Larnaka (LCA), oddalone o około 60-65 km. Lotnisko w Pafos (PFO) znajduje się około 70 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci, plac zabaw oraz animacje dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci."
+  }
+ ],
+ "address": "Amathus Area, P.O.Box 51206, 3502 Limassol, Cypr",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Larnaka (LCA)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Dwa korty tenisowe",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Salon piękności",
+  "Fryzjer"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Amathus Area / Agios Tychonas",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 7,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1979,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje standardowe (z widokiem na morze lub ląd/góry)",
+  "Pokoje rodzinne",
+  "Executive Suites (z małym salonem, szlafrokami, kapciami, koszem owoców i winem na powitanie)",
+  "Presidential Suites",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 140,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.7053651,
+  "lon": 33.1158854,
+  "src": "osm"
+ },
+ "sources": [
+  "vivehotels.com",
+  "cymply-cy.com",
+  "travelweekly.com",
+  "thomascook.com",
+  "maotaxiexpress.com",
+  "poseidonia-beachhotel.com",
+  "onthebeach.co.uk",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-27"
+}

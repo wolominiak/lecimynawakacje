@@ -1,0 +1,136 @@
+{
+ "id": 42191,
+ "slug": "sofianna",
+ "name": "Sofianna",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001460856-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Sofianna Resort & Spa to czterogwiazdkowy hotel położony w samym sercu Paphos na Cyprze Południowym, w dzielnicy Kato Paphos. Obiekt, otwarty w 2018 roku, jest idealnym wyborem dla rodzin z dziećmi oraz par, szukających komfortowego wypoczynku blisko atrakcji turystycznych i plaży.",
+  "Hotel oferuje szeroki wachlarz udogodnień, w tym park wodny dla dzieci, mini klub, strefę dla nastolatków oraz bogaty program animacyjny. Dzięki centralnej lokalizacji goście mają łatwy dostęp do nadmorskiej promenady, portu, sklepów i restauracji, co czyni go atrakcyjnym miejscem na wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sofianna Resort & Spa znajduje się w centrum Paphos, zaledwie 400-500 metrów od piaszczystej plaży Alykes, znanej z czystej wody. W bliskiej odległości, około 1.9-3 km, znajduje się centrum Paphos, a do portu jest około 2 km. Międzynarodowe Lotnisko w Paphos (PFO) oddalone jest o około 15-16 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 190 pokoi rozmieszczonych w trzech budynkach. Do wyboru są pokoje Standardowe, Superior, Deluxe, Junior Suites oraz Two-Bedroom Suites, z widokiem na ląd, basen, miasto, częściowym widokiem na morze lub bezpośrednim dostępem do basenu (swim-up). Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, bezpłatne Wi-Fi, łazienkę z suszarką do włosów, balkon lub taras, zestaw do parzenia kawy/herbaty, małą lodówkę i sejf."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z głównej restauracji bufetowej Elea, restauracji à la carte Mesogios serwującej kuchnię śródziemnomorską oraz Mylos Snacks oferującej przekąski przez cały dzień. Na terenie obiektu znajdują się również trzy bary: Thalassa Pool Bar, Ammos Pool Bar i 1900 Lounge Bar. Pakiet All Inclusive obejmuje śniadania, obiady, kolacje w formie bufetu, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Sofianna Resort & Spa dysponuje dwoma dużymi basenami zewnętrznymi, basenem krytym (podgrzewanym od listopada do marca) oraz basenem dla dzieci. Dużą atrakcją jest park wodny z motywem przewodnim i zjeżdżalniami dla dzieci w wieku 3-12 lat. Hotel oferuje również centrum fitness, kort do padla (dodatkowo płatny) oraz centrum spa z sauną, jacuzzi, masażami i zabiegami na ciało i twarz."
+  },
+  {
+   "title": "Dla dzieci i młodzieży",
+   "text": "Hotel jest przyjazny rodzinom, oferując mini klub dla dzieci w wieku 3-11 lat (czynny od kwietnia do października) oraz strefę relaksu dla nastolatków w wieku 12-17 lat, wyposażoną w komputery z dostępem do internetu i stół do gier. Codziennie organizowane są animacje i programy rozrywkowe dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Paphos, blisko plaży i atrakcji",
+  "Urozmaicone jedzenie, w tym bufety tematyczne",
+  "Dobre udogodnienia basenowe, w tym park wodny dla dzieci",
+  "Przyjazny i pomocny personel",
+  "Czyste i komfortowe pokoje"
+ ],
+ "cons": [
+  "Potencjalny hałas w okolicach basenu podczas wieczornych animacji",
+  "Sporadyczne niekonsekwencje w sprzątaniu",
+  "Restauracja à la carte może wymagać dopłaty dla gości all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sofianna Resort & Spa jest oddalony o 400-500 metrów od piaszczystej plaży Alykes."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Hotel znajduje się około 15-16 km od Międzynarodowego Lotniska w Paphos (PFO)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada park wodny z motywem przewodnim i zjeżdżalniami dla dzieci w wieku 3-12 lat."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin, oferuje mini klub, strefę dla nastolatków, basen dla dzieci i park wodny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne szybkie Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci i nastolatków."
+  }
+ ],
+ "address": "9 Agamemnon Street, CY-8041, Paphos, Cypr",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Międzynarodowe Lotnisko w Paphos (PFO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard",
+  "Rzutki",
+  "Tenis stołowy",
+  "Siatkówka",
+  "Kort do padla (dodatkowo płatny)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kato Paphos",
+ "bars": 3,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 1.9,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2018,
+ "pools": 4,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standardowe",
+  "Superior",
+  "Deluxe",
+  "Junior Suites",
+  "Two-Bedroom Suites"
+ ],
+ "rooms": 190,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.758714,
+  "lon": 32.4156919,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "britishairways.com",
+  "tui.co.uk",
+  "louishotels.com",
+  "sofianna.com",
+  "skyscanner.net",
+  "trivago.co.uk",
+  "hfind.com"
+ ],
+ "updated": "2026-11-27"
+}

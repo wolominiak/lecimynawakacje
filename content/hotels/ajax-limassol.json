@@ -1,0 +1,136 @@
+{
+ "id": 2822,
+ "slug": "ajax-limassol",
+ "name": "Ajax (Limassol)",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Limassol"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/ajax-limassol-basen-1447613604-570-428.jpg",
+ "city": "Limassol",
+ "intro": [
+  "Hotel Ajax to czterogwiazdkowy obiekt położony w sercu kosmopolitycznego Limassol na Cyprze, oferujący komfortowy pobyt zarówno turystom, jak i podróżującym służbowo. Dzięki dogodnej lokalizacji w centrum miasta, goście mają łatwy dostęp do lokalnych atrakcji, sklepów i miejsc historycznych.",
+  "Hotel jest polecany dla par, rodzin z dziećmi oraz osób podróżujących w celach biznesowych. Oferuje szeroki zakres udogodnień, w tym baseny, spa oraz animacje dla całej rodziny, co czyni go atrakcyjnym wyborem na różnorodne typy wakacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ajax znajduje się w Limassol, w pobliżu dzielnic Mesa Geitonia i St. Paraskevi. Od najbliższej plaży dzieli go około 1 km, co oznacza około 10 minut spacerem. Publiczna plaża Dasoudi jest oddalona o około 2,2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 172 pokojami, które były generalnie remontowane w 2007 roku, a pokoje Executive w lutym 2020 roku. Wszystkie pokoje są klimatyzowane i posiadają prywatne balkony. W zależności od typu, pokoje mogą pomieścić od dwóch do trzech osób."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Ekavi Restaurant, oferująca kuchnię cypryjską i międzynarodową, oraz Priamos Restaurant z kuchnią śródziemnomorską. Do dyspozycji gości są również dwa bary: Ulysses' Bar & Café and Terrace oraz Poseidon Snack and Pool Bar przy basenie. Hotel oferuje opcje wyżywienia takie jak śniadania, częściowe wyżywienie i pełne wyżywienie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen, kryty podgrzewany basen oraz oddzielny basen dla dzieci. Dla najmłodszych dostępny jest plac zabaw, a od maja do października organizowane są animacje dla całej rodziny. Strefa spa, siłownia i kryty basen są dostępne wyłącznie dla osób powyżej 18 roku życia."
+  },
+  {
+   "title": "Spa i sport",
+   "text": "Ayana Spa oferuje cztery gabinety zabiegowe, saunę, jacuzzi i łaźnię parową. Siłownia jest wyposażona w nowoczesny sprzęt, a hotel dysponuje również zewnętrznymi kortami tenisowymi i stołem do tenisa stołowego. Bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  }
+ ],
+ "pros": [
+  "Czyste i komfortowe pokoje (często po remoncie)",
+  "Bardzo przyjazny i pomocny personel",
+  "Smaczne i obfite śniadania",
+  "Dobra lokalizacja z łatwym dostępem do atrakcji miasta",
+  "Dobre udogodnienia (baseny, spa, siłownia)"
+ ],
+ "cons": [
+  "Odległość od plaży może być wyzwaniem w upalne dni",
+  "Brak informacji o rodzaju plaży i dostępności leżaków/ręczników na plaży",
+  "Strefa spa, siłownia i kryty basen tylko dla dorosłych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 1 km (10 minut spacerem) od najbliższej plaży."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to międzynarodowe lotnisko w Larnace (LCA) około 60-72 km i międzynarodowe lotnisko w Pafos (PFO) około 50-60 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych czy aquaparku w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje basen dla dzieci, plac zabaw oraz animacje dla całej rodziny od maja do października."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny internet Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych, ale strefa spa, siłownia i kryty basen są dostępne tylko dla gości powyżej 18 roku życia."
+  }
+ ],
+ "address": "Georgiou Neophytou & D. Nicolaou Street, 3311 Limassol, Cypr",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Larnaca (LCA) lub Pafos (PFO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Tenis stołowy",
+  "Plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum miasta, w pobliżu dzielnic Mesa Geitonia i St. Paraskevi",
+ "bars": 2,
+ "beachDistanceM": 1000,
+ "beachType": "",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Podróżujący służbowo",
+  "Wakacje budżetowe",
+  "Konferencje i wydarzenia specjalne"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój Executive Double or Twin: około 25 m², drewniane podłogi, balkon, marmurowa łazienka, sejf, mini lodówka, suszarka do włosów, TV, zestaw do kawy/herbaty, klimatyzacja, Wi-Fi.",
+  "Pokój Superior Double or Twin City View: około 25 m², podobne udogodnienia jak Executive.",
+  "Pokój Classic: dwa łóżka pojedyncze lub podwójne, drewniane podłogi, balkon, sejf, minibar, suszarka do włosów, TV, zestaw do kawy/herbaty.",
+  "Suita Executive: salon, oddzielna sypialnia, łazienka z prysznicem, widok na morze, dźwiękoszczelne ściany, minibar."
+ ],
+ "rooms": 172,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.6958368,
+  "lon": 33.0640675,
+  "src": "osm"
+ },
+ "sources": [
+  "hrs.com",
+  "mapcarta.com",
+  "ownerdirect.com",
+  "world-travel-directory.net",
+  "cyprusparadise.com",
+  "onthebeach.co.uk",
+  "booking.com",
+  "google.com.ng"
+ ],
+ "updated": "2026-11-27"
+}

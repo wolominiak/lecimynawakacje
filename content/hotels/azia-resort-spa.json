@@ -1,0 +1,140 @@
+{
+ "id": 21046,
+ "slug": "azia-resort-spa",
+ "name": "Azia Resort & Spa",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/azia-resort-spa-basen-825754336-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Azia Resort & Spa to pięciogwiazdkowy hotel położony w miejscowości Chloraka, niedaleko Paphos na Cyprze Południowym. Obiekt usytuowany jest nad brzegiem morza, oferując widoki na Zatokę Paphos i zachody słońca. Otoczony bujnymi, tropikalnymi ogrodami, stanowi idealne miejsce na relaks.",
+  "Hotel jest polecany dla szerokiego grona gości - zarówno dla rodzin z dziećmi, par, jak i osób podróżujących solo. Dzięki wydzielonym strefom dla dorosłych i bogatej ofercie dla najmłodszych, każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Azia Resort & Spa znajduje się w Chloraka, około 6 km od centrum Paphos. Obiekt położony jest bezpośrednio przy morzu, z dostępem do piaszczysto-żwirowej plaży oddalonej o około 180 metrów. Na plaży dostępne są leżaki i parasole dla gości hotelowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 305 pokoi w budynku głównym i bungalowach, od standardowych po suity i pokoje premium. Wszystkie pokoje wyposażone są w klimatyzację, zestaw do parzenia kawy/herbaty, minibar, sejf, bezpłatne Wi-Fi oraz balkon lub taras. Pokoje Premium i Adults Only mogą oferować dodatkowe udogodnienia."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się sześć restauracji i siedem barów. Goście mogą wybierać spośród kuchni międzynarodowej, włoskiej, cypryjskiej, greckiej, azjatyckiej i meksykańskiej. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu oraz możliwość korzystania z restauracji a la carte."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje trzema basenami, w tym dużym basenem lagunowym, basenem tylko dla dorosłych oraz krytym basenem podgrzewanym zimą. Dla dzieci dostępny jest brodzik. Hotel oferuje codzienne animacje, kluby dla dzieci i nastolatków oraz szeroki wachlarz aktywności sportowych, takich jak tenis, siatkówka czy aqua aerobik. Na terenie hotelu znajduje się również nagradzane Asphodel Spa i siłownia."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano Kids Club dla dzieci w wieku 2.5-12 lat oraz Baby Crèche dla niemowląt. Dostępny jest również klub dla nastolatków z grami i dyskotekami. Hotel posiada brodzik dla dzieci oraz wydzielone strefy rodzinne."
+  }
+ ],
+ "pros": [
+  "Malownicza lokalizacja nad morzem z pięknymi zachodami słońca",
+  "Wydzielone strefy dla rodzin i dorosłych",
+  "Sześć restauracji z różnorodną kuchnią",
+  "Nagradzane spa i centrum fitness",
+  "Dobre programy animacyjne i kluby dla dzieci/nastolatków"
+ ],
+ "cons": [
+  "Plaża jest mieszanką piasku i kamyków/żwiru",
+  "Aquapark poza hotelem, dodatkowo płatny",
+  "Brak prywatnej plaży",
+  "Ograniczona przestrzeń do przechowywania w niektórych pokojach",
+  "Potencjalnie głośna klimatyzacja w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 180 metrów od plaży, z bezpośrednim dostępem do morza."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Aquapark znajduje się poza hotelem, około 350 metrów dalej, i jest dodatkowo płatny."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Międzynarodowe Lotnisko Paphos (PFO) oddalone jest o około 14 km, co oznacza około 25 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje Kids Club, Baby Crèche, klub dla nastolatków, brodzik oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel posiada wydzielone strefy tylko dla dorosłych (powyżej 16 lat), ale również strefy rodzinne."
+  }
+ ],
+ "address": "Chlorakas Avenue 131, Chloraka, Paphos, Cypr, 8220",
+ "adultsOnly": false,
+ "airportKm": 14,
+ "airportName": "Międzynarodowe Lotnisko Paphos (PFO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Klub dla dzieci",
+  "Klub dla nastolatków",
+  "Bary swim-up",
+  "Podgrzewany basen kryty"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Chloraka",
+ "bars": 7,
+ "beachDistanceM": 180,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "podróżujący solo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 6,
+ "roomTypes": [
+  "Standard Mountain View",
+  "Standard Sea View",
+  "Superior Sea View",
+  "Superior Sea View z jacuzzi na zewnątrz",
+  "Family Suite",
+  "Junior Suite",
+  "Premium Twin Room",
+  "Adults Only Premium Sea View Room",
+  "Pokoje łączone",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 305,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "youtube.com",
+  "adorehotels.com",
+  "thomascook.com",
+  "hotels-in-paphos.com",
+  "trivago.ie",
+  "britishairways.com",
+  "hrs.com",
+  "reserve-online.net"
+ ],
+ "updated": "2026-11-27"
+}

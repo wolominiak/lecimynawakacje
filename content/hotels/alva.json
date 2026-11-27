@@ -1,0 +1,143 @@
+{
+ "id": 36601,
+ "slug": "alva",
+ "name": "Alva",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/alva-teren-hotelu-1471597693-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Hotel Alva to obiekt o standardzie 3.5 gwiazdki, położony w sercu Protaras na Cyprze Południowym, w bliskiej odległości od słynnej zatoki Fig Tree Bay. Jest to idealna propozycja dla osób ceniących sobie centralną lokalizację i łatwy dostęp do atrakcji turystycznych.",
+  "Obiekt, odnowiony w 2017 roku, oferuje komfortowe studia i apartamenty z aneksami kuchennymi, co czyni go doskonałym wyborem zarówno dla rodzin z dziećmi, jak i par poszukujących niezależności podczas wakacji. Hotel zapewnia szereg udogodnień, w tym basen, restaurację i bezpłatne Wi-Fi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Alva znajduje się w centrum Protaras, przy głównej ulicy i promenadzie, zaledwie 100 metrów od centrum turystycznego. Do piaszczystej plaży Fig Tree Bay jest około 200-300 metrów, co zajmuje 3-5 minut spacerem. Na plaży dostępne są leżaki i parasole za dodatkową opłatą, gdyż nie jest to plaża hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 85 pokojami, w tym studiami i apartamentami z jedną sypialnią. Wszystkie pokoje wyposażone są w prywatny balkon, aneks kuchenny z podstawowym sprzętem, klimatyzację, telewizor satelitarny oraz prywatną łazienkę. Dostępne są również łóżeczka dziecięce bezpłatnie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Alva znajduje się jedna restauracja oraz trzy bary: bar przekąskowy, bar w lobby i bar przy basenie. Restauracja serwuje śniadania w formie bufetu, a także obiady i kolacje z daniami kuchni cypryjskiej i międzynarodowej. Hotel oferuje opcje wyżywienia takie jak \"bez wyżywienia\", \"śniadania\" oraz \"dwa posiłki\" (śniadania i kolacje)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden odkryty basen ze słodką wodą oraz brodzik dla dzieci. Hotel oferuje występy na żywo. Dostępne są masaże i terapie relaksacyjne w salonie piękności/fryzjerze (za opłatą). W hotelu jest kort tenisowy oraz bilard i rzutki (za opłatą)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, wewnętrzny plac zabaw, gry wideo, wysokie krzesełka oraz menu dla dzieci. Dostępna jest również usługa opieki nad dziećmi za dodatkową opłatą. Hotel jest przyjazny rodzinom."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Protaras",
+  "Bliskość plaży Fig Tree Bay",
+  "Przyjazny i pomocny personel",
+  "Czyste i przestronne pokoje z aneksami kuchennymi",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Hotel może być nieco przestarzały w niektórych częściach",
+  "Leżaki przy basenie bywają wcześnie zajmowane",
+  "Basen traci słońce wczesnym wieczorem",
+  "Hałas z pobliskich barów/promenady",
+  "Materace mogą być zbyt miękkie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Alva znajduje się około 200-300 metrów (3-5 minut spacerem) od piaszczystej plaży Fig Tree Bay."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Larnace (LCA), oddalone o około 58-67 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku należącym do hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik dla dzieci, wewnętrzny plac zabaw, menu dla dzieci oraz usługę opieki nad dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel Alva jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "58 Protaras Avenue, Protaras, 5296, Cypr",
+ "adultsOnly": false,
+ "airportKm": 62.5,
+ "airportName": "Międzynarodowe Lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Balkon",
+  "Klimatyzacja",
+  "Telewizor satelitarny",
+  "Sejf (za opłatą)",
+  "Suszarka do włosów",
+  "Łóżeczko dziecięce (bezpłatnie)",
+  "Wysokie krzesełka dla dzieci",
+  "Opieka nad dziećmi (za opłatą)",
+  "Kort tenisowy",
+  "Bilard (za opłatą)",
+  "Rzutki (za opłatą)",
+  "Masaże (za opłatą)",
+  "Salon piękności/fryzjer"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centrum Protaras",
+ "bars": 3,
+ "beachDistanceM": 250,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1991,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (ok. 30-42 m², balkon, aneks kuchenny, klimatyzacja, TV sat, łazienka z prysznicem/wanną, sejf, łóżka pojedyncze, rozkładana sofa)",
+  "Apartament z jedną sypialnią (ok. 40-42 m², balkon, aneks kuchenny, klimatyzacja, TV sat, łazienka z prysznicem/wanną, sejf, łóżka pojedyncze, rozkładana sofa)",
+  "Suite (ok. 38-42 m², balkon, aneks kuchenny, klimatyzacja, TV sat, łazienka z prysznicem/wanną, sejf, łóżka pojedyncze, rozkładana sofa)"
+ ],
+ "rooms": 85,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.012022,
+  "lon": 34.0555416,
+  "src": "osm"
+ },
+ "sources": [
+  "britishairways.com",
+  "thomascook.com",
+  "visit.guide",
+  "protarashotels.net",
+  "trivago.co.uk",
+  "mapcarta.com",
+  "jet2holidays.com",
+  "tui.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

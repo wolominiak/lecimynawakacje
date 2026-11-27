@@ -1,0 +1,135 @@
+{
+ "id": 35001,
+ "slug": "hilltop-gardens",
+ "name": "Hilltop Gardens",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/hilltop-gardens-basen-846274288-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Hilltop Gardens to trzygwiazdkowy kompleks apartamentów położony w Paphos na Cyprze Południowym. Obiekt znajduje się w dzielnicy rozrywkowej, blisko plaży i w historycznej części miasta, co czyni go dobrą bazą wypadową do zwiedzania okolicy.",
+  "Hotel jest polecany dla rodzin, par, grup przyjaciół oraz podróżnych szukających relaksu i wygodnego miejsca do samodzielnego przygotowywania posiłków. Oferuje spokojną atmosferę i jest otoczony pięknie zagospodarowanymi ogrodami."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hilltop Gardens znajduje się w Paphos, około 500 metrów do 1 km od najbliższej plaży. Piaszczysta plaża Venus oddalona jest o około 900 metrów. Obiekt położony jest w głębi lądu od głównej drogi, około 1.5-3 km od centrum Paphos."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 48 apartamentów z jedną lub dwiema sypialniami oraz apartamenty rodzinne. Wszystkie apartamenty wyposażone są w łazienkę, balkon lub taras, część wypoczynkową z telewizorem oraz w pełni wyposażony aneks kuchenny. Klimatyzacja i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się dwa odkryte baseny, w tym jeden oddzielny basen dla dzieci, dostępne przez cały rok. Hotel oferuje kort tenisowy oraz bilard (za opłatą). Rozrywka w hotelu jest raczej niskokluczowa, bez szczegółowych animacji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca śniadania, obiady i kolacje, a także kawiarnia. Dostępny jest również bar przy basenie oraz bar/lounge, oferujący lokalne i importowane napoje oraz przekąski. Hotel oferuje wyżywienie ze śniadaniem (Bed & Breakfast) lub wyżywienie we własnym zakresie (Self Catering)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hilltop Gardens jest idealny dla rodzin z dziećmi, par i grup przyjaciół poszukujących spokojnego miejsca z możliwością samodzielnego gotowania. Jest to również dobra opcja dla podróżnych dbających o budżet, którzy chcą zwiedzać okolicę Paphos."
+  }
+ ],
+ "pros": [
+  "Dobra wartość za pieniądze",
+  "Czyste i przestronne apartamenty",
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko atrakcji i sklepów",
+  "Możliwość samodzielnego gotowania"
+ ],
+ "cons": [
+  "Brak Wi-Fi w pokojach lub słaby zasięg",
+  "Bar i restauracja z zawyżonymi cenami",
+  "Zakaz spożywania własnego jedzenia i napojów przy basenie",
+  "Lokalizacja wymagająca transportu do większości miejsc",
+  "Ograniczony wybór śniadań"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 500 metrów do 1 km od najbliższej plaży. Plaża Venus oddalona jest o około 900 metrów."
+  },
+  {
+   "q": "Jak daleko jest do centrum Paphos?",
+   "a": "Odległość od centrum Paphos wynosi około 1.5 km do 3 km."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Paphos (PFO), oddalone o około 10-15 km, co oznacza około 12-15 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, z oddzielnym basenem dla dzieci. Dzieci w wieku od 1 do 11 lat mogą przebywać bezpłatnie, korzystając z istniejących łóżek."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, jednak w pokojach może być brak zasięgu lub słaby sygnał."
+  }
+ ],
+ "address": "1 Elpidos Street, Paphos 8016, Cypr",
+ "adultsOnly": false,
+ "airportKm": 10,
+ "airportName": "Międzynarodowe Lotnisko Paphos (PFO)",
+ "amenities": [
+  "Kort tenisowy",
+  "Bilard (płatny)",
+  "Bezpłatne Wi-Fi w częściach wspólnych"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Dzielnica rozrywkowa, historyczna część miasta",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "Piaszczysta (w Kato Paphos)",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Grupy przyjaciół",
+  "Podróżni dbający o budżet",
+  "Osoby szukające bazy wypadowej do zwiedzania"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1988,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (2-4 osoby, łazienka, balkon/taras, część wypoczynkowa z TV, aneks kuchenny, klimatyzacja, sejf, telefon, stół jadalny, żelazko/deska do prasowania)",
+  "Apartament z dwiema sypialniami (4-6 osób, wyposażenie jak wyżej)",
+  "Apartament rodzinny (2 dorosłych + 2 dzieci, 3 dorosłych lub 4 dorosłych, wyposażenie jak wyżej)"
+ ],
+ "rooms": 48,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 34.7853014,
+  "lon": 32.4076003,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.co.uk",
+  "easyjet.com",
+  "flyin.com",
+  "wego.com",
+  "hilltop-cyprusapartments.com",
+  "mapcarta.com",
+  "booking.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

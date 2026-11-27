@@ -1,0 +1,135 @@
+{
+ "id": 45054,
+ "slug": "bellini",
+ "name": "Bellini",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/bellini-basen-1471666602-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Hotel Bellini to kameralny obiekt o kategorii 3 gwiazdek, położony w sercu popularnego kurortu Ayia Napa na Cyprze. Oferuje spokojną atmosferę, jednocześnie zapewniając łatwy dostęp do tętniącego życiem centrum i lokalnych atrakcji. Jest to idealne miejsce dla par, rodzin i grup przyjaciół szukających komfortowego wypoczynku w przystępnej cenie.",
+  "Obiekt składa się z zmodernizowanych studiów i apartamentów, rozmieszczonych wokół prywatnego basenu, co sprzyja relaksowi. Hotel jest doskonałą bazą wypadową do odkrywania uroków Ayia Napy, z piaszczystymi plażami w zasięgu krótkiego spaceru i międzynarodowym lotniskiem w Larnace oddalonym o około 46 km."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bellini usytuowany jest w centralnej, ale spokojnej części Ayia Napy, przy ulicy Nissi Avenue 50. W odległości około 500 metrów znajdują się piaszczyste i publiczne plaże Pernera oraz Sandy Bay. Słynna plaża Nissi Beach oddalona jest o około 2 km, a leżaki i parasole na wszystkich plażach dostępne są za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 48 lub 49 zmodernizowanych pokoi i apartamentów, w tym studia i apartamenty z jedną sypialnią. Wszystkie są gustownie urządzone i wyposażone w klimatyzację, telewizor z kanałami satelitarnymi, suszarkę do włosów, sejf oraz bezpłatne Wi-Fi. Studia Superior i apartamenty posiadają dodatkowo aneksy kuchenne z lodówką, czajnikiem elektrycznym i naczyniami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny: jeden przeznaczony dla dorosłych i jeden dla dzieci. Przy basenach dostępne są bezpłatne leżaki i parasole. Hotel oferuje również wypożyczalnię rowerów dla aktywnych gości. W pobliżu, 3 km od hotelu, znajduje się park wodny Waterworld."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Bellini dysponuje restauracją serwującą dania kuchni cypryjskiej, przygotowywane z lokalnych składników. Goście mogą korzystać ze śniadań w formie bufetu, obiadów i kolacji. Na terenie obiektu znajduje się również bar/lounge oraz bar przekąskowy. Śniadanie jest wliczone w cenę niektórych typów pokoi lub dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Na terenie całego hotelu dostępne jest bezpłatne Wi-Fi. Hotel jest obiektem rodzinnym, co potwierdza obecność basenu dla dzieci. Ostatni remont hotelu miał miejsce niedawno, co zapewnia nowoczesne i świeże wnętrza."
+  }
+ ],
+ "pros": [
+  "Centralna, ale spokojna lokalizacja",
+  "Przestronne, czyste i zmodernizowane pokoje",
+  "Pomocna i przyjazna obsługa",
+  "Smaczne śniadania",
+  "Dobre Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Plaże publiczne z płatnymi leżakami i parasolami",
+  "Brak aquaparku na terenie hotelu",
+  "Brak informacji o mini klubie i animacjach dla dzieci",
+  "Brak informacji o ręcznikach plażowych",
+  "Brak potwierdzonych informacji o spa lub siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży od hotelu Bellini?",
+   "a": "Plaże Pernera i Sandy Bay znajdują się około 500 metrów od hotelu. Plaża Nissi Beach jest oddalona o około 2 km."
+  },
+  {
+   "q": "Czy hotel Bellini jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Bellini jest hotelem rodzinnym, posiadającym basen dla dzieci. Oferuje studia i apartamenty odpowiednie dla rodzin."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Larnaka (LCA), oddalony o około 46 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Bellini jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Park wodny Waterworld znajduje się 3 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Bellini oferuje wyżywienie all inclusive?",
+   "a": "Hotel posiada restaurację, bar i bar przekąskowy. Goście mogą korzystać ze śniadań w formie bufetu, obiadów i kolacji. Śniadanie jest wliczone w cenę niektórych typów pokoi lub dostępne za dodatkową opłatą, ale szczegóły pakietu all inclusive nie są jednoznacznie określone."
+  }
+ ],
+ "address": "Nissi Avenue 50, Ayia Napa",
+ "adultsOnly": false,
+ "airportKm": 46,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Ayia Napy",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 1,
+ "goodFor": [
+  "pary",
+  "rodziny",
+  "grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Superior Studio z aneksem kuchennym",
+  "One-Bedroom Suite z aneksem kuchennym",
+  "Deluxe Room z klimatyzacją, TV sat, suszarką, sejfem, łazienką z prysznicem, Wi-Fi",
+  "Deluxe Room with Pool View z klimatyzacją, TV sat, suszarką, sejfem, łazienką z prysznicem, Wi-Fi",
+  "Deluxe Studio with Pool View z klimatyzacją, TV sat, suszarką, sejfem, łazienką z prysznicem, Wi-Fi",
+  "Deluxe Quadruple Room z klimatyzacją, TV sat, suszarką, sejfem, łazienką z prysznicem, Wi-Fi"
+ ],
+ "rooms": 49,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 40.8522461,
+  "lon": 14.2559442,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "bellinihotelayianapa.com",
+  "traveloka.com",
+  "maptons.com",
+  "momondo.com",
+  "travelated.com",
+  "hotelplanner.com",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-27"
+}

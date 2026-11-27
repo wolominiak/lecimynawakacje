@@ -1,0 +1,138 @@
+{
+ "id": 28275,
+ "slug": "euronapa",
+ "name": "Euronapa",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/euronapa-basen-1467050882-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Hotel Euronapa to trzygwiazdkowy obiekt położony w spokojnej okolicy popularnego kurortu Ayia Napa na Cyprze Południowym. Oferuje komfortowe zakwaterowanie w studiach i apartamentach z aneksem kuchennym, co czyni go idealnym wyborem dla osób ceniących sobie niezależność podczas wakacji.",
+  "Obiekt jest polecany zarówno dla rodzin z dziećmi, jak i dla par czy grup przyjaciół, którzy szukają relaksującego wypoczynku nad morzem, a jednocześnie chcą mieć łatwy dostęp do atrakcji Ayia Napa. Hotel wyróżnia się dobrą lokalizacją, czystością i przyjaznym personelem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Euronapa znajduje się w Ayia Napa, około 500 metrów, czyli 5 minut spacerem, od piaszczystej plaży Sandy Bay Beach. Do popularnych plaż Nissi Beach i Limanaki Beach jest około 1,5 km. Obiekt usytuowany jest w spokojnej okolicy, jednocześnie blisko centrum miejscowości, do którego jest zaledwie 300-470 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 96 lub 111 pokojami, w tym studiami (Superior Studio, Deluxe Studio) oraz apartamentami z jedną sypialnią (Superior One-Bedroom Apartment). Wszystkie pokoje wyposażone są w aneks kuchenny z pełnym wyposażeniem, część wypoczynkową i jadalną, klimatyzację, sejf, telewizor LCD z kanałami satelitarnymi, suszarkę do włosów, telefon, balkon lub taras oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży odkryty basen ze słodką wodą oraz oddzielny, płytki basen dla dzieci. Dostępny jest również plac zabaw na świeżym powietrzu. Goście mogą korzystać z siłowni, kortu tenisowego i stołu do tenisa stołowego. Za dodatkową opłatą dostępne są sauna, masaże i bilard. Hotel oferuje program rozrywkowy o niskim natężeniu."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Euronapa znajdują się dwie restauracje, w tym jedna bufetowa, serwująca śniadania i kolacje. Do dyspozycji gości są również bar przy basenie/snack bar oraz lounge bar z telewizją satelitarną. Hotel oferuje opcje wyżywienia Bed and Breakfast (śniadania) oraz Half Board (śniadania i kolacje w formie bufetu)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Euronapa jest idealnym miejscem dla rodzin, par i grup przyjaciół. Jego lokalizacja w spokojnej okolicy, blisko plaży i centrum, połączona z przestronnymi apartamentami z aneksami kuchennymi, sprawia, że jest to doskonały wybór dla osób szukających zarówno relaksu, jak i dostępu do atrakcji turystycznych Ayia Napa."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Czyste i zadbane pokoje oraz części wspólne",
+  "Bardzo przyjazny i pomocny personel",
+  "Przestronne apartamenty z aneksem kuchennym",
+  "Duży i dobrze utrzymany basen"
+ ],
+ "cons": [
+  "Brak aquaparku i zjeżdżalni wodnych",
+  "Niektóre elementy wyposażenia w pokojach mogą być starsze",
+  "Brak prywatnej plaży hotelowej"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Euronapa jest oddalony o około 500 metrów (5 minut spacerem) od piaszczystej plaży Sandy Bay Beach."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Hotel znajduje się około 55 km od międzynarodowego lotniska w Larnace (LCA)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie wodne?",
+   "a": "Nie, hotel Euronapa nie posiada aquaparku ani zjeżdżalni wodnych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje płytki basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel oferuje opcje wyżywienia Bed and Breakfast (śniadania) oraz Half Board (śniadania i kolacje w formie bufetu)."
+  }
+ ],
+ "address": "John Kennedy 6, P.O.Box 30045, 5340 Ayia Napa, Cypr",
+ "adultsOnly": false,
+ "airportKm": 55,
+ "airportName": "Larnaca (LCA)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Klimatyzacja",
+  "Sejf",
+  "Telewizor LCD",
+  "Suszarka do włosów",
+  "Balkon/taras",
+  "Siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Sauna",
+  "Masaże"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Spokojna okolica niedaleko centrum Ayia Napa, w pobliżu Sandy Bay Beach",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1987,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Studio (Superior Studio, Deluxe Studio) z aneksem kuchennym, częścią wypoczynkową i jadalną, klimatyzacją, sejfem, telewizorem LCD, suszarką do włosów, telefonem, balkonem lub tarasem, bezpłatnym Wi-Fi",
+  "Apartament z jedną sypialnią (Superior One-Bedroom Apartment) z aneksem kuchennym, częścią wypoczynkową i jadalną, klimatyzacją, sejfem, telewizorem LCD, suszarką do włosów, telefonem, balkonem lub tarasem, bezpłatnym Wi-Fi"
+ ],
+ "rooms": 111,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.9887581,
+  "lon": 33.9902093,
+  "src": "osm"
+ },
+ "sources": [
+  "euronapahotel.com",
+  "hotelston.com",
+  "mapcarta.com",
+  "reserve-online.net",
+  "onthebeach.co.uk",
+  "travelisto.com",
+  "planetofhotels.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

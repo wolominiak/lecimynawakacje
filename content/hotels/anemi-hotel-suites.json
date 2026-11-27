@@ -1,0 +1,146 @@
+{
+ "id": 30178,
+ "slug": "anemi-hotel-suites",
+ "name": "Anemi Hotel & Suites",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/anemi-hotel-suites-obiekt-basen-846031043-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Anemi Hotel & Suites to czterogwiazdkowy obiekt położony w sercu turystycznej dzielnicy Kato Paphos na Cyprze Południowym. Ten butikowy hotel, całkowicie odnowiony w 2022 roku, oferuje nowoczesne zakwaterowanie i jest dogodnie usytuowany blisko piaszczystych plaż oraz głównych atrakcji miasta.",
+  "Hotel jest rekomendowany zarówno dla par, jak i rodzin z dziećmi, szczególnie tych w wieku 4-12 lat, dzięki udogodnieniom i animacjom dostosowanym do różnych grup wiekowych. Jego centralna lokalizacja sprawia, że jest doskonałą bazą wypadową do zwiedzania Paphos i korzystania z lokalnych rozrywek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Anemi Hotel & Suites znajduje się w turystycznym centrum Kato Paphos, zaledwie około 200 metrów od najbliższej piaszczystej plaży i około 320 metrów od plaży Alykes. W odległości około 1 km znajduje się centrum turystyczne, a port i zamek w Paphos są oddalone o około 600 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 152 klimatyzowane pokoje, w tym studia oraz apartamenty z jedną lub dwiema sypialniami. Wszystkie pokoje wyposażone są w telewizor z płaskim ekranem, bezpłatne WiFi, łazienkę z prysznicem lub wanną, balkon, patio lub taras. Wiele pokoi posiada w pełni wyposażony aneks kuchenny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajdują się dwie restauracje: Elia Restaurant, serwująca śniadania w formie bufetu oraz dania à la carte na lunch, a także Nema z kuchnią śródziemnomorską. Goście mogą również korzystać z kilku barów, w tym baru przy basenie, kawiarni, Serene Cocktail Lounge na dachu (czynnego latem) oraz Anemi Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami - odkrytym ze słodką wodą oraz krytym, podgrzewanym basenem (dostępnym dla gości powyżej 16 roku życia). Dla dzieci przygotowano oddzielny basen. Obiekt oferuje animacje 6 dni w tygodniu (od maja do października), w tym zajęcia dla rodzin, gry dla dzieci, wieczory folklorystyczne i muzykę na żywo. Na miejscu znajduje się również siłownia oraz Althaea Spa & Wellness Center (dla gości powyżej 18 roku życia)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Anemi Hotel & Suites jest idealnym wyborem dla rodzin z dziećmi, szczególnie w wieku 4-12 lat, ze względu na dostępność basenu dla dzieci i animacji. Hotel sprawdzi się również dla par szukających komfortowego zakwaterowania w centrum turystycznym, z łatwym dostępem do plaży, restauracji i atrakcji Paphos."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Przestronne i czyste pokoje",
+  "Doskonała lokalizacja blisko plaży i atrakcji",
+  "Smaczne i urozmaicone śniadania",
+  "Bezpłatne WiFi w całym hotelu"
+ ],
+ "cons": [
+  "Brak mini klubu dla dzieci",
+  "Brak zjeżdżalni i aquaparku",
+  "Kryty basen i spa dostępne z ograniczeniami wiekowymi",
+  "Parking nieco oddalony od hotelu",
+  "Sporadyczne problemy z obsługą kolacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Anemi Hotel & Suites znajduje się około 200 metrów od najbliższej piaszczystej plaży, a plaża Alykes jest oddalona o około 320 metrów."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 12-17 km od Międzynarodowego Lotniska w Paphos (PFO)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu Anemi Hotel & Suites nie ma zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, szczególnie w wieku 4-12 lat. Oferuje oddzielny basen dla dzieci oraz animacje i gry dla całej rodziny."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne WiFi?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w pokojach oraz we wszystkich pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom. Należy jednak pamiętać, że kryty basen jest dostępny dla gości powyżej 16 roku życia, a spa dla gości powyżej 18 roku życia."
+  }
+ ],
+ "address": "Iasonos 1 Street, 8041 Paphos, Cypr",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Międzynarodowe Lotnisko w Paphos (PFO)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "wifi",
+  "basen kryty",
+  "basen odkryty",
+  "basen dla dzieci",
+  "restauracje",
+  "bary",
+  "tenis stołowy",
+  "bilard",
+  "gry planszowe",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Kato Paphos (Dolne Paphos)",
+ "bars": 5,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 2,
+ "roomTypes": [
+  "Studio (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty)",
+  "Apartament z jedną sypialnią (Deluxe, Superior, Premium) (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty, aneks kuchenny)",
+  "Apartament z dwiema sypialniami (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty, aneks kuchenny)",
+  "Executive Suite (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty, aneks kuchenny)",
+  "Junior Suite (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty, aneks kuchenny)",
+  "Cotton Premium Suite (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty, aneks kuchenny)",
+  "Premium Room (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty)",
+  "Deluxe Studio (klimatyzacja, TV, WiFi, łazienka, balkon/patio/taras, lodówka/mini lodówka, zestaw do parzenia kawy/herbaty)"
+ ],
+ "rooms": 152,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 32.4200827,
+  "lon": 34.7556305,
+  "src": "web"
+ },
+ "sources": [
+  "cyprusparadise.com",
+  "onthebeach.co.uk",
+  "anemihotel.com",
+  "agoda.com",
+  "mapcarta.com",
+  "reserve-online.net",
+  "toponavi.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

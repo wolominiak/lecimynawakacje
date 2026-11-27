@@ -1,0 +1,132 @@
+{
+ "id": 759,
+ "slug": "anmaria-beach",
+ "name": "Anmaria Beach",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/anmaria-beach-teren-hotelu-1459297524-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Hotel Nelia Sea Breeze, dawniej znany jako Anmaria Beach Hotel & Spa, to czterogwiazdkowy obiekt położony w centralnej części Ayia Napa na Cyprze Południowym. Jest to nowoczesny i odnowiony hotel, który oferuje komfortowe zakwaterowanie w bliskiej odległości od centrum miejscowości i piaszczystej plaży.",
+  "Obiekt jest odpowiedni dla szerokiego grona gości - zarówno dla rodzin z dziećmi, par, jak i grup przyjaciół, którzy szukają połączenia relaksu z dostępem do lokalnych atrakcji. Hotel wyróżnia się dobrą lokalizacją i bogatą ofertą udogodnień, w tym basenami, centrum spa oraz programem animacyjnym."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się bezpośrednio przy skalistej plaży, jednak piaszczysta plaża jest oddalona o zaledwie 50 metrów. Słynna Nissi Beach jest w odległości około 2 km, co stanowi 20-minutowy spacer. Centrum Ayia Napa oddalone jest o około 450 metrów, czyli 5 minut spacerem. Leżaki i parasole na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 149 pokojami, z których część została już odnowiona. Pozostałe pokoje zostaną całkowicie wyremontowane do kwietnia 2027 roku. W ofercie są pokoje standardowe, luksusowe oraz rodzinne, wszystkie z balkonem lub tarasem. Wyposażenie obejmuje klimatyzację, telewizor, bezpłatne Wi-Fi, sejf (płatny) oraz zestaw do parzenia kawy i herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa „Klimataria” serwuje dania kuchni międzynarodowej i cypryjskiej. Hotel oferuje opcję All Inclusive, która obejmuje śniadania, obiady, kolacje oraz przekąski. Lokalne napoje alkoholowe i bezalkoholowe są dostępne w barach od 10:30 do północy. Świeże soki, importowane alkohole i lody są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny zewnętrzne, w tym jeden w kształcie laguny, oraz podgrzewany basen kryty. Hotel nie posiada własnego aquaparku. Na terenie obiektu znajduje się centrum spa z sauną, łaźnią parową i jacuzzi, a także dobrze wyposażona siłownia. Dostępne są również kort tenisowy i tenis stołowy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował oddzielny brodzik oraz plac zabaw. Hotel oferuje również program animacji dziennych i wieczornych, które mogą umilić czas rodzinom z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko centrum i piaszczystej plaży.",
+  "Przyjazny i pomocny personel.",
+  "Czystość w całym obiekcie.",
+  "Dobre jedzenie, szczególnie śniadania.",
+  "Bogate udogodnienia, w tym baseny, siłownia i spa."
+ ],
+ "cons": [
+  "Bezpośrednie wejście do morza przy hotelu jest skaliste.",
+  "Brak zjeżdżalni wodnych na terenie hotelu.",
+  "Leżaki i parasole na plaży są płatne.",
+  "Część pokoi będzie remontowana do 2027 roku.",
+  "Świeże soki i importowane alkohole są dodatkowo płatne w opcji All Inclusive."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy skalistej plaży. Piaszczysta plaża jest oddalona o około 50 metrów, a słynna Nissi Beach o około 2 km."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Larnace (LCA), oddalone o około 37.3 km w linii prostej. Transfer autokarem zajmuje około 45 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada własnych zjeżdżalni wodnych ani aquaparku na terenie obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując brodzik, plac zabaw oraz program animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich częściach wspólnych hotelu."
+  },
+  {
+   "q": "Jak daleko jest do centrum Ayia Napa?",
+   "a": "Centrum Ayia Napa jest oddalone o około 450 metrów, co stanowi około 5 minut spacerem."
+  }
+ ],
+ "address": "Nissi Avenue 33, 5341 Ayia Napa, Cypr",
+ "adultsOnly": false,
+ "airportKm": 37.3,
+ "airportName": "Międzynarodowe Lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard (płatny)",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centralna, przy Nissi Avenue",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta (50m od hotelu), skalista (bezpośrednio przy hotelu)",
+ "centerKm": 0.45,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": null,
+ "renovated": 2027,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (widok na ląd, częściowy widok na morze, widok na morze)",
+  "pokój luksusowy (widok na ląd, częściowy widok na morze, widok na morze, płaski ekran 43')",
+  "pokój rodzinny (widok na ląd, częściowy widok na morze)"
+ ],
+ "rooms": 149,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "ayianapabeachhotels.com",
+  "reserve-online.net",
+  "trivago.com",
+  "yandex.com",
+  "trip.com",
+  "tui.co.uk",
+  "booking.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

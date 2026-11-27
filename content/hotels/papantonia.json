@@ -1,0 +1,137 @@
+{
+ "id": 23115,
+ "slug": "papantonia",
+ "name": "Papantonia",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/papantonia-basen-teren-hotelu-1766940306-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Hotel Papantonia to czterogwiazdkowy obiekt położony w cypryjskiej miejscowości Protaras, w spokojnej dzielnicy Pernera. Jest to idealne miejsce dla rodzin i par poszukujących relaksującego wypoczynku, oferujące komfortowe zakwaterowanie w apartamentach z aneksem kuchennym.",
+  "Obiekt jest dogodnie usytuowany blisko piaszczystych plaż oraz zapewnia łatwy dostęp do centrum Protaras. Goście mogą korzystać z bogatej oferty rekreacyjnej, w tym basenów i dostępu do aquaparku w siostrzanym hotelu, a także z animacji dla dorosłych i dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Papantonia znajduje się w Protaras, w dzielnicy Pernera, zaledwie kilkaset metrów od piaszczystej plaży Marlita Beach. W pobliżu dostępne są również plaże Potami Bay Beach i Polyxenia Beach. Centrum Protaras oddalone jest o około 15 minut spacerem (1-1.5 km)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia oraz apartamenty z jedną lub dwiema sypialniami, rozmieszczone w czteropiętrowym budynku. Wszystkie pokoje wyposażone są w klimatyzację, telewizor, aneks kuchenny z lodówką (w apartamentach także z płytą grzewczą i mikrofalówką), część wypoczynkową, łazienkę oraz umeblowany balkon lub taras. Dostępne są łóżeczka dziecięce na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa główna restauracja bufetowa, serwująca dania kuchni międzynarodowej i śródziemnomorskiej na śniadania, obiady i kolacje, z opcją gotowania na żywo. Dodatkowo, dostępny jest bar przy basenie z napojami i przekąskami. Opcja All Inclusive obejmuje posiłki w formie bufetu, przekąski, lody oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się co najmniej dwa odkryte baseny, w tym wydzielona część dla dzieci. Goście mają również bezpłatny dostęp do aquaparku w siostrzanym hotelu Anastasia Beach Hotel, oddalonym o około 800 metrów, oferującego dziewięć zjeżdżalni. Hotel zapewnia dzienne i wieczorne programy rozrywkowe, a także kort tenisowy, tenis stołowy, bilard i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, kącik gier wideo, wysokie krzesełka w restauracji oraz specjalne posiłki. Dostępne są również animacje i programy rozrywkowe dostosowane do potrzeb dzieci."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Smaczne i urozmaicone jedzenie",
+  "Czyste pokoje i przestronny teren basenowy",
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Animacje dla dzieci i dorosłych"
+ ],
+ "cons": [
+  "Sporadyczne uwagi dotyczące zużytych mebli w niektórych pokojach",
+  "Brak suszarek do włosów w standardzie we wszystkich pokojach (na życzenie/depozyt)",
+  "Ograniczone miejsce do przechowywania w pokojach",
+  "Ręczniki basenowe/plażowe za dodatkową opłatą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Papantonia jest położony zaledwie kilka minut spacerem od piaszczystej plaży Marlita Beach, około 150-200 metrów."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnego aquaparku, ale goście mają bezpłatny dostęp do aquaparku w siostrzanym hotelu Anastasia Beach Hotel, oddalonym o około 800 metrów."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia takie jak basen dla dzieci, plac zabaw, kącik gier wideo, specjalne posiłki oraz animacje."
+  },
+  {
+   "q": "Jaka jest odległość hotelu od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Larnaka (LCA), oddalony o około 47-68 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie All Inclusive?",
+   "a": "Tak, hotel oferuje opcję All Inclusive, która obejmuje śniadania, obiady, kolacje, przekąski, lody oraz wybrane lokalne napoje."
+  }
+ ],
+ "address": "Athinas 23, Protaras, 5296, Cypr",
+ "adultsOnly": false,
+ "airportKm": 47,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Plac zabaw",
+  "Kącik gier wideo",
+  "Wysokie krzesełka w restauracji",
+  "Specjalne posiłki dla dzieci",
+  "Aneks kuchenny w pokojach"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Pernera",
+ "bars": 1,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio",
+  "Apartament z jedną sypialnią",
+  "Apartament z dwiema sypialniami"
+ ],
+ "rooms": 112,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 35.0269626,
+  "lon": 34.0442651,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotelbrain.com",
+  "agoda.com",
+  "guestreservations.com",
+  "trivago.co.uk",
+  "thomascook.com",
+  "sunshine.co.uk",
+  "firstchoice.co.uk"
+ ],
+ "updated": "2026-11-27"
+}
