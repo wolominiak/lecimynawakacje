@@ -1,0 +1,67 @@
+{
+  "name": "Salto Angel",
+  "slug": "salto-angel",
+  "country": "wenezuela",
+  "lead": "Salto Angel to najwyższy wodospad świata, położony w sercu Parku Narodowego Canaima w Wenezueli. Dotarcie do niego to prawdziwa przygoda, nagradzająca widokiem zapierającym dech w piersiach.",
+  "intro": [
+    "Salto Angel, znany również jako Kerepakupai Merú w języku lokalnych Indian Pemon, to spektakularny wodospad, który spada z góry Auyán-Tepui. Jego wysokość wynosi blisko kilometr, co czyni go najwyższym pojedynczym spadkiem wody na świecie. Otoczony jest gęstą, dziewiczą dżunglą, co dodatkowo potęguje jego majestat i poczucie odosobnienia.",
+    "Wyprawa do Salto Angel to nie tylko podziwianie wodospadu, ale cała ekspedycja przez Park Narodowy Canaima. Obejmuje ona lot awionetką nad rozległymi terenami, rejs łodzią po rzekach Carrao i Churún oraz trekking przez wilgotną dżunglę. Cała podróż pozwala na głębokie zanurzenie się w unikalny ekosystem Wenezueli i kontakt z lokalną kulturą.",
+    "Widok Salto Angel, zwłaszcza w porze deszczowej, gdy woda spada z pełną mocą, jest niezapomniany. Mgła wodna unosi się na setki metrów, tworząc tęcze i dodając miejscu mistycznego charakteru. To doświadczenie, które łączy w sobie wysiłek fizyczny z nagrodą w postaci jednego z najbardziej spektakularnych cudów natury na Ziemi."
+  ],
+  "highlights": [
+    {
+      "name": "Lot awionetką nad Parkiem Canaima",
+      "text": "Podziwiaj rozległe tereny Parku Narodowego Canaima z lotu ptaka, widząc z góry tepui, rzeki i dżunglę, zanim dotrzesz do bazy wypadowej."
+    },
+    {
+      "name": "Rejs rzekami Carrao i Churún",
+      "text": "Przemierzaj malownicze rzeki w tradycyjnej łodzi curiara, obserwując bujną roślinność i być może dzikie zwierzęta po drodze."
+    },
+    {
+      "name": "Trekking przez dżunglę",
+      "text": "Poczuj prawdziwą przygodę, wędrując przez gęstą dżunglę do punktu widokowego na wodospad, co pozwala na bliski kontakt z naturą."
+    },
+    {
+      "name": "Punkt widokowy La Salto Angel",
+      "text": "Dotrzyj do głównego punktu widokowego, skąd roztacza się pełny, majestatyczny widok na spadającą wodę Salto Angel."
+    },
+    {
+      "name": "Kąpiel w lagunie u podnóża wodospadu",
+      "text": "Jeśli warunki na to pozwalają, możesz zażyć orzeźwiającej kąpieli w naturalnej lagunie, zasilanej wodami spadającymi z wodospadu."
+    }
+  ],
+  "visitTime": "Cała wyprawa do Salto Angel trwa zazwyczaj 3 dni i 2 noce, wliczając w to podróż z i do Canaimy oraz trekking do wodospadu.",
+  "bestTime": "Najlepszy czas na wizytę to pora deszczowa, od maja do listopada. Wtedy wodospad jest najbardziej obfity w wodę, choć pogoda bywa zmienna. W porze suchej (grudzień-kwiecień) wodospad może być mniej imponujący, a czasem nawet wyschnąć.",
+  "gettingThere": "Do Salto Angel można dotrzeć wyłącznie w ramach zorganizowanej wycieczki, która zaczyna się zazwyczaj w miasteczku Canaima. Do Canaimy można dostać się samolotem z większych miast Wenezueli, takich jak Caracas lub Puerto Ordaz. Dalsza podróż obejmuje rejs łodzią i trekking.",
+  "tickets": "Biletów na sam wodospad nie kupuje się oddzielnie. Cała wyprawa jest sprzedawana jako pakiet turystyczny, który obejmuje loty, transport łodzią, przewodnika, wyżywienie i zakwaterowanie. Zdecydowanie zaleca się rezerwację z dużym wyprzedzeniem, najlepiej przez renomowane biuro podróży specjalizujące się w wycieczkach do Parku Canaima.",
+  "tips": [
+    "Zabierz ze sobą lekką, szybkoschnącą odzież, strój kąpielowy i ręcznik.",
+    "Obowiązkowo weź solidne, wodoodporne buty trekkingowe, które dobrze trzymają kostkę.",
+    "Przygotuj się na wilgotny klimat i komary - niezbędny będzie dobry repelent.",
+    "Spakuj wodoodporny worek lub plecak na elektronikę i ważne dokumenty.",
+    "Miej ze sobą wystarczającą ilość wody pitnej i przekąsek na czas trekkingu.",
+    "Pamiętaj o aparacie fotograficznym z zabezpieczeniem przed wilgocią, aby uwiecznić widoki."
+  ],
+  "faq": [
+    {
+      "q": "Czy podróż do Salto Angel jest bezpieczna?",
+      "a": "Wyprawa jest organizowana przez doświadczonych przewodników i operatorów. Należy jednak pamiętać o ogólnej sytuacji w Wenezueli i zawsze korzystać z usług sprawdzonych firm. Zagrożenia związane są głównie z warunkami pogodowymi i naturą dżungli."
+    },
+    {
+      "q": "Jakie są wymagania fizyczne do odwiedzenia Salto Angel?",
+      "a": "Podróż wymaga umiarkowanej kondycji fizycznej. Obejmuje długie rejsy łodzią i kilkugodzinny trekking przez nierówny teren dżungli, często w błocie i wilgoci."
+    },
+    {
+      "q": "Czy można zobaczyć Salto Angel bez przewodnika?",
+      "a": "Nie, dotarcie do Salto Angel bez lokalnego przewodnika jest praktycznie niemożliwe i niebezpieczne. Cała wyprawa musi być zorganizowana przez licencjonowane biuro podróży."
+    },
+    {
+      "q": "Co jeszcze warto zobaczyć w okolicy Salto Angel?",
+      "a": "Park Narodowy Canaima oferuje wiele innych atrakcji, takich jak inne wodospady (np. Hacha, Sapo), laguny i możliwość poznania kultury Indian Pemon. Wenezuela ma też do zaoferowania Tepui Roraima, Archipelag Los Roques czy Deltę Orinoko."
+    }
+  ],
+  "gygQuery": "Angel Falls tour Venezuela",
+  "forWhom": "To miejsce jest idealne dla poszukiwaczy przygód, miłośników dzikiej przyrody i osób ceniących unikalne doświadczenia. Nie jest polecane dla małych dzieci ani osób z ograniczoną mobilnością ze względu na wymagający charakter wyprawy.",
+  "history": "Salto Angel został odkryty dla świata zachodniego w 1933 roku przez amerykańskiego pilota Jimmy'ego Angela, który przypadkowo wylądował na szczycie Auyán-Tepui w poszukiwaniu złota. Wodospad i góra Auyán-Tepui są jednak od wieków świętymi miejscami dla rdzennych Indian Pemon, którzy nazywają go Kerepakupai Merú, co oznacza 'miejsce najgłębszego skoku'.",
+  "gygTourId": 1479721
+}

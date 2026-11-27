@@ -1,0 +1,63 @@
+{
+  "name": "Góra Agou",
+  "slug": "gora-agou",
+  "country": "togo",
+  "lead": "Góra Agou, najwyższy szczyt Togo, oferuje trekkingowe wyzwania i panoramiczne widoki na malownicze krajobrazy kraju.",
+  "intro": [
+    "Góra Agou, wznosząca się na wysokość 986 metrów, to najwyższy punkt Togo i jeden z najbardziej rozpoznawalnych symboli kraju. Znajduje się w południowo-zachodniej części Togo, w regionie Plateaux, niedaleko granicy z Ghaną. Jest to miejsce cenione zarówno przez lokalnych mieszkańców, jak i turystów poszukujących aktywnego wypoczynku.",
+    "Główną atrakcją Góry Agou jest możliwość trekkingu na jej szczyt. Istnieje kilka szlaków o różnym stopniu trudności, które prowadzą przez bujną roślinność, plantacje kawy i kakao oraz niewielkie wioski. Po drodze można podziwiać lokalną florę i faunę, a także obserwować codzienne życie mieszkańców regionu.",
+    "Po dotarciu na szczyt nagrodą są rozległe, spektakularne widoki. Przy dobrej pogodzie można stąd dostrzec okoliczne wzgórza, zielone lasy, a nawet odległe obszary Ghany. To idealne miejsce do zrobienia pamiątkowych zdjęć i chwili relaksu w otoczeniu natury."
+  ],
+  "highlights": [
+    {
+      "name": "Trekking na szczyt",
+      "text": "Wybierz jeden ze szlaków prowadzących na szczyt Góry Agou. Trasy różnią się długością i poziomem trudności, oferując różnorodne doświadczenia."
+    },
+    {
+      "name": "Panoramiczne widoki",
+      "text": "Ze szczytu rozciągają się zapierające dech w piersiach widoki na okoliczne wzgórza, doliny i plantacje, a przy dobrej widoczności także na sąsiednią Ghanę."
+    },
+    {
+      "name": "Obserwacja lokalnego życia",
+      "text": "Podczas wędrówki mija się niewielkie wioski i plantacje, co daje możliwość poznania codziennego życia mieszkańców regionu."
+    },
+    {
+      "name": "Flora i fauna",
+      "text": "Okolice góry charakteryzują się bogatą roślinnością tropikalną. Warto zwrócić uwagę na różnorodność gatunków roślin i ptaków."
+    }
+  ],
+  "visitTime": "Na samo wejście i zejście z góry należy zarezerwować od 3 do 6 godzin, w zależności od wybranej trasy i kondycji. Jeśli doliczyć dojazd i czas na relaks na szczycie, warto poświęcić na to pół dnia.",
+  "bestTime": "Najlepszy czas na wizytę to pora sucha, od listopada do marca, kiedy pogoda jest stabilna, a szlaki mniej błotniste. Warto rozpocząć wędrówkę wcześnie rano, aby uniknąć upału i mieć więcej czasu na podziwianie widoków.",
+  "gettingThere": "Góra Agou znajduje się około 100 km na północ od Lomé. Najłatwiej dojechać tam wynajętym samochodem z kierowcą lub zorganizowaną wycieczką z Lomé lub Kpalimé, które jest bliżej. Komunikacja publiczna jest ograniczona i może wymagać przesiadek.",
+  "tickets": "Wejście na teren góry zazwyczaj nie wymaga zakupu biletu, ale zaleca się wynajęcie lokalnego przewodnika, co jest formą wsparcia dla społeczności i zapewnia bezpieczeństwo na szlakach. Przewodnika można znaleźć w pobliskich wioskach.",
+  "tips": [
+    "Załóż wygodne buty trekkingowe i lekkie ubranie, odpowiednie do tropikalnego klimatu.",
+    "Zabierz ze sobą dużo wody pitnej, przekąski i ochronę przeciwsłoneczną (kapelusz, krem z filtrem).",
+    "Pamiętaj o środku odstraszającym owady.",
+    "Warto mieć ze sobą aparat fotograficzny, aby uwiecznić piękne widoki.",
+    "Zawsze informuj kogoś o swoich planach wędrówki i nie schodź ze szlaków.",
+    "Bądź przygotowany na zmienną pogodę, nawet w porze suchej mogą zdarzyć się przelotne opady."
+  ],
+  "faq": [
+    {
+      "q": "Czy wejście na Górę Agou jest trudne?",
+      "a": "Dostępne są szlaki o różnym stopniu trudności. Niektóre są stosunkowo łatwe i dostępne dla osób o przeciętnej kondycji, inne wymagają większego wysiłku. Zawsze warto ocenić swoje możliwości i ewentualnie skorzystać z pomocy przewodnika."
+    },
+    {
+      "q": "Czy potrzebuję przewodnika, aby wejść na Górę Agou?",
+      "a": "Choć nie jest to obowiązkowe, wynajęcie lokalnego przewodnika jest zdecydowanie zalecane. Zapewni on bezpieczeństwo, pomoże w orientacji na szlakach i podzieli się wiedzą o lokalnej kulturze i przyrodzie."
+    },
+    {
+      "q": "Co warto zabrać ze sobą na trekking?",
+      "a": "Niezbędne są wygodne buty trekkingowe, odpowiednie ubranie, duża ilość wody, przekąski, ochrona przeciwsłoneczna, środek na owady oraz aparat fotograficzny."
+    },
+    {
+      "q": "Czy są jakieś inne atrakcje w pobliżu Góry Agou?",
+      "a": "W okolicy warto odwiedzić miasto Kpalimé, znane z rzemiosła i wodospadów. Można również połączyć wizytę z eksploracją Jeziora Togo lub historycznego Togoville."
+    }
+  ],
+  "gygQuery": "Mount Agou Togo hike",
+  "forWhom": "Góra Agou to idealne miejsce dla miłośników trekkingu, aktywnego wypoczynku i osób poszukujących kontaktu z naturą. Docenią ją również fotografowie i wszyscy, którzy chcą podziwiać panoramiczne widoki.",
+  "history": "Góra Agou, znana również jako Mont Agou, jest częścią pasma górskiego Togo, które rozciąga się przez środkową część kraju. Geologicznie jest to formacja pochodzenia wulkanicznego, a jej powstanie datuje się na miliony lat temu. Przez wieki góra odgrywała ważną rolę w życiu lokalnych społeczności, będąc źródłem zasobów naturalnych i miejscem o znaczeniu kulturowym.",
+  "gygTourId": 1496612
+}
