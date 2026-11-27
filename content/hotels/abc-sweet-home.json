@@ -1,0 +1,129 @@
+{
+ "id": "x:grecja:abc sweet home",
+ "slug": "abc-sweet-home",
+ "name": "Abc Sweet Home",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Sidari"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/sidari/abc-sweet-home/4e4e06945ec5aee243b13.jpg",
+ "city": "Sidari",
+ "intro": [
+  "Abc Sweet Home to trzygwiazdkowy aparthotel położony w spokojnej okolicy Sidari na północnym Korfu. Obiekt, składający się z 34 pokoi, w tym studiów i apartamentów rodzinnych, oferuje kameralną atmosferę i jest otoczony zielonym ogrodem. To idealne miejsce dla rodzin z dziećmi oraz osób poszukujących relaksu z dala od miejskiego zgiełku.",
+  "Hotel jest dogodnie usytuowany, umożliwiając łatwy dostęp do kilku plaż oraz centrum Sidari, które znajduje się w odległości krótkiego spaceru. Goście mogą cieszyć się basenem z płytką częścią, placem zabaw dla dzieci oraz udogodnieniami takimi jak aneks kuchenny w każdym pokoju, co sprzyja samodzielnemu przygotowywaniu posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Abc Sweet Home znajduje się w miejscowości Sidari, około 2 km od jej centrum, co zapewnia spokojny wypoczynek, ale jednocześnie bliskość atrakcji. Do plaży St John Beach jest 700 metrów, a do plaży Aghios Ioannis około 600 metrów. Piaszczysta plaża Sidari z łagodnym wejściem do wody oddalona jest o około 2.1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 34 pokoje, w tym studia dwu- i trzyosobowe, apartamenty z jedną sypialnią oraz maisonette dla 3-5 osób. Wszystkie pokoje wyposażone są w aneks kuchenny lub w pełni wyposażoną kuchnię, klimatyzację, prywatną łazienkę, telewizor oraz taras lub balkon. Dostępne są również pokoje rodzinne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen z wydzieloną płytką częścią, idealną dla dzieci. Dla najmłodszych gości dostępny jest również plac zabaw. Dorośli mogą skorzystać z bilarda lub boiska do koszykówki, a także relaksować się w pięknym ogrodzie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje barem przy basenie, gdzie można zamówić napoje. Śniadanie jest dostępne za dodatkową opłatą i obejmuje opcje angielskie/irlandzkie. Pokoje z aneksami kuchennymi umożliwiają samodzielne przygotowywanie posiłków."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Abc Sweet Home jest polecany dla rodzin z dziećmi ze względu na dostępne udogodnienia, takie jak płytki basen i plac zabaw. Spokojna okolica i bliskość plaż sprawiają, że to również dobry wybór dla osób szukających relaksu i odpoczynku z dala od zgiełku."
+  }
+ ],
+ "pros": [
+  "Przytulna, domowa atmosfera",
+  "Ciche otoczenie z pięknym ogrodem",
+  "Mili i pomocni właściciele oraz personel",
+  "Czysty basen",
+  "Dobra lokalizacja blisko plaż i centrum, ale wystarczająco daleko, by zapewnić spokój"
+ ],
+ "cons": [
+  "Wyposażenie pokoi bywa stare i zużyte",
+  "Sporadyczne problemy z działaniem Wi-Fi w pokojach",
+  "Możliwy zapach wilgoci lub dymu papierosowego w pokojach",
+  "Zdjęcia mogą nie odzwierciedlać rzeczywistości",
+  "Brak informacji o ofercie all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel jest oddalony o 700 metrów od plaży St John Beach i około 600 metrów od plaży Aghios Ioannis. Do plaży Sidari jest około 2.1 km."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Korfu (CFU), oddalony o około 36 km. Dojazd samochodem zajmuje około 39 minut."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada płytką część basenu oraz plac zabaw dla dzieci. Oferuje również pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. W pokojach mogą występować sporadyczne problemy z zasięgiem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni wodnych. W pobliżu znajduje się Sidari Water Park, ale nie jest on częścią hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Śniadanie jest dostępne za dodatkową opłatą, a pokoje posiadają aneksy kuchenne umożliwiające samodzielne przygotowanie posiłków."
+  }
+ ],
+ "address": "Agios Ioannis Karousades, Sidari, Korfu, 49100",
+ "adultsOnly": false,
+ "airportKm": 36,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (CFU)",
+ "amenities": [
+  "Bilard",
+  "Boisko do koszykówki",
+  "Bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Sidari",
+ "bars": 1,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta z łagodnym wejściem do wody (plaża Sidari)",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Studio (dwu- i trzyosobowe) z aneksem kuchennym",
+  "Apartament z jedną sypialnią z kuchnią",
+  "Maisonette (dla 3-5 osób) z kuchnią",
+  "Pokój rodzinny z balkonem"
+ ],
+ "rooms": 34,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "abcsweethome.gr",
+  "thomascook.com",
+  "sunshine.co.uk",
+  "ohotel.uk",
+  "skyscanner.qa",
+  "hotels-corfu.com",
+  "corfugreecehotels.com",
+  "trip.com"
+ ],
+ "updated": "2026-11-27"
+}

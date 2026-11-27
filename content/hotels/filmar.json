@@ -1,0 +1,134 @@
+{
+ "id": "x:grecja:filmar",
+ "slug": "filmar",
+ "name": "Filmar",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Ixia i Ialyssos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/ixia-a-ialyssos/filmar-pl/5941/9552b73067e9b7f4dce0e3637463a734_1-244.jpg",
+ "city": "Ixia",
+ "intro": [
+  "Hotel Filmar to kameralny, trzygwiazdkowy obiekt położony w miejscowości Ixia na Rodos, zaledwie kilkadziesiąt metrów od kamienisto-żwirowej plaży. Jest to idealne miejsce dla osób poszukujących wygodnej bazy wypadowej do zwiedzania wyspy, a także dla miłośników sportów wodnych, dzięki bliskości szkół windsurfingu.",
+  "Obiekt, otwarty w 1985 roku i odnowiony w 2018, oferuje przyjazną, rodzinną atmosferę. Z uwagi na swoje położenie i udogodnienia, hotel jest polecany zarówno rodzinom z dziećmi, parom, jak i indywidualnym podróżnikom ceniącym sobie łatwy dostęp do lokalnych atrakcji, restauracji i barów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Filmar znajduje się w miejscowości Ixia, w zatoce Ixia, około 50-100 metrów od kamienisto-żwirowej plaży. Do centrum Ixia można dojść w około 5 minut, natomiast do średniowiecznego miasta Rodos jest około 6 km. Najbliższe lotnisko (Diagoras Airport - RHO) oddalone jest o 7-9 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 48 pokoi, w tym jedno-, dwu-, trzyosobowe oraz rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę z prysznicem (niektóre z wanną), balkon (większość z widokiem na morze), telewizor z płaskim ekranem, mini lodówkę, suszarkę do włosów i sejf. Pokoje rodzinne mogą dodatkowo posiadać aneks kuchenny i stół jadalny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Filmar znajduje się jedna restauracja oraz dwa bary: bar przy basenie i bar z szerokim wyborem napojów. Hotel oferuje bezpłatne śniadania w formie bufetu, jednak nie ma opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Filmar nie posiada własnego basenu, ale goście mogą korzystać z basenu w sąsiednim hotelu. W pobliżu obiektu dostępne są różne sporty wodne, w tym szkoła windsurfingu. Na terenie całego hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Filmar jest polecany dla rodzin, par oraz osób szukających aktywnego wypoczynku i bazy wypadowej do zwiedzania Rodos. Bliskość plaży i centrum Ixia sprawia, że jest to dobra opcja dla tych, którzy cenią sobie łatwy dostęp do lokalnych atrakcji i rozrywek. Hotel jest przyjazny dzieciom i oferuje łóżeczka na życzenie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum Ixia",
+  "Przyjazny i pomocny personel",
+  "Czystość w całym obiekcie",
+  "Dobre śniadania w formie bufetu",
+  "Bezpłatne Wi-Fi i klimatyzacja"
+ ],
+ "cons": [
+  "Brak własnego basenu (konieczność korzystania z sąsiedniego)",
+  "Śniadania mogłyby być bardziej urozmaicone",
+  "Niektóre pokoje lub łazienki mogą być małe lub starsze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Filmar od plaży?",
+   "a": "Hotel Filmar jest położony 50-100 metrów od kamienisto-żwirowej plaży Ixia."
+  },
+  {
+   "q": "Czy hotel Filmar ma basen?",
+   "a": "Hotel Filmar nie posiada własnego basenu, ale goście mogą korzystać z basenu w sąsiednim hotelu."
+  },
+  {
+   "q": "Czy hotel Filmar jest daleko od lotniska?",
+   "a": "Międzynarodowe Lotnisko Rodos (Diagoras Airport - RHO) znajduje się około 7-9 km od hotelu, co zajmuje około 15 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel Filmar jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Filmar jest przyjazny dzieciom i oferuje łóżeczka dla dzieci na życzenie oraz pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu Filmar jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu Filmar dostępne jest bezpłatne Wi-Fi we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel Filmar oferuje opcję all inclusive?",
+   "a": "Nie, hotel Filmar oferuje bezpłatne śniadanie w formie bufetu, ale nie ma opcji all inclusive."
+  }
+ ],
+ "address": "Kandalou 16, Ixia, Rodos, Grecja, 85101",
+ "adultsOnly": false,
+ "airportKm": 8,
+ "airportName": "Międzynarodowe Lotnisko Rodos (Diagoras Airport - RHO)",
+ "amenities": [
+  "Klimatyzacja",
+  "Mini lodówka",
+  "Suszarka do włosów",
+  "Sejf"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Ixia, w zatoce Ixia",
+ "bars": 2,
+ "beachDistanceM": 75,
+ "beachType": "Kamienista/żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Miłośnicy sportów wodnych",
+  "Osoby szukające bazy wypadowej"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 0,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy: klimatyzacja, prywatna łazienka z prysznicem, balkon, telewizor z płaskim ekranem, mini lodówka, suszarka do włosów, sejf",
+  "Pokój dwuosobowy/typu twin: klimatyzacja, prywatna łazienka z prysznicem, balkon, telewizor z płaskim ekranem, mini lodówka, suszarka do włosów, sejf",
+  "Pokój trzyosobowy: klimatyzacja, prywatna łazienka z prysznicem, balkon, telewizor z płaskim ekranem, mini lodówka, suszarka do włosów, sejf",
+  "Pokój rodzinny: klimatyzacja, prywatna łazienka z prysznicem, balkon, telewizor z płaskim ekranem, mini lodówka, suszarka do włosów, sejf, może posiadać aneks kuchenny i stół jadalny"
+ ],
+ "rooms": 48,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4188766,
+  "lon": 28.1834793,
+  "src": "osm"
+ },
+ "sources": [
+  "rhodesislandhotels.com",
+  "filmarhotel.gr",
+  "agoda.com",
+  "google.com.gi",
+  "booking.com",
+  "destinia.com",
+  "reserving.com",
+  "planmytour.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

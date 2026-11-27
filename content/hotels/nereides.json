@@ -1,0 +1,137 @@
+{
+ "id": "x:grecja:nereides",
+ "slug": "nereides",
+ "name": "Nereides",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Hanioti"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/hanioti/nereides/0156b3c396ed37c5632f6.jpg",
+ "city": "Hanioti",
+ "intro": [
+  "Hotel Nereides to dwupiętrowy aparthotel położony w centrum Hanioti na Półwyspie Kassandra w regionie Chalkidiki w Grecji. Oferuje 27 przestronnych pokoi, idealnych dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Obiekt jest doskonałym wyborem dla rodzin oraz par szukających relaksu w spokojnej okolicy, z łatwym dostępem do lokalnych atrakcji i piaszczystej plaży. Hotel zapewnia komfortowe zakwaterowanie z aneksem kuchennym i dostępem do basenu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nereides znajduje się w centrum miejscowości Hanioti, około 250 metrów od głównego placu. Piaszczysta plaża Hanioti, wyróżniona Błękitną Flagą, oddalona jest o około 500 metrów. Na plaży leżaki i parasole są zazwyczaj płatne, natomiast przy hotelowym basenie są dostępne bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 27 przestronnych i funkcjonalnych pokoi typu Studio, Studio Premium, Pokój Dwuosobowy oraz Apartament z jedną sypialnią. Każdy pokój wyposażony jest w klimatyzację, aneks kuchenny, prywatną łazienkę, balkon lub taras, telewizor z płaskim ekranem oraz sejf. Z pokoi roztacza się widok na basen lub ogród."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Nereides oferuje zakwaterowanie z własnym wyżywieniem, co oznacza brak opcji all inclusive. Na terenie obiektu znajduje się bar przy basenie oraz kawiarnia i bar. Śniadanie jest serwowane w barze przy basenie, często za dodatkową opłatą. Przekąski i napoje są dostępne przez cały dzień przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest sezonowy odkryty basen z częścią do hydromasażu oraz oddzielny basen dla dzieci. Hotel oferuje również spa, salon piękności oraz zabiegi masażu i jacuzzi. W okolicy dostępne są sporty wodne. Wieczorną rozrywkę zapewnia klub taneczny/nocny."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych, a także w niektórych pokojach. Na miejscu dostępne są udogodnienia takie jak winda, spa, salon piękności oraz możliwość skorzystania z zabiegów masażu. Pokoje wyposażone są w aneksy kuchenne, co umożliwia samodzielne przygotowywanie posiłków."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko centrum i plaży",
+  "Przestronne pokoje z aneksem kuchennym",
+  "Czyste pokoje i basen",
+  "Przyjazny personel",
+  "Spa i jacuzzi na terenie hotelu"
+ ],
+ "cons": [
+  "Brak opcji all inclusive",
+  "Śniadanie często za dodatkową opłatą",
+  "Plaża oddalona o około 500 metrów",
+  "Brak informacji o roku otwarcia i ostatniego remontu",
+  "Brak animacji dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Nereides od plaży?",
+   "a": "Hotel Nereides jest oddalony o około 500 metrów od piaszczystej plaży Hanioti."
+  },
+  {
+   "q": "Czy w hotelu Nereides jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Nereides nie ma aquaparku ani zjeżdżalni. Dostępny jest sezonowy odkryty basen z częścią do hydromasażu oraz oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska do hotelu Nereides?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Saloniki (SKG), oddalony o około 77-91 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Nereides jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje basen dla dzieci oraz pokoje rodzinne. Nie jest to hotel przeznaczony wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu Nereides jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, a niektóre źródła wskazują również na Wi-Fi w pokojach."
+  },
+  {
+   "q": "Czy hotel Nereides oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Nereides oferuje zakwaterowanie z własnym wyżywieniem (self-catered), co oznacza, że opcja all inclusive nie jest dostępna. Śniadanie serwowane jest w barze przy basenie, często za dodatkową opłatą."
+  }
+ ],
+ "address": "Chanioti 630 85, Hanioti, Halkidiki, Grecja",
+ "adultsOnly": false,
+ "airportKm": 77,
+ "airportName": "Międzynarodowy Port Lotniczy Saloniki (SKG)",
+ "amenities": [
+  "Spa",
+  "Salon piękności",
+  "Jacuzzi",
+  "Winda",
+  "Aneks kuchenny w pokojach",
+  "Sejf w pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Półwysep Kassandra",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.25,
+ "goodFor": [
+  "Rodziny",
+  "Osoby szukające niezależności",
+  "Osoby szukające relaksu"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio (z aneksem kuchennym, łazienką, balkonem/tarasem, TV, klimatyzacją, sejfem)",
+  "Studio Premium (z aneksem kuchennym, łazienką, balkonem/tarasem, TV, klimatyzacją, sejfem)",
+  "Pokój Dwuosobowy (z aneksem kuchennym, łazienką, balkonem/tarasem, TV, klimatyzacją, sejfem)",
+  "Apartament z jedną sypialnią (z aneksem kuchennym, łazienką, balkonem/tarasem, TV, klimatyzacją, sejfem)"
+ ],
+ "rooms": 27,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.9990245,
+  "lon": 23.5729541,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelschalkidiki.com",
+  "lordtravel.rs",
+  "booking.com",
+  "reserve-online.net",
+  "agoda.com",
+  "amostravel.rs",
+  "escapetravel.mk",
+  "hotelnereides.gr"
+ ],
+ "updated": "2026-11-27"
+}

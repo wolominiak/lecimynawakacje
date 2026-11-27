@@ -1,0 +1,144 @@
+{
+ "id": "x:grecja:the met hotel",
+ "slug": "the-met-hotel",
+ "name": "The Met Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Saloniki i okolice",
+  "Saloniki"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/recko/solun-a-okoli/solun/the-met-hotel-pl/8281/bd6085787e15cd9be4eda-244.jpg",
+ "city": "Saloniki",
+ "intro": [
+  "The Met Hotel to pięciogwiazdkowy obiekt położony w Salonikach, w dzielnicy portowej, około 1.8-2 km od centrum miasta. Ten luksusowy hotel, otwarty w 2009 roku, wyróżnia się współczesnym designem i jest idealnym wyborem dla osób poszukujących komfortu i dogodnego dostępu do miejskich atrakcji.",
+  "Hotel jest szczególnie polecany dla podróżujących służbowo, pasażerów rejsów, par oraz osób ceniących design i sztukę. Stanowi doskonałą bazę wypadową do zwiedzania i zakupów, oferując jednocześnie udogodnienia do relaksu, takie jak basen na dachu z widokiem na miasto i port."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i transport",
+   "text": "The Met Hotel znajduje się w zachodniej części Salonik, w obszarze portowym, około 200 metrów od Portu w Salonikach. Do centrum miasta (Plac Arystotelesa) jest około 1.8-2 km, a hotel zapewnia bezpłatny, regularny transfer autobusem. Najbliższe lotnisko, Międzynarodowy Port Lotniczy Saloniki \"Makedonia\" (SKG), oddalone jest o około 18-24 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 212 nowocześnie urządzonych pokoi i apartamentów, w tym Superior, Deluxe i różne typy Suite. Wszystkie pokoje wyposażone są w drewniane podłogi, marmurowe łazienki, szybki internet (Wi-Fi i przewodowy), telewizor HD, sejf na laptopa, klimatyzację, minibar oraz luksusowe szlafroki i kapcie. Niektóre pokoje posiadają balkony z widokiem na miasto lub port."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje: Avenue 48 serwująca kuchnię śródziemnomorską i obfite śniadania w formie bufetu, Chan Restaurant & Bar z kuchnią azjatycką fusion (zamknięta latem) oraz sezonowy Sky Bar & Restaurant na dachu z daniami azjatyckimi i śródziemnomorskimi. Do dyspozycji gości są również trzy bary: Sky Bar na dachu, The Long Bar z imponującym wystrojem oraz Chan Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z dwóch basenów: sezonowego basenu zewnętrznego na dachu (22 metry) z widokiem na miasto i port, otwartego od maja do października, oraz podgrzewanego basenu krytego z jacuzzi w strefie spa, dostępnego przez cały rok. Hotel dysponuje również dobrze wyposażonym centrum fitness i M'Spa Rejuvenation Center oferującym szeroki zakres zabiegów."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w pokojach i miejscach publicznych. Na terenie obiektu znajduje się spa z hammamem i jacuzzi oraz salon fryzjerski. The Met Hotel akceptuje zwierzęta domowe (psy i koty) na życzenie, z pewnymi ograniczeniami. Dostępne są również łóżeczka dla niemowląt."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Doskonałe i bogate śniadania w formie bufetu",
+  "Czyste, przestronne i komfortowe pokoje",
+  "Basen na dachu z widokiem na miasto i port",
+  "Bezpłatny transfer autobusem do centrum miasta"
+ ],
+ "cons": [
+  "Lokalizacja nieco oddalona od ścisłego centrum",
+  "Brak typowej plaży rekreacyjnej",
+  "Wnętrza pokoi mogą wykazywać oznaki starzenia",
+  "Pokoje Superior mogą być mniejsze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się 200 metrów od Portu w Salonikach, który nie jest typową plażą do kąpieli. Jest to hotel miejski i brak informacji o plaży rekreacyjnej."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Saloniki \"Makedonia\" (SKG) jest oddalony o około 18-24 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest odpowiedni dla rodzin z dziećmi, które są mile widziane. Dostępne są łóżeczka dla niemowląt na życzenie. Brak jednak dedykowanej strefy dla dzieci, mini klubu czy animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich miejscach publicznych hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Hotel oferuje śniadania."
+  }
+ ],
+ "address": "26is Oktovriou 48, 546 27 Saloniki, Grecja",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Międzynarodowy Port Lotniczy Saloniki \"Makedonia\" (SKG)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wi-Fi",
+  "Basen na dachu",
+  "Kryty basen",
+  "Jacuzzi",
+  "Hammam",
+  "Salon fryzjerski",
+  "Bezpłatny transfer do centrum"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Obszar portowy (harbor area), zachodnie Saloniki",
+ "bars": 3,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 1.8,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Pasażerowie rejsów",
+  "Osoby szukające relaksu",
+  "Pary",
+  "Osoby ceniące design i sztukę"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 2009,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2009,
+ "restaurants": 3,
+ "roomTypes": [
+  "Superior",
+  "Superior Plus Twin/Double",
+  "Deluxe",
+  "Executive",
+  "Business Suite",
+  "Executive Suite",
+  "The Met Suite"
+ ],
+ "rooms": 212,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.6406608,
+  "lon": 22.9204348,
+  "src": "osm"
+ },
+ "sources": [
+  "greektransferservices.com",
+  "flexitransfer.gr",
+  "tripbase.com",
+  "themethotel.gr",
+  "onthebeach.ie",
+  "booking.com",
+  "onthebeach.co.uk",
+  "radiotaximercedes.eu"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": "x:grecja:horizon line villas",
+ "slug": "horizon-line-villas",
+ "name": "Horizon Line Villas",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Kiotari"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/kiotari/horizon-line-villas/e208b5ef53b820cd294d7.jpg",
+ "city": "Kiotari",
+ "intro": [
+  "Horizon Line Villas to kompleks czterech luksusowych willi, położony w południowej części Rodos, zaledwie 40 metrów od plaży Kiotari. Obiekt oferuje przestronne zakwaterowanie z prywatnymi basenami, idealne dla osób ceniących sobie niezależność i komfortowy wypoczynek blisko morza.",
+  "Kompleks jest doskonałym wyborem dla par, rodzin z dziećmi oraz większych grup, które szukają prywatności i swobody, a jednocześnie chcą mieć łatwy dostęp do lokalnych atrakcji i udogodnień. Bliskość centrum Kiotari z restauracjami i sklepami dodatkowo zwiększa jego atrakcyjność."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Wille Horizon Line znajdują się w miejscowości Kiotari, zaledwie 40 metrów od plaży Kiotari, która posiada certyfikat Błękitnej Flagi. Plaża charakteryzuje się mieszanką piasku i kamyków. Goście mają do dyspozycji bezpłatne leżaki i parasole zarówno przy basenie, jak i na plaży."
+  },
+  {
+   "title": "Wille i wyposażenie",
+   "text": "Kompleks składa się z czterech luksusowych, trzypoziomowych willi, zbudowanych w 2010 roku. Każda willa posiada trzy sypialnie, dwie łazienki, otwartą kuchnię z jadalnią oraz salon. Wyposażenie obejmuje klimatyzację, telewizory z płaskim ekranem, odtwarzacz DVD i MP3, a także w pełni wyposażoną kuchnię."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Każda willa dysponuje własnym prywatnym basenem zewnętrznym, przy którym dostępne są leżaki i prysznic. Dla najmłodszych gości na terenie kompleksu przygotowano plac zabaw. Brak informacji o innych formach rekreacji czy animacjach."
+  },
+  {
+   "title": "Wyżywienie i okolica",
+   "text": "Wille wyposażone są w pełne kuchnie, co umożliwia samodzielne przygotowywanie posiłków. W odległości około 500 metrów od obiektu znajdują się liczne restauracje, tawerny rybne oraz supermarkety, oferujące szeroki wybór produktów i lokalnych specjałów."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Horizon Line Villas są polecane dla par, rodzin, dużych grup oraz firm, które cenią sobie przestronne zakwaterowanie, prywatność i bliskość morza. Obiekt jest idealny dla osób szukających spokojnego wypoczynku z możliwością samodzielnego planowania dnia."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży",
+  "Każda willa z prywatnym basenem",
+  "Przestronne i dobrze wyposażone wille",
+  "Spokojna okolica",
+  "Bliskość restauracji i supermarketów"
+ ],
+ "cons": [
+  "Brak informacji o spa i siłowni na terenie obiektu",
+  "Brak opcji all inclusive",
+  "Brak animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko od plaży znajdują się wille?",
+   "a": "Wille Horizon Line położone są zaledwie 40 metrów od plaży Kiotari."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża Kiotari to mieszanka piasku i wielobarwnych kamyków lub żwiru, posiadająca certyfikat Błękitnej Flagi."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska Rodos (RHO) wynosi około 62 km."
+  },
+  {
+   "q": "Czy wille są odpowiednie dla rodzin z dziećmi?",
+   "a": "Tak, wille są polecane dla rodzin i oferują plac zabaw dla dzieci oraz możliwość zamówienia opieki nad dziećmi i wózka dziecięcego."
+  },
+  {
+   "q": "Czy w willach jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich willach."
+  },
+  {
+   "q": "Czy w kompleksie jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, brak informacji o aquaparku lub zjeżdżalniach na terenie kompleksu."
+  }
+ ],
+ "address": "Kiotari Beach street, Kiotari",
+ "adultsOnly": false,
+ "airportKm": 62,
+ "airportName": "Rodos \"Diagoras\" (RHO)",
+ "amenities": [
+  "prywatny basen",
+  "plac zabaw dla dzieci",
+  "bezpłatne leżaki i parasole na plaży i przy basenie",
+  "ręczniki basenowe",
+  "klimatyzacja",
+  "w pełni wyposażona kuchnia",
+  "telewizory z płaskim ekranem",
+  "odtwarzacz DVD i MP3",
+  "Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Kiotari",
+ "bars": null,
+ "beachDistanceM": 40,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "rodziny",
+  "duże grupy",
+  "firmy"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2010,
+ "pools": 4,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Willa (3 sypialnie, 2 łazienki, otwarta kuchnia z jadalnią, salon, klimatyzacja, telewizory, odtwarzacz DVD/MP3, w pełni wyposażona kuchnia, umeblowane patio)"
+ ],
+ "rooms": 4,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.0436423,
+  "lon": 27.9493592,
+  "src": "osm"
+ },
+ "sources": [
+  "horizon-villas.com",
+  "agoda.com",
+  "reserve-online.net",
+  "discovergreece.com",
+  "booking.com",
+  "wakacjeamigos.pl",
+  "fischer.sk",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

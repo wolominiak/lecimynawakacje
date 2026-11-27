@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:astoria hotel",
+ "slug": "astoria-hotel",
+ "name": "Astoria Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Zakynthos",
+  "Alykes"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/zakynthos/alykes/astoria-hotel-pl/7327/1c6a2f8c24ad0b8d0c9abaf1cb36f76b_picture006-244.jpg",
+ "city": "Alykes",
+ "intro": [
+  "Astoria Hotel to kameralny, rodzinny obiekt położony bezpośrednio przy piaszczystej plaży w miejscowości Alykes na greckiej wyspie Zakynthos. Hotel, założony w 1983 roku, oferuje swobodną atmosferę i jest idealnym miejscem dla osób szukających relaksu blisko morza i lokalnych atrakcji.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz grup przyjaciół, którzy cenią sobie dogodną lokalizację, bliskość plaży i centrum miejscowości. Czteropiętrowy kompleks z 55 pokojami zapewnia spokojny wypoczynek z dostępem do greckiej kuchni i podstawowych udogodnień."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Astoria szczyci się doskonałą lokalizacją bezpośrednio przy złotej, piaszczystej plaży Alykes na północno-wschodnim wybrzeżu Zakynthos. Centrum miejscowości Alykes z licznymi sklepami i restauracjami znajduje się zaledwie 50-150 metrów od hotelu. Plaża jest publiczna, a leżaki i parasole dostępne są za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 55 pokoi dwuosobowych, które mogą pomieścić 2-3 osoby, z widokiem na ląd lub morze. Każdy pokój wyposażony jest w klimatyzację (płatną lokalnie), telefon, czajnik, lodówkę, suszarkę do włosów, telewizor oraz balkon lub taras. W łazience znajduje się wanna lub prysznic, a sejf dostępny jest za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni greckiej i międzynarodowej na śniadania, obiady i kolacje. Goście mogą wybierać spośród opcji \"tylko pokój\", \"śniadanie\" lub \"half board\" (śniadania i obiadokolacje). Na terenie obiektu dostępne są również bar, bar przekąskowy przy plaży oraz Cave Bar z bilardem."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Astoria nie posiada basenów ani aquaparku, jednak oferuje bezpłatne Wi-Fi w całym obiekcie. Dla rozrywki dostępne są bilard i tenis stołowy. Na plaży lokalni dostawcy oferują płatne sporty wodne. Hotel organizuje również animacje i wydarzenia."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz wysokie krzesełka w restauracji. Hotel jest przyjazny rodzinom i polecany jako dobre miejsce na wakacje z dziećmi."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bliskość centrum miejscowości Alykes",
+  "Przyjazna, rodzinna atmosfera",
+  "Czyste pokoje i pomocna obsługa",
+  "Dobre jedzenie, zwłaszcza kolacje"
+ ],
+ "cons": [
+  "Brak basenu na terenie hotelu",
+  "Płatne leżaki i parasole na plaży",
+  "Śniadania bywają monotonne",
+  "Klimatyzacja w pokojach płatna dodatkowo",
+  "Wystrój hotelu może być nieco \"zmęczony\""
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Astoria położony jest bezpośrednio przy złotej, piaszczystej plaży Alykes."
+  },
+  {
+   "q": "Czy na plaży są leżaki i parasole?",
+   "a": "Tak, leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od Międzynarodowego Lotniska Zakynthos (ZTH) wynosi około 17-21 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Astoria nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi i oferuje plac zabaw oraz wysokie krzesełka w restauracji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Alykes, P.C. 29090, Grecja",
+ "adultsOnly": false,
+ "airportKm": 19,
+ "airportName": "Międzynarodowe Lotnisko Zakynthos (ZTH)",
+ "amenities": [
+  "Plac zabaw dla dzieci",
+  "Wysokie krzesełka w restauracji",
+  "Bilard",
+  "Tenis stołowy",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1983,
+ "pools": 0,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (2-3 osoby) z widokiem na ląd lub morze: klimatyzacja (płatna), telefon, czajnik, lodówka, suszarka do włosów, balkon/taras, łazienka z wanną/prysznicem, telewizor, ekspres do kawy, sejf (płatny)."
+ ],
+ "rooms": 55,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.8435075,
+  "lon": 20.7651736,
+  "src": "osm"
+ },
+ "sources": [
+  "astoriazante.com",
+  "olympicholidays.com",
+  "sunshine.co.uk",
+  "onthebeach.ie",
+  "jet2holidays.com",
+  "onthebeach.co.uk",
+  "wakacje.pl",
+  "justzante.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

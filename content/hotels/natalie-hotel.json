@@ -1,0 +1,142 @@
+{
+ "id": "x:grecja:natalie hotel",
+ "slug": "natalie-hotel",
+ "name": "Natalie Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Zakynthos",
+  "Laganas"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/zakynthos/laganas/natalie-hotel-pl/5446/09d802b8174b7a4d9a426b268f5a9943_0-244.jpg",
+ "city": "Laganas",
+ "intro": [
+  "Natalie Hotel to kameralny, rodzinny obiekt położony w samym sercu tętniącego życiem Laganas na greckiej wyspie Zakynthos. Zbudowany w 1992 roku i odnowiony w 2016 roku, oferuje wygodne zakwaterowanie w bliskiej odległości od piaszczystej plaży oraz centrum rozrywkowego miejscowości.",
+  "Hotel jest doskonałym wyborem zarówno dla par, jak i rodzin z dziećmi, które cenią sobie łatwy dostęp do plaży, lokalnych atrakcji i życia nocnego, jednocześnie poszukując komfortowego miejsca do wypoczynku. Jego centralne położenie sprawia, że jest idealną bazą wypadową do odkrywania uroków Zakynthos."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Natalie Hotel znajduje się w Laganas, zaledwie 25-50 metrów od piaszczystej plaży Laganas, co oznacza około 5 minut spacerem. W pobliżu hotelu znajdują się również plaża Agios Sostis oraz Morze Jońskie. Obiekt usytuowany jest w centrum Laganas, blisko głównej ulicy z barami i klubami, a do centrum miejscowości można dojść w około 10 minut (400 metrów)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 40-41 pokoi i studiów, w tym pokoje dwuosobowe, trzyosobowe, rodzinne oraz apartamenty jedno- i dwupokojowe. Każdy pokój wyposażony jest w balkon lub taras, klimatyzację (dodatkowo płatną), bezpłatne Wi-Fi, telewizor z płaskim ekranem, biurko, zestaw do parzenia kawy/herbaty, lodówkę, suszarkę do włosów oraz prywatną łazienkę. Dostępny jest również sejf (dodatkowo płatny)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen, a także oddzielny basen dla dzieci. Goście mogą korzystać z leżaków i parasoli przy basenie. Dla najmłodszych przygotowano również plac zabaw. Dodatkowo, hotel oferuje stół do bilarda (za opłatą)."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Natalie Hotel serwuje śniadania w formie bufetu. Na miejscu dostępne są dwa bary: bar przy basenie/snack bar, idealny na lekkie przekąski i napoje w ciągu dnia, oraz lounge bar, oferujący relaksującą atmosferę na wieczorne spotkania."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czysty basen",
+  "Dobre śniadania w formie bufetu",
+  "Bezpłatne Wi-Fi w pokojach i miejscach publicznych"
+ ],
+ "cons": [
+  "Możliwy hałas od imprezowiczów ze względu na centralne położenie",
+  "W niektórych pokojach potrzebne remonty",
+  "Małe łazienki z problemami z prysznicem",
+  "Klimatyzacja i sejf dodatkowo płatne",
+  "Pojedyncze opinie o problemach z czystością i jakością jedzenia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Natalie znajduje się zaledwie 25-50 metrów od piaszczystej plaży Laganas, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Zakynthos (ZTH), oddalone jest o 3-8 km, co oznacza około 10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu Natalie nie ma aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen oraz oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje oddzielny basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w miejscach publicznych na terenie hotelu."
+  },
+  {
+   "q": "Jakie posiłki są serwowane w hotelu?",
+   "a": "Hotel Natalie serwuje śniadania w formie bufetu. Na terenie obiektu znajduje się również bar przy basenie/snack bar oraz lounge bar."
+  }
+ ],
+ "address": "Laganas 29100, Zakynthos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 8,
+ "airportName": "Międzynarodowy Port Lotniczy Zakynthos (Dionysios Solomos Airport - ZTH)",
+ "amenities": [
+  "Balkon/taras",
+  "Klimatyzacja (płatna)",
+  "Bezpłatne Wi-Fi",
+  "Telewizor z płaskim ekranem",
+  "Biurko",
+  "Zestaw do parzenia kawy/herbaty",
+  "Lodówka/mini-lodówka",
+  "Suszarka do włosów",
+  "Prywatna łazienka z prysznicem/wanną",
+  "Sejf (płatny)",
+  "Basen odkryty",
+  "Basen dla dzieci",
+  "Plac zabaw",
+  "Stół do bilarda (płatny)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Laganas",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające relaksu na plaży z dostępem do życia nocnego"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1992,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 0,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój rodzinny",
+  "Apartament jedno-pokojowy (studio)",
+  "Apartament dwu-pokojowy (studio)"
+ ],
+ "rooms": 41,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.7208183,
+  "lon": 20.8616028,
+  "src": "osm"
+ },
+ "sources": [
+  "webzakynthoshotels.com",
+  "thomascook.com",
+  "expedia.com",
+  "reserve-online.net",
+  "mapcarta.com",
+  "onthebeach.ie",
+  "directbooking.ro",
+  "aurinkomatkat.fi"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": "x:grecja:nautilus beach",
+ "slug": "nautilus-beach",
+ "name": "Nautilus Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Barbati"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/barbati/nautilus-beach-pl/autilushotelpanoramic.jpg",
+ "city": "Barbati",
+ "intro": [
+  "Hotel Nautilus Beach to kameralny obiekt położony na północno-wschodnim wybrzeżu Korfu, w malowniczej miejscowości Barbati. Usytuowany w otoczeniu ogrodów, oferuje piękne widoki na morze i jest idealnym miejscem dla osób szukających spokoju oraz relaksu, z dala od zgiełku.",
+  "Obiekt, składający się z pięciu niezależnych budynków, jest szczególnie polecany dla rodzin z dziećmi, par oraz wszystkich, którzy pragną połączyć wypoczynek z możliwością zwiedzania urokliwej wyspy Korfu. Bliskość centrum Barbati i dogodne połączenia autobusowe ułatwiają eksplorację okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nautilus Beach znajduje się w Barbati, około 800 metrów od żwirowej plaży Barbati, która posiada certyfikat Błękitnej Flagi. Do plaży można dojść w 7-10 minut lub skorzystać z bezpłatnego busu hotelowego. Obiekt oferuje również bezpośredni dostęp do morza z platformami, gdzie dostępne są bezpłatne leżaki i parasole. Najbliższe lotnisko Korfu oddalone jest o 15-20 km, a centrum Barbati o około 240 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 65 pokojami, w tym pokojami dwuosobowymi z balkonem i pokojami typu Twin, z których większość oferuje widok na ocean. Wyposażenie obejmuje klimatyzację (może być dodatkowo płatna), ogrzewanie, prywatną łazienkę z prysznicem, telewizor z płaskim ekranem, sejf, lodówkę, suszarkę do włosów i telefon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca kuchnię grecką, bar przy basenie oraz snack bar. Opcja all inclusive obejmuje śniadanie, lunch i kolację w formie bufetu. Napoje w barze głównym dostępne są od 10:00 do 23:00, a kawa i herbata w godzinach 16:00-17:00. Przekąski mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z odkrytego basenu dla dorosłych oraz wydzielonego brodzika dla dzieci. Dla najmłodszych dostępny jest plac zabaw. Hotel oferuje również rozrywkę na żywo. Dostępne aktywności sportowe to snorkeling, tenis stołowy, koszykówka, wędkarstwo, piesze wycieczki oraz wypożyczalnia rowerów. Na terenie obiektu znajduje się również siłownia."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych oraz w pokojach. Dla wygody gości dostępny jest bezpłatny bus do plaży Barbati i Ipsos. Hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Piękne widoki na morze i spokojna lokalizacja",
+  "Bezpośredni dostęp do morza z platformami",
+  "Przyjazny personel i dobre śniadania",
+  "Bezpłatny bus do plaży Barbati i Ipsos",
+  "Czysty basen i bezpłatne leżaki przy basenie/nabrzeżu"
+ ],
+ "cons": [
+  "Hotel może być postrzegany jako nieco przestarzały",
+  "Liczne schody i pochyłości na terenie obiektu",
+  "Jedzenie w all inclusive bywa mało urozmaicone",
+  "Konieczność korzystania z transportu do wieczornych atrakcji",
+  "Brak czajnika/kawy/herbaty w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Nautilus Beach jest oddalony o około 800 metrów od żwirowej plaży Barbati, co zajmuje około 7-10 minut spacerem. Hotel oferuje również bezpośredni dostęp do morza z platformami."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Korfu (CFU-Ioannis Kapodistrias) znajduje się około 15-20 km od hotelu, co oznacza około 30-35 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dysponuje basenem dla dorosłych i brodzikiem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada brodzik dla dzieci oraz plac zabaw. Oferuje również rozrywkę na żywo."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy leżaki na plaży są wliczone w cenę?",
+   "a": "Leżaki i parasole są bezpłatne przy basenie i na hotelowym nabrzeżu. Na publicznej plaży Barbati leżaki są płatne i nie są wliczone w pakiet all inclusive."
+  }
+ ],
+ "address": "Main Street, Barbati, 491 00, Korfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (CFU-Ioannis Kapodistrias)",
+ "amenities": [
+  "Wi-Fi",
+  "Siłownia",
+  "Plac zabaw",
+  "Rozrywka na żywo",
+  "Wypożyczalnia rowerów",
+  "Bezpłatny bus do plaży/Ipsos"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Barbati",
+ "bars": 2,
+ "beachDistanceM": 800,
+ "beachType": "żwirowa",
+ "centerKm": 0.24,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające spokoju i relaksu",
+  "zwiedzanie wyspy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z balkonem (widok na ocean, klimatyzacja, łazienka z prysznicem, TV, sejf, lodówka, suszarka do włosów, telefon)",
+  "Pokój typu Twin (widok na ocean, klimatyzacja, łazienka z prysznicem, TV, sejf, lodówka, suszarka do włosów, telefon)"
+ ],
+ "rooms": 65,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.3928244,
+  "lon": 28.0482929,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "tui.co.uk",
+  "corfuholiday.gr",
+  "grhotels.gr",
+  "corfugreecehotels.com",
+  "hotelscorfuisland.com",
+  "corendon.nl",
+  "korfuhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

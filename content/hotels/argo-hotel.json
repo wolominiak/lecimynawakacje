@@ -1,0 +1,131 @@
+{
+ "id": "x:grecja:argo hotel",
+ "slug": "argo-hotel",
+ "name": "Argo Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Siviri"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/siviri/argo-hotel/024f670c35c233f191068.jpg",
+ "city": "Siviri",
+ "intro": [
+  "Argo Hotel to kameralny, trzygwiazdkowy obiekt położony w sercu miejscowości Siviri na zachodnim wybrzeżu półwyspu Kassandra w Chalkidiki. Hotel, składający się z budynku głównego i trzech przyległych, dwupiętrowych budynków, oferuje spokojną atmosferę idealną dla par i rodzin szukających relaksującego wypoczynku.",
+  "Dzięki swojej lokalizacji, Argo Hotel stanowi dogodną bazę wypadową do odkrywania uroków Kassandry, oferując jednocześnie łatwy dostęp do plaży i lokalnych atrakcji. Obiekt jest ceniony za czystość, przyjazną obsługę i dobry stosunek jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Argo znajduje się w centrum miejscowości Siviri, około 200-450 metrów od jej serca. Piaszczysto-żwirowa plaża Siviri Beach oddalona jest o 200-400 metrów, co zajmuje około 6 minut spacerem. Plaża nie jest prywatna, a hotel zapewnia bezpłatne leżaki i parasole przy basenie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia dla 2 osób oraz apartamenty z jedną sypialnią dla 2-4 osób. Pokoje wyposażone są w indywidualnie sterowaną klimatyzację (czasem za dopłatą), prywatną łazienkę z prysznicem, sejf, telewizor z płaskim ekranem, czajnik i lodówkę. Wiele jednostek posiada w pełni wyposażony aneks kuchenny z piekarnikiem i płytą grzejną, a także balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu serwowane jest śniadanie kontynentalne w formie bufetu. Do dyspozycji gości są bar, bar przy basenie, kawiarnia oraz snack bar. Brak informacji o opcji all inclusive, a obecność aneksów kuchennych w pokojach umożliwia samodzielne przygotowywanie posiłków."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden sezonowy basen zewnętrzny. Dla najmłodszych gości dostępny jest oddzielny basen dla dzieci. Hotel nie oferuje aquaparku, zjeżdżalni, animacji ani mini klubu."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu. Nie ma informacji o dostępności spa czy siłowni. Na życzenie dostępne są łóżeczka dziecięce."
+  }
+ ],
+ "pros": [
+  "Bardzo czysty i dobrze utrzymany obiekt",
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Miła, pomocna i przyjazna obsługa",
+  "Dobry stosunek jakości do ceny",
+  "Spokojna i rodzinna atmosfera",
+  "Basen dobry, szczególnie dla dzieci"
+ ],
+ "cons": [
+  "Śniadania mogą być monotonne (według jednej starszej opinii)",
+  "Klimatyzacja w niektórych pokojach może być dodatkowo płatna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Argo znajduje się około 200-400 metrów od piaszczysto-żwirowej plaży Siviri Beach, co zajmuje około 6 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Saloniki (SKG), oddalony o około 77-85 km. Czas przejazdu to około 1 godzina."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden sezonowy basen zewnętrzny i basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Dostępny jest basen dla dzieci, a łóżeczka dziecięce są dostępne na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Jakie wyżywienie oferuje hotel?",
+   "a": "Hotel oferuje śniadanie kontynentalne w formie bufetu. Wiele pokoi posiada aneksy kuchenne."
+  }
+ ],
+ "address": "Main Street, Siviri, 63077, Grecja",
+ "adultsOnly": false,
+ "airportKm": 77,
+ "airportName": "Port lotniczy Saloniki (SKG)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Basen zewnętrzny",
+  "Basen dla dzieci",
+  "Balkon lub taras w pokojach",
+  "Aneks kuchenny w niektórych pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kassandra, Chalkidiki",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1995,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio (dla 2 osób/par) z klimatyzacją, łazienką, sejfem, TV, czajnikiem, lodówką, balkonem/tarasem",
+  "Apartament z jedną sypialnią (dla 2-4 osób) z klimatyzacją, łazienką, sejfem, TV, czajnikiem, lodówką, balkonem/tarasem, niektóre z aneksem kuchennym z piekarnikiem i płytą grzejną"
+ ],
+ "rooms": 32,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.0384999,
+  "lon": 23.3629502,
+  "src": "osm"
+ },
+ "sources": [
+  "flexitransfer.gr",
+  "holidaycheck.de",
+  "d-reizen.nl",
+  "planetofhotels.com",
+  "hotelschalkidiki.com",
+  "hotel-argo.gr",
+  "reserving.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,133 @@
+{
+ "id": 30290,
+ "slug": "olympic-kosmas-ex-bomo-olympic-kosmas",
+ "name": "Olympic Kosmas (ex. Bomo Olympic Kosmas)",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Chalkidiki",
+  "Chaniotis"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/olympic-kosmas-ex-bomo-olympic-kosmas-basen-teren-hotelu-obiekt-825719204-570-428.jpg",
+ "city": "Chaniotis",
+ "intro": [
+  "Hotel Olympic Kosmas (ex. Bomo Olympic Kosmas) to trzygwiazdkowy obiekt położony w malowniczej miejscowości Chaniotis na półwyspie Kassandra w regionie Chalkidiki. Jest to idealne miejsce dla osób szukających relaksu blisko piaszczystej plaży oraz tętniącego życiem centrum miejscowości.",
+  "Obiekt polecany jest zarówno dla rodzin z dziećmi, jak i dla par czy grup przyjaciół. Oferuje komfortowe zakwaterowanie oraz dogodną lokalizację, umożliwiającą łatwy dostęp do lokalnych atrakcji, tawern i sklepów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Olympic Kosmas znajduje się w Chaniotis, zaledwie 100-300 metrów od piaszczystej plaży, co gwarantuje szybki dostęp do morza. W pobliżu plaży dostępne są bary oferujące leżaki i parasole. Centrum miejscowości, pełne tawern, barów i sklepów, oddalone jest o 200-700 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 140 pokojami, w tym pokojami Standard, Deluxe, rodzinnymi oraz Superior z widokiem na morze lub basen. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, balkon, telewizor z płaskim ekranem, lodówkę i bezpłatne Wi-Fi. Niektóre pokoje Deluxe zostały niedawno odnowione."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni grecko-śródziemnomorskiej. Goście mogą korzystać z opcji wyżywienia typu Half Board, obejmującej śniadania w formie bufetu kontynentalnego oraz obiadokolacje. Na terenie obiektu dostępny jest również bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden sezonowy odkryty basen ze słodką wodą oraz oddzielny basen dla dzieci. Leżaki i parasole przy basenie są bezpłatne. W całym hotelu, w tym w pokojach i miejscach publicznych, dostępny jest bezpłatny bezprzewodowy internet."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Olympic Kosmas jest doskonałym wyborem dla rodzin z dziećmi, par oraz grup przyjaciół. Jego lokalizacja blisko plaży i centrum miejscowości sprawia, że jest to idealne miejsce dla osób ceniących sobie wygodę i dostęp do lokalnych atrakcji."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czyste i przestronne pokoje",
+  "Dobre i urozmaicone śniadania",
+  "Miła i pomocna obsługa",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Ograniczone wygłuszenie pokoi",
+  "Brak prywatnego parkingu",
+  "Częściowa dostępność dla osób niepełnosprawnych",
+  "Brak aquaparku i animacji",
+  "Brak spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 100-300 metrów od piaszczystej plaży w Chaniotis, co zajmuje 2-3 minuty spacerem."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i ile trwa transfer?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Saloniki \"Macedonia\" (SKG), oddalone o około 91-110 km. Czas transferu wynosi od 50 minut do 1,3 godziny."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje m.in. oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, w tym w pokojach i we wszystkich miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Nie, hotel nie posiada prywatnej plaży, ale w pobliżu znajdują się bary plażowe, które często oferują leżaki i parasole przy zamówieniu napojów."
+  }
+ ],
+ "address": "Hanioti, 63085, Hanioti, Grecja",
+ "adultsOnly": false,
+ "airportKm": 91,
+ "airportName": "Międzynarodowy Port Lotniczy Saloniki \"Macedonia\" (SKG)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon",
+  "Telewizor z płaskim ekranem",
+  "Lodówka",
+  "Bezpłatny zestaw kosmetyków"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kassandra, Chalkidiki",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "przyjaciele"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2026,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy Standard",
+  "pokój dwuosobowy Deluxe",
+  "pokój rodzinny",
+  "Superior z widokiem na morze",
+  "Superior z widokiem na basen"
+ ],
+ "rooms": 140,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "holidaycheck.de",
+  "nikana.gr",
+  "reserve-online.net",
+  "grhotels.gr",
+  "olympickosmashotel.gr",
+  "trivago.com",
+  "booking.com",
+  "greece.md"
+ ],
+ "updated": "2026-11-27"
+}

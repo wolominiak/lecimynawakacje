@@ -1,0 +1,125 @@
+{
+ "id": "x:grecja:ioni",
+ "slug": "ioni",
+ "name": "Ioni",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Paralia Katerinis"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/paralia-katerinis/ioni/1adee2_hotel_exterior.JPG",
+ "city": "Paralia Katerinis",
+ "intro": [
+  "Hotel Ioni to kameralny obiekt położony w miejscowości Paralia Katerinis, w regionie Riwiera Olimpijska w Grecji. Jest to idealne miejsce dla osób szukających wypoczynku blisko plaży oraz centrum miejscowości, z łatwym dostępem do lokalnych atrakcji i sklepów. Hotel oferuje komfortowe zakwaterowanie w spokojnej okolicy, co sprzyja relaksowi.",
+  "Obiekt jest szczególnie polecany dla miłośników plażowania, rodzin z dziećmi, par oraz osób podróżujących z ograniczonym budżetem, które cenią sobie dobrą lokalizację i przyjazną atmosferę. Hotel Ioni to doskonała baza wypadowa do zwiedzania okolicy i korzystania z uroków greckiego wybrzeża."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ioni znajduje się w Paralia Katerinis, około 20 metrów od plaży Paralia Kolimvisis Beach. W okolicy dominują piaszczyste plaże. Centrum miejscowości Paralia Katerinis oddalone jest o 150-300 metrów, a miasto Katerini o 6-8 km. Najbliższe lotnisko to Międzynarodowy Port Lotniczy Saloniki \"Macedonia\" (SKG), położone około 73-75 km od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 24 pokojami, w tym pokojami dwuosobowymi, trzyosobowymi i jednoosobowymi. Dostępne są również pokoje z widokiem na morze, ogród lub centralny plac, a także pokój przystosowany dla osób niepełnosprawnych. Pokoje są wyposażone w klimatyzację, lodówkę/minibar, sejf, telefon, suszarkę do włosów, telewizor z kanałami satelitarnymi, szafę/garderobę oraz prywatną łazienkę z prysznicem i balkonem lub tarasem. Niektóre pokoje są dźwiękoszczelne, a ich wystrój jest stale odnawiany, choć może być postrzegany jako przestarzały."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Ioni znajduje się bar i restauracja. Goście mogą liczyć na codzienne śniadanie kontynentalne, często wliczone w cenę pobytu. Istnieje również możliwość wykupienia obiadokolacji w pobliskiej restauracji Regina Mare."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Ioni oferuje bezpłatne Wi-Fi dostępne w całym obiekcie i w pokojach. Obiekt nie posiada basenu, aquaparku ani strefy spa czy siłowni. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czyste i komfortowe pokoje",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadanie kontynentalne",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Ograniczona dostępność parkingu na miejscu",
+  "Wystrój pokoi może być przestarzały"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Ioni od plaży?",
+   "a": "Hotel Ioni znajduje się około 20 metrów od plaży Paralia Kolimvisis Beach."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jaka jest jego odległość od hotelu?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Saloniki \"Macedonia\" (SKG), oddalone o około 73-75 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Ioni posiada basen lub aquapark?",
+   "a": "Nie, hotel Ioni nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym obiekcie i w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Vasileos Pavlou 2, 60100 Paralia Katerinis, Grecja",
+ "adultsOnly": false,
+ "airportKm": 74,
+ "airportName": "Międzynarodowy Port Lotniczy Saloniki \"Macedonia\" (SKG)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Parking"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Riwiera Olimpijska",
+ "bars": 1,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 0.225,
+ "goodFor": [
+  "Miłośnicy plaży",
+  "Rodziny",
+  "Podróżujący z ograniczonym budżetem",
+  "Osoby chcące zwiedzać lokalne sklepy",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, lodówką/minibarem, sejfem, telefonem, suszarką do włosów, telewizorem, szafą, łazienką z prysznicem, balkonem/tarasem",
+  "Pokój trzyosobowy z klimatyzacją, lodówką/minibarem, sejfem, telefonem, suszarką do włosów, telewizorem, szafą, łazienką z prysznicem, balkonem/tarasem",
+  "Pokój jednoosobowy z klimatyzacją, lodówką/minibarem, sejfem, telefonem, suszarką do włosów, telewizorem, szafą, łazienką z prysznicem, balkonem/tarasem",
+  "Pokój dla osób niepełnosprawnych z klimatyzacją, lodówką/minibarem, sejfem, telefonem, suszarką do włosów, telewizorem, szafą, łazienką z prysznicem, balkonem/tarasem"
+ ],
+ "rooms": 24,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "planetofhotels.com",
+  "trivago.co.uk",
+  "myhotels.sa",
+  "hotelioni.gr",
+  "agoda.com",
+  "filostravel.gr",
+  "booking.com",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}

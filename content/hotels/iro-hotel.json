@@ -1,0 +1,131 @@
+{
+ "id": "x:grecja:iro hotel",
+ "slug": "iro-hotel",
+ "name": "Iro Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Hersonissos"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/hersonissos/iro-hotel-pl/6182/cfe0cc2cc206c29d2be9685c6cd0b8a7_2-244.jpg",
+ "city": "Hersonissos",
+ "intro": [
+  "Iro Hotel to dwugwiazdkowy obiekt położony w samym sercu Hersonissos na Krecie, przy głównej ulicy. Zbudowany w 1978 roku i odnowiony w 2010 roku, oferuje 53 pokoje w trzypiętrowym budynku w tradycyjnym stylu egejskim.",
+  "Hotel jest polecany dla osób podróżujących z ograniczonym budżetem, szukających relaksu lub weekendu na zakupach, z łatwym dostępem do lokalnych atrakcji, sklepów i plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Iro znajduje się w centrum Hersonissos, przy głównej ulicy. Najbliższa plaża, Glaros Beach, jest oddalona o około 80-150 metrów. Jest to plaża piaszczysta z żwirowym wejściem do morza, między którą a hotelem przebiega droga. Leżaki i parasole na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 53 pokoje dwuosobowe, trzyosobowe i rodzinne. Standardowe wyposażenie obejmuje prywatną łazienkę z prysznicem i suszarką do włosów, telewizor satelitarny, biurko oraz szafę. Klimatyzacja i lodówka są często dostępne za dodatkową opłatą, a żelazko i deska do prasowania są dostępne na życzenie w recepcji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa oraz główny bar i bar przy basenie. Śniadania i kolacje w formie bufetu są często serwowane w restauracji sąsiedniego hotelu Sergios. Dostępne są opcje wyżywienia all inclusive, jednak mogą obowiązywać ograniczenia dotyczące niektórych napojów i udogodnień."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu Iro mogą korzystać z jednego odkrytego basenu, przy którym dostępne są bezpłatne leżaki i parasole. Na miejscu dostępne są również dodatkowo płatne atrakcje, takie jak bilard. W promieniu 3 km znajduje się pole golfowe, a na plaży dostępne są sporty wodne, wszystkie za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja z łatwym dostępem do sklepów i plaży",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie, zwłaszcza śniadania i kolacje",
+  "Dostęp do basenu zewnętrznego",
+  "Bezpłatne Wi-Fi w ogólnodostępnych pomieszczeniach"
+ ],
+ "cons": [
+  "Podstawowy standard, hotel może wymagać odświeżenia",
+  "Hałas z głównej ulicy i wewnątrz hotelu",
+  "Niewygodne lub stare łóżka",
+  "Brak recepcji w Iro Hotel (zameldowanie w hotelu Sergios)",
+  "Klimatyzacja i lodówka często dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Iro od plaży?",
+   "a": "Hotel Iro jest oddalony od plaży o około 80-150 metrów. Najbliższa plaża to Glaros Beach."
+  },
+  {
+   "q": "Czy w hotelu Iro jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu Iro."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Iro jest oddalony od Międzynarodowego Portu Lotniczego Heraklion \"Nikos Kazantzakis\" (HER) o około 20-28 km."
+  },
+  {
+   "q": "Czy hotel Iro jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Informacje są sprzeczne. Hotel posiada pokoje rodzinne, ale minimalny wiek gościa to 13 lat, a minimalny wiek zameldowania to 18 lat. Brak informacji o mini klubie czy animacjach dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych hotelu Iro."
+  },
+  {
+   "q": "Czy klimatyzacja jest wliczona w cenę?",
+   "a": "Klimatyzacja w pokojach jest często dostępna za dodatkową opłatą."
+  }
+ ],
+ "address": "El. Venizelou 178, Limenas Chersonisou 700 14, Grecja",
+ "adultsOnly": null,
+ "airportKm": 24,
+ "airportName": "Międzynarodowy Port Lotniczy Heraklion \"Nikos Kazantzakis\" (HER)",
+ "amenities": [
+  "Balkon lub taras",
+  "Prywatna łazienka z prysznicem i suszarką do włosów",
+  "Telewizor satelitarny",
+  "Biurko",
+  "Szafa/garderoba"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Limenas Hersonissou",
+ "bars": 2,
+ "beachDistanceM": 115,
+ "beachType": "Piaszczysta z żwirowym wejściem",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Podróżujący z ograniczonym budżetem",
+  "Szukający relaksu",
+  "Szukający weekendu na zakupach"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1978,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe (z łóżkami pojedynczymi lub podwójnymi)",
+  "Pokoje trzyosobowe (z łóżkami pojedynczymi lub podwójnym i pojedynczym)",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 53,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3118155,
+  "lon": 25.3972889,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "planetofhotels.com",
+  "kayak.com",
+  "reserve-online.net",
+  "onthebeach.co.uk",
+  "hrs.com",
+  "directbooking.ro",
+  "gohotels.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": "x:grecja:bella beach",
+ "slug": "bella-beach",
+ "name": "Bella Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Anissaras"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/anissaras/bella-beach-pl/3251/c66422373819e23cc90f8103fe3e38d7_1-244.jpg",
+ "city": "Anissaras",
+ "intro": [
+  "Hotel Bella Beach to pięciogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w miejscowości Anissaras na Krecie. Zbudowany w 1993 roku, oferuje szeroki zakres udogodnień na przestronnym terenie o powierzchni 42 000 m², składającym się z kilku budynków z fasadami z cegły i marmuru.",
+  "Hotel jest idealnym wyborem dla rodzin i par poszukujących relaksującego pobytu z dostępem do plaży i różnorodnych aktywności. Dzięki płaskiemu terenowi i specjalnie wyposażonym pokojom, jest również odpowiedni dla osób z ograniczoną mobilnością."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bella Beach znajduje się w Anissaras na Krecie, bezpośrednio przy piaszczystej plaży Anissaras. Plaża jest hotelowa, z bezpłatnymi leżakami, parasolami i ręcznikami. Najbliższe lotnisko w Heraklionie (HER) oddalone jest o około 20-28 km, a centrum Hersonissos o około 2.5-5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 175 pokoi, w tym dwuosobowe (z widokiem na ogród, basen lub morze) oraz rodzinne (dwupokojowe, niektóre z widokiem na morze lub prywatnym basenem). Standardowe wyposażenie obejmuje klimatyzację, łazienkę, telewizor, Wi-Fi, lodówkę, suszarkę do włosów i balkon lub patio. Sejf jest dodatkowo płatny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje: główna bufetowa \"Pergola\" oraz dwie à la carte: \"Olive Tree\" (śródziemnomorska) i \"Orion\" (grecka). Goście mogą raz na pobyt skorzystać z restauracji à la carte (wymagana rezerwacja). Dostępne są również cztery bary, w tym lobby bar, pool bar i beach bar. Obowiązuje dress code podczas kolacji."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma zewnętrznymi basenami ze słodką wodą, krytym basenem (podgrzewanym sezonowo) oraz brodzikiem dla dzieci. Na terenie obiektu nie ma dużych zjeżdżalni. Dostępna jest siłownia, centrum spa z jacuzzi, sauną i łaźnią parową, a także dwa korty tenisowe, mini golf, koszykówka i siatkówka plażowa. Hotel oferuje codzienne animacje i wieczorne rozrywki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, mini klub dla dzieci w wieku 4-12 lat oraz plac zabaw. Dostępne są również codzienne programy animacyjne, co czyni hotel atrakcyjnym miejscem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy piaszczystej plaży",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie w restauracji bufetowej",
+  "Czystość w całym hotelu",
+  "Szeroki wybór udogodnień rekreacyjnych"
+ ],
+ "cons": [
+  "Pokoje i łazienki mogą być przestarzałe i wymagać remontu",
+  "Problemy z zapachem z odpływów w łazienkach",
+  "Wieczorna rozrywka bywa ograniczona i powtarzalna",
+  "Niestabilne Wi-Fi w pokojach",
+  "Brak wielu atrakcji w bezpośredniej okolicy hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel Bella Beach położony jest bezpośrednio przy piaszczystej plaży Anissaras."
+  },
+  {
+   "q": "Czy plaża jest hotelowa i czy są na niej leżaki?",
+   "a": "Tak, plaża jest hotelowa, a leżaki, parasole i ręczniki plażowe są bezpłatne."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko w Heraklionie (HER) oddalone jest o około 20-28 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma dużych zjeżdżalni ani aquaparku, ale w pobliżu znajdują się parki wodne."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje mini klub, brodzik i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, choć w pokojach może być niestabilne."
+  }
+ ],
+ "address": "Anissaras, Hersonissos 70014, Grecja",
+ "adultsOnly": false,
+ "airportKm": 24,
+ "airportName": "Międzynarodowy Port Lotniczy Heraklion (HER)",
+ "amenities": [
+  "2 korty tenisowe",
+  "mini golf",
+  "koszykówka",
+  "siatkówka plażowa",
+  "boccia",
+  "tenis stołowy",
+  "polo wodne"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Anissaras",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 4,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby z ograniczoną mobilnością"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje dwuosobowe (widok na ogród, basen lub morze, w tym bezpośredni widok na morze, klimatyzacja, łazienka, TV, Wi-Fi, lodówka, suszarka do włosów, kosmetyki, balkon/patio)",
+  "Pokoje rodzinne (dwupokojowe, niektóre z widokiem na morze lub z prywatnym basenem, klimatyzacja, łazienka, TV, Wi-Fi, lodówka, suszarka do włosów, kosmetyki, balkon/patio)"
+ ],
+ "rooms": 175,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3351402,
+  "lon": 25.3555163,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "greeka.com",
+  "google.com",
+  "booking.com",
+  "giatadrive.com",
+  "momondo.com",
+  "kalamaki-travel.gr",
+  "luxurytraveldmc.com"
+ ],
+ "updated": "2026-11-27"
+}

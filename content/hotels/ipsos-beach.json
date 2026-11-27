@@ -1,0 +1,140 @@
+{
+ "id": "x:grecja:ipsos beach",
+ "slug": "ipsos-beach",
+ "name": "Ipsos Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Ipsos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/ipsos/ipsos-beach-pl/8064/1dc016fd4ea546c0c3908c09fa937187_dji_0445-hdr-244.jpg",
+ "city": "Ipsos",
+ "intro": [
+  "Hotel Ipsos Beach to trzygwiazdkowy obiekt położony na północno-wschodnim wybrzeżu Korfu, w malowniczej zatoce Ipsos. Jest to idealne miejsce dla osób szukających zakwaterowania blisko plaży i lokalnych atrakcji, oferując jednocześnie spokojną atmosferę.",
+  "Hotel jest rekomendowany dla par, rodzin oraz osób podróżujących samotnie. Stanowi dobrą bazę wypadową do odkrywania uroków północno-wschodniej części Korfu, łącząc dostęp do rozrywek z możliwością relaksu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ipsos Beach znajduje się zaledwie 30-80 metrów od żwirowo-piaszczystej plaży Ipsos, która posiada certyfikat Błękitnej Flagi. Dzięki łagodnemu wejściu do morza plaża jest odpowiednia dla dzieci. Do centrum miejscowości Ipsos można dojść w około 10 minut (500 metrów)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 63 pokoje, w tym dwuosobowe, rodzinne, jednoosobowe oraz studia, z możliwością wyboru widoku na morze lub basen. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę, balkon, telewizor, telefon, lodówkę i suszarkę do włosów. Sejf może być dodatkowo płatny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni śródziemnomorskiej, gdzie podawane są śniadania kontynentalne w formie bufetu. Dostępne są również opcje obiadów i kolacji. Na terenie obiektu funkcjonuje bar, bar przy basenie oraz bar z przekąskami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden sezonowy basen zewnętrzny. Dla aktywnych hotel oferuje bilard, tenis stołowy oraz wypożyczalnię rowerów i sprzętu do tenisa. Bezpłatne Wi-Fi dostępne jest w pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje brodzik dla dzieci oraz plac zabaw. Dostępne są również łóżeczka dla niemowląt i dostawki, często za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży, restauracji i sklepów",
+  "Czysty basen i spokojna atmosfera",
+  "Miły i pomocny personel",
+  "Dobre śniadania w formie bufetu",
+  "Dobra baza wypadowa do zwiedzania Korfu"
+ ],
+ "cons": [
+  "Pokoje i łazienki mogą być starsze i wymagać remontu",
+  "Proste wyposażenie, brak luksusu",
+  "Klimatyzacja może być dodatkowo płatna",
+  "Potencjalny hałas z pobliskich barów/klubów",
+  "Zdarzały się uwagi dotyczące czystości w starszych opiniach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Ipsos Beach znajduje się zaledwie 30-80 metrów od plaży Ipsos."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża Ipsos jest żwirowa lub mieszana (piaszczysto-żwirowa/kamienista) i posiada certyfikat Błękitnej Flagi."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko (Korfu CFU) znajduje się około 13-18 km od hotelu, co oznacza około 25-40 minut jazdy."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "address": "Ipsos 49083, Korfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 15.5,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu im. Ioannisa Kapodistriasa (CFU)",
+ "amenities": [
+  "bilard",
+  "tenis stołowy",
+  "wypożyczalnia rowerów",
+  "sprzęt do tenisa",
+  "plac zabaw dla dzieci",
+  "brodzik dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "zatoka Ipsos, północno-wschodnie wybrzeże Korfu",
+ "bars": 3,
+ "beachDistanceM": 55,
+ "beachType": "żwirowa lub mieszana (piaszczysto-żwirowa/kamienista)",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "rodziny",
+  "osoby podróżujące samotnie",
+  "baza wypadowa do zwiedzania"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1971,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój rodzinny",
+  "pokój jednoosobowy",
+  "studio",
+  "pokój z widokiem na morze",
+  "pokój z widokiem na basen"
+ ],
+ "rooms": 63,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 39.6959285,
+  "lon": 19.8374314,
+  "src": "osm"
+ },
+ "sources": [
+  "corfugreecehotels.com",
+  "booking.com",
+  "haystravel.co.uk",
+  "corfuholiday.gr",
+  "visit-greece.info",
+  "trip.com",
+  "xo.gr",
+  "mapcarta.com"
+ ],
+ "updated": "2026-11-27"
+}

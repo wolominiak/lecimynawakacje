@@ -1,0 +1,144 @@
+{
+ "id": "x:grecja:panormo beach",
+ "slug": "panormo-beach",
+ "name": "Panormo Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Panorrmo"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/panorrmo/panormo-beach/513b44a44043a6e48ed09832fa570f2b_1.jpeg",
+ "city": "Panormo",
+ "intro": [
+  "Hotel Panormo Beach to trzygwiazdkowy obiekt położony w malowniczej, historycznej wiosce Panormo na Krecie, w regionie Rethymno. Jest to idealne miejsce dla osób szukających spokojnego wypoczynku w urokliwej okolicy, z łatwym dostępem do lokalnych atrakcji.",
+  "Obiekt polecany jest zarówno parom, jak i rodzinom, oferując komfortowe zakwaterowanie i szereg udogodnień. Bliskość piaszczystych plaż oraz centrum wioski sprawia, że jest to doskonała baza wypadowa do odkrywania uroków Krety."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Panormo Beach znajduje się w centrum wioski Panormo, zaledwie 100 metrów od jej serca. Od morza dzieli go około 20 metrów, a w okolicy dostępne są piaszczyste zatoczki oraz ładna piaszczysta plaża. Leżaki na plaży są dostępne do wynajęcia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 43 pokoje, rozmieszczone w trzypiętrowym budynku z windą. Do wyboru są pokoje dwuosobowe (standardowe, do pojedynczego wykorzystania, z widokiem na morze), pokoje trzyosobowe, Junior Suites oraz apartamenty rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, telewizję satelitarną, radio, telefon, sejf, lodówkę, bezpłatne Wi-Fi, zestaw do parzenia kawy/herbaty oraz balkon lub patio. W łazienkach znajduje się prysznic z hydromasażem lub wanna spa oraz suszarka do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Panormo Beach znajduje się główna restauracja, gdzie serwowane są śniadania w formie bufetu. Goście mogą również skorzystać z baru w lobby, baru na dachu (roof garden bar) oraz snack baru. Istnieje możliwość dokupienia obiadów i kolacji."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest jeden odkryty basen, zapewniający orzeźwienie w upalne dni. Dla aktywnych gości hotel oferuje bilard, tenis stołowy, nurkowanie, kajakarstwo, jazdę konną oraz wypożyczalnię rowerów. Dostępne są również usługi spa, w tym masaże, manicure/pedicure, zabiegi na twarz i ciało."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw. Hotel jest przyjazny rodzinom i nie posiada ograniczeń wiekowych przy zameldowaniu."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum wioski",
+  "Czystość w całym obiekcie",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadania w formie bufetu",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Ograniczone opcje śniadaniowe (według jednej opinii)",
+  "Brak baru przy basenie (według jednej opinii)",
+  "Basen nie zawsze nasłoneczniony (według jednej opinii)",
+  "Niektóre pokoje mogą być nieco przestarzałe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 20 metrów od morza, w pobliżu piaszczystych zatoczek."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to międzynarodowe lotnisko w Heraklionie (HER), oddalone o około 54 km. Lotnisko w Chanii (CHQ) znajduje się około 85 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany zarówno dla par, jak i dla rodzin. Posiada plac zabaw dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Brak informacji o pakiecie all inclusive. Hotel oferuje śniadania w formie bufetu, a obiad/kolację można dokupić."
+  }
+ ],
+ "address": "Panormo, Rethymno, 740 57, Grecja",
+ "adultsOnly": false,
+ "airportKm": 54,
+ "airportName": "Heraklion (HER)",
+ "amenities": [
+  "Plac zabaw",
+  "Bilard",
+  "Tenis stołowy",
+  "Nurkowanie",
+  "Kajakarstwo",
+  "Jazda konna",
+  "Wypożyczalnia rowerów",
+  "Masaże",
+  "Manicure/pedicure",
+  "Zabiegi na twarz i ciało",
+  "Woskowanie",
+  "Strzyżenie",
+  "Makijaż"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Panormo",
+ "bars": 3,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Pary",
+  "Rodziny"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy do pojedynczego wykorzystania",
+  "Standardowy pokój dwuosobowy",
+  "Standardowy pokój dwuosobowy z widokiem na morze",
+  "Apartament rodzinny (Family Suite)",
+  "Pokój trzyosobowy",
+  "Junior Suite"
+ ],
+ "rooms": 43,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.417882,
+  "lon": 24.6894983,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelwithflight.com",
+  "panormobeach.com",
+  "booking.com",
+  "skyscanner.qa",
+  "thomascook.com",
+  "cachet-travel.co.uk",
+  "hrs.com",
+  "grhotels.gr"
+ ],
+ "updated": "2026-11-27"
+}

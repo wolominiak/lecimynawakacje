@@ -1,0 +1,134 @@
+{
+ "id": 5021,
+ "slug": "atlantica-princess",
+ "name": "Atlantica Princess",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos",
+  "Ialyssos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/atlantica-princess-basen-teren-hotelu-826426835-570-428.jpg",
+ "city": "Ialyssos",
+ "intro": [
+  "Hotel Atlantica Princess to czterogwiazdkowy obiekt położony w miejscowości Ialyssos na Rodos, zaledwie 80 metrów od żwirowo-piaszczystej plaży. Został zbudowany w latach 80., a ostatnią renowację przeszedł w 2019 roku, oferując 230 pokoi w czterech pięciopiętrowych budynkach.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki rozbudowanej ofercie animacji, mini klubowi, interaktywnemu basenowi ze zjeżdżalnią oraz placom zabaw. Dogodna lokalizacja umożliwia łatwy dostęp do centrum Ixia i miasta Rodos, a także do lotniska."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Atlantica Princess znajduje się w Ialyssos, około 80 metrów od publicznej plaży, do której można dojść w kilka minut. Plaża jest żwirowo-kamienista z elementami piasku, a leżaki i parasole są dostępne za dodatkową opłatą. W pobliżu hotelu znajduje się centrum Ixia (2 km) oraz miasto Rodos (5 km)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 230 pokoi, w tym pokoje dwuosobowe, pokoje rodzinne (z widokiem na ląd/morze, z/bez ścianki działowej, z łóżkami piętrowymi), apartamenty rodzinne typu Maisonette oraz pokoje rodzinne z jedną sypialnią w aneksie. Wszystkie pokoje wyposażone są w klimatyzację, balkon/taras, suszarkę do włosów, mini-lodówkę, prysznic w wannie, telewizor i bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu all inclusive goście mogą korzystać z głównej restauracji bufetowej Othello Dining Room, greckiej restauracji Dionysos (jedna kolacja z ustalonego menu wliczona w pobyt) oraz tawerny przy basenie Pergola serwującej lunche i dania z grilla. Dostępne są również bary Apollo i Snack bar. All inclusive obejmuje posiłki, przekąski, lokalne napoje alkoholowe i bezalkoholowe oraz popołudniową kawę i herbatę."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym odkrytym basenem w kształcie laguny, brodzikiem dla dzieci, sezonowym basenem zewnętrznym oraz zjeżdżalnią wodną. Dla relaksu dostępna jest strefa Aegeo Spa z masażami, zabiegami na twarz i sauną, a także mała siłownia. W ofercie sportowej znajdują się mini-piłka nożna, tenis stołowy, aqua aerobik, piłka wodna, boccia i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Atlantica Princess to hotel przyjazny rodzinom, oferujący interaktywny basen dla dzieci, plac zabaw oraz kryty plac zabaw. Przez cały sezon działa mini klub dla dzieci, a program animacyjny obejmuje zajęcia dzienne, wieczorne pokazy, muzykę na żywo oraz mini-disco."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel",
+  "Dobra różnorodność jedzenia w bufecie (wieczory tematyczne, opcje bezglutenowe)",
+  "Duży basen w kształcie laguny",
+  "Bliskość plaży",
+  "Wiele atrakcji dla dzieci"
+ ],
+ "cons": [
+  "Obiekt i niektóre pokoje mogą być postrzegane jako przestarzałe",
+  "Hałas z wieczornych animacji (w pokojach z widokiem na basen)",
+  "Niedobór leżaków w szczycie sezonu",
+  "Kamienista/żwirowa plaża z nie zawsze łagodnym wejściem do wody",
+  "Jakość napojów bywa krytykowana"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Atlantica Princess znajduje się około 80 metrów od plaży, co oznacza kilka minut spacerem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada zjeżdżalnię wodną oraz interaktywny basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując mini klub, basen ze zjeżdżalniami, place zabaw i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 8-9 km od międzynarodowego lotniska Rodos \"Diagoras\" (RHO), co zajmuje około 15 minut jazdy."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy plaża jest hotelowa i czy leżaki są płatne?",
+   "a": "Plaża jest publiczna, a leżaki i parasole są zarządzane przez zewnętrznego dostawcę i są dodatkowo płatne."
+  }
+ ],
+ "address": "216 Ialyssos Street, 85101, Ialyssos, Rodos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 8.5,
+ "airportName": "Rodos \"Diagoras\" (RHO)",
+ "amenities": [
+  "Mini-lodówka",
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Suszarka do włosów",
+  "Telewizor"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Ixia",
+ "bars": 2,
+ "beachDistanceM": 80,
+ "beachType": "Żwirowa/kamienista z piaskiem",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1984,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje dwuosobowe/typu Twin (widok na ląd/morze)",
+  "Pokoje rodzinne (widok na ląd/morze, z/bez ścianki działowej, z łóżkami piętrowymi)",
+  "Apartamenty rodzinne (Maisonette, widok na morze)",
+  "Pokoje rodzinne z jedną sypialnią (w budynku aneksu)"
+ ],
+ "rooms": 230,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4198639,
+  "lon": 28.1668138,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "trivago.co.uk",
+  "rhodesislandhotels.com",
+  "reserving.com",
+  "agoda.com",
+  "onthebeach.co.uk",
+  "firstchoice.co.uk",
+  "hotelhunt.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

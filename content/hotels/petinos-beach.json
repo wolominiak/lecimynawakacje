@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:petinos beach",
+ "slug": "petinos-beach",
+ "name": "Petinos Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Mykonos",
+  "Platys Yialos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/mykonos/platys-yialos/petinos-beach-pl/1029/43734ddff5ddbb16fc7fb4a72ee322ea_petinosbeach8-244.jpg",
+ "city": "Platys Gialos, Mykonos",
+ "intro": [
+  "Petinos Beach to czterogwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży Platis Gialos na malowniczej wyspie Mykonos. Obiekt, utrzymany w tradycyjnym stylu cykladzkim, oferuje komfortowe zakwaterowanie z widokiem na Morze Egejskie.",
+  "Hotel jest idealnym wyborem dla par, nowożeńców oraz rodzin szukających relaksu nad morzem. Dzięki bliskości plaży, dogodnemu połączeniu z centrum Mykonos oraz udogodnieniom takim jak basen i restauracje, Petinos Beach zapewnia komfortowy pobyt w urokliwej scenerii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Petinos Beach znajduje się zaledwie kilka kroków od długiej, piaszczystej plaży Platis Gialos z błękitno-zieloną wodą. Jest to plaża publiczna, a leżaki i parasole są dostępne za dodatkową opłatą. Obiekt jest dogodnie położony około 3 km od lotniska Mykonos (JMK) i 4 km od centrum Mykonos (Chora), do którego można dojechać autobusem z przystanku tuż przy hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 24 lub 26 pokojami i apartamentami, urządzonymi w nowoczesnym stylu cykladzkim z jasnymi kolorami. Większość pokoi oferuje prywatne balkony z widokiem na Morze Egejskie. Standardowe wyposażenie obejmuje klimatyzację, telewizor z kanałami satelitarnymi, minilodówkę, sejf oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajdują się dwie restauracje: \"Blue Myth\" serwująca lokalne specjały i dania śródziemnomorskie, gdzie podawane są śniadania w formie bufetu oraz kolacje a la carte, a także \"Thea\" z widokiem na morze, oferująca dania śródziemnomorskie i świeże ryby. Do dyspozycji gości jest również bar przy basenie. W cenę pobytu wliczone jest śniadanie w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada odkryty basen ze słodką wodą. Goście mogą korzystać z w pełni wyposażonej siłowni, sauny i hammamu na miejscu. Usługi spa, w tym masaże, oraz mały kryty basen z podgrzewaną wodą i jacuzzi są dostępne w siostrzanym hotelu (Nissaki Boutique Hotel). Na plaży Platis Gialos dostępne są liczne sporty wodne."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja tuż przy plaży",
+  "Bliskość przystanku autobusowego do miasta Mykonos",
+  "Czystość obiektu i pokoi",
+  "Bardzo przyjazny i pomocny personel",
+  "Smaczne i urozmaicone śniadania"
+ ],
+ "cons": [
+  "Leżaki na plaży są płatne",
+  "Brak spa na miejscu (dostępne w siostrzanym hotelu)",
+  "Niektóre pokoje i łazienki mogą być małe",
+  "Basen bywa zatłoczony (dostęp dla gości z siostrzanego hotelu)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel jest położony zaledwie kilka kroków od plaży Platis Gialos, odległość wynosi od 20 do 200 metrów."
+  },
+  {
+   "q": "Czy plaża jest prywatna?",
+   "a": "Nie, plaża Platis Gialos jest plażą publiczną. Leżaki i parasole są płatne."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Odległość od lotniska Mykonos (JMK) wynosi około 3 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin. Dostępne są łóżeczka dziecięce na życzenie oraz usługi opieki nad dziećmi (za dodatkową opłatą)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu."
+  }
+ ],
+ "address": "Platis Gialos 846 00, Mykonos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 3,
+ "airportName": "Mykonos (JMK)",
+ "amenities": [
+  "Siłownia",
+  "Sauna",
+  "Hammam",
+  "Bezpłatne Wi-Fi",
+  "Łóżeczka dziecięce",
+  "Opieka nad dziećmi (płatna)",
+  "Ręczniki basenowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Platys Gialos",
+ "bars": 1,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 4,
+ "goodFor": [
+  "Pary",
+  "Nowożeńcy",
+  "Rodziny",
+  "Osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 2,
+ "roomTypes": [
+  "Sea Breeze Double Room (klimatyzacja, TV sat, minilodówka, telefon, sejf, suszarka, WiFi, kosmetyki, łazienka)",
+  "Executive Double Sea View (z jacuzzi wewnętrznym)",
+  "Junior Suite Sea View",
+  "Cozy Honeymoon Suite Sea View",
+  "Harmony Suite Sea View (dla 4 osób)",
+  "Signature Suite Sea View (z jacuzzi wewnętrznym)",
+  "Mystery Suite Sea View (z jacuzzi zewnętrznym)"
+ ],
+ "rooms": 26,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "reserve-online.net",
+  "petinosbeach.gr",
+  "resortsofmykonos.com",
+  "grhotels.gr",
+  "xo.gr",
+  "petinoshotel.gr",
+  "booking.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "x:grecja:acharavi beach",
+ "slug": "acharavi-beach",
+ "name": "Acharavi Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Acharavi"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/acharavi/acharavi-beach/3f62d8ba3686b10b1e651.jpg",
+ "city": "Acharavi, Korfu",
+ "intro": [
+  "Hotel Acharavi Beach to czterogwiazdkowy obiekt położony bezpośrednio przy długiej, piaszczysto-żwirowej plaży Acharavi, w północnej części Korfu. Jest to idealne miejsce dla osób poszukujących spokojnego i relaksującego wypoczynku nad morzem, zarówno dla par, jak i rodzin z dziećmi.",
+  "Obiekt oferuje różnorodne typy zakwaterowania, od pokoi standardowych po apartamenty z aneksem kuchennym, co czyni go odpowiednim wyborem dla różnych potrzeb podróżnych. Hotel dysponuje kilkoma basenami, restauracjami i barami, zapewniając komfortowy pobyt w malowniczej okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Acharavi Beach usytuowany jest bezpośrednio przy ponad 7-kilometrowej plaży Acharavi, która charakteryzuje się piaszczysto-żwirowym podłożem i jest przyjazna dla dzieci. Z hotelu można spacerem dotrzeć do centrum miejscowości Acharavi. Odległość od lotniska na Korfu wynosi około 38 km, a od centrum miasta Korfu około 36 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel, odnowiony w 2017 roku, oferuje 145 lub 164 pokoje w budynku głównym i czterech niezależnych grupach. Dostępne są pokoje jedno- i dwuosobowe, studia oraz apartamenty, niektóre z widokiem na morze, dostępem do współdzielonego lub prywatnego basenu, a także z w pełni wyposażoną kuchnią lub aneksem kuchennym. Standardowe wyposażenie obejmuje klimatyzację, telewizor, łazienkę, sejf, zestaw do parzenia kawy/herbaty i lodówkę."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się łącznie cztery baseny, w tym basen dla dzieci. Jeden z basenów oferuje widoki na Morze Jońskie. Goście mogą korzystać z bezpłatnych leżaków przy basenie. Hotel zapewnia również centrum fitness/siłownię, korty tenisowe, tenis stołowy, wypożyczalnię rowerów oraz dwa korty do padla. Dostępne są także usługi spa i masaże."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Orfeas Main Buffet Restaurant, serwująca dania kuchni greckiej i śródziemnomorskiej, oraz Thines Restaurant. Do dyspozycji gości są również dwa bary: Apollon Bar oraz Vissalo VIP Bar przy basenie. Śniadanie w formie bufetu jest wliczone w cenę pobytu, istnieje możliwość wykupienia opcji niepełnego wyżywienia (śniadania i obiadokolacje)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Acharavi Beach jest przyjazny rodzinom z dziećmi. Na terenie obiektu znajduje się płytki basen dla dzieci oraz plac zabaw. Długa i piaszczysta plaża bezpośrednio przy hotelu jest również odpowiednia dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja bezpośrednio przy plaży",
+  "Duży wybór basenów, w tym dla dzieci",
+  "Smaczne śniadania w formie bufetu",
+  "Przestronne i czyste pokoje",
+  "Bardzo przyjazny i pomocny personel",
+  "Bliskość centrum miejscowości Acharavi"
+ ],
+ "cons": [
+  "Płatne leżaki na plaży",
+  "Jakość obiadokolacji bywa oceniana jako przeciętna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy plaży Acharavi."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża Acharavi jest długa, piaszczysta, choć niektóre źródła opisują ją jako kamienistą lub żwirową."
+  },
+  {
+   "q": "Czy leżaki na plaży są płatne?",
+   "a": "Tak, leżaki na plaży są płatne (około 6 EUR), natomiast te przy basenie są bezpłatne."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska na Korfu wynosi około 38 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje basen dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  }
+ ],
+ "address": "Acharavi 490 81, Corfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 38,
+ "airportName": "Corfu International Airport",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów",
+  "Korty do padla",
+  "Bezpłatny prywatny parking"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Acharavi",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta lub żwirowa",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 4,
+ "privateBeach": null,
+ "renovated": 2017,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy (z widokiem na ogród/morze, superior, z jacuzzi, ze współdzielonym/prywatnym basenem)",
+  "Studio (z widokiem na ogród, z aneksem kuchennym)",
+  "Apartament (z widokiem na ogród, executive, deluxe, dwupokojowy, z w pełni wyposażoną kuchnią)",
+  "Junior Suita (z prywatnym basenem)",
+  "Maisonette",
+  "Willa (z prywatnym basenem)"
+ ],
+ "rooms": 145,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.7973607,
+  "lon": 19.8166745,
+  "src": "osm"
+ },
+ "sources": [
+  "acharavibeach.com",
+  "reserving.com",
+  "reserve-online.net",
+  "guestreservations.com",
+  "corfugreecehotels.com",
+  "girlonazebra.com",
+  "sunshine.co.uk",
+  "travelmyth.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

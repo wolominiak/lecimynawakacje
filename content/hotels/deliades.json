@@ -1,0 +1,143 @@
+{
+ "id": "x:grecja:deliades",
+ "slug": "deliades",
+ "name": "Deliades",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Mykonos",
+  "Ornos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/mykonos/ornos/deliades-pl/6974/2e_amtsgr2jcq_1019778-244.jpg",
+ "city": "Ornos",
+ "intro": [
+  "Hotel Deliades to czterogwiazdkowy obiekt położony w malowniczej Zatoce Ornos na greckiej wyspie Mykonos. Zbudowany w tradycyjnym stylu cykladzkim, hotel oferuje piękne widoki na zatokę i znajduje się na wzgórzu, co dodaje mu uroku. Jest to idealne miejsce dla osób ceniących sobie spokój, relaks oraz bliskość piaszczystej plaży.",
+  "Obiekt jest przyjazny zarówno dla par, jak i rodzin z dziećmi, oferując usługi opieki nad najmłodszymi. Dzięki dogodnej lokalizacji, goście mają łatwy dostęp do centrum Ornos, a także do tętniącego życiem miasta Mykonos. Hotel Deliades to doskonały wybór dla tych, którzy szukają komfortowego wypoczynku w urokliwym otoczeniu Egejskiego Morza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel Deliades usytuowany jest w Ornos, około 50-100 metrów od piaszczystej plaży Ornos, która oferuje leżaki i restauracje. Obiekt zapewnia także dostęp do prywatnej plaży. Odległość od międzynarodowego lotniska Mykonos (JMK) wynosi około 2.9 km, a od centrum miasta Mykonos (Chora) - około 3 km. Centrum Ornos znajduje się zaledwie 5 minut spacerem od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 35 pokojami i apartamentami, urządzonymi w stylu cykladzkim z nowoczesnymi udogodnieniami. Standardowe wyposażenie obejmuje klimatyzację, telewizor LCD/satelitarny, minibar, sejf, stację dokującą, Wi-Fi, umeblowany balkon lub taras, ekspres Nespresso oraz menu poduszkowe. Niektóre apartamenty posiadają prywatne jacuzzi lub basen."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "Na terenie hotelu znajduje się restauracja zewnętrzna z widokiem na Zatokę Ornos, serwująca śniadania w formie bufetu (greckie, amerykańskie, międzynarodowe), lekkie lunche i kolacje a la carte z kuchnią grecką i śródziemnomorską. Bar przy basenie oferuje napoje i koktajle przez cały dzień."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z odkrytego basenu z hydromasażem, z którego roztacza się widok na zatokę. Hotel oferuje także usługi spa, w tym masaże i jacuzzi, oraz centrum fitness/siłownię. W pobliżu dostępne są liczne sporty wodne, takie jak windsurfing, nurkowanie i narty wodne, a także jazda konna i rowerowa."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Deliades jest polecany dla par szukających romantycznego wypoczynku, rodzin z dziećmi (oferuje opiekę nad dziećmi za opłatą), a także dla osób ceniących sobie relaks, piękne widoki i bliskość plaży. Spokojna atmosfera i dostęp do udogodnień sprawiają, że jest to idealne miejsce na wakacje."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży Ornos i restauracji",
+  "Piękne widoki na Zatokę Ornos",
+  "Przestronne i czyste pokoje, niektóre z prywatnym basenem",
+  "Uprzejma i pomocna obsługa",
+  "Smaczne i urozmaicone śniadania w formie bufetu"
+ ],
+ "cons": [
+  "Ograniczona liczba miejsc parkingowych",
+  "Strome podejście do hotelu (może być wyzwaniem dla osób z ograniczoną mobilnością)",
+  "Sporadyczne uwagi dotyczące różnorodności śniadań",
+  "Pojedyncze problemy z klimatyzacją",
+  "Wolniejsza obsługa w restauracji/barze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Deliades od plaży?",
+   "a": "Hotel Deliades jest położony około 50-100 metrów od piaszczystej plaży Ornos."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska Mykonos (JMK) wynosi około 2.9 km."
+  },
+  {
+   "q": "Czy hotel Deliades jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest \"przyjazny dzieciom\" i oferuje usługi opieki nad dziećmi za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o zjeżdżalniach ani aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel Deliades jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Main Street, Ornos",
+ "adultsOnly": false,
+ "airportKm": 2.9,
+ "airportName": "Mykonos (JMK)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Jacuzzi",
+  "Opieka nad dziećmi (płatna)",
+  "Sporty wodne w pobliżu",
+  "Jazda konna w pobliżu",
+  "Jazda na rowerze w pobliżu"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Zatoka Ornos",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi",
+  "Osoby szukające relaksu",
+  "Miłośnicy pięknych widoków",
+  "Miłośnicy bliskości plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2001,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2013,
+ "restaurants": 1,
+ "roomTypes": [
+  "Comfort Double Rooms",
+  "Double Rooms (częściowy widok na morze)",
+  "Superior Rooms (widok na morze)",
+  "Family Suites (boczny widok na morze)",
+  "Junior Suites (widok na morze, wanna z hydromasażem)",
+  "Cozy Suites (prywatny basen)",
+  "Wille z prywatnym basenem i kilkoma sypialniami"
+ ],
+ "rooms": 35,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.422901153564,
+  "lon": 25.325899124146,
+  "src": "web"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "greeka.com",
+  "adorehotels.com",
+  "bnholiday.com",
+  "deliades.com",
+  "google.com",
+  "reserve-online.net",
+  "hotelsofmykonos.com"
+ ],
+ "updated": "2026-11-27"
+}

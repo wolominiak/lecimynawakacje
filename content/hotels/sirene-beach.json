@@ -1,0 +1,141 @@
+{
+ "id": "x:grecja:sirene beach",
+ "slug": "sirene-beach",
+ "name": "Sirene Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Miasto Rodos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/rhodos/sirene-beach-pl/1215/7e431ada922daa22b480880faaeadbac_1-244.jpg",
+ "city": "Rodos",
+ "intro": [
+  "Hotel Sirene Beach to czterogwiazdkowy obiekt położony w miejscowości Ixia (Ialyssos) na greckiej wyspie Rodos, w dzielnicy Kritika. Usytuowany u podnóża góry, w otoczeniu lokalnych tawern, sklepów i kawiarni, oferuje spokojny wypoczynek z łatwym dostępem do plaży.",
+  "Hotel jest rekomendowany dla rodzin i par, które szukają relaksu nad morzem, a jednocześnie chcą mieć blisko do atrakcji historycznego miasta Rodos. Obiekt, otwarty w 1983 roku i częściowo odnowiony w 2017 roku, dysponuje 122 pokojami i oferuje szereg udogodnień dla gości w każdym wieku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sirene Beach znajduje się zaledwie 30-50 metrów od publicznej, żwirowej plaży Ixia. Do centrum miasta Rodos jest około 3 km, co zajmuje około 25 minut spacerem. Najbliższe lotnisko Rodos (RHO-Diagoras) oddalone jest o 9-12 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 122 pokoje dwuosobowe oraz rodzinne, z możliwością wyboru widoku na ląd/góry lub morze. Wszystkie pokoje są wyposażone w klimatyzację, umeblowany balkon lub taras, mini-lodówkę, telewizor z płaskim ekranem oraz łazienkę z wanną lub prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja \"SIRENE\" serwująca śniadania, obiady i kolacje w formie bufetu. Goście mogą korzystać również ze snack baru, baru/lounge oraz baru przy basenie. Pakiet All Inclusive obejmuje posiłki w formie bufetu oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje trzema odkrytymi basenami dla dorosłych oraz jednym basenem dla dzieci. W ramach rozrywki hotel oferuje wieczory greckie, muzyczne oraz wieczory z grillem. Dostępne są również tenis stołowy, bilard oraz możliwość uprawiania sportów wodnych w okolicy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował odkryty basen oraz bufet dla dzieci. Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, choć brak jest informacji o mini klubie."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "W hotelu dostępny jest pokój do masażu. Goście mogą korzystać z bezpłatnego Wi-Fi w całym obiekcie, zarówno w pokojach, jak i w miejscach publicznych. Hotel nie jest hotelem tylko dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum Rodos.",
+  "Czystość w hotelu i pokojach.",
+  "Duże i komfortowe pokoje, zwłaszcza z widokiem na morze.",
+  "Pomocna i przyjazna obsługa.",
+  "Smaczne jedzenie z szerokim wyborem, szczególnie śniadania."
+ ],
+ "cons": [
+  "Pokoje i wystrój hotelu mogą być nieco przestarzałe.",
+  "Plaża jest publiczna, a leżaki i parasole są płatne.",
+  "Napoje w pakiecie all-inclusive bywają oceniane jako niesmaczne.",
+  "W okolicy basenu bywa głośno z powodu cykad.",
+  "Brak wystarczającej liczby gniazdek elektrycznych w pokojach."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Sirene Beach jest położony zaledwie 30-50 metrów od publicznej, żwirowej plaży Ixia."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępne są trzy odkryte baseny dla dorosłych i jeden dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak basen dla dzieci i bufet dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi w pokojach i miejscach publicznych."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska do hotelu?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Rodos (RHO-Diagoras), znajduje się około 9-12 km od hotelu."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na plaży są dostępne za dodatkową opłatą, szacowaną na około 8,50 EUR za osobę dziennie."
+  }
+ ],
+ "address": "Ialysou Avenue, Kritika, 851 00 Rodos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 9,
+ "airportName": "Międzynarodowe Lotnisko Rodos (RHO-Diagoras)",
+ "amenities": [
+  "pokój do masażu",
+  "tenis stołowy",
+  "bilard",
+  "nurkowanie",
+  "snorkeling",
+  "surfing",
+  "jazda konna",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Ixia (Ialyssos), Kritika",
+ "bars": 2,
+ "beachDistanceM": 30,
+ "beachType": "żwirowa lub kamienista",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "relaksujący wypoczynek nad morzem"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1983,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (widok na ląd/góry lub morze) - klimatyzacja, balkon/taras, mini-lodówka, TV, łazienka z wanną/prysznicem, suszarka do włosów.",
+  "Pokój rodzinny (widok na ląd/góry lub morze, często z jedną sypialnią) - klimatyzacja, balkon/taras, mini-lodówka, TV, łazienka z wanną/prysznicem, suszarka do włosów."
+ ],
+ "rooms": 122,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4315091,
+  "lon": 28.2019134,
+  "src": "osm"
+ },
+ "sources": [
+  "travelyalla.com",
+  "rhodesislandhotels.com",
+  "booking.com",
+  "grhotels.gr",
+  "lastminute.com",
+  "xo.gr",
+  "trip.com",
+  "nedatours.com"
+ ],
+ "updated": "2026-11-27"
+}

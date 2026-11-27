@@ -1,0 +1,145 @@
+{
+ "id": "x:grecja:grecian fantasia resort",
+ "slug": "grecian-fantasia-resort",
+ "name": "Grecian Fantasia Resort",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Faliraki"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/faliraki/grecian-fantasia-resort-pl/6383/895c9f8eeac19ea96d7869f84f1f8f5a_1-244.jpg",
+ "city": "Faliraki",
+ "intro": [
+  "Grecian Fantasia Resort to trzygwiazdkowy hotel położony w spokojnej części Faliraki na Rodos, zaledwie 350 metrów od piaszczystej plaży. Obiekt, otwarty w 2000 roku i odnowiony w 2010 roku, oferuje kameralną atmosferę z 57 pokojami rozmieszczonymi w trzypiętrowym budynku.",
+  "Hotel jest odpowiedni dla szerokiego grona gości - zarówno dla rodzin z dziećmi, które docenią basen i plac zabaw, jak i dla par czy singli szukających relaksu. Bliskość centrum Faliraki i dobre połączenie z miastem Rodos sprawiają, że jest to dobra baza wypadowa do zwiedzania wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Grecian Fantasia Resort znajduje się w Faliraki, około 350 metrów od piaszczystej plaży Faliraki, znanej z czystej wody. Do centrum miejscowości jest około 500 metrów, a do miasta Rodos około 12 km. Najbliższe lotnisko (RHO) oddalone jest o około 15 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 57 pokojami, które zostały odnowione w 2010 roku. Dostępne są pokoje Standard Double, Standard Triple, Two-Bedroom Family Room oraz pokoje Superior. Standardowe wyposażenie obejmuje łazienkę, balkon lub taras, minilodówkę, telewizor, a także płatną klimatyzację i sejf. Pokoje Family Superior mogą mieć aneks kuchenny na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni greckiej i międzynarodowej. Goście mają zapewnione niepełne wyżywienie w formie śniadań i kolacji w formie bufetu. Na terenie obiektu działa również bar/lounge oraz bar przy basenie, pełniący funkcję snack baru."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen dla dorosłych oraz oddzielny basen dla dzieci. Hotel nie posiada własnych zjeżdżalni, ale największy aquapark w Grecji (Faliraki Water Park) jest oddalony o około 2 km. Goście mogą korzystać z siłowni (ewentualnie płatnej) oraz bilarda. Wieczorami organizowane są wieczory karaoke."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje basen dla dzieci oraz plac zabaw. Hotel jest przyjazny rodzinom, jednak brak jest informacji o mini klubie dla dzieci."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży (350 m) i przystanku autobusowego",
+  "Uprzejma obsługa",
+  "Dostępność basenu",
+  "Śniadania i kolacje wliczone w cenę",
+  "Dobre połączenie z miastem Rodos"
+ ],
+ "cons": [
+  "Niska średnia ocena na Tripadvisor (3.2/5)",
+  "Możliwe dodatkowe opłaty za klimatyzację i Wi-Fi",
+  "Niejednolite sprzątanie i starsze ręczniki",
+  "Zimne jedzenie na kolację, brudne sztućce i szklanki (wg niektórych opinii)",
+  "Zgłaszana obecność karaluchów i komarów w pokojach (wg niektórych opinii)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 350 metrów od piaszczystej plaży Faliraki."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe Międzynarodowe Lotnisko Rodos (RHO) jest oddalone o około 15 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnych zjeżdżalni ani aquaparku, ale Faliraki Water Park znajduje się około 2 km od obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje basen dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne i płatne?",
+   "a": "Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych za dodatkową opłatą. W niektórych pokojach również jest płatne."
+  },
+  {
+   "q": "Czy w hotelu jest opcja all inclusive?",
+   "a": "Hotel oferuje wyżywienie w formule niepełnego wyżywienia (śniadania i kolacje w formie bufetu), brak informacji o opcji all inclusive."
+  }
+ ],
+ "address": "Rodou Lindou Athinagorou Faliraki, Faliraki 851 05, Grecja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Międzynarodowe Lotnisko Rodos (RHO)",
+ "amenities": [
+  "Basen zewnętrzny",
+  "Basen dla dzieci",
+  "Plac zabaw",
+  "Restauracja",
+  "Bar/lounge",
+  "Bar przy basenie/snack bar",
+  "Masaże (płatne)",
+  "Siłownia (możliwe opłaty)",
+  "Bilard (płatny)",
+  "Wieczory karaoke",
+  "Winda"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Faliraki",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "single"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2000,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double (z łazienką, balkonem/tarasem, minilodówką, TV, płatną klimatyzacją i sejfem)",
+  "Standard Triple (z łazienką, balkonem/tarasem, minilodówką, TV, płatną klimatyzacją i sejfem)",
+  "Two-Bedroom Family Room (z łazienką, balkonem/tarasem, minilodówką, TV, płatną klimatyzacją i sejfem)",
+  "Superior (z łazienką, balkonem/tarasem, minilodówką, TV, płatną klimatyzacją i sejfem, w niektórych sejf bezpłatny, klimatyzacja płatna)",
+  "Studia dla 2-3 osób",
+  "Apartamenty z jedną lub dwiema sypialniami",
+  "Family Superior (możliwy aneks kuchenny na życzenie i za dopłatą)"
+ ],
+ "rooms": 57,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.3460042,
+  "lon": 28.1980413,
+  "src": "osm"
+ },
+ "sources": [
+  "reserving.com",
+  "nowah.xyz",
+  "broadwaytravel.com",
+  "thomascook.com",
+  "lastminute.com",
+  "fourseasonstravel.bg",
+  "sembo.ca",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

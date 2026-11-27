@@ -1,0 +1,141 @@
+{
+ "id": "x:grecja:alesahne beach",
+ "slug": "alesahne-beach",
+ "name": "Alesahne Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Santorini",
+  "Kamari"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/santorini/kamari/alesahne-beach/efebeafc6e87544478f6e.jpg",
+ "city": "Kamari",
+ "intro": [
+  "Hotel Alesahne Beach to kameralny, odnowiony obiekt położony bezpośrednio przy słynnej czarnej, wulkanicznej plaży Kamari na greckiej wyspie Santorini. Oferuje on spokojny wypoczynek w malowniczej scenerii, jednocześnie zapewniając łatwy dostęp do tętniącego życiem centrum miejscowości z licznymi restauracjami, barami i sklepami.",
+  "Ten trzygwiazdkowy hotel jest idealnym wyborem dla par i małych rodzin, które szukają relaksującego pobytu z możliwością korzystania z uroków plaży i bliskości lokalnych atrakcji. Dzięki prywatnej części plaży i dwóm basenom, goście mogą cieszyć się słońcem i morską bryzą w komfortowych warunkach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Alesahne Beach znajduje się w miejscowości Kamari, bezpośrednio przy czarnej, wulkanicznej plaży piaszczysto-żwirowej. Obiekt dysponuje prywatną częścią plaży z leżakami i parasolami, dostępnymi wyłącznie dla gości. Ręczniki plażowe są zapewnione. Centrum Kamari z restauracjami i sklepami jest w zasięgu krótkiego spaceru, a stolica Fira oddalona jest o około 7-8 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 28 pokoi, w tym Classic Double Room i Superior Room, z widokiem na ogród/basen lub morze. Wszystkie pokoje wyposażone są w klimatyzację, Wi-Fi, telewizję satelitarną, prywatną łazienkę z prysznicem, suszarkę do włosów, lodówkę, zestaw do parzenia kawy i herbaty oraz umeblowany balkon lub taras. Dostępne są również pokoje łączone i łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja Alesahne, serwująca dania kuchni greckiej i śródziemnomorskiej na śniadanie, obiad i kolację. Goście mogą korzystać z bezpłatnego śniadania w formie bufetu. Do dyspozycji są także bar przy basenie, bar na plaży, lounge bar oraz snack bar, oferujące napoje i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma odkrytymi basenami z leżakami i parasolami. W pobliżu hotelu dostępne są różnorodne sporty wodne, takie jak nurkowanie, windsurfing czy narty wodne, a także bilard, siatkówka plażowa i mini golf. Na życzenie oferowane są usługi masażu."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Alesahne Beach jest polecany dla par i małych rodzin, które szukają relaksującego wypoczynku na Santorini. Bliskość plaży oraz centrum Kamari z licznymi restauracjami i barami sprawia, że jest to odpowiednie miejsce dla osób ceniących zarówno spokój, jak i dostęp do rozrywki."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy czarnej plaży Kamari",
+  "Prywatna część plaży z leżakami i parasolami",
+  "Bardzo przyjazny i pomocny personel",
+  "Czyste pokoje i dobre śniadania",
+  "Bliskość centrum Kamari z restauracjami i sklepami"
+ ],
+ "cons": [
+  "Małe łazienki/prysznice w niektórych pokojach",
+  "Ograniczony wybór dań na kolację",
+  "Niewielki rozmiar basenu",
+  "Niektóre udogodnienia mogą być nieco przestarzałe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Alesahne Beach jest położony bezpośrednio przy plaży Kamari."
+  },
+  {
+   "q": "Czy hotel oferuje prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną część plaży z leżakami i parasolami, przeznaczoną wyłącznie dla gości."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od Portu Lotniczego Santorini (JTR) wynosi około 5 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dostępne są usługi opieki nad dziećmi na życzenie oraz pokoje łączone."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  }
+ ],
+ "address": "84700 Kamari Santorini - Cyclades, Grecja",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Port Lotniczy Santorini (JTR)",
+ "amenities": [
+  "klimatyzacja",
+  "ogrzewanie",
+  "telewizja satelitarna",
+  "prywatna łazienka z prysznicem",
+  "bezpłatne kosmetyki",
+  "suszarka do włosów",
+  "lodówka/mini lodówka",
+  "zestaw do parzenia kawy i herbaty",
+  "balkon lub taras",
+  "sejf (może być płatny lokalnie)",
+  "telefon",
+  "część wypoczynkowa",
+  "ręczniki plażowe",
+  "leżaki i parasole na plaży"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kamari",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "czarna, wulkaniczna, piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "małe rodziny"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Classic Double Room (widok na ogród/basen lub morze)",
+  "Superior Room (widok na ogród/basen lub morze)"
+ ],
+ "rooms": 28,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.3741805,
+  "lon": 25.4833684,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "sunway.ie",
+  "alesahne.gr",
+  "booking.com",
+  "hotelsofsantorini.com",
+  "hotels.com",
+  "kayak.co.uk",
+  "santorinibesthotels.com"
+ ],
+ "updated": "2026-11-27"
+}

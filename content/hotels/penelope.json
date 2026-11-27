@@ -1,0 +1,141 @@
+{
+ "id": "x:grecja:penelope",
+ "slug": "penelope",
+ "name": "Penelope",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/boukari/penelope/4cd3c17a89be46be0951a4f7c7b87c38_1.jpg",
+ "city": "Boukari",
+ "intro": [
+  "Hotel Penelope to kameralny, dwupiętrowy obiekt położony w malowniczym gaju oliwnym na południowo-wschodnim wybrzeżu Korfu, w spokojnej wiosce Boukari. Jest to idealne miejsce dla par i rodzin szukających relaksującego wypoczynku w otoczeniu greckiej przyrody i bliskości morza.",
+  "Obiekt oferuje komfortowe zakwaterowanie w odnowionych pokojach, dostęp do basenu oraz tawerny serwującej lokalne specjały. Dzięki rodzinnej atmosferze i gościnności personelu, hotel Penelope zapewnia spokojny i przyjemny pobyt, z dala od zgiełku masowej turystyki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Penelope znajduje się w miejscowości Boukari, około 60-70 metrów od lokalnej plaży, która jest piaszczysto-kamienista. W promieniu 10 minut jazdy samochodem dostępne są również piaszczyste plaże, takie jak Agios Georgios czy Issos. Obiekt jest usytuowany w gaju oliwnym, blisko morza i portu Boukari, co sprzyja spokojnemu wypoczynkowi."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 16-18 pokoi, w tym dwuosobowe, trzyosobowe, studia i pokoje superior. Wszystkie pokoje są wyposażone w łazienkę z prysznicem, umeblowany balkon, telewizor, lodówkę, indywidualnie sterowaną klimatyzację, sejf, suszarkę do włosów oraz zestaw do parzenia kawy/herbaty. Dostępne jest bezpłatne Wi-Fi, a niektóre pokoje superior posiadają aneks kuchenny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Penelope goście mogą korzystać z tawerny hotelowej i restauracji serwującej dania kuchni śródziemnomorskiej oraz lokalne specjały. Obiekt oferuje śniadania kontynentalne w formie bufetu oraz opcję niepełnego wyżywienia (śniadanie i kolacja). Lunch i kolacja dostępne są również à la carte. Na terenie hotelu znajduje się także bar, bar przy basenie, kawiarnia i snack bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem ze słodką wodą, w tym basenem typu infinity oraz sezonowym basenem zewnętrznym. Dla najmłodszych przygotowano basen dla dzieci oraz plac zabaw. Goście mogą korzystać z usług spa, takich jak masaże, manicure i pedicure. W pobliżu hotelu dostępne są sporty wodne, wypożyczalnia rowerów oraz szlaki do wycieczek pieszych i rowerowych."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Penelope jest polecany dla rodzin i par poszukujących spokojnego i relaksującego wypoczynku. Dzięki kameralnej atmosferze, bliskości morza i udogodnieniom dla dzieci, obiekt stanowi dobrą bazę do odkrywania uroków Korfu, z dala od zgiełku dużych kurortów."
+  }
+ ],
+ "pros": [
+  "Rodzinna atmosfera i gościnność personelu",
+  "Wysoka czystość obiektu",
+  "Dobra lokalizacja blisko morza",
+  "Duży i czysty basen",
+  "Smaczne śniadania"
+ ],
+ "cons": [
+  "Plaża w Boukari jest kamienista",
+  "Klimatyzacja i sejf mogą być dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Penelope znajduje się około 60-70 metrów od piaszczysto-kamienistej plaży Boukari."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Korfu (CFU), oddalone jest od hotelu o około 23-26 km."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Brak informacji o opcji all inclusive. Hotel oferuje śniadania kontynentalne oraz opcję niepełnego wyżywienia (śniadanie i kolacja)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel posiada odkryty basen oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  }
+ ],
+ "address": "Main Street, Boukari, Corfu 49080, Greece",
+ "adultsOnly": false,
+ "airportKm": 24.5,
+ "airportName": "Międzynarodowy port lotniczy Korfu (Ioannis Kapodistrias Airport - CFU)",
+ "amenities": [
+  "Basen odkryty",
+  "Basen dla dzieci",
+  "Plac zabaw dla dzieci",
+  "Tawerna hotelowa",
+  "Bar przy basenie",
+  "Kawiarnia",
+  "Snack bar",
+  "Spa",
+  "Masaże",
+  "Manicure",
+  "Pedicure",
+  "Karaoke",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Boukari (Mpoukaris)",
+ "bars": 4,
+ "beachDistanceM": 65,
+ "beachType": "piaszczysto-kamienista",
+ "centerKm": 23.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój dwuosobowy/twin z łazienką, balkonem, TV, lodówką, klimatyzacją, sejfem, suszarką do włosów, zestawem do kawy/herbaty, WiFi.",
+  "Pokój trzyosobowy z łazienką, balkonem, TV, lodówką, klimatyzacją, sejfem, suszarką do włosów, zestawem do kawy/herbaty, WiFi.",
+  "Pokój typu Queen z łazienką, balkonem, TV, lodówką, klimatyzacją, sejfem, suszarką do włosów, zestawem do kawy/herbaty, WiFi.",
+  "Studio typu Queen z łazienką, balkonem, TV, lodówką, klimatyzacją, sejfem, suszarką do włosów, zestawem do kawy/herbaty, WiFi.",
+  "Pokój standardowy z łazienką, balkonem, TV, lodówką, klimatyzacją, sejfem, suszarką do włosów, zestawem do kawy/herbaty, WiFi.",
+  "Pokój superior z aneksem kuchennym, łazienką, balkonem, TV, lodówką, klimatyzacją, sejfem, suszarką do włosów, zestawem do kawy/herbaty, WiFi."
+ ],
+ "rooms": 17,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.850944,
+  "lon": 22.2603192,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "expedia.com",
+  "loveholidays.com",
+  "corfugreecehotels.com",
+  "adorehotels.com",
+  "penelopecorfu.com",
+  "agoda.com",
+  "almosafer.com"
+ ],
+ "updated": "2026-11-27"
+}

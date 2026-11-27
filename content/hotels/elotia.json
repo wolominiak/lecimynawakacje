@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:elotia",
+ "slug": "elotia",
+ "name": "Elotia",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Kato Daratso"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/kato-daratso/elotia-pl/4837/0d09d46e64edb1741f59f59f99e4c7d7_32509338-244.jpg",
+ "city": "Kato Daratso",
+ "intro": [
+  "Hotel Elotia to trzygwiazdkowy obiekt położony w spokojnej okolicy Agioi Apostoli na Krecie, w miejscowości Kato Daratso. Jest to idealne miejsce dla osób szukających relaksu w kameralnej atmosferze, a jednocześnie ceniących sobie bliskość piaszczystych plaż oraz łatwy dostęp do lokalnych atrakcji i centrum Chanii.",
+  "Hotel Elotia jest dobrym wyborem dla par, rodzin z dziećmi oraz miłośników zwiedzania, którzy szukają komfortowej bazy wypadowej do odkrywania uroków Krety. Oferuje tradycyjną grecką gościnność i zapewnia dobrą jakość usług w przystępnej cenie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Elotia znajduje się w Agioi Apostoli, w regionie Kato Daratso, zaledwie 100-200 metrów od piaszczystej plaży, w tym jednej z certyfikatem Błękitnej Flagi. Plaża jest publiczna, a leżaki i parasole są dostępne za dodatkową opłatą. W bezpośrednim sąsiedztwie hotelu (50-100 m) znajdują się bary, restauracje, supermarket oraz przystanek autobusowy, co zapewnia łatwy dostęp do udogodnień."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 30 komfortowo urządzonych pokoi, które zostały odnowione w 2015 lub 2017 roku. Dostępne są pokoje dwuosobowe i trzyosobowe, wyposażone w balkon lub taras, łazienkę z suszarką do włosów, indywidualnie sterowaną klimatyzację, telewizor z płaskim ekranem, lodówkę oraz zestaw do parzenia kawy i herbaty. Sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja oraz bar. Goście mogą wybrać opcję zakwaterowania ze śniadaniami (Bed&Breakfast) lub bez wyżywienia. Niektóre źródła wspominają również o dostępności opcji all inclusive, jednak bez szczegółowych informacji na temat jej zakresu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym basenem z tarasem słonecznym, gdzie leżaki i parasole są dostępne bezpłatnie. Dla najmłodszych gości przygotowano brodzik. W okolicy plaży dostępne są płatne sporty wodne oferowane przez lokalnych dostawców. Hotel oferuje również wypożyczalnię samochodów i rowerów."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Elotia jest polecany dla osób szukających spokojnego miejsca na wypoczynek, par oraz rodzin z dziećmi, ze względu na dostępny brodzik. Dzięki dogodnej lokalizacji, stanowi również dobrą bazę wypadową dla miłośników zwiedzania, którzy chcą odkrywać uroki Chanii i okolic."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Czyste i zadbane pokoje",
+  "Miła i profesjonalna obsługa",
+  "Kameralna atmosfera",
+  "Dobra jakość w stosunku do ceny"
+ ],
+ "cons": [
+  "Mały basen i restauracja",
+  "Starsze wyposażenie łazienek",
+  "Brak windy i wiele schodów (niezalecany dla osób z problemami z poruszaniem się)",
+  "Brak ręczników plażowych",
+  "Leżaki i parasole na plaży płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Elotia jest położony około 100-200 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Chania (CHQ) wynosi około 17 km, a podróż samochodem zajmuje około 30 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w recepcji i pomieszczeniach ogólnodostępnych, a niektóre źródła wskazują również na dostępność Wi-Fi we wszystkich pokojach."
+  },
+  {
+   "q": "Jak daleko jest do centrum Chanii?",
+   "a": "Centrum Chanii znajduje się około 3-5 km od hotelu."
+  }
+ ],
+ "address": "Kazantzaki 1 &, Paradisou, 73100, Daratsos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 17,
+ "airportName": "Chania (CHQ)",
+ "amenities": [
+  "wypożyczalnia samochodów",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Agioi Apostoli",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "osoby szukające cichego i spokojnego miejsca",
+  "pary",
+  "rodziny z dziećmi",
+  "miłośnicy zwiedzania",
+  "osoby ceniące grecką gościnność"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1994,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy z balkonem lub tarasem, łazienką/WC, klimatyzacją, TV, lodówką, telefonem, zestawem do parzenia kawy i herbaty",
+  "pokój trzyosobowy z balkonem lub tarasem, łazienką/WC, klimatyzacją, TV, lodówką, telefonem, zestawem do parzenia kawy i herbaty"
+ ],
+ "rooms": 30,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 35.5116681,
+  "lon": 23.9835263,
+  "src": "osm"
+ },
+ "sources": [
+  "exim.pl",
+  "kartagotours.hu",
+  "wakacje.pl",
+  "superzajezdy.cz",
+  "kartago.sk",
+  "eximtours.cz",
+  "tui.pl",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

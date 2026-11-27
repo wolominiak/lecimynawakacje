@@ -1,0 +1,141 @@
+{
+ "id": "x:grecja:delfinia",
+ "slug": "delfinia",
+ "name": "Delfinia",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Mesongi i Moraitika"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/mesongi-a-moraitika/delfinia-pl/5742/eaea45ec350488e933688ddedbdfce89_00-244.jpg",
+ "city": "Moraitika",
+ "intro": [
+  "Hotel Delfinia to czterogwiazdkowy obiekt położony w miejscowości Moraitika, w południowej części Korfu, tuż przy plaży Moraitika i Morzu Jońskim. Otoczony jest rozległymi ogrodami o powierzchni 40 akrów, co zapewnia spokojną i relaksującą atmosferę.",
+  "Obiekt jest idealnym wyborem dla rodzin z dziećmi, par oraz osób szukających zarówno wypoczynku na plaży, jak i aktywnego spędzania czasu. Dzięki niedawnemu remontowi hotel oferuje komfortowe warunki pobytu w odnowionych wnętrzach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Delfinia znajduje się w miejscowości Moraitika, zaledwie 200-300 metrów od centrum, co pozwala na łatwy dostęp do lokalnych atrakcji. Obiekt ma bezpośredni dostęp do prywatnej piaszczysto-żwirowej plaży z krystalicznie czystą wodą. Na plaży dostępne są bezpłatne leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 184 lub 185 pokoi, rozmieszczonych w głównym budynku i dwóch aneksach. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, umeblowany balkon, telewizor z płaskim ekranem, lodówkę oraz bezpłatne Wi-Fi. Dostępne są różne typy pokoi, od standardowych dwuosobowych po przestronne apartamenty z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje i kilka barów. Restauracja Feakes serwuje śniadania i kolacje w formie bufetu z daniami kuchni międzynarodowej i greckiej, często z wieczorami tematycznymi. Taverna Nafsika przy plaży oferuje lunche a la carte z daniami regionalnymi. Hotel oferuje wyżywienie w formule niepełnego wyżywienia (Half Board), gdzie napoje do kolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen oraz brodzik dla dzieci. Hotel oferuje bogaty program rozrywkowy, w tym wieczorne koncerty i występy greckich tancerzy w Kirki Beach Bar. Na terenie obiektu znajduje się również siłownia, spa, dwa korty tenisowe, stół do tenisa stołowego oraz bilard."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz pokój zabaw. Hotel jest przyjazny rodzinom, oferując udogodnienia zapewniające komfortowy pobyt dla wszystkich członków rodziny."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej plaży",
+  "Rozległe ogrody i spokojna lokalizacja",
+  "Niedawno odnowione pokoje",
+  "Dobre śniadania i różnorodność kuchni",
+  "Przyjazny i pomocny personel",
+  "Bliskość centrum Moraitiki"
+ ],
+ "cons": [
+  "Napoje do kolacji w formule Half Board są dodatkowo płatne",
+  "Brak informacji o ręcznikach plażowych",
+  "Brak aquaparku",
+  "Niektóre opinie wskazują na niższą jakość kolacji w formie bufetu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Delfinia ma bezpośredni dostęp do prywatnej plaży Moraitika."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Korfu (CFU), oddalone jest o około 17-19 km, co oznacza około 30-35 minut jazdy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni, ale dysponuje odkrytym basenem i brodzikiem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik, plac zabaw i pokój zabaw dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Delfinia nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Main Street, Moraitika, Korfu, 49100",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Międzynarodowe Lotnisko Korfu (CFU)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Tenis stołowy",
+  "Bilard",
+  "Szachy plenerowe",
+  "Sporty wodne na plaży",
+  "Jacuzzi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Moraitika",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirowa/kamienista",
+ "centerKm": 0.25,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Double/Twin Room Garden View (20 m², dla 2 osób, klimatyzacja, prywatna łazienka, balkon, TV, lodówka, Wi-Fi)",
+  "Standard Double Room Sea Side / Pool View (20 m², dla 2 dorosłych i 1 dziecka, klimatyzacja, prywatna łazienka, balkon, TV, lodówka, Wi-Fi)",
+  "Superior Double Room Garden View (20-25 m², dla 2 dorosłych i 2 dzieci lub 3 dorosłych, klimatyzacja, prywatna łazienka, balkon, TV, lodówka, Wi-Fi)",
+  "Superior Double Room Sea View (20-25 m², dla 3 dorosłych lub 2 dorosłych i 1 dziecka, klimatyzacja, prywatna łazienka, balkon, TV, lodówka, Wi-Fi)",
+  "Junior Suite Sea View (36 m², dla 2 dorosłych i 1 dziecka, klimatyzacja, prywatna łazienka, balkon, TV, lodówka, Wi-Fi)",
+  "Executive Suite Sea View (42 m², dla 2 dorosłych i 2 dzieci, klimatyzacja, prywatna łazienka, balkon, TV, lodówka, Wi-Fi)"
+ ],
+ "rooms": 185,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.4865267,
+  "lon": 19.9276353,
+  "src": "osm"
+ },
+ "sources": [
+  "delfiniahotels.gr",
+  "expedia.com",
+  "tui.co.uk",
+  "booking.com",
+  "firstchoice.co.uk",
+  "loveholidays.com",
+  "lastminute.com",
+  "almosafer.com"
+ ],
+ "updated": "2026-11-27"
+}

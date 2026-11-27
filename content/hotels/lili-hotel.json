@@ -1,0 +1,140 @@
+{
+ "id": "x:grecja:lili hotel",
+ "slug": "lili-hotel",
+ "name": "Lili Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Amoudara"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/amoudara/lili-hotel-pl/7351/f7ff8d3c3458f153d98318e7cff2bc2c_1-244.jpg",
+ "city": "Amoudara",
+ "intro": [
+  "Lili Hotel to trzygwiazdkowy obiekt położony w miejscowości Amoudara na Krecie, w regionie Heraklion. Hotel jest idealnym wyborem dla rodzin, par oraz osób szukających spokojnego wypoczynku i autentycznej greckiej gościnności. Dzięki niedawnemu remontowi i dogodnej lokalizacji, stanowi dobrą bazę wypadową do zwiedzania wyspy.",
+  "Obiekt oferuje komfortowe warunki w odnowionych pokojach, otoczony zadbanym ogrodem z drzewami oliwnymi. Bliskość piaszczystej plaży Amoudara oraz dogodny dojazd do Heraklionu sprawiają, że hotel jest atrakcyjny dla różnorodnych grup podróżnych ceniących dobry stosunek jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lili znajduje się w Amoudarze, około 350-750 metrów od piaszczystej plaży Amoudara, która jest oznaczona Błękitną Flagą. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Obiekt jest oddalony o około 10-14 km od lotniska w Heraklionie i 6-8 km od centrum Heraklionu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 30-34 odnowionymi pokojami, które zostały wyremontowane w 2023 roku. Pokoje są wyposażone w klimatyzację, prywatną łazienkę, balkon lub taras, lodówkę, telewizor z płaskim ekranem, sejf oraz bezpłatne Wi-Fi. Dostępne są różne typy pokoi, w tym Standard Double, Triple, Family oraz Junior Suite."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny: jeden odkryty (w tym basen typu infinity) oraz mały basen kryty, dostępny przez cały rok. Dla dzieci przygotowano brodzik i plac zabaw. Goście mogą korzystać z siłowni/kącika fitness oraz stołu do tenisa. Hotel oferuje również saunę i jacuzzi za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, bar i bar przy basenie. Serwowane jest śniadanie kontynentalne w formie bufetu. Wieczorny bufet jest dostępny za dodatkową opłatą w wysokości 14 EUR."
+  }
+ ],
+ "pros": [
+  "Przyjazna i pomocna obsługa",
+  "Czyste i komfortowe, odnowione pokoje",
+  "Zadbany teren z ogrodem i basenem",
+  "Dobra lokalizacja blisko plaży i przystanku autobusowego",
+  "Dogodna baza wypadowa do zwiedzania Krety"
+ ],
+ "cons": [
+  "Niektóre łazienki mogą być kompaktowe",
+  "Otoczenie hotelu poza jego terenem bywa niezbyt zadbane",
+  "Leżaki i parasole na plaży są płatne",
+  "Brak informacji o animacjach i mini klubie",
+  "Wieczorny bufet za dodatkową opłatą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel Lili jest od plaży?",
+   "a": "Hotel Lili jest położony około 350-750 metrów od piaszczystej plaży Amoudara."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska w Heraklionie (HER) wynosi około 10-14 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel Lili jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest obiektem rodzinnym, oferuje brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Lili jest obiektem rodzinnym i nie jest przeznaczony wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Kiedy hotel był ostatnio remontowany?",
+   "a": "Pokoje były remontowane w 2023 roku, a cały hotel w 2024 roku."
+  }
+ ],
+ "address": "Melinas Merkouri 3, Amoudara Gazi, 70014",
+ "adultsOnly": false,
+ "airportKm": 10,
+ "airportName": "Heraklion (Nikos Kazantzakis, HER)",
+ "amenities": [
+  "sauna (płatna)",
+  "jacuzzi (płatne)",
+  "siłownia",
+  "tenis stołowy",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Amoudara",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "podróżujący niezależnie",
+  "osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Triple Room",
+  "Family Room",
+  "Junior Suite with Terrace",
+  "Standard King Room",
+  "Deluxe Double Room",
+  "Family Apartment/Suite (niektóre z aneksem kuchennym)"
+ ],
+ "rooms": 30,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 12.6412562,
+  "lon": -7.9763261,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.com",
+  "tui.com",
+  "trivago.co.uk",
+  "lilihotel.com",
+  "expedia.com",
+  "reserving.com",
+  "planetofhotels.com",
+  "wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

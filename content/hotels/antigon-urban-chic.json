@@ -1,0 +1,150 @@
+{
+ "id": "x:grecja:antigon urban chic",
+ "slug": "antigon-urban-chic",
+ "name": "Antigon Urban Chic",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Saloniki i okolice",
+  "Saloniki"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/recko/solun-a-okoli/solun/antigon-urban-chic/e70c55bc801bed34aeaec.jpg",
+ "city": "Saloniki",
+ "intro": [
+  "Antigon Urban Chic to pięciogwiazdkowy hotel miejski, położony w historycznym centrum Salonik, w Grecji. Obiekt mieści się w odrestaurowanym budynku z 1931 roku, który został gruntownie wyremontowany w 2018 roku, łącząc klasyczną architekturę z nowoczesnymi elementami.",
+  "Hotel jest idealny dla osób nastawionych na zwiedzanie miasta, par oraz podróżujących służbowo, ceniących luksus i miejski styl. Oferuje komfortowe zakwaterowanie i dogodny dostęp do głównych atrakcji Salonik."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Antigon Urban Chic znajduje się w centrum Salonik, w pobliżu placu Antigonidon, Forum Romanum i placu Arystotelesa. Najbliższe wybrzeże Zatoki Termajskiej jest oddalone o około 400 metrów, a spacer do placu Arystotelesa zajmuje około 14 minut. Międzynarodowy Port Lotniczy Saloniki (SKG) oddalony jest o około 13-21 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 38 pokoi i apartamentów, w tym Comfort Double Room City View, Junior Suite Courtyard View, Superior Junior Suite, Budget Double Room Ground Floor oraz Superior Suite. Wszystkie pokoje są klimatyzowane i ogrzewane, wyposażone w minibar, dźwiękoszczelne okna, telewizor Smart TV, sejf oraz zestaw do parzenia kawy/herbaty. W łazienkach znajdują się marmurowe wykończenia, prysznic, bezpłatne kosmetyki, suszarka do włosów, szlafroki i kapcie. Niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja/bar w przeszklonym atrium, pod którym widoczne są starożytne ruiny macedońskie i rzymskie. Codziennie serwowane jest śniadanie w formie bufetu, często za dodatkową opłatą. Goście mogą również skorzystać z baru/lounge oraz baru szampańskiego Duval-Leroy na dachu, z którego roztacza się widok na miasto."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się mały basen typu plunge pool z widokiem na miasto. Hotel oferuje również usługi spa i relaksacyjne, w tym masaże. Dostępne jest bezpłatne Wi-Fi w całym obiekcie. Hotel umożliwia wynajem rowerów."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Antigon Urban Chic jest polecany dla osób zwiedzających miasto, par oraz podróżujących służbowo. Docenią go goście szukający luksusowego zakwaterowania w centrum miasta z łatwym dostępem do atrakcji turystycznych. Hotel jest przyjazny dzieciom i oferuje łóżeczka dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Salonik",
+  "Unikalna restauracja z przeszkloną podłogą nad ruinami",
+  "Nowoczesne i stylowe wnętrza",
+  "Bardzo wysoka czystość",
+  "Pomocna i profesjonalna obsługa"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być kompaktowe",
+  "Potencjalny hałas uliczny w pokojach",
+  "Ograniczona dostępność parkingu na miejscu",
+  "Brak dużej strefy basenowej",
+  "Brak siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel jest hotelem miejskim. Najbliższe wybrzeże znajduje się w odległości około 0,4 km. Nie jest to hotel plażowy."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Saloniki (SKG) oddalony jest o około 13-21 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest mały basen typu plunge pool na dachu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny dzieciom."
+  }
+ ],
+ "address": "Adigonidon 15, 54630, Saloniki, Grecja",
+ "adultsOnly": false,
+ "airportKm": 13.3,
+ "airportName": "Międzynarodowy Port Lotniczy Saloniki (SKG)",
+ "amenities": [
+  "Spa",
+  "Wynajem rowerów",
+  "Bezpłatne Wi-Fi",
+  "Łóżeczka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "historyczne centrum Salonik",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Osoby zwiedzające miasto",
+  "Pary",
+  "Podróżujący służbowo",
+  "Ceniący luksus i miejski styl"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2018,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Comfort Double Room City View",
+  "Junior Suite Courtyard View",
+  "Superior Junior Suite",
+  "Budget Double Room Ground Floor",
+  "Superior Suite",
+  "Klimatyzacja",
+  "Ogrzewanie",
+  "Minibar",
+  "Dźwiękoszczelne okna",
+  "Telewizor z płaskim ekranem (Smart TV) z telewizją satelitarną",
+  "Sejf",
+  "Zestaw do parzenia kawy/herbaty",
+  "Bezpłatne kosmetyki",
+  "Suszarka do włosów",
+  "Szlafroki i kapcie",
+  "Biurko",
+  "Marmurowe łazienki z prysznicem",
+  "Balkon lub taras (w niektórych pokojach)"
+ ],
+ "rooms": 38,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.6398702,
+  "lon": 22.9395172,
+  "src": "osm"
+ },
+ "sources": [
+  "reserve-online.net",
+  "booking.com",
+  "travelodeal.com",
+  "hotelplease.app",
+  "bestofthessaloniki.com",
+  "grhotels.gr",
+  "trivago.co.uk",
+  "fibula-ks.com"
+ ],
+ "updated": "2026-11-27"
+}

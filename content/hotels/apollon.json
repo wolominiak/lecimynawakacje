@@ -1,0 +1,131 @@
+{
+ "id": 34538,
+ "slug": "apollon",
+ "name": "Apollon",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Agios Nikolaos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/apollon-basen-teren-hotelu-1210517296-570-428.jpg",
+ "city": "Agios Nikolaos",
+ "intro": [
+  "Hotel Apollon to kameralny obiekt położony w samym sercu Agios Nikolaos na Krecie, idealny dla dorosłych gości szukających spokoju i komfortu. Jego centralna lokalizacja zapewnia łatwy dostęp do piaszczystej plaży Ammos, malowniczego jeziora Voulismeni oraz lokalnych atrakcji, takich jak sklepy i restauracje.",
+  "Obiekt, przeznaczony wyłącznie dla osób powyżej 16 roku życia, jest doskonałym wyborem dla par i podróżujących dorosłych, ceniących sobie wygodę i bliskość miejskiego życia. Oferuje odnowione wnętrza w częściach wspólnych oraz nowoczesne pokoje, zapewniając przyjemną bazę wypadową do odkrywania uroków Krety."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel Apollon znajduje się w centrum Agios Nikolaos, zaledwie 50 metrów od piaszczystej plaży Ammos. W bliskiej odległości, około 300 metrów, znajduje się serce miejscowości, jezioro Voulismeni, przystań oraz liczne sklepy i restauracje. Najbliższe lotnisko w Heraklionie oddalone jest o około 59-67 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 72-74 pokojami, które zostały niedawno odnowione w nowoczesnym stylu. Goście mogą wybierać spośród pokoi dwuosobowych (Standard Twin, Superior Double/Twin z widokiem na miasto) oraz pokoi jednoosobowych. Wszystkie pokoje wyposażone są w indywidualną klimatyzację, bezpłatne Wi-Fi, telewizor, minilodówkę, sejf (płatny), suszarkę do włosów oraz balkon lub taras (z wyjątkiem 7 pokoi)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca posiłki w formie bufetu, oferująca dania kuchni greckiej, śródziemnomorskiej i międzynarodowej. Dostępny jest również bar/lounge przy recepcji. Pakiet all inclusive obejmuje posiłki w formie bufetu (wczesne śniadanie na życzenie, śniadanie greckie, późne śniadanie kontynentalne, lunch i kolacja) oraz wybrane lokalne napoje, kawę i napoje bezalkoholowe serwowane w barze lounge przez cały dzień."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Apollon oferuje jeden sezonowy basen zewnętrzny, przy którym dostępne są bezpłatne leżaki i parasole. Ze względu na formułę"
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum miasta, blisko plaży i atrakcji.",
+  "Bardzo przyjazny i pomocny personel.",
+  "Czyste pokoje i codzienne sprzątanie.",
+  "Dobre i urozmaicone śniadania w formie bufetu.",
+  "Spokojna atmosfera dzięki formule „tylko dla dorosłych”."
+ ],
+ "cons": [
+  "Pokoje mogą być postrzegane jako małe i nieco przestarzałe.",
+  "Brak udogodnień do parzenia kawy/herbaty w pokojach (czajnik na życzenie).",
+  "Małe łazienki.",
+  "Brak parkingu na terenie hotelu."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 50 metrów od piaszczystej plaży Ammos, co stanowi około 1 minutę spacerem."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel Apollon jest przeznaczony wyłącznie dla dorosłych (16+)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Apollon brak informacji o aquaparku lub zjeżdżalniach."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to międzynarodowe lotnisko w Heraklionie (HER), oddalone o około 59-67 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w częściach wspólnych hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (16+), więc nie jest odpowiedni dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Roussos Kapetanaki 9, Ag. Nikolaos 721 00",
+ "adultsOnly": true,
+ "airportKm": 63,
+ "airportName": "Heraklion (Nikos Kazantzakis - HER)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "restauracja",
+  "bar/lounge",
+  "basen zewnętrzny",
+  "wypożyczalnia rowerów (płatna)"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "centrum Agios Nikolaos",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "pary",
+  "dorośli podróżujący",
+  "podróże służbowe",
+  "rekreacja"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1980,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (Standard Twin)",
+  "pokój dwuosobowy (Superior Double/Twin z widokiem na miasto)",
+  "pokój jednoosobowy"
+ ],
+ "rooms": 72,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 35.1881428,
+  "lon": 25.7151311,
+  "src": "osm"
+ },
+ "sources": [
+  "apollonhotelcrete.com",
+  "reserve-online.net",
+  "booking.com",
+  "expedia.com",
+  "agoda.com",
+  "trivago.co.uk",
+  "trip.com",
+  "agiosnikolaoshotels.com"
+ ],
+ "updated": "2026-11-27"
+}

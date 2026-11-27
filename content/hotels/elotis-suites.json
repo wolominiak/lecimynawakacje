@@ -1,0 +1,140 @@
+{
+ "id": "x:grecja:elotis suites",
+ "slug": "elotis-suites",
+ "name": "Elotis Suites",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Stalos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/stalos/elotis-suites/fd1ceb0daec0a0adf81e5c89f3347348_1.jpg",
+ "city": "Stalos",
+ "intro": [
+  "Elotis Suites to kameralny aparthotel położony w miejscowości Agia Marina, niedaleko piaszczystej plaży Stalos na Krecie. Obiekt, odnowiony w 2012 roku, oferuje komfortowe zakwaterowanie w otoczeniu zieleni, idealne dla osób ceniących sobie spokój i niezależność.",
+  "Hotel jest rekomendowany dla rodzin, par oraz wszystkich, którzy szukają relaksu w pobliżu lokalnych atrakcji, a jednocześnie chcą mieć dobrą bazę wypadową do zwiedzania uroków Chanii i okolic."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Elotis Suites znajduje się w Agia Marina, zaledwie 50-100 metrów od publicznej, piaszczystej plaży Stalos lub Agia Marina. Plaża charakteryzuje się łagodnym zejściem do morza, choć w niektórych miejscach zalecane jest obuwie ochronne. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 20-23 pokojami rozmieszczonymi w pięciu budynkach. Do wyboru są studia, apartamenty z jedną lub dwiema sypialniami, junior suite, pokoje superior oraz premium. Wszystkie pokoje wyposażone są w aneks kuchenny, indywidualnie sterowaną klimatyzację, łazienkę oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje wyżywienie w formule Bed & Breakfast, obejmujące śniadania w formie bufetu kontynentalnego lub amerykańskiego. Na terenie obiektu znajduje się bar/restauracja przy basenie, gdzie serwowane są śniadania, a także snack bar/deli oraz bar/lounge."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden odkryty basen o powierzchni 85 m², a także oddzielny basen i plac zabaw dla dzieci. Na plaży dostępne są płatne sporty wodne. Hotel oferuje również możliwość wypożyczenia rowerów i samochodów, a także płatne masaże."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przestronne i czyste pokoje",
+  "Przyjazny i pomocny personel",
+  "Smaczne i obfite śniadania",
+  "Spokojne otoczenie"
+ ],
+ "cons": [
+  "Ograniczony wybór i jakość śniadań",
+  "Hałas od wentylatora przy basenie",
+  "Słabo uszczelniony prysznic w niektórych pokojach",
+  "Klimatyzacja może być dodatkowo płatna",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Elotis Suites znajduje się około 50-100 metrów od piaszczystej plaży Stalos lub Agia Marina."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 21-28 km od lotniska Ioannis Daskalogiannis (CHQ) w Chanii."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden basen odkryty i basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje oddzielny basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, w tym w pokojach i lobby."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych i jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Agia Marina, Agia Marina Nea Kydonias, 73100, Grecja",
+ "adultsOnly": false,
+ "airportKm": 21,
+ "airportName": "Ioannis Daskalogiannis (CHQ)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Telewizor z płaskim ekranem",
+  "Lodówka",
+  "Czajnik",
+  "Ekspres do kawy",
+  "Toster",
+  "Suszarka do włosów",
+  "Zestaw kosmetyków"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Agia Marina",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta, miejscami piaszczysto-kamienista",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające spokojnego wypoczynku",
+  "Baza wypadowa do zwiedzania"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1987,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio z aneksem kuchennym",
+  "Apartament z jedną sypialnią i aneksem kuchennym",
+  "Apartament z dwiema sypialniami i aneksem kuchennym",
+  "Junior Suite z aneksem kuchennym",
+  "Pokój Superior z aneksem kuchennym",
+  "Pokój Premium z aneksem kuchennym"
+ ],
+ "rooms": 20,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.5165231,
+  "lon": 23.9369332,
+  "src": "osm"
+ },
+ "sources": [
+  "flyin.com",
+  "com-crete-hotels.com",
+  "elotel.gr",
+  "wakacje.pl",
+  "booking.com",
+  "tui.co.uk",
+  "elotis.com",
+  "reserve-online.net"
+ ],
+ "updated": "2026-11-27"
+}

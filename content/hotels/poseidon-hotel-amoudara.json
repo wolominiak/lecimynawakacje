@@ -1,0 +1,129 @@
+{
+ "id": "x:grecja:poseidon hotel amoudara",
+ "slug": "poseidon-hotel-amoudara",
+ "name": "Poseidon Hotel Amoudara",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Amoudara"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/amoudara/poseidon-hotel-amoudara/723bc0a9c1e3c3b17e1dc.JPG",
+ "city": "Amoudara",
+ "intro": [
+  "Poseidon Hotel Amoudara to trzygwiazdkowy obiekt położony w miejscowości Amoudara na Krecie, w regionie Heraklion. Hotel charakteryzuje się tradycyjnym stylem architektonicznym i oferuje komfortowe zakwaterowanie w apartamentach. Został zbudowany w 1992 roku, a ostatni remont generalny miał miejsce w 2017 roku.",
+  "Hotel jest polecany dla rodzin i osób szukających bazy wypadowej do zwiedzania Krety. Dzięki dogodnej lokalizacji, bliskości plaży oraz przystanku autobusowego, goście mają łatwy dostęp do lokalnych atrakcji i centrum Heraklionu. Na terenie obiektu znajduje się basen, plac zabaw dla dzieci oraz siłownia."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Poseidon Amoudara znajduje się w miejscowości Amoudara, około 6-7 km od centrum Heraklionu. Odległość od międzynarodowego lotniska w Heraklionie (HER) wynosi 12 km. Piaszczysta, publiczna plaża Amoudara, posiadająca certyfikat Błękitnej Flagi, oddalona jest o około 500 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 29 apartamentami, w tym pokojami dwu- i trzyosobowymi oraz rodzinnymi. Wszystkie pokoje są w pełni wyposażone i posiadają łazienkę, klimatyzację (często płatną), telewizor satelitarny, aneks kuchenny z lodówką, czajnik, balkon lub taras oraz bezpłatne Wi-Fi. W pokojach dostępne są również sejfy (płatne) i suszarki do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, która serwuje śniadania. Goście mają możliwość wykupienia opcji wyżywienia HB, obejmującej śniadania i obiadokolacje. Na terenie obiektu dostępne są również bary, w tym bar przy basenie oraz kawiarnia, oferujące napoje i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen dla dorosłych o powierzchni 100 m² oraz basen na dachu. Leżaki przy basenie są bezpłatne. Dla aktywnych gości dostępna jest siłownia, a w pobliżu hotelu można skorzystać z centrum sportów wodnych oferującego surfing, nurkowanie, snorkeling, kajakarstwo i windsurfing (płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw. W obiekcie funkcjonuje również mini klub, zapewniający rozrywkę i opiekę. Hotel oferuje także bramki bezpieczeństwa dla dzieci, co czyni go odpowiednim miejscem na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Czyste i przestronne pokoje",
+  "Miła i pomocna obsługa",
+  "Dobre śniadania",
+  "Dobra lokalizacja z łatwym dostępem do transportu publicznego",
+  "Bliskość supermarketu"
+ ],
+ "cons": [
+  "Słabe działanie Wi-Fi w pokojach",
+  "Hałas samolotów",
+  "Brak zaciemniających zasłon w niektórych pokojach",
+  "Woda pod prysznicem nie zawsze jest gorąca",
+  "Klimatyzacja często za dodatkową opłatą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Poseidon Amoudara jest oddalony od piaszczystej plaży Amoudara o około 500 metrów."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jaka jest odległość od niego?",
+   "a": "Najbliższe lotnisko to międzynarodowe lotnisko w Heraklionie (Nikos Kazantzakis, HER), oddalone o 12 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych lub aquaparku na terenie tego hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje plac zabaw, mini klub oraz bramki bezpieczeństwa dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Oferuje pokoje rodzinne i udogodnienia dla dzieci."
+  }
+ ],
+ "address": "Almyroy 1 Street, Amoudara-Gazi, Heraklion 714 14, Grecja",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Heraklion (Nikos Kazantzakis, HER)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Basen odkryty",
+  "Siłownia",
+  "Plac zabaw dla dzieci",
+  "Mini klub"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Heraklion",
+ "bars": null,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1992,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (z pojedynczymi lub podwójnymi łóżkami, łazienka, klimatyzacja, TV sat, aneks kuchenny, lodówka, czajnik, balkon/taras, telefon, sejf, suszarka do włosów, lustro kosmetyczne, szafa, płyta kuchenna, naczynia kuchenne, pościel, ręczniki)",
+  "Pokój trzyosobowy (łazienka, klimatyzacja, TV sat, aneks kuchenny, lodówka, czajnik, balkon/taras, telefon, sejf, suszarka do włosów, lustro kosmetyczne, szafa, płyta kuchenna, naczynia kuchenne, pościel, ręczniki)",
+  "Pokój rodzinny (łazienka, klimatyzacja, TV sat, aneks kuchenny, lodówka, czajnik, balkon/taras, telefon, sejf, suszarka do włosów, lustro kosmetyczne, szafa, płyta kuchenna, naczynia kuchenne, pościel, ręczniki, rozkładana sofa)"
+ ],
+ "rooms": 29,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "poseidon-hotel-crete.gr",
+  "trivago.com",
+  "coral.ge",
+  "agoda.com",
+  "reserving.com",
+  "eurowings.com",
+  "adorehotels.com",
+  "cityhotel.org"
+ ],
+ "updated": "2026-11-27"
+}

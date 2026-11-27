@@ -1,0 +1,138 @@
+{
+ "id": "x:grecja:lindos sun",
+ "slug": "lindos-sun",
+ "name": "Lindos Sun",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Lindos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/lindos/lindos-sun-pl/2202/aea11bc517dbb57e674e2262884fab4a__j6j2086-244.jpg",
+ "city": "Lindos",
+ "intro": [
+  "Lindos Sun to czterogwiazdkowy hotel położony w malowniczym Lindos na wschodnim wybrzeżu Rodos. Usytuowany na wzgórzu, oferuje spokojną atmosferę i widoki na Morze Egejskie oraz zatokę Navarone Bay. Obiekt składa się z kompleksu dwupiętrowych bungalowów utrzymanych w tradycyjnym greckim stylu, co zapewnia kameralny i autentyczny klimat.",
+  "Hotel jest idealnym wyborem dla par, osób podróżujących samotnie, z przyjaciółmi lub rodziną, którzy cenią sobie spokój i relaks z dala od zgiełku. To także doskonała baza wypadowa dla miłośników historii i kultury, dzięki bliskości centrum Lindos i jego zabytków. Odnowiony obiekt z 75 pokojami oferuje wysoki standard usług i komfortowy wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lindos Sun znajduje się w Lindos, około 1 km od centrum miejscowości. Najbliższa plaża Psaltos jest oddalona o około 600 metrów, a plaża w Lindos o około 1 km. Plaże w okolicy są piaszczysto-żwirowe i publiczne, a leżaki i parasole są na nich płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 75 pokoi w kilku kategoriach, w tym Classic, Superior, Premium, a także Superior i Premium z prywatnym basenem. Dostępne są również apartamenty Duplex Suite, niektóre z zewnętrznym jacuzzi. Wszystkie pokoje są klimatyzowane i wyposażone w TV-SAT, mini bar/lodówkę, bezpłatne Wi-Fi, sejf, łazienkę z suszarką do włosów oraz balkon lub taras. Niektóre pokoje z prywatnym basenem są przeznaczone wyłącznie dla dorosłych (powyżej 17 lat)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Lindos Sun dostępne jest wyżywienie w formule Bed&Breakfast, obejmujące śniadania w formie bufetu. Na terenie obiektu znajdują się 2-3 restauracje, w tym jedna a'la carte, oraz 1-2 bary, w tym bar przekąskowy, co zapewnia różnorodność kulinarną."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen ze słodką wodą o powierzchni 230 m² i głębokości 150 cm. Hotel oferuje dzienne animacje i wieczorne przedstawienia. Goście mogą również skorzystać ze strefy wellness i masaży za dodatkową opłatą. W okolicy dostępne są sporty wodne, a hotel udostępnia wypożyczalnię samochodów i rowerów."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Lindos Sun jest przystosowany dla rodzin z dziećmi, oferując bezpłatne łóżeczka na zamówienie oraz wysokie krzesełka w restauracjach. Niektóre typy pokoi są jednak przeznaczone tylko dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja na wzgórzu z pięknymi widokami",
+  "Wysoki standard usług i kameralna atmosfera",
+  "Czyste pokoje i miła obsługa",
+  "Dobre jedzenie, szczególnie śniadania",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Brak rozbudowanej formuły all-inclusive",
+  "Odległość od plaży może być wyzwaniem dla niektórych gości"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża Psaltos oddalona jest o około 600 metrów, plaża w Lindos o około 1 km, a Zatoka św. Pawła o około 800 metrów."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel przyjmuje rodziny z dziećmi i oferuje łóżeczka oraz wysokie krzesełka. Należy jednak pamiętać, że niektóre typy pokoi są przeznaczone wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w ogólnodostępnych miejscach i na terenie całego obiektu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Rodos (RHO) jest oddalone o około 50 km od hotelu."
+  },
+  {
+   "q": "Czy leżaki na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na publicznych plażach w okolicy są płatne."
+  }
+ ],
+ "address": "Lindos, Psaltos Rodos 851 07, Grecja",
+ "adultsOnly": null,
+ "airportKm": 50,
+ "airportName": "Lotnisko Rodos (RHO)",
+ "amenities": [
+  "Wypożyczalnia samochodów",
+  "Wypożyczalnia rowerów",
+  "Strefa wellness",
+  "Masaże (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Lindos",
+ "bars": 2,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "pary",
+  "osoby podróżujące samotnie",
+  "przyjaciele",
+  "rodziny",
+  "miłośnicy historii i kultury",
+  "szukający spokoju i relaksu"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 3,
+ "roomTypes": [
+  "Classic Room",
+  "Superior Room",
+  "Premium Room",
+  "Superior Double Room with Private Swimming Pool (tylko dla dorosłych powyżej 17 lat)",
+  "Premium Double Room with Private Swimming Pool (tylko dla dorosłych powyżej 17 lat)",
+  "Duplex Suite (niektóre z zewnętrznym jacuzzi)"
+ ],
+ "rooms": 75,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.0780305,
+  "lon": 28.0212826,
+  "src": "osm"
+ },
+ "sources": [
+  "travelpunkt.pl",
+  "wakacje.pl",
+  "lindos-sun.com",
+  "reserve-online.net",
+  "coraltravel.pl",
+  "fly.pl",
+  "tui.pl",
+  "esky.pl"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": "x:grecja:plaka",
+ "slug": "plaka",
+ "name": "Plaka",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Ateny i okolice",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/ateny/ateny/plaka-pl/4751/49a0ce_hotel_exterior-244.JPG",
+ "city": "Ateny",
+ "intro": [
+  "Hotel Plaka to trzygwiazdkowy obiekt położony w sercu Aten, w historycznej dzielnicy Plaka, na granicy z Monastiraki i Syntagmą. Jest to idealna baza wypadowa dla turystów pragnących zwiedzać miasto, dzięki bliskości głównych atrakcji i doskonałemu dostępowi do komunikacji miejskiej.",
+  "Hotel jest polecany dla par, podróżujących z ograniczonym budżetem oraz rodzin, oferując pokoje łączone i udogodnienia dla dzieci. Charakteryzuje się miejskim stylem i zapewnia komfortowy pobyt w dynamicznym otoczeniu greckiej stolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Plaka znajduje się w centrum Aten, w malowniczej dzielnicy Plaka, zaledwie 5 minut spacerem od Placu Syntagma i dwie przecznice od stacji metra Monastiraki. W bezpośrednim sąsiedztwie hotelu znajdują się liczne atrakcje, takie jak Akropol, Agora, muzea oraz ulice handlowe, co czyni go doskonałym punktem startowym do zwiedzania miasta. Najbliższe lotnisko, Międzynarodowe Lotnisko w Atenach (ATH), oddalone jest o około 27.9-33 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Hotel Plaka jest hotelem miejskim, co oznacza, że nie posiada bezpośredniego dostępu do plaży. Najbliższa plaża znajduje się w odległości około 12 km od obiektu. Brak informacji o rodzaju plaży, dostępności leżaków czy ręczników."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 67 pokoi rozmieszczonych w sześciopiętrowym budynku. Dostępne są różne typy, w tym Economy/Standard, Superior Twin, Acropolis View Deluxe oraz Family Room (dwa połączone pokoje). Wszystkie pokoje wyposażone są w indywidualnie sterowaną klimatyzację, telewizor, mini lodówkę/mini bar, sejf, suszarkę do włosów, telefon, czajnik elektryczny oraz bezpłatne WiFi. Większość pokoi posiada drewnianą podłogę, a niektóre oferują balkon lub widoki na Akropol, Plakę lub wzgórze Lycabettus. Pokoje rodzinne posiadają drzwi łączące."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Plaka serwowane jest codzienne, bogate śniadanie w formie bufetu, obejmujące specjały kuchni amerykańskiej i greckiej. Dla gości wcześnie wyjeżdżających dostępne jest również śniadanie kontynentalne. Na dachu hotelu znajduje się restauracja \"Door in Athens\" oraz bar, które oferują panoramiczne widoki na Akropol, szczególnie efektowne wieczorem. W obiekcie działa także kawiarnia."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Plaka nie posiada basenu, spa ani siłowni. Goście mogą korzystać z bezpłatnego Wi-Fi dostępnego w pokojach i miejscach publicznych. Hotel oferuje wypożyczalnię rowerów. Dostępne są łóżeczka dziecięce (za dopłatą) oraz usługa opieki nad dziećmi (na życzenie), co czyni go przyjaznym dla rodzin."
+  }
+ ],
+ "pros": [
+  "Doskonała, centralna lokalizacja blisko głównych atrakcji Aten.",
+  "Taras na dachu z barem i restauracją oferujący panoramiczne widoki na Akropol.",
+  "Uprzejmy i pomocny personel.",
+  "Dobre i urozmaicone śniadanie w formie bufetu.",
+  "Dobra jakość w stosunku do ceny."
+ ],
+ "cons": [
+  "Pokoje mogą być małe i proste.",
+  "Potencjalny hałas z ulicy, zwłaszcza w pokojach na niższych piętrach.",
+  "Brak basenu, siłowni i spa.",
+  "Brak parkingu na miejscu.",
+  "Niektóre łazienki mogą wykazywać oznaki zużycia."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży od hotelu Plaka?",
+   "a": "Hotel Plaka jest hotelem miejskim. Najbliższa plaża znajduje się w odległości około 12 km."
+  },
+  {
+   "q": "Czy hotel Plaka jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Atenach (ATH), oddalone o około 27.9 km do 33 km drogą."
+  },
+  {
+   "q": "Czy w hotelu Plaka jest basen lub aquapark?",
+   "a": "Nie, hotel Plaka nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel Plaka jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje pokoje rodzinne (dwa połączone pokoje), łóżeczka dziecięce (za dopłatą) oraz usługę opieki nad dziećmi (na życzenie)."
+  },
+  {
+   "q": "Czy w hotelu Plaka jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel Plaka oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Hotel serwuje codzienne śniadania w formie bufetu."
+  }
+ ],
+ "address": "Kapnikareas 7 & Mitropoleos, 105 56 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 27.9,
+ "airportName": "Międzynarodowe Lotnisko w Atenach (ATH) im. Eleftheriosa Venizelosa",
+ "amenities": [
+  "Wypożyczalnia rowerów",
+  "Łóżeczka dziecięce (za dopłatą)",
+  "Opieka nad dziećmi (na życzenie)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Plaka",
+ "bars": 2,
+ "beachDistanceM": 12000,
+ "beachType": "",
+ "centerKm": 0.9,
+ "goodFor": [
+  "Turyści zwiedzający miasto",
+  "Pary",
+  "Podróżujący z ograniczonym budżetem",
+  "Rodziny"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1960,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy/Standard Room",
+  "Superior Twin Room",
+  "Acropolis View Deluxe Room",
+  "Family Room (2 Connecting Rooms)",
+  "Small Economy Double Bedded Room"
+ ],
+ "rooms": 67,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9757767,
+  "lon": 23.7282964,
+  "src": "osm"
+ },
+ "sources": [
+  "plakahotel.gr",
+  "trivago.com",
+  "greecetravel.com",
+  "hrs.com",
+  "kimkim.com",
+  "oyster.com",
+  "onthebeach.ie",
+  "rome2rio.com"
+ ],
+ "updated": "2026-11-27"
+}

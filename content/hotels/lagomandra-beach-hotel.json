@@ -1,0 +1,142 @@
+{
+ "id": "x:grecja:lagomandra beach hotel",
+ "slug": "lagomandra-beach-hotel",
+ "name": "Lagomandra Beach Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Elia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/elia/lagomandra-beach-hotel-pl/1770/d867_hotel_exterior_2-227.JPG",
+ "city": "Lagomandra",
+ "intro": [
+  "Lagomandra Beach Hotel to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Lagomandra na półwyspie Sithonia w Grecji. Otoczony sosnowym lasem, oferuje spokojny wypoczynek nad Zatoką Toronejską. Hotel składa się z budynku głównego i czterech niskich, dwupiętrowych budynków.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par oraz wszystkich szukających relaksu w otoczeniu natury. Oferuje liczne udogodnienia dla najmłodszych, a także programy animacyjne dla dorosłych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lagomandra Beach znajduje się w miejscowości Lagomandra, na półwyspie Sithonia, bezpośrednio przy plaży Lagomandra. Plaża, wyróżniona Błękitną Flagą, jest piaszczysta, otoczona sosnowym lasem i charakteryzuje się czystą, płytką wodą. Leżaki i parasole przy basenie są bezpłatne, natomiast na plaży dostępne są za dodatkową opłatą. Hotel jest oddalony o około 6 km od miasteczka Neos Marmaras."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 150 odnowionych pokoi i apartamentów, w tym Superior Double, Deluxe Double, Family Rooms, Junior Suites oraz luksusowe apartamenty z prywatnym basenem. Pokoje Superior Double i Deluxe Double zostały odnowione w 2020 roku, a Suites w 2021 roku. Standardowe wyposażenie obejmuje klimatyzację, łazienkę, balkon/taras, telewizor, bezpłatne Wi-Fi, sejf i mini lodówkę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z głównej restauracji bufetowej \"Votsalo\", serwującej dania kuchni greckiej i europejskiej na śniadania i kolacje. Dodatkowo dostępne są restauracja à la carte \"Thalassa Blue\" oraz tawerna z greckimi meze. Na terenie hotelu znajdują się również Pool Bar i Nautilos Beach Bar, oferujące napoje i przekąski. Opcja All Inclusive obejmuje posiłki w formie bufetu oraz wybrane napoje i przekąski w barach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem oraz oddzielnym basenem dla dzieci, oba ze słodką wodą. Dla aktywnych dostępne są siłownia, tenis stołowy, koszykówka i siatkówka plażowa. Centrum spa oferuje saunę i masaże (dodatkowo płatne). Na plaży można skorzystać ze sportów wodnych za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Lagomandra Beach Hotel to obiekt przyjazny rodzinom. Dla dzieci przygotowano plac zabaw oraz specjalnie zaprojektowany basen z ratownikiem. Działa tu również mini klub dla dzieci w wieku 4-10 lat pod nadzorem. Hotel oferuje także popołudniowy program animacyjny dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Lokalizacja przy pięknej, piaszczystej plaży z Błękitną Flagą",
+  "Czyste i często odnowione pokoje",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie z dużym wyborem, zwłaszcza śniadania",
+  "Bogate udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są dodatkowo płatne",
+  "Jedzenie w opcji all inclusive może być monotonne przy dłuższym pobycie",
+  "Hotel jest dość odizolowany, co wymaga samochodu do zwiedzania okolicy",
+  "Obowiązuje opłata klimatyczna płatna na miejscu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy piaszczystej plaży Lagomandra, około 50-100 metrów od budynków."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Saloniki Macedonia (SKG), oddalony o około 100-102 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen i basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferuje basen dla dzieci, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne i szybkie Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są bezpłatne?",
+   "a": "Leżaki i parasole przy basenie są bezpłatne, natomiast na plaży są dostępne za dodatkową opłatą (około 8-12 EUR za zestaw dziennie)."
+  }
+ ],
+ "address": "Lagomandra, Sithonia, Chalkidiki - Greece Postcode 63088",
+ "adultsOnly": false,
+ "airportKm": 100,
+ "airportName": "Międzynarodowy Port Lotniczy Saloniki Macedonia (SKG)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Koszykówka",
+  "Siatkówka plażowa",
+  "Sporty wodne (płatne)"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Sithonia",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.105,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2021,
+ "restaurants": 3,
+ "roomTypes": [
+  "Superior Double",
+  "Deluxe Double",
+  "Family Rooms",
+  "Deluxe Family",
+  "Junior Suites",
+  "Apartments",
+  "Luxury Apartments",
+  "Deluxe Suites z prywatnym basenem i widokiem na morze",
+  "Duplex Suites z prywatnym basenem i widokiem na morze",
+  "Maisonettes"
+ ],
+ "rooms": 150,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.1367778,
+  "lon": 23.7472714,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "fibula.rs",
+  "lagomandra.gr",
+  "travelisto.com",
+  "thessaloniki-taxi.gr",
+  "onthebeach.co.uk",
+  "zeach.net",
+  "hotelschalkidiki.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,125 @@
+{
+ "id": "x:grecja:yianetta hotel and suites",
+ "slug": "yianetta-hotel-suites",
+ "name": "Yianetta Hotel & Suites",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Lefkimimi"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/lefkimmi/yianetta-hotel-a-suites/0898e593cb5195e3a9e0d-244.jpg",
+ "city": "Lefkimmi",
+ "intro": [
+  "Yianetta Hotel & Suites to trzygwiazdkowy aparthotel położony w spokojnej dzielnicy Ayios Petros w Lefkimmi na Korfu, otoczony gajami oliwnymi. Obiekt, składający się z budynku głównego i trzech jednopiętrowych aneksów, oferuje relaksującą atmosferę z dala od miejskiego zgiełku.",
+  "Hotel jest szczególnie polecany dla par, rodzin oraz grup przyjaciół, którzy szukają spokojnego miejsca na wypoczynek. Jego rodzinny charakter oraz bliskość plaży i udogodnienia dla dzieci sprawiają, że jest to dobra opcja na wakacje z najmłodszymi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Yianetta Hotel & Suites znajduje się w miejscowości Lefkimmi, w dzielnicy Ayios Petros na Korfu, pośród gajów oliwnych. Do najbliższej piaszczysto-żwirowej plaży Agios Petros jest około 200 metrów, czyli 3 minuty spacerem. Obiekt oddalony jest o około 2 km od centrum Lefkimmi i Kavos, a dojazd do lotniska Korfu zajmuje około 40 minut (42 km)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 22 lub 36 pokoi, w tym pokoje dwuosobowe Deluxe, trzyosobowe oraz apartamenty rodzinne z dwiema sypialniami, a także studia i apartamenty dwupokojowe. Wszystkie pokoje wyposażone są w klimatyzację (często płatną), telewizor z płaskim ekranem, łazienkę z prysznicem, suszarkę do włosów, czajnik elektryczny, lodówkę oraz balkon lub taras. W apartamentach dostępne są aneksy kuchenne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się sezonowy odkryty basen ze słodką wodą, zintegrowany z brodzikiem dla dzieci. Przy basenie dostępne są bezpłatne leżaki i parasole. Dla najmłodszych gości przygotowano plac zabaw. Hotel organizuje również animacje, takie jak cotygodniowy wieczór grecki i wieczory latynoskie co dwa tygodnie. Goście mogą korzystać z bilarda i rzutek."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, bar, bar przy basenie, snack bar oraz kawiarnia. Oferowane jest śniadanie w formie bufetu. Brak informacji o dostępności pakietu all inclusive."
+  }
+ ],
+ "pros": [
+  "Spokojna i relaksująca atmosfera",
+  "Przestronne i czyste pokoje",
+  "Czysty basen z brodzikiem dla dzieci",
+  "Pyszne i urozmaicone śniadania",
+  "Bardzo pomocna i przyjazna obsługa"
+ ],
+ "cons": [
+  "Lokalizacja wymagająca samochodu do zwiedzania",
+  "Klimatyzacja i sejf często dodatkowo płatne",
+  "Brak informacji o leżakach i ręcznikach na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel jest oddalony o około 200 metrów od piaszczysto-żwirowej plaży Agios Petros, co stanowi około 3 minuty spacerem."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Korfu (CFU), oddalone o około 42 km. Czas dojazdu samochodem to około 40 minut."
+  },
+  {
+   "q": "Czy hotel jest dobry dla dzieci?",
+   "a": "Tak, hotel jest przyjazny rodzinom i dzieciom. Posiada zintegrowany brodzik w głównym basenie oraz plac zabaw. Organizowane są też animacje."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom i dzieciom."
+  }
+ ],
+ "address": "Agios Petros, Lefkimmi, 490 80 Korfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 42,
+ "airportName": "Międzynarodowe Lotnisko Korfu \"Ioannis Kapodistrias\" (CFU)",
+ "amenities": [
+  "plac zabaw dla dzieci",
+  "bilard",
+  "rzutki"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Ayios Petros",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 2,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy Deluxe z balkonem",
+  "pokój trzyosobowy z balkonem",
+  "apartament rodzinny z dwiema sypialniami",
+  "studio dla 3 osób z aneksem kuchennym",
+  "apartament dwupokojowy dla 5 osób z aneksem kuchennym"
+ ],
+ "rooms": null,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "agoda.com",
+  "google.gr",
+  "corfudiscovery.com",
+  "trip.com",
+  "lastminute.com",
+  "hotelscorfuisland.com",
+  "skyscanner.qa",
+  "olympicholidays.com"
+ ],
+ "updated": "2026-11-27"
+}

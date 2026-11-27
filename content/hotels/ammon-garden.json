@@ -1,0 +1,136 @@
+{
+ "id": "x:grecja:ammon garden",
+ "slug": "ammon-garden",
+ "name": "Ammon Garden",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Pefkochori"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/pefkochori/ammon-garden-pl/0cd33bfb75f01b79055bb.jpg",
+ "city": "Pefkochori",
+ "intro": [
+  "Ammon Garden to kameralny, rodzinny hotel położony w miejscowości Pefkochori na półwyspie Chalkidiki, zaledwie 100 metrów od Morza Egejskiego. Obiekt otoczony jest zielonym ogrodem, co sprzyja spokojnemu wypoczynkowi. Hotel jest dobrym wyborem zarówno dla par, jak i rodzin z dziećmi, ceniących sobie bliskość plaży oraz centrum miejscowości.",
+  "Hotel oferuje zakwaterowanie w studiach i pokojach, z możliwością wyżywienia w formule Bed&Breakfast lub SelfCatering. Goście mogą korzystać z sezonowego basenu zewnętrznego oraz baru. Lokalizacja hotelu umożliwia łatwy dostęp do atrakcji Pefkochori i okolicznych plaż, wyróżnionych Błękitną Flagą."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ammon Garden znajduje się w Pefkochori na Chalkidiki, około 100-250 metrów od centrum miejscowości i około 100 metrów od publicznej plaży. Plaża jest piaszczysta lub piaszczysto-żwirowa i posiada certyfikat Błękitnej Flagi. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 27 pokojami i studiami, odnowionymi w 2018 roku. Wszystkie pokoje wyposażone są w balkon lub taras, łazienkę, telewizor, aneks kuchenny z lodówką i czajnikiem, a także klimatyzację (dodatkowo płatną) i suszarkę do włosów. Dostępne są pokoje dwu-, trzy- i czteroosobowe oraz rodzinne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Ammon Garden znajduje się restauracja serwująca śniadania kontynentalne lub w formie bufetu. Goście mogą wybrać opcję zakwaterowania ze śniadaniem (BB) lub bez wyżywienia (SelfCatering). Na terenie obiektu działają również bar z tarasem oraz bar przy basenie, oferujące napoje i lekkie przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada jeden sezonowy basen zewnętrzny z bezpłatnymi leżakami i parasolami. Dla dzieci dostępne są bezpłatne łóżeczka oraz plac zabaw. W hotelu nie ma aquaparku ani animacji, ale na plaży dostępne są płatne sporty wodne. Goście mogą również skorzystać z wypożyczalni rowerów."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Na terenie całego hotelu, w tym w pokojach, recepcji i barze, dostępne jest bezpłatne Wi-Fi. Hotel oferuje parking, a także możliwość skorzystania z sejfu za dodatkową opłatą. Obiekt jest przystosowany zarówno dla par, jak i rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Przyjemny, czysty hotel z miłą obsługą",
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Rodzinna atmosfera, piękny ogród",
+  "Dobry stosunek jakości do ceny",
+  "Basen z bezpłatnymi leżakami"
+ ],
+ "cons": [
+  "Klimatyzacja i sejf są dodatkowo płatne",
+  "Płatne leżaki i parasole na plaży",
+  "Pokoje mogą być prosto urządzone",
+  "Brak opcji all inclusive",
+  "Brak siłowni i spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Ammon Garden znajduje się około 100 metrów od publicznej, piaszczystej lub piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko w Salonikach (SKG), oddalone o około 95-96 km. Transfer trwa około 1,5 godziny."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany rodzinom z dziećmi. Dostępne są bezpłatne łóżeczka dziecięce oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, hotel posiada jeden sezonowy basen zewnętrzny z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach, w publicznych obszarach, a także w recepcji i barze."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie typu Bed&Breakfast (BB) - śniadanie w formie bufetu lub SelfCatering (SC) - bez wyżywienia. Nie ma opcji all inclusive."
+  }
+ ],
+ "address": "Pefkohori - 63085 Halkidiki - Greece",
+ "adultsOnly": false,
+ "airportKm": 95,
+ "airportName": "Lotnisko w Salonikach (SKG)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Wypożyczalnia rowerów",
+  "Sezonowy basen zewnętrzny",
+  "Plac zabaw dla dzieci",
+  "Łóżeczka dziecięce"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Chalkidiki",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "publiczna, piaszczysta lub piaszczysto-żwirowa",
+ "centerKm": 0.25,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1999,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z balkonem/tarasem, łazienką, telefonem, TV-SAT, aneksem kuchennym z lodówką i czajnikiem, klimatyzacją (płatną), wentylatorem sufitowym, suszarką do włosów",
+  "Pokój trzyosobowy z balkonem/tarasem, łazienką, telefonem, TV-SAT, aneksem kuchennym z lodówką i czajnikiem, klimatyzacją (płatną), wentylatorem sufitowym, suszarką do włosów",
+  "Studio (dla 2, 3 lub 4 osób) z balkonem/tarasem, łazienką, telefonem, TV-SAT, aneksem kuchennym z lodówką i czajnikiem, klimatyzacją (płatną), wentylatorem sufitowym, suszarką do włosów",
+  "Pokój rodzinny z balkonem/tarasem, łazienką, telefonem, TV-SAT, aneksem kuchennym z lodówką i czajnikiem, klimatyzacją (płatną), wentylatorem sufitowym, suszarką do włosów"
+ ],
+ "rooms": 27,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.9868894,
+  "lon": 23.6193278,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "escapetravel.mk",
+  "r.pl",
+  "ammongarden.com",
+  "tui.pl",
+  "aurinkomatkat.fi",
+  "wakacje.pl",
+  "tui.no"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,140 @@
+{
+ "id": "x:grecja:sea bird",
+ "slug": "sea-bird",
+ "name": "Sea Bird",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Mesongi i Moraitika"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/mesongi-a-moraitika/sea-bird-pl/1859/e1b155349500aaca15dc8eb3add33e2f_1-244.jpg",
+ "city": "Moraitika, Korfu",
+ "intro": [
+  "Hotel Sea Bird to trzygwiazdkowy obiekt położony w spokojniejszej części Moraitiki na greckiej wyspie Korfu. Został otwarty w 1985 roku, a ostatni remont przeszedł w 2009 roku, co zapewnia odnowione pokoje. Jest to hotel idealny dla rodzin i par szukających komfortowego wypoczynku blisko plaży i lokalnych atrakcji.",
+  "Obiekt oferuje 71 pokoi i charakteryzuje się przyjazną, rodzinną atmosferą. Goście doceniają jego dogodną lokalizację, która umożliwia łatwy dostęp do plaży oraz centrum miejscowości. Hotel Sea Bird to dobry wybór dla osób ceniących sobie spokój, ale jednocześnie chcących mieć blisko do rozrywki i usług."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sea Bird znajduje się w Moraitice na Korfu, w spokojniejszej części miejscowości. Do piaszczystej lub piaszczysto-żwirowej plaży Moraitika jest około 150-200 metrów, co zajmuje zaledwie 2 minuty spacerem. W pobliżu znajdują się również plaże Moraitika i Messonghi. Do centrum Moraitiki jest około 300 metrów, czyli 10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 71 pokojami, które zostały odnowione w 2009 roku. Oferowane są pokoje jedno-, dwu-, trzy- i czteroosobowe, a także pokoje rodzinne. Wszystkie pokoje wyposażone są w klimatyzację (może być dodatkowo płatna), prywatną łazienkę z wanną lub prysznicem, suszarkę do włosów, telewizor z kanałami satelitarnymi, sejf (może być dodatkowo płatny), balkon lub taras, lodówkę, czajnik elektryczny oraz bezpłatne kosmetyki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Sea Bird znajdują się dwie restauracje: \"Voula\", serwująca domowe greckie jedzenie w formie bufetu na kolację, oraz \"Paradise Bird\", oferująca kuchnię grecką na śniadanie i kolację. Codziennie rano serwowane jest śniadanie kontynentalne w formie bufetu, które jest wliczone w cenę pokoju. Do dyspozycji gości są również bar przy basenie, bar/lounge oraz snack bar/deli."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden sezonowy basen zewnętrzny. Dla dzieci przygotowano oddzielny basen oraz plac zabaw. Wśród dostępnych aktywności rekreacyjnych można wymienić bilard, tenis stołowy oraz wioślarstwo/kajakarstwo. W hotelu wspomniano o \"personelu rozrywkowym\", jednak brak szczegółowych informacji o animacjach."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach i w miejscach publicznych. Obiekt jest przyjazny rodzinom, co oznacza, że dzieci w każdym wieku są mile widziane. Brak informacji o dostępności spa, siłowni czy podgrzewanych basenów."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży i centrum miejscowości",
+  "Przyjazna, rodzinna atmosfera",
+  "Czyste i komfortowe, odnowione pokoje",
+  "Pomocny personel",
+  "Dostępne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Śniadanie bywa określane jako podstawowe",
+  "Hotel może być głośny",
+  "Brak windy",
+  "Klimatyzacja i sejf mogą być dodatkowo płatne",
+  "Brak aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sea Bird znajduje się około 150-200 metrów od piaszczystej lub piaszczysto-żwirowej plaży Moraitika, co zajmuje około 2 minuty spacerem."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Korfu (CFU-Ioannis Kapodistrias) oddalony jest od hotelu o około 14-20 km."
+  },
+  {
+   "q": "Czy hotel posiada basen dla dzieci?",
+   "a": "Tak, hotel posiada basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu Sea Bird."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, a dzieci w każdym wieku są dozwolone. Oferuje basen dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  }
+ ],
+ "address": "Moraitika, Korfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 17,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (CFU-Ioannis Kapodistrias)",
+ "amenities": [
+  "basen zewnętrzny",
+  "basen dla dzieci",
+  "plac zabaw",
+  "bilard",
+  "tenis stołowy",
+  "wioślarstwo/kajakarstwo",
+  "bar przy basenie",
+  "bar/lounge",
+  "snack bar/deli"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "spokojniejsza część Moraitiki",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta lub piaszczysto-żwirowa",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2009,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy",
+  "pokój trzyosobowy (z dodatkowym łóżkiem)",
+  "pokój czteroosobowy (z łóżkiem piętrowym dla dzieci)",
+  "pokój rodzinny"
+ ],
+ "rooms": 71,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.4826216,
+  "lon": 19.9284515,
+  "src": "osm"
+ },
+ "sources": [
+  "reserving.com",
+  "corfugreecehotels.com",
+  "olympicholidays.com",
+  "easyjet.com",
+  "seabirdhotel.gr",
+  "kartagotours.hu",
+  "hotels-corfu.com",
+  "h-rez.com"
+ ],
+ "updated": "2026-11-27"
+}

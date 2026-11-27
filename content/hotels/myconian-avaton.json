@@ -1,0 +1,138 @@
+{
+ "id": "x:grecja:myconian avaton",
+ "slug": "myconian-avaton",
+ "name": "Myconian Avaton",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Mykonos",
+  "Elia"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/recko/mykonos/elia/myconian-avaton-pl/1134/616_drzavaton_q1a7139-244.jpg",
+ "city": "Elia, Mykonos",
+ "intro": [
+  "Myconian Avaton to pięciogwiazdkowy hotel położony na malowniczym wzgórzu w miejscowości Elia na greckiej wyspie Mykonos. Obiekt oferuje luksusowe zakwaterowanie z panoramicznym widokiem na Morze Egejskie i piaszczystą plażę Elia. Hotel jest częścią prestiżowej Myconian Collection Hotels and Resorts, co gwarantuje wysoki standard usług i wyrafinowaną atmosferę.",
+  "Hotel jest idealnym wyborem dla par szukających romantycznego i spokojnego wypoczynku w luksusowym otoczeniu. Docenią go również wymagający goście ceniący prywatność, przestrzeń i doskonałą obsługę. Myconian Avaton jest również przystosowany dla rodzin, oferując udogodnienia i usługi opieki nad dziećmi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Myconian Avaton usytuowany jest na wzgórzu, około 400 metrów od długiej, piaszczystej plaży Elia. Obiekt oferuje bezpłatny transport do prywatnej części plaży, gdzie goście mogą korzystać z dedykowanych leżaków, parasoli i ręczników (za opłatą). Z hotelu roztaczają się piękne widoki na Morze Egejskie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 80 lub 85 pokojami, apartamentami i willami. Pokoje standardowe mają powierzchnię około 27-30 m². Wyposażenie obejmuje umeblowane balkony lub patia, bezpłatne Wi-Fi, telewizory z płaskim ekranem, minibar, klimatyzację, luksusowe kosmetyki łazienkowe oraz szlafroki i kapcie. Niektóre pokoje oferują zewnętrzne jacuzzi lub prywatny basen."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Panorama, serwująca kuchnię śródziemnomorską na lunch i kolację, oraz Avaton Restaurant, oferująca śniadania w formie bufetu z daniami kuchni włoskiej. Goście mogą również korzystać z dwóch barów: Kokkino Bar przy basenie oraz Shisu Bar. Hotel zapewnia bezpłatne śniadania."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen typu infinity z panoramicznym widokiem oraz sezonowy basen kryty. Na terenie obiektu znajduje się centrum Spa i Wellness (Sanctuary Spa), które oferuje masaże, zabiegi na twarz i ciało, baseny thalasso oraz podgrzewane baseny kryte. Do dyspozycji gości jest również siłownia. Osoby poniżej 18 roku życia nie mają wstępu do spa."
+  },
+  {
+   "title": "Udogodnienia i aktywności",
+   "text": "Dostępne są różnorodne aktywności, takie jak windsurfing, nurkowanie, kajakarstwo, piesze wycieczki, jazda konna i rowerowa. Hotel oferuje bezpłatne Wi-Fi w pokojach i miejscach publicznych. Na życzenie dostępna jest usługa opieki nad dziećmi (babysitting). Goście mogą również korzystać z udogodnień innych hoteli z kolekcji Myconian."
+  }
+ ],
+ "pros": [
+  "Piękne widoki, zwłaszcza z basenu infinity",
+  "Doskonała i uważna obsługa",
+  "Czyste i dobrze wyposażone pokoje",
+  "Smaczne jedzenie i spokojna atmosfera",
+  "Bezpłatny transport na prywatną część plaży i do miasta Mykonos"
+ ],
+ "cons": [
+  "Hotel położony jest poza centrum miasta Mykonos, choć oferuje transfer",
+  "Leżaki i ręczniki na plaży są dodatkowo płatne",
+  "Osoby poniżej 18 roku życia nie mają wstępu do spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 400 metrów pieszo od piaszczystej plaży Elia. Hotel oferuje bezpłatny transport do prywatnej części plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska i centrum miasta?",
+   "a": "Odległość od lotniska Mykonos (JMK) wynosi około 5 km, a od centrum miasta Mykonos około 10-12 km. Dojazd zajmuje około 20 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest przystosowany dla rodzin i oferuje usługi opieki nad dziećmi (babysitting) na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy leżaki na plaży są bezpłatne?",
+   "a": "Leżaki i ręczniki na prywatnej części plaży Elia są dostępne za opłatą."
+  }
+ ],
+ "address": "Elia Beach, Mykonos, Grecja 84600",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Mykonos (JMK)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Basen infinity",
+  "Basen kryty",
+  "Transfer lotniskowy (płatny)",
+  "Transfer do miasta Mykonos (bezpłatny)",
+  "Opieka nad dziećmi (na życzenie)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Elia",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 10,
+ "goodFor": [
+  "Pary",
+  "Romantyczny wypoczynek",
+  "Wymagający goście",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pure (pokój standardowy)",
+  "Temptation (pokój z widokiem na morze, jacuzzi lub prywatnym basenem)",
+  "Mystique (pokój z widokiem na morze, jacuzzi lub prywatnym basenem)",
+  "Wille (z 1, 2 lub 4 sypialniami, np. Apocalypsis Villa, Temptation in-house Villa)"
+ ],
+ "rooms": 80,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.4218284,
+  "lon": 25.3964335,
+  "src": "osm"
+ },
+ "sources": [
+  "travelweekly.com",
+  "onthebeach.co.uk",
+  "myconianavaton.gr",
+  "britishairways.com",
+  "reserve-online.net",
+  "hotelsofmykonos.com",
+  "hotels.com",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,148 @@
+{
+ "id": "x:grecja:amarilia",
+ "slug": "amarilia",
+ "name": "Amarilia",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Attyka",
+  "Vouliagmeni"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/attika/vouliagmeni/amarilia/8723/908c529af64c37ef76011abcb3dd3aa7_image17254371-244.jpg",
+ "city": "Vouliagmeni",
+ "intro": [
+  "Hotel Amarilia to czterogwiazdkowy obiekt położony w Vouliagmeni, ekskluzywnym przedmieściu Aten, na malowniczej Riwierze Ateńskiej. Jest to idealne miejsce dla osób szukających połączenia relaksu nad Morzem Egejskim z łatwym dostępem do atrakcji stolicy Grecji. Hotel oferuje komfortowe zakwaterowanie i szereg udogodnień, zapewniając przyjemny pobyt zarówno parom, jak i rodzinom.",
+  "Obiekt jest doskonałym wyborem dla podróżujących służbowo oraz turystów rekreacyjnych, którzy cenią sobie bliskość plaży oraz możliwość szybkiego dotarcia do centrum Aten. Dzięki odnowionym pokojom i apartamentom, a także dogodnej lokalizacji, Amarilia stanowi świetną bazę wypadową do odkrywania uroków Attyki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Amarilia znajduje się w Vouliagmeni, zaledwie 100-200 metrów od piaszczystej plaży Kavouri. Z niektórych pokoi roztacza się widok na Zatokę Sarońską. Plaża nie jest prywatna, a leżaki, parasole i ręczniki plażowe są dostępne za dodatkową opłatą od lokalnych dostawców."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 100 nowo wyremontowanymi pokojami i apartamentami, rozmieszczonymi na siedmiu piętrach. Standardowe wyposażenie obejmuje klimatyzację, balkon (w większości pokoi), telewizor z płaskim ekranem, mini-lodówkę, sejf, suszarkę do włosów, bezpłatne kosmetyki oraz zestaw do kawy i herbaty. Dostępne są różne typy pokoi, w tym rodzinne i apartamenty z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Artemis, serwująca śniadania, obiady i kolacje z kuchnią grecką i międzynarodową, oraz Allegro, oferująca dania śródziemnomorskie na kolację. Goście mogą korzystać z opcji Bed and Breakfast lub Half Board. Dodatkowo, hotel posiada całodzienny Blu Bar oraz bar przy basenie z przekąskami i napojami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden sezonowy odkryty basen, czynny zazwyczaj od maja do października. Hotel oferuje również siłownię/centrum fitness oraz masaże i zabiegi wellness za dodatkową opłatą. W pobliżu dostępne są korty tenisowe, wypożyczalnia rowerów i sporty wodne."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Amarilia jest polecany dla par, podróżujących służbowo i rekreacyjnie, a także dla rodzin. Dzięki pokojom rodzinnym i dostępności łóżeczek dla niemowląt, jest to obiekt przyjazny rodzinom. Idealny dla osób, które pragną połączyć wypoczynek nad morzem z łatwym dostępem do atrakcji Aten."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko piaszczystej plaży",
+  "Bardzo dobre i urozmaicone śniadanie w formie bufetu",
+  "Pomocna i uprzejma obsługa",
+  "Czystość w całym hotelu",
+  "Bezpłatne WiFi w pokojach i na terenie hotelu"
+ ],
+ "cons": [
+  "Małe łazienki lub prysznice",
+  "Brak wielu sklepów w bezpośredniej bliskości",
+  "Basen bywa zimny",
+  "Sporadyczny hałas z mini-lodówki w pokojach",
+  "Ograniczony parking uliczny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Amarilia od plaży?",
+   "a": "Hotel Amarilia znajduje się zaledwie 100-200 metrów od piaszczystej plaży Kavouri."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Atenach \"Eleftherios Venizelos\" (ATH), oddalone o około 19.5 km do 21.16 km, co stanowi 25-33 minuty jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dysponuje jednym sezonowym odkrytym basenem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokoje rodzinne oraz łóżeczka dla niemowląt na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w całym hotelu i w pokojach dostępne jest bezpłatne WiFi."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel oferuje opcje wyżywienia Bed and Breakfast (BB) lub Half Board (HB)."
+  },
+  {
+   "q": "Czy hotel posiada siłownię?",
+   "a": "Tak, w hotelu dostępna jest siłownia/centrum fitness."
+  },
+  {
+   "q": "Czy plaża przy hotelu jest prywatna?",
+   "a": "Nie, plaża Kavouri nie jest prywatną plażą hotelową. Leżaki i parasole są dostępne za dodatkową opłatą od lokalnych dostawców."
+  }
+ ],
+ "address": "Agiou Nikolaou 13, 16671 Vouliagmeni, Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 19.5,
+ "airportName": "Międzynarodowe Lotnisko w Atenach \"Eleftherios Venizelos\" (ATH)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wypożyczalnia rowerów",
+  "Masaże i zabiegi wellness"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Riwiera Ateńska",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 1.9,
+ "goodFor": [
+  "pary",
+  "podróżujący służbowo",
+  "rekreacyjnie",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1989,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 2,
+ "roomTypes": [
+  "Classic Double/Twin Room (widok na basen, częściowy widok na morze, widok na okolicę)",
+  "Double Room with Extra Bed",
+  "Superior Double/Twin Room (widok na morze)",
+  "Family Room (dwie połączone sypialnie)",
+  "Junior Suite",
+  "Suite",
+  "Senior Suite (dwie sypialnie, widok na morze)",
+  "Executive Suite (widok na morze)"
+ ],
+ "rooms": 100,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.8278176,
+  "lon": 23.7719138,
+  "src": "osm"
+ },
+ "sources": [
+  "amarilia.gr",
+  "retreatsandvenues.com",
+  "asklepieiahealth.com",
+  "grhotels.gr",
+  "trivago.com",
+  "atticatophotels.com",
+  "thomascook.com",
+  "travelweekly.com"
+ ],
+ "updated": "2026-11-27"
+}

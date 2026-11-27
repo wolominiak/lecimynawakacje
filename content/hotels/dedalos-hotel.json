@@ -1,0 +1,142 @@
+{
+ "id": "x:grecja:dedalos hotel",
+ "slug": "dedalos-hotel",
+ "name": "Dedalos Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Malia"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/malia/dedalos-hotel-pl/8970/3b6015bd621f9c4c80b679cb9b0566c8_1-244.jpg",
+ "city": "Malia",
+ "intro": [
+  "Dedalos Hotel to trzygwiazdkowy obiekt położony w miejscowości Malia na Krecie, w Grecji. Znajduje się na spokojnej bocznej uliczce, co zapewnia ciszę, jednocześnie będąc blisko głównej drogi i centrum miasta. Hotel otoczony jest bujnymi ogrodami z palmami, co tworzy przyjemną atmosferę.",
+  "Obiekt jest polecany dla osób szukających komfortowego zakwaterowania blisko plaży, dla rodzin z dziećmi ze względu na dostępne udogodnienia, a także dla tych, którzy cenią sobie spokojny wypoczynek z łatwym dostępem do atrakcji Malii. Hotel został otwarty w 1986 roku, a ostatni remont pokoi i części wspólnych miał miejsce w 2018 roku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Dedalos znajduje się w Malii na Krecie, około 150-450 metrów od centrum miejscowości. Do plaży Malia Beach jest około 200 metrów, choć inne źródła podają odległość około 1 km od Central Malia Beach. Plaża jest publiczna, piaszczysta lub piaszczysto-żwirowa, a leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 61 lub 62 pokoje, w tym jedno-, dwu- i trzyosobowe, studia oraz apartamenty z jedną sypialnią. Wszystkie pokoje wyposażone są w klimatyzację, TV-SAT, telefon, mini-bar lub lodówkę, sejf (często bezpłatny) oraz prywatną łazienkę z wanną lub prysznicem. Większość pokoi posiada balkon lub taras, a niektóre mają aneks kuchenny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się sezonowy odkryty basen ze słodką wodą. Dostępny jest również oddzielny brodzik dla dzieci. Hotel oferuje możliwość skorzystania z masaży i pakietów wellness za dodatkową opłatą. Na plaży dostępne są płatne sporty wodne, a w okolicy można uprawiać snorkeling i nurkowanie."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu Dedalos działa jedna restauracja à la carte, która serwuje dania kuchni greckiej, śródziemnomorskiej i międzynarodowej. Przy basenie znajduje się bar, gdzie można zamówić przekąski, śniadania oraz napoje. Hotel oferuje śniadania, brak jest informacji o opcji all inclusive."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne w całym obiekcie oraz w pokojach. Na terenie hotelu znajduje się również bujny ogród z palmami. Obiekt nie jest przeznaczony wyłącznie dla dorosłych, posiada udogodnienia dla dzieci."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja blisko centrum i plaży",
+  "Czyste pokoje i zadbany teren",
+  "Miła i pomocna obsługa",
+  "Bezpłatne Wi-Fi i klimatyzacja",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Plaża publiczna z płatnymi leżakami",
+  "Basen bywa zimny (wg jednej opinii)",
+  "Brak zasłony pod prysznicem (wg jednej opinii)",
+  "Leżaki przy basenie wymagające wymiany (wg jednej opinii)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Dedalos jest położony około 200 metrów od Malia Beach. Inne źródła podają odległość około 1 km od Central Malia Beach."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Heraklionie (HER), oddalone o około 25-33 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada oddzielny brodzik dla dzieci i nie jest obiektem wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Hotel oferuje śniadania."
+  }
+ ],
+ "address": "Odissea Eliti 11, Malia, Crete, 70007",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Międzynarodowe Lotnisko w Heraklionie (HER)",
+ "amenities": [
+  "sezonowy odkryty basen ze słodką wodą",
+  "brodzik dla dzieci",
+  "masaże (płatne)",
+  "pakiety wellness (płatne)",
+  "sporty wodne na plaży (płatne)",
+  "snorkeling",
+  "nurkowanie"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "spokojna boczna uliczka niedaleko głównej drogi i \"Strip\" Malii",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta, piaszczysto-skalista lub piaszczysto-żwirowa",
+ "centerKm": 0.3,
+ "goodFor": [
+  "osoby szukające komfortowego zakwaterowania blisko plaży",
+  "rodziny z dziećmi",
+  "osoby chcące zwiedzać okolicę",
+  "osoby ceniące spokojną atmosferę z bliskością centrum"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1986,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy",
+  "pokój trzyosobowy",
+  "studio dwuosobowe (z aneksem kuchennym)",
+  "studio trzyosobowe (z aneksem kuchennym)",
+  "apartament z jedną sypialnią dla pięciu osób (z aneksem kuchennym)",
+  "pokój standardowy",
+  "pokój superior (nowoczesna łazienka z prysznicem walk-in)"
+ ],
+ "rooms": 61,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.2861151,
+  "lon": 25.459804,
+  "src": "osm"
+ },
+ "sources": [
+  "dedaloshotel.com",
+  "reserve-online.net",
+  "coraltravel.pl",
+  "jet2holidays.com",
+  "wakacje.pl",
+  "travelplanet.pl",
+  "vakantiediscounter.nl",
+  "wakacyjnyagent.pl"
+ ],
+ "updated": "2026-11-27"
+}

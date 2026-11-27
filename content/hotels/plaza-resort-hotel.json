@@ -1,0 +1,143 @@
+{
+ "id": "x:grecja:plaza resort hotel",
+ "slug": "plaza-resort-hotel",
+ "name": "Plaza Resort Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Attyka",
+  "Anavissos"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/recko/attika/anavissos/plaza-resort-hotel/1495/41e4b8713edb51453b9c99f4c0db996c_plaza_resort8-244.jpg",
+ "city": "Anavyssos",
+ "intro": [
+  "Plaza Resort Hotel to pięciogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Anavyssos Beach, w malowniczej Zatoce Sarońskiej, na Riwierze Ateńskiej. Hotel, otwarty w 2004 roku i odnowiony w 2018, oferuje komfortowe warunki dla par, rodzin oraz osób podróżujących służbowo, ceniących sobie spokój i bliskość morza.",
+  "Obiekt jest doskonałą bazą wypadową do zwiedzania Aten i okolic, jednocześnie zapewniając dostęp do szerokiej gamy aktywności wodnych i lądowych. Zapewnia relaksującą atmosferę z udogodnieniami takimi jak spa, siłownia i różnorodne opcje gastronomiczne."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Plaza Resort znajduje się w miejscowości Anavyssos, około 1 km od jej centrum i 30 km od lotniska w Atenach. Jest usytuowany bezpośrednio przy piaszczystej plaży Anavyssos Beach, oferując prywatną strefę z bezpłatnymi leżakami, parasolami i ręcznikami plażowymi. Z hotelu roztacza się widok na Zatokę Sarońską."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 133 pokojami, w tym typami Comfort (z widokiem na miasto/ogród) oraz Exclusive (z widokiem na morze). Wszystkie pokoje są wyposażone w klimatyzację, minibar, telewizor z płaskim ekranem, sejf, bezpłatne Wi-Fi, łazienkę z prysznicem/wanną, suszarkę do włosów, szlafroki, kapcie oraz balkon lub patio."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: główna restauracja \"Ivory\" serwująca bufet śródziemnomorski/grecki oraz \"Blue Gourmet\" z wykwintną kuchnią śródziemnomorską. Dostępna jest również restauracja przy plaży. Goście mogą korzystać z baru przy basenie \"Ocean Pool Bar\" oraz głównego baru \"Au Bar\". Hotel oferuje opcje wyżywienia takie jak nocleg ze śniadaniem, półpensjonat i pełne wyżywienie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt posiada jeden odkryty basen o długości 25 metrów oraz basen kryty. Na terenie hotelu znajduje się centrum spa z masażami i zabiegami, a także siłownia. Aktywni goście mogą korzystać z kortu tenisowego, boiska do mini piłki nożnej, sportów wodnych na plaży oraz wypożyczalni rowerów."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz programy dla dzieci. Wieczorami organizowane są greckie animacje, takie jak występy muzyczne, które mogą być atrakcją również dla rodzin."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Czysty basen i plaża z bezpłatnymi leżakami i parasolami",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadania w formie bufetu",
+  "Przestronne i czyste pokoje"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą wymagać renowacji",
+  "Jakość Wi-Fi bywa zmienna",
+  "Sporadyczne problemy z dostępnością taksówek"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Plaza Resort jest położony bezpośrednio przy piaszczystej plaży Anavyssos Beach i posiada prywatną strefę plażową."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowe Lotnisko w Atenach \"Eleftherios Venizelos\" (ATH) znajduje się około 30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach w hotelu Plaza Resort."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje plac zabaw dla dzieci oraz programy animacyjne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  },
+  {
+   "q": "Jakie opcje wyżywienia oferuje hotel?",
+   "a": "Hotel oferuje wyżywienie w opcjach: nocleg ze śniadaniem (bezpłatny bufet), półpensjonat i pełne wyżywienie. Nie ma pakietu all inclusive."
+  }
+ ],
+ "address": "52nd km Athens - Sounion Ave, Anavyssos Beach, Palea Fokea, 19013, Anavyssos, Attiki, Grecja",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Ateny \"Eleftherios Venizelos\" (ATH)",
+ "amenities": [
+  "Prywatna plaża",
+  "Bezpłatne leżaki i parasole",
+  "Ręczniki plażowe",
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Boisko do mini piłki nożnej",
+  "Sporty wodne",
+  "Wypożyczalnia rowerów",
+  "Plac zabaw dla dzieci",
+  "Programy dla dzieci",
+  "Animacje wieczorne",
+  "Biblioteka"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Riwiera Ateńska",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Podróżujący służbowo",
+  "Miłośnicy plaży",
+  "Miłośnicy sportów wodnych",
+  "Zwiedzający Riwierę Ateńską"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2004,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 3,
+ "roomTypes": [
+  "Comfort Single/Double/Triple/Family City View (widok na miasto/ogród, klimatyzacja, minibar, TV, sejf, telefon, Wi-Fi, łazienka z prysznicem/wanną, suszarka, lusterko, szlafroki, kapcie, kosmetyki, dźwiękoszczelne okna, balkon/patio)",
+  "Exclusive Single/Double/Triple/Family Sea View (widok na morze, klimatyzacja, minibar, TV, sejf, telefon, Wi-Fi, łazienka z prysznicem/wanną, suszarka, lusterko, szlafroki, kapcie, kosmetyki, dźwiękoszczelne okna, balkon/patio)"
+ ],
+ "rooms": 133,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.7237325,
+  "lon": 23.9444113,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "agoda.com",
+  "reserve-online.net",
+  "hotelsofgreece.com",
+  "holidaycheck.de",
+  "trivago.com",
+  "onthebeach.co.uk",
+  "travelmyth.co.uk"
+ ],
+ "updated": "2026-11-27"
+}
