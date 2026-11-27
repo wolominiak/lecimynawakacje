@@ -1,0 +1,132 @@
+{
+ "id": 10509,
+ "slug": "perla-golden-sands",
+ "name": "Perla (Golden Sands)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/perla-golden-sands-obiekt-1435365564-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Perla w Złotych Piaskach to obiekt o standardzie 3 gwiazdek, położony w spokojnej części bułgarskiego kurortu, w otoczeniu naturalnego parku. Jest to idealne miejsce dla osób poszukujących relaksu w zielonej scenerii, a jednocześnie blisko centrum miejscowości.",
+  "Hotel jest rekomendowany dla rodzin z dziećmi, par oraz grup przyjaciół. Oferuje udogodnienia dla najmłodszych, a także programy rozrywkowe, co sprawia, że jest odpowiedni dla różnorodnych grup gości, ceniących sobie zarówno spokój, jak i możliwość aktywnego spędzania czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Perla znajduje się w Złotych Piaskach, około 400-500 metrów od piaszczystej plaży z łagodnym zejściem do morza, wyróżnionej certyfikatem Błękitnej Flagi. Jest to plaża publiczna, gdzie leżaki i parasole są dostępne za dodatkową opłatą. Obiekt jest usytuowany w odległości około 400-550 metrów od centrum miejscowości."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 232 pokojami, w tym pokojami dwuosobowymi (standard, best price, superior) oraz rodzinnymi. Wszystkie pokoje wyposażone są w klimatyzację, łazienkę z prysznicem (niektóre z wanną), telefon, mini lodówkę/minibar, telewizor z telewizją kablową/satelitarną oraz balkon. Pokoje rodzinne mogą składać się z dwóch oddzielnych pomieszczeń z drzwiami łączącymi i własnymi łazienkami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna z tarasem i ogrodem, serwująca dania kuchni bułgarskiej i międzynarodowej. Dostępne są również lobby bar (czynny 24 godziny) oraz bar przy basenie. Program All Inclusive obejmuje śniadania, obiady, kolacje w formie bufetu oraz przekąski. Lokalne napoje bezalkoholowe i alkoholowe są dostępne w barze głównej restauracji w określonych godzinach, natomiast napoje w lobby barze i barze przy basenie są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen z wydzieloną częścią dla dzieci. Na terenie obiektu znajduje się centrum SPA z masażami, sauną i jacuzzi, a także zewnętrzna siłownia. Dla rozrywki gości organizowane są wieczorne programy rozrywkowe, w tym muzyka na żywo i pokazy folklorystyczne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz mini klub z animatorem, dostępny za dodatkową opłatą. Wydzielona część basenu dla dzieci zapewnia bezpieczną zabawę w wodzie."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja w otoczeniu zieleni",
+  "Przyjazny personel",
+  "Czysty basen",
+  "Codzienne sprzątanie pokoi",
+  "Dobra lokalizacja blisko centrum"
+ ],
+ "cons": [
+  "Dłuższy spacer do plaży (około 15 minut)",
+  "Ograniczony wybór i jakość jedzenia w opcji All Inclusive",
+  "Problemy z ciśnieniem ciepłej wody na wyższych piętrach",
+  "Brak gniazdek przy łóżku",
+  "Brak dostosowania dla osób niepełnosprawnych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Perla od plaży?",
+   "a": "Hotel Perla jest położony około 400-500 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel Perla posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu Perla nie ma aquaparku ani zjeżdżalni. W pobliżu (0.7 km - 8.5 km) znajduje się Aquapolis Golden Sands."
+  },
+  {
+   "q": "Czy hotel Perla jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Perla jest przyjazny rodzinom i oferuje plac zabaw, mini klub dla dzieci (za dodatkową opłatą) oraz wydzieloną część basenu dla dzieci."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu Perla i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Lotnisko Varna (VAR), oddalone o około 25 km od hotelu Perla."
+  },
+  {
+   "q": "Czy w hotelu Perla jest dostępny internet Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby, pokojach, restauracji i przy basenie."
+  },
+  {
+   "q": "Co obejmuje opcja All Inclusive w hotelu Perla?",
+   "a": "All Inclusive obejmuje śniadania, obiady, kolacje w formie bufetu, przekąski oraz lokalne napoje bezalkoholowe i alkoholowe w barze głównej restauracji w określonych godzinach. Napoje w lobby barze i barze przy basenie są dodatkowo płatne."
+  }
+ ],
+ "address": "Golden Sands 9007, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Lotnisko Varna (VAR)",
+ "amenities": [
+  "centrum SPA",
+  "siłownia zewnętrzna",
+  "tenis stołowy (płatny)",
+  "bilard (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "spokojna część kurortu, otoczony naturalnym parkiem",
+ "bars": 2,
+ "beachDistanceM": 450,
+ "beachType": "piaszczysta z łagodnym zejściem do morza",
+ "centerKm": 0.475,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (standard, best price, superior) z klimatyzacją, łazienką z prysznicem (niektóre z wanną), telefonem, mini lodówką/minibarem, telewizorem (z telewizją kablową/satelitarną) i balkonem",
+  "pokój rodzinny (dwa oddzielne pomieszczenia z drzwiami łączącymi i własnymi łazienkami) z klimatyzacją, łazienką z prysznicem (niektóre z wanną), telefonem, mini lodówką/minibarem, telewizorem (z telewizją kablową/satelitarną) i balkonem"
+ ],
+ "rooms": 232,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.8597518,
+  "lon": 18.4358689,
+  "src": "osm"
+ },
+ "sources": [
+  "parkhotelperla.com",
+  "momondo.com",
+  "urlopbg.com",
+  "noy.travel",
+  "bulgaria-hotels.com",
+  "reserving.com",
+  "booking.com",
+  "sunshine.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,135 @@
+{
+ "id": 6187,
+ "slug": "laguna-mare",
+ "name": "Laguna Mare",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/laguna-mare-budynek-glowny-1620072224-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Hotel Laguna Mare to siedmiopiętrowy obiekt położony w samym sercu kurortu Albena, w prowincji Warna, zaledwie 50-100 metrów od piaszczystej plaży. Jego centralna lokalizacja zapewnia łatwy dostęp do ulicy handlowej, ogrodu różanego i centrum tenisowego.",
+  "Obiekt jest szczególnie polecany dla rodzin, oferując szereg udogodnień i programów animacyjnych dla dzieci i dorosłych. Goście mogą korzystać z formuły All Inclusive oraz bliskości Aquaparku Aquamania."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Laguna Mare znajduje się w centrum Albeny, około 100-160 metrów od ścisłego centrum miejscowości i 150 metrów od ulicy handlowej. Piaszczysta plaża z certyfikatem Błękitnej Flagi oddalona jest o 50-100 metrów. Dno morskie jest płaskie z łagodnym zejściem. Goście mają zapewniony jeden parasol i dwa leżaki na pokój zarówno przy basenie, jak i na plaży (od 3. linii). Ręczniki plażowe i materace są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 155 pokoi dwuosobowych (niektóre z łóżkami piętrowymi lub rozkładaną sofą), pokoje jednoosobowe oraz studia (niektóre z aneksem kuchennym). Wszystkie pokoje są klimatyzowane i wyposażone w telewizję satelitarną, minibar, prywatny balkon oraz łazienkę z wanną lub prysznicem. Lodówka i sejf są dostępne do wynajęcia w recepcji za dodatkową opłatą, a łóżeczko dziecięce na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja z ogrodem, oferująca wieczory tematyczne, oraz lobby bar. Dostępny jest również snack bar. Program All Inclusive obejmuje posiłki, szeroki wybór napojów (kawa, herbata, napoje bezalkoholowe, lokalne wino, brandy, alkohole, piwo z beczki) oraz lody dostępne podczas posiłków w głównej restauracji i w snack barze. Goście otrzymują drink powitalny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym basenem zewnętrznym oraz brodzikiem dla dzieci. Goście mają dostęp do Aquaparku Aquamania, oddalonego o około 11-12 minut spacerem. Programy animacyjne organizowane są sześć dni w tygodniu dla dorosłych i dzieci. W pobliżu hotelu dostępne są różnorodne aktywności sportowe, w tym sporty wodne, siatkówka plażowa, tenis, bilard, jazda konna i joga. Dostępne są usługi masażu, a w odległości 100 m znajduje się centrum spa Medica."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje brodzik oraz mini klub. Sześć dni w tygodniu organizowane są programy animacyjne dedykowane dzieciom. Dostępność łóżeczek dziecięcych na życzenie oraz bliskość Aquaparku Aquamania sprawiają, że hotel jest odpowiedni dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Dostęp do basenu i plaży z bezpłatnymi leżakami i parasolami (od 3. linii)",
+  "Pokoje z balkonami i klimatyzacją",
+  "Programy animacyjne dla dzieci i dorosłych",
+  "Bliskość Aquaparku Aquamania"
+ ],
+ "cons": [
+  "Hotel może wydawać się przestarzały i zaniedbany",
+  "Problemy z czystością i stanem łazienek",
+  "Jedzenie bywa oceniane jako przeciętne i mało zróżnicowane",
+  "Ograniczony wybór w barze",
+  "Płatny parking",
+  "Może nie być odpowiedni dla osób z niepełnosprawnościami"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Laguna Mare znajduje się około 50 do 100 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Warna (VAR), oddalony o około 40-45 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnego aquaparku, ale goście mają dostęp do Aquaparku Aquamania, oddalonego o około 11-12 minut spacerem. Hotel dysponuje brodzikiem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest najbardziej polecany dla rodzin. Oferuje brodzik, mini klub dla dzieci oraz programy animacyjne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych (recepcja, lobby bar, basen) oraz na plaży."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany dla rodzin."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Port Lotniczy Warna (VAR)",
+ "amenities": [
+  "klimatyzacja",
+  "telewizja satelitarna",
+  "minibar",
+  "balkon",
+  "łazienka z wanną lub prysznicem",
+  "drink powitalny"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum kurortu Albena",
+ "bars": 2,
+ "beachDistanceM": 75,
+ "beachType": "piaszczysta",
+ "centerKm": 0.13,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1980,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2001,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (niektóre z łóżkami piętrowymi lub rozkładaną sofą)",
+  "pokój jednoosobowy",
+  "studio (niektóre z aneksem kuchennym)"
+ ],
+ "rooms": 155,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3661075,
+  "lon": 28.079575,
+  "src": "osm"
+ },
+ "sources": [
+  "albena.bg",
+  "directbooking.ro",
+  "rooms.bg",
+  "skyscanner.gg",
+  "hotels.com",
+  "multitour.ru",
+  "booking.com",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}

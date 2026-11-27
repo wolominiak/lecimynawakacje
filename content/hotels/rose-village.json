@@ -1,0 +1,126 @@
+{
+ "id": 18676,
+ "slug": "rose-village",
+ "name": "Rose Village",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/rose-village-basen-teren-hotelu-1479250289-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Rose Village to trzygwiazdkowy obiekt położony w południowej części Słonecznego Brzegu w Bułgarii. Składa się z trzech sześciopiętrowych budynków i oferuje spokojny wypoczynek, szczególnie polecany dla rodzin z dziećmi. Ostatni remont części wspólnych miał miejsce w 2023 roku.",
+  "Obiekt znajduje się w odległości krótkiego spaceru od piaszczystej plaży z łagodnym zejściem do morza. Dogodna lokalizacja pozwala na łatwy dostęp do centrum Słonecznego Brzegu oraz zabytkowego Nesebyru, co czyni go dobrą bazą wypadową do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Rose Village jest usytuowany około 150-200 metrów od publicznej, piaszczystej plaży, do której można dojść w 5-7 minut. Plaża charakteryzuje się płaskim dnem morskim i łagodnym dostępem do wody. Na plaży dostępne są leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia oraz apartamenty z jedną lub dwiema sypialniami. Wszystkie pokoje są klimatyzowane i wyposażone w aneks kuchenny z pełnym wyposażeniem, łazienkę z prysznicem, telewizor, telefon, sejf oraz żelazko z deską do prasowania. Większość pokoi posiada balkon lub patio z meblami ogrodowymi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja, w tym restauracja Vicky, serwująca dania kuchni bułgarskiej, śródziemnomorskiej oraz specjały z grilla. Do dyspozycji gości są również bar i bar przy basenie. Hotel oferuje pakiety All Inclusive, jednak szczegóły ich zakresu nie zostały podane."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "W kompleksie dostępne są dwa sezonowe baseny zewnętrzne. Jeden z nich posiada wydzieloną strefę dla dzieci, połączoną z głównym basenem. Dla najmłodszych gości przygotowano również plac zabaw. Na terenie całego obiektu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży",
+  "Przestronne apartamenty z aneksami kuchennymi",
+  "Przyjazna atmosfera dla rodzin",
+  "Codzienne sprzątanie i zmiana pościeli",
+  "Pomocny personel"
+ ],
+ "cons": [
+  "Częste rezerwowanie leżaków przy basenie",
+  "Hałas mew wcześnie rano",
+  "Brak informacji o zjeżdżalniach/aquaparku",
+  "Brak informacji o spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Rose Village od plaży?",
+   "a": "Hotel Rose Village jest oddalony od plaży o około 150-200 metrów, co zajmuje 5-7 minut spacerem."
+  },
+  {
+   "q": "Czy hotel Rose Village jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalone o około 20-27 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Rose Village jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Dostępne są dwa baseny zewnętrzne, w tym jeden ze strefą dla dzieci."
+  },
+  {
+   "q": "Czy hotel Rose Village jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Rose Village jest polecany dla rodzin. Posiada wydzieloną strefę dla dzieci w basenie oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu Rose Village jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu oraz w pokojach dostępny jest bezpłatny bezprzewodowy internet (Wi-Fi)."
+  },
+  {
+   "q": "Jaka jest odległość od centrum Słonecznego Brzegu?",
+   "a": "Hotel znajduje się około 2-2.8 km od centrum Słonecznego Brzegu, co jest w zasięgu 15-minutowego spaceru."
+  }
+ ],
+ "address": "FREGATA, 6, Słoneczny Brzeg, Burgas, 8240",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Balkon/patio w większości pokoi",
+  "Plac zabaw dla dzieci",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "południowa część Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2007,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, łazienką, TV, telefonem, sejfem, czajnikiem, żelazkiem",
+  "Apartament z jedną sypialnią, aneksem kuchennym, łazienką, TV, telefonem, sejfem, czajnikiem, żelazkiem",
+  "Apartament z dwiema sypialniami, aneksem kuchennym, łazienką, TV, telefonem, sejfem, czajnikiem, żelazkiem"
+ ],
+ "rooms": 47,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6698788,
+  "lon": 27.7064118,
+  "src": "osm"
+ },
+ "sources": [
+  "directbooking.ro",
+  "bulgarianproperties.com",
+  "bolgariadom.com",
+  "expedia.co.uk",
+  "hoteles.com",
+  "hotelplanner.com",
+  "trivago.co.uk",
+  "gotoburgas.com"
+ ],
+ "updated": "2026-11-27"
+}

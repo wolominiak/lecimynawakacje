@@ -1,0 +1,137 @@
+{
+ "id": 16192,
+ "slug": "ihot-l",
+ "name": "iHot@l",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/ihot-l-budynek-glowny-obiekt-1815686686-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "iHot@l to czterogwiazdkowy obiekt położony w zielonej i spokojnej części Słonecznego Brzegu w Bułgarii, zaledwie 100 metrów od piaszczystej plaży. Hotel, otwarty ponownie w 2017 roku po gruntownym remoncie, oferuje nowoczesne udogodnienia i stylowo urządzone pokoje.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par oraz grup przyjaciół, którzy szukają komfortowego wypoczynku z dostępem do szerokiej gamy atrakcji, zarówno na terenie obiektu, jak i w pobliskim centrum rozrywkowym kurortu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel iHot@l znajduje się w Słonecznym Brzegu, w spokojnej, zielonej części, jednocześnie blisko centrum rozrywkowego. Piaszczysta plaża oddalona jest o około 100 metrów. W pobliżu plaży dostępne są liczne bary i restauracje."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 227 stylowo urządzonymi pokojami, w tym dwuosobowymi, rodzinnymi oraz jednoosobowymi. Wszystkie pokoje są wyposażone w Smart TV, klimatyzację, bezpłatne Wi-Fi, sejf, łazienkę z prysznicem i balkon (większość)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z głównej restauracji bufetowej \"Saffron\", oferującej dania kuchni międzynarodowej i bufety tematyczne. Dostępna jest również restauracja a la carte (rybna, francuska, włoska) oraz kącik z pizzą i przekąskami. Hotel posiada lobby bar i bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen sezonowy oraz podgrzewany basen kryty. Dla dzieci przygotowano mini aquapark, brodzik i plac zabaw. Na terenie obiektu znajduje się również pełne centrum spa z sauną i łaźnią turecką, dobrze wyposażona siłownia oraz boisko do siatkówki. Dostępne są zajęcia takie jak joga, Tai Chi, pilates, salsa i zumba."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini aquapark, brodzik, plac zabaw oraz bezpłatny klub dla dzieci (iHappyKids club) z zajęciami dla grup wiekowych 3-6 i 7-12 lat. Codziennie odbywają się programy animacyjne dla dzieci."
+  }
+ ],
+ "pros": [
+  "Czystość hotelu i pokoi",
+  "Smaczne i urozmaicone jedzenie",
+  "Bogata oferta zajęć dla dzieci",
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Nowoczesne technologie (smart TV, mobilny klucz)"
+ ],
+ "cons": [
+  "Ograniczona liczba miejsc parkingowych (dodatkowe opłaty)",
+  "Sporadyczne problemy personelu z komunikacją w języku angielskim",
+  "Basen bywa zatłoczony, szczególnie przez dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 100 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada mini aquapark dla dzieci przy basenie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin, oferując mini klub, brodzik, plac zabaw i animacje dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas, oddalone o około 28-30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne, szybkie Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w ogólnodostępnych obszarach."
+  },
+  {
+   "q": "Czy hotel posiada basen podgrzewany?",
+   "a": "Tak, hotel oferuje kryty basen, który jest podgrzewany."
+  }
+ ],
+ "address": "8240 Slanchev Bryag, Sunny Beach, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Lotnisko Burgas",
+ "amenities": [
+  "Smart TV",
+  "Klimatyzacja",
+  "Porty USB",
+  "Sejf",
+  "Telefon",
+  "Mini-lodówka/mini-bar",
+  "Czajnik",
+  "Suszarka do włosów",
+  "Butelka wody na powitanie"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "W najbardziej zielonej i spokojnej części kurortu, blisko centrum rozrywkowego",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2017,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe/typu twin (z możliwością dostawki)",
+  "Pokoje rodzinne (z łóżkiem piętrowym)",
+  "Pokoje rodzinne Deluxe",
+  "Pokoje jednoosobowe"
+ ],
+ "rooms": 227,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.704149,
+  "lon": 27.7198729,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "onthebeach.co.uk",
+  "kayak.ie",
+  "travelgay.com",
+  "myihotel.com",
+  "booking.com",
+  "h-rez.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,142 @@
+{
+ "id": 6135,
+ "slug": "madara",
+ "name": "Madara",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/madara-basen-teren-hotelu-obiekt-1017373439-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Madara, znany również jako Madara Park Hotel, to czterogwiazdkowy obiekt położony w centralnej części popularnego bułgarskiego kurortu Złote Piaski. Otoczony rozległą zielenią, oferuje spokojny wypoczynek w bliskiej odległości od piaszczystej plaży i centrum miejscowości.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par, które cenią sobie komfortowe zakwaterowanie, urozmaiconą kuchnię i dostęp do licznych udogodnień. Dzięki programowi animacyjnemu i mini klubowi, hotel zapewnia rozrywkę dla gości w każdym wieku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Madara znajduje się w Złotych Piaskach, około 300-450 metrów od piaszczystej plaży z łagodnym wejściem do wody, która została wyróżniona Błękitną Flagą. Obiekt nie posiada prywatnego odcinka plaży, jednak leżaki i parasole są dostępne przy basenach hotelowych. Centrum miejscowości oddalone jest o około 300-350 metrów, a lotnisko w Warnie o 18-26 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 240-242 jednostki zakwaterowania, w tym pokoje jednoosobowe, dwuosobowe ekonomiczne i Superior, pokoje rodzinne, Junior Suity oraz apartamenty. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor, telefon, minibar, łazienkę z prysznicem oraz balkon z meblami. Sejf w pokoju jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z restauracji głównej serwującej posiłki w formie bufetu oraz Pizza Corner. Do dyspozycji są również Lobby Bar i Sailor's Bar przy basenie. Pakiet obejmuje śniadania, obiady, kolacje, a także przekąski, lody oraz lokalne napoje alkoholowe i bezalkoholowe. Napoje importowane i butelkowane są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje basenem zewnętrznym z wydzieloną sekcją dla dzieci oraz basenem krytym, podgrzewanym sezonowo. Na terenie obiektu znajduje się plac zabaw, mini klub dla dzieci oraz sprzęt fitness na świeżym powietrzu. Dostępne są również boiska do siatkówki, koszykówki i mini piłki nożnej, a także bilard, tenis stołowy i szachy ogrodowe. Program animacyjny dla dzieci i dorosłych odbywa się 6 dni w tygodniu w sezonie letnim."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje centrum relaksu z sauną, gabinetami masażu oraz salonem fryzjerskim/kosmetycznym. Na terenie całego obiektu oraz w pokojach dostępne jest bezpłatne Wi-Fi o prędkości powyżej 25 Mbps. Hotel został ostatnio wyremontowany w 2017 roku."
+  }
+ ],
+ "pros": [
+  "Czyste i komfortowe pokoje",
+  "Smaczne i urozmaicone jedzenie",
+  "Przyjazny i pomocny personel",
+  "Dobre programy animacyjne",
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Dużo zieleni na terenie obiektu"
+ ],
+ "cons": [
+  "Jakość jedzenia bywa różna (szczególnie poza sezonem)",
+  "Napoje w pakiecie All Inclusive to głównie lokalne marki",
+  "Basen może być zatłoczony",
+  "Brak leżaków i parasoli na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel jest położony około 300-450 metrów od piaszczystej plaży Złotych Piasków."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko w Warnie (VAR), oddalone o około 18-26 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub dużych zjeżdżalniach dla dorosłych. Hotel posiada basen zewnętrzny z wydzieloną sekcją dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest najbardziej polecany dla rodzin z dziećmi. Oferuje wydzieloną strefę dla dzieci w basenie, plac zabaw oraz mini klub/centrum dla dzieci, a także animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu oraz w pokojach dostępne jest bezpłatne Wi-Fi (prędkość powyżej 25 Mbps)."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany dla rodzin z dziećmi i par."
+  }
+ ],
+ "address": "kurorten kompleks Zlatni pyasatsi, 9007, Golden Sands, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 22,
+ "airportName": "Varna Airport (VAR)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Ogród",
+  "Centrum relaksu/wellness",
+  "Salon fryzjerski/kosmetyczny",
+  "Sprzęt fitness na świeżym powietrzu",
+  "Wielofunkcyjne boisko",
+  "Bilard",
+  "Tenis stołowy",
+  "Szachy ogrodowe",
+  "Gry planszowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centralna część kurortu Złote Piaski",
+ "bars": 2,
+ "beachDistanceM": 375,
+ "beachType": "piaszczysta",
+ "centerKm": 0.325,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy ekonomiczny (klimatyzacja, TV, telefon, biurko, minibar, łazienka z prysznicem, suszarka do włosów, balkon z meblami)",
+  "Pokój dwuosobowy Superior (klimatyzacja, TV, telefon, biurko, minibar, łazienka z prysznicem, suszarka do włosów, balkon z meblami)",
+  "Pokój rodzinny (klimatyzacja, TV, telefon, biurko, minibar, łazienka z prysznicem, suszarka do włosów, balkon z meblami)",
+  "Junior Suita (klimatyzacja, TV, telefon, biurko, minibar, łazienka z prysznicem, suszarka do włosów, balkon z meblami)",
+  "Apartament (klimatyzacja, TV, telefon, biurko, minibar, łazienka z prysznicem, suszarka do włosów, balkon z meblami)"
+ ],
+ "rooms": 241,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2849211,
+  "lon": 28.0379456,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelmadara.com",
+  "travelplanner.ro",
+  "wego.com",
+  "trivago.com",
+  "agoda.com",
+  "directbooking.ro",
+  "onthebeach.co.uk",
+  "myhotels.sa"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": 6180,
+ "slug": "kotva-sunny-beach",
+ "name": "Kotva (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/kotva-sunny-beach-zjezdzalnia-basen-obiekt-826761623-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Kotva to czterogwiazdkowy obiekt położony w południowej części Słonecznego Brzegu w Bułgarii, w bliskiej odległości od zabytkowego Nesebyru. Obiekt, otwarty w 1974 roku i częściowo odnowiony w 2022/2023, oferuje zakwaterowanie w dwóch czteropiętrowych budynkach.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz osób szukających aktywności wodnych, dzięki rozbudowanemu kompleksowi basenów i mini aquaparkom. Bliskość piaszczystej plaży oraz dostępność animacji, w tym polskojęzycznych, czynią go atrakcyjnym wyborem na rodzinne wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Kotva znajduje się około 250 metrów od publicznej, piaszczystej plaży z łagodnym zejściem do morza. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. W odległości około 0.8-1.5 km pieszo znajduje się starożytne miasto Nesebyr, a centrum Słonecznego Brzegu oddalone jest o 3-4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 471 pokojami, w tym pokojami Double Economy, Double Standard, Single oraz apartamentami One Bedroom Suite. Standardowe wyposażenie obejmuje indywidualną klimatyzację, TV-Sat, telefon, małą lodówkę, czajnik, łazienkę z prysznicem i suszarką do włosów, a także balkon (w większości pokoi). Sejf w pokojach jest bezpłatny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać ze śniadań, obiadów i kolacji w formie bufetu w restauracji głównej, a także przekąsek i lodów. Lokalne napoje alkoholowe i bezalkoholowe są serwowane w wyznaczonych barach. Na terenie hotelu znajduje się również sezonowe bistro Black Pearl oraz restauracja a la carte (dodatkowo płatna)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje 3 odkryte baseny o łącznej powierzchni ponad 1000 m², a także dwa mini aquaparki ze zjeżdżalniami dla dzieci i dorosłych, w tym mini aquapark Caribbean Pirates. Dla dzieci przygotowano brodzik, plac zabaw i mini klub. Dostępne są animacje dla dzieci i dorosłych, w tym polskojęzyczne, sezonowo."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest bardzo dobrze przystosowany dla rodzin z dziećmi. Oprócz brodzika i placu zabaw, dzieci mogą korzystać z mini klubu oraz dwóch mini aquaparków ze zjeżdżalniami. Sezonowe animacje, w tym polskojęzyczne, zapewniają rozrywkę najmłodszym gościom."
+  }
+ ],
+ "pros": [
+  "Duże baseny i rozbudowany aquapark ze zjeżdżalniami",
+  "Animacje dla dzieci i dorosłych, w tym polskojęzyczne",
+  "Bliskość piaszczystej plaży i zabytkowego Nesebyru",
+  "Przestronne pokoje z bezpłatnym sejfem",
+  "Dobra baza wypadowa do zwiedzania"
+ ],
+ "cons": [
+  "Może być głośno z powodu dużej liczby dzieci",
+  "Jedzenie bywa powtarzalne lub zimne",
+  "Płatne leżaki i parasole na plaży",
+  "Brak ręczników plażowych/basenowych",
+  "Windy mogą być przeciążone, duże obłożenie restauracji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Kotva znajduje się około 250 metrów od publicznej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, na terenie hotelu dostępne są dwa mini aquaparki ze zjeżdżalniami dla dzieci i dorosłych, w tym mini aquapark Caribbean Pirates."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując mini klub, plac zabaw, brodzik oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby, przy basenie i w pokojach."
+  },
+  {
+   "q": "Jaka jest odległość hotelu od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 30-32 km od hotelu."
+  },
+  {
+   "q": "Czy leżaki na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na plaży są płatne."
+  }
+ ],
+ "address": "Sunny Beach 8240, Bulgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "mini klub dla dzieci",
+  "plac zabaw",
+  "tenis stołowy (płatny)",
+  "bilard (płatny)",
+  "masaże (płatne)",
+  "sauna (płatna)",
+  "łaźnia parowa (płatna)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "południowa część kurortu Słoneczny Brzeg",
+ "bars": 4,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby szukające wodnych atrakcji"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1974,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 3,
+ "roomTypes": [
+  "Double Economy Room (mogą nie mieć balkonu, na parterze)",
+  "Double Standard Room (ok. 22-26 m²)",
+  "Single Room (ok. 24 m²)",
+  "One Bedroom Suite/Apartament (ok. 32-36 m², z oddzielną sypialnią i pokojem dziennym)"
+ ],
+ "rooms": 471,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 50.6305044,
+  "lon": 15.7850013,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "itaka.pl",
+  "iziwakacje.pl",
+  "rafatravel.pl",
+  "sunnybeachyhotel.com",
+  "nawyjazdy.pl",
+  "fly.pl",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,131 @@
+{
+ "id": "x:bulgaria:poseidon beach resort",
+ "slug": "poseidon-beach-resort",
+ "name": "Poseidon Beach Resort",
+ "country": "bulgaria",
+ "place": [
+  "bulgaria",
+  "Złote Piaski i Obzor",
+  "Złote Piaski"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/bulharsko/oblast-varna/zlate-pisky/poseidon-beach-resort/5e610812049f7aa9fef21.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Poseidon Beach Resort to pięciogwiazdkowy hotel położony w sercu bułgarskiego kurortu Złote Piaski, w spokojnej okolicy, blisko autostrady krajowej 9. Jest to najnowszy 5-gwiazdkowy obiekt sieci Bulgarian Sun, otwarty w 2006 roku, a jego pokoje przeszły remont w 2023 roku.",
+  "Hotel jest rekomendowany dla rodzin, par oraz osób poszukujących luksusowego wypoczynku z formułą all-inclusive na plaży. Oferuje szeroki zakres udogodnień, od basenów i strefy spa po animacje i mini klub dla dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Poseidon Beach Resort znajduje się w Złotych Piaskach, około 300-500 metrów od centrum miejscowości. Piaszczysta plaża z łagodnym wejściem do wody, wyróżniona \"Błękitną Flagą\", oddalona jest o 350-600 metrów. Hotel zapewnia prywatną strefę plażową oraz bezpłatny dostęp do plaży Riviera Beach, z jednym parasolem i dwoma leżakami na pokój w sezonie letnim."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 175 pokojami rozmieszczonymi w dziewięciopiętrowym budynku. Dostępne są pokoje dwuosobowe (Deluxe, Superior), pokoje rodzinne (dwa połączone pokoje) oraz apartamenty. Wszystkie pokoje są klimatyzowane i wyposażone w minibar, sejf, telewizor z płaskim ekranem, czajnik elektryczny oraz prywatną łazienkę. Większość pokoi posiada balkon lub taras, a wiele z nich oferuje widok na morze, ogród lub basen."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu Premium All Inclusive goście mogą korzystać z głównej restauracji bufetowej \"The Seasons Restaurant\". Dodatkowo, za opłatą, dostępna jest restauracja à la carte \"Citrus\" przy basenie. Hotel oferuje również Lobby Bar & Summer Terrace, Rooftop Lounge & Bar na 10. piętrze oraz bar przy basenie. All Inclusive obejmuje posiłki, przekąski oraz wybrane napoje alkoholowe i bezalkoholowe, w tym międzynarodowe alkohole premium."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się sezonowy basen zewnętrzny, basen infinity oraz basen zewnętrzny na poziomie 3. Goście mają również dostęp do krytego basenu w sąsiednim Apollo Resort. Dla aktywnych dostępna jest siłownia, mini golf, rzutki i piesze wycieczki. Hotel oferuje centrum spa z sauną, łaźnią parową, hammamem i różnorodnymi masażami."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, brodzik oraz mini klub. W ciągu dnia organizowane są animacje hotelowe i programy aktywności, a wieczorami odbywają się wieczory tematyczne, zapewniając rozrywkę dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Nowy hotel, wyremontowane pokoje",
+  "Bardzo czyste i przestronne pokoje",
+  "Dobre i urozmaicone jedzenie",
+  "Miła i pomocna obsługa",
+  "Spokojna atmosfera i dobra lokalizacja"
+ ],
+ "cons": [
+  "Desery bywają słabe",
+  "Ograniczona liczba kart dostępu do prywatnej plaży",
+  "Zdarzały się skargi na zimne/bezsmakowe jedzenie i zatrucia pokarmowe",
+  "Mały basen infinity z brakiem leżaków",
+  "Brak podgrzewanego przejścia do krytego basenu w sąsiednim hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 350-600 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje prywatną plażę?",
+   "a": "Tak, hotel oferuje prywatną strefę plażową oraz bezpłatny dostęp do plaży Riviera Beach, z parasolem i dwoma leżakami na pokój w sezonie letnim."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Varna (VAR), oddalone o około 22-27 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku bezpośrednio w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje plac zabaw, brodzik, mini klub oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  }
+ ],
+ "address": "Golden Sands 9007, Zlatni Pyasatsi, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 22,
+ "airportName": "Varna (VAR)",
+ "amenities": [
+  "spa",
+  "siłownia",
+  "mini golf",
+  "rzutki",
+  "piesze wycieczki"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Złote Piaski",
+ "bars": 3,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "luksusowy wypoczynek all-inclusive na plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2006,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe (Deluxe, Superior) z klimatyzacją, minibarem, sejfem, telewizorem, biurkiem, czajnikiem, łazienką z prysznicem, suszarką do włosów, kosmetykami, szafą, balkonem/tarasem, meblami ogrodowymi, częścią wypoczynkową, pokojami dźwiękoszczelnymi i hipoalergicznymi.",
+  "Pokoje rodzinne (2 połączone pokoje) z podobnym wyposażeniem.",
+  "Apartamenty z podobnym wyposażeniem."
+ ],
+ "rooms": 175,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "directbooking.ro",
+  "oxfordtravels.com",
+  "holidaycheck.de",
+  "arendoo.com",
+  "poseidonbeachresort.com",
+  "booking.com",
+  "boiana-mg.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

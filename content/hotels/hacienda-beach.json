@@ -1,0 +1,134 @@
+{
+ "id": 32929,
+ "slug": "hacienda-beach",
+ "name": "Hacienda Beach",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Sozopol"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/hacienda-beach-plaza-obiekt-1812542279-570-428.jpg",
+ "city": "Sozopol",
+ "intro": [
+  "Hacienda Beach to czterogwiazdkowy hotel położony w Sozopolu w Bułgarii, w malowniczej zatoce Złota Rybka, w pobliżu popularnych kempingów Gradina i Zlatna Ribka. Obiekt, otwarty w 2012 roku i odnowiony w 2022, składa się z kilku czteropiętrowych budynków rozmieszczonych na terenie o powierzchni 3600 m².",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, oferując szereg udogodnień i aktywności dostosowanych do najmłodszych. Jego lokalizacja blisko plaży oraz spokojna atmosfera sprawiają, że to dobre miejsce na relaksujący wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hacienda Beach znajduje się zaledwie 30-50 metrów od piaszczystej plaży Złota Rybka, która charakteryzuje się płytkimi wodami, idealnymi dla dzieci. Plaża jest publiczna, a leżaki i parasole są na niej dodatkowo płatne. Od centrum Sozopolu dzieli hotel około 3-6 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Kompleks oferuje 200 apartamentów, w tym z jedną lub dwiema sypialniami, z widokiem na park lub morze. Wszystkie pokoje są wyposażone w prywatną łazienkę, telewizor, klimatyzację, balkon z meblami, minilodówkę, czajnik, suszarkę do włosów i bezpłatny sejf. Łóżeczka dziecięce są dostępne na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja \"Atia\" serwuje posiłki w formie bufetu z kuchnią lokalną i międzynarodową. Goście mogą również skorzystać z restauracji à la carte oferującej dania śródziemnomorskie. Na terenie obiektu znajdują się także bar przy basenie \"Barbosa\" i snack bar, gdzie dostępne są lody i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym basenem zewnętrznym oraz brodzikiem dla dzieci. Dostępny jest program animacyjny dla dzieci i dorosłych, obejmujący kino pod gwiazdami i dziecięcą dyskotekę. W hotelu znajduje się również siłownia na świeżym powietrzu, strefa spa, tenis stołowy i mini-golf."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hacienda Beach to obiekt przyjazny rodzinom, oferujący plac zabaw i mini klub dla najmłodszych. Dzieci mogą korzystać z brodzika oraz uczestniczyć w animacjach i codziennej dyskotece. W pobliżu, około 3 km od hotelu, znajduje się aquapark \"Neptune\"."
+  }
+ ],
+ "pros": [
+  "Bliskość piaszczystej plaży z płytką wodą",
+  "Przestronne apartamenty z pełnym wyposażeniem",
+  "Ładny basen i rodzinna atmosfera",
+  "Uprzejmy i pomocny personel",
+  "Bezpłatne Wi-Fi na terenie całego hotelu"
+ ],
+ "cons": [
+  "Problemy z jakością i różnorodnością jedzenia w opcji all-inclusive",
+  "Kwestie związane z czystością pokoi lub stołów",
+  "Dodatkowo płatne leżaki i parasole na plaży",
+  "Trudności ze znalezieniem miejsca parkingowego (ograniczone, płatne)",
+  "Sporadyczny hałas z windy w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel Hacienda Beach jest położony około 30-50 metrów od piaszczystej plaży Złota Rybka."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "W ramach kompleksu goście mają dostęp do strefy atrakcji wodnych. Aquapark \"Neptune\" znajduje się 3 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując brodzik, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 22-45 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu i w pokojach."
+  },
+  {
+   "q": "Co obejmuje pakiet All Inclusive?",
+   "a": "Pakiet All Inclusive obejmuje posiłki w formie bufetu, przekąski, wybrane bułgarskie napoje bezalkoholowe i alkoholowe, piwo, wino, herbatę i kawę. Snack bar oferuje lody i lekkie przekąski."
+  }
+ ],
+ "address": "Zlatna Ribka, 8130 Sozopol, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 33.5,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Spa",
+  "Siłownia na świeżym powietrzu",
+  "Tenis stołowy",
+  "Mini-golf",
+  "Kino pod gwiazdami",
+  "Dziecięca dyskoteka"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Zatoka Złota Rybka (Golden Fish Bay / Zlatna Ribka Bay)",
+ "bars": 2,
+ "beachDistanceM": 40,
+ "beachType": "piaszczysta",
+ "centerKm": 4.5,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2012,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 2,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (widok na park)",
+  "Apartament z jedną sypialnią deluxe (widok na morze)",
+  "Apartament z dwiema sypialniami (widok na park)"
+ ],
+ "rooms": 200,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 16.9029376,
+  "lon": -99.9750068,
+  "src": "osm"
+ },
+ "sources": [
+  "allsozopolhotels.com",
+  "haciendabeach.bg",
+  "halalworld.com",
+  "coral.ge",
+  "travelgay.com",
+  "destinia.com",
+  "noy.travel",
+  "book-onlinenow.net"
+ ],
+ "updated": "2026-11-27"
+}

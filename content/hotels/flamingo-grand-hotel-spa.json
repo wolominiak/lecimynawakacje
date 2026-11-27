@@ -1,0 +1,144 @@
+{
+ "id": 20965,
+ "slug": "flamingo-grand-hotel-spa",
+ "name": "Flamingo Grand Hotel & Spa",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/flamingo-grand-hotel-spa-spa-1479222792-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Flamingo Grand Hotel & Spa to pięciogwiazdkowy obiekt położony w centralnej części kurortu Albena w Bułgarii, w otoczeniu zieleni. Hotel został wybudowany w 2008 roku i odnowiony w 2018 roku, oferując komfortowe zakwaterowanie w przestronnych studiach i apartamentach.",
+  "Hotel jest idealnym wyborem zarówno dla rodzin z dziećmi, dzięki udogodnieniom takim jak mini aquapark i mini klub, jak i dla par czy seniorów szukających relaksu w komfortowych warunkach, z dostępem do rozbudowanego centrum spa i bliskością szerokiej, piaszczystej plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w centrum Albeny, zaledwie 150 metrów od szerokiej, piaszczystej plaży wyróżnionej Błękitną Flagą. Goście mają do dyspozycji prywatną część plaży z wliczonymi w cenę parasolem i dwoma leżakami (od 3. rzędu). Odległość od lotniska w Warnie (VAR) wynosi około 34-42 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Flamingo Grand Hotel & Spa oferuje przestronne studia i apartamenty, w tym Studio Standard (około 50 m²) oraz większe apartamenty z osobną sypialnią. Wszystkie pokoje wyposażone są w balkon, klimatyzację, telewizor, sejf, minibar, aneks kuchenny z podstawowym wyposażeniem oraz łazienkę z suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje restauracją główną bufetową, restauracją a'la carte Atrium oraz bistro przy basenie. Dostępne są również lobby bar, wine bar Dionysius, piano bar Bailando i klub nocny. Hotel oferuje wyżywienie w formule śniadań (BB) lub śniadań i obiadokolacji (HB), napoje do kolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się basen zewnętrzny o lagunowym kształcie, basen kryty oraz basen zewnętrzny z mini aquaparkiem dla dzieci. Goście mogą korzystać z dobrze wyposażonej siłowni oraz centrum spa Elements Spa z sauną, łaźnią parową i jacuzzi. Dostępne są również liczne aktywności sportowe, takie jak tenis, golf, bilard czy sporty wodne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel oferuje brodzik, mini splash park oraz plac zabaw. W sezonie (od połowy czerwca do początku września) działa mini klub i organizowane są animacje dla dzieci 6 dni w tygodniu. Hotel jest polecany dla rodzin z dziećmi ze względu na liczne udogodnienia i płytką plażę."
+  }
+ ],
+ "pros": [
+  "Przestronne studia z aneksami kuchennymi i balkonami",
+  "Bliskość szerokiej, piaszczystej plaży z prywatną częścią hotelową",
+  "Rozbudowane centrum spa z wodą mineralną",
+  "Mini aquapark i mini klub dla dzieci w sezonie",
+  "Dobre jedzenie, szczególnie kolacje"
+ ],
+ "cons": [
+  "Brak opcji All Inclusive, napoje i obiady są płatne",
+  "Śniadania mogą być skromniejsze niż oczekiwania wobec hotelu 5*",
+  "Płatny parking",
+  "Niektóre usługi w spa i ręczniki plażowe są dodatkowo płatne",
+  "Baseny zamykane są wcześnie wieczorem"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się około 150 metrów od hotelu. Jest to szeroka, piaszczysta plaża z prywatną częścią hotelową."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to lotnisko w Warnie (VAR), oddalone o około 34-42 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Tak, hotel posiada basen zewnętrzny z małym parkiem wodnym dla dzieci (mini splash park) oraz brodzik."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi ze względu na przestronne studia, mini aquapark, mini klub, animacje i płytką plażę."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich częściach wspólnych hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w formule śniadań (BB) lub śniadań i obiadokolacji (HB). Napoje do kolacji są dodatkowo płatne."
+  }
+ ],
+ "address": "Albena, Varna, Bulgaria",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Warna (VAR)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Aneks kuchenny w pokojach",
+  "Balkon",
+  "Klimatyzacja",
+  "Sejf",
+  "Minibar",
+  "Zestaw do parzenia kawy i herbaty"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centralna część kurortu Albena",
+ "bars": 4,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Seniorzy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2008,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 3,
+ "roomTypes": [
+  "Studio Standard (ok. 50 m², balkon, klimatyzacja, TV, sejf, minibar, aneks kuchenny, łazienka)",
+  "Studio Deluxe",
+  "Studio Executive",
+  "Studio Superior",
+  "Apartament narożny (ok. 70 m², osobna sypialnia)",
+  "Apartament Grand Superior (ok. 70 m², osobna sypialnia)",
+  "Apartament dwupoziomowy Grand Superior",
+  "Apartament panoramiczny Superior",
+  "Penthouse Sunset & Sunrise (jacuzzi na balkonie, widok na morze)",
+  "Penthouse Azure (jacuzzi na balkonie, widok na morze)"
+ ],
+ "rooms": 180,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "r.pl",
+  "gobulgaria.pl",
+  "wakacje.pl",
+  "booking.com",
+  "coraltravel.pl",
+  "albena.bg",
+  "nekera.pl",
+  "exim.pl"
+ ],
+ "updated": "2026-11-27"
+}

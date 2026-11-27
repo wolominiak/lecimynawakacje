@@ -1,0 +1,135 @@
+{
+ "id": 18733,
+ "slug": "koral",
+ "name": "Koral",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Św. Konstantyn i Elena"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/koral-obiekt-budynek-glowny-1084939538-570-428.jpg",
+ "city": "Św. Konstantyn i Elena",
+ "intro": [
+  "Hotel Koral to czterogwiazdkowy obiekt położony w malowniczym parku naturalnym w miejscowości Św. Konstantyn i Elena w Bułgarii. Jest to idealne miejsce dla rodzin szukających spokojnego wypoczynku blisko plaży i centrum kurortu.",
+  "Obiekt oferuje szeroki zakres udogodnień, w tym baseny, restauracje, strefę spa i animacje, zapewniając komfortowy pobyt zarówno dorosłym, jak i dzieciom. Dogodna lokalizacja sprawia, że jest to dobra baza wypadowa do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Koral usytuowany jest w naturalnym parku, około 300 metrów od centrum kurortu Św. Konstantyn i Elena. Piaszczysta plaża z łagodnym zejściem do morza znajduje się w odległości około 350 metrów, a dojście do niej prowadzi po schodach. Jest to plaża publiczna, gdzie leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 110 pokoi, w tym pokoje dwuosobowe (ok. 20 m²), studia (ok. 25 m²) oraz apartamenty z jedną sypialnią (38-42 m²). Wszystkie pokoje są klimatyzowane i wyposażone w telewizor satelitarny, telefon, minibar, sejf, łazienkę z wanną lub prysznicem oraz balkon lub taras z widokiem na park lub basen. Na życzenie dostępne jest bezpłatne łóżeczko dla dziecka."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja serwująca posiłki w formie bufetu oraz restauracja à la carte z daniami kuchni bułgarskiej i międzynarodowej. Pakiet All Inclusive obejmuje pięć posiłków dziennie (śniadanie, obiad, podwieczorek, lody, kolacja). Dostępne są również napoje bezalkoholowe z post-mixu, wino (z własnej winnicy), bułgarskie napoje alkoholowe, piwo lane i woda mineralna. Napoje alkoholowe serwowane są w lobby barze w godzinach 8:00-20:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest odkryty basen z barem oraz zintegrowany basen dla dzieci. Goście mogą korzystać ze strefy spa z sauną, jacuzzi, łaźnią parową oraz siłowni. Dostępne są również tenis stołowy, cymbergaj, rzutki i piłkarzyki. Bilard i masaże są dodatkowo płatne, podobnie jak sporty wodne na plaży."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował zintegrowany basen dziecięcy oraz mini klub z dyskoteką, nadzorowany przez profesjonalistów. Dostępne są również animacje i programy rozrywkowe dla dzieci. Na życzenie można bezpłatnie otrzymać łóżeczko dla dziecka."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja w spokojnym parku",
+  "Bliskość plaży i centrum kurortu",
+  "Duży i ładny basen",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Płatne Wi-Fi w pokojach",
+  "Hotel jest starszy, choć odnawiany",
+  "Monotonia jedzenia po kilku dniach",
+  "Dodatkowo płatne niektóre atrakcje (bilard, masaże)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Koral jest oddalony o około 350 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel Koral jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Port Lotniczy Warna (VAR), znajduje się około 16 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada odkryty basen z zintegrowanym basenem dla dzieci, ale nie ma informacji o aquaparku ani zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Koral jest polecany dla rodzin z dziećmi. Oferuje mini klub, basen dla dzieci i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w lobby hotelowym. W pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Koral jest obiektem rodzinnym i nie jest przeznaczony tylko dla dorosłych."
+  }
+ ],
+ "address": "9006 Sveti Konstantin, Varna, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "Port Lotniczy Warna (VAR)",
+ "amenities": [
+  "klimatyzacja",
+  "telewizor satelitarny",
+  "telefon",
+  "minibar",
+  "sejf",
+  "łazienka",
+  "balkon/taras"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "naturalny park",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta z łagodnym zejściem",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1964,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy (ok. 20 m²)",
+  "studio (ok. 25 m²)",
+  "apartament z jedną sypialnią (38-42 m²)"
+ ],
+ "rooms": 110,
+ "spa": true,
+ "wifi": false,
+ "geo": {
+  "lat": 53.4476543,
+  "lon": 14.5531045,
+  "src": "osm"
+ },
+ "sources": [
+  "directbooking.ro",
+  "admiral.travel",
+  "hotel-koral.com",
+  "coral.ge",
+  "booking.com",
+  "thomascook.com",
+  "priceline.com",
+  "wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,142 @@
+{
+ "id": 36804,
+ "slug": "casa-karina",
+ "name": "Casa Karina",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Błagojewgrad",
+  "Bańsko"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/casa-karina-obiekt-teren-hotelu-844472592-570-428.jpg",
+ "city": "Bansko",
+ "intro": [
+  "Hotel Casa Karina to czterogwiazdkowy obiekt położony u podnóża malowniczych gór Pirin w bułgarskim Bansku. Składa się z trzech połączonych budynków, oferując zakwaterowanie w pokojach dwuosobowych, studiach i apartamentach. Jest to idealne miejsce dla rodzin z dziećmi, par oraz entuzjastów sportów zimowych, ceniących sobie bliskość wyciągów narciarskich i centrum miejscowości.",
+  "Obiekt jest przyjazny rodzinom, oferując szereg udogodnień dla najmłodszych, takich jak pokój zabaw i mini klub. Dzięki bogatemu zapleczu spa z podgrzewanym basenem oraz centrum fitness, hotel zapewnia komfortowy wypoczynek zarówno po aktywnym dniu na stoku, jak i podczas relaksującego urlopu w górach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Casa Karina znajduje się w Bansku, u podnóża gór Pirin, zaledwie około 100-150 metrów od wyciągu gondolowego. Centrum miejscowości oddalone jest o około 1.2 km, co stanowi 15-minutowy spacer. Najbliższe lotnisko, Sofia Airport, znajduje się w odległości około 160 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 121 jednostek zakwaterowania, w tym pokoje dwuosobowe, studia i apartamenty z jedną lub dwiema sypialniami. Wiele z nich wyposażono w aneksy kuchenne z lodówką, mikrofalówką i czajnikiem elektrycznym. Standardowe wyposażenie obejmuje telewizor z płaskim ekranem, ogrzewanie, szafę oraz łazienkę z wanną lub prysznicem. Niektóre pokoje posiadają balkon lub kominek."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest podgrzewany kryty basen z widokiem na góry Pirin. Centrum spa oferuje saunę fińską, łaźnię parową, łaźnię turecką i strefę relaksu, a także płatne masaże i solarium. Na terenie obiektu znajduje się również siłownia. Hotel zapewnia udogodnienia dla narciarzy, w tym przechowalnię i wypożyczalnię sprzętu."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu działa luksusowa restauracja mogąca pomieścić do 230 osób. Goście mogą korzystać z lobby baru i kawiarni. Dostępne są pakiety all inclusive, które zazwyczaj obejmują śniadania w formie bufetu. Należy pamiętać, że niektóre napoje i udogodnienia mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje pokój zabaw dla dzieci do 5 lat (pod nadzorem rodziców) oraz mini klub. Dostępne są również animacje, które umilą pobyt najmłodszym gościom."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko wyciągu gondolowego i centrum",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie (śniadania i kolacje)",
+  "Czystość i przestronne pokoje/apartamenty",
+  "Dobre zaplecze spa i basen"
+ ],
+ "cons": [
+  "Woda nie jest zapewniona podczas kolacji w ramach niektórych pakietów",
+  "Dodatkowe opłaty za niektóre udogodnienia (łaźnia turecka, masaże, bilard, parking, szlafroki)",
+  "Brak zjeżdżalni wodnych",
+  "Niektóre części hotelu wymagają renowacji (ostatnia w 2026 r.)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Bansko to kurort górski, hotel nie znajduje się w pobliżu plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Sofia Airport, oddalone o około 160 km."
+  },
+  {
+   "q": "Czy hotel oferuje zjeżdżalnie wodne lub aquapark?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokój zabaw dla dzieci do 5 lat, mini klub oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel ma jeden podgrzewany kryty basen z widokiem na góry Pirin."
+  }
+ ],
+ "address": "ul. Kralev Dvor 5, 2770 Bansko",
+ "adultsOnly": false,
+ "airportKm": 160,
+ "airportName": "Lotnisko Sofia",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Kryty basen",
+  "Przechowalnia sprzętu narciarskiego",
+  "Wypożyczalnia rowerów",
+  "Bilard",
+  "Tenis stołowy",
+  "Jazda konna"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "u podnóża gór Pirin",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Miłośnicy narciarstwa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2007,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2026,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe",
+  "Studia (z aneksem kuchennym)",
+  "Studia deluxe (z aneksem kuchennym)",
+  "Apartamenty z jedną sypialnią (z aneksem kuchennym)",
+  "Apartamenty deluxe z jedną sypialnią (z aneksem kuchennym)",
+  "Apartamenty z dwiema sypialniami (z aneksem kuchennym)",
+  "Studia ekonomiczne (na poddaszu, z aneksem kuchennym)"
+ ],
+ "rooms": 121,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.8247634,
+  "lon": 23.4792779,
+  "src": "osm"
+ },
+ "sources": [
+  "britishairways.com",
+  "bansko-casakarina.com",
+  "travel-solutions.co.uk",
+  "casakarinabansko.com",
+  "geoview.info",
+  "wanderlog.com",
+  "hotelplanner.com",
+  "skytravel.jp"
+ ],
+ "updated": "2026-11-27"
+}

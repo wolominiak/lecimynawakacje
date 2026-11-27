@@ -1,0 +1,135 @@
+{
+ "id": 23175,
+ "slug": "l-b",
+ "name": "L & B",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/l-b-basen-obiekt-1858333950-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel L & B to kameralny, trzygwiazdkowy obiekt położony w sercu popularnego bułgarskiego kurortu Słoneczny Brzeg. Dzięki lokalizacji nieco na uboczu głównej ulicy, zapewnia spokojny wypoczynek, jednocześnie oferując łatwy dostęp do centralnego placu i licznych atrakcji.",
+  "Obiekt jest idealnym wyborem dla rodzin, par i małych grup, które cenią sobie komfortowy wypoczynek blisko piaszczystej plaży i tętniącego życiem centrum, ale bez zgiełku typowych, dużych kompleksów hotelowych. Jest to dobra baza wypadowa do zwiedzania okolicy i korzystania z uroków Słonecznego Brzegu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel L & B znajduje się w Słonecznym Brzegu, około 400-500 metrów od centrum miejscowości. Piaszczysta, publiczna plaża z łagodnym zejściem do morza oddalona jest o 200-550 metrów. Dojście do plaży prowadzi przez ulicę, a leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje dwuosobowe, rodzinne, trzyosobowe i jednoosobowe. Każdy pokój wyposażony jest w indywidualnie sterowaną klimatyzację, prywatną łazienkę z prysznicem, balkon lub taras, telewizor z płaskim ekranem, biurko, małą lodówkę/mini-bar oraz bezpłatne Wi-Fi. Na życzenie dostępne są łóżeczka dziecięce (za dodatkową opłatą)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca posiłki w formie bufetu, bar, bar przy basenie oraz lobby bar. Opcja All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, popołudniowe przekąski, słodycze, kawę i herbatę, a także lokalne napoje bezalkoholowe i wybrane alkohole serwowane w barze przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest jeden odkryty basen z bezpłatnymi leżakami i parasolami. Dla dzieci przygotowano brodzik oraz plac zabaw. Hotel nie posiada własnych zjeżdżalni, ale w pobliżu znajduje się Action Aquapark. Goście mogą korzystać z bezpłatnej siłowni, a na plaży dostępne są sporty wodne (za dodatkową opłatą)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel L & B jest polecany dla rodzin z dziećmi, par oraz małych grup, które szukają spokojnego miejsca w centrum kurortu. Jest to dobra opcja dla osób ceniących sobie bliskość plaży i atrakcji, bez potrzeby korzystania z rozbudowanego programu animacyjnego."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko plaży i centrum",
+  "Czyste i zadbane pokoje",
+  "Miła i pomocna obsługa",
+  "Odkryty basen z bezpłatnymi leżakami",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są płatne",
+  "Brak animacji hotelowych i centrum Spa",
+  "Brak informacji o ręcznikach plażowych",
+  "Potencjalne problemy ze sprzątaniem (według niektórych opinii)",
+  "Restrykcje dotyczące wnoszenia własnych napojów/jedzenia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel L & B jest oddalony od publicznej, piaszczystej plaży o około 200-550 metrów. Dojście do plaży prowadzi przez ulicę."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 29-30 km od lotniska w Burgas (BOJ). Czas przejazdu to około 25-45 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnych zjeżdżalni ani aquaparku, ale w pobliżu (około 300-600 m) znajduje się Action Aquapark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi. Na terenie obiektu znajduje się brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu, w pokojach i pomieszczeniach ogólnodostępnych, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "k. Czajka 34, 8240 Stary Węzeł, Słoneczny Brzeg",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Burgas (BOJ)",
+ "amenities": [
+  "Siłownia",
+  "Brodzik dla dzieci",
+  "Plac zabaw",
+  "Balkon lub taras w pokojach",
+  "Indywidualnie sterowana klimatyzacja"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "centrum kurortu",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Małe grupy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2007,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, łazienką, balkonem, TV, lodówką i Wi-Fi",
+  "Pokój rodzinny z klimatyzacją, łazienką, balkonem, TV, lodówką i Wi-Fi",
+  "Pokój trzyosobowy z klimatyzacją, łazienką, balkonem, TV, lodówką i Wi-Fi",
+  "Pokój jednoosobowy z klimatyzacją, łazienką, balkonem, TV, lodówką i Wi-Fi"
+ ],
+ "rooms": 22,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6989789,
+  "lon": 27.7098488,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "travelplanet.pl",
+  "wakacje.pl",
+  "trip.com",
+  "esky.pl",
+  "coraltravel.pl",
+  "iziwakacje.pl",
+  "nekera.pl"
+ ],
+ "updated": "2026-11-27"
+}

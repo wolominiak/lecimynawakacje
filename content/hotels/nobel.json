@@ -1,0 +1,136 @@
+{
+ "id": 15902,
+ "slug": "nobel",
+ "name": "Nobel",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/nobel-basen-1482836941-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Nobel to czterogwiazdkowy obiekt położony w południowej części Słonecznego Brzegu, w spokojnej okolicy, z łatwym dostępem do zabytkowego Nessebaru. Oferuje komfortowe zakwaterowanie i szereg udogodnień, zapewniając relaksujący pobyt zarówno parom, jak i rodzinom z dziećmi.",
+  "Obiekt, otwarty w 2005 roku i odnowiony w 2019 roku, dysponuje prywatną częścią piaszczystej plaży. Dzięki pakietowi Ultra All Inclusive goście mogą cieszyć się urozmaiconą kuchnią i napojami, a także animacjami i dostępem do centrum SPA."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nobel znajduje się w południowej części Słonecznego Brzegu, około 150-330 metrów od szerokiej, piaszczystej plaży publicznej z łagodnym zejściem do morza. Obiekt oferuje prywatną część plaży z bezpłatnymi leżakami i parasolami dla gości z pakietem Ultra All Inclusive. W pobliżu hotelu znajduje się zabytkowe miasto Nessebar, oddalone o około 2,5-3,6 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 148-159 pokojami, w tym dwuosobowymi, studiami i apartamentami z jedną sypialnią. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor, telefon, minibar lub lodówkę, łazienkę z suszarką do włosów oraz umeblowany balkon lub taras. W pokojach i na terenie całego hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu Ultra All Inclusive hotel oferuje śniadania, obiady, kolacje w formie bufetu w restauracji głównej oraz przekąski i lody. Goście mogą również skorzystać z kolacji w restauracji à la carte (raz na pobyt powyżej 7 dni). Dostępne są cztery bary: lobby bar, bar przy basenie, snack bar i bar na plaży, serwujące napoje bezalkoholowe oraz lokalne i wybrane importowane alkohole."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa baseny: jeden zewnętrzny ze słodką wodą i jeden kryty, podgrzewany basen w strefie spa. Dla aktywnych dostępna jest bezpłatna siłownia, rzutki, siatkówka i tenis stołowy. Centrum SPA oferuje saunę, łaźnię turecką, jacuzzi oraz płatne masaże i zabiegi kosmetyczne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano wydzieloną część basenu (brodzik), plac zabaw oraz miniklub dla dzieci w wieku 4-12 lat. W restauracji dostępne są wysokie krzesełka i specjalne menu. Hotel organizuje również animacje dzienne i wieczorne, w tym minidyskoteki."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i Nessebaru",
+  "Prywatna plaża z bezpłatnymi leżakami i parasolami",
+  "Smaczne i różnorodne jedzenie",
+  "Czystość w hotelu i pokojach",
+  "Przestronne pokoje"
+ ],
+ "cons": [
+  "Drobne niedociągnięcia w wykończeniu pokoi",
+  "Niewystarczająca liczba gniazdek w pokojach",
+  "Niewystarczająca liczba leżaków przy basenie w szczycie sezonu",
+  "Brak bardziej urozmaiconych rozrywek wieczornych",
+  "Zanieczyszczony piasek na boisku do siatkówki"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Nobel jest położony około 150-330 metrów od szerokiej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel ma prywatną plażę?",
+   "a": "Tak, hotel dysponuje wydzieloną, prywatną częścią plaży z bezpłatnymi leżakami i parasolami dla swoich gości w ramach pakietu Ultra All Inclusive."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 25-35 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, miniklub oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  }
+ ],
+ "address": "Sunny Beach 8240",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Przechowalnia bagażu",
+  "Kantor",
+  "Sklepy",
+  "Pralnia (płatna)",
+  "Opieka medyczna (płatna)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Południowa część Słonecznego Brzegu, blisko Nessebaru",
+ "bars": 4,
+ "beachDistanceM": 150,
+ "beachType": "Piaszczysta",
+ "centerKm": 2.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2019,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój dwuosobowy (Standard, ok. 30-36 m²) z klimatyzacją, TV, telefonem, minibarem/lodówką, łazienką (wanna/prysznic, WC, suszarka), balkonem/tarasem, Wi-Fi.",
+  "Studio (ok. 45 m²) z klimatyzacją, TV, telefonem, minibarem/lodówką, łazienką (wanna/prysznic, WC, suszarka), balkonem/tarasem, Wi-Fi.",
+  "Apartament z jedną sypialnią (ok. 52-60 m²) z klimatyzacją, TV, telefonem, minibarem/lodówką, łazienką (wanna/prysznic, WC, suszarka), balkonem/tarasem, Wi-Fi."
+ ],
+ "rooms": 148,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0083338,
+  "lon": 28.9548952,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "iziwakacje.pl",
+  "jadrantravel.pl",
+  "r.pl",
+  "coraltravel.pl",
+  "nekera.pl",
+  "traveligo.pl",
+  "luksusowe-wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

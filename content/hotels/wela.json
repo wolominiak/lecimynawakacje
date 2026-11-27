@@ -1,0 +1,142 @@
+{
+ "id": 15513,
+ "slug": "wela",
+ "name": "Wela",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001409257-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Wela to czterogwiazdkowy obiekt położony w północnej części popularnego bułgarskiego kurortu Słoneczny Brzeg. Jest to idealne miejsce zarówno dla rodzin z dziećmi, jak i dla par, szukających komfortowego wypoczynku w przystępnej cenie.",
+  "Obiekt oferuje bogate zaplecze rekreacyjne, w tym unikalny w regionie basen z podgrzewaną wodą mineralną, a także programy animacyjne dla wszystkich grup wiekowych. Bliskość piaszczystej plaży i centrum miejscowości sprawia, że hotel stanowi dobrą bazę do odkrywania uroków regionu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Wela znajduje się w północnej części Słonecznego Brzegu, około 200-300 metrów od piaszczystej, publicznej plaży. Dojście do plaży zajmuje około 7-10 minut spacerem. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Centrum Słonecznego Brzegu oddalone jest o około 1 km, czyli 15 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 250 pokojami rozmieszczonymi w dwóch 5-piętrowych budynkach. Oferta obejmuje pokoje jednoosobowe, dwuosobowe (standardowe i Deluxe), Junior Suite oraz apartamenty rodzinne. Wszystkie pokoje wyposażone są w balkon, klimatyzację, telewizję kablową, telefon, lodówkę lub mini-bar (płatny), sejf (płatny), suszarkę do włosów, łazienkę z prysznicem oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Wela goście mogą korzystać z dwóch restauracji: głównej restauracji bufetowej z kuchnią międzynarodową oraz restauracji Brunch, serwującej późne śniadania, sałatki, pizze i przekąski. Na terenie obiektu znajdują się również trzy bary: lobby bar, bar przy basenie oraz nocny bar z bilardem. Pakiet Premium All Inclusive obejmuje posiłki w formie bufetu oraz wybrane napoje i alkohole lokalne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen z podgrzewaną wodą mineralną, co jest jego wyróżnikiem w Słonecznym Brzegu. Przy basenie wydzielono strefę dla dzieci. Na terenie hotelu dostępne są również centrum SPA z masażami, łaźnią parową i sauną, siłownia oraz boiska do mini piłki nożnej, siatkówki i tenisa stołowego. Goście mogą korzystać z bezpłatnego Wi-Fi na terenie całego obiektu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, pokój zabaw oraz mini klub. Dodatkowo, zarówno dla dzieci, jak i dorosłych, organizowane są dzienne i wieczorne animacje. Przy basenie znajduje się wydzielona strefa dla dzieci, a w pobliżu hotelu (1.3 km - 2 km) zlokalizowany jest Action Aquapark."
+  }
+ ],
+ "pros": [
+  "Czyste i przestronne pokoje",
+  "Smaczne i urozmaicone jedzenie",
+  "Uprzejmy i profesjonalny personel",
+  "Dobra lokalizacja, blisko plaży i centrum",
+  "Basen z podgrzewaną wodą mineralną",
+  "Programy animacyjne dla dzieci i dorosłych"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na publicznej plaży",
+  "Mini-bar i sejf w pokojach są płatne",
+  "Brak aquaparku na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Wela od plaży?",
+   "a": "Hotel Wela jest położony około 200-300 metrów od piaszczystej plaży, co odpowiada 7-10 minutom spaceru."
+  },
+  {
+   "q": "Czy hotel Wela posiada aquapark?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni, ale Action Aquapark znajduje się w odległości 1.3 km - 2 km."
+  },
+  {
+   "q": "Czy hotel Wela jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Wela jest polecany dla rodzin z dziećmi. Oferuje mini klub, plac zabaw, pokój zabaw oraz animacje dla dzieci i dorosłych."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska do hotelu Wela?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 22.7 km do 30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Wela jest dostępne Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel Wela oferuje basen z podgrzewaną wodą?",
+   "a": "Tak, hotel dysponuje odkrytym basenem z podgrzewaną wodą mineralną."
+  }
+ ],
+ "address": "Sunny Beach 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 22.7,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Basen z podgrzewaną wodą mineralną",
+  "Centrum SPA",
+  "Siłownia",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Pokój zabaw",
+  "Mini piłka nożna",
+  "Siatkówka",
+  "Tenis stołowy",
+  "Badminton",
+  "Rzutki",
+  "Mini golf",
+  "Szachy ogrodowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "północna część kurortu",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2004,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy (standardowy i Deluxe)",
+  "Junior Suite (standardowe i Deluxe)",
+  "apartament rodzinny (dwupokojowy z drzwiami łączącymi, standardowy i Deluxe)",
+  "pokój przystosowany dla osób niepełnosprawnych"
+ ],
+ "rooms": 250,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.7054869,
+  "lon": 27.7176145,
+  "src": "osm"
+ },
+ "sources": [
+  "travelmaniac.org",
+  "travelplanner.ro",
+  "wela-hotel.com",
+  "sunnybeachhotels.net",
+  "admiral.travel",
+  "sunnybeach.com",
+  "welahotel.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

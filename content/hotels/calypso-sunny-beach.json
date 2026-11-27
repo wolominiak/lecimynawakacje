@@ -1,0 +1,135 @@
+{
+ "id": 22861,
+ "slug": "calypso-sunny-beach",
+ "name": "Calypso (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/calypso-sunny-beach-obiekt-1735744009-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Calypso to pięciopiętrowy obiekt położony w południowej części Słonecznego Brzegu, blisko Morza Czarnego i wydm. Zbudowany w 2009 roku, oferuje wygodne zakwaterowanie w 108 pokojach, w tym w pokojach rodzinnych i apartamentach.",
+  "Hotel jest rekomendowany dla rodzin, par oraz grup przyjaciół, szukających relaksującego wypoczynku. Dzięki udogodnieniom dla dzieci, takim jak brodzik, plac zabaw i animacje, jest dobrym wyborem na rodzinne wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Calypso znajduje się w południowej części Słonecznego Brzegu, w otoczeniu wydm i blisko Morza Czarnego. Piaszczysta plaża oddalona jest o około 100-450 metrów. Centrum Słonecznego Brzegu oddalone jest o około 2,6 km, a Stare Miasto Nesebyr o 1-2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 108 pokoi, w tym pokoje dwuosobowe, rodzinne oraz apartamenty. Wszystkie pokoje wyposażone są w centralną klimatyzację, telewizor z płaskim ekranem, telefon, mini-lodówkę, balkon lub taras oraz łazienkę z prysznicem i suszarką do włosów. Sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z głównej restauracji bufetowej serwującej dania kuchni bułgarskiej i międzynarodowej. Dostępne są również lobby bar oraz bar przy basenie/snack bar. Pakiet obejmuje śniadania, obiady, kolacje, popołudniowe przekąski, lody dla dzieci oraz wybrane napoje bezalkoholowe i lokalne alkohole."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem dla dorosłych oraz brodzikiem dla dzieci. Przy basenie dostępne są bezpłatne leżaki i parasole. Na terenie obiektu znajduje się również siłownia i stół do tenisa stołowego. Dla dzieci organizowane są animacje 6 dni w tygodniu oraz dostępny jest plac zabaw."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, plac zabaw oraz programy animacyjne prowadzone sześć dni w tygodniu. Dostępne są również bezpłatne łóżeczka dziecięce na życzenie, a w ramach All Inclusive serwowane są lody."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja w Słonecznym Brzegu",
+  "Czystość w pokojach i częściach wspólnych",
+  "Miły i pomocny personel",
+  "Dobrej jakości, urozmaicone jedzenie i napoje",
+  "Udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Płatny parking",
+  "Słabe lub niedziałające Wi-Fi w pokojach",
+  "Brak możliwości rezerwacji leżaków przy basenie",
+  "Odległość od plaży różnie podawana (100-450m)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Calypso od plaży?",
+   "a": "Hotel Calypso jest oddalony od piaszczystej plaży o około 100 do 450 metrów."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 24.5 km do 35 km."
+  },
+  {
+   "q": "Czy hotel Calypso posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych lub aquaparku na terenie hotelu. Dostępny jest odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując brodzik, plac zabaw i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne, często bezpłatne w pokojach i miejscach publicznych, choć opinie gości wskazują, że może być słabe lub nie działać w pokojach."
+  },
+  {
+   "q": "Czy hotel Calypso jest hotelem tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Sunny Beach 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 24.5,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "siłownia",
+  "tenis stołowy",
+  "plac zabaw",
+  "programy animacyjne",
+  "lobby bar",
+  "bar przy basenie/snack bar"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "południowa część kurortu",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 2.6,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2009,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (twin)",
+  "duży pokój dwuosobowy/rodzinny",
+  "apartament",
+  "pokój jednoosobowy"
+ ],
+ "rooms": 108,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6719004,
+  "lon": 27.7061268,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "calypsosunnybeach.com",
+  "gotoburgas.com",
+  "skyscanner.net",
+  "sunnybeachhotels.net",
+  "calypso.bg",
+  "turpravda.org",
+  "apartmentsbulgaria.bg"
+ ],
+ "updated": "2026-11-27"
+}

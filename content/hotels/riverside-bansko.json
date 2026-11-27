@@ -1,0 +1,143 @@
+{
+ "id": 35020,
+ "slug": "riverside-bansko",
+ "name": "Riverside Bansko",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Pirin",
+  "Bansko"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/riverside-bansko-obiekt-819888876-570-428.jpg",
+ "city": "Bansko",
+ "intro": [
+  "Riverside Bansko to czterogwiazdkowy hotel położony w malowniczej górskiej miejscowości Bansko w Bułgarii, w regionie Pirin. Obiekt, całkowicie odnowiony w 2021 roku, oferuje komfortowe zakwaterowanie w bliskiej odległości od centrum miasta i zabytkowej części Bansko.",
+  "Hotel jest idealnym wyborem dla par, rodzin z dziećmi, grup przyjaciół oraz miłośników sportów zimowych. Goście doceniają jego centralną lokalizację, odnowione pokoje oraz bogate zaplecze spa, które zapewnia relaks po aktywnym dniu na stoku czy górskich szlakach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Riverside Bansko znajduje się przy ulicy Glazne 37B, w bliskiej odległości od centrum Bansko (około 300-450 metrów) oraz jego starej części. Jest to kurort górski, dlatego hotel nie oferuje dostępu do plaży. Najbliższe lotnisko to Sofia (SOF), oddalone o około 160 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 76-84 pokojami, w tym typami Silver, Gold, Platinum Family oraz dwupoziomowymi Maisonette. Wszystkie pokoje są wyposażone w telewizor z płaskim ekranem i kanałami kablowymi, minibar, prywatną łazienkę z prysznicem lub wanną, suszarkę do włosów, szlafroki oraz ogrzewanie. Niektóre pokoje posiadają balkon z widokiem na góry Pirin lub rzekę Glazne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja serwująca dania kuchni współczesnej, lokalnej i międzynarodowej. Goście mogą korzystać z opcji wyżywienia ze śniadaniem (BB) lub śniadaniem i obiadokolacją (HB), serwowanych w formie bufetu. Na terenie obiektu dostępny jest również lobby bar z kominkiem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden kryty, podgrzewany basen o wymiarach 11 x 7 metrów. Rozbudowane centrum spa o powierzchni 1580 m² obejmuje łaźnię parową, turecką, rosyjską, saunę fińską, solną i aromatyczną, a także gabinety masażu. Do dyspozycji gości jest również całodobowe centrum fitness. Hotel zapewnia bezpłatny transfer do gondoli narciarskiej oraz przechowalnię sprzętu narciarskiego."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował klub dla dzieci oraz pokój zabaw. Dostępny jest również program animacyjny dla dzieci, który obejmuje gry, zajęcia kreatywne i mini disco."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko centrum i starej części Bansko",
+  "Całkowicie odnowiony w 2021 roku",
+  "Bogate centrum spa z podgrzewanym basenem",
+  "Bezpłatny transfer do gondoli narciarskiej",
+  "Przyjazny personel i czyste pokoje"
+ ],
+ "cons": [
+  "Brak basenu dla dzieci",
+  "Możliwe zatłoczenie basenu, spa i restauracji w szczycie sezonu zimowego",
+  "Hotel nie oferuje pakietu all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od centrum Bansko?",
+   "a": "Hotel znajduje się około 300-450 metrów od centrum Bansko, co odpowiada około 3-minutowemu spacerowi do głównego placu."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel dysponuje jednym krytym, podgrzewanym basenem o wymiarach 11 x 7 metrów."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje klub dla dzieci, pokój zabaw oraz program animacyjny dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Sofia (SOF), oddalone o około 160 km (około 2 godziny i 15 minut jazdy samochodem lub transferem)."
+  }
+ ],
+ "address": "Glazne Street 37B, Bansko 2770, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 160,
+ "airportName": "Lotnisko Sofia (SOF)",
+ "amenities": [
+  "Kryty basen",
+  "Spa",
+  "Siłownia",
+  "Klub dla dzieci",
+  "Pokój zabaw dla dzieci",
+  "Przechowalnia sprzętu narciarskiego",
+  "Lobby bar z kominkiem"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "blisko centrum miasta i starej części Bansko",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Grupy przyjaciół",
+  "Narciarze"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "Silver (pokój dwuosobowy/twin)",
+  "Gold (pokój dwuosobowy/twin)",
+  "Platinum Family (pokój rodzinny)",
+  "Maisonette (dwupoziomowy)",
+  "Pokoje jednoosobowe",
+  "Pokoje potrójne",
+  "Pokoje czteroosobowe",
+  "Pokoje ekonomiczne",
+  "Pokoje standardowe",
+  "Apartamenty"
+ ],
+ "rooms": 80,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.8398925,
+  "lon": 23.4855708,
+  "src": "osm"
+ },
+ "sources": [
+  "riversidebansko.bg",
+  "riverside-bansko.com",
+  "tripto.bg",
+  "netskytravel.com",
+  "visit.guide",
+  "planet.bg",
+  "agoda.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,139 @@
+{
+ "id": 666,
+ "slug": "luna-golden-sands",
+ "name": "Luna (Golden Sands)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/luna-golden-sands-obiekt-806282496-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Luna to czterogwiazdkowy obiekt położony w północnej części kurortu Złote Piaski w Bułgarii, zaledwie 50 metrów od piaszczystej plaży. Idealny dla osób szukających relaksującego wypoczynku nad morzem, oferuje spokojną lokalizację, jednocześnie zapewniając łatwy dostęp do centrum kurortu.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki udogodnieniom takim jak wydzielone sekcje dla dzieci w basenach oraz programy animacyjne. Hotel dysponuje również centrum SPA i bezpłatną siłownią, co czyni go atrakcyjnym wyborem dla gości ceniących aktywny wypoczynek i dbałość o dobre samopoczucie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Luna znajduje się w dzielnicy Golden Sands Beachfront, około 50 metrów od piaszczystej plaży z łagodnym zejściem do morza. Do plaży prowadzi 71 stopni, jednak dostępna jest również alternatywna droga bez schodów. Leżaki i parasole na plaży są płatne, ale przy hotelowych basenach są bezpłatne. Centrum kurortu Złote Piaski oddalone jest o około 500 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 278 klimatyzowanymi pokojami, rozmieszczonymi w jednym siedmiopiętrowym budynku. Oferowane są pokoje dwuosobowe (standardowe i Deluxe), pokoje Superior oraz apartamenty (standardowe i Deluxe), z widokiem na morze lub park. Wszystkie pokoje wyposażone są w telewizję satelitarną, łazienkę, suszarkę do włosów, minibar oraz umeblowany balkon. Częściowy remont hotelu miał miejsce w 2024 roku, a apartamenty Deluxe z widokiem na park odnowiono w 2020 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje: główna restauracja bufetowa, restauracja a la carte z widokiem na morze oraz restauracja BG. Goście mogą korzystać także z lobby baru, baru przy basenie, snack baru i night clubu. Dostępna jest opcja All Inclusive, obejmująca posiłki w formie bufetu oraz wybrane lokalne napoje alkoholowe i bezalkoholowe serwowane w barze przy basenie od 10:00 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Luna oferuje jeden odkryty basen oraz jeden kryty basen, który jest podgrzewany w maju i po 15 września. Oba baseny posiadają wydzielone sekcje dla dzieci. Na terenie hotelu nie ma aquaparku, ale w odległości około 600 metrów znajduje się publiczny Aquapark. Do dyspozycji gości jest centrum SPA i Balneo, bezpłatna siłownia, bilard (płatny), rzutki, tenis stołowy oraz siatkówka plażowa."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował pokój zabaw oraz wydzielone sekcje w basenach. W sezonie od 15 czerwca do 15 września organizowane są animacje dla dzieci, w tym mini disco. Hotel jest rekomendowany dla rodzin, oferując udogodnienia sprzyjające wspólnemu wypoczynkowi."
+  }
+ ],
+ "pros": [
+  "Bliskość piaszczystej plaży (ok. 50 m).",
+  "Spokojna lokalizacja, blisko centrum kurortu.",
+  "Dostępność krytego, podgrzewanego basenu.",
+  "Animacje dla dzieci i dorosłych w sezonie.",
+  "Bezpłatna siłownia i centrum SPA."
+ ],
+ "cons": [
+  "Do plaży prowadzą schody (71 stopni).",
+  "Leżaki i parasole na plaży są płatne i drogie.",
+  "Płatne Wi-Fi w pokojach.",
+  "Brak zjeżdżalni i aquaparku na terenie hotelu.",
+  "Jadalnia bywa zatłoczona i głośna w godzinach szczytu."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Luna jest położony około 50 metrów od piaszczystej plaży. Do plaży prowadzą schody, ale dostępna jest też alternatywna droga bez nich."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni. Najbliższy Aquapark znajduje się około 600 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje wydzielone sekcje dla dzieci w basenach, pokój zabaw oraz animacje dla dzieci w sezonie."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Warna (VAR), oddalony o około 19 km od hotelu."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w lobby hotelowym. Wi-Fi w pokojach jest płatne."
+  },
+  {
+   "q": "Czy hotel posiada podgrzewany basen?",
+   "a": "Tak, hotel posiada kryty basen, który jest podgrzewany w maju i po 15 września."
+  }
+ ],
+ "address": "Golden Sands 9007, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 19,
+ "airportName": "Port Lotniczy Warna (VAR)",
+ "amenities": [
+  "Centrum SPA i Balneo",
+  "Sauna",
+  "Gabinety masażu",
+  "Sala fitness",
+  "Bilard (płatny)",
+  "Rzutki",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Night club"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Golden Sands Beachfront",
+ "bars": 4,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2024,
+ "restaurants": 3,
+ "roomTypes": [
+  "standardowe pokoje dwuosobowe (z widokiem na morze lub park) - klimatyzacja, wykładzina dywanowa, TV sat, łazienka, biurko, suszarka do włosów, kosmetyki, telefon, minibar, balkon",
+  "pokoje Deluxe z widokiem na morze - klimatyzacja, wykładzina dywanowa, TV sat, łazienka, biurko, suszarka do włosów, kosmetyki, telefon, minibar, balkon",
+  "pokoje Superior (z widokiem na morze lub park) - klimatyzacja, wykładzina dywanowa, TV sat, łazienka, biurko, suszarka do włosów, kosmetyki, telefon, minibar, balkon",
+  "apartamenty standardowe (z widokiem na park) - klimatyzacja, wykładzina dywanowa, TV sat, łazienka, biurko, suszarka do włosów, kosmetyki, telefon, minibar, balkon",
+  "apartamenty Deluxe (z widokiem na park) - klimatyzacja, wykładzina dywanowa, TV sat, łazienka, biurko, suszarka do włosów, kosmetyki, telefon, minibar, balkon, rozkładana sofa, dodatkowa toaleta"
+ ],
+ "rooms": 278,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2965439,
+  "lon": 28.0466181,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "hotelluna.bg",
+  "lunagoldensands.com",
+  "trivago.co.uk",
+  "thomascook.com",
+  "directbooking.ro",
+  "hoteles.com",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}

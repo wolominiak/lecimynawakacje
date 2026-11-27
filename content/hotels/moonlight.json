@@ -1,0 +1,146 @@
+{
+ "id": 27452,
+ "slug": "moonlight",
+ "name": "Moonlight",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Św. Wlas"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/moonlight-teren-hotelu-basen-obiekt-1791688704-570-428.jpg",
+ "city": "Sveti Vlas",
+ "intro": [
+  "Hotel Moonlight to pięciogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w miejscowości Sveti Vlas, w Bułgarii. Składa się z dwóch budynków otwartych w latach 2013 i 2015, oferując komfortowe zakwaterowanie w 168 jednostkach.",
+  "Ten przyjazny rodzinom hotel jest idealnym miejscem dla osób poszukujących relaksu na plaży oraz dla rodzin z dziećmi, dzięki licznym udogodnieniom i programom animacyjnym. Bliskość centrum Sveti Vlas i łatwy dostęp do Słonecznego Brzegu oraz Starego Nesebyru sprawiają, że jest to dobra baza wypadowa do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Moonlight znajduje się w dzielnicy Central Beach w Sveti Vlas, zaledwie 10 metrów od piaszczystej plaży z łagodnym wejściem do morza. Hotel dysponuje prywatną częścią plaży, jednak leżaki na plaży są płatne. Obiekt jest oddalony o około 1 km od centrum Sveti Vlas i około 25 km od lotniska w Burgas."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 155 pokoi, 5 apartamentów i 8 studiów. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę z wanną i prysznicem, balkon (niektóre z widokiem na morze lub góry), lodówkę, telewizję satelitarną, suszarkę do włosów, sejf oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Moonlight goście mogą korzystać z restauracji à la carte serwującej dania kuchni bułgarskiej i europejskiej, restauracji bufetowej oraz restauracji z tarasem. Dostępne są również bar przy basenie, lobby bar i cukiernia. Pakiet All Inclusive obejmuje śniadania, lunche, kolacje w formie bufetu, lekkie przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowymi basenami: odkrytym i krytym. Goście mogą korzystać z centrum fitness, stołu do tenisa, bilarda, rzutek, mini golfa, aerobiku i gimnastyki w wodzie. Na plaży dostępne są płatne sporty wodne. W centrum spa znajdują się sauna, łaźnia parowa i jacuzzi, a masaże są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik, plac zabaw oraz pokój gier. Dostępny jest również mini klub dla dzieci w wieku od 4 do 12 lat, oferujący całodzienne animacje. Hotel zapewnia dzienne i wieczorne programy animacyjne, w tym te przeznaczone dla dzieci."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Duże i czyste pokoje z wygodnymi łóżkami",
+  "Miła i pomocna obsługa",
+  "Czyste baseny",
+  "Udogodnienia dla dzieci, w tym mini klub i animacje"
+ ],
+ "cons": [
+  "Oferta All Inclusive bywa oceniana jako skromna",
+  "Brak bezpłatnych leżaków hotelowych na plaży",
+  "Jedzenie bywa letnie",
+  "Hotel może wymagać odświeżenia/lepszego utrzymania",
+  "Brak minibaru i zestawu do kawy w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel Moonlight jest od plaży?",
+   "a": "Hotel Moonlight znajduje się bezpośrednio przy plaży, około 10 metrów od niej."
+  },
+  {
+   "q": "Czy hotel Moonlight jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw, pokój gier oraz mini klub z animacjami dla dzieci."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 25 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Moonlight jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Nie, w faktach nie ma informacji o zjeżdżalniach czy aquaparku na terenie hotelu Moonlight."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy leżaki na plaży są bezpłatne?",
+   "a": "Na plaży część leżaków jest płatna. Leżaki i parasole są dostępne przy basenie."
+  }
+ ],
+ "address": "ulitsa Lazur, Sveti Vlas, 8256, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "basen odkryty",
+  "basen kryty",
+  "centrum fitness",
+  "spa",
+  "sauna",
+  "łaźnia parowa",
+  "jacuzzi",
+  "tenis stołowy",
+  "bilard",
+  "rzutki",
+  "mini golf",
+  "aerobik",
+  "gimnastyka w wodzie",
+  "plac zabaw",
+  "pokój gier"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Central Beach",
+ "bars": 3,
+ "beachDistanceM": 10,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny",
+  "osoby szukające relaksu na plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2013,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "pokój standardowy z klimatyzacją, łazienką z wanną i prysznicem, balkonem, lodówką, TV satelitarną, suszarką do włosów, sejfem i Wi-Fi",
+  "pokój dwuosobowy z klimatyzacją, łazienką z wanną i prysznicem, balkonem, lodówką, TV satelitarną, suszarką do włosów, sejfem i Wi-Fi",
+  "studio z klimatyzacją, łazienką z wanną i prysznicem, balkonem, lodówką, TV satelitarną, suszarką do włosów, sejfem i Wi-Fi",
+  "apartament z klimatyzacją, łazienką z wanną i prysznicem, balkonem, lodówką, TV satelitarną, suszarką do włosów, sejfem i Wi-Fi",
+  "junior suite z klimatyzacją, łazienką z wanną i prysznicem, balkonem, lodówką, TV satelitarną, suszarką do włosów, sejfem i Wi-Fi"
+ ],
+ "rooms": 168,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2196272,
+  "lon": 27.9592899,
+  "src": "osm"
+ },
+ "sources": [
+  "sunnybeachhotels.net",
+  "hotels-burgas.com",
+  "yandex.ru",
+  "trivago.co.uk",
+  "adriatours-ks.com",
+  "mapy.com",
+  "planetofhotels.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

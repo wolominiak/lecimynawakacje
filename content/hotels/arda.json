@@ -1,0 +1,131 @@
+{
+ "id": 24495,
+ "slug": "arda",
+ "name": "Arda",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/arda-basen-teren-hotelu-obiekt-1001699051-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Arda to trzygwiazdkowy obiekt położony we wschodniej części popularnego bułgarskiego kurortu Słoneczny Brzeg. Jest to propozycja dla osób ceniących sobie bliskość piaszczystej plaży oraz łatwy dostęp do centrum miejscowości z jej atrakcjami.",
+  "Obiekt, odnowiony w 2010 roku, oferuje komfortowy wypoczynek w przystępnej cenie. Dzięki udogodnieniom takim jak basen i plac zabaw, hotel jest szczególnie polecany dla rodzin z dziećmi, a także par i wszystkich, którzy szukają relaksu w tętniącym życiem kurorcie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Arda znajduje się we wschodniej części Słonecznego Brzegu, około 150-500 metrów od publicznej, piaszczystej plaży. Do centrum miejscowości jest zaledwie 500-800 metrów, co zapewnia łatwy dostęp do lokalnych atrakcji. Najbliższe lotnisko w Burgas oddalone jest o około 25-28 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 144-145 pokoi, w tym pokoje dwuosobowe (standardowe, budżetowe, superior, komfort) oraz apartamenty. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę z prysznicem, balkon lub taras, telewizor z płaskim ekranem, telefon oraz minibar. Suszarka do włosów, czajnik i żelazko są dostępne do wypożyczenia w recepcji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Arda znajduje się restauracja główna, lobby bar oraz bar przy basenie. Goście mogą wybrać opcję wyżywienia ze śniadaniami (BB) lub ze śniadaniami i obiadokolacjami (HB). Śniadania serwowane są w formie bufetu kontynentalnego."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest sezonowy odkryty basen oraz brodzik dla dzieci. Na terenie hotelu znajduje się również siłownia. Dostępne są masaże, które są dodatkowo płatne. Dla najmłodszych przygotowano plac zabaw."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "W pomieszczeniach ogólnodostępnych, takich jak lobby, dostępne jest bezpłatne Wi-Fi. Wi-Fi w pokojach jest płatne. Hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko plaży i centrum",
+  "Przyjazna atmosfera i miła obsługa",
+  "Basen dostępny dla gości",
+  "Dobre śniadania w formie bufetu",
+  "Czyste i ładnie urządzone pokoje"
+ ],
+ "cons": [
+  "Standard hotelu może wymagać odświeżenia",
+  "Jedzenie (poza śniadaniami) bywa rozczarowujące",
+  "Brak kabin prysznicowych w łazienkach",
+  "Płatne Wi-Fi w pokojach",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu Arda do plaży?",
+   "a": "Hotel Arda jest położony około 150-500 metrów od piaszczystej, publicznej plaży."
+  },
+  {
+   "q": "Czy hotel Arda jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 25-28 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Arda jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Dostępny jest sezonowy odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel Arda jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu Arda jest dostępne Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych (lobby). Wi-Fi w pokojach jest płatne."
+  },
+  {
+   "q": "Jakie opcje wyżywienia oferuje hotel Arda?",
+   "a": "Hotel oferuje wyżywienie w opcji BB (śniadania) lub HB (śniadania i obiadokolacje). Śniadania serwowane są w formie bufetu kontynentalnego."
+  }
+ ],
+ "address": "San Marco 489, 8240 Słoneczny Brzeg, Burgas, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "siłownia",
+  "masaż (płatny)",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "wschodnia część kurortu",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające komfortowego wypoczynku blisko plaży i rozrywek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1969,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (standardowy, budżetowy, superior, komfort) z klimatyzacją, łazienką z prysznicem, balkonem/tarasem, telewizorem, telefonem, minibarem, biurkiem",
+  "apartament z klimatyzacją, łazienką z prysznicem, balkonem/tarasem, telewizorem, telefonem, minibarem, biurkiem"
+ ],
+ "rooms": 144,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3036843,
+  "lon": 40.2567531,
+  "src": "osm"
+ },
+ "sources": [
+  "reserving.com",
+  "travelfinder.bg",
+  "trip.com",
+  "world-travel-directory.net",
+  "hotels.com",
+  "purpletravel.co.uk",
+  "booking.com",
+  "hotels-burgas.com"
+ ],
+ "updated": "2026-11-27"
+}

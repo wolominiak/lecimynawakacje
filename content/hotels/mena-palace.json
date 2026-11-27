@@ -1,0 +1,144 @@
+{
+ "id": 18995,
+ "slug": "mena-palace",
+ "name": "Mena Palace",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/mena-palace-basen-1483717776-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Mena Palace to czterogwiazdkowy obiekt położony w centralnej części popularnego bułgarskiego kurortu Słoneczny Brzeg. Jest to idealne miejsce dla rodzin z dziećmi oraz par, które szukają komfortowego wypoczynku blisko plaży i głównych atrakcji miejscowości.",
+  "Obiekt oferuje szeroki wachlarz udogodnień, w tym baseny, mini klub dla dzieci oraz programy animacyjne dla całej rodziny. Dzięki swojej lokalizacji hotel stanowi doskonałą bazę wypadową do zwiedzania okolicy i korzystania z uroków Słonecznego Brzegu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mena Palace znajduje się w centrum Słonecznego Brzegu, około 100-200 metrów od piaszczystej, publicznej plaży z łagodnym wejściem do wody. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Centrum turystyczne Słonecznego Brzegu oddalone jest o około 500 metrów od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 210 pokojami, w tym pokojami dwuosobowymi, rodzinnymi i apartamentami. Wszystkie pokoje są wyposażone w centralną klimatyzację, balkon lub taras, telewizor z płaskim ekranem, minibar/mini-lodówkę, suszarkę do włosów oraz prywatną łazienkę z prysznicem. Sejf dostępny jest w pokoju bezpłatnie lub w recepcji za opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać ze śniadań, obiadów i kolacji w formie bufetu w restauracji głównej, a także z popołudniowych przekąsek. Lokalne napoje alkoholowe i bezalkoholowe oraz wybrane koktajle są dostępne w barze przy basenie od 10:00 do 22:00. Na terenie hotelu znajduje się również lobby bar i płatny cocktail bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen ze słodką wodą i wydzieloną częścią dla dzieci, a także kryty basen ze zjeżdżalnią wodną. Dla aktywnych dostępne jest centrum fitness, dart i mini golf. Wieczorami organizowane są programy aktywności, muzyka na żywo, pokazy taneczne i wieczory tematyczne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, kącik dla dzieci oraz mini klub dla dzieci w wieku 4-12 lub 4-14 lat, z programem zajęć i mini disco. Wydzielona część basenu oraz łagodne wejście do morza sprawiają, że hotel jest przyjazny dla rodzin."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "W hotelu Mena Palace goście mogą skorzystać z sauny i studia masażu (usługi płatne). Bezpłatne Wi-Fi jest dostępne w całym hotelu lub w pomieszczeniach ogólnodostępnych. Hotel został zbudowany w 2004 roku, otwarty w 2005 roku, a w 2016 roku rozbudowany o nowe skrzydło."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czystość w hotelu i pokojach",
+  "Przyjazny i profesjonalny personel",
+  "Dobre jedzenie w pakiecie All Inclusive",
+  "Liczne atrakcje dla dzieci"
+ ],
+ "cons": [
+  "Sporadyczne uwagi dotyczące temperatury/różnorodności jedzenia",
+  "Pojedyncze skargi na stan pokoi (pleśń, uszkodzenia)",
+  "Brak wystarczającej liczby parasoli przy basenie",
+  "Problemy z parkingiem",
+  "Cocktail bar nie wliczony w All Inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Mena Palace od plaży?",
+   "a": "Hotel Mena Palace jest położony około 100-200 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel Mena Palace jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Mena Palace jest polecany dla rodzin z dziećmi. Oferuje mini klub, plac zabaw, kącik dla dzieci oraz wydzieloną część basenu dla najmłodszych."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu Mena Palace?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Burgas (BOJ), oddalony o około 27-30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Mena Palace jest aquapark?",
+   "a": "Hotel Mena Palace posiada kryty basen ze zjeżdżalnią wodną."
+  },
+  {
+   "q": "Czy w hotelu Mena Palace jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu lub w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel Mena Palace jest tylko dla dorosłych?",
+   "a": "Nie, hotel Mena Palace nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany dla rodzin z dziećmi i par."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są bezpłatne?",
+   "a": "Nie, parasole i leżaki na plaży są dostępne za opłatą."
+  }
+ ],
+ "address": "8240 Słoneczny Brzeg, Słoneczny Brzeg, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 27,
+ "airportName": "Port Lotniczy Burgas (BOJ)",
+ "amenities": [
+  "sauna (płatna)",
+  "studio masażu (płatne)",
+  "centrum fitness",
+  "bilard (płatny)",
+  "dart (bezpłatny)",
+  "mini golf"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centralna część Słonecznego Brzegu",
+ "bars": 3,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój typu Twin z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój rodzinny z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "apartament z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój Deluxe z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój Superior Family z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój Promo z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój Quad Annex z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem",
+  "pokój Triple Annex z centralną klimatyzacją, balkonem/tarasem, TV, minibarem/mini-lodówką, suszarką, telefonem, łazienką z prysznicem"
+ ],
+ "rooms": 210,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "visitnessebar.bg",
+  "sunshine.co.uk",
+  "sunnybeachhotels.net",
+  "thomascook.com",
+  "trivago.com",
+  "mena-palace.com",
+  "booking.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

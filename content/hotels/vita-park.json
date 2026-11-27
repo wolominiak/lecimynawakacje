@@ -1,0 +1,138 @@
+{
+ "id": 736,
+ "slug": "vita-park",
+ "name": "Vita Park",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/vita-park-basen-964550548-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Hotel Vita Park to trzygwiazdkowy obiekt położony w parkowej części bułgarskiego kurortu Albena, w jego południowo-zachodniej części. Jest to miejsce idealne dla rodzin z dziećmi, oferujące bogate zaplecze rekreacyjne oraz łatwy dostęp do plaży i aquaparku.",
+  "Hotel charakteryzuje się rozbudowaną infrastrukturą, obejmującą zarówno budynki hotelowe, jak i indywidualne wille, otoczone zielenią. Goście mogą korzystać z formuły All Inclusive Plus, zapewniającej wyżywienie i napoje, a także z licznych udogodnień dla dzieci i dorosłych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Vita Park znajduje się w Albenie, około 900 metrów od szerokiej, piaszczystej plaży. Do dyspozycji gości jest prywatna strefa plażowa z bezpłatnymi parasolami i leżakami (od trzeciego rzędu od morza). Na plażę kursuje bezpłatny bus elektryczny w godzinach 8:30-17:30."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 314 pokoi, w tym pokoje dwuosobowe, jednoosobowe, rodzinne oraz wille. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, telewizor, bezpłatne Wi-Fi oraz balkon lub taras. Wille mogą dodatkowo posiadać aneks kuchenny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive Plus goście mają zapewnione śniadania, obiady i kolacje w głównej restauracji, a także przekąski, owoce i lody. Dostępne są również lokalne napoje alkoholowe i bezalkoholowe w barach. Dla pobytów od 7 nocy program \"Dine Around\" oferuje bezpłatny lunch i kolację w wybranej restauracji a la carte w Albenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem z mineralną wodą oraz brodzikiem dla dzieci. Goście mają bezpłatny i nieograniczony dostęp do Aquaparku Aquamania, oddalonego o 3-5 minut spacerem. Na terenie obiektu dostępne są także siłownia na świeżym powietrzu, korty tenisowe, mini golf, rzutki, tenis stołowy oraz program animacyjny dla dorosłych i dzieci."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, strefę zabaw, plac zabaw oraz mini klub. Hotel oferuje również program animacyjny dla dzieci, odbywający się sześć razy w tygodniu. Na życzenie dostępne są łóżeczka dziecięce."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel",
+  "Dogodny dostęp do Aquaparku Aquamania",
+  "Cicha, parkowa lokalizacja",
+  "Bezpłatny bus na plażę",
+  "Prywatna strefa plażowa z leżakami i parasolami"
+ ],
+ "cons": [
+  "Odległość od plaży (900m)",
+  "Problemy z czystością w niektórych obszarach",
+  "Przestarzałe udogodnienia",
+  "Niespójna obsługa pokoju",
+  "Zimna woda w basenie/aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się około 900 metrów od hotelu. Na plażę kursuje bezpłatny bus elektryczny."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, goście hotelu mają bezpłatny i nieograniczony dostęp do Aquaparku Aquamania, który znajduje się 3-5 minut spacerem od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, mini klub oraz animacje dla dzieci."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Warna (VAR), oddalony o około 40 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w ogólnodostępnych częściach hotelu (lobby, lobby bar, plaża)."
+  },
+  {
+   "q": "Co obejmuje pakiet All Inclusive Plus?",
+   "a": "Pakiet All Inclusive Plus obejmuje śniadania, obiady, kolacje, przekąski, owoce, lody oraz lokalne napoje alkoholowe i bezalkoholowe serwowane od 10:00 do 23:00."
+  }
+ ],
+ "address": "Hotel Vita Park, 9620, Albena, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Port Lotniczy Warna (VAR)",
+ "amenities": [
+  "Masaże",
+  "Siłownia na świeżym powietrzu",
+  "Jazda konna",
+  "Korty tenisowe",
+  "Rzutki",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Mini golf",
+  "Sporty wodne (nurkowanie, windsurfing)",
+  "Koszykówka"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "parkowa część kurortu",
+ "bars": 4,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysta",
+ "centerKm": 0.65,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2001,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje typu Twin: klimatyzacja, prywatna łazienka z prysznicem i suszarką do włosów, telewizor (cyfrowy/satelitarny), bezpłatne Wi-Fi, biurko, część wypoczynkowa, taras/balkon, bezpłatne kosmetyki, budzik.",
+  "Pokoje Rodzinne: klimatyzacja, prywatna łazienka z prysznicem i suszarką do włosów, telewizor (cyfrowy/satelitarny), bezpłatne Wi-Fi, biurko, część wypoczynkowa, taras/balkon, bezpłatne kosmetyki, budzik.",
+  "Domy Dwupokojowe (Wille): klimatyzacja, prywatna łazienka z prysznicem i suszarką do włosów, telewizor (cyfrowy/satelitarny), bezpłatne Wi-Fi, biurko, część wypoczynkowa, taras/balkon, bezpłatne kosmetyki, budzik, aneks kuchenny, stół jadalny, lodówka, kuchenka."
+ ],
+ "rooms": 314,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3688631,
+  "lon": 28.0726227,
+  "src": "osm"
+ },
+ "sources": [
+  "reserving.com",
+  "netskytravel.com",
+  "joinup.ee",
+  "youtube.com",
+  "trivago.co.uk",
+  "mapcarta.com",
+  "albena.bg",
+  "shsbooking.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,131 @@
+{
+ "id": 7871,
+ "slug": "glarus-beach",
+ "name": "Glarus Beach",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/glarus-beach-obiekt-plaza-1478433467-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Glarus Beach to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w popularnej miejscowości Słoneczny Brzeg w Bułgarii. Znajduje się w dzielnicy Sunny Beach Beachfront, zaledwie kilka metrów od centrum kurortu, co zapewnia łatwy dostęp do lokalnych atrakcji.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, dzięki bogatej ofercie rekreacyjnej, w tym aquaparkowi, basenom i mini klubowi. Docenią go również pary i grupy przyjaciół, szukający aktywnego wypoczynku i wieczornych rozrywek. Otwarty w 2000 roku i odnowiony w 2009, oferuje komfortowe zakwaterowanie w 587 pokojach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Glarus Beach szczyci się doskonałą lokalizacją bezpośrednio przy piaszczystej plaży w Słonecznym Brzegu. Leżaki i parasole przy basenie są bezpłatne, natomiast na plaży mogą być dodatkowo płatne. Centrum Słonecznego Brzegu znajduje się w odległości zaledwie kilku metrów, co ułatwia dostęp do rozrywek i sklepów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 587 pokoi, w tym pokoje dwuosobowe/twin, rodzinne i jednoosobowe, o powierzchni 20-25 m² w przypadku pokoi standardowych. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, prywatną łazienkę z prysznicem lub wanną, telewizor z kanałami satelitarnymi, telefon, suszarkę do włosów oraz minibar/lodówkę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Glarus Beach goście mogą korzystać z dwóch restauracji à la carte oraz restauracji bufetowej. Na terenie obiektu znajdują się również trzy bary, w tym bar przy basenie i lobby bar. Hotel oferuje opcję All Inclusive, która obejmuje śniadania, obiady w restauracji bufetowej oraz kolacje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem oraz oddzielnym basenem dla dzieci. Na terenie obiektu znajduje się również aquapark ze zjeżdżalniami wodnymi. Dla dorosłych dostępna jest siłownia, centrum SPA z łaźnią parową i hammamem (masaże płatne), a także bilard i rzutki (mogą być płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz mini klub. Dodatkowo, obecność aquaparku i basenu dla dzieci sprawia, że jest to idealne miejsce na rodzinne wakacje. Hotel oferuje również program rozrywkowy i animacje odpowiednie dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja bezpośrednio przy plaży",
+  "Duży i czysty basen ze zjeżdżalniami",
+  "Czystość w obiekcie",
+  "Dobre i różnorodne jedzenie (wg niektórych opinii)",
+  "Miły i pomocny personel (wg niektórych opinii)"
+ ],
+ "cons": [
+  "Niektórzy goście zgłaszają niegrzeczny personel i problemy z komunikacją w języku angielskim",
+  "Jedzenie bywa oceniane jako niesmaczne lub niejadalne (wg niektórych opinii)",
+  "Trudności z dostępnością leżaków przy basenie (konieczność wczesnego zajmowania)",
+  "Płatny parking",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Glarus Beach jest położony bezpośrednio przy piaszczystej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 22-35 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark i zjeżdżalnie wodne."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i polecany dla rodzin z dziećmi ze względu na basen dla dzieci, plac zabaw, mini klub i zjeżdżalnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne bezpłatnie w pokojach oraz w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Tak, hotel oferuje opcję All Inclusive, która obejmuje śniadania, obiady w restauracji bufetowej oraz kolacje."
+  }
+ ],
+ "address": "Хотел Гларус, 8240, Sunny Beach, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 22,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "centrum SPA",
+  "łaźnia parowa",
+  "hammam",
+  "masaż (płatny)",
+  "bilard (może być płatny)",
+  "rzutki (mogą być płatne)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Sunny Beach Beachfront",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2000,
+ "pools": 3,
+ "privateBeach": null,
+ "renovated": 2009,
+ "restaurants": 3,
+ "roomTypes": [
+  "pokój dwuosobowy/twin (20-25 m²)",
+  "pokój rodzinny",
+  "pokój jednoosobowy"
+ ],
+ "rooms": 587,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "sunnybeachyhotel.com",
+  "trivago.com",
+  "onthebeach.co.uk",
+  "sunshine.co.uk",
+  "booking.com",
+  "thomascook.com",
+  "loveholidays.com",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

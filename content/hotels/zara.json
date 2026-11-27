@@ -1,0 +1,154 @@
+{
+ "id": 37263,
+ "slug": "zara",
+ "name": "Zara",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Błagojewgrad",
+  "Bańsko"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001715556-570-428.jpg",
+ "city": "Bansko",
+ "intro": [
+  "Hotel Zara to czterogwiazdkowy obiekt położony na obrzeżach malowniczego Bansko, u podnóża szczytu Todorka w Bułgarii. Jest to idealne miejsce dla osób szukających aktywnego wypoczynku, zarówno zimą na nartach, jak i latem podczas górskich wędrówek.",
+  "Hotel jest przyjazny rodzinom, parom oraz miłośnikom relaksu w strefie wellness. Oferuje komfortowe zakwaterowanie, różnorodne wyżywienie oraz szereg udogodnień, w tym podgrzewane baseny i centrum spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i transport",
+   "text": "Hotel Zara znajduje się na obrzeżach Bansko, około 0.65-1 km od centrum miejscowości. Do wyciągu narciarskiego Gondola jest około 0.7-1.3 km, a hotel zapewnia bezpłatny transfer. Najbliższe lotnisko to Sofia (SOF), oddalone o 95-155 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 86-89 pokojami, w tym pokojami standardowymi, deluxe, studiami oraz apartamentami z jedną lub dwiema sypialniami. Większość pokoi ma balkon i jest wyposażona w telewizor, lodówkę/mini-bar, sejf, czajnik oraz prywatną łazienkę. W pokojach brak klimatyzacji, ale wentylatory są dostępne na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna \"Zara\" serwująca śniadania w formie bufetu z daniami bułgarskimi i międzynarodowymi, a także restauracja Tel Aviv z kuchnią koszerną. Goście mogą korzystać z lobby baru oraz baru przy basenie. Hotel oferuje opcję \"All Inclusive\" lub \"All Inclusive Light\" za dodatkową opłatą, a w pakiecie Half Board napoje do kolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada podgrzewany basen kryty z sekcją dla dzieci oraz podgrzewany basen zewnętrzny. Centrum wellness oferuje saunę fińską, łaźnię parową, hammam, jacuzzi, gabinety masażu i salon piękności. Dostępna jest również siłownia, tenis stołowy, bilard i rzutki. Dla dzieci przygotowano brodzik i plac zabaw, a także animacje."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich częściach obiektu i w pokojach. Goście mogą korzystać z przechowalni sprzętu narciarskiego, wypożyczalni rowerów oraz bezpłatnego parkingu. W okolicy dostępne są takie aktywności jak turystyka górska, jazda konna, wędkarstwo i golf."
+  }
+ ],
+ "pros": [
+  "Czyste i komfortowe pokoje",
+  "Przyjemna strefa spa z ciepłym basenem krytym",
+  "Dobre i urozmaicone jedzenie (śniadania i kolacje)",
+  "Przyjazny personel",
+  "Bezpłatny transfer do wyciągu narciarskiego"
+ ],
+ "cons": [
+  "Zewnętrzny basen jest mały i może nie nadawać się do pływania",
+  "Brak klimatyzacji w pokojach (dostępne wentylatory na życzenie)",
+  "Możliwe dodatkowe opłaty za korzystanie z basenu (zaleca się potwierdzenie)",
+  "Ograniczona liczba miejsc parkingowych",
+  "Niektóre pokoje od strony ulicy mogą być głośne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do wyciągu narciarskiego?",
+   "a": "Hotel znajduje się około 0.7-1.3 km od wyciągu narciarskiego Gondola i oferuje bezpłatny transfer."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel ma podgrzewany basen kryty z sekcją dla dzieci oraz podgrzewany basen zewnętrzny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw oraz animacje dla dzieci."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Lotnisko Sofia (SOF), oddalone o około 95-155 km."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "W pokojach brak klimatyzacji, ale wentylatory są dostępne na życzenie."
+  }
+ ],
+ "address": "ul. Yavor 42, Bansko 2770, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 95,
+ "airportName": "Lotnisko Sofia (SOF)",
+ "amenities": [
+  "podgrzewany basen kryty",
+  "podgrzewany basen zewnętrzny",
+  "centrum wellness",
+  "sauna fińska",
+  "łaźnia parowa",
+  "hammam",
+  "jacuzzi",
+  "gabinet masażu",
+  "salon piękności",
+  "siłownia",
+  "tenis stołowy",
+  "bilard",
+  "rzutki",
+  "wypożyczalnia rowerów",
+  "przechowalnia sprzętu narciarskiego",
+  "plac zabaw dla dzieci",
+  "animacje dla dzieci",
+  "bezpłatne Wi-Fi",
+  "bezpłatny parking",
+  "transfer do wyciągu narciarskiego"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "na obrzeżach Bansko, u podnóża szczytu Todorka",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.65,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "miłośnicy narciarstwa",
+  "miłośnicy turystyki górskiej",
+  "osoby szukające relaksu w spa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój standardowy dwuosobowy (również łączone z wspólnym wejściem i balkonem, TV, lodówka/mini-bar, sejf, biurko, czajnik, łazienka z wanną/prysznicem, suszarka, ogrzewanie)",
+  "pokój dwuosobowy deluxe (TV, lodówka/mini-bar, sejf, biurko, czajnik, łazienka z wanną/prysznicem, suszarka, ogrzewanie)",
+  "apartament z jedną sypialnią (TV, lodówka/mini-bar, sejf, biurko, czajnik, łazienka z wanną/prysznicem, suszarka, ogrzewanie)",
+  "apartament z dwiema sypialniami (TV, lodówka/mini-bar, sejf, biurko, czajnik, łazienka z wanną/prysznicem, suszarka, ogrzewanie)",
+  "studio (TV, lodówka/mini-bar, sejf, biurko, czajnik, łazienka z wanną/prysznicem, suszarka, ogrzewanie)"
+ ],
+ "rooms": 86,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.8357746,
+  "lon": 23.4768616,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelsbansko.net",
+  "planetofhotels.com",
+  "booking.com",
+  "zarabansko.com",
+  "kayak.com",
+  "wikimapia.org",
+  "hotelzarabansko.com",
+  "myhotels.sa"
+ ],
+ "updated": "2026-11-27"
+}

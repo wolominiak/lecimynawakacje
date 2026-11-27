@@ -1,0 +1,143 @@
+{
+ "id": 735,
+ "slug": "atlas",
+ "name": "Atlas",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001451011-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Atlas to czterogwiazdkowy obiekt położony w popularnym bułgarskim kurorcie Złote Piaski, zaledwie kilkaset metrów od piaszczystej plaży i centrum miejscowości. Został otwarty w 2003 roku, a ostatnią renowację przeszedł w 2013 roku, oferując 273 pokoje w sześciopiętrowym budynku.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki licznym udogodnieniom, takim jak mini klub, plac zabaw i baseny ze zjeżdżalniami. Będzie również odpowiedni dla osób szukających relaksu oraz podróżujących z ograniczonym budżetem, ceniących sobie dobrą lokalizację i formułę Ultra All Inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Atlas znajduje się w miejscowości Złote Piaski, około 300-350 metrów od piaszczystej plaży z łagodnym wejściem do morza. Do centrum miejscowości jest również około 300-350 metrów. Leżaki i parasole na plaży są płatne, natomiast przy basenie dostępne bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 273 pokoje, w tym standardowe pokoje dwuosobowe, rodzinne, studia i apartamenty. Wszystkie wyposażone są w balkon, centralną klimatyzację, telewizor, telefon, minibar, sejf (często płatny) oraz łazienkę z prysznicem lub wanną i suszarką do włosów. Dostępne są również pokoje hipoalergiczne i dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach formuły Ultra All Inclusive goście mogą korzystać z restauracji głównej (bufet), restauracji à la carte oraz trzech barów: lobby baru, baru przy basenie i snack baru. Pakiet obejmuje śniadania, obiady, kolacje, późne śniadania, przekąski, lody, a także lokalne i importowane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny odkryte, w tym jeden dla dzieci, oraz kryty basen podgrzewany w maju i październiku. Hotel posiada również dwie zjeżdżalnie wodne. W strefie wellness/spa dostępne są bezpłatne łaźnia parowa, sauna i siłownia, a także płatne masaże i zabiegi kosmetyczne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Atlas jest przyjazny rodzinom, oferując dedykowaną strefę dla dzieci w basenach, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Dodatkowo, organizowane są dzienne i wieczorne programy animacyjne oraz mini disco."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych. Goście mogą korzystać z centrum fitness, tenisa stołowego, bilarda, rzutek, aerobiku, gimnastyki wodnej i siatkówki. Na terenie obiektu znajduje się również fryzjer."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Dobre i różnorodne jedzenie",
+  "Duże i czyste pokoje",
+  "Baseny, w tym kryty i ze zjeżdżalniami",
+  "Udogodnienia dla dzieci (mini klub, animacje)"
+ ],
+ "cons": [
+  "Starszy budynek i umeblowanie",
+  "Płatny parking",
+  "Wi-Fi w pokojach może być płatne",
+  "Leżaki i parasole na plaży są płatne",
+  "Kolejki do baru",
+  "Łazienki bywają niedostatecznie czyste"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Atlas znajduje się około 300-350 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na plaży są płatne. Przy basenie są bezpłatne."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 18-25 km od lotniska w Warnie (VAR)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada dwie zjeżdżalnie wodne oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje mini klub dla dzieci, plac zabaw oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych (lobby). W pokojach Wi-Fi może być płatne."
+  }
+ ],
+ "address": "Golden Sands 25, 9007, Golden Sands, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 21.5,
+ "airportName": "Lotnisko Warna (VAR)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Przechowalnia bagażu",
+  "Usługi pralnicze (płatne)",
+  "Kantor",
+  "Sklep",
+  "Fryzjer",
+  "Lekarz (na wezwanie, płatny)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Primorski (Warna)",
+ "bars": 3,
+ "beachDistanceM": 325,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.325,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby szukające relaksu",
+  "Podróżujący z ograniczonym budżetem"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2013,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (standard) z balkonem, klimatyzacją, TV, telefonem, minibarem, sejfem, łazienką z prysznicem/wanną i suszarką do włosów",
+  "Pokój rodzinny z balkonem, klimatyzacją, TV, telefonem, minibarem, sejfem, łazienką z prysznicem/wanną i suszarką do włosów",
+  "Studio z balkonem, klimatyzacją, TV, telefonem, minibarem, sejfem, łazienką z prysznicem/wanną i suszarką do włosów",
+  "Apartament z balkonem, klimatyzacją, TV, telefonem, minibarem, sejfem, łazienką z prysznicem/wanną i suszarką do włosów"
+ ],
+ "rooms": 273,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 32.0940939,
+  "lon": 34.7735059,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "trivago.com",
+  "booking.com",
+  "shsbooking.com",
+  "atlashotel.bg",
+  "reserving.com",
+  "hotels-varna.info",
+  "top-hotels-bg.com"
+ ],
+ "updated": "2026-11-27"
+}

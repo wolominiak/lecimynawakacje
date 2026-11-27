@@ -1,0 +1,137 @@
+{
+ "id": "x:bulgaria:belleville",
+ "slug": "belleville",
+ "name": "Belleville",
+ "country": "bulgaria",
+ "place": [
+  "bulgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/bulharsko/oblast-burgas/djuni/belleville/2beb8a7dfa340634b7fe4.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Belleville to kameralny, odnowiony w 2019 roku obiekt, położony w południowej części Słonecznego Brzegu, niedaleko słynnej plaży Cacao. Ten trzygwiazdkowy hotel, składający się z jednego trzypiętrowego budynku, oferuje komfortowe zakwaterowanie w 38 pokojach, idealne dla osób ceniących sobie spokojny wypoczynek.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par, które szukają relaksu w cichej okolicy, jednocześnie z łatwym dostępem do atrakcji Słonecznego Brzegu i zabytkowego Nesebaru. Hotel zapewnia przyjazną atmosferę i podstawowe udogodnienia, które sprzyjają udanemu urlopowi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Belleville usytuowany jest w południowej części Słonecznego Brzegu, zaledwie 500 metrów (około 5 minut spacerem) od piaszczystej plaży Cacao. W pobliżu hotelu znajduje się również przystanek autobusowy, umożliwiający łatwy dojazd do centrum Słonecznego Brzegu (1-3 km) oraz do zabytkowego Nesebaru. Leżaki i parasole na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 38 pokoi, w tym pokoje dwuosobowe, rodzinne z drzwiami łączącymi oraz apartamenty. Każdy pokój wyposażony jest w indywidualnie sterowaną klimatyzację, telewizję satelitarną, bezpłatne Wi-Fi, minilodówkę, telefon oraz łazienkę z prysznicem. Niektóre pokoje posiadają balkon i mogą oferować widok na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, serwująca dania kuchni międzynarodowej i lokalnej na śniadanie, obiad i kolację. Goście mogą wybierać między opcją ze śniadaniami (BB) lub obiadokolacjami (HB). Dodatkowo dostępny jest bar przekąskowy z lekkimi posiłkami i lodami oraz bar w holu/przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym basenem ze słodką wodą, przy którym dostępne są bezpłatne leżaki i parasole. Dla najmłodszych wydzielono strefę do brodzenia. W hotelu można skorzystać z tenisa stołowego, bilarda, piłkarzyków, automatów do gier i rzutek. Wieczorne animacje obejmują bingo, karaoke i wieczory filmowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla dzieci przygotowano wydzieloną strefę do brodzenia w basenie oraz pokój zabaw. Hotel jest polecany dla rodzin, choć starsze opinie wskazywały na ograniczoną ofertę rozrywkową dla dzieci wieczorem."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży Cacao",
+  "Przyjazny i pomocny personel",
+  "Czystość w całym obiekcie",
+  "Smaczne jedzenie, szczególnie śniadania i kolacje",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Pokoje mogą mieć przestarzały wystrój",
+  "Jedzenie bywa podawane letnie",
+  "Ograniczona różnorodność posiłków",
+  "Brak rozrywek dla dzieci wieczorem (wg starszych opinii)",
+  "Niektóre usługi i udogodnienia są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Belleville jest oddalony o około 500 metrów (5 minut spacerem) od piaszczystej plaży Cacao."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 21-27 km, co oznacza transfer trwający około 21-45 minut."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet All Inclusive?",
+   "a": "Hotel oferuje wyżywienie w opcji śniadań (BB) oraz obiadokolacji (HB). Brak informacji o pakiecie All Inclusive."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada jeden odkryty basen ze słodką wodą z wydzieloną strefą do brodzenia dla dzieci. Brak informacji o aquaparku lub zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin szukających relaksu. Oferuje pokój zabaw dla dzieci oraz wydzieloną strefę do brodzenia w basenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  }
+ ],
+ "address": "ul. \"Părva, 8240, Słoneczny Brzeg, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 21,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Basen odkryty",
+  "Pokój zabaw dla dzieci",
+  "Tenis stołowy",
+  "Bilard",
+  "Piłkarzyki",
+  "Automaty do gier",
+  "Rzutki",
+  "Bezpłatne Wi-Fi",
+  "Parking"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "południowa część Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny szukające relaksu",
+  "pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double Room) z indywidualnie sterowaną klimatyzacją, telewizją satelitarną/kablową, bezpłatnym Wi-Fi, minilodówką/mini-barem, telefonem, łazienką z prysznicem i WC.",
+  "Pokój rodzinny (Family Room) z drzwiami łączącymi, wyposażenie jak pokój dwuosobowy.",
+  "Apartamenty, wyposażenie jak pokój dwuosobowy."
+ ],
+ "rooms": 38,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.3724632,
+  "lon": 27.7066793,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "hotels-burgas.com",
+  "booking.com",
+  "trivago.com",
+  "onthebeach.co.uk",
+  "planmytour.co.uk",
+  "planetofhotels.com",
+  "eurowings.com"
+ ],
+ "updated": "2026-11-27"
+}

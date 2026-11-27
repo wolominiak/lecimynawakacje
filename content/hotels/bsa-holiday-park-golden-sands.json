@@ -1,0 +1,136 @@
+{
+ "id": 6427,
+ "slug": "bsa-holiday-park-golden-sands",
+ "name": "BSA Holiday Park (Golden Sands)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/bsa-holiday-park-golden-sands-obiekt-budynek-glowny-1266571456-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "BSA Holiday Park to czterogwiazdkowy hotel położony w południowo-zachodniej części kurortu Złote Piaski, w otoczeniu zieleni. Obiekt, otwarty w 2004 roku i częściowo odnawiany, jest idealnym miejscem dla rodzin z dziećmi, par oraz osób szukających bazy wypadowej do zwiedzania bułgarskiego wybrzeża.",
+  "Hotel oferuje komfortowe zakwaterowanie w 145 pokojach oraz pakiet All Inclusive, zapewniając dostęp do wielu udogodnień, takich jak basen, restauracje, bary oraz program animacyjny. Spokojna lokalizacja, blisko plaży i centrum, sprawia, że jest to atrakcyjna propozycja na wakacyjny wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel BSA Holiday Park znajduje się w Złotych Piaskach, około 450-600 metrów od piaszczystej plaży z certyfikatem Błękitnej Flagi. Dojście do plaży zajmuje od 5 do 15 minut spacerem. Centrum Złotych Piasków oddalone jest o około 800-1100 metrów, a główny dworzec autobusowy znajduje się w odległości 60-200 metrów od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 145 dźwiękoszczelnymi pokojami, w tym jednoosobowymi, typu studio, dwuosobowymi, trzyosobowymi i czteroosobowymi, niektóre z widokiem na morze. Każdy pokój wyposażony jest w balkon, indywidualną klimatyzację, minibar, telefon, suszarkę do włosów, lodówkę, biurko, bezpłatne kosmetyki, telewizję satelitarną i bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna z tarasem, restauracja BBQ, bar przy basenie, bar w lobby oraz bar z przekąskami. Pakiet All Inclusive obejmuje śniadania, obiady, podwieczorki, kolacje oraz napoje serwowane w barze w lobby i barze przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji jeden odkryty basen, odnowiony w 2022 roku, z wydzieloną sekcją dla dzieci i małą zjeżdżalnią. Na terenie obiektu są dwa place zabaw dla dzieci oraz bezpłatny mini klub. Od czerwca do września organizowany jest program animacyjny dla dzieci i dorosłych. W niektórych typach pokoi dostępny jest bezpłatny wstęp do aquaparku w Hotelu Gradina."
+  },
+  {
+   "title": "Udogodnienia i aktywności",
+   "text": "Hotel oferuje usługi spa (masaże, sauna), siłownię/centrum fitness, kort tenisowy, boisko do koszykówki, siatkówki, stół do tenisa stołowego, rzutki i boisko do piłki nożnej. Bezpłatne Wi-Fi jest dostępne na terenie całego hotelu i w pokojach."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje",
+  "Dobre i różnorodne jedzenie",
+  "Dobra lokalizacja, blisko plaży i centrum",
+  "Animacje dla dzieci i dorosłych"
+ ],
+ "cons": [
+  "Basen bywa zbyt mały w stosunku do liczby gości",
+  "Niestabilne Wi-Fi, zwłaszcza na wyższych piętrach",
+  "Dojście do plaży utrudnione dla osób z ograniczoną mobilnością",
+  "Meble w pokojach są nieco starsze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 450-600 metrów od piaszczystej plaży. Dojście zajmuje od 5 do 15 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Warna (VAR), oddalone o około 17.7 km w linii prostej lub 23-30 km drogą."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Hotel posiada wydzieloną sekcję basenową dla dzieci z małą zjeżdżalnią. Niektóre typy pokoi oferują bezpłatny dostęp do aquaparku w Hotelu Gradina, który posiada 4 zjeżdżalnie i basen dla dzieci ze zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel BSA Holiday Park jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada sekcję basenową dla dzieci, place zabaw, mini klub oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu i w pokojach, choć jakość połączenia może być zmienna."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany dla rodzin i par."
+  }
+ ],
+ "address": "Golden Sands Resort complex, BG9007 Goldstrand, Varna, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 17.7,
+ "airportName": "Port Lotniczy Warna (VAR)",
+ "amenities": [
+  "Spa",
+  "Siłownia/centrum fitness",
+  "Kort tenisowy",
+  "Boisko do koszykówki",
+  "Boisko do siatkówki",
+  "Stół do tenisa stołowego",
+  "Rzutki",
+  "Boisko do piłki nożnej",
+  "Mini klub dla dzieci",
+  "Place zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "",
+ "bars": 3,
+ "beachDistanceM": 450,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające bazy wypadowej do zwiedzania okolicy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2004,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój typu studio",
+  "Pokój dwuosobowy/twin",
+  "Pokój trzyosobowy",
+  "Pokój czteroosobowy"
+ ],
+ "rooms": 145,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "varna.bg",
+  "tui.com",
+  "planetofhotels.com",
+  "travelmyth.co.uk",
+  "booking.com",
+  "directbooking.ro",
+  "reserving.com",
+  "easemytrip.com"
+ ],
+ "updated": "2026-11-27"
+}
