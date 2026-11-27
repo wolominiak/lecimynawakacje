@@ -27,7 +27,7 @@ concurrency:
 jobs:
   hotels:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v5
         with:
@@ -39,12 +39,15 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           HOTEL_CONC: '6'
+          # przebiegi co godzinę kończą się przed kolejnym; ręczne mogą trwać dłużej
+          MAX_MINUTES: ${{ github.event_name == 'schedule' && '50' || '165' }}
         run: |
           ARGS="--limit ${{ inputs.limit || '60' }}"
           if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           node scripts/generate-hotels.mjs $ARGS
       - name: Commit i push
+        if: always()
         run: |
           git config user.name "wolominiak"
           git config user.email "228559845+wolominiak@users.noreply.github.com"

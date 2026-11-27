@@ -253,9 +253,17 @@ async function one(h) {
   }
 }
 
+// limit czasu: po MAX_MINUTES nie zaczynamy nowych hoteli, żeby workflow zdążył zapisać gotowe karty
+const MAX_MS = Number(process.env.MAX_MINUTES || 0) * 60000;
+const started = Date.now();
 let next = 0;
+let stopped = false;
 await Promise.all(Array.from({ length: Math.min(CONC, todo.length) }, async () => {
-  while (next < todo.length) await one(todo[next++]);
+  while (next < todo.length) {
+    if (MAX_MS && Date.now() - started > MAX_MS) { stopped = true; break; }
+    await one(todo[next++]);
+  }
 }));
+if (stopped) console.log(`Limit czasu (${process.env.MAX_MINUTES} min): zatrzymano po ${ok} kartach, reszta w kolejnych przebiegach`);
 fs.writeFileSync(indexFile, JSON.stringify(index));
 console.log('Gotowe, nowych kart:', ok);
