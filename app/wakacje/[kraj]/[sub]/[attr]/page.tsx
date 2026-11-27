@@ -99,7 +99,7 @@ export default async function AttractionPage({ params }: P) {
             {a.tips.length > 0 && (<><h2>Porady przed wizytą</h2><ul>{a.tips.map((t, i) => <li key={i}>{t}</li>)}</ul></>)}
 
             <GygWidget q={a.gygQuery} items={4} title={`Wycieczki: ${a.name}`} />
-            <SeePlaces kraj={c.slug} phrase={a.name} title={`Wycieczki po polsku: ${c.name}`} />
+            <SeePlaces kraj={c.slug} phrase={a.name} title={`Wycieczki fakultatywne: ${c.name}`} />
 
             <div className="ft-row" style={{ marginTop: 22 }}>
               <a className="ft-card ft-link" href={stayLink(`${a.name}, ${c.name}`)} {...AFF}>

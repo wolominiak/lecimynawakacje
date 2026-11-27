@@ -142,7 +142,7 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
               </>
             )}
             <SelfTravel c={c} r={r} />
-            <SeePlaces kraj={c.slug} region={r.slug} title={`Wycieczki po polsku ${r.loc}`} />
+            <SeePlaces kraj={c.slug} region={r.slug} title={`Wycieczki fakultatywne ${r.loc}`} />
             <GygWidget q={r.gygQuery || r.name} title={`Wycieczki fakultatywne ${r.loc}`} />
             {ct.bestTime && (
               <>
@@ -310,7 +310,7 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
                     </div>
                   ))}
                 </div>
-                <SeePlaces kraj={c.slug} title={`Wycieczki fakultatywne po polsku ${ct.loc}`} />
+                <SeePlaces kraj={c.slug} title={`Wycieczki fakultatywne ${ct.loc}`} />
                 <GygWidget q={ct.gygQuery || c.name} items={6} title={`Wycieczki fakultatywne ${ct.loc}`} />
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
                   '@context': 'https://schema.org', '@type': 'ItemList', name: `Atrakcje ${ct.loc}`,

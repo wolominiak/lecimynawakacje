@@ -1,6 +1,6 @@
 import { spFor } from '@/lib/seeplaces';
 
-// Wycieczki po polsku (SeePlaces, TradeDoubler)
+// Wycieczki fakultatywne z rezerwacją po polsku (SeePlaces, TradeDoubler)
 export default function SeePlaces({ kraj, region, phrase, title }: { kraj: string; region?: string; phrase?: string; title: string }) {
   const list = spFor(kraj, { region, phrase });
   if (!list.length) return null;
