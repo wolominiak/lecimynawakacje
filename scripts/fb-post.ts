@@ -84,7 +84,7 @@ async function lastMinute(weekend = false): Promise<Post | null> {
     ? pickOne(['Spakuj się w weekend, wylot w przyszłym tygodniu! ✈️', 'Nagła ochota na słońce? Te wyloty są tuż tuż ☀️'])
     : pickOne(['🔥 Last minute tygodnia: najtańsze wyloty z Polski', '⏰ Last minute: ciepło za mniej, niż myślisz', '🌴 Wyloty w najbliższych dniach w najlepszych cenach']);
   return {
-    key: `lm-${weekend ? 'w' : 'n'}-${today}`,
+    key: `lm-${weekend ? 'w' : 'n'}-${top.map((o) => `${o.id}:${price(o)}`).join(',')}`,
     message: `${head}\n\n${top.map((o) => '👉 ' + offerLine(o)).join('\n')}\n\nCeny na dziś, za osobę, z przelotem. Last minute znika szybko 👇\n\n#lastminute #wakacje #tanieWakacje #lecimynawakacje`,
     link: SITE + '/last-minute/',
   };
@@ -95,7 +95,7 @@ async function allInclusive(): Promise<Post | null> {
   if (top.length < 2) return null;
   const o = top[0];
   return {
-    key: `ai-${today}`,
+    key: `ai-${top.map((x) => `${x.id}:${price(x)}`).join(',')}`,
     message: `${pickOne(['🍹 All inclusive w dobrej cenie', '🏖️ Jedzenie i drinki w cenie, a portfel spokojny', '☀️ Wczasy all inclusive z oceną powyżej 7,5'])}\n\n${top.map((x) => '✅ ' + offerLine(x)).join('\n')}\n\nNajtańsza dziś: ${o.name} za ${zl(price(o))} od osoby. Porównujemy oferty wielu biur podróży w jednym miejscu.\n\n#allinclusive #wakacje #wczasy #lecimynawakacje`,
     link: offerLink(o, '/all-inclusive/'),
   };
@@ -106,7 +106,7 @@ async function exotic(): Promise<Post | null> {
   const top = distinctCheap(await offers({ countries: ids }), 4);
   if (top.length < 2) return null;
   return {
-    key: `exo-${today}`,
+    key: `exo-${top.map((x) => `${x.id}:${price(x)}`).join(',')}`,
     message: `${pickOne(['🌺 Egzotyka bliżej, niż myślisz', '🐠 Rajskie plaże w cenie zwykłych wczasów?', '🥥 Zimą w tropiki, latem wspomnienia'])}\n\n${top.map((o) => '🌴 ' + offerLine(o)).join('\n')}\n\nZobacz wszystkie kierunki egzotyczne 👇\n\n#egzotyka #zanzibar #dominikana #tajlandia #lecimynawakacje`,
     link: SITE + '/egzotyka/',
   };
@@ -117,7 +117,7 @@ async function cruises(): Promise<Post | null> {
   if (!l.length) return null;
   const top = l.slice(0, 3);
   return {
-    key: `rejs-${today}`,
+    key: `rejs-${top.map((x) => `${x.id}:${price(x)}`).join(',')}`,
     message: `${pickOne(['🚢 Kilka krajów w jeden urlop: rejsy wycieczkowe', '⚓ Rejs zamiast hotelu? Zobacz ceny', '🌊 Morze Śródziemne, fiordy, Karaiby z pokładu statku'])}\n\n${top.map((o) => `🛳️ ${o.name}, ${dm(o.departureDate)}, ${nights(o.departureDate, o.returnDate)} nocy, od ${zl(price(o))}/os.`).join('\n')}\n\nNa pokładzie wszystko w cenie: nocleg, wyżywienie, rozrywka 👇\n\n#rejsy #rejswycieczkowy #wakacje #lecimynawakacje`,
     link: SITE + '/rejsy/',
   };
@@ -138,7 +138,7 @@ function flights(byOrigin = false): Post | null {
   const top = list.filter((r) => (seen.has(r.country) ? false : (seen.add(r.country), true))).slice(0, 5);
   if (top.length < 3) return null;
   return {
-    key: `loty-${byOrigin ? 'o' : 'n'}-${today}`,
+    key: `loty-${byOrigin ? 'o' : 'n'}-${top.map((r) => `${r.slug}:${r.price}`).join(',')}`,
     message: `${head}\n\n${top.map((r) => `🔹 ${r.oName} - ${r.name}: od ${zl(r.price)}${r.dep ? ` (${dm(r.dep)}${r.ret ? `-${dm(r.ret)}` : ''})` : ''}`).join('\n')}\n\nCeny w obie strony za osobę, sprawdzone dziś rano. Tanie bilety szybko znikają 👇\n\n#tanieloty #loty #podroze #lecimynawakacje`,
     link: SITE + (byOrigin ? '/loty/' : routeUrl(top[0].slug)),
   };
@@ -269,11 +269,18 @@ async function main() {
   let post: Post | null = null;
   const gens = slot === 'reczny' ? (TYPES[TYPE] || []) : [...PLAN[slot][dow], ...FALLBACK];
   if (slot === 'reczny' && !gens.length) { console.error('Nieznany rodzaj posta:', TYPE); process.exit(1); }
+  let dup = false;
   for (const g of gens) {
     const p = await g();
-    if (p && !recent.has(p.key)) { post = p; break; }
+    if (p && recent.has(p.key)) { dup = true; continue; }
+    if (p) { post = p; break; }
   }
-  if (!post) { console.log('Brak treści do publikacji'); return; }
+  if (!post) {
+    console.log(dup
+      ? 'Ten post byłby taki sam jak już opublikowany (te same oferty lub ten sam hotel/atrakcja). Spróbuj inny rodzaj posta albo później, gdy zmienią się oferty.'
+      : 'Brak danych do tego posta (np. API ofert nic nie zwróciło albo nie ma ofert spełniających warunki).');
+    return;
+  }
   post.message = post.message.replace(/\s*[–—]\s*/g, ' - ');
   console.log(`--- ${slot} ${today} ---\n${post.message}\n${post.link}\n`);
   if (DRY) { console.log('(na sucho, bez publikacji)'); return; }
