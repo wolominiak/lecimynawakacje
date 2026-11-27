@@ -4,7 +4,7 @@ import WorldMap from '@/components/WorldMap';
 import Search from '@/components/Search';
 import { DestCard } from '@/components/Cards';
 import { CONTINENTS, MONTHS, getCountries, getByContinent, popular, warmIn } from '@/lib/data';
-import { wakacjeUrl, SITE } from '@/lib/affiliate';
+import { SITE } from '@/lib/affiliate';
 
 const MONTH_TAG = ['Ferie', 'Ferie', 'Przedwiośnie', 'Wielkanoc', 'Majówka', 'Początek lata', 'Wakacje', 'Wakacje', 'Po sezonie', 'Złota jesień', 'Ucieczka od szarości', 'Święta'];
 
@@ -82,7 +82,7 @@ export default function Home() {
       <section className="section">
         <div className="wrap">
           <div className="feat">
-            <a href={wakacjeUrl(undefined, { allInclusive: true })} target="_blank" rel="sponsored nofollow noopener">
+            <a href="/all-inclusive/">
               <b>All inclusive</b>
               <span>Hotele z pełnym wyżywieniem w Turcji, Egipcie, Grecji i na Karaibach od kilkudziesięciu biur podróży.</span>
               <em>Sprawdź oferty &rarr;</em>
