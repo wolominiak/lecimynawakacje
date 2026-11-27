@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useHotelPages } from './useHotelPages';
 import { normName } from '@/lib/hotelmatch';
 
@@ -75,7 +75,13 @@ async function loadWakacje(countryId: number): Promise<TL[]> {
   return [...m.values()];
 }
 
-export default function OfferSearch({ slug, countryId, wakacjePath, loc }: { slug: string; countryId?: number; wakacjePath: string; loc: string }) {
+// słowa zbyt ogólne, żeby po nich dopasować region (np. "Costa", "Wyspa")
+const GENERIC = new Set(['costa', 'wyspa', 'wyspy', 'riwiera', 'riviera', 'wybrzeze', 'region', 'okolice', 'polwysep', 'zatoka', 'island', 'islands', 'coast', 'north', 'south', 'polnocne', 'poludniowe', 'port', 'playa', 'beach', 'city', 'miasto']);
+const tokens = (s: string) => normName(s).split(' ').filter((w) => w.length > 3 && !GENERIC.has(w));
+const stemEq = (a: string, b: string) => a === b || (a.length >= 5 && b.length >= 5 && a.slice(0, 5) === b.slice(0, 5));
+
+export default function OfferSearch({ slug, countryId, wakacjePath, loc, regionHint, regionLoc }: { slug: string; countryId?: number; wakacjePath: string; loc: string; regionHint?: string[]; regionLoc?: string }) {
+  const hinted = useRef(false);
   const hp = useHotelPages();
   const [all, setAll] = useState<U[] | null>(null);
   const [from, setFrom] = useState('');
@@ -137,12 +143,27 @@ export default function OfferSearch({ slug, countryId, wakacjePath, loc }: { slu
   const deps = useMemo(() => opts((o) => o.from.split(/\s+-\s+/)[0]), [all]); // eslint-disable-line react-hooks/exhaustive-deps
   const ops = useMemo(() => opts((o) => o.operator), [all]); // eslint-disable-line react-hooks/exhaustive-deps
 
+  // strona regionu: oferty z tego regionu albo miejscowości (nazwy w źródłach się różnią, więc dopasowanie jest przybliżone)
+  const hintTokens = useMemo(() => (regionHint || []).flatMap(tokens), [regionHint]);
+  const hintFull = useMemo(() => (regionHint || []).map(normName).filter(Boolean), [regionHint]);
+  const inHint = (o: U) => {
+    const parts = [o.region, o.city];
+    if (hintTokens.length) return parts.some((p) => tokens(p).some((t) => hintTokens.some((w) => stemEq(t, w))));
+    return parts.some((p) => { const n = normName(p); return !!n && hintFull.some((h) => n.includes(h) || h.includes(n)); });
+  };
+  const [near, setNear] = useState(false);
+  useEffect(() => {
+    if (hinted.current || !all || !regionHint?.length) return;
+    hinted.current = true;
+    if (all.some(inHint)) setNear(true);
+  }, [all]); // eslint-disable-line react-hooks/exhaustive-deps
+
   const list = useMemo(() => {
     const [lo, hi] = len ? len.split('-').map(Number) : [0, 999];
     const l = (all || []).filter((o) =>
       (!from || o.date >= from) && (!to || o.date <= to) && o.nights >= lo && o.nights <= hi &&
       (!board || o.board === board) && (!dep || normName(o.from.split(/\s+-\s+/)[0]) === dep) &&
-      (!region || normName(o.region) === region) && (!op || normName(o.operator) === op) && (!maxPrice || o.pp <= Number(maxPrice)));
+      (!near || inHint(o)) && (!region || normName(o.region) === region) && (!op || normName(o.operator) === op) && (!maxPrice || o.pp <= Number(maxPrice)));
     const by: Record<string, (a: U, b: U) => number> = {
       price: (a, b) => a.pp - b.pp,
       date: (a, b) => a.date.localeCompare(b.date) || a.pp - b.pp,
@@ -150,9 +171,9 @@ export default function OfferSearch({ slug, countryId, wakacjePath, loc }: { slu
       stars: (a, b) => b.stars - a.stars || a.pp - b.pp,
     };
     return [...l].sort(by[sort]);
-  }, [all, from, to, len, board, dep, region, op, maxPrice, sort]);
+  }, [all, from, to, len, board, dep, region, op, maxPrice, sort, near]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  useEffect(() => { setShown(12); }, [from, to, len, board, dep, region, op, maxPrice, sort]);
+  useEffect(() => { setShown(12); }, [from, to, len, board, dep, region, op, maxPrice, sort, near]);
 
   function searchMore() {
     const f: string[] = [];
@@ -167,7 +188,7 @@ export default function OfferSearch({ slug, countryId, wakacjePath, loc }: { slu
   return (
     <section className="ob">
       <div className="ob-head">
-        <h2>Wyszukiwarka wakacji {loc}</h2>
+        <h2>{regionLoc && near ? `Oferty wakacji ${regionLoc}` : `Wyszukiwarka wakacji ${loc}`}</h2>
         <p className="muted">
           Porównujemy oferty {nOps > 1 ? `${nOps} biur podróży` : 'biur podróży'} w jednym miejscu. Ceny za osobę za cały pobyt z przelotem.
         </p>
@@ -215,7 +236,13 @@ export default function OfferSearch({ slug, countryId, wakacjePath, loc }: { slu
       </div>
 
       {all === null && <div className="ob-empty">Wczytujemy oferty biur podróży...</div>}
-      {all !== null && <div className="ob-count">{list.length} {ofert(list.length)}{from || to ? ' w wybranym terminie' : ''}</div>}
+      {all !== null && (
+        <div className="ob-count">
+          {list.length} {ofert(list.length)}{from || to ? ' w wybranym terminie' : ''}
+          {regionLoc && near && <button type="button" className="os-near" onClick={() => setNear(false)}>tylko {regionLoc.replace(/^(w|we|na)\s+/, '')} &times;</button>}
+          {regionLoc && !near && regionHint?.length && all.some(inHint) && <button type="button" className="os-near off" onClick={() => setNear(true)}>pokaż tylko {regionLoc.replace(/^(w|we|na)\s+/, '')}</button>}
+        </div>
+      )}
       {all !== null && list.length === 0 && (
         <div className="ob-empty">Brak ofert dla wybranych filtrów. Zmień filtry albo <button type="button" className="linkbtn" onClick={searchMore}>szukaj w pełnej bazie wakacje.pl</button>.</div>
       )}

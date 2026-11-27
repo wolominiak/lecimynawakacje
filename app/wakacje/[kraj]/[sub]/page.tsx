@@ -3,8 +3,7 @@ import { seo, ogImage, pick } from '@/lib/seo';
 import { SITE } from '@/lib/affiliate';
 import { imageFor } from '@/lib/images';
 import { notFound } from 'next/navigation';
-import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, wakacjeRegionId, type SubpageSlug } from '@/lib/data';
-import OffersWidget from '@/components/OffersWidget';
+import { getCountries, getCountry, getRegion, continentOf, availableSubpages, MONTHS, SUBPAGES, wakacjeCountryId, type SubpageSlug } from '@/lib/data';
 import SelfTravel from '@/components/SelfTravel';
 import { HotelsView, CarsView } from '@/components/StayCarViews';
 import OfferSearch from '@/components/OfferSearch';
@@ -135,11 +134,9 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
                 </div>
               </>
             ) : null}
-            {(wakacjeRegionId(c.slug, r.slug) || wakacjeCountryId(c.slug)) && (
-              <>
-                <h2>{wakacjeRegionId(c.slug, r.slug) ? `Oferty wakacji ${r.loc}` : `Oferty wakacji ${ct.loc}`}</h2>
-                <OffersWidget region={wakacjeRegionId(c.slug, r.slug)} country={wakacjeCountryId(c.slug)} count={5} uid={`r${c.slug}-${r.slug}`} />
-              </>
+            {(eximCount(c.slug) > 0 || wakacjeCountryId(c.slug)) && (
+              <OfferSearch slug={c.slug} countryId={wakacjeCountryId(c.slug) ?? undefined} wakacjePath={ct.wakacjePath || c.slug} loc={ct.loc}
+                regionHint={[r.name]} regionLoc={r.loc} />
             )}
             <SelfTravel c={c} r={r} />
             <SeePlaces kraj={c.slug} region={r.slug} title={`Wycieczki fakultatywne ${r.loc}`} />
