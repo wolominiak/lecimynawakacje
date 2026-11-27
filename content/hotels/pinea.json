@@ -1,0 +1,142 @@
+{
+ "id": 42118,
+ "slug": "pinea",
+ "name": "Pinea",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Golem"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/pinea-budynek-glowny-teren-hotelu-basen-1103699708-570-428.jpg",
+ "city": "Golem",
+ "intro": [
+  "Hotel Pinea to nowoczesny, pięciogwiazdkowy obiekt położony w miejscowości Golem na Riwierze Albańskiej, zaledwie kilka kroków od piaszczystej plaży. Oferuje komfortowe zakwaterowanie i szereg udogodnień, które sprawiają, że jest to odpowiednie miejsce zarówno dla rodzin z dziećmi, jak i dla par szukających relaksu.",
+  "Obiekt wyróżnia się dobrym położeniem, bliskością prywatnej plaży oraz nowoczesną infrastrukturą. Goście mogą korzystać z basenów, centrum spa oraz różnorodnej kuchni, co czyni go atrakcyjną propozycją na wakacyjny wypoczynek w Albanii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Pinea znajduje się w Golem, w dzielnicy Bulevardi Pishave Pishat e Buta, zaledwie 50-100 metrów od piaszczystej plaży Mali I Robit Beach. Obiekt dysponuje prywatną strefą plażową z dostępnymi leżakami. Do centrum Golem jest około 444 m do 2.9 km, a do lotniska w Tiranie około 41-43 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje ponad 100 elegancko zaprojektowanych pokoi, w tym apartamenty, pokoje dwuosobowe i rodzinne, z widokiem na morze lub ogród. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, sejf, czajnik elektryczny oraz balkon. W łazienkach znajdują się prysznice, suszarki do włosów, szlafroki, kapcie i bezpłatne kosmetyki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji serwowane są dania kuchni greckiej, włoskiej, śródziemnomorskiej, owoce morza, steki oraz dania lokalne i międzynarodowe w formie bufetu. Na terenie obiektu znajduje się również bar serwujący napoje alkoholowe i bezalkoholowe oraz kawiarnia. Informacje dotyczące pakietu all inclusive są sprzeczne, z opiniami wskazującymi na niską jakość napojów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Pinea dysponuje sezonowym odkrytym basenem z zadaszonym barem, a także basenem krytym. Dla dzieci dostępny jest brodzik oraz plac zabaw. Goście mogą korzystać z centrum fitness, spa z sauną, łaźnią parową i masażami. Wieczorami organizowane są rozrywki i muzyka na żywo, a także dostępny jest klub dla dzieci z animatorami."
+  }
+ ],
+ "pros": [
+  "Nowy hotel z nowoczesną infrastrukturą",
+  "Czyste pokoje i cały obiekt",
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja, blisko prywatnej plaży",
+  "Dostępne udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Niestabilne połączenie Wi-Fi",
+  "Ograniczony i oddalony parking",
+  "Potencjalny hałas od wieczornej muzyki",
+  "Niska jakość napojów w pakiecie all inclusive",
+  "Plaża bywa nieposprzątana, brudne leżaki"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Pinea znajduje się zaledwie 50-100 metrów od piaszczystej plaży Mali I Robit Beach i posiada prywatną strefę plażową."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA), oddalone o około 41-43 km od hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje udogodnienia dla dzieci?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw oraz mini klub z animatorami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, w pokojach i miejscach publicznych, choć niektórzy goście zgłaszali niestabilne połączenie."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel posiada odkryty i kryty basen oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, choć minimalny wiek zameldowania to 18 lat."
+  }
+ ],
+ "address": "Rruga Bulevardi Pishave Pishat E Buta, Golem, 2504, Albania",
+ "adultsOnly": false,
+ "airportKm": 41,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Minibar",
+  "Sejf",
+  "Czajnik elektryczny",
+  "Balkon",
+  "Prywatna łazienka z prysznicem",
+  "Suszarka do włosów",
+  "Szlafroki",
+  "Kapcie",
+  "Bezpłatne kosmetyki",
+  "Prywatna plaża",
+  "Leżaki",
+  "Ręczniki"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Bulevardi Pishave Pishat e Buta",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.444,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartamenty",
+  "Pokoje dwuosobowe (twin, double)",
+  "Pokoje rodzinne (family rooms)",
+  "Pokoje z widokiem na morze",
+  "Pokoje z widokiem na ogród",
+  "Pokoje hipoalergiczne"
+ ],
+ "rooms": 100,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.242104,
+  "lon": 19.5181182,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "olympicholidays.com",
+  "skyscanner.net",
+  "agoda.com",
+  "mapcarta.com",
+  "mapy.com",
+  "trivago.co.uk",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

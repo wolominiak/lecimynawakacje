@@ -1,0 +1,145 @@
+{
+ "id": 10628,
+ "slug": "acapulco-resort",
+ "name": "Acapulco Resort",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Północny",
+  "Agios Epiktitos"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/acapulco-resort-teren-hotelu-826677145-570-428.jpg",
+ "city": "Çatalköy (Catalkoy)",
+ "intro": [
+  "Acapulco Resort Convention SPA to pięciogwiazdkowy hotel położony w miejscowości Çatalköy, w dystrykcie Kyrenia na Cyprze Północnym. Obiekt usytuowany jest w zacisznej zatoce, bezpośrednio przy prywatnej, piaszczystej plaży. Hotel, otwarty w 1982 roku i odnowiony w 2014, oferuje rozbudowane zaplecze rekreacyjne na terenie o powierzchni 100 000 m².",
+  "Hotel jest idealnym wyborem zarówno dla rodzin z dziećmi, dzięki największemu aquaparkowi na Cyprze Północnym, mini klubom i płytkiemu wejściu do morza, jak i dla par szukających relaksu i rozrywki. Oferuje różnorodne baseny, w tym basen infinity tylko dla dorosłych, oraz bogate centrum spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Acapulco Resort Convention SPA znajduje się w miejscowości Çatalköy, 8 km od centrum Kyrenii. Leży bezpośrednio przy prywatnej, piaszczystej plaży o długości 1 km z płytkim wejściem do morza. Leżaki, parasole i ręczniki plażowe są dostępne bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje około 826-850 pokojami rozmieszczonymi w budynku głównym, willach i bungalowach. Standardowe wyposażenie obejmuje klimatyzację, minibar (płatny), sejf, telewizor LED, suszarkę do włosów oraz balkon lub taras z różnymi widokami. Dostępne są również pokoje łączone."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się 8 basenów, w tym 3 odkryte, 2 dla dzieci, podgrzewany basen kryty oraz basen infinity tylko dla dorosłych. Hotel posiada największy aquapark na Cyprze Północnym z 24 zjeżdżalniami. Dla dzieci dostępny jest plac zabaw, Luna Park (dodatkowo płatny) oraz mini klub."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje 8 restauracji, w tym główną restaurację bufetową Sunset oraz restauracje à la carte (dodatkowo płatne). Na terenie obiektu znajduje się wiele barów, niektóre czynne 24/7. Dostępne są opcje wyżywienia Half Board oraz Full Board Plus, obejmujące posiłki w formie bufetu i lokalne napoje alkoholowe i bezalkoholowe podczas obiadu i kolacji."
+  },
+  {
+   "title": "Spa i sport",
+   "text": "Rozbudowane centrum spa Ocean Spa oferuje dwa baseny kryte, jacuzzi, saunę, łaźnię parową i turecką, a także masaże i zabiegi. Do dyspozycji gości jest siłownia oraz korty tenisowe, boisko do siatkówki plażowej i koszykówki. Możliwe są również sporty wodne."
+  }
+ ],
+ "pros": [
+  "Prywatna, długa piaszczysta plaża z płytkim wejściem",
+  "Największy aquapark na Cyprze Północnym",
+  "Różnorodność basenów, w tym basen infinity dla dorosłych",
+  "Bogate centrum spa i siłownia",
+  "Dobre i różnorodne jedzenie"
+ ],
+ "cons": [
+  "Słaba jakość Wi-Fi",
+  "Dodatkowe opłaty za niektóre usługi (Luna Park, restauracje à la carte, niektóre napoje)",
+  "Sporadyczne problemy z komunikacją personelu w języku angielskim",
+  "Potencjalnie długie oczekiwanie na pokój"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Acapulco Resort Convention SPA leży bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Ercan (ECN), oddalone o 28 km (około 30 minut jazdy)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Tak, hotel posiada największy aquapark na Cyprze Północnym z 24 zjeżdżalniami (18 dla dorosłych i 6 dla dzieci)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, strefę basenów dla dzieci oraz płytkie wejście do morza na plaży."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne bezpłatnie w pokojach i na terenie hotelu, choć goście często zgłaszają jego słabą jakość."
+  },
+  {
+   "q": "Jakie opcje wyżywienia oferuje hotel?",
+   "a": "Hotel oferuje opcje Half Board (śniadania i kolacje, napoje płatne) oraz Full Board Plus (śniadania, obiady, kolacje w formie bufetu oraz lokalne napoje alkoholowe i bezalkoholowe podczas obiadu i kolacji)."
+  }
+ ],
+ "address": "Beş Parmaklar Caddesi, Kyrenia, Cyprus (9512 Kyrenia, Cyprus)",
+ "adultsOnly": false,
+ "airportKm": 28,
+ "airportName": "Lotnisko Ercan (ECN)",
+ "amenities": [
+  "prywatna plaża",
+  "aquapark",
+  "spa",
+  "siłownia",
+  "mini klub",
+  "animacje",
+  "korty tenisowe",
+  "boisko do siatkówki plażowej",
+  "koszykówka",
+  "sporty wodne",
+  "bilard",
+  "tenis stołowy",
+  "Luna Park (płatny)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "zatoka",
+ "bars": 8,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1982,
+ "pools": 8,
+ "privateBeach": true,
+ "renovated": 2014,
+ "restaurants": 8,
+ "roomTypes": [
+  "pokoje w budynku głównym (Olive Court, Pine Court 1 & 2) z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik",
+  "wille z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik",
+  "bungalowy z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik",
+  "Garden Junior z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik",
+  "Garden Suites z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik",
+  "Lagoon Suites z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik",
+  "pokoje VIP z klimatyzacją, minibar (płatny), sejf, telefon, balkon/taras, TV LED, suszarka, kosmetyki, kapcie, prysznic/wanna/jacuzzi, czajnik"
+ ],
+ "rooms": 850,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3306485,
+  "lon": 33.421172,
+  "src": "osm"
+ },
+ "sources": [
+  "cyprus-visit.com",
+  "trivago.co.uk",
+  "acapulco.com.tr",
+  "cyprusguide.com.tr",
+  "mapy.com",
+  "planetofhotels.com",
+  "cypruspremier.com",
+  "cyprusparadise.com"
+ ],
+ "updated": "2026-11-27"
+}

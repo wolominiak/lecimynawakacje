@@ -1,0 +1,128 @@
+{
+ "id": 271842,
+ "slug": "ambasador-durres",
+ "name": "Ambasador Durres",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/ambasador-durres-teren-hotelu-obiekt-1856579311-570-428.jpg",
+ "city": "Durrës",
+ "intro": [
+  "Ambasador Durres to nowo otwarty czterogwiazdkowy hotel położony w centrum miasta Durres, w Albanii. Obiekt, który przywitał pierwszych gości w maju 2025 roku, oferuje nowoczesne zakwaterowanie w bliskiej odległości od plaży Currila. Jest to idealna propozycja dla osób poszukujących komfortowego pobytu z łatwym dostępem do miejskich atrakcji.",
+  "Hotel jest rekomendowany dla par, rodzin i grup przyjaciół, którzy cenią sobie nowoczesny wystrój, wysoki standard usług oraz centralną lokalizację. Zapewnia on wygodną bazę wypadową do zwiedzania miasta i okolic, oferując jednocześnie spokojne miejsce do odpoczynku po dniu pełnym wrażeń."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Ambasador Durres znajduje się w samym centrum Durres, przy Bulevardi Dyrrah 130. Dzięki tej lokalizacji goście mają łatwy dostęp do głównych atrakcji miasta. Plaża Currila oddalona jest o około 1.1 km, co pozwala na krótki spacer. Najbliższe lotnisko w Tiranie (TIA) znajduje się w odległości około 34 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym pokoje dwuosobowe, trzyosobowe, czteroosobowe oraz apartamenty Junior Suite z balkonem. Wszystkie pokoje zostały wyremontowane w 2026 roku i są wyposażone w klimatyzację, telewizor z płaskim ekranem, bezpłatne Wi-Fi, prywatną łazienkę z suszarką do włosów, szlafrokami i kapciami. Niektóre pokoje posiadają balkon lub taras z widokiem na miasto."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu znajduje się jedna restauracja, która serwuje dania kuchni śródziemnomorskiej, lokalne specjały albańskie, świeże owoce morza oraz opcje wegetariańskie. Goście mogą również korzystać z hotelowego baru, w tym z baru na dachu, który oferuje piękne widoki. W cenę pobytu często wliczone jest śniadanie w formie bufetu, jednak hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Ambasador Durres nie posiada basenów, ale oferuje wannę z hydromasażem/jacuzzi. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi. Brak informacji o siłowni, spa czy animacjach. Hotel jest przystosowany dla rodzin, oferując pokoje rodzinne oraz możliwość zamówienia bezpłatnego łóżeczka dziecięcego."
+  }
+ ],
+ "pros": [
+  "Wyjątkowe śniadania na tarasie na dachu z widokami",
+  "Wysoka jakość udogodnień w pokojach (w tym jacuzzi w niektórych)",
+  "Nienaganna czystość i pomocna obsługa",
+  "Świetna lokalizacja w centrum miasta",
+  "Nowoczesny wystrój"
+ ],
+ "cons": [
+  "Małe łazienki z problemami z zalewaniem",
+  "Małe pokoje czteroosobowe, niektóre bez okien",
+  "Płatny parking",
+  "Hałas z ulicy",
+  "Sporadyczne problemy z obsługą w kwestii rachunków"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Ambasador Durres znajduje się około 1.1 km od plaży Currila."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel Ambasador Durres nie oferuje opcji all inclusive. W cenę pobytu często wliczone jest śniadanie w formie bufetu."
+  },
+  {
+   "q": "Czy w hotelu jest basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów ani aquaparku. Dostępna jest wanna z hydromasażem/jacuzzi."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje pokoje rodzinne i na życzenie dostępne jest bezpłatne łóżeczko dziecięce. Nie jest to obiekt tylko dla dorosłych."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 34 km od Międzynarodowego Portu Lotniczego Tirana im. Matki Teresy (TIA)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu."
+  }
+ ],
+ "address": "Bulevardi Dyrrah 130, Durres, 2001, Albania",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Wanna z hydromasażem/jacuzzi",
+  "Bar na dachu/sky bar",
+  "Winda"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum miasta Durres",
+ "bars": 1,
+ "beachDistanceM": 1100,
+ "beachType": "Piasek i żwir",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Grupy"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2025,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": 2026,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój czteroosobowy",
+  "Apartament Junior Suite z balkonem",
+  "Pokój Deluxe Double z wanną",
+  "Pokój Deluxe Double z francuskim balkonem"
+ ],
+ "rooms": null,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "traveloka.com",
+  "agoda.com",
+  "tripbase.com",
+  "trip.com",
+  "coraltravel.ee",
+  "planetofhotels.com",
+  "booking.com",
+  "ambasadorhotel.al"
+ ],
+ "updated": "2026-11-27"
+}

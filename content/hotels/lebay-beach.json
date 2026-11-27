@@ -1,0 +1,134 @@
+{
+ "id": 34002,
+ "slug": "lebay-beach",
+ "name": "Lebay Beach",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Larnaka"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/lebay-beach-basen-1470402962-570-428.jpg",
+ "city": "Larnaka",
+ "intro": [
+  "Lebay Beach to hotel położony w miejscowości Oroklini, w dystrykcie Larnaka, bezpośrednio nad brzegiem morza, przy unikalnej podwójnej zatoce. Obiekt, otwarty w 1986 roku i wyremontowany w 2018, oferuje nowoczesną, minimalistyczną architekturę w dwupiętrowym budynku.",
+  "Hotel jest polecany zarówno dla rodzin, jak i par szukających relaksu. Zapewnia spokojną atmosferę, bezpośredni dostęp do piaszczystej plaży oraz udogodnienia takie jak basen typu infinity z widokiem na morze."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lebay Beach znajduje się w Oroklini, przy drodze Dhekelia-Larnaca Road, z bezpośrednim dostępem do piaszczystej plaży. Obiekt oferuje prywatną strefę plażową z bezpłatnymi leżakami, parasolami i obsługą kelnerską. Odległość od centrum Larnaki wynosi około 5.8 km, a przystanek autobusowy znajduje się tuż przed hotelem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 47 lub 48 pokojami w sześciu kategoriach, w tym standardowymi z widokiem na ląd lub morze, pokojami Panoramic Sea View, Junior Suite oraz Deluxe Double i Executive Suite z widokiem na morze. Wszystkie pokoje są klimatyzowane i wyposażone w umeblowany balkon, łazienkę z prysznicem, telewizor Smart TV, minibar, sejf, zestaw do parzenia kawy/herbaty oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu, Marique, serwuje dania kuchni śródziemnomorskiej i międzynarodowej w formie bufetów tematycznych z live cooking. Na terenie obiektu znajdują się również dwa bary: Lobby Bar, gdzie wieczorami odbywa się muzyka na żywo, oraz sezonowy 180 Pool Bar. Hotel oferuje bezpłatne pełne śniadanie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z odkrytego basenu typu infinity z widokiem na morze oraz basenu krytego. Dostępny jest również basen dla dzieci. Hotel oferuje animacje i zajęcia takie jak aqua aerobik i siatkówka plażowa. Na terenie obiektu znajduje się również dobrze wyposażone centrum fitness/siłownia."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje udogodnienia dla najmłodszych, w tym łóżeczka na życzenie oraz basen dla dzieci. Brak informacji o mini klubie lub zjeżdżalniach."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do piaszczystej plaży",
+  "Prywatna strefa plażowa z bezpłatnymi leżakami",
+  "Basen typu infinity z widokiem na morze",
+  "Smaczne jedzenie i dobre śniadania",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Ograniczona łączność Wi-Fi w pokojach",
+  "Potencjalny hałas z imprez hotelowych",
+  "Brak wielu atrakcji w bezpośredniej okolicy",
+  "Brak aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest usytuowany bezpośrednio przy piaszczystej plaży, z bezpośrednim dostępem do niej."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska w Larnace?",
+   "a": "Odległość od Międzynarodowego Lotniska w Larnace wynosi około 11.2 km do 15 km."
+  },
+  {
+   "q": "Czy hotel posiada baseny ze zjeżdżalniami lub aquapark?",
+   "a": "Nie, brak informacji o zjeżdżalniach czy aquaparku."
+  },
+  {
+   "q": "Czy hotel Lebay Beach jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"przyjazny rodzinom\" i oferuje basen dla dzieci oraz łóżeczka na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie oraz w pokojach, choć niektóre źródła wskazują na ograniczoną łączność w pokojach."
+  },
+  {
+   "q": "Jaka jest odległość od centrum Larnaki?",
+   "a": "Hotel dzieli od centrum Larnaki około 5.8 km lub 15 minut jazdy samochodem."
+  }
+ ],
+ "address": "Mesopotamias 14, Dhekelia-Larnaca Rd, Oroklini 7040, Cypr",
+ "adultsOnly": false,
+ "airportKm": 11.2,
+ "airportName": "Larnaca International Airport - Glafcos Clerides",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon",
+  "Telewizor Smart TV",
+  "Minibar",
+  "Sejf",
+  "Zestaw do parzenia kawy/herbaty",
+  "Dźwiękoszczelne okna"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Oroklini",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 5.8,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój standardowy (widok na ląd/góry)",
+  "Pokój standardowy (widok na morze)",
+  "Pokój Panoramic Sea View",
+  "Junior Suite (widok na ląd, przystosowany dla osób niepełnosprawnych, ekspres do kawy)",
+  "Deluxe Double Room (widok na morze)",
+  "Executive Suite (widok na morze)"
+ ],
+ "rooms": 47,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "expedia.com",
+  "lebayhotel.com.cy",
+  "visitcyprus.com",
+  "trivago.co.uk",
+  "booking.com",
+  "tropki.com",
+  "larnakahotel.com",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-27"
+}

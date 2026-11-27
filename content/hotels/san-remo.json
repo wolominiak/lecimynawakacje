@@ -1,0 +1,145 @@
+{
+ "id": 6927,
+ "slug": "san-remo",
+ "name": "San Remo",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Larnaka"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/san-remo-basen-1237548793-570-428.jpg",
+ "city": "Larnaka",
+ "intro": [
+  "Hotel San Remo to dwugwiazdkowy obiekt położony w dzielnicy Skala w Larnace na Cyprze, oferujący podstawowe udogodnienia w przystępnej cenie. Jest to odpowiednie miejsce dla osób szukających ekonomicznego zakwaterowania blisko plaży i centrum miasta.",
+  "Obiekt jest polecany dla aktywnych turystów, rodzin z dziećmi oraz osób podróżujących z ograniczonym budżetem, ceniących sobie dogodną lokalizację i możliwość samodzielnego odkrywania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel San Remo znajduje się w Larnace, w dzielnicy Skala, mniej niż 500 metrów od Zatoki Larnaka. Do plaży miejskiej (Municipal Beach) jest około 200 metrów, a do plaży Kastella (Błękitna Flaga) również mniej niż 500 metrów. Piaszczysta plaża Mackenzie Beach oddalona jest o około 1,5 km, a plaża Phinikoudes o 2,5 km. Hotel oferuje dostęp do plaży, leżaki i parasole słoneczne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 65 lub 72 klimatyzowanymi pokojami, z których każdy posiada umeblowany balkon, prywatną łazienkę i telewizję satelitarną. Na życzenie dostępne są suszarki do włosów, a niektóre pokoje wyposażone są w żelazko/deskę do prasowania. W pokojach można znaleźć również telewizor z płaskim ekranem, szafę, ogrzewanie, sejf (za dodatkową opłatą) oraz lodówkę (na życzenie)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja na świeżym powietrzu, która serwuje dania kuchni regionalnej. Codziennie rano goście mogą zjeść śniadanie kontynentalne. Hotel posiada również bar, w którym oferowane są napoje orzeźwiające. Dostępne są pakiety all inclusive, obejmujące posiłki i napoje na miejscu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje odkryty basen z tarasem słonecznym i leżakami. Dla dzieci dostępny jest brodzik. Hotel dysponuje centrum fitness z wyposażeniem do podnoszenia ciężarów oraz centrum spa i odnowy biologicznej, oferującym m.in. łaźnię parową, masaże i zabiegi kosmetyczne. Wśród aktywności sportowych wymieniane są nurkowanie, snorkeling i jazda na rowerze."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel San Remo jest odpowiedni dla aktywnych turystów, którzy cenią sobie bliskość atrakcji i możliwość eksploracji okolicy. Dzięki brodzikowi i możliwości bezpłatnego pobytu dzieci w wieku 3-12 lat, hotel jest również dobrą opcją dla rodzin z dziećmi. Osoby z ograniczonym budżetem docenią dobry stosunek jakości do ceny."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko lotniska, plaży i centrum",
+  "Dobry stosunek jakości do ceny",
+  "Czyste pokoje i podstawowe udogodnienia",
+  "Przyjazny i pomocny personel",
+  "Czysty i zadbany basen"
+ ],
+ "cons": [
+  "Wnętrza i wyposażenie pokoi mogą być przestarzałe",
+  "Widoczne ślady zużycia, stare meble i łazienki",
+  "Potencjalny hałas z sąsiednich pokoi z powodu cienkich ścian",
+  "Wi-Fi w pokojach może być dodatkowo płatne",
+  "Zbyt wiele kotów w okolicy basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 200 metrów od plaży miejskiej (Municipal Beach) i mniej niż 500 metrów od plaży Kastella."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowe lotnisko w Larnace (LCA) znajduje się w odległości mniejszej niż 10 minut jazdy samochodem, około 3-8 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku. Hotel dysponuje odkrytym basenem i brodzikiem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Dzieci w wieku od 3 do 12 lat mogą przebywać bezpłatnie, a na terenie obiektu znajduje się brodzik."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. Wi-Fi w pokojach może być dodatkowo płatne."
+  },
+  {
+   "q": "Jak daleko jest do centrum Larnaki?",
+   "a": "Centrum Larnaki jest oddalone o około 15 minut spacerem lub około 1,0 km."
+  }
+ ],
+ "address": "1, Shakespear Street, Larnaca 6027, Cypr",
+ "adultsOnly": false,
+ "airportKm": 3,
+ "airportName": "Larnaca (LCA)",
+ "amenities": [
+  "restauracja",
+  "bar",
+  "basen odkryty",
+  "brodzik dla dzieci",
+  "centrum fitness",
+  "spa",
+  "łaźnia parowa",
+  "zabiegi kosmetyczne",
+  "nurkowanie",
+  "snorkeling",
+  "jazda na rowerze",
+  "leżaki",
+  "parasole słoneczne"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Skala",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "miejska, piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "aktywni turyści",
+  "rodziny z dziećmi",
+  "osoby z ograniczonym budżetem"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy",
+  "pokój typu twin",
+  "pokój trzyosobowy",
+  "pokój rodzinny"
+ ],
+ "rooms": 65,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.900562,
+  "lon": 33.6360101,
+  "src": "osm"
+ },
+ "sources": [
+  "wanderlog.com",
+  "papouishotels.com",
+  "booking.com",
+  "onthebeach.co.uk",
+  "reserve-online.net",
+  "ticati.com",
+  "trivago.com",
+  "cyprushotelassociation.org"
+ ],
+ "updated": "2026-11-27"
+}

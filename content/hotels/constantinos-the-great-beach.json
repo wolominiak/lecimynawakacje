@@ -1,0 +1,136 @@
+{
+ "id": 18728,
+ "slug": "constantinos-the-great-beach",
+ "name": "Constantinos The Great Beach",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/constantinos-the-great-beach-teren-hotelu-obiekt-1465395785-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Constantinos The Great Beach to pięciogwiazdkowy hotel położony w samym sercu Protaras na Cyprze Południowym. Obiekt, odnowiony w 2018 roku, oferuje komfortowe zakwaterowanie z bezpośrednim dostępem do piaszczystej plaży Sunrise Beach.",
+  "Hotel jest doskonałym wyborem zarówno dla rodzin z dziećmi, jak i dla par, szukających relaksu w pięknej okolicy, z łatwym dostępem do atrakcji miasta i szerokiej oferty gastronomicznej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Constantinos The Great Beach znajduje się w centrum Protaras, zaledwie 100 metrów od promenady. Obiekt oferuje bezpośredni dostęp do szerokiej, piaszczystej plaży Sunrise Beach, oddalonej o około 50 metrów. Goście mogą korzystać z bezpłatnych leżaków, parasoli i ręczników basenowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 153 pokojami, które przeszły całkowitą renowację w 2018 roku. Pokoje są przestronne i wyposażone w klimatyzację, telewizor z płaskim ekranem, bezpłatne Wi-Fi, sejf, mini lodówkę oraz zestaw do parzenia kawy i herbaty. Każdy pokój posiada również prywatny, umeblowany balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się 7 restauracji, w tym jedna bufetowa i sześć a la carte, oferujących kuchnię włoską, chińską, grecką, meksykańską, międzynarodową i cypryjską. Do dyspozycji gości są również 3 bary, w tym bar przy basenie i bar na plaży. Pakiet All Inclusive obejmuje wszystkie posiłki, przekąski oraz wybrane napoje lokalne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje trzy baseny: duży basen zewnętrzny w kształcie laguny, basen dla dzieci oraz kryty podgrzewany basen. Na terenie obiektu znajduje się Spa & Wellness Center z masażami, sauną i hammamem, a także centrum fitness. Goście mogą korzystać z kortu tenisowego, tenisa stołowego i bilarda."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości Constantinos The Great Beach przygotował dedykowany basen, plac zabaw oraz mini klub. Hotel oferuje również dzienne i wieczorne animacje, w tym muzykę na żywo i wieczory tematyczne, co sprawia, że jest przyjazny rodzinom."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży i blisko centrum Protaras.",
+  "Przyjazny i pomocny personel.",
+  "Czystość i dobre jedzenie.",
+  "Przestronne pokoje z balkonami.",
+  "Dobre udogodnienia dla rodzin."
+ ],
+ "cons": [
+  "Możliwe duże natężenie ruchu w szczycie sezonu letniego.",
+  "Styl wnętrz może być bardziej tradycyjny niż ultranowoczesny.",
+  "Niektórzy goście zgłaszali powtarzalność jedzenia."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy piaszczystej plaży Sunrise Beach, zaledwie 50 metrów od niej."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska w Larnace (LCA) wynosi około 57-70 km."
+  },
+  {
+   "q": "Czy hotel oferuje udogodnienia dla dzieci?",
+   "a": "Tak, hotel posiada basen dla dzieci, plac zabaw, mini klub oraz animacje dzienne i wieczorne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci."
+  },
+  {
+   "q": "Kiedy hotel był ostatnio remontowany?",
+   "a": "Hotel przeszedł gruntowny remont w 2018 roku, obejmujący wszystkie pokoje, basen zewnętrzny, lobby, recepcję, restauracje i części wspólne."
+  }
+ ],
+ "address": "29 Protara Street, 5296, Famagusta, Protaras, Cypr",
+ "adultsOnly": false,
+ "airportKm": 57,
+ "airportName": "Larnaka (LCA)",
+ "amenities": [
+  "Spa & Wellness Center",
+  "Centrum fitness/siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard",
+  "Sporty wodne (w pobliżu)"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Protaras Avenue",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 7,
+ "roomTypes": [
+  "Superior Land View Room",
+  "Superior Side Sea View Room",
+  "Sea View Superior Room",
+  "Front Sea View Superior Room",
+  "Sea View Family Room",
+  "Deluxe Front Sea View Suite (wszystkie z klimatyzacją/ogrzewaniem, TV, Wi-Fi, sejfem, mini lodówką/mini barem, zestawem do parzenia kawy i herbaty, prywatnym balkonem, łazienką z suszarką i kosmetykami)"
+ ],
+ "rooms": 153,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.01775,
+  "lon": 34.05167,
+  "src": "web"
+ },
+ "sources": [
+  "constantinosthegreat.com",
+  "thomascook.com",
+  "expedia.co.uk",
+  "travelisto.com",
+  "yandex.com",
+  "bluebaytravel.co.uk",
+  "cyprushotelassociation.org",
+  "chaf.com.cy"
+ ],
+ "updated": "2026-11-27"
+}

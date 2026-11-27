@@ -1,0 +1,131 @@
+{
+ "id": 262105,
+ "slug": "miramare-boutique",
+ "name": "Miramare Boutique",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Vlora"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/miramare-boutique-obiekt-1771181899-570-428.jpg",
+ "city": "Vlora",
+ "intro": [
+  "Hotel Miramare Boutique to czterogwiazdkowy obiekt położony bezpośrednio przy nadmorskiej promenadzie Lungomare we Vlorze, na Riwierze Albańskiej. Został otwarty w 2005 roku, a ostatni generalny remont przeszedł w 2023 roku, oferując nowoczesne udogodnienia w odnowionych wnętrzach.",
+  "Hotel jest polecany dla par i osób dorosłych, które szukają tętniącego życiem nadmorskiego doświadczenia. Ze względu na sprzeczne informacje dotyczące polityki wieku, zaleca się potwierdzenie bezpośrednio z hotelem w przypadku podróży z dziećmi, choć niektóre źródła wskazują na status \"tylko dla dorosłych\" (powyżej 16 lat)."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Miramare Boutique znajduje się około 100 metrów od piaszczystej plaży Vlore Beach, oddzielony od niej promenadą. Hotel dysponuje prywatną strefą plażową z wliczonymi w cenę leżakami. Z wielu pokoi roztacza się widok na morze."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 20 pokoi rozmieszczonych na 5 piętrach. Wśród dostępnych typów są pokoje dwuosobowe, trzyosobowe, rodzinne oraz różnorodne apartamenty, w tym Junior i Deluxe Suite, a nawet Suite z prywatnym basenem. Standardowe wyposażenie obejmuje klimatyzację, telewizor, prywatną łazienkę, minibar oraz zestaw do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, która serwuje dania kuchni włoskiej, śródziemnomorskiej oraz owoce morza. Śniadania w formie bufetu lub kontynentalnego są wliczone w cenę pobytu. Na terenie obiektu dostępny jest również jeden bar."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Goście hotelu mogą korzystać z centrum fitness/siłowni oraz bezpłatnego Wi-Fi dostępnego w pokojach i w miejscach publicznych. Hotel oferuje również wypożyczalnię rowerów. Brak informacji o basenach, aquaparku czy animacjach."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i promenadzie",
+  "Piękne widoki na morze z pokoi",
+  "Przyjazny i pomocny personel",
+  "Smaczne i urozmaicone śniadania",
+  "Prywatna strefa plażowa z leżakami"
+ ],
+ "cons": [
+  "Może być głośno z powodu lokalizacji przy promenadzie",
+  "Kompaktowe łazienki i układ pokoi",
+  "Sporadyczne problemy z windą",
+  "Brak parkingu na miejscu",
+  "Plaża naprzeciwko bywała opisywana jako brudna (sprzeczne opinie)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 100 metrów od piaszczystej plaży Vlore Beach, oddzielony od niej promenadą. Posiada prywatną strefę plażową z leżakami."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana (TIA), oddalony o około 150-156 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku w hotelu Miramare Boutique."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Informacje są sprzeczne. Niektóre źródła wspominają o mini klubie i byciu \"przyjaznym dla dzieci\", jednak inne określają hotel jako \"tylko dla dorosłych\" (powyżej 16 lat). Zaleca się weryfikację bezpośrednio z hotelem."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o pakiecie all inclusive. Śniadania serwowane są w formie bufetu lub kontynentalnego i są wliczone w cenę pobytu."
+  }
+ ],
+ "address": "Rruga Murat Tërbaçi, 9403, Vlorë, Albania",
+ "adultsOnly": true,
+ "airportKm": 150,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Lungomare",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Pary",
+  "Osoby zwiedzające"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2005,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy z widokiem na tyły",
+  "pokój dwuosobowy z bocznym widokiem na morze",
+  "pokój dwuosobowy Deluxe z widokiem na morze",
+  "pokój trzyosobowy z widokiem na tyły",
+  "pokój rodzinny",
+  "Junior Suite z balkonem",
+  "Deluxe Suite z widokiem na morze",
+  "Suite z prywatnym basenem"
+ ],
+ "rooms": 20,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.441667,
+  "lon": 19.495556,
+  "src": "web"
+ },
+ "sources": [
+  "trivago.com",
+  "expedia.com",
+  "albaniainbound.com",
+  "coraltravel.pl",
+  "wikimapia.org",
+  "miramare-boutique.al",
+  "directbooking.ro",
+  "sonnenklar.tv"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,147 @@
+{
+ "id": "x:cypr:crystal springs",
+ "slug": "crystal-springs",
+ "name": "Crystal Springs",
+ "country": "cypr",
+ "place": [
+  "cypr",
+  "Region Limassol i Larnaka",
+  "Protaras"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/kypr/jizni-kypr/protaras/crystal-springs-pl/d6403a_31swimmingpool.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Hotel Crystal Springs położony jest na obrzeżach Protaras na Cyprze, bezpośrednio przy piaszczystej zatoce Vrysoudia. To idealne miejsce dla osób poszukujących relaksu w spokojnej okolicy, z łatwym dostępem do centrum miejscowości.",
+  "Obiekt jest polecany zarówno dla rodzin z dziećmi, jak i dla par, a także dla osób starszych i nurków. Oferuje szeroki zakres udogodnień, od animacji i mini klubu dla dzieci, po centrum nurkowe i spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Crystal Springs znajduje się bezpośrednio przy piaszczystej zatoce Vrysoudia, znanej z czystej i spokojnej wody. Plaża jest publiczna, a leżaki i parasole na niej są dodatkowo płatne. W odległości spaceru od hotelu znajduje się dzielnica Pernera, a do centrum Protaras jest około 1-5 km. Przystanek autobusowy jest tuż przy hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 175 nowoczesnych pokoi i apartamentów, w tym pokoje Superior, Superior Family oraz Apartamenty Executive Suite. Większość pokoi posiada prywatny balkon, klimatyzację, telewizor, mini-lodówkę oraz zestaw do parzenia kawy/herbaty. Pokoje Executive Suite i Superior zostały niedawno odnowione, a hotel planuje dalszą modernizację do 2027 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z głównej restauracji bufetowej Salamina, restauracji à la carte Basilikos z kuchnią śródziemnomorską oraz Yialos Pool Bar & Restaurant serwującego lekkie posiłki. Pakiet All Inclusive Plus obejmuje śniadania, obiady i kolacje, przekąski oraz wybrane napoje alkoholowe i bezalkoholowe, dostępne w barach Tefkros Lobby Bar i Yialos Pool Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym basenem zewnętrznym dla dorosłych oraz oddzielnym, płytkim basenem dla dzieci. W ogrodzie znajduje się jacuzzi z widokiem na zatokę. Na terenie obiektu dostępne są kort tenisowy, siłownia, centrum nurkowe SSI oraz bogaty program animacyjny dla całej rodziny, obejmujący zajęcia sportowe i wieczorne występy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik, plac zabaw, wewnętrzny mini klub dla dzieci w wieku 4-12 lat, mini disco oraz zajęcia dla nastolatków. W restauracjach dostępne są krzesełka dla dzieci i specjalne menu. Usługi opieki nad dziećmi są dostępne na życzenie za dodatkową opłatą."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "W Aura Spa goście mogą skorzystać z zabiegów na twarz, ciało i masaży, a także z sauny, łaźni parowej i jacuzzi. Na miejscu znajduje się również salon fryzjerski i kosmetyczny. Bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i miejscach publicznych."
+  }
+ ],
+ "pros": [
+  "Piękna lokalizacja przy spokojnej, piaszczystej zatoce",
+  "Zadbane i rozległe ogrody hotelowe",
+  "Bardzo przyjazny i pomocny personel",
+  "Dobrej jakości i różnorodne jedzenie",
+  "Wiele udogodnień dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Możliwy hałas związany z trwającymi pracami budowlanymi",
+  "Leżaki na plaży mogą być dodatkowo płatne",
+  "Serwis All Inclusive nie obejmuje bezpośrednio plaży",
+  "Zmienna jakość wieczornych animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy piaszczystej zatoce Vrysoudia."
+  },
+  {
+   "q": "Czy na terenie hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Larnaka (LCA), oddalony o około 49-50 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest polecany zarówno dla rodzin, jak i par."
+  }
+ ],
+ "address": "Vrysoudion Street, 95, Paralimni, Cypr 5295",
+ "adultsOnly": false,
+ "airportKm": 49,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Bocce",
+  "Rzutki",
+  "Aerobik",
+  "Joga",
+  "Centrum nurkowe SSI",
+  "Wypożyczalnia rowerów",
+  "Salon fryzjerski i kosmetyczny"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Pernera",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta zatoka",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Nurkowie",
+  "Osoby starsze",
+  "Osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje Superior (dla maks. 3 osób) z klimatyzacją, balkonem, łazienką, TV, mini-lodówką, zestawem do kawy/herbaty, suszarką, szlafrokami, kapciami, sejfem (płatny), telefonem.",
+  "Pokoje Superior Family (dla maks. 4 osób) z klimatyzacją, balkonem, łazienką, TV, mini-lodówką, zestawem do kawy/herbaty, suszarką, szlafrokami, kapciami, sejfem (płatny), telefonem, niektóre z łóżkami piętrowymi lub sofami rozkładanymi.",
+  "Apartamenty Executive Suite (dla maks. 4 osób) z klimatyzacją, balkonem, łazienką, TV, mini-lodówką, zestawem do kawy/herbaty, suszarką, szlafrokami, kapciami, sejfem (płatny), telefonem."
+ ],
+ "rooms": 175,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.0430538,
+  "lon": 34.031671,
+  "src": "osm"
+ },
+ "sources": [
+  "britishairways.com",
+  "cyprusparadise.com",
+  "tui.co.uk",
+  "booking.com",
+  "thomascook.com",
+  "exploreprotaras.com",
+  "easyjet.com",
+  "grecomap.com"
+ ],
+ "updated": "2026-11-27"
+}

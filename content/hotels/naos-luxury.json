@@ -1,0 +1,133 @@
+{
+ "id": 262106,
+ "slug": "naos-luxury",
+ "name": "Naos Luxury",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/naos-luxury-basen-1771182666-570-428.jpg",
+ "city": "Vlorë",
+ "intro": [
+  "Naos Luxury to nowy, czterogwiazdkowy hotel położony na Riwierze Albańskiej, w spokojniejszej części Vlorë, tuż przy plaży Baro Beach. Obiekt charakteryzuje się nowoczesnym, minimalistycznym designem i oferuje komfortowe warunki pobytu.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, par, jak i osób szukających luksusowego wypoczynku w otoczeniu nowych udogodnień. Goście doceniają jego spokojną lokalizację oraz wysoki standard obsługi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Naos Luxury znajduje się w Vlorë, przy ulicy Rruga Orikum, w południowej części miasta. Obiekt jest położony zaledwie kilka kroków (około 80 metrów) od plaży Baro Beach, która charakteryzuje się żwirowym i skalistym brzegiem. Do dyspozycji gości są leżaki na plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 30 pokoi o nowoczesnym wystroju, w tym pokoje dwuosobowe, trzyosobowe, rodzinne Deluxe oraz apartamenty. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, Smart TV, zestaw do parzenia kawy/herbaty, minibar, sejf oraz bezpłatne WiFi. Większość pokoi posiada balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca tradycyjną kuchnię śródziemnomorską oraz bar, w tym bar na plaży. Goście mogą korzystać ze śniadań kontynentalnych w formie bufetu. Dostępna jest również obsługa pokoju."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje całorocznym odkrytym basenem, który jest popularnym miejscem do zabawy dla dzieci. Naos Luxury oferuje również centrum fitness oraz spa z możliwością masaży i zabiegów na ciało. Aktywni goście mogą korzystać ze sportów plażowych, takich jak siatkówka plażowa i paddleboarding."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Naos Luxury jest hotelem przyjaznym rodzinom, oferującym pokoje rodzinne i strefę basenową dostosowaną dla dzieci. Dzięki swoim udogodnieniom i spokojnej lokalizacji, jest idealnym miejscem dla par oraz osób poszukujących luksusowego wypoczynku w nowoczesnym otoczeniu."
+  }
+ ],
+ "pros": [
+  "Nowy, czysty hotel z nowoczesnym designem",
+  "Przyjazny i profesjonalny personel",
+  "Dobre śniadania i smaczne jedzenie",
+  "Spokojna lokalizacja przy plaży",
+  "Komfortowe pokoje z WiFi"
+ ],
+ "cons": [
+  "Brak informacji o plaży hotelowej",
+  "Basen i plaża otwarte tylko do połowy października",
+  "Możliwe widoki na plac budowy z niektórych pokoi",
+  "Płatności tylko gotówką",
+  "Brak informacji o ręcznikach plażowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Naos Luxury jest położony kilka kroków, około 80 metrów, od plaży Baro Beach."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Vlora International Airport, oddalone o 37 km. Międzynarodowe lotnisko w Tiranie jest oddalone o około dwie i pół godziny jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokoje rodzinne i strefę basenową, która jest ulubionym miejscem zabaw dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i oferuje pokoje rodzinne, co oznacza, że nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Rruga Orikum, Vlorë",
+ "adultsOnly": false,
+ "airportKm": 37,
+ "airportName": "Vlora International Airport",
+ "amenities": [
+  "Spa",
+  "Centrum fitness",
+  "Bezpłatne Wi-Fi",
+  "Obsługa pokoju",
+  "Leżaki na plaży"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Baro Beach",
+ "bars": 2,
+ "beachDistanceM": 80,
+ "beachType": "żwirowa i skalista",
+ "centerKm": 14.2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające luksusowego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2023,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (31 m², dwa pojedyncze łóżka)",
+  "Pokój dwuosobowy (31 m², jedno bardzo duże łóżko podwójne/king-size)",
+  "Pokój rodzinny Deluxe (50 m², dwa pojedyncze łóżka, dla 4 osób)",
+  "Apartament (dwie sofy rozkładane i jedno duże łóżko podwójne)",
+  "Pokój trzyosobowy (50 m², trzy pojedyncze łóżka lub jedno łóżko queen-size)",
+  "Pokój trzyosobowy z balkonem"
+ ],
+ "rooms": 30,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "travelrepublic.co.uk",
+  "reeltrip.com",
+  "agoda.com",
+  "booking.com",
+  "planetofhotels.com",
+  "travelju.com",
+  "voyage-prive.co.uk",
+  "hotelnaos.com"
+ ],
+ "updated": "2026-11-27"
+}

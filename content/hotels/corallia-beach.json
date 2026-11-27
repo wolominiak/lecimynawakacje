@@ -1,0 +1,137 @@
+{
+ "id": 29473,
+ "slug": "corallia-beach",
+ "name": "Corallia Beach",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/corallia-beach-plaza-1467215506-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Corallia Beach to rodzinny aparthotel położony bezpośrednio przy piaszczystej plaży Coral Beach w Paphos na Cyprze Południowym. Obiekt oferuje zakwaterowanie w studiach i apartamentach z aneksem kuchennym, co czyni go idealnym wyborem dla osób preferujących samodzielne przygotowywanie posiłków.",
+  "Hotel jest polecany dla rodzin z dziećmi, par oraz wszystkich, którzy szukają spokojnego wypoczynku w malowniczej okolicy z łatwym dostępem do morza. Goście doceniają przyjazną atmosferę i dogodną lokalizację blisko lokalnych tawern i sklepów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Corallia Beach znajduje się w dzielnicy Coral Bay w Paphos, bezpośrednio przy plaży Coral Beach, wyróżnionej certyfikatem Błękitnej Flagi. Plaża charakteryzuje się drobnym, złotym piaskiem i płytkimi wodami, co jest idealne dla rodzin z dziećmi. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, natomiast przy basenie można z nich korzystać bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Corallia Beach oferuje 94 studia i apartamenty z jedną sypialnią. Wszystkie pokoje wyposażone są w klimatyzację, łazienkę, telewizję satelitarną oraz w pełni wyposażony aneks kuchenny. Większość z nich posiada również prywatny balkon lub taras, a bezpłatne Wi-Fi jest dostępne we wszystkich pomieszczeniach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, w tym jedna przestronna, oferująca posiłki w formie bufetu oraz menu à la carte. Dostępne są również opcje wegetariańskie po wcześniejszym uzgodnieniu. Na terenie obiektu działa także bar przy basenie, serwujący napoje, przekąski i lody. Hotel oferuje zakwaterowanie z wyżywieniem we własnym zakresie, a śniadania w formie bufetu są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen z widokiem na morze oraz oddzielny brodzik dla dzieci. Hotel oferuje centrum zdrowia z sauną i spa, siłownię oraz kort tenisowy. Wieczorami w restauracji organizowane są rozrywki, takie jak wieczory tematyczne z tradycyjnymi tańcami i muzyką na żywo. Na plaży dostępne są sezonowo sporty wodne (za opłatą)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik oraz plac zabaw na świeżym powietrzu. Płytkie wody piaszczystej plaży Coral Beach są bezpieczne i idealne do zabawy dla dzieci. Hotel jest przyjazny rodzinom i stwarza dogodne warunki do wypoczynku z dziećmi."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do piaszczystej plaży z Błękitną Flagą",
+  "Przyjazna, rodzinna atmosfera i pomocna obsługa",
+  "Przestronne pokoje z aneksem kuchennym",
+  "Spokojna lokalizacja blisko tawern i sklepów",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Niektóre udogodnienia mogą być przestarzałe",
+  "Dodatkowe opłaty za leżaki i parasole na plaży",
+  "Ograniczony zasięg Wi-Fi w niektórych miejscach",
+  "Proste śniadania (jeśli wykupione)",
+  "Brak aquaparku na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel ma bezpośredni dostęp do piaszczystej plaży Coral Beach."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowe Lotnisko Paphos (PFO) jest oddalone o około 25-33 km, czyli około 30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni. Dostępny jest natomiast brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest idealny dla rodzin z dziećmi, oferując brodzik, plac zabaw i bezpośredni dostęp do płytkiej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje zakwaterowanie z wyżywieniem we własnym zakresie (self-catering). Śniadania w formie bufetu są dostępne za dodatkową opłatą."
+  }
+ ],
+ "address": "Coral Bay Road, P.O. Box 66800, 8592 Paphos, Cypr",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Międzynarodowe Lotnisko Paphos (PFO)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "sauna",
+  "kort tenisowy",
+  "stół bilardowy",
+  "kręgielnia",
+  "gry wideo",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Coral Bay",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 12,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1983,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Studio z aneksem kuchennym",
+  "Apartament z jedną sypialnią i aneksem kuchennym"
+ ],
+ "rooms": 94,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.8588864,
+  "lon": 32.3591297,
+  "src": "osm"
+ },
+ "sources": [
+  "cyprusparadise.com",
+  "reserve-online.net",
+  "agoda.com",
+  "reserving.com",
+  "onthebeach.ie",
+  "booking.com",
+  "beachradar.com",
+  "paphosunfolded.com"
+ ],
+ "updated": "2026-11-27"
+}

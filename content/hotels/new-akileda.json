@@ -1,0 +1,133 @@
+{
+ "id": 27494,
+ "slug": "new-akileda",
+ "name": "New Akileda",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001452675-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel New Akileda to trzygwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Golem Beach na Riwierze Albańskiej. Zbudowany w 2005 roku i częściowo odnowiony w 2020 roku, oferuje komfortowe warunki dla osób szukających relaksującego wypoczynku nad morzem.",
+  "Hotel jest rekomendowany dla rodzin z dziećmi oraz par, ceniących sobie bliskość plaży, czystość i dobrą obsługę. Dzięki prywatnej plaży z bezpłatnymi leżakami i parasolami, stanowi atrakcyjną opcję na wakacje w Albanii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel New Akileda znajduje się w miejscowości Golem, w dzielnicy Rrashbull, bezpośrednio przy piaszczystej plaży Golem Beach, znanej również jako Shkëmbi i Kavajës Beach. Odległość od plaży to zaledwie około 40 metrów. Plaża jest prywatna, z łagodnym zejściem do morza, a dla gości dostępne są bezpłatne leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 39 klimatyzowanymi pokojami, rozmieszczonymi w 6- lub 7-piętrowym budynku z windą. W ofercie znajdują się pokoje Standard Double/Twin (ok. 20-22 m²), Triple (ok. 25 m²) oraz Family (ok. 35 m²). Każdy pokój wyposażony jest w prywatną łazienkę z suszarką do włosów, telewizor z płaskim ekranem, sejf, minibar (płatny), czajnik, telefon oraz balkon. Wiele pokoi oferuje widok na morze, a łóżeczko dla dziecka do 2 lat jest dostępne na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu New Akileda znajdują się dwie restauracje - główna serwująca posiłki w formie bufetu oraz restauracja à la carte z kuchnią włoską, a także bar. Goście mogą wybrać opcję ze śniadaniami, obiadokolacjami (HB), pełnym wyżywieniem (FB) lub All Inclusive. Pakiet All Inclusive obejmuje śniadania (7:30-10:00), obiady (12:30-14:30), kolacje (19:00-21:00), przekąski (16:00-17:00) oraz lokalne napoje bezalkoholowe i alkoholowe (10:00-22:00)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest odkryty basen z bezpłatnymi leżakami i parasolami. Dla dzieci przygotowano plac zabaw oraz mini klub. Hotel oferuje również siłownię, siatkówkę, a także spa i saunę. Sporty wodne są dostępne w odległości około 50 metrów od obiektu, częściowo od lokalnych dostawców."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Prywatna plaża z bezpłatnymi leżakami i parasolami",
+  "Czyste i komfortowe pokoje",
+  "Dobra relacja ceny do jakości",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Ograniczony wybór dań na śniadanie",
+  "Ekspres do kawy dostępny tylko w godzinach posiłków",
+  "Brak informacji o bezpłatnych ręcznikach plażowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel New Akileda jest położony bezpośrednio przy prywatnej, piaszczystej plaży, zaledwie około 40 metrów od morza."
+  },
+  {
+   "q": "Czy hotel oferuje udogodnienia dla dzieci?",
+   "a": "Tak, hotel posiada plac zabaw i mini klub dla dzieci. Dostępne są również łóżeczka dla dzieci do 2 lat na życzenie."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Odległość od międzynarodowego lotniska w Tiranie (TIA) wynosi około 25-37 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, na terenie hotelu znajduje się odkryty basen z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Rruga E Kompleksit, km 3 / Rruga Kompleksit, Golem",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Tirana International Mother Teresa Airport (TIA)",
+ "amenities": [
+  "Prywatna plaża",
+  "Bezpłatne leżaki i parasole na plaży",
+  "Odkryty basen",
+  "Plac zabaw dla dzieci",
+  "Mini klub dla dzieci",
+  "Siłownia",
+  "Siatkówka",
+  "Spa",
+  "Sauna",
+  "Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Golem Beach / Shkëmbi i Kavajës Beach",
+ "bars": 1,
+ "beachDistanceM": 40,
+ "beachType": "piaszczysta",
+ "centerKm": 8.1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Double/Twin (ok. 20-22 m², max. 2 dorosłych + 1 dziecko, klimatyzacja, łazienka z prysznicem, WC, suszarka do włosów, TV sat, sejf, minibar, czajnik, telefon, balkon)",
+  "Triple (ok. 25 m², max. 3 dorosłych, klimatyzacja, łazienka z prysznicem, WC, suszarka do włosów, TV sat, sejf, minibar, czajnik, telefon, balkon)",
+  "Family (ok. 35 m², max. 4 dorosłych, klimatyzacja, łazienka z prysznicem, WC, suszarka do włosów, TV sat, sejf, minibar, czajnik, telefon, balkon)"
+ ],
+ "rooms": 39,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2657593,
+  "lon": 19.5194685,
+  "src": "osm"
+ },
+ "sources": [
+  "alida.lv",
+  "travelrepublic.co.uk",
+  "planetofhotels.com",
+  "tui.com",
+  "magictrips.com",
+  "hotels-al.com",
+  "expedia.com",
+  "geoview.info"
+ ],
+ "updated": "2026-11-27"
+}

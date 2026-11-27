@@ -1,0 +1,136 @@
+{
+ "id": 6750,
+ "slug": "veronica-paphos",
+ "name": "Veronica (Paphos)",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/veronica-paphos-budynek-glowny-teren-hotelu-basen-1461081734-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Hotel Veronica w Paphos na Cyprze Południowym to obiekt o trzygwiazdkowym standardzie, położony w spokojnej dzielnicy Kato Paphos, w otoczeniu zielonych ogrodów. Oferuje komfortowe zakwaterowanie w przystępnej cenie, idealne dla osób szukających relaksu blisko plaży i lokalnych atrakcji.",
+  "Obecnie hotel jest odpowiedni zarówno dla rodzin z dziećmi, jak i dla par, zapewniając animacje i udogodnienia dla różnych grup wiekowych. Od 1 kwietnia 2027 roku hotel zmieni swój charakter, stając się obiektem wyłącznie dla dorosłych, przyjmującym gości powyżej 16 roku życia."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Veronica znajduje się w dzielnicy Kato Paphos, około 500-700 metrów od najbliższej publicznej plaży piaszczysto-żwirowej. Do głównej strefy turystycznej jest około 1,5 km, a do malowniczego portu i zamku w Paphos można dojść w około 20 minut. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 143 lub 167 pokoi, w tym pokoje dwuosobowe, trzyosobowe, jednoosobowe oraz superior. Wszystkie pokoje wyposażone są w prywatny balkon, klimatyzację, łazienkę z prysznicem, suszarkę do włosów, telewizor z płaskim ekranem i bezpłatne Wi-Fi. Mini lodówka i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca śniadania i kolacje w formie bufetu oraz obiady à la carte. Do dyspozycji gości jest również bar oraz bar przy basenie oferujący przekąski. Hotel oferuje opcję zakwaterowania ze śniadaniem (bed & breakfast)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą oraz oddzielny basen dla dzieci. Hotel nie posiada zjeżdżalni ani aquaparku. Dostępne są animacje 6 dni w tygodniu (od maja do października), w tym zajęcia dla dzieci i wieczorne rozrywki. Goście mogą korzystać z kortu tenisowego i bilarda (za opłatą)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Veronica oferuje basen dla dzieci oraz animacje z grami w basenie i na terenie hotelu, dostępne 6 dni w tygodniu w sezonie (maj-październik). Blisko hotelu znajduje się Paphos Aphrodite Waterpark (2.1 km), co stanowi dodatkową atrakcję dla rodzin."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Obecnie hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par, ze względu na dostępne udogodnienia i animacje. Od 1 kwietnia 2027 roku hotel stanie się obiektem wyłącznie dla dorosłych (powyżej 16 lat), co uczyni go idealnym wyborem dla osób szukających spokojnego wypoczynku bez dzieci."
+  }
+ ],
+ "pros": [
+  "Przyjazna i pomocna obsługa",
+  "Czyste pokoje i tereny wspólne",
+  "Dobry stosunek jakości do ceny",
+  "Ładny basen i ogród",
+  "Dobra lokalizacja blisko plaży i portu"
+ ],
+ "cons": [
+  "Pokoje mogą być przestarzałe i wymagać remontu",
+  "Twarde łóżka",
+  "Powtarzalne i czasem chłodne śniadania",
+  "Brak czajnika w pokojach",
+  "Niska jakość soków śniadaniowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Veronica jest położony około 500-700 metrów od najbliższej publicznej plaży piaszczysto-żwirowej."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Hotel znajduje się około 6-10 km od Międzynarodowego Lotniska Paphos (PFO)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. W pobliżu (2.1 km) znajduje się Paphos Aphrodite Waterpark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Obecnie hotel jest odpowiedni dla rodzin z dziećmi, oferując basen dla dzieci i animacje. Od 1 kwietnia 2027 roku hotel będzie tylko dla dorosłych (powyżej 16 lat)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "Tak, wszystkie pokoje posiadają klimatyzację/ogrzewanie."
+  }
+ ],
+ "address": "20 Danaes Street, 8101 Paphos, Cypr",
+ "adultsOnly": false,
+ "airportKm": 6,
+ "airportName": "Międzynarodowe Lotnisko Paphos (PFO)",
+ "amenities": [
+  "bilard (płatny)",
+  "kort tenisowy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Kato Paphos",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 1.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy/twin (22 m², balkon, klimatyzacja, łazienka z prysznicem, telefon, suszarka do włosów, TV satelitarna, radio, biurko, bezpłatne kosmetyki, mini lodówka i sejf za opłatą)",
+  "pokój trzyosobowy (22 m², balkon, klimatyzacja, łazienka z prysznicem, telefon, suszarka do włosów, TV satelitarna, radio, biurko, bezpłatne kosmetyki, mini lodówka i sejf za opłatą)",
+  "pokój jednoosobowy (22 m², balkon, klimatyzacja, łazienka z prysznicem, telefon, suszarka do włosów, TV satelitarna, radio, biurko, bezpłatne kosmetyki, mini lodówka i sejf za opłatą)",
+  "pokój superior dwuosobowy (25 m², balkon, klimatyzacja, łazienka z prysznicem, telefon, suszarka do włosów, TV satelitarna, radio, biurko, bezpłatne kosmetyki, mini lodówka i sejf za opłatą)"
+ ],
+ "rooms": 143,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.7493976,
+  "lon": 32.4282772,
+  "src": "osm"
+ },
+ "sources": [
+  "quierohotel.com",
+  "agoda.com",
+  "veronicahotel.com.cy",
+  "mapcarta.com",
+  "easyjet.com",
+  "thomascook.com",
+  "onthebeach.co.uk",
+  "reserve-online.net"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,133 @@
+{
+ "id": 38634,
+ "slug": "besani",
+ "name": "Besani",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001467632-570-428.jpg",
+ "city": "Durrës",
+ "intro": [
+  "Hotel Besani to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Shkëmbi i Kavajës w spokojnej dzielnicy hotelowej Durrës. Oferuje bezpośredni dostęp do morza oraz prywatną strefę plażową z bezpłatnymi leżakami i parasolami.",
+  "Hotel jest szczególnie polecany dla par szukających spokojnego wypoczynku. Zapewnia komfortowe warunki zakwaterowania z opcją all inclusive, a także dogodną lokalizację blisko centrum Durrës i lotniska w Tiranie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Besani znajduje się w Durrës, w dzielnicy Shkëmbi i Kavajës, bezpośrednio przy piaszczystej plaży. Obiekt oferuje prywatną strefę plażową z bezpłatnymi parasolami i leżakami. Odległość od centrum Durrës wynosi około 6.6 km, a od lotniska w Tiranie około 35-38 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 36 pokojami dwuosobowymi i trzyosobowymi, z których niektóre oferują widok na basen lub morze. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, sejf oraz prywatną łazienkę z prysznicem. Codzienne sprzątanie i wymiana ręczników są zapewnione."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Besani znajduje się restauracja serwująca dania kuchni lokalnej, śródziemnomorskiej oraz z grilla, zarówno w formie bufetu, jak i à la carte. Codziennie rano podawane jest śniadanie w formie bufetu. Goście mogą również korzystać z hotelowego baru. Hotel oferuje wyżywienie w formule all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest sezonowy odkryty basen ze słodką wodą. Brak informacji o zjeżdżalniach czy aquaparku. Hotel nie oferuje spa ani siłowni. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel zapewnia foteliki w restauracji oraz możliwość zamówienia bezpłatnego łóżeczka dla dziecka do 2 lat. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja tuż przy plaży",
+  "Miły i pomocny personel",
+  "Czyste pokoje i codzienne sprzątanie",
+  "Dobre śniadania i kawa",
+  "Dobra wartość za pieniądze"
+ ],
+ "cons": [
+  "Standard all inclusive bywa krytykowany",
+  "Problemy z łazienkami (zalewający prysznic)",
+  "Powolna winda",
+  "Jedzenie bywa zimne, ograniczony wybór owoców",
+  "Brak butelkowanej wody w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Besani od plaży?",
+   "a": "Hotel Besani jest położony bezpośrednio przy piaszczystej plaży Shkëmbi i Kavajës, oferując bezpośredni dostęp do morza."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana (TIA), oddalone o około 35-38 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Besani posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie jest tylko dla dorosłych i oferuje udogodnienia dla dzieci, takie jak foteliki w restauracji i możliwość zamówienia łóżeczka dla niemowląt."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel Besani oferuje wyżywienie all inclusive?",
+   "a": "Tak, hotel oferuje wyżywienie w formule all inclusive."
+  }
+ ],
+ "address": "Rruga dytesore Plepa-Golem, Shkembi i Kavajes Zona kadastrale 8518, Durres, 2000, Albania",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Sezonowy odkryty basen",
+  "Prywatna strefa plażowa",
+  "Bezpłatne parasole i leżaki na plaży",
+  "Restauracja",
+  "Bar"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Shkëmbi i Kavajës",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 6.6,
+ "goodFor": [
+  "Pary szukające spokojnego wypoczynku"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, telewizorem z płaskim ekranem, prywatną łazienką z prysznicem, sejfem (niektóre z balkonem)",
+  "Pokój trzyosobowy z klimatyzacją, telewizorem z płaskim ekranem, prywatną łazienką z prysznicem, sejfem (niektóre z balkonem)"
+ ],
+ "rooms": 36,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2823816,
+  "lon": 19.5121977,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "planetofhotels.com",
+  "mapy.com",
+  "wakacje.pl",
+  "cedok.cz",
+  "besani.al",
+  "trip.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

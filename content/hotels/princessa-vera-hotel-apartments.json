@@ -1,0 +1,132 @@
+{
+ "id": "x:cypr:princessa vera hotel apartments",
+ "slug": "princessa-vera-hotel-apartments",
+ "name": "Princessa Vera Hotel Apartments",
+ "country": "cypr",
+ "place": [
+  "cypr",
+  "Region Pafos",
+  "Pafos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/kypr/zapadni-kypr/pafos/princessa-vera-hotel-apartments-pl/1917/5a8698a6693a0e366fd385bbd38866fd_outdoorpool2-244.jpg",
+ "city": "Pafos",
+ "intro": [
+  "Princessa Vera Hotel Apartments to trzygwiazdkowy obiekt położony w turystycznej części Pafos na Cyprze, idealny dla osób szukających komfortowego zakwaterowania z łatwym dostępem do plaż i atrakcji miasta. Hotel, odnowiony w 2014 roku, oferuje 70 apartamentów i pokoi, co czyni go dobrą bazą wypadową zarówno dla rodzin, jak i par.",
+  "Obiekt jest dogodnie usytuowany blisko piaszczystych plaż oraz centrum Pafos, co pozwala na swobodne korzystanie z uroków miejscowości. Dzięki udogodnieniom takim jak baseny, plac zabaw dla dzieci i centrum fitness, hotel sprawdzi się dla gości ceniących sobie zarówno relaks, jak i aktywny wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Princessa Vera Hotel Apartments znajduje się w Pafos, w sercu turystycznej części miasta, przy ulicy Tomb of the Kings Avenue. Jest dogodnie położony około 400-500 metrów od piaszczystych plaż Lighthouse Beach i Faros Beach, do których można dojść w około pięć minut. Centrum Pafos oddalone jest o około 1 km, a Międzynarodowy Port Lotniczy Pafos (PFO) o około 16-19 km drogą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 70 apartamentów i pokoi, w tym Standard Studio, Superior Studio oraz Apartamenty z jedną sypialnią. Wszystkie pokoje wyposażone są w prywatną łazienkę, indywidualnie sterowaną klimatyzację, telewizor, aneks kuchenny z lodówką, kuchenką mikrofalową, czajnikiem oraz naczyniami, a także balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja \"Namos\", serwująca dania kuchni międzynarodowej w formie bufetu na śniadanie, lunch i kolację. Goście mogą również korzystać z baru Harley's, baru przy basenie, snack baru oraz kawiarni. Opcja All Inclusive obejmuje posiłki w formie bufetu, małe przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma odkrytymi basenami, w tym jednym z płytszą sekcją oraz basenem dla dzieci. Na terenie obiektu dostępny jest również plac zabaw dla dzieci, pokój gier i bilard. Dla aktywnych gości dostępne są sauna, jacuzzi, centrum fitness/siłownia oraz możliwość uprawiania nurkowania, windsurfingu i wypożyczenia rowerów."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Princessa Vera Hotel Apartments jest polecany dla rodzin z dziećmi, par oraz osób szukających komfortowego wypoczynku i dogodnej bazy wypadowej do zwiedzania historycznych miejsc i centrum miasta. Hotel oferuje udogodnienia dla rodzin, a jednocześnie zapewnia dostęp do rozrywek i atrakcji dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Bardzo przyjazny i pomocny personel",
+  "Wysoki poziom czystości",
+  "Dobre i urozmaicone śniadania",
+  "Dobra relacja jakości do ceny"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być małe",
+  "Ciepłe dania na śniadanie bywały niedogrzane",
+  "Widoki z niektórych pokoi na plac budowy lub ruchliwą drogę"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 400-500 metrów od piaszczystych plaż Lighthouse Beach i Faros Beach."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Pafos (PFO) jest oddalony od hotelu o około 16-19 km drogą."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "17, Tomb of the Kings Avenue, 8045 Paphos, Cyprus",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "Międzynarodowy Port Lotniczy Pafos (PFO)",
+ "amenities": [
+  "sauna",
+  "jacuzzi",
+  "pokój gier",
+  "bilard",
+  "rzutki",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "turystyczna część miasta",
+ "bars": 3,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające komfortowego wypoczynku",
+  "osoby szukające bazy wypadowej do zwiedzania"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Studio (22-24 m²) z łazienką, klimatyzacją, TV, aneksem kuchennym i balkonem/tarasem",
+  "Superior Studio (25-26 m²) z łazienką, klimatyzacją, TV, aneksem kuchennym i balkonem/tarasem",
+  "Apartament z jedną sypialnią (35 m²) z łazienką, klimatyzacją, TV, aneksem kuchennym i balkonem/tarasem",
+  "Economy Double Room z łazienką, klimatyzacją, TV, aneksem kuchennym i balkonem/tarasem"
+ ],
+ "rooms": 70,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "agoda.com",
+  "loveholidays.com",
+  "mapcarta.com",
+  "visitcyprus.com",
+  "thomascook.com",
+  "jet2holidays.com",
+  "reserve-online.net",
+  "yandex.com"
+ ],
+ "updated": "2026-11-27"
+}

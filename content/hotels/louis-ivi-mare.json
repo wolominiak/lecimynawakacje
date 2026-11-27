@@ -1,0 +1,138 @@
+{
+ "id": 35742,
+ "slug": "louis-ivi-mare",
+ "name": "Louis Ivi Mare",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Paphos"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/louis-ivi-mare-basen-teren-hotelu-826761338-570-428.jpg",
+ "city": "Paphos",
+ "intro": [
+  "Louis Ivi Mare to pięciogwiazdkowy hotel położony bezpośrednio przy plaży Kato Paphos na Cyprze Południowym, oferujący widok na Morze Śródziemne. Otwarty w 2019 roku, wyróżnia się nowoczesnym designem i luksusowym wyposażeniem, zapewniając wysoki standard usług.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych (16+ lub 18+), co gwarantuje spokojną i relaksującą atmosferę. To idealne miejsce dla par szukających komfortowego wypoczynku, ceniących sobie wysoką jakość gastronomii i obsługi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Louis Ivi Mare znajduje się w dzielnicy Geroskipou w Paphos, bezpośrednio przy skalistej plaży Kato Paphos. W pobliżu dostępne są również piaszczyste miejsca do pływania. Do centrum Paphos jest około 4 km, a do portu około 3 km, co stanowi około 40 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 148 pokoi rozmieszczonych na 5 piętrach. Dostępne są różne typy, w tym Superior Inland View, Superior Sea View, Deluxe Sea View oraz Junior Suite z jacuzzi. Wszystkie pokoje są dźwiękoszczelne i wyposażone w klimatyzację, prywatny balkon lub taras, minibar, zestaw do parzenia kawy/herbaty, sejf, telewizor oraz łazienkę z luksusowymi kosmetykami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje trzema restauracjami i dwoma barami. Główna restauracja Palettes serwuje dania bufetowe, a dwie restauracje a la carte - Alati Greek Flavours i Fiki Japanese Fusion - oferują kuchnię grecką i japońską fusion. Pakiet Premium All-Inclusive obejmuje posiłki, przekąski, wybrane napoje oraz uzupełniany minibar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się trzy baseny: duży basen zewnętrzny (750 mkw) z jacuzzi, basen wewnętrzny (podgrzewany od listopada do marca) oraz plunge pool. Hotel, jako obiekt tylko dla dorosłych, nie oferuje animacji dla dzieci ani aquaparku. Wieczorami organizowana jest lekka muzyka na żywo i wieczory tematyczne."
+  },
+  {
+   "title": "Spa i fitness",
+   "text": "Goście mogą korzystać z pełnego centrum spa, które obejmuje podgrzewany basen kryty, saunę, łaźnię parową oraz gabinety masażu i zabiegów (dodatkowo płatne). Dostępna jest również dobrze wyposażona siłownia/centrum fitness."
+  }
+ ],
+ "pros": [
+  "Wysoka jakość gastronomii z różnorodnymi restauracjami",
+  "Wyjątkowy komfort i obsługa przy basenie",
+  "Czyste, luksusowe i nowoczesne wnętrza",
+  "Spokojna i relaksująca atmosfera (hotel tylko dla dorosłych)",
+  "Bardzo przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Skalista plaża bezpośrednio przy hotelu, zalecane buty do wody",
+  "Piaszczysta plaża wymaga spaceru",
+  "Potencjalne obawy o prywatność w niektórych pokojach z jacuzzi na balkonie lub oknem w łazience"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy plaży Kato Paphos. Plaża jest skalista, z piaszczystymi miejscami do pływania w pobliżu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 12 km od Międzynarodowego Lotniska w Paphos (PFO)."
+  },
+  {
+   "q": "Czy hotel Louis Ivi Mare jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (powyżej 16 lub 18 lat) i nie posiada udogodnień dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel oferuje bezpłatne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Tak, hotel posiada dobrze wyposażoną siłownię/centrum fitness."
+  }
+ ],
+ "address": "12, Theas Aphroditis Avenue, Geroskipou, Paphos, Cypr CY 8204",
+ "adultsOnly": true,
+ "airportKm": 12,
+ "airportName": "Międzynarodowe Lotnisko w Paphos (PFO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Jacuzzi",
+  "Minibar",
+  "Ekspres Nespresso",
+  "Szlafroki i kapcie"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Geroskipou (obszar Kato Paphos Beach)",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "skalista, w pobliżu piaszczyste miejsca",
+ "centerKm": 4,
+ "goodFor": [
+  "pary",
+  "osoby szukające relaksu",
+  "osoby ceniące luksus"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2019,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "Superior Inland View",
+  "Superior Sea View",
+  "Deluxe Sea View",
+  "Junior Suite Inland View Jacuzzi",
+  "Junior Suite Sea View Jacuzzi",
+  "Superior z prywatnym jacuzzi na świeżym powietrzu"
+ ],
+ "rooms": 148,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 34.7402401,
+  "lon": 32.4335872,
+  "src": "osm"
+ },
+ "sources": [
+  "britishairways.com",
+  "thomascook.com",
+  "louishotels.com",
+  "agoda.com",
+  "mapcarta.com",
+  "booking.com",
+  "expedia.com",
+  "tuiholidays.ie"
+ ],
+ "updated": "2026-11-27"
+}

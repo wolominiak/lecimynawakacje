@@ -1,0 +1,135 @@
+{
+ "id": 29539,
+ "slug": "green-park",
+ "name": "Green Park",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001460607-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel Green Park to kameralny, trzygwiazdkowy obiekt położony w Durres, w dzielnicy Shkembi Kavajes, zaledwie kilkadziesiąt metrów od piaszczystej plaży. Otoczony sosnowymi drzewami i zadbanym ogrodem, oferuje spokojną atmosferę i jest idealnym wyborem dla osób ceniących bliskość natury.",
+  "Obiekt polecany jest zarówno dla par, jak i rodzin z dziećmi, a także dla grup przyjaciół. Hotel zapewnia profesjonalną obsługę i dobry stosunek jakości do ceny, stanowiąc komfortową bazę wypadową do zwiedzania Riwiery Albańskiej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Green Park znajduje się w dzielnicy Shkembi Kavajes w Durres, około 8 km od centrum miasta. Obiekt jest usytuowany w odległości 50-110 metrów od publicznej, piaszczystej plaży Green Park Beach, z łagodnym zejściem do morza. Hotel posiada wydzieloną część plaży z bezpłatnymi parasolami i leżakami dla gości."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 20 do 26 pokoi, niektóre z widokiem na ocean, inne z balkonem i widokiem na ogród. Wszystkie pokoje są wyposażone w klimatyzację, sejf oraz rozkładane sofy. Pokoje są utrzymane w czystości, a ręczniki są regularnie wymieniane."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja oraz bar. Hotel oferuje wyżywienie w formule niepełnego wyżywienia (half-board). W pobliżu obiektu dostępna jest również restauracja serwująca owoce morza, Restaurant Bleart. Dostępne są krzesełka dla dzieci w restauracji oraz bufet śniadaniowy przyjazny dzieciom."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu Green Park mogą korzystać z kilku basenów na terenie obiektu. Dla aktywnych dostępne są boiska do siatkówki, koszykówki oraz badminton. Na miejscu znajduje się również spa, oferujące możliwość relaksu. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Green Park jest polecany dla par, rodzin z dziećmi, przyjaciół, a także osób podróżujących służbowo lub solo. Jest to idealne miejsce dla tych, którzy szukają spokojnego wypoczynku w otoczeniu natury, cenią sobie profesjonalną obsługę i dobry stosunek jakości do ceny."
+  }
+ ],
+ "pros": [
+  "Fantastyczna i pomocna obsługa",
+  "Czyste pokoje i zadbany ogród",
+  "Smaczne i obfite jedzenie",
+  "Dobry stosunek jakości do ceny",
+  "Bliskość piaszczystej plaży"
+ ],
+ "cons": [
+  "Niska ocena animacji",
+  "Problemy z temperaturą jedzenia",
+  "Sprzątanie mogłoby być częstsze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Green Park znajduje się około 50-110 metrów od publicznej, piaszczystej plaży Green Park Beach."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Tirana (TIA) oddalony jest od hotelu o około 35-40 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak danych na temat aquaparku lub zjeżdżalni w hotelu Green Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi. Dostępne są krzesełka dla dzieci w restauracji oraz bufet śniadaniowy przyjazny dzieciom."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje wyżywienie w formule niepełnego wyżywienia (half-board). Brak informacji o opcji all inclusive."
+  }
+ ],
+ "address": "Lagjia 13, Shkembi i Kavajes, Durres, Albania",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana (TIA)",
+ "amenities": [
+  "Klimatyzacja",
+  "Sejf",
+  "Rozkładane sofy",
+  "Boiska do siatkówki",
+  "Boiska do koszykówki",
+  "Badminton"
+ ],
+ "animations": false,
+ "aquapark": null,
+ "area": "Shkembi Kavajes",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta",
+ "centerKm": 8,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi",
+  "Przyjaciele",
+  "Podróżujący służbowo",
+  "Podróżujący solo"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2014,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje z widokiem na ocean",
+  "Pokoje z balkonem i widokiem na ogród"
+ ],
+ "rooms": 20,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 16.5786484,
+  "lon": 82.006286,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelalbania.net",
+  "hotels-albania.net",
+  "wakacje.pl",
+  "trip.com",
+  "agoda.com",
+  "hotels-al.com",
+  "mapcarta.com",
+  "tropki.com"
+ ],
+ "updated": "2026-11-27"
+}

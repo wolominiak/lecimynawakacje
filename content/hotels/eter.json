@@ -1,0 +1,145 @@
+{
+ "id": 33907,
+ "slug": "eter",
+ "name": "Eter",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Golem"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/eter-basen-823428795-570-428.jpg",
+ "city": "Golem",
+ "intro": [
+  "Hotel Eter to czterogwiazdkowy obiekt położony w miejscowości Golem, w dzielnicy Mali Robit, bezpośrednio przy prywatnej, piaszczystej plaży. To nowoczesny hotel, częściowo odnowiony w 2024 roku, oferujący komfortowe warunki zakwaterowania.",
+  "Jest to idealne miejsce dla rodzin z dziećmi, dzięki łagodnemu wejściu do morza, brodzikowi i placowi zabaw. Hotel sprawdzi się również dla par, które docenią wieczorne występy muzyczne i bar na dachu, a także dla osób podróżujących służbowo, ze względu na dostępne udogodnienia biznesowe."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Eter znajduje się w Golem, w dzielnicy Mali Robit, bezpośrednio przy prywatnej, piaszczystej plaży. Goście mają do dyspozycji bezpłatne leżaki, parasole i ręczniki plażowe. Odległość od centrum Golem wynosi około 3 km, a od Durres około 16 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 75-76 komfortowych i nowoczesnych pokoi, częściowo odnowionych w 2024 roku. Wszystkie pokoje są klimatyzowane i wyposażone w balkon, prywatną łazienkę z prysznicem, telewizor, minibar, sejf oraz zestaw do parzenia kawy i herbaty. Dostępne są różne typy pokoi, w tym rodzinne i apartamenty z widokiem na morze."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny: odkryty sezonowy (w tym jeden na dachu z podgrzewaną wodą) oraz kryty basen przeznaczony wyłącznie dla dorosłych. Dla dzieci przygotowano zintegrowany brodzik i plac zabaw. Hotel dysponuje również centrum spa z sauną, łaźnią turecką, jacuzzi oraz siłownią."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja serwująca dania kuchni śródziemnomorskiej i lokalne specjały. Śniadania podawane są w formie bufetu, à la carte lub kontynentalnej. Goście mogą korzystać z barów, w tym baru na plaży i baru na dachu. Hotel oferuje opcję all inclusive, jednak jej zakres może odbiegać od standardów europejskich."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Eter jest przyjazny rodzinom z dziećmi. Na terenie obiektu znajduje się zintegrowany brodzik oraz plac zabaw w ogrodzie. Prywatna, piaszczysta plaża z łagodnym wejściem do morza jest również odpowiednia dla najmłodszych."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Do dyspozycji gości jest bezpłatne Wi-Fi na terenie całego hotelu. Hotel oferuje również centrum fitness/siłownię oraz centrum spa i wellness z sauną, łaźnią turecką i jacuzzi. Okazjonalnie organizowane są wieczorne występy muzyczne."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Nowoczesny design i wysoka czystość obiektu",
+  "Basen na dachu z widokiem i podgrzewaną wodą",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie, szczególnie kolacje"
+ ],
+ "cons": [
+  "Śniadania bywają mało urozmaicone lub chaotyczne",
+  "Zdarzają się \"walki o leżaki\" na plaży i przy basenie",
+  "Jakość pakietu all inclusive może odbiegać od oczekiwań",
+  "Morze bywa mętne od piasku i traw",
+  "W okolicy może występować hałas muzyczny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Eter położony jest bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni. Dostępne są dwa baseny oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw i piaszczystą plażę z łagodnym wejściem do morza."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 41-43 km od Międzynarodowego Portu Lotniczego Tirana (TIA)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Tak, hotel oferuje opcję all inclusive, jednak goście zwracają uwagę, że jej forma może odbiegać od typowych standardów europejskich."
+  }
+ ],
+ "address": "Blvd Pishave, Mali Robit, 2504, Golem, Albania",
+ "adultsOnly": false,
+ "airportKm": 41,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Spa i wellness",
+  "Siłownia",
+  "Bezpłatne Wi-Fi",
+  "Sale konferencyjne",
+  "Wieczorne występy muzyczne"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Mali Robit",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2023,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2024,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Land View Room",
+  "Standard Double Side Sea View Room",
+  "Deluxe Double Room with Sea View",
+  "Deluxe Side Sea View Room",
+  "Family Room with Sea View",
+  "Panoramic Studio Suite",
+  "Penthouse Sea View Suite",
+  "Executive Penthouse Sea View Suite",
+  "Superior Suite with Sea View"
+ ],
+ "rooms": 75,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2412844,
+  "lon": 19.5178004,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "staytick.com",
+  "wakacje.pl",
+  "travelplanet.pl",
+  "invia.sk",
+  "loveholidays.com",
+  "capitalglobaltravel.com",
+  "eter.al"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,133 @@
+{
+ "id": "x:cypr:helios bay hotel apartments",
+ "slug": "helios-bay-hotel-apartments",
+ "name": "Helios Bay Hotel Apartments",
+ "country": "cypr",
+ "place": [
+  "cypr",
+  "Region Pafos",
+  "Pafos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/kypr/zapadni-kypr/pafos/helios-bay-hotel-apartments-pl/9006/3400829ca224184996ccc-244.jpg",
+ "city": "Pafos",
+ "intro": [
+  "Helios Bay Hotel Apartments to rodzinny obiekt położony w miejscowości Chlorakas na Cyprze, idealny dla rodzin i par poszukujących spokojnego wypoczynku nad morzem. Hotel oferuje komfortowe apartamenty z aneksem kuchennym, co pozwala na niezależne przygotowywanie posiłków.",
+  "Obiekt znajduje się w dogodnej lokalizacji, blisko piaszczystej plaży oraz w niewielkiej odległości od centrum Pafos, co umożliwia łatwy dostęp do lokalnych atrakcji. Goście doceniają przyjazną atmosferę i dobrą relację jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Helios Bay Hotel Apartments usytuowany jest w Chlorakas, pomiędzy Zatoką Koralową a Grobowcami Królów. Obiekt znajduje się zaledwie około 100 metrów od piaszczystej plaży, do której można dojść w dwie minuty. Na plaży dostępne są leżaki, a ręczniki plażowe są oferowane przez hotel (możliwa dodatkowa opłata)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 68 apartamentów w budynku głównym oraz studia i wille w budynkach aneksowych. Wszystkie pokoje są samoobsługowe i wyposażone w klimatyzację, w pełni wyposażony aneks kuchenny, prywatną łazienkę oraz balkon lub patio. W aneksach kuchennych znajduje się m.in. piekarnik, mikrofalówka i lodówka, a w pokojach telewizor LED, bezpłatne Wi-Fi i sejf."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się 2 odkryte baseny, w tym jeden przeznaczony dla dzieci. Przy basenie działa bar typu swim-up. Dla aktywnych gości dostępna jest siłownia, sauna i jacuzzi. Hotel oferuje również animacje 6 dni w tygodniu (od maja do października), obejmujące aqua aerobik, turnieje i gry."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Helios Bay Hotel Apartments to obiekt przyjazny rodzinom. Dla najmłodszych przygotowano basen dziecięcy oraz plac zabaw. W sezonie odbywają się animacje, w tym gry przeznaczone dla dzieci."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel posiada restaurację i bar przy basenie, które serwują dania kuchni międzynarodowej, śniadania i lekkie posiłki. Dostępne są również lobby bar, snack bar i lounger bar. Goście mogą wybrać opcję zakwaterowania ze śniadaniami (Bed and Breakfast) lub bez wyżywienia (Self Catering)."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i przystanku autobusowego",
+  "Przestronne i czyste pokoje z dobrze wyposażonym aneksem kuchennym",
+  "Przyjazny personel i spokojna atmosfera",
+  "Dobra relacja jakości do ceny",
+  "Piękne zachody słońca"
+ ],
+ "cons": [
+  "Brak dużego aquaparku ze zjeżdżalniami",
+  "Płytki basen",
+  "Klimatyzacja w jednej sypialni może być słaba",
+  "Możliwe problemy z elektryką przy używaniu suszarki do włosów"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Helios Bay Hotel Apartments jest położony około 100 metrów od piaszczystej plaży, co stanowi około dwie minuty spacerem."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska w Pafos?",
+   "a": "Odległość od międzynarodowego lotniska w Pafos (PFO) wynosi około 13-16 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma dużego aquaparku ze zjeżdżalniami, ale są dwa odkryte baseny, w tym jeden dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest obiektem rodzinnym i oferuje basen dla dzieci oraz plac zabaw. W sezonie dostępne są również animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych na terenie hotelu."
+  },
+  {
+   "q": "Jakie opcje wyżywienia oferuje hotel?",
+   "a": "Hotel oferuje wyżywienie typu Bed and Breakfast (śniadania) oraz Self Catering (bez wyżywienia). Dostępne są restauracja i bary."
+  }
+ ],
+ "address": "Chloraka Avenue 8220, Paphos, Cyprus",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Pafos (PFO)",
+ "amenities": [
+  "Siłownia",
+  "Sauna",
+  "Jacuzzi",
+  "Tenis stołowy",
+  "Bilard",
+  "Plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Chlorakas",
+ "bars": 4,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 4,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, łazienką, balkonem/patio",
+  "Apartament jednopokojowy z aneksem kuchennym, łazienką, balkonem/patio",
+  "Apartament dwupokojowy z aneksem kuchennym, łazienką, balkonem/patio",
+  "Willa dwupokojowa z aneksem kuchennym, łazienką, balkonem/patio",
+  "Willa trzypokojowa z aneksem kuchennym, łazienką, balkonem/patio",
+  "Studio ogrodowe z aneksem kuchennym, łazienką, balkonem/patio"
+ ],
+ "rooms": 68,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "flyin.com",
+  "expedia.com",
+  "helioshotelapartments.com",
+  "planetofhotels.com",
+  "helioshotelpaphos.com",
+  "reserve-online.net",
+  "wego.qa",
+  "almosafer.com"
+ ],
+ "updated": "2026-11-27"
+}

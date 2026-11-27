@@ -1,0 +1,143 @@
+{
+ "id": 42137,
+ "slug": "toxotis",
+ "name": "Toxotis",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Protaras"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/toxotis-basen-1803697367-570-428.jpg",
+ "city": "Protaras",
+ "intro": [
+  "Hotel Toxotis to czterogwiazdkowy obiekt położony w dzielnicy Pernera w Protaras na Cyprze Południowym. To idealne miejsce dla rodzin, par i małych grup, które szukają komfortowego wypoczynku blisko piaszczystej plaży i lokalnych atrakcji.",
+  "Hotel oferuje szereg udogodnień, w tym baseny, mini aquapark dla dzieci, animacje oraz różnorodne opcje gastronomiczne. Dzięki niedawnym modernizacjom i przyjaznej obsłudze, Toxotis zapewnia przyjemny pobyt w spokojnej okolicy, jednocześnie umożliwiając łatwy dostęp do centrum Protaras."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Toxotis znajduje się w dzielnicy Pernera w Protaras, około 500-685 metrów od publicznej, piaszczystej plaży. Spacer do plaży zajmuje około 8-10 minut. W pobliżu hotelu znajdują się również restauracje i przystanek autobusowy, a centrum turystyczne jest oddalone o około 400 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 98 pokoi, w tym pokoje standardowe, rodzinne, studia i apartamenty. Wszystkie pokoje wyposażone są w klimatyzację, bezpłatne Wi-Fi, telewizor, mini lodówkę oraz umeblowany balkon. W prywatnych łazienkach znajduje się prysznic lub wanna."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu dostępne są trzy restauracje: główna restauracja Elia z bufetem i wieczorami tematycznymi, restauracja Sunny oferująca śniadania i lokalne specjały, oraz restauracja a la carte Ethrio z kuchnią włoską. Goście mogą również korzystać z lobby baru i baru przy basenie. Opcja all inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem dla dorosłych oraz oddzielnym basenem dla dzieci. Dla najmłodszych przygotowano również mini aquapark ze zjeżdżalniami wodnymi, plac zabaw i pokój zabaw. W ciągu dnia organizowane są animacje rodzinne, a wieczorami pokazy i mini disco. Na terenie obiektu znajduje się również siłownia, a za dodatkową opłatą dostępne są masaże i sauna."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla dzieci hotel oferuje oddzielny basen, mini aquapark ze zjeżdżalniami, plac zabaw oraz pokój zabaw. Dostępny jest również mini klub dla dzieci i animacje rodzinne, w tym mini disco wieczorami."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i restauracji",
+  "Czystość i miła obsługa",
+  "Dobre jedzenie z wieczorami tematycznymi",
+  "Udogodnienia dla dzieci, w tym mini aquapark",
+  "Niedawno odnowiony"
+ ],
+ "cons": [
+  "Obsługa recepcji bywała krytykowana",
+  "Jedzenie w opcji all inclusive czasem letnie",
+  "Ograniczone miejsce do przechowywania i małe łazienki w pokojach",
+  "Twarde materace",
+  "Brak suszarki do włosów w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Toxotis jest położony około 500-685 metrów od publicznej, piaszczystej plaży. Spacer zajmuje około 8-10 minut."
+  },
+  {
+   "q": "Jak daleko jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Larnace (LCA), oddalone o około 58-67 km. Czas przejazdu autokarem to około 60 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel Toxotis posiada mini aquapark dla dzieci ze zjeżdżalniami wodnymi."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje oddzielny basen dla dzieci, mini aquapark, plac zabaw, mini klub oraz animacje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Kiedy hotel był ostatnio remontowany?",
+   "a": "Hotel został zmodernizowany w 2022 roku, choć niektóre źródła podają remont w 2017 roku."
+  }
+ ],
+ "address": "Perneras Avenue 70, 5296 Protaras, Cypr",
+ "adultsOnly": false,
+ "airportKm": 58,
+ "airportName": "Międzynarodowe Lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telefon",
+  "Mini lodówka",
+  "Telewizor",
+  "Balkon",
+  "Prywatna łazienka",
+  "Biurko",
+  "Szafa",
+  "Sofa",
+  "Codzienne sprzątanie",
+  "Zestaw do parzenia kawy/herbaty"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Pernera",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "Piaszczysta",
+ "centerKm": 2.25,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Małe grupy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1994,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje hotelowe (standardowe)",
+  "Pokoje rodzinne",
+  "Studia",
+  "Apartamenty",
+  "Pokoje dwuosobowe/typu twin"
+ ],
+ "rooms": 98,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.0292791,
+  "lon": 34.0367693,
+  "src": "osm"
+ },
+ "sources": [
+  "giatadrive.com",
+  "onthebeach.ie",
+  "tui.co.uk",
+  "travelhouse.co.uk",
+  "jet2holidays.com",
+  "firstchoice.co.uk",
+  "trivago.co.uk",
+  "heartofcyprus.com"
+ ],
+ "updated": "2026-11-27"
+}

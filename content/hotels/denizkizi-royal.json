@@ -1,0 +1,142 @@
+{
+ "id": "x:cypr:denizkizi royal",
+ "slug": "denizkizi-royal",
+ "name": "Denizkizi Royal",
+ "country": "cypr",
+ "place": [
+  "cypr",
+  "Cypr Północny"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/kypr/severni-kypr/kyrenia/denizkizi-royal/620bf46083949db55282fcb6af968f65_1.jpeg",
+ "city": "Alsancak",
+ "intro": [
+  "Hotel Denizkizi Royal to czterogwiazdkowy obiekt położony w malowniczej zatoce Alsancak, na zachód od Kyrenii, na Cyprze Północnym. Jest częścią większego kompleksu Denizkizi i wyróżnia się bezpośrednim dostępem do prywatnej, piaszczystej plaży. Otoczony bujnymi ogrodami, oferuje piękne widoki na morze i góry, co czyni go idealnym miejscem na relaksujący wypoczynek.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki nowo wybudowanemu aquaparkowi i udogodnieniom dla najmłodszych. Sprawdzi się również dla par oraz miłośników sportów wodnych i nurkowania, poszukujących aktywnego wypoczynku w spokojnej okolicy, z łatwym dostępem do atrakcji Kyrenii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Denizkizi Royal znajduje się w Alsancak, około 7-9 km na zachód od centrum Kyrenii i 1 km od wioski Alsancak. Położony jest bezpośrednio przy prywatnej, piaszczystej plaży w zacisznej zatoce, z łagodnym zejściem do wody. Dla wygody gości dostępne są leżaki, parasole i ręczniki plażowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 54 pokojami, w tym standardowymi, łączonymi i apartamentami. Wszystkie pokoje w budynku Denizkizi Royal oferują widok na morze oraz prywatny balkon. Wyposażenie obejmuje klimatyzację, odnowioną łazienkę, minibar, bezpłatny sejf, telewizor z płaskim ekranem, zestaw do parzenia kawy/herbaty (na życzenie) oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Sunset serwuje śniadania i kolacje w formie bufetu. Do dyspozycji gości są także Pool Snack Bar, Beach Restaurant & Bar z lekkimi posiłkami oraz Terrace Restaurant z kolacjami i muzyką na żywo w sezonie. W sezonie letnim hotel oferuje opcję All Inclusive, obejmującą posiłki i lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży, odkryty basen ze słodką wodą, z wydzieloną częścią dla dzieci. Dla najmłodszych przygotowano również nowo wybudowany aquapark ze zjeżdżalniami oraz plac zabaw. W sezonie szczytowym organizowane są wieczorne rozrywki, w tym muzyka na żywo."
+  },
+  {
+   "title": "Sport i Wellness",
+   "text": "Hotel oferuje centrum fitness/siłownię oraz centrum spa z masażami (dodatkowo płatne), sauną, łaźnią parową i jacuzzi. Na plaży dostępne są płatne sporty wodne, w tym nurkowanie (hotel posiada 5-gwiazdkowe centrum nurkowe PADI), jet ski, wakeboarding i parasailing. Goście mogą również korzystać z mini golfa, bilarda i tenisa stołowego."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Nowo wybudowany aquapark dla dzieci",
+  "Dobre jedzenie i przyjazna atmosfera",
+  "Bezpłatne Wi-Fi w całym hotelu",
+  "Centrum nurkowe PADI na miejscu"
+ ],
+ "cons": [
+  "Stroma droga z plaży do hotelu (dostępny wózek golfowy)",
+  "Basen może być zatłoczony przez lokalnych gości w weekendy",
+  "Niektóre usługi i restauracje mogą być dodatkowo płatne w opcji All Inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Denizkizi Royal leży bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko się znajduje?",
+   "a": "Najbliższe lotnisko to Ercan (ECN), oddalone o około 40-52 km, co oznacza około 40-45 minut transferu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada nowo wybudowany aquapark dla dzieci z jasnymi zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferuje aquapark, wydzieloną część basenu dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i miejscach publicznych."
+  },
+  {
+   "q": "Jak daleko jest do centrum Kyrenii?",
+   "a": "Odległość od centrum Kyrenii wynosi około 7-9 km na zachód."
+  }
+ ],
+ "address": "9 Dumlupinar Str, Alsancak, Kyrenia, 99350 North Cyprus",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Ercan (ECN)",
+ "amenities": [
+  "prywatna piaszczysta plaża",
+  "leżaki, parasole i ręczniki plażowe",
+  "duży odkryty basen ze słodką wodą",
+  "aquapark dla dzieci",
+  "plac zabaw dla dzieci",
+  "centrum spa",
+  "siłownia",
+  "centrum nurkowe PADI",
+  "mini golf",
+  "bilard",
+  "tenis stołowy",
+  "muzyka na żywo",
+  "wieczory tematyczne"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Alsancak",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy relaksu na plaży",
+  "miłośnicy sportów wodnych",
+  "miłośnicy nurkowania"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 4,
+ "roomTypes": [
+  "pokój standardowy z widokiem na morze, balkonem, klimatyzacją, odnowioną łazienką, minibarem, sejfem, TV sat, telefonem, suszarką, zestawem do kawy/herbaty",
+  "pokój łączony (interconnect) z widokiem na morze, balkonem, klimatyzacją, odnowioną łazienką, minibarem, sejfem, TV sat, telefonem, suszarką, zestawem do kawy/herbaty",
+  "apartament (suite) z widokiem na morze, balkonem, klimatyzacją, odnowioną łazienką, minibarem, sejfem, TV sat, telefonem, suszarką, zestawem do kawy/herbaty"
+ ],
+ "rooms": 54,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3493,
+  "lon": 33.2246,
+  "src": "web"
+ },
+ "sources": [
+  "cyprusparadise.com",
+  "gonorthcyprus.com",
+  "wanderlog.com",
+  "yandex.ru",
+  "visit.guide",
+  "yandex.com",
+  "youtube.com",
+  "geoview.info"
+ ],
+ "updated": "2026-11-27"
+}

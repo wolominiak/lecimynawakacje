@@ -1,0 +1,141 @@
+{
+ "id": "x:cypr:euronapa hotel apartments",
+ "slug": "euronapa-hotel-apartments",
+ "name": "Euronapa Hotel Apartments",
+ "country": "cypr",
+ "place": [
+  "cypr",
+  "Region Limassol i Larnaka",
+  "Ayia Napa"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/kypr/jizni-kypr/ayia-napa/euronapa-hotel-apartments-pl/1593/2dcbf79e33301c06c70ebf173f50a171_71-244.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Euronapa Hotel Apartments to trzygwiazdkowy kompleks położony w spokojnej części Ayia Napa na Cyprze, jednocześnie zapewniający łatwy dostęp do tętniącego życiem centrum miejscowości. Obiekt oferuje komfortowe apartamenty z aneksami kuchennymi, co sprawia, że jest idealnym wyborem dla osób ceniących sobie niezależność podczas wakacji.",
+  "Hotel jest rekomendowany zarówno dla rodzin z dziećmi, dzięki dostępnym udogodnieniom, jak i dla par czy grup przyjaciół, którzy szukają relaksu blisko piaszczystych plaż, ale także możliwości korzystania z atrakcji Ayia Napa. Odnowione pokoje oraz przestronny teren zapewniają komfortowy wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Euronapa Hotel Apartments znajduje się w Ayia Napa, około 300 metrów od centrum miejscowości. W pobliżu hotelu znajdują się piaszczyste plaże: Sandy Bay (ok. 500 m), Katsarka Beach (ok. 400 m) oraz Nissi Beach i Limanaki Beach (obie ok. 1,5 km). Leżaki i parasole na publicznych plażach są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 111 pokoi i apartamentów, w tym odnowione Deluxe Studio, Superior Studio oraz Superior 1 Bedroom Apartment. Wszystkie pokoje wyposażone są w klimatyzację, aneks kuchenny, prywatną łazienkę, balkon lub taras, telewizor LCD oraz bezpłatny sejf. Dostępne są również pokoje przystosowane dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajdują się dwie restauracje: główna, serwująca śniadania i kolacje w formie bufetu, oraz restauracja à la carte. Goście mogą wybrać opcje wyżywienia takie jak \"tylko zakwaterowanie\", \"nocleg ze śniadaniem\" lub \"częściowe wyżywienie\". Do dyspozycji są także bar przy basenie i bar w lobby."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Euronapa Hotel Apartments dysponuje odkrytym basenem, w tym jednym basenem z podgrzewaną wodą, oraz jacuzzi. Dla aktywnych dostępne są sala fitness/siłownia, kort tenisowy, tenis stołowy, bilard oraz uniwersalne boisko sportowe. Hotel oferuje również program rozrywkowy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik oraz plac zabaw. Hotel jest przyjazny rodzinom i oferuje udogodnienia zapewniające komfortowy pobyt z dziećmi."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "W hotelu dostępne jest bezpłatne Wi-Fi w lobby i we wszystkich apartamentach. Goście mogą skorzystać z sauny i masaży za dodatkową opłatą. Hotel został otwarty w latach 1986/1987, a ostatni remont przeprowadzono w 2016 roku, obejmując pokoje typu Superior i Deluxe."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaż i centrum, ale w spokojnej okolicy",
+  "Przestronne pokoje z aneksami kuchennymi",
+  "Czystość w całym obiekcie",
+  "Miła i pomocna obsługa",
+  "Bezpłatne Wi-Fi w pokojach i lobby"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Monotonne śniadania (wg niektórych opinii)",
+  "Niskie oceny animacji",
+  "Brak aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Do plaży Sandy Bay jest około 500 metrów, a do Katsarka Beach około 400 metrów. Plaże Nissi i Limanaki znajdują się około 1,5 km od hotelu."
+  },
+  {
+   "q": "Jak daleko jest od lotniska?",
+   "a": "Hotel oddalony jest o około 50-55 km od Międzynarodowego Lotniska w Larnace (LCA)."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi i oferuje brodzik oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i we wszystkich apartamentach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje opcje \"tylko zakwaterowanie\" (Self Catering), \"nocleg ze śniadaniem\" (Bed & Breakfast) oraz \"częściowe wyżywienie\" (Half Board - śniadania i kolacje). Nie ma opcji all inclusive."
+  }
+ ],
+ "address": "John Kennedy Street, 6, P.O.Box 30045, 5340 Ayia Napa - Cyprus",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Międzynarodowe Lotnisko w Larnace (LCA)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Telewizor LCD",
+  "Sejf",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard",
+  "Sala fitness",
+  "Jacuzzi",
+  "Sauna (płatna)",
+  "Masaże (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Spokojna okolica blisko centrum Ayia Napa",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby szukające spokojnego wypoczynku",
+  "Osoby z łatwym dostępem do centrum i plaży"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 2,
+ "roomTypes": [
+  "Deluxe Studio (32-33 m², dla 2-3 osób, wyposażony w aneks kuchenny, łazienkę, balkon/taras, TV, telefon, sejf)",
+  "Superior Studio (33 m², dla 2-3 osób, wyposażony w aneks kuchenny, łazienkę, balkon/taras, TV, telefon, sejf)",
+  "Superior 1 Bedroom Apartment (41 m², dla 4 osób, wyposażony w aneks kuchenny, łazienkę, balkon/taras, TV, telefon, sejf)"
+ ],
+ "rooms": 111,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "euronapahotel.com",
+  "coraltravel.pl",
+  "reserve-online.net",
+  "ayianapabeachhotels.com",
+  "itaka.pl",
+  "wakacje.pl",
+  "booking.com",
+  "travelyalla.com"
+ ],
+ "updated": "2026-11-27"
+}

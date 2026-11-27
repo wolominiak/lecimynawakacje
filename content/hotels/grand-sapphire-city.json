@@ -1,0 +1,132 @@
+{
+ "id": 267400,
+ "slug": "grand-sapphire-city",
+ "name": "Grand Sapphire City",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Północny",
+  "Famagusta (Gazimagusa)"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/grand-sapphire-city-obiekt-1794473577-570-428.jpg",
+ "city": "Famagusta (Gazimagusa)",
+ "intro": [
+  "Grand Sapphire City to trzygwiazdkowy hotel miejski położony w Famaguście, na Cyprze Północnym. Obiekt, otwarty w 2016 roku i odnowiony w 2019, oferuje 130-132 pokoje i jest dogodną bazą wypadową do zwiedzania miasta.",
+  "Hotel jest polecany zarówno dla podróżujących służbowo, jak i dla turystów chcących odkrywać uroki Famagusty. Dzięki udogodnieniom takim jak spa, siłownia i kryty basen, a także opcjom zakwaterowania dla rodzin, hotel sprawdzi się dla różnych grup gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Grand Sapphire City znajduje się w dzielnicy Karakol Mahallesi w Famaguście, około 5 minut spacerem od popularnej ulicy handlowej Salamis. Do Starego Miasta (Suriçi) można dotrzeć w około 5 minut. Najbliższe plaże, Glapsides Beach i Palm Beach, oddalone są o około 3.1-3.4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 130 do 132 pokoi, w tym Superior Room (30 m²), Superior City Room (13 m²) oraz Junior Suite (36 m²). Wszystkie pokoje wyposażone są w klimatyzację, biurko, czajnik elektryczny, minibar, sejf, telewizor z płaskim ekranem oraz prywatną łazienkę z prysznicem i suszarką do włosów. Dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja serwująca dania kuchni tureckiej i międzynarodowej. Codziennie rano podawane są śniadania w formie bufetu, z uwzględnieniem opcji halal. Goście mogą również skorzystać z baru w lobby."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden kryty basen, który jest podgrzewany. Hotel oferuje także centrum spa i wellness z sauną oraz możliwością skorzystania z masaży. Na terenie obiektu znajduje się również siłownia."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich obszarach oraz w pokojach. Obiekt jest przyjazny rodzinom, a dzieci w wieku 6-12 lat mogą przebywać bezpłatnie w niektórych pokojach. Dostępne są również udogodnienia takie jak spa i centrum fitness."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w Famaguście",
+  "Czyste i przestronne pokoje",
+  "Dobre i różnorodne śniadania",
+  "Pomocna i przyjazna obsługa",
+  "Dostęp do spa i siłowni"
+ ],
+ "cons": [
+  "Brak bezpośredniego dostępu do plaży",
+  "Niektóre pokoje mogą być małe (Superior City Room)",
+  "Sporadyczne problemy z klimatyzacją (tylko grzanie)",
+  "Zdarzające się nieprzyjemne zapachy z toalety"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Grand Sapphire City jest hotelem miejskim. Najbliższe plaże, Glapsides Beach i Palm Beach, znajdują się około 3.1-3.4 km od obiektu."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Ercan International Airport (ECN), oddalone o około 40-51 km. Czas przejazdu wynosi około 40-50 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dzieci w wieku 6-12 lat mogą przebywać bezpłatnie w niektórych pokojach. Brak informacji o mini klubie czy animacjach dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, w hotelu znajduje się jeden kryty basen, który jest podgrzewany."
+  }
+ ],
+ "address": "Abide Bayram Sokak, 19, 99450, Famagusta, Kuzey Kıbrıs",
+ "adultsOnly": false,
+ "airportKm": 45.5,
+ "airportName": "Ercan International Airport (ECN)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kryty basen",
+  "Bezpłatne Wi-Fi",
+  "Restauracja",
+  "Bar"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Karakol Mahallesi",
+ "bars": 1,
+ "beachDistanceM": 3100,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści zwiedzający miasto",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 2016,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Superior Room (30 m², dla 2 dorosłych + 1 dziecko lub 3 dorosłych)",
+  "Superior City Room (13 m², dla 1 osoby)",
+  "Junior Suite (36 m², dla 2 dorosłych + 2 dzieci)",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 130,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "skyscanner.net",
+  "bookstaygo.com",
+  "grandsapphirecity.com",
+  "transferkibris.vip",
+  "holidaycheck.de",
+  "trivago.com",
+  "yandex.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": 31703,
+ "slug": "river-rock",
+ "name": "River Rock",
+ "country": "cypr",
+ "place": [
+  "Cypr",
+  "Cypr Południowy",
+  "Ayia Napa"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/river-rock-teren-hotelu-621189873-570-428.jpg",
+ "city": "Ayia Napa",
+ "intro": [
+  "Hotel River Rock to czterogwiazdkowy obiekt położony w samym sercu Ayia Napa na Cyprze Południowym. Oddany do użytku w 2015 roku, oferuje nowoczesne udogodnienia i dogodną lokalizację dla osób pragnących aktywnie spędzać czas.",
+  "Obiekt jest polecany zarówno dla par, jak i dla rodzin z dziećmi, a także dla turystów ceniących bliskość atrakcji miejskich. Zapewnia komfortowy pobyt w tętniącej życiem okolicy, z łatwym dostępem do plaż i rozrywek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel River Rock znajduje się w centrum Ayia Napa, tuż przy Muzeum Miejskim THALASSA. Najbliższe piaszczyste plaże, takie jak Pantachou Beach czy Limanaki Beach, oddalone są o około 700 metrów, co stanowi 7-10 minut spacerem. Międzynarodowy Port Lotniczy Larnaka (LCA) jest oddalony o około 37-51,4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 88 pokojami, w tym pokojami dwuosobowymi standardowymi, z widokiem na ląd lub basen, a także pokojami rodzinnymi. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, prywatną łazienkę, suszarkę do włosów, mini lodówkę oraz zestaw do parzenia kawy/herbaty. Każdy pokój posiada również prywatny balkon lub patio."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja Aspelia, serwująca śniadania i kolacje w formie bufetu oraz dania à la carte. Do dyspozycji gości są również lobby bar, bar przy basenie/snack bar oraz Cocktail Bar i Shisha Lounge. Pakiet all inclusive obejmuje posiłki, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe w godzinach 11:00-23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje sezonowy odkryty basen oraz brodzik dla dzieci. Na terenie obiektu dostępny jest plac zabaw dla dzieci oraz centrum fitness/siłownia. Goście mogą również korzystać ze stołu do tenisa stołowego i wanny z hydromasażem. Bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel River Rock jest idealny dla par szukających aktywnego wypoczynku w centrum miasta, jak i dla rodzin z dziećmi, dzięki udogodnieniom takim jak brodzik i plac zabaw. Centralna lokalizacja zapewnia łatwy dostęp do atrakcji, restauracji i życia nocnego Ayia Napa."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko atrakcji i plaży",
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje i udogodnienia",
+  "Dobre i urozmaicone śniadania",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Może być głośno w nocy ze względu na centralną lokalizację",
+  "Sejf w pokoju jest dodatkowo płatny",
+  "Jedzenie bywa oceniane jako przeciętne",
+  "Brak bezpłatnych ręczników na plaży",
+  "Zdarzały się przypadki przenoszenia gości do innych hoteli"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel River Rock jest oddalony o około 700 metrów od piaszczystych plaż, takich jak Limanaki Beach lub Grecian Bay Beach, co stanowi 7-10 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Larnaka (LCA), oddalony o około 37-51,4 km. Podróż taksówką trwa około 40-52 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel River Rock nie posiada własnego aquaparku ani zjeżdżalni wodnych, ale w pobliżu znajduje się WaterWorld Themed Waterpark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz we wszystkich ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel River Rock nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany zarówno dla par, jak i dla rodzin."
+  }
+ ],
+ "address": "Kryou Nerou 21, P.O. Box 30341, Famagusta, Cypr, 5343",
+ "adultsOnly": false,
+ "airportKm": 37,
+ "airportName": "Międzynarodowy Port Lotniczy Larnaka (LCA)",
+ "amenities": [
+  "centrum fitness/siłownia",
+  "stół do tenisa stołowego",
+  "wanna z hydromasażem",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Ayia Napa",
+ "bars": 4,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "turyści preferujący aktywny wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2015,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Twin/Double Room z widokiem na ląd",
+  "Twin/Double Room z widokiem na basen",
+  "Family Room z widokiem na ląd",
+  "Standard Double or Twin Room z balkonem"
+ ],
+ "rooms": 88,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 34.9882595,
+  "lon": 34.0034224,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "thomascook.com",
+  "cyprushotelassociation.org",
+  "vivehotels.com",
+  "chaf.com.cy",
+  "reserve-online.net",
+  "booking.com",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}

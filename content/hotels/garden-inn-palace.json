@@ -1,0 +1,132 @@
+{
+ "id": 261584,
+ "slug": "garden-inn-palace",
+ "name": "Garden INN Palace",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/garden-inn-palace-teren-hotelu-obiekt-basen-1768181133-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel Garden INN Palace, znany również jako Garden Palace, to czterogwiazdkowy obiekt położony w turystycznej dzielnicy Golem w zachodniej Albanii. Jest to idealne miejsce dla osób poszukujących spokojnego wypoczynku blisko morza, w otoczeniu zieleni.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par, oferując komfortowe zakwaterowanie i szereg udogodnień, które zapewnią relaksujący pobyt na Riwierze Albańskiej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Garden INN Palace znajduje się w miejscowości Golem, zaledwie 50-100 metrów od szerokiej, piaszczystej plaży Golem Beach. Obiekt dysponuje prywatną strefą plażową, gdzie goście mogą korzystać z bezpłatnych leżaków i parasoli. Okolica jest spokojna, otoczona sosnami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 75 pokoi, w tym jedno-, dwu- i trzyosobowe standard, pokoje rodzinne oraz dwuosobowe do pojedynczego wykorzystania z dzieckiem. Wszystkie pokoje są klimatyzowane i wyposażone w Wi-Fi, lodówkę, telewizor z płaskim ekranem, ogrzewanie, suszarkę do włosów, sejf, zestaw kosmetyków oraz czajnik. Niektóre pokoje posiadają balkon i minibar."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni włoskiej, śródziemnomorskiej, owoce morza, a także potrawy lokalne i europejskie. Śniadania podawane są w formie kontynentalnej i włoskiej. Do dyspozycji gości są również trzy bary: bar, bar przy basenie \"Eden Garden Bar\" oraz bar na plaży \"TABOO BEACH BAR\". Dostępna jest opcja wyżywienia all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym basenem sezonowym z wydzieloną strefą dla dorosłych i dzieci. Dla najmłodszych przygotowano plac zabaw. Dorośli mogą skorzystać z sauny lub zagrać w siatkówkę plażową. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla rodzin z dziećmi hotel oferuje wydzieloną strefę w basenie oraz plac zabaw. Na życzenie dostępne są bezpłatne łóżeczka dla niemowląt, w zależności od dostępności. Hotel jest przyjazny rodzinom, jednak nie posiada mini klubu ani animacji dla dzieci."
+  }
+ ],
+ "pros": [
+  "Bliskość szerokiej, piaszczystej plaży z prywatną strefą",
+  "Czystość i miła, pomocna obsługa",
+  "Smaczne i obfite śniadania",
+  "Spokojna lokalizacja w otoczeniu sosen",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Jedzenie bywa powtarzalne i nie zawsze uzupełniane na czas",
+  "Pokoje mogą mieć nieatrakcyjny widok",
+  "Brak animacji i mini klubu dla dzieci",
+  "Zdarzają się opinie o problemach z łazienkami i bieżącą wodą",
+  "Hotel może nie spełniać oczekiwań co do 4 gwiazdek według niektórych gości"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Garden INN Palace jest położony około 50-100 metrów od szerokiej, piaszczystej plaży Golem Beach."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel dysponuje jednym odkrytym basenem sezonowym z wydzieloną strefą dla dorosłych i dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Garden INN Palace nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Jak daleko jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy w Tiranie (TIA), oddalone o około 40 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje plac zabaw i wydzieloną strefę dla dzieci w basenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Golem Long Beach 2504 Durres, Albania",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Międzynarodowy Port Lotniczy w Tiranie (TIA)",
+ "amenities": [
+  "sauna",
+  "plac zabaw",
+  "prywatna strefa plażowa",
+  "bezpłatne leżaki i parasole na plaży",
+  "bezpłatne Wi-Fi"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Golem",
+ "bars": 3,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 21,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy standard",
+  "pokój trzyosobowy standard",
+  "pokój rodzinny",
+  "pokój dwuosobowy do pojedynczego wykorzystania z dzieckiem"
+ ],
+ "rooms": 75,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "skytravel.jp",
+  "traveloka.com",
+  "planetofhotels.com",
+  "gardenpalace.al",
+  "r.pl",
+  "superzajezdy.cz",
+  "wakacje.pl",
+  "travelato.pl"
+ ],
+ "updated": "2026-11-27"
+}

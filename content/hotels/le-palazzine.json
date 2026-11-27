@@ -1,0 +1,136 @@
+{
+ "id": 38058,
+ "slug": "le-palazzine",
+ "name": "Le Palazzine",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Vlora"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/le-palazzine-teren-hotelu-basen-848284179-570-428.jpg",
+ "city": "Vlora",
+ "intro": [
+  "Hotel Le Palazzine to czterogwiazdkowy obiekt położony bezpośrednio nad morzem we Vlorze, na Riwierze Albańskiej. Charakteryzuje się spokojną atmosferą i oferuje piękne widoki na morze. Jest to idealne miejsce dla par szukających relaksu oraz dla rodzin z dziećmi.",
+  "Hotel składa się z trzech dwupiętrowych budynków bez wind i został odnowiony w 2016 roku. Oferuje komfortowe zakwaterowanie w 28 klimatyzowanych pokojach, a także dostęp do basenu i prywatnej plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Le Palazzine jest usytuowany bezpośrednio przy ulicy Rr. Dhimiter Konomi we Vlorze, zaledwie dwie minuty spacerem od plaży. W pobliżu znajduje się prywatna plaża z leżakami i parasolami, a także miejska, piaszczysta plaża. Obiekt oddalony jest o około 4,5 km od centrum Vlory i około 5 km od Kuzum Baba."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 28 klimatyzowanych pokoi, w tym typy Standard, Superior, Junior Suite i King Room. Każdy pokój wyposażony jest w minibar, telewizor z płaskim ekranem i kanałami satelitarnymi, sejf oraz biurko. Prywatna łazienka posiada prysznic, bezpłatne kosmetyki i suszarkę do włosów. Niektóre pokoje dysponują balkonem i oferują widok na morze lub góry."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja Ristorante Le Palazzine, serwująca kuchnię włoską i owoce morza, otwarta na śniadania, obiady i kolacje. Goście mogą korzystać z dwóch barów oraz baru przy basenie. Hotel oferuje wyżywienie w opcji Bed & Breakfast (BB) z bufetem śniadaniowym oraz Half Board (HB)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym odkrytym basenem oraz brodzikiem dla dzieci. Dla najmłodszych dostępny jest plac zabaw. W okolicy hotelu można uprawiać nurkowanie, piesze wycieczki oraz skorzystać z wypożyczalni rowerów. Hotel oferuje również masaże, w tym masaże dla par."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja z widokiem na morze",
+  "Czystość i pomocny personel",
+  "Smaczne jedzenie, zwłaszcza śniadania",
+  "Spokojna atmosfera",
+  "Dostępne masaże"
+ ],
+ "cons": [
+  "Hotel położony na stromym wzgórzu",
+  "Śniadania mogą być monotonne przy dłuższych pobytach",
+  "Pokoje mogą być klasyczne i niektóre małe",
+  "Brak wind w budynkach",
+  "Brak aquaparku i animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony tuż przy plaży, około 2 minuty spacerem."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana (TIA), oddalone o około 156 km. Podróż samochodem trwa około 141 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i posiada brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; dzieci w każdym wieku są mile widziane."
+  }
+ ],
+ "address": "Rr. Dhimiter Konomi, Vlora",
+ "adultsOnly": false,
+ "airportKm": 156,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana (TIA / Nënë Tereza)",
+ "amenities": [
+  "Klimatyzacja",
+  "Minibar",
+  "Telewizor z płaskim ekranem",
+  "Sejf",
+  "Biurko",
+  "Prywatna łazienka",
+  "Bezpłatne kosmetyki",
+  "Suszarka do włosów",
+  "Balkon (w niektórych pokojach)",
+  "Widok na morze lub góry"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Riwiera Albańska",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta, prywatna i miejska",
+ "centerKm": 4.5,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard (TWIN, DBL, TRPL, QDPL) - klimatyzacja, minibar, TV, łazienka, sejf, biurko",
+  "Superior - klimatyzacja, minibar, TV, łazienka, sejf, biurko",
+  "Junior Suite - klimatyzacja, minibar, TV, łazienka, sejf, biurko",
+  "King Room - klimatyzacja, minibar, TV, łazienka, sejf, biurko"
+ ],
+ "rooms": 28,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.4272305,
+  "lon": 19.4920417,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "lepalazzinehotel.com",
+  "thomascook.com",
+  "google.co.ve",
+  "expedia.co.uk",
+  "reserving.com",
+  "directbooking.ro",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

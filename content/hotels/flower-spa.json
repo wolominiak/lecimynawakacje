@@ -1,0 +1,149 @@
+{
+ "id": 29538,
+ "slug": "flower-spa",
+ "name": "Flower & Spa",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Golem"
+ ],
+ "stars": 5,
+ "photo": "/no-index/zdjecie/id/20001614235-570-428.jpg",
+ "city": "Golem",
+ "intro": [
+  "Hotel Flower & Spa to pięciogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Golem na Riwierze Albańskiej. Składa się z dwóch budynków - głównego Flower Hotel i spokojniejszego Garden Hotel, oferując łącznie 160 pokoi. Otoczony zielonym ogrodem, stanowi dobrą propozycję dla osób szukających komfortowego wypoczynku.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz wszystkich, którzy pragną relaksu w luksusowym otoczeniu. Hotel oferuje bogate zaplecze rekreacyjne, w tym baseny, centrum spa oraz animacje, zapewniając atrakcje dla każdego.",
+  "sections",
+  "pros",
+  "cons",
+  "faq"
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Flower & Spa znajduje się w miejscowości Golem, zaledwie kilka metrów od prywatnej, piaszczystej plaży, do której ma bezpośredni dostęp. Na plaży dostępne są leżaki i parasole dla gości, a także ręczniki plażowe. Obiekt jest oddalony o około 353 metry od centrum Golem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 160 pokoi, w tym pokoje dwuosobowe, rodzinne, typu suite i junior suite. Każdy pokój wyposażony jest w klimatyzację, minibar, telewizor z płaskim ekranem, dźwiękoszczelne okna, sejf, suszarkę do włosów oraz bezpłatne WiFi. Wybrane pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są cztery baseny: dwa odkryte, jeden kryty podgrzewany oraz jeden z barem. Hotel oferuje również centrum spa i wellness z sauną, łaźnią parową i jacuzzi, dostępne bezpłatnie. Na terenie obiektu znajduje się siłownia, korty tenisowe i boisko do siatkówki plażowej."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje dwiema restauracjami: Flower Restaurant, serwującą dania rybne i kuchnię śródziemnomorską, oraz Brutal Steakhouse, specjalizującą się w stekach. Na terenie obiektu znajdują się również bary, w tym bar przy basenie i bar na plaży. Dostępne są pakiety all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw oraz brodzik. W hotelu funkcjonuje mini klub dla dzieci, a także oferowane są wieczorne animacje i muzyka na żywo, co sprawia, że hotel jest odpowiedni dla rodzin."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej piaszczystej plaży",
+  "Rozbudowane centrum spa z podgrzewanym basenem krytym",
+  "Urozmaicone i obfite śniadania",
+  "Czystość i uprzejmy personel",
+  "Bezpłatne WiFi w całym obiekcie"
+ ],
+ "cons": [
+  "Okolica może być ruchliwa w szczycie sezonu",
+  "Możliwe hałasy z pobliskiej budowy",
+  "Brak zestawu do parzenia kawy/herbaty w niektórych pokojach",
+  "Problemy z działaniem sejfu (sporadyczne opinie)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się zaledwie kilka metrów od prywatnej, piaszczystej plaży, około 1 minuty spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska w Tiranie (TIA) wynosi około 42-44 km, co zajmuje około 35 minut samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada aquaparku, ale dysponuje brodzikiem dla dzieci oraz czterema basenami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje plac zabaw, brodzik, mini klub dla dzieci oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne WiFi?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w całym obiekcie oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i jest polecany dla rodzin."
+  }
+ ],
+ "address": "Rruga Ahmet Caci, Golem, Albania",
+ "adultsOnly": false,
+ "airportKm": 42,
+ "airportName": "Tirana (TIA)",
+ "amenities": [
+  "prywatna plaża",
+  "leżaki i parasole na plaży",
+  "ręczniki plażowe",
+  "spa",
+  "sauna",
+  "łaźnia parowa",
+  "jacuzzi",
+  "siłownia",
+  "korty tenisowe",
+  "siatkówka plażowa",
+  "plac zabaw dla dzieci",
+  "mini klub dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "rejon plażowy Golem",
+ "bars": 3,
+ "beachDistanceM": 10,
+ "beachType": "piaszczysta",
+ "centerKm": 0.353,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu",
+  "luksusowy wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2016,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój rodzinny",
+  "suite",
+  "junior suite",
+  "pokój triple",
+  "pokój deluxe double"
+ ],
+ "rooms": 160,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 33.9936679,
+  "lon": -6.8488217,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelspa.eu",
+  "sembo.com.au",
+  "admiral.travel",
+  "tuttomondotravel.al",
+  "hotel-flower.com",
+  "thealbaniainsider.com",
+  "resorthotel.co.uk",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

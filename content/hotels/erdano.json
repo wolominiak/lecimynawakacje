@@ -1,0 +1,130 @@
+{
+ "id": 25531,
+ "slug": "erdano",
+ "name": "Erdano",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Wybrzeże Jońskie",
+  "Saranda"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/erdano-budynek-glowny-obiekt-1241310207-570-428.jpg",
+ "city": "Saranda",
+ "intro": [
+  "Hotel Erdano to kameralny, rodzinny obiekt położony w malowniczej Zatoce Saranda, na Wybrzeżu Jońskim w Albanii. Oferuje on bezpośredni dostęp do żwirowej plaży z prywatną strefą, co czyni go idealnym miejscem dla osób ceniących sobie bliskość morza i relaks. Z hotelu roztacza się widok na morze i wyspę Korfu.",
+  "Obiekt jest szczególnie polecany dla rodzin, które szukają komfortowego zakwaterowania z podstawowymi udogodnieniami i dogodną lokalizacją. Bliskość centrum Sarandy umożliwia łatwy dostęp do lokalnych atrakcji, a przyjazny personel dba o przyjemną atmosferę podczas pobytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Erdano znajduje się bezpośrednio przy plaży w Zatoce Saranda, oferując prywatną strefę z bezpłatnymi leżakami i parasolami dla gości. W bezpośrednim sąsiedztwie hotelu znajdują się plaże Maestral Beach i La Petite Beach, a nieco dalej Saranda City Beach. Centrum Sarandy jest oddalone o około 0.7-1.4 km, co pozwala na łatwy dostęp do miasta spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym dwuosobowe, trzyosobowe, czteroosobowe oraz rodzinne. Pokoje mogą mieć widok na morze, częściowy widok na morze lub widok na miasto. Wszystkie wyposażone są w klimatyzację, telewizor z płaskim ekranem, suszarkę do włosów, biurko i bezpłatne kosmetyki. Wiele pokoi posiada balkon lub taras, a także dźwiękoszczelne ściany."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja na tarasie z widokiem na zatokę, serwująca dania kuchni śródziemnomorskiej, ryby, owoce morza, grillowane mięsa oraz specjały kuchni albańskiej. Goście mogą korzystać ze śniadania kontynentalnego. Na terenie obiektu działa również bar/lounge, a także dostępny jest room service."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel Erdano zapewnia bezpłatne Wi-Fi w całym obiekcie oraz w pokojach. Jest to obiekt rodzinny, który z zadowoleniem przyjmuje dzieci. Do dyspozycji gości jest również bar plażowy. Hotel nie posiada basenów, aquaparku ani siłowni."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Prywatna strefa plażowa z bezpłatnymi leżakami i parasolami",
+  "Bliskość centrum Sarandy",
+  "Przyjazny i pomocny personel",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Brak windy",
+  "Podstawowe udogodnienia (brak basenów, siłowni, spa)",
+  "Brak możliwości dostawienia dodatkowych łóżek/łóżeczek dla dzieci",
+  "Niektóre opinie wskazują na słabe śniadanie",
+  "Plaża może być głośna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Erdano jest położony bezpośrednio przy plaży (beachfront) i posiada prywatną strefę plażową z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe międzynarodowe lotnisko to Międzynarodowy Port Lotniczy Korfu (CFU), oddalony o około 30.2-36 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin, a dzieci są mile widziane."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie oraz w pokojach."
+  },
+  {
+   "q": "Jakie wyżywienie oferuje hotel?",
+   "a": "Hotel oferuje śniadanie kontynentalne. Na miejscu znajduje się restauracja serwująca kuchnię śródziemnomorską i albańską oraz bar."
+  }
+ ],
+ "address": "Rruga Butrinti 39, Saranda, Albania",
+ "adultsOnly": false,
+ "airportKm": 30.2,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (CFU)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Suszarka do włosów",
+  "Biurko",
+  "Bezpłatne kosmetyki",
+  "Balkon lub taras (w wielu pokojach)",
+  "Dźwiękoszczelne ściany",
+  "Sejf (w niektórych pokojach)",
+  "Żelazko/deska do prasowania (na życzenie)",
+  "Room service"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Wybrzeże Jońskie",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "żwirowa",
+ "centerKm": 0.7,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój typu twin",
+  "Pokój rodzinny",
+  "Pokój czteroosobowy"
+ ],
+ "rooms": 13,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "hotel-erdano.com",
+  "latitude.to",
+  "google.com",
+  "Current time information in Saranda, AL.",
+  "hotelsaranda.com",
+  "hotels-albania.net"
+ ],
+ "updated": "2026-11-27"
+}

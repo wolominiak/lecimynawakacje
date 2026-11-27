@@ -1,0 +1,142 @@
+{
+ "id": 265398,
+ "slug": "imperator",
+ "name": "Imperator",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Tirana"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/imperator-obiekt-1783992361-570-428.jpg",
+ "city": "Tirana",
+ "intro": [
+  "Hotel Imperator to czterogwiazdkowy obiekt położony w samym sercu Tirany, stolicy Albanii. Jest to idealne miejsce dla osób poszukujących bazy wypadowej do zwiedzania miasta, zarówno dla turystów, jak i podróżujących służbowo. Hotel akceptuje dzieci w każdym wieku, oferując udogodnienia dla rodzin.",
+  "Obiekt miejski, częściowo odnowiony w 2021 roku, nie posiada basenów ani bezpośredniego dostępu do plaży, co jest typowe dla hoteli w centrum miasta. Zamiast tego, stawia na komfortowe zakwaterowanie z bezpłatnym Wi-Fi i prywatnym parkingiem, a także dostępem do spa i wanny z hydromasażem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie",
+   "text": "Hotel Imperator znajduje się w centrum Tirany, przy ulicy Rruga Artan Lenja 31. Plac Skanderbega, jedna z głównych atrakcji miasta, oddalony jest o około 1.6 km, co stanowi krótki spacer lub przejażdżkę samochodem. Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana (TIA), położony w odległości około 11-13 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym pokoje rodzinne, apartamenty, pokoje trzyosobowe oraz dwuosobowe typu twin i double. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, biurko, sejf oraz prywatną łazienkę z prysznicem, suszarką do włosów i bezpłatnymi kosmetykami. Niektóre pokoje posiadają balkon lub wannę z hydromasażem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja oraz bar i kawiarnia. Goście mogą korzystać z codziennego śniadania kontynentalnego serwowanego w formie bufetu. Dostępna jest również opcja wyżywienia half board, obejmująca śniadanie i obiadokolację."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Imperator oferuje bezpłatne Wi-Fi dostępne w całym obiekcie. Goście mogą skorzystać z usług spa/centrum odnowy biologicznej oraz wanny z hydromasażem. Obiekt nie posiada basenów ani aquaparku, jednak jego centralna lokalizacja sprzyja pieszym wycieczkom i zwiedzaniu kulturowemu Tirany."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Imperator jest polecany zarówno dla podróżujących służbowo, jak i turystów, którzy chcą odkrywać uroki Tirany. Dzięki dostępności pokoi rodzinnych i akceptacji dzieci w każdym wieku, jest to również dobra opcja dla rodzin. Bliskość centrum miasta i głównych atrakcji to jego duży atut."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w Tiranie",
+  "Czyste i komfortowe pokoje",
+  "Dobre śniadanie kontynentalne",
+  "Bezpłatny prywatny parking",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Personel recepcji bywa niedostępny lub niepomocny",
+  "Śniadanie bywa zimne i z ograniczonym wyborem",
+  "Problemy z prysznicami w łazienkach",
+  "Hotel może nie spełniać standardów 4 gwiazdek w zakresie obsługi",
+  "Brak basenu"
+ ],
+ "faq": [
+  {
+   "q": "Czy hotel Imperator jest blisko plaży?",
+   "a": "Nie, hotel Imperator jest obiektem miejskim i znajduje się w centrum Tirany, bez dostępu do plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Imperator jest oddalony o około 11-13 km od Międzynarodowego Portu Lotniczego Tirana im. Matki Teresy (TIA)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Imperator nie posiada basenów ani aquaparku. Oferuje natomiast wannę z hydromasażem w niektórych pokojach lub w strefie spa."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Imperator akceptuje dzieci w każdym wieku i oferuje pokoje rodzinne. Dzieci do 3 lat mogą przebywać bezpłatnie w łóżeczku, a dzieci do 5 lat bezpłatnie na istniejącym łóżku."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, w hotelu Imperator dostępne jest bezpłatne Wi-Fi w całym obiekcie i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel posiada siłownię lub spa?",
+   "a": "Hotel Imperator oferuje usługi spa/centrum odnowy biologicznej oraz wannę z hydromasażem, ale brak informacji o siłowni."
+  }
+ ],
+ "address": "Rruga Artan Lenja 31, Tirana, Albania",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "bezpłatny prywatny parking",
+  "spa/centrum odnowy biologicznej",
+  "wanna z hydromasażem",
+  "bar i kawiarnia",
+  "pokoje rodzinne"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum miasta",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 1.6,
+ "goodFor": [
+  "podróżujący służbowo",
+  "turyści",
+  "rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Twin",
+  "Superior Suite",
+  "Deluxe Double Room z jacuzzi",
+  "Triple Room",
+  "Deluxe Twin Room",
+  "Executive Suite z balkonem",
+  "Deluxe Double Room z balkonem",
+  "Basic Triple Room",
+  "Deluxe Triple Room z jacuzzi",
+  "Superior Suite z jacuzzi",
+  "Executive Family Suite z jacuzzi"
+ ],
+ "rooms": 30,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3283552,
+  "lon": 19.7995371,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "booking.com",
+  "mapcarta.com",
+  "trip.com",
+  "agoda.com",
+  "hotels-in-tirana.com",
+  "tiranaairporttransfer.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}

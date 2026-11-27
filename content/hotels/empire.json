@@ -1,0 +1,141 @@
+{
+ "id": 33717,
+ "slug": "empire",
+ "name": "Empire",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/empire-obiekt-787967903-570-428.jpg",
+ "city": "Durrës",
+ "intro": [
+  "Hotel Empire to czterogwiazdkowy obiekt położony w popularnej miejscowości Durrës na Riwierze Albańskiej, idealny dla rodzin szukających komfortowego wypoczynku. Otwarty w 2019 roku i odnowiony rok wcześniej, oferuje nowoczesne udogodnienia w butikowym, barokowym stylu.",
+  "Hotel znajduje się w plażowej części miasta, przy głównej ulicy, co zapewnia łatwy dostęp do lokalnych atrakcji. Bliskość prywatnej plaży z bezpłatnymi leżakami oraz basen na dachu z widokiem na okolicę to jego niewątpliwe atuty."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Empire zlokalizowany jest w Durrës, przy ulicy Pavarësia, w obszarze plażowym. Od piaszczystej plaży z łagodnym zejściem do morza dzieli go zaledwie 100-150 metrów, co przekłada się na około 2-3 minuty spacerem. Hotel dysponuje prywatną strefą plażową z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 65 pokoi w różnych konfiguracjach, w tym pokoje rodzinne, Junior Suity, Suity Superior oraz pokoje Deluxe i Triple Deluxe. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, telewizor z płaskim ekranem, bezpłatne Wi-Fi, minibar, sejf oraz czajnik elektryczny. Większość pokoi posiada balkon z widokiem na miasto."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się nowoczesna restauracja serwująca śniadania w formie bufetu, obiady i kolacje, z możliwością wyboru dań à la carte. Do dyspozycji gości są również trzy bary: w lobby, na dachu oraz na plaży. Pakiet all inclusive obejmuje trzy posiłki dziennie, zimne napoje bezalkoholowe i lokalne alkohole. Ciepłe napoje dostępne są tylko podczas śniadania."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Empire dysponuje sezonowym basenem zewnętrznym na dachu, oferującym piękne widoki, a także basenem krytym i jacuzzi. Dla najmłodszych wydzielono brodzik. W ramach rozrywki hotel organizuje programy animacyjne, w tym muzykę na żywo i imprezy na plaży. W obiekcie dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Empire jest szczególnie polecany dla rodzin. Oferuje udogodnienia dla dzieci, takie jak brodzik, oraz programy rozrywkowe. Jego lokalizacja blisko plaży i centrum miasta sprawia, że jest to dobra baza wypadowa do zwiedzania i relaksu."
+  }
+ ],
+ "pros": [
+  "Piękny i czysty hotel",
+  "Doskonała lokalizacja blisko plaży",
+  "Bardzo przyjazny i pomocny personel",
+  "Basen na dachu z widokiem",
+  "Prywatna plaża z bezpłatnymi leżakami"
+ ],
+ "cons": [
+  "Hałas z głównej ulicy",
+  "Mały basen na dachu",
+  "Brak przekąsek między posiłkami w all inclusive",
+  "Ciepłe napoje tylko do śniadania w restauracji",
+  "Zgłaszane problemy z utrzymaniem niektórych elementów pokoju"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel Empire jest od plaży?",
+   "a": "Hotel Empire znajduje się około 100-150 metrów od piaszczystej plaży, co stanowi 2-3 minuty spacerem."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel Empire dysponuje prywatną strefą plażową z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska do hotelu Empire?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Tirana (TIA), znajduje się około 33-35 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Empire jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu Empire."
+  },
+  {
+   "q": "Czy hotel Empire jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Empire jest polecany dla rodzin i oferuje udogodnienia takie jak brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, w całym obiekcie dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Pavarësia Street, 2000, Durrës, Albania",
+ "adultsOnly": false,
+ "airportKm": 33,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Jacuzzi",
+  "Wanna z hydromasażem",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "obszar plażowy",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2019,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje rodzinne (połączone)",
+  "Junior Suity",
+  "Suity Superior",
+  "Pokoje Double Deluxe",
+  "Pokoje Twin Deluxe",
+  "Pokoje Triple Deluxe",
+  "Pokój Dwuosobowy z balkonem",
+  "Pokój Trzyosobowy z balkonem",
+  "Ekonomiczny Pokój Dwuosobowy lub typu Twin",
+  "Apartament Dwupokojowy",
+  "Apartament Prezydencki",
+  "Standardowy Pokój Dwuosobowy (z balkonem)",
+  "Budżetowy Pokój Dwuosobowy"
+ ],
+ "rooms": 65,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3082558,
+  "lon": 19.48898,
+  "src": "osm"
+ },
+ "sources": [
+  "empirehotel.al",
+  "myhotels.sa",
+  "hotels-al.com",
+  "klook.com",
+  "hotelalbania.net",
+  "prestigia.com",
+  "mapcarta.com",
+  "latitude.to"
+ ],
+ "updated": "2026-11-27"
+}
