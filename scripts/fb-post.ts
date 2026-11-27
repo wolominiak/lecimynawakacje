@@ -142,6 +142,27 @@ function flights(byOrigin = false): Post | null {
   };
 }
 
+// jedna konkretna oferta: hotel z dobrą oceną, wylot w ciągu 2 tygodni, najlepiej z kartą hotelu (duże zdjęcie w podglądzie)
+async function singleOffer(kind: 'lm' | 'ai'): Promise<Post | null> {
+  const l = await offers(kind === 'ai' ? { service: [1], searchType: 'lastminute' } : { searchType: 'lastminute' });
+  const soon = l.filter((o) => Date.parse(o.departureDate) - Date.parse(today) <= 15 * 86400000 && (o.ratingValue || 0) >= 7.5 && price(o) > 0 && !recent.has('oferta-' + (o.hotelId || o.id)));
+  if (!soon.length) return null;
+  // najlepszy stosunek ceny do oceny, z premią dla hoteli z kartą
+  const score = (o: TL) => price(o) / ((o.ratingValue || 7) - 5) * (o.hotelId && hotelById.has(o.hotelId) ? 0.8 : 1);
+  const o = soon.sort((a, b) => score(a) - score(b))[0];
+  const h = o.hotelId ? hotelById.get(o.hotelId) : undefined;
+  const days = Math.round((Date.parse(o.departureDate) - Date.parse(today)) / 86400000);
+  const when = days <= 1 ? 'już jutro' : days <= 3 ? `za ${days} dni` : dm(o.departureDate);
+  const head = pickOne(['🔥 Oferta dnia', '⏰ Okazja last minute', '☀️ Polecamy dziś', '✈️ Wylot ' + when]);
+  const stars = o.category ? ' ' + '⭐'.repeat(Math.min(5, Math.round(o.category))) : '';
+  const pros = h?.pros?.slice(0, 3).map((p) => '✅ ' + p).join('\n');
+  return {
+    key: 'oferta-' + (o.hotelId || o.id),
+    message: `${head}: ${o.name}${stars}\n📍 ${[o.placeName?.[2], o.placeName?.[1], o.placeName?.[0]].filter((x, i, a) => x && a.indexOf(x) === i).join(', ')}\n\n🗓️ ${dm(o.departureDate)} - ${dm(o.returnDate)} (${nights(o.departureDate, o.returnDate)} nocy), wylot ${o.departure?.label || ''}\n🍽️ ${o.service?.label || ''}\n⭐ Ocena gości: ${(o.ratingValue || 0).toFixed(1)}/10\n💰 ${zl(price(o))} za osobę z przelotem${o.tourOperatorName ? ` (${o.tourOperatorName})` : ''}${pros ? `\n\n${pros}` : ''}\n\nCena z dzisiaj, miejsc w tej cenie zwykle jest niewiele 👇\n\n${tag(o.placeName?.[0] || 'wakacje')} #lastminute #ofertadnia #lecimynawakacje`,
+    link: h ? SITE + hotelUrl(h.slug) : SITE + '/last-minute/',
+  };
+}
+
 // --- POSTY: inspiracje (rano / wieczór) ---
 async function hotelPost(kind: 'any' | 'family'): Promise<Post | null> {
   const top = new Set(popularCountries().slice(0, 15).map((c) => c.slug));
@@ -217,7 +238,7 @@ function monthPost(ahead = 1): Post | null {
 type Gen = () => Promise<Post | null> | Post | null;
 const PLAN: Record<string, Gen[][]> = {
   rano: [[regionPost], [attractionPost], [countryPost], [attractionPost], [regionPost], [attractionPost], [countryPost]],
-  poludnie: [[cruises, flights], [() => lastMinute()], [() => flights()], [allInclusive], [() => flights(true)], [() => lastMinute(true)], [exotic, allInclusive]],
+  poludnie: [[cruises, flights], [() => lastMinute()], [() => flights()], [() => singleOffer('ai'), allInclusive], [() => flights(true)], [() => singleOffer('lm'), () => lastMinute(true)], [exotic, allInclusive]],
   wieczor: [[() => hotelPost('any')], [() => hotelPost('any')], [() => monthPost(1)], [() => hotelPost('family')], [countryPost], [() => hotelPost('any')], [() => monthPost(2)]],
 };
 // rezerwa, gdy główny pomysł nie zadziała (brak danych)
