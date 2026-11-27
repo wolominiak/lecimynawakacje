@@ -1,0 +1,135 @@
+{
+ "id": 22323,
+ "slug": "grand-hotel-sunny-beach",
+ "name": "Grand Hotel (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/grand-hotel-sunny-beach-obiekt-1830745038-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Grand Hotel w Słonecznym Brzegu to czterogwiazdkowy obiekt położony w centralnej części bułgarskiego wybrzeża, bezpośrednio przy piaszczystej plaży. Hotel, pomimo swojej długiej historii, przeszedł gruntowne renowacje, oferując nowoczesne udogodnienia w odświeżonych wnętrzach.",
+  "Ten rodzinny hotel jest idealnym miejscem zarówno dla par, jak i rodzin z dziećmi, poszukujących komfortowego wypoczynku z łatwym dostępem do plaży, centrum miejscowości oraz lokalnych atrakcji. Oferuje bogate zaplecze rekreacyjne i gastronomiczne w formule All Inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Grand Hotel (Sunny Beach) znajduje się w dzielnicy Sunny Beach Beachfront, zaledwie 10-20 metrów od piaszczystej plaży, do której oferuje bezpośredni dostęp. Centrum Słonecznego Brzegu jest oddalone o około 300-625 metrów, co pozwala na łatwy spacer do głównych atrakcji. Najbliższe lotnisko w Burgas (BOJ) znajduje się w odległości około 27-33 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 200 pokojami, apartamentami i suitami, rozmieszczonymi na 14 piętrach. Pokoje są klimatyzowane i wyposażone w telewizor, minibar/lodówkę, telefon, suszarkę do włosów oraz umeblowany balkon lub taras, często z widokiem na morze. Łazienki posiadają prysznic, a niektóre suity wannę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z głównej restauracji bufetowej, serwującej dania kuchni bułgarskiej i międzynarodowej, oraz z restauracji a la carte. Na terenie obiektu znajdują się również bar w lobby, bar przy basenie i Irish Pub. Pakiet All Inclusive obejmuje śniadanie, lunch, przerwy kawowe i kolację w formie bufetu, a także wybrane napoje bezalkoholowe w godzinach 10:00-22:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden odkryty basen ze słodką wodą, z wydzieloną sekcją dla dzieci. Dla aktywnych dostępna jest siłownia oraz różne aktywności sportowe, takie jak bilard, tenis stołowy i rzutki. Na plaży można skorzystać z płatnych sportów wodnych. Wieczorami organizowane są animacje dla dorosłych i dzieci."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną sekcję w basenie oraz mini klub. Dodatkowo, przez 6 dni w tygodniu prowadzone są programy animacyjne, zapewniające rozrywkę zarówno dzieciom, jak i dorosłym."
+  },
+  {
+   "title": "Odnowa i udogodnienia",
+   "text": "W hotelu dostępne są usługi masażu, salon fryzjerski i salon piękności. Na terenie całego obiektu oraz w pokojach zapewniony jest bezpłatny dostęp do Wi-Fi. Hotel nie jest obiektem tylko dla dorosłych, jest to miejsce przyjazne rodzinom."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do piaszczystej plaży",
+  "Centralna lokalizacja blisko centrum",
+  "Smaczne jedzenie z szerokim wyborem",
+  "Odnowione pokoje i przestrzenie wspólne",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Płatny i niestrzeżony parking",
+  "Jakość napojów alkoholowych w all inclusive",
+  "Brak aquaparku na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bardzo blisko plaży, w odległości około 10-20 metrów, z bezpośrednim dostępem."
+  },
+  {
+   "q": "Czy na plaży są bezpłatne leżaki?",
+   "a": "Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Przy basenie są bezpłatne."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Burgas (BOJ), jest oddalone o około 27-33 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu brak zjeżdżalni wodnych lub aquaparku, ale w pobliżu znajdują się Action Aquapark (ok. 500 m) i AquaPark Nessebar (ok. 15 min taksówką)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest obiektem rodzinnym i oferuje udogodnienia takie jak wydzielona sekcja basenu dla dzieci, mini klub oraz programy animacyjne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  }
+ ],
+ "address": "Sunny Beach, 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Masaże",
+  "Salon fryzjerski",
+  "Salon piękności"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Sunny Beach Beachfront",
+ "bars": 3,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4625,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1970,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin/Double) z klimatyzacją, TV, minibar/lodówką, telefonem, suszarką do włosów, balkonem/tarasem, prysznicem.",
+  "Studio z klimatyzacją, TV, minibar/lodówką, telefonem, suszarką do włosów, balkonem/tarasem, prysznicem.",
+  "Apartament z klimatyzacją, TV, minibar/lodówką, telefonem, suszarką do włosów, balkonem/tarasem, prysznicem.",
+  "Suita z klimatyzacją, TV, minibar/lodówką, telefonem, suszarką do włosów, balkonem/tarasem, prysznicem lub wanną."
+ ],
+ "rooms": 200,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6991359,
+  "lon": 27.7138422,
+  "src": "osm"
+ },
+ "sources": [
+  "lastminute.com",
+  "planetofhotels.com",
+  "sunnybeachyhotel.com",
+  "travelfinder.bg",
+  "book-onlinenow.net",
+  "grandhotelsunnybeach.com",
+  "easemytrip.com",
+  "sunnybeach.com"
+ ],
+ "updated": "2026-11-27"
+}

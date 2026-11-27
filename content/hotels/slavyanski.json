@@ -1,0 +1,143 @@
+{
+ "id": 17183,
+ "slug": "slavyanski",
+ "name": "Slavyanski",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/slavyanski-obiekt-basen-620551054-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Slavyanski to trzygwiazdkowy obiekt położony w spokojniejszej, północnej części Słonecznego Brzegu, u podnóża gór Stara Planina. Jest to dobre miejsce dla osób szukających relaksu blisko plaży, a jednocześnie z łatwym dostępem do centrum miejscowości.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par, oferując podstawowe udogodnienia w przystępnej cenie. Bliskość piaszczystej plaży i dostęp do basenu sprawiają, że to dobry wybór na wakacyjny wypoczynek nad morzem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Slavyanski znajduje się około 50 metrów od piaszczystej plaży z łagodnym zejściem do morza, wyróżnionej certyfikatem Błękitnej Flagi. Centrum Słonecznego Brzegu oddalone jest o około 1.6-2 km. Leżaki i parasole na plaży są dodatkowo płatne, natomiast przy basenie dostępne bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje jednoosobowe, dwuosobowe (standardowe i superior), pokoje rodzinne oraz apartamenty. Standardowe wyposażenie obejmuje klimatyzację, telewizor, telefon, minibar lub lodówkę, łazienkę z prysznicem i balkon. Pokoje superior mogą być bardziej przestronne i posiadać suszarkę do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie obiektu znajduje się restauracja główna z tarasem, serwująca dania kuchni lokalnej i europejskiej. Goście mają do dyspozycji także lobby bar i bar przy basenie. Dostępne są śniadania, obiady i kolacje, jednak szczegółowy zakres pakietu all inclusive nie jest podany."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem, który jest współdzielony z sąsiednim hotelem Bellevue. Wydzielono w nim sekcję dla dzieci. Dla najmłodszych dostępny jest również plac zabaw. Dorośli mogą korzystać z siłowni, centrum masażu oraz aktywności takich jak bilard, tenis stołowy czy mini golf."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Slavyanski to hotel odpowiedni dla rodzin z dziećmi, par oraz osób poszukujących spokojnego wypoczynku nad morzem. Bliskość plaży i podstawowe udogodnienia sprawiają, że jest to dobra opcja dla gości ceniących relaks i aktywności na świeżym powietrzu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży",
+  "Czysty basen z wydzieloną częścią dla dzieci",
+  "Przyjazny i pomocny personel",
+  "Dobra relacja jakości do ceny",
+  "Różnorodne śniadania"
+ ],
+ "cons": [
+  "Problemy z dostępnością parkingu (brak darmowego)",
+  "Monotonne i czasem zimne jedzenie",
+  "Mała jadalnia i długie kolejki",
+  "Stare meble i małe łazienki",
+  "Hałas z ulicy/muzyka do północy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Slavyanski jest oddalony o około 50 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 23-30 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada wydzieloną sekcję dla dzieci w basenie oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu lub w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Hotel oferuje śniadania, obiady i kolacje, ale brak szczegółowych informacji na temat pełnego zakresu pakietu all inclusive."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 23,
+ "airportName": "Burgas (BOJ)",
+ "amenities": [
+  "centrum masażu",
+  "siłownia/centrum fitness",
+  "bilard",
+  "tenis stołowy",
+  "mini golf",
+  "windsurfing",
+  "piesze wycieczki",
+  "jazda konna",
+  "jazda na rowerze",
+  "parasailing",
+  "plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "północna część Słonecznego Brzegu, u podnóża gór Stara Planina",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1.6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksującego wypoczynku na plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1997,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy standard",
+  "pokój dwuosobowy superior",
+  "pokój rodzinny",
+  "apartament standard",
+  "apartament superior"
+ ],
+ "rooms": 163,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.7063441,
+  "lon": 27.72281,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelslavyanski.com",
+  "noy.travel",
+  "directbooking.ro",
+  "booking.com",
+  "gotravel.ee",
+  "loveholidays.com",
+  "planetofhotels.com",
+  "bulgariancoast.com"
+ ],
+ "updated": "2026-11-27"
+}

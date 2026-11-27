@@ -1,0 +1,132 @@
+{
+ "id": 28784,
+ "slug": "riva-sunny-beach",
+ "name": "Riva (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/riva-sunny-beach-basen-obiekt-1858205998-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Riva to trzygwiazdkowy obiekt położony w północnej części Słonecznego Brzegu w Bułgarii, niedaleko głównego deptaka i piaszczystej plaży. Otoczony jest dużym, zielonym parkiem, co zapewnia przyjemne otoczenie do wypoczynku.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par, oferując szereg udogodnień, takich jak baseny, brodzik ze zjeżdżalnią, mini klub i animacje. Dzięki formule All Inclusive i bliskości atrakcji, stanowi dobrą bazę do spędzenia wakacji nad Morzem Czarnym."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Riva znajduje się w Słonecznym Brzegu, w spokojniejszej, północnej części kurortu, około 100 metrów od centralnego deptaka. Do szerokiej, piaszczystej, publicznej plaży z łagodnym zejściem do morza jest około 120-150 metrów. Leżaki i parasole na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje łącznie 360 pokojami, w tym standardowymi, rodzinnymi oraz typu twin i quadruple. Pokoje wyposażone są w klimatyzację, balkon (z widokiem na basen lub ogród), telewizor, telefon, lodówkę oraz łazienkę z prysznicem. Ostatni remont pokoi i części wspólnych miał miejsce w 2020 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu oraz trzy bary: lobby bar, bar przy basenie i snack bar. Opcja All Inclusive obejmuje śniadania, obiady, kolacje w formie bufetu, lokalne napoje alkoholowe do godziny 23:00, a także popołudniowe przekąski i lody."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się trzy odkryte baseny, w tym jeden z wodą słoną i jeden podgrzewany. Jeden z basenów posiada jacuzzi. Dla dzieci przygotowano brodzik ze zjeżdżalnią, plac zabaw i mini klub. Hotel oferuje programy animacyjne, a także rzutki. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przygotowany na przyjęcie rodzin z dziećmi. Dostępny jest brodzik ze zjeżdżalnią, plac zabaw oraz mini klub. Dodatkowo, obiekt oferuje programy animacyjne, które umilą czas najmłodszym gościom."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i deptaka, ale w spokojniejszej części",
+  "Duży, zadbany i zielony ogród z parkiem",
+  "Trzy baseny, w tym słonowodny i podgrzewany",
+  "Animacje dla dzieci i dorosłych",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Plaża nie jest w pierwszej linii (wymaga przejścia przez ulicę)",
+  "Łazienki często bez kabiny prysznicowej (woda spływa na podłogę)",
+  "Jedzenie bywa mało urozmaicone",
+  "Głośne animacje mogą przeszkadzać szukającym ciszy",
+  "Płatny parking i sejf w recepcji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od plaży o około 120-150 metrów."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Na terenie hotelu znajduje się brodzik ze zjeżdżalnią dla dzieci. Hotel jest również blisko Action Aquapark (około 800 m - 1 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik ze zjeżdżalnią, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Burgas (BOJ), oddalony o około 30-37 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu (w pokojach, częściach wspólnych, barach, przy basenach i w ogrodzie) dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt rodzinny z udogodnieniami dla dzieci."
+  }
+ ],
+ "address": "Hotel Riva, Sunny Beach Resort, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port Lotniczy Burgas (BOJ)",
+ "amenities": [
+  "jacuzzi",
+  "salon fryzjerski/kosmetyczny",
+  "rzutki"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "północna część kurortu",
+ "bars": 3,
+ "beachDistanceM": 120,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1975,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (dwuosobowy z możliwością dostawki, klimatyzacja, balkon, łazienka z prysznicem, WC, telewizor, telefon, lodówka/mini bar)",
+  "pokój rodzinny (około 30 m², dla 4 osób dorosłych lub 2 dorosłych + 2 dzieci, klimatyzacja, balkon, łazienka z prysznicem, WC, telewizor, telefon, lodówka/mini bar)",
+  "pokój typu twin (klimatyzacja, balkon, łazienka z prysznicem, WC, telewizor, telefon, lodówka/mini bar)",
+  "pokój typu quadruple (klimatyzacja, balkon, łazienka z prysznicem, WC, telewizor, telefon, lodówka/mini bar)"
+ ],
+ "rooms": 360,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 52.0274059,
+  "lon": 4.3614468,
+  "src": "osm"
+ },
+ "sources": [
+  "rivahotelbg.com",
+  "gobulgaria.pl",
+  "kittbg.com",
+  "coraltravel.pl",
+  "booking.com",
+  "travelplanet.pl",
+  "planetofhotels.com",
+  "wego.qa"
+ ],
+ "updated": "2026-11-27"
+}

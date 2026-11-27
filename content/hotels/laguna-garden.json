@@ -1,0 +1,133 @@
+{
+ "id": 27631,
+ "slug": "laguna-garden",
+ "name": "Laguna Garden",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/laguna-garden-obiekt-1476778837-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Hotel Laguna Garden to czterogwiazdkowy obiekt położony w sercu kurortu Albena, na początku głównej ulicy handlowej. Jest to idealne miejsce dla rodzin z dziećmi, par oraz osób szukających aktywnego wypoczynku i bliskości plaży.",
+  "Hotel oferuje komfortowe zakwaterowanie w 145 pokojach, rozmieszczonych na siedmiu piętrach. Ostatni remont odbył się w 2018 roku, co zapewnia nowoczesne udogodnienia i przyjemny wystrój. Goście doceniają doskonałą lokalizację obiektu, bliskość plaży oraz urozmaiconą ofertę gastronomiczną w ramach pakietu Green All Inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Laguna Garden znajduje się w centrum Albeny, zaledwie 130-150 metrów od piaszczystej plaży oznaczonej Błękitną Flagą. Plaża charakteryzuje się płaskim i łagodnym wejściem do morza, co jest idealne dla rodzin z dziećmi. Hotel posiada wydzieloną strefę plażową, gdzie goście otrzymują w cenie pobytu 1 parasol i 2 leżaki na pokój (od 3. linii od morza)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 145 pokoi dwuosobowych (DBL 2+1 / 2+2) o powierzchni około 18 mkw. Wszystkie pokoje są wyposażone w balkon, klimatyzację, telewizję kablową, minibar (płatny), telefon i biurko. W łazienkach znajduje się prysznic lub wanna oraz suszarka do włosów. Dostępne są również pokoje rodzinne, a na życzenie można otrzymać łóżeczko dla dziecka."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Laguna Garden serwuje różnorodne dania, w tym opcje wegańskie, wegetariańskie i zdrowe potrawy, a także produkty własnej produkcji i pokazy gotowania. W ramach pakietu Green All Inclusive goście mają zapewnione śniadania, obiady, kolacje oraz przekąski. Lokalne napoje alkoholowe i bezalkoholowe są dostępne w godzinach 10:00-23:00. Na terenie hotelu znajduje się również kawiarnia, lobby bar i bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen z wodą mineralną oraz brodzik dla dzieci ze zjeżdżalnią. W pobliżu hotelu, w kompleksie Medi Spa Medica, znajduje się również kryty basen z wodą mineralną. Hotel oferuje program animacyjny i zajęcia sportowe dla dorosłych i dzieci sześć dni w tygodniu. Goście mogą korzystać z programu \"Sports Around®\", który umożliwia bezpłatny udział w różnych aktywnościach sportowych na terenie całego kurortu Albena."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest bardzo dobrze przygotowany na przyjęcie rodzin z dziećmi. Dostępny jest mini klub dla dzieci w wieku 3-11 lat, działający sześć dni w tygodniu w godzinach przedpołudniowych i popołudniowych. Wieczorami organizowane jest mini disco. Dodatkowo, brodzik ze zjeżdżalnią zapewnia rozrywkę najmłodszym."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum.",
+  "Smaczne i urozmaicone jedzenie, w tym opcje wegańskie i wegetariańskie.",
+  "Przyjazny i pomocny personel.",
+  "Czyste pokoje i codzienne sprzątanie.",
+  "Dobre animacje dla dzieci i dorosłych."
+ ],
+ "cons": [
+  "Mieszane opinie dotyczące czystości i zużytych udogodnień.",
+  "Płatne ręczniki plażowe i materace.",
+  "Płatny parking.",
+  "Niektóre udogodnienia mogą być przestarzałe.",
+  "Personel bywa opisywany jako obojętny lub niekomunikatywny."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Laguna Garden jest położony około 130-150 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada brodzik dla dzieci ze zjeżdżalnią. W pobliżu hotelu, w kompleksie Medi Spa Medica, znajduje się również kryty basen z wodą mineralną."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, mini disco oraz brodzik ze zjeżdżalnią."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Port lotniczy Warna (VAR), oddalone o około 25.1 km (w linii prostej) do 41 km (drogą)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych hotelu, na plaży oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest polecany dla rodzin."
+  }
+ ],
+ "address": "Albena, 9620 Albena, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 25.1,
+ "airportName": "Port lotniczy Warna (VAR)",
+ "amenities": [
+  "Salon piękności",
+  "Studio fryzjerskie",
+  "Studio masażu (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Albena",
+ "bars": 3,
+ "beachDistanceM": 130,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby podróżujące z ograniczonym budżetem",
+  "Osoby szukające aktywnego wypoczynku"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (DBL 2+1 / 2+2) z dwoma łóżkami pojedynczymi i nierozkładaną sofą, lub łóżkiem podwójnym i jednym łóżkiem pojedynczym z sofą, balkon, klimatyzacja, telewizja kablowa, minibar (płatny), telefon, biurko, łazienka z prysznicem lub wanną, suszarka do włosów.",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 145,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0429242,
+  "lon": 34.4288502,
+  "src": "osm"
+ },
+ "sources": [
+  "directbooking.ro",
+  "kayak.de",
+  "booking.com",
+  "albena.bg",
+  "hotels.com",
+  "fvrentals.com",
+  "multitour.ru",
+  "paralela45.ro"
+ ],
+ "updated": "2026-11-27"
+}

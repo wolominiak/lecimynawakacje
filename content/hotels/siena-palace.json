@@ -1,0 +1,139 @@
+{
+ "id": 30860,
+ "slug": "siena-palace",
+ "name": "Siena Palace",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Primorsko"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001433682-570-428.jpg",
+ "city": "Primorsko",
+ "intro": [
+  "Hotel Siena Palace to czterogwiazdkowy obiekt położony w centrum Primorska w Bułgarii, na głównej ulicy Iglika. Oferuje nowoczesne udogodnienia i jest idealnym miejscem dla osób szukających komfortowego wypoczynku blisko plaży i miejskich atrakcji.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz wszystkich, którzy cenią sobie relaksujący pobyt. Hotel dysponuje 67 pokojami, basenem typu infinity oraz udogodnieniami dla najmłodszych, takimi jak basen dla dzieci i mini klub."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Siena Palace znajduje się w centrum Primorska, co zapewnia łatwy dostęp do lokalnych atrakcji. Do plaży Primorsko Beach można dojść w około 3 minuty, a do Północnej Plaży w około 6 minut. Obie plaże są piaszczyste i ogólnodostępne. Hotel oferuje ręczniki plażowe, natomiast leżaki i parasole są dostępne przy basenie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 67 pokojami, w tym pokojami dwuosobowymi, typu Twin oraz Junior Suite, a także pokojami przystosowanymi dla osób niepełnosprawnych. Każdy pokój wyposażony jest w balkon, prywatną łazienkę z prysznicem i suszarką do włosów, klimatyzację, telewizor z płaskim ekranem, minibar/lodówkę, sejf i telefon. Niektóre pokoje posiadają również część wypoczynkową."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen typu infinity pool oraz oddzielny basen dla dzieci. Dodatkową atrakcją jest zjeżdżalnia wodna. Goście mogą korzystać z centrum SPA, które oferuje saunę, łaźnię parową i wannę z hydromasażem. Dostępne jest również centrum fitness/siłownia."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni międzynarodowej i śródziemnomorskiej w formie à la carte, z możliwością spożywania posiłków w ogrodzie. Na terenie obiektu działają także lobby bar i bar przy basenie. W cenę zakwaterowania wliczone jest śniadanie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Siena Palace to dobry wybór dla rodzin z dziećmi. Oprócz basenu dla najmłodszych, hotel oferuje mini klub dla dzieci w wieku 4-12 lat, gdzie organizowane są różnorodne zajęcia i animacje. Dzięki temu dzieci mają zapewnioną rozrywkę, a rodzice mogą cieszyć się chwilą relaksu."
+  }
+ ],
+ "pros": [
+  "Czyste pokoje i nowoczesny design",
+  "Smaczne i urozmaicone śniadania",
+  "Bardzo przyjazny i pomocny personel",
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Ładny basen i czyste udogodnienia"
+ ],
+ "cons": [
+  "Śniadania bywają nieco powtarzalne",
+  "Brak informacji o pełnym pakiecie all inclusive",
+  "Brak szczegółowych informacji o animacjach dla dorosłych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Siena Palace znajduje się około 3 minuty spacerem od Primorsko Beach i około 6 minut spacerem od Północnej Plaży. Obie plaże są piaszczyste."
+  },
+  {
+   "q": "Czy hotel oferuje ręczniki plażowe, leżaki i parasole?",
+   "a": "Hotel oferuje ręczniki plażowe. Leżaki i parasole są dostępne przy basenie hotelowym. Plaża nie jest prywatną plażą hotelową."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 60 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada zjeżdżalnię wodną oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Oferuje basen dla dzieci oraz mini klub z animacjami dla dzieci w wieku 4-12 lat."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "address": "Ul. Zornitsa 11, 8180 Primorsko",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Balkon",
+  "Prywatna łazienka",
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Minibar/lodówka",
+  "Sejf",
+  "Telefon",
+  "Suszarka do włosów",
+  "Bezpłatne kosmetyki",
+  "Część wypoczynkowa (w niektórych pokojach)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum Primorska",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.64,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające komfortowego i relaksującego pobytu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double Room)",
+  "Pokój typu Twin (Twin Room)",
+  "Junior Suite",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 67,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3080327,
+  "lon": 11.3613543,
+  "src": "osm"
+ },
+ "sources": [
+  "sienapalace.bg",
+  "sofiagotravel.com",
+  "primorsko.org",
+  "siena-palace.com",
+  "expedia.com",
+  "hotels.com",
+  "primorskohotels.com",
+  "trip.com"
+ ],
+ "updated": "2026-11-27"
+}

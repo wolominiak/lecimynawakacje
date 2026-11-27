@@ -1,0 +1,132 @@
+{
+ "id": 22078,
+ "slug": "maritim-amelia",
+ "name": "Maritim Amelia",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/maritim-amelia-basen-1483845022-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Hotel Maritim Amelia to nowoczesny obiekt położony w samym sercu kurortu Albena, przy Art Street, na Riwierze Bułgarskiej. Usytuowany jest zaledwie 100 metrów od prywatnej, piaszczystej plaży, wyróżnionej Błękitną Flagą. Hotel został przebudowany w 2020 roku i ponownie otwarty w 2022 roku, oferując 141 stylowo urządzonych pokoi i apartamentów.",
+  "Obiekt jest doskonałym wyborem zarówno dla rodzin z dziećmi, par, jak i osób aktywnych, szukających relaksu oraz miłośników sportu. Goście mogą korzystać z bogatej oferty rekreacyjnej, w tym z bezpłatnego wstępu do Aquamania Aquapark, dostępu do luksusowego SPA w sąsiednim hotelu oraz programu animacyjnego dla dorosłych i dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Maritim Amelia znajduje się w centrum kurortu Albena, przy Art Street, w pobliżu rezerwatu przyrody Baltata. Odległość od prywatnej, piaszczystej plaży z certyfikatem Błękitnej Flagi wynosi około 100 metrów. Goście mają zapewnione 2 leżaki i 1 parasol na pokój, dostępne od trzeciego rzędu od morza, oraz ręczniki plażowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 141 nowocześnie urządzonych pokoi i apartamentów, rozmieszczonych na 8 piętrach. Pokoje są stylowo zaprojektowane w tematyce lotniczej, inspirowanej postacią Amelii Earhart. Wyposażenie obejmuje klimatyzację, balkon, telewizor 43\", Wi-Fi, minibar, sejf, zestaw do kawy/herbaty oraz w pełni wyposażoną łazienkę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu Luxury Ultra All Inclusive goście mogą korzystać z głównej restauracji bufetowej \"Lady Lindy\" oraz restauracji a la carte \"Celebrità\" (kuchnia włoska). Dostępna jest również restauracja \"Montgolfier\" w sąsiednim hotelu Maritim Hotel Paradise Blue. Pakiet obejmuje pełne wyżywienie, lokalne i importowane napoje, a także program Dine Around."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje basenem zewnętrznym oraz panoramicznym basenem na dachu (dostępnym dla gości pokoi Executive lub za dodatkową opłatą). Dla dzieci przygotowano baseny z mini-splash oraz klub dla dzieci i place zabaw. Goście mają bezpłatny wstęp do oddalonego o 500 metrów Aquamania Aquapark. Dostępne są również animacje, siłownia oraz centrum SPA w sąsiednim hotelu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum.",
+  "Nowoczesne, czyste i przestronne pokoje.",
+  "Wysokiej jakości i różnorodne jedzenie.",
+  "Dostęp do Aquamania Aquapark w cenie pakietu Ultra All Inclusive.",
+  "Prywatna plaża z bezpłatnymi leżakami i parasolami.",
+  "Dostęp do luksusowego centrum SPA w siostrzanym hotelu."
+ ],
+ "cons": [
+  "Jakość Wi-Fi bywa oceniana jako średnia.",
+  "Siłownia może być mała.",
+  "Dostęp do basenu i baru na dachu jest płatny dla większości gości.",
+  "Bezpłatne leżaki i parasole na plaży są dostępne dopiero od trzeciego rzędu."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest usytuowany około 100 metrów od prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Lotnisko Varna (VAR), oddalone o około 40 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Goście mają bezpłatny wstęp do Aquamania Aquapark, który znajduje się około 500 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje baseny dla dzieci, mini klub, place zabaw i program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Co obejmuje pakiet Luxury Ultra All Inclusive?",
+   "a": "Pakiet obejmuje pełne wyżywienie, lokalne i importowane napoje, program Dine Around, drink powitalny, minibar, dostęp do prywatnej plaży, basenów hotelowych i Aquamania Aquapark, a także program animacyjny i zajęcia sportowe."
+  }
+ ],
+ "address": "Albena Resort, 9620 Albena, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Varna (VAR)",
+ "amenities": [
+  "klimatyzacja",
+  "balkon",
+  "telewizor",
+  "telefon",
+  "minibar",
+  "sejf",
+  "czajnik do kawy/herbaty",
+  "suszarka do włosów",
+  "bezpłatne kosmetyki"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Riwiera Bułgarska",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu",
+  "miłośnicy sportu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2022,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 3,
+ "roomTypes": [
+  "pokój Deluxe (dwuosobowy, z widokiem na park/ogród/morze)",
+  "Apartament Deluxe",
+  "pokój Executive (na 7. i 8. piętrze, z ekskluzywnym dostępem do basenu na dachu)"
+ ],
+ "rooms": 141,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "albena.bg",
+  "hotel-rez.com",
+  "holidaycheck.de",
+  "top-hotels-bg.com",
+  "hrs.com",
+  "albenahotels.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

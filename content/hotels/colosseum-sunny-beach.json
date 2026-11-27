@@ -1,0 +1,138 @@
+{
+ "id": 13360,
+ "slug": "colosseum-sunny-beach",
+ "name": "Colosseum (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/colosseum-sunny-beach-teren-hotelu-basen-obiekt-205974-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Colosseum, przemianowany w 2025 roku na Hotel Caesar Palace, to czterogwiazdkowy obiekt położony w samym sercu Słonecznego Brzegu w Bułgarii. Znajduje się on bezpośrednio przy piaszczystej plaży Morza Czarnego, oferując łatwy dostęp do złotych piasków i bliskość centrum kurortu.",
+  "Obiekt jest polecany dla rodzin i par, a także dla osób szukających aktywnego wypoczynku i rozrywki. Dzięki swojej lokalizacji i udogodnieniom, hotel jest odpowiedni zarówno dla miłośników słońca, jak i dla tych, którzy cenią sobie bliskość życia nocnego i atrakcji turystycznych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Colosseum usytuowany jest w centrum Słonecznego Brzegu, zaledwie kilka metrów od piaszczystej plaży. Goście mają dostęp do leżaków i parasoli na plaży za dodatkową opłatą. Obiekt znajduje się na pierwszej linii brzegowej, co zapewnia szybki dostęp do morza."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 152 pokoje, w tym 146 pokoi dwuosobowych i 6 przestronnych apartamentów. Wszystkie pokoje wyposażone są w klimatyzację, telefon, telewizję kablową/satelitarną, minibar, nowoczesną łazienkę z prysznicem lub wanną, suszarkę do włosów oraz balkon z widokiem na morze lub park. Dostępny jest również sejf (za opłatą) i zestaw do prasowania."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja \"Caesar\" serwuje posiłki w formie bufetu, oferując dania kuchni międzynarodowej, bułgarskiej oraz opcje wegańskie. Na terenie hotelu znajduje się również lobby bar, bar przy basenie, bar na świeżym powietrzu, snack bar oraz nocny bar/dyskoteka. Program all-inclusive obejmuje wybrane napoje i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen z barem przy basenie oraz kryty basen. Hotel posiada centrum spa z rosyjską i fińską sauną, hammamem oraz usługami masażu. Dostępna jest również siłownia. Na plaży można korzystać z płatnych sportów wodnych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik oraz plac zabaw. W pobliżu, około 1.5 km od hotelu, znajduje się Action Aquapark, co stanowi dodatkową atrakcję dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czystość i przestronne pokoje",
+  "Dobry stosunek jakości do ceny",
+  "Dobre jedzenie"
+ ],
+ "cons": [
+  "Ograniczona liczba miejsc przy basenie i w restauracji",
+  "Starszy sprzęt w centrum fitness",
+  "Leżaki i parasole na plaży płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel Colosseum znajduje się zaledwie około 20 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Burgas (BOJ), oddalone o około 30-37 km. Lotnisko w Warnie (VAR) znajduje się około 101-120 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnych zjeżdżalni. W pobliżu, około 1.5 km, znajduje się Action Aquapark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne w hotelu. Niektóre źródła wskazują na bezpłatne Wi-Fi w miejscach publicznych, inne na bezpłatne w całym hotelu."
+  },
+  {
+   "q": "Czy w hotelu znajduje się siłownia?",
+   "a": "Tak, w hotelu dostępna jest siłownia/centrum fitness, choć niektóre opinie wskazują na starszy sprzęt."
+  }
+ ],
+ "address": "общ. Несебър, Slanchev Bryag, к.к, 8240 Sunny Beach, Bulgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Burgas (BOJ)",
+ "amenities": [
+  "Odkryty basen",
+  "Kryty basen",
+  "Centrum spa",
+  "Sauna (rosyjska i fińska)",
+  "Hammam",
+  "Masaże",
+  "Siłownia/centrum fitness",
+  "Tenis stołowy",
+  "Brodzik dla dzieci",
+  "Plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Słonecznego Brzegu",
+ "bars": 5,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające aktywnego wypoczynku",
+  "Miłośnicy słońca",
+  "Miłośnicy życia nocnego"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe (maksymalnie dla 3 osób / 2+1) z klimatyzacją, telefonem, telewizją kablową/satelitarną, minibarem, łazienką z prysznicem/wanną, suszarką do włosów, balkonem, sejfem (za opłatą) i zestawem do prasowania.",
+  "Apartamenty (maksymalnie dla 5 osób / 4+1) z klimatyzacją, telefonem, telewizją kablową/satelitarną, minibarem, łazienką z prysznicem/wanną, suszarką do włosów, balkonem, sejfem (za opłatą) i zestawem do prasowania."
+ ],
+ "rooms": 152,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": -6.825747,
+  "lon": 39.2799235,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelcaesarpalace.com",
+  "sunshine.co.uk",
+  "sunnybeachhotels.net",
+  "admiral.travel",
+  "onthebeach.ie",
+  "sunnybeach.com",
+  "guestreservations.com",
+  "google.com"
+ ],
+ "updated": "2026-11-27"
+}

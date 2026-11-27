@@ -1,0 +1,145 @@
+{
+ "id": 23176,
+ "slug": "jupiter",
+ "name": "Jupiter",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/jupiter-obiekt-165950-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Jupiter to dwugwiazdkowy obiekt położony w centralnej części Słonecznego Brzegu w Bułgarii. Znajduje się w bliskiej odległości od piaszczystej plaży oraz tętniącego życiem centrum kurortu, co czyni go dobrą bazą wypadową do odkrywania lokalnych atrakcji.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par. Oferuje podstawowe udogodnienia, w tym baseny, restauracje i mini klub dla najmłodszych, zapewniając komfortowy pobyt w przystępnej cenie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Jupiter zlokalizowany jest w centrum Słonecznego Brzegu, w odległości około 100-450 metrów od publicznej, piaszczystej plaży. W pobliżu znajdują się liczne restauracje, bary i sklepy. Leżaki i parasole na plaży są płatne, natomiast przy basenie dostępne są bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje około 70-106 pokoi, w tym pokoje dwuosobowe, rodzinne, apartamenty oraz pokoje ekonomiczne, standardowe, superior i deluxe. Wszystkie wyposażone są w klimatyzację, balkon lub taras, prywatną łazienkę z prysznicem i suszarką do włosów, telewizor, minibar lub lodówkę oraz telefon. Pokoje ekonomiczne w aneksie mogą być nieremontowane."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni lokalnej i międzynarodowej, a także restauracja rodzinna z różnorodną ofertą kulinarną, obejmującą kuchnię indyjską, włoską, meksykańską, owoce morza, steki oraz dania grillowane. Do dyspozycji gości są również bar przy basenie i bar koktajlowy. Hotel oferuje wyżywienie w formule śniadań w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami, w tym sezonowym odkrytym basenem i basenem ze słoną wodą, a także jacuzzi. Dla dzieci przygotowano brodzik i plac zabaw oraz mini klub. Goście mogą korzystać z niewielkiej siłowni, tenisa stołowego, bilarda i siatkówki plażowej. Dostępne są również masaże."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Jupiter jest odpowiedni dla rodzin z dziećmi, dzięki dostępnym udogodnieniom takim jak brodzik, plac zabaw i mini klub. Jest to również dobra opcja dla par i osób szukających aktywnego wypoczynku, ceniących sobie centralną lokalizację i bliskość atrakcji kurortu."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja i bliskość plaży",
+  "Dostęp do basenów i jacuzzi",
+  "Mini klub i plac zabaw dla dzieci",
+  "Miła i pomocna obsługa",
+  "Dobre i różnorodne śniadania"
+ ],
+ "cons": [
+  "Niektóre pokoje i łazienki mogą być zużyte, zwłaszcza w starszych częściach",
+  "Płatne Wi-Fi w pokojach",
+  "Problemy z drzwiami balkonowymi i niewygodne meble balkonowe w niektórych pokojach",
+  "Leżaki i parasole na plaży są płatne",
+  "Brak informacji o podgrzewanych lub krytych basenach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Odległość od hotelu do piaszczystej plaży wynosi od 100 do 450 metrów."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Hotel Jupiter znajduje się około 23-40 km od lotniska w Burgas (BOJ). Czas dojazdu to około 25-35 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnego aquaparku, ale Action AquaPark znajduje się w odległości około 0.7-1.5 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, plac zabaw oraz mini klub dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w recepcji i w barze/miejscach publicznych. W pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje wyżywienie w formule śniadań w formie bufetu. Brak potwierdzonych informacji o ofercie all inclusive."
+  }
+ ],
+ "address": "Sunny Beach, 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 28.6,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Prywatna łazienka",
+  "Telewizor",
+  "Minibar/lodówka",
+  "Telefon",
+  "Jacuzzi",
+  "Plac zabaw",
+  "Tenis stołowy",
+  "Bilard",
+  "Siatkówka plażowa",
+  "Siłownia"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centralna część Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające bazy wypadowej"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1994,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem",
+  "Pokój rodzinny z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem",
+  "Apartament z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem",
+  "Pokój ekonomiczny z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem",
+  "Pokój standardowy z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem",
+  "Pokój superior z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem",
+  "Pokój deluxe w aneksie z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, telewizorem, minibarem/lodówką, telefonem"
+ ],
+ "rooms": 106,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6974287,
+  "lon": 27.7125282,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "booking.com",
+  "thomascook.com",
+  "firstchoice.co.uk",
+  "jupitersunnybeach.com",
+  "sunshine.co.uk",
+  "ohotel.uk",
+  "jupiterhotelbg.com"
+ ],
+ "updated": "2026-11-27"
+}

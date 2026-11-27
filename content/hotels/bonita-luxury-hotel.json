@@ -1,0 +1,138 @@
+{
+ "id": 44081,
+ "slug": "bonita-luxury-hotel",
+ "name": "Bonita Luxury Hotel",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Golem"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/bonita-luxury-hotel-teren-hotelu-obiekt-basen-1434980495-570-428.jpg",
+ "city": "Golem",
+ "intro": [
+  "Bonita Luxury Hotel to pięciogwiazdkowy obiekt położony w Golem, w regionie Durrës na Riwierze Albańskiej, tuż przy piaszczystej plaży Golem. Hotel, częściowo odnowiony w 2023 roku, składa się z dwóch budynków i oferuje nowoczesne wnętrza oraz szeroki zakres udogodnień. Jest to idealne miejsce dla rodzin z dziećmi, par oraz osób poszukujących spokojnego wypoczynku z dostępem do morza i atrakcji wodnych.",
+  "Hotel charakteryzuje się eleganckim designem i dobrą lokalizacją, zapewniającą łatwy dostęp do plaży oraz bliskość centrum Durrës. Dzięki aquaparkowi z sześcioma zjeżdżalniami, basenom i animacjom, hotel zapewnia rozrywkę dla gości w każdym wieku. Pakiet All Inclusive obejmuje wyżywienie i lokalne napoje, a także dostęp do prywatnej części plaży z leżakami i parasolami."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bonita Luxury Hotel znajduje się w Golem, około 200-350 metrów od piaszczystej plaży Golem, z łagodnym zejściem do morza. Obiekt posiada prywatną część plaży, gdzie w ramach pakietu all-inclusive dostępne są bezpłatne leżaki i parasole. Ręczniki plażowe można otrzymać za zwrotny depozyt."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 200 pokoi, w tym Double, Triple, Boutique, Apartments, Connection, Deluxe i Suite. Pokoje są wyposażone w klimatyzację, balkon lub taras, łazienkę z prysznicem i suszarką do włosów, telewizor, minibar lub lodówkę, sejf oraz bezpłatne Wi-Fi. Standardowe pokoje mają powierzchnię około 20-30 m²."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: główna (bufetowa) i restauracja à la carte (dodatkowo płatna, wymagana rezerwacja). Do dyspozycji gości są również 3 lub 4 bary, w tym bar przy basenie, bar na plaży (jeden objęty all-inclusive, drugi płatny), lobby bar, lounge bar oraz bar przy aquaparku. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, przekąski oraz lokalne napoje bezalkoholowe i alkoholowe w wyznaczonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje 2 lub 3 basenami, w tym basenem głównym, basenem dla dzieci oraz sezonowym basenem zewnętrznym dla dorosłych. Na terenie obiektu znajduje się również aquapark o powierzchni 750 m² z sześcioma zjeżdżalniami. W sezonie organizowane są animacje przy basenie. Goście mogą korzystać z centrum spa i wellness, siłowni, tenisa stołowego oraz kortu tenisowego."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel oferuje basen dla dzieci, krzesełka w restauracji oraz łóżeczka na życzenie. Aquapark z licznymi zjeżdżalniami stanowi dodatkową atrakcję. W sezonie dostępne są również animacje przy basenie."
+  }
+ ],
+ "pros": [
+  "Nowoczesne wnętrza i elegancki design",
+  "Aquapark z 6 zjeżdżalniami",
+  "Prywatna plaża z leżakami i parasolami w cenie all-inclusive",
+  "Bezpłatne Wi-Fi w pokojach i na terenie obiektu",
+  "Pomocna i miła obsługa"
+ ],
+ "cons": [
+  "Jedzenie bywa monotonne i zimne",
+  "Niska jakość napojów z maszyn samoobsługowych",
+  "Tłok w aquaparku z powodu wpuszczania osób z zewnątrz",
+  "Sporadyczne problemy z Wi-Fi w pokojach",
+  "Brak placu zabaw dla dzieci poza basenem"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się w odległości około 200-350 metrów od hotelu, z przejściem przez ulicę. Hotel posiada prywatną część plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska w Tiranie?",
+   "a": "Najbliższe lotnisko to Lotnisko w Tiranie (TIA), oddalone o około 40-45 km. Czas transferu samochodem to około 45-60 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark z 6 zjeżdżalniami o powierzchni 750 m²."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując basen dla dzieci, krzesełka w restauracji, łóżeczka na życzenie oraz aquapark."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są płatne?",
+   "a": "W ramach pakietu all-inclusive leżaki i parasole na prywatnej części plaży są wliczone w cenę."
+  }
+ ],
+ "address": "Rruga e Detit Golem, Kavajë, Albania, 2504",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Lotnisko w Tiranie (TIA)",
+ "amenities": [
+  "Centrum spa i wellness",
+  "Siłownia",
+  "Tenis stołowy",
+  "Kort tenisowy"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Durrës",
+ "bars": 4,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 12,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "spokojny wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 2,
+ "roomTypes": [
+  "Double Room",
+  "Triple Room",
+  "Boutique Room",
+  "Apartments",
+  "Connection Room",
+  "Deluxe Room",
+  "Suite Room"
+ ],
+ "rooms": 200,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2480116,
+  "lon": 19.523355,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelbonita.al",
+  "travelplanet.pl",
+  "wakacje.pl",
+  "travelpunkt.pl",
+  "prestigia.com",
+  "nekera.pl",
+  "traveligo.pl",
+  "mapcarta.com"
+ ],
+ "updated": "2026-11-27"
+}

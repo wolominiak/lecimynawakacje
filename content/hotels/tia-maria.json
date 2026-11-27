@@ -1,0 +1,135 @@
+{
+ "id": 10652,
+ "slug": "tia-maria",
+ "name": "Tia Maria",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/tia-maria-basen-1478532378-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Tia Maria to trzygwiazdkowy obiekt położony w południowej części popularnego bułgarskiego kurortu Słoneczny Brzeg. Jest to idealne miejsce dla osób szukających komfortowego zakwaterowania w przystępnej cenie, z łatwym dostępem do plaży i lokalnych atrakcji. Hotel jest dobrym wyborem zarówno dla rodzin z dziećmi, jak i dla młodych par, ceniących sobie swobodę i bliskość rozrywek.",
+  "Hotel, otwarty w 2006 roku i odnawiany w latach 2014 i 2018, oferuje 199 lub 200 pokoi w sześciopiętrowym budynku. Goście mogą korzystać z dwóch odkrytych basenów, restauracji i barów, a także z opcji all inclusive. Dzięki swojej lokalizacji i udogodnieniom, Tia Maria zapewnia przyjemny pobyt w słonecznej Bułgarii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Tia Maria znajduje się w południowej części Słonecznego Brzegu, zaledwie 250-280 metrów od piaszczystej plaży z łagodnym zejściem do morza. Centrum kurortu oddalone jest o około 400 metrów, co zapewnia łatwy dostęp do sklepów i rozrywki. Leżaki i parasole na plaży są płatne, natomiast przy basenie dostępne są bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje przestronne i komfortowe pokoje, w tym jednoosobowe, standardowe dwuosobowe, LUX dwuosobowe, rodzinne i apartamenty. Wszystkie pokoje są klimatyzowane i wyposażone w balkon, telewizor, minilodówkę, telefon oraz łazienkę z prysznicem. W pokojach dostępne jest bezpłatne Wi-Fi, a sejf można wynająć za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, kawiarnia i bar koktajlowy. Dostępna jest opcja all inclusive, która obejmuje śniadania, obiady i kolacje w formie bufetu. W ramach pakietu serwowane są bułgarskie napoje alkoholowe i bezalkoholowe, piwo, wino, a także przekąski, słodycze i lody w godzinach popołudniowych. Importowane alkohole są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu mogą korzystać z dwóch odkrytych basenów oraz oddzielnego brodzika dla dzieci. Przy basenach dostępne są bezpłatne leżaki i parasole. Dla aktywnych hotel oferuje siłownię, a za dodatkową opłatą bilard, rzutki i tenis stołowy. Masaże są również dostępne za opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik. W okresie od 15 czerwca do 15 września dostępne są animacje dla dzieci. Hotel jest polecany dla rodzin z dziećmi ze względu na swoje udogodnienia i atmosferę."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko plaży i centrum",
+  "Dobry stosunek jakości do ceny",
+  "Bezpłatne Wi-Fi w pokojach i na terenie hotelu",
+  "Dwa odkryte baseny z brodzikiem dla dzieci",
+  "Animacje dla dzieci w sezonie"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są płatne",
+  "Zmienny komfort materacy w łóżkach",
+  "Ograniczona liczba leżaków przy basenie",
+  "Zgłaszane w przeszłości problemy z jedzeniem (przed renowacjami)",
+  "Importowane alkohole są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Tia Maria jest położony około 250-280 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Hotel dysponuje dwoma odkrytymi basenami i brodzikiem dla dzieci. Niektóre źródła wspominają o aquaparku, ale może to dotyczyć ogólnej dostępności w okolicy lub być częścią udogodnień hotelowych, a nie pełnoprawnego parku wodnego na terenie obiektu."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Burgas (BOJ), oddalony o około 29-33 km. Port Lotniczy Warna (VAR) znajduje się około 115-120 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik i animacje dla dzieci w sezonie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest polecany dla rodzin z dziećmi i młodych par."
+  }
+ ],
+ "address": "Sunny Beach 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Port Lotniczy Burgas (BOJ)",
+ "amenities": [
+  "siłownia",
+  "bilard (płatny)",
+  "rzutki (płatne)",
+  "tenis stołowy (płatny)",
+  "masaże (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "południowa część kurortu",
+ "bars": 2,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "młode pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2006,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój standardowy dwuosobowy (klimatyzacja, balkon, TV, minilodówka, telefon, łazienka z prysznicem, Wi-Fi)",
+  "pokój LUX dwuosobowy (klimatyzacja, balkon, TV, minilodówka, telefon, łazienka z prysznicem, Wi-Fi)",
+  "pokój rodzinny (klimatyzacja, balkon, TV, minilodówka, telefon, łazienka z prysznicem, Wi-Fi)",
+  "apartament (klimatyzacja, balkon, TV, minilodówka, telefon, łazienka z prysznicem, Wi-Fi)"
+ ],
+ "rooms": 199,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6867222,
+  "lon": 27.7049227,
+  "src": "osm"
+ },
+ "sources": [
+  "tiamariahotel.com",
+  "tiamaria.bg",
+  "directbooking.ro",
+  "enahotels.com",
+  "gotoburgas.com",
+  "folk-nuance.com",
+  "travos.ro",
+  "daytripsbulgaria.com"
+ ],
+ "updated": "2026-11-27"
+}

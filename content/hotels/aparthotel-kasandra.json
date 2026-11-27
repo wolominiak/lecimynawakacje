@@ -1,0 +1,131 @@
+{
+ "id": 261443,
+ "slug": "aparthotel-kasandra",
+ "name": "Aparthotel Kasandra",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 0,
+ "photo": "/no-index/hotel/aparthotel-kasandra-basen-obiekt-1767272916-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Aparthotel Kasandra to obiekt położony w zachodniej części Słonecznego Brzegu, w spokojnej dzielnicy Chaika, tuż obok dużego parku. Kategoria hotelu waha się od 1 do 3 gwiazdek, co wskazuje na prosty, ale funkcjonalny charakter.",
+  "Obiekt jest szczególnie polecany dla rodzin oraz osób ceniących sobie niezależność i możliwość samodzielnego przygotowywania posiłków dzięki aneksom kuchennym w każdym apartamencie. Lokalizacja sprzyja zarówno relaksowi, jak i aktywnemu wypoczynkowi, dzięki bliskości plaży i aquaparku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Aparthotel Kasandra znajduje się w Słonecznym Brzegu, w spokojnej dzielnicy Chaika, obok dużego parku. Do centrum miejscowości jest około 1-1.4 km, co zajmuje około 15 minut spacerem. Odległość od publicznej, piaszczystej plaży z łagodnym wejściem do morza wynosi od 350 do 850 metrów. Plaża posiada certyfikat Błękitnej Flagi, a leżaki i parasole są na niej płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 83 jednostki, w tym studia (ok. 35 m²) oraz apartamenty z jedną lub dwiema sypialniami (ok. 45-60 m²). Każdy pokój wyposażony jest w klimatyzację, aneks kuchenny z lodówką, płytą grzewczą i naczyniami, prywatną łazienkę z prysznicem oraz balkon lub taras. Sprzątanie, wymiana pościeli i ręczników odbywa się raz w tygodniu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie aparthotelu znajduje się sezonowy basen zewnętrzny dla dorosłych o powierzchni około 200 m² oraz brodzik dla dzieci (ok. 22 m²). Baseny nie są podgrzewane, a w hotelu brak jest zjeżdżalni, jednak Action AquaPark znajduje się w odległości około 1 km. Dla dzieci dostępny jest plac zabaw, a niektóre źródła wspominają o animacjach dla dzieci/mini klubie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W Aparthotelu Kasandra znajduje się restauracja lub kawiarnia-restauracja. Obiekt posiada również bar, bar przy basenie oraz bar z przekąskami. Hotel nie oferuje formuły all inclusive, ale goście mogą wykupić obiady i kolacje. Wszystkie apartamenty wyposażone są w aneksy kuchenne umożliwiające samodzielne przygotowywanie posiłków."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja obok parku",
+  "Przestronne apartamenty z aneksami kuchennymi",
+  "Dobra relacja jakości do ceny",
+  "Bliskość plaży i Action Aquaparku",
+  "Przyjazny personel"
+ ],
+ "cons": [
+  "Odległość od plaży może wynosić do 850 m",
+  "Brak ręczników basenowych/plażowych",
+  "Sprzątanie i wymiana pościeli/ręczników raz w tygodniu",
+  "Wi-Fi bywa płatne w miejscach publicznych",
+  "Brak informacji o ostatnim remoncie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Odległość od publicznej, piaszczystej plaży wynosi od 350 do 850 metrów."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje formuły all inclusive. Goście mogą samodzielnie przygotowywać posiłki w aneksach kuchennych lub wykupić obiady i kolacje."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma zjeżdżalni, ale znajduje się on w pobliżu Action AquaParku, około 1 km od obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje brodzik dla dzieci, plac zabaw, a także przestronne apartamenty z aneksami kuchennymi."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 28-30 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, choć niektóre źródła podają, że może być płatne."
+  }
+ ],
+ "address": "Sunny Beach, 8240 Sunny Beach, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Balkon/taras",
+  "Klimatyzacja",
+  "Aneks kuchenny",
+  "Telewizor",
+  "Prywatna łazienka",
+  "Bezpłatne kosmetyki",
+  "Suszarka do włosów (na życzenie w recepcji)",
+  "Siatkówka",
+  "Bilard (za opłatą)",
+  "Masaże (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Chaika",
+ "bars": 3,
+ "beachDistanceM": 350,
+ "beachType": "Piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Osoby szukające spokojnego wypoczynku",
+  "Goście preferujący samodzielne wyżywienie"
+ ],
+ "gym": null,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": 2006,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (ok. 35 m², dla 2-3 osób, aneks kuchenny, klimatyzacja, łazienka, balkon)",
+  "Apartament z jedną sypialnią (ok. 45-60 m², dla 2 dorosłych + 2 dzieci lub 4 dorosłych, aneks kuchenny, klimatyzacja, łazienka, balkon)",
+  "Apartament z dwiema sypialniami (wyposażenie jak wyżej)"
+ ],
+ "rooms": 83,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "sunwaytravel.pl",
+  "kayak.com",
+  "trabber.co.za",
+  "reserving.com",
+  "bcdiamant.com",
+  "expedia.co.uk",
+  "bolgariadom.com",
+  "inreal4u.com"
+ ],
+ "updated": "2026-11-27"
+}

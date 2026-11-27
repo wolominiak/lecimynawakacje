@@ -1,0 +1,137 @@
+{
+ "id": 20240,
+ "slug": "bohemi",
+ "name": "Bohemi",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/bohemi-obiekt-budynek-glowny-teren-hotelu-998807850-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Bohemi to trzygwiazdkowy obiekt położony w centrum Słonecznego Brzegu, w spokojnej okolicy, ale jednocześnie przy głównej ulicy kurortu. To idealne miejsce dla osób szukających bazy wypadowej do zwiedzania okolicy oraz dla tych, którzy cenią sobie łatwy dostęp do atrakcji, a jednocześnie możliwość wypoczynku w spokojniejszym otoczeniu.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par. Oferuje komfortowe zakwaterowanie w odnowionym budynku, basen z wydzieloną częścią dla najmłodszych oraz wyżywienie w formule All Inclusive, co czyni go dobrą opcją na wakacje w Bułgarii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bohemi znajduje się w centrum Słonecznego Brzegu, przy głównej ulicy, co zapewnia łatwy dostęp do lokalnych atrakcji. Do piaszczystej, publicznej plaży z łagodnym wejściem do morza, oznaczonej Błękitną Flagą, jest około 600-900 metrów, czyli 7-10 minut spacerem. Najbliższe lotnisko w Burgas oddalone jest o około 24.4-30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje od 60 do 85 pokojami, rozmieszczonymi w pięciopiętrowym budynku z windą. Pokoje są klimatyzowane i wyposażone w telewizor z kanałami satelitarnymi, biurko, szafę, suszarkę na ubrania oraz łazienkę z prysznicem i zestawem kosmetyków. Większość pokoi posiada balkon, a pokoje rodzinne składają się z dwóch oddzielnych sypialni."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna główna restauracja serwująca posiłki w formie bufetu, oferująca dania kuchni bułgarskiej i międzynarodowej. Goście mogą korzystać z lobby baru oraz baru przy basenie. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje, lokalne napoje alkoholowe i bezalkoholowe oraz przekąski w ciągu dnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Bohemi oferuje jeden odkryty basen z wydzieloną strefą dla dzieci. Obiekt nie posiada własnego aquaparku, ale w pobliżu znajduje się Action Aquapark (około 1.6-2 km). Dla dzieci dostępny jest również plac zabaw oraz organizowane są aktywności. Dorośli mogą skorzystać z tenisa stołowego, a w lobby dostępny jest bezpłatny dostęp do Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja w centrum, ale w spokojnej okolicy",
+  "Czyste pokoje i dobrze utrzymany basen",
+  "Smaczne śniadania w formie bufetu",
+  "Pomocna obsługa",
+  "Odnowiony budynek po remoncie w 2018 roku"
+ ],
+ "cons": [
+  "Plaża publiczna, brak informacji o bezpłatnych leżakach i ręcznikach",
+  "Brak siłowni i spa (dostępne masaże za opłatą)",
+  "Brak aquaparku na terenie hotelu",
+  "Wolne windy podczas wymeldowania",
+  "Brak wystarczającej ilości podstawowych artykułów higienicznych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Bohemi jest oddalony od piaszczystej plaży o około 600-900 metrów, co zajmuje 7-10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 24.4-30 km, co oznacza około 25-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnych zjeżdżalni ani aquaparku. W pobliżu, około 1.6-2 km, znajduje się Action Aquapark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dysponuje basenem z wydzieloną częścią dla dzieci, placem zabaw oraz oferuje aktywności dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby hotelowym. Od sezonu 2027 Wi-Fi w pokojach może być płatne."
+  },
+  {
+   "q": "Co obejmuje pakiet All Inclusive?",
+   "a": "Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, lokalne napoje alkoholowe i bezalkoholowe (10:00-22:00) oraz przekąski (15:00-16:00)."
+  },
+  {
+   "q": "Kiedy hotel był ostatnio remontowany?",
+   "a": "Hotel został ostatnio wyremontowany w 2018 roku."
+  }
+ ],
+ "address": "Pyasatsite, 8240 Sunny Beach, Nesebar, Burgas Region, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 24.4,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z kanałami satelitarnymi",
+  "Balkon (w większości pokoi)",
+  "Minibar (w niektórych pokojach)",
+  "Zestaw kosmetyków",
+  "Ręczniki",
+  "Tenis stołowy",
+  "Plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 2004,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (DBL 2+1)",
+  "Pokój rodzinny (FAM 4+1) z dwiema oddzielnymi sypialniami",
+  "Pokój typu Twin/Double",
+  "Pokój typu Triple"
+ ],
+ "rooms": 60,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.9454138,
+  "lon": 25.5394538,
+  "src": "osm"
+ },
+ "sources": [
+  "directbooking.ro",
+  "sunnybeach.com",
+  "hotel-in-bulgaria.com",
+  "hoteles.com",
+  "agoda.com",
+  "yandex.com",
+  "booking.com",
+  "sunnybeachyhotel.com"
+ ],
+ "updated": "2026-11-27"
+}

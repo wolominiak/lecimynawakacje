@@ -1,0 +1,146 @@
+{
+ "id": 261150,
+ "slug": "rainbow-3-resort-club",
+ "name": "Rainbow 3 Resort Club",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 0,
+ "photo": "/no-index/zdjecie/id/20001254579-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Rainbow 3 Resort Club to trzygwiazdkowy aparthotel położony w południowej części Słonecznego Brzegu w Bułgarii, w pobliżu popularnej plaży Cacao Beach. Obiekt, otwarty w 2009 roku, oferuje zakwaterowanie w apartamentach i studiach, co czyni go odpowiednim wyborem dla osób ceniących niezależność podczas wakacji.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, oferując szereg udogodnień, takich jak basen dla dzieci, plac zabaw i mini klub. Dzięki spokojnej lokalizacji i bliskości piaszczystej plaży, Rainbow 3 Resort Club stanowi dobrą bazę wypadową do odkrywania uroków bułgarskiego wybrzeża."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Rainbow 3 Resort Club znajduje się w południowej części Słonecznego Brzegu, około 300-550 metrów od piaszczystej plaży Cacao Beach. Do centrum miejscowości można dojść spacerem w około 25 minut (2.2 km). Najbliższe lotnisko w Burgas (BOJ) oddalone jest o około 19.6-27 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 127 apartamentów, w tym pokoje dwuosobowe, studia, apartamenty z jedną sypialnią oraz pokoje rodzinne, często z widokiem na ogród lub basen. Wszystkie pokoje wyposażone są w klimatyzację, balkon, prywatną łazienkę, aneks kuchenny lub kuchnię, telewizor z płaskim ekranem oraz zestaw do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie kompleksu znajduje się sezonowy odkryty basen oraz oddzielny basen dla dzieci, a także bar typu swim-up. Goście mogą korzystać z centrum fitness, sauny, jacuzzi oraz gabinetu zabiegowego. Dostępne są również możliwości uprawiania sportów, takich jak mini golf, siatkówka, kajakarstwo czy jazda na rowerze."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, basen dla dzieci oraz mini klub. W pobliżu znajduje się park rozrywki, do którego hotel zapewnia bezpłatny transfer."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajdują się dwie restauracje: Rainbow 1 Restaurant oraz BBQ restaurant. Do dyspozycji gości są również bar/lounge oraz bar przy basenie. Śniadanie kontynentalne jest dostępne za dodatkową opłatą, brak informacji o ofercie all inclusive."
+  }
+ ],
+ "pros": [
+  "Komfortowe pokoje z aneksem kuchennym",
+  "Cicha lokalizacja blisko plaży",
+  "Udogodnienia dla rodzin z dziećmi",
+  "Bezpłatne Wi-Fi w pokojach i miejscach publicznych",
+  "Dostęp do centrum fitness i strefy spa"
+ ],
+ "cons": [
+  "Brak recepcji na miejscu (zameldowanie w Rainbow 1)",
+  "W niektórych opiniach wspomina się o niezbyt przyjaznym personelu",
+  "Brak własnych zjeżdżalni wodnych",
+  "Brak basenów podgrzewanych lub krytych",
+  "Niskie oceny w niektórych serwisach rezerwacyjnych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Cacao Beach znajduje się około 300-550 metrów od hotelu, co zajmuje kilka minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 19.6 km (w linii prostej) do 27 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnych zjeżdżalni, ale oferuje bezpłatny transfer do pobliskiego parku rozrywki."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferując basen dla dzieci, plac zabaw i mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, w pokojach i w miejscach publicznych dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, Rainbow 3 Resort Club to obiekt rodzinny."
+  }
+ ],
+ "address": "Cacao Beach, Sunny Beach, Burgas Province, 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 19.6,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon",
+  "Aneks kuchenny/kuchnia",
+  "Telewizor z płaskim ekranem",
+  "Lodówka",
+  "Zestaw do parzenia kawy/herbaty",
+  "Naczynia kuchenne",
+  "Sauna",
+  "Jacuzzi",
+  "Gabinet zabiegowy",
+  "Pedicure",
+  "Manicure",
+  "Mini golf",
+  "Siatkówka",
+  "Kajakarstwo",
+  "Parasailing",
+  "Jazda na rowerze",
+  "Golf (w pobliżu)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Południowa część Słonecznego Brzegu, w pobliżu plaży Cacao Beach",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysta",
+ "centerKm": 2.2,
+ "goodFor": [
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": 2009,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe",
+  "Studia",
+  "Apartamenty z jedną sypialnią",
+  "Pokoje rodzinne z widokiem na ogród lub basen"
+ ],
+ "rooms": 127,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6740375,
+  "lon": 27.7044815,
+  "src": "osm"
+ },
+ "sources": [
+  "hotels-burgas.com",
+  "youtube.com",
+  "trip.com",
+  "wakacje.pl",
+  "admiral.travel",
+  "lastminute.com",
+  "sunwaytravel.pl",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

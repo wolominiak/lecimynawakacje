@@ -1,0 +1,127 @@
+{
+ "id": 11163,
+ "slug": "pliska-golden-sands",
+ "name": "Pliska (Golden Sands)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/pliska-golden-sands-basen-1500525903-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Pliska (3*) położony jest w południowej części centrum kurortu Złote Piaski w Bułgarii, niedaleko luksusowego kurortu Riviera. Obiekt znajduje się w odległości około 300 metrów od piaszczystej plaży i jest otoczony zielenią, oferując łatwy dostęp do atrakcji miejscowości.",
+  "Hotel Pliska to dobry wybór dla rodzin z dziećmi, ze względu na dostępne udogodnienia, takie jak plac zabaw i wydzielona strefa dla dzieci przy basenie. Obiekt oferuje program all inclusive, a jego lokalizacja pozwala na korzystanie zarówno z uroków plaży, jak i wieczornych rozrywek kurortu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Pliska usytuowany jest w centrum Złotych Piasków, około 300 metrów od piaszczystej plaży, co oznacza około 5 minut spacerem. W pobliżu znajduje się luksusowy kurort Riviera. Odległość od lotniska w Warnie (VAR) wynosi około 23-27 km, a do centrum Złotych Piasków jest zaledwie 300-900 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 181 pokoi dwuosobowych, 12 pokoi jednoosobowych oraz 25 apartamentów i studiów rodzinnych. Wszystkie pokoje są klimatyzowane i wyposażone w lodówkę, telewizor z kanałami kablowymi, telefon, prywatną łazienkę z prysznicem lub wanną oraz balkon. Suszarka do włosów jest dostępna w recepcji bezpłatnie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca śniadania, obiady i kolacje w formie bufetu, z kuchnią bułgarską i międzynarodową. Dostępna jest również strefa BBQ przy basenie oraz trzy bary: Lobby Bar, Pool Bar i kawiarnia. Program all inclusive obejmuje posiłki w formie bufetu i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z bezpłatnego basenu zewnętrznego oraz krytego, podgrzewanego basenu, który utrzymuje temperaturę 32-35°C. Dla dzieci przygotowano plac zabaw oraz wydzieloną sekcję przy basenie zewnętrznym. Hotel oferuje również zajęcia rozrywkowe, takie jak występy na żywo. Za dodatkową opłatą dostępne są sauna, łaźnia parowa, masaże, studio fitness, bilard, tenis stołowy i piłkarzyki."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i sklepów",
+  "Czyste baseny (zewnętrzny i podgrzewany kryty)",
+  "Uprzejmy personel",
+  "Dobra relacja ceny do jakości",
+  "Udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Słabe Wi-Fi w pokojach",
+  "Małe windy i starsze łazienki",
+  "Ograniczony wybór i jakość napojów w all inclusive",
+  "Brak klimatyzacji w restauracji",
+  "Płatny i drogi parking z ograniczoną liczbą miejsc"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Pliska od plaży?",
+   "a": "Hotel Pliska znajduje się około 300 metrów od piaszczystej plaży, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel Pliska jest daleko od lotniska?",
+   "a": "Hotel Pliska jest oddalony o około 23-27 km od lotniska w Warnie (VAR)."
+  },
+  {
+   "q": "Czy w hotelu Pliska jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w hotelu Pliska."
+  },
+  {
+   "q": "Czy hotel Pliska jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Pliska jest polecany dla rodzin z dziećmi, oferuje plac zabaw, wydzieloną sekcję dla dzieci przy basenie, wysokie krzesełka w restauracji i bezpłatne łóżeczka dziecięce."
+  },
+  {
+   "q": "Czy w hotelu Pliska jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych, choć w pokojach bywa słabe."
+  },
+  {
+   "q": "Czy hotel Pliska posiada podgrzewany basen?",
+   "a": "Tak, hotel Pliska posiada podgrzewany basen kryty, utrzymujący temperaturę 32-35°C."
+  }
+ ],
+ "address": "Golden Sands, 9007 Golden Sands, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Varna (VAR)",
+ "amenities": [
+  "plac zabaw",
+  "wysokie krzesełka w restauracji",
+  "łóżeczka dziecięce"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "centrum kurortu, południowa część",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.6,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1971,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój jednoosobowy",
+  "apartament",
+  "studio rodzinne"
+ ],
+ "rooms": 218,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6753889,
+  "lon": 23.3598619,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "booking.com",
+  "priceline.com",
+  "trip.com",
+  "hotels.com",
+  "varna.bg",
+  "planmytour.co.uk",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

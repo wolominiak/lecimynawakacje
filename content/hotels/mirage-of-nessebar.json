@@ -1,0 +1,128 @@
+{
+ "id": 27600,
+ "slug": "mirage-of-nessebar",
+ "name": "Mirage Of Nessebar",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Nesebyr"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/mirage-of-nessebar-plaza-budynek-glowny-1620159112-570-428.jpg",
+ "city": "Nesebyr",
+ "intro": [
+  "Mirage Of Nessebar to czterogwiazdkowy hotel położony bezpośrednio przy piaszczystej Południowej Plaży w Nesebyrze, wyróżnionej Błękitną Flagą. Obiekt oferuje łatwy dostęp do plaży, często za pomocą windy, oraz panoramiczne widoki na morze i Stare Miasto.",
+  "Hotel jest idealnym wyborem zarówno dla rodzin z dziećmi, jak i dla par, ceniących sobie bliskość atrakcji i komfortowe warunki. W 2018 roku przeszedł remont, który odświeżył pokoje i części wspólne."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mirage Of Nessebar znajduje się w nowej części Nesebyru, zaledwie 200 metrów od centrum miejscowości i około 500 metrów od zabytkowego Starego Miasta. Położony jest bezpośrednio przy szerokiej, piaszczystej Południowej Plaży, która posiada certyfikat Błękitnej Flagi. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, a hotel nie zapewnia ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 79 pokojami, w tym pokojami dwuosobowymi, studiami i apartamentami z jedną sypialnią. Większość pokoi posiada balkon z widokiem na morze. Standardowe wyposażenie obejmuje minibar, telewizor z kanałami satelitarnymi, klimatyzację, prywatną łazienkę z wanną lub prysznicem, suszarkę do włosów, bezpłatne kosmetyki oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja a la carte, serwująca dania kuchni bułgarskiej i śródziemnomorskiej. Do dyspozycji gości są również dwa bary: lobby bar z dużym tarasem z widokiem na morze oraz bar przy basenie. Hotel oferuje opcje wyżywienia takie jak śniadania (bufet) oraz śniadania i obiadokolacje (half board)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym basenem ze słodką wodą, który jest zintegrowany z brodzikiem dla dzieci i czynny od maja do września. Na terenie obiektu znajduje się również plac zabaw dla dzieci. Goście mogą korzystać z siłowni, a także z sauny i masaży (za dodatkową opłatą). Hotel oferuje programy animacyjne."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży",
+  "Piękne widoki na morze i Stare Miasto z balkonów",
+  "Bliskość Starego Miasta Nesebyr",
+  "Dobre i różnorodne śniadania",
+  "Przestronne i czyste pokoje",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Brak ręczników plażowych/basenowych w standardzie",
+  "Płatny parking",
+  "Brak sejfu w pokoju (dostępny w recepcji za opłatą)",
+  "Basen może być mały i zimny we wrześniu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Mirage Of Nessebar jest położony bezpośrednio przy piaszczystej Południowej Plaży w Nesebyrze, z łatwym dostępem, często za pomocą windy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnych zjeżdżalni ani aquaparku. W pobliżu, około 2.8 km od hotelu, znajduje się Aquapark Nessebar (Aqua Paradise Water Park)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi. Oferuje brodzik dla dzieci przy basenie oraz plac zabaw na terenie obiektu, a także programy animacyjne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 19.3 km w linii prostej lub 30 km drogą."
+  },
+  {
+   "q": "Czy w hotelu są dostępne ręczniki plażowe?",
+   "a": "Hotel nie zapewnia ręczników plażowych ani basenowych. Można je kupić w recepcji lub w sklepie z pamiątkami."
+  }
+ ],
+ "address": "ul. Perla 6, 8230 Nesebyr",
+ "adultsOnly": false,
+ "airportKm": 19.3,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "siłownia",
+  "sauna (za opłatą)",
+  "masaże (za opłatą)",
+  "plac zabaw dla dzieci",
+  "lobby bar",
+  "bar przy basenie"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Nowa część Nesebyru, Południowa Plaża",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta, szeroka, z drobnym, złotym piaskiem",
+ "centerKm": 0.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2008,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy/twin z balkonem, minibar, telewizor, klimatyzacja, łazienka z wanną/prysznicem, suszarka, kosmetyki, czajnik, biurko, telefon, ręczniki",
+  "studio (np. King Studio) z wanną z hydromasażem, balkon, minibar, telewizor, klimatyzacja, łazienka z wanną/prysznicem, suszarka, kosmetyki, czajnik, biurko, telefon, ręczniki",
+  "apartament z jedną sypialnią z balkonem i widokiem na morze, minibar, telewizor, klimatyzacja, łazienka z wanną/prysznicem, suszarka, kosmetyki, czajnik, biurko, telefon, ręczniki, aneks kuchenny (w niektórych), pralka (w niektórych)"
+ ],
+ "rooms": 79,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "planetofhotels.com",
+  "coral.ge",
+  "kayak.com",
+  "holidaycheck.de",
+  "fvrentals.com",
+  "admiral.travel",
+  "kittbg.com"
+ ],
+ "updated": "2026-11-27"
+}

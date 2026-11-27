@@ -1,0 +1,139 @@
+{
+ "id": 19241,
+ "slug": "oasis",
+ "name": "Oasis",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/oasis-basen-1483758264-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Hotel Oasis w Albenie to trzygwiazdkowy obiekt położony w samym sercu bułgarskiego kurortu, otoczony zielenią parków i ogrodów, tuż obok deptaku handlowego. Oferuje dogodne położenie blisko piaszczystej plaży oraz dostęp do wielu udogodnień, co czyni go atrakcyjnym wyborem na wakacje.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki łagodnemu zejściu do morza, basenowi dla najmłodszych, placowi zabaw i mini klubowi. Sprawdzi się również dla par szukających spokojnego wypoczynku w centralnej lokalizacji, z łatwym dostępem do atrakcji miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Oasis znajduje się w centrum Albeny, zaledwie około 150 metrów od szerokiej, piaszczystej plaży, która szczyci się certyfikatem Błękitnej Flagi. Goście hotelowi mają dostęp do prywatnej strefy plażowej, gdzie leżaki i parasole są bezpłatne. W okolicy hotelu znajdują się zielone parki i ogrody, a także deptak handlowy."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 162 pokojami, w tym 137 dwuosobowymi i 25 jednoosobowymi, a także pokojami rodzinnymi. Wszystkie pokoje wyposażone są w klimatyzację, telewizor kablowy, biurko, telefon i balkon. Łazienki posiadają prysznic, a lodówka i sejf są dostępne za dodatkową opłatą. Na życzenie dostępne są łóżeczka dziecięce."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja z tarasem, serwująca posiłki w formie bufetu, z bułgarskimi wieczorami tematycznymi i grillami. Do dyspozycji gości są również bar w lobby oraz bar z przekąskami przy basenie. Oferowany jest pakiet All Inclusive Light, obejmujący śniadania, obiady, kolacje, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Oasis posiada odkryty basen, w tym basen z wodą mineralną oraz basen dla dzieci. W pobliżu, około 1,1 km od hotelu, znajduje się aquapark Aquamania, do którego hotel oferuje dostęp. Dla dzieci organizowane jest mini disco, a dorośli mogą korzystać z fitnessu na świeżym powietrzu, tenisa stołowego i rzutek. Dostępne są również masaże za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen dla dzieci, plac zabaw oraz mini klub. Wieczorami organizowane jest mini disco, zapewniające rozrywkę. Dzięki łagodnemu wejściu do morza i piaszczystej plaży, hotel jest idealny dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja w centrum Albeny, blisko plaży i promenady.",
+  "Dobre i różnorodne jedzenie, często z lokalnymi produktami.",
+  "Miła i pomocna obsługa.",
+  "Bezpłatne leżaki i parasole na plaży oraz przy basenie.",
+  "Dostęp do aquaparku Aquamania w pobliżu."
+ ],
+ "cons": [
+  "Hotel wymaga remontu, zwłaszcza łazienki.",
+  "Mieszane opinie dotyczące czystości w pokojach.",
+  "Winda w hotelu jest stara.",
+  "Muzyka w hotelu bywa za głośna.",
+  "Niektóre źródła i opinie wskazują na standard 2-gwiazdkowy, mimo że jest oferowany jako 3-gwiazdkowy."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Oasis znajduje się około 150 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko w Warnie (Varna Airport), oddalone o około 40 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada własnego aquaparku, ale oferuje dostęp do aquaparku Aquamania, który znajduje się około 1,1 km od obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując basen dla dzieci, plac zabaw, mini klub i mini disco."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i na wspólnych obszarach plaży."
+  },
+  {
+   "q": "Co obejmuje pakiet All Inclusive w hotelu Oasis?",
+   "a": "Pakiet All Inclusive Light obejmuje śniadania, obiady, kolacje, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe. Dostępny jest również program Dine Around w określonych terminach."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Varna Airport",
+ "amenities": [
+  "Basen odkryty",
+  "Basen dla dzieci",
+  "Plac zabaw",
+  "Mini klub",
+  "Mini disco",
+  "Fitness na świeżym powietrzu",
+  "Tenis stołowy",
+  "Rzutki",
+  "Masaże (za opłatą)",
+  "Wifi"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum Albeny",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta z łagodnym wejściem",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, telewizorem, biurkiem, telefonem, balkonem i łazienką z prysznicem.",
+  "Pokój jednoosobowy z klimatyzacją, telewizorem, biurkiem, telefonem, balkonem i łazienką z prysznicem.",
+  "Pokój rodzinny z klimatyzacją, telewizorem, biurkiem, telefonem, balkonem i łazienką z prysznicem."
+ ],
+ "rooms": 162,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3688869,
+  "lon": 28.0812211,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "skyscanner.gg",
+  "albena.bg",
+  "directbooking.ro",
+  "travelplanet.pl",
+  "albenahotels.com",
+  "esky.pl",
+  "p-group.eu"
+ ],
+ "updated": "2026-11-27"
+}

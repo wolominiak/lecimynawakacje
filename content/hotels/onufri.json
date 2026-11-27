@@ -1,0 +1,140 @@
+{
+ "id": 30246,
+ "slug": "onufri",
+ "name": "Onufri",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Golem"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/onufri-obiekt-844340051-570-428.jpg",
+ "city": "Golem",
+ "intro": [
+  "Hotel Onufri to czterogwiazdkowy obiekt położony w miejscowości Golem na Riwierze Albańskiej, idealny dla osób szukających komfortowego wypoczynku nad Morzem Adriatyckim. Usytuowany w zadbanym ogrodzie, oferuje spokojną atmosferę, jednocześnie zapewniając łatwy dostęp do piaszczystej plaży oraz pobliskich atrakcji.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz grup znajomych, którzy cenią sobie połączenie relaksu z możliwością zwiedzania okolicy. Hotel dysponuje basenem z wydzieloną częścią dla najmłodszych, a w sezonie letnim organizowane są animacje dla dzieci i dorosłych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Onufri znajduje się w Golem, około 300 metrów do 1 km od piaszczystej plaży Mali i Robit. Jest to plaża publiczna z łagodnym zejściem do morza, gdzie leżaki i parasole są dostępne za dodatkową opłatą. Obiekt jest oddalony o około 40-45 km od lotniska w Tiranie, 15 km od centrum Durrës i 2 km od centrum Golem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 88 pokoi, w tym Double Deluxe, Triple Deluxe, Family Room oraz Duplex Quadruple, o powierzchni od 18 do 40 m². Wszystkie pokoje wyposażone są w indywidualną klimatyzację, łazienkę z prysznicem, telewizor, sejf, minibar (płatny) oraz bezpłatne Wi-Fi. Na życzenie dostępne są łóżeczka dla dzieci."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu, oferująca dania kuchni greckiej, włoskiej, lokalnej i europejskiej. Goście mogą wybrać opcję ze śniadaniami, śniadaniami i obiadokolacjami, pełnym wyżywieniem (napoje płatne) lub All Inclusive, które obejmuje śniadanie, obiad, kolację oraz lokalne napoje alkoholowe i bezalkoholowe. Na terenie obiektu dostępny jest również bar hotelowy oraz płatny bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym basenem zewnętrznym z wydzieloną częścią dla dzieci, przy którym dostępne są bezpłatne leżaki i parasole. W sezonie (lipiec-sierpień) organizowane są animacje dla dzieci i dorosłych, takie jak aerobik w wodzie, lekcje tańca i siatkówka wodna. Strefa spa z sauną, jacuzzi, łaźnią parową i masażami jest dostępna za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część basenu oraz krzesełka w restauracji. Na życzenie dostępne są bezpłatne łóżeczka dla dzieci do 2 lat. W sezonie wakacyjnym organizowane są animacje, które zapewniają rozrywkę zarówno dzieciom, jak i dorosłym."
+  }
+ ],
+ "pros": [
+  "Smaczna kuchnia z różnorodnymi daniami",
+  "Przyjazna i pomocna obsługa",
+  "Czyste i wygodne pokoje",
+  "Duży i czysty basen z leżakami",
+  "Animacje w sezonie wakacyjnym"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Monotonne śniadania i rozwodnione soki",
+  "Brak przekąsek między posiłkami w opcji All Inclusive",
+  "Morze w okolicy bywa opisywane jako \"nieciekawe\"",
+  "Hałas w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Onufri jest położony około 300 metrów do 1 km od piaszczystej plaży Mali i Robit."
+  },
+  {
+   "q": "Czy na plaży są dostępne leżaki i parasole?",
+   "a": "Tak, leżaki i parasole na plaży są dostępne za dodatkową opłatą, oferowane przez firmy zewnętrzne."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 40-45 km od międzynarodowego lotniska w Tiranie (TIA - Mother Teresa Airport)."
+  },
+  {
+   "q": "Czy hotel posiada basen ze zjeżdżalniami lub aquapark?",
+   "a": "Na terenie hotelu znajduje się duży basen zewnętrzny z wydzieloną częścią dla dzieci, ale brak informacji o zjeżdżalniach lub aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje basen z częścią dla dzieci, krzesełka w restauracji, łóżeczka (na życzenie) oraz animacje w sezonie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w wyznaczonych strefach oraz w pokojach."
+  }
+ ],
+ "address": "Rruga Skenderbeu, Golem, Durres, Albania",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Tirana (TIA - Mother Teresa Airport)",
+ "amenities": [
+  "Spa (płatne)",
+  "Sauna",
+  "Jacuzzi (płatne)",
+  "Łaźnia parowa",
+  "Masaże (płatne)",
+  "Bezpłatne Wi-Fi",
+  "Parking"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Riwiera Albańska",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Grupy znajomych",
+  "Osoby szukające relaksu",
+  "Osoby ceniące spokojne położenie"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "Double Deluxe (ok. 18-20 m² lub 32 m², klimatyzacja, łazienka z prysznicem, TV, sejf, minibar płatny, Wi-Fi, balkon/taras)",
+  "Triple Deluxe (ok. 30 m², powiększony, klimatyzacja, łazienka z prysznicem, TV, sejf, minibar płatny, Wi-Fi, balkon/taras)",
+  "Family Room (klimatyzacja, łazienka z prysznicem, TV, sejf, minibar płatny, Wi-Fi, balkon/taras)",
+  "Duplex Quadruple (ok. 40 m², klimatyzacja, łazienka z prysznicem, TV, sejf, minibar płatny, Wi-Fi, balkon/taras)"
+ ],
+ "rooms": 88,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2381925,
+  "lon": 19.5224781,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "onufri-hotel.al",
+  "plusa.net.pl",
+  "mapy.com",
+  "traveligo.pl",
+  "thomascook.com",
+  "wakacje.pl",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

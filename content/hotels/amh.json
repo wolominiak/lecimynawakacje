@@ -1,0 +1,143 @@
+{
+ "id": 77798,
+ "slug": "amh",
+ "name": "AMH",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/amh-basen-1707759709-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel AMH to czterogwiazdkowy obiekt położony w sercu strefy plażowej Durres na Riwierze Albańskiej, blisko piaszczystej plaży. Został wybudowany w 2016 roku i odnowiony w 2021 roku, oferując 137 pokoi.",
+  "Hotel AMH jest polecany dla rodzin, par oraz osób podróżujących służbowo, ceniących sobie bliskość plaży i udogodnienia miejskie. Oferuje udogodnienia zarówno dla dorosłych, jak i dla dzieci, w tym plac zabaw i specjalne menu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel AMH znajduje się w Durres, około 50-100 metrów od piaszczystej plaży. Obiekt posiada prywatną strefę na plaży z bezpłatnymi leżakami i parasolami. Ręczniki plażowe są dostępne za kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 137 pokojami, w tym rodzinnymi, dwuosobowymi, trzyosobowymi i deluxe. Wszystkie pokoje są klimatyzowane, dźwiękoszczelne i wyposażone w prywatną łazienkę, telewizor, sejf oraz bezpłatne Wi-Fi. Niektóre pokoje posiadają balkon lub taras i mini lodówkę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni włoskiej, śródziemnomorskiej, pizzę i owoce morza. Śniadania są dostępne w formie kontynentalnej, bufetu lub à la carte. Do dyspozycji gości są również bar hotelowy oraz bar na plaży, wliczone w opcję all inclusive, która obejmuje lokalne napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje jeden sezonowy basen zewnętrzny ze słodką wodą, który jest niepodgrzewany. Dla relaksu dostępne jest spa z różnorodnymi zabiegami oraz centrum fitness/siłownia. Goście mogą również korzystać z rzutek i aerobiku."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz foteliki w restauracji. Hotel nie posiada mini klubu, ale oferuje pokoje rodzinne i jest odpowiedni dla rodzin z dziećmi."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie, choć w pokojach połączenie bywa niestabilne. Na terenie hotelu dostępny jest bezpłatny parking. Obsługa hotelowa jest oceniana jako miła i pomocna."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czyste i komfortowe pokoje",
+  "Miła i pomocna obsługa",
+  "Dostęp do prywatnej plaży z bezpłatnymi leżakami",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Jedzenie bywa powtarzalne i z ograniczonym wyborem dla dzieci",
+  "Brak animacji",
+  "Niestabilne Wi-Fi w pokojach",
+  "Basen niepodgrzewany i bywa zacieniony",
+  "Brak wody butelkowanej w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel AMH znajduje się około 50-100 metrów od piaszczystej plaży, z prywatną strefą dla gości."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Tirana (TIA), oddalone o około 35 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu AMH."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje pokoje rodzinne, plac zabaw i foteliki w restauracji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, choć w pokojach bywa niestabilne."
+  },
+  {
+   "q": "Co obejmuje opcja all inclusive?",
+   "a": "Opcja all inclusive obejmuje lokalne napoje oraz korzystanie z baru na plaży."
+  }
+ ],
+ "address": "Lagjja 13, Rruga Paraësia Plazh, Durres",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Międzynarodowe Lotnisko Tirana im. Matki Teresy (TIA-Rinas Intl.)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Plac zabaw",
+  "Bezpłatne leżaki i parasole na plaży",
+  "Bezpłatny parking"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "strefa plażowa Durres",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 5.2,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 2016,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój rodzinny",
+  "pokój dwuosobowy",
+  "pokój typu twin",
+  "pokój trzyosobowy",
+  "pokój czteroosobowy",
+  "pokój jednoosobowy",
+  "pokój deluxe"
+ ],
+ "rooms": 137,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3069969,
+  "lon": 19.4902893,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "booking.com",
+  "agoda.com",
+  "lastminute.com",
+  "h-rez.com",
+  "hoteles.com",
+  "planetofhotels.com",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,144 @@
+{
+ "id": 62816,
+ "slug": "estreya-palace",
+ "name": "Estreya Palace",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Św. Konstantyn i Elena"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/estreya-palace-budynek-glowny-1554618774-570-428.jpg",
+ "city": "Św. Konstantyn i Helena",
+ "intro": [
+  "Hotel Estreya Palace to czterogwiazdkowy obiekt położony w samym sercu bułgarskiego kurortu Św. Konstantyn i Helena. Jest to idealne miejsce dla osób poszukujących spokojnego wypoczynku w otoczeniu zieleni, z łatwym dostępem do plaży i lokalnych atrakcji. Hotel jest częścią kompleksu Estreya, dzieląc udogodnienia z hotelem Estreya Residence.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki licznym udogodnieniom, takim jak baseny z wodą mineralną, mini klub i animacje. Pary również znajdą tu komfortowe warunki do relaksu, korzystając z centrum SPA i bliskości piaszczystej plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Estreya Palace usytuowany jest w centrum miejscowości Św. Konstantyn i Helena, w pobliżu klasztoru o tej samej nazwie. Od piaszczystej, publicznej plaży dzieli go odległość około 250-400 metrów. Leżaki i parasole na plaży są dodatkowo płatne, natomiast przy basenach hotelowych goście mogą korzystać z nich bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 108 pokoi, w tym pokoje dwuosobowe, studia i apartamenty, a także pokoje typu \"economy\" na czwartym piętrze. Wszystkie pokoje wyposażone są w klimatyzację, telewizor, minibar, telefon oraz łazienkę z prysznicem lub wanną i suszarką do włosów. Większość pokoi posiada balkon, często z widokiem na ogród."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni bułgarskiej i międzynarodowej w formie bufetu, a także restauracja à la carte. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje, dwie kolacje tematyczne w tygodniu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe dostępne w barach hotelowych, w tym w lobby barze i barze przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z dwóch odkrytych basenów z wodą mineralną (sezonowych) oraz jednego krytego basenu z termalną wodą mineralną. Hotelowe centrum SPA oferuje szeroki zakres zabiegów, takich jak łaźnia parowa, sauna, masaże oraz terapie błotne i winne. Dostępna jest również siłownia, a bezpłatne aktywności obejmują tenis stołowy i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik i małą strefę w basenie, plac zabaw oraz pokój zabaw. Dodatkowo, w okresie od 1 czerwca do 10 września, działa mini klub i organizowane są programy animacyjne dla dzieci."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Baseny z wodą mineralną (kryty i odkryte)",
+  "Duże i czyste pokoje, wygodne dla rodzin",
+  "Dobre i różnorodne jedzenie",
+  "Przyjazny i pomocny personel",
+  "Dostępne Wi-Fi w miejscach publicznych"
+ ],
+ "cons": [
+  "Wnętrza mogą być nieco przestarzałe i wymagać odświeżenia",
+  "Płatne Wi-Fi w pokojach",
+  "Możliwe problemy z czystością w pokojach (rzadziej zmieniana pościel, brudne ręczniki)",
+  "Brak wystarczającej ilości miejsca przy basenie w szczycie sezonu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Estreya Palace jest oddalony od piaszczystej, publicznej plaży o około 250-400 metrów."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w hotelu Estreya Palace."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Varna (VAR), oddalone o około 17.9 km do 25 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, mini klub oraz animacje dla dzieci w sezonie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. Wi-Fi w pokojach może być płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "St. Constantine and Helena resort",
+ "adultsOnly": false,
+ "airportKm": 17.9,
+ "airportName": "Varna (VAR)",
+ "amenities": [
+  "centrum SPA/Wellness",
+  "łaźnia parowa",
+  "sauna",
+  "masaż",
+  "zabiegi na ciało",
+  "terapia błotna",
+  "terapia winem",
+  "siłownia/centrum fitness",
+  "tenis stołowy",
+  "rzutki",
+  "bilard (płatny)",
+  "mini klub",
+  "plac zabaw",
+  "pokój zabaw"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum kompleksu",
+ "bars": 3,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 0.05,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2004,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy (Standard Double Room)",
+  "studio (Studio with Balcony)",
+  "apartament (Suite)",
+  "pokój typu \"economy\""
+ ],
+ "rooms": 108,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2300171,
+  "lon": 28.0102712,
+  "src": "osm"
+ },
+ "sources": [
+  "tripto.bg",
+  "directbooking.ro",
+  "hotelestreya.com",
+  "top-hotels-bg.com",
+  "expedia.co.uk",
+  "skyscanner.at",
+  "hotels-varna.info",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

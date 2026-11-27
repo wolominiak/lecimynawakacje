@@ -1,0 +1,141 @@
+{
+ "id": 15510,
+ "slug": "villa-list",
+ "name": "Villa List",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Sozopol"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/villa-list-basen-1482755446-570-428.jpg",
+ "city": "Sozopol",
+ "intro": [
+  "Hotel Villa List to czterogwiazdkowy obiekt położony w nowej części Sozopola, bezpośrednio przy Centralnej Plaży i promenadzie. Jego lokalizacja sprawia, że jest to idealne miejsce dla osób ceniących sobie bliskość morza oraz łatwy dostęp do atrakcji miasta.",
+  "Obiekt jest rekomendowany zarówno dla par, jak i rodzin z dziećmi, które szukają połączenia relaksu na plaży ze zwiedzaniem urokliwego Sozopola. Bliskość Starego Miasta oraz udogodnienia dla najmłodszych sprawiają, że każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Villa List znajduje się w Sozopolu, w nowej części miasta, tuż przy Centralnej Plaży. Do centrum miasta jest zaledwie 5-100 metrów, a Stare Miasto Sozopolu oddalone jest o 5 minut spacerem. Piaszczysta plaża z łagodnym wejściem do morza jest publiczna, a leżaki i parasole są na niej płatne. Hotel zapewnia bezpłatne leżaki i parasole przy basenie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 160 pokojami, rozmieszczonymi w ośmiopiętrowym budynku głównym i trzech budynkach pomocniczych. Oferowane są pokoje dwuosobowe (standardowe, deluxe, superior), pokoje jednoosobowe, Junior Suity oraz apartamenty. Standardowe wyposażenie obejmuje klimatyzację, minibar, telewizor, łazienkę z suszarką do włosów, sejf oraz balkon (w większości pokoi)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna, która serwuje dania kuchni bułgarskiej i międzynarodowej w formie bufetu lub à la carte. Do dyspozycji gości są również dwa bary: lobby bar i sezonowy bar przy basenie. Hotel oferuje różne opcje wyżywienia, w tym śniadania, obiadokolacje (HB), pełne wyżywienie plus (FB+) oraz pakiet All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada odkryty basen ze słodką wodą, czynny sezonowo (czerwiec-wrzesień), oraz basen kryty, który jest nieogrzewany i zamknięty od października do maja. Dla dzieci dostępny jest oddzielny brodzik i plac zabaw. Goście mogą korzystać z siłowni, a strefa spa oferuje saunę, łaźnię parową, jacuzzi i masaże (płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował oddzielny brodzik, plac zabaw oraz kącik dziecięcy. W restauracji dostępne jest menu dziecięce i wysokie krzesełka. W sezonie organizowane są animacje i mini klub, jednak ich program może być ograniczony poza szczytem sezonu."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne na terenie całego obiektu, w tym w pokojach. Na miejscu znajduje się kasyno. Sporty wodne i nurkowanie są dostępne w pobliżu, oferowane przez firmy zewnętrzne."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i blisko centrum Sozopola",
+  "Czyste pokoje z codzienną wymianą ręczników",
+  "Dobre śniadania z dużym wyborem",
+  "Miła i pomocna obsługa",
+  "Ładne widoki z wielu pokoi"
+ ],
+ "cons": [
+  "Zużyte wyposażenie w niektórych pokojach (materace, usterki)",
+  "Nierówna jakość i powtarzalność kolacji",
+  "Baseny nie są podgrzewane",
+  "Brak prywatnej plaży hotelowej"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Villa List jest usytuowany zaledwie 15-70 metrów od Centralnej Plaży w Sozopolu."
+  },
+  {
+   "q": "Czy hotel oferuje All Inclusive?",
+   "a": "Tak, hotel oferuje różne opcje wyżywienia, w tym pakiet All Inclusive, który obejmuje posiłki w restauracji głównej oraz napoje w barze przy basenie i lobby barze."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw, kącik dziecięcy oraz animacje i mini klub w sezonie."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 40-45 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu, w tym w pokojach, lobby i barach."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  }
+ ],
+ "address": "ul. Yani Popov 5, 8130 Sozopol, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "kasyno",
+  "plac zabaw dla dzieci",
+  "kącik dziecięcy",
+  "menu dziecięce",
+  "wysokie krzesełka"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "nowa część miasta",
+ "bars": 2,
+ "beachDistanceM": 15,
+ "beachType": "piaszczysta",
+ "centerKm": 0.005,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "podróże służbowe"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (standardowy, deluxe, superior)",
+  "pokój jednoosobowy",
+  "Junior Suity",
+  "apartament (jedno-sypialniane, rodzinne, prezydenckie)"
+ ],
+ "rooms": 160,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.4179726,
+  "lon": 27.6963961,
+  "src": "osm"
+ },
+ "sources": [
+  "primeholidays.bg",
+  "villalistsozopol.com",
+  "villalist.bg",
+  "holidaycheck.de",
+  "gobulgaria.pl",
+  "booking.com",
+  "hotels-burgas.com",
+  "travelplanet.pl"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": 29240,
+ "slug": "blue-orange-beach-resort",
+ "name": "Blue Orange Beach Resort",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Sozopol"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/blue-orange-beach-resort-basen-budynek-glowny-1182767794-570-428.jpg",
+ "city": "Sozopol",
+ "intro": [
+  "Blue Orange Beach Resort to czterogwiazdkowy hotel położony w bułgarskim Sozopolu, w dzielnicy Gerena, tuż przy piaszczystej plaży Zlatna Ribka. Obiekt, składający się z dwóch budynków hotelowych i pięciu willi, jest idealnym miejscem dla rodzin z dziećmi oraz osób poszukujących relaksu nad morzem.",
+  "Hotel oferuje szereg udogodnień, w tym baseny, miniklub dla dzieci oraz opcję all inclusive, co czyni go atrakcyjnym wyborem na wakacyjny wypoczynek. Bliskość plaży z łagodnym zejściem do morza i płytką wodą sprzyja bezpiecznemu wypoczynkowi z najmłodszymi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Blue Orange Beach Resort znajduje się w Sozopolu, w dzielnicy Gerena, zaledwie 50-200 metrów od piaszczystej plaży Zlatna Ribka. Plaża charakteryzuje się łagodnym zejściem do morza i płytką wodą, co jest korzystne dla rodzin z dziećmi. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, natomiast przy basenie są bezpłatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje ponad 80 pokoi, w tym pokoje dwuosobowe (24 m²), studia (36 m²) oraz apartamenty z oddzielną sypialnią i salonem. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, lodówkę, biurko, telefon oraz prywatną łazienkę z prysznicem i suszarką do włosów. Niektóre studia i apartamenty posiadają aneks kuchenny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa z tarasem w ogrodzie, serwująca dania kuchni międzynarodowej oraz tematyczne kolacje dwa razy w tygodniu. Goście mogą korzystać z trzech barów: lobby baru, baru przy basenie i baru na plaży. Opcja all inclusive obejmuje śniadania, obiady i kolacje w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa odkryte baseny (dla dorosłych i dla dzieci) oraz jeden basen kryty. Hotel oferuje plac zabaw dla dzieci, wydzieloną część w basenie oraz miniklub dla dzieci w wieku 3-16 lat. Zespół animatorów organizuje gry i programy rozrywkowe dla najmłodszych, w tym mini disco. Dostępne są również korty tenisowe (za opłatą), tenis stołowy i rzutki (bezpłatnie)."
+  },
+  {
+   "title": "Spa i sport",
+   "text": "Zaplecze spa obejmuje kryty basen, łaźnię turecką, saunę, łaźnię parową, gabinety masażu i centrum fitness, dostępne za dodatkową opłatą. Na terenie kompleksu znajduje się boisko sportowe do tenisa i siatkówki. Dodatkowo płatne są mini piłka nożna, siatkówka plażowa i sporty wodne."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży Zlatna Ribka.",
+  "Hotel odpowiedni dla rodzin z małymi dziećmi.",
+  "Dostępne animacje i miniklub dla dzieci.",
+  "Dostępne bezpłatne Wi-Fi w pokojach i częściach wspólnych.",
+  "Możliwość wyboru opcji all inclusive."
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są dodatkowo płatne.",
+  "Ręczniki są płatne.",
+  "Wnętrza mogą być postrzegane jako stare lub zużyte.",
+  "Zmienna jakość i różnorodność jedzenia.",
+  "Brak aquaparku ze zjeżdżalniami."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy piaszczystej plaży Zlatna Ribka, około 50-200 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalone o około 40-45 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje miniklub, plac zabaw i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Ile basenów ma hotel?",
+   "a": "Hotel posiada dwa odkryte baseny (dla dorosłych i dla dzieci) oraz jeden basen kryty."
+  }
+ ],
+ "address": "Gerenite Area, Sozopol",
+ "adultsOnly": false,
+ "airportKm": 42.5,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Lodówka",
+  "Balkon",
+  "Prywatna łazienka",
+  "Suszarka do włosów",
+  "Bezpłatne kosmetyki"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Gerena",
+ "bars": 3,
+ "beachDistanceM": 125,
+ "beachType": "piaszczysta",
+ "centerKm": 3.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby ceniące wypoczynek nad morzem"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2010,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy: 24 m², sypialnia lub dwa pojedyncze łóżka, możliwość dostawki (maks. 3 dorosłych lub 2 dorosłych + 1 dziecko do 12.99 lat), klimatyzacja, telewizor, lodówka, biurko, telefon, łazienka z prysznicem, suszarka do włosów, kosmetyki, balkon.",
+  "Studio: 36 m², sypialnia lub dwa pojedyncze łóżka, dwie dostawki (maks. 4 osoby), klimatyzacja, telewizor, lodówka, biurko, telefon, łazienka z prysznicem, suszarka do włosów, kosmetyki, balkon, niektóre z aneksem kuchennym.",
+  "Apartament: dwie pokoje - sypialnia z dużym łóżkiem i salon z podwójną rozkładaną sofą (maks. 4 osoby), klimatyzacja, telewizor, lodówka, biurko, telefon, łazienka z prysznicem, suszarka do włosów, kosmetyki, balkon, niektóre z aneksem kuchennym."
+ ],
+ "rooms": 95,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.3687303,
+  "lon": -81.501166,
+  "src": "osm"
+ },
+ "sources": [
+  "tripto.bg",
+  "hoteles.com",
+  "homecare-bulgaria.com",
+  "guestreservations.com",
+  "planetofhotels.com",
+  "allsozopolhotels.com",
+  "kayak.com",
+  "kayak.co.in"
+ ],
+ "updated": "2026-11-27"
+}

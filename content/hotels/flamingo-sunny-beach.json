@@ -1,0 +1,138 @@
+{
+ "id": 11069,
+ "slug": "flamingo-sunny-beach",
+ "name": "Flamingo (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/flamingo-sunny-beach-basen-826629029-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Flamingo to trzygwiazdkowy obiekt położony w zachodniej części popularnego kurortu Słoneczny Brzeg w Bułgarii. Został otwarty w 2004 roku i jest rekomendowany dla rodzin oraz par poszukujących komfortowego zakwaterowania w dobrej lokalizacji, z łatwym dostępem do plaży i centrum miejscowości.",
+  "Obiekt oferuje szereg udogodnień, w tym baseny, restaurację, bary oraz bezpłatne Wi-Fi. Dzięki swojej lokalizacji stanowi dobrą bazę wypadową do odkrywania uroków Słonecznego Brzegu i okolicznych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Flamingo znajduje się w zachodniej części Słonecznego Brzegu, około 200-350 metrów od piaszczystej, publicznej plaży. Do centrum miejscowości jest około 0.8-2.1 km. Najbliższe lotnisko, Burgas (BOJ), oddalone jest o 30-35 km. Leżaki i parasole przy hotelowych basenach są bezpłatne, natomiast na plaży publicznej są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 158 pokojami, w tym pokojami dwuosobowymi, rodzinnymi, apartamentami i pokojami dla osób niepełnosprawnych. Każdy pokój wyposażony jest w łazienkę z prysznicem i suszarką do włosów, klimatyzację, telewizję satelitarną, telefon, minibar (płatny) oraz balkon z widokiem na basen lub park. Sejfy w pokojach są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny ze słodką wodą, w tym jeden odkryty z podgrzewaną wodą i wydzieloną sekcją dla dzieci. Goście mogą korzystać z centrum fitness/siłowni, a w pobliżu dostępne są korty tenisowe, minigolf oraz wypożyczalnia rowerów. Hotel oferuje także dostęp do Action Aquapark, oddalonego o około 18 minut spacerem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Flamingo oferuje wyżywienie w formie All-Inclusive Light lub All Inclusive, obejmujące bufetowe śniadania, obiady, popołudniowe przekąski i kolacje z napojami podczas posiłków. Główna restauracja serwuje dania kuchni lokalnej, europejskiej i międzynarodowej. Do dyspozycji gości są również lobby bar i bar przy basenie, w tym bar swim-up."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w lobby i pokojach. Goście mogą skorzystać z płatnych masaży i sauny w strefie spa. Hotel oferuje program aktywności i rozrywki, choć opinie wskazują na brak animacji dla dzieci. Ręczniki plażowe dostępne są za depozytem."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Czysty hotel i przestronne pokoje",
+  "Smaczne i urozmaicone jedzenie (z wyjątkiem śniadań)",
+  "Czysty basen, odpowiedni dla rodzin",
+  "Przyjazny i pomocny personel",
+  "Dobra jakość do ceny"
+ ],
+ "cons": [
+  "Monotonne śniadania",
+  "Problemy z komunikacją z personelem (nieznajomość angielskiego)",
+  "Hałas w nocy (przy ruchliwej ulicy)",
+  "Brak animacji dla dzieci (mimo obietnic)",
+  "Plastikowe kubki na napoje",
+  "Problemy z wyposażeniem pokoi (np. zepsute łóżko polowe, niedomykające się okno, zapchany odpływ w prysznicu)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 200-350 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Burgas (BOJ), oddalone jest o około 30-35 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnych zjeżdżalni, ale oferuje dostęp do Action Aquapark, który znajduje się około 18 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje wydzielony brodzik dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje animacje dla dzieci?",
+   "a": "Hotel oferuje program aktywności i rozrywki, ale opinie gości wskazują na brak animacji dla dzieci, mimo że były zawarte w umowie."
+  }
+ ],
+ "address": "Sunny Beach, Sunny Beach 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizja satelitarna",
+  "Telefon",
+  "Minibar (płatny)",
+  "Balkon",
+  "Sejf (płatny)",
+  "Suszarka do włosów"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Zachodnia część kurortu Słoneczny Brzeg",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2004,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe",
+  "Pokoje rodzinne",
+  "Pokoje dla osób niepełnosprawnych",
+  "Apartamenty rodzinne"
+ ],
+ "rooms": 158,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0087314,
+  "lon": 28.9500509,
+  "src": "osm"
+ },
+ "sources": [
+  "flamingosunnybeach.com",
+  "kayak.com",
+  "purpletravel.co.uk",
+  "reserving.com",
+  "sunnybeachyhotel.com",
+  "booking.com",
+  "snaptrip.com",
+  "flamingohotel.bg"
+ ],
+ "updated": "2026-11-27"
+}

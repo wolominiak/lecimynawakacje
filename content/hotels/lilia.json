@@ -1,0 +1,134 @@
+{
+ "id": 15835,
+ "slug": "lilia",
+ "name": "Lilia",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/lilia-teren-hotelu-1254686661-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Lilia to czterogwiazdkowy obiekt położony w północnej części Złotych Piasków w Bułgarii, zaledwie 30 metrów od piaszczystej plaży. Zbudowany w 1999 roku i odnowiony w 2015, oferuje komfortowy wypoczynek w jednym, dziewięciopiętrowym budynku.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par czy osób szukających relaksu nad morzem w spokojniejszej okolicy. Bliskość plaży i centrum kurortu sprawia, że jest to dobra baza wypadowa do zwiedzania i korzystania z atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lilia znajduje się w północnej części Złotych Piasków, około 30 metrów od publicznej, piaszczystej plaży. Do centrum miejscowości jest około 1 km. Leżaki i parasole na plaży są dodatkowo płatne, natomiast przy basenach hotelowych są bezpłatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 248-250 pokojami i apartamentami, w tym pokojami dwuosobowymi, apartamentami jedno- i dwupokojowymi oraz apartamentem VIP. Wszystkie pokoje wyposażone są w klimatyzację, balkon (w większości), łazienkę z prysznicem lub wanną, suszarkę do włosów, telewizor, minibar lub lodówkę, telefon oraz część wypoczynkową."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna. Do dyspozycji gości są również lobby bar, sezonowy bar przy basenie, beer house oraz sezonowy sky bar. Opcja all inclusive jest dostępna za dodatkową opłatą i obejmuje śniadania, obiady i kolacje w formie bufetu oraz wybrane lokalne napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa baseny zewnętrzne: jeden ze słodką wodą i wydzieloną częścią dla dzieci, oraz drugi na dachu z panoramicznym widokiem na morze. Na terenie obiektu znajduje się centrum spa z sauną, masażami i solarium, a także siłownia. Goście mogą również korzystać z tenisa stołowego i bilarda."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część basenu. Na życzenie dostępne są krzesełka w restauracji oraz łóżeczka dziecięce. Hotel nie oferuje mini klubu ani animacji dla dzieci."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko plaży i centrum",
+  "Dobre i urozmaicone śniadania",
+  "Przestronne i czyste pokoje, często z widokiem na morze",
+  "Miła i pomocna obsługa",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Jakość hotelu bywa oceniana jako nieadekwatna do 4 gwiazdek",
+  "Jedzenie (poza śniadaniami) bywa krytykowane za jakość i monotonność",
+  "Basen na dachu jest dodatkowo płatny",
+  "Leżaki i parasole na plaży są płatne",
+  "Brak animacji dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Lilia jest położony około 30 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 20-25 km od lotniska w Warnie (Varna Airport)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Lilia nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje wydzieloną część basenu dla dzieci, krzesełka w restauracji i łóżeczka dziecięce na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w ogólnodostępnych częściach hotelu. W pokojach Wi-Fi jest dostępne, choć niektóre źródła wskazują na możliwość dodatkowej opłaty."
+  },
+  {
+   "q": "Czy leżaki na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na plaży są dodatkowo płatne. Przy basenie są bezpłatne."
+  }
+ ],
+ "address": "Golden Sands, Varna 9007, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Lotnisko w Warnie (Varna Airport)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Bilard"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Północna część Złotych Piasków",
+ "bars": 4,
+ "beachDistanceM": 30,
+ "beachType": "Piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające wypoczynku nad morzem"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1999,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (standardowy)",
+  "Apartament jednopokojowy",
+  "Apartament dwupokojowy",
+  "Apartament VIP"
+ ],
+ "rooms": 248,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9395347,
+  "lon": 23.651269,
+  "src": "osm"
+ },
+ "sources": [
+  "onholidays.pl",
+  "iziwakacje.pl",
+  "hotellilia.com",
+  "loveholidays.com",
+  "com-stay.com",
+  "wego.com",
+  "booking.com",
+  "guestreservations.com"
+ ],
+ "updated": "2026-11-27"
+}

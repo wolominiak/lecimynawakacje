@@ -1,0 +1,135 @@
+{
+ "id": 11865,
+ "slug": "julia-sveti-vlas",
+ "name": "Julia (Sveti Vlas)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Św. Wlas"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/julia-sveti-vlas-teren-hotelu-basen-1476676434-570-428.jpg",
+ "city": "Św. Włas",
+ "intro": [
+  "Hotel Julia (Sveti Vlas) to trzygwiazdkowy obiekt położony w centrum malowniczej miejscowości Św. Włas, w bułgarskiej prowincji Burgas. Jest to idealne miejsce dla osób szukających komfortowego i nieskomplikowanego pobytu, z łatwym dostępem do lokalnych atrakcji i plaży.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par, które cenią sobie dobrą lokalizację, miłą obsługę i możliwość korzystania z basenu. Z niektórych pokoi roztacza się widok na morze lub zatokę Vlas, co dodaje uroku pobytowi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Julia znajduje się w centrum Sveti Vlas, zaledwie około 300 metrów od ścisłego centrum miejscowości. Centralna plaża Sveti Vlas, charakteryzująca się piaszczystym brzegiem, oddalona jest o około 700 metrów, co stanowi około 10-minutowy spacer. Plaża jest publiczna, a leżaki i parasole są bezpłatne przy basenie hotelowym."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 64 pokoje, w tym pokoje dwuosobowe, apartamenty jedno-sypialniane oraz pokoje rodzinne. Wszystkie pokoje są klimatyzowane i dźwiękoszczelne, wyposażone w balkon (często z widokiem na morze), prywatną łazienkę z prysznicem i suszarką do włosów, telewizor z płaskim ekranem, lodówkę, biurko i szafę. Apartamenty posiadają dodatkowo aneks kuchenny z piekarnikiem i płytą grzewczą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja serwująca dania kuchni lokalnej, międzynarodowej, greckiej, amerykańskiej, włoskiej i europejskiej. Śniadania podawane są w formie bufetu, z opcjami kontynentalnymi, amerykańskimi, włoskimi lub wegetariańskimi. Restauracja oferuje również lunche i kolacje, a na terenie obiektu znajdują się bar i bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym odkrytym basenem oraz oddzielnym basenem dla dzieci. Na terenie obiektu znajduje się plac zabaw dla najmłodszych. Goście mogą korzystać z jacuzzi, centrum fitness/siłowni oraz zagrać w bilard lub mini-piłkę nożną. Hotel oferuje również rozrywkę na żywo."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Julia jest doskonałym wyborem dla rodzin z dziećmi, par oraz wszystkich, którzy szukają komfortowego i nieskomplikowanego wypoczynku w dobrej lokalizacji. Bliskość plaży, centrum miejscowości oraz udogodnienia dla dzieci sprawiają, że jest to atrakcyjna opcja na wakacje w Bułgarii."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Sveti Vlas",
+  "Miły i pomocny personel",
+  "Czyste pokoje i dobrze utrzymany basen",
+  "Smaczne jedzenie w restauracji, zwłaszcza dania bułgarskie",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Śniadania mogą być mało zróżnicowane",
+  "Hotel położony przy ruchliwej głównej drodze",
+  "Niektóre łazienki mają kompaktowy układ",
+  "Z niektórych pokoi widok na basen, nie na morze"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Julia znajduje się około 700 metrów od centralnej plaży Sveti Vlas, co odpowiada około 10 minutom spaceru."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Burgas (BOJ), oddalone o około 30-33 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnego aquaparku ani zjeżdżalni, ale Action Aquapark znajduje się około 10 minut jazdy samochodem (4.5 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada basen dla dzieci, plac zabaw oraz oferuje łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i jest polecany dla rodzin."
+  }
+ ],
+ "address": "1 St. Vlasii Str., Sveti Vlas, Bulgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Lotnisko Burgas (BOJ)",
+ "amenities": [
+  "Jacuzzi",
+  "Centrum fitness/siłownia",
+  "Bilard",
+  "Mini-piłka nożna",
+  "Nurkowanie",
+  "Piesze wycieczki",
+  "Joga"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum Sveti Vlas",
+ "bars": 2,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, balkonem, łazienką, TV, lodówką, biurkiem, szafą",
+  "Apartament jedno-sypialniany z klimatyzacją, balkonem, łazienką, TV, lodówką, biurkiem, szafą, aneksem kuchennym (lodówka, piekarnik, płyta grzewcza, czajnik)",
+  "Pokój rodzinny z klimatyzacją, balkonem, łazienką, TV, lodówką, biurkiem, szafą"
+ ],
+ "rooms": 64,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.0041781,
+  "lon": 23.3859634,
+  "src": "osm"
+ },
+ "sources": [
+  "sofiagotravel.com",
+  "tripmasters.com",
+  "directbooking.ro",
+  "sunnybeachhotels.net",
+  "skyscanner.gg",
+  "google.com",
+  "hotels-burgas.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

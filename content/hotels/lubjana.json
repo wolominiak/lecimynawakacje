@@ -1,0 +1,133 @@
+{
+ "id": 123016,
+ "slug": "lubjana",
+ "name": "Lubjana",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/lubjana-budynek-glowny-obiekt-1784136306-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel Lubjana by Dolanit to nowoczesny obiekt położony w tętniącej życiem dzielnicy plażowej Durres, zaledwie 100-200 metrów od szerokiej, piaszczystej plaży. Otwarty w 2022 roku, oferuje komfortowe zakwaterowanie w 40 pokojach, z których część dysponuje widokiem na morze.",
+  "Obiekt jest odpowiedni zarówno dla par i osób podróżujących samotnie, szukających spokojnego wypoczynku blisko morza, jak i dla rodzin z dziećmi. Hotel oferuje prywatną część plaży z bezpłatnymi leżakami i parasolami, a także bezpłatne śniadania i dostęp do Wi-Fi na terenie całego obiektu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lubjana by Dolanit znajduje się w Durres, przy ulicy Rruga Pavaresia, w plażowej części miasta. Obiekt jest oddalony o około 100-200 metrów od szerokiej, piaszczystej plaży. Hotel dysponuje prywatną częścią plaży, gdzie goście mogą korzystać z bezpłatnych leżaków i parasoli."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 40 pokoi, w tym pokoje dwuosobowe (25 mkw) z balkonem, pokoje dwuosobowe z balkonem i widokiem na morze (25 mkw), pokoje trzyosobowe z balkonem i widokiem na morze oraz apartamenty (40 mkw) z balkonem i widokiem na morze. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę z prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami, telewizor z płaskim ekranem, Wi-Fi, sejf, telefon, lodówkę, czajnik i butelkę wody."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się jedna restauracja Dolanit, która serwuje dania kuchni lokalnej, międzynarodowej, włoskiej oraz owoce morza. Goście mają zapewnione bezpłatne śniadania w formie bufetu, à la carte lub kontynentalne. W hotelu dostępny jest również jeden bar. Napoje do obiadu i kolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Lubjana nie posiada basenu, spa ani siłowni. Na plaży dostępne są płatne sporty wodne oferowane przez lokalnych dostawców. W całym hotelu, w tym w pokojach i pomieszczeniach ogólnodostępnych, dostępne jest bezpłatne Wi-Fi. Hotel oferuje okazjonalne wieczory albańskie i muzykę na żywo."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje na życzenie łóżeczka dziecięce. Hotel nie jest przeznaczony wyłącznie dla dorosłych i posiada w ofercie pokoje rodzinne."
+  }
+ ],
+ "pros": [
+  "Czysty i nowoczesny obiekt",
+  "Bardzo przyjazny i pomocny personel",
+  "Dobre śniadania",
+  "Bliskość plaży z prywatną częścią",
+  "Dobra lokalizacja w pobliżu sklepów i restauracji"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Jedzenie bywa monotonne (ograniczony wybór dań mięsnych)",
+  "Otoczenie hotelu przy głównej drodze bywa zaśmiecone",
+  "Pokoje z \"widokiem na morze\" mogą oferować jedynie częściowy widok"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Lubjana znajduje się około 100-200 metrów od szerokiej, piaszczystej plaży. Hotel posiada prywatną część plaży z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Lubjana nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy w Tiranie (TIA), oddalone o około 28-34 km (około 28 minut jazdy)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany również dla rodzin z dziećmi. Na życzenie dostępne są łóżeczka dziecięce, a hotel oferuje pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu, w tym w pokojach i pomieszczeniach ogólnodostępnych, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje bezpłatne śniadania w formie bufetu, à la carte lub kontynentalne. Napoje do obiadu i kolacji są dodatkowo płatne, więc nie jest to pełne all inclusive."
+  }
+ ],
+ "address": "Rruga Pavaresia, Durres, Albania",
+ "adultsOnly": false,
+ "airportKm": 31,
+ "airportName": "Międzynarodowy Port Lotniczy w Tiranie (Nënë Tereza, TIA)",
+ "amenities": [
+  "Bezpłatny parking",
+  "Winda",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "dzielnica plażowa",
+ "bars": 1,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 10,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące samotnie",
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2022,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z balkonem (25 mkw): klimatyzacja, łazienka z prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami, TV, Wi-Fi, sejf, telefon, lodówka, czajnik, butelka wody.",
+  "Pokój dwuosobowy z balkonem i widokiem na morze (25 mkw): klimatyzacja, łazienka z prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami, TV, Wi-Fi, sejf, telefon, lodówka, czajnik, butelka wody.",
+  "Pokój trzyosobowy z balkonem i widokiem na morze: klimatyzacja, łazienka z prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami, TV, Wi-Fi, sejf, telefon, lodówka, czajnik, butelka wody.",
+  "Apartament z balkonem i widokiem na morze (40 mkw): klimatyzacja, łazienka z prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami, TV, Wi-Fi, sejf, telefon, lodówka, czajnik, butelka wody."
+ ],
+ "rooms": 40,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3129927,
+  "lon": 19.5330169,
+  "src": "osm"
+ },
+ "sources": [
+  "lubjanahotel.al",
+  "hotel-lubjana.al",
+  "mapy.com",
+  "travelplanet.pl",
+  "holidaycheck.de",
+  "wakacje.pl",
+  "booking.com",
+  "amazonaws.com"
+ ],
+ "updated": "2026-11-27"
+}

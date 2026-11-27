@@ -1,0 +1,134 @@
+{
+ "id": 21424,
+ "slug": "st-george-palace",
+ "name": "St. George Palace",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Św. Wlas"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/st-george-palace-obiekt-teren-hotelu-basen-1018105541-570-428.jpg",
+ "city": "Sveti Vlas",
+ "intro": [
+  "Hotel St. George Palace to trzygwiazdkowy obiekt położony w miejscowości Sveti Vlas, w dzielnicy Yurta, na początku miejscowości i blisko portu jachtowego Dinevi Marina. Obiekt, zbudowany w 2009 roku i odnowiony w 2011, składa się z trzech czteropiętrowych budynków z łącznie 140 pokojami.",
+  "Jest to hotel rekomendowany dla rodzin z dziećmi oraz osób szukających spokojnego wypoczynku. Oferuje szereg udogodnień, w tym duży basen, mini klub dla dzieci oraz program animacyjny, co czyni go odpowiednim miejscem na wakacje dla całej rodziny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel St. George Palace znajduje się w Sveti Vlas, około 250-300 metrów od piaszczystej plaży z łagodnym zejściem do morza. Centrum miejscowości Sveti Vlas oddalone jest o około 0.6-1 km, co stanowi około 10 minut spacerem. Najbliższe lotnisko w Burgas (BOJ) jest w odległości około 32-34 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różne typy zakwaterowania, w tym pokoje dwuosobowe, studia oraz apartamenty z jedną sypialnią. Wszystkie pokoje wyposażone są w indywidualną klimatyzację, mini-lodówkę, telewizor z cyfrową telewizją oraz łazienkę z prysznicem. Większość pokoi posiada balkon, z wyjątkiem pokoi ekonomicznych. Studia i apartamenty oferują dodatkowo rozkładaną sofę, a niektóre apartamenty mają aneks kuchenny bez naczyń."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja z miejscami wewnątrz i na zewnątrz, a także bar przy basenie. Oferowany program All Inclusive obejmuje śniadanie, obiad, podwieczorek i kolację w formie bufetu, a także lokalne napoje bezalkoholowe i alkoholowe. Przekąski serwowane są w barze przy basenie w godzinach popołudniowych."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest duży odkryty basen z wydzieloną sekcją dla dzieci. Przy basenie dostępne są bezpłatne leżaki i parasole. Hotel oferuje również studio masażu, salon piękności/fryzjera, centrum fitness/siłownię oraz możliwość gry w rzutki i tenis stołowy. Na terenie obiektu dostępny jest bezpłatny bezprzewodowy internet w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną sekcję w basenie, plac zabaw na świeżym powietrzu oraz kącik dla dzieci. Dodatkowo, hotel oferuje mini klub dla dzieci i program animacyjny, zapewniając rozrywkę i zajęcia dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży, centrum i portu jachtowego",
+  "Duży odkryty basen z wydzieloną częścią dla dzieci",
+  "Udogodnienia dla rodzin z dziećmi (mini klub, plac zabaw, animacje)",
+  "Bezpłatne Wi-Fi w ogólnodostępnych pomieszczeniach",
+  "Centrum fitness/siłownia na terenie obiektu"
+ ],
+ "cons": [
+  "Mieszane opinie dotyczące czystości w pokojach i częściach wspólnych",
+  "Niektórzy goście zgłaszają problemy z obsługą (personel nieprzyjazny/niepomocny)",
+  "Uwagi dotyczące jakości jedzenia",
+  "Brak ramp dla wózków i pokoi przystosowanych dla osób niepełnosprawnych",
+  "Brak zjeżdżalni wodnych na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 250-300 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel St. George Palace jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 32-34 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Aquapark \"Action\" jest oddalony o około 4.5 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, plac zabaw i animacje dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Urta Area, Sveti Vlas 8256, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "studio masażu",
+  "salon piękności/fryzjera",
+  "centrum fitness/siłownia",
+  "rzutki",
+  "tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Yurta (Юрта)",
+ "bars": 1,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta z płaskim dnem i łagodnym zejściem",
+ "centerKm": 0.6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby podróżujące w celach wypoczynkowych"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2009,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe (DBL 2+1, DBL 2+0 Economy bez balkonu) z indywidualną klimatyzacją, mini-lodówką, telewizorem z cyfrową telewizją, łazienką z prysznicem oraz balkonem (z wyjątkiem pokoi ekonomicznych).",
+  "Studia (STUDIO 2+1) z indywidualną klimatyzacją, mini-lodówką, telewizorem z cyfrową telewizją, łazienką z prysznicem, balkonem oraz rozkładaną sofą. Niektóre studia w dodatkowych skrzydłach hotelu posiadają nieumeblowany aneks kuchenny.",
+  "Apartamenty z jedną sypialnią (1-BR APP 2+1/2+2) składające się z sypialni z podwójnym łóżkiem i salonu z rozkładaną sofą, aneksu kuchennego (bez sztućców i naczyń do gotowania) oraz stołu z krzesłami. Klimatyzacja znajduje się w salonie."
+ ],
+ "rooms": 140,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 12.0324419,
+  "lon": -61.7537354,
+  "src": "osm"
+ },
+ "sources": [
+  "almosafer.com",
+  "hotels-burgas.com",
+  "directbooking.ro",
+  "inreal4u.com",
+  "kayak.com",
+  "booking.com",
+  "stgeorgepalace.com",
+  "kompastour.com"
+ ],
+ "updated": "2026-11-27"
+}

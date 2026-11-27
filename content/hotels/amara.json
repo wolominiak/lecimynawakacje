@@ -1,0 +1,139 @@
+{
+ "id": 44053,
+ "slug": "amara",
+ "name": "Amara",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/amara-basen-1434046407-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel Amara & SPA to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Durres Beach na Riwierze Albańskiej. Zbudowany w 2020 roku i świeżo wyremontowany, oferuje nowoczesne udogodnienia i komfortowy wypoczynek.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par oraz osób szukających relaksu. Bliskość centrum Durres i portu sprawia, że jest to doskonała baza wypadowa do zwiedzania okolicy, jednocześnie zapewniając dostęp do prywatnej plaży i bogatej oferty rekreacyjnej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Amara & SPA znajduje się w Durres, tuż przy piaszczystej plaży Durres Beach, z łagodnym zejściem do wody. Obiekt dysponuje prywatną częścią plaży, gdzie leżaki i parasole są wliczone w cenę. Do centrum Durres jest około 1,1 do 2,1 km, a do portu w Durres 700 m do 2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 63 lub 64 pokoje, rozmieszczone w pięciopiętrowym budynku. Pokoje są klimatyzowane i dźwiękoszczelne, wyposażone w prywatną łazienkę, balkon lub taras, telewizor z płaskim ekranem, minibar oraz zestaw do parzenia kawy/herbaty. Dostępne są pokoje standardowe, typu Junior Suite, Deluxe Suite z widokiem na morze oraz pokoje rodzinne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje: główna restauracja serwująca kuchnię grecką, włoską i międzynarodową, restauracja bufetowa z tarasem oraz restauracja à la carte (dodatkowo płatna). Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-22:00. Na terenie obiektu dostępne są również bary i kawiarnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z sezonowego odkrytego basenu ze słodką wodą. Hotel oferuje centrum Spa & Wellness z sauną, łaźnią parową i jacuzzi, a także siłownię. W sezonie (od czerwca do sierpnia) organizowane są animacje dla dzieci (4-12 lat) oraz animacje i muzyka na żywo dla dorosłych. Dostępne są również sporty wodne (za opłatą), kajakarstwo i siatkówka."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował wydzieloną strefę w basenie oraz niewielki plac zabaw. W okresie od czerwca do sierpnia, trzy razy w tygodniu, odbywają się animacje dla dzieci w wieku 4-12 lat."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Prywatna część plaży z darmowymi leżakami i parasolami",
+  "Nowoczesny obiekt, otwarty w 2020 roku",
+  "Przyjazny i pomocny personel",
+  "Dobre udogodnienia, w tym spa i siłownia"
+ ],
+ "cons": [
+  "Śniadania bywają monotonne lub o ograniczonym wyborze",
+  "Potencjalny hałas z portu w pokojach od strony innej niż plaża",
+  "W niektórych pokojach brakowało obiecanego wyposażenia (np. szlafroków, ekspresu do kawy)",
+  "Konieczność wcześniejszego zajmowania leżaków na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Amara & SPA jest położony w pierwszej linii brzegowej, kilka kroków od piaszczystej plaży Durres Beach, co oznacza około 1 minutę spacerem."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną część plaży, a leżaki i parasole są wliczone w cenę."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska w Tiranie (TIA) wynosi około 21-23 km, a transfer trwa około 30 minut do 1 godziny."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel oferuje sezonowy odkryty basen ze słodką wodą oraz wydzieloną strefę dla dzieci w basenie, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje pokoje rodzinne, wydzieloną strefę dla dzieci w basenie, plac zabaw oraz animacje dla dzieci w wieku 4-12 lat w sezonie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu, zarówno w pokojach, jak i w miejscach publicznych, dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Shetitorja e Plazhit, 1000, Durrës, Albania",
+ "adultsOnly": false,
+ "airportKm": 23,
+ "airportName": "Tirana International Mother Teresa Airport",
+ "amenities": [
+  "centrum Spa & Wellness",
+  "sauna",
+  "łaźnia parowa (hammam)",
+  "jacuzzi/hot tub",
+  "masaż (za opłatą)",
+  "sporty wodne (za opłatą)",
+  "kajakarstwo",
+  "siatkówka"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Riwiera Albańska",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1.1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2020,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standard Double Room (z widokiem na ogród/miasto lub morze, klimatyzacja, łazienka, balkon/taras, biurko, sejf, TV, minibar, zestaw do parzenia kawy/herbaty, Wi-Fi, pościel, ręczniki, szafa, dźwiękoszczelność)",
+  "Standard Twin Room (z widokiem na miasto lub morze, klimatyzacja, łazienka, balkon/taras, biurko, sejf, TV, minibar, zestaw do parzenia kawy/herbaty, Wi-Fi, pościel, ręczniki, szafa, dźwiękoszczelność)",
+  "Junior Suite (klimatyzacja, łazienka, balkon/taras, biurko, sejf, TV, minibar, zestaw do parzenia kawy/herbaty, Wi-Fi, pościel, ręczniki, szafa, dźwiękoszczelność)",
+  "Deluxe Suite z widokiem na morze (klimatyzacja, łazienka, balkon/taras, biurko, sejf, TV, minibar, zestaw do parzenia kawy/herbaty, Wi-Fi, pościel, ręczniki, szafa, dźwiękoszczelność)",
+  "Family Room (z balkonem, Deluxe Sea View, klimatyzacja, łazienka, biurko, sejf, TV, minibar, zestaw do parzenia kawy/herbaty, Wi-Fi, pościel, ręczniki, szafa, dźwiękoszczelność)"
+ ],
+ "rooms": 63,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3150783,
+  "lon": 19.4690043,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "reserve-online.net",
+  "broadwaytravel.com",
+  "planetofhotels.com",
+  "skytravel.jp",
+  "lastminute.com",
+  "trip.com",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

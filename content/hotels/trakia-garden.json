@@ -1,0 +1,141 @@
+{
+ "id": 14053,
+ "slug": "trakia-garden",
+ "name": "Trakia Garden",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/trakia-garden-teren-hotelu-basen-826310206-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Trakia Garden to trzygwiazdkowy obiekt położony w spokojniejszej, ogrodowej części popularnego kurortu Słoneczny Brzeg w Bułgarii. Otoczony zielenią, oferuje relaksującą atmosferę, jednocześnie zapewniając łatwy dostęp do piaszczystej plaży i atrakcji centrum miejscowości.",
+  "Obiekt jest rekomendowany dla rodzin z dziećmi, par oraz grup przyjaciół, którzy szukają komfortowego miejsca na wakacyjny wypoczynek. Hotel oferuje podstawowe udogodnienia, które sprzyjają zarówno aktywnemu spędzaniu czasu, jak i błogiemu relaksowi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Trakia Garden znajduje się w Słonecznym Brzegu, w otoczeniu ogrodu, co zapewnia spokojniejszą atmosferę. Piaszczysta plaża oddalona jest o około 250-500 metrów, co oznacza krótki, 8-10 minutowy spacer. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje około 140 pokojami, w tym dwuosobowymi, trzyosobowymi, rodzinnymi oraz apartamentami. Wszystkie pokoje wyposażone są w klimatyzację (czasem płatną), łazienkę z prysznicem, balkon lub taras, telewizor, minibar/lodówkę i telefon. Z okien rozciąga się widok na ogród lub basen."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z restauracji bufetowej serwującej dania kuchni międzynarodowej i bułgarskiej oraz restauracji à la carte z sekcją grillową. Na terenie obiektu znajdują się również bar przy basenie i lobby bar. Hotel oferuje opcje wyżywienia Bed and Breakfast oraz Half Board."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada sezonowy odkryty basen, a dla dzieci przygotowano brodzik ze zjeżdżalniami oraz plac zabaw. Dorośli mogą korzystać z siłowni, sauny, jacuzzi, tenisa stołowego i bilarda. W okresie letnim działa mini klub dla dzieci."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "W hotelu dostępne jest bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych, takich jak recepcja. Wi-Fi w pokojach jest płatne. Obiekt oferuje również pokój gier. Hotel Trakia Garden nie jest hotelem tylko dla dorosłych, jest to miejsce przyjazne rodzinom."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja w otoczeniu ogrodu",
+  "Bliskość piaszczystej plaży (ok. 250-500 m)",
+  "Przyjazny i pomocny personel",
+  "Dobra jakość w stosunku do ceny",
+  "Udogodnienia dla rodzin z dziećmi (brodzik, zjeżdżalnie, mini klub)"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w pokojach",
+  "Płatne leżaki i parasole na plaży",
+  "Dodatkowe opłaty za klimatyzację w niektórych pokojach",
+  "Niektóre opinie wspominają o jakości jedzenia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Trakia Garden od plaży?",
+   "a": "Hotel jest oddalony od piaszczystej plaży o około 250-500 metrów, co zajmuje około 8-10 minut spacerem."
+  },
+  {
+   "q": "Czy w hotelu Trakia Garden jest dostępny aquapark?",
+   "a": "Hotel nie posiada własnego aquaparku, ale oferuje zjeżdżalnie dla dzieci przy basenie. W pobliżu (około 1.7-2.4 km) znajduje się Action Aquapark."
+  },
+  {
+   "q": "Czy hotel Trakia Garden jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, zjeżdżalnie, plac zabaw oraz mini klub w okresie letnim."
+  },
+  {
+   "q": "Czy w hotelu Trakia Garden jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, takich jak recepcja. W pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu Trakia Garden?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 20.6 km (w linii prostej) do 30 km (drogowo)."
+  },
+  {
+   "q": "Czy hotel Trakia Garden jest tylko dla dorosłych?",
+   "a": "Nie, hotel Trakia Garden nie jest przeznaczony wyłącznie dla dorosłych. Jest to obiekt rodzinny."
+  }
+ ],
+ "address": "Sunny Beach, Sunny Beach, Burgas Province, 8240, Bulgaria",
+ "adultsOnly": false,
+ "airportKm": 20.6,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "sezonowy odkryty basen",
+  "zjeżdżalnie dla dzieci",
+  "brodzik",
+  "plac zabaw",
+  "pokój gier",
+  "mini klub",
+  "sauna",
+  "jacuzzi",
+  "centrum fitness/siłownia",
+  "tenis stołowy",
+  "bilard",
+  "Wi-Fi w pomieszczeniach ogólnodostępnych"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "spokojniejsza część miasta, otoczony ogrodem",
+ "bars": 2,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2006,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe (z dwoma łóżkami pojedynczymi lub jednym podwójnym, klimatyzacja, łazienka z prysznicem, balkon/taras, telewizor, minibar/lodówka, telefon)",
+  "Pokoje trzyosobowe (klimatyzacja, łazienka z prysznicem, balkon/taras, telewizor, minibar/lodówka, telefon)",
+  "Pokoje rodzinne (klimatyzacja, łazienka z prysznicem, balkon/taras, telewizor, minibar/lodówka, telefon)",
+  "Apartamenty (klimatyzacja, łazienka z prysznicem, balkon/taras, telewizor, minibar/lodówka, telefon)"
+ ],
+ "rooms": 140,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.9868894,
+  "lon": 23.6193278,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "firstchoice.co.uk",
+  "travelfinder.bg",
+  "trip.com",
+  "jet2holidays.com",
+  "onthebeach.co.uk",
+  "thomascook.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

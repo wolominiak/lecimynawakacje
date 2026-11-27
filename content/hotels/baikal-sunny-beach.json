@@ -1,0 +1,134 @@
+{
+ "id": 13785,
+ "slug": "baikal-sunny-beach",
+ "name": "Baikal (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/baikal-sunny-beach-basen-1737522275-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Baikal to czterogwiazdkowy obiekt położony w centralnej części popularnego bułgarskiego kurortu Słoneczny Brzeg. Odnowiony w 2018 roku, oferuje komfortowe zakwaterowanie w kilku budynkach, zapewniając łatwy dostęp do atrakcji miejscowości.",
+  "Ze względu na swoje udogodnienia, hotel jest szczególnie polecany dla rodzin z dziećmi, które docenią animacje, mini klub i zjeżdżalnie wodne. Będzie również odpowiedni dla młodych osób poszukujących rozrywki, dzięki bliskości centrum i plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Baikal znajduje się w centrum Słonecznego Brzegu, około 150-500 metrów od piaszczystej plaży. Do centrum miejscowości jest około 600-970 metrów. Najbliższe lotnisko w Burgas oddalone jest o około 21-30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 282 pokojami dwuosobowymi i 20 apartamentami, rozmieszczonymi w budynkach o wysokości od 3 do 7 pięter. Wszystkie pokoje wyposażone są w klimatyzację, balkon, prywatną łazienkę z suszarką do włosów, telewizor, lodówkę lub mini bar oraz telefon. Dostępne są pokoje dwuosobowe, studia i apartamenty, niektóre z widokiem na morze, ogród lub basen."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja, lobby bar oraz bar przy basenie. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje, a także lokalne napoje alkoholowe i bezalkoholowe, kawę, herbatę, słodycze i przekąski w wyznaczonych godzinach. Dostępne są również dania wegetariańskie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z odkrytego basenu z wydzieloną częścią dla dzieci oraz zjeżdżalni wodnych. Na terenie obiektu dostępny jest plac zabaw dla dzieci i mini klub. Hotel oferuje także programy animacyjne dla dzieci i dorosłych. Do dyspozycji gości jest centrum fitness, salon masażu i fryzjer. Można również zagrać w tenis stołowy, mini golfa i rzutki."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Bezpłatne Wi-Fi jest dostępne w całym hotelu, choć w niektórych źródłach wspomina się o płatnym Wi-Fi w lobby. Leżaki i parasole przy basenie są bezpłatne. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko centrum i plaży",
+  "Smaczne i urozmaicone jedzenie",
+  "Czystość w hotelu",
+  "Miły i pomocny personel",
+  "Świetne animacje"
+ ],
+ "cons": [
+  "Trudności ze znalezieniem miejsca przy basenie w szczycie sezonu",
+  "Jakość słodyczy w ofercie all inclusive",
+  "Różne informacje o odległości od plaży i centrum"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Baikal od plaży?",
+   "a": "Hotel Baikal jest położony około 150 metrów od piaszczystej plaży, choć niektóre źródła podają odległość do 500 metrów."
+  },
+  {
+   "q": "Czy hotel Baikal jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Burgas (BOJ), znajduje się w odległości około 21-30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu Baikal jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel Baikal oferuje zjeżdżalnie wodne oraz odkryty basen z wydzieloną częścią dla dzieci."
+  },
+  {
+   "q": "Czy hotel Baikal jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada plac zabaw, mini klub oraz programy animacyjne dla dzieci i dorosłych."
+  },
+  {
+   "q": "Czy w hotelu Baikal jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, choć niektóre źródła wskazują na płatne Wi-Fi w lobby."
+  },
+  {
+   "q": "Jakie są opcje wyżywienia w hotelu Baikal?",
+   "a": "Hotel oferuje pakiet All Inclusive, który obejmuje śniadania, obiady, kolacje, lokalne napoje alkoholowe i bezalkoholowe, kawę, herbatę, słodycze i przekąski. Dostępne są również dania wegetariańskie."
+  }
+ ],
+ "address": "Slanchev Bryag, 8240 Sunny Beach, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 25.2,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Siłownia",
+  "Salon masażu",
+  "Fryzjer",
+  "Tenis stołowy",
+  "Mini golf",
+  "Rzutki",
+  "Plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centralna część Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.6,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Młode osoby szukające rozrywki"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (DBL) z klimatyzacją, balkonem, łazienką, TV, lodówką/mini barem, telefonem",
+  "Pokój dwuosobowy superior (DBL SUPERIOR) z klimatyzacją, balkonem, łazienką, TV, lodówką/mini barem, telefonem",
+  "Studio (STUDIO, STUDIO SMALL) z klimatyzacją, balkonem, łazienką, TV, lodówką/mini barem, telefonem",
+  "Apartament (APARTMENT 2+2, APARTMENT 4+2, 1 BEDROOM APARTMENT) z klimatyzacją, balkonem, łazienką, TV, lodówką/mini barem, telefonem"
+ ],
+ "rooms": 282,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 55.8369012,
+  "lon": 37.6379496,
+  "src": "osm"
+ },
+ "sources": [
+  "directbooking.ro",
+  "hotelbaikalbg.com",
+  "gotoburgas.com",
+  "noy.travel",
+  "reserving.com",
+  "booking.com",
+  "hotels-burgas.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,137 @@
+{
+ "id": 25129,
+ "slug": "bleart",
+ "name": "Bleart",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/bleart-plaza-obiekt-784696945-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Hotel Bleart to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w miejscowości Durres, w dzielnicy Rrashbull, niedaleko Skały Kavaja. Jest to idealne miejsce dla osób poszukujących relaksu nad morzem, z łatwym dostępem do prywatnej strefy plażowej.",
+  "Hotel jest przyjazny rodzinom, parom oraz grupom, oferując komfortowe zakwaterowanie i szereg udogodnień. Bliskość lotniska w Tiranie oraz centrum Durres sprawia, że jest to dobra baza wypadowa do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bleart znajduje się w Durres, w dzielnicy Rrashbull, bezpośrednio przy piaszczystej plaży z łagodnym zejściem do morza. Obiekt oferuje prywatną strefę plażową z bezpłatnymi parasolami i leżakami. Lotnisko w Tiranie oddalone jest o około 35-40 km, a centrum Durres o 7-10 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje od 14 do 72 pokojami, najczęściej podawana liczba to 64 lub 65. Dostępne są pokoje dwuosobowe, typu twin, trzyosobowe, apartamenty i suity, z widokiem na morze lub ogród. Każdy pokój wyposażony jest w klimatyzację, sejf, telewizor, minibar, telefon, suszarkę do włosów oraz prywatną łazienkę. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, w tym jedna à la carte, serwujące dania kuchni śródziemnomorskiej i lokalne. Do dyspozycji gości są również trzy bary: w lobby, przy basenie oraz na molo przy plaży. Pakiet All Inclusive obejmuje śniadania, lunche, kolacje w formie bufetu, przekąski oraz nielimitowane napoje bezalkoholowe i lokalne alkohole w godzinach 10:00-22:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden sezonowy basen zewnętrzny oraz oddzielny basen dla dzieci. Dostępny jest plac zabaw dla najmłodszych. W hotelu znajduje się centrum fitness oraz centrum odnowy biologicznej z sauną, jacuzzi i masażami (dodatkowo płatne). Wieczorna rozrywka jest organizowana kilka razy w tygodniu."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Duży basen i basen dla dzieci",
+  "Czyste i przestronne pokoje",
+  "Pomocna i gościnna obsługa",
+  "Dobra lokalizacja"
+ ],
+ "cons": [
+  "Jedzenie bywa zimne i monotonne",
+  "Hotel wymaga remontu/modernizacji",
+  "Brak rozrywki wieczornej (w niektórych okresach)",
+  "Czystość plaży poza strefą hotelową",
+  "Sporadyczne problemy z basenem (glony)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Bleart jest położony bezpośrednio przy plaży, około 10-20 metrów od brzegu. Posiada prywatną strefę plażową."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana (TIA), oddalony o około 35-40 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje plac zabaw oraz oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu, w tym w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Rruga Shkëmbi i Kavajës, Durrës 2001, Albania",
+ "adultsOnly": false,
+ "airportKm": 37.5,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "prywatna strefa plażowa",
+  "bezpłatne leżaki i parasole na plaży",
+  "centrum fitness",
+  "centrum odnowy biologicznej (Wellness Center)",
+  "sauna (za opłatą)",
+  "jacuzzi (za opłatą)",
+  "masaże (za opłatą)",
+  "sporty wodne na plaży (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Rrashbull, w pobliżu Shkëmbi i Kavajës (Skała Kavaja)",
+ "bars": 3,
+ "beachDistanceM": 15,
+ "beachType": "piaszczysta z łagodnym zejściem do morza",
+ "centerKm": 8.5,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "grupy",
+  "podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2009,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2011,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój typu twin",
+  "pokój trzyosobowy",
+  "apartament",
+  "suita"
+ ],
+ "rooms": 65,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2807585,
+  "lon": 19.5139547,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "directbooking.ro",
+  "skyscanner.net",
+  "localhotels.com",
+  "thomascook.com",
+  "google.com",
+  "mapcarta.com",
+  "magictrips.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,138 @@
+{
+ "id": 32322,
+ "slug": "prestige-aqua-park",
+ "name": "Prestige Aqua Park",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/prestige-aqua-park-basen-teren-hotelu-1275396878-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Prestige Aqua Park to czterogwiazdkowy hotel położony w centralnej części bułgarskiego kurortu Złote Piaski, w spokojnej i zielonej okolicy, niedaleko głównej promenady. Obiekt, otwarty w 2005 roku i odnowiony w 2017, oferuje komfortowe warunki pobytu.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, dzięki rozbudowanemu aquaparkowi i licznym atrakcjom dla najmłodszych. Sprawdzi się również dla par poszukujących aktywnego wypoczynku, ceniących bliskość plaży i centrum miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Prestige Aqua Park znajduje się w Złotych Piaskach, w odległości około 150-200 metrów od piaszczystej, publicznej plaży. Dojście do plaży jest wygodne, a zejście do wody łagodne. Leżaki i parasole na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 278 pokojami typu Standard, Premium oraz Apartamentami (Family Suite). Wszystkie pokoje wyposażone są w klimatyzację, telewizor, bezpłatny sejf, lodówkę oraz łazienkę z wanną lub prysznicem. Do każdego pokoju przynależy balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu. Formuła All Inclusive obejmuje śniadania, obiady i kolacje, a także przekąski, kawę, herbatę, ciasto i lody dla dzieci. Lokalne napoje alkoholowe i bezalkoholowe są dostępne w wyznaczonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada łącznie 5 basenów - 3 odkryte i 2 kryte, z czego jeden kryty jest podgrzewany. Na terenie obiektu znajduje się aquapark z 11 zjeżdżalniami wodnymi dla dorosłych i dzieci. Goście mogą korzystać z siłowni, tenisa stołowego, rzutek, bilarda oraz sali gier. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano oddzielny brodzik, plac zabaw oraz mini klub dla dzieci w wieku 4-11 lat. Hotel oferuje także animacje sportowe i wieczorne pokazy 6 dni w tygodniu, co czyni go idealnym miejscem na rodzinne wakacje."
+  },
+  {
+   "title": "SPA i Wellness",
+   "text": "W hotelowym centrum SPA goście mogą bezpłatnie korzystać z sauny, jacuzzi i krytego basenu. Dostępne są również płatne masaże, zabiegi pielęgnacyjne oraz łaźnia turecka, zapewniające relaks i odprężenie."
+  }
+ ],
+ "pros": [
+  "Rozbudowany aquapark ze zjeżdżalniami",
+  "Bliskość plaży i centrum kurortu",
+  "Urozmaicone jedzenie",
+  "Czystość w obiekcie",
+  "Atrakcje i animacje dla dzieci"
+ ],
+ "cons": [
+  "Ograniczona liczba leżaków przy basenach zewnętrznych",
+  "Zimna woda w basenach zewnętrznych",
+  "Napoje podawane w plastikowych kubeczkach",
+  "Schody prowadzące do plaży",
+  "Chaos i brak nadzoru nad dziećmi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Prestige Aqua Park jest oddalony od piaszczystej plaży o około 150 do 200 metrów."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark z 11 zjeżdżalniami wodnymi, w tym zjeżdżalniami dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest rekomendowany dla rodzin z dziećmi, oferuje mini klub, plac zabaw oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym obiekcie oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Lotnisko Warna (VAR), oddalone o około 18 do 30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu są podgrzewane baseny?",
+   "a": "Hotel posiada kryty basen podgrzewany do temperatury 27-28 stopni Celsjusza. Odkryte baseny nie są podgrzewane."
+  }
+ ],
+ "address": "9007 Złote Piaski, Warna, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Lotnisko Warna (VAR)",
+ "amenities": [
+  "Aquapark",
+  "Mini klub dla dzieci",
+  "Animacje",
+  "Centrum SPA",
+  "Siłownia",
+  "Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centralna część kurortu",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.15,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary szukające aktywnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 5,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard",
+  "Premium (z czajnikiem i zestawem do kawy/herbaty)",
+  "Apartamenty (Family Suite)"
+ ],
+ "rooms": 278,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2871402063894,
+  "lon": 28.0425328016281,
+  "src": "web"
+ },
+ "sources": [
+  "r.pl",
+  "prestigehotelaquapark.com",
+  "prestigeaquahotel.com",
+  "lastradar.pl",
+  "wakacje.pl",
+  "traveligo.pl",
+  "booking.com",
+  "travelplanet.pl"
+ ],
+ "updated": "2026-11-27"
+}

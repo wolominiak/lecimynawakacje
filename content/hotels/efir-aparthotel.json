@@ -1,0 +1,129 @@
+{
+ "id": 24033,
+ "slug": "efir-aparthotel",
+ "name": "Efir Aparthotel",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/efir-aparthotel-basen-obiekt-1812422916-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Efir Aparthotel to kompleks apartamentów położony w spokojnej, parkowej części Słonecznego Brzegu w Bułgarii, w dzielnicy Chaika. Obiekt oferuje komfortowe zakwaterowanie w studiach i apartamentach z aneksem kuchennym, co czyni go idealnym wyborem dla osób preferujących samodzielne przygotowywanie posiłków.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, szukających relaksu w cichej okolicy, a jednocześnie z łatwym dostępem do plaży i głównych atrakcji kurortu. Bliskość piaszczystej plaży oraz udogodnienia dla najmłodszych sprawiają, że to dobre miejsce na rodzinne wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Efir Aparthotel znajduje się w Słonecznym Brzegu, w dzielnicy Chaika, w otoczeniu parkowej zieleni. Do najbliższej publicznej piaszczystej plaży z łagodnym wejściem do wody jest około 300-350 metrów. Plaża posiada status Błękitnej Flagi, a leżaki i parasole są na niej dodatkowo płatne. Centrum Słonecznego Brzegu oddalone jest o około 1.7-2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 100 jednostek mieszkalnych, w tym 9 studiów i 91 apartamentów z jedną sypialnią. Wszystkie pokoje są klimatyzowane i wyposażone w aneks kuchenny z lodówką, czajnikiem, tosterem, naczyniami i płytą grzewczą. Każdy pokój posiada także balkon lub taras, prywatną łazienkę oraz telewizor z kanałami kablowymi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się sezonowy odkryty basen dla dorosłych oraz brodzik dla dzieci. Hotel nie posiada zjeżdżalni ani aquaparku, ale w pobliżu (około 1.7 km) znajduje się Action AquaPark. Dostępny jest także pokój zabaw dla dzieci oraz animacje dla najmłodszych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Efir Aparthotel działa w formule samoobsługowych apartamentów. Na terenie obiektu znajduje się sklep spożywczy oraz bar przy basenie, serwujący napoje za dodatkową opłatą. Dostępne opcje wyżywienia to \"tylko zakwaterowanie\" lub \"śniadanie; obiadokolacja\"."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest szczególnie polecany dla rodzin z dziećmi, ceniących sobie spokój i możliwość samodzielnego przygotowywania posiłków. Bliskość plaży, udogodnienia dla dzieci oraz komfortowe apartamenty sprawiają, że jest to dobra opcja na rodzinny wypoczynek."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja w spokojnej, parkowej części, blisko plaży",
+  "Komfortowe pokoje z aneksem kuchennym",
+  "Uprzejmy personel i czystość",
+  "Dobra wartość za pieniądze",
+  "Udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w ogólnodostępnych pomieszczeniach",
+  "Brak ręczników plażowych",
+  "Płatne leżaki i parasole na publicznej plaży",
+  "Ograniczona liczba miejsc parkingowych w szczycie sezonu",
+  "Brak całodobowej recepcji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Efir Aparthotel znajduje się około 300-350 metrów od publicznej piaszczystej plaży."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni, ale w pobliżu (około 1.7 km) znajduje się Action AquaPark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada brodzik dla dzieci, pokój zabaw oraz animacje dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych (przy basenie i w recepcji) za dodatkową opłatą."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska w Burgas (BOJ) wynosi około 29-31 km, co oznacza około 27-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel zapewnia ręczniki plażowe?",
+   "a": "Nie, hotel nie zapewnia ręczników plażowych."
+  }
+ ],
+ "address": "8240 Chaika, Sunny Beach",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Burgas (BOJ)",
+ "amenities": [
+  "sklep spożywczy",
+  "bar przy basenie",
+  "stół bilardowy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Chaika (Nessebar)",
+ "bars": 1,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 1.7,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": false,
+ "kidsClub": null,
+ "opened": 2005,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio: klimatyzacja, aneks kuchenny (lodówka, czajnik, toster, naczynia, płyta grzewcza), balkon/taras, łazienka (wanna/prysznic, kosmetyki), TV kablowa, jadalnia.",
+  "Apartament z jedną sypialnią: klimatyzacja, aneks kuchenny (lodówka, czajnik, toster, naczynia, płyta grzewcza), balkon/taras, łazienka (wanna/prysznic, kosmetyki), TV kablowa, jadalnia."
+ ],
+ "rooms": 100,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.7074192,
+  "lon": 27.7205194,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "directbooking.ro",
+  "hrs.com",
+  "expedia.com",
+  "sunnybeach.com",
+  "multitour.ru",
+  "bcdiamant.com",
+  "rome2rio.com"
+ ],
+ "updated": "2026-11-27"
+}

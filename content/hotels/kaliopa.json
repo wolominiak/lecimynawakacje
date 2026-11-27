@@ -1,0 +1,139 @@
+{
+ "id": 21915,
+ "slug": "kaliopa",
+ "name": "Kaliopa",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski",
+  "Albena"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/kaliopa-basen-1478402454-570-428.jpg",
+ "city": "Albena",
+ "intro": [
+  "Hotel Kaliopa to trzygwiazdkowy obiekt położony w bułgarskiej Albenie, bezpośrednio przy piaszczystej plaży i zaledwie 100 metrów od centrum kurortu. Hotel składa się z czteropiętrowego budynku głównego oraz mniejszego budynku bocznego, oferując 141 pokoi.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par szukających spokojnego wypoczynku z łatwym dostępem do morza i atrakcji miejscowości. Hotel oferuje podstawowe udogodnienia i jest dobrą bazą wypadową do odkrywania uroków bułgarskiego wybrzeża."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Kaliopa znajduje się w centralnej części Albeny, bezpośrednio przy szerokiej, piaszczystej plaży z łagodnym zejściem do morza. Goście hotelowi mają zapewnione bezpłatne leżaki i parasole w wydzielonym sektorze plaży. Centrum Albeny oddalone jest o około 100 metrów, a najbliższe lotnisko w Warnie (VAR) o 31-45 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 141 standardowo urządzonymi pokojami dwuosobowymi i jednoosobowymi. Wszystkie pokoje są klimatyzowane i wyposażone w łazienkę z prysznicem, telewizor, telefon, płatny minibar oraz balkon lub taras. Dostępne są łóżeczka dla niemowląt na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Kaliopa można wybrać opcję zakwaterowania ze śniadaniami (Bed & Breakfast) lub z dwoma posiłkami (Half Board), obejmującą śniadania i obiadokolacje w formie bufetu. Główna restauracja \"Amelia\" znajduje się około 50 metrów od budynku głównego. Na terenie obiektu działa również restauracja a la carte \"Kaliopa\" (dodatkowo płatna), lobby bar oraz bar przy basenie. Hotel nie oferuje opcji All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen ze słodką wodą w kształcie laguny, z wydzielonym brodzikiem dla dzieci. Leżaki i parasole przy basenie są bezpłatne. Dla aktywnych dostępna jest siłownia, a także płatne korty tenisowe, tenis stołowy, bilard, minigolf i sporty wodne. Aquapark Aquamania znajduje się w odległości około 900 m do 1 km."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Kaliopa jest przyjazny rodzinom z dziećmi, oferując plac zabaw, mini klub (czerwiec-sierpień) oraz mini dyskotekę (czerwiec-sierpień). W sezonie letnim organizowane są również animacje dla najmłodszych. W pokojach dostępne są bezpłatne łóżeczka dla niemowląt."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Bliskość centrum Albeny",
+  "Bezpłatne leżaki i parasole na plaży oraz przy basenie",
+  "Czyste pokoje i miła obsługa",
+  "Siłownia w cenie"
+ ],
+ "cons": [
+  "Starsze wnętrza i zużyte meble",
+  "Łazienki z drobnymi usterkami",
+  "Problemy z drzwiami balkonowymi i zapachem z klimatyzacji",
+  "Wi-Fi najlepiej działa przy recepcji",
+  "Brak windy w części budynku lub jej niedostępność"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Kaliopa jest położony bezpośrednio przy szerokiej, piaszczystej plaży."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Warna (VAR), oddalone o około 31-45 km."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w opcji Bed & Breakfast (śniadania) lub Half Board (śniadania i obiadokolacje)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Na terenie hotelu nie ma aquaparku, ale Aquapark Aquamania jest oddalony o około 900 m do 1 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest rekomendowany dla rodzin z dziećmi, oferując plac zabaw, mini klub, mini dyskotekę i animacje w sezonie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest bezpłatne w lobby, restauracji, przy basenie oraz w pokojach, choć najlepiej działa przy recepcji."
+  }
+ ],
+ "address": "Hotel Kaliopa 9620 Albena",
+ "adultsOnly": false,
+ "airportKm": 38,
+ "airportName": "Port lotniczy Warna (VAR)",
+ "amenities": [
+  "Siłownia",
+  "Siatkówka plażowa",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard",
+  "Minigolf",
+  "Rzutki",
+  "Aerobik",
+  "Jazda konna",
+  "Sporty wodne"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centralna część kurortu",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające spokojnego wypoczynku blisko plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1969,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2001,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe (ok. 20 m², dla maks. 2 os. dorosłych i 2 dzieci, z łóżkiem podwójnym lub dwoma pojedynczymi oraz sofą lub łóżkiem piętrowym jako dostawką, klimatyzacja, łazienka z prysznicem, WC, suszarka, TV LCD, telefon, płatny minibar, kącik dzienny, balkon/taras z częściowym widokiem na morze lub park)",
+  "Pokoje jednoosobowe z dzieckiem (ok. 15-20 m², klimatyzacja, łazienka z prysznicem, WC, suszarka, TV LCD, telefon, płatny minibar, kącik dzienny, balkon/taras z częściowym widokiem na morze lub park)"
+ ],
+ "rooms": 141,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3665672,
+  "lon": 28.082343,
+  "src": "osm"
+ },
+ "sources": [
+  "albenahotels.com",
+  "fischer.cz",
+  "kartago.sk",
+  "travelplanet.pl",
+  "booking.com",
+  "coraltravel.pl",
+  "tui.pl",
+  "gobulgaria.pl"
+ ],
+ "updated": "2026-11-27"
+}

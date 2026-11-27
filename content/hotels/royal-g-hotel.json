@@ -1,0 +1,139 @@
+{
+ "id": 33563,
+ "slug": "royal-g-hotel",
+ "name": "Royal G Hotel",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001458257-570-428.jpg",
+ "city": "Durres",
+ "intro": [
+  "Royal G Hotel to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Morza Adriatyckiego w Durres, na Riwierze Albańskiej. Hotel, otwarty w latach 2017-2018, oferuje nowoczesne wnętrza i jest idealnym miejscem dla osób ceniących sobie komfortowy wypoczynek blisko morza.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par szukających relaksu. Dzięki formule all inclusive oraz dostępnym udogodnieniom, takim jak baseny, spa i animacje, Royal G Hotel stanowi dobrą bazę do spędzenia urlopu w Albanii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Royal G Hotel znajduje się bezpośrednio przy piaszczystej plaży z łagodnym wejściem do morza. Goście mają do dyspozycji prywatną strefę z bezpłatnymi leżakami i parasolami. Obiekt jest oddalony o około 2-4 km od centrum Durres, a dojazd z lotniska w Tiranie zajmuje około 40 minut."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 120 pokojami rozmieszczonymi w pięciopiętrowym budynku. Dostępne są różne typy pokoi, w tym Standard, Superior, Family oraz apartamenty, z widokiem na miasto lub morze. Większość pokoi posiada balkon i jest wyposażona w klimatyzację, minibar, sejf, TV SAT, Wi-Fi oraz łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z restauracji głównej serwującej posiłki w formie bufetu oraz restauracji à la carte z kuchnią włoską i śródziemnomorską. Hotel oferuje formułę all inclusive, obejmującą śniadania, obiady, kolacje, przekąski oraz wybrane lokalne napoje bezalkoholowe i alkoholowe w wyznaczonych godzinach. Na terenie obiektu znajdują się również dwa lub trzy bary, w tym bar w lobby i bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "W hotelu znajduje się duży basen zewnętrzny oraz kryty basen z podgrzewaną wodą, dostępny przez cały rok. Dla dzieci przygotowano brodzik i plac zabaw. Goście mogą również korzystać z pełnowymiarowego spa z sauną, jacuzzi i łaźnią parową, a także z siłowni. Hotel organizuje animacje dla dorosłych i wieczory z muzyką na żywo."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bezpłatne leżaki i parasole na plaży i przy basenie",
+  "Nowoczesne i czyste wnętrza",
+  "Smaczne i różnorodne jedzenie",
+  "Dostępne spa i siłownia"
+ ],
+ "cons": [
+  "Pokoje bywają małe",
+  "Jedzenie może być powtarzalne",
+  "W sezonie bywa tłoczno, co utrudnia znalezienie wolnych leżaków",
+  "Jeden bar all inclusive otwarty tylko do 22:00",
+  "Możliwy hałas z pobliskiej budowy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Royal G Hotel jest położony bezpośrednio przy piaszczystej plaży, od 0 do 50 metrów."
+  },
+  {
+   "q": "Czy plaża jest prywatna?",
+   "a": "Plaża jest publiczna, ale hotel posiada wydzieloną prywatną strefę dla swoich gości."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 30-39,4 km od Międzynarodowego Lotniska w Tiranie (TIA - Mother Teresa)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym kompleksie."
+  }
+ ],
+ "address": "Shetitorja e Plazhit, 2001 Durrës, Albania lub Rr. Pavarsia, 2001 Durres, Albania",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Międzynarodowe Lotnisko w Tiranie (TIA - Mother Teresa)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kryty basen",
+  "Plac zabaw dla dzieci",
+  "Animacje dla dorosłych",
+  "Muzyka na żywo"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Riwiera Albańska",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "Piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu blisko plaży",
+  "Zwolennicy all inclusive",
+  "Osoby lubiące wieczorną rozrywkę"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 2017,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Room",
+  "Superior Room",
+  "Family Room",
+  "Signature Room",
+  "Executive Suite (Royal G Suite)",
+  "Pokoje z widokiem na miasto",
+  "Pokoje z częściowym widokiem na morze",
+  "Pokoje z bezpośrednim widokiem na morze"
+ ],
+ "rooms": 120,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3141985,
+  "lon": 19.4737017,
+  "src": "osm"
+ },
+ "sources": [
+  "travelplanet.pl",
+  "itaka.pl",
+  "wakacje.pl",
+  "trivago.pl",
+  "coraltravel.pl",
+  "trivago.co.uk",
+  "skyscanner.net",
+  "google.com.ng"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,132 @@
+{
+ "id": 29500,
+ "slug": "olymp-sveti-vlas",
+ "name": "Olymp (Sveti Vlas)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Św. Wlas"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/olymp-sveti-vlas-basen-1779024048-570-428.jpg",
+ "city": "Św. Włas",
+ "intro": [
+  "Hotel Olymp (Sveti Vlas) to trzygwiazdkowy kompleks apartamentowy położony w malowniczej miejscowości Św. Włas, w dzielnicy Yurta, zaledwie kilkaset metrów od piaszczystej plaży. Obiekt, otwarty w 2014 roku i odnowiony w 2017, składa się z dwóch siedmiopiętrowych budynków oferujących studia i apartamenty z aneksem kuchennym, co sprzyja samodzielnemu przygotowywaniu posiłków.",
+  "Hotel jest rekomendowany dla rodzin z dziećmi oraz par, szukających spokojnego wypoczynku z łatwym dostępem do plaży i lokalnych atrakcji. Bliskość centrum miejscowości oraz udogodnienia takie jak basen zewnętrzny i plac zabaw dla dzieci sprawiają, że jest to praktyczny wybór na wakacje nad Morzem Czarnym."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Olymp (Sveti Vlas) mieści się w miejscowości Św. Włas, w dzielnicy Yurta, około 400-500 metrów od centrum. Piaszczysta, publiczna plaża z łagodnym zejściem do wody znajduje się w odległości 300-450 metrów od obiektu. Leżaki i parasole na plaży są dodatkowo płatne, natomiast przy basenie hotelowym dostępne są bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje około 70 apartamentów i studiów, w tym apartamenty z jedną lub dwiema sypialniami oraz studia. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, aneks kuchenny z podstawowym sprzętem (mikrofalówka, lodówka, czajnik, płyta grzewcza, naczynia) oraz prywatną łazienkę z prysznicem i balkon. Niektóre apartamenty posiadają również sejf i pralkę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni bułgarskiej, europejskiej, śródziemnomorskiej oraz grill. Goście mogą również korzystać z baru, w tym baru przy basenie. Ze względu na wyposażenie apartamentów w aneksy kuchenne, hotel nie oferuje pakietu All Inclusive, co daje możliwość samodzielnego przygotowywania posiłków."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "W hotelu dostępny jest sezonowy basen zewnętrzny, który nie jest podgrzewany. Dla najmłodszych przygotowano brodzik oraz plac zabaw. Obiekt oferuje także studio fitness i masaże (dodatkowo płatne). Brak informacji o zjeżdżalniach, aquaparku, mini klubie czy animacjach."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Olymp (Sveti Vlas) jest szczególnie polecany dla rodzin z dziećmi oraz par. Przestronne apartamenty z aneksem kuchennym i bliskość plaży z łagodnym wejściem do wody sprawiają, że jest to dogodne miejsce na spokojny wypoczynek. Cicha okolica i dostępność udogodnień dla dzieci dodatkowo zwiększają jego atrakcyjność dla rodzin."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży, restauracji i sklepów",
+  "Duży, zadbany basen",
+  "Przestronne apartamenty z aneksem kuchennym",
+  "Miły i pomocny personel",
+  "Cicha okolica"
+ ],
+ "cons": [
+  "Basen z zimną wodą",
+  "Sporadyczne braki w sprzątaniu lub wymianie ręczników",
+  "Brak zjeżdżalni i animacji",
+  "Leżaki i parasole na plaży są płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Olymp (Sveti Vlas) znajduje się około 300-450 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy na terenie hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu Olymp (Sveti Vlas) nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje brodzik i plac zabaw."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Burgas (BOJ), oddalone o około 30-35 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w częściach wspólnych hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet All Inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu All Inclusive. Apartamenty są wyposażone w aneksy kuchenne umożliwiające samodzielne przygotowywanie posiłków."
+  }
+ ],
+ "address": "Yurta, Sveti Vlas 8256, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port Lotniczy Burgas (BOJ)",
+ "amenities": [
+  "studio fitness",
+  "masaż (dodatkowo płatny)",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Yurta",
+ "bars": 1,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 2014,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "studio z aneksem kuchennym, klimatyzacją, TV, łazienką i balkonem",
+  "apartament z jedną sypialnią z aneksem kuchennym, klimatyzacją, TV, łazienką i balkonem",
+  "apartament deluxe z jedną sypialnią z aneksem kuchennym, klimatyzacją, TV, łazienką i balkonem",
+  "apartament z dwiema sypialniami z aneksem kuchennym, klimatyzacją, TV, łazienką i balkonem"
+ ],
+ "rooms": 70,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.5535122,
+  "lon": 27.6429566,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "olympapartcomplex.com",
+  "hotels-burgas.com",
+  "travel.sk",
+  "directbooking.ro",
+  "planetofhotels.com",
+  "wakacjeamigos.pl",
+  "skyscanner.gg"
+ ],
+ "updated": "2026-11-27"
+}

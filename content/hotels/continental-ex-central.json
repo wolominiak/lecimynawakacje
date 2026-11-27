@@ -1,0 +1,136 @@
+{
+ "id": 20316,
+ "slug": "continental-ex-central",
+ "name": "Continental (ex. Central)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Złote Piaski"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/continental-ex-central-obiekt-1479352108-570-428.jpg",
+ "city": "Złote Piaski",
+ "intro": [
+  "Hotel Continental (ex. Central) to czterogwiazdkowy obiekt położony w sercu popularnego bułgarskiego kurortu Złote Piaski. Dzięki niedawnym renowacjom i szerokiej ofercie udogodnień, stanowi komfortową bazę wypadową dla osób poszukujących relaksu blisko miejskich atrakcji.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, oferując przestronne zakwaterowanie i udogodnienia dla najmłodszych. Bliskość plaży oraz bezpłatny transport ułatwiają dostęp do morza, a program All Inclusive zapewnia wygodny pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Continental (ex. Central) znajduje się w centrum Złotych Piasków, około 350-400 metrów od głównych atrakcji. Piaszczysta plaża z łagodnym wejściem do morza, wyróżniona Błękitną Flagą, oddalona jest o 300-350 metrów. Hotel zapewnia bezpłatny transport elektrycznym minibusem na plażę, a leżaki i parasole są dostępne za opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 122 komfortowymi pokojami i apartamentami, rozmieszczonymi w siedmiopiętrowym budynku. Pokoje dwuosobowe mają około 30 m², a apartamenty od 50 do 79 m². Wszystkie pokoje są klimatyzowane i wyposażone w telewizję satelitarną, Wi-Fi, sejf, czajnik oraz balkon, a łazienki posiadają wannę lub prysznic i suszarkę do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja z tarasem, lobby bar oraz bar przy basenie. Oferta All Inclusive obejmuje śniadania, obiady, podwieczorek (kanapki, burgery, ciasta, owoce, lody, espresso) i kolacje w formie bufetu. W ramach pakietu dostępne są również wybrane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen ze słoną wodą, z wydzieloną sekcją dla dzieci. Leżaki i parasole przy basenie są bezpłatne. Goście mogą korzystać z centrum SPA z bezpłatną fińską sauną, sauną infrared i łaźnią parową, a także z siłowni. Dostępne są również tenis stołowy i bilard."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną sekcję w basenie, mini klub, pokój zabaw oraz plac zabaw. Przestronne apartamenty są również atutem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja, blisko centrum Złotych Piasków",
+  "Bezpłatny transport na plażę",
+  "Przestronne i ładnie urządzone pokoje",
+  "Urozmaicone jedzenie w ramach All Inclusive",
+  "Bezpłatne Wi-Fi i siłownia"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są płatne",
+  "Brak aquaparku lub zjeżdżalni",
+  "Minibar w pokojach płatny",
+  "Brak gniazdek w łazience w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 300-350 metrów od publicznej, piaszczystej plaży. Hotel oferuje bezpłatny transport elektrycznym minibusem na plażę."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest odkryty basen ze słoną wodą i wydzielona sekcja dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Warna (Varna Airport), oddalone o około 23-30 km, co zajmuje około 30-37 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi ze względu na przestronne apartamenty, mini klub, pokój zabaw, plac zabaw oraz wydzieloną sekcję w basenie dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Co obejmuje pakiet All Inclusive?",
+   "a": "Pakiet All Inclusive obejmuje śniadania, obiady, podwieczorek (kanapki, burgery, ciasta, owoce, lody, espresso) oraz kolacje w formie bufetu. Obejmuje również wybrane napoje alkoholowe i bezalkoholowe."
+  }
+ ],
+ "address": "Golden Sands 9007, p.k. 55",
+ "adultsOnly": false,
+ "airportKm": 23,
+ "airportName": "Port lotniczy Warna (Varna Airport)",
+ "amenities": [
+  "Mini klub dla dzieci",
+  "Pokój zabaw dla dzieci",
+  "Plac zabaw",
+  "Tenis stołowy",
+  "Bilard",
+  "Fińska sauna",
+  "Sauna infrared",
+  "Łaźnia parowa"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Złotych Piasków",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.35,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (ok. 30 m²) z widokiem na park/basen lub morze, wyposażony w klimatyzację, TV satelitarną, minibar (płatny), Wi-Fi, czajnik, zestaw do kawy/herbaty, sejf, balkon, łazienkę z wanną lub prysznicem, suszarką do włosów, ręcznikami i kosmetykami.",
+  "Pokój superior (42 m²), wyposażony jak pokój dwuosobowy.",
+  "Apartament z widokiem na morze (ok. 50-79 m²), wyposażony jak pokój dwuosobowy.",
+  "Apartament dwupokojowy (sypialnia i salon z drzwiami łączącymi, ok. 60 m² lub 66 m² dla apartamentów dwusypialnianych), wyposażony jak pokój dwuosobowy.",
+  "Pokój ekonomiczny (23 m²) bez balkonu, wyposażony jak pokój dwuosobowy."
+ ],
+ "rooms": 122,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 51.5163773,
+  "lon": -0.1731502,
+  "src": "osm"
+ },
+ "sources": [
+  "travelplanner.ro",
+  "holidaycheck.de",
+  "hotelcontinental.bg",
+  "wego.com",
+  "agoda.com",
+  "shsbooking.com",
+  "wakacje.pl",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

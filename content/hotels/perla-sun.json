@@ -1,0 +1,139 @@
+{
+ "id": 20013,
+ "slug": "perla-sun",
+ "name": "Perla Sun",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg",
+  "Primorsko"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/perla-sun-zjezdzalnia-basen-teren-hotelu-obiekt-1046791477-570-428.jpg",
+ "city": "Primorsko",
+ "intro": [
+  "Hotel Perla Sun to czterogwiazdkowy obiekt położony w bułgarskim Primorsku, tuż przy południowej plaży. Otoczony rzeką Dyavolskata i lasem dębowym Kralska Oak Forest, oferuje spokojne otoczenie blisko natury, jednocześnie zapewniając łatwy dostęp do centrum miasta.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki licznym udogodnieniom, takim jak baseny dla najmłodszych, plac zabaw oraz aquapark. Hotel oferuje opcję all-inclusive, co czyni go atrakcyjnym wyborem na beztroskie wakacje nad Morzem Czarnym."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Perla Sun znajduje się w Primorsku, zaledwie 15-20 metrów od piaszczystej południowej plaży. Goście mają bezpośredni dostęp do plaży dzięki bezpłatnej mini-łodzi przeprawiającej przez rzekę. Obiekt jest oddalony o około 10 minut spacerem (0.5-0.6 km) od centrum Primorska."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 135 klimatyzowanych pokoi, w tym pokoje dwuosobowe, apartamenty oraz pokoje rodzinne. Każdy pokój wyposażony jest w lodówkę/minibar, prywatny balkon, telewizor z płaskim ekranem oraz łazienkę z wanną lub prysznicem. Niektóre pokoje posiadają również patio/taras z meblami ogrodowymi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni europejskiej, w tym opcje wegetariańskie. Do dyspozycji gości są również cztery bary, w tym bar przy basenie, lobby bar oraz Sky Bar. Hotel oferuje opcję all-inclusive, która obejmuje jedzenie i napoje, a śniadanie jest zawsze wliczone w cenę."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami, w tym sezonowym basenem zewnętrznym z barem oraz zintegrowanym basenem dla dzieci i niemowląt. Na terenie obiektu znajduje się również aquapark. Goście mogą korzystać z centrum fitness, kortu tenisowego, tenisa stołowego, bilarda, rzutek oraz boisk do koszykówki i piłki nożnej."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, zintegrowany basen dla dzieci i niemowląt oraz plac zabaw. Dostępny jest również klub dla dzieci, choć za dodatkową opłatą. W pobliżu hotelu znajduje się Aquaplanet Primorsko & Sport Centre."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Centrum spa oferuje szeroki zakres usług, w tym masaże, zabiegi na ciało i twarz, jacuzzi, saunę, łaźnię parową/turecką oraz solarium. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi. Hotel został całkowicie odnowiony w 2016 roku."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Piękne widoki z pokoi",
+  "Uprzejma obsługa",
+  "Smaczne jedzenie w ramach all-inclusive",
+  "Przestronne tarasy"
+ ],
+ "cons": [
+  "Sporadyczne problemy z czystością",
+  "Ograniczona różnorodność jedzenia",
+  "Klub dla dzieci za dodatkową opłatą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Perla Sun od plaży?",
+   "a": "Hotel Perla Sun znajduje się około 15-20 metrów od piaszczystej południowej plaży Primorsko. Goście mają bezpośredni dostęp do plaży za pomocą bezpłatnej mini-łodzi, która przeprawia przez rzekę."
+  },
+  {
+   "q": "Czy hotel Perla Sun posiada aquapark?",
+   "a": "Tak, hotel Perla Sun posiada aquapark. Dodatkowo, w pobliżu (około 20 metrów) znajduje się Aquaplanet Primorsko & Sport Centre."
+  },
+  {
+   "q": "Czy hotel Perla Sun jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Perla Sun jest polecany dla rodzin z dziećmi. Oferuje baseny dla dzieci, plac zabaw oraz klub dla dzieci (za dodatkową opłatą)."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Perla Sun jest oddalony o około 52-61.4 km od najbliższego lotniska - Portu lotniczego Burgas (BOJ)."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i/lub w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel Perla Sun jest tylko dla dorosłych?",
+   "a": "Nie, hotel Perla Sun nie jest przeznaczony wyłącznie dla dorosłych; posiada udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Saedinenie Str. 1, Primorsko",
+ "adultsOnly": false,
+ "airportKm": 52,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Centrum spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Boiska do koszykówki i piłki nożnej",
+  "Plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "Primorsko South Beach",
+ "bars": 4,
+ "beachDistanceM": 15,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (np. Queen Room, Double Room) z klimatyzacją, lodówką/minibarem, balkonem, telewizorem plazmowym/z płaskim ekranem, łazienką z wanną lub prysznicem, suszarką do włosów i ręcznikami.",
+  "Apartament (np. Queen Suite, King Suite) z klimatyzacją, lodówką/minibarem, balkonem, telewizorem plazmowym/z płaskim ekranem, łazienką z wanną lub prysznicem, suszarką do włosów i ręcznikami.",
+  "Pokój rodzinny z klimatyzacją, lodówką/minibarem, balkonem, telewizorem plazmowym/z płaskim ekranem, łazienką z wanną lub prysznicem, suszarką do włosów i ręcznikami.",
+  "Pokoje łączone/sąsiadujące z klimatyzacją, lodówką/minibarem, balkonem, telewizorem plazmowym/z płaskim ekranem, łazienką z wanną lub prysznicem, suszarką do włosów i ręcznikami."
+ ],
+ "rooms": 135,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.2631176,
+  "lon": 27.7508372,
+  "src": "osm"
+ },
+ "sources": [
+  "travelyalla.com",
+  "impt.io",
+  "hoteles.com",
+  "hotels.com",
+  "travelocity.com",
+  "fvrentals.com",
+  "booking.com",
+  "primorsko.org"
+ ],
+ "updated": "2026-11-27"
+}

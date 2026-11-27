@@ -1,0 +1,125 @@
+{
+ "id": 32553,
+ "slug": "edart",
+ "name": "Edart",
+ "country": "albania",
+ "place": [
+  "Albania",
+  "Riwiera Albańska",
+  "Durres"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/edart-obiekt-1830739973-570-428.jpg",
+ "city": "Durrës",
+ "intro": [
+  "Hotel Edart to kameralny, rodzinny obiekt położony bezpośrednio przy piaszczystej plaży w Durrës, nad Morzem Adriatyckim w Albanii. Jest to idealne miejsce dla osób szukających wypoczynku blisko morza, z łatwym dostępem do lokalnych atrakcji.",
+  "Odnowiony w 2024 roku, hotel oferuje komfortowe zakwaterowanie w pięciopiętrowym budynku. Dzięki prywatnej strefie plażowej z bezpłatnymi leżakami i parasolami, hotel jest szczególnie polecany dla rodzin z dziećmi oraz wszystkich ceniących sobie bezpośredni dostęp do morza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Edart znajduje się bezpośrednio przy piaszczystej plaży Durres, z łagodnym wejściem do morza. Obiekt posiada prywatną strefę plażową z bezpłatnymi leżakami, parasolami i ręcznikami dla gości. Najbliższe lotnisko w Tiranie (TIA) oddalone jest o około 33-34 km, a centrum Durrës o 2.5-3.7 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 40 pokojami dwuosobowymi, trzyosobowymi i czteroosobowymi. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę z prysznicem, telewizor z płaskim ekranem, minibar, biurko oraz bezpłatne Wi-Fi. Dostępne są pokoje z balkonem francuskim, balkonem oraz widokiem na morze lub ulicę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni włoskiej, śródziemnomorskiej i międzynarodowej w formie bufetu. Dodatkowo, za opłatą, dostępna jest restauracja à la carte specjalizująca się w daniach rybnych. Opcja All Inclusive obejmuje śniadanie, obiad i kolację w formie bufetu, a także wybrane napoje i przekąski w określonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel nie posiada basenów. Goście mogą korzystać z prywatnej strefy plażowej. Na miejscu dostępne są udogodnienia do uprawiania sportów wodnych, często oferowane przez lokalnych dostawców za dodatkową opłatą. W całym hotelu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Prywatna strefa plażowa z bezpłatnymi leżakami i parasolami",
+  "Pomocna obsługa",
+  "Dobre jedzenie, szczególnie kolacje",
+  "Bezpłatny prywatny parking"
+ ],
+ "cons": [
+  "Hałas z pobliskiego wesołego miasteczka do późnych godzin",
+  "Monotonne śniadania i ograniczony wybór w All Inclusive",
+  "Brak czajników w pokojach",
+  "Plaża i okolica bywają zaniedbane",
+  "Brak basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Edart jest położony bezpośrednio przy plaży, zaledwie kilka kroków od morza (20-50 m)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Edart nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Tirana (TIA), znajduje się około 33-34 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje bezpłatne łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Co obejmuje opcja All Inclusive?",
+   "a": "Opcja All Inclusive obejmuje śniadanie, obiad i kolację w formie bufetu, a także wodę, napoje bezalkoholowe, kawę/herbatę, ciasta/ciastka, piwo i wino w określonych godzinach."
+  }
+ ],
+ "address": "Rruga Pavaresia, Durrës, Albania",
+ "adultsOnly": false,
+ "airportKm": 33,
+ "airportName": "Międzynarodowe Lotnisko Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Prywatna strefa plażowa",
+  "Bezpłatne leżaki i parasole na plaży",
+  "Ręczniki plażowe",
+  "Bezpłatne łóżeczka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta z łagodnym wejściem do morza",
+ "centerKm": 2.5,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": true,
+ "renovated": 2024,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (klimatyzacja, prywatna łazienka, TV, minibar, biurko, szafa, Wi-Fi)",
+  "Pokój trzyosobowy (klimatyzacja, prywatna łazienka, TV, minibar, biurko, szafa, Wi-Fi)",
+  "Pokój czteroosobowy (klimatyzacja, prywatna łazienka, TV, minibar, biurko, szafa, Wi-Fi)"
+ ],
+ "rooms": 40,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "directbooking.ro",
+  "thomascook.com",
+  "planetofhotels.com",
+  "holidaycheck.de",
+  "lastminute.com",
+  "hoteledart.com",
+  "trivago.com"
+ ],
+ "updated": "2026-11-27"
+}

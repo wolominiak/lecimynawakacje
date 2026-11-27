@@ -1,0 +1,136 @@
+{
+ "id": 17548,
+ "slug": "olymp-sunny-beach",
+ "name": "Olymp (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/olymp-sunny-beach-basen-1483642473-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Olymp to dwugwiazdkowy obiekt położony w samym sercu Słonecznego Brzegu, największego kurortu na bułgarskim wybrzeżu Morza Czarnego. Jest to propozycja dla osób szukających zakwaterowania w dobrej lokalizacji, blisko piaszczystej plaży oraz centrum pełnego atrakcji.",
+  "Obiekt, choć zbudowany w 1960 roku i ostatnio remontowany w 2009, oferuje funkcjonalne pokoje i podstawowe udogodnienia. Jest szczególnie polecany dla rodzin z dziećmi, par oraz wszystkich, którzy cenią sobie łatwy dostęp do rozrywki i wypoczynku nad morzem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Olymp znajduje się w centralnej części Słonecznego Brzegu, zaledwie 50-60 metrów od publicznej, piaszczystej plaży. W odległości 150-200 metrów od obiektu znajduje się centrum miejscowości, co zapewnia łatwy dostęp do sklepów, barów i restauracji. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 50 pokoi, w tym pokoje dwuosobowe i apartamenty, urządzone w stylu retro. Każdy pokój wyposażony jest w indywidualnie sterowaną klimatyzację, telewizor z płaskim ekranem, małą lodówkę oraz łazienkę z prysznicem. Goście mogą korzystać z bezpłatnego Wi-Fi, choć jego prędkość w pokojach może być ograniczona."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się jedna restauracja na najwyższym piętrze, z której roztacza się widok na morze. Serwuje ona dania kuchni bułgarskiej i międzynarodowej. Śniadania podawane są w formie bufetu. Do dyspozycji gości są również bar przy basenie oraz bar w lobby."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem ze słodką wodą, w którym wydzielono brodzik dla dzieci. Dostępne jest również zewnętrzne jacuzzi. Goście mogą korzystać z bezpłatnej siłowni, a za dodatkową opłatą z bilarda, tenisa stołowego i wypożyczalni rowerów. W strefie wellness dostępne są solarium i masaże (za opłatą)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw, a także wbudowany brodzik w głównym basenie. Na życzenie dostępne są bezpłatne łóżeczka dla dzieci. W pobliżu hotelu, około 2 km, znajduje się Action Aquapark, a w odległości 10 km Nessebar Aquapark."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Bardzo przyjazny i pomocny personel",
+  "Czysty basen z dużą ilością leżaków",
+  "Dobre i urozmaicone śniadania z widokiem na morze",
+  "Bezpłatna klimatyzacja i Wi-Fi"
+ ],
+ "cons": [
+  "Wystrój i wnętrza w stylu retro",
+  "Potencjalny hałas z sąsiednich hoteli/miejsc rozrywki",
+  "Ograniczona prędkość Wi-Fi w pokojach",
+  "Plaża publiczna, leżaki i parasole płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Olymp jest położony około 50-60 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Burgas (BOJ), oddalony o około 30-35 km. Lotnisko Varna (VAR) znajduje się około 100-120 km dalej."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. W pobliżu znajdują się Action Aquapark (ok. 2 km) i Nessebar Aquapark (ok. 10 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw i jest blisko plaży. Dostępne są bezpłatne łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezprzewodowy dostęp do internetu (Wi-Fi) jest bezpłatny w całym hotelu, w tym w pokojach, choć w pokojach prędkość może być ograniczona."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych, jest przyjazny rodzinom."
+  }
+ ],
+ "address": "kurorten kompleks Slanchev bryag, 8240, Słoneczny Brzeg, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port Lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Jacuzzi",
+  "Siłownia",
+  "Solarium (płatne)",
+  "Masaże (płatne)",
+  "Bilard (płatny)",
+  "Tenis stołowy (płatny)",
+  "Wypożyczalnia rowerów (płatna)",
+  "Plac zabaw dla dzieci",
+  "Mini zoo"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centralna część Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.15,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające spokojnego miejsca blisko centrum i plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1960,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2009,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin Standard Room): klimatyzacja, balkon (w niektórych), telewizor z płaskim ekranem, mała lodówka, część wypoczynkowa, łazienka z prysznicem, parkiet/wykładzina, sejf (płatny), telefon",
+  "Apartament (One-Bedroom Suite): klimatyzacja, balkon (w niektórych), telewizor z płaskim ekranem, mała lodówka, część wypoczynkowa, łazienka z prysznicem, parkiet/wykładzina, sejf (płatny), telefon"
+ ],
+ "rooms": 50,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.5535122,
+  "lon": 27.6429566,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "trivago.ie",
+  "trabber.ie",
+  "booking.com",
+  "bulgariancoast.com",
+  "visit.guide",
+  "ohotel.uk",
+  "coral.ge"
+ ],
+ "updated": "2026-11-27"
+}

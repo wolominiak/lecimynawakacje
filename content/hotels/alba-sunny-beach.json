@@ -1,0 +1,141 @@
+{
+ "id": 10713,
+ "slug": "alba-sunny-beach",
+ "name": "Alba (Sunny Beach)",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/alba-sunny-beach-budynek-glowny-basen-1478550326-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Alba to czterogwiazdkowy obiekt położony w samym sercu Słonecznego Brzegu, bezpośrednio przy głównej promenadzie. Zbudowany w 2003 roku i odnowiony w 2019 roku (pokoje Deluxe w 2026), oferuje komfortowe zakwaterowanie w trzech budynkach.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki rozbudowanej ofercie rekreacyjnej, w tym mini aquaparkowi i klubowi dla najmłodszych. Centralne położenie sprawia, że jest to również dobra opcja dla par i osób ceniących bliskość rozrywki i plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Alba znajduje się w centrum Słonecznego Brzegu, przy głównej promenadzie, około 50-100 metrów od piaszczystej plaży. Plaża charakteryzuje się łagodnym wejściem do morza i płaskim dnem, a jedno ze źródeł wskazuje, że posiada certyfikat Błękitnej Flagi. Najbliższe lotnisko w Burgas oddalone jest o około 30 km, a zabytkowe Stare Miasto Nesebyr o około 2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje około 340-350 pokoi, studiów i apartamentów. Wszystkie wyposażone są w klimatyzację, prywatny balkon, telewizor, lodówkę/mini bar, suszarkę do włosów oraz łazienkę z prysznicem lub wanną. Pokoje Deluxe zostały odnowione na lato 2026, natomiast pokoje Economy i Standard mogą być starsze. Sejf w pokoju jest dodatkowo płatny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja z tarasem, serwująca posiłki w ramach opcji All Inclusive. Dostępne są również 2 bary i snack bar. Oferta All Inclusive obejmuje posiłki i napoje, a hotel zapewnia także opcje wegetariańskie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma odkrytymi basenami dla dorosłych oraz dwoma basenami dla dzieci. Dla najmłodszych przygotowano mini aquapark ze zjeżdżalniami, mini klub (4-12 lat) oraz plac zabaw. Dostępny jest program animacyjny dla dzieci i dorosłych, prowadzony 6 dni w tygodniu. Goście mogą korzystać z centrum fitness/siłowni oraz centrum spa z masażami i zabiegami. Wśród aktywności sportowych są tenis stołowy, rzutki, łucznictwo, aerobik, gimnastyka w wodzie i piłka wodna."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Na terenie całego kompleksu dostępny jest bezpłatny bezprzewodowy internet (Wi-Fi). Hotel posiada 7 wind w 8-piętrowych budynkach. Jest to obiekt przyjazny rodzinom, nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko plaży i centrum rozrywki",
+  "Czyste pokoje i baseny",
+  "Dobre i zróżnicowane jedzenie",
+  "Dobre animacje dla dzieci i dorosłych",
+  "Bezpłatne Wi-Fi w całym kompleksie"
+ ],
+ "cons": [
+  "Możliwy hałas w nocy z okolicznych barów",
+  "Kolejki do jedzenia i kawy",
+  "Niektóre pokoje (Economy, Standard) nie są odnowione",
+  "Sejf w pokoju jest dodatkowo płatny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Alba znajduje się około 50-100 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada mini aquapark ze zjeżdżalniami dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, plac zabaw i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko w Burgas (BOJ) jest oddalone o około 30 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny internet Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym kompleksie."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Tak, hotel oferuje wyżywienie w opcji All Inclusive, obejmujące posiłki i napoje serwowane w restauracjach na miejscu."
+  }
+ ],
+ "address": "Slanchev Bryag, 8240 Sunny Beach, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Rzutki",
+  "Łucznictwo",
+  "Aerobik",
+  "Gimnastyka w wodzie",
+  "Piłka wodna",
+  "Mini klub dla dzieci",
+  "Plac zabaw"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum Słonecznego Brzegu",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta z łagodnym wejściem do morza",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające centralnej lokalizacji i rozrywki"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy Economy (klimatyzacja, balkon, TV, sejf, lodówka/mini bar, suszarka, łazienka)",
+  "Pokój dwuosobowy Comfort (klimatyzacja, balkon, TV, sejf, lodówka/mini bar, suszarka, łazienka)",
+  "Pokój dwuosobowy Deluxe (odnowiony, klimatyzacja, balkon, TV, sejf, lodówka/mini bar, suszarka, łazienka)",
+  "Pokój dwuosobowy Standard (klimatyzacja, balkon, TV, sejf, lodówka/mini bar, suszarka, łazienka)",
+  "Studio (klimatyzacja, balkon, TV, sejf, lodówka/mini bar, suszarka, łazienka, część wypoczynkowa z sofą)",
+  "Apartament (oddzielna sypialnia i salon z rozkładaną sofą, klimatyzacja, balkon, TV, sejf, lodówka/mini bar, suszarka, łazienka)"
+ ],
+ "rooms": 340,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6937126,
+  "lon": 27.7117795,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "sunnybeachyhotel.com",
+  "thomascook.com",
+  "daytripsbulgaria.com",
+  "detur.se",
+  "reserving.com",
+  "bulgariancoast.com",
+  "alba-hotel.com"
+ ],
+ "updated": "2026-11-27"
+}
