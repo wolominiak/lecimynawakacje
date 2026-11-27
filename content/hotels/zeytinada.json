@@ -1,0 +1,138 @@
+{
+ "id": 10933,
+ "slug": "zeytinada",
+ "name": "Zeytinada",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Torba"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/zeytinada-obiekt-129839-570-428.jpg",
+ "city": "Torba",
+ "intro": [
+  "Hotel Zeytinada to czterogwiazdkowy obiekt położony w malowniczej miejscowości Torba na Półwyspie Bodrum, w otoczeniu gajów oliwnych i z widokiem na Zatokę Torba. Oferuje spokojną i relaksującą atmosferę, łącząc lokalną architekturę z nowoczesnym designem.",
+  "Hotel jest rekomendowany dla rodzin, par oraz wszystkich, którzy szukają wyciszenia i odpoczynku. Dzięki udogodnieniom dla dzieci i bliskości centrum Torby oraz Bodrum, stanowi dobrą bazę zarówno do relaksu, jak i zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Zeytinada Hotel znajduje się w Torbie, około 200-300 metrów od centrum miejscowości. Do centrum Bodrum jest około 6 km. Najbliższe lotnisko to Milas-Bodrum (BJV), oddalone o około 30-38 km. Hotel jest oddalony od kamienistej plaży Torba o około 300 metrów do 1 km. Obiekt posiada prywatną plażę, do której oferuje bezpłatny transfer. Na plaży i przy basenach dostępne są bezpłatne leżaki z materacami i parasole, a także ręczniki basenowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 78 pokojami, rozmieszczonymi w 14 lub 23 niezależnych blokach/willach. W ofercie znajdują się pokoje standardowe, typu suite, triple oraz double suite. Wszystkie pokoje wyposażone są w indywidualnie sterowaną klimatyzację, łazienkę z prysznicem/wanną, suszarkę do włosów, telewizor satelitarny, minibar (płatny), sejf, telefon oraz balkon lub taras. W pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa hotelu, mogąca pomieścić 200 osób, serwuje dania kuchni międzynarodowej, w tym bufet dietetyczny, wegetariański i dziecięcy. Hotel oferuje wyżywienie w formule Half Board, obejmującej śniadania i obiadokolacje w formie bufetu, bez napojów. Na terenie obiektu znajdują się również bar przy basenie (snack bar) oraz Keyif Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny ze słodką wodą: basen botaniczny (300 m²) i basen aktywności (100 m²). Dla dzieci wydzielono strefę w basenie oraz plac zabaw. Dostępny jest mini klub dla dzieci w wieku 4-12 lat. Hotel oferuje animacje dla dzieci oraz zajęcia dla dorosłych, takie jak tenis stołowy, bilard, rzutki i gry planszowe. Obiekt dysponuje również centrum spa z sauną, łaźnią turecką i jacuzzi, a także siłownią."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w całym obiekcie. Do dyspozycji gości jest centrum fitness, kort tenisowy (korzystanie w ciągu dnia w cenie Half Board). W pobliżu hotelu dostępne są płatne sporty wodne, nurkowanie i trekking. Hotel został niedawno odnowiony i zajmuje teren o powierzchni 3500 m²."
+  }
+ ],
+ "pros": [
+  "Spokojna i relaksująca atmosfera",
+  "Piękne otoczenie z ogrodami i gajami oliwnymi",
+  "Przyjazny i pomocny personel",
+  "Dobre i urozmaicone jedzenie (śniadania i obiadokolacje)",
+  "Czystość w całym hotelu"
+ ],
+ "cons": [
+  "Twarde materace w pokojach",
+  "Cienkie ściany",
+  "Brak czajnika/kawy/herbaty w pokojach",
+  "Wysokie ceny w barze",
+  "Brak napojów (nawet wody) w opcji Half Board"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od plaży Torba o około 300 metrów do 1 km. Posiada prywatną plażę, do której oferuje bezpłatny transfer."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Milas-Bodrum (BJV), jest oddalone o około 30-38 km, co zajmuje około 35 minut jazdy."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje wydzieloną strefę dla dzieci w basenie, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Dostępne są również animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni. Dostępne są dwa odkryte baseny ze słodką wodą."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Torba Mevkii Bodrum - Muğla, 48400 Bodrum, Mugla, Turkey",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Milas-Bodrum Airport (BJV)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Leżaki i parasole",
+  "Ręczniki basenowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Bodrum",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "kamienista",
+ "centerKm": 0.2,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające spokoju i relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój typu suite",
+  "pokój triple",
+  "pokój double suite"
+ ],
+ "rooms": 78,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.1312355,
+  "lon": 32.4839791,
+  "src": "osm"
+ },
+ "sources": [
+  "zeytinada.com",
+  "booking.com",
+  "thomascook.com",
+  "trivago.com",
+  "yandex.com.tr",
+  "travelyalla.com",
+  "halalworldtravel.com",
+  "boutiquesmallhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

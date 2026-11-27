@@ -1,0 +1,142 @@
+{
+ "id": 7216,
+ "slug": "selcukhan",
+ "name": "Selcukhan",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Beldibi"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/selcukhan-plaza-1487708879-570-428.jpg",
+ "city": "Beldibi",
+ "intro": [
+  "Hotel Selcukhan to czterogwiazdkowy obiekt położony w malowniczej miejscowości Beldibi na Riwierze Tureckiej, w regionie Kemer. Usytuowany jest w otoczeniu zielonych ogrodów pomarańczowych, z widokiem na góry Taurus, co zapewnia relaksującą atmosferę. Hotel przeszedł remont, a jego teren o powierzchni 12 500 m² oferuje liczne udogodnienia dla gości.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz osób aktywnych, które cenią sobie wypoczynek blisko natury. Dzięki formule Ultra All Inclusive i różnorodnym atrakcjom, takim jak baseny, zjeżdżalnie i animacje, Selcukhan stanowi dobrą bazę do spędzenia wakacji w Turcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Selcukhan znajduje się około 100-230 metrów od prywatnej plaży. Plaża jest piaszczysto-żwirkowa z elementami kamienistymi, dlatego zalecane jest obuwie ochronne. Na plaży dostępne są bezpłatne parasole, leżaki i ręczniki plażowe. Obiekt jest oddalony o około 1,8 km od centrum Beldibi i 15 km od centrum Kemer."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 220-224 pokoje, w tym Standard Room, Standard Plus Room, Family Room z dwiema sypialniami oraz Superior Room. Wszystkie pokoje wyposażone są w klimatyzację, TV-SAT, telefon, bezpłatny sejf, minibar, łazienkę z prysznicem/wanną i suszarką oraz balkon. Z pokoi roztaczają się widoki na góry, morze, basen lub ogród."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja główna bufetowa, restauracja z przekąskami oraz restauracja a la carte (jedna wizyta bezpłatna). Goście mogą korzystać z czterech barów, w tym baru na plaży, przy basenie i lobby baru. Formuła Ultra All Inclusive obejmuje śniadanie, brunch, lunch, kolację, lody, słodycze, przekąski, nocną zupę oraz lokalne napoje bezalkoholowe i alkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się zewnętrzny basen dla dorosłych oraz osobny basen dla dzieci. Dostępne są dwie zjeżdżalnie wodne. Hotel oferuje centrum SPA z łaźnią turecką, sauną i jacuzzi, a także siłownię. Wśród aktywności sportowych dostępne są bilard, rzutki, tenis stołowy, piłkarzyki, aerobik i minigolf."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, plac zabaw oraz mini klub. Codziennie odbywają się animacje dla dzieci, co zapewnia rozrywkę przez cały dzień. Hotel jest rekomendowany dla rodzin, co potwierdza jego ofertę skierowaną do najmłodszych."
+  }
+ ],
+ "pros": [
+  "Piękne położenie między morzem a górami",
+  "Prywatna plaża z bezpłatnymi leżakami i ręcznikami",
+  "Hotel po remoncie, czyste pokoje i teren",
+  "Smaczne i obfite wyżywienie Ultra All Inclusive",
+  "Dostępne bezpłatne Wi-Fi na terenie całego hotelu"
+ ],
+ "cons": [
+  "Kamienista plaża (zalecane buty do kąpieli)",
+  "Brak czajnika w niektórych pokojach",
+  "Animacje często prowadzone w języku rosyjskim",
+  "Monotonne śniadania i kolacje",
+  "Kolejki przy grillu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 100-230 metrów od prywatnej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, na terenie hotelu dostępne są dwie zjeżdżalnie wodne."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin, oferuje brodzik, plac zabaw, mini klub i animacje dla dzieci."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko, Antalya (AYT), jest oddalone o około 35-40 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie w formule all inclusive?",
+   "a": "Tak, hotel oferuje wyżywienie w formule Ultra All Inclusive (UAI)."
+  }
+ ],
+ "address": "Beldibi Mahallesi, Başkomutan Atatürk Caddesi No:48, 07990 Kemer/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Lotnisko Antalya (AYT)",
+ "amenities": [
+  "Łaźnia turecka (hammam)",
+  "Sauna",
+  "Jacuzzi",
+  "Bilard",
+  "Rzutki",
+  "Tenis stołowy",
+  "Piłkarzyki",
+  "Aerobik",
+  "Minigolf",
+  "Muzyka na żywo",
+  "Wieczorne show"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kemer",
+ "bars": 4,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysto-żwirkowa z elementami kamienistymi",
+ "centerKm": 1.8,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające aktywnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1988,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2024,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standard Room (ok. 24 m², klimatyzacja, TV-SAT, telefon, sejf, minibar, łazienka, balkon)",
+  "Standard Plus Room (ok. 24 m², klimatyzacja, TV-SAT, telefon, sejf, minibar, łazienka, balkon, niektóre z zestawem do parzenia kawy/herbaty)",
+  "Family Room (ok. 40 m², dwie oddzielne sypialnie, klimatyzacja, TV-SAT, telefon, sejf, minibar, łazienka, balkon, niektóre z zestawem do parzenia kawy/herbaty)",
+  "Superior Room (ok. 28 m², klimatyzacja, TV-SAT, telefon, sejf, minibar, łazienka, balkon)"
+ ],
+ "rooms": 220,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7366409,
+  "lon": 30.5631715,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "holidaycheck.de",
+  "joinup.pl",
+  "selcukhan.com.tr",
+  "yandex.com",
+  "enuygun.com",
+  "bookstaygo.com",
+  "iziwakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

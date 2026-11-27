@@ -1,0 +1,135 @@
+{
+ "id": 76289,
+ "slug": "boyalik-beach",
+ "name": "Boyalik Beach",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Cesme"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/boyalik-beach-plaza-1645416148-570-428.jpg",
+ "city": "Çeşme",
+ "intro": [
+  "Boyalik Beach to pięciogwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży Boyalık Beach w miejscowości Çeşme, nad Morzem Egejskim. Obiekt, zbudowany w 1989 roku i odnowiony w 2013, oferuje komfortowe zakwaterowanie w 236 pokojach rozmieszczonych na 8 piętrach.",
+  "Hotel jest rekomendowany zarówno dla rodzin z dziećmi, jak i dla par, szukających relaksu w malowniczej okolicy. Bliskość centrum Çeşme oraz dostęp do prywatnej plaży z Błękitną Flagą to jego główne atuty."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Boyalik Beach znajduje się w dzielnicy Boyalık Mah. w Çeşme, bezpośrednio przy 120-metrowej, prywatnej piaszczystej plaży Boyalık Beach, która posiada certyfikat Błękitnej Flagi. Plaża charakteryzuje się miękkim, jasnym piaskiem i płytką, czystą wodą. Leżaki, parasole i ręczniki plażowe są dostępne dla gości bezpłatnie. Centrum Çeşme oddalone jest o około 2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 236 pokojami, w tym pokojami standardowymi (z widokiem na morze lub ląd), rodzinnymi oraz suitami. Dostępne są również pokoje przystosowane dla osób niepełnosprawnych. Każdy pokój wyposażony jest w klimatyzację, telewizor z płaskim ekranem, minibar, balkon, sejf oraz prywatną łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja, Crystal Restaurant, serwuje śniadania i kolacje w formie bufetu, oferując dania kuchni tureckiej i międzynarodowej. Na terenie obiektu znajdują się również snack bary przy basenie i morzu oraz cztery bary, w tym Red Opal Bar i Blue Opal Lobby Bar, czynny 24h. Hotel oferuje pakiety z dwoma posiłkami (śniadania i kolacje), a napoje i minibar są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji dwa baseny - odkryty i kryty, a także brodzik dla dzieci. Hotel oferuje centrum spa z sauną, łaźnią turecką, jacuzzi oraz gabinetami masażu. Dostępna jest również siłownia. Wśród aktywności sportowych można znaleźć tenis stołowy oraz niemotorowe sporty wodne, takie jak nurkowanie i windsurfing. Hotel zapewnia animacje i rozrywkę."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, mini klub oraz plac zabaw. Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci. W pobliżu hotelu, około 3 km, znajduje się Aqua Toy City."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży z Błękitną Flagą",
+  "Smaczne i różnorodne jedzenie (szczególnie śniadania i kolacje)",
+  "Pomocna i miła obsługa",
+  "Dobre centrum spa z łaźnią turecką",
+  "Czyste pokoje i baseny"
+ ],
+ "cons": [
+  "Pokoje i łazienki mogą być nieco przestarzałe i wymagać odświeżenia",
+  "Brak pakietu all inclusive - napoje i minibar są dodatkowo płatne",
+  "Jedzenie w bufecie bywało niewystarczająco gorące",
+  "Niektóre opinie wskazują na spadek standardu hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Boyalik Beach jest położony bezpośrednio przy prywatnej, piaszczystej plaży Boyalık Beach."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Izmir Adnan Menderes (ADB), oddalone o około 80-95 km. Czas przejazdu to około 1 godzina."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada aquaparku, ale w pobliżu (około 3 km) znajduje się Aqua Toy City."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, mini klub i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Boyalik Mevkii 3200 Sokak No. 1, Çeşme, İzmir, Turcja",
+ "adultsOnly": false,
+ "airportKm": 87.5,
+ "airportName": "Izmir Adnan Menderes (ADB)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Niemotorowe sporty wodne",
+  "Nurkowanie",
+  "Windsurfing"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Boyalık Mah.",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1989,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2013,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (z widokiem na morze lub ląd)",
+  "pokój rodzinny",
+  "suita",
+  "pokój przystosowany dla osób niepełnosprawnych"
+ ],
+ "rooms": 236,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.3257445,
+  "lon": 26.3246072,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelscombined.com",
+  "yandex.com",
+  "reserving.com",
+  "agoda.com",
+  "booking.com",
+  "thomascook.com",
+  "allcesmehotels.com",
+  "wego.com"
+ ],
+ "updated": "2026-11-27"
+}

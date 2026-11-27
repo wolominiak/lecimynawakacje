@@ -1,0 +1,141 @@
+{
+ "id": 13883,
+ "slug": "side-kervan",
+ "name": "Side Kervan",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Side"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/side-kervan-basen-809713866-570-428.jpg",
+ "city": "Side",
+ "intro": [
+  "Hotel Side Kervan to kameralny obiekt o standardzie trzech gwiazdek, położony w historycznej dzielnicy Manavgat w Side, w prowincji Antalya. Jego atutem jest bliskość Morza Śródziemnego oraz starożytnych zabytków, takich jak Świątynia Apollina. Jest to idealne miejsce dla osób ceniących sobie spokój, dobrą lokalizację oraz możliwość zwiedzania okolicy.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz podróżujących z ograniczonym budżetem, którzy szukają relaksu i chcą połączyć wypoczynek z odkrywaniem historii regionu. Hotel oferuje odnowione pokoje i przyjazną atmosferę, co czyni go atrakcyjną opcją dla osób szukających dobrej relacji ceny do jakości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Side Kervan znajduje się w odległości około 800 metrów do 1 km od centrum Side. Piaszczysta plaża oddalona jest o 300-900 metrów, a dojazd do niej ułatwia bezpłatny bus hotelowy. Na plaży goście mogą korzystać z bezpłatnych leżaków i parasoli."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 59 lub 60 pokojami, które zostały odnowione w 2018 lub 2026 roku. Pokoje są wyposażone w klimatyzację, telewizor, minibar (woda uzupełniana codziennie), sejf (płatny), łazienkę z prysznicem i suszarką do włosów oraz balkon. Na życzenie dostępne są bezpłatne łóżeczka dla dzieci."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa, serwująca śniadania, obiady i kolacje. Do dyspozycji gości są również dwa bary - przy basenie oraz w lobby. Pakiet All Inclusive obejmuje posiłki w formie bufetu, popołudniowe przekąski, kawę/herbatę oraz lokalne napoje bezalkoholowe i alkoholowe w godzinach 10:00-22:00 lub 10:00-23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden odkryty basen ze słodką wodą, z wydzieloną częścią dla dzieci. Obiekt jest spokojny, bez zorganizowanych animacji, ale goście mogą korzystać z rzutek i bilarda (płatny). Dostępna jest również sauna i łaźnia turecka, a masaże są dodatkowo płatne."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Bezpłatne Wi-Fi dostępne jest w lobby i w pokojach. Hotel nie posiada windy, co warto wziąć pod uwagę. Brak siłowni, ale na plaży dostępne są płatne sporty wodne."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko centrum Side i zabytków",
+  "Czyste i odnowione pokoje",
+  "Smaczne i urozmaicone jedzenie (jak na kategorię 3*)",
+  "Przyjazny personel i rodzinna atmosfera",
+  "Dobra relacja ceny do jakości"
+ ],
+ "cons": [
+  "Brak windy",
+  "Jedzenie może być monotonne po dłuższym pobycie",
+  "Płatne ręczniki plażowe",
+  "Hałas z pobliskiego klubu nocnego w niektórych pokojach",
+  "Ograniczone udogodnienia w łazience (tylko mydło)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od piaszczystej plaży o około 300-900 metrów. Hotel oferuje bezpłatny transfer busem na plażę."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko w Antalyi (AYT) jest oddalone o około 55-65 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferując wydzieloną część basenu dla dzieci, krzesełka w restauracji i łóżeczka na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby oraz w pokojach. W pozostałych częściach hotelu może być płatne."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Brak informacji o siłowni w hotelu."
+  }
+ ],
+ "address": "Atatürk Blv. No:1, 07330 Side, Manavgat/Antalya",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "sauna",
+  "łaźnia turecka",
+  "bilard (płatny)",
+  "rzutki",
+  "tenis stołowy"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Manavgat",
+ "bars": 2,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta",
+ "centerKm": 0.9,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby ceniące dobrą lokalizację",
+  "podróżujący z ograniczonym budżetem",
+  "miłośnicy historii",
+  "osoby szukające spokoju i relaksu"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Promo Room",
+  "Standard Room",
+  "Standard Pool View",
+  "Standard Sea Side/Partial Sea View",
+  "pokój rodzinny (ok. 30-35 m²)",
+  "pokój jednoosobowy"
+ ],
+ "rooms": 60,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7774167,
+  "lon": 31.3954428,
+  "src": "osm"
+ },
+ "sources": [
+  "sidekervanhotel.com",
+  "trivago.com",
+  "pegast.ru",
+  "thomascook.com",
+  "travelplanet.pl",
+  "invia.cz",
+  "halalworld.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

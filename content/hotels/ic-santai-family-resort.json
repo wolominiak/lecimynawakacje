@@ -1,0 +1,136 @@
+{
+ "id": 6939,
+ "slug": "ic-santai-family-resort",
+ "name": "IC Santai Family Resort",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Belek"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/ic-santai-family-resort-teren-hotelu-1368714802-570-428.jpg",
+ "city": "Belek",
+ "intro": [
+  "IC Santai Family Resort to pięciogwiazdkowy hotel położony w Belek na Riwierze Tureckiej, w dzielnicy Uckum Tepesi. Obiekt, otwarty w 1995 roku i gruntownie odnowiony w 2024 roku, oferuje rozległy teren zielony i bezpośredni dostęp do prywatnej, piaszczystej plaży.",
+  "Hotel jest idealnym miejscem na rodzinne wakacje, oferując bogatą infrastrukturę dla dzieci i dorosłych, w tym aquapark, liczne baseny i urozmaicony program animacyjny. Dzięki formule Ultra All Inclusive, goście mogą cieszyć się kompleksową ofertą gastronomiczną i rekreacyjną."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel IC Santai Family Resort znajduje się bezpośrednio przy prywatnej, piaszczystej plaży z łagodnym zejściem do morza i pomostem. Na plaży dostępne są bezpłatne parasole, leżaki i ręczniki. Obiekt jest oddalony o około 6-9 km od centrum Belek i około 25-30 km od lotniska w Antalyi (AYT)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 464 do 710 pokoi oraz 89 willi, w tym pokoje standardowe, suity i luksusowe wille. Wszystkie pokoje wyposażone są w balkon lub taras, klimatyzację, minibar, sejf, TV satelitarną oraz łazienkę z wanną lub prysznicem. Dostępne są również pokoje przystosowane dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "IC Santai Family Resort dysponuje licznymi basenami, w tym 3 odkrytymi i 1 krytym (podgrzewanym), a także 5 brodzikami dla dzieci. Na terenie obiektu znajduje się aquapark z 8 zjeżdżalniami dla dorosłych i 3 dla dzieci. Hotel oferuje bogaty program animacyjny, siłownię, centrum SPA oraz różnorodne aktywności sportowe, takie jak tenis, siatkówka plażowa czy sporty wodne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach formuły Ultra All Inclusive, hotel oferuje posiłki w restauracji głównej w formie bufetu oraz w 5 restauracjach à la carte (azjatycka, turecka, włoska, rybna, meksykańska - zazwyczaj płatne). Do dyspozycji gości jest również 6-7 barów, w tym lobby bar czynny 24 godziny. Oferta obejmuje szeroki wybór przekąsek, napoje bezalkoholowe, lokalne i wybrane importowane alkohole."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest szczególnie polecany dla rodzin z dziećmi. Oprócz aquaparku i brodzików, dostępna jest strefa Kids Paradise z placami zabaw, pokojami zabaw i kinem. Działają tu minikluby dla dzieci w różnym wieku (od 0 do 17 lat), oferujące zajęcia i rozrywki przez cały dzień."
+  }
+ ],
+ "pros": [
+  "Rozbudowany aquapark i strefa basenowa",
+  "Bogata oferta dla dzieci i nastolatków",
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Kompleksowa formuła Ultra All Inclusive",
+  "Duży i zadbany teren zielony"
+ ],
+ "cons": [
+  "Położenie nieco oddalone od ścisłego centrum Belek",
+  "Dodatkowe opłaty za niektóre usługi (np. restauracje à la carte, pawilony na plaży)",
+  "W niektórych opiniach wspomina się o słabym wyciszeniu pokoi w budynku głównym",
+  "Wysoki poziom hałasu w restauracji wieczorem"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel położony jest bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel ma aquapark?",
+   "a": "Tak, hotel posiada aquapark z 8 zjeżdżalniami dla dorosłych i 3 dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując liczne udogodnienia, minikluby i animacje."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko (Antalya - AYT) znajduje się około 25-30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatny dostęp do Internetu Wi-Fi jest dostępny w pokojach i we wszystkich ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia i spa?",
+   "a": "Tak, hotel oferuje siłownię oraz centrum SPA z sauną, łaźnią turecką i jacuzzi."
+  }
+ ],
+ "address": "Kadriye Mahallesi Üçkum Tepesi Caddesi No: 14/1 Serik",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Port lotniczy Antalya (AYT)",
+ "amenities": [
+  "bezpłatne parasole, leżaki i ręczniki na plaży",
+  "pomost na plaży",
+  "udogodnienia dla osób niepełnosprawnych"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Uckum Tepesi",
+ "bars": 7,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "aktywni goście"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1995,
+ "pools": 7,
+ "privateBeach": true,
+ "renovated": 2024,
+ "restaurants": 6,
+ "roomTypes": [
+  "Standard Room (około 29 m², balkon/taras, klimatyzacja, laminowana podłoga, zestaw do kawy/herbaty, minibar, sejf, TV satelitarna, telefon, suszarka, kapcie, szlafroki, łazienka z wanną/WC)",
+  "Junior Suite (około 55 m²)",
+  "Senior Suite (około 54 m²)",
+  "Kids Suite (około 49 m²)",
+  "King Suite (około 134 m²)",
+  "Star & Sun Swim Up Villa (około 37 m², płytki)",
+  "Selection Villa",
+  "King Villa"
+ ],
+ "rooms": 710,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.8607,
+  "lon": 30.9873,
+  "src": "web"
+ },
+ "sources": [
+  "multitour.ru",
+  "coraltravel.pl",
+  "holidaycheck.de",
+  "goturcja.pl",
+  "travelplanet.pl",
+  "wakacje.pl",
+  "directbooking.ro",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

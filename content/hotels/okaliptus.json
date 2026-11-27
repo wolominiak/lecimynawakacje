@@ -1,0 +1,136 @@
+{
+ "id": 15907,
+ "slug": "okaliptus",
+ "name": "Okaliptus",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Bodrum"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/okaliptus-basen-1007973503-570-428.jpg",
+ "city": "Bodrum",
+ "intro": [
+  "Hotel Okaliptus to kameralny obiekt o kategorii 3.5 gwiazdki, położony w urokliwej dzielnicy Bitez w Bodrum, bezpośrednio przy piaszczystej plaży. Otoczony malowniczym ogrodem mandarynkowym, oferuje spokojny wypoczynek z łatwym dostępem do morza.",
+  "Hotel jest idealnym wyborem dla par i rodzin, które cenią sobie relaks w otoczeniu natury oraz bliskość plaży. To doskonałe miejsce dla osób szukających ucieczki od zgiełku, z możliwością szybkiego dotarcia do centrum Bodrum."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Okaliptus usytuowany jest w Bodrum, w dzielnicy Bitez, zaledwie 3 metry od piaszczystej plaży Bitez. Obiekt posiada prywatną strefę plażową z bezpłatnymi leżakami i parasolami. Wejście do morza ułatwia specjalna mata, a plaża jest naturalna i czysta."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 68 pokojami, w tym pokojami deluxe i rodzinnymi, które mogą pomieścić od 1 do 4 osób. Standardowe wyposażenie obejmuje klimatyzację, balkon lub taras, telewizor, minibar, suszarkę do włosów i sejf. Należy jednak pamiętać, że niektóre pokoje mogą wymagać remontu i są opisane jako małe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca śniadania i kolacje w formie bufetu, a także restauracja à la carte. Do dyspozycji gości są również bar/lounge oraz bar na plaży/snack bar. Hotel oferuje niepełne wyżywienie (śniadania i kolacje), przy czym napoje do kolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen oraz oddzielny basen dla dzieci. Goście mogą korzystać z bilarda i tenisa stołowego. Na plaży dostępne są płatne sporty wodne, takie jak parasailing, windsurfing czy narty wodne."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Okaliptus jest szczególnie polecany dla rodzin oraz par, które szukają spokojnego miejsca na wypoczynek. Jego bliskość do plaży i kameralna atmosfera sprawiają, że jest to dobra opcja dla osób ceniących relaks w naturalnym otoczeniu."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży Bitez",
+  "Prywatna strefa plażowa z bezpłatnymi leżakami i parasolami",
+  "Pomocna i przyjazna obsługa",
+  "Dobre jedzenie, zwłaszcza śniadania i obiady à la carte",
+  "Czysty basen i przyjemna atmosfera"
+ ],
+ "cons": [
+  "Pokoje są małe i wymagają remontu",
+  "Brak ręczników plażowych",
+  "Brak Wi-Fi w pokojach (według niektórych opinii)",
+  "Ograniczone opcje kolacji w formie bufetu",
+  "Hotel nie jest przystosowany dla osób niepełnosprawnych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Okaliptus jest usytuowany bezpośrednio przy piaszczystej plaży Bitez, zaledwie 3 metry od niej."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną strefę plażową z bezpłatnymi leżakami i parasolami."
+  },
+  {
+   "q": "Ile kilometrów jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko Milas-Bodrum (BJV) znajduje się około 40-45 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni wodnych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokoje rodzinne oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w miejscach publicznych, jednak według niektórych opinii, w pokojach Wi-Fi nie ma."
+  }
+ ],
+ "address": "Pomelan Cad. 12, Bitez Mah., 48400 Bodrum, Muğla, Turcja",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Milas-Bodrum Airport (BJV)",
+ "amenities": [
+  "bilard",
+  "tenis stołowy",
+  "płatne sporty wodne na plaży"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Bitez",
+ "bars": 2,
+ "beachDistanceM": 3,
+ "beachType": "piaszczysta",
+ "centerKm": 5,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "spokojny wypoczynek"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1998,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2010,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój deluxe (1-3 osoby)",
+  "pokój rodzinny (2-4 osoby)",
+  "pokój dwuosobowy/twin",
+  "pokój triple",
+  "pokój quad",
+  "klimatyzacja, balkon/taras, minibar/lodówka, TV sat, telefon, suszarka do włosów, bezpłatne kosmetyki, sejf (często płatny)"
+ ],
+ "rooms": 68,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 37.0211146,
+  "lon": 27.2511983,
+  "src": "osm"
+ },
+ "sources": [
+  "directbooking.ro",
+  "almosafer.com",
+  "kayak.com",
+  "hotels-in-bodrum.com",
+  "yandex.com.tr",
+  "kompastour.com",
+  "wegoreise.de",
+  "hrs.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,145 @@
+{
+ "id": 15695,
+ "slug": "lago-hotel",
+ "name": "Lago Hotel",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Titreyengol"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/lago-hotel-teren-hotelu-obiekt-1572351610-570-428.jpg",
+ "city": "Titreyengol",
+ "intro": [
+  "Lago Hotel to pięciogwiazdkowy obiekt położony w Titreyengol na Riwierze Tureckiej, idealny zarówno dla rodzin z dziećmi, jak i par. Oferuje szeroki zakres udogodnień, od prywatnej plaży po rozbudowany aquapark i liczne restauracje.",
+  "Hotel jest polecany osobom szukającym aktywnego wypoczynku i relaksu w komfortowych warunkach. Jego lokalizacja blisko plaży oraz dostępność wielu atrakcji sprawiają, że jest to odpowiednie miejsce na wakacje dla każdego, kto ceni sobie wysoki standard usług i bogatą ofertę rozrywkową."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lago Hotel znajduje się w dzielnicy Sorgun w Titreyengol, Manavgat. Jest usytuowany bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży z pomostem. Na plaży dostępne są bezpłatne leżaki, parasole, materace i ręczniki plażowe, a także bar. Wyróżnia się strefa \"Maldivy\" przeznaczona wyłącznie dla dorosłych (od 16 lat)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 493 lub 496 pokoi różnego typu, w tym Superior, rodzinne, Swim-up z bezpośrednim dostępem do basenu oraz pokoje dla osób niepełnosprawnych. Wszystkie pokoje są wyposażone w klimatyzację, TV-SAT, sejf, minibar (codziennie uzupełniany), zestaw do parzenia kawy/herbaty oraz łazienkę z prysznicem i suszarką do włosów. Pokoje posiadają balkon lub taras i wykończone są parkietem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Lago Hotel działa w formule Ultra All Inclusive, co obejmuje pełne wyżywienie w restauracji głównej (bufet) oraz dostęp do sześciu restauracji à la carte (kuchnia azjatycka, japońska, włoska, rybna, meksykańska, osmańska). Na terenie obiektu znajduje się również sześć barów, kawiarnia i cukiernia. Minibar w pokojach jest codziennie uzupełniany w wodę, napoje bezalkoholowe i piwo."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje rozbudowanym kompleksem basenów, w tym basenem głównym, relaksacyjnym, infinity oraz basenami krytymi (podgrzewanymi w określonych terminach). Dużą atrakcją jest aquapark z 9 zjeżdżalniami dla dorosłych i 5 dla dzieci. Goście mogą korzystać z siłowni, kortów tenisowych, boisk sportowych oraz szerokiej gamy zajęć, takich jak aerobik, joga czy zumba."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodziki (również kryte i podgrzewane), place zabaw, mini disco, miniklub dla dzieci w wieku 4-12 lat oraz Junior klub dla nastolatków (13-16 lat). Dostępne są również animacje i wieczorne występy, które zapewniają rozrywkę dla całej rodziny."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "Centrum SPA oferuje bogaty wybór zabiegów relaksacyjnych. Goście mogą korzystać z sauny, łaźni tureckiej (hammam), łaźni parowej oraz jacuzzi. Dostępne są również płatne masaże i inne usługi spa."
+  }
+ ],
+ "pros": [
+  "Piękny, nowoczesny obiekt o estetycznej architekturze",
+  "Bogata oferta gastronomiczna z restauracjami à la carte",
+  "Duży aquapark z licznymi zjeżdżalniami dla dorosłych i dzieci",
+  "Udogodnienia dla rodzin z dziećmi, w tym miniklub i animacje",
+  "Prywatna plaża z bezpłatnymi leżakami i barem"
+ ],
+ "cons": [
+  "Niektórzy goście wskazują na skromny standard i przestarzały wystrój pokoi",
+  "Możliwa powtarzalność dań przy dłuższym pobycie",
+  "Ograniczenia w korzystaniu z aquaparku dla dzieci poniżej 10 roku życia",
+  "Możliwy hałas w niektórych pokojach",
+  "Ograniczona oferta rozrywkowa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Lago Hotel położony jest bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska w Antalyi (AYT) wynosi około 60-72 km, co przekłada się na około 1 godzinę jazdy."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel dysponuje aquaparkiem z 9 zjeżdżalniami dla dorosłych i 5 dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując miniklub, brodziki, place zabaw i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest bezpłatne w pokojach i wyznaczonych strefach na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych, ale posiada wydzieloną strefę basenową \"Maldiva\" oraz część plaży przeznaczoną wyłącznie dla gości w wieku od 16 lat."
+  }
+ ],
+ "address": "Sorgun, Titreyengöl Mevkii, 07600 Manavgat/Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "prywatna plaża",
+  "aquapark",
+  "spa",
+  "siłownia",
+  "miniklub dla dzieci",
+  "animacje",
+  "korty tenisowe",
+  "boiska sportowe",
+  "restauracje à la carte",
+  "bary"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Titreyengol, Sorgun",
+ "bars": 6,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirowa, miejscami piaszczysto-kamienista",
+ "centerKm": 4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2006,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": 7,
+ "roomTypes": [
+  "Pokój Superior (widok na ląd/morze, 30-32 m², klimatyzacja, TV-SAT, telefon, sejf, zestaw do parzenia kawy/herbaty, minibar, łazienka z prysznicem, suszarka do włosów, kosmetyki, szlafroki, kapcie, balkon/taras, parkiet)",
+  "Pokój rodzinny (38-41 m², wyposażenie jak Superior)",
+  "Pokój Swim-up (z bezpośrednim dostępem do basenu, 40-43 m², wyposażenie jak Superior)",
+  "Pokój rodzinny Swim-up (50-55 m², wyposażenie jak Superior)",
+  "Pokój dla osób niepełnosprawnych (wyposażenie jak Superior)"
+ ],
+ "rooms": 493,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5333533,
+  "lon": 35.5288094,
+  "src": "osm"
+ },
+ "sources": [
+  "lastradar.pl",
+  "wakacje.pl",
+  "iziwakacje.pl",
+  "lagohotel.com",
+  "trivago.pl",
+  "enuygun.com",
+  "coraltravel.pl",
+  "mapy.com"
+ ],
+ "updated": "2026-11-27"
+}
