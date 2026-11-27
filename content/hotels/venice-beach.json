@@ -1,0 +1,150 @@
+{
+ "id": 33056,
+ "slug": "venice-beach",
+ "name": "Venice Beach",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Djerba",
+  "Midoun"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/venice-beach-basen-teren-hotelu-1826347673-570-428.jpg",
+ "city": "Midoun",
+ "intro": [
+  "Hotel Venice Beach to trzygwiazdkowy obiekt położony w miejscowości Midoun, na słonecznej wyspie Djerba w Tunezji. Jest to idealne miejsce dla rodzin i par poszukujących relaksu oraz aktywnego wypoczynku w przystępnej cenie.",
+  "Obiekt oferuje komfortowe zakwaterowanie, różnorodne wyżywienie oraz szereg udogodnień, w tym baseny, centrum spa i animacje, zapewniając przyjemny pobyt blisko piaszczystej plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Venice Beach znajduje się w turystycznej strefie Sidi Mehrez w Midoun na Djerbie. Piaszczysta plaża Sidi Mehrez, z prywatną strefą hotelową, oddalona jest o około 200-500 metrów, co gwarantuje łatwy dostęp do morza. Leżaki i parasole są dostępne zarówno przy basenach, jak i na plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 159 pokojami, w tym opcjami dwu-, trzy- i czteroosobowymi, a także pokojami rodzinnymi. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, telewizor z kanałami satelitarnymi oraz balkon lub taras. Minilodówka jest dostępna za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu serwuje dania kuchni międzynarodowej w formie bufetu. Goście mogą korzystać z trzech barów, w tym lobby baru i baru przy basenie, a także kawiarni mauretańskiej. Pakiet All Inclusive obejmuje śniadanie, obiad, kolację i przekąski, a także lokalne napoje bezalkoholowe serwowane w wybranych barach od 10:00 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa baseny zewnętrzne, brodzik dla dzieci oraz kryty basen podgrzewany zimą. Dla aktywnych dostępne są dwa korty tenisowe, tenis stołowy, mini golf, rzutki, aerobik i siatkówka plażowa. Wieczorami organizowane są animacje i karaoke."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw oraz mini klub dla dzieci w wieku od 4 do 12 lat. Dostępne są również łóżeczka dziecięce na życzenie. Hotel jest przyjazny rodzinom, co podkreślają liczne udogodnienia dla dzieci."
+  },
+  {
+   "title": "Spa i fitness",
+   "text": "W hotelowym centrum spa można skorzystać z masaży, zabiegów na twarz, manicure/pedicure, hammamu, sauny i łaźni parowej. Do dyspozycji gości jest również siłownia, umożliwiająca utrzymanie formy podczas wakacji."
+  }
+ ],
+ "pros": [
+  "Pomocny i przyjazny personel",
+  "Czyste pokoje i baseny",
+  "Dobra lokalizacja blisko plaży",
+  "Aktywny zespół animatorów",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Hotel może wymagać odświeżenia w niektórych miejscach",
+  "Brak lodówek w pokojach (dostępne za opłatą)",
+  "Wieczorna muzyka bywa głośna do 23:00",
+  "Jedzenie bywa niedoprawione"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Venice Beach jest oddalony od piaszczystej plaży o około 200 do 500 metrów, co stanowi 5-7 minut spacerem."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną strefę plażową, gdzie dostępne są leżaki i parasole."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Djerba - Zarzis International Airport (DJE), oddalone o około 21-30 km, co oznacza około 30-36 minut jazdy."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma informacji o zjeżdżalniach wodnych ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i par. Oferuje mini klub dla dzieci, plac zabaw oraz brodzik."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, takich jak lobby."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przeznaczony dla rodzin i par. Dzieci w wieku 3-11 lat mogą przebywać bezpłatnie."
+  }
+ ],
+ "address": "BP 156 Zone Touristique, Djerba, Midoun 4116",
+ "adultsOnly": false,
+ "airportKm": 21,
+ "airportName": "Djerba - Zarzis International Airport (DJE)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Tenis stołowy",
+  "Mini golf",
+  "Rzutki",
+  "Aerobik",
+  "Siatkówka plażowa",
+  "Bilard",
+  "Karaoke",
+  "Plac zabaw",
+  "Kawiarnia mauretańska"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Sidi Mehrez (Triffa)",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2013,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Standard Triple Room",
+  "Standard Quadruple Room",
+  "Standard Single Room",
+  "Standard Family Room"
+ ],
+ "rooms": 159,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 45.6352878,
+  "lon": 13.056907,
+  "src": "osm"
+ },
+ "sources": [
+  "lastminute.com",
+  "mapcarta.com",
+  "com-tunisia.com",
+  "agoda.com",
+  "booking.com",
+  "broadwaytravel.com",
+  "kayak.com",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

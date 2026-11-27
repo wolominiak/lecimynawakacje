@@ -1,0 +1,141 @@
+{
+ "id": 32747,
+ "slug": "cedriana",
+ "name": "Cedriana",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Djerba",
+  "Midoun"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/cedriana-basen-1483445151-570-428.jpg",
+ "city": "Midoun",
+ "intro": [
+  "Hotel Cedriana to trzygwiazdkowy obiekt położony w strefie turystycznej Midoun na tunezyjskiej wyspie Dżerba. Charakteryzuje się niską zabudową w stylu dżerbiańskim, co nadaje mu lokalny urok. Hotel jest usytuowany w pobliżu piaszczystej plaży Sidi Mahrez, do której prowadzi prywatna ścieżka.",
+  "Obiekt jest rekomendowany dla rodzin, par oraz osób poszukujących zarówno aktywnego wypoczynku, jak i relaksu. Oferuje szeroki wachlarz udogodnień, w tym baseny, animacje i mini klub dla dzieci, co czyni go atrakcyjnym miejscem na wakacje dla różnych grup podróżnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Cedriana znajduje się w miejscowości Midoun na Dżerbie, około 4 km od centrum miasta. Do piaszczystej, prywatnej plaży hotelowej Sidi Mahrez prowadzi prywatna ścieżka, a odległość wynosi około 300-600 metrów. Na plaży dostępne są leżaki i parasole, a ręczniki kąpielowe można wypożyczyć za kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 172 do 176 pokoi dwuosobowych, trzyosobowych, czteroosobowych oraz rodzinnych, mogących pomieścić do 5 osób. Każdy pokój wyposażony jest w prywatny taras lub balkon z widokiem na basen lub ogród, łazienkę z prysznicem i wanną, klimatyzację (w sezonie), ogrzewanie, sejf (płatny), telewizję satelitarną i telefon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje, w tym główna \"Le Calypso\" serwująca dania międzynarodowe i tunezyjskie w formie bufetu. Dodatkowo dostępna jest tunezyjska restauracja tematyczna \"Le Pacha\" (a la carte, płatna). Goście mogą korzystać z lobby baru, baru przy basenie, baru na plaży oraz kawiarni mauretańskiej. Formuła All Inclusive obejmuje posiłki w formie bufetu oraz lokalne napoje i przekąski w wyznaczonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje półolimpijskim basenem zewnętrznym, basenem krytym oraz brodzikiem dla dzieci. Dostępny jest również basen ze zjeżdżalniami. Hotel oferuje bogaty program animacji dziennych i wieczornych, a także centrum balneoterapii/spa z hammamem, sauną i masażami. Dla aktywnych dostępne są korty tenisowe, siłownia, siatkówka plażowa, mini golf i wiele innych atrakcji sportowych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz mini klub dla dzieci w wieku od 4 do 12 lat. Hotel oferuje również animacje, co czyni go przyjaznym miejscem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Duże przestrzenie i baseny",
+  "Dobra lokalizacja",
+  "Dobre jedzenie",
+  "Czystość",
+  "Prywatna plaża z leżakami i parasolami"
+ ],
+ "cons": [
+  "Możliwe rozczarowujące śniadania (starsze opinie)",
+  "Sporadyczne problemy z prądem (starsze opinie)",
+  "Sejf płatny",
+  "Niektóre sporty wodne płatne",
+  "Odległość od plaży może wynosić do 600 metrów"
+ ],
+ "faq": [
+  {
+   "q": "Jaka jest odległość hotelu Cedriana od plaży?",
+   "a": "Hotel Cedriana jest oddalony od piaszczystej, prywatnej plaży o około 300 metrów, do której prowadzi prywatna ścieżka. Niektóre źródła podają odległość około 600 metrów."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska Djerba-Zarzis?",
+   "a": "Odległość od Międzynarodowego Portu Lotniczego Djerba-Zarzis (DJE) wynosi około 15-35 km, co przekłada się na około 25-38 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel Cedriana posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada basen ze zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada brodzik, plac zabaw, mini klub dla dzieci w wieku 4-12 lat oraz oferuje animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Cedriana nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt rodzinny."
+  }
+ ],
+ "address": "Zone Touristique Midoun BP 157, Midoun 4116, Djerba, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Djerba-Zarzis (DJE)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Siatkówka plażowa",
+  "Mini golf",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Animacje",
+  "Kawiarnia mauretańska"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Strefa turystyczna",
+ "bars": 4,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 4,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Aktywny wypoczynek",
+  "Relaks"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1995,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2015,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój czteroosobowy",
+  "Pokój rodzinny (do 5 osób)"
+ ],
+ "rooms": 172,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 33.8402507,
+  "lon": 10.998215,
+  "src": "osm"
+ },
+ "sources": [
+  "voyages.leclerc",
+  "nolimitstravels.tn",
+  "trip.com",
+  "mapcarta.com",
+  "vivehotels.com",
+  "expedia.com",
+  "agoda.com",
+  "holidaycheck.at"
+ ],
+ "updated": "2026-11-27"
+}

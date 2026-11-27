@@ -1,0 +1,136 @@
+{
+ "id": 3274,
+ "slug": "dreams-beach",
+ "name": "Dreams Beach",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Sousse"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/dreams-beach-basen-1470424581-570-428.jpg",
+ "city": "Sousse",
+ "intro": [
+  "Dreams Beach to trzygwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży w miejscowości Hammam Sousse, w Tunezji. Obiekt charakteryzuje się kameralną atmosferą, oferując 89 lub 93 komfortowo wyposażone pokoje.",
+  "Hotel jest szczególnie polecany dla rodzin oraz osób szukających relaksującego wypoczynku nad morzem, ceniących sobie bezpośredni dostęp do prywatnej plaży oraz bliskość centrum Sousse. Na miejscu dostępne są udogodnienia takie jak spa, baseny i wieczorne rozrywki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Dreams Beach usytuowany jest w Hammam Sousse, zaledwie 4.2-6.9 km od centrum Sousse. Jego głównym atutem jest bezpośredni dostęp do prywatnej, piaszczystej plaży, gdzie goście mogą korzystać z bezpłatnych leżaków i ręczników plażowych. Najbliższe lotnisko, Monastyr (MIR), oddalone jest o około 17-20.6 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 89 lub 93 pokoje, w tym warianty dwuosobowe z widokiem na morze, klasyczne i standardowe. Wszystkie pokoje wyposażone są w klimatyzację, prywatny balkon lub taras, telewizor z płaskim ekranem, szafę, sejf oraz łazienkę z głęboką wanną i suszarką do włosów. Bezpłatne Wi-Fi jest dostępne we wszystkich pokojach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Dreams Beach znajdują się trzy restauracje oraz bar/lounge i bar na plaży. Codziennie serwowane jest bezpłatne śniadanie kontynentalne. Należy zwrócić uwagę, że niektóre oferty pokoi obejmują wyłącznie śniadanie, a szczegóły dotyczące pełnego pakietu all inclusive nie zostały podane."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu mogą korzystać z sezonowego basenu zewnętrznego oraz basenu krytego. Dla najmłodszych dostępny jest brodzik. Hotel oferuje również wieczorne rozrywki. Na terenie obiektu znajduje się Dreams Spa z szeroką gamą zabiegów oraz w pełni wyposażone centrum fitness. Dostępne są także bilard (za opłatą) i niemotorowe sporty wodne, a w pobliżu znajduje się pole golfowe."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Dreams Beach to idealne miejsce dla rodzin z dziećmi oraz par i singli szukających spokojnego wypoczynku. Hotel akceptuje dzieci w każdym wieku i oferuje pokoje rodzinne. Bliskość plaży, udogodnienia spa i wieczorne rozrywki sprawiają, że jest to dobra opcja dla osób ceniących relaks i aktywność."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Wysoko oceniana obsługa i czystość",
+  "Bezpłatne Wi-Fi w pokojach i miejscach publicznych",
+  "Dostęp do spa i centrum fitness",
+  "Pokoje rodzinne i brodzik dla dzieci"
+ ],
+ "cons": [
+  "Brak informacji o pełnym pakiecie all inclusive",
+  "Brak lodówki, sejfu, telefonu i żelazka w niektórych pokojach",
+  "Brak aquaparku (poza brodzikiem)",
+  "Ogólna ocena hotelu waha się od „Przyjemny” do „Dobry”"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Dreams Beach oferuje bezpośredni dostęp do prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Dreams Beach akceptuje dzieci w każdym wieku, oferuje pokoje rodzinne oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Monastyr im. Habiba Burgiby (MIR), oddalone o około 17-20.6 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel dysponuje brodzikiem dla dzieci, ale brak jest informacji o aquaparku lub zjeżdżalniach dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "Tak, hotel posiada w pełni wyposażone centrum fitness oraz Dreams Spa, oferujące szeroki zakres zabiegów."
+  }
+ ],
+ "address": "Rue de la Plage, Hammam Sousse, Sousse, Susah, Tunezja, 4001",
+ "adultsOnly": false,
+ "airportKm": 17,
+ "airportName": "Międzynarodowy Port Lotniczy Monastyr im. Habiba Burgiby (MIR)",
+ "amenities": [
+  "prywatna plaża",
+  "leżaki i ręczniki plażowe",
+  "bezpłatne Wi-Fi",
+  "spa",
+  "siłownia",
+  "bilard (za opłatą)",
+  "niemotorowe sporty wodne",
+  "pole golfowe w pobliżu",
+  "wieczorne rozrywki"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Hammam Sousse, Sousse",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 4.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "pokój dwuosobowy z widokiem na morze (klimatyzacja, balkon/taras, TV, szafa, sejf, garderoba, łazienka z wanną, suszarka do włosów)",
+  "pokój klasyczny (klimatyzacja, balkon/taras, TV, szafa, sejf, garderoba, łazienka z wanną, suszarka do włosów)",
+  "pokój standardowy (klimatyzacja, balkon/taras, TV, szafa, sejf, garderoba, łazienka z wanną, suszarka do włosów)"
+ ],
+ "rooms": 89,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.866861,
+  "lon": 10.6107285,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "lastminute.com",
+  "reserving.com",
+  "expedia.co.uk",
+  "flyin.com",
+  "hotels.com",
+  "booking.com",
+  "com-tunisia.com"
+ ],
+ "updated": "2026-11-27"
+}

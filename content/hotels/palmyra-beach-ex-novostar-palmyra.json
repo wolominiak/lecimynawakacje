@@ -1,0 +1,125 @@
+{
+ "id": 33065,
+ "slug": "palmyra-beach-ex-novostar-palmyra",
+ "name": "Palmyra Beach (ex.Novostar Palmyra)",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Sousse",
+  "Port el Kantaoui"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/palmyra-beach-ex-novostar-palmyra-basen-826755784-570-428.jpg",
+ "city": "Sousse",
+ "intro": [
+  "Hotel Palmyra Beach (ex.Novostar Palmyra) to trzygwiazdkowy obiekt położony w miejscowości Port El Kantaoui, w dzielnicy Chott Meriem, Akouda. Jest to idealne miejsce dla osób szukających wypoczynku w Tunezji, z łatwym dostępem do piaszczystej plaży i lokalnych atrakcji.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, oferując udogodnienia i animacje dostosowane do potrzeb najmłodszych gości. Hotel zapewnia komfortowe zakwaterowanie oraz dostęp do podstawowych udogodnień, które umilą pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Palmyra Beach znajduje się w Port El Kantaoui, w dzielnicy Chott Meriem, Akouda. Obiekt dysponuje prywatną strefą na piaszczystej plaży. Odległość od centrum Port El Kantaoui wynosi 5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 179 pokoi, w tym pokoje standardowe o powierzchni 15 m² oraz pokoje łączone. Każdy pokój standardowy wyposażony jest w podwójne łóżko, łazienkę z wanną lub prysznicem, balkon, telefon, telewizor, klimatyzację, ogrzewanie, suszarkę do włosów, sejf oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen, idealny do orzeźwiających kąpieli. Goście mogą również korzystać z centrum fitness oraz kortu tenisowego. Hotel zapewnia animacje, które umilą czas zarówno dorosłym, jak i dzieciom."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Palmyra Beach (ex.Novostar Palmyra) znajduje się restauracja, w której serwowane są posiłki dla gości. Szczegóły dotyczące formuły wyżywienia, w tym all inclusive, nie zostały podane."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest rekomendowany dla rodzin z dziećmi. Dostępne są animacje, które zapewnią rozrywkę najmłodszym gościom. Obiekt nie jest hotelem tylko dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Prywatna strefa na piaszczystej plaży",
+  "Bezpłatne WiFi",
+  "Centrum fitness i kort tenisowy",
+  "Hotel odpowiedni dla rodzin z dziećmi",
+  "Dostępne animacje"
+ ],
+ "cons": [
+  "Brak informacji o aquaparku/zjeżdżalniach",
+  "Brak informacji o liczbie barów",
+  "Brak informacji o mini klubie dla dzieci",
+  "Pokoje standardowe o niewielkiej powierzchni (15 m²)",
+  "Brak informacji o podgrzewanym basenie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel posiada prywatną strefę na piaszczystej plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o 16 km od lotniska."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi i nie jest obiektem tylko dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, hotel oferuje bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, na terenie hotelu znajduje się odkryty basen."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Tak, hotel posiada centrum fitness."
+  }
+ ],
+ "address": "Chott Meriem, 4042 El Ahmar, Sousse",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "",
+ "amenities": [
+  "kort tenisowy"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Chott Meriem, Akouda",
+ "bars": null,
+ "beachDistanceM": null,
+ "beachType": "piaszczysta",
+ "centerKm": 5,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy: podwójne łóżko, łazienka z wanną lub prysznicem, balkon, telefon, telewizor, klimatyzacja, ogrzewanie, suszarka do włosów, sejf, Wi-Fi",
+  "pokój łączony"
+ ],
+ "rooms": 179,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 35.9534597,
+  "lon": 10.5455259,
+  "src": "osm"
+ },
+ "sources": [
+  "scanner.travel",
+  "liberta.travel",
+  "discovertunisia.com",
+  "mapcarta.com",
+  "thatvacation.com"
+ ],
+ "updated": "2026-11-27"
+}

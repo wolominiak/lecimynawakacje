@@ -1,0 +1,145 @@
+{
+ "id": 2092,
+ "slug": "golf-residence",
+ "name": "Golf Residence",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Sousse",
+  "Port el Kantaoui"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/golf-residence-basen-806014932-570-428.jpg",
+ "city": "Port El Kantaoui, Sousse",
+ "intro": [
+  "Hotel Golf Residence to czterogwiazdkowy obiekt położony w sercu nadmorskiego kurortu Port El Kantaoui w Tunezji. Jest to idealna propozycja dla rodzin, par oraz golfistów, ceniących sobie centralną lokalizację i dostęp do wielu udogodnień w przystępnej skali.",
+  "Obiekt stanowi dobrą bazę wypadową do zwiedzania okolicy i oferuje różnorodne atrakcje zarówno dla dorosłych, jak i dla dzieci, w tym program animacyjny i bliskość piaszczystej plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Golf Residence znajduje się w Port El Kantaoui, niedaleko przystani oraz pola golfowego El Kantaoui. Piaszczysta plaża Port El Kantaoui oddalona jest o około 200-500 metrów, co stanowi krótki spacer. Na plaży dostępne są leżaki i parasole, czasem za dodatkową opłatą lub kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 233 pokoje, w tym dwuosobowe, rodzinne, trzyosobowe, czteroosobowe, junior suite i suite. Wszystkie pokoje są klimatyzowane i wyposażone w prywatny balkon lub taras, minibar, telewizor z kanałami satelitarnymi oraz łazienkę z wanną i suszarką do włosów. Pokoje zostały całkowicie odnowione w 2010 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni lokalnej i międzynarodowej w formie bufetu. Goście mogą korzystać z barów, w tym baru w lobby i baru przy basenie. Dostępna jest opcja All Inclusive, obejmująca posiłki i napoje, a także wyżywienie typu Half Board (śniadania i obiadokolacje)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje dwoma basenami zewnętrznymi (jeden sezonowy) oraz jednym basenem krytym. Na basenie zewnętrznym znajduje się zjeżdżalnia. Hotel oferuje siłownię, bilard, rzutki, tenis stołowy, siatkówkę oraz dwa korty tenisowe. W pobliżu, około 1.2-1.3 km, znajduje się park wodny Acqua Palace."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano strefę w basenie zewnętrznym, plac zabaw, pokój gier oraz mini klub. Hotel zapewnia również program animacyjny w ciągu dnia oraz wieczorne rozrywki, w tym okazjonalną muzykę na żywo i pokazy."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Hotelowe spa oferuje saunę, łaźnię turecką (hammam), jacuzzi i masaże, które są dostępne za dodatkową opłatą. Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, takich jak lobby i bar."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko przystani i pola golfowego",
+  "Różnorodność udogodnień dla dorosłych i dzieci",
+  "Dobra baza wypadowa do zwiedzania okolicy",
+  "Chwalony zespół animatorów",
+  "Odnowione pokoje (2010)"
+ ],
+ "cons": [
+  "Hotel nie leży bezpośrednio przy plaży",
+  "Niektóre opinie wspominają o hałasie z okolicy w nocy",
+  "Jedzenie bywa dostosowane do konkretnych narodowości",
+  "Pokoje bywają określane jako starsze lub brudne w niektórych opiniach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża Port El Kantaoui znajduje się około 200-500 metrów od hotelu (2-17 minut spacerem)."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotniska to Międzynarodowy Port Lotniczy Monastyr Habib Bourguiba (MIR) - około 23-25 km oraz Międzynarodowy Port Lotniczy Enfidha-Hammamet (NBE) - około 15-37 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na basenie zewnętrznym hotelu znajduje się zjeżdżalnia. W pobliżu (około 1.2-1.3 km) znajduje się park wodny Acqua Palace."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przeznaczony dla rodzin i oferuje strefę dla dzieci w basenie, plac zabaw, pokój gier oraz mini klub, a także program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, takich jak lobby i bar."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przeznaczony dla rodzin i par. Minimalny wiek zameldowania to 21 lat."
+  }
+ ],
+ "address": "Route Touristique, Port El Kantaoui, Sousse Governorate, 4011",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Enfidha-Hammamet (NBE)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard",
+  "Rzutki",
+  "Tenis stołowy",
+  "Siatkówka",
+  "Korty tenisowe",
+  "Klub nocny"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Port El Kantaoui",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 7,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "golfiści"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1992,
+ "pools": 3,
+ "privateBeach": null,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką",
+  "Pokój typu twin z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką",
+  "Pokój rodzinny z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką",
+  "Pokój trzyosobowy z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką",
+  "Pokój czteroosobowy z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką",
+  "Junior suite z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką",
+  "Suite z klimatyzacją, balkonem/tarasem, minibarem, TV, łazienką z wanną i suszarką"
+ ],
+ "rooms": 233,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.8488481,
+  "lon": 11.0610081,
+  "src": "osm"
+ },
+ "sources": [
+  "easemytrip.com",
+  "zoover.nl",
+  "hoteles.com",
+  "hotelsousse.net",
+  "expedia.com",
+  "nreservi.com",
+  "travelingo.com.tn",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

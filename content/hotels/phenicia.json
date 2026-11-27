@@ -1,0 +1,137 @@
+{
+ "id": 1783,
+ "slug": "phenicia",
+ "name": "Phenicia",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Hammamet"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/phenicia-plaza-basen-1777134292-570-428.jpg",
+ "city": "Hammamet",
+ "intro": [
+  "Hotel Phenicia, znany również jako Sentido Phenicia, to czterogwiazdkowy obiekt położony bezpośrednio przy prywatnej, piaszczystej plaży w miejscowości Hammamet Południowy w Tunezji. Otoczony rozległym, zadbanym ogrodem o powierzchni 9 hektarów, oferuje spokojne otoczenie sprzyjające relaksowi i aktywnemu wypoczynkowi.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz osób ceniących sobie plażowanie i bogatą ofertę sportowo-rekreacyjną. Dzięki formule All Inclusive i różnorodnym udogodnieniom, Phenicia stanowi dobrą bazę do spędzenia wakacji w Tunezji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Phenicia znajduje się w dzielnicy Baraket Es-Sahel, około 5 km od centrum Hammametu. Jest usytuowany bezpośrednio przy prywatnej, piaszczystej plaży z łagodnym zejściem do morza. Leżaki na plaży są bezpłatne, a ręczniki dostępne za kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje około 382-391 pokojami rozmieszczonymi w czteropiętrowych budynkach. Dostępne są pokoje standardowe (z widokiem na ogród lub morze), pokoje promo, pokoje swim-up z bezpośrednim wyjściem do basenu oraz pokoje ekonomiczne. Wyposażenie obejmuje klimatyzację (sezonowo), łazienkę, TV-Sat, telefon, sejf (płatny), minibar (płatny) oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa główna restauracja bufetowa oraz trzy restauracje a la carte (tunezyjska, azjatycka) i restauracja na plaży. Oferta All Inclusive obejmuje śniadania, obiady, kolacje w formie bufetu, późne śniadania i przekąski. Lokalne napoje alkoholowe i bezalkoholowe są dostępne w wyznaczonych barach w określonych godzinach. Jedna kolacja w restauracji a la carte na pobyt jest wliczona w cenę (wymagana rezerwacja)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji trzy baseny: dwa zewnętrzne (w tym jeden tylko dla dorosłych powyżej 16 lat) i jeden kryty, podgrzewany zimą. Hotel oferuje bogaty program animacji dla dorosłych i dzieci, mini klub dla dzieci (4-12 lat), plac zabaw i mini golfa. Na terenie obiektu znajduje się również centrum fitness, spa (dodatkowo płatne) oraz liczne możliwości uprawiania sportów, takich jak tenis, siatkówka czy łucznictwo."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w lobby i pokojach. Na terenie obiektu znajduje się wiele barów, w tym bar plażowy, bar przy basenie, lobby bar, piano bar, disco bar oraz kawiarnia mauretańska. Dostępne są również usługi spa z sauną, jacuzzi, hammamem i masażami (dodatkowo płatne)."
+  }
+ ],
+ "pros": [
+  "Położenie bezpośrednio przy prywatnej, piaszczystej plaży",
+  "Duży, zadbany, zielony ogród",
+  "Bogata oferta sportowa i rekreacyjna, animacje",
+  "Dobre i różnorodne jedzenie",
+  "Dostępność wielu basenów, w tym jednego tylko dla dorosłych"
+ ],
+ "cons": [
+  "Pokoje i łazienki mogą być przestarzałe i wymagać remontu",
+  "Monotonne kolacje i mały wybór ryb",
+  "Dodatkowe opłaty za butelkowaną wodę, importowane alkohole i niektóre restauracje a la carte",
+  "Brak bankomatu na terenie hotelu",
+  "Klimatyzacja działa sezonowo"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Phenicia jest położony bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i ile trwa dojazd do hotelu?",
+   "a": "Najbliższe lotnisko to Enfidha-Hammamet (NBE), oddalone o około 44-60 km, a czas dojazdu wynosi około 45 minut do niespełna godziny."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje basen dla dzieci, plac zabaw, mini golf oraz mini klub dla dzieci w wieku 4-12 lat."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych. Posiada jednak jeden basen przeznaczony wyłącznie dla dorosłych (powyżej 16 lat)."
+  }
+ ],
+ "address": "Avenue Moncef Bey, Hammamet 8039, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 44,
+ "airportName": "Enfidha-Hammamet (NBE)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Mini golf",
+  "Jazda konna (płatna)",
+  "Sporty wodne (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Hammamet Południowy, Baraket Es-Sahel",
+ "bars": 6,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta, z drobnym piaskiem",
+ "centerKm": 5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby lubiące plażowanie",
+  "Osoby lubiące aktywny wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1970,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2015,
+ "restaurants": 5,
+ "roomTypes": [
+  "Pokoje standardowe (z widokiem na ogród lub morze)",
+  "Pokoje promo (maksymalnie 2 osoby)",
+  "Pokoje swim-up (z bezpośrednim wyjściem do współdzielonego basenu)",
+  "Pokoje ekonomiczne"
+ ],
+ "rooms": 382,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4001406,
+  "lon": 10.5743859,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "tui.co.uk",
+  "iziwakacje.pl",
+  "com-tunisia.com",
+  "luksusowe-wakacje.pl",
+  "coraltravel.pl",
+  "tui.pl",
+  "anextour.com.pl"
+ ],
+ "updated": "2026-11-27"
+}

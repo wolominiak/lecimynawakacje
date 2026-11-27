@@ -1,0 +1,153 @@
+{
+ "id": 4954,
+ "slug": "liberty-resort-ex-ramada",
+ "name": "Liberty Resort (ex Ramada)",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Monastir"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/liberty-resort-ex-ramada-basen-1634625189-570-428.jpg",
+ "city": "Monastir",
+ "intro": [
+  "Hotel Liberty Resort, dawniej znany jako Ramada, to obiekt położony w turystycznej dzielnicy Skanes w Monastirze. Oferuje on komfortowe warunki dla osób szukających relaksu i aktywnego wypoczynku w Tunezji.",
+  "Z uwagi na szeroki zakres udogodnień, takich jak baseny, mini klub i animacje, hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz osób podróżujących z ograniczonym budżetem, które cenią sobie bliskość plaży i lotniska."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Liberty Resort znajduje się w dzielnicy turystycznej Skanes w Monastirze, około 150 metrów od prywatnej, piaszczystej plaży. Dojście do plaży zajmuje zaledwie 2-3 minuty spacerem. Na plaży oraz przy basenach dostępne są bezpłatne leżaki, materace, parasole i ręczniki."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje jedno-, dwu-, trzy- i czteroosobowe (rodzinne). Wszystkie pokoje wyposażone są w klimatyzację (centralną, działającą od czerwca do września), prywatną łazienkę z wanną i suszarką do włosów, balkon, telefon, telewizję satelitarną. Minibar i sejf są dostępne za dodatkową opłatą. Pokoje oferują widok na ogród lub morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa Le Flamingo, restauracja à la carte Al Maeeda z kuchnią tunezyjską oraz restauracja BBQ Flipper przy basenie. Do dyspozycji gości jest pięć barów, w tym pub w stylu angielskim, bar przy plaży (sezonowy) i dyskoteka. Pakiet all inclusive obejmuje posiłki, przekąski i napoje w wyznaczonych godzinach, a także możliwość jednorazowego skorzystania z restauracji à la carte."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje dwoma basenami: dużym odkrytym z wydzieloną częścią dla dzieci oraz krytym basenem podgrzewanym. Dostępna jest również zjeżdżalnia wodna. Hotel oferuje centrum fitness, spa (z łaźnią turecką i sauną, płatne), dwa korty tenisowe, mini golfa i tenis stołowy. W pobliżu dostępne są także sporty wodne (płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował wydzieloną część w basenie zewnętrznym, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Codziennie organizowane są programy animacyjne dla dzieci i dorosłych, a także wieczorne rozrywki."
+  }
+ ],
+ "pros": [
+  "Bliskość prywatnej, piaszczystej plaży",
+  "Dostęp do bezpłatnych leżaków i ręczników na plaży i przy basenach",
+  "Dobra lokalizacja - blisko lotniska i centrum Monastiru",
+  "Bogate programy animacyjne dla dzieci i dorosłych",
+  "Szeroki wybór restauracji i barów w ramach all inclusive"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą wymagać odświeżenia",
+  "Zmienna jakość jedzenia w formie bufetu",
+  "Klimatyzacja centralna działa tylko sezonowo (czerwiec-wrzesień)",
+  "Płatny minibar i sejf w pokojach",
+  "Słabe lub płatne Wi-Fi w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Liberty Resort jest położony około 150 metrów od prywatnej, piaszczystej plaży, co zajmuje 2-3 minuty spacerem."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 4.1 km od Międzynarodowego Portu Lotniczego Monastir Habib Bourguiba (MIR), co oznacza 8-10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada zjeżdżalnię wodną."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest obiektem rodzinnym, oferującym wydzieloną część w basenie, plac zabaw, mini klub dla dzieci (4-12 lat) oraz codzienne animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi dostępne jest w pomieszczeniach ogólnodostępnych. W pokojach może być płatne lub niedostępne."
+  },
+  {
+   "q": "Czy w hotelu jest SPA i siłownia?",
+   "a": "Tak, hotel posiada centrum spa i odnowy biologicznej (usługi płatne) oraz centrum fitness (siłownię)."
+  }
+ ],
+ "address": "Bp 122 Skanes Touristic Zone, 5000 Monastir, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 4.1,
+ "airportName": "Monastir Habib Bourguiba (MIR)",
+ "amenities": [
+  "prywatna plaża",
+  "bezpłatne leżaki i parasole",
+  "ręczniki plażowe",
+  "klimatyzacja",
+  "balkon",
+  "telewizja satelitarna",
+  "telefon",
+  "minibar (płatny)",
+  "sejf (płatny)",
+  "biurko",
+  "stół jadalny",
+  "łaźnia turecka (płatna)",
+  "sauna (płatna)",
+  "masaże (płatne)",
+  "zabiegi spa (płatne)",
+  "korty tenisowe",
+  "bilard (płatny)",
+  "mini golf",
+  "tenis stołowy",
+  "rzutki",
+  "golf (w promieniu 2 mil)",
+  "sporty wodne (płatne)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Skanes",
+ "bars": 5,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu",
+  "podróżujący z ograniczonym budżetem"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 4,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy",
+  "pokój trzyosobowy",
+  "pokój czteroosobowy (rodzinny)"
+ ],
+ "rooms": null,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.7690938,
+  "lon": 10.722445,
+  "src": "osm"
+ },
+ "sources": [
+  "travelyalla.com",
+  "broadwaytravel.com",
+  "nreservi.com",
+  "planetofhotels.com",
+  "loveholidays.com",
+  "hotelplanner.com",
+  "pegast.ru",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

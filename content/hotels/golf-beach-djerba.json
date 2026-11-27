@@ -1,0 +1,152 @@
+{
+ "id": 25382,
+ "slug": "golf-beach-djerba",
+ "name": "Golf Beach Djerba",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Djerba"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/golf-beach-djerba-teren-hotelu-1612178038-570-428.jpg",
+ "city": "Djerba",
+ "intro": [
+  "Hotel Golf Beach Djerba to czterogwiazdkowy obiekt położony w turystycznej dzielnicy Aghir na południowo-wschodnim wybrzeżu tunezyjskiej wyspy Djerba. Zlokalizowany na rozległym, zielonym terenie, oferuje bezpośredni dostęp do piaszczystej plaży.",
+  "Obiekt jest odpowiedni dla rodzin z dziećmi oraz par, które szukają relaksu i komfortowego wypoczynku. Hotel dysponuje bogatą infrastrukturą rekreacyjną i gastronomiczną, zapewniając różnorodne formy spędzania czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Golf Beach Djerba znajduje się w dzielnicy turystycznej Aghir. Obiekt oferuje bezpośredni dostęp do prywatnej, piaszczystej plaży z łagodnym zejściem do morza. Na plaży oraz przy basenach dostępne są bezpłatne leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 234-237 pokojami, w tym standardowymi, z widokiem na morze oraz rodzinnymi, a także willami. Wszystkie pokoje wyposażone są w klimatyzację (sezonowo), łazienkę, telewizor, telefon, mini-lodówkę oraz balkon lub taras. Sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu, dwie restauracje tematyczne (tunezyjska i rybna), pizzeria oraz snack bar. Goście mogą korzystać z czterech barów, w tym lobby baru, baru przy basenie i baru na plaży. Opcja All Inclusive obejmuje pełne wyżywienie, przekąski oraz wybrane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny zewnętrzne (słodka i słona woda), podgrzewany basen kryty oraz basen relaksacyjny dla dorosłych. Hotel oferuje centrum Thalasso z hammamem i sauną, centrum fitness oraz szeroki wybór aktywności sportowych, takich jak tenis, mini golf, siatkówka plażowa i sporty wodne. W całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Dostępny jest również baby club. Hotel oferuje programy animacyjne dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Przyjazny personel",
+  "Dobre i różnorodne jedzenie",
+  "Duży wybór basenów, w tym podgrzewany basen kryty",
+  "Bogata oferta sportowa i animacyjna"
+ ],
+ "cons": [
+  "Hotel wymaga remontu, wyposażenie pokoi bywa stare",
+  "Zdarzają się uwagi dotyczące czystości",
+  "Sejf i ręczniki plażowe są płatne",
+  "Klimatyzacja działa sezonowo",
+  "Preferowanie gości francuskojęzycznych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Golf Beach Djerba oferuje bezpośredni dostęp do własnej, prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Djerba-Zarzis (DJE), oddalone o około 25-30 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel dysponuje basenami, ale fakty nie wspominają o aquaparku ani zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw oraz mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest polecany dla rodzin i par."
+  }
+ ],
+ "address": "Zone Touristique Aghir, 4116 Midoun, Djerba, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Djerba-Zarzis (DJE)",
+ "amenities": [
+  "Centrum Thalasso/wellness",
+  "Hammam",
+  "Sauna",
+  "Masaże",
+  "Zabiegi kosmetyczne",
+  "Centrum fitness",
+  "Korty tenisowe",
+  "Mini golf",
+  "Piłka nożna",
+  "Siatkówka plażowa",
+  "Aerobik",
+  "Aquagym",
+  "Rzutki",
+  "Tenis stołowy",
+  "Boccia",
+  "Sporty wodne",
+  "Jazda konna"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Aghir",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy golfa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1996,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": 2011,
+ "restaurants": 4,
+ "roomTypes": [
+  "Standard Double",
+  "Single",
+  "Triple",
+  "Family",
+  "Sea View Single",
+  "Sea View Double",
+  "Sea View Triple",
+  "Sea View Family",
+  "Wille"
+ ],
+ "rooms": 234,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 33.7723482,
+  "lon": 11.0320337,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "fram.fr",
+  "hotelplan.ch",
+  "neckermann.be",
+  "holidaycheck.ch",
+  "travelweekly.com",
+  "mapcarta.com",
+  "mapy.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,150 @@
+{
+ "id": 2926,
+ "slug": "sahara-beach-monastir",
+ "name": "Sahara Beach (Monastir)",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Monastir"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/sahara-beach-monastir-basen-770158406-570-428.jpg",
+ "city": "Monastir",
+ "intro": [
+  "Hotel Sahara Beach Aquapark Resort to rozległy obiekt położony w dzielnicy Skanes w Monastirze, bezpośrednio przy prywatnej, piaszczystej plaży. Został otwarty w 1975 roku i oferuje ponad tysiąc pokoi w trzech siedmiopiętrowych budynkach, na terenie o powierzchni 22 hektarów.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki bogatej ofercie rekreacyjnej, w tym dużemu aquaparkowi i licznym basenom. Hotel zapewnia również programy animacyjne dla wszystkich grup wiekowych, co czyni go atrakcyjnym wyborem zarówno dla rodzin, jak i par szukających aktywnego wypoczynku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sahara Beach Aquapark Resort znajduje się w Monastirze, w dzielnicy Skanes, zaledwie 2-5 km od lotniska Monastir (MIR). Obiekt ma bezpośredni dostęp do prywatnej, piaszczystej plaży, gdzie dostępne są leżaki i parasole. Centrum Monastiru oddalone jest o około 8-8.9 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 1042 pokojami, w tym pokojami jedno-, dwu- i trzyosobowymi, a także rodzinnymi i superior. Standardowe wyposażenie obejmuje klimatyzację (sezonowo), balkon lub taras, prywatną łazienkę, telefon i telewizor. Na życzenie dostępne są łóżeczka dziecięce i czajniki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się 4 restauracje, w tym 2 bufetowe oraz 2 restauracje à la carte (tunezyjska i włoska), które są dodatkowo płatne. Pakiet all inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, a także przekąski oraz wybrane lokalne alkohole i napoje bezalkoholowe. Na terenie obiektu działa 7-8 barów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje 3 baseny zewnętrzne, 1 basen kryty (podgrzewany, z sekcją dla dzieci) oraz aquapark z licznymi zjeżdżalniami, otwarty sezonowo. Dostępne są również centrum fitness, spa z sauną i łaźnią parową, 10 kortów tenisowych, siatkówka plażowa, mini golf oraz liczne inne aktywności sportowe i animacje."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz bezpłatne kluby dla dzieci: Mini klub (4-7 lat), Maxi klub (8-12 lat) oraz Teeny klub (13-17 lat, dostępny w lipcu i sierpniu). Hotel zapewnia także program animacyjny dla dzieci i młodzieży."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Duży aquapark i liczne baseny",
+  "Bogata oferta animacji i klubów dla dzieci",
+  "Przyjazna i pomocna obsługa",
+  "Dobra wartość za pieniądze"
+ ],
+ "cons": [
+  "Ostatni remont w 1999 roku",
+  "Brak",
+  "małych luksusów",
+  "(np. ręczniki plażowe w cenie, mini-bar)",
+  "Niektóre bary i napoje premium są dodatkowo płatne",
+  "All inclusive nie jest dostępne 24 godziny na dobę",
+  "Klimatyzacja sezonowo (zazwyczaj od 15 czerwca do 15 września)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Sahara Beach Aquapark Resort znajduje się około 2-5 km od Międzynarodowego Portu Lotniczego Monastir Habib Bourguiba (MIR), co oznacza około 5-10 minut jazdy."
+  },
+  {
+   "q": "Czy hotel ma aquapark?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark z licznymi zjeżdżalniami, otwarty sezonowo, zazwyczaj dwa razy dziennie."
+  },
+  {
+   "q": "Jaka jest odległość hotelu od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy prywatnej, piaszczystej plaży, z bezpośrednim dostępem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując aquapark, brodzik, plac zabaw oraz mini, maxi i teeny kluby dla różnych grup wiekowych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie oraz w pokojach."
+  },
+  {
+   "q": "Co obejmuje pakiet all inclusive?",
+   "a": "Pakiet all inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, przekąski, wybrane lokalne alkohole, napoje bezalkoholowe, herbatę i kawę. Niektóre bary i napoje międzynarodowych marek są dodatkowo płatne, a all inclusive nie jest dostępne 24 godziny na dobę."
+  }
+ ],
+ "address": "Route Touristique Dkhila, Skanes, Monastir 5000, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 3.5,
+ "airportName": "Monastir Habib Bourguiba (MIR)",
+ "amenities": [
+  "aquapark",
+  "spa",
+  "siłownia",
+  "korty tenisowe",
+  "mini golf",
+  "siatkówka plażowa",
+  "bilard",
+  "rzutki",
+  "tenis stołowy",
+  "łucznictwo",
+  "piłka nożna",
+  "koszykówka",
+  "jazda konna",
+  "kajakarstwo",
+  "jazda na rowerze",
+  "piesze wycieczki",
+  "sporty wodne"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Skanes",
+ "bars": 8,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta, prywatna",
+ "centerKm": 8.9,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1975,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": 1999,
+ "restaurants": 4,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy",
+  "pokój trzyosobowy",
+  "pokój rodzinny/łączony",
+  "pokój superior",
+  "pokój z widokiem na morze"
+ ],
+ "rooms": 1042,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.7636628,
+  "lon": 10.7294588,
+  "src": "osm"
+ },
+ "sources": [
+  "roomscout.co.uk",
+  "reserving.com",
+  "expedia.co.uk",
+  "mapy.com",
+  "hotelmonastir.net",
+  "hotels-monastir.com",
+  "hoteles.com",
+  "kayak.com"
+ ],
+ "updated": "2026-11-27"
+}

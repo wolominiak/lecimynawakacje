@@ -1,0 +1,143 @@
+{
+ "id": 10769,
+ "slug": "meridian",
+ "name": "Meridian",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/meridian-basen-1182616249-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Hotel Meridian to czterogwiazdkowy obiekt położony w popularnym bułgarskim kurorcie Słoneczny Brzeg, w jego południowej części, blisko centrum. Otwarty w 2005 roku i odnowiony w 2017 roku, oferuje komfortowe zakwaterowanie w dziesięciopiętrowym budynku.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par oraz grup przyjaciół, którzy szukają aktywnego wypoczynku i cenią sobie bliskość plaży oraz miejskich atrakcji. Oferuje bogaty program animacyjny w sezonie letnim oraz udogodnienia dla najmłodszych gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Meridian usytuowany jest w centrum Słonecznego Brzegu, zaledwie 150-200 metrów od publicznej, piaszczystej plaży z łagodnym zejściem do morza, wyróżnionej Błękitną Flagą. W okolicy hotelu znajdują się liczne sklepy, bary i restauracje. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 268 pokojami, w tym standardowymi pokojami dwuosobowymi, pokojami typu lux oraz apartamentami. Każdy pokój wyposażony jest w klimatyzację, łazienkę z suszarką do włosów, telewizor, telefon oraz balkon. Wi-Fi w pokojach jest dodatkowo płatne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja panoramiczna na najwyższym piętrze, serwująca dania kuchni międzynarodowej w formie bufetu, oraz restauracja à la carte. Do dyspozycji gości są również lobby bar (czynny 24h) i bar przy basenie. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z odkrytego basenu z wydzieloną częścią dla dzieci. Hotel oferuje animacje dla dorosłych i dzieci, mini klub, plac zabaw, a także możliwość skorzystania z bilarda, tenisa stołowego, rzutek i aerobiku. W pobliżu, około 2 km od hotelu, znajduje się Action Aquapark."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik, plac zabaw oraz sekcję dla dzieci w basenie. Dostępny jest również mini klub dla dzieci w wieku 4-12 lat oraz program animacyjny z mini disco w sezonie letnim."
+  },
+  {
+   "title": "Spa i Sport",
+   "text": "W hotelowym centrum SPA goście mogą skorzystać z sauny, łaźni tureckiej, solarium, masaży i zabiegów kosmetycznych (za dodatkową opłatą). Dostępna jest również siłownia, także za dodatkową opłatą. Hotel oferuje bilard, tenis stołowy, rzutki i aerobik."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Smaczne i różnorodne wyżywienie",
+  "Duży basen z wydzieloną częścią dla dzieci",
+  "Przyjazny personel",
+  "Czyste i przestronne pokoje po remoncie"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w pokojach (bezpłatne tylko w lobby)",
+  "Płatne leżaki i parasole na plaży",
+  "Brak aquaparku na terenie hotelu",
+  "Płatny parking",
+  "Podstawowe umeblowanie pokoi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Meridian znajduje się około 150-200 metrów od publicznej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Burgas (BOJ), oddalone o około 20.4 km w linii prostej lub 35 km drogą."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Na terenie hotelu nie ma aquaparku. W pobliżu, około 2 km, znajduje się Action Aquapark (wstęp płatny)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje udogodnienia takie jak brodzik, plac zabaw, mini klub i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi dostępne jest w lobby. Wi-Fi w pokojach jest dodatkowo płatne."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są w cenie?",
+   "a": "Nie, leżaki i parasole na publicznej plaży są dostępne za dodatkową opłatą."
+  }
+ ],
+ "address": "Smartline Meridian Hotel, 8240 Sunny Beach, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 20.4,
+ "airportName": "Burgas (BOJ)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Sejf (płatny)",
+  "Kantor",
+  "Sklepy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centrum Słonecznego Brzegu",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "Piaszczysta, publiczna",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Grupy przyjaciół",
+  "Osoby szukające aktywnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój dwuosobowy standardowy (DBL 2+1, ok. 20-22 m²)",
+  "Pokój dwuosobowy duży (DBL 2+2 Large, ok. 22-24 m²)",
+  "Pokój dwuosobowy LUX (DBL 2+2 LUX, ok. 24 m², widok na morze)",
+  "Pokój superior (ok. 22 m²)",
+  "Pokój jednoosobowy",
+  "Apartament",
+  "Suita"
+ ],
+ "rooms": 268,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6843688,
+  "lon": 27.7069198,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "travelplanner.ro",
+  "travelfinder.bg",
+  "thatvacation.com",
+  "wakacje.pl",
+  "jet2holidays.com",
+  "itaka.pl",
+  "traveligo.pl"
+ ],
+ "updated": "2026-11-27"
+}

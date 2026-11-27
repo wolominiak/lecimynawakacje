@@ -1,0 +1,145 @@
+{
+ "id": 38005,
+ "slug": "archipel",
+ "name": "Archipel",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Monastir"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/archipel-basen-teren-hotelu-1850838395-570-428.jpg",
+ "city": "Monastyr",
+ "intro": [
+  "Hotel Archipel to trzygwiazdkowy obiekt położony w tunezyjskim Monastyrze, w spokojnej dzielnicy Skanes. Usytuowany bezpośrednio przy prywatnej, piaszczystej plaży, oferuje łatwy dostęp do morza i relaks w otoczeniu bujnego ogrodu o powierzchni 20 000 m².",
+  "Obiekt jest idealnym miejscem dla par, podróżujących w pojedynkę, miłośników plaży i przyrody, a także dla rodzin z dziećmi. Hotel zapewnia komfortowe zakwaterowanie w niskiej zabudowie, bez wind, co sprzyja spokojnej atmosferze i bliskości natury."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Archipel znajduje się w Monastyrze, w dzielnicy Skanes (Dkhila), bezpośrednio przy prywatnej, piaszczystej plaży. Do najbliższego lotniska Monastyr (MIR) jest około 5-7 km, a do centrum miasta około 10-11 km. Na plaży dostępne są leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 120 pokoi, w tym pokoje dwuosobowe, typu King, rodzinne/czteroosobowe, junior suity i suity. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor, telefon, łazienkę z prysznicem/WC i suszarką do włosów oraz balkon lub taras. Minibar i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Do dyspozycji gości są dwie restauracje, w tym główna restauracja bufetowa z kuchnią międzynarodową i pokazami gotowania oraz restauracja à la carte. Na terenie obiektu znajdują się również dwa bary/lounge, bar przy basenie (w tym swim-up bar), bar na plaży, dwie kawiarnie, snack bar i strefa grillowa. Pakiet All Inclusive obejmuje posiłki i lokalne napoje w godzinach 07:00-23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma odkrytymi basenami (w tym jednym półolimpijskim i jednym dla dorosłych) oraz oddzielnym basenem dla dzieci. Dla najmłodszych przygotowano również sezonową strefę splash, plac zabaw, mini klub i mini disco. Dorośli mogą korzystać z centrum SPA, siłowni (za opłatą) oraz szerokiej gamy sportów, takich jak bilard, tenis, łucznictwo, siatkówka plażowa, mini golf, boccia, aerobik i sporty wodne."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Na terenie całego obiektu dostępne jest Wi-Fi, jednak w pokojach jest ono dodatkowo płatne. Hotel oferuje również centrum SPA z masażami, hammamem, hydroterapią, łaźnią parową i sauną. Obiekt został otwarty w 1989 roku, a rozległa modernizacja planowana jest na rok 2025."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Duży teren z bujnym ogrodem",
+  "Dwa baseny zewnętrzne i basen dla dzieci",
+  "Bogata oferta sportowa i centrum SPA",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Wi-Fi w pokojach dodatkowo płatne",
+  "Brak wind (niska zabudowa)",
+  "Podstawowe śniadanie",
+  "Brak bankomatów w bliskiej odległości",
+  "Długi spacer z samochodu do pokoju w upale"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Archipel ma bezpośredni dostęp do prywatnej, piaszczystej plaży (0 km)."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Monastyr (MIR) znajduje się około 5-7 km od hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada sezonową strefę splash dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje basen dla dzieci, plac zabaw, mini klub i mini disco."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w całym obiekcie, jednak w pokojach jest dodatkowo płatne."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub SPA?",
+   "a": "Tak, hotel posiada siłownię (za opłatą) oraz centrum SPA z masażami, hammamem, łaźnią parową i sauną."
+  }
+ ],
+ "address": "Hôtel Archipel bp 78 route touristique dkhila, Monastyr, 5060, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 6,
+ "airportName": "Międzynarodowy Port Lotniczy Monastyr im. Habiba Bourguiby (MIR)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor",
+  "Telefon",
+  "Łazienka z prysznicem/WC",
+  "Suszarka do włosów",
+  "Balkon lub taras",
+  "Minibar (za opłatą)",
+  "Sejf (za opłatą)"
+ ],
+ "animations": false,
+ "aquapark": true,
+ "area": "Skanes (Dkhila)",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "Prywatna, piaszczysta",
+ "centerKm": 10,
+ "goodFor": [
+  "Pary",
+  "Podróżujący w pojedynkę",
+  "Miłośnicy plaży",
+  "Miłośnicy przyrody",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1989,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2025,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Room (ok. 27 m²)",
+  "Superior Room (ok. 32 m²)",
+  "Signature Room (ok. 39 m²)",
+  "Executive Suite",
+  "Pokoje dwuosobowe",
+  "Pokoje typu King",
+  "Pokoje rodzinne/czteroosobowe",
+  "Junior suity",
+  "Suity"
+ ],
+ "rooms": 120,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 46.1494734,
+  "lon": -1.1561893,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "hotels-monastir.com",
+  "lastminute.com",
+  "expedia.co.uk",
+  "carrefour.fr",
+  "holidaycheck.de",
+  "hotelmonastir.net",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

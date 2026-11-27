@@ -1,0 +1,144 @@
+{
+ "id": 728,
+ "slug": "telemaque-beach-spa",
+ "name": "Telemaque Beach & Spa",
+ "country": "tunezja",
+ "place": [
+  "Tunezja",
+  "Djerba"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001446622-570-428.jpg",
+ "city": "Djerba",
+ "intro": [
+  "Hotel Telemaque Beach & Spa to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Sidi Mahrez na tunezyjskiej wyspie Djerba, w turystycznej strefie Mezraia. Oferuje on zakwaterowanie w budynku głównym oraz tradycyjnych bungalowach, otoczonych ogrodami.",
+  "Obiekt jest rekomendowany dla rodzin z dziećmi oraz par, szukających aktywnego wypoczynku z bogatym programem animacyjnym i dostępem do prywatnej plaży. Bliskość Houmt Souk i Midoun pozwala na łatwe odkrywanie lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Telemaque Beach & Spa znajduje się w strefie turystycznej Mezraia, niedaleko Houmt Souk. Posiada bezpośredni dostęp do prywatnej, piaszczystej plaży Sidi Mahrez z łagodnym zejściem do morza. Na plaży dostępne są leżaki i parasole, a ręczniki plażowe można wypożyczyć za kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 216 pokoi i apartamentów, w tym pokoje standardowe, z widokiem na morze, rodzinne oraz superior. Wszystkie pokoje wyposażone są w klimatyzację (sezonowo), balkon lub taras, prywatną łazienkę, telewizor satelitarny, mini-lodówkę oraz sejf (płatny). Dostępne są również pokoje przystosowane dla osób z ograniczoną mobilnością w bungalowach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z głównej restauracji bufetowej \"Zeus\", restauracji grillowej \"Athena Barbecue\" oraz baru na plaży \"Sindbad\". Hotel dysponuje również lobby barem \"Horus Bar\", barem przy basenie, barem na plaży \"Ulysses Beach Snack\" oraz kawiarnią mauretańską \"Café Maure Isis\". All Inclusive obejmuje śniadania, obiady, kolacje oraz wybrane napoje bezalkoholowe i alkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są sezonowy basen odkryty, brodzik dla dzieci oraz kryty basen podgrzewany w okresie zimowym. Hotel oferuje szeroki zakres aktywności sportowych, takich jak tenis, siatkówka plażowa, mini golf, łucznictwo oraz niemotorowe sporty wodne. Na terenie obiektu znajduje się również centrum balneoterapii/spa (płatne) i sala fitness."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat, działający sześć dni w tygodniu. Hotel zapewnia również międzynarodowy program animacyjny z dziennymi aktywnościami sportowymi i grami, a także wieczorne show."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczystej plaży",
+  "Urozmaicone jedzenie z wieczorami tematycznymi",
+  "Przyjazny i pomocny personel",
+  "Dobre animacje dla dzieci i dorosłych",
+  "Szeroka oferta sportowa"
+ ],
+ "cons": [
+  "Pokoje i bungalowy mogą być przestarzałe i wymagają remontu",
+  "Klimatyzacja wyłączana po 1 października",
+  "Słaba jakość Wi-Fi w ogólnodostępnych pomieszczeniach",
+  "Zużyte ręczniki plażowe, wymiana płatna",
+  "Hotel nie jest przystosowany dla osób z ograniczoną mobilnością"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Telemaque Beach & Spa jest oddalony od międzynarodowego lotniska Djerba-Zarzis (DJE) o około 19-22 km, co oznacza około 30 minut jazdy."
+  },
+  {
+   "q": "Czy hotel ma prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną, piaszczystą plażę Sidi Mahrez, zarezerwowaną wyłącznie dla gości hotelowych."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Według dostępnych informacji, hotel nie posiada aquaparku ani zjeżdżalni. Dostępne są baseny oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, plac zabaw, mini klub dla dzieci oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, jednak jakość połączenia może być zmienna."
+  },
+  {
+   "q": "Jaka jest odległość od centrum miejscowości?",
+   "a": "Hotel jest oddalony o około 11 km od centrum Houmt Souk i około 6 km od centrum Midoun."
+  }
+ ],
+ "address": "Plage Sidi Mahrez, Djerba Island, 4180 Houmt Souk, Tunezja",
+ "adultsOnly": false,
+ "airportKm": 19,
+ "airportName": "Djerba-Zarzis (DJE)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Telewizor satelitarny",
+  "Mini-lodówka",
+  "Suszarka do włosów",
+  "Biurko",
+  "Sejf (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Mezraia",
+ "bars": 5,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 6,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2018,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standard Double/Twin",
+  "Double/Twin Sea View",
+  "Standard Triple",
+  "Triple Sea View",
+  "Quadruple Room",
+  "Quadruple Room with Sea View",
+  "Family Room (22-30 m², łóżko king-size i dwie sofy)",
+  "Family Room Sea View",
+  "Superior Double Room (30 m² z częścią wypoczynkową)",
+  "Superior Sea View Room",
+  "Standard Single",
+  "Single Room with Sea View"
+ ],
+ "rooms": 216,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 33.8614128,
+  "lon": 10.9785433,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "booking.com",
+  "trip.com",
+  "telemaque-beach.com",
+  "zedback.com",
+  "expedia.com",
+  "hotels.com",
+  "com-tunisia.com"
+ ],
+ "updated": "2026-11-27"
+}

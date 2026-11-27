@@ -1,0 +1,136 @@
+{
+ "id": 30152,
+ "slug": "sunny-day-club",
+ "name": "Sunny Day Club",
+ "country": "bulgaria",
+ "place": [
+  "Bułgaria",
+  "Słoneczny Brzeg"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/sunny-day-club-teren-hotelu-1827592883-570-428.jpg",
+ "city": "Słoneczny Brzeg",
+ "intro": [
+  "Sunny Day Club to trzygwiazdkowy hotel położony w północnej części popularnego kurortu Słoneczny Brzeg w Bułgarii, w spokojnej okolicy blisko strefy willowej Zora. Obiekt, otwarty w 2004 roku i odnowiony w 2025, oferuje około 150 pokoi w pięciu niskich budynkach na terenie o powierzchni 6000 m².",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par, szukających wypoczynku w dobrej lokalizacji, blisko piaszczystej plaży oraz lokalnych atrakcji. Oferuje udogodnienia takie jak basen ze zjeżdżalniami, plac zabaw dla dzieci oraz siłownię, zapewniając komfortowy pobyt w przystępnej cenie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sunny Day Club znajduje się w północnej części Słonecznego Brzegu, około 100-400 metrów od piaszczystej plaży, co oznacza 5-10 minut spacerem. Od centrum kurortu dzieli go około 1.6-2 km. Najbliższe lotnisko w Burgas (BOJ) oddalone jest o 23-35 km. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje około 150 pokojami, w tym dwuosobowymi, apartamentami z jedną lub dwiema sypialniami, maisonette oraz apartamentem VIP. Standardowe wyposażenie obejmuje klimatyzację, lodówkę, telewizor, łazienkę z prysznicem i WC, balkon lub taras oraz rozkładaną sofę. Apartamenty posiadają kuchnię lub aneks kuchenny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa oferująca dania kuchni śródziemnomorskiej, europejskiej, bułgarskiej i międzynarodowej, w tym grill i pizzę, serwując śniadania, obiady i kolacje. Goście mogą korzystać z baru przy basenie i baru w lobby. Dostępne opcje wyżywienia to Bed and Breakfast oraz Half Board."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie kompleksu znajduje się duży odkryty basen oraz wydzielony basen dla dzieci. Hotel posiada również mały aquapark z czterema zjeżdżalniami wodnymi. Dla aktywnych dostępna jest siłownia, a także bilard i tenis stołowy (dodatkowo płatne). Hotel oferuje niskopoziomowe animacje."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw oraz wydzielony basen. W hotelu funkcjonuje również dzienny żłobek. Dostępność zjeżdżalni wodnych w małym aquaparku stanowi dodatkową atrakcję dla dzieci."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży, sklepów i przystanku autobusowego",
+  "Czyste i przestronne pokoje/apartamenty",
+  "Basen ze zjeżdżalniami wodnymi",
+  "Przyjazny i pomocny personel",
+  "Dobra relacja jakości do ceny"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w całym obiekcie",
+  "Brak bezpłatnych leżaków i parasoli na plaży",
+  "Basen bywa zimny",
+  "Podstawowe wyposażenie pokoi",
+  "Problemy z obsługą w restauracji (np. przy zniżkach)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 100-400 metrów od piaszczystej plaży, co odpowiada 5-10 minutom spaceru."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Tak, hotel posiada mały aquapark z 4 zjeżdżalniami wodnymi oraz duży odkryty basen i wydzielony basen dla dzieci."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, Wi-Fi jest dostępne w całym obiekcie, ale jest płatne."
+  },
+  {
+   "q": "Czy hotel jest przyjazny dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje plac zabaw, wydzielony basen dla dzieci, dzienny żłobek oraz zjeżdżalnie wodne."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Burgas (BOJ), oddalony o około 23-35 km (około 45 minut jazdy autokarem)."
+  },
+  {
+   "q": "Czy w hotelu są animacje?",
+   "a": "Tak, w hotelu dostępne są niskopoziomowe animacje (low-key entertainment)."
+  }
+ ],
+ "address": "Main Street, Sunny Beach, 8240, Bułgaria",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Port lotniczy Burgas (BOJ)",
+ "amenities": [
+  "siłownia",
+  "bilard (płatny)",
+  "tenis stołowy",
+  "masaż (płatny)",
+  "plac zabaw",
+  "dzienny żłobek"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "północna część kurortu, niedaleko strefy willowej Zora",
+ "bars": 2,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 1.8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2004,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (klimatyzacja, lodówka, TV, łazienka z prysznicem i WC, balkon/taras, rozkładana sofa, telefon)",
+  "apartament z jedną sypialnią (klimatyzacja, lodówka, TV, łazienka z prysznicem i WC, balkon/taras, rozkładana sofa, telefon, kuchnia/aneks kuchenny)",
+  "apartament z dwiema sypialniami (klimatyzacja, lodówka, TV, łazienka z prysznicem i WC, balkon/taras, rozkładana sofa, telefon, kuchnia/aneks kuchenny)",
+  "maisonette z dwiema sypialniami i dwiema łazienkami (klimatyzacja, lodówka, TV, łazienka z prysznicem i WC, balkon/taras, rozkładana sofa, telefon, kuchnia/aneks kuchenny)",
+  "apartament VIP (klimatyzacja, lodówka, TV, łazienka z prysznicem i WC, balkon/taras, rozkładana sofa, telefon, kuchnia/aneks kuchenny)"
+ ],
+ "rooms": 150,
+ "spa": true,
+ "wifi": false,
+ "geo": {
+  "lat": 42.707706,
+  "lon": 27.7215101,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.co.uk",
+  "thomascook.com",
+  "reserving.com",
+  "sunnybeach.com",
+  "sunshine.co.uk",
+  "trip.com",
+  "trabber.ca",
+  "sunnybeachclub.bg"
+ ],
+ "updated": "2026-11-27"
+}
