@@ -8,12 +8,34 @@ on:
     - cron: '30 6,7,10,11,17,18 * * *'
   workflow_dispatch:
     inputs:
+      typ:
+        description: 'Rodzaj posta (auto = według pory dnia i slotu)'
+        type: choice
+        default: auto
+        options:
+          - auto
+          - oferta-dnia
+          - oferta-all-inclusive
+          - last-minute-lista
+          - last-minute-weekend
+          - all-inclusive-lista
+          - tanie-loty
+          - tanie-loty-miasto
+          - egzotyka
+          - rejsy
+          - hotel
+          - hotel-dla-rodzin
+          - atrakcja
+          - region
+          - kraj
+          - gdzie-jechac
       slot:
-        description: 'Wymuś slot: rano, poludnie, wieczor (puste = według godziny)'
+        description: 'Tylko dla typu auto: wymuś slot rano, poludnie, wieczor (puste = według godziny)'
         default: ''
       dry:
-        description: 'Tylko podgląd bez publikacji (true/false)'
-        default: 'true'
+        description: 'Tylko podgląd w logu, bez publikacji'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,6 +61,7 @@ jobs:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
         run: |
           ARGS=""
+          if [ -n "${{ inputs.typ }}" ] && [ "${{ inputs.typ }}" != "auto" ]; then ARGS="$ARGS --type ${{ inputs.typ }}"; fi
           if [ -n "${{ inputs.slot }}" ]; then ARGS="$ARGS --slot ${{ inputs.slot }}"; fi
           if [ "${{ inputs.dry }}" = "true" ]; then ARGS="$ARGS --dry"; fi
           npx --yes tsx scripts/fb-post.ts $ARGS

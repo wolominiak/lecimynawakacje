@@ -14,6 +14,8 @@ const API_V = process.env.FB_API_VERSION || 'v27.0';
 const args = process.argv.slice(2);
 const DRY = args.includes('--dry') || !TOKEN || !PAGE;
 const FORCE_SLOT = args.includes('--slot') ? args[args.indexOf('--slot') + 1] : '';
+// ręcznie wybrany rodzaj posta (z GitHub Actions), np. --type oferta-dnia; nie blokuje postów automatycznych
+const TYPE = args.includes('--type') ? args[args.indexOf('--type') + 1] : '';
 const STATE = 'data/fb-posted.json';
 
 type Post = { key: string; message: string; link: string };
@@ -35,9 +37,9 @@ const SLOTS = [
   { name: 'poludnie', from: 12 * 60 + 20, to: 14 * 60 + 30 },
   { name: 'wieczor', from: 19 * 60 + 20, to: 21 * 60 + 30 },
 ];
-const slot = FORCE_SLOT || SLOTS.find((s) => minutes >= s.from && minutes <= s.to)?.name || '';
+const slot = TYPE && TYPE !== 'auto' ? 'reczny' : FORCE_SLOT || SLOTS.find((s) => minutes >= s.from && minutes <= s.to)?.name || '';
 if (!slot) { console.log(`Poza oknem publikacji (${pl.hour}:${pl.minute} czasu polskiego)`); process.exit(0); }
-if (!FORCE_SLOT && state.posts.some((p) => p.date === today && p.slot === slot)) { console.log(`Slot ${slot} dziś już opublikowany`); process.exit(0); }
+if (!FORCE_SLOT && slot !== 'reczny' && state.posts.some((p) => p.date === today && p.slot === slot)) { console.log(`Slot ${slot} dziś już opublikowany`); process.exit(0); }
 
 // --- pomocnicze ---
 const recent = new Set(state.posts.filter((p) => Date.parse(p.date) > Date.now() - 45 * 86400000).map((p) => p.key));
@@ -244,9 +246,30 @@ const PLAN: Record<string, Gen[][]> = {
 // rezerwa, gdy główny pomysł nie zadziała (brak danych)
 const FALLBACK: Gen[] = [regionPost, attractionPost, countryPost, () => flights()];
 
+// rodzaje postów do wyboru przy ręcznym uruchomieniu
+const TYPES: Record<string, Gen[]> = {
+  'oferta-dnia': [() => singleOffer('lm'), () => singleOffer('ai')],
+  'oferta-all-inclusive': [() => singleOffer('ai'), () => singleOffer('lm')],
+  'last-minute-lista': [() => lastMinute()],
+  'last-minute-weekend': [() => lastMinute(true)],
+  'all-inclusive-lista': [allInclusive],
+  'tanie-loty': [() => flights()],
+  'tanie-loty-miasto': [() => flights(true)],
+  egzotyka: [exotic],
+  rejsy: [cruises],
+  hotel: [() => hotelPost('any')],
+  'hotel-dla-rodzin': [() => hotelPost('family')],
+  atrakcja: [attractionPost],
+  region: [regionPost],
+  kraj: [countryPost],
+  'gdzie-jechac': [() => monthPost(1)],
+};
+
 async function main() {
   let post: Post | null = null;
-  for (const g of [...PLAN[slot][dow], ...FALLBACK]) {
+  const gens = slot === 'reczny' ? (TYPES[TYPE] || []) : [...PLAN[slot][dow], ...FALLBACK];
+  if (slot === 'reczny' && !gens.length) { console.error('Nieznany rodzaj posta:', TYPE); process.exit(1); }
+  for (const g of gens) {
     const p = await g();
     if (p && !recent.has(p.key)) { post = p; break; }
   }
