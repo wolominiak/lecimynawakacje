@@ -1,0 +1,135 @@
+{
+ "id": 30939,
+ "slug": "uvala-dubrovnik",
+ "name": "Uvala (Dubrovnik)",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Dubrovnik"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/uvala-dubrovnik-basen-1725845281-570-428.jpg",
+ "city": "Dubrownik",
+ "intro": [
+  "Hotel Uvala w Dubrowniku to czterogwiazdkowy obiekt położony na półwyspie Lapad, w spokojnej zatoce, blisko morza. Jest to idealne miejsce dla osób szukających relaksu, zarówno dla par, jak i rodzin z dziećmi.",
+  "Otwarty w 2003 roku, hotel oferuje komfortowe zakwaterowanie w 51 pokojach, z których każdy posiada balkon. Ostatni remont odbył się w 2015 lub 2022 roku, co zapewnia nowoczesne udogodnienia i przyjemny wystrój."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Uvala znajduje się w malowniczej zatoce Lapad, około 70-300 metrów od miejskiej, żwirowej plaży. W pobliżu dostępne są również platformy do opalania. Leżaki i parasole na plaży są płatne. Do centrum Dubrownika (Starego Miasta) jest około 3.5-4 km, a przystanek autobusowy znajduje się tuż przy hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 51 pokojami dwuosobowymi i typu superior, wszystkie z balkonem i widokiem na morze lub park. Pokoje są klimatyzowane i wyposażone w Smart TV, sejf, minibar, biurko oraz telefon. W łazience znajduje się wanna lub prysznic, suszarka do włosów i bezpłatne kosmetyki. Na życzenie dostępne są szlafroki i kapcie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Uvala goście mogą korzystać z restauracji głównej Mantala, baru aperitif Rozolin oraz baru przy basenie. Dostępne są opcje wyżywienia Bed&Breakfast (śniadania w formie bufetu) oraz Half Board (śniadania i kolacje w formie bufetu, napoje do kolacji płatne). Hotel nie oferuje formuły all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada basen zewnętrzny ze słodką wodą oraz podgrzewany basen kryty (niepodgrzewany w lipcu, sierpniu i wrześniu). Na terenie obiektu znajduje się również centrum Spa & Wellness z saunami (fińska, infrared), łaźnią parową, jacuzzi i szeroką gamą zabiegów. Goście mogą korzystać z siłowni, a sporty wodne są dostępne na plaży za dodatkową opłatą. Korty tenisowe i boisko piłkarskie są dostępne w siostrzanych hotelach."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Uvala jest polecany dla par szukających romantycznego wypoczynku oraz dla rodzin. Jego spokojna lokalizacja blisko morza i dostęp do udogodnień spa sprawiają, że jest to dobre miejsce na relaks i ucieczkę od zgiełku. Bliskość przystanku autobusowego ułatwia zwiedzanie Starego Miasta Dubrownika."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i przystanku autobusowego",
+  "Czystość i miła obsługa",
+  "Dobre i urozmaicone śniadania",
+  "Dostęp do basenów i strefy spa",
+  "Piękne widoki z balkonów"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Brak all inclusive",
+  "Brak aquaparku",
+  "Monotonne obiadokolacje (wg starszych opinii)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Uvala jest położony około 70-300 metrów od miejskiej, żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w formule Bed&Breakfast (śniadania) oraz Half Board (śniadania i kolacje)."
+  },
+  {
+   "q": "Czy w hotelu jest basen z podgrzewaną wodą?",
+   "a": "Tak, hotel posiada podgrzewany basen kryty, który jednak nie jest podgrzewany w lipcu, sierpniu i wrześniu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, a łóżeczka dziecięce są dostępne na życzenie."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska w Dubrowniku?",
+   "a": "Odległość od lotniska w Dubrowniku (DBV) wynosi około 25 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "address": "Masarykov Put 5A, Dubrownik, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Dubrownik (DBV)",
+ "amenities": [
+  "Spa & Wellness",
+  "Siłownia",
+  "Bary",
+  "Restauracja",
+  "Basen zewnętrzny",
+  "Basen kryty",
+  "Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "półwysep Lapad, zatoka Lapad",
+ "bars": 2,
+ "beachDistanceM": 70,
+ "beachType": "żwirowa, miejska",
+ "centerKm": 3.5,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "miłośnicy plaży"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z balkonem (widok na morze lub park)",
+  "Pokój superior z balkonem (widok na morze lub park)"
+ ],
+ "rooms": 51,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6527133,
+  "lon": 18.0684789,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "hotelsindubrovnik.com",
+  "toursgonewild.com",
+  "holidaycheck.de",
+  "hotelsdubrovnik.net",
+  "trip.com",
+  "coraltravel.pl",
+  "tui.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,139 @@
+{
+ "id": 21801,
+ "slug": "komodor-dubrovnik",
+ "name": "Komodor (Dubrovnik)",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Dubrovnik"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001468133-570-428.jpg",
+ "city": "Dubrownik",
+ "intro": [
+  "Hotel Komodor (Dubrovnik) to trzygwiazdkowy obiekt położony na malowniczym Półwyspie Lapad, zaledwie 50 metrów od żwirowej plaży Zatoki Lapad. Hotel łączy urok zabytkowej kamiennej willi z nowoczesnym aneksem, oferując komfortowe zakwaterowanie w spokojnej okolicy Dubrownika.",
+  "Obiekt jest doskonałym wyborem zarówno dla rodzin z dziećmi, jak i dla par, które cenią sobie bliskość plaży, łatwy dostęp do atrakcji miasta oraz możliwość relaksu przy basenie. Hotel oferuje dogodne połączenia autobusowe ze Starym Miastem, co pozwala na szybkie dotarcie do jego zabytków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Komodor znajduje się na Półwyspie Lapad, około 50 metrów od żwirowej plaży Zatoki Lapad. Wokół hotelu rozciąga się promenada z licznymi restauracjami i sklepami. Do Starego Miasta w Dubrowniku można dojechać autobusem w około 10 minut, przystanek znajduje się w pobliżu obiektu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 113 pokoi, w tym pokoje dwuosobowe, jednoosobowe i rodzinne, z widokiem na ogród lub morze. Pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, prywatną łazienkę oraz bezpłatne Wi-Fi. Niektóre pokoje posiadają balkon, jednak w części z nich brakuje mini-lodówek, czajników i sejfów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, Komodor Restaurant (znana również jako Kantenari Restaurant & Lounge), serwująca dania kuchni śródziemnomorskiej. Goście mogą korzystać ze śniadań i kolacji w formie bufetu oraz lunchy z karty. Na terenie obiektu dostępne są również bar przy basenie, bar plażowy oraz bar/lounge. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym basenem odkrytym z bezpłatnymi leżakami i parasolami. Na terenie obiektu znajduje się również aquapark. Goście mogą korzystać z wieczornych rozrywek, w tym muzyki na żywo. Hotel nie posiada własnego spa ani siłowni, ale oferuje zniżki na korzystanie z pobliskich obiektów."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom z dziećmi. Na życzenie dostępne są łóżeczka dziecięce oraz specjalne menu dla najmłodszych. Dodatkowo, hotel posiada aquapark, który z pewnością umili czas dzieciom."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i promenady",
+  "Dobre połączenie komunikacyjne ze Starym Miastem",
+  "Smaczne śniadania w formie bufetu",
+  "Przyjazny personel",
+  "Basen zewnętrzny z leżakami i parasolami"
+ ],
+ "cons": [
+  "Przestarzały wystrój w niektórych częściach hotelu",
+  "Brak mini-lodówek, czajników i sejfów w części pokoi",
+  "Aneks hotelowy bez windy",
+  "Płatny parking",
+  "Brak darmowych leżaków na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 50 metrów lub 5 minut spacerem od żwirowej plaży Zatoki Lapad."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel Komodor nie oferuje opcji all inclusive. Dostępne są wyżywienie ze śniadaniem lub niepełne wyżywienie (śniadanie i kolacja)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Tak, hotel posiada aquapark."
+  },
+  {
+   "q": "Jak daleko jest do lotniska w Dubrowniku?",
+   "a": "Port lotniczy Dubrownik (DBV) oddalony jest od hotelu o około 18.68 km do 25 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i dzieciom. Dostępne są łóżeczka dziecięce na życzenie oraz menu dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, zarówno w pokojach, jak i w miejscach publicznych."
+  }
+ ],
+ "address": "Masarykov put 3E, 20000 Dubrownik, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 18.68,
+ "airportName": "Port lotniczy Dubrownik (DBV)",
+ "amenities": [
+  "Wi-Fi",
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Prywatna łazienka",
+  "Telefon",
+  "Biurko"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Półwysep Lapad",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "żwirowa",
+ "centerKm": 3,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1934,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double or Twin Room (widok na ogród lub morze, niektóre z balkonem)",
+  "Standard Single Room (widok na ogród)",
+  "Standard Double/Twin Room - Annex",
+  "Family Queen Room",
+  "Economy Twin Room",
+  "Standard King Room",
+  "Family Room"
+ ],
+ "rooms": 113,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6537588,
+  "lon": 18.0707208,
+  "src": "osm"
+ },
+ "sources": [
+  "hoteldubrovnik.net",
+  "agoda.com",
+  "hotelston.com",
+  "booking.com",
+  "mercuryholidays.co.uk",
+  "oyster.com",
+  "dubrovnik-hotels.info",
+  "hotelsdubrovnik.net"
+ ],
+ "updated": "2026-11-27"
+}

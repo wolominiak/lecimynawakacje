@@ -1,0 +1,147 @@
+{
+ "id": "x:chorwacja:niko",
+ "slug": "niko",
+ "name": "Niko",
+ "country": "chorwacja",
+ "place": [
+  "chorwacja",
+  "Dalmacja północna",
+  "Šibenik"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/chorvatsko/dalmacie-severni/sibenik/niko-pl/2536a41e2f2db18325eca.jpg",
+ "city": "Šibenik",
+ "intro": [
+  "Hotel Niko, część rozległego kompleksu Amadria Park (dawniej Solaris Beach Resort), położony jest w malowniczej okolicy Šibenika w Chorwacji, między lasem sosnowym a krystalicznie czystym Adriatykiem. Jest to idealne miejsce dla rodzin, które szukają aktywnego wypoczynku i dostępu do szerokiej gamy atrakcji.",
+  "Obiekt oferuje komfortowe zakwaterowanie w odnowionym budynku, bezpośredni dostęp do plaży oraz liczne udogodnienia w ramach kompleksu, takie jak baseny z morską wodą, restauracje i bary. Dzięki swojemu położeniu i ofercie, hotel Niko stanowi doskonałą bazę wypadową do zwiedzania regionu Dalmacji Północnej, jednocześnie zapewniając rozrywkę dla każdego członka rodziny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Niko znajduje się w Šibeniku, w kompleksie Amadria Park, bezpośrednio przy żwirowej plaży z małymi kamyczkami, idealnej dla dzieci. Goście mają dostęp do nagradzanej plaży White Beach. Leżaki i parasole są dostępne, choć mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 220 klimatyzowanymi pokojami, w tym dwuosobowymi, rodzinnymi oraz z możliwością dostawki dla dziecka. Wszystkie pokoje posiadają balkon, prywatną łazienkę, telewizor, minibar, sejf i bezpłatne Wi-Fi. Dostępne są pokoje z widokiem na morze, park lub dziedziniec."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja „The View” oferująca śniadania w formie bufetu z pokazami gotowania, z daniami kuchni chorwackiej i międzynarodowej. Hotel dysponuje również barem/lounge oraz barem przy basenie. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa odkryte baseny z morską wodą, jeden z nich czynny jest przez cały rok. Goście mają również dostęp do Aquaparku Dalmatia (za dodatkową opłatą), oferującego podgrzewaną przestrzeń wodną. Na terenie kompleksu dostępne są liczne obiekty sportowe, w tym korty tenisowe, minigolf oraz centrum fitness."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje brodzik, plac zabaw oraz wewnętrzną strefę zabaw. Dostępny jest również mini klub dla dzieci. Goście mogą korzystać z Aquaparku Dalmatia, który jest atrakcją dla całej rodziny."
+  },
+  {
+   "title": "Usługi i udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie. Goście mogą korzystać z usług spa (za dopłatą), w tym masaży i zabiegów hydroterapii. Dostępne jest również centrum fitness, a także różnorodne aktywności sportowe, takie jak tenis stołowy, siatkówka plażowa i sporty wodne."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Dostęp do rozbudowanego kompleksu Amadria Park",
+  "Dwa baseny z morską wodą",
+  "Mini klub i udogodnienia dla dzieci",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Pokoje mogą być małe i nieco przestarzałe",
+  "Dodatkowe opłaty za parking, leżaki na plaży i aquapark",
+  "Brak własnych animacji hotelowych",
+  "Ograniczona liczba gniazdek elektrycznych w pokojach",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Niko od plaży?",
+   "a": "Hotel Niko znajduje się bezpośrednio przy plaży lub kilka kroków od niej, podawane są odległości 50 metrów lub 100-150 metrów."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży przy hotelu?",
+   "a": "Plaża jest żwirowa, z małymi kamyczkami, odpowiednia dla dzieci."
+  },
+  {
+   "q": "Czy hotel Niko ma aquapark?",
+   "a": "Hotel Niko nie ma własnego aquaparku, ale goście mają dostęp do Aquaparku Dalmatia (za dodatkową opłatą), który jest częścią kompleksu Amadria Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw, wewnętrzną strefę zabaw oraz mini klub dla dzieci."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Split (SPU), oddalone o około 53-59 km. Lotnisko Zadar (ZAD) jest oddalone o około 78-87 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w formie śniadań. Nie ma informacji o opcji all inclusive."
+  }
+ ],
+ "address": "Hoteli Solaris 86, 22000 Šibenik, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 53,
+ "airportName": "Split (SPU)",
+ "amenities": [
+  "Balkon",
+  "Prywatna łazienka",
+  "Telewizor z płaskim ekranem",
+  "Minibar",
+  "Sejf",
+  "Klimatyzacja",
+  "Biurko",
+  "Bezpłatne kosmetyki",
+  "Ręczniki",
+  "Pościel",
+  "Telefon"
+ ],
+ "animations": false,
+ "aquapark": true,
+ "area": "Kompleks Amadria Park",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "Żwirowa z małymi kamyczkami",
+ "centerKm": 5,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": 1970,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2006,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (twin/double)",
+  "Pokój dwuosobowy z dodatkowym łóżkiem (dla 1 dziecka)",
+  "Pokój rodzinny (połączone)"
+ ],
+ "rooms": 220,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 9.9579718,
+  "lon": 76.3017703,
+  "src": "osm"
+ },
+ "sources": [
+  "lastradar.pl",
+  "thomascook.com",
+  "booking.com",
+  "amadriapark.com",
+  "loveholidays.com",
+  "trivago.com",
+  "reserve-online.net",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}
