@@ -1,0 +1,137 @@
+{
+ "id": "x:grecja:tinas plus",
+ "slug": "tinas-plus",
+ "name": "Tinas Plus",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Faliraki"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/faliraki/tinas-plus-pl/2600/cf8f00bf13015ed14a4998b025e360eb_pool2-244.jpg",
+ "city": "Faliraki",
+ "intro": [
+  "Hotel Tinas Plus to kameralny obiekt położony w popularnej miejscowości Faliraki na wyspie Rodos, zaledwie 700-800 metrów od piaszczysto-żwirowej plaży. Został otwarty w 1990 roku, a ostatni remont przeszedł w 2017 lub 2018 roku, oferując gościom odświeżone wnętrza. Hotel jest dogodnie usytuowany blisko centrum miejscowości, co zapewnia łatwy dostęp do lokalnych atrakcji, sklepów i restauracji.",
+  "Tinas Plus to dobry wybór dla par, grup przyjaciół oraz rodzin z dziećmi, które szukają spokojnego miejsca na wypoczynek, cenią sobie dobrą lokalizację i przyjazną atmosferę. Obiekt oferuje podstawowe udogodnienia, takie jak basen zewnętrzny, bezpłatne Wi-Fi oraz pokoje z balkonem lub tarasem, a także bezpłatne śniadanie kontynentalne."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Tinas Plus znajduje się w Faliraki na Rodos, około 700-800 metrów od publicznej plaży Faliraki, co oznacza 5-10 minut spacerem. Plaża jest piaszczysto-żwirowa z łagodnym zejściem do morza. Centrum Faliraki oddalone jest o 500-800 metrów, a międzynarodowe lotnisko Rodos o 17-20 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 38 lub 48 pokojami i apartamentami, rozmieszczonymi w jednym budynku z windą. Pokoje są wyposażone w klimatyzację, lodówkę, bezpłatne Wi-Fi, telewizor, prywatną łazienkę z prysznicem i suszarką do włosów, a także balkon lub taras. Niektóre apartamenty posiadają aneksy kuchenne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden sezonowy basen zewnętrzny ze słodką wodą oraz oddzielny basen dla dzieci. Brak jest aquaparku czy zjeżdżalni, jednak w pobliżu znajduje się Aquapark Faliraki. Goście mogą korzystać z pokoju gier, bilarda i rzutek. Dostępne są również wypożyczalnia rowerów oraz możliwości uprawiania sportów wodnych i pieszych wycieczek w okolicy."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Tinas Plus znajduje się restauracja serwująca dania kuchni greckiej, dostępna w formie a la carte lub bufetu. Do dyspozycji gości są również bar przy basenie i bar z przekąskami. W cenę pobytu wliczone jest bezpłatne śniadanie kontynentalne. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Tinas Plus jest polecany dla par i grup szukających relaksującego wypoczynku w przystępnej cenie, bez zbędnych luksusów. Jest również odpowiedni dla rodzin z dziećmi, dzięki udogodnieniom takim jak basen dla dzieci i plac zabaw. Bliskość centrum Faliraki i plaży sprawia, że jest to dobra baza wypadowa do zwiedzania okolicy."
+  }
+ ],
+ "pros": [
+  "Bardzo przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko centrum i plaży",
+  "Czystość w obiekcie",
+  "Ładny basen i strefa basenowa",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być przestarzałe",
+  "Śniadanie bywało letnie i monotonne",
+  "Wczesne zakończenie serwowania jedzenia (20:00)",
+  "Plaża publiczna z płatnymi leżakami",
+  "Brak animacji i mini klubu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Tinas Plus jest oddalony od plaży Faliraki o około 700-800 metrów, co zajmuje około 5-10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel Tinas Plus jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Rodos (RHO), oddalone o 17-20 km, czyli około 20 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu brak jest aquaparku lub zjeżdżalni. Dostępny jest natomiast basen dla dzieci. Aquapark Faliraki znajduje się w pobliżu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje basen dla dzieci oraz plac zabaw. Nie ma jednak mini klubu ani zorganizowanych animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy w hotelu jest opcja all inclusive?",
+   "a": "Nie, hotel oferuje bezpłatne śniadanie kontynentalne, ale nie ma informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Platanos 1 area, Faliraki 851 00 Rhodes, Greece",
+ "adultsOnly": false,
+ "airportKm": 17,
+ "airportName": "Diagoras International Airport - RHO",
+ "amenities": [
+  "Winda",
+  "Pokój gier",
+  "Bilard",
+  "Rzutki",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Faliraki",
+ "bars": 2,
+ "beachDistanceM": 700,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary",
+  "Grupy przyjaciół",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Comfort Double/Twin Room",
+  "Comfort Apartment (dla 3 lub 4 osób)",
+  "Junior Suite z tarasem i jacuzzi",
+  "Deluxe Queen Room z jacuzzi",
+  "Deluxe Double Room z balkonem"
+ ],
+ "rooms": 38,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.334938049316,
+  "lon": 28.196683883667,
+  "src": "web"
+ },
+ "sources": [
+  "loveholidays.com",
+  "booking.com",
+  "rhodesislandhotels.com",
+  "onthebeach.co.uk",
+  "tinasplushotel.gr",
+  "jet2holidays.com",
+  "expedia.com",
+  "kayak.com"
+ ],
+ "updated": "2026-11-27"
+}

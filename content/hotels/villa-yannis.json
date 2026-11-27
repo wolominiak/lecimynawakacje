@@ -1,0 +1,142 @@
+{
+ "id": "x:grecja:villa yannis",
+ "slug": "villa-yannis",
+ "name": "Villa Yannis",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Dassia"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/dassia/villa-yannis/5223/1acd1af30cbb5bff311ff75f7a1e699b_19s-244.jpg",
+ "city": "Dassia",
+ "intro": [
+  "Villa Yannis to trzygwiazdkowy hotel położony w spokojnej, pagórkowatej okolicy Dassia, na greckiej wyspie Korfu. Obiekt otoczony jest bujną roślinnością i drzewami cytrusowymi, co sprzyja relaksowi. To idealne miejsce dla osób poszukujących wyciszenia, ale jednocześnie ceniących sobie łatwy dostęp do plaży i lokalnych atrakcji.",
+  "Hotel oferuje zakwaterowanie w apartamentach i studiach, co czyni go odpowiednim dla rodzin, par, singli oraz grup przyjaciół. Goście mogą korzystać z basenu i bezpłatnego Wi-Fi, a także uczestniczyć w tematycznych wieczorach organizowanych przez hotel."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Villa Yannis znajduje się w miejscowości Dassia, w dzielnicy Kato Korakiana, około 15 km od lotniska Korfu. Obiekt jest usytuowany na wzgórzu, wśród zieleni. Do centrum Dassia jest około 800 m do 1.5 km, co zajmuje około 10 minut spacerem. Plaża Dassia oddalona jest o 0.8 km do 1.5 km, czyli około 15 minut spacerem."
+  },
+  {
+   "title": "Plaża",
+   "text": "Plaża Dassia jest długa i wąska, z drobnym piaskiem i małymi kamykami. Morze w tym miejscu jest płytkie i osłonięte od wiatru, co sprawia, że jest odpowiednia dla dzieci. Plaża nie jest hotelowa, a leżaki i parasole są dostępne za opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia, apartamenty (jedno-, dwu- i trzypokojowe) oraz suity (Junior Suite, Executive Suite), a także pokoje jednoosobowe. Standardowe wyposażenie obejmuje klimatyzację (często płatną), łazienkę, telewizor, radio, lodówkę, czajnik, ekspres do kawy, telefon, sejf (często płatny) oraz balkon lub taras. Studia i apartamenty posiadają aneks kuchenny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą, otwarty sezonowo. Goście mogą korzystać z bezpłatnych ręczników basenowych. Hotel oferuje również bilard i tenis stołowy, a raz w tygodniu organizuje wieczory korfiańskie z tańcami i muzyką, a także wieczory z grillem i rybami. Dostępne są zabiegi masażu, a sporty wodne i wypożyczalnia rowerów są w pobliżu."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel Villa Yannis oferuje zakwaterowanie w formule self-catering, co oznacza wyżywienie we własnym zakresie. Za dodatkową opłatą dostępne są śniadania kontynentalne. Na terenie obiektu znajduje się restauracja Sebastian Bar z widokiem na basen, bar przy basenie oraz kawiarnia."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja wśród zieleni",
+  "Przyjazna atmosfera i pomocny personel",
+  "Basen z leżakami i parasolami",
+  "Bezpłatne Wi-Fi w całym obiekcie",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Pokoje mogą mieć starsze wyposażenie",
+  "Klimatyzacja w niektórych pokojach jest dodatkowo płatna",
+  "Hotel położony na wzgórzu, co może być utrudnieniem dla osób z problemami ruchowymi",
+  "Plaża oddalona o około 15 minut spacerem",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Dassia znajduje się od 0.8 km do 1.5 km od hotelu, co oznacza około 15 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Hotel Villa Yannis jest oddalony o około 15 km od lotniska Korfu (Ioannis Kapodistrias Airport - CFU)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Villa Yannis nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Plaża Dassia jest płytka i osłonięta od wiatru, co czyni ją odpowiednią dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w całym obiekcie i w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Zakwaterowanie jest w formule self-catering, a śniadania kontynentalne są dostępne za dodatkową opłatą."
+  }
+ ],
+ "address": "Kato Korakiana, DASSIA, CORFU, 49083",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Ioannis Kapodistrias Airport (CFU)",
+ "amenities": [
+  "basen odkryty",
+  "bezpłatne Wi-Fi",
+  "bar przy basenie",
+  "restauracja",
+  "bilard",
+  "tenis stołowy",
+  "masaże",
+  "parking"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Kato Korakiana",
+ "bars": 1,
+ "beachDistanceM": 800,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "single",
+  "grupy przyjaciół",
+  "osoby szukające spokoju"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1995,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio z aneksem kuchennym",
+  "Apartament jedno-, dwu- lub trzypokojowy z aneksem kuchennym",
+  "Junior Suite z widokiem na morze",
+  "Executive Suite",
+  "Pokój jednoosobowy"
+ ],
+ "rooms": 18,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.2369997,
+  "lon": 22.5864906,
+  "src": "osm"
+ },
+ "sources": [
+  "broadwaytravel.com",
+  "villayannis.gr",
+  "onthebeach.co.uk",
+  "lastminute.com",
+  "reserving.com",
+  "d-reizen.nl",
+  "onthebeach.ie",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-27"
+}

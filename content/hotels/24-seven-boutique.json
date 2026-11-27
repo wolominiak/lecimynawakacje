@@ -1,0 +1,134 @@
+{
+ "id": "x:grecja:24 seven boutique",
+ "slug": "24-seven-boutique",
+ "name": "24 Seven Boutique",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Malia"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/malia/24-seven-boutique-pl/4339/ebd45d1489db54add37b8-244.jpg",
+ "city": "Malia",
+ "intro": [
+  "24 Seven Boutique to kameralny, trzypiętrowy hotel położony w urokliwej starej części Malii na Krecie. Obiekt, otwarty w 1980 roku i gruntownie odnowiony w latach 2017-2018, oferuje nowoczesne zakwaterowanie w 24 pokojach. Jego lokalizacja sprawia, że jest to doskonała baza wypadowa do zwiedzania okolicy i korzystania z lokalnych atrakcji.",
+  "Hotel jest polecany zarówno dla par i grup przyjaciół szukających towarzyskiej atmosfery i bliskości rozrywek, jak i dla rodzin z dziećmi. Goście doceniają przyjazny personel, czystość oraz dobrą relację jakości do ceny. Bliskość centrum Malii z kawiarniami i restauracjami oraz głównej ulicy z barami i klubami to dodatkowe atuty."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel 24 Seven Boutique znajduje się w starej części Malii, zaledwie 2 minuty spacerem od centrum miasta z kawiarniami i restauracjami. Główna ulica z barami i klubami oddalona jest o 5 minut. Najbliższe lotnisko, Międzynarodowy Port Lotniczy Heraklion (HER), jest w odległości około 26-32 km. Do piaszczystej plaży w Malii jest około 1-2 km, co zajmuje 15-20 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 24 przestronne i nowocześnie urządzone pokoje, w tym Standard Studio, Standard Triple Studio, Family Studio, Single Room, Classic Double Room i Classic Quadruple Room. Wszystkie pokoje są klimatyzowane (dodatkowa opłata, chyba że rezerwacja bezpośrednia na 7+ nocy) i wyposażone w prywatną łazienkę, balkon lub taras, aneks kuchenny z lodówką i płytą grzejną, Smart TV, ekspres do kawy, żelazko, suszarkę do włosów oraz sejf (dodatkowa opłata)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni greckiej, włoskiej, śródziemnomorskiej i międzynarodowej, z opcjami wegetariańskimi, wegańskimi i bezglutenowymi. Śniadanie (kontynentalne, à la carte lub pełne angielskie/irlandzkie) jest wliczone w cenę każdego pokoju. Goście mogą korzystać z baru przy basenie i baru typu lounge. Hotel oferuje wyżywienie w opcji Bed & Breakfast oraz Half Board."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu dostępny jest jeden sezonowy odkryty basen z leżakami i parasolami. Hotel posiada również studio fitness. Wieczorami organizowana jest muzyka na żywo w barze, gdzie można także oglądać transmisje sportowe na dużych ekranach. W pobliżu hotelu dostępne są sporty wodne, a na miejscu można wypożyczyć rowery i zagrać w bilard."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko centrum i rozrywek",
+  "Przyjazny i pomocny personel",
+  "Czyste i nowocześnie urządzone pokoje",
+  "Dobry stosunek jakości do ceny",
+  "Różnorodne opcje wyżywienia (śniadania w cenie)"
+ ],
+ "cons": [
+  "Odległość do plaży (15-20 minut spacerem)",
+  "Możliwy hałas od grup młodzieży w sezonie wysokim",
+  "Klimatyzacja i sejf za dodatkową opłatą",
+  "Brak aquaparku i rozbudowanej strefy dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 1 do 2 km (15-20 minut spacerem) od głównej piaszczystej plaży w Malii."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Heraklion (HER), oddalony o około 26-32 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Na terenie obiektu jest jeden odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest opisywany jako przyjazny rodzinom i oferuje pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie typu Bed & Breakfast oraz Half Board. Śniadanie jest wliczone w cenę każdego pokoju."
+  }
+ ],
+ "address": "Pavlou Mela 4, TK 700 07 Malia, Crete, Greece",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Międzynarodowy Port Lotniczy Heraklion (HER)",
+ "amenities": [
+  "Basen zewnętrzny",
+  "Studio fitness",
+  "Bilard",
+  "Wypożyczalnia rowerów",
+  "Muzyka na żywo",
+  "Transmisje sportowe"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Stara część Malii",
+ "bars": 2,
+ "beachDistanceM": 1500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.35,
+ "goodFor": [
+  "Pary",
+  "Grupy przyjaciół",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1980,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Studio",
+  "Standard Triple Studio",
+  "Family Studio",
+  "Single Room",
+  "Classic Double Room",
+  "Classic Quadruple Room"
+ ],
+ "rooms": 24,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 35.282288,
+  "lon": 25.46557,
+  "src": "web"
+ },
+ "sources": [
+  "holidaycheck.de",
+  "24sevenhotel.gr",
+  "google.com.ng",
+  "ideatravel.bg",
+  "thomascook.com",
+  "odysseus-app.com",
+  "reserving.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

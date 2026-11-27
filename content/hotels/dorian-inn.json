@@ -1,0 +1,141 @@
+{
+ "id": 37145,
+ "slug": "dorian-inn",
+ "name": "Dorian Inn",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/dorian-inn-basen-844912691-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Hotel Dorian Inn to trzygwiazdkowy obiekt położony w centrum Aten, w pobliżu Placu Omonia. Jest to idealna baza wypadowa dla turystów pragnących zwiedzać miasto, par oraz osób podróżujących służbowo, ceniących sobie łatwy dostęp do głównych atrakcji stolicy Grecji.",
+  "Hotel oferuje komfortowe zakwaterowanie w 142 pokojach, a jego największym atutem jest basen i restauracja na dachu z panoramicznym widokiem na Akropol. Obiekt jest przyjazny rodzinom, oferując udogodnienia dla dzieci, takie jak krzesełka w restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Dorian Inn znajduje się w centrum Aten, zaledwie 0.1-0.3 km od ścisłego centrum, co umożliwia szybki dostęp do najważniejszych punktów miasta. Hotel jest oddalony o około 15 km od plaży. Najbliższe lotnisko, Międzynarodowy Port Lotniczy w Atenach \"Eleftherios Venizelos\" (ATH), znajduje się w odległości 34-43 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 142 pokojami, które zostały odnowione w 2010 roku. W ofercie znajdują się różne typy zakwaterowania, od pokoi Standard Single po King Suite. Wszystkie pokoje wyposażone są w klimatyzację, lodówkę/mini bar, telewizor, bezpłatne Wi-Fi, sejf oraz prywatną łazienkę. Niektóre pokoje posiadają balkon i są dźwiękoszczelne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się odkryty basen z płytką częścią, dostępny przez cały rok. Z basenu roztacza się spektakularny widok na Akropol. Hotel oferuje również usługi masażu oraz wypożyczalnię samochodów i rowerów. Brak informacji o aquaparku czy animacjach."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu znajdują się dwie restauracje, w tym \"Point of View Bar and Restaurant\" na 12. piętrze, serwująca kuchnię śródziemnomorską i grecką z widokiem na Akropol. Goście mogą korzystać z baru na dachu oraz baru przy basenie. Codzienne śniadanie w formie bufetu (greckie) jest dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach i miejscach publicznych. Dla rodzin z dziećmi dostępne są krzesełka w restauracji, a dzieci do 2 lat mogą przebywać bezpłatnie. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko stacji metra Omonia",
+  "Spektakularny widok na Akropol z basenu i restauracji na dachu",
+  "Czyste pokoje i pomocna obsługa",
+  "Dobre śniadanie w formie bufetu",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Okolica wokół hotelu może być postrzegana jako niezbyt bezpieczna wieczorami",
+  "Woda w basenie na dachu jest zimna, ponieważ nie jest podgrzewana",
+  "Śniadanie bywało oceniane jako niezorganizowane i z małym wyborem",
+  "Pokoje po remoncie mogą być mniejsze",
+  "Hałas uliczny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Dorian Inn znajduje się około 15 km od plaży."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy w Atenach \"Eleftherios Venizelos\" (ATH), jest oddalone o około 34-43 km."
+  },
+  {
+   "q": "Czy hotel ma basen?",
+   "a": "Tak, hotel posiada jeden odkryty basen na dachu, który jest otwarty przez cały rok."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje krzesełka dla dzieci w restauracji, a dzieci do 2 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy hotel oferuje bezpłatne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "15-19 Pireos Street (ul. P. Tsaldari), 10552, Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach \"Eleftherios Venizelos\" (ATH)",
+ "amenities": [
+  "wypożyczalnia samochodów",
+  "wypożyczalnia rowerów",
+  "masaże",
+  "krzesełka dla dzieci w restauracji"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum Aten, w pobliżu Placu Omonia",
+ "bars": 2,
+ "beachDistanceM": 15000,
+ "beachType": "",
+ "centerKm": 0.1,
+ "goodFor": [
+  "turyści zwiedzający miasto",
+  "pary",
+  "rodziny",
+  "osoby podróżujące służbowo"
+ ],
+ "gym": null,
+ "heatedPool": false,
+ "kidsClub": null,
+ "opened": 1979,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2010,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Single Room",
+  "Comfort Room (jedno-, dwu- i trzyosobowe, z łóżkiem typu queen)",
+  "Superior Room (z łóżkiem typu king)",
+  "Family Room (z sofą)",
+  "King Suite"
+ ],
+ "rooms": 142,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9828685,
+  "lon": 23.7256438,
+  "src": "osm"
+ },
+ "sources": [
+  "bestwestern.de",
+  "bestwestern.com",
+  "thatvacation.com",
+  "skyscanner.qa",
+  "easemytrip.com",
+  "dorianinnhotel.com",
+  "agoda.com",
+  "bestwestern.it"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": 16109,
+ "slug": "club-hotel-titan",
+ "name": "Club Hotel Titan",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Mahmutlar"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/club-hotel-titan-basen-1242426949-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Club Hotel Titan to czterogwiazdkowy obiekt położony w dzielnicy Kargıcak w Alanyi, na Riwierze Tureckiej. Hotel znajduje się tuż przy morzu, oferując prywatną plażę i szereg udogodnień dla komfortowego wypoczynku.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, dzięki bogatej ofercie animacji, mini klubowi i udogodnieniom dla najmłodszych. Oferuje formułę Ultra All Inclusive, zapewniając kompleksową obsługę gastronomiczną i dostęp do wielu atrakcji sportowych i rekreacyjnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Club Hotel Titan usytuowany jest w Alanyi, w dzielnicy Kargıcak, bezpośrednio nad morzem. Prywatna, piaszczysto-żwirowa plaża znajduje się w odległości 50-100 metrów od hotelu, z dostępem przez tunel lub drogę. Na plaży dostępne są bezpłatne leżaki, parasole, ręczniki, prysznice i toalety."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 161 pokojami, w tym standardowymi, dużymi, rodzinnymi oraz przystosowanymi dla osób niepełnosprawnych. Każdy pokój wyposażony jest w klimatyzację, balkon lub taras, łazienkę, telewizor, telefon, minibar i bezpłatne Wi-Fi. Sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Club Hotel Titan oferuje formułę Ultra All Inclusive. Główna restauracja serwuje posiłki w formie bufetu, a do dyspozycji gości są trzy bary: przy basenie, na plaży i w lobby. Pakiet obejmuje śniadania, obiady, kolacje, przekąski, kawę i ciastka, a także lokalne i wybrane importowane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen główny z wydzielonym brodzikiem dla dzieci. Hotel oferuje dzienne i wieczorne animacje, mini klub dla dzieci, plac zabaw oraz centrum fitness. Dostępne są również kort tenisowy, tenis stołowy, rzutki, boccia, strzelectwo z łuku, siatkówka plażowa, aerobik i gimnastyka w wodzie."
+  },
+  {
+   "title": "Wellness i usługi",
+   "text": "Hotel dysponuje centrum wellness z łaźnią turecką (hammam) i sauną. Masaże i peelingi są dodatkowo płatne. Bezpłatne Wi-Fi jest dostępne w lobby i pokojach. Sporty wodne na plaży są oferowane przez zewnętrznych dostawców za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Dobre jedzenie i miła obsługa",
+  "Czystość w całym obiekcie",
+  "Duży teren hotelowy",
+  "Prywatna plaża z bezpłatnym serwisem",
+  "Formuła Ultra All Inclusive"
+ ],
+ "cons": [
+  "Hotel zbudowany w 1987/1988 roku, remont planowany na 2025/2026",
+  "Oddalenie od centrum Mahmutlar i Alanyi",
+  "Mieszane opinie dotyczące stanu pokoi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od plaży o około 50-100 metrów, z dostępem przez tunel lub przez drogę."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya (GZP), oddalone o około 23.5 km do 35 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak wyraźnych informacji o zjeżdżalniach wodnych lub aquaparku. Hotel ma odkryty basen główny i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, mini klub oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i w pokojach."
+  },
+  {
+   "q": "Jak daleko jest do centrum miejscowości?",
+   "a": "Odległość od centrum Mahmutlar wynosi około 3-6 km, a od centrum Alanyi około 15-17 km."
+  }
+ ],
+ "address": "Yatsısay Mevkii Kargıcak Alanya Antalya",
+ "adultsOnly": false,
+ "airportKm": 23.5,
+ "airportName": "Gazipaşa-Alanya (GZP)",
+ "amenities": [
+  "centrum wellness",
+  "łaźnia turecka (hammam)",
+  "sauna",
+  "centrum fitness/siłownia",
+  "kort tenisowy",
+  "tenis stołowy",
+  "rzutki",
+  "boccia",
+  "strzelectwo z łuku",
+  "siatkówka plażowa",
+  "aerobik",
+  "gimnastyka w wodzie",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Kargıcak",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1987,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój duży (large)",
+  "pokój rodzinny (family room/suite) z oddzielnymi sypialniami",
+  "pokój przystosowany dla osób niepełnosprawnych"
+ ],
+ "rooms": 161,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "reserving.com",
+  "coral.ge",
+  "titanhotels.com",
+  "agoda.com",
+  "kayak.ae",
+  "myhotels.sa",
+  "booking.com",
+  "hotels-antalya.net"
+ ],
+ "updated": "2026-11-27"
+}

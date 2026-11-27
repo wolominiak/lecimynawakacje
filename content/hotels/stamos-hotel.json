@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:stamos hotel",
+ "slug": "stamos-hotel",
+ "name": "Stamos Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Faliraki"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/faliraki/stamos-hotel/b111f83529e4051d32d245218dd0e8c0_279484765.jpg",
+ "city": "Faliraki",
+ "intro": [
+  "Stamos Hotel to trzygwiazdkowy obiekt położony w popularnej miejscowości Faliraki na Rodos, oferujący spokojny wypoczynek z łatwym dostępem do lokalnych atrakcji. Hotel jest idealnym miejscem dla rodzin, par oraz młodszych osób, które cenią sobie bliskość plaży i rozrywkowego centrum.",
+  "Zbudowany w 1992 roku i odnowiony w 2008 roku, hotel dysponuje 106 pokojami rozmieszczonymi w trzech budynkach na terenie o powierzchni 10 000 m². Oferuje udogodnienia dla dzieci oraz animacje dla dorosłych, co sprawia, że jest dobrą bazą wypadową do zwiedzania wyspy lub relaksu nad basenem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Stamos znajduje się w Faliraki, przy ulicy Agisandrou, w spokojnej okolicy, jednocześnie blisko centrum miejscowości. Od piaszczystej, publicznej plaży Faliraki dzieli go około 400-500 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, natomiast przy basenie hotelowym można z nich korzystać bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 106 pokoi typu Double, Superior oraz dwupokojowe Indoor Family. Wszystkie pokoje wyposażone są w balkon, indywidualnie sterowaną klimatyzację, mini lodówkę, telewizor z płaskim ekranem, czajnik elektryczny oraz łazienkę z prysznicem i suszarką do włosów. Bezpłatne Wi-Fi jest dostępne we wszystkich pokojach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa, serwująca dania kuchni śródziemnomorskiej i greckiej. Do dyspozycji gości są również bar przy basenie i bar główny. Program All Inclusive obejmuje śniadania, lunche, kolacje, przekąski, kawę, ciastka, lody oraz lokalne napoje alkoholowe i bezalkoholowe serwowane w godzinach 10:30-22:30."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem oraz brodzikiem dla dzieci. Basen zewnętrzny jest czynny przez cały rok. Na terenie obiektu znajduje się plac zabaw dla dzieci. Trzy razy w tygodniu, od maja do października, organizowane są animacje dla dorosłych. Goście mogą również korzystać z bilarda i tenisa stołowego."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Stamos Hotel jest polecany dla rodzin i par poszukujących relaksu w spokojnej okolicy z łatwym dostępem do rozrywki Faliraki. Ze względu na bliskość życia nocnego, może być również odpowiedni dla młodszych gości."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum Faliraki",
+  "Czystość i przyjazny personel",
+  "Smaczne i różnorodne jedzenie w ramach All Inclusive",
+  "Dobra relacja jakości do ceny",
+  "Bezpłatne Wi-Fi w pokojach i miejscach publicznych"
+ ],
+ "cons": [
+  "Plaża publiczna z płatnymi leżakami",
+  "Jedzenie All Inclusive bywa określane jako \"standardowe\"",
+  "Brak wystarczającej ilości greckich potraw w menu",
+  "Sporadyczne uwagi dotyczące utrzymania pokoi (np. pleśń, rzadka zmiana pościeli)",
+  "Brak aquaparku na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Stamos jest oddalony o około 400-500 metrów od piaszczystej plaży Faliraki."
+  },
+  {
+   "q": "Czy hotel oferuje All Inclusive?",
+   "a": "Tak, hotel oferuje program All Inclusive obejmujący posiłki, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe w określonych godzinach."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje brodzik dla dzieci, plac zabaw oraz łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Rodos (RHO), jest oddalone o około 10-17 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w miejscach publicznych na terenie hotelu."
+  }
+ ],
+ "address": "Agisandrou, Faliraki, 85105 Rodos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 10,
+ "airportName": "Międzynarodowy Port Lotniczy Rodos (RHO)",
+ "amenities": [
+  "bilard",
+  "tenis stołowy",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Faliraki",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 0.9,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "młodsi goście"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1992,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Double",
+  "Superior",
+  "Indoor Family (dwupokojowe)"
+ ],
+ "rooms": 106,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.3483438,
+  "lon": 28.1987718,
+  "src": "osm"
+ },
+ "sources": [
+  "rhodesislandhotels.com",
+  "trivago.com",
+  "grhotels.gr",
+  "stamoshotel.gr",
+  "holidaygems.co.uk",
+  "booking.com",
+  "holidaycheck.de",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

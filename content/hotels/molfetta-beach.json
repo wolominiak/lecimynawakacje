@@ -1,0 +1,140 @@
+{
+ "id": "x:grecja:molfetta beach",
+ "slug": "molfetta-beach",
+ "name": "Molfetta Beach",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Gouvia"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/gouvia/molfetta-beach-pl/8542/ccc131aa664bffc0ee76a2b22f35b444_0-244.jpg",
+ "city": "Gouvia",
+ "intro": [
+  "Hotel Molfetta Beach to trzygwiazdkowy obiekt położony w samym sercu Gouvii na Korfu, bezpośrednio przy plaży. Jest to idealne miejsce dla osób szukających relaksu nad morzem, a także dla rodzin z dziećmi i par, ceniących sobie bliskość lokalnych atrakcji.",
+  "Obiekt oferuje komfortowe zakwaterowanie z widokiem na morze lub okoliczne wzgórza, a także dostęp do basenu i prywatnej plaży. Goście mogą korzystać z bogatej oferty gastronomicznej oraz wieczornych rozrywek, co sprawia, że jest to doskonała baza wypadowa do odkrywania uroków Korfu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Molfetta Beach znajduje się w centrum miejscowości Gouvia, w zatoce Gouvia, zaledwie 50 metrów od centrum. Jest położony bezpośrednio przy plaży, która jest prywatną plażą hotelową. Na plaży dostępne są leżaki i parasole dla gości."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 27 pokojami, w tym pokojami dwu-, trzy- i czteroosobowymi, pokojem Family Deluxe oraz apartamentem \"Alcmene\" suite. Pokoje są wyposażone w klimatyzację, telewizor satelitarny, mini lodówkę, sejf, suszarkę do włosów oraz umeblowany balkon. Niektóre pokoje posiadają łóżka Tempur-Pedic, a apartament \"Alcmene\" suite oferuje jacuzzi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja/snack-restauracja serwująca dania kuchni greckiej i międzynarodowej, z opcjami dla dzieci i wegetarian. Goście otrzymują bezpłatne śniadanie w formie bufetu. Na terenie obiektu dostępne są również dwa bary na świeżym powietrzu, bar przy plaży, kawiarnia oraz dyskoteka."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada basen, a dla gości organizowane są wieczorne rozrywki, w tym występy na żywo, klub nocny oraz imprezy tematyczne. Na życzenie dostępne są masaże i zabiegi kosmetyczne. W okolicy można uprawiać sporty wodne, nurkowanie oraz wypożyczać rowery i skutery."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny dzieciom i oferuje łóżeczka oraz specjalne menu. Dostępne są pokoje rodzinne, co czyni go odpowiednim wyborem dla rodzin podróżujących z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i blisko centrum Gouvii.",
+  "Przyjazny i pomocny personel.",
+  "Czystość obiektu.",
+  "Dobre jedzenie, zwłaszcza śniadania w formie bufetu.",
+  "Dostępne wieczorne rozrywki i możliwość zabrania małych zwierząt domowych."
+ ],
+ "cons": [
+  "W niektórych opiniach wspomina się o małych pokojach i łazienkach.",
+  "Pojawiła się opinia o zapachu kanalizacji w łazience.",
+  "Udogodnienia mogą być nieco przestarzałe.",
+  "Brak informacji o aquaparku/zjeżdżalniach.",
+  "Standardowy pakiet to nocleg ze śniadaniem (B&B), brak all inclusive."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Molfetta Beach jest położony bezpośrednio przy prywatnej plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 8-9 km od Międzynarodowego Lotniska Korfu (Corfu Ioannis Kapodistrias Airport)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom, oferuje łóżeczka, menu dla dzieci oraz pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel oferuje bezpłatne śniadanie w formie bufetu. Nie ma informacji o pakiecie all inclusive."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  }
+ ],
+ "address": "Gouvia, Korfu, 49100 Grecja",
+ "adultsOnly": false,
+ "airportKm": 8.5,
+ "airportName": "Międzynarodowe Lotnisko Korfu (Corfu Ioannis Kapodistrias Airport)",
+ "amenities": [
+  "Basen",
+  "Prywatna plaża",
+  "Leżaki i parasole na plaży",
+  "Masaże i zabiegi kosmetyczne (na życzenie)",
+  "Sporty wodne (na miejscu)",
+  "Nurkowanie",
+  "Wypożyczalnia rowerów/skuterów",
+  "Możliwość zabrania małych zwierząt domowych"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Zatoka Gouvia",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "",
+ "centerKm": 0.05,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu nad morzem"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, łazienką z prysznicem, mini lodówką, telewizorem satelitarnym 32\", suszarką do włosów, sejfem, telefonem, czajnikiem elektrycznym, naczyniami kuchennymi i umeblowanym balkonem.",
+  "Pokój trzyosobowy z klimatyzacją, łazienką z prysznicem, mini lodówką, telewizorem satelitarnym 32\", suszarką do włosów, sejfem, telefonem, czajnikiem elektrycznym, naczyniami kuchennymi i umeblowanym balkonem.",
+  "Pokój czteroosobowy z klimatyzacją, łazienką z prysznicem, mini lodówką, telewizorem satelitarnym 32\", suszarką do włosów, sejfem, telefonem, czajnikiem elektrycznym, naczyniami kuchennymi i umeblowanym balkonem.",
+  "Pokój Family Deluxe z klimatyzacją, łazienką z prysznicem, mini lodówką, telewizorem satelitarnym 32\", suszarką do włosów, sejfem, telefonem, czajnikiem elektrycznym, naczyniami kuchennymi i umeblowanym balkonem.",
+  "Apartament \"Alcmene\" suite z jacuzzi, klimatyzacją, łazienką z prysznicem, mini lodówką, telewizorem satelitarnym 32\", suszarką do włosów, sejfem, telefonem, czajnikiem elektrycznym, naczyniami kuchennymi i umeblowanym balkonem."
+ ],
+ "rooms": 27,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.6498564,
+  "lon": 19.8430689,
+  "src": "osm"
+ },
+ "sources": [
+  "molfettabeach.com",
+  "wego.com",
+  "reserve-online.net",
+  "grhotels.gr",
+  "hotelplanner.com",
+  "hotels-corfu.com",
+  "hotelscorfuisland.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

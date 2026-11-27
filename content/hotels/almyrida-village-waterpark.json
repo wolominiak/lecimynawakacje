@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:almyrida village and waterpark",
+ "slug": "almyrida-village-waterpark",
+ "name": "Almyrida Village & Waterpark",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Almyryda"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/almyrida/almyrida-village-a-waterpark-pl/7265/47e6b9fcb53d2f523a428661694ecfdf_2-244.jpg",
+ "city": "Almyrida",
+ "intro": [
+  "Almyrida Village & Waterpark to rodzinny hotel położony w malowniczej wiosce rybackiej Almyrida, w regionie Chania na Krecie. Obiekt, odnowiony w 2018 roku, oferuje komfortowe zakwaterowanie w spokojnej okolicy, jednocześnie zapewniając łatwy dostęp do lokalnych atrakcji.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, dzięki rozbudowanej strefie wodnej i udogodnieniom dla najmłodszych, a także dla par szukających relaksu i możliwości odkrywania uroków Krety. Położenie blisko centrum wioski i piaszczystej plaży sprawia, że jest to doskonała baza wypadowa do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Almyrida Village & Waterpark znajduje się w odległości 300-700 metrów od piaszczystej plaży w Almyridzie. Plaża charakteryzuje się łagodnym zejściem do wody, co jest odpowiednie dla małych dzieci. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, ponieważ nie jest to plaża prywatna hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 118 pokojami, rozmieszczonymi w budynku głównym i dwóch przyległych dwupiętrowych budynkach. Pokoje są wyposażone w klimatyzację, telewizor, suszarkę do włosów, mini-lodówkę, czajnik oraz bezpłatne Wi-Fi. Każdy pokój posiada prywatną łazienkę oraz balkon lub taras, a niektóre oferują widok na morze."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży odkryty basen ze słodką wodą o powierzchni 700 m² oraz oddzielny basen dla dzieci (100 m²). Goście mogą korzystać z aquaparku ze zjeżdżalniami dla dorosłych i dzieci. Dostępne są również siłownia, kort tenisowy (za opłatą) oraz tenis stołowy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część w basenie, brodzik, plac zabaw na świeżym powietrzu oraz mini klub. Dodatkową atrakcją jest aquapark ze zjeżdżalniami, zapewniający rozrywkę zarówno dzieciom, jak i dorosłym. Wieczorne animacje i pokazy są organizowane z myślą o rodzinach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni kreteńskiej i międzynarodowej na śniadania i kolacje. W ramach formuły All Inclusive dostępne są również obiady, lokalne napoje alkoholowe i bezalkoholowe, przekąski oraz lody dla dzieci. Na terenie obiektu funkcjonuje bar przy basenie oraz ogólny bar."
+  }
+ ],
+ "pros": [
+  "Duży aquapark ze zjeżdżalniami dla dzieci i dorosłych",
+  "Lokalizacja blisko centrum wioski i piaszczystej plaży",
+  "Bezpłatne Wi-Fi w całym hotelu",
+  "Smaczne jedzenie, zwłaszcza kolacje",
+  "Udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Płatne ręczniki basenowe/plażowe",
+  "Sejf w pokoju za dodatkową opłatą",
+  "Ograniczona różnorodność śniadań",
+  "Niektóre elementy ośrodka mogą wymagać konserwacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się od 300 do 700 metrów od piaszczystej plaży w Almyridzie, co zajmuje około 5-10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark ze zjeżdżalniami dla dzieci i dorosłych, czynny w godzinach 10:00-18:00."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując basen dla dzieci, brodzik, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Chania (CHQ), oddalony o około 30-32 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pomieszczeniach ogólnodostępnych oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Almyrida Village & Waterpark nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Epar.Od. Kalivon-Kefalas 15, Apokoronas, Kreta, 73008, Grecja",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Międzynarodowy Port Lotniczy Chania (CHQ)",
+ "amenities": [
+  "siłownia",
+  "kort tenisowy",
+  "tenis stołowy",
+  "kajakarstwo",
+  "żeglarstwo",
+  "masaż (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Almyrida, region Chania",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2007,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy z widokiem na ogród (klimatyzacja, TV, suszarka do włosów, mini-lodówka, czajnik, Wi-Fi, łazienka, balkon/taras)",
+  "pokój dwuosobowy z widokiem na ogród/morze (klimatyzacja, TV, suszarka do włosów, mini-lodówka, czajnik, Wi-Fi, łazienka, balkon/taras)",
+  "pokój superior z widokiem na morze (klimatyzacja, TV, suszarka do włosów, mini-lodówka, czajnik, Wi-Fi, łazienka, balkon/taras)",
+  "pokój rodzinny typu open plan z widokiem na ogród/morze (klimatyzacja, TV, suszarka do włosów, mini-lodówka, czajnik, Wi-Fi, łazienka, balkon/taras)",
+  "suita rodzinna (klimatyzacja, TV, suszarka do włosów, mini-lodówka, czajnik, Wi-Fi, łazienka, balkon/taras)"
+ ],
+ "rooms": 118,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "thomascook.com",
+  "trip.com",
+  "kalamaki-travel.gr",
+  "detur.se",
+  "booking.com",
+  "lastminute.com",
+  "agoda.com",
+  "amimir.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,131 @@
+{
+ "id": "x:grecja:hersonissos maris",
+ "slug": "hersonissos-maris",
+ "name": "Hersonissos Maris",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Hersonissos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/hersonissos/hersonissos-maris-pl/3678/ae249b8b526e7843d81d647d3c85d950_1-244.jpeg",
+ "city": "Hersonissos",
+ "intro": [
+  "Hotel Hersonissos Maris to czterogwiazdkowy obiekt położony w miejscowości Hersonissos na Krecie, w dzielnicy Sarantari - Limenas Hersonissos. Charakteryzuje się zabudową wzorowaną na tradycyjnej kreteńskiej wiosce, oferując gościom spokojny wypoczynek z bezpośrednim dostępem do morza.",
+  "Obiekt jest odpowiedni zarówno dla par, jak i rodzin z dziećmi, poszukujących relaksu blisko plaży, z możliwością korzystania z udogodnień spa i sportowych. Bliskość centrum Hersonissos pozwala na łatwy dostęp do lokalnych atrakcji i rozrywki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hersonissos Maris znajduje się w Hersonissos, w dzielnicy Sarantari - Limenas Hersonissos. Oferuje bezpośredni dostęp do małych, piaszczystych zatoczek z czystą wodą. Plaża Playa Con Chicos jest oddalona o około 50 metrów, a plaża Saradari o około 0.5 km. Plaża jest piaszczysta z kamieniami, a wejście do morza również. Leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 204 pokojami, w tym standardowymi, superior (tylko dla dorosłych, z dostępem do współdzielonego basenu), apartamentami i maisonettes z prywatnym basenem. Wszystkie pokoje wyposażone są w klimatyzację, telewizor, łazienkę z suszarką do włosów, lodówkę oraz balkon lub taras. Sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja \"Alexander\" serwuje dania kuchni greckiej i międzynarodowej w formie bufetu na śniadanie, obiad i kolację. Na terenie hotelu znajdują się również bar przekąskowy \"Thalassa\" przy morzu, bar w lobby oraz sezonowy bar na plaży. Hotel oferuje wyżywienie w opcji Half Board lub All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa odkryte baseny oraz jeden kryty basen ze słodką wodą, który jest podgrzewany. Dla dzieci dostępny jest brodzik i plac zabaw. Goście mogą korzystać z centrum spa oferującego masaże, saunę, hammam i jacuzzi, a także z w pełni wyposażonej siłowni, kortu tenisowego i stołu do tenisa stołowego. Wieczorami organizowana jest rozrywka o tematyce greckiej i kreteńskiej."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum miasta",
+  "Bardzo czysty hotel i pokoje",
+  "Przyjazny i pomocny personel",
+  "Dobre i różnorodne jedzenie",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Brak prywatności na niektórych balkonach/tarasach",
+  "Plaża w pobliżu oceniana jako \"nic specjalnego\"",
+  "Pokoje mogą być przestarzałe i wymagać remontu",
+  "Śliska podłoga wokół basenu",
+  "Brak wind w hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel oferuje bezpośredni dostęp do małych piaszczystych zatoczek. Plaża Playa Con Chicos znajduje się około 50 metrów od hotelu, a plaża Saradari około 0.5 km."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko im. Nikosa Kazantzakisa w Heraklionie (HER), oddalone o około 23-25 km. Czas przejazdu samochodem to około 21 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Dostępne są dwa odkryte baseny i jeden kryty basen, a dla dzieci brodzik."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje brodzik i plac zabaw dla dzieci, a także łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest wyłącznie dla dorosłych. Oferuje jednak pokoje Superior z dostępem do współdzielonego basenu, które są przeznaczone tylko dla osób powyżej 18 roku życia."
+  }
+ ],
+ "address": "HERSONISOU BEACH 46, Limin Hersonissou, 700 14, Hersonissos, Crete, Greece",
+ "adultsOnly": false,
+ "airportKm": 24,
+ "airportName": "Międzynarodowe Lotnisko im. Nikosa Kazantzakisa w Heraklionie (HER)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Sarantari - Limenas Hersonissos",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta z kamieniami",
+ "centerKm": 1.25,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (widok na ogród/basen lub częściowy widok na morze, klimatyzacja, TV, łazienka, suszarka, lodówka, telefon, balkon/taras)",
+  "pokój superior (tylko dla dorosłych, dostęp do współdzielonego basenu, klimatyzacja, TV, łazienka, suszarka, lodówka, telefon, balkon/taras)",
+  "apartament (suite z prywatnym basenem, klimatyzacja, TV, łazienka, suszarka, lodówka, telefon, balkon/taras)",
+  "maisonette (z prywatnym basenem i jacuzzi, szlafroki, kapcie, klimatyzacja, TV, łazienka, suszarka, lodówka, telefon, balkon/taras)"
+ ],
+ "rooms": 204,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3284053,
+  "lon": 25.3862258,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "mapcarta.com",
+  "hersotels.gr",
+  "hersonissoshotels.net",
+  "trip.com",
+  "travelweekly.com",
+  "google.com.ng",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-27"
+}

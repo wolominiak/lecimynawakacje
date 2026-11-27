@@ -1,0 +1,139 @@
+{
+ "id": "x:grecja:agnes deluxe hotel",
+ "slug": "agnes-deluxe-hotel",
+ "name": "Agnes Deluxe Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Pefkochori"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/pefkochori/agnes-deluxe-hotel-pl/6be17283cfb21afe13e3b.jpg",
+ "city": "Pefkochori",
+ "intro": [
+  "Agnes Deluxe Hotel to trzygwiazdkowy obiekt położony w centrum malowniczej miejscowości Pefkochori na Półwyspie Kassandra, w regionie Chalkidiki w Grecji. Hotel oddany do użytku w 2019 roku, oferuje kameralną atmosferę dzięki 24 pokojom rozmieszczonym w dwóch trzypiętrowych budynkach.",
+  "Obiekt jest idealnym wyborem dla rodzin, par oraz osób poszukujących relaksu, a także dla miłośników nurkowania. Bliskość plaży oraz centralna lokalizacja sprawiają, że jest to doskonała baza wypadowa do odkrywania uroków okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Agnes Deluxe znajduje się w centrum Pefkochori, w pobliżu Portu Glarokavos. Od piaszczystej plaży Pefkochori dzieli go zaledwie 50-100 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 24 pokoje, w tym typy Standard Double, Superior Queen, Comfort Queen, Standard Triple, Premium King, Deluxe Queen oraz Junior Suite. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, bezpłatne Wi-Fi, minibar, zestaw do parzenia kawy/herbaty oraz łazienkę z prysznicem lub wanną. Do dyspozycji gości są również balkony lub tarasy, dźwiękoszczelne okna oraz wygodne łóżka Tempur-Pedic z pościelą premium."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja a la carte serwująca dania kuchni śródziemnomorskiej. Goście mogą korzystać z wyżywienia typu Bed&Breakfast, które obejmuje śniadanie w formie bufetu. Na terenie obiektu dostępne są również bar, bar przy basenie, lobby bar oraz snack bar/deli."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym sezonowym odkrytym basenem ze słodką wodą, odpowiednim również dla dzieci. Dla aktywnych dostępna jest siłownia oraz spa. Hotel oferuje program animacyjny i muzykę na żywo. W okolicy można uprawiać nurkowanie, snorkeling, wędkarstwo, jazdę na rowerze oraz piesze wycieczki."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Agnes Deluxe Hotel jest polecany dla rodzin, par oraz osób szukających relaksu. Bliskość plaży i centrum miejscowości, a także dostępność pokoi rodzinnych sprawiają, że jest to odpowiednie miejsce dla różnych grup podróżnych. Miłośnicy nurkowania również znajdą tu coś dla siebie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Wysoka czystość i codzienne sprzątanie",
+  "Dobre i różnorodne śniadania",
+  "Przyjazny i pomocny personel",
+  "Czysty basen i cicha okolica"
+ ],
+ "cons": [
+  "Wolne lub zawodne Wi-Fi",
+  "Słona woda z kranu w okolicy",
+  "Brak moskitier w drzwiach balkonowych",
+  "Potencjalny hałas w głównym budynku",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Agnes Deluxe znajduje się około 50-100 metrów od piaszczystej plaży Pefkochori."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko w Salonikach (Thessaloniki Airport) oddalone jest o około 80-94 km."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel dysponuje jednym sezonowym odkrytym basenem ze słodką wodą."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest odpowiedni dla dzieci w wieku 2-12 lat, oferuje bufet przyjazny dzieciom, a basen jest również dla nich odpowiedni."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i miejscach publicznych, choć goście zgłaszali, że bywa wolne lub zawodne."
+  }
+ ],
+ "address": "Pefkochori, Kassandra, Halkidiki, 630 85, Grecja",
+ "adultsOnly": false,
+ "airportKm": 87,
+ "airportName": "Saloniki (Thessaloniki Airport)",
+ "amenities": [
+  "spa",
+  "siłownia",
+  "program animacyjny",
+  "muzyka na żywo",
+  "bezpłatny parking"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Półwysep Kassandra",
+ "bars": 4,
+ "beachDistanceM": 75,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.35,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające relaksu",
+  "miłośnicy nurkowania"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2019,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double",
+  "Superior Queen",
+  "Comfort Queen",
+  "Standard Triple",
+  "Premium King",
+  "Deluxe Queen",
+  "Junior Suite",
+  "pokój dwuosobowy z klimatyzacją, telewizorem z płaskim ekranem, Wi-Fi, minibarem, zestawem do parzenia kawy/herbaty, łazienką, balkonem/tarasem, dźwiękoszczelnymi oknami, częścią wypoczynkową, łóżkiem Tempur-Pedic",
+  "pokój trzyosobowy z klimatyzacją, telewizorem z płaskim ekranem, Wi-Fi, minibarem, zestawem do parzenia kawy/herbaty, łazienką, balkonem/tarasem, dźwiękoszczelnymi oknami, częścią wypoczynkową, łóżkiem Tempur-Pedic",
+  "pokój typu twin z klimatyzacją, telewizorem z płaskim ekranem, Wi-Fi, minibarem, zestawem do parzenia kawy/herbaty, łazienką, balkonem/tarasem, dźwiękoszczelnymi oknami, częścią wypoczynkową, łóżkiem Tempur-Pedic"
+ ],
+ "rooms": 24,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "hotelschalkidiki.com",
+  "booking.com",
+  "book-in-greece.com",
+  "skyscanner.gg",
+  "filostravel.gr",
+  "podrozyswiat.pl",
+  "planetofhotels.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}

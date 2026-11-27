@@ -1,0 +1,134 @@
+{
+ "id": "x:grecja:brascos",
+ "slug": "brascos",
+ "name": "Brascos",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Rethymnon"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/rethymno/brascos-pl/6050/1671db444c8a4dd31c8b7-244.jpg",
+ "city": "Rethymnon",
+ "intro": [
+  "Hotel Brascos to trzygwiazdkowy obiekt położony w samym sercu Rethymnonu na Krecie, tuż obok ogrodu miejskiego i starego miasta. Jego centralna lokalizacja sprawia, że jest to dobra baza wypadowa do zwiedzania miasta i korzystania z lokalnych atrakcji.",
+  "Hotel oferuje rodzinną atmosferę i jest odpowiedni zarówno dla turystów indywidualnych, jak i osób podróżujących służbowo. Dzięki bliskości do centrum i piaszczystej plaży, stanowi dobrą opcję dla tych, którzy cenią sobie dostęp do udogodnień miejskich i możliwość szybkiego dotarcia nad morze."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Brascos znajduje się w centrum Rethymnonu, około 50 metrów od ścisłego centrum miasta. W bezpośrednim sąsiedztwie hotelu znajduje się ogród miejski oraz stare miasto. Do piaszczystej plaży, będącej najdłuższą na wyspie, jest około 800 metrów. Plaża nie jest hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 88 pokojami rozmieszczonymi na 6 piętrach. Dostępne są pokoje jedno-, dwu- i trzyosobowe. Każdy pokój wyposażony jest w indywidualnie sterowaną klimatyzację, telewizję satelitarną, mini lodówkę, suszarkę do włosów oraz bezpłatne Wi-Fi. Niektóre pokoje posiadają balkon lub taras, a okna są podwójnie oszklone, co ma ograniczać hałas."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Brascos znajduje się restauracja serwująca śniadania i kolacje w formie bufetu. Goście mogą korzystać z baru w lobby, baru przy basenie oraz sezonowego baru na dachu, który wieczorami oferuje panoramiczne widoki na miasto i morze. Śniadanie w formie bufetu jest często wliczone w cenę pobytu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden sezonowy odkryty basen, czynny od maja do października, z tarasem słonecznym, gdzie dostępne są bezpłatne leżaki i parasole. Dla dzieci przygotowano brodzik. Na terenie obiektu znajduje się również centrum fitness lub sprzęt fitness przy basenie. Dostępne są także udogodnienia spa, takie jak hammam i kąpiele termalne."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Brascos jest polecany zarówno na spotkania biznesowe i konferencje, jak i na wypoczynek i wakacje. Jego centralne położenie sprawia, że jest dobrym wyborem dla osób chcących aktywnie spędzać czas w mieście i zwiedzać okolicę. Rodzinna atmosfera i przyjazna obsługa dodatkowo podnoszą jego atrakcyjność."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko starego miasta i atrakcji",
+  "Przyjazny personel",
+  "Dobre śniadania w formie bufetu",
+  "Taras na dachu z panoramicznym widokiem"
+ ],
+ "cons": [
+  "Pewne problemy z czystością i przestarzałe wyposażenie pokoi",
+  "Hałas uliczny, zwłaszcza w nocy",
+  "Problemy z łazienkami (zalewanie)",
+  "Bar na dachu bywa zamknięty bez informacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Brascos od plaży?",
+   "a": "Hotel Brascos jest oddalony o około 800 metrów od piaszczystej plaży w Rethymnonie."
+  },
+  {
+   "q": "Czy hotel Brascos jest blisko centrum miasta?",
+   "a": "Tak, hotel Brascos znajduje się w centrum Rethymnonu, około 50 metrów od ścisłego centrum miasta."
+  },
+  {
+   "q": "Jakie są najbliższe lotniska do hotelu Brascos?",
+   "a": "Najbliższe lotniska to Lotnisko w Chanii (CHQ) około 65.7-75 km oraz Lotnisko w Heraklionie (HER) około 80-85.3 km."
+  },
+  {
+   "q": "Czy hotel Brascos ma basen?",
+   "a": "Tak, hotel Brascos posiada jeden sezonowy odkryty basen z tarasem słonecznym oraz brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu Brascos jest Wi-Fi?",
+   "a": "Tak, w hotelu Brascos dostępne jest bezpłatne Wi-Fi w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel Brascos jest tylko dla dorosłych?",
+   "a": "Nie, hotel Brascos nie jest przeznaczony wyłącznie dla dorosłych. Dzieci w wieku 0-3 lat mogą przebywać w nim bezpłatnie."
+  }
+ ],
+ "address": "Moatsou kai Daskalaki 1, Rethymno, Kreta, 74100, Grecja",
+ "adultsOnly": false,
+ "airportKm": 65.7,
+ "airportName": "Lotnisko w Chanii (Ioannis Daskalogiannis Airport, CHQ)",
+ "amenities": [
+  "Hammam",
+  "Kąpiele termalne",
+  "Zabiegi na włosy",
+  "Sprzęt fitness"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum miasta",
+ "bars": 3,
+ "beachDistanceM": 800,
+ "beachType": "piaszczysta",
+ "centerKm": 0.05,
+ "goodFor": [
+  "Spotkania biznesowe",
+  "Konferencje",
+  "Wypoczynek",
+  "Wakacje",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1974,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2000,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy z klimatyzacją, TV satelitarną, telefonem, mini lodówką, suszarką do włosów, prysznicem, Wi-Fi (niektóre z balkonem/tarasem)",
+  "Pokój dwuosobowy z klimatyzacją, TV satelitarną, telefonem, mini lodówką, suszarką do włosów, prysznicem, Wi-Fi (niektóre z balkonem/tarasem)",
+  "Pokój trzyosobowy z klimatyzacją, TV satelitarną, telefonem, mini lodówką, suszarką do włosów, prysznicem, Wi-Fi (niektóre z balkonem/tarasem)"
+ ],
+ "rooms": 88,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.365653,
+  "lon": 24.4750473,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.ie",
+  "sunshine.co.uk",
+  "thomascook.com",
+  "kalamaki-travel.gr",
+  "reserving.com",
+  "greecetravel.com",
+  "booking.com",
+  "vio.com"
+ ],
+ "updated": "2026-11-27"
+}
