@@ -63,7 +63,7 @@ for (const [slug, id] of countries) {
   }
   await sleep(150);
 }
-for (const h of seenNow.values()) index[h.id] = { ...index[h.id], ...h, seen: new Date().toISOString().slice(0, 10) };
+for (const h of seenNow.values()) index[h.id] = { ...index[h.id], ...clean(h), seen: new Date().toISOString().slice(0, 10) };
 
 // hotele, które są tylko w ofertach Exim (public/exim/<kraj>.json), dostają własne wpisy "x:kraj:nazwa"
 const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l').replace(/\(.*?\)/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -86,7 +86,7 @@ for (const f of fs.existsSync(exDir) ? fs.readdirSync(exDir).filter((x) => x.end
     if (usedSlugs.has(slug)) slug = `${slug}-${slugify(o.c || country)}`;
     if (usedSlugs.has(slug)) continue;
     usedSlugs.add(slug);
-    index[key] = { id: key, slug, name: o.n, country, place: [cName, o.r, o.c].filter((x, i, a) => x && a.indexOf(x) === i), stars: o.s || 0, photo: o.img || null, rating: 0, recommends: 0, offers: 1, minPrice: 0, src: 'exim', seen: today };
+    index[key] = { id: key, slug, name: clean(o.n), country, place: clean([cName, o.r, o.c].filter((x, i, a) => x && a.indexOf(x) === i)), stars: o.s || 0, photo: o.img || null, rating: 0, recommends: 0, offers: 1, minPrice: 0, src: 'exim', seen: today };
     eximNew++;
   }
 }
@@ -244,7 +244,7 @@ async function one(h) {
       ...d, geo, sources: r.sources, updated: new Date().toISOString().slice(0, 10),
     };
     delete out.found; delete out.lat; delete out.lon;
-    fs.writeFileSync(path.join(OUT, `${h.slug}.json`), JSON.stringify(out, null, 1));
+    fs.writeFileSync(path.join(OUT, `${h.slug}.json`), JSON.stringify(clean(out), null, 1));
     ok++;
     console.log(`OK ${ok}/${todo.length}:`, h.name);
   } catch (e) {
