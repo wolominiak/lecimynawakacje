@@ -1,0 +1,130 @@
+{
+ "id": 123018,
+ "slug": "aegean-view-by-azul",
+ "name": "Aegean View by Azul",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Sfakaki"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/aegean-view-by-azul-basen-1784023042-570-428.jpg",
+ "city": "Sfakaki",
+ "intro": [
+  "Aegean View by Azul to czterogwiazdkowy hotel położony w miejscowości Sfakaki na zachodniej Krecie, około 10 km od centrum Rethymno. Obiekt został całkowicie odnowiony na sezon 2025 i oferuje kameralną atmosferę w dwóch dwupiętrowych budynkach.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych (15+), co czyni go idealnym miejscem dla par i singli poszukujących ciszy, spokoju i relaksu w greckim stylu. Jego lokalizacja sprzyja zarówno wypoczynkowi, jak i zwiedzaniu wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się około 120 metrów od małej, piaszczysto-kamienistej plaży zatokowej z kamienistym wejściem do wody, która jest niezagospodarowana. Goście mogą również skorzystać z bezpłatnego busa wahadłowego na piaszczystą plażę z Błękitną Flagą, oddaloną o około 1,5 km. Na tej plaży leżaki i parasole są bezpłatne przy zakupie napoju z baru."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 27 pokojami, w tym pokojami standard z widokiem na morze (ok. 25 m²) oraz Junior suite z jacuzzi i widokiem na morze (ok. 25 m² z tarasem ok. 10 m²). Wszystkie pokoje zostały odnowione i wyposażone w indywidualnie sterowaną klimatyzację, TV-SAT, telefon, mini-lodówkę, bezpłatne Wi-Fi, sejf, balkon lub taras oraz łazienkę z prysznicem/wanną i suszarką. Niektóre pokoje posiadają dodatkowo ekspres do kawy, czajnik elektryczny i bezpłatne kosmetyki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna i bar. Pakiet All Inclusive obejmuje śniadanie, lunch i kolację w formie bufetu. Przekąski serwowane są w wyznaczonych godzinach. Wybrane lokalne napoje alkoholowe i bezalkoholowe dostępne są w barze od 10:00 do 22:30. Do kolacji obowiązuje strój formalny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: jeden zewnętrzny i jeden wewnętrzny. Przy basenach leżaki i parasole są bezpłatne, a ręczniki dostępne za depozytem. Hotel jest przeznaczony wyłącznie dla dorosłych (15+), co oznacza brak udogodnień dla dzieci."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Aegean View by Azul jest idealnym wyborem dla par i singli poszukujących spokojnego i kameralnego wypoczynku. Odnowione wnętrza w stylu boho, miła obsługa i dobre jedzenie, często chwalone za lokalne smaki, tworzą przyjemną atmosferę. Hotel stanowi również dobrą bazę wypadową do zwiedzania Krety."
+  }
+ ],
+ "pros": [
+  "Kameralna atmosfera i spokój",
+  "Odnowione pokoje w stylu boho",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie, zwłaszcza lokalna kuchnia",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą mieć widok na parking/ulicę",
+  "Skromna oferta napojów w ramach All Inclusive",
+  "Możliwy hałas z drogi szybkiego ruchu w niektórych pokojach",
+  "Plaża przy hotelu jest mała i kamienista",
+  "Zdarzają się opinie o przeciętnym jedzeniu lub mrówkach w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 120 metrów od małej, piaszczysto-kamienistej plaży. Dostępny jest również bezpłatny bus na piaszczystą plażę z Błękitną Flagą, oddaloną o około 1,5 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (15+), co oznacza brak udogodnień dla dzieci, mini klubu czy animacji dla najmłodszych."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 70 km od lotniska w Heraklionie (HER) i około 75 km od lotniska w Chanii (CHQ)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są płatne?",
+   "a": "Na plaży z Błękitną Flagą leżaki i parasole są bezpłatne przy zakupie kawy/soku z baru. Przy basenach hotelowych leżaki i parasole są bezpłatne."
+  }
+ ],
+ "address": "Sfakaki, Rethymno",
+ "adultsOnly": true,
+ "airportKm": 70,
+ "airportName": "Heraklion (HER)",
+ "amenities": [
+  "Indywidualnie sterowana klimatyzacja",
+  "TV-SAT",
+  "Mini-lodówka",
+  "Sejf",
+  "Balkon lub taras",
+  "Łazienka z prysznicem/wanną i suszarką"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 120,
+ "beachType": "piaszczysto-kamienista",
+ "centerKm": 10,
+ "goodFor": [
+  "pary",
+  "single"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój standard z widokiem na morze (ok. 25 m², dla 2-3 osób)",
+  "Junior suite z jacuzzi i widokiem na morze (ok. 25 m², dla 2-4 osób, z tarasem ok. 10 m²)"
+ ],
+ "rooms": 27,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "traveligo.pl",
+  "grecos.pl",
+  "wakacje.pl",
+  "fly.pl",
+  "travelplanet.pl",
+  "booking.com",
+  "hotelscrete.net",
+  "rafatravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

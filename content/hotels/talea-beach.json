@@ -1,0 +1,138 @@
+{
+ "id": 8266,
+ "slug": "talea-beach",
+ "name": "Talea Beach",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Bali"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/talea-beach-basen-1510792063-570-428.jpg",
+ "city": "Bali",
+ "intro": [
+  "Hotel Talea Beach to trzygwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w malowniczej miejscowości Bali na Krecie. Dzięki swojej lokalizacji i ofercie, hotel jest idealnym miejscem dla rodzin z dziećmi, par oraz wszystkich szukających spokojnego wypoczynku nad morzem.",
+  "Obiekt oferuje komfortowe zakwaterowanie w budynkach głównych i bungalowach, z dogodnym dostępem do lokalnych atrakcji. Odnowiony w 2017 roku, Talea Beach łączy grecką gościnność z funkcjonalnymi udogodnieniami, zapewniając relaksujący pobyt w otoczeniu kreteńskiej przyrody."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Talea Beach znajduje się w miejscowości Bali, w regionie Rethymno na Krecie, około 5 minut spacerem od centrum. Jego głównym atutem jest bezpośrednie położenie przy piaszczystej plaży z łagodnym zejściem do morza, co jest idealne dla rodzin. Leżaki i parasole na plaży publicznej są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje około 81 pokojami, w tym jedno-, dwu-, trzy- i czteroosobowymi oraz rodzinnymi. Każdy pokój wyposażony jest w balkon lub taras z widokiem na ogród, basen, góry lub morze, klimatyzację (często płatną), telewizor, mini lodówkę, łazienkę z wanną lub prysznicem, telefon i suszarkę do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni greckiej i międzynarodowej w formie bufetu. Goście mogą korzystać z baru przy basenie oraz baru na plaży. Opcja All Inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane napoje, a śniadanie jest zawsze wliczone w cenę pokoju."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen ze słodką wodą oraz brodzik dla dzieci. Do dyspozycji gości jest również centrum fitness/siłownia, zewnętrzny kort tenisowy, mini golf, koszykówka i tenis stołowy. Na życzenie dostępne są masaże. Wi-Fi jest bezpłatne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości Talea Beach przygotował brodzik oraz plac zabaw. Piaszczysta plaża z łagodnym zejściem do morza jest również bezpieczna i odpowiednia dla dzieci, co czyni hotel dobrym wyborem dla rodzin."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bliskość centrum miejscowości Bali (0.7 km)",
+  "Dobra relacja ceny do jakości",
+  "Dostępne udogodnienia sportowe (kort tenisowy, mini golf)",
+  "Przyjazna atmosfera"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży płatne",
+  "Jedzenie w opcji All Inclusive bywa mało urozmaicone",
+  "Pokoje mogą być słabo sprzątane lub ciasne",
+  "Wyposażenie w pokojach bywa stare lub zniszczone",
+  "Brak informacji o animacjach i mini klubie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Talea Beach jest położony bezpośrednio przy piaszczystej plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 50-54 km od Międzynarodowego Lotniska w Heraklionie (HER)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Dostępny jest odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel Talea Beach jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw oraz piaszczystą plażę z łagodnym zejściem do morza."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne bezpłatnie w pomieszczeniach ogólnodostępnych, a niektóre źródła wskazują, że również w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i jest polecany dla rodzin z dziećmi."
+  }
+ ],
+ "address": "74057 Rethimno Crete Island, Bali, Crete, Greece",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Międzynarodowe Lotnisko w Heraklionie (HER)",
+ "amenities": [
+  "siłownia",
+  "kort tenisowy",
+  "mini golf",
+  "koszykówka",
+  "tenis stołowy",
+  "masaż (na życzenie)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Rethymno (Mylopotamos)",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1989,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy (widok na ogród lub częściowy widok na morze)",
+  "pokój trzyosobowy",
+  "pokój czteroosobowy",
+  "pokój rodzinny"
+ ],
+ "rooms": 81,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 35.4074233,
+  "lon": 24.7836046,
+  "src": "osm"
+ },
+ "sources": [
+  "cretetophotels.com",
+  "hotelscrete.net",
+  "directbooking.ro",
+  "trip.com",
+  "sunshine.co.uk",
+  "hotels.com",
+  "hotelplanner.com",
+  "inspiredluxuryescapes.com"
+ ],
+ "updated": "2026-11-27"
+}

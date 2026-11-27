@@ -1,0 +1,150 @@
+{
+ "id": 24025,
+ "slug": "grand-holiday-resort",
+ "name": "Grand Holiday Resort",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Hersonissos"
+ ],
+ "stars": 4.5,
+ "photo": "/no-index/hotel/grand-holiday-resort-teren-hotelu-1489842118-570-428.jpg",
+ "city": "Hersonissos",
+ "intro": [
+  "Grand Holiday Resort to czterogwiazdkowy obiekt położony w Hersonissos na Krecie, w rejonie Limenas Hersonissou. Hotel składa się z bungalowów i budynków przylegających, oferując kompleksową infrastrukturę wypoczynkową.",
+  "Obiekt jest idealnym wyborem dla rodzin z dziećmi oraz par, szukających aktywnego wypoczynku w otoczeniu licznych atrakcji. Dzięki bogatej ofercie basenów, aquaparku i animacji, hotel zapewnia rozrywkę dla gości w każdym wieku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Hersonissos, około 2-2.5 km od centrum miejscowości. Do najbliższego lotniska w Heraklionie jest około 25-27 km. Obiekt jest oddalony o 400-700 metrów od publicznej, piaszczysto-żwirowej plaży, na którą oferowany jest bezpłatny transfer. Leżaki i parasole na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Grand Holiday Resort oferuje 283 lub 292 pokoje w różnych kategoriach, w tym Standard, Superior, Family Bungalow/Room oraz Family Suite. Pokoje Superior Double były remontowane w 2024 roku. Wyposażenie obejmuje klimatyzację, TV satelitarną, lodówkę, suszarkę do włosów oraz balkon lub taras. Sejf jest dodatkowo płatny, a niektóre Family Suites posiadają prywatne baseny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się 4 lub 5 basenów, w tym basen główny, relaksacyjny, podgrzewany basen kryty oraz basen dla dzieci ze zjeżdżalniami. Dostępny jest także aquapark dla dzieci powyżej 7 lat i 1.2 m wzrostu, a także basen tylko dla dorosłych. Hotel oferuje pełny program animacyjny, w tym wieczorne rozrywki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje 4 restauracjami, w tym główną restauracją bufetową Elixir z kuchnią grecką i międzynarodową, grecką restauracją a la carte Aegean, włoską restauracją La Luna oraz snack barem Dionysus. Dostępna jest również restauracja dla dzieci. Na terenie obiektu znajduje się 3-5 barów, w tym bary przy basenach i bar w lobby. Hotel oferuje pakiety all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano basen ze zjeżdżalniami, brodzik dla niemowląt, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Dostępny jest również bufet dla dzieci. Hotel jest obiektem rodzinnym i oferuje liczne udogodnienia dla rodzin z dziećmi."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje centrum spa i wellness z sauną, jacuzzi i łaźnią turecką (dodatkowo płatne usługi). Dostępna jest siłownia, kort tenisowy (oświetlony, płatny), tenis stołowy, bilard (płatny) oraz inne aktywności sportowe. Wi-Fi jest dostępne, często bezpłatnie."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dobre i różnorodne jedzenie",
+  "Świetne baseny i aquapark",
+  "Czystość i komfortowe pokoje",
+  "Bogate udogodnienia i animacje"
+ ],
+ "cons": [
+  "Niektóre starsze pokoje mogą wymagać remontu",
+  "Lokalizacja oddalona od ścisłego centrum",
+  "Plaża żwirowa/kamienista",
+  "Leżaki na plaży są płatne",
+  "Usługi spa (sauna, jacuzzi, hammam) są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 400-700 metrów od plaży. Dostępny jest bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Czy na terenie hotelu jest aquapark?",
+   "a": "Tak, hotel posiada aquapark ze zjeżdżalniami. Wstęp do aquaparku jest dozwolony dla dzieci od 7 lat i powyżej 1.2 metra wzrostu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi. Oferuje mini klub, plac zabaw, basen ze zjeżdżalniami i bufet dla dzieci."
+  },
+  {
+   "q": "Ile restauracji i barów znajduje się w hotelu?",
+   "a": "Hotel dysponuje 4 restauracjami i 3-5 barami."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, Wi-Fi jest dostępne, często bezpłatnie, choć w niektórych pokojach może być płatne."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 25-27 km od Międzynarodowego Lotniska w Heraklionie (HER)."
+  },
+  {
+   "q": "Czy leżaki na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na plaży są płatne."
+  }
+ ],
+ "address": "Main Street, Limenas Hersonissou 700 14, Crete Greece",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Międzynarodowe Lotnisko w Heraklionie (HER) im. Nikosa Kazantzakisa",
+ "amenities": [
+  "Klimatyzacja",
+  "Telefon",
+  "Lodówka",
+  "Telewizor satelitarny",
+  "Suszarka do włosów",
+  "Sejf (płatny)",
+  "Balkon/taras",
+  "Zestaw kąpielowy (w wybranych pokojach)",
+  "Dostęp do internetu (w wybranych pokojach)",
+  "Oddzielny pokój dla dzieci (w wybranych pokojach)",
+  "Łóżeczka dla dzieci (w wybranych pokojach)",
+  "Telewizor dla dzieci (w wybranych pokojach)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Limenas Hersonissou",
+ "bars": 3,
+ "beachDistanceM": 400,
+ "beachType": "żwirowa lub piaszczysto-żwirowa",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2001,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 4,
+ "roomTypes": [
+  "Standard Room",
+  "Superior Bungalow/Room",
+  "Family Bungalow/Room",
+  "Family Suite (niektóre z prywatnymi basenami)"
+ ],
+ "rooms": 283,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3011935,
+  "lon": 25.4192469,
+  "src": "osm"
+ },
+ "sources": [
+  "reserve-online.net",
+  "discovergreece.com",
+  "waterparkholiday.co.uk",
+  "grhotels.gr",
+  "kayak.com",
+  "mapcarta.com",
+  "hersonissoshotels.net",
+  "cretetophotels.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,140 @@
+{
+ "id": 17002,
+ "slug": "caretta-beach-kalamaki",
+ "name": "Caretta Beach (Kalamaki)",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Zakynthos",
+  "Kalamaki"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/caretta-beach-kalamaki-teren-hotelu-826118320-570-428.jpg",
+ "city": "Kalamaki",
+ "intro": [
+  "Caretta Beach Resort & Waterpark to rodzinny hotel położony w sercu miejscowości Kalamaki na greckiej wyspie Zakynthos. Obiekt, częściowo odnowiony w 2024 roku, oferuje komfortowe zakwaterowanie w otoczeniu licznych basenów i aquaparku.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, które szukają aktywnego wypoczynku. Dzięki bogatej ofercie animacji, mini klubowi i zjeżdżalniom wodnym, zapewnia rozrywkę dla najmłodszych, a dorośli mogą cieszyć się bliskością plaży i centrum miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Caretta Beach znajduje się w miejscowości Kalamaki, około 100-250 metrów od centrum. Piaszczysta plaża Kalamaki, będąca miejscem składania jaj przez żółwie Caretta-Caretta, oddalona jest o około 700-1000 metrów. Hotel zapewnia bezpłatny, regularny transfer na plażę, kursujący co godzinę."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 320-322 pokojami rozmieszczonymi w budynku głównym i przylegających blokach. W ofercie znajdują się pokoje typu Studio, Apartamenty z jedną lub dwiema sypialniami, Pokoje dwuosobowe, Duplex oraz Pokoje Swim-Up z bezpośrednim dostępem do basenu. Wszystkie pokoje wyposażone są w klimatyzację, lodówkę, telewizor, sejf (może być płatny), łazienkę oraz balkon lub taras."
+  },
+  {
+   "title": "Baseny i Aquapark",
+   "text": "Na terenie hotelu znajduje się 5-6 odkrytych basenów ze słodką wodą, w tym basen dla dzieci. Goście z pakietem all inclusive mają bezpłatny dostęp do aquaparku z licznymi zjeżdżalniami, leniwą rzeką i basenem z falami, co stanowi dużą atrakcję dla całej rodziny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje 4 restauracje, w tym dwie bufetowe serwujące dania kuchni lokalnej i międzynarodowej, oraz jedną restaurację a la carte z kuchnią włoską. Do dyspozycji gości są również 3 bary, w tym bar przy basenie, oraz snack bar. Pakiet all inclusive obejmuje śniadania, obiady, kolacje, napoje bezalkoholowe oraz przekąski."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Caretta Beach to hotel przyjazny rodzinom. Dla najmłodszych przygotowano plac zabaw oraz mini klub działający 6 dni w tygodniu. Dodatkowo, programy animacyjne dla dorosłych i dzieci zapewniają rozrywkę przez większość dni tygodnia."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi na całym terenie. Goście mogą korzystać z siłowni i tenisa stołowego bez dodatkowych opłat. Za opłatą dostępne są bilard, wypożyczalnia rowerów oraz strefa spa z łaźnią turecką, jacuzzi i szeroką gamą zabiegów."
+  }
+ ],
+ "pros": [
+  "Duży aquapark z wieloma atrakcjami",
+  "Bezpłatny transfer na plażę",
+  "Bliskość centrum Kalamaki",
+  "Bezpłatne Wi-Fi na terenie całego obiektu",
+  "Dobre udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Jedzenie bywa monotonne",
+  "Aquapark mógłby być dłużej otwarty",
+  "Hałas samolotów ze względu na bliskość lotniska",
+  "Odległość do plaży wymaga spaceru lub transferu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Piaszczysta plaża Kalamaki znajduje się około 700-1000 metrów od hotelu. Hotel oferuje bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel dysponuje aquaparkiem z licznymi zjeżdżalniami, leniwą rzeką i basenem z falami. Dostęp do aquaparku jest bezpłatny dla gości z pakietem all inclusive."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Caretta Beach jest szczególnie polecany dla rodzin z dziećmi, oferując mini klub, plac zabaw, basen dla dzieci oraz programy animacyjne."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowe lotnisko Zakynthos (ZTH) znajduje się około 2-3.5 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu, w tym w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Caretta Beach jest hotelem rodzinnym i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Kalamaki, 29100, Zakynthos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 3,
+ "airportName": "Zakynthos (ZTH)",
+ "amenities": [
+  "Aquapark",
+  "Mini klub dla dzieci",
+  "Siłownia",
+  "Spa",
+  "Bezpłatne Wi-Fi",
+  "Tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kalamaki",
+ "bars": 3,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 5,
+ "privateBeach": null,
+ "renovated": 2024,
+ "restaurants": 4,
+ "roomTypes": [
+  "Studio (25 m², maks. 3 osoby)",
+  "Apartament z jedną sypialnią (30 m², maks. 4 osoby)",
+  "Apartament z dwiema sypialniami",
+  "Pokój dwuosobowy/typu Twin",
+  "Pokój typu Duplex (maisonette, 60 m², maks. 5 osób)",
+  "Pokoje Swim-Up (z bezpośrednim dostępem do współdzielonego basenu)"
+ ],
+ "rooms": 322,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.7435005,
+  "lon": 20.8956809,
+  "src": "osm"
+ },
+ "sources": [
+  "reserve-online.net",
+  "carettahotels.gr",
+  "destinia.com",
+  "resorthotel.me",
+  "inspiredluxuryescapes.com",
+  "tui.co.uk",
+  "planetofhotels.com",
+  "vakantiediscounter.nl"
+ ],
+ "updated": "2026-11-27"
+}

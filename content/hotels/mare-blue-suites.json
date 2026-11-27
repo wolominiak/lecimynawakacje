@@ -1,0 +1,134 @@
+{
+ "id": 35039,
+ "slug": "mare-blue-suites",
+ "name": "Mare Blue & Suites",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Georgioupolis"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/mare-blue-suites-basen-1512169018-570-428.jpg",
+ "city": "Georgioupolis",
+ "intro": [
+  "Mare Blue & Suites to czterogwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży w miejscowości Georgioupolis na Krecie. Obiekt charakteryzuje się spokojną atmosferą i jest przeznaczony wyłącznie dla dorosłych gości (16+), co czyni go idealnym miejscem dla par i osób szukających relaksu.",
+  "Hotel oferuje komfortowe zakwaterowanie w nowocześnie urządzonych pokojach, a jego dogodna lokalizacja umożliwia łatwy dostęp zarówno do plaży, jak i centrum Georgioupolis. Goście mogą korzystać z basenu zewnętrznego oraz oferty all inclusive, która obejmuje posiłki i wybrane napoje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mare Blue & Suites znajduje się w Georgioupolis, w regionie Apokoronas, bezpośrednio przy piaszczystej plaży Georgioupolis. Do centrum miejscowości jest zaledwie 200 metrów, co pozwala na szybki spacer do lokalnych atrakcji. Leżaki i parasole na plaży są dostępne, ale mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 44 pokojami, które są opisywane jako nowo wyremontowane. Do wyboru są pokoje dwuosobowe (z widokiem na ogród, morze lub bocznym widokiem na morze), pokoje jednoosobowe oraz suity. Wszystkie pokoje wyposażone są w klimatyzację, telewizję satelitarną, sejf, suszarkę do włosów, mini lodówkę oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się jedna restauracja bufetowa, która serwuje dania kuchni greckiej i międzynarodowej na śniadania, obiady i kolacje. Do dyspozycji gości są również bar przy basenie oraz bar/lounge. Opcja all inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane napoje bezalkoholowe, piwo, wino, kawę i herbatę."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje sezonowy basen zewnętrzny, który w niektórych źródłach jest określany jako basen ze słoną wodą. Ze względu na charakter Adults Only, w hotelu nie ma zjeżdżalni, aquaparku ani animacji. Usługi spa, takie jak masaże, jacuzzi i sauna, są dostępne za dodatkową opłatą w siostrzanym hotelu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i blisko centrum",
+  "Czyste i nowo wyremontowane pokoje",
+  "Dobre jedzenie w formie bufetu",
+  "Przyjazny i pomocny personel",
+  "Spokojna atmosfera (Adults Only)"
+ ],
+ "cons": [
+  "Ograniczona liczba leżaków przy basenie",
+  "Płatne leżaki i parasole na plaży",
+  "Brak windy",
+  "Mały basen",
+  "Problemy z jakością lub zakresem oferty all inclusive (np. płatna woda, zimne jedzenie)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Mare Blue & Suites położony jest bezpośrednio przy piaszczystej plaży Georgioupolis, zaledwie kilka kroków od morza."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Chania International Airport (CHQ), oddalone o około 42-48 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Mare Blue & Suites nie ma zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (16+), więc nie posiada udogodnień dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Co obejmuje opcja all inclusive?",
+   "a": "All inclusive obejmuje posiłki w formie bufetu (śniadanie, obiad, kolacja), przekąski oraz wybrane napoje bezalkoholowe, piwo, wino, kawę i herbatę."
+  }
+ ],
+ "address": "Georgioupolis Apokoronas 73007, Chania - Crete, Greece",
+ "adultsOnly": true,
+ "airportKm": 45,
+ "airportName": "Chania International Airport (CHQ)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Basen zewnętrzny",
+  "Bar przy basenie",
+  "Bar/lounge",
+  "Restauracja bufetowa"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Apokoronas",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Pary",
+  "Dorośli szukający relaksu"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (widok na ogród)",
+  "Pokój dwuosobowy (widok na morze)",
+  "Pokój dwuosobowy (boczny widok na morze)",
+  "Pokój jednoosobowy",
+  "Junior Suite",
+  "Deluxe Suite z widokiem na morze",
+  "Superior Suite"
+ ],
+ "rooms": 44,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3606071,
+  "lon": 24.2640446,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "marebluesuites.com",
+  "trivago.co.uk",
+  "hotelplanner.com",
+  "booking.com",
+  "hotelscrete.net",
+  "atlantic.lv",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-27"
+}

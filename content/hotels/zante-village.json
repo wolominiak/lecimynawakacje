@@ -1,0 +1,135 @@
+{
+ "id": 11488,
+ "slug": "zante-village",
+ "name": "Zante Village",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Zakynthos",
+  "Alikanas"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/zante-village-teren-hotelu-basen-1258079837-570-428.jpg",
+ "city": "Alikanas",
+ "intro": [
+  "Hotel Zante Village to trzygwiazdkowy obiekt położony w miejscowości Alykanas na greckiej wyspie Zakynthos. Charakteryzuje się niską zabudową i oferuje przestronne pokoje, co czyni go odpowiednim miejscem na wypoczynek.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi ze względu na bezpieczną plażę i udogodnienia, ale sprawdzi się również dla par i grup przyjaciół szukających spokojnego miejsca blisko centrum kurortu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Zante Village znajduje się w Alykanas, około 400 metrów od centrum turystycznego. Piaszczysta plaża Alykanas z płytkimi wodami jest oddalona o 900-1000 metrów. Hotel zapewnia bezpłatny bus wahadłowy na plażę Alykes, również oddaloną o około 1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 120 przestronnymi pokojami o powierzchni 25-30 m², urządzonymi w nowoczesnym stylu. Każdy pokój wyposażony jest w łazienkę z wanną, duży balkon, klimatyzację, telewizję satelitarną, lodówkę, sejf i telefon. Dostępne są pokoje rodzinne, standardowe oraz przystosowane dla osób niepełnosprawnych, a niektóre posiadają aneks kuchenny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji serwowane są dania kuchni greckiej i międzynarodowej, ze śniadaniem w formie bufetu. Przy basenie działa bar oferujący napoje, lody i lekkie posiłki. Wieczorami goście mogą korzystać z baru hotelowego z drinkami i koktajlami. Hotel oferuje opcję wyżywienia All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży odkryty basen oraz oddzielny basen dla dzieci. Goście mogą korzystać z klubu fitness, bilarda, tenisa stołowego i siatkówki. Hotel organizuje również cotygodniowy wieczór grecki z muzyką na żywo i tańcami."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Zante Village jest idealny dla rodzin z dziećmi ze względu na przestronne pokoje i bliskość bezpiecznej plaży. Spokojna okolica i dobra lokalizacja blisko centrum kurortu sprawiają, że jest to również dobry wybór dla par i przyjaciół szukających relaksu."
+  }
+ ],
+ "pros": [
+  "Duży i czysty basen z dużą dostępnością leżaków",
+  "Przyjazna atmosfera i gościnność personelu",
+  "Dobra lokalizacja blisko centrum kurortu",
+  "Spokojna okolica",
+  "Bezpłatne Wi-Fi w ogólnodostępnych pomieszczeniach"
+ ],
+ "cons": [
+  "Odległość od plaży (ok. 900-1000 m)",
+  "Niespójne sprzątanie pokoi",
+  "Potencjalne problemy z klimatyzacją w szczycie sezonu",
+  "Jedzenie bywa oceniane jako niezbyt dobre lub zimne",
+  "Ograniczona rozrywka i uwagi dotyczące łazienek"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Zante Village jest oddalony o około 900 metrów do 1 kilometra od piaszczystej plaży Alykanas. Hotel oferuje bezpłatny bus wahadłowy na plażę Alykes, również oddaloną o około 1 km."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Zakynthos (ZTH), znajduje się w odległości około 15 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel dysponuje basenem dla dzieci, ale brak informacji o aquaparku lub większych zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin, ponieważ oferuje przestronne pokoje mogące pomieścić do 4 osób, a pobliska plaża jest bezpieczna i idealna dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych hotelu."
+  },
+  {
+   "q": "Czy Zante Village to hotel tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Alykanas, Alykes 29090, Grecja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Międzynarodowy Port Lotniczy Zakynthos \"Dionysios Solomos\" (ZTH)",
+ "amenities": [
+  "Klub fitness",
+  "Bilard",
+  "Tenis stołowy",
+  "Siatkówka",
+  "Bezpłatny bus na plażę"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Alykanas",
+ "bars": 2,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Przyjaciele"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Family Queen Room (25-30 m², łazienka z wanną, duży balkon, klimatyzacja, TV sat, lodówka, sejf, program muzyczny, telefon, niektóre z aneksem kuchennym)",
+  "Standard Queen Room (25-30 m², łazienka z wanną, duży balkon, klimatyzacja, TV sat, lodówka, sejf, program muzyczny, telefon, niektóre z aneksem kuchennym)",
+  "Standard Triple Room (25-30 m², łazienka z wanną, duży balkon, klimatyzacja, TV sat, lodówka, sejf, program muzyczny, telefon, niektóre z aneksem kuchennym)"
+ ],
+ "rooms": 120,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.8320765,
+  "lon": 20.785628,
+  "src": "osm"
+ },
+ "sources": [
+  "zantevillage.gr",
+  "kayak.com",
+  "agoda.com",
+  "mapcarta.com",
+  "jet2holidays.com",
+  "hotholidays.co.uk",
+  "google.com.ng",
+  "justzante.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

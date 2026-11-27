@@ -1,0 +1,137 @@
+{
+ "id": 13250,
+ "slug": "minos-mare",
+ "name": "Minos Mare",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Platanes"
+ ],
+ "stars": 4.5,
+ "photo": "/no-index/hotel/minos-mare-basen-1259968708-570-428.jpg",
+ "city": "Platanes",
+ "intro": [
+  "Minos Mare to czterogwiazdkowy hotel położony w miejscowości Platanes na Krecie, oferujący bezpośredni dostęp do piaszczystej plaży. Otoczony bujnymi ogrodami, stanowi idealne miejsce na relaksujący wypoczynek w Grecji.",
+  "Hotel jest rekomendowany zarówno dla par i grup przyjaciół, jak i dla rodzin z dziećmi, dzięki szerokiej ofercie udogodnień i programów animacyjnych dostosowanych do różnych grup wiekowych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Minos Mare znajduje się w miejscowości Platanes (Platanias) na Krecie, zaledwie 150 metrów od centrum. Obiekt ma bezpośredni dostęp do długiej, piaszczystej plaży, która została wyróżniona Błękitną Flagą. Goście mogą korzystać z bezpłatnych leżaków, parasoli i ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 121 do 127 niedawno odnowionymi pokojami. Dostępne są pokoje jedno-, dwu- i trzyosobowe, z widokiem na ogród lub basen. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę, umeblowany balkon lub taras, telewizor z płaskim ekranem, zestaw do parzenia kawy/herbaty oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje. Restauracja bufetowa \"Ambrosia\" serwuje dania kuchni greckiej, kreteńskiej i międzynarodowej, z opcjami wegetariańskimi. Restauracja \"Veranda\" oferuje dania kuchni kreteńskiej, śródziemnomorskiej i międzynarodowej. Do dyspozycji gości są również bar/lounge, bar przy basenie oraz bar na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje duże baseny zewnętrzne oraz basen kryty. Dla dzieci przygotowano brodzik przy głównym basenie oraz plac zabaw. Hotel zapewnia programy rozrywkowe i animacje dla dorosłych, w tym gimnastykę, tenis stołowy, piłkę wodną oraz lekcje gotowania i tańca greckiego. Goście mogą również korzystać z centrum fitness i spa z sauną, masażami i zabiegami kosmetycznymi."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Minos Mare to hotel przyjazny rodzinom. Dzieci mogą korzystać z brodzika, placu zabaw oraz specjalnych zajęć w ramach animacji. Dzieci poniżej 12 roku życia mogą przebywać w hotelu bezpłatnie, korzystając z istniejących łóżek."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do piaszczystej plaży z Błękitną Flagą",
+  "Bezpłatne leżaki, parasole i ręczniki na plaży",
+  "Urozmaicone i smaczne jedzenie",
+  "Przyjazny i pomocny personel",
+  "Bliskość centrum Platanes (150 m)"
+ ],
+ "cons": [
+  "Ograniczone oferty poza sezonem (np. w listopadzie)",
+  "Plaża opisywana również jako piaszczysto-żwirowa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel ma bezpośredni dostęp do piaszczystej plaży, która jest oddalona o 0 metrów."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotniska to Chania (CHQ) w odległości około 65-75 km oraz Heraklion (HER) w odległości około 77-80 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada aquaparku ani zjeżdżalni, ale dysponuje dużymi basenami zewnętrznymi i krytym, a także brodzikiem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, plac zabaw oraz zajęcia animacyjne dla najmłodszych. Dzieci poniżej 12 roku życia mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych na terenie całego hotelu."
+  },
+  {
+   "q": "Jak daleko jest do centrum miejscowości?",
+   "a": "Centrum Platanes jest oddalone o około 150 metrów lub 5 minut spacerem. Centrum Rethymno znajduje się w odległości około 4-5 km."
+  }
+ ],
+ "address": "17 Pavlou Drandaki, Platanias, Rethymno, 74100, Grecja",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Chania (Ioannis Daskalogiannis Airport - CHQ)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Tenis stołowy",
+  "Siatkówka plażowa",
+  "Bilard",
+  "Rzutki",
+  "Lekcje gotowania",
+  "Lekcje tańca greckiego",
+  "Lekcje języka greckiego"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Platanes",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.15,
+ "goodFor": [
+  "pary",
+  "grupy przyjaciół",
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój standardowy jednoosobowy: klimatyzacja, prywatna łazienka, balkon/taras, TV, zestaw do kawy/herbaty, lodówka, DVD, przybory toaletowe, suszarka, biurko.",
+  "Pokój standardowy dwuosobowy (widok na ogród/basen): klimatyzacja, prywatna łazienka, balkon/taras, TV, zestaw do kawy/herbaty, lodówka, DVD, przybory toaletowe, suszarka, biurko.",
+  "Pokój standardowy trzyosobowy: klimatyzacja, prywatna łazienka, balkon/taras, TV, zestaw do kawy/herbaty, lodówka, DVD, przybory toaletowe, suszarka, biurko."
+ ],
+ "rooms": 121,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3706105,
+  "lon": 24.5292549,
+  "src": "osm"
+ },
+ "sources": [
+  "hotel-crete.net",
+  "onthebeach.co.uk",
+  "quierohotel.com",
+  "hoteles.com",
+  "expedia.com",
+  "hotel.info",
+  "reserve-online.net",
+  "minosmare.gr"
+ ],
+ "updated": "2026-11-27"
+}

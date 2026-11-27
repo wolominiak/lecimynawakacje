@@ -1,0 +1,136 @@
+{
+ "id": 24187,
+ "slug": "argile-resort",
+ "name": "Argile Resort",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kefalonia",
+  "Lixouri"
+ ],
+ "stars": 4.5,
+ "photo": "/no-index/hotel/argile-resort-teren-hotelu-obiekt-962938274-570-428.jpg",
+ "city": "Lixouri",
+ "intro": [
+  "Argile Resort to czterogwiazdkowy hotel położony na malowniczej Kefalonii, w miejscowości Lixouri, bezpośrednio przy słynnej plaży Xi. Obiekt, otwarty w 1993 roku i odnowiony w 2008, oferuje komfortowe zakwaterowanie w zabudowie przypominającej wioskę, co nadaje mu kameralny charakter.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, dzięki bogatej ofercie rekreacyjnej i udogodnieniom dla najmłodszych. Bliskość unikalnej plaży z czerwonym piaskiem oraz szeroki wachlarz usług sprawiają, że Argile Resort to doskonałe miejsce na relaksujące wakacje w Grecji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Argile Resort znajduje się w Lixouri, na półwyspie Paliki, zaledwie 400 metrów od plaży Xi. Plaża ta słynie z charakterystycznego czerwonego piasku i glinianych skał. Jest to plaża publiczna, jednak hotel zapewnia leżaki i parasole przy basenie, a także ręczniki basenowe/plażowe. Centrum Lixouri oddalone jest o około 6-7 km, a lotnisko Kefalonia (EFL) o 21,3 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 197 pokojami rozmieszczonymi na dwóch piętrach. W ofercie znajdują się pokoje Standard, Standard Deluxe, Family Room oraz Suite z prywatnym basenem. Wszystkie pokoje są klimatyzowane i wyposażone w balkon lub taras, prywatną łazienkę, lodówkę, telewizor, sejf oraz bezpłatne Wi-Fi. Pokoje rodzinne często znajdują się na parterze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mają do dyspozycji główną restaurację bufetową \"Argile Main Restaurant\", serwującą dania kuchni lokalnej i międzynarodowej. Na terenie obiektu znajdują się również bary: 180° Jazz Bar, Xi Press Juices Bar, Alaya Beach Bar & Restaurant oraz Asana Lounge. Hotel oferuje pakiety all inclusive, obejmujące posiłki i napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa baseny: sezonowy basen zewnętrzny i basen dla dzieci. Dla najmłodszych przygotowano strefę wodną \"Aqua Splash Pirate Island\" z mini zjeżdżalniami i fontannami. Dostępne są również bezpłatny mini klub dla dzieci (4-12 lat) oraz klub dla nastolatków, a także programy animacyjne. Na terenie obiektu znajduje się spa, całodobowa siłownia, kort tenisowy, kort do padla, boisko do koszykówki, siatkówki, bilard i tenis stołowy."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Argile Resort jest szczególnie polecany dla rodzin z dziećmi, ze względu na bogate udogodnienia dla najmłodszych, takie jak mini klub, strefa wodna i animacje. Hotel oferuje również szeroki wachlarz aktywności sportowych i relaksacyjnych, co czyni go atrakcyjnym wyborem dla osób szukających aktywnego wypoczynku w rodzinnym gronie."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do plaży Xi z czerwonym piaskiem",
+  "Bogata oferta dla rodzin z dziećmi (mini klub, aquapark)",
+  "Dostęp do spa i siłowni",
+  "Przyjazny personel i czystość",
+  "Urozmaicone śniadania i jedzenie"
+ ],
+ "cons": [
+  "Plaża publiczna, leżaki przy basenie",
+  "Basen zamykany o 18:00",
+  "Problemy z dostępnością leżaków",
+  "Program animacyjny mógłby być lepszy",
+  "Plaża Xi doświadczyła erozji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Argile Resort znajduje się około 400 metrów od plaży Xi, co zajmuje około 4 minuty spacerem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Kefalonia (EFL), oddalony o około 21,3 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada specjalnie zaprojektowaną strefę wodną dla dzieci \"Aqua Splash Pirate Island\" z płytką wodą, zraszaczami, wiadrami, fontannami i mini zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując mini klub, klub dla nastolatków, strefę wodną i programy animacyjne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Argile Resort jest obiektem rodzinnym i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Xi Beach, Paliki, Lixouri, Kefalonia, Grecja, 28200",
+ "adultsOnly": false,
+ "airportKm": 21.3,
+ "airportName": "Międzynarodowy Port Lotniczy Kefalonia (EFL)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Kort do padla",
+  "Boisko do koszykówki",
+  "Siatkówka",
+  "Bilard",
+  "Tenis stołowy",
+  "Mini klub dla dzieci",
+  "Klub dla nastolatków",
+  "Strefa wodna dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Półwysep Paliki",
+ "bars": 4,
+ "beachDistanceM": 400,
+ "beachType": "czerwony piasek",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Room (klimatyzacja, balkon/taras, łazienka, lodówka, TV, sejf, suszarka, Wi-Fi)",
+  "Standard Deluxe (klimatyzacja, balkon/taras, łazienka, lodówka, TV, sejf, suszarka, Wi-Fi)",
+  "Family Room (klimatyzacja, balkon/taras, łazienka, lodówka, TV, sejf, suszarka, Wi-Fi, często na parterze)",
+  "Suite with Private Pool/Suite Maisonette (klimatyzacja, balkon/taras, łazienka, lodówka, TV, sejf, suszarka, Wi-Fi, prywatny basen)"
+ ],
+ "rooms": 197,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "expedia.com",
+  "agoda.com",
+  "argileresort.com",
+  "hoteles.com",
+  "reserve-online.net",
+  "booking.com",
+  "guestreservations.com",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-27"
+}
