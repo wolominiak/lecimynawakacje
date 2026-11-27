@@ -1,0 +1,130 @@
+{
+ "id": 5824,
+ "slug": "monarque-fuengirola-park",
+ "name": "Monarque Fuengirola Park",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa del Sol",
+  "Fuengirola"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/monarque-fuengirola-park-basen-teren-hotelu-804906535-570-428.jpg",
+ "city": "Fuengirola",
+ "intro": [
+  "Monarque Fuengirola Park to czterogwiazdkowy hotel położony w turystyczno-mieszkalnej dzielnicy Fuengiroli na słonecznym wybrzeżu Costa del Sol w Hiszpanii. Obiekt, otwarty w 1976 roku i odnawiany w 2001 lub 2010 roku, oferuje komfortowe zakwaterowanie w siedmio- lub ośmiopiętrowym budynku.",
+  "Hotel jest polecany dla rodzin z dziećmi, par oraz osób nastawionych na zwiedzanie, poszukujących dobrego stosunku jakości do ceny. Bliskość plaży, różnorodne udogodnienia oraz program animacyjny sprawiają, że jest to odpowiednie miejsce na relaksujący pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Monarque Fuengirola Park znajduje się w odległości około 150-200 metrów od publicznej, piaszczystej plaży Las Gaviotas i Torreblanca. Dostęp do plaży możliwy jest przez ulicę lub wygodne przejście podziemne. Obiekt usytuowany jest w turystycznej dzielnicy, około 3 km od centrum miejscowości. Lotnisko w Maladze (MLG) oddalone jest o około 16-25 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 388-391 pokojami, w tym pokojami standardowymi (21m², maks. 3 osoby) oraz apartamentami rodzinnymi (38m², maks. 4 osoby). Wszystkie pokoje wyposażone są w klimatyzację/ogrzewanie, balkon lub taras, telewizor z kanałami satelitarnymi, minibar, sejf (płatny), telefon, suszarkę do włosów oraz łazienkę z prysznicem/wanną. Dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni narodowej i międzynarodowej. Goście mogą korzystać z trzech barów: Bar Hall w lobby, Pool Bar \"Oasis\" przy basenie oraz Bar Marbella z wieczornymi występami. Pakiet All Inclusive obejmuje śniadanie, obiad i kolację w formie bufetu, wybrane lokalne napoje alkoholowe i bezalkoholowe oraz lekkie przekąski między posiłkami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny zewnętrzne oraz podgrzewany basen kryty w strefie spa. Dla dzieci przygotowano oddzielny brodzik i plac zabaw, a w sezonie (lipiec-sierpień) działa mini klub dla dzieci w wieku 4-12 lat. Hotel oferuje program animacji dziennych i wieczornych, w tym występy na żywo i muzykę. Na terenie obiektu znajdują się również dwa korty tenisowe i korty do padla (płatne), bilard (płatny) oraz tenis stołowy."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Hotelowe spa (dodatkowo płatne) oferuje podgrzewany basen kryty, jacuzzi, saunę, łaźnię turecką, masaże i zabiegi kosmetyczne. W całym obiekcie oraz w pokojach dostępne jest bezpłatne Wi-Fi. Hotel nie posiada siłowni, ale dysponuje salą gier. Na miejscu dostępny jest bezpłatny parking."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i stacji kolejowej",
+  "Przyjazny i pomocny personel",
+  "Duży wybór jedzenia w restauracji bufetowej",
+  "Czyste i przestronne pokoje z balkonem",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Wystrój pokoi i umeblowanie mogą być przestarzałe",
+  "Ograniczone wyciszenie między pokojami",
+  "Wysokie zapotrzebowanie na leżaki przy basenie",
+  "Niektóre usługi spa i sportowe są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Monarque Fuengirola Park znajduje się około 150-200 metrów od publicznej, piaszczystej plaży Las Gaviotas i Torreblanca."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (MLG), oddalone o około 16-25 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik dla dzieci, plac zabaw oraz sezonowy mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy w hotelu jest podgrzewany basen?",
+   "a": "Tak, hotel posiada podgrzewany basen kryty w strefie spa."
+  }
+ ],
+ "address": "Avenida de Las Gaviotas s/n, 29640 Fuengirola, Málaga",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "Malaga (MLG)",
+ "amenities": [
+  "Bezpłatny parking",
+  "Tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Turystyczna/mieszkalna",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "Piaszczysta, publiczna",
+ "centerKm": 3,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby zwiedzające"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1976,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2001,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje standardowe (maks. 3 osoby, 21m²) z klimatyzacją/ogrzewaniem, balkonem/tarasem, telewizorem, minibarem, sejfem (płatnym), telefonem, suszarką do włosów, łazienką z prysznicem/wanną, bezpłatnym Wi-Fi.",
+  "Apartamenty rodzinne (maks. 4 osoby, 38m²) z klimatyzacją/ogrzewaniem, balkonem/tarasem, telewizorem, minibarem, sejfem (płatnym), telefonem, suszarką do włosów, łazienką z prysznicem/wanną, bezpłatnym Wi-Fi."
+ ],
+ "rooms": 388,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5627074,
+  "lon": -4.6074385,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelston.com",
+  "hotel.info",
+  "thomascook.com",
+  "booking.com",
+  "trivago.co.uk",
+  "fuengirolahotels.net",
+  "expedia.com",
+  "mercuryholidays.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

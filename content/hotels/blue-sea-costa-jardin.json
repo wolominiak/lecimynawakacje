@@ -1,0 +1,138 @@
+{
+ "id": 32846,
+ "slug": "blue-sea-costa-jardin",
+ "name": "Blue Sea Costa Jardin",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Teneryfa",
+  "Puerto de la Cruz"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/blue-sea-costa-jardin-basen-809195353-570-428.jpg",
+ "city": "Puerto de la Cruz",
+ "intro": [
+  "Hotel Blue Sea Costa Jardin to czterogwiazdkowy obiekt położony w spokojnej dzielnicy El Durazno w Puerto de la Cruz na Teneryfie. Otoczony rozległymi, subtropikalnymi ogrodami oferuje relaksującą atmosferę z widokami na wulkan Teide.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par, szukających aktywnego wypoczynku połączonego z możliwością relaksu. Oferuje szeroki zakres udogodnień, od basenów i zajęć sportowych po centrum SPA i programy animacyjne."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się około 2 km od plaż i centrum Puerto de la Cruz, w spokojnej urbanizacji. Do najbliższej plaży Playa Jardín, znanej z czarnego piasku, hotel oferuje bezpłatny transfer. Plaża nie jest hotelowa, ale oferuje wypożyczalnie leżaków i parasoli."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 248 pokojami, w tym dwuosobowymi, jednoosobowymi oraz Junior Suity. Wszystkie pokoje są klimatyzowane (lub ogrzewane sezonowo) i wyposażone w łazienkę, telefon, telewizję satelitarną oraz balkon lub taras. W pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się klimatyzowana restauracja bufetowa \"El Drago\" serwująca dania kuchni hiszpańskiej i międzynarodowej. Do dyspozycji gości są również trzy bary: bar przekąskowy, bar w lobby oraz bar przy basenie. Opcja all inclusive obejmuje śniadania, obiady, kolacje oraz wybrane przekąski i napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje duży odkryty basen ze słodką wodą, z wydzieloną częścią dla dzieci oraz zjeżdżalnią wodną. Na terenie obiektu znajduje się również plac zabaw, mini klub dla dzieci (4-7 lat) oraz w pełni wyposażona siłownia. Goście mogą korzystać z kortu tenisowego, mini golfa, bilarda i innych aktywności sportowych. Wieczorami organizowane są animacje i pokazy."
+  },
+  {
+   "title": "Wellness i Spa",
+   "text": "Centrum Spa i Wellness \"Acquaplaya\" oferuje \"obwód termalny\", wannę z hydromasażem, saunę, łaźnię parową oraz szeroki wybór zabiegów kosmetycznych i masaży. Korzystanie z usług spa jest dodatkowo płatne."
+  }
+ ],
+ "pros": [
+  "Spokojne otoczenie w tropikalnych ogrodach",
+  "Dobra różnorodność jedzenia w bufecie",
+  "Przyjazny personel i zespół animacyjny",
+  "Dobre udogodnienia rekreacyjne i sportowe",
+  "Bezpłatne Wi-Fi w pokojach i miejscach publicznych"
+ ],
+ "cons": [
+  "Lokalizacja na wzgórzu, daleko od plaży i centrum (choć jest transfer)",
+  "Odkryty basen nie jest podgrzewany, może być zbyt zimny",
+  "Pokoje mogą być nieco zużyte/przestarzałe",
+  "Korzystanie ze spa jest dodatkowo płatne",
+  "Mały, płatny parking"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 2 km od plaży Playa Jardín. Hotel oferuje bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i ile trwa dojazd?",
+   "a": "Najbliższe lotnisko to Tenerife North (TFN), oddalone o około 28 km. Dojazd zajmuje około 25-30 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Tak, hotel posiada zjeżdżalnię wodną przy basenie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje wydzieloną część basenu dla dzieci, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w pokojach i publicznych terminalach internetowych dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Calle Guerrero, 14, 38400 Puerto de la Cruz, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 28,
+ "airportName": "Tenerife North (Los Rodeos International Airport - TFN)",
+ "amenities": [
+  "Bezpłatny transfer na plażę",
+  "Plac zabaw dla dzieci",
+  "Mini golf",
+  "Bilard",
+  "Tenis stołowy",
+  "Rzutki",
+  "Kort tenisowy",
+  "Łucznictwo",
+  "Ręczniki plażowe"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "El Durazno",
+ "bars": 3,
+ "beachDistanceM": 2000,
+ "beachType": "czarny piasek",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (twin)",
+  "Pokój jednoosobowy",
+  "Junior Suita (z salonem i dostępem do basenu)",
+  "Pokój superior dwuosobowy",
+  "Pokój rodzinny dwuosobowy",
+  "Standardowy pokój jednoosobowy",
+  "Pokój dwuosobowy z widokiem na Teide"
+ ],
+ "rooms": 248,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "islas.co.uk",
+  "voyage-prive.co.uk",
+  "blueseahotels.com",
+  "trivago.co.uk",
+  "thomascook.com",
+  "broadwaytravel.com",
+  "kayak.com",
+  "sunshine.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

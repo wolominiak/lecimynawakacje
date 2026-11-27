@@ -1,0 +1,138 @@
+{
+ "id": 745,
+ "slug": "europalace",
+ "name": "Europalace",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Gran Canaria",
+  "Playa del Ingles"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/europalace-obiekt-1237290640-570-428.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Hotel Europalace to trzygwiazdkowy obiekt położony w turystycznej i spokojnej dzielnicy Playa del Inglés na Gran Canarii. Jest to aparthotel, który działa od 1974 roku, a ostatnie renowacje miały miejsce w 2021 i 2025 roku. Jego lokalizacja bezpośrednio przy plaży Playa del Veril i promenadzie sprawia, że jest to idealne miejsce dla osób ceniących sobie bliskość morza.",
+  "Obiekt jest przyjazny rodzinom z dziećmi, a także polecany dla starszych par i osób szukających spokojnej atmosfery. Dzięki aneksom kuchennym w pokojach i możliwości dłuższych pobytów, hotel Europalace może być dobrą bazą wypadową do odkrywania uroków Gran Canarii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Europalace znajduje się w Playa del Inglés, z bezpośrednim dostępem do piaszczystej plaży Playa del Veril (Playa de El Cochino), oddalonej o około 100 metrów. Plaża charakteryzuje się złotym piaskiem i spokojnymi wodami. Hotel oferuje bezpośredni dostęp do promenady, a leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 227-228 pokojami, w tym apartamentami, studiami, junior suitami i suitami. Wszystkie pokoje wyposażone są w łazienkę z prysznicem i suszarką do włosów, telewizor, radio, aneks kuchenny z lodówką, część wypoczynkową, biurko, wentylator oraz balkon lub taras. Niektóre pokoje posiadają kuchnię z kuchenką, a Junior Suite Premium oferuje widok na morze."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, z czego jeden jest sezonowo podgrzewany zimą. Dla dzieci przygotowano brodzik oraz plac zabaw. Hotel oferuje również jacuzzi, masaże (dodatkowo płatne), centrum fitness/siłownię oraz tenis stołowy. Na plaży dostępne są sporty wodne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Europalace znajduje się restauracja bufetowa oraz restauracja à la carte serwująca dania kuchni europejskiej. Goście mogą korzystać z baru oraz baru przy basenie. Hotel oferuje wyżywienie w opcji \"half board\", obejmujące śniadania (bufet lub śniadanie amerykańskie) i kolacje."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i częściach wspólnych, choć sygnał bywa niestabilny. Na miejscu znajduje się supermarket, co jest udogodnieniem dla gości. Dostępne są również zorganizowane zajęcia, a hotel oferuje wypożyczalnię rowerów."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera",
+  "Doskonała lokalizacja przy plaży i promenadzie",
+  "Przyjazny i pomocny personel",
+  "Urozmaicony bufet",
+  "Supermarket na miejscu"
+ ],
+ "cons": [
+  "Niestabilne Wi-Fi",
+  "Opłaty za sejf i ręczniki basenowe",
+  "Sprzeczne informacje o centrum fitness/spa",
+  "Brak klimatyzacji w niektórych pokojach",
+  "Ograniczone godziny otwarcia basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel ma bezpośredni dostęp do plaży Playa del Veril, oddalonej o około 100 metrów."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Gran Canaria Airport (LPA), znajduje się około 25-30 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"family-friendly\" i posiada brodzik oraz plac zabaw dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, choć niektórzy goście zgłaszali niestabilność sygnału."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje opcję wyżywienia \"half board\" (śniadanie i kolacja). Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "C. Hamburgo, 12, 35100, Playa del Inglés, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 27.5,
+ "airportName": "Gran Canaria Airport (LPA)",
+ "amenities": [
+  "Jacuzzi",
+  "Masaże (płatne)",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów",
+  "Supermarket"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa del Inglés",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "naturalna, piaszczysta, ze złotym piaskiem",
+ "centerKm": 1.7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "starsze pary",
+  "osoby szukające spokojnej atmosfery",
+  "podróżujący na dłuższe pobyty",
+  "entuzjaści sportów wodnych"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1974,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 2,
+ "roomTypes": [
+  "Apartamenty (z aneksem kuchennym)",
+  "Studia (z aneksem kuchennym)",
+  "Junior Suity (z aneksem kuchennym, niektóre z widokiem na morze)",
+  "Suity (z aneksem kuchennym)"
+ ],
+ "rooms": 228,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7639501,
+  "lon": -15.5596489,
+  "src": "osm"
+ },
+ "sources": [
+  "playadelinglesweb.com",
+  "hoteleuropalace.com",
+  "onthebeach.ie",
+  "lastminute.com",
+  "thomascook.com",
+  "trivago.ie",
+  "canary-islands-hotels.com",
+  "amimir.com"
+ ],
+ "updated": "2026-11-27"
+}

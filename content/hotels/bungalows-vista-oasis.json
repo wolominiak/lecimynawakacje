@@ -1,0 +1,127 @@
+{
+ "id": 30336,
+ "slug": "bungalows-vista-oasis",
+ "name": "Bungalows Vista Oasis",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Gran Canaria",
+  "Maspalomas"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/bungalows-vista-oasis-basen-528465247-570-428.jpg",
+ "city": "Maspalomas",
+ "intro": [
+  "Bungalows Vista Oasis to dwugwiazdkowy kompleks bungalowów położony w dzielnicy Sonnenland w Maspalomas na Gran Canarii. Hotel, otwarty w 1988 roku i częściowo odnowiony do 2018 roku, oferuje spokojny wypoczynek w budżetowym standardzie.",
+  "Obiekt jest polecany dla rodzin i par, które cenią sobie niezależność dzięki aneksom kuchennym w bungalowach oraz dostęp do basenów. Ze względu na odległość od plaży, hotel oferuje bezpłatny transport wahadłowy, co ułatwia dostęp do piaszczystej plaży Maspalomas."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Maspalomas, w dzielnicy Sonnenland. Odległość do piaszczystej plaży Maspalomas wynosi około 3 km, jednak hotel zapewnia bezpłatny autobus wahadłowy. Do centrum Maspalomas jest od 0.4 km do 3 km. Najbliższe lotnisko Gran Canaria (LPA) oddalone jest o 28-34 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 130 bungalowami/apartamentami z jedną sypialnią, przeznaczonymi dla 2-4 osób. Każdy bungalow posiada umeblowany taras lub balkon, aneks kuchenny z lodówką i płytą grzewczą, salon z rozkładaną sofą i telewizorem (często płatnym). W pokojach dostępna jest prywatna łazienka z wanną lub prysznicem i suszarką do włosów, telefon oraz sejf (za opłatą). Brak klimatyzacji, dostępne są wentylatory."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży odkryty basen, podgrzewany w sezonie zimowym, oraz oddzielny basen dla dzieci. Dla najmłodszych dostępny jest plac zabaw i baby club. Hotel oferuje ograniczone animacje, wieczorne rozrywki, muzykę na żywo i pokazy kilka razy w tygodniu. Dostępne są korty tenisowe, tenis stołowy i bilard (za opłatą)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa oraz restauracja à la carte (za dodatkową opłatą). Goście mogą korzystać z bar-kawiarni z tarasem oraz baru przy basenie/snack baru. Dostępne są pakiety all inclusive, które mogą obejmować międzynarodowe napoje alkoholowe przez całą dobę."
+  }
+ ],
+ "pros": [
+  "Duży basen, podgrzewany zimą",
+  "Korty tenisowe",
+  "Bezpłatny autobus do plaży",
+  "Bungalowy z tarasami i aneksami kuchennymi",
+  "Spokojna okolica"
+ ],
+ "cons": [
+  "Odległość od plaży i centrum wymaga transportu",
+  "Jedzenie w opcji all inclusive bywa krytykowane",
+  "Brak klimatyzacji w pokojach",
+  "Pokoje mogą być przestarzałe",
+  "Dodatkowe opłaty za sejf i TV (w niektórych przypadkach)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel jest oddalony o około 3 km od piaszczystej plaży Maspalomas. Obiekt oferuje bezpłatny autobus wahadłowy na plażę."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Gran Canaria (LPA), oddalone o około 28-34 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni, ale jest duży odkryty basen (podgrzewany zimą) oraz oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada basen dla dzieci, plac zabaw oraz baby club."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w strefach publicznych. W pokojach Wi-Fi jest bezpłatne lub dostępne za opłatą, w zależności od źródła."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "W pokojach nie ma klimatyzacji, ale dostępne są wentylatory."
+  }
+ ],
+ "address": "Calle Einstein, 6, 35100 Maspalomas",
+ "adultsOnly": false,
+ "airportKm": 28,
+ "airportName": "Lotnisko Gran Canaria (LPA)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Taras/balkon",
+  "Baby club",
+  "Plac zabaw"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Sonnenland",
+ "bars": 2,
+ "beachDistanceM": 3000,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1988,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2000,
+ "restaurants": 2,
+ "roomTypes": [
+  "Bungalow/Apartament z jedną sypialnią (dla 2-4 osób), z umeblowanym tarasem/balkonem, aneksem kuchennym, salonem z rozkładaną sofą i TV, łazienką z wanną/prysznicem i suszarką do włosów, telefonem, sejfem (za opłatą), wentylatorem."
+ ],
+ "rooms": 130,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7586,
+  "lon": -15.60094,
+  "src": "web"
+ },
+ "sources": [
+  "quierohotel.com",
+  "onthebeach.ie",
+  "travelyalla.com",
+  "britishairways.com",
+  "broadwaytravel.com",
+  "trivago.ie",
+  "grancanaria-hotels.com",
+  "hotels-gran-canaria.net"
+ ],
+ "updated": "2026-11-27"
+}

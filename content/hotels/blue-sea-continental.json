@@ -1,0 +1,134 @@
+{
+ "id": 29187,
+ "slug": "blue-sea-continental",
+ "name": "Blue Sea Continental",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa Brava",
+  "Tossa de Mar"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/blue-sea-continental-teren-hotelu-basen-1476388974-570-428.jpg",
+ "city": "Tossa de Mar",
+ "intro": [
+  "Hotel Blue Sea Continental to trzygwiazdkowy obiekt położony w spokojnej, a zarazem centralnej części Tossa de Mar na wybrzeżu Costa Brava. Jego lokalizacja sprawia, że jest doskonałą bazą wypadową do zwiedzania urokliwego miasteczka, a także do korzystania z uroków Platja Gran.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi oraz par, które szukają komfortowego zakwaterowania w przystępnej cenie. Hotel sprawdzi się również dla osób ceniących sobie bliskość plaży, historycznego centrum oraz dostęp do podstawowych udogodnień, takich jak baseny i animacje w sezonie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Blue Sea Continental znajduje się w Tossa de Mar, zaledwie 600-800 metrów od Platja Gran, głównej miejskiej plaży z grubym piaskiem, oznaczonej Błękitną Flagą. Do historycznego centrum miejscowości jest około 300-400 metrów. Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 39-41 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 95 pokoi jedno-, dwu- i trzyosobowych, które zostały odnowione w 2004 roku. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, balkon, telewizor z kanałami satelitarnymi, suszarkę do włosów oraz bezpłatne Wi-Fi. Dostępny jest również sejf za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się jedna restauracja bufetowa, serwująca dania kuchni śródziemnomorskiej i międzynarodowej na śniadania, obiady i kolacje. Goście mogą również korzystać z baru/salonu oraz kawiarni. Opcja All Inclusive obejmuje posiłki w formie bufetu oraz wybrane napoje bezalkoholowe i alkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: sezonowy basen zewnętrzny oraz brodzik dla dzieci. Hotel oferuje także plac zabaw i pokój gier dla najmłodszych. W sezonie wysokim organizowane są różnorodne animacje. Aktywne spędzanie czasu umożliwiają bilard, tenis stołowy oraz pobliskie szlaki turystyczne."
+  }
+ ],
+ "pros": [
+  "Doskonała, centralna lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Dostępny basen zewnętrzny i brodzik dla dzieci",
+  "Czyste i komfortowe pokoje z klimatyzacją",
+  "Dobra wartość za pieniądze"
+ ],
+ "cons": [
+  "Pokoje mogą wymagać odświeżenia (ostatni remont w 2004 r.)",
+  "Ograniczona różnorodność posiłków w bufecie",
+  "Ograniczona liczba gniazdek elektrycznych w pokojach",
+  "Plaża nie jest hotelowa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Blue Sea Continental jest oddalony o około 600-800 metrów (mniej niż 10 minut spacerem) od Platja Gran w Tossa de Mar."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 39-41 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni. Dostępne są dwa baseny: zewnętrzny i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, plac zabaw, pokój gier oraz animacje w sezonie wysokim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Oferuje udogodnienia dla rodzin i dzieci."
+  }
+ ],
+ "address": "Ctra. Lloret, 2, 17320 Tossa de Mar, Girona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 39,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon",
+  "Telewizor",
+  "Suszarka do włosów",
+  "Sejf (płatny)",
+  "Telefon",
+  "Codzienne sprzątanie",
+  "Plac zabaw",
+  "Pokój gier",
+  "Bilard",
+  "Tenis stołowy",
+  "Usługi naprawy rowerów"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Centralna część miejscowości",
+ "bars": 2,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Zwiedzający",
+  "Podróżujący z ograniczonym budżetem"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2004,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje jednoosobowe (Double Room Single Use)",
+  "Pokoje dwuosobowe",
+  "Pokoje trzyosobowe (Triple Room (2+1), Queen Room)"
+ ],
+ "rooms": 95,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "blueseahotels.com",
+  "trivago.com",
+  "reserving.com",
+  "trivago.ie",
+  "hoteles.com",
+  "h-rez.com",
+  "booking.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

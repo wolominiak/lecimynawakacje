@@ -1,0 +1,137 @@
+{
+ "id": 1779,
+ "slug": "barcelo-santiago",
+ "name": "Barcelo Santiago",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Teneryfa",
+  "Puerto de Santiago"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/barcelo-santiago-basen-804637600-570-428.jpg",
+ "city": "Puerto de Santiago",
+ "intro": [
+  "Barceló Santiago to czterogwiazdkowy hotel położony na klifie w miejscowości Puerto de Santiago na południowo-zachodnim wybrzeżu Teneryfy. Obiekt oferuje panoramiczne widoki na Ocean Atlantycki, imponujące klify Los Gigantes, wyspę La Gomera oraz wulkan Teide. Hotel jest przeznaczony wyłącznie dla dorosłych (18+), co gwarantuje spokojny wypoczynek.",
+  "Hotel jest idealnym miejscem dla par i dorosłych szukających relaksu w malowniczej scenerii, a także dla tych, którzy cenią sobie bliskość natury i aktywne spędzanie czasu. Dzięki niedawnemu remontowi i bogatej ofercie rekreacyjnej, Barceló Santiago zapewnia komfortowy pobyt w eleganckim otoczeniu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel Barceló Santiago usytuowany jest na klifie w Puerto de Santiago, oferując zapierające dech w piersiach widoki. Najbliższa publiczna plaża z czarnym, wulkanicznym piaskiem znajduje się zaledwie 200 metrów od obiektu. Centrum miejscowości jest oddalone o 300-600 metrów, co umożliwia łatwy dostęp do lokalnych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 406 lub 407 pokojami rozmieszczonymi na dziewięciu piętrach, które zostały odnowione w 2019 roku. Standardowe wyposażenie obejmuje klimatyzację, telewizor, minibar (płatny), sejf (płatny), telefon, suszarkę do włosów, łazienkę oraz balkon lub taras, często z widokiem na ocean lub ogród. Dostępne są również pokoje z wanną z hydromasażem oraz Junior Suity."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się trzy lub cztery odkryte baseny, w tym jeden podgrzewany w sezonie zimowym oraz basen typu infinity z widokiem na Atlantyk. Goście mogą korzystać z w pełni wyposażonej siłowni, kortów tenisowych oraz wielofunkcyjnego kortu sportowego. Hotel oferuje także program rozrywkowy i animacje dla dorosłych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje restaurację bufetową \"Drago\" z kuchnią międzynarodową oraz restaurację à la carte \"El Olivo\" serwującą dania kuchni śródziemnomorskiej/hiszpańskiej. Do dyspozycji gości są również trzy bary: Gastropool Bar Breeze, Lobby Bar oraz Theatre Bar. Opcja All Inclusive obejmuje posiłki w formie bufetu, przekąski, lokalne napoje alkoholowe i bezalkoholowe, a także jedną bezpłatną wizytę w restauracji à la carte."
+  },
+  {
+   "title": "Wellness i Spa",
+   "text": "W hotelu znajduje się U-Spa, które oferuje obwód hydroterapii, saunę, łaźnię turecką, jacuzzi, masaże i różnorodne zabiegi wellness. Dostęp do strefy spa oraz zabiegi są dostępne za dodatkową opłatą. To idealne miejsce na relaks i odprężenie."
+  }
+ ],
+ "pros": [
+  "Spektakularne widoki na ocean i klify Los Gigantes.",
+  "Doskonała lokalizacja blisko plaży i centrum miejscowości.",
+  "Spokojna atmosfera dzięki formule \"tylko dla dorosłych\".",
+  "Dobre i różnorodne jedzenie.",
+  "Wysoki poziom czystości i pomocny personel."
+ ],
+ "cons": [
+  "Leżaki i parasole na pobliskiej plaży są płatne.",
+  "Minibar i sejf w pokojach są dodatkowo płatne.",
+  "W opcji Half Board napoje nie są wliczone do posiłków.",
+  "Brak prywatnej plaży hotelowej."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa publiczna plaża z czarnym, wulkanicznym piaskiem znajduje się około 200 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony dla rodzin z dziećmi?",
+   "a": "Nie, hotel Barceló Santiago jest przeznaczony wyłącznie dla dorosłych (18+), co oznacza brak udogodnień dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife South Airport (TFS), oddalone o około 41-48 km, co zajmuje około 34 minuty jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia i spa?",
+   "a": "Tak, hotel posiada w pełni wyposażoną siłownię oraz U-Spa z obwodem hydroterapii, sauną i różnorodnymi zabiegami (dodatkowo płatne)."
+  }
+ ],
+ "address": "Calle La Hondura 8, 38683 Puerto de Santiago, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 41,
+ "airportName": "Tenerife South Airport (TFS)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "Korty tenisowe",
+  "Wielofunkcyjny kort sportowy",
+  "Program rozrywkowy i animacje dla dorosłych"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Puerto de Santiago",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "publiczna, z czarnym wulkanicznym piaskiem",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary",
+  "Dorośli szukający relaksu",
+  "Osoby pragnące spokojnego wypoczynku",
+  "Grupy dorosłych"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 2,
+ "roomTypes": [
+  "Deluxe Sea View (z widokiem na morze, klimatyzacja, TV, minibar, sejf, telefon, suszarka, łazienka, balkon/taras, czajnik)",
+  "Deluxe Garden View (z widokiem na ogród, klimatyzacja, TV, minibar, sejf, telefon, suszarka, łazienka, balkon/taras, czajnik)",
+  "Deluxe Sea View/Garden View with Hot Tub (z wanną z hydromasażem)",
+  "Junior Suite (z częścią wypoczynkową)",
+  "Deluxe Superior Sea View (niektóre z szlafrokami i kapciami)"
+ ],
+ "rooms": 406,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.2394482,
+  "lon": -16.8450238,
+  "src": "osm"
+ },
+ "sources": [
+  "barcelo.com",
+  "tui.co.uk",
+  "islas.co.uk",
+  "britishairways.com",
+  "booking.com",
+  "islascanarias-hoteles.com",
+  "expedia.com",
+  "expedia.ca"
+ ],
+ "updated": "2026-11-27"
+}

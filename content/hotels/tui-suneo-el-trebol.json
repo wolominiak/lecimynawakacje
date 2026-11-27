@@ -1,0 +1,130 @@
+{
+ "id": 22498,
+ "slug": "tui-suneo-el-trebol",
+ "name": "TUI SUNEO El Trebol",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Lanzarote",
+  "Costa Teguise"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/tui-suneo-el-trebol-teren-hotelu-basen-576441719-570-428.jpg",
+ "city": "Costa Teguise",
+ "intro": [
+  "TUI SUNEO El Trebol to trzygwiazdkowy kompleks hotelowy położony w turystycznym centrum Costa Teguise na Lanzarote, w spokojnej okolicy. Obiekt oferuje komfortowe zakwaterowanie w odnowionych apartamentach i pokojach rodzinnych, rozmieszczonych wśród bujnych ogrodów, co nadaje mu charakter wioski wypoczynkowej.",
+  "Hotel jest idealnym wyborem dla par i rodzin z dziećmi, które szukają niedrogiego wypoczynku all inclusive z bogatą ofertą basenową i dogodną lokalizacją, umożliwiającą łatwy dostęp do plaży oraz lokalnych atrakcji, sklepów i restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel TUI SUNEO El Trebol znajduje się w miejscowości Costa Teguise na Lanzarote, w odległości około 350-400 metrów od piaszczystej plaży Las Cucharas. Plaża ta jest popularna wśród miłośników sportów wodnych, takich jak surfing, windsurfing i nurkowanie. W pobliżu hotelu, zaledwie 50 metrów, znajdują się bary i restauracje, a do centrum miejscowości z licznymi sklepami i lokalami gastronomicznymi jest około 1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 226 odnowionymi apartamentami i pokojami rodzinnymi. Apartamenty z jedną sypialnią oferują salon z rozkładaną sofą, aneks kuchenny z podstawowym wyposażeniem (płyta ceramiczna, mikrofalówka, lodówka) oraz łazienkę z prysznicem. Wszystkie pokoje wyposażone są w bezpłatne Wi-Fi, klimatyzację oraz balkon lub taras. Pokoje są przestronne, czyste i jasne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "TUI SUNEO El Trebol oferuje dwa duże baseny zewnętrzne w stylu laguny oraz dwa baseny dla dzieci. Na terenie obiektu znajduje się również park wodny ze zjeżdżalniami i atrakcjami, w tym gigantycznym wiadrem, co stanowi atrakcję dla najmłodszych. Goście mogą korzystać z boisk do piłki nożnej, kortów tenisowych, minigolfa oraz innych aktywności sportowych. Wieczorami organizowane są animacje i pokazy."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa, serwująca śniadania, obiady i kolacje z wieczorami tematycznymi i pokazami gotowania. Do dyspozycji gości są również bar przy basenie z przekąskami i lodami oraz show bar z wieczornymi programami rozrywkowymi. Pakiet all inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest bardzo dobrze przygotowany na przyjęcie rodzin z dziećmi. Oprócz dwóch basenów dla dzieci i parku wodnego ze zjeżdżalniami, dostępny jest mini klub połączony z placem zabaw. Dla najmłodszych organizowane są mini disco oraz program animacji dziennych i wieczornych pokazów."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko plaży i centrum",
+  "Atrakcyjny park wodny i baseny dla dzieci",
+  "Czyste i przestronne, odnowione pokoje",
+  "Uprzejma obsługa i różnorodne jedzenie",
+  "Dużo leżaków przy basenach"
+ ],
+ "cons": [
+  "Jedzenie w restauracji bywa zimne",
+  "Napoje w pakiecie all inclusive oceniane jako słabe",
+  "Klimatyzacja w pokojach może być mało efektywna",
+  "Bar tylko dla dorosłych nie jest w pakiecie all inclusive",
+  "Możliwy hałas od dzieci ze względu na rodzinny charakter hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 350-400 metrów od piaszczystej plaży Las Cucharas."
+  },
+  {
+   "q": "Czy hotel oferuje park wodny lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada park wodny ze zjeżdżalniami i atrakcjami wodnymi, w tym gigantycznym wiadrem, oraz dwa baseny dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość hotelu od lotniska?",
+   "a": "Hotel jest położony około 15 km od lotniska Lanzarote (ACE). Dojazd zajmuje około 15-20 minut."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując mini klub, baseny dla dzieci, park wodny oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest popularny zarówno wśród par, jak i rodzin."
+  }
+ ],
+ "address": "Avenida Las Palmeras 10, 35508 Teguise, Lanzarote, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Lanzarote (ACE)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Klimatyzacja",
+  "Aneks kuchenny w apartamentach",
+  "Balkon/taras",
+  "Telewizor (płatny)",
+  "Suszarka do włosów"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Costa Teguise",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 4,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z 1 sypialnią: sypialnia z dwoma łóżkami pojedynczymi, salon z rozkładaną sofą, aneks kuchenny (płyta ceramiczna, dwa palniki, mikrofalówka, lodówka), Wi-Fi, telewizor (płatny), klimatyzacja, łazienka z prysznicem, suszarka do włosów, WC, balkon lub taras ze stołem i krzesłami.",
+  "Pokoje rodzinne: mogą pomieścić do 4 osób, oddzielne sypialnie z łóżkami pojedynczymi i podwójnymi, balkon lub taras."
+ ],
+ "rooms": 226,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "haystravel.co.uk",
+  "tui.co.uk",
+  "firstchoice.co.uk",
+  "zoover.nl",
+  "apartamentoseltrebol.com",
+  "goallinclusive.com",
+  "tui.nl",
+  "youtube.com"
+ ],
+ "updated": "2026-11-27"
+}

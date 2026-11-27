@@ -1,0 +1,136 @@
+{
+ "id": 30491,
+ "slug": "best-san-diego",
+ "name": "Best San Diego",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa Dorada",
+  "Salou"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/best-san-diego-basen-teren-hotelu-obiekt-1021584651-570-428.jpg",
+ "city": "Salou",
+ "intro": [
+  "Hotel Best San Diego to czterogwiazdkowy obiekt położony w turystycznym centrum Salou, na słonecznym wybrzeżu Costa Dorada w Hiszpanii. Jego dogodna lokalizacja sprawia, że jest to idealne miejsce dla osób ceniących sobie bliskość piaszczystych plaż Capellans i Levante, oddalonych o zaledwie 150-200 metrów.",
+  "Obiekt, otwarty w 1973 roku i częściowo odnowiony w 2017 roku, oferuje 262 pokoje i jest rekomendowany zarówno dla rodzin z dziećmi, par, jak i osób planujących zwiedzanie regionu. Goście mogą liczyć na komfortowe zakwaterowanie, różnorodne wyżywienie w restauracji bufetowej oraz dostęp do udogodnień takich jak baseny, centrum fitness i programy animacyjne."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Best San Diego znajduje się w centrum turystycznym Salou, w odległości około 150-200 metrów od piaszczystych plaż Capellans i Levante. Centrum miejscowości oddalone jest o mniej niż 800 metrów, co zapewnia łatwy dostęp do lokalnych atrakcji. Na tarasie słonecznym przy basenie dostępne są bezpłatne leżaki i parasole, a także ręczniki basenowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 262 klimatyzowane pokoje dwuosobowe, w tym opcje z widokiem na basen, które mogą pomieścić do czterech osób dzięki dwóm łóżkom typu queen-size. Każdy pokój wyposażony jest w balkon lub taras, telewizor z kanałami satelitarnymi, minibar, sejf (bezpłatny lub płatny lokalnie), telefon oraz prywatną łazienkę z wanną lub prysznicem, suszarką do włosów i lusterkiem kosmetycznym. W całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni narodowej i międzynarodowej, z pokazami gotowania. Na kolację obowiązuje strój formalny. Goście mogą również korzystać z baru hotelowego/lounge baru oraz baru przy basenie/snack baru. Dostępne są opcje wyżywienia All Inclusive i Gold All Inclusive, obejmujące jedzenie i napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się odkryty basen dla dorosłych, oddzielny basen dla dzieci oraz jacuzzi na świeżym powietrzu. Hotel oferuje również centrum fitness/siłownię oraz możliwość gry w bilard (dodatkowo płatny), tenis stołowy, rzutki i aerobik. Dostępny jest program animacyjny dla dorosłych i dzieci, zarówno w ciągu dnia, jak i wieczorem."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował oddzielny basen, plac zabaw oraz mini klub dla dzieci w wieku od 4 do 12 lat. Hotel oferuje również program animacyjny dostosowany do potrzeb dzieci, zapewniając im rozrywkę przez cały pobyt."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Wysoka czystość w całym obiekcie",
+  "Doskonała lokalizacja blisko plaż i centrum Salou",
+  "Dobre jedzenie w formie bufetu z różnorodnością i kolacjami tematycznymi",
+  "Dobre udogodnienia i komfortowe łóżka"
+ ],
+ "cons": [
+  "Ograniczony wybór lub powtarzalność dań w bufecie",
+  "Ograniczona przestrzeń w pokojach",
+  "Potencjalny hałas z pobliskiego życia nocnego",
+  "Mały basen z ewentualnymi problemami konserwacyjnymi",
+  "Wolne windy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Best San Diego znajduje się około 150-200 metrów od piaszczystych plaż Capellans i Levante."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Reus (REU), oddalone o około 10-13 km. Lotnisko Barcelona El Prat (BCN) znajduje się w odległości około 97.6 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w tym hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik, plac zabaw, mini klub dla dzieci (4-12 lat) oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie All Inclusive?",
+   "a": "Tak, dostępne są opcje All Inclusive i Gold All Inclusive, które obejmują jedzenie i napoje na miejscu."
+  }
+ ],
+ "address": "Carrer Penedés, 23-27, 43840, Salou, Tarragona",
+ "adultsOnly": false,
+ "airportKm": 10,
+ "airportName": "Reus (REU)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon lub taras",
+  "Telewizor",
+  "Minibar",
+  "Sejf",
+  "Telefon",
+  "Suszarka do włosów",
+  "Lusterko kosmetyczne"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum turystyczne Salou",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające dogodnej lokalizacji do zwiedzania regionu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1973,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe (Standard Queen Room, Double Room, Double Room with Pool View) z możliwością zakwaterowania do czterech osób (z dwoma łóżkami typu queen-size), klimatyzowane, z balkonem lub tarasem, telewizorem (z kanałami satelitarnymi), minibarem, bezpłatnym sejfem (lub opcjonalnym, płatnym lokalnie), telefonem oraz prywatną łazienką z wanną lub prysznicem, suszarką do włosów i lusterkiem kosmetycznym."
+ ],
+ "rooms": 262,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0696685,
+  "lon": 1.15147,
+  "src": "osm"
+ },
+ "sources": [
+  "saloushotel.com",
+  "thomascook.com",
+  "quierohotel.com",
+  "amimir.com",
+  "expedia.co.uk",
+  "trivago.com",
+  "sunshine.co.uk",
+  "easyjet.com"
+ ],
+ "updated": "2026-11-27"
+}

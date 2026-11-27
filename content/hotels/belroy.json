@@ -1,0 +1,138 @@
+{
+ "id": 28921,
+ "slug": "belroy",
+ "name": "Belroy",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4.5,
+ "photo": "/no-index/hotel/belroy-basen-1785496360-570-428.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Belroy, znany również jako Climia Belroy, położony jest w samym sercu Benidormu na wybrzeżu Costa Blanca. Obiekt charakteryzuje się centralną lokalizacją, blisko piaszczystej plaży Levante oraz głównych arterii handlowych i rozrywkowych miasta.",
+  "Hotel jest polecany dla par, rodzin z dziećmi oraz grup przyjaciół, którzy cenią sobie łatwy dostęp do atrakcji, plaży i życia nocnego. Oferuje komfortowe zakwaterowanie i różnorodne opcje wyżywienia, dostosowane do potrzeb zarówno osób szukających relaksu, jak i aktywnego wypoczynku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Belroy znajduje się w centrum Benidormu, przy Avenida del Mediterráneo 13, równolegle do plaży Levante. Od piaszczystej plaży dzieli go zaledwie 50-200 metrów. W bezpośrednim sąsiedztwie hotelu znajdują się liczne sklepy, restauracje i bary. Centrum miasta jest oddalone o około 650m-1km, czyli 5-10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 184 pokoje i 35 apartamentów, lub 191 pokoi i apartamentów, rozmieszczonych na 7 lub 9 piętrach. Dostępne są pokoje Classic (niektóre odnowione w 2020), Superior (niektóre z widokiem na morze), Deluxe (z częścią wypoczynkową) oraz Single. Dodatkowo dostępne są Studia i Apartamenty, odnowione w 2020 roku, z aneksem kuchennym. Standardowe wyposażenie obejmuje klimatyzację, Wi-Fi, telewizor satelitarny, telefon, sejf, minibar, łazienkę z suszarką do włosów i zestawem kosmetyków. Wiele pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa Restaurante - Buffet Climia Belroy, japońska restauracja Umai, browar L'Abadía z piwami rzemieślniczymi i burgerami, kawiarnia Café París z tarasem oraz bar koktajlowy Camarote Club. Goście mogą wybrać opcje wyżywienia takie jak śniadanie (BB), obiadokolacja (HB) lub pełne wyżywienie (FB). Apartamenty oferują również opcję samoobsługową."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem, czynnym w sezonie letnim, oraz krytym, podgrzewanym basenem ze słoną wodą, dostępnym od 1 września do 15 czerwca (zamknięty w poniedziałki). Dla dzieci przygotowano brodzik. Na terenie obiektu znajduje się siłownia, sauna i solarium. Wieczorami organizowane są rozrywki z muzyką na żywo i dyskoteką/DJ-em. Dostępny jest także stół do tenisa stołowego."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaży i centrum",
+  "Czystość hotelu i pokoi",
+  "Przyjazny i profesjonalny personel",
+  "Dobre śniadania z szerokim wyborem",
+  "Dostęp do siłowni, sauny i krytego basenu"
+ ],
+ "cons": [
+  "Możliwy hałas w nocy z uwagi na centralne położenie",
+  "Ograniczona liczba parasoli przy basenie",
+  "Ograniczony wybór lub jakość jedzenia na obiad/kolację (według niektórych opinii)",
+  "Basen zewnętrzny może być zacieniony przez budynek",
+  "Kryty basen zamknięty w poniedziałki"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Belroy znajduje się około 50-200 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Port lotniczy Alicante-Elche (ALC), oddalone o około 58-66 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i posiada brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Belroy nie jest obiektem wyłącznie dla dorosłych; jest polecany również dla rodzin i grup przyjaciół."
+  }
+ ],
+ "address": "Avenida del Mediterráneo 13, Benidorm",
+ "adultsOnly": false,
+ "airportKm": 62,
+ "airportName": "Port lotniczy Alicante-Elche (ALC)",
+ "amenities": [
+  "Siłownia",
+  "Sauna",
+  "Solarium",
+  "Muzyka na żywo",
+  "Dyskoteka/DJ",
+  "Tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 2,
+ "beachDistanceM": 125,
+ "beachType": "piaszczysta",
+ "centerKm": 0.825,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Grupy przyjaciół",
+  "Osoby szukające relaksu",
+  "Plażowicze",
+  "Zwiedzający"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1972,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokoje Classic: z tarasem lub widokiem na miasto, niektóre odnowione w 2020 roku.",
+  "Pokoje Superior: z sofą i fotelami, niektóre panoramiczne z widokiem na morze.",
+  "Pokoje Deluxe: z częścią wypoczynkową, sofą, niektóre z wanną z hydromasażem.",
+  "Pokoje Single.",
+  "Studia: odnowione w 2020 roku, z aneksem kuchennym.",
+  "Apartamenty: odnowione w 2020 roku, z aneksem kuchennym i dwiema sypialniami."
+ ],
+ "rooms": 191,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5375322,
+  "lon": -0.1208704,
+  "src": "osm"
+ },
+ "sources": [
+  "onbenidorm.com",
+  "visitbenidorm.es",
+  "climiahotels.com",
+  "holidaygems.co.uk",
+  "jump2spain.com",
+  "thebenidormguide.com",
+  "onthebeach.co.uk",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

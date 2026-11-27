@@ -1,0 +1,142 @@
+{
+ "id": 23351,
+ "slug": "melia-la-palma",
+ "name": "Melia La Palma",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "La Palma",
+  "Puerto Naos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001500231-570-428.jpg",
+ "city": "Puerto Naos",
+ "intro": [
+  "Hotel Meliá La Palma to czterogwiazdkowy obiekt położony bezpośrednio przy wulkanicznej plaży w Puerto Naos, na zachodnim wybrzeżu La Palmy. Po gruntownym remoncie zakończonym w 2024 roku, hotel oferuje nowoczesne udogodnienia i komfortowe zakwaterowanie w 308 pokojach. Jest to idealne miejsce dla osób poszukujących relaksu na plaży, aktywnego wypoczynku oraz dla rodzin z dziećmi.",
+  "Hotel wyróżnia się malowniczym położeniem z widokiem na ocean, oferując jednocześnie łatwy dostęp do lokalnych atrakcji. Dzięki licznym udogodnieniom, takim jak podgrzewane baseny, strefa dla dzieci i centrum fitness, Meliá La Palma jest doskonałym wyborem zarówno dla par, jak i rodzin, pragnących odkrywać uroki wulkanicznej wyspy i podziwiać gwieździste niebo."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Meliá La Palma znajduje się w miejscowości Puerto Naos, bezpośrednio przy piaszczystej plaży z czarnym wulkanicznym piaskiem. Zapewnia bezpośredni dostęp do plaży, która nie jest prywatna, ale jest dobrze wyposażona w udogodnienia, takie jak wypożyczalnie leżaków. Obiekt oddalony jest o kilka minut od centrum Puerto Naos i około 8 km od Los Llanos de Aridane."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 308 pokojami, które zostały niedawno odnowione. Dostępne są różne typy zakwaterowania, w tym Meliá Room, Junior Suite oraz Premium Room Solarium Front Sea View, wiele z nich z widokiem na morze. Wszystkie pokoje wyposażone są w klimatyzację, suszarkę do włosów, meble ogrodowe, biurko, taras, minibar i telefon. Pokoje typu \"The Level\" oferują dodatkowe udogodnienia, takie jak ekspres do kawy i szlafroki."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny z widokiem na morze, w tym jeden podgrzewany basen typu infinity dla wszystkich grup wiekowych oraz jeden basen dla dzieci. Hotel oferuje codzienne animacje i zajęcia, takie jak joga, lekcje gotowania i hiszpańskiego, a także wieczorne pokazy. Goście mogą korzystać z całodobowego centrum fitness z nowoczesnym sprzętem. W okolicy dostępne jest nurkowanie i wypożyczalnie rowerów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje restaurację bufetową \"Mosaico\" z kuchnią międzynarodową i stacją live cooking. Do dyspozycji gości są również dwie restauracje à la carte: \"Cape Nao\" z kuchnią śródziemnomorską oraz \"La Hacienda\" serwująca dania meksykańskie (wkrótce otwarcie). Na terenie obiektu znajdują się także lobby bar \"Boreal\" i bar przy basenie \"Cape Nao Pool Club\"."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował strefę \"The Kidsdom\" ze specjalnie zaprojektowanymi obszarami i zajęciami. Działa tu również mini klub dla dzieci, zapewniający rozrywkę i opiekę. Hotel posiada także dedykowany basen dla dzieci."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do plaży Puerto Naos",
+  "Piękne podgrzewane baseny z widokiem na morze",
+  "Przyjazny i pomocny personel",
+  "Komfortowe, niedawno odnowione pokoje",
+  "Doskonałe śniadania z szerokim wyborem",
+  "Dobre udogodnienia i bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Strome schody prowadzące na plażę",
+  "Ograniczona dostępność miejsc parkingowych",
+  "Zmienne standardy utrzymania pokoi (niektóre pokoje wykazują oznaki zużycia)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Meliá La Palma jest położony bezpośrednio przy piaszczystej plaży Puerto Naos i oferuje do niej bezpośredni dostęp."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się 35 km od lotniska La Palma (SPC)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje basen dla dzieci, mini klub i strefę \"The Kidsdom\"."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi we wszystkich obszarach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i posiada udogodnienia dla dzieci."
+  }
+ ],
+ "address": "Calle Punta del Pozo 24, 38769, Puerto Naos, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "La Palma (SPC)",
+ "amenities": [
+  "Centrum fitness",
+  "Animacje",
+  "Lekcje gotowania",
+  "Lekcje hiszpańskiego",
+  "Wieczorne pokazy",
+  "Joga",
+  "Pilates"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "zachodnie wybrzeże La Palmy",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta, z czarnym wulkanicznym piaskiem",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "relaks na plaży",
+  "miłośnicy spa",
+  "entuzjaści aktywności na świeżym powietrzu",
+  "odkrywanie wulkanicznych krajobrazów",
+  "obserwacja gwiazd"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1990,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 3,
+ "roomTypes": [
+  "Meliá Room",
+  "Junior Suite",
+  "The Level Suite Frontal Sea View",
+  "Premium Room Solarium Front Sea View (klimatyzacja, suszarka do włosów, meble ogrodowe, biurko, taras, minibar, telefon, widok na morze)",
+  "The Level (dodatkowo ekspres do kawy na kapsułki, usługa wieczornego przygotowania pokoju, szlafroki)"
+ ],
+ "rooms": 308,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.5823562,
+  "lon": -17.9089451,
+  "src": "osm"
+ },
+ "sources": [
+  "meliahotelsinternational.com",
+  "princess-hotels.com",
+  "melia.com",
+  "booking.com",
+  "trivago.com",
+  "tui.co.uk",
+  "planetofhotels.com",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-27"
+}

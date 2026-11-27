@@ -1,0 +1,136 @@
+{
+ "id": 7908,
+ "slug": "globales-palmanova-palace",
+ "name": "Globales Palmanova Palace",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Majorka",
+  "Palma Nova"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/globales-palmanova-palace-basen-1470753703-570-428.jpg",
+ "city": "Palma Nova",
+ "intro": [
+  "Hotel Globales Palmanova Palace to czterogwiazdkowy obiekt położony w spokojniejszej części popularnego kurortu Palma Nova na Majorce. Jest to hotel wyłącznie dla dorosłych, co zapewnia spokojną atmosferę i sprzyja wypoczynkowi. Obiekt jest dobrą propozycją dla par oraz osób dorosłych szukających relaksu w pobliżu piaszczystej plaży.",
+  "Zlokalizowany w bliskiej odległości od jednej z najlepszych plaż Majorki, hotel oferuje łatwy dostęp do lokalnych atrakcji, sklepów i restauracji. Odnowiony w 2017 roku, dysponuje 193 pokojami i zapewnia bezpłatne Wi-Fi na terenie całego obiektu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Globales Palmanova Palace znajduje się w Palma Nova, około 450 metrów od piaszczystej plaży, co oznacza krótki, 5-minutowy spacer. Obiekt jest położony w spokojnej części kurortu, jednocześnie oferując łatwy dostęp do centrum Palmanova (około 0.6 km). Do lotniska Palma de Mallorca (PMI) jest około 25-28 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 193 pokojami, w tym pokojami dwuosobowymi i pokojami typu Twin/Double. Każdy pokój wyposażony jest w balkon ze stołem i krzesłami, klimatyzację, suszarkę do włosów, małą lodówkę, telewizor satelitarny oraz prywatną łazienkę. Sejf dostępny jest za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca śniadania, obiady i kolacje z daniami kuchni międzynarodowej i lokalnej, a także wieczorami tematycznymi. Goście mogą korzystać z lounge baru, snack baru oraz baru przy basenie. Opcja all inclusive obejmuje posiłki w formie bufetu oraz lokalne napoje alkoholowe i bezalkoholowe, jednak butelkowana woda nie jest wliczona w cenę."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje duży odkryty basen, dostępny przez cały rok. Brak jest zjeżdżalni czy aquaparku na terenie obiektu, jednak w pobliżu znajdują się parki wodne. Hotel, jako obiekt Adults Only, nie posiada udogodnień dla dzieci. Goście mogą korzystać z dziennych i wieczornych programów rozrywkowych, gier takich jak petanka i łucznictwo, a także pokoju gier z bilardem i tenisem stołowym."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czyste pokoje i części wspólne",
+  "Przyjazny i pomocny personel",
+  "Spokojna atmosfera (Adults Only)",
+  "Darmowe Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Mały basen z ograniczoną przestrzenią na leżaki",
+  "Cienkie ściany między pokojami (słaba izolacja akustyczna)",
+  "Jedzenie w bufecie bywa powtarzalne i letnie",
+  "Brak butelkowanej wody w opcji all inclusive",
+  "Brak udogodnień spa i fitness"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel jest oddalony o około 450 metrów od piaszczystej plaży w Palma Nova, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony dla rodzin z dziećmi?",
+   "a": "Nie, hotel Globales Palmanova Palace jest hotelem wyłącznie dla dorosłych (Adults Only) i nie posiada udogodnień dla dzieci, takich jak mini klub czy strefa dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma zjeżdżalni ani aquaparku. W pobliżu znajdują się parki wodne, takie jak Western Family Water Park i Aqualand."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Odległość od lotniska Palma de Mallorca (PMI) wynosi około 25-28 km."
+  },
+  {
+   "q": "Czy w pokojach jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "W udogodnieniach hotelu wspomniano o \"Spa and relaxation\", jednak recenzje wskazują na brak udogodnień spa lub fitness. Brak informacji o siłowni na terenie hotelu."
+  }
+ ],
+ "address": "Carrer De Miquel Dels Sants Oliver, 15, 07181 Palma Nova, Illes Balears",
+ "adultsOnly": true,
+ "airportKm": 25,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Balkon",
+  "Klimatyzacja",
+  "Suszarka do włosów",
+  "Mała lodówka",
+  "Telewizor satelitarny",
+  "Telefon",
+  "Łazienka z prysznicem i wanną",
+  "Biurko",
+  "Sejf (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Palma Nova",
+ "bars": 3,
+ "beachDistanceM": 450,
+ "beachType": "piaszczysta",
+ "centerKm": 0.6,
+ "goodFor": [
+  "Pary w każdym wieku",
+  "Osoby dorosłe szukające spokojnego wypoczynku"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1972,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój dwuosobowy do pojedynczego wykorzystania",
+  "Pokój Twin",
+  "Pokój Triple",
+  "Pokój Twin/Double"
+ ],
+ "rooms": 193,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.5238765,
+  "lon": 2.5347227,
+  "src": "osm"
+ },
+ "sources": [
+  "globales.com",
+  "thomascook.com",
+  "holidaygems.co.uk",
+  "hotel.info",
+  "palmanovahotels.net",
+  "hotelscombined.com",
+  "travelweekly.com",
+  "mapy.com"
+ ],
+ "updated": "2026-11-27"
+}

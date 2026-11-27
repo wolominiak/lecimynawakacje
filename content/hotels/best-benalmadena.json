@@ -1,0 +1,139 @@
+{
+ "id": 7085,
+ "slug": "best-benalmadena",
+ "name": "Best Benalmadena",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa del Sol",
+  "Benalmadena"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/best-benalmadena-basen-805315292-570-428.jpg",
+ "city": "Benalmádena",
+ "intro": [
+  "Hotel Best Benalmadena to czterogwiazdkowy obiekt położony w spokojnej dzielnicy Benalmadena Costa (Torrequebrada) na słonecznym wybrzeżu Costa del Sol. Otoczony ogrodami, oferuje relaksujący wypoczynek w bliskiej odległości od piaszczystych plaż. Jest to idealne miejsce dla osób szukających zarówno spokoju, jak i dostępu do lokalnych atrakcji.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, dzięki licznym udogodnieniom, takim jak mini klub i program animacyjny. Bliskość plaży oraz komfortowe pokoje sprawiają, że Best Benalmadena to dobra propozycja na wakacje dla gości ceniących sobie wygodę i dostęp do rekreacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Best Benalmadena znajduje się zaledwie 150 metrów od piaszczystych plaż Malapesquera i Torrebermeja. Obiekt położony jest w spokojnej okolicy, otoczonej zielonymi ogrodami, co zapewnia relaksującą atmosferę. Do centrum miasta można dojść w około 30 minut, a port Benalmadena oddalony jest o 3 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 281 przestronnych pokoi, w tym standardowe, dwuosobowe i superior, mogące pomieścić do czterech osób. Każdy pokój wyposażony jest w balkon, telewizor z płaskim ekranem, bezpłatny sejf, klimatyzację, ogrzewanie, minibar oraz łazienkę z suszarką do włosów. Niektóre pokoje zapewniają widok na morze."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny ze słodką wodą - jeden dla dorosłych i jeden dla dzieci, otoczone ogrodami i tarasem słonecznym. Dostępne jest również centrum spa z wannami z hydromasażem, sauną, łaźnią turecką i siłownią (za dodatkową opłatą). Goście mogą korzystać z ping-ponga i bilarda, a także z programu animacyjnego."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje udogodnienia dla najmłodszych. Dostępny jest brodzik dla dzieci oraz mini klub prowadzony przez hotel. Zróżnicowany program animacyjny zapewnia rozrywkę zarówno dzieciom, jak i dorosłym."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się odnowiona restauracja bufetowa z widokiem na morze, serwująca dania kuchni krajowej i międzynarodowej, z pokazami gotowania oraz wieczorami tematycznymi. Do dyspozycji gości są również kawiarnia, bar przekąskowy, bar przy basenie oraz bar/salon. Dostępna jest opcja all inclusive."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i przystani",
+  "Czyste i przestronne pokoje, często z widokiem na morze",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadania w formie bufetu",
+  "Dużo leżaków przy basenie"
+ ],
+ "cons": [
+  "Negatywne opinie dotyczące jakości i różnorodności jedzenia w restauracji",
+  "Problemy z windami - długi czas oczekiwania i niewystarczająca pojemność",
+  "Brak informacji o leżakach i ręcznikach na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Best Benalmadena od plaży?",
+   "a": "Hotel Best Benalmadena jest położony zaledwie 150 metrów od piaszczystych plaż Benalmadeny."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Malaga (AGP), oddalone o około 13.8 km (około 17 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu Best Benalmadena nie ma dużych zjeżdżalni ani aquaparku, ale dostępny jest brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel Best Benalmadena jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje brodzik, mini klub i program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w niektórych częściach wspólnych hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Best Benalmadena jest przyjazny rodzinom i dzieciom."
+  }
+ ],
+ "address": "Avenida del Sol, s/n - Carretera Cádiz Km 220, 29630, Benalmádena, Malaga",
+ "adultsOnly": false,
+ "airportKm": 13.8,
+ "airportName": "Lotnisko Malaga (AGP)",
+ "amenities": [
+  "spa",
+  "siłownia",
+  "ping-pong",
+  "bilard",
+  "mini klub",
+  "animacje",
+  "restauracja bufetowa",
+  "kawiarnia",
+  "bar przekąskowy",
+  "bar przy basenie",
+  "bar/salon"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Benalmádena Costa (Torrequebrada)",
+ "bars": 4,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby szukające relaksu",
+  "goście ceniący bliskość plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje standardowe z balkonem, TV, sejfem, klimatyzacją, minibarem, łazienką z suszarką do włosów",
+  "Pokoje dwuosobowe z balkonem, TV, sejfem, klimatyzacją, minibarem, łazienką z suszarką do włosów",
+  "Pokoje superior z balkonem, TV, sejfem, klimatyzacją, minibarem, łazienką z suszarką do włosów"
+ ],
+ "rooms": 281,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5820997,
+  "lon": -4.5367871,
+  "src": "osm"
+ },
+ "sources": [
+  "reserving.com",
+  "mylittleworldoftravelling.com",
+  "besthotels.es",
+  "hrs.com",
+  "hotelbenalmadena.net",
+  "h-rez.com",
+  "mapy.com",
+  "expedia.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

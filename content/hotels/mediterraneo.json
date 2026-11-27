@@ -1,0 +1,137 @@
+{
+ "id": 29534,
+ "slug": "mediterraneo",
+ "name": "Mediterraneo",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/mediterraneo-basen-825191657-570-428.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Mediterraneo w Benidorm to czterogwiazdkowy obiekt położony w spokojnej dzielnicy Rincón de Loix na Costa Blanca w Hiszpanii. Otwarty w 2003 roku, oferuje komfortowe zakwaterowanie w otoczeniu rozległych ogrodów i basenów, co czyni go idealnym miejscem na relaksujący wypoczynek.",
+  "Hotel jest szczególnie polecany dla rodzin, par oraz małych grup, które szukają aktywnego wypoczynku w spokojnej okolicy. Dzięki bogatej ofercie animacji i udogodnień dla dzieci, a także bliskości parków rozrywki, stanowi dobrą bazę do odkrywania atrakcji Benidorm."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Mediterraneo znajduje się w Benidorm, w dzielnicy Rincón de Loix, naprzeciwko Benidorm Palace. Do piaszczystej plaży Levante jest około 900 metrów do 1,8 km, co oznacza spacer trwający 15-20 minut. Centrum Benidorm oddalone jest o około 2,2 km do 4,5 km, a najbliższe lotnisko w Alicante (ALC) o 49-67 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje przestronne pokoje dwuosobowe, trzyosobowe i czteroosobowe, niektóre z widokiem na basen. Standardowe wyposażenie obejmuje klimatyzację, minibar, prywatną łazienkę z suszarką do włosów, telewizor z kanałami satelitarnymi, telefon oraz sejf (dodatkowo płatny). Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu o powierzchni 12 000 m² znajdują się odkryty basen, podgrzewany basen kryty oraz jacuzzi. Goście mogą korzystać z siłowni, stołów bilardowych, tenisa stołowego i rzutek. W pobliżu, około 5 km od hotelu, znajduje się pole golfowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano strefę \"Chiki Park\" ze zjeżdżalniami i huśtawkami, dmuchaną zjeżdżalnię wodną oraz plac zabaw. Mini klub dla dzieci w wieku 5-12 lat działa od czerwca do września. Hotel oferuje również program animacyjny dla dzieci i dorosłych."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Główna restauracja \"Riu-Rau\" serwuje dania kuchni śródziemnomorskiej i międzynarodowej w formie bufetu, z codziennymi wieczorami tematycznymi i bufetem dla dzieci. Na terenie obiektu znajdują się również bar na tarasie, bar w lobby oraz bar przy basenie/snack bar. Hotel oferuje opcję all inclusive, gdzie bar jest otwarty od 10:00 do północy."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja, blisko atrakcji",
+  "Przyjazny i pomocny personel",
+  "Czystość i dobre udogodnienia",
+  "Dobra różnorodność jedzenia (bufet, wieczory tematyczne)",
+  "Program animacyjny dla dzieci i dorosłych"
+ ],
+ "cons": [
+  "Odległość od plaży (15-20 minut spacerem)",
+  "Jedzenie bywa powtarzalne (w niektórych opiniach)",
+  "Brak czajników w pokojach",
+  "System kart-kluczy może powodować kolejki",
+  "Zauważalne zużycie materacy/poduszek w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Mediterraneo znajduje się około 900 metrów do 1,8 km od piaszczystej plaży Levante, co oznacza spacer trwający 15-20 minut."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Alicante (ALC), oddalone jest od hotelu o około 49 km do 67 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel oferuje strefę dla dzieci \"Chiki Park\" ze zjeżdżalniami i huśtawkami oraz dmuchaną zjeżdżalnię wodną."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje mini klub dla dzieci, plac zabaw, animacje oraz bufet dla dzieci w restauracji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Mediterraneo jest przyjazny rodzinom i nie jest hotelem tylko dla dorosłych."
+  }
+ ],
+ "address": "Av. Dr. Severo Ochoa 16, 03503 Benidorm, Alicante, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 49,
+ "airportName": "Międzynarodowy Port Lotniczy Alicante (ALC)",
+ "amenities": [
+  "jacuzzi",
+  "sauna",
+  "bilard",
+  "tenis stołowy",
+  "rzutki",
+  "pole golfowe w pobliżu"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Rincón de Loix",
+ "bars": 3,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysta",
+ "centerKm": 2.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "małe grupy",
+  "osoby szukające aktywnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin/Double) z klimatyzacją, minibarem, łazienką, suszarką do włosów, TV sat, telefonem, sejfem (płatnym), balkonem/tarasem",
+  "Pokój trzyosobowy (dla 2 dorosłych + 1 dziecka lub 3 dorosłych) z klimatyzacją, minibarem, łazienką, suszarką do włosów, TV sat, telefonem, sejfem (płatnym), balkonem/tarasem",
+  "Pokój czteroosobowy (dla 2 dorosłych + 2 dzieci lub 3 dorosłych + 1 dziecka) z klimatyzacją, minibarem, łazienką, suszarką do włosów, TV sat, telefonem, sejfem (płatnym), balkonem/tarasem"
+ ],
+ "rooms": 170,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3043272,
+  "lon": 25.4112076,
+  "src": "osm"
+ },
+ "sources": [
+  "costablanca-hotels.com",
+  "booking.com",
+  "onbenidorm.com",
+  "thebenidormguide.com",
+  "benidormehotel.com",
+  "trivago.co.uk",
+  "reserving.com",
+  "visitbenidorm.es"
+ ],
+ "updated": "2026-11-27"
+}

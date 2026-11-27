@@ -1,0 +1,131 @@
+{
+ "id": 264091,
+ "slug": "papi-blau",
+ "name": "Papi Blau",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa Brava",
+  "Malgrat de Mar"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/papi-blau-basen-1778827338-570-428.jpg",
+ "city": "Malgrat de Mar",
+ "intro": [
+  "Hotel Papi Blau to trzygwiazdkowy obiekt położony w miejscowości Malgrat de Mar na wybrzeżu Costa Brava w Hiszpanii. Jest to idealne miejsce dla rodzin i par, oferujące komfortowe zakwaterowanie i szereg udogodnień.",
+  "Hotel charakteryzuje się dogodną lokalizacją blisko plaży i centrum miejscowości, co zapewnia łatwy dostęp do lokalnych atrakcji, sklepów i restauracji. Ostatni remont w 2019 roku sprawił, że pokoje są nowoczesne i funkcjonalne, a bogata oferta rekreacyjna z aquaparkiem i animacjami gwarantuje udany wypoczynek dla każdego."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Papi Blau znajduje się w Malgrat de Mar, zaledwie około 150 metrów od plaży. W odległości 4 minut spacerem dostępne są plaże Platja de l'Astillero i Plaży Levante. Centrum miejscowości jest oddalone o około 20 metrów, co zapewnia łatwy dostęp do lokalnych atrakcji. Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 33.1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 67, 92 lub 99 pokoi, w tym pokoje rodzinne, Standard Blau, Garden Blau i Junior Suite. Wszystkie pokoje są klimatyzowane i ogrzewane, wyposażone w balkon, prywatną łazienkę, telewizor z płaskim ekranem, lodówkę, biurko i suszarkę do włosów. Pokoje Standard Blau i Garden Blau zostały odnowione w 2019 roku i charakteryzują się nowoczesnym designem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa lub trzy baseny zewnętrzne, w tym jeden ze słoną wodą, basen z wodospadem i jacuzzi oraz basen dla dzieci. Dostępny jest bezpłatny park wodny z atrakcjami dla dzieci w wieku 2-12 lat. Hotel oferuje również plac zabaw, mini klub dla dzieci oraz program animacji dla całej rodziny, w tym gry, fitness, muzykę na żywo i wieczorne rozrywki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja bufetowa serwująca dania kuchni śródziemnomorskiej i międzynarodowej, z opcjami wegetariańskimi i wegańskimi. Podczas kolacji dostępne jest show cooking oraz kolacje tematyczne. Goście mogą korzystać z baru/lounge oraz baru przy basenie (Daddy's Bar), które oferują napoje, koktajle i przekąski."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Papi Blau jest polecany przede wszystkim dla rodzin z dziećmi, dzięki rozbudowanej ofercie dla najmłodszych, w tym aquaparkowi, mini klubowi i animacjom. Jest to również dobry wybór dla par szukających relaksu w dogodnej lokalizacji blisko plaży i centrum miejscowości. Dostępne są pokoje przystosowane dla osób z niepełnosprawnościami."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko plaży i centrum",
+  "Dobre jedzenie, zwłaszcza kolacje z show cooking",
+  "Świetny basen z aquaparkiem dla dzieci",
+  "Czyste i komfortowe, niedawno odnowione pokoje",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Śniadania mogłyby być lepsze (według niektórych opinii)",
+  "Ograniczona różnorodność dań w bufecie (według niektórych opinii)",
+  "Pokoje mogą być małe (według niektórych gości)",
+  "Brak informacji o spa i siłowni",
+  "Brak informacji o tym, czy plaża jest hotelowa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 150 metrów od plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 33.1 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel posiada bezpłatny park wodny ze zjeżdżalniami, fontannami i magicznym grzybem dla dzieci w wieku 2-12 lat."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci, mini klub, plac zabaw oraz animacje dla dzieci i dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i miejscach publicznych, z prędkością ponad 500 Mbps w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Avinguda de Barcelona, s/n (lub Avinguda de Barcelona, 30), Malgrat de Mar",
+ "adultsOnly": false,
+ "airportKm": 33.1,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "bilard",
+  "tenis stołowy",
+  "jazda na rowerze",
+  "piesze wycieczki"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Costa Brava",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "brak danych",
+ "centerKm": 0.02,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1964,
+ "pools": 3,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje rodzinne",
+  "Standard Blau (odnowione w 2019, nowoczesny, minimalistyczny design)",
+  "Garden Blau (odnowione w 2019, nowoczesny, minimalistyczny design)",
+  "Junior Suite",
+  "Pokoje przystosowane dla osób z niepełnosprawnościami"
+ ],
+ "rooms": 99,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "papihotels.com",
+  "reserving.com",
+  "amimir.com",
+  "tui.com",
+  "google.es",
+  "mapy.com",
+  "onthebeach.co.uk",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

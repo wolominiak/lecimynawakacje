@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:teneguia",
+ "slug": "teneguia",
+ "name": "Teneguia",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Puerto de la Cruz"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/puerto-de-la-cruz/teneguia-pl/6161/1218c8834488454e206344841053c12b_1-244.jpg",
+ "city": "Puerto de la Cruz",
+ "intro": [
+  "Apartamenty Teneguia to 3-gwiazdkowy obiekt położony w centrum Puerto de la Cruz na Teneryfie, zaledwie kilka minut spacerem od wulkanicznej plaży Jardín. Hotel, otwarty w 1973 roku i odnowiony w 2002 roku, oferuje 240 apartamentów z aneksami kuchennymi, co czyni go odpowiednim wyborem dla osób ceniących sobie niezależność w przygotowywaniu posiłków.",
+  "Obiekt jest polecany zarówno dla rodzin, jak i par, a także dla turystów poszukujących ekonomicznego zakwaterowania i dogodnej bazy wypadowej do zwiedzania wyspy. Bliskość atrakcji, sklepów i restauracji sprawia, że jest to praktyczna opcja dla aktywnych podróżników."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Apartamentos Teneguia znajduje się w samym sercu Puerto de la Cruz, zaledwie 200-300 metrów od Playa Jardín, plaży z czarnym, wulkanicznym piaskiem. Do centrum miasta i Plaza del Charco można dojść w około 10 minut. W pobliżu hotelu znajdują się liczne sklepy, restauracje oraz przystanek autobusowy."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 240 apartamentów, w tym standardowe i superior, przeznaczone dla 2 lub 3 osób. Wszystkie apartamenty wyposażone są w prywatny balkon z widokiem na wulkan Teide lub Ocean Atlantycki, aneks kuchenny z lodówką i płytą grzejną, telewizję satelitarną, telefon oraz łazienkę. Sejf jest dostępny za dodatkową opłatą, jednak w pokojach brakuje klimatyzacji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja i bar. Hotel nie oferuje opcji all inclusive, ale dostępne są śniadania w formie bufetu za dodatkową opłatą. Dzięki aneksom kuchennym w apartamentach goście mają możliwość samodzielnego przygotowywania posiłków."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym, podgrzewanym basenem. Należy jednak pamiętać, że basen bywa zamykany na remonty. Goście mogą korzystać z centrum fitness, często za dodatkową opłatą, lub ze zniżek na pobliskie centrum fitness. W okolicy dostępne są również liczne aktywności, takie jak piesze wycieczki, wędkarstwo, nurkowanie czy golf."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "W pomieszczeniach ogólnodostępnych hotelu dostępne jest bezpłatne Wi-Fi. Hotel nie jest przeznaczony wyłącznie dla dorosłych. Na miejscu nie ma informacji o spa, zjeżdżalniach, mini klubie dla dzieci czy animacjach."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum miasta",
+  "Widoki na wulkan Teide lub ocean z balkonów",
+  "Przyjazny personel",
+  "Apartamenty z aneksami kuchennymi",
+  "Dobre połączenia komunikacyjne"
+ ],
+ "cons": [
+  "Przestarzały wystrój i wyposażenie pokoi",
+  "Brak klimatyzacji w apartamentach",
+  "Hałas z zewnątrz (np. budowa, ulica)",
+  "Skąpe wyposażenie aneksu kuchennego",
+  "Brak parkingu na miejscu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się zaledwie kilkadziesiąt metrów od plaży, około 200-300 metrów od Playa Jardín, co stanowi 2-5 minut spacerem."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Tenerife North (TFN), oddalone o około 22-28 km. Lotnisko Tenerife South (TFS) jest oddalone o około 92-100 km."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są śniadania w formie bufetu za dodatkową opłatą, a apartamenty posiadają aneksy kuchenne do samodzielnego przygotowywania posiłków."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje apartamenty, ale brak jest informacji o mini klubie czy specjalnych strefach dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy pokoje mają klimatyzację?",
+   "a": "Nie, w pokojach nie ma klimatyzacji."
+  }
+ ],
+ "address": "Avenida Melchor Luz 2, 38400 Puerto de la Cruz",
+ "adultsOnly": false,
+ "airportKm": 22,
+ "airportName": "Tenerife North (TFN)",
+ "amenities": [
+  "Bar",
+  "Restauracja",
+  "Centrum fitness",
+  "Bezpłatne Wi-Fi w częściach wspólnych"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "centrum Puerto de la Cruz",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "czarny, wulkaniczny piasek",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające niedrogiego zakwaterowania",
+  "Osoby chcące zwiedzać okolicę"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1973,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2002,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament standardowy (z balkonem, aneksem kuchennym, TV, telefonem, łazienką)",
+  "Apartament superior (z balkonem, aneksem kuchennym, TV, telefonem, łazienką)"
+ ],
+ "rooms": 240,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 28.4136217,
+  "lon": -16.5566265,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelston.com",
+  "thomascook.com",
+  "myhotels.sa",
+  "trivago.es",
+  "hoteles.com",
+  "booking.com",
+  "apartamentosteneguia.com",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

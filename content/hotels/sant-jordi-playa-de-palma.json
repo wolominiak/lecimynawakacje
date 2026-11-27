@@ -1,0 +1,141 @@
+{
+ "id": 29679,
+ "slug": "sant-jordi-playa-de-palma",
+ "name": "Sant Jordi (Playa de Palma)",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Majorka",
+  "Playa de Palma"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/sant-jordi-playa-de-palma-teren-hotelu-basen-1251824162-570-428.jpg",
+ "city": "Playa de Palma",
+ "intro": [
+  "Hotel Sant Jordi (Playa de Palma) to czterogwiazdkowy obiekt położony na Majorce, na granicy Ca'n Pastilla i Playa de Palma, w pobliżu Palma Aquarium. Jest to nowoczesny, elegancki hotel, który od 1964 roku oferuje komfortowy wypoczynek.",
+  "Hotel jest idealnym miejscem dla osób szukających relaksu, rodzin z dziećmi oraz aktywnych turystów. Bliskość plaży, dobra komunikacja z centrum Palmy oraz dostępność udogodnień takich jak basen, spa i siłownia sprawiają, że każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sant Jordi znajduje się w Playa de Palma, zaledwie 70-100 metrów od piaszczystej plaży Playa de Palma. Plaża, oznaczona certyfikatem Blue Flag, charakteryzuje się łagodnym zejściem do morza. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różne typy pokoi, w tym dwuosobowe, typu Twin, jednoosobowe, Superior Double oraz Suity. Pokoje zostały całkowicie odnowione do sezonu letniego 2020 roku i są wyposażone w balkon, klimatyzację, łazienkę z prysznicem/wanną, suszarkę do włosów, telewizor, sejf, biurko, lodówkę oraz zestaw do parzenia kawy i herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni lokalnej i międzynarodowej, w tym z pokazami gotowania. Goście mogą korzystać z baru oraz baru przy basenie. Hotel oferuje opcje wyżywienia takie jak śniadania oraz półpensję (śniadanie i kolacja w formie bufetu)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem, a niektóre źródła wskazują na dwa baseny. Dla dzieci dostępny jest brodzik oraz pokój zabaw. Na terenie obiektu znajduje się strefa spa z sauną, wanną z hydromasażem i solarium, a także siłownia. Hotel oferuje animacje z wieczornymi pokazami oraz sezonowe programy animacyjne dla dzieci."
+  },
+  {
+   "title": "Aktywności",
+   "text": "W hotelu można skorzystać z jazdy na rowerze (dostępny garaż na rowery), tenisa stołowego, bilarda i rzutek. W okolicy dostępne są również golf i sporty wodne na plaży. W całym hotelu, w tym w pokojach i salonie, dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i Palma Aquarium",
+  "Przyjazny i pomocny personel",
+  "Bardzo dobre śniadania",
+  "Czystość i odnowione pokoje",
+  "Spokojna okolica"
+ ],
+ "cons": [
+  "Ograniczone wygłuszenie między pokojami",
+  "Ograniczona przestrzeń do przechowywania w pokojach",
+  "Brak jacuzzi (według niektórych opinii, mimo że jest w udogodnieniach)",
+  "Leżaki i parasole na plaży za dodatkową opłatą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony zaledwie 70 do 100 metrów od publicznej, piaszczystej plaży Playa de Palma."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Palma de Mallorca Airport (PMI), oddalone o około 3-5 km, co zajmuje około 10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma zjeżdżalni ani aquaparku, ale Aqualand El Arenal znajduje się w odległości około 4-5 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje brodzik dla dzieci, pokój zabaw, łóżeczka dla dzieci na życzenie oraz sezonowe programy animacyjne dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu, w tym w pokojach i w salonie hotelowym, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Carrer de la Grua, 5, 07610, Playa de Palma, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 4,
+ "airportName": "Palma de Mallorca Airport (PMI)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Garaż na rowery",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Pokój zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa de Palma",
+ "bars": 2,
+ "beachDistanceM": 70,
+ "beachType": "piaszczysta",
+ "centerKm": 8,
+ "goodFor": [
+  "osoby szukające relaksu",
+  "rodziny z dziećmi",
+  "osoby aktywne",
+  "spragnieni rozrywki",
+  "ceniący dobrą lokalizację"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1964,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój typu Twin",
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy z widokiem na morze",
+  "Pokój Superior Double",
+  "Pokój typu Suit"
+ ],
+ "rooms": 95,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.1215124,
+  "lon": 1.0056083,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "onthebeach.co.uk",
+  "hotels-in-mallorca.net",
+  "hotelmallorca.org",
+  "hotelsantjordi.net",
+  "hotels-of-mallorca.com",
+  "hotels-balearic-islands.com",
+  "tui.com"
+ ],
+ "updated": "2026-11-27"
+}

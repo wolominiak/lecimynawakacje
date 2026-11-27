@@ -1,0 +1,132 @@
+{
+ "id": 18722,
+ "slug": "riu-buena-vista",
+ "name": "RIU Buena Vista",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Teneryfa",
+  "Playa Paraiso"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/riu-buena-vista-basen-obiekt-1061059444-570-428.jpg",
+ "city": "Playa Paraíso",
+ "intro": [
+  "Hotel RIU Buena Vista to czterogwiazdkowy obiekt położony na klifie w miejscowości Playa Paraíso na Teneryfie, oferujący malownicze widoki na Ocean Atlantycki i wyspę La Gomera. Otwarty w 2004 roku i gruntownie wyremontowany w 2020 roku, hotel dysponuje 542 pokojami rozmieszczonymi w dwóch budynkach.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, grup przyjaciół oraz młodych dorosłych poszukujących rozrywki i kompleksowej oferty all inclusive. Dzięki bogatej infrastrukturze basenowej, programom animacyjnym oraz różnorodnym opcjom gastronomicznym, hotel zapewnia komfortowy wypoczynek w malowniczej scenerii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Playa Paraíso, w gminie Adeje, na Teneryfie, z adresem Calle Horno, 35. Położony jest na klifie, co zapewnia widoki na ocean. W odległości około 100-200 metrów od hotelu znajduje się mała, sztuczna plaża, która nie jest prywatną plażą hotelową. Centrum miejscowości jest oddalone o około 5 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 542 pokoje, w tym pokoje dwuosobowe (25 m²), rodzinne (40 m² i 52 m² z dwiema sypialniami) oraz przystosowane dla osób z ograniczoną mobilnością (30 m²). Wszystkie pokoje są klimatyzowane i wyposażone w telewizję satelitarną, sejf, minibar, balkon lub taras oraz łazienkę z prysznicem i suszarką do włosów. Łazienki po remoncie są nowoczesne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja główna bufetowa \"Yaiza\" z live cooking, a także restauracje tematyczne: azjatycka \"Mandalay\" i włoska \"Dolce Vita\" (obie bufetowe). Restauracja przy basenie \"Atlántico\" serwuje dania hiszpańskie i przekąski, a także kolacje tematyczne. Dostępny jest również grill \"Pepe's Food\". Goście mogą korzystać z trzech barów, a oferta 24-godzinnego All Inclusive obejmuje szeroki wybór dań, napojów i przekąsek. Do restauracji tematycznych wymagana jest rezerwacja, a podczas kolacji obowiązuje dress code."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sześcioma basenami zewnętrznymi, w tym basenem infinity, jednym basenem tylko dla dorosłych (podgrzewanym zimą) oraz dwoma basenami podgrzewanymi zimą. Dla dzieci przygotowano basen ze zjeżdżalniami (podgrzewany zimą) i bardzo płytki basen dla niemowląt. Na terenie obiektu znajduje się plac zabaw, mini klub RiuLand dla dzieci w wieku 4-12 lat oraz siłownia. Hotel oferuje programy animacyjne dla dorosłych i dzieci, w tym RiuFit, RiuArt, siatkówkę plażową, aqua aerobik, tenis stołowy, łucznictwo oraz imprezy tematyczne RIU Party."
+  }
+ ],
+ "pros": [
+  "Wspaniałe widoki na morze",
+  "24-godzinne All Inclusive",
+  "Duża różnorodność basenów, w tym infinity i dla dzieci ze zjeżdżalniami",
+  "Programy rozrywkowe dla dzieci (RiuLand) i dorosłych (Riu Party)",
+  "Dobra jakość i duży wybór jedzenia"
+ ],
+ "cons": [
+  "Lokalizacja w cichej okolicy z ograniczoną liczbą barów i sklepów",
+  "Pobliska plaża jest mała i sztuczna, brak rodzinnych plaż w pobliżu",
+  "Brak klubu dla dzieci poniżej 4 roku życia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony blisko małej, sztucznej plaży, w odległości około 100-200 metrów."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Tenerife South Airport (TFS), jest oddalone o około 27-34 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada basen dla dzieci ze zjeżdżalniami oraz bardzo płytki basen dla niemowląt."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje mini klub RiuLand, baseny dla dzieci ze zjeżdżalniami i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych, jest przyjazny rodzinom, ale posiada jeden basen tylko dla dorosłych."
+  }
+ ],
+ "address": "Calle Horno, 35, Urb. Playa Paraíso, 38678, TENERIFE",
+ "adultsOnly": false,
+ "airportKm": 27,
+ "airportName": "Tenerife South Airport (TFS)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizja satelitarna",
+  "Sejf",
+  "Minibar",
+  "Balkon lub taras",
+  "Łazienka z prysznicem, lustrem kosmetycznym i suszarką do włosów"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Playa Paraíso",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "sztuczna",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "grupy przyjaciół",
+  "młodzi dorośli"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2004,
+ "pools": 6,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 4,
+ "roomTypes": [
+  "pokój dwuosobowy standardowy (25 m²)",
+  "pokój dwuosobowy z widokiem na morze (25 m²)",
+  "pokój rodzinny (40 m²)",
+  "pokój rodzinny z dwiema sypialniami (52 m²)",
+  "pokój dwuosobowy przystosowany dla osób z ograniczoną mobilnością (30 m²)"
+ ],
+ "rooms": 542,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 28.1235934,
+  "lon": -16.7775588,
+  "src": "osm"
+ },
+ "sources": [
+  "riu.com",
+  "thomascook.com",
+  "islas.co.uk",
+  "mapcarta.com",
+  "wonderfultenerife.com",
+  "youtube.com",
+  "tui.co.uk",
+  "sunshine.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

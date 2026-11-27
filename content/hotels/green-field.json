@@ -1,0 +1,143 @@
+{
+ "id": 25051,
+ "slug": "green-field",
+ "name": "Green Field",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Gran Canaria",
+  "Playa del Ingles"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/green-field-basen-obiekt-804921605-570-428.jpg",
+ "city": "Playa del Ingles",
+ "intro": [
+  "Hotel Green Field to nowoczesny kompleks typu aparthotel, położony w centralnej części miejscowości Playa del Ingles na Gran Canarii. Obiekt, otwarty w 1986 roku i częściowo odnowiony w 2017, oferuje 324 lub 327 apartamentów i studiów, stanowiąc wygodną bazę wypadową do odkrywania uroków wyspy.",
+  "Hotel jest polecany dla rodzin, par i grup przyjaciół, którzy szukają tętniącego życia miejsca z łatwym dostępem do plaży, sklepów i restauracji. Dzięki udogodnieniom takim jak duży basen, animacje i opcja All Inclusive, Green Field zapewnia komfortowy pobyt dla różnorodnych gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Green Field znajduje się w Playa del Ingles, około 700 metrów od piaszczystej plaży Playa del Inglés, co zajmuje około 5 minut spacerem. Centrum miejscowości z licznymi atrakcjami oddalone jest o około 1 km. Najbliższe lotnisko, Gran Canaria Airport (LPA), znajduje się w odległości 26-30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia (Standard, Large Studio, Superior Studio) oraz apartamenty z oddzielnymi sypialniami. Wszystkie pokoje wyposażone są w aneks kuchenny, balkon lub taras, klimatyzację, prywatną łazienkę, telewizor, bezpłatne Wi-Fi oraz suszarkę do włosów. Sejf dostępny jest za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mają do dyspozycji restaurację bufetową serwującą śniadania, obiady i kolacje, a także restaurację à la carte z kuchnią międzynarodową. Na terenie obiektu znajduje się również bar przy basenie. Hotel oferuje opcję All Inclusive, która obejmuje posiłki w formie bufetu, przekąski oraz wybrane napoje bezalkoholowe i lokalne napoje alkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym odkrytym basenem z leżakami i jacuzzi, a także oddzielnym brodzikiem dla dzieci. Basen jest podgrzewany od listopada do kwietnia. Na terenie obiektu dostępne są masaże, sauna, solarium, siłownia oraz zajęcia takie jak tenis stołowy, bilard i rzutki. W pobliżu znajduje się pole golfowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje oddzielny brodzik. Dostępne są również codzienne zajęcia dla dzieci i dorosłych oraz wieczorne pokazy. W odległości około 12 minut jazdy samochodem znajduje się Aqualand Waterpark."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie. Goście mogą korzystać z udogodnień dla osób o ograniczonej sprawności ruchowej. Dostępne są również codzienne animacje i wieczorne pokazy, które urozmaicają pobyt."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaży i centrum",
+  "Duży basen z leżakami i jacuzzi",
+  "Codzienne animacje i wieczorne pokazy",
+  "Bezpłatne Wi-Fi w całym obiekcie",
+  "Uprzejmy personel"
+ ],
+ "cons": [
+  "Możliwy hałas w pokojach wychodzących na ulicę",
+  "Słabe wygłuszenie między pokojami",
+  "Pokoje mogą być nieco przestarzałe",
+  "Jedzenie w bufecie bywa oceniane jako przeciętne lub powtarzalne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Green Field jest położony około 700 metrów od piaszczystej plaży Playa del Inglés, co stanowi około 5 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Gran Canaria Airport (LPA), oddalone o około 26-30 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "W hotelu nie ma zjeżdżalni wodnych, ale Aqualand Waterpark znajduje się około 12 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik dla dzieci oraz codzienne zajęcia."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy basen w hotelu jest podgrzewany?",
+   "a": "Tak, duży odkryty basen jest podgrzewany od listopada do kwietnia."
+  }
+ ],
+ "address": "Av. de Tenerife, 6, 35100, Playa del Inglés, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 28,
+ "airportName": "Gran Canaria Airport (LPA)",
+ "amenities": [
+  "Jacuzzi",
+  "Sauna",
+  "Solarium",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Joga",
+  "Windsurfing"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centralna część miejscowości",
+ "bars": 1,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Przyjaciele",
+  "Osoby szukające tętniącej życiem bazy wypadowej"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1986,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2017,
+ "restaurants": 2,
+ "roomTypes": [
+  "Studio Standard: z aneksem kuchennym, balkonem/tarasem, klimatyzacją, łazienką, TV, Wi-Fi, suszarką do włosów.",
+  "Studio Large: z aneksem kuchennym, balkonem/tarasem, klimatyzacją, łazienką, TV, Wi-Fi, suszarką do włosów.",
+  "Studio Superior: na parterze z bezpośrednim dostępem do basenu, rozkładaną sofą, aneksem kuchennym, balkonem/tarasem, klimatyzacją, łazienką, TV, Wi-Fi, suszarką do włosów.",
+  "Apartament z oddzielną sypialnią: z aneksem kuchennym, balkonem/tarasem, klimatyzacją, łazienką, TV, Wi-Fi, suszarką do włosów."
+ ],
+ "rooms": 324,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7635565,
+  "lon": -15.5658148,
+  "src": "osm"
+ },
+ "sources": [
+  "budgettravel.ie",
+  "holidaygems.co.uk",
+  "trivago.ie",
+  "onthebeach.ie",
+  "oyster.com",
+  "thomascook.com",
+  "trivago.co.uk",
+  "grancanaria.com"
+ ],
+ "updated": "2026-11-27"
+}

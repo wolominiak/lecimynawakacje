@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:sahara sunset club",
+ "slug": "sahara-sunset-club",
+ "name": "Sahara Sunset Club",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Benalmadena"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/benalmadena-costa/sahara-sunset-club/6882/3fb08f4f463d713f7c6c7-244.jpg",
+ "city": "Benalmádena",
+ "intro": [
+  "Sahara Sunset Club to kompleks apartamentów położony w Benalmádenie na wybrzeżu Costa del Sol, zaledwie 100 metrów od piaszczystej plaży Santa Ana. Obiekt charakteryzuje się tradycyjną andaluzyjską architekturą i oferuje komfortowe zakwaterowanie w studiach oraz apartamentach z aneksem kuchennym.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par, szukających spokojnego miejsca z łatwym dostępem do plaży i lokalnych atrakcji. Odnowione w 2022 roku pokoje zapewniają wygodę, a liczne udogodnienia sprawiają, że jest to dobra baza wypadowa do zwiedzania regionu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sahara Sunset Club znajduje się w dzielnicy Benalmádena Costa, około 100 metrów od publicznej, piaszczystej plaży Santa Ana lub Bil Bil Beach. Plaża charakteryzuje się łagodnym zejściem do morza, a leżaki są dostępne za dodatkową opłatą. Centrum Benalmádeny oddalone jest o około 3 km, a najbliższe lotnisko w Maladze (AGP) o około 14-15 km."
+  },
+  {
+   "title": "Pokoje i zakwaterowanie",
+   "text": "Obiekt oferuje 150 pokoi i apartamentów, które zostały odnowione w 2022 roku. Do wyboru są studia oraz apartamenty z jedną lub dwiema sypialniami. Wszystkie jednostki posiadają w pełni wyposażoną kuchnię lub aneks kuchenny, klimatyzację, prywatny balkon lub taras, telewizor z płaskim ekranem oraz łazienkę z wanną lub prysznicem. Na życzenie dostępne są bezpłatne łóżeczka dla dzieci."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne o nieregularnym kształcie oraz jeden basen kryty, często wyposażony w jacuzzi. Dla dzieci przygotowano brodzik i plac zabaw. Goście mogą korzystać z centrum fitness, sauny, jacuzzi oraz tarasu słonecznego w strefie SPA. Dostępne są również udogodnienia sportowe takie jak siatkówka plażowa, tenis stołowy, minigolf i kort tenisowy."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja Casbah, która serwuje kuchnię śródziemnomorską, dania międzynarodowe i lokalne na śniadania, obiady i kolacje. Przy basenie działa również Casbah Café. Hotel oferuje pobyty bez wyżywienia (Room Only) oraz ze śniadaniami (Bed and Breakfast), nie ma opcji all inclusive."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Sahara Sunset Club zapewnia bezpłatne Wi-Fi w pokojach i częściach wspólnych. Dla najmłodszych gości dostępny jest mini klub oraz animacje. Hotel posiada również centrum SPA z masażami i zabiegami dostępnymi za dodatkową opłatą. W pobliżu, około 2 km od hotelu, znajduje się pole golfowe."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży (ok. 100 m)",
+  "Przestronne i dobrze wyposażone apartamenty z kuchnią",
+  "Dobra lokalizacja blisko restauracji i atrakcji",
+  "Czystość i pomocny personel",
+  "Spokojna okolica basenu"
+ ],
+ "cons": [
+  "Brak opcji all inclusive",
+  "Ograniczenia Wi-Fi (limit urządzeń)",
+  "Potencjalne trudności z dostępem do basenu z niektórych budynków (schody, przejście przez ulicę)",
+  "Możliwy hałas od sąsiadów",
+  "Problemy z łazienką (np. cieknący prysznic)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Santa Ana lub Bil Bil Beach znajduje się około 100 metrów od hotelu."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko w Maladze (AGP) oddalone jest o około 14-15 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw i mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i ogólnodostępnych częściach hotelu, choć mogą występować ograniczenia dotyczące liczby urządzeń."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje pobyty bez wyżywienia (Room Only) oraz ze śniadaniami (Bed and Breakfast)."
+  }
+ ],
+ "address": "Avenida Rocío Jurado, S/N, 29630 Benalmádena, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 14,
+ "airportName": "Lotnisko w Maladze (AGP)",
+ "amenities": [
+  "Recepcja",
+  "Parking",
+  "Winda",
+  "Pralnia (płatna)",
+  "Sklep (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Benalmádena Costa",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "publiczna, piaszczysta",
+ "centerKm": 1.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio: w pełni wyposażona kuchnia lub aneks kuchenny, klimatyzacja, balkon/taras, TV sat, łazienka, suszarka, zestaw kosmetyków, sejf.",
+  "Apartament z jedną sypialnią: w pełni wyposażona kuchnia lub aneks kuchenny, klimatyzacja, balkon/taras, TV sat, łazienka, suszarka, zestaw kosmetyków, sejf.",
+  "Apartament z dwiema sypialniami: w pełni wyposażona kuchnia lub aneks kuchenny, klimatyzacja, balkon/taras, TV sat, łazienka, suszarka, zestaw kosmetyków, sejf."
+ ],
+ "rooms": 150,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5897355,
+  "lon": -4.530029,
+  "src": "osm"
+ },
+ "sources": [
+  "fischer.cz",
+  "wakacje.pl",
+  "exim.pl",
+  "thomascook.com",
+  "7across.com",
+  "hiltongrandvacations.com",
+  "fischer.sk",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

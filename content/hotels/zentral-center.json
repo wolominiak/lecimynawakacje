@@ -1,0 +1,142 @@
+{
+ "id": 24397,
+ "slug": "zentral-center",
+ "name": "Zentral Center",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Teneryfa",
+  "Playa de las Americas"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/zentral-center-basen-teren-hotelu-1001718949-570-428.jpg",
+ "city": "Playa de las Americas",
+ "intro": [
+  "Hotel Zentral Center to czterogwiazdkowy obiekt położony w sercu Playa de las Americas na Teneryfie, w spokojnej okolicy, tuż obok klubu golfowego Las Americas. Otwarty w 2003 roku i niedawno odnowiony, oferuje komfortowe zakwaterowanie w siedmiopiętrowym budynku.",
+  "Jest to hotel przeznaczony wyłącznie dla dorosłych (powyżej 16 lat), idealny dla par, przyjaciół, podróżujących służbowo oraz golfistów szukających spokojnej bazy wypadowej. Dzięki centralnej lokalizacji stanowi dobrą opcję dla osób ceniących bliskość atrakcji i plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Zentral Center znajduje się w centrum Playa de las Americas, około 100 metrów od głównego centrum miejscowości. Do najbliższej piaszczystej plaży Playa de las Americas jest około 400 metrów, a do plaży Las Vistas Beach, znanej z drobnego piasku i spokojnych wód, około 650-700 metrów. Wszystkie plaże w okolicy są publiczne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 208 pokojami, w tym pokojami jednoosobowymi, dwuosobowymi, trzyosobowymi, suitami oraz suitami deluxe. Pokoje są klimatyzowane i dźwiękoszczelne, wyposażone w telewizor z płaskim ekranem, sejf (płatny), minibar (płatny) i prywatną łazienkę z suszarką do włosów. Należy pamiętać, że wiele pokoi nie posiada balkonów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się elegancka restauracja oraz restauracja serwująca śniadania, obiady i kolacje w formie bufetu. Goście mogą korzystać również z baru/kawiarni oraz małego baru w recepcji, otwartego przez całą dobę. Hotel oferuje opcje zakwaterowania ze śniadaniem (Bed and Breakfast) oraz z dwoma posiłkami (Half Board)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się odkryty basen z tarasem słonecznym, oferujący panoramiczne widoki na okolicę. W strefie spa goście mogą korzystać z jacuzzi, sauny i masaży. Dostępne są również udogodnienia takie jak bilard i tenis stołowy. W pobliżu hotelu znajduje się klub golfowy Las Americas."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w całym obiekcie, choć w pokojach połączenie bywa niestabilne. Obiekt jest przystosowany dla osób z ograniczoną mobilnością. Dostępna jest wypożyczalnia rowerów. Hotel jest przeznaczony wyłącznie dla osób dorosłych, dlatego nie oferuje udogodnień dla dzieci ani programu animacyjnego."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w Playa de las Americas",
+  "Przestronne pokoje",
+  "Basen na dachu z widokiem",
+  "Przyjazny i pomocny personel",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Brak balkonów w wielu pokojach",
+  "Niestabilne Wi-Fi w pokojach",
+  "Pokoje mogą być nieco przestarzałe",
+  "Brak ekspresów do kawy w pokojach",
+  "Śniadania bywają oceniane jako przeciętne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 400 metrów od plaży Playa de las Americas i około 650-700 metrów od plaży Las Vistas Beach."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Tak, hotel jest oddalony o około 14-17 km od lotniska Tenerife South (TFS)."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel Zentral Center jest przeznaczony wyłącznie dla osób powyżej 16 roku życia."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Brak bezpośredniej informacji o siłowni w hotelu, ale w pobliżu znajduje się klub fitness."
+  },
+  {
+   "q": "Czy jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, jednak w pokojach bywa niestabilne."
+  }
+ ],
+ "address": "Calle Arquitecto Gómez Cuesta 22, 38660 Playa de las Américas, Santa Cruz de Tenerife",
+ "adultsOnly": true,
+ "airportKm": 14,
+ "airportName": "Tenerife South (TFS)",
+ "amenities": [
+  "jacuzzi",
+  "sauna",
+  "masaż",
+  "bilard",
+  "tenis stołowy",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "W sercu Playa de las Americas, obok klubu golfowego Las Americas",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "dorośli",
+  "pary",
+  "przyjaciele",
+  "podróżujący służbowo",
+  "golfiści",
+  "osoby z ograniczoną mobilnością"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2003,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy/twin",
+  "pokój trzyosobowy",
+  "suita",
+  "suita deluxe",
+  "pokój przystosowany dla osób na wózkach inwalidzkich (klimatyzacja, telewizor, sejf, minibar, telefon, łazienka z wanną/prysznicem i suszarką do włosów, dźwiękoszczelne)"
+ ],
+ "rooms": 208,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0575524,
+  "lon": -16.7282947,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotelzentralcenter.com",
+  "trivago.co.uk",
+  "tenerifehotelguide.com",
+  "com-tenerife.com",
+  "sunshine.co.uk",
+  "onthebeach.ie",
+  "sunway.ie"
+ ],
+ "updated": "2026-11-27"
+}

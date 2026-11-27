@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:monarque el rodeo",
+ "slug": "monarque-el-rodeo",
+ "name": "Monarque El Rodeo",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Marbella"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/marbella/monarque-el-rodeo-pl/7641/17db21e4258f17db05bbc-244.jpg",
+ "city": "Marbella",
+ "intro": [
+  "Hotel Monarque El Rodeo to trzygwiazdkowy obiekt położony w samym sercu Marbelli, tuż obok parku Alameda i zaledwie kilkaset metrów od piaszczystej plaży Venus. Zbudowany w 1971 roku i częściowo odnowiony w 2019 roku, oferuje wygodne zakwaterowanie w sześciopiętrowym budynku.",
+  "Dzięki swojej centralnej lokalizacji, hotel jest idealnym wyborem dla par i rodzin, które chcą cieszyć się urokami miasta, bliskością plaży oraz łatwym dostępem do restauracji i atrakcji turystycznych. Oferuje program animacyjny oraz wieczorne rozrywki, co dodatkowo urozmaica pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Monarque El Rodeo znajduje się w centrum Marbelli, zaledwie 100 metrów od ścisłego centrum i tuż obok parku Alameda. Plaża Venus, szeroka i piaszczysta z drobnym żwirem, oddalona jest o około 200-300 metrów. Jest to plaża publiczna, a leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 100 pokojami, w tym dwuosobowymi, jednoosobowymi, trzyosobowymi i rodzinnymi. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z kanałami satelitarnymi, sejf (za opłatą), minibar (za dopłatą), łazienkę z wanną/prysznicem i suszarką do włosów oraz bezpłatne Wi-Fi. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni hiszpańskiej i międzynarodowej. Goście mogą korzystać z kawiarni z panoramicznymi oknami, baru/poczekalni oraz baru przy basenie. Hotel oferuje wyżywienie w opcjach: śniadania w formie bufetu, częściowe wyżywienie (śniadanie i obiad lub kolacja) oraz pełne wyżywienie (śniadanie, obiad i kolacja)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada odkryty basen ze słodką wodą oraz kryty basen. Na terenie obiektu dostępne jest solarium i łaźnia na świeżym powietrzu. W odległości około 5 km od hotelu znajduje się pole golfowe. Hotel organizuje również program animacyjny oraz wieczorne rozrywki w dyskotece i night-clubie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje łóżeczka dziecięce na życzenie (za dopłatą) oraz specjalne menu dla dzieci. Hotel jest odpowiedni dla rodzin i nie ma ograniczeń wiekowych przy zameldowaniu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Marbelli, blisko plaży i Starego Miasta.",
+  "Przyjazny i pomocny personel.",
+  "Czystość obiektu.",
+  "Dobre śniadania i wyżywienie.",
+  "Bezpłatne i dobrze działające Wi-Fi."
+ ],
+ "cons": [
+  "Niektóre materace mogą wymagać wymiany.",
+  "Centralna lokalizacja może wiązać się z większym hałasem.",
+  "Ograniczona dostępność parkingu na miejscu.",
+  "Leżaki i parasole na plaży są płatne.",
+  "Brak siłowni na terenie hotelu."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Monarque El Rodeo znajduje się około 200-300 metrów od piaszczystej plaży Venus."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (AGP), oddalone o około 50-60 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje łóżeczka dziecięce na życzenie i menu dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych i jest odpowiedni dla rodzin."
+  }
+ ],
+ "address": "C/ Victor de la Serna s/n, 29602 Marbella, Málaga",
+ "adultsOnly": false,
+ "airportKm": 55,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z kanałami satelitarnymi",
+  "Sejf (za opłatą)",
+  "Minibar (za opłatą)",
+  "Balkon lub taras",
+  "Ogrzewanie",
+  "Telefon",
+  "Zestaw kosmetyków",
+  "Łazienka z wanną/prysznicem i suszarką do włosów"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Centrum Marbelli, tuż obok parku Alameda",
+ "bars": 3,
+ "beachDistanceM": 250,
+ "beachType": "Piaszczysta z drobnym żwirem",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1971,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe (Standard) z klimatyzacją, telewizorem satelitarnym, sejfem (za opłatą), minibarem (za opłatą), łazienką, balkonem lub tarasem.",
+  "Pokoje jednoosobowe (Standard) z klimatyzacją, telewizorem satelitarnym, sejfem (za opłatą), minibarem (za opłatą), łazienką, balkonem lub tarasem.",
+  "Pokoje trzyosobowe z klimatyzacją, telewizorem satelitarnym, sejfem (za opłatą), minibarem (za opłatą), łazienką, balkonem lub tarasem.",
+  "Pokoje rodzinne z klimatyzacją, telewizorem satelitarnym, sejfem (za opłatą), minibarem (za opłatą), łazienką, balkonem lub tarasem."
+ ],
+ "rooms": 100,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "onthebeach.co.uk",
+  "monarquehotels.com",
+  "trivago.com",
+  "travelplanet.pl",
+  "andalucia.org",
+  "wakacje.pl",
+  "fischer.cz"
+ ],
+ "updated": "2026-11-27"
+}
