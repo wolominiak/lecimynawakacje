@@ -137,73 +137,58 @@ export default function CruiseBrowser({ initialArea = '' }: { initialArea?: stri
 
   return (
     <div className="lm">
-      <div className="lm-panel">
-        <div className="lm-row">
-          <span className="lm-label">Akwen</span>
-          <div className="lm-pills" role="group" aria-label="Akwen">
-            <button type="button" className={!area ? 'on' : ''} onClick={() => setArea('')}>Wszystkie</button>
-            {CRUISE_AREAS.map((a) => (
-              <button key={a.slug} type="button" className={area === a.slug ? 'on' : ''} aria-pressed={area === a.slug} onClick={() => setArea(a.slug)} disabled={!!pool && !areaCounts.get(a.slug) && area !== a.slug}>
-                {a.short}{pool && <small> {areaCounts.get(a.slug) || 0}</small>}
-              </button>
-            ))}
-          </div>
-        </div>
-        <div className="lm-row">
-          <span className="lm-label">Miesiąc wypłynięcia</span>
-          <div className="lm-pills" role="group" aria-label="Miesiąc">
-            <button type="button" className={!month ? 'on' : ''} onClick={() => setMonth('')}>Dowolny</button>
-            {months.map(([k, n]) => (
-              <button key={k} type="button" className={month === k ? 'on' : ''} aria-pressed={month === k} onClick={() => setMonth(k)}>{monthLabel(k)}<small> {n}</small></button>
-            ))}
-          </div>
-        </div>
-        <div className="lm-row lm-two">
-          <div>
-            <span className="lm-label">Długość</span>
-            <div className="lm-pills" role="group" aria-label="Długość rejsu">
-              {LENGTH.map((s) => <button key={s.v} type="button" className={length === s.v ? 'on' : ''} onClick={() => setLength(s.v)}>{s.label}</button>)}
-            </div>
-          </div>
-          <div>
-            <span className="lm-label">Dojazd</span>
-            <div className="lm-pills" role="group" aria-label="Dojazd">
-              {TRANSPORT.map((s) => <button key={s.v} type="button" className={transport === s.v ? 'on' : ''} onClick={() => setTransport(s.v)}>{s.label}</button>)}
-            </div>
-          </div>
-        </div>
-        <div className="lm-row lm-grid">
-          <label className="lm-budget">
-            <span className="lm-label">Budżet na osobę: <b>{budget ? 'do ' + fmt(budget) + ' zł' : 'bez limitu'}</b></span>
-            <input type="range" min={Math.max(1000, Math.floor((isFinite(minPrice) ? minPrice : 1000) / 1000) * 1000)} max={maxPrice || 30000} step={500}
-              value={budget || maxPrice || 30000} onChange={(e) => { const v = Number(e.target.value); setBudget(v >= maxPrice ? 0 : v); }} />
-          </label>
-          <div className="lm-selects cr-selects">
-            <label><span className="lm-label">Armator</span>
-              <select value={line} onChange={(e) => setLine(e.target.value)}>
-                <option value="">Wszyscy</option>
-                {lines.map(([k, n]) => <option key={k} value={k}>{k} ({n})</option>)}
-              </select>
-            </label>
-            <label><span className="lm-label">Port startowy</span>
-              <select value={port} onChange={(e) => setPort(e.target.value)}>
-                <option value="">Każdy</option>
-                {ports.map(([k, n]) => <option key={k} value={k}>{k} ({n})</option>)}
-              </select>
-            </label>
-            <label><span className="lm-label">Wyżywienie</span>
-              <select value={service} onChange={(e) => setService(e.target.value)}>
-                <option value="">Każde</option>
-                {services.map(([k, n]) => <option key={k} value={k}>{k} ({n})</option>)}
-              </select>
-            </label>
-            <label><span className="lm-label">Sortuj</span>
-              <select value={sort} onChange={(e) => setSort(e.target.value)}>
-                {SORTS.map((s) => <option key={s.v} value={s.v}>{s.label}</option>)}
-              </select>
-            </label>
-          </div>
-        </div>
+      <div className="lm-panel lm-form">
+        <label><span className="lm-label">Akwen</span>
+          <select value={area} onChange={(e) => setArea(e.target.value)}>
+            <option value="">Wszystkie</option>
+            {CRUISE_AREAS.map((a) => <option key={a.slug} value={a.slug} disabled={!!pool && !areaCounts.get(a.slug)}>{a.short}{pool ? ` (${areaCounts.get(a.slug) || 0})` : ''}</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Miesiąc wypłynięcia</span>
+          <select value={month} onChange={(e) => setMonth(e.target.value)}>
+            <option value="">Dowolny</option>
+            {months.map(([k, n]) => <option key={k} value={k}>{monthLabel(k)} ({n})</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Długość</span>
+          <select value={length} onChange={(e) => setLength(e.target.value)}>
+            {LENGTH.map((x) => <option key={x.v} value={x.v}>{x.v ? x.label : 'Dowolna'}</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Dojazd</span>
+          <select value={transport} onChange={(e) => setTransport(e.target.value)}>
+            {TRANSPORT.map((x) => <option key={x.v} value={x.v}>{x.v ? x.label : 'Dowolny'}</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Budżet na osobę</span>
+          <select value={budget} onChange={(e) => setBudget(Number(e.target.value))}>
+            <option value={0}>Bez limitu</option>
+            {[3000, 4000, 5000, 6000, 8000, 10000, 15000, 20000].map((v) => <option key={v} value={v}>do {fmt(v)} zł</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Armator</span>
+          <select value={line} onChange={(e) => setLine(e.target.value)}>
+            <option value="">Wszyscy</option>
+            {lines.map(([k, n]) => <option key={k} value={k}>{k} ({n})</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Port startowy</span>
+          <select value={port} onChange={(e) => setPort(e.target.value)}>
+            <option value="">Każdy</option>
+            {ports.map(([k, n]) => <option key={k} value={k}>{k} ({n})</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Wyżywienie</span>
+          <select value={service} onChange={(e) => setService(e.target.value)}>
+            <option value="">Każde</option>
+            {services.map(([k, n]) => <option key={k} value={k}>{k} ({n})</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Sortuj</span>
+          <select value={sort} onChange={(e) => setSort(e.target.value)}>
+            {SORTS.map((x) => <option key={x.v} value={x.v}>{x.label}</option>)}
+          </select>
+        </label>
       </div>
 
       {pool === null && <div className="ob-empty">Szukamy rejsów w biurach podróży...</div>}

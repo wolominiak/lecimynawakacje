@@ -53,6 +53,7 @@ const LENGTH = [
   { v: 'm', label: '8-10 dni' },
   { v: 'l', label: '11+ dni' },
 ];
+const BUDGETS = [1500, 2000, 2500, 3000, 3500, 4000, 5000, 6000, 8000, 10000];
 const SORTS = [
   { v: 'price', label: 'Najtańsze' },
   { v: 'soon', label: 'Najszybszy wylot' },
@@ -190,72 +191,56 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
 
   return (
     <div className="lm">
-      <div className="lm-panel">
+      <div className="lm-panel lm-form">
         {lm ? (
-          <div className="lm-row">
-            <span className="lm-label">Wylot</span>
-            <div className="lm-pills" role="group" aria-label="Wylot w ciągu">
-              {WHEN.map((w) => <button key={w.v} type="button" className={when === w.v ? 'on' : ''} aria-pressed={when === w.v} onClick={() => setWhen(w.v)}>{w.label}</button>)}
-            </div>
-          </div>
-        ) : (
-          <div className="lm-row">
-            <span className="lm-label">Miesiąc wylotu</span>
-            <div className="lm-pills" role="group" aria-label="Miesiąc wylotu">
-              <button type="button" className={!month ? 'on' : ''} onClick={() => setMonth('')}>Dowolny</button>
-              {months.map(([k, n]) => <button key={k} type="button" className={month === k ? 'on' : ''} aria-pressed={month === k} onClick={() => setMonth(month === k ? '' : k)}>{monthLabel(k)} <small>{n}</small></button>)}
-            </div>
-          </div>
-        )}
-        <div className="lm-row">
-          <span className="lm-label">Kierunek</span>
-          <div className="lm-pills lm-scroll" role="group" aria-label="Kierunek">
-            <button type="button" className={!country ? 'on' : ''} aria-pressed={!country} onClick={() => setCountry('')}>Wszystkie</button>
-            {countryCounts.map(([c, n]) => (
-              <button key={c} type="button" className={country === c ? 'on' : ''} aria-pressed={country === c} onClick={() => setCountry(country === c ? '' : c)}>{c} <small>{n}</small></button>
-            ))}
-          </div>
-        </div>
-        <div className="lm-row lm-grid">
-          {!cfg.service && <div>
-            <span className="lm-label">Wyżywienie</span>
-            <div className="lm-pills" role="group" aria-label="Wyżywienie">
-              {SERVICE.map((s) => <button key={s.v} type="button" className={service === s.v ? 'on' : ''} aria-pressed={service === s.v} onClick={() => setService(s.v)}>{s.label}</button>)}
-            </div>
-          </div>}
-          <div>
-            <span className="lm-label">Długość pobytu</span>
-            <div className="lm-pills" role="group" aria-label="Długość pobytu">
-              {LENGTH.map((s) => <button key={s.v} type="button" className={length === s.v ? 'on' : ''} aria-pressed={length === s.v} onClick={() => setLength(s.v)}>{s.label}</button>)}
-            </div>
-          </div>
-        </div>
-        <div className="lm-row lm-grid">
-          <label className="lm-budget">
-            <span className="lm-label">Budżet na osobę: <b>{budget ? 'do ' + fmt(budget) + ' zł' : 'bez limitu'}</b></span>
-            <input
-              type="range"
-              min={Math.max(500, Math.floor((isFinite(minPrice) ? minPrice : 500) / 500) * 500)}
-              max={cfg.maxPrice || maxPrice || 10000}
-              step={250}
-              value={budget || maxPrice || 10000}
-              onChange={(e) => { const v = Number(e.target.value); setBudget(v >= maxPrice ? 0 : v); }}
-            />
+          <label><span className="lm-label">Wylot</span>
+            <select value={when} onChange={(e) => setWhen(Number(e.target.value))}>
+              {WHEN.map((w) => <option key={w.v} value={w.v}>{w.label}</option>)}
+            </select>
           </label>
-          <div className="lm-selects">
-            <label><span className="lm-label">Wylot z</span>
-              <select value={airport} onChange={(e) => setAirport(e.target.value)}>
-                <option value="">Każde lotnisko</option>
-                {airports.map(([k, a]) => <option key={k} value={k}>{a.label} ({a.n})</option>)}
-              </select>
-            </label>
-            <label><span className="lm-label">Sortuj</span>
-              <select value={sort} onChange={(e) => setSort(e.target.value)}>
-                {SORTS.map((s) => <option key={s.v} value={s.v}>{s.label}</option>)}
-              </select>
-            </label>
-          </div>
-        </div>
+        ) : (
+          <label><span className="lm-label">Miesiąc wylotu</span>
+            <select value={month} onChange={(e) => setMonth(e.target.value)}>
+              <option value="">Dowolny</option>
+              {months.map(([k, n]) => <option key={k} value={k}>{monthLabel(k)} ({n})</option>)}
+            </select>
+          </label>
+        )}
+        <label><span className="lm-label">Kierunek</span>
+          <select value={country} onChange={(e) => setCountry(e.target.value)}>
+            <option value="">Wszystkie kraje</option>
+            {countryCounts.map(([c, n]) => <option key={c} value={c}>{c} ({n})</option>)}
+          </select>
+        </label>
+        {!cfg.service && (
+          <label><span className="lm-label">Wyżywienie</span>
+            <select value={service} onChange={(e) => setService(Number(e.target.value))}>
+              {SERVICE.map((x) => <option key={x.v} value={x.v}>{x.v ? x.label : 'Dowolne'}</option>)}
+            </select>
+          </label>
+        )}
+        <label><span className="lm-label">Długość pobytu</span>
+          <select value={length} onChange={(e) => setLength(e.target.value)}>
+            {LENGTH.map((x) => <option key={x.v} value={x.v}>{x.v ? x.label : 'Dowolna'}</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Budżet na osobę</span>
+          <select value={budget} onChange={(e) => setBudget(Number(e.target.value))}>
+            <option value={0}>Bez limitu</option>
+            {BUDGETS.filter((v) => !cfg.maxPrice || v <= cfg.maxPrice).map((v) => <option key={v} value={v}>do {fmt(v)} zł</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Wylot z</span>
+          <select value={airport} onChange={(e) => setAirport(e.target.value)}>
+            <option value="">Każde lotnisko</option>
+            {airports.map(([k, a]) => <option key={k} value={k}>{a.label} ({a.n})</option>)}
+          </select>
+        </label>
+        <label><span className="lm-label">Sortuj</span>
+          <select value={sort} onChange={(e) => setSort(e.target.value)}>
+            {SORTS.map((x) => <option key={x.v} value={x.v}>{x.label}</option>)}
+          </select>
+        </label>
       </div>
 
       {pool === null && <div className="ob-empty">Szukamy ofert {cfg.label} w kilkudziesięciu biurach podróży...</div>}
