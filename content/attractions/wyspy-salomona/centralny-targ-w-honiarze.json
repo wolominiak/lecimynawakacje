@@ -1,0 +1,67 @@
+{
+  "name": "Centralny Targ w Honiarze",
+  "slug": "centralny-targ-w-honiarze",
+  "country": "wyspy-salomona",
+  "lead": "Centralny Targ w Honiarze to tętniące życiem serce stolicy Wysp Salomona, oferujące autentyczny wgląd w codzienne życie mieszkańców i bogactwo lokalnych produktów.",
+  "intro": [
+    "Centralny Targ w Honiarze to miejsce, gdzie lokalna kultura i handel spotykają się w barwnym zgiełku. Jest to największy i najważniejszy rynek na Wyspach Salomona, stanowiący centrum życia społecznego i gospodarczego stolicy. Odwiedzając go, można poczuć prawdziwy puls miasta i zanurzyć się w jego autentycznej atmosferze.",
+    "Na targu znajdziecie szeroki wybór świeżych produktów - od egzotycznych owoców i warzyw, przez różnorodne gatunki ryb i owoców morza, po lokalne przyprawy i rękodzieło. Jest to idealne miejsce, aby spróbować regionalnych smaków i zaopatrzyć się w unikalne pamiątki. Spacerując między straganami, można obserwować codzienne interakcje mieszkańców i ich tradycyjne metody handlu.",
+    "Targ jest nie tylko miejscem zakupów, ale także ważnym punktem spotkań dla lokalnej społeczności. Panuje tu żywa, choć czasem chaotyczna atmosfera, pełna zapachów, dźwięków i kolorów. To doskonała okazja, by zobaczyć, jak wygląda życie poza utartymi szlakami turystycznymi i zrozumieć kulturę Wysp Salomona z perspektywy jej mieszkańców."
+  ],
+  "highlights": [
+    {
+      "name": "Stoiska z owocami i warzywami",
+      "text": "Odkryjcie bogactwo tropikalnych owoców, takich jak papaja, mango, ananas, a także lokalne warzywa, często nieznane w Europie."
+    },
+    {
+      "name": "Sekcja rybna",
+      "text": "Podziwiajcie świeżo złowione ryby i owoce morza, wystawione na sprzedaż prosto z łodzi. To świetna okazja, by zobaczyć różnorodność morskiej fauny Pacyfiku."
+    },
+    {
+      "name": "Rękodzieło i pamiątki",
+      "text": "Znajdziecie tu tradycyjne rzeźby z drewna, biżuterię z muszli, plecione kosze i inne wyroby, idealne na pamiątki."
+    },
+    {
+      "name": "Lokalne przysmaki",
+      "text": "Spróbujcie gotowych dań i przekąsek przygotowywanych na miejscu, dających prawdziwy smak kuchni Wysp Salomona."
+    },
+    {
+      "name": "Obserwacja życia codziennego",
+      "text": "Poświęćcie czas na obserwację mieszkańców, ich interakcji i codziennych zajęć. To najlepszy sposób na zrozumienie lokalnej kultury."
+    }
+  ],
+  "visitTime": "Zarezerwujcie około 1-2 godzin na spokojne zwiedzanie targu i ewentualne zakupy.",
+  "bestTime": "Najlepiej odwiedzić targ rano, gdy jest najwięcej świeżych produktów i panuje największy ruch. Unikajcie godzin popołudniowych, kiedy upał jest największy, a wiele stoisk już się zamyka. Targ działa przez cały rok, ale w porze suchej (maj-październik) warunki pogodowe są przyjemniejsze.",
+  "gettingThere": "Centralny Targ znajduje się w centrum Honiary, stolicy Wysp Salomona. Z większości hoteli w Honiarze można do niego dojść pieszo, dojechać taksówką lub lokalnym autobusem (tzw. 'bus'). Taksówki są łatwo dostępne i stosunkowo niedrogie na krótkich dystansach.",
+  "tickets": "Wstęp na Centralny Targ jest bezpłatny. Ceny produktów są negocjowalne, ale zazwyczaj bardzo przystępne. Nie ma potrzeby rezerwowania wycieczki z przewodnikiem, jeśli chcecie jedynie zwiedzić targ, ale lokalny przewodnik może wzbogacić doświadczenie, opowiadając o produktach i kulturze.",
+  "tips": [
+    "Ubierzcie się lekko i przewiewnie, pamiętając o wysokiej wilgotności i temperaturze.",
+    "Miejcie przy sobie gotówkę w lokalnej walucie (dolar Wysp Salomona), ponieważ płatności kartą są rzadkością.",
+    "Pijcie dużo wody, aby uniknąć odwodnienia.",
+    "Pamiętajcie o negocjowaniu cen, zwłaszcza przy zakupie rękodzieła.",
+    "Bądźcie otwarci na nowe smaki i zapachy, ale zwracajcie uwagę na higienę przy zakupie gotowych potraw.",
+    "Zapytajcie o zgodę przed zrobieniem zdjęć osobom, zwłaszcza sprzedawcom."
+  ],
+  "faq": [
+    {
+      "q": "Czy Centralny Targ w Honiarze jest bezpieczny dla turystów?",
+      "a": "Tak, Centralny Targ jest generalnie bezpieczny, ale jak w każdym zatłoczonym miejscu, należy zachować ostrożność i uważać na swoje rzeczy osobiste."
+    },
+    {
+      "q": "Co warto kupić na Centralnym Targu?",
+      "a": "Warto kupić świeże owoce, lokalne przyprawy, świeże ryby oraz rękodzieło, takie jak rzeźby, biżuteria z muszli czy plecione wyroby."
+    },
+    {
+      "q": "Czy można jeść na Centralnym Targu?",
+      "a": "Tak, na targu często można znaleźć stoiska z lokalnymi przekąskami i gotowymi daniami. Warto spróbować, ale z zachowaniem ostrożności co do higieny."
+    },
+    {
+      "q": "Czy Centralny Targ jest otwarty w weekendy?",
+      "a": "Targ jest zazwyczaj otwarty od poniedziałku do soboty, z największym ruchem w dni powszednie. W niedziele wiele stoisk jest zamkniętych lub działa w ograniczonym zakresie. Zawsze warto sprawdzić aktualne godziny otwarcia na miejscu."
+    }
+  ],
+  "gygQuery": "Honiara Central Market tour",
+  "forWhom": "Centralny Targ to idealne miejsce dla podróżników szukających autentycznych doświadczeń, miłośników lokalnej kuchni i rękodzieła, a także dla tych, którzy chcą poznać codzienne życie mieszkańców Wysp Salomona.",
+  "history": "",
+  "gygTourId": 656484
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Miasto São Tomé",
+  "slug": "miasto-sao-tome",
+  "country": "wyspy-swietego-tomasza-i-ksiazeca",
+  "lead": "São Tomé, stolica Wysp Świętego Tomasza i Książęcej, to miasto o kolonialnym uroku, gdzie historia splata się z lokalnym rytmem życia. Warto poświęcić czas na spacer po jego uliczkach.",
+  "intro": [
+    "Miasto São Tomé to serce archipelagu, miejsce, w którym można poczuć autentyczną atmosferę kraju. Spacerując po jego centrum, natkniemy się na pozostałości portugalskiej architektury kolonialnej, które świadczą o bogatej przeszłości wysp. To tutaj bije puls lokalnego handlu i codziennego życia mieszkańców.",
+    "Zwiedzanie stolicy to przede wszystkim odkrywanie jej historycznych zakątków i chłonięcie atmosfery. Odwiedzić można imponującą katedrę, która jest ważnym punktem orientacyjnym, oraz fort São Sebastião, oferujący wgląd w obronną historię wyspy. Targi miejskie to z kolei idealne miejsce, aby spróbować lokalnych smaków i podziwiać rzemiosło.",
+    "São Tomé to miasto, które nie przytłacza, ale zaprasza do spokojnego odkrywania. Jego urok tkwi w prostocie i autentyczności. Można tu poczuć prawdziwą afrykańską atmosferę, z jej kolorami, zapachami i dźwiękami, jednocześnie podziwiając pozostałości europejskiego dziedzictwa."
+  ],
+  "highlights": [
+    {
+      "name": "Katedra Sé de Nossa Senhora da Graça",
+      "text": "Główna świątynia miasta, przykład kolonialnej architektury sakralnej, której wnętrze kryje ciekawe detale."
+    },
+    {
+      "name": "Fort São Sebastião",
+      "text": "Historyczna twierdza obronna, obecnie mieszcząca Muzeum Narodowe, z którego roztacza się widok na zatokę i miasto."
+    },
+    {
+      "name": "Mercado Municipal",
+      "text": "Główny targ miejski, gdzie można kupić świeże owoce, warzywa, przyprawy i lokalne produkty, a także obserwować życie mieszkańców."
+    },
+    {
+      "name": "Pałac Prezydencki",
+      "text": "Dawna rezydencja gubernatora, imponujący budynek w stylu kolonialnym, choć zazwyczaj dostępny tylko z zewnątrz."
+    },
+    {
+      "name": "Muzeum Narodowe (w Forcie São Sebastião)",
+      "text": "Prezentuje historię, kulturę i sztukę Wysp Świętego Tomasza i Książęcej, od czasów kolonialnych po współczesność."
+    }
+  ],
+  "visitTime": "Pół dnia do całego dnia, w zależności od tego, ile czasu chcemy poświęcić na spacery i wizyty w muzeach.",
+  "bestTime": "Najlepiej odwiedzić miasto rano lub późnym popołudniem, aby uniknąć największego upału. Pora sucha (czerwiec-wrzesień) jest idealna na zwiedzanie.",
+  "gettingThere": "Miasto São Tomé jest stolicą i głównym punktem wejścia na wyspę. Z lotniska do centrum można dojechać taksówką. Po mieście najlepiej poruszać się pieszo lub lokalnymi taksówkami.",
+  "tickets": "Większość atrakcji w mieście, takich jak katedra czy targ, jest bezpłatna. Wstęp do Fortu São Sebastião (Muzeum Narodowego) jest płatny. Aktualne ceny i godziny otwarcia najlepiej sprawdzić na miejscu lub na oficjalnych stronach.",
+  "tips": [
+    "Noś lekkie, przewiewne ubrania i wygodne buty do chodzenia po mieście.",
+    "Pamiętaj o nakryciu głowy i kremie z filtrem przeciwsłonecznym, słońce bywa intensywne.",
+    "Zawsze miej przy sobie butelkę wody, aby uniknąć odwodnienia.",
+    "Bądź otwarty na lokalne jedzenie - spróbuj świeżych owoców i dań z owoców morza na targu.",
+    "Zachowaj ostrożność podczas robienia zdjęć, szczególnie na targach, i zawsze pytaj o zgodę przed fotografowaniem ludzi.",
+    "Warto mieć ze sobą trochę drobnych pieniędzy na zakupy na targu i napiwki."
+  ],
+  "faq": [
+    {
+      "q": "Czy São Tomé jest bezpiecznym miastem dla turystów?",
+      "a": "Ogólnie tak, ale jak w każdym mieście, należy zachować podstawowe środki ostrożności, zwłaszcza po zmroku i w zatłoczonych miejscach."
+    },
+    {
+      "q": "Ile czasu potrzeba na zwiedzanie miasta São Tomé?",
+      "a": "Na zwiedzanie głównych atrakcji miasta i poczucie jego atmosfery wystarczy zazwyczaj pół dnia do jednego pełnego dnia."
+    },
+    {
+      "q": "Jakie są główne atrakcje w São Tomé?",
+      "a": "Do głównych atrakcji należą Katedra Sé de Nossa Senhora da Graça, Fort São Sebastião z Muzeum Narodowym oraz tętniący życiem Mercado Municipal."
+    },
+    {
+      "q": "Czy warto wynająć przewodnika po mieście São Tomé?",
+      "a": "Przewodnik może wzbogacić doświadczenie, opowiadając o historii i kulturze miasta, ale wiele miejsc można zwiedzać samodzielnie. Decyzja zależy od preferencji."
+    }
+  ],
+  "gygQuery": "Sao Tome city tour",
+  "forWhom": "Dla miłośników historii, kultury kolonialnej, lokalnych rynków i autentycznych doświadczeń podróżniczych. Odpowiednie również dla osób, które chcą poczuć puls afrykańskiego miasta.",
+  "history": "São Tomé zostało założone przez Portugalczyków w XV wieku i szybko stało się ważnym ośrodkiem handlu cukrem, a później kawą i kakao. Jego strategiczne położenie na szlakach handlowych sprawiło, że przez wieki było kluczowym portem i centrum administracyjnym, co odzwierciedla się w jego kolonialnej architekturze i układzie urbanistycznym.",
+  "gygTourId": 1445830
+}
