@@ -1,18 +1,24 @@
 import type { Country } from '@/lib/types';
 import { countryShape } from '@/lib/map';
 import { imageFor, photoCredit } from '@/lib/images';
-import { wakacjeUrl, gygSearchUrl } from '@/lib/affiliate';
+import { gygSearchUrl } from '@/lib/affiliate';
+import { availableSubpages } from '@/lib/data';
 import Crumbs from './Crumbs';
 
-export default function CountryHero({ c, title, lead, crumbs, imgKey, wakacjePath, gygQ, eyebrow }: {
+export default function CountryHero({ c, title, lead, crumbs, imgKey, gygQ, eyebrow, offersHere }: {
   c: Country; title: React.ReactNode; lead?: string; crumbs: { name: string; url?: string }[];
   imgKey?: string; wakacjePath?: string; gygQ?: string; eyebrow?: string;
+  /** wyszukiwarka ofert jest na tej stronie (region, zakładka oferty): przycisk przewija do niej */
+  offersHere?: boolean;
 }) {
   const own = imgKey ? imageFor(imgKey) : null;
   const img = own || imageFor(c.slug);
   const credit = img ? photoCredit(own ? imgKey! : c.slug) : null;
   const shape = countryShape(c.ccn3, c.code, 320);
-  const tour = c.content?.touroperator;
+  const subs = availableSubpages(c);
+  const hasOffers = subs.includes('oferty');
+  const offersHref = offersHere ? '#oferty' : `/wakacje/${c.slug}/oferty/`;
+  const attrHref = subs.includes('atrakcje') ? `/wakacje/${c.slug}/atrakcje/` : null;
   return (
     <section className={'chero' + (img ? ' has-img' : '')}>
       {img && <img className="himg" src={img} alt="" fetchPriority="high" />}
@@ -25,14 +31,10 @@ export default function CountryHero({ c, title, lead, crumbs, imgKey, wakacjePat
             <h1 style={{ marginTop: eyebrow ? 12 : 0 }}>{title}</h1>
             {lead && <p className="lead">{lead}</p>}
             <div className="cta-row">
-              {tour && (
-                <a className="btn" href={wakacjeUrl(wakacjePath || c.content?.wakacjePath || c.slug)} target="_blank" rel="sponsored nofollow noopener">
-                  Zobacz oferty wakacji &rarr;
-                </a>
-              )}
-              <a className={tour ? 'btn btn-ghost' : 'btn'} href={gygSearchUrl(gygQ || c.content?.gygQuery || c.name)} target="_blank" rel="sponsored nofollow noopener">
-                Wycieczki i atrakcje
-              </a>
+              {hasOffers && <a className="btn" href={offersHref}>Zobacz oferty wakacji &rarr;</a>}
+              {attrHref
+                ? <a className={hasOffers ? 'btn btn-ghost' : 'btn'} href={attrHref}>Wycieczki i atrakcje</a>
+                : <a className={hasOffers ? 'btn btn-ghost' : 'btn'} href={gygSearchUrl(gygQ || c.content?.gygQuery || c.name)} target="_blank" rel="sponsored nofollow noopener">Wycieczki i atrakcje</a>}
             </div>
           </div>
           {shape && !img && (

@@ -105,6 +105,7 @@ function RegionView({ c, r }: { c: Country; r: Region }) {
         lead={r.forWhom}
         wakacjePath={path}
         gygQ={r.gygQuery || r.name}
+        offersHere
       />
       <div className="wrap">
         {(r.airport || ct.practical?.flight) && (
@@ -206,7 +207,7 @@ function SubView({ c, sub }: { c: Country; sub: SubpageSlug }) {
   };
   return (
     <>
-      <CountryHero c={c} crumbs={crumbs} eyebrow={c.name} title={titles[sub]} lead={leads[sub]} />
+      <CountryHero c={c} crumbs={crumbs} eyebrow={c.name} title={titles[sub]} lead={leads[sub]} offersHere={sub === 'oferty'} />
       <div className="wrap">
         <Tabs c={c} active={sub} />
         <div className="layout section-sm">

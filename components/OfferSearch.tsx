@@ -186,7 +186,7 @@ export default function OfferSearch({ slug, countryId, wakacjePath, loc, regionH
 
   const nOps = ops.length;
   return (
-    <section className="ob">
+    <section className="ob" id="oferty">
       <div className="ob-head">
         <h2>{regionLoc && near ? `Oferty wakacji ${regionLoc}` : `Wyszukiwarka wakacji ${loc}`}</h2>
         <p className="muted">
