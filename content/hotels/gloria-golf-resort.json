@@ -1,0 +1,143 @@
+{
+ "id": "x:turcja:gloria golf resort",
+ "slug": "gloria-golf-resort",
+ "name": "Gloria Golf Resort",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Belek"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/belek/gloria-golf-resort-pl/5006/2_golfresort_h__copy_-252.jpg",
+ "city": "Belek",
+ "intro": [
+  "Gloria Golf Resort to pięciogwiazdkowy obiekt położony w Belek na Riwierze Tureckiej, w otoczeniu lasów sosnowych i wzdłuż rzeki Acısu. Hotel oferuje luksusowy wypoczynek z bogatym zapleczem rekreacyjnym i gastronomicznym.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par, golfistów oraz osób szukających aktywnego wypoczynku. Dzięki szerokiej gamie udogodnień i aktywności, w tym rozbudowanym klubom dla dzieci, kompleksowi golfowemu i licznym basenom, każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Gloria Golf Resort znajduje się w Belek, w dzielnicy Serik, około 7 km od centrum miejscowości. Obiekt posiada prywatną, piaszczystą plażę o długości 500 metrów, wyróżnioną certyfikatem Błękitnej Flagi. Dostęp do plaży prowadzi przez drewniany mostek nad rzeką Acısu, a wejście do morza jest łagodne. Na plaży dostępne są bezpłatne leżaki i ręczniki, a także płatne pawilony."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 515 pokoi w budynku głównym, blokach Family Suite oraz willach. Pokoje standardowe mają 24 m² i są wyposażone w klimatyzację, bezpłatne Wi-Fi, telewizor, minibar, sejf, balkon lub taras oraz łazienkę. W 2023 roku wszystkie sypialnie przeszły modernizację."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu all inclusive goście mogą korzystać z dwóch głównych restauracji bufetowych: Anatolia i Mosaique, serwujących dania kuchni międzynarodowej. Dostępnych jest również kilka restauracji A'la Carte (niektóre za dodatkową opłatą), oferujących kuchnię włoską, hiszpańską, grecką i turecką. Na terenie obiektu znajduje się wiele barów, w tym Lobby Bar, Oasis Bar i Pier Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Gloria Golf Resort dysponuje licznymi basenami zewnętrznymi i wewnętrznymi, w tym basenem półolimpijskim. Na terenie hotelu znajduje się aquapark z 8 lub 14 zjeżdżalniami. Dla miłośników sportu dostępne są dwa 18-dołkowe pola golfowe, jedno 9-dołkowe pole, 4 korty tenisowe, siłownia, a także możliwości uprawiania sportów wodnych, bilarda, rzutek i łucznictwa. Luksusowe centrum spa oferuje łaźnię turecką, saunę i różnorodne zabiegi."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest bardzo dobrze przygotowany na przyjęcie rodzin z dziećmi. Dostępne są wydzielone baseny dla dzieci, Gogi Kids Club (4-12 lat), Teen Club (13-17 lat, sezonowo) oraz Gogi Fun Jungle (1-14 lat) z placami zabaw i mini farmą. Dla najmłodszych (1-3 lata) działa Gogi VIM Club. Oferowane są również animacje, zajęcia kreatywne i seanse filmowe."
+  }
+ ],
+ "pros": [
+  "Prywatna, piaszczysta plaża z certyfikatem Błękitnej Flagi",
+  "Bogate zaplecze dla dzieci, w tym kluby i aquapark",
+  "Rozbudowany kompleks golfowy z 45 dołkami",
+  "Wysoka jakość hotelu i smaczne wyżywienie",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Niektóre restauracje A'la Carte są dodatkowo płatne",
+  "Potencjalny hałas z wieczornych programów rozrywkowych w pokojach z widokiem na amfiteatr/basen",
+  "Częściowy remont w 2023, z kolejną fazą planowaną na zimę 2026/2027"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel posiada prywatną plażę, do której można dotrzeć przez drewniany mostek nad rzeką Acısu."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Odległość od lotniska w Antalyi (AYT) wynosi około 40 km, a czas transferu to około 35-40 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Tak, hotel posiada aquapark z 8 lub 14 zjeżdżalniami."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując liczne kluby, baseny i atrakcje dla różnych grup wiekowych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Belek Mah. Turizm Cad. No:74, Serik - Antalya / Türkiye",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "prywatna plaża",
+  "baseny",
+  "aquapark",
+  "spa",
+  "siłownia",
+  "golf",
+  "korty tenisowe",
+  "mini klub dla dzieci",
+  "animacje",
+  "wifi"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Serik",
+ "bars": 7,
+ "beachDistanceM": null,
+ "beachType": "piaszczysta",
+ "centerKm": 7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "golfiści",
+  "osoby szukające luksusowego wypoczynku",
+  "grupy wielopokoleniowe"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1997,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 7,
+ "roomTypes": [
+  "pokój standardowy (24 m², klimatyzacja, Wi-Fi, TV, minibar, sejf, balkon/taras, łazienka)",
+  "Junior Suity",
+  "Suity",
+  "Suity Rodzinne (niektóre z dostępem do basenu)",
+  "King Suity",
+  "Wille (Gloria Villas, Executive Villas, Owner Villas, niektóre z prywatnymi podgrzewanymi basenami)"
+ ],
+ "rooms": 515,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.840542,
+  "lon": 31.1118703,
+  "src": "osm"
+ },
+ "sources": [
+  "kemerroyalhotel.com",
+  "gloria.com.tr",
+  "ozaltin.com",
+  "geoview.info",
+  "totstoo.com",
+  "travelrepublic.ie",
+  "scribd.com",
+  "trivago.com"
+ ],
+ "updated": "2026-11-27"
+}

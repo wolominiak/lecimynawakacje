@@ -1,0 +1,141 @@
+{
+ "id": "x:turcja:siam elegance spa and resort",
+ "slug": "siam-elegance-spa-resort",
+ "name": "Siam Elegance Spa & Resort",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Bogazkent"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/bogazkent/siam-elegance-spa-a-resort/iam-elegance-beach-03.jpg",
+ "city": "Boğazkent",
+ "intro": [
+  "Siam Elegance Spa & Resort to pięciogwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży w miejscowości Boğazkent, na Riwierze Tureckiej. Obiekt, otwarty w 2008 roku i częściowo odnowiony w 2022, zajmuje obszar 3 hektarów i oferuje bogate zaplecze rekreacyjne.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par, które szukają aktywnego wypoczynku z dostępem do aquaparku, animacji i różnorodnej oferty gastronomicznej w ramach pakietu Ultra All Inclusive. Bliskość prywatnej plaży i liczne udogodnienia sprawiają, że jest to dobre miejsce na relaksujące wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Siam Elegance Spa & Resort znajduje się w Boğazkent, w prowincji Antalya, bezpośrednio przy prywatnej, piaszczystej plaży. Zaleca się obuwie plażowe ze względu na kamieniste wejście do morza. Leżaki, parasole i ręczniki plażowe są dostępne bezpłatnie dla gości. Odległość od lotniska w Antalyi wynosi około 32-43 km, a do centrum Boğazkent jest około 2,4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 515 pokojami, które zostały odnowione w 2022 roku. W ofercie znajdują się pokoje standardowe, rodzinne Family Duplex, Junior Suite, Grand Suite oraz pokoje ECO. Wszystkie pokoje wyposażone są w drewniane podłogi, balkon, klimatyzację, telewizor, minibar, sejf oraz łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje koncept \"All Inclusive Plus\" lub \"Ultra All Inclusive\", obejmujący posiłki w restauracji głównej Samui (bufet) oraz wybrane napoje. Do dyspozycji gości są również 4 restauracje à la carte (tajska, włoska, owoce morza), które mogą wymagać rezerwacji lub dodatkowej opłaty. Na terenie hotelu znajduje się 6 barów, w tym bar przy basenie, lobby bar i całodobowy Chai Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Siam Elegance Spa & Resort posiada 3 baseny zewnętrzne, a także 2 baseny kryte (jeden dla dorosłych, jeden dla dzieci), podgrzewane zimą. Na terenie obiektu znajduje się aquapark z 5 zjeżdżalniami wodnymi. Goście mogą korzystać z centrum fitness, kortów tenisowych, siatkówki plażowej, aerobiku i mini golfa. Centrum spa oferuje hammam, saunę, jacuzzi (za dopłatą) oraz masaże."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował strefę z basenem i placem zabaw, mini klub dla dzieci w wieku 4-12 lat oraz codzienne animacje. Hotel jest przyjazny rodzinom i oferuje wiele atrakcji dla dzieci w różnym wieku."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Dobre jedzenie i urozmaicona oferta gastronomiczna",
+  "Aquapark z 5 zjeżdżalniami i baseny",
+  "Mini klub i animacje dla dzieci",
+  "Odnowione pokoje (remont w 2022 roku)"
+ ],
+ "cons": [
+  "Kamieniste wejście do morza - zalecane obuwie plażowe",
+  "Stosunkowo odizolowana lokalizacja, ograniczona liczba atrakcji poza hotelem",
+  "Brak możliwości wymiany walut w hotelu",
+  "Sporadyczne uwagi dotyczące czystości publicznych toalet",
+  "Wysokie ceny taksówek"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy prywatnej, piaszczystej plaży. Wejście do morza może być kamieniste, dlatego zaleca się obuwie plażowe."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark z 3 zjeżdżalniami dla dorosłych i 2 dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując mini klub, strefę z basenem i placem zabaw oraz animacje dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Antalya (AYT), oddalone o około 32-43 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest to obiekt przyjazny rodzinom i dzieciom."
+  }
+ ],
+ "address": "Boğazkent, 50. Sk. No:6, 07552 Serik/Antalya, Türkiye",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Lotnisko Antalya (AYT)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Siatkówka plażowa",
+  "Aerobik",
+  "Gimnastyka",
+  "Rzutki",
+  "Tenis stołowy",
+  "Mini golf",
+  "Łaźnia turecka (hammam)",
+  "Sauna",
+  "Jacuzzi (za dopłatą)",
+  "Masaże (za dopłatą)",
+  "Zabiegi kosmetyczne (za dopłatą)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Boğazkent, Serik, prowincja Antalya",
+ "bars": 6,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta (wejście do morza kamieniste)",
+ "centerKm": 2.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2008,
+ "pools": 5,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": 5,
+ "roomTypes": [
+  "pokój standardowy (27 m²)",
+  "pokój rodzinny Family Duplex (dwupoziomowy, 45 m²)",
+  "Junior Suite (31 m²)",
+  "Grand Suite (Family Suite, dwupoziomowy, 74 m²)",
+  "pokój ECO (na parterze lub z tyłu budynku)"
+ ],
+ "rooms": 515,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "thomascook.com",
+  "planetofhotels.com",
+  "google.com",
+  "yandex.com",
+  "kompastour.com",
+  "trivago.com",
+  "yandex.com.tr",
+  "hotels-antalya.net"
+ ],
+ "updated": "2026-11-27"
+}

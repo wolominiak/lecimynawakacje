@@ -1,0 +1,167 @@
+{
+ "id": 11201,
+ "slug": "gloria-verde-resort",
+ "name": "Gloria Verde Resort",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Belek"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/gloria-verde-resort-zjezdzalnia-826307304-570-428.jpg",
+ "city": "Belek",
+ "intro": [
+  "Gloria Verde Resort to pięciogwiazdkowy obiekt położony bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży w Belek, na Riwierze Tureckiej. Otoczony rozległym, piniowym ogrodem, hotel oferuje kameralną atmosferę i kontakt z naturą.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par oraz aktywnych gości, w tym miłośników golfa. Bogata oferta rekreacyjna, rozbudowane udogodnienia dla najmłodszych oraz centrum SPA sprawiają, że każdy znajdzie tu coś dla siebie, niezależnie od tego, czy szuka relaksu, czy aktywnego wypoczynku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Gloria Verde Resort znajduje się w Belek, około 3.3-4 km od centrum miejscowości. Obiekt jest usytuowany bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży z pomostem. Goście mają bezpłatny dostęp do leżaków, parasoli i ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 293 pokoje, w tym pokoje standardowe, Junior Suite, Suite, Family Suite, Deluxe Suite oraz Select Villa. Wszystkie pokoje są wyposażone w łazienkę z prysznicem, suszarkę do włosów, centralną klimatyzację, telewizor, bezpłatne Wi-Fi, sejf, minibar oraz zestaw do parzenia kawy i herbaty. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z głównej restauracji Mythos serwującej bufet międzynarodowy oraz kilku restauracji a'la carte (włoska, francuska, międzynarodowa). Na terenie obiektu znajduje się również restauracja z przekąskami i restauracja dla dzieci. Hotel dysponuje licznymi barami, w tym lobby barem, barem przy basenie i barem na molo. Minibar w pokojach jest codziennie uzupełniany."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada trzy baseny zewnętrzne i dwa kryte, w tym jeden dla dzieci. Na terenie obiektu znajduje się aquapark ze zjeżdżalniami dla dorosłych i dzieci. Goście mogą korzystać z siłowni, kortów tenisowych, boiska do piłki nożnej oraz wielu zajęć sportowych, takich jak aerobik, pilates czy joga. W pobliżu znajduje się 45-dołkowe pole golfowe Gloria Golf Club."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano brodziki zewnętrzne i kryte, plac zabaw, salę zabaw oraz specjalne menu w restauracji. Działa tu Gogi Kids Club dla dzieci w wieku 4-12 lat oraz klub dla nastolatków (13-17 lat). Hotel oferuje również codzienne programy animacyjne i mini disco."
+  },
+  {
+   "title": "SPA i Wellness",
+   "text": "Centrum Asklepion Spa & Thalasso oferuje szeroki zakres usług, w tym kryty basen, basen z wodą morską, hammam, sauny, łaźnię parową oraz różnorodne masaże i zabiegi kosmetyczne. Jest to idealne miejsce na relaks i odprężenie."
+  }
+ ],
+ "pros": [
+  "Kameralna atmosfera i piękny, zadbany teren",
+  "Bezpośredni dostęp do prywatnej, piaszczysto-żwirowej plaży",
+  "Bogata oferta dla rodzin z dziećmi, w tym mini klub i aquapark",
+  "Wysoka jakość i duży wybór jedzenia, w tym świeżo wyciskane soki",
+  "Możliwość korzystania z udogodnień siostrzanych hoteli Gloria"
+ ],
+ "cons": [
+  "Brak serwisu na basenie",
+  "Możliwa obecność komarów w okolicach amfiteatru",
+  "Dla niektórych gości strome podejście na baseny/plażę",
+  "Niektóre atrakcje dla dzieci i restauracje a'la carte mogą być dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Gloria Verde Resort jest położony bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Antalya (AYT), oddalone o około 30-38 km. Czas dojazdu wynosi około 30-42 minuty."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, na terenie hotelu znajduje się aquapark ze zjeżdżalniami dla dorosłych i dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferując brodziki, plac zabaw, mini klub, klub dla nastolatków oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "Belek Mah. Sok. No:7 Serik / Antalya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "prywatna plaża",
+  "leżaki i parasole na plaży",
+  "ręczniki plażowe",
+  "aquapark",
+  "mini klub dla dzieci",
+  "klub dla nastolatków",
+  "animacje",
+  "wieczorne show",
+  "muzyka na żywo",
+  "SPA",
+  "siłownia",
+  "korty tenisowe",
+  "siatkówka plażowa",
+  "piłka nożna",
+  "tenis stołowy",
+  "rzutki",
+  "łucznictwo",
+  "aerobik",
+  "aqua fitness",
+  "pilates",
+  "joga",
+  "zumba",
+  "pole golfowe w pobliżu",
+  "transfer na pole golfowe",
+  "restauracje a'la carte",
+  "minibar w pokoju",
+  "room service po 23:00",
+  "menu poduszkowe"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Riwiera Turecka",
+ "bars": 7,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 3.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "aktywni goście",
+  "golfiści",
+  "szukający relaksu",
+  "szukający kontaktu z naturą"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2001,
+ "pools": 5,
+ "privateBeach": true,
+ "renovated": 2014,
+ "restaurants": null,
+ "roomTypes": [
+  "pokój standardowy (ok. 27 m², łazienka z prysznicem, klimatyzacja, TV, Wi-Fi, sejf, minibar, zestaw do kawy/herbaty, balkon/taras)",
+  "Junior Suite (ok. 31 m², wyposażenie jak standard, balkon/taras)",
+  "Suite (ok. 41 m², wydzielona część dzienna, wyposażenie jak standard, balkon/taras)",
+  "Family Suite (wyposażenie jak standard, balkon/taras)",
+  "Deluxe Suite (wyposażenie jak standard, balkon/taras)",
+  "Select Villa (ok. 86 m², dwupoziomowa, dostęp do basenu, wyposażenie jak standard, balkon/taras)"
+ ],
+ "rooms": 293,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.844031,
+  "lon": 31.0890253,
+  "src": "osm"
+ },
+ "sources": [
+  "r.pl",
+  "kompastour.com",
+  "holidaycheck.de",
+  "tui.pl",
+  "justresorts.co.uk",
+  "belekgolfholidays.com",
+  "sootransfer.com",
+  "itaka.pl"
+ ],
+ "updated": "2026-11-27"
+}
