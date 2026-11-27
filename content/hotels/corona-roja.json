@@ -1,0 +1,139 @@
+{
+ "id": 682,
+ "slug": "corona-roja",
+ "name": "Corona Roja",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Gran Canaria",
+  "Playa del Ingles"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/corona-roja-pokoj-797569159-570-428.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Hotel Corona Roja to trzygwiazdkowy obiekt położony w popularnej miejscowości Playa del Inglés na Gran Canarii, w malowniczej zatoce kąpielowej Playa de Cocino. Jest to jeden z najwyższych kompleksów apartamentowych w okolicy, oferujący zakwaterowanie w przestronnych studiach i apartamentach. Hotel stanowi dobrą bazę wypadową do zwiedzania wyspy.",
+  "Obiekt jest polecany dla rodzin, par, singli oraz osób podróżujących z ograniczonym budżetem, które cenią sobie dobrą lokalizację blisko plaży i centrum miejscowości oraz możliwość samodzielnego przygotowania posiłków. Hotel oferuje podstawowe udogodnienia rekreacyjne i okazjonalną rozrywkę wieczorną."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Corona Roja znajduje się w Playa del Inglés, blisko centrum miejscowości, zaledwie 100-300 metrów od szerokiej, piaszczystej plaży publicznej. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Do najbliższego lotniska Gran Canaria (LPA) jest około 25-30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 185-200 pokoi/apartamentów, w tym studia, apartamenty z jedną lub dwiema sypialniami. Dostępne są zarówno odnowione apartamenty typu Deluxe, jak i nieodnowione studia oraz apartamenty standardowe. Wszystkie pokoje posiadają balkon lub taras, aneks kuchenny z lodówką oraz prywatną łazienkę. Wyposażenie może obejmować płatny telewizor, sejf i klimatyzację."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca posiłki w formie bufetu oraz restauracja a la carte (dodatkowo płatna). Goście mogą korzystać z baru i snack baru przy basenie. Dostępna jest opcja all inclusive za dodatkową opłatą, obejmująca śniadania, obiady, kolacje, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe w określonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem czynnym przez cały rok oraz brodzikiem dla dzieci. Na terenie obiektu znajduje się plac zabaw dla dzieci. Do dyspozycji gości są również kort tenisowy, boisko do piłki nożnej, boisko do siatkówki, minigolf oraz bilard (płatny). Hotel oferuje okazjonalne wieczorne programy rozrywkowe."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko plaży i centrum",
+  "Przestronne apartamenty",
+  "Ładne widoki z balkonów/tarasów",
+  "Przyjazny personel",
+  "Czystość"
+ ],
+ "cons": [
+  "Obiekt jest starszy i wymaga remontu (nie wszystkie apartamenty są odnowione)",
+  "Jedzenie w opcji all inclusive bywa monotonne",
+  "Brak klimatyzacji w niektórych pokojach lub za dopłatą",
+  "Płatne Wi-Fi w pokojach i płatny telewizor",
+  "Wąskie łóżka i hałas związany z ruchem ulicznym"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Corona Roja znajduje się około 100-300 metrów od szerokiej, piaszczystej plaży publicznej."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 25-30 km od lotniska Gran Canaria (LPA)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Corona Roja nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada brodzik dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w recepcji. W pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "Klimatyzacja w pokojach jest często za dopłatą lub jej brak, w zależności od typu apartamentu."
+  }
+ ],
+ "address": "Calle El Pez, 6, 35100 Playa del Inglés, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "Odkryty basen",
+  "Brodzik dla dzieci",
+  "Plac zabaw dla dzieci",
+  "Kort tenisowy",
+  "Boisko do piłki nożnej",
+  "Boisko do siatkówki",
+  "Minigolf",
+  "Bilard (płatny)",
+  "Wypożyczalnia rowerów",
+  "Solarium"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa de Cocino",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby podróżujące z ograniczonym budżetem",
+  "Single",
+  "Osoby szukające bazy wypadowej do zwiedzania"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1970,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 2,
+ "roomTypes": [
+  "Studia: z balkonem/tarasem, telewizorem (często płatnym), sofą, aneksem kuchennym z lodówką, łazienką, sejfem (płatnym), telefonem",
+  "Apartamenty z jedną sypialnią: z balkonem/tarasem, telewizorem (często płatnym), sofą, aneksem kuchennym z lodówką, łazienką, sejfem (płatnym), telefonem",
+  "Apartamenty z dwiema sypialniami: z balkonem/tarasem, telewizorem (często płatnym), sofą, aneksem kuchennym z lodówką, łazienką, sejfem (płatnym), telefonem",
+  "Apartamenty Deluxe: odnowione, z balkonem/tarasem, telewizorem (często płatnym), sofą, aneksem kuchennym z lodówką, łazienką, sejfem (płatnym), telefonem"
+ ],
+ "rooms": 185,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7650843,
+  "lon": -15.5600103,
+  "src": "osm"
+ },
+ "sources": [
+  "coronaroja.com",
+  "thomascook.com",
+  "olympicholidays.com",
+  "atrapalo.com",
+  "r.pl",
+  "wakacje.pl",
+  "holidaycheck.de",
+  "tui.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

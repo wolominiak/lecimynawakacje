@@ -1,0 +1,142 @@
+{
+ "id": 695,
+ "slug": "royal-suite",
+ "name": "Royal Suite",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Fuerteventura",
+  "Costa Calma"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/royal-suite-basen-teren-hotelu-1345791338-570-428.jpg",
+ "city": "Costa Calma",
+ "intro": [
+  "Hotel Royal Suite to kompleks apartamentowy położony w spokojnej dzielnicy Urbanización Cañada del Rio w Costa Calma na Fuerteventurze. Otoczony palmowymi ogrodami, oferuje relaksującą atmosferę i jest idealnym miejscem na wypoczynek dla rodzin oraz par.",
+  "Obiekt, składający się z siedmiu dwupiętrowych budynków, zapewnia przestronne zakwaterowanie w formie apartamentów. Dzięki licznym udogodnieniom, takim jak baseny, mini klub i animacje, hotel jest szczególnie polecany dla rodzin z dziećmi, które szukają aktywnego wypoczynku, jak i dla tych, którzy pragną spokoju i relaksu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Royal Suite znajduje się w Costa Calma, około 0.5-1.5 km od centrum miejscowości. Do najbliższych piaszczystych plaż Costa Calma i Sotavento jest około 800-1000 metrów, co zajmuje 10-20 minut spacerem. Plaża jest publiczna, z piaszczysto-żwirowym zejściem do morza."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 166 apartamentów (suites) z oddzielnym salonem i sypialnią. Pokoje wyposażone są w łazienkę, telewizor, balkon lub taras, telefon, sejf (często płatny) oraz mini lodówkę. Zamiast klimatyzacji dostępne są wentylatory sufitowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja bufetowa, serwująca dania kuchni międzynarodowej na śniadanie, lunch i kolację. Do dyspozycji gości są również dwa bary: bar przy basenie oraz bar w lobby/teatralny. Hotel oferuje opcję all inclusive, obejmującą posiłki i napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje czterema basenami, w tym dwoma dla dorosłych (jeden odkryty, jeden kryty i podgrzewany) oraz dwoma brodzikami dla dzieci. Jeden z basenów dla dorosłych jest ze słoną wodą. Na terenie hotelu znajduje się również siłownia, sauna, jacuzzi, korty tenisowe oraz boisko do koszykówki i siatkówki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodziki, plac zabaw oraz mini klub dla dzieci powyżej 4 lat. Hotel organizuje także animacje dla dzieci, w tym mini disco, zapewniając rozrywkę przez cały pobyt."
+  }
+ ],
+ "pros": [
+  "Przestronne apartamenty z oddzielnym salonem i sypialnią.",
+  "Dostępne cztery baseny, w tym jeden kryty i podgrzewany oraz basen ze słoną wodą.",
+  "Bogata oferta sportowa i rekreacyjna, w tym siłownia, korty tenisowe i animacje.",
+  "Mini klub i plac zabaw dla dzieci.",
+  "Przyjazny personel i relaksująca atmosfera."
+ ],
+ "cons": [
+  "Brak klimatyzacji w pokojach, dostępne tylko wentylatory sufitowe.",
+  "Odległość od plaży (800-1000 metrów, ok. 10-20 minut spacerem).",
+  "Ograniczona różnorodność i jakość jedzenia w bufecie, powtarzalność dań.",
+  "Płatne Wi-Fi w pokojach i sejfy.",
+  "Hotel wymaga remontu w niektórych obszarach."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Royal Suite znajduje się około 800-1000 metrów od piaszczystej plaży, co oznacza 10-20 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko Fuerteventura Airport (FUE) jest oddalone o około 60-70 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada cztery baseny, w tym dwa brodziki dla dzieci, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy Royal Suite to dobry hotel dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując brodziki, plac zabaw, mini klub i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w całym obiekcie, często bezpłatne w miejscach publicznych, natomiast w pokojach może być płatne."
+  },
+  {
+   "q": "Czy hotel posiada siłownię i spa?",
+   "a": "Tak, hotel dysponuje centrum fitness/siłownią oraz strefą spa z sauną, jacuzzi i solarium. Masaże są dostępne za dodatkową opłatą."
+  }
+ ],
+ "address": "C. Valle de los Escobones, 1, 35627 Costa Calma, Pájara, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Fuerteventura Airport (FUE)",
+ "amenities": [
+  "Sauna",
+  "Jacuzzi",
+  "Solarium",
+  "Korty tenisowe",
+  "Boisko do koszykówki",
+  "Boisko do siatkówki",
+  "Bilard",
+  "Rzutki",
+  "Tenis stołowy",
+  "Aerobik",
+  "Masaże (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Urbanización Cañada del Rio",
+ "bars": 2,
+ "beachDistanceM": 900,
+ "beachType": "Piaszczysta, z piaszczysto-żwirowym zejściem do morza",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2000,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament (suite) z oddzielnym salonem i sypialnią, dwoma łóżkami pojedynczymi (lub podwójnymi), dwiema rozkładanymi sofami, łazienką, TV, balkonem/tarasem, telefonem, sejfem (płatnym), mini lodówką/lodówką, wentylatorami sufitowymi.",
+  "Pokoje rodzinne z podobnym wyposażeniem.",
+  "Pokoje dwuosobowe, trzyosobowe.",
+  "Pokoje typu Deluxe Queen, Family King Room, Classic Quadruple Room.",
+  "Niektóre apartamenty z aneksem kuchennym (lodówka, piekarnik, naczynia)."
+ ],
+ "rooms": 166,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.1713543,
+  "lon": -14.2234876,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.com",
+  "fuerteventurahotelsmix.com",
+  "hotelroyalsuite.es",
+  "wego.com.sg",
+  "oyster.com",
+  "google.com",
+  "thomascook.com",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

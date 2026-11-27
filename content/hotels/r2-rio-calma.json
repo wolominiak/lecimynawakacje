@@ -1,0 +1,138 @@
+{
+ "id": 14005,
+ "slug": "r2-rio-calma",
+ "name": "R2 Rio Calma",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Fuerteventura",
+  "Costa Calma"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001397146-570-428.jpg",
+ "city": "Costa Calma",
+ "intro": [
+  "Hotel R2 Rio Calma to czterogwiazdkowy obiekt położony na klifie w miejscowości Costa Calma na Fuerteventurze, oferujący widoki na Ocean Atlantycki. Zbudowany w stylu kolonialnym, otoczony jest rozległymi ogrodami. Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par, a także dla osób szukających relaksu i miłośników plażowania.",
+  "Obiekt zapewnia szereg udogodnień, w tym baseny, centrum spa oraz programy rozrywkowe. Mimo pewnej odległości od plaży i centrum miejscowości, hotel stanowi dobrą bazę wypadową do odkrywania uroków Fuerteventury, oferując jednocześnie spokojne otoczenie do wypoczynku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel R2 Rio Calma znajduje się w dzielnicy Urbanización El Granillo w Costa Calma. Obiekt jest położony na klifie, około 300-800 metrów od najbliższej piaszczystej plaży. Hotel posiada również sztuczną lagunę z importowanym piaskiem. Dostęp do plaży jest publiczny, a leżaki i parasole mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 416 pokojami, w tym pokojami dwuosobowymi, pokojami z widokiem na morze, pokojami rodzinnymi oraz suitami. Standardowe wyposażenie obejmuje klimatyzację, balkon lub taras, Smart TV, minibar, sejf, suszarkę do włosów oraz łazienkę. Niektóre suity oferują jacuzzi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa „Rosa James”, serwująca dania kuchni kanaryjskiej i międzynarodowej. Dostępna jest również restauracja à la carte z kuchnią kanaryjską i międzynarodową (dodatkowo płatna). Na terenie obiektu funkcjonuje 5 barów, w tym bar przy basenie i cocktail bar. Pakiet All Inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji 3 odkryte baseny, w tym basen typu infinity i jeden podgrzewany zimą. Hotel oferuje centrum spa z łaźnią turecką, sauną, jacuzzi i krytym basenem (dla osób powyżej 16 lat) oraz siłownię. Dostępne są również 2 korty tenisowe, aerobik, tenis stołowy, bilard i inne aktywności sportowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano basen, plac zabaw oraz pokój zabaw. Funkcjonuje mini-klub „Rio Land” dla dzieci w wieku od 4 do 12 lat. Hotel zapewnia również animacje dla dzieci w ciągu dnia oraz wieczorne mini-disco."
+  }
+ ],
+ "pros": [
+  "Piękna architektura kolonialna i zadbane ogrody",
+  "Wspaniałe baseny, w tym infinity",
+  "Dobre jedzenie, zwłaszcza śniadania",
+  "Przyjazny i pomocny personel",
+  "Czyste pokoje i codzienne sprzątanie"
+ ],
+ "cons": [
+  "Odległość od plaży i centrum miejscowości",
+  "Dodatkowe opłaty za Wi-Fi, sejf i minibar",
+  "Brak czajnika w pokojach",
+  "Niektóre pokoje mogą być przestarzałe",
+  "Monotonne jedzenie po kilku dniach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel jest oddalony od najbliższej piaszczystej plaży o około 300-800 metrów. Hotel posiada również sztuczną lagunę z importowanym piaskiem."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Fuerteventura (FUE), oddalone o około 46-70 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci, plac zabaw, pokój zabaw oraz mini-klub „Rio Land”."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne, jednak często za dodatkową opłatą. Niektóre źródła wskazują na darmowe Wi-Fi w pokojach i miejscach publicznych."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia i spa?",
+   "a": "Tak, hotel posiada siłownię/centrum fitness oraz centrum spa oferujące łaźnię turecką, saunę, jacuzzi i kryty basen (dla osób powyżej 16 lat)."
+  }
+ ],
+ "address": "C. Artistas Canarios, 8, 35627 Costa Calma, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 46,
+ "airportName": "Port lotniczy Fuerteventura (FUE)",
+ "amenities": [
+  "Recepcja 24h",
+  "Wymiana walut",
+  "Przechowalnia bagażu",
+  "Usługi pralnicze (płatne)",
+  "Wynajem samochodów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Urbanización El Granillo",
+ "bars": 5,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy plaży",
+  "entuzjaści spa",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2026,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój z widokiem na morze",
+  "pokój rodzinny",
+  "suita (Royal Suites, Suite Cielo)"
+ ],
+ "rooms": 416,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.1672842,
+  "lon": -14.209206,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.co.uk",
+  "agoda.com",
+  "google.de",
+  "luxairtours.lu",
+  "mapy.com",
+  "holidaygems.co.uk",
+  "onthebeach.ie",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-27"
+}

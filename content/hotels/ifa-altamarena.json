@@ -1,0 +1,132 @@
+{
+ "id": 17294,
+ "slug": "ifa-altamarena",
+ "name": "IFA Altamarena",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Fuerteventura",
+  "Morro Jable"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001400419-570-428.jpg",
+ "city": "Morro Jable",
+ "intro": [
+  "IFA Altamarena by Lopesan Hotels to czterogwiazdkowy obiekt położony w Morro Jable na Fuerteventurze, w Hiszpanii. Hotel znajduje się tuż przy długiej, piaszczystej plaży Jandía, co czyni go atrakcyjnym wyborem dla miłośników słońca i morskich kąpieli.",
+  "Hotel jest rekomendowany zarówno dla rodzin z dziećmi, jak i dla par, szczególnie tych szukających relaksu i aktywnego wypoczynku. Oferuje szeroki zakres udogodnień i animacji dla gości w każdym wieku, zapewniając komfortowy pobyt w malowniczej scenerii Wysp Kanaryjskich."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel IFA Altamarena jest usytuowany około 50 metrów od rozległej, piaszczystej plaży Jandía, znanej z białego piasku i długości 40 km. Obiekt oferuje bezpośredni dostęp do plaży, choć nie jest to plaża prywatna. Centrum Morro Jable znajduje się w odległości około 900 metrów, a lotnisko Fuerteventura (FUE) jest oddalone o około 84 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 238 pokojami, w tym pokojami standardowymi, rodzinnymi oraz Junior Suitami. Wszystkie pokoje wyposażone są w klimatyzację (dostępną w sezonie letnim), telewizor z kanałami satelitarnymi, łazienkę z wanną lub prysznicem, suszarkę do włosów, minibar oraz balkon lub taras. Sejf w pokoju jest dodatkowo płatny."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z restauracji bufetowej, serwującej śniadania, obiady i kolacje z daniami kuchni lokalnej i międzynarodowej. Dostępna jest również restauracja à la carte z widokiem na ocean, oferująca dania kuchni śródziemnomorskiej. Na terenie hotelu znajdują się także bar w salonie oraz bar przy basenie, który serwuje przekąski i napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje trzy baseny zewnętrzne, w tym jeden z hydromasażem i jeden płytki basen dla dzieci. Jeden z basenów jest podgrzewany w miesiącach zimowych. Dla aktywnych dostępne są zajęcia takie jak siatkówka, tenis stołowy, tenis ziemny, bilard, rzutki, petanque, aerobik, aqua gym i shuffleboard. W okolicy można uprawiać nurkowanie, snorkeling, windsurfing, jazdę konną oraz piesze i rowerowe wycieczki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował płytki basen oraz bezpłatny mini klub. Codziennie organizowane są animacje zarówno w ciągu dnia, jak i wieczorem, zapewniając rozrywkę dla dzieci i dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Udogodnienia dla rodzin, w tym baseny i mini klub",
+  "Uprzejmy i pomocny personel",
+  "Różnorodne zajęcia sportowe i animacje"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w pokojach i sejf",
+  "Brak siłowni",
+  "Niektóre pokoje mogą wymagać renowacji",
+  "Ograniczone i płatne miejsca parkingowe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel IFA Altamarena znajduje się około 50 metrów od piaszczystej plaży Jandía."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Lotnisko Fuerteventura (FUE) jest oddalone od hotelu o około 84 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W faktach nie ma informacji o aquaparku ani zjeżdżalniach w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje płytki basen dla dzieci, mini klub oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. W pokojach Wi-Fi może być płatne."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Tak, hotel oferuje pakiet all inclusive, który obejmuje posiłki w formie bufetu, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  }
+ ],
+ "address": "Avenida del Saladar, 28, 35625 Morro Jable, Las Palmas",
+ "adultsOnly": false,
+ "airportKm": 84,
+ "airportName": "Fuerteventura (FUE)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor satelitarny",
+  "Minibar",
+  "Balkon/taras",
+  "Suszarka do włosów"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Jandía",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta, z białym piaskiem",
+ "centerKm": 0.9,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój standardowy",
+  "Pokój rodzinny",
+  "Junior Suita"
+ ],
+ "rooms": 238,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0483988,
+  "lon": -14.3406572,
+  "src": "osm"
+ },
+ "sources": [
+  "travelrepublic.co.uk",
+  "fuerteventurahotelsmix.com",
+  "hotelsfuerteventura.org",
+  "thomascook.com",
+  "tui.co.uk",
+  "lopesan.com",
+  "onthebeach.ie",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

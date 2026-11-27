@@ -1,0 +1,137 @@
+{
+ "id": 18757,
+ "slug": "blue-sea-puerto-resort",
+ "name": "Blue Sea Puerto Resort",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Teneryfa",
+  "Puerto de la Cruz"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001476760-570-428.jpg",
+ "city": "Puerto de la Cruz",
+ "intro": [
+  "Blue Sea Puerto Resort to czterogwiazdkowy hotel położony w spokojnej dzielnicy La Paz w Puerto de la Cruz na północnym wybrzeżu Teneryfy. Otoczony subtropikalnymi ogrodami, oferuje komfortowe zakwaterowanie i szeroki zakres udogodnień, będąc dobrą bazą wypadową do odkrywania zielonej części wyspy.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, jak i dla par szukających relaksu oraz aktywnego wypoczynku. Bliskość Ogrodu Botanicznego i dogodne połączenia z centrum miasta sprawiają, że jest to atrakcyjne miejsce dla osób ceniących sobie spokój, ale także możliwość zwiedzania i korzystania z lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Puerto de la Cruz, w dzielnicy La Paz, około 1-1,5 km od centrum miasta. Najbliższa plaża, Playa Martiánez (ciemny piasek z kamieniami), jest oddalona o około 1,5 km, a piaszczysta Playa Jardín (czarny piasek wulkaniczny) o około 3 km. Obie plaże są publiczne, a hotel oferuje bezpłatny autobus na plażę w dni powszednie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Blue Sea Puerto Resort dysponuje 384 lub 390 pokojami, w tym standardowymi, premium i superior (z widokiem na morze). Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, łazienkę z suszarką do włosów, telefon, telewizor satelitarny, minibar oraz sejf (dodatkowo płatny). Pokoje są przestronne i regularnie sprzątane."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni lokalnej i międzynarodowej, często z kolacjami tematycznymi. Do dyspozycji gości są również dwa bary, w tym jeden przy basenie, oraz snack bar. Pakiet All Inclusive obejmuje pełne wyżywienie, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe w wyznaczonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny oraz jeden kryty basen, podgrzewany sezonowo. Dla aktywnych dostępne są tenis stołowy, boisko do koszykówki i siatkówki, a także siłownia. Strefa spa oferuje saunę, łaźnię turecką, jacuzzi oraz zabiegi (dodatkowo płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz mini klub z grami i zajęciami plastycznymi. Hotel oferuje również dzienne i wieczorne animacje, które zapewniają rozrywkę zarówno dzieciom, jak i dorosłym."
+  }
+ ],
+ "pros": [
+  "Miła i pomocna obsługa",
+  "Czyste i przestronne pokoje z dużymi balkonami",
+  "Dobre i urozmaicone jedzenie z kolacjami tematycznymi",
+  "Piękne tropikalne ogrody",
+  "Dobra lokalizacja, blisko Ogrodu Botanicznego i przystanku autobusowego"
+ ],
+ "cons": [
+  "Odległość od plaży i powrót pod górę",
+  "Woda w basenach bywa zimna",
+  "Klimatyzacja w pokojach bywa nieskuteczna",
+  "Brak wystarczającej liczby miejsc siedzących podczas wieczornych animacji",
+  "Kaucja za ręczniki basenowe i kubki"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża, Playa Martiánez, znajduje się około 1,5 km od hotelu. Hotel oferuje bezpłatny autobus na plażę w dni powszednie."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Tenerife North (TFN) wynosi około 25-28 km, a od lotniska Tenerife South (TFS) około 90-100 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje brodzik, plac zabaw, mini klub oraz dzienne i wieczorne animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada dwa odkryte baseny i jeden kryty, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Calle Aceviños, 8, 38400 Puerto de la Cruz, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Tenerife North (Los Rodeos, TFN)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "kort tenisowy (płatny)",
+  "tenis stołowy",
+  "boisko do koszykówki",
+  "boisko do siatkówki",
+  "bilard (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "La Paz",
+ "bars": 2,
+ "beachDistanceM": 1500,
+ "beachType": "ciemny piasek z kamieniami",
+ "centerKm": 1.5,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "relaks",
+  "aktywny wypoczynek",
+  "zwiedzanie"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1973,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój jednoosobowy",
+  "pokój standardowy",
+  "pokój premium",
+  "pokój superior (z widokiem na morze)"
+ ],
+ "rooms": 384,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "blueseahotels.com",
+  "invia.hu",
+  "tenerife-resorts.co.uk",
+  "iziwakacje.pl",
+  "kayak.pl",
+  "wakacje.pl",
+  "nekera.pl",
+  "czescwyspykanaryjskie.com"
+ ],
+ "updated": "2026-11-27"
+}

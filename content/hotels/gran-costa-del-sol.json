@@ -1,0 +1,139 @@
+{
+ "id": 10426,
+ "slug": "gran-costa-del-sol",
+ "name": "Gran Costa del Sol",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa del Sol",
+  "Mijas Costa"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/gran-costa-del-sol-basen-teren-hotelu-obiekt-1748357564-570-428.jpg",
+ "city": "Mijas Costa",
+ "intro": [
+  "Gran Costa del Sol to czterogwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży Butibamba w La Cala de Mijas, na słonecznym wybrzeżu Costa del Sol. Obiekt, otwarty w 2002 roku, jest idealnym wyborem dla rodzin i par poszukujących spokojnej bazy wypadowej z łatwym dostępem do morza i urokliwego centrum miejscowości.",
+  "Hotel oferuje komfortowe zakwaterowanie w sześciopiętrowym budynku, z odnowionymi pokojami typu Comfort. Dzięki bliskości lokalnych atrakcji i szerokiej ofercie animacji, zarówno dorośli, jak i dzieci znajdą tu coś dla siebie, ciesząc się relaksem i aktywnym wypoczynkiem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Gran Costa del Sol znajduje się w miejscowości La Cala de Mijas, bezpośrednio przy piaszczystej plaży Butibamba. Plaża jest publiczna, a leżaki i parasole są dostępne za opłatą. Centrum La Cala de Mijas, z licznymi sklepami i restauracjami, oddalone jest o zaledwie 100-700 metrów, co pozwala na łatwy dostęp do lokalnych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 300-302 pokojami, w tym 2 apartamentami. Pokoje typu Comfort zostały odnowione i oferują 2 łóżka pojedyncze, balkon lub taras, łazienkę z wanną/prysznicem, Wi-Fi, mini lodówkę oraz zestaw do parzenia kawy i herbaty. Pokoje rodzinne z dwoma podwójnymi łóżkami mogą pomieścić do 2 dorosłych i 2 dzieci."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja bufetowa Miró, serwująca dania kuchni śródziemnomorskiej i międzynarodowej z pokazami gotowania. Goście mogą korzystać z trzech barów: Pool Bar, Lounge Bar oraz El Zurbarán. Pakiet All Inclusive obejmuje posiłki w formie bufetu oraz lokalne napoje alkoholowe i bezalkoholowe. Przekąski są dostępne w wysokim sezonie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden odkryty basen ze słodką wodą, z wydzieloną płytką częścią dla dzieci. Hotel nie posiada zjeżdżalni. Dla aktywnych dostępne są siłownia, tenis stołowy, łucznictwo oraz zajęcia wodne. W pobliżu można uprawiać golf, nurkowanie czy surfing. Hotel oferuje dzienne animacje i wieczorne pokazy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Gran Costa del Sol to hotel przyjazny rodzinom. Dla najmłodszych gości przygotowano płytką część basenu, plac zabaw oraz mini klub. W sezonie oferowane są animacje i zajęcia dostosowane do wieku dzieci, zapewniając im rozrywkę podczas pobytu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży",
+  "Bliskość centrum La Cala de Mijas i promenady",
+  "Przyjazny personel i czyste pokoje",
+  "Dobre śniadania i różnorodny bufet",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Niska temperatura ciepłych dań w bufecie",
+  "Basen płytki i niepodgrzewany",
+  "Wystrój i wyposażenie pokoi (poza Comfort) bywa przestarzałe",
+  "Mały basen",
+  "Plaża publiczna z płatnymi leżakami i parasolami"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy piaszczystej plaży Butibamba."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Malaga-Costa del Sol (AGP) oddalone jest o około 30-35 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada aquaparku ani zjeżdżalni. W pobliżu znajduje się park wodny AquaMijas."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje płytką część basenu, plac zabaw i mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy basen jest podgrzewany?",
+   "a": "Brak informacji o podgrzewaniu basenu. Jest to basen odkryty ze słodką wodą."
+  }
+ ],
+ "address": "C. Butibamba, 9, 29649 La Cala de Mijas, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Malaga-Costa del Sol Airport (AGP)",
+ "amenities": [
+  "Siłownia",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Animacje dzienne i wieczorne",
+  "Restauracja bufetowa",
+  "Bary",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "La Cala de Mijas",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2002,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2003,
+ "restaurants": 1,
+ "roomTypes": [
+  "Comfort Room: 2 łóżka pojedyncze, taras/balkon, łazienka z wanną/prysznicem i suszarką do włosów, Wi-Fi, mini lodówka, zestaw do parzenia kawy i herbaty, TV satelitarna, usługa prasowania, sejf (za opłatą), klimatyzacja (sezon letni), ogrzewanie (sezon zimowy)",
+  "Family Room: 2 podwójne łóżka (135 cm), dla maksymalnie 2 osób dorosłych i 2 dzieci",
+  "Premium Room",
+  "Pokoje dwuosobowe",
+  "Pokoje trzyosobowe",
+  "Apartamenty"
+ ],
+ "rooms": 300,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5012131,
+  "lon": -4.6822908,
+  "src": "osm"
+ },
+ "sources": [
+  "kayak.com",
+  "holidaygems.co.uk",
+  "impt.io",
+  "granhotelcostadelsol.com",
+  "thomascook.com",
+  "trivago.com",
+  "goallinclusive.com",
+  "broadwaytravel.com"
+ ],
+ "updated": "2026-11-27"
+}
