@@ -1,0 +1,131 @@
+{
+ "id": 24603,
+ "slug": "maria",
+ "name": "Maria",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Riwiera Olimpijska",
+  "Kokkino Nero"
+ ],
+ "stars": 2.5,
+ "photo": "/no-index/hotel/maria-plaza-restauracja-1573621540-570-428.jpg",
+ "city": "Kokkino Nero",
+ "intro": [
+  "Hotel Maria to kameralny obiekt położony w sercu greckiej wioski Kokkino Nero, na Riwierze Olimpijskiej. Otoczony niewielkim ogrodem, oferuje spokojną atmosferę i jest idealnym miejscem dla osób szukających relaksu w sielskim klimacie. Hotel jest dobrą bazą wypadową do zwiedzania okolicy i cieszenia się lokalnymi atrakcjami.",
+  "Obiekt jest szczególnie polecany dla młodych osób, studentów oraz grup znajomych, którzy poszukują ekonomicznych wakacji. Brak tu luksusów, ale panuje przyjazna atmosfera, a serdeczni gospodarze dbają o komfort gości. Hotel Maria to doskonały wybór dla tych, którzy cenią sobie spokój i bliskość natury, z dala od zgiełku dużych kurortów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Maria znajduje się w miejscowości Kokkino Nero, w bocznej uliczce, zaledwie 200 metrów od centrum. W odległości 150 metrów od obiektu znajdziemy piekarnię, sklep spożywczy oraz tawernę. Okolica sprzyja spacerom i poznawaniu lokalnego życia."
+  },
+  {
+   "title": "Plaża",
+   "text": "Kamienisto-żwirowa plaża oddalona jest od hotelu o około 400 metrów. W pobliżu znajdują się również inne, dobrze zagospodarowane plaże, takie jak Koutsoupia i Platia Amos, gdzie leżaki i parasole są dostępne bezpłatnie po zamówieniu czegoś w barze plażowym."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje przestronne studia, a także pokoje dwu- i trzyosobowe, wszystkie wyposażone w aneks kuchenny z podstawowym sprzętem (lodówka, kuchenka, naczynia, sztućce). W każdym pokoju znajduje się łazienka z WC, TV oraz niewielki balkon lub taras. Niektóre pokoje posiadają klimatyzację i widok na góry."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel Maria nie posiada własnych restauracji ani barów, a wyżywienie jest we własnym zakresie gości. Istnieje jednak możliwość wykupienia opcji All Inclusive Light w oddalonym o około 400 metrów hotelu Aqua Rosa. Pakiet ten obejmuje śniadania, obiady i kolacje, a także nielimitowane napoje bezalkoholowe i lokalne alkohole."
+  }
+ ],
+ "pros": [
+  "Przyjazna atmosfera i serdeczni gospodarze",
+  "Dobra lokalizacja blisko centrum i sklepów",
+  "Spokojny i sielski klimat",
+  "Czyste studia z aneksem kuchennym",
+  "Dostęp do Wi-Fi"
+ ],
+ "cons": [
+  "Brak luksusu i skromne wyposażenie kuchni",
+  "Brak miejsca na suszenie ręczników w pokojach",
+  "Brak klimatyzacji w niektórych pokojach",
+  "Brak basenu i animacji na terenie hotelu",
+  "Ręczniki i środki czystości we własnym zakresie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża kamienisto-żwirowa znajduje się około 400 metrów od hotelu."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotniska to Port lotniczy Saloniki (SKG) oddalony o około 133-162 km oraz Port lotniczy Volos (VOL) oddalony o około 127 km."
+  },
+  {
+   "q": "Czy hotel jest dobry dla rodzin z dziećmi?",
+   "a": "Hotel nie jest przeznaczony wyłącznie dla dorosłych, ale nie oferuje udogodnień dla dzieci, takich jak łóżeczka czy mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, obiekt posiada bezprzewodową sieć Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu jest basen lub aquapark?",
+   "a": "Nie, hotel Maria nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie?",
+   "a": "Hotel nie posiada własnych restauracji. Wyżywienie jest we własnym zakresie, ale istnieje możliwość wykupienia opcji All Inclusive Light w pobliskim hotelu Aqua Rosa."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 127,
+ "airportName": "Volos",
+ "amenities": [
+  "Aneks kuchenny",
+  "TV",
+  "Balkon/taras",
+  "Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Riwiera Olimpijska",
+ "bars": 0,
+ "beachDistanceM": 400,
+ "beachType": "kamienisto-żwirowa",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Młode osoby",
+  "Studenci",
+  "Grupy znajomych",
+  "Osoby szukające spokoju"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio: pokój dzienny pełniący funkcję sypialni dla 2 osób z aneksem kuchennym, łazienką z WC, TV i balkonem/tarasem.",
+  "Pokój dwuosobowy: z aneksem kuchennym, łazienką z WC, TV i balkonem/tarasem.",
+  "Pokój trzyosobowy: z aneksem kuchennym, łazienką z WC, TV i balkonem/tarasem."
+ ],
+ "rooms": null,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 10.0049779,
+  "lon": 76.3050419,
+  "src": "osm"
+ },
+ "sources": [
+  "nekera.pl",
+  "wakacje.pl",
+  "traveligo.pl",
+  "r.pl",
+  "rainbowtours.cz",
+  "hotel-maria.gr",
+  "thessaliahotelspage.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

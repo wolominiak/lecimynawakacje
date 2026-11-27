@@ -1,0 +1,149 @@
+{
+ "id": "x:grecja:melia athens",
+ "slug": "melia-athens-ateny",
+ "name": "Melia Athens",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Ateny i okolice",
+  "Ateny"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/ateny/ateny/melia-athens-pl/1206/f12a_hotel_exterior_2-244.JPG",
+ "city": "Ateny",
+ "intro": [
+  "Melia Athens to czterogwiazdkowy hotel położony w samym sercu Aten, w dzielnicy Kaningos / Exarcheia. Obiekt, zbudowany w 1952 roku i gruntownie odnowiony w 2004 roku, z częściowymi renowacjami w 2014 i 2017 roku, oferuje nowoczesne udogodnienia w dziewięciopiętrowym budynku.",
+  "Hotel jest idealną bazą wypadową dla turystów pragnących zwiedzać miasto, par oraz podróżujących służbowo. Dzięki centralnemu położeniu i udogodnieniom takim jak basen na dachu z widokiem na Akropol oraz centrum wellness, Melia Athens zapewnia komfortowy pobyt w stolicy Grecji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Melia Athens znajduje się w centrum Aten, zaledwie 200-300 metrów od Placu Omonia. Taka lokalizacja umożliwia łatwy dostęp do głównych atrakcji miasta, takich jak Akropol czy Muzeum Archeologiczne. Najbliższe lotnisko, Międzynarodowe Lotnisko w Atenach (ATH), oddalone jest o około 34-40 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Hotel nie jest położony bezpośrednio przy plaży. Najbliższe plaże znajdują się w odległości około 7.5 km do 10 km od obiektu. Leżaki i ręczniki są dostępne dla gości przy basenie na dachu hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 136 pokoi w różnych kategoriach, w tym Meliá Room, Supreme Room oraz Executive Junior Suite. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, bezpłatne Wi-Fi oraz marmurową łazienkę z prysznicem deszczowym. Dodatkowo, goście mogą korzystać z zestawu do parzenia kawy/herbaty, sejfu na laptopa oraz menu poduszkowego."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny, w tym sezonowy odkryty basen na dachu, z którego roztacza się widok na Akropol. Hotel posiada również w pełni wyposażoną siłownię oraz centrum wellness Grecian Spa z sauną i łaźnią turecką, oferujące masaże i zabiegi. W obiekcie brak jest zjeżdżalni wodnych czy aquaparku."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu znajdują się trzy restauracje: Sky Lounge Rooftop Dining Bar na dachu z widokiem na Akropol, serwujący nowoczesną kuchnię grecką/śródziemnomorską, restauracja bufetowa Vivendo oraz bistro Café Mondo. Goście mogą również korzystać z dwóch barów: sezonowego Sky Lounge Rooftop Bar i Lobby Baru. Hotel oferuje śniadania w formie bufetu."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Melia Athens zapewnia bezpłatne Wi-Fi w całym hotelu i we wszystkich pokojach. Obiekt jest przyjazny rodzinom, oferując łóżeczka i krzesełka dla dzieci. Na miejscu brak jest parkingu, jednak w pobliżu dostępny jest publiczny parking za opłatą."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko metra i głównych atrakcji",
+  "Basen na dachu z widokiem na Akropol",
+  "Przyjazny i pomocny personel",
+  "Czyste i przestronne pokoje",
+  "Dostępne centrum wellness i siłownia"
+ ],
+ "cons": [
+  "Odległość od plaży (7.5-10 km)",
+  "Hałas uliczny w niektórych pokojach",
+  "Brak parkingu na miejscu",
+  "Sporadyczne uwagi dotyczące jakości śniadań",
+  "Brak ekspresu do kawy w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Melia Athens jest oddalony od plaży o około 7.5 km do 10 km."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Międzynarodowe Lotnisko w Atenach (ATH) znajduje się w odległości około 34-40 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Melia Athens nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje łóżeczka oraz krzesełka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny internet Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel posiada dwa baseny, w tym sezonowy odkryty basen na dachu z widokiem na Akropol."
+  }
+ ],
+ "address": "14 Chalkokondili & 28is Oktovriou (Patission), 10677 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Międzynarodowe Lotnisko w Atenach (ATH)",
+ "amenities": [
+  "Basen na dachu",
+  "Centrum wellness",
+  "Siłownia",
+  "Bezpłatne Wi-Fi",
+  "Restauracje",
+  "Bary",
+  "Łóżeczka dla dzieci",
+  "Krzesełka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kaningos / Exarcheia",
+ "bars": 2,
+ "beachDistanceM": 7500,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Turyści zwiedzający miasto",
+  "Pary",
+  "Podróżujący służbowo",
+  "Rodziny (jako baza wypadowa)"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1952,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Meliá Room",
+  "Supreme Room",
+  "Executive Junior Suite",
+  "Interconnecting Meliá Room",
+  "Interconnecting Supreme Room",
+  "Supreme Triple Room",
+  "Supreme Twin Room",
+  "Level Experience (VIP)",
+  "Klimatyzacja, minibar, telewizor z płaskim ekranem, Wi-Fi, marmurowa łazienka, suszarka do włosów, szlafroki, kapcie, zestaw do parzenia kawy/herbaty, sejf, żelazko i deska do prasowania, menu poduszkowe, stacja dokująca, dźwiękoszczelne okna"
+ ],
+ "rooms": 136,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9860725,
+  "lon": 23.7302168,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.com",
+  "hotel.info",
+  "grhotels.gr",
+  "jet2holidays.com",
+  "gtp.gr",
+  "xo.gr",
+  "costcotravel.com",
+  "giatadrive.com"
+ ],
+ "updated": "2026-11-27"
+}

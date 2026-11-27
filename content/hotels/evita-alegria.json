@@ -1,0 +1,124 @@
+{
+ "id": 77741,
+ "slug": "evita-alegria",
+ "name": "Evita Alegria",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos",
+  "Faliraki"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/evita-alegria-basen-1665278361-570-428.jpg",
+ "city": "Faliraki",
+ "intro": [
+  "Evita Alegria to trzygwiazdkowy hotel położony w miejscowości Faliraki na słonecznej wyspie Rodos w Grecji. Obiekt, otwarty w 1985 roku i gruntownie odnowiony w 2023 roku, oferuje komfortowe zakwaterowanie w spokojnej okolicy, jednocześnie zapewniając łatwy dostęp do atrakcji.",
+  "Hotel jest idealnym wyborem dla par oraz osób poszukujących relaksu, które cenią sobie bliskość centrum miejscowości oraz plaży. Dzięki swojej lokalizacji i udogodnieniom, Evita Alegria stanowi dobrą bazę wypadową do zwiedzania Rodos, oferując jednocześnie spokojne miejsce do wypoczynku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Evita Alegria znajduje się w Faliraki, około 800 m do 1 km od centrum miejscowości. Najbliższa plaża, Katafygio Beach, oddalona jest o 500 m do 1 km. Piaszczysta plaża Faliraki jest również w zasięgu spaceru. Obiekt nie posiada prywatnej plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 51 pokoi, w tym dwuosobowe (Double Room, Twin/Double) oraz trzyosobowe (Triple Standard). Dostępne są również pokoje z bezpośrednim dostępem do basenu (Double Sharing Pool). Wszystkie pokoje są dźwiękoszczelne i wyposażone w klimatyzację, balkon lub taras, prywatną łazienkę z prysznicem, suszarkę do włosów, mini-lodówkę oraz telewizor z płaskim ekranem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja i jeden bar przy basenie. Goście mogą korzystać z opcji śniadania kontynentalnego w formie bufetu z możliwością zamówienia dań na ciepło. Na lunch i kolację dostępne jest menu à la carte. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen, przy którym dostępne są bezpłatne leżaki. Ręczniki basenowe można wypożyczyć za kaucją 10 EUR. Hotel nie posiada podgrzewanych basenów, zjeżdżalni ani aquaparku. Bezpłatne Wi-Fi jest dostępne w pokojach i częściach wspólnych."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko centrum i plaży",
+  "Czysty basen z wygodnymi leżakami",
+  "Smaczne śniadania",
+  "Dobra relacja jakości do ceny"
+ ],
+ "cons": [
+  "Ograniczona przestrzeń w szafach",
+  "Niedokładne sprzątanie",
+  "Hałas z zewnątrz lub słaba izolacja akustyczna",
+  "Głośna klimatyzacja"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża, Katafygio Beach, znajduje się w odległości około 500 m do 1 km od hotelu. Piaszczysta plaża Faliraki jest również w pobliżu."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Międzynarodowe lotnisko Rodos (RHO) oddalone jest od hotelu o 9 km do 17 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel Evita Alegria nie posiada aquaparku ani zjeżdżalni na swoim terenie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje możliwość dostawienia łóżeczek dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi zarówno w pokojach, jak i w ogólnodostępnych częściach obiektu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Evita Alegria oferuje opcje śniadania oraz menu à la carte na lunch i kolację. Brak jest pakietu all inclusive."
+  }
+ ],
+ "address": "Asklipiou Str. 85105, Faliraki",
+ "adultsOnly": false,
+ "airportKm": 9,
+ "airportName": "Rodos (RHO)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Klimatyzacja w pokojach",
+  "Mini-lodówka w pokojach",
+  "Telewizor satelitarny"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Pary",
+  "Osoby szukające relaksu"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double Room, Twin/Double) z klimatyzacją, balkonem/tarasem, łazienką z prysznicem, suszarką, mini-lodówką, TV, biurkiem, wieszakiem",
+  "Pokój trzyosobowy (Triple Standard) z klimatyzacją, balkonem/tarasem, łazienką z prysznicem, suszarką, mini-lodówką, TV, biurkiem, wieszakiem",
+  "Pokój dwuosobowy z dostępem do basenu (Double Sharing Pool) z klimatyzacją, balkonem/tarasem, łazienką z prysznicem, suszarką, mini-lodówką, TV, biurkiem, wieszakiem"
+ ],
+ "rooms": 51,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "tui.co.uk",
+  "planetofhotels.com",
+  "booking.com",
+  "skyscanner.net",
+  "firstchoice.co.uk",
+  "reserving.com",
+  "sembo.ie",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-27"
+}

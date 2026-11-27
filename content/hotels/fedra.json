@@ -1,0 +1,138 @@
+{
+ "id": 33001,
+ "slug": "fedra",
+ "name": "Fedra",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kefalonia",
+  "Lixouri"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/fedra-basen-809074708-570-428.jpg",
+ "city": "Lixouri",
+ "intro": [
+  "Hotel Fedra (Phaedra Suites) to kameralny, czterogwiazdkowy obiekt położony na wzgórzu w miejscowości Lixouri, na malowniczej wyspie Kefalonia w Grecji. Z hotelu roztacza się widok na zatokę Livadi i okoliczne góry, co sprzyja relaksowi w spokojnej atmosferze.",
+  "Obiekt jest idealnym miejscem dla osób poszukujących cichego wypoczynku, ceniących piękne krajobrazy i dobrą kuchnię. Hotel jest przyjazny rodzinom, oferując brodzik dla najmłodszych gości, choć ze względu na lokalizację na wzgórzu, zalecany jest wynajem samochodu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Fedra usytuowany jest na wzgórzu w Lixouri, oferując panoramiczne widoki na zatokę Livadi. Najbliższa piaszczysta plaża Variko znajduje się około 2 km od obiektu, natomiast słynna plaża Petani, wyróżniona Błękitną Flagą, oddalona jest o około 12 km. Do centrum Lixouri są około 3 km, a do stolicy wyspy, Argostoli, 35 km. Lotnisko Kefalonia (EFL) znajduje się w odległości 40-45 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 24 pokojami rozmieszczonymi w dwóch jednopiętrowych budynkach. Dostępne są pokoje dwu- i trzyosobowe, z balkonem lub tarasem. Wyposażenie obejmuje klimatyzację, telewizor z płaskim ekranem, lodówkę, sejf, zestaw do parzenia kawy i herbaty oraz suszarkę do włosów. Niektóre pokoje posiadają aneks kuchenny. Pokoje są sprzątane codziennie, a pościel zmieniana 3 razy w tygodniu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się basen ze słodką wodą oraz oddzielny brodzik dla dzieci. Przy basenach dostępne są bezpłatne leżaki i parasole. W okolicy można aktywnie spędzać czas, uprawiając snorkeling, jazdę na rowerze czy piesze wędrówki. Hotel oferuje również bezpłatne Wi-Fi na całym obiekcie."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Hotel Fedra oferuje wyżywienie w formule Bed and Breakfast, z możliwością wykupienia obiadokolacji. Na miejscu działa rodzinna restauracja, a także bar przy basenie, kawiarnia oraz bar i salon. Nie ma informacji o ofercie all inclusive."
+  }
+ ],
+ "pros": [
+  "Fantastyczny widok na zatokę i góry",
+  "Czystość i codzienne sprzątanie pokoi",
+  "Bardzo miła i życzliwa obsługa",
+  "Smaczne jedzenie, szczególnie obiadokolacje",
+  "Spokojna okolica i bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Śniadania bywają oceniane jako przeciętne",
+  "Lokalizacja na wzgórzu wymaga samochodu do poruszania się",
+  "Brak serwisu plażowego na najbliższej plaży Variko",
+  "Hotel nie zapewnia transferu lotniskowego",
+  "Brak aquaparku i animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa piaszczysta plaża Variko znajduje się około 2 km od hotelu. Słynna plaża Petani jest oddalona o około 12 km."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Odległość od lotniska Kefalonia (EFL) wynosi około 40-45 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik dla dzieci. Dzieci są mile widziane."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Agios Dimitrios, Lixouri",
+ "adultsOnly": false,
+ "airportKm": 42.5,
+ "airportName": "Kefalonia (EFL)",
+ "amenities": [
+  "Balkon/taras w pokojach",
+  "Klimatyzacja w pokojach",
+  "Telewizor z płaskim ekranem",
+  "Lodówka w pokojach",
+  "Sejf w pokojach",
+  "Zestaw kosmetyków",
+  "Suszarka do włosów",
+  "Żelazko i deska do prasowania",
+  "Czajnik elektryczny",
+  "Zestaw do kawy i herbaty",
+  "Aneks kuchenny w niektórych pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Lixouri",
+ "bars": 3,
+ "beachDistanceM": 2000,
+ "beachType": "Piaszczysta (Variko), piaszczysto-kamienista (Petani)",
+ "centerKm": 3,
+ "goodFor": [
+  "Spokojny wypoczynek",
+  "Kameralna atmosfera",
+  "Piękne widoki",
+  "Dobra kuchnia",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, TV, lodówką, sejfem, prysznicem, zestawem kosmetyków, suszarką, żelazkiem, czajnikiem, zestawem do kawy/herbaty, balkonem/tarasem",
+  "Pokój trzyosobowy z klimatyzacją, TV, lodówką, sejfem, prysznicem, zestawem kosmetyków, suszarką, żelazkiem, czajnikiem, zestawem do kawy/herbaty, balkonem/tarasem"
+ ],
+ "rooms": 24,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 34.990745,
+  "lon": 33.9827192,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "grecos.pl",
+  "planetofhotels.com",
+  "google.com",
+  "hotelsinkefalonia.com",
+  "booking.com",
+  "hotels-in-kefalonia-greece.com",
+  "hotels-kefalonia.net"
+ ],
+ "updated": "2026-11-27"
+}

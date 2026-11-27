@@ -1,0 +1,135 @@
+{
+ "id": "x:grecja:asteris village",
+ "slug": "asteris-village",
+ "name": "Asteris Village",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Gerakini"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/gerakini/asteris-village/00e3f9255a7e3e2c48800.jpg",
+ "city": "Gerakini",
+ "intro": [
+  "Hotel Asteris Village to kameralny kompleks położony na niewielkim wzgórzu w Trikorfo, w sercu Chalkidiki, z widokiem na Zatokę Toroneos. Otoczony gajami oliwnymi i owocowymi, oferuje spokojny wypoczynek w otoczeniu natury. Obiekt, składający się z odnowionych i nowych budynków, został całkowicie odnowiony w 2019 roku.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz małych grup szukających komfortowego i relaksującego pobytu nad morzem. Jego lokalizacja blisko piaszczystej plaży i zielony teren sprzyjają odpoczynkowi, a różnorodność typów pokoi pozwala na dopasowanie zakwaterowania do indywidualnych potrzeb gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Asteris Village znajduje się w miejscowości Trikorfo, w rejonie Gerakini, na półwyspie Sithonia. Od piaszczystej plaży Trikorfo z łagodnym wejściem do morza dzieli go zaledwie 200 metrów, czyli około 5 minut spacerem. Centrum Gerakini oddalone jest o około 2,1-2,5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 37 lub 47 pokoi, w tym Economy Studio, Studio, Apartamenty Executive, Junior Suites oraz dwupoziomowe Maisonettes. Wszystkie pokoje są klimatyzowane (często za dodatkową opłatą), wyposażone w TV satelitarną, Wi-Fi, łazienkę z prysznicem i lodówkę. Niektóre typy pokoi posiadają aneks lub w pełni wyposażoną kuchnię."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji „Anastasia” serwowane są śniadania w formie bufetu, obiady i kolacje. Goście mogą również skorzystać z baru przy basenie/kawiarni, oferującego napoje, kawę, koktajle i lody. Dostępne opcje wyżywienia to śniadanie, obiadokolacja lub pełne wyżywienie za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen dla dorosłych i dzieci oraz oddzielny brodzik dla najmłodszych. Bezpłatne leżaki i parasole są dostępne przy basenie. Dla dzieci przygotowano plac zabaw ze zjeżdżalniami i huśtawkami. Hotel oferuje również możliwość gry w tenis stołowy, koszykówkę, siatkówkę i piłkę nożną."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Asteris Village to idealne miejsce dla rodzin z dziećmi, par i małych grup szukających spokojnego i komfortowego wypoczynku. Duży zielony teren, basen z brodzikiem oraz plac zabaw sprawiają, że jest to doskonały wybór dla rodzin. Bliskość plaży i możliwość samodzielnego przygotowywania posiłków w niektórych pokojach to dodatkowe atuty."
+  }
+ ],
+ "pros": [
+  "Bardzo przyjazny i pomocny personel",
+  "Spokojna lokalizacja blisko plaży",
+  "Duży, zielony teren z basenem",
+  "Dobrze wyposażone pokoje, często z kuchnią",
+  "Smaczne i niedrogie jedzenie w restauracji"
+ ],
+ "cons": [
+  "Niektórzy goście narzekają na śniadania",
+  "Starsze meble i sprzęty w kuchni w niektórych apartamentach",
+  "Klimatyzacja często dodatkowo płatna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Asteris Village jest oddalony o około 200 metrów od piaszczystej plaży Trikorfo, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Port Lotniczy Saloniki-Macedonia (SKG), oddalone o około 50,1 km lub 67 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel posiada odkryty basen dla dorosłych i dzieci oraz brodzik dla dzieci. Na placu zabaw dla dzieci są zjeżdżalnie, ale nie ma typowego aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi. Posiada basen dla dzieci, brodzik oraz plac zabaw ze zjeżdżalniami i huśtawkami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "Brak informacji o dostępności siłowni lub spa na terenie hotelu."
+  }
+ ],
+ "address": "Trikorfo Gerakini, P.C 63100",
+ "adultsOnly": false,
+ "airportKm": 50.1,
+ "airportName": "Port Lotniczy Saloniki-Macedonia (SKG)",
+ "amenities": [
+  "Plac zabaw dla dzieci",
+  "Tenis stołowy",
+  "Koszykówka",
+  "Siatkówka",
+  "Piłka nożna"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Gerakini, Półwysep Sithonia",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta z łagodnym wejściem do morza",
+ "centerKm": 2.1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Małe grupy"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 2019,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Studio (ok. 20 m²): podwójne łóżko, łazienka z prysznicem, mini lodówka, klimatyzacja, TV satelitarna, sejf, Wi-Fi, okno (bez balkonu), bez kuchni.",
+  "Studio (ok. 18 m²): podwójne łóżko, aneks kuchenny, łazienka z prysznicem, TV, klimatyzacja (dodatkowo płatna), sejf (bezpłatny), mini lodówka, Wi-Fi, balkon/taras.",
+  "Apartamenty Executive (ok. 38 m²): sypialnia z podwójnym łóżkiem, aneks kuchenny, salon z dwiema sofami.",
+  "Junior Suites (ok. 55 m²): dwie oddzielne pokoje (sypialnia z podwójnym łóżkiem i salon z dwiema sofami), wyposażona kuchnia, łazienka, taras z bezpośrednim dostępem do basenu/ogrodu.",
+  "Maisonettes (ok. 150 m²): dwupoziomowe, salon, jadalnia, duża kuchnia, 3 sypialnie (dwie z podwójnym łóżkiem, jedna z dwoma pojedynczymi), 2 łazienki, pralka, duże werandy z widokiem na morze."
+ ],
+ "rooms": 47,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.2660293,
+  "lon": 23.4606834,
+  "src": "osm"
+ },
+ "sources": [
+  "grckainfo.com",
+  "flyandbed.com",
+  "asterisvillage.gr",
+  "broadwaytravel.com",
+  "halkidiki-hotels.gr",
+  "agoda.com",
+  "holidaycheck.de",
+  "getseat-transfers.com"
+ ],
+ "updated": "2026-11-27"
+}

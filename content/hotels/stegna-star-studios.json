@@ -1,0 +1,127 @@
+{
+ "id": 69252,
+ "slug": "stegna-star-studios",
+ "name": "Stegna Star Studios",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/stegna-star-studios-teren-hotelu-1614375671-570-428.jpg",
+ "city": "Rodos",
+ "intro": [
+  "Stegna Star Studios to aparthotel położony w spokojnej miejscowości Stegna, na wschodnim wybrzeżu Rodos, tuż przy piaszczysto-żwirowej plaży. Obiekt oferuje 20 studiów i apartamentów, co czyni go idealnym wyborem dla osób szukających kameralnego zakwaterowania z możliwością samodzielnego przygotowywania posiłków.",
+  "Hotel jest szczególnie polecany dla par i rodzin, które cenią sobie bliskość plaży oraz spokojną atmosferę, z dala od zgiełku większych kurortów. Goście mogą liczyć na przyjazną obsługę i dobry stosunek jakości do ceny, choć warto mieć na uwadze dodatkowe opłaty za niektóre udogodnienia."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Stegna Star Studios znajduje się w miejscowości Stegna, w regionie Archangelos, zaledwie około 50 metrów od plaży Stegna. Plaża ta jest piaszczysta, z elementami żwiru, a leżaki i parasole są dostępne, prawdopodobnie za dodatkową opłatą. Najbliższe centrum Archangelos oddalone jest o około 1 km, a do miasta Rodos jest około 27.6 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 20 studiów i apartamentów z jedną sypialnią. Każdy pokój wyposażony jest w aneks kuchenny, lodówkę, telewizor z kanałami satelitarnymi, telefon, suszarkę do włosów oraz balkon lub taras. Klimatyzacja i sejf są dostępne, ale często wiążą się z dodatkowymi opłatami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie obiektu znajduje się restauracja i bar. Jeśli śniadanie jest zarezerwowane z zakwaterowaniem, serwowane jest w Jack's Place, oddalonym o 80 metrów. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "W Stegna Star Studios dostępne jest bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych i we wszystkich pokojach. Brak jest basenów, spa czy siłowni na terenie obiektu. W pobliżu plaży można skorzystać z płatnych sportów wodnych, takich jak rowery wodne i banany."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja tuż przy plaży",
+  "Spokojna okolica",
+  "Czyste zakwaterowanie",
+  "Przyjazny i pomocny personel",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Pokoje mogą wykazywać oznaki zużycia",
+  "Klimatyzacja i sejf często dodatkowo płatne",
+  "Brak parkingu na miejscu",
+  "Recepcja działa w ograniczonych godzinach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Stegna Star Studios jest położony około 50 metrów od plaży Stegna."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Rodos Diagoras (RHO), znajduje się około 30-36 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Stegna Star Studios nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Należy jednak pamiętać, że dzieci mogą podlegać dodatkowym opłatom."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Brak informacji o basenach na terenie hotelu."
+  }
+ ],
+ "address": "Stegna Beach Archangelos, Archangelos, 85102, Grecja",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Międzynarodowy Port Lotniczy Rodos Diagoras (RHO)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Balkon lub taras w pokojach",
+  "Sejf (płatny)",
+  "Telewizor",
+  "Minibar (płatny)",
+  "Suszarka do włosów"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Stegna, Archangelos",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta, żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament/Studio z jedną sypialnią (klimatyzacja, telewizor, sejf, telefon, minibar, aneks kuchenny, lodówka, suszarka do włosów, balkon/taras, rozkładana sofa)"
+ ],
+ "rooms": 20,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.20739,
+  "lon": 28.139666,
+  "src": "web"
+ },
+ "sources": [
+  "thomascook.com",
+  "reserve-online.net",
+  "admiral.travel",
+  "nedatours.com",
+  "rhodesislandhotels.com",
+  "hotels.com",
+  "onthebeach.co.uk",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

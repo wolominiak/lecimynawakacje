@@ -1,0 +1,131 @@
+{
+ "id": 24191,
+ "slug": "aparthotel-thodorou",
+ "name": "Aparthotel Thodorou",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Agia Marina"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/aparthotel-thodorou-basen-1560352972-570-428.jpg",
+ "city": "Agia Marina",
+ "intro": [
+  "Aparthotel Thodorou to kameralny obiekt położony bezpośrednio przy piaszczystej plaży Agia Marina na zachodniej Krecie, zaledwie 9 km od centrum Chanii. Hotel oferuje niezależne zakwaterowanie w studiach i apartamentach z aneksami kuchennymi, co czyni go idealnym wyborem dla rodzin, par oraz wszystkich, którzy cenią sobie swobodę i spokój podczas wakacji.",
+  "Obiekt składa się z dwóch części - Thodorou Village, zbudowanej w 2008 roku, oraz Villa Thodorou. Dzięki bezpośredniemu dostępowi do plaży i bliskości lokalnych atrakcji, hotel stanowi dobrą bazę wypadową do odkrywania uroków Krety."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Aparthotel Thodorou usytuowany jest w miejscowości Agia Marina, w regionie Nea Kydonia, bezpośrednio przy piaszczystej plaży oznaczonej Błękitną Flagą. Obiekt znajduje się naprzeciwko malowniczej wyspy Thodorou, około 9 km na zachód od centrum Chanii. Odległość od hotelu do plaży waha się od 20 do 250 metrów, zapewniając łatwy dostęp do morza."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia dla 2-3 osób oraz przestronne apartamenty z jedną sypialnią dla 3-4 osób. Wszystkie pokoje wyposażone są w aneks kuchenny, lodówkę, zestaw do parzenia kawy/herbaty, telewizor z płaskim ekranem oraz łazienkę z prysznicem i suszarką do włosów. Do dyspozycji gości jest także balkon lub patio, często z widokiem na morze lub basen."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen ze słodką wodą, dostępny sezonowo. Dla najmłodszych wydzielono brodzik. Hotel nie posiada aquaparku ani zjeżdżalni. Na plaży dostępne są płatne sporty wodne, a bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Aparthotel Thodorou oferuje zakwaterowanie bez wyżywienia, co pozwala gościom na pełną swobodę w przygotowywaniu posiłków we własnych aneksach kuchennych. Na terenie obiektu znajdują się bar/lounge, snack bar oraz bar przy plaży, gdzie można skorzystać z napojów i przekąsek."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży",
+  "Kameralna i spokojna atmosfera",
+  "Czyste i przestronne apartamenty z balkonami",
+  "Dobrze wyposażone aneksy kuchenne",
+  "Pomocny i miły personel",
+  "Bliskość tawern, restauracji i sklepów"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Płatna klimatyzacja i sejf",
+  "Brak wyżywienia w hotelu",
+  "Brak animacji, mini klubu, siłowni czy spa",
+  "Możliwe stare i głośne klimatyzatory"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy piaszczystej plaży Agia Marina, w odległości od 20 do 250 metrów."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Chania (CHQ), oddalone o około 19.7 km do 25 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i posiada brodzik dla dzieci oraz pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu dostępne jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie?",
+   "a": "Hotel oferuje zakwaterowanie bez wyżywienia (self-catering), ale na terenie obiektu są dostępne bary."
+  }
+ ],
+ "address": "Agia Marina, Kydonias, Chania 73014",
+ "adultsOnly": false,
+ "airportKm": 19.7,
+ "airportName": "Międzynarodowy Port Lotniczy Chania (CHQ)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Lodówka",
+  "Zestaw do parzenia kawy/herbaty",
+  "Telewizor z płaskim ekranem",
+  "Suszarka do włosów",
+  "Balkon/Patio",
+  "Dźwiękoszczelne okna",
+  "Szafa",
+  "Rozkładana sofa"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Nea Kydonia",
+ "bars": 3,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające niezależnych wakacji"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2008,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Studio (28 m², dla 2-3 osób, w tym dwa przystosowane dla osób niepełnosprawnych)",
+  "Apartament z jedną sypialnią (55 m², dla 3-4 osób)"
+ ],
+ "rooms": 36,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "hotelscrete.net",
+  "kayak.de",
+  "cretanet.com",
+  "cretetophotels.com",
+  "booking.com",
+  "thodorouvillage.com",
+  "mapy.com",
+  "avistratravel.com"
+ ],
+ "updated": "2026-11-27"
+}

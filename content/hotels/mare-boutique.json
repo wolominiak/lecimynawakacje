@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:mare boutique",
+ "slug": "mare-boutique",
+ "name": "Mare Boutique",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Georgiupolis"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/georgioupolis/mare-boutique-pl/2191/4d3_agrhercp92_919486-244.jpg",
+ "city": "Georgioupolis",
+ "intro": [
+  "Hotel Mare Boutique to kameralny obiekt położony bezpośrednio przy piaszczystej plaży w miejscowości Georgioupolis na Krecie. Przeznaczony wyłącznie dla dorosłych (16+), jest idealnym wyborem dla par i osób szukających spokoju oraz relaksu z dala od zgiełku.",
+  "Odnowiony w 2019 roku, czterogwiazdkowy hotel oferuje komfortowe warunki zakwaterowania w jednym budynku z 39 pokojami. Jego atutem jest bliskość centrum miejscowości, co pozwala na łatwy dostęp do lokalnych atrakcji i udogodnień."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mare Boutique znajduje się w Georgioupolis na Krecie, bezpośrednio przy piaszczystej plaży Georgioupolis. Do centrum miejscowości jest zaledwie 90-300 metrów. Leżaki i parasole przy basenie są bezpłatne, natomiast na plaży dostępne są za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 39 luksusowych pokoi dwuosobowych, w tym Superior Queen, Superior Single oraz Deluxe Double z widokiem na morze lub bocznym widokiem na morze. Wszystkie pokoje wyposażone są w klimatyzację, minilodówkę, telewizor z płaskim ekranem, łazienkę z prysznicem i suszarką do włosów, sejf (płatny) oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa główna restauracja \"Neorio Restaurant\", serwująca amerykańskie śniadania oraz lunche i kolacje w formie bufetu z daniami kuchni lokalnej i międzynarodowej. Do dyspozycji gości jest również bar przy basenie. Oferta All Inclusive obejmuje wszystkie posiłki, przekąski oraz napoje bezalkoholowe i alkoholowe (lokalne i wybrane międzynarodowe) od rana do późnego wieczora."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden sezonowy odkryty basen z wodą morską i płytką częścią. Hotel nie posiada aquaparku ani zjeżdżalni. Usługi spa, takie jak masaże, jacuzzi i sauna, są dostępne w siostrzanym hotelu Fereniki Holiday Resort & Spa za dodatkową opłatą."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Mare Boutique to hotel wyłącznie dla dorosłych (16+), rekomendowany dla par i osób dorosłych poszukujących spokojnego wypoczynku. Brak tu animacji, mini klubu czy stref dla dzieci, co sprzyja relaksowi w ciszy."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bliskość centrum Georgioupolis",
+  "Czyste pokoje i miła obsługa",
+  "Dobre jedzenie, szczególnie śniadania",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Basen i jego okolica mogą być małe",
+  "Płatne leżaki i parasole na plaży",
+  "Brak siłowni na terenie hotelu",
+  "Brak animacji i udogodnień dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Mare Boutique położony jest bezpośrednio przy piaszczystej plaży Georgioupolis."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, Mare Boutique to hotel wyłącznie dla dorosłych (Adults Only, 16+)."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Chania (CHQ), oddalone o około 42-48 km. Lotnisko w Heraklionie (HER) znajduje się około 90-103 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (16+) i nie oferuje udogodnień dla dzieci."
+  }
+ ],
+ "address": "Georgioupolis Apokoronas 73007, Chania, Kreta, Grecja",
+ "adultsOnly": true,
+ "airportKm": 42,
+ "airportName": "Chania (CHQ)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "bar przy basenie",
+  "restauracja",
+  "basen z wodą morską"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Georgioupolis",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 0.09,
+ "goodFor": [
+  "pary",
+  "dorośli szukający relaksu"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Superior Queen Room",
+  "Superior Single Room",
+  "Deluxe Double Room z widokiem na morze",
+  "Deluxe Double Room z bocznym widokiem na morze"
+ ],
+ "rooms": 39,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3617067,
+  "lon": 24.2628264,
+  "src": "osm"
+ },
+ "sources": [
+  "kalamaki-travel.gr",
+  "hotelscrete.net",
+  "expedia.co.uk",
+  "ohotel.uk",
+  "kayak.com",
+  "mareboutique.gr",
+  "reserve-online.net",
+  "cretavil.com"
+ ],
+ "updated": "2026-11-27"
+}

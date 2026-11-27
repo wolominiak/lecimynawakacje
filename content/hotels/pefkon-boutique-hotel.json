@@ -1,0 +1,133 @@
+{
+ "id": "x:grecja:pefkon boutique hotel",
+ "slug": "pefkon-boutique-hotel",
+ "name": "Pefkon Boutique Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Chalkidiki i Riwiera Olimpijska",
+  "Kallithea"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/chalkidiki-a-olympska-riviera/kallithea/pefkon-boutique-hotel/9ad0_hotel_exterior_2.JPG",
+ "city": "Afytos",
+ "intro": [
+  "Pefkon Boutique Hotel, znany również jako Pefkon Suites, to czterogwiazdkowy obiekt położony w malowniczej miejscowości Afytos na półwyspie Kassandra w regionie Chalkidiki. Otoczony sosnami i drzewami oliwnymi, hotel oferuje spokojną atmosferę z widokiem na Zatokę Toroneos, idealną dla osób poszukujących relaksu.",
+  "Hotel został całkowicie odnowiony w 2022 roku i dysponuje 30 nowocześnie urządzonymi pokojami. Jest to doskonały wybór dla par, nowożeńców oraz wszystkich, którzy pragną uciec od zgiełku i cieszyć się naturą Grecji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Pefkon Boutique Hotel znajduje się w miejscowości Afytos, około 2 km od jej centrum turystycznego. Najbliższa piaszczysta plaża Afytos/Kallithea Beach oddalona jest o około 1 km, a dojście do niej może wymagać pokonania schodów. Obiekt oferuje dostęp do prywatnej lub półprywatnej plaży z błękitnymi wodami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 30 pokojami rozmieszczonymi w dwupiętrowym budynku głównym i przyległym aneksie. Pokoje są nowoczesne i stylowo urządzone, wyposażone w klimatyzację, sejf na laptopa, bezpłatne Wi-Fi, łazienkę z prysznicem i suszarką do włosów, a także balkon oraz wentylator sufitowy. Codzienne sprzątanie jest zapewnione."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu serwowane są śniadania w formie bufetu w godzinach 09:00-11:00. Goście mogą również skorzystać z baru przy basenie, który oferuje napoje i przekąski od kwietnia do września w godzinach 09:00-17:00. Dostępna jest opcja niepełnego wyżywienia (śniadanie)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden podgrzewany basen zewnętrzny o powierzchni około 35 m² z brodzikiem dla dzieci, czynny od kwietnia do października. Goście mogą korzystać z bezpłatnych leżaków i parasoli przy basenie. Hotel oferuje również siłownię zewnętrzną oraz możliwość skorzystania z prywatnych masaży. W okolicy dostępne są wycieczki łodzią, prywatne rejsy oraz wypożyczalnia rowerów."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Pefkon Boutique Hotel jest szczególnie polecany dla nowożeńców, par oraz osób szukających spokojnego i relaksującego wypoczynku w otoczeniu natury. Dzięki udogodnieniom dla dzieci, takim jak brodzik i plac zabaw, hotel jest również odpowiedni dla rodzin, choć nie oferuje mini klubu ani animacji."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja z widokiem na morze",
+  "Bardzo pomocny personel",
+  "Czyste i nowoczesne pokoje",
+  "Dobre i urozmaicone śniadania",
+  "Dostęp do prywatnej plaży"
+ ],
+ "cons": [
+  "Dojście do plaży może być męczące (odległość i schody)",
+  "Brak windy w hotelu",
+  "Brak animacji i mini klubu dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 1 km od piaszczystej plaży Afytos/Kallithea Beach. Dojście do plaży może wymagać pokonania schodów."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną lub półprywatną plażę z błękitnymi wodami."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko w Salonikach (SKG), oddalone jest o około 64 km w linii prostej lub około 90 km drogą."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel posiada brodzik dla dzieci i plac zabaw, jednak nie oferuje mini klubu ani animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje śniadania w formie bufetu oraz opcję niepełnego wyżywienia (śniadanie). Brak pakietu all inclusive."
+  }
+ ],
+ "address": "Eparxiaki Odos Afytos, Thesi Tsilios 63077, Afytos, Kassandra, Halkidiki, Grecja",
+ "adultsOnly": false,
+ "airportKm": 64,
+ "airportName": "Międzynarodowe Lotnisko w Salonikach (SKG)",
+ "amenities": [
+  "prywatne masaże",
+  "wypożyczalnia rowerów",
+  "wycieczki łodzią",
+  "prywatne rejsy"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Kassandra",
+ "bars": 1,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "nowożeńcy",
+  "pary",
+  "szukający spokoju i relaksu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2022,
+ "restaurants": null,
+ "roomTypes": [
+  "Standard Double Room",
+  "Deluxe Room (z widokiem lub bez)",
+  "Double Room Sea View",
+  "Deluxe Suite Sea View",
+  "Premium Tent Sea View",
+  "Economy Double",
+  "Double Garden View",
+  "Double Comfort Tent Sea View"
+ ],
+ "rooms": 30,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "pefkon.gr",
+  "reserve-online.net",
+  "inspiredluxuryescapes.com",
+  "booking.com",
+  "travelmyth.co.uk",
+  "trip.com",
+  "hotels.com",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

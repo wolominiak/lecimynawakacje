@@ -1,0 +1,132 @@
+{
+ "id": 43820,
+ "slug": "alkmini",
+ "name": "Alkmini",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos",
+  "Theologos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/alkmini-basen-1776508950-570-428.jpg",
+ "city": "Theologos",
+ "intro": [
+  "Hotel Alkmini to kameralny aparthotel położony w spokojnej miejscowości Theologos (Tholos) na północno-zachodnim wybrzeżu Rodos. Obiekt, otoczony ogrodem, oferuje proste zakwaterowanie w apartamentach, idealne dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par szukających relaksu w cichej okolicy. Ze względu na wietrzne warunki na pobliskiej plaży, Alkmini stanowi również dobrą bazę dla miłośników windsurfingu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Alkmini znajduje się w centrum miejscowości Theologos na Rodos. Odległość do kamienisto-żwirowej plaży nad Morzem Egejskim wynosi około 500 metrów (5 minut spacerem). Wejście do morza jest kamieniste. Najbliższe lotnisko Rodos \"Diagoras\" (RHO) oddalone jest o około 8 km, a do centrum Theologos można dojść w 10 minut (300-500 metrów)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 20-22 apartamenty, przeznaczone zazwyczaj dla 3-4 osób. Każdy apartament posiada prywatną łazienkę z prysznicem lub wanną i suszarką do włosów, aneks kuchenny z lodówką, telefon, telewizor oraz balkon lub taras. Klimatyzacja i sejf są dostępne, często za dodatkową opłatą. W niektórych apartamentach wydzielono oddzielne sypialnie i salon. Możliwe jest bezpłatne dostawienie łóżeczka dla dziecka do 2 lat lub dodatkowego łóżka dla starszych dzieci/dorosłych za opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja, bar/lounge bar, bar przy basenie oraz snack bar. Hotel Alkmini nie oferuje pakietu all inclusive, a zakwaterowanie jest często opisywane jako z wyżywieniem we własnym zakresie, co sprzyja korzystaniu z aneksów kuchennych w apartamentach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście hotelu mogą korzystać z odkrytego basenu. Dla dzieci wydzielono specjalną sekcję w basenie oraz dostępny jest plac zabaw. Hotel zapewnia wieczorne rozrywki. Dostępny jest bilard, a pobliska plaża jest idealna dla windsurferów. Brak informacji o spa, siłowni czy aquaparku."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Alkmini jest odpowiedni dla rodzin z dziećmi oraz par, które szukają spokojnego miejsca na wypoczynek i preferują samodzielne przygotowywanie posiłków. Ze względu na warunki wietrzne na plaży, jest to również atrakcyjna opcja dla windsurferów."
+  }
+ ],
+ "pros": [
+  "Przyjazna, rodzinna atmosfera",
+  "Czysty basen",
+  "Spokojna okolica",
+  "Przestronne i czyste apartamenty",
+  "Dobre jedzenie w restauracji/barze"
+ ],
+ "cons": [
+  "Podstawowe, czasem przestarzałe wyposażenie pokoi",
+  "Płatna klimatyzacja",
+  "Płatne Wi-Fi, dostępne tylko w miejscach publicznych",
+  "Ograniczone możliwości gotowania w niektórych aneksach",
+  "Brak transferu lotniskowego"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Alkmini jest oddalony od plaży o około 500 metrów, co oznacza około 5 minut spacerem. Plaża jest kamienisto-żwirowa."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Rodos \"Diagoras\" (RHO), znajduje się około 8 km od hotelu, czyli około 10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Alkmini nie oferuje pakietu all inclusive. Jest często opisywany jako obiekt z zakwaterowaniem z wyżywieniem we własnym zakresie."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach na terenie hotelu. Dostępny jest odkryty basen z wydzieloną sekcją dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"przyjazny rodzinom\". Posiada wydzieloną sekcję dla dzieci w basenie oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w miejscach publicznych (lobby, bar przy basenie), często za dodatkową opłatą."
+  }
+ ],
+ "address": "Theologos, Tholos 85106",
+ "adultsOnly": false,
+ "airportKm": 8,
+ "airportName": "Rodos \"Diagoras\" (RHO)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Balkon/taras",
+  "Plac zabaw",
+  "Bilard"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Theologos (Tholos)",
+ "bars": 3,
+ "beachDistanceM": 500,
+ "beachType": "kamienista lub żwirowa",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Miłośnicy windsurfingu"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament: dla 3-4 osób, prywatna łazienka (prysznic/wanna, suszarka), aneks kuchenny (lodówka), telefon, telewizor, balkon/taras. Klimatyzacja i sejf za opłatą. Niektóre z oddzielną sypialnią i salonem."
+ ],
+ "rooms": 22,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.3771132,
+  "lon": 28.0330557,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.ie",
+  "onthebeach.co.uk",
+  "sunshine.co.uk",
+  "dnatatravel.com",
+  "rhodesislandhotels.com",
+  "rhodeshotel24.com",
+  "directrhodes.com",
+  "travelodeal.com"
+ ],
+ "updated": "2026-11-27"
+}

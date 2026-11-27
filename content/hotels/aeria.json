@@ -1,0 +1,137 @@
+{
+ "id": 25448,
+ "slug": "aeria",
+ "name": "Aeria",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Thassos",
+  "Astris"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001399435-570-428.jpg",
+ "city": "Astris, Thassos",
+ "intro": [
+  "Hotel Aeria to trzygwiazdkowy obiekt położony w południowej części wyspy Thassos, w miejscowości Astris. Charakteryzuje się malowniczym położeniem na wzgórzu, oferującym widoki na morze i gaje oliwne. Jest to idealne miejsce dla osób poszukujących spokoju i relaksu z dala od miejskiego zgiełku.",
+  "Obiekt składa się z budynku centralnego oraz trzech bungalowów, oferując łącznie od 54 do 60 pokoi. Hotel jest polecany zarówno dla par, jak i rodzin z dziećmi, zapewniając podstawowe udogodnienia i dostęp do atrakcji sąsiedniego hotelu Aeolis Thassos Palace."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Aeria znajduje się w miejscowości Astris, w najbardziej wysuniętej na południe części Thassos. Do najbliższej, piaszczysto-kamienistej plaży jest około 200-300 metrów, z kamykami przy wejściu do morza, dlatego zaleca się obuwie ochronne. Na tej plaży dostępne są bezpłatne parasole i leżaki. W odległości 2 km znajduje się popularna plaża Psili Ammos, na którą kursuje bezpłatny bus hotelowy. Przystanek autobusowy jest oddalony o około 50 m lub 1 km od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje dwuosobowe (ok. 18 m²), trzyosobowe (ok. 18 m²), jedno- i dwuosobowe (ok. 22 m²) oraz pokoje rodzinne (ok. 38-42 m² z dwiema sypialniami). Wszystkie pokoje wyposażone są w prywatną łazienkę z prysznicem, telefon, mini-bar/lodówkę, telewizor z kanałami satelitarnymi, klimatyzację, bezpłatny sejf, suszarkę do włosów oraz balkon, często z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja i bar. Bar przy basenie serwuje koktajle, soki i przekąski. Goście mogą wybrać opcję wyżywienia ze śniadaniami (BB), obiadokolacjami (HB) lub all inclusive. Restauracja i bar są również dostępne w sąsiednim hotelu Aeolis Thassos Palace."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen o powierzchni około 150 m² oraz brodzik dla dzieci. Hotel oferuje animacje, jednak nie są one przeznaczone dla dzieci. Dostępny jest kort tenisowy za dodatkową opłatą. Goście mogą korzystać z centrum spa i siłowni w sąsiednim hotelu Aeolis Thassos Palace. Bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik oraz plac zabaw. Dostępne są również łóżeczka dla dzieci. Hotel nie oferuje animacji dedykowanych dzieciom, ale jest przyjazny rodzinom."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Aeria jest polecany dla osób szukających spokoju i relaksu w malowniczej scenerii. To dobry wybór dla rodzin oraz par, które cenią sobie piękne widoki i możliwość korzystania z udogodnień sąsiedniego obiektu. Warto jednak mieć na uwadze odległe położenie i rozważyć wynajem samochodu."
+  }
+ ],
+ "pros": [
+  "Malownicza lokalizacja na wzgórzu z pięknymi widokami",
+  "Czyste i zadbane pokoje",
+  "Smaczne jedzenie w formie bufetu (all inclusive)",
+  "Pomocna i przyjazna obsługa",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Odległe położenie, zalecany samochód",
+  "Plaża w pobliżu hotelu kamienista, z trudnym dostępem",
+  "Niektóre udogodnienia (restauracja, bar, spa, siłownia) w sąsiednim hotelu",
+  "Starsze pokoje w niektórych budynkach",
+  "Niespójne sprzątanie i wymiana ręczników"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do najbliższej plaży?",
+   "a": "Do małej, piaszczysto-kamienistej plaży jest około 200-300 metrów. Na tej plaży dostępne są bezpłatne parasole i leżaki."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Kawala (KVA), oddalony o około 37.7 km lub 69-70 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel Aeria nie posiada aquaparku ani zjeżdżalni, ale ma odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik, plac zabaw oraz łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Thassos Astris, 64002, Grecja",
+ "adultsOnly": false,
+ "airportKm": 37.7,
+ "airportName": "Międzynarodowy Port Lotniczy Kawala \"Megas Alexandros\" (KVA)",
+ "amenities": [
+  "Bezpłatny prywatny parking",
+  "Kort tenisowy (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Astris",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysto-kamienista",
+ "centerKm": 7,
+ "goodFor": [
+  "Osoby szukające spokoju i relaksu",
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1992,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (ok. 18 m², dwa łóżka pojedyncze lub jedno podwójne)",
+  "Pokój trzyosobowy (ok. 18 m², dwa łóżka pojedyncze lub jedno podwójne i dodatkowe łóżko pojedyncze)",
+  "Pokój jedno- i dwuosobowy (ok. 22 m²)",
+  "Pokój rodzinny (ok. 38-42 m², dwie sypialnie: jedna z łóżkiem podwójnym, druga z dwoma łóżkami pojedynczymi)"
+ ],
+ "rooms": 60,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.5815607,
+  "lon": 24.6631722,
+  "src": "osm"
+ },
+ "sources": [
+  "aeria.gr",
+  "vimatravel.com",
+  "filoxeno.com",
+  "directbooking.ro",
+  "skyscanner.ie",
+  "hotels.com",
+  "agoda.com",
+  "eratourbg.com"
+ ],
+ "updated": "2026-11-27"
+}

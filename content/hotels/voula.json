@@ -1,0 +1,146 @@
+{
+ "id": 29255,
+ "slug": "voula",
+ "name": "Voula",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Hersonissos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/voula-budynek-glowny-1593340660-570-428.jpg",
+ "city": "Hersonissos",
+ "intro": [
+  "Hotel Voula to kameralny, trzypiętrowy obiekt położony w samym sercu Hersonissos na Krecie, idealny dla osób ceniących sobie spokój, ale jednocześnie bliskość miejskich atrakcji. Dzięki centralnej lokalizacji, goście mają łatwy dostęp do plaży, promenady oraz lokalnych sklepów i restauracji, co czyni go doskonałym wyborem zarówno dla par, nowożeńców, jak i rodzin z dziećmi.",
+  "Odnowiony częściowo w 2020 roku, hotel oferuje nowoczesne i dobrze wyposażone pokoje, zapewniając komfortowy wypoczynek. Jest to obiekt rodzinny, ceniony za miłą obsługę i czystość, polecany dla tych, którzy szukają bazy wypadowej do zwiedzania Krety, a także dla tych, którzy pragną relaksu w spokojnej atmosferze."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Voula znajduje się w centrum Hersonissos, zaledwie 100-200 metrów od publicznej, piaszczystej plaży Limenas Hersonissou Beach. W bliskiej odległości od hotelu znajdują się liczne sklepy, restauracje i promenada. Najbliższe lotnisko w Heraklionie oddalone jest o około 22-25 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje mniej niż 50 pokojami, które zostały częściowo odnowione w 2020 roku. Do wyboru są pokoje jednoosobowe, dwuosobowe, trzyosobowe, apartamenty z aneksem kuchennym oraz Junior Suite z prywatnym basenem. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, prywatną łazienkę, lodówkę, czajnik oraz telewizor z płaskim ekranem i bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje wyżywienie w formie śniadań w formie bufetu, obejmujących lokalne przysmaki. Na terenie obiektu znajduje się również bar oraz kawiarnia, gdzie goście mogą spędzić czas. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden basen zewnętrzny z barem przy basenie, idealny do relaksu. Niektóre pokoje typu Junior Suite posiadają prywatny basen. Goście mogą również korzystać ze studia fitness. W promieniu 3 km od hotelu znajduje się pole golfowe (za dodatkową opłatą)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Voula jest polecany dla rodzin, par, nowożeńców oraz osób podróżujących samotnie. To doskonały wybór dla tych, którzy cenią sobie centralną lokalizację, spokój, czystość oraz chcą aktywnie zwiedzać okolicę. Brak rozbudowanych animacji sprawia, że jest to idealne miejsce dla osób szukających relaksu, a nie typowego hotelu klubowego."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne zarówno w pokojach, jak i w miejscach publicznych. Na terenie obiektu znajduje się winda. Dostępne są również pokoje rodzinne, co czyni go odpowiednim wyborem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaży i centrum",
+  "Czystość i miła obsługa",
+  "Spokojna atmosfera",
+  "Dobre śniadania i nowoczesny wystrój pokoi",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Brak rozbudowanych animacji i atrakcji typowych dla dużych kompleksów",
+  "Brak aquaparku na terenie hotelu",
+  "Leżaki i parasole na plaży za dodatkową opłatą",
+  "Niektóre opinie wspominają o zużytej pościeli i ręcznikach",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Voula znajduje się około 100-200 metrów od publicznej, piaszczystej plaży Limenas Hersonissou Beach, co odpowiada 4-minutowemu spacerowi."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Heraklion (Nikos Kazantzakis International Airport), oddalone o około 22-25 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni na swoim terenie. W pobliżu znajduje się Aquaworld Aquarium (400-600 m) oraz Acqua Plus Waterpark (około 6 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje pokoje rodzinne. Brak jest jednak mini klubu czy animacji dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w formie śniadań w formie bufetu. Nie ma opcji all inclusive."
+  }
+ ],
+ "address": "Daskalogianni 7, 70014 Hersonissos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 22,
+ "airportName": "Międzynarodowy Port Lotniczy Heraklion (Nikos Kazantzakis International Airport)",
+ "amenities": [
+  "Winda",
+  "Studio fitness",
+  "Balkon lub taras w pokojach",
+  "Sejf w pokojach",
+  "Czajnik elektryczny/ekspres do kawy w pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum miejscowości",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "publiczna, piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Nowożeńcy",
+  "Osoby podróżujące samotnie",
+  "Osoby szukające relaksu i kulturowych doznań",
+  "Osoby chcące aktywnie zwiedzać okolice"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": null,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy/twin",
+  "Pokój trzyosobowy",
+  "Apartament z aneksem kuchennym",
+  "Apartament na parterze",
+  "Junior Suite z prywatnym basenem",
+  "Pokój dwuosobowy z wanną spa"
+ ],
+ "rooms": 18,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3148953,
+  "lon": 25.3932157,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "trivago.co.uk",
+  "danotels.gr",
+  "holidaycheck.de",
+  "directbooking.ro",
+  "vivehotels.com",
+  "guestreservations.com",
+  "xo.gr"
+ ],
+ "updated": "2026-11-27"
+}

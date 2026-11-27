@@ -1,0 +1,134 @@
+{
+ "id": 80484,
+ "slug": "the-mini-resort",
+ "name": "The Mini Resort",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Thassos",
+  "Prinos"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/the-mini-resort-basen-1783195624-570-428.jpg",
+ "city": "Prinos",
+ "intro": [
+  "The Mini Resort to czterogwiazdkowy obiekt położony w spokojnej okolicy miejscowości Skala Prinos na greckiej wyspie Thassos. Otoczony śródziemnomorską naturą i gajami oliwnymi, oferuje kameralną atmosferę, idealną dla osób szukających relaksu. Hotel, odświeżony w 2025 roku, łączy tradycję z nowoczesnym komfortem.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par, które cenią sobie spokojny wypoczynek. Bliskość portu w Prinos ułatwia podróże, a bezpłatny transfer na plażę zwiększa komfort korzystania z uroków wybrzeża Thassos."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel The Mini Resort znajduje się w Skala Prinos, w otoczeniu gajów oliwnych, blisko portu. Najbliższa piaszczysta plaża oddalona jest o około 1 km, a plaża Dasilio o 1.6 km. Hotel zapewnia bezpłatny transfer na plażę, która jest idealna dla rodzin dzięki spokojnemu i czystemu morzu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 21 stylowymi pokojami i apartamentami, które zostały całkowicie odświeżone w 2025 roku. W ofercie znajdują się pokoje rodzinne, a także opcje z prywatnymi basenami. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, bezpłatne Wi-Fi, biurko, telewizor, minibar oraz balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się sezonowy odkryty basen. Dla najmłodszych przygotowano basen o powierzchni 50m² z atrakcjami wodnymi, takimi jak grzybek i żyrafa, oraz fontannę z tryskaczami. Dostępny jest również plac zabaw i mini klub dla dzieci, a hotel oferuje animacje dla dzieci. Goście mogą korzystać z tenisa stołowego."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca codzienne śniadania w formie bufetu w godzinach 8:00-10:30. Restauracja à la carte oferuje dania kuchni międzynarodowej i greckiej. Na terenie obiektu działa również bar. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "The Mini Resort jest idealnym wyborem dla rodzin z dziećmi oraz par. Spokojna lokalizacja, udogodnienia dla dzieci, takie jak basen z atrakcjami i mini klub, a także bliskość plaży sprawiają, że jest to doskonałe miejsce na relaksujące wakacje."
+  }
+ ],
+ "pros": [
+  "Stylowy i odświeżony obiekt",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie (śniadania i kolacje)",
+  "Wysoka czystość",
+  "Duży teren i dobrze przemyślane detale",
+  "Pokoje z prywatnymi basenami",
+  "Spokojna atmosfera",
+  "Udogodnienia dla dzieci (basen, plac zabaw, mini klub)"
+ ],
+ "cons": [
+  "Plaża oddalona o około 1 km",
+  "Niska ocena Wi-Fi w pokojach (6.3/10)",
+  "Brak siłowni i spa"
+ ],
+ "faq": [
+  {
+   "q": "Jaka jest odległość hotelu od plaży?",
+   "a": "Hotel The Mini Resort jest oddalony od najbliższej plaży o około 1 km. Hotel oferuje bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Kawala (KVA), oddalony o około 40 km. Transfer z lotniska do portu Keramoti trwa około 30-40 minut, a następnie prom na Thassos około 35 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada basen dla dzieci o powierzchni 50m² z atrakcjami wodnymi, takimi jak grzybek, 3-metrowa żyrafa i tryskacze, a także fontannę o powierzchni 65m² z tryskaczami i małym wodospadem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi. Oferuje basen z atrakcjami wodnymi, plac zabaw, mini klub dla dzieci oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych, choć w pokojach jego ocena jest niska (6.3/10)."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany dla rodzin i par, bez ograniczeń wiekowych dla gości."
+  }
+ ],
+ "address": "THASSOS- PRINOS 1,2, 64010, Skala Prinos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Międzynarodowy Port Lotniczy Kawala (KVA)",
+ "amenities": [
+  "bezpłatny transfer na plażę",
+  "plac zabaw dla dzieci",
+  "tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Skala Prinos",
+ "bars": 1,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Deluxe Double Room",
+  "Deluxe Double/Twin Room with Private Pool",
+  "Deluxe Triple Room",
+  "Deluxe Triple Room with Private Pool",
+  "Junior Suite",
+  "Grand Suite",
+  "Executive Suite",
+  "Two-Bedroom Suite"
+ ],
+ "rooms": 21,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "trivago.co.uk",
+  "grckainfo.com",
+  "theminiresort.com",
+  "book-in-greece.com",
+  "hoteles.com",
+  "jet2holidays.com",
+  "booking.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

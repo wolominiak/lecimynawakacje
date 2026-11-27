@@ -1,0 +1,142 @@
+{
+ "id": 17200,
+ "slug": "ilyssion",
+ "name": "Ilyssion",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos",
+  "Pefkos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/ilyssion-plaza-obiekt-1501787804-570-428.jpg",
+ "city": "Pefkos",
+ "intro": [
+  "Hotel Ilyssion to trzygwiazdkowy obiekt położony w miejscowości Pefkos na Rodos, pomiędzy Pefkos a Lardos. Charakteryzuje się bezpośrednim dostępem do morza i spokojną atmosferą, co czyni go odpowiednim miejscem dla osób szukających relaksu.",
+  "Hotel jest polecany dla rodzin z dziećmi oraz par, które cenią sobie bliskość plaży i malownicze widoki. Ze względu na liczne schody na terenie obiektu, może być mniej odpowiedni dla osób z ograniczeniami ruchowymi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ilyssion znajduje się bezpośrednio przy plaży w Pefkos, zaledwie 15-30 metrów od morza. Od głównego placu w Pefkos dzieli go około 800 metrów. Najbliższe lotnisko Rodos (RHO) oddalone jest o około 56-60 km. Plaża hotelowa bywa opisywana jako betonowe molo z wejściem do morza po drabince, co może być niewygodne dla małych dzieci, choć w okolicy dostępne są piaszczyste plaże."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 180 pokoi, w tym pokoje dwu- i trzyosobowe z widokiem na morze, junior suity oraz suity dla nowożeńców. Pokoje wyposażone są w podwójne lub dwa pojedyncze łóżka, telefon, lodówkę, telewizję satelitarną oraz balkon lub taras. Klimatyzacja i sejf są dodatkowo płatne poza sezonem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni greckiej i międzynarodowej na śniadania, obiady i kolacje. Do dyspozycji gości są również dwa bary: Paralos Pool Bar przy basenie oraz Main Bar w lobby. Opcja All Inclusive obejmuje lokalne napoje alkoholowe i bezalkoholowe oraz lekki bufet z przekąskami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje czterema basenami, w tym jednym z wodą morską i trzema ze słodką wodą. Dla dzieci przygotowano oddzielny basen oraz plac zabaw. Hotel oferuje animacje i posiada amfiteatr. Dostępne są również takie atrakcje jak siatkówka plażowa, kort tenisowy (płatny), bilard, air hockey i mini golf."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował oddzielny basen oraz plac zabaw na świeżym powietrzu. Funkcjonuje tu również mini klub z zabawkami i telewizorem z kreskówkami, co zapewnia rozrywkę dla dzieci podczas pobytu."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do morza i piękne widoki",
+  "Czystość w hotelu i przyjazny personel",
+  "Spokojna atmosfera i dużo miejsca do relaksu",
+  "Dobre połączenia autobusowe do Lindos i Rodos Town",
+  "Cztery baseny, w tym jeden z wodą morską"
+ ],
+ "cons": [
+  "Wiele schodów, utrudnienia dla osób z ograniczeniami ruchowymi",
+  "Jedzenie bywa monotonne lub słabej jakości",
+  "Plaża może być betonowym molo, nieodpowiednia dla małych dzieci",
+  "Klimatyzacja i sejf są dodatkowo płatne",
+  "Niektóre pokoje mają stare wyposażenie i meble"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Ilyssion od plaży?",
+   "a": "Hotel Ilyssion jest położony bezpośrednio przy plaży, z odległością od pokoi do morza wynoszącą od 15 do 30 metrów."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży przy hotelu?",
+   "a": "W opiniach gości pojawiają się sprzeczne informacje. Niektóre źródła wspominają o piaszczystych plażach Pefkos, jednak jedna z recenzji opisuje plażę jako betonowe molo z wejściem do morza po metalowej drabince, wśród dużych głazów."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Rodos \"Diagoras\" (RHO), oddalone o około 56-60 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w hotelu Ilyssion."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada oddzielny basen dla dzieci, plac zabaw oraz mini klub."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w całym hotelu?",
+   "a": "Wi-Fi jest bezpłatne w miejscach publicznych. W pokojach Wi-Fi jest dodatkowo płatne."
+  }
+ ],
+ "address": "Μακρύς Τοίχος, 85107, Pefki, Grecja",
+ "adultsOnly": false,
+ "airportKm": 58,
+ "airportName": "Rodos \"Diagoras\" (RHO)",
+ "amenities": [
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Kort tenisowy",
+  "Siatkówka plażowa",
+  "Mini golf",
+  "Bilard",
+  "Air hockey",
+  "Gry elektroniczne"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Pefkos",
+ "bars": 2,
+ "beachDistanceM": 20,
+ "beachType": "betonowe molo/piaszczysta w okolicy",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby szukające relaksu",
+  "Miłośnicy plażowania",
+  "Niewymagający klienci"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z widokiem na morze (podwójne/dwa pojedyncze łóżka, kanały muzyczne, telefon, klimatyzacja, lodówka, TV satelitarna, balkon/taras)",
+  "Pokój trzyosobowy z widokiem na morze (podwójne/dwa pojedyncze łóżka, kanały muzyczne, telefon, klimatyzacja, lodówka, TV satelitarna, balkon/taras)",
+  "Junior Suita (podwójne/dwa pojedyncze łóżka, kanały muzyczne, telefon, klimatyzacja, lodówka, TV satelitarna, balkon/taras)",
+  "Suita dla nowożeńców (podwójne/dwa pojedyncze łóżka, kanały muzyczne, telefon, klimatyzacja, lodówka, TV satelitarna, balkon/taras, mały salon)",
+  "Pokój standardowy (podwójne/dwa pojedyncze łóżka, kanały muzyczne, telefon, klimatyzacja, lodówka, TV satelitarna, balkon/taras)",
+  "Pokój superior (podwójne/dwa pojedyncze łóżka, kanały muzyczne, telefon, klimatyzacja, lodówka, TV satelitarna, balkon/taras, suszarka do włosów, Wi-Fi płatne)"
+ ],
+ "rooms": 180,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.0780508,
+  "lon": 28.0370746,
+  "src": "osm"
+ },
+ "sources": [
+  "sunshine.co.uk",
+  "hotelilyssion.gr",
+  "trivago.com",
+  "mapcarta.com",
+  "mapy.com",
+  "onthebeach.ie",
+  "onthebeach.co.uk",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-27"
+}

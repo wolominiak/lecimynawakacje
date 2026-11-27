@@ -1,0 +1,132 @@
+{
+ "id": "x:grecja:nefeli hotel rth",
+ "slug": "nefeli-hotel-rth",
+ "name": "Nefeli Hotel Rth",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Adelianos Kampos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/adelianos-kampos/nefeli-hotel-rth/5988aa51db55daba1309093695c9def6_1.jpeg",
+ "city": "Adelianos Kampos",
+ "intro": [
+  "Nefeli Hotel Rth to czterogwiazdkowy obiekt położony w miejscowości Adelianos Kampos na Krecie, w regionie Rethymno. Hotel, otwarty w 1985 roku i gruntownie odnowiony w 2017, oferuje spokojny wypoczynek w zabudowie przypominającej małą wioskę, z głównym budynkiem i kilkoma bocznymi.",
+  "Hotel jest idealnym wyborem dla par i rodzin, które cenią sobie autentyczny wypoczynek w spokojnej okolicy, a jednocześnie chcą mieć łatwy dostęp do plaży i tętniącego życiem centrum miasta. Dzięki udogodnieniom dla dzieci i bliskości atrakcji, Nefeli Hotel Rth łączy relaks z możliwością aktywnego spędzania czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nefeli Hotel Rth znajduje się w Adelianos Kampos, w dzielnicy Platanes, zaledwie około 200 metrów od publicznej plaży, co zajmuje około 8 minut spacerem. Plaża jest piaszczysto-kamienista lub piaszczysto-żwirowa, z łagodnym zejściem do morza. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 137-140 pokojami typu Standard, Superior oraz Rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, TV-SAT, telefon, minibar/lodówkę, sejf, łazienkę oraz balkon/taras. Pokoje Superior oferują dodatkowo hydro prysznic, szlafrok/kapcie, ręczniki plażowe, ekspres Nespresso i kosmetyki Apivita."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą, z wydzieloną częścią dla dzieci oraz brodzikiem. Hotel oferuje wieczorne pokazy trzy razy w tygodniu. Goście mogą również skorzystać ze strefy SPA, która za dodatkową opłatą oferuje saunę, jacuzzi, hammam, masaże i zabiegi pielęgnacyjne. Dostępna jest także siłownia."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna główna restauracja serwująca śniadania i kolacje w formie bufetu. Goście mogą korzystać z opcji all inclusive. Dodatkowo dostępne są bary: Pool Bar - Snack Bar, Cocktail Bar oraz The Nymph (ogród na dachu)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część w basenie zewnętrznym oraz brodzik. Na terenie obiektu znajduje się również plac zabaw. Hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży i centrum Rethymno.",
+  "Nowoczesny wystrój i czystość obiektu.",
+  "Przyjazna i pomocna obsługa, rodzinna atmosfera.",
+  "Czysty i zadbany basen.",
+  "Smaczne posiłki, zwłaszcza obiadokolacje i świeże śniadania."
+ ],
+ "cons": [
+  "Małe łazienki.",
+  "Monotonne śniadania.",
+  "Drogie napoje do obiadokolacji (jeśli nie all inclusive).",
+  "Sporadyczne problemy z prędkością internetu w pokojach.",
+  "Pojedyncze opinie o małym i zimnym basenie."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od publicznej plaży o około 200 metrów, co stanowi około 8 minut spacerem."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to lotnisko w Chanii (CHQ), oddalone o około 50-73 km, oraz lotnisko w Heraklionie (HER), oddalone o około 77-80 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Posiada wydzieloną część basenu dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby, ogólnodostępnych częściach hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Tak, hotel oferuje opcję all inclusive, która obejmuje śniadania i obiadokolacje w formie bufetu."
+  }
+ ],
+ "address": "Leof. Machis Kritis 161, Rethymno 741 33, Grecja",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Chania (CHQ)",
+ "amenities": [
+  "Strefa SPA",
+  "Siłownia",
+  "Plac zabaw"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Platanes",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysto-kamienista lub piaszczysto-żwirowa",
+ "centerKm": 4,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard (około 20 m²)",
+  "Superior (około 20 m², z hydro prysznicem, szlafrokiem/kapciami, ręcznikami plażowymi, ekspresem Nespresso i kosmetykami Apivita)",
+  "Rodzinne (dwupokojowe, z podwójnym łóżkiem lub dwoma pojedynczymi, oraz dwoma pojedynczymi łóżkami lub sofami)"
+ ],
+ "rooms": 137,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.36855,
+  "lon": 24.53224,
+  "src": "web"
+ },
+ "sources": [
+  "exim.pl",
+  "mapcarta.com",
+  "etravel.cz",
+  "kartago.sk",
+  "tui.pl",
+  "itaka.pl",
+  "coraltravel.pl",
+  "nefeli-hotel.gr"
+ ],
+ "updated": "2026-11-27"
+}

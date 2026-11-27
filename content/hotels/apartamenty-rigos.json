@@ -1,0 +1,124 @@
+{
+ "id": 31649,
+ "slug": "apartamenty-rigos",
+ "name": "Apartamenty Rigos",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Korfu",
+  "Lefkimmi"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/apartamenty-rigos-obiekt-1820826415-570-428.jpg",
+ "city": "Lefkimmi",
+ "intro": [
+  "Apartamenty Rigos to kameralny obiekt położony w spokojnej dzielnicy Vitalades w Lefkimmi na Korfu, otoczony zielenią i blisko lasu. Oferuje on komfortowe apartamenty i studia z aneksem kuchennym, co czyni go idealnym miejscem dla osób ceniących niezależność i domową atmosferę.",
+  "Obiekt jest szczególnie polecany dla rodzin i par, które szukają relaksującego wypoczynku z dala od zgiełku, w otoczeniu natury. Bliskość piaszczystej plaży Gardenos Beach oraz centrum Vitalades z kawiarniami i restauracjami sprawia, że jest to dobra baza wypadowa do zwiedzania południowej części wyspy, choć dojazd do głównych atrakcji może wymagać samochodu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Apartamenty Rigos znajdują się w Vitalades, spokojnej dzielnicy Lefkimmi, około 700 metrów od lokalnego centrum z kawiarniami i restauracjami. Do piaszczystej plaży Gardenos Beach jest około 1-1,5 km, co zajmuje kilkanaście minut spacerem lub krótką przejażdżkę. Obiekt otoczony jest ogrodem i lasem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 8 pokoi, 1 domek i 6 apartamentów, w tym pokoje rodzinne i studia z widokiem na ogród. Każdy apartament i studio wyposażony jest w aneks kuchenny z lodówką, czajnikiem elektrycznym i naczyniami, a także w prywatną łazienkę z wanną lub prysznicem, balkon lub taras oraz klimatyzację (może być dodatkowo płatna)."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Na terenie obiektu dostępne jest bezpłatne Wi-Fi zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach. Goście mogą korzystać z ogrodu oraz bezpłatnego parkingu. Hotel zapewnia łóżeczka dla dzieci, co sprawia, że jest przyjazny dla rodzin."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja blisko natury",
+  "Dobrze wyposażone apartamenty z aneksem kuchennym",
+  "Pomocny i przyjazny właściciel",
+  "Bezpłatne Wi-Fi i parking",
+  "Bliskość piaszczystej plaży Gardenos Beach"
+ ],
+ "cons": [
+  "Brak basenu na terenie obiektu",
+  "Brak restauracji i barów na miejscu",
+  "Odległość od głównych atrakcji wymaga samochodu",
+  "Klimatyzacja może być dodatkowo płatna",
+  "Brak opcji wyżywienia (all inclusive)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Gardenos Beach znajduje się około 1 km do 1,5 km od obiektu (około 17 minut spacerem)."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie?",
+   "a": "Nie, Apartamenty Rigos nie posiadają restauracji ani barów na terenie obiektu i nie oferują opcji wyżywienia all inclusive."
+  },
+  {
+   "q": "Czy w hotelu jest basen lub aquapark?",
+   "a": "Nie, na terenie Apartamentów Rigos nie ma basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Korfu (CFU) znajduje się około 35-39 km od obiektu, a czas dojazdu wynosi około 45-62 minuty."
+  }
+ ],
+ "address": "Lefkimmi 490 80, Korfu, Grecja",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (CFU-Ioannis Kapodistrias)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Ogród",
+  "Bezpłatne Wi-Fi",
+  "Bezpłatny parking",
+  "Łóżeczka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Vitalades",
+ "bars": null,
+ "beachDistanceM": 1000,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.7,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające spokoju i relaksu"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartamenty z aneksem kuchennym, łazienką, balkonem/tarasem",
+  "Studia z aneksem kuchennym, łazienką, balkonem/tarasem",
+  "Pokoje rodzinne",
+  "Studia z widokiem na ogród"
+ ],
+ "rooms": 15,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "oxfordtravels.com",
+  "agoda.com",
+  "expedia.co.uk",
+  "yandex.com",
+  "wakacje.pl",
+  "luksusowe-wakacje.pl",
+  "loveholidays.com",
+  "trip.com"
+ ],
+ "updated": "2026-11-27"
+}

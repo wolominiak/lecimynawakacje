@@ -1,0 +1,135 @@
+{
+ "id": 32565,
+ "slug": "hermes-malia",
+ "name": "Hermes Malia",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Malia"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/hermes-malia-basen-1773670509-570-428.jpg",
+ "city": "Malia",
+ "intro": [
+  "Hotel Hermes Malia to 2-gwiazdkowy obiekt położony na Krecie, w miejscowości Malia. Znajduje się przy spokojnej ulicy, jednocześnie oferując łatwy dostęp do tętniącego życiem centrum Malii oraz słynnego \"stripu\" z barami i klubami. Jest to idealne miejsce dla osób szukających równowagi między relaksem a rozrywką.",
+  "Hotel jest przyjazny rodzinom, oferując ciepłą atmosferę i spersonalizowaną obsługę. Dzięki swojej lokalizacji i wyposażeniu, stanowi dobrą bazę wypadową do zwiedzania okolicy oraz korzystania z uroków kreteńskich plaż i życia nocnego. Obiekt zapewnia dobrą relację jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hermes Malia usytuowany jest w miejscowości Malia, około 400-500 metrów od centrum. Najbliższa piaszczysta plaża znajduje się w odległości około 300 metrów, choć niektóre źródła podają większe odległości. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Najbliższe lotnisko w Heraklionie oddalone jest o około 26.4 km do 35 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 51 pokojami i apartamentami rozmieszczonymi w 4-piętrowym budynku. Oferowane są pokoje dwuosobowe, trzyosobowe, rodzinne/apartamenty oraz studia. Wszystkie pokoje wyposażone są w prywatny balkon lub taras, aneks kuchenny, łazienkę z prysznicem lub wanną, telewizor, sejf (często płatny) i klimatyzację (często płatną)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja, bar przy basenie, snack bar oraz kawiarnia. Hotel oferuje śniadania kontynentalne. Brak jest informacji o opcji wyżywienia all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada jeden odkryty basen ze słodką wodą, dostępny od maja do października. Wśród dostępnych form rozrywki i sportu znajdują się bilard, rzutki oraz wypożyczalnia rowerów. W pomieszczeniach ogólnodostępnych oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Hermes Malia jest polecany dla podróżnych ceniących ciepłą atmosferę, spersonalizowaną obsługę i dobrą wartość za pieniądze. Ze względu na swoje udogodnienia i politykę, jest to hotel przyjazny rodzinom, szukającym zarówno relaksu, jak i dostępu do lokalnych atrakcji."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko plaży i centrum",
+  "Czysty i przestronny basen",
+  "Przyjazny i pomocny personel",
+  "Dobra relacja jakości do ceny",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Wysokie dodatkowe opłaty za klimatyzację i sejf",
+  "Śniadania bywają monotonne i skromne",
+  "Pokoje są standardowe, bez luksusów",
+  "Zdarzają się negatywne opinie dotyczące obsługi recepcji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Hermes Malia znajduje się około 300 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Brak informacji o opcji all inclusive. Hotel oferuje śniadania kontynentalne."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje aktywności dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko w Heraklionie (HER) jest oddalone o około 26.4 km do 35 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel dysponuje jednym odkrytym basenem."
+  }
+ ],
+ "address": "El. Venizelou 82, Malia, 70007, Grecja",
+ "adultsOnly": false,
+ "airportKm": 26.4,
+ "airportName": "Międzynarodowe Lotnisko w Heraklionie (HER) im. Nikosa Kazantzakisa",
+ "amenities": [
+  "Ogród",
+  "Bilard",
+  "Rzutki",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Podróżni ceniący ciepłą atmosferę",
+  "Osoby szukające dobrej relacji jakości do ceny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Triple Room",
+  "Family Room / Apartment",
+  "Studio 2 pax",
+  "Studio 3 pax"
+ ],
+ "rooms": 51,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.2836072,
+  "lon": 25.4585124,
+  "src": "osm"
+ },
+ "sources": [
+  "alida.lv",
+  "directbooking.ro",
+  "kayak.com",
+  "trip.com",
+  "hotelscombined.com",
+  "agoda.com",
+  "thomascook.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

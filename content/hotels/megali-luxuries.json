@@ -1,0 +1,129 @@
+{
+ "id": "x:grecja:megali luxuries",
+ "slug": "megali-luxuries",
+ "name": "Megali Luxuries",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Korfu",
+  "Sidari"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/korfu/sidari/megali-luxuries-pl/4628/a1620946c23aa5b681dc9-244.jpg",
+ "city": "Sidari",
+ "intro": [
+  "Megali Luxuries to kameralny kompleks studiów i maisonette, położony w malowniczej miejscowości Sidari na Korfu. Obiekt oferuje spokojną atmosferę, idealną dla par, małych grup przyjaciół oraz rodzin szukających relaksującego wypoczynku blisko morza.",
+  "Hotel wyróżnia się dogodną lokalizacją, zaledwie kilka kroków od piaszczystej plaży Megali Beach, co czyni go doskonałym wyborem dla osób ceniących sobie niezależność i możliwość samodzielnego przygotowywania posiłków dzięki dobrze wyposażonym aneksom kuchennym."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Megali Luxuries znajduje się w Sidari na Korfu, około 70 metrów od piaszczystej plaży Megali Beach. Na plaży dostępne są leżaki i parasole za dodatkową opłatą, gdyż nie jest to plaża hotelowa. Centrum Sidari, z licznymi restauracjami i tawernami, oddalone jest o 500 metrów do 1,5 km, czyli 5-10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 10 pokoi typu studio (dla 1-2 osób) oraz maisonette (dla maksymalnie 3 osób). Każdy pokój wyposażony jest w aneks kuchenny z pełnym wyposażeniem, telewizor, łazienkę z prysznicem i suszarką do włosów, a także balkon lub taras. Klimatyzacja i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą, czynny sezonowo. Dla najmłodszych gości przygotowano oddzielny basen dla dzieci. W obiekcie brak jest informacji o zjeżdżalniach, aquaparku, mini klubie czy animacjach. Bezpłatne Wi-Fi dostępne jest we wszystkich częściach kompleksu."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Megali Luxuries to kompleks samoobsługowy (self-catering), co oznacza, że nie oferuje wyżywienia all inclusive. Goście mają do dyspozycji w pełni wyposażone aneksy kuchenne w pokojach. W bliskiej odległości, 5-10 minut spacerem, znajduje się wiele lokalnych restauracji i tawern."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera",
+  "Bliskość piaszczystej plaży",
+  "Dobrze wyposażone aneksy kuchenne",
+  "Dogodna lokalizacja blisko supermarketów",
+  "Pomocna obsługa"
+ ],
+ "cons": [
+  "Dodatkowe opłaty za klimatyzację i sejf",
+  "Brak wyżywienia w hotelu (self-catering)",
+  "Potencjalnie mylący proces zameldowania",
+  "Sporadyczne uwagi dotyczące wolnego Wi-Fi",
+  "Plaża nie jest hotelowa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Megali Luxuries jest położony około 70 metrów od piaszczystej plaży Megali Beach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, Megali Luxuries to kompleks samoobsługowy (self-catering) i nie oferuje wyżywienia all inclusive."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i akceptuje dzieci w każdym wieku. Dostępny jest również oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Korfu (CFU), jest oddalone o około 26-36 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach obiektu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie obiektu."
+  }
+ ],
+ "address": "Sidari, Corfu, 49081, Grecja",
+ "adultsOnly": false,
+ "airportKm": 31,
+ "airportName": "Międzynarodowe Lotnisko Korfu \"Ioannis Kapodistrias\" (CFU)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Basen zewnętrzny",
+  "Basen dla dzieci",
+  "Aneks kuchenny w pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Megali Beach",
+ "bars": null,
+ "beachDistanceM": 70,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Pary",
+  "Małe grupy",
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Studio (dla 1-2 osób, aneks kuchenny, TV, łazienka, balkon/taras, stół jadalny, moskitiery)",
+  "Maisonette (dla max. 3 osób, aneks kuchenny, TV, łazienka, balkon/taras, stół jadalny, moskitiery, rozkładana sofa)"
+ ],
+ "rooms": 10,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.7875109,
+  "lon": 19.7147746,
+  "src": "osm"
+ },
+ "sources": [
+  "sunshine.co.uk",
+  "onthebeach.co.uk",
+  "megali-luxuries.com",
+  "trivago.co.uk",
+  "olympicholidays.com",
+  "onthebeach.ie",
+  "islandspots.io",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-27"
+}

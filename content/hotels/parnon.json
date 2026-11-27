@@ -1,0 +1,132 @@
+{
+ "id": 263602,
+ "slug": "parnon",
+ "name": "Parnon",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/parnon-obiekt-1777548823-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Hotel Parnon to trzygwiazdkowy obiekt położony w centrum Aten, w dzielnicy Omonia. Jest to klasyczny, 8-piętrowy budynek miejski, który został całkowicie odnowiony. Jego lokalizacja sprawia, że jest to dobra baza wypadowa do zwiedzania miasta.",
+  "Hotel jest rekomendowany zarówno dla osób podróżujących służbowo, jak i dla turystów, par oraz rodzin. Oferuje wygodne zakwaterowanie z bezpłatnym Wi-Fi i jest ceniony za centralne położenie oraz pomocną obsługę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Parnon znajduje się w samym sercu Aten, w dzielnicy Omonia, zaledwie 50 metrów od stacji metra Omonia. Umożliwia to łatwy dostęp do głównych atrakcji turystycznych miasta. Najbliższe plaże, takie jak Flisvos Beach, Edem Beach i Votsalakia Beach, oddalone są o około 8-9 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 51 pokojami, w tym jednoosobowymi, dwuosobowymi, typu twin oraz trzyosobowymi. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor LCD/telewizję satelitarną, prywatną łazienkę z prysznicem, suszarkę do włosów, ręczniki, anatomiczne materace, biurko, telefon, lodówkę i sejf. Większość pokoi posiada również balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Parnon serwowane są śniadania kontynentalne, które można zjeść w sali śniadaniowej lub zamówić do pokoju. Na terenie obiektu znajduje się również bar/lounge oraz kawiarnia, gdzie goście mogą zrelaksować się przy napojach."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi, dostępne we wszystkich pokojach i w pomieszczeniach ogólnodostępnych. Brak basenów, aquaparku, spa, siłowni czy animacji. Dla rodzin z dziećmi dostępne są łóżeczka na życzenie oraz bufet dla dzieci."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko stacji metra Omonia",
+  "Pomocna i przyjazna obsługa",
+  "Czystość w całym obiekcie",
+  "Dobre śniadania kontynentalne",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Możliwy hałas uliczny w pokojach od strony ulicy",
+  "Okolica Omonia bywa postrzegana jako \"szorstka\"",
+  "Niewielkie rozmiary pokoi",
+  "Kompaktowe łazienki",
+  "Brak basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Parnon znajduje się w centrum Aten, około 8-9 km od najbliższych plaż, takich jak Flisvos Beach, Edem Beach i Votsalakia Beach."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 20-34 km od Międzynarodowego Portu Lotniczego w Atenach (ATH) im. Eleftheriosa Venizelosa."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel Parnon nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje łóżeczka dla dzieci na życzenie oraz bufet dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu Parnon dostępne jest bezpłatne Wi-Fi we wszystkich pokojach i w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Nie, hotel Parnon nie posiada basenów."
+  }
+ ],
+ "address": "20 Tritis Septemvriou & 21 Chalkokondili Str., 10432 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 27,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (ATH) im. Eleftheriosa Venizelosa",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "klimatyzacja",
+  "sejf w pokoju",
+  "lodówka"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Omonia",
+ "bars": 1,
+ "beachDistanceM": 8000,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "podróżujący służbowo",
+  "turyści",
+  "pary",
+  "rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "pokój jednoosobowy z klimatyzacją, TV, łazienką z prysznicem, suszarką, ręcznikami, materacem anatomicznym, biurkiem, telefonem, lodówką, sejfem",
+  "pokój dwuosobowy z klimatyzacją, TV, łazienką z prysznicem, suszarką, ręcznikami, materacem anatomicznym, biurkiem, telefonem, lodówką, sejfem",
+  "pokój typu twin z klimatyzacją, TV, łazienką z prysznicem, suszarką, ręcznikami, materacem anatomicznym, biurkiem, telefonem, lodówką, sejfem",
+  "pokój trzyosobowy z klimatyzacją, TV, łazienką z prysznicem, suszarką, ręcznikami, materacem anatomicznym, biurkiem, telefonem, lodówką, sejfem"
+ ],
+ "rooms": 51,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9859835,
+  "lon": 23.7288157,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelsathens.org",
+  "atticatophotels.com",
+  "athenshotels24.com",
+  "hotels-athens.net",
+  "parnon-hotel.gr",
+  "xo.gr",
+  "grhotels.gr",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-27"
+}

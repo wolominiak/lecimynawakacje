@@ -1,0 +1,135 @@
+{
+ "id": 29780,
+ "slug": "residence-villas",
+ "name": "Residence Villas",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Stalida"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/residence-villas-basen-1101518119-570-428.jpg",
+ "city": "Stalida",
+ "intro": [
+  "Nami Hotel & Suites (ex Residence Villas) to czterogwiazdkowy obiekt położony w miejscowości Stalida na Krecie, oferujący zakwaterowanie w koncepcji małej wioski. Hotel jest idealnym wyborem dla rodzin oraz par poszukujących relaksu w spokojnej atmosferze, jednocześnie blisko centrum miejscowości i plaży.",
+  "Obiekt, odnowiony w 2016 roku, dysponuje pokojami i apartamentami rozmieszczonymi w ogrodzie oraz przy basenach, co sprzyja wypoczynkowi. Goście mogą korzystać z udogodnień takich jak baseny, strefa dla dzieci oraz restauracja serwująca dania kuchni kreteńskiej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nami Hotel & Suites (ex Residence Villas) znajduje się centralnie w Stalidzie, w pobliżu restauracji, barów i sklepów. Odległość od piaszczystej lub piaszczysto-żwirowej plaży Stalida wynosi od kilku kroków do około 150 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Centrum Stalis oddalone jest o około 0.5 km, a Międzynarodowe Lotnisko w Heraklionie (HER) o około 29-32 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 19 pokoi, w tym studia, apartamenty, pokoje rodzinne, standardowe i ekonomiczne. Wszystkie pokoje wyposażone są w klimatyzację, prywatny balkon lub taras, telewizor satelitarny, radio oraz prywatną łazienkę z suszarką do włosów. W niektórych pokojach dostępny jest aneks kuchenny z naczyniami, mini lodówka oraz zestaw do parzenia kawy/herbaty. Sejf jest dodatkowo płatny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa sezonowo otwarte odkryte baseny. Dla dzieci przygotowano oddzielny basen, plac zabaw oraz pokój gier, w tym bilard. Hotel oferuje również rozrywkę. Goście mogą korzystać z bilarda, tenisa stołowego, wypożyczalni rowerów oraz kajakarstwa poza obiektem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja główna, w tym restauracja \"Veni\", która specjalizuje się w daniach kuchni kreteńskiej. Do dyspozycji gości są również bar/lounge, bar przy basenie oraz snack bar (dodatkowo płatny). Hotel oferuje opcje wyżywienia takie jak śniadania (bufet) lub śniadania i obiadokolacje. Opcja all inclusive może być dostępna przy rezerwacji."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Nami Hotel & Suites (ex Residence Villas) jest polecany dla rodzin z dziećmi oraz par, które szukają spokojnego miejsca na relaks. Bliskość plaży i centrum miejscowości, a także udogodnienia dla dzieci, sprawiają, że jest to odpowiednie miejsce na wakacje z najbliższymi."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży i centrum miejscowości",
+  "Spokojna atmosfera i ładny ogród",
+  "Gościnność i smaczne jedzenie",
+  "Komfortowe i czyste pokoje",
+  "Udogodnienia dla dzieci"
+ ],
+ "cons": [
+  "Brak prywatnej plaży hotelowej",
+  "Leżaki i parasole na plaży płatne",
+  "Brak informacji o spa i siłowni",
+  "Poziom hotelu może nie odpowiadać 4 gwiazdkom",
+  "Snack bar dodatkowo płatny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się od kilku kroków do około 150 metrów od piaszczystej lub piaszczysto-żwirowej plaży Stalida."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko w Heraklionie (HER), oddalone o około 29-32 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci, plac zabaw oraz pokój gier."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w miejscach publicznych oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje śniadania (bufet) lub śniadania i obiadokolacje. Opcja all inclusive może być dostępna przy rezerwacji, ale nie jest standardową ofertą hotelu."
+  }
+ ],
+ "address": "Minoos 5 Stalis, 70007, HERAKLION, GREECE",
+ "adultsOnly": false,
+ "airportKm": 30.5,
+ "airportName": "Międzynarodowe Lotnisko w Heraklionie (HER)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Telewizor satelitarny",
+  "Aneks kuchenny (w niektórych pokojach)",
+  "Mini lodówka",
+  "Zestaw do parzenia kawy/herbaty",
+  "Sejf (płatny)"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Centralnie w Stalis",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "Piaszczysta lub piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio",
+  "Apartament",
+  "Pokój rodzinny",
+  "Pokój standardowy",
+  "Pokój ekonomiczny"
+ ],
+ "rooms": 19,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 35.2932923,
+  "lon": 25.4277211,
+  "src": "osm"
+ },
+ "sources": [
+  "minoishotel.gr",
+  "namihotelcrete.gr",
+  "medtourbg.com",
+  "luxtravel.bg",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-27"
+}

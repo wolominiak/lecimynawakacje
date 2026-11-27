@@ -1,0 +1,131 @@
+{
+ "id": "x:grecja:the editor athens hotel",
+ "slug": "the-editor-athens-hotel",
+ "name": "The Editor Athens Hotel",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Ateny i okolice",
+  "Ateny"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/recko/ateny/ateny/the-editor-athens-hotel/1d8520aeacf9059d2f17e.jpg",
+ "city": "Ateny",
+ "intro": [
+  "The Editor Athens Hotel to czterogwiazdkowy hotel butikowy, otwarty w 2020 roku w historycznym centrum Aten, w dzielnicy Monastiraki. Zlokalizowany jest przy placu Agias Eirinis, w pobliżu starożytnej Agory Rzymskiej i Biblioteki Hadriana, co czyni go idealną bazą wypadową do zwiedzania miasta.",
+  "Hotel powstał w budynku dawnej drukarni gazetowej z lat 1934-1938, co nadaje mu unikalny charakter. Jest polecany dla osób zwiedzających miasto, par oraz podróżujących służbowo, oferując nowoczesny design i komfortowe warunki pobytu. Hotel jest przyjazny dzieciom i akceptuje zwierzęta domowe."
+ ],
+ "sections": [
+  {
+   "title": "Położenie",
+   "text": "Hotel The Editor Athens Hotel znajduje się w samym sercu Aten, w historycznej dzielnicy Monastiraki, przy placu Agias Eirinis. W bezpośrednim sąsiedztwie hotelu znajdują się ważne zabytki, takie jak starożytna Agora Rzymska i Biblioteka Hadriana. Do ścisłego centrum Aten można dojść spacerem w około 10 minut. Najbliższe plaże, takie jak Flisvos Beach (7 km), Edem Beach (8 km) i Votsalakia Beach (9 km), są oddalone od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 40 pokoi i apartamentów, w tym Standard Room, Classic Room, Superior Roof Garden Room, Junior Suite, Executive Suite oraz Master Suite. Wszystkie pokoje są klimatyzowane, dźwiękoszczelne i wyposażone w minibar, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem oraz sejf. W prywatnych łazienkach znajduje się prysznic typu walk-in i suszarka do włosów. Niektóre pokoje posiadają taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu The Editor Athens Hotel znajdują się dwie restauracje, w tym restauracja „Publisher”, która serwuje dania kuchni międzynarodowej z widokiem na miasto. Codziennie rano podawane jest śniadanie w formie bufetu, z możliwością zamówienia go do pokoju. Goście mogą również skorzystać z baru/lounge. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi we wszystkich obszarach. Dostępne są również usługi opieki nad dziećmi (babysitting) na życzenie. W hotelu można skorzystać z „gorących źródeł” oraz zamówić masaże. Dla aktywnych organizowane są wycieczki rowerowe, piesze, lekcje gotowania oraz wycieczki tematyczne. Hotel akceptuje zwierzęta domowe (psy i koty do 25 kg) za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Doskonała, centralna lokalizacja, blisko atrakcji i metra.",
+  "Bardzo pomocna i przyjazna obsługa.",
+  "Czyste, przestronne i komfortowe pokoje.",
+  "Dobre i smaczne śniadania.",
+  "Nowoczesny design i wystrój.",
+  "Ciche pokoje pomimo centralnej lokalizacji."
+ ],
+ "cons": [
+  "Godziny zameldowania (od 15:00) i wymeldowania (do 11:00) mogą być mniej elastyczne.",
+  "Śniadanie bywa oceniane jako przeciętne w porównaniu do innych hoteli w Atenach.",
+  "Brak basenów.",
+  "Brak siłowni."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel The Editor Athens Hotel jest położony w centrum miasta, nie bezpośrednio przy plaży. Najbliższe plaże to Flisvos Beach (7 km), Edem Beach (8 km) i Votsalakia Beach (9 km)."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony od Międzynarodowego Portu Lotniczego Eleftherios Venizelos (ATH) o około 34 km. Czas przejazdu samochodem to około 40 minut, a transportem publicznym około 45 minut."
+  },
+  {
+   "q": "Czy hotel posiada baseny lub aquapark?",
+   "a": "Nie, hotel The Editor Athens Hotel nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje usługi opieki nad dziećmi (babysitting) na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w hotelu The Editor Athens Hotel dostępne jest bezpłatne Wi-Fi we wszystkich obszarach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych. Jest przyjazny dzieciom i akceptuje zwierzęta domowe."
+  }
+ ],
+ "address": "Voreou 5-7 & Karori str., 10551 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Międzynarodowy Port Lotniczy Eleftherios Venizelos (ATH)",
+ "amenities": [
+  "opieka nad dziećmi (babysitting)",
+  "gorące źródła",
+  "masaże na życzenie",
+  "lekcje gotowania",
+  "wycieczki tematyczne",
+  "akceptacja zwierząt domowych (psy i koty do 25 kg, za dodatkową opłatą)"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Historyczne Centrum Aten, Monastiraki",
+ "bars": 1,
+ "beachDistanceM": 7000,
+ "beachType": "",
+ "centerKm": 0.5,
+ "goodFor": [
+  "osoby zwiedzające miasto",
+  "pary",
+  "podróżujący służbowo"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2020,
+ "pools": null,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Room (18-20 m²), klimatyzacja, ogrzewanie, minibar, dźwiękoszczelne okna, część wypoczynkowa, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z prysznicem typu walk-in i oddzielną toaletą, suszarka do włosów, bezpłatne kosmetyki, hipoalergiczne.",
+  "Classic Room (22 m²), klimatyzacja, ogrzewanie, minibar, dźwiękoszczelne okna, część wypoczynkowa, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z prysznicem typu walk-in i oddzielną toaletą, suszarka do włosów, bezpłatne kosmetyki, hipoalergiczne.",
+  "Superior Roof Garden Room (20 m²), klimatyzacja, ogrzewanie, minibar, dźwiękoszczelne okna, część wypoczynkowa, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z prysznicem typu walk-in i oddzielną toaletą, suszarka do włosów, bezpłatne kosmetyki, hipoalergiczne, taras.",
+  "Junior Suite (32 m²), klimatyzacja, ogrzewanie, minibar, dźwiękoszczelne okna, część wypoczynkowa, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z prysznicem typu walk-in i oddzielną toaletą, suszarka do włosów, bezpłatne kosmetyki, hipoalergiczne.",
+  "Executive Suite (45 m²), klimatyzacja, ogrzewanie, minibar, dźwiękoszczelne okna, część wypoczynkowa, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z prysznicem typu walk-in i oddzielną toaletą, suszarka do włosów, bezpłatne kosmetyki, hipoalergiczne.",
+  "Master Suite (43 m²), klimatyzacja, ogrzewanie, minibar, dźwiękoszczelne okna, część wypoczynkowa, zestaw do parzenia kawy/herbaty (w tym ekspres Nespresso), telewizor z płaskim ekranem i kanałami satelitarnymi, sejf, prywatna łazienka z prysznicem typu walk-in i oddzielną toaletą, suszarka do włosów, bezpłatne kosmetyki, hipoalergiczne."
+ ],
+ "rooms": 40,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "hotelsathens.org",
+  "booking.com",
+  "athenshotels24.com",
+  "editorhotel.gr",
+  "directbooking.ro",
+  "google.com.ng",
+  "reserve-online.net",
+  "athens-greecehotels.com"
+ ],
+ "updated": "2026-11-27"
+}

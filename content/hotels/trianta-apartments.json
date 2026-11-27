@@ -1,0 +1,131 @@
+{
+ "id": 27377,
+ "slug": "trianta-apartments",
+ "name": "Trianta Apartments",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Rodos",
+  "Ialyssos"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/trianta-apartments-basen-budynek-glowny-1617157924-570-428.jpg",
+ "city": "Ialyssos",
+ "intro": [
+  "Trianta Apartments to dwugwiazdkowy obiekt położony w sercu Ialyssos na Rodos, oferujący komfortowe zakwaterowanie w apartamentach z własnym wyżywieniem. Hotel, odnowiony w 2020 roku, jest idealnym wyborem dla rodzin i niezależnych podróżników szukających spokojnego wypoczynku, a jednocześnie bliskości lokalnych atrakcji.",
+  "Obiekt charakteryzuje się przyjazną, rodzinną atmosferą i dogodną lokalizacją, która umożliwia łatwy dostęp do plaży oraz centrum miejscowości. Goście doceniają czystość i dobrze wyposażone aneksy kuchenne, co sprzyja samodzielnemu przygotowywaniu posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Trianta Apartments znajduje się w centrum Ialyssos, na spokojnej ulicy, zaledwie około 320 metrów od środka miejscowości. Do miasta Rodos jest około 7 km. Międzynarodowe Lotnisko Rodos (Diagoras Airport, RHO) oddalone jest o 5-7 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Plaża Ialyssos, oddalona o 800 metrów do 1,1 km, jest dostępna w około 10-15 minut spacerem. Jest to plaża kamienista i żwirowa, nie jest to plaża hotelowa. Leżaki dostępne są przy basenie hotelowym."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 21 pokoi typu studio i apartamentów z jedną sypialnią, odnowionych w 2020 roku. Wszystkie pokoje są dźwiękoszczelne i wyposażone w aneks kuchenny, łazienkę, telefon, telewizor z płaskim ekranem oraz prywatny balkon. Klimatyzacja i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden odkryty basen typu infinity z wydzieloną płytką sekcją dla dzieci. Dla najmłodszych dostępny jest również plac zabaw. Hotel oferuje bilard oraz organizuje wycieczki piesze i rowerowe."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel oferuje zakwaterowanie z własnym wyżywieniem. Na miejscu znajduje się bar przy basenie, serwujący napoje i lekkie przekąski. Śniadanie w formie bufetu (kontynentalne, wegetariańskie, bezglutenowe) jest dostępne codziennie za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Bardzo pomocna i przyjazna obsługa",
+  "Wysoka czystość pokoi i basenu",
+  "Dobra lokalizacja blisko sklepów i restauracji, a jednocześnie spokojna",
+  "Czysty basen i wygodne łóżka",
+  "Dobrze wyposażone apartamenty z aneksem kuchennym"
+ ],
+ "cons": [
+  "Klimatyzacja i Wi-Fi w pokojach są dodatkowo płatne",
+  "Możliwy hałas uliczny w nocy",
+  "Brak dużego supermarketu w bezpośredniej bliskości",
+  "Brak wystarczającej ilości przyborów kuchennych (sporadycznie)",
+  "Miejsce wysiadania z transportu może być oddalone od hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Ialyssos znajduje się około 800 metrów do 1,1 km od hotelu, co zajmuje około 10-15 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Międzynarodowe Lotnisko Rodos (Diagoras Airport, RHO) jest oddalone o około 5-7 km od hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje zakwaterowanie z własnym wyżywieniem (self-catering). Śniadanie jest dostępne za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach. W basenie wydzielona jest płytka sekcja dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dzieci do 12 lat nocują bezpłatnie w pokoju rodziców, a w basenie jest sekcja dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy Wi-Fi jest płatne?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. W pokojach Wi-Fi jest dostępne za dodatkową opłatą w sezonie letnim."
+  }
+ ],
+ "address": "Trianton, 1, Ialysos (Rhodes), Grecja",
+ "adultsOnly": false,
+ "airportKm": 6,
+ "airportName": "Międzynarodowe Lotnisko Rodos (Diagoras Airport, RHO)",
+ "amenities": [
+  "bilard",
+  "wycieczki piesze",
+  "wycieczki rowerowe"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Ialyssos",
+ "bars": 1,
+ "beachDistanceM": 800,
+ "beachType": "kamienista i żwirowa",
+ "centerKm": 0.32,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "niezależni podróżnicy"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, łazienką, telefonem, telewizorem, balkonem",
+  "Apartament z jedną sypialnią, aneksem kuchennym, łazienką, telefonem, telewizorem, balkonem"
+ ],
+ "rooms": 21,
+ "spa": false,
+ "wifi": false,
+ "geo": {
+  "lat": 36.415731,
+  "lon": 28.1571523,
+  "src": "osm"
+ },
+ "sources": [
+  "triantahotel.gr",
+  "tui.co.uk",
+  "travelyalla.com",
+  "rhodesislandhotels.com",
+  "kayak.co.uk",
+  "booking.com",
+  "onthebeach.ie",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

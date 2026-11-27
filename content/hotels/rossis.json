@@ -1,0 +1,137 @@
+{
+ "id": 37042,
+ "slug": "rossis",
+ "name": "Rossis",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Korfu",
+  "Messonghi"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/rossis-obiekt-plaza-1567428233-570-428.jpg",
+ "city": "Messonghi",
+ "intro": [
+  "Hotel Rossis to urokliwy, rodzinny obiekt położony bezpośrednio przy piaszczysto-żwirowej plaży w miejscowości Messonghi, na południowo-wschodnim wybrzeżu Korfu. Oferuje spokojny wypoczynek w relaksującej atmosferze, idealnej dla par, małych grup oraz rodzin.",
+  "Obiekt jest doskonałą bazą wypadową do zwiedzania greckich wiosek i cieszenia się słońcem. Goście doceniają bezpośredni dostęp do plaży oraz gościnność personelu, co czyni go atrakcyjnym wyborem dla osób szukających komfortowego pobytu z łatwym dostępem do morza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Rossis znajduje się w Messonghi, bezpośrednio przy własnej piaszczysto-żwirowej plaży. Zaledwie kilka metrów dzieli obiekt od morza, a na plaży dostępne są bezpłatne leżaki. Centrum Messonghi, z licznymi atrakcjami, oddalone jest o około 1 km, co stanowi krótki, 5-minutowy spacer."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje łącznie 56 pokojami, w tym 30 w budynku głównym oraz 26 apartamentami i studiami. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, minibar/lodówkę, telewizor satelitarny, bezpłatne Wi-Fi oraz prywatny balkon lub taras. Studia i apartamenty oferują dodatkowo kuchnię i udogodnienia do samodzielnego przygotowywania posiłków."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Rossis goście mogą korzystać z bezpłatnych śniadań serwowanych w formie bufetu w hotelowej restauracji. Na terenie obiektu znajduje się również bar przekąskowy, kawiarnia oraz bar w lobby. Hotel oferuje wyżywienie w formule Bed and Breakfast."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Rossis zapewnia bezpłatne Wi-Fi dostępne w całym obiekcie oraz w pokojach. Na terenie hotelu znajduje się pokój gier ze stołem bilardowym. W pobliżu plaży dostępne są różne sporty wodne, takie jak narty wodne, parasailing czy nurkowanie, oferowane przez zewnętrzne podmioty."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Rossis jest polecany dla par, małych grup i rodzin. Jego lokalizacja bezpośrednio przy plaży oraz spokojna atmosfera sprzyjają relaksowi. To doskonały wybór dla osób ceniących sobie komfort, czystość i bliskość morza, a także możliwość zwiedzania urokliwych greckich wiosek."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej plaży",
+  "Bezpłatne leżaki na plaży",
+  "Przyjazny i pomocny personel",
+  "Komfortowe i czyste pokoje",
+  "Dobre śniadania i lokalizacja"
+ ],
+ "cons": [
+  "Brak basenu na terenie hotelu",
+  "Brak spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Rossis od plaży?",
+   "a": "Hotel Rossis znajduje się bezpośrednio przy własnej piaszczysto-żwirowej plaży, zaledwie kilka metrów od obiektu."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Korfu (CFU), oddalony o około 19-24 km. Czas transferu wynosi około 25-35 minut."
+  },
+  {
+   "q": "Czy hotel Rossis posiada basen lub aquapark?",
+   "a": "Nie, hotel Rossis nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Rossis jest określany jako przyjazny dzieciom i oferuje pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym obiekcie oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Jakie wyżywienie oferuje hotel Rossis?",
+   "a": "Hotel oferuje wyżywienie w formule Bed and Breakfast, co obejmuje bezpłatne śniadania w formie bufetu."
+  }
+ ],
+ "address": "Messonghi, Moraitika, Grecja",
+ "adultsOnly": false,
+ "airportKm": 19,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (CFU)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Pokój gier z bilardem",
+  "Klimatyzacja"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "południowo-wschodnie wybrzeże Korfu",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "pary",
+  "małe grupy",
+  "rodziny",
+  "spokojny wypoczynek na plaży",
+  "zwiedzanie greckich wiosek"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy/typu twin",
+  "pokój dwuosobowy/twin superior z bocznym widokiem na morze",
+  "pokój dwuosobowy/twin superior z widokiem na morze od frontu",
+  "studio (open plan)",
+  "studio w stylu mezzanine",
+  "studio rodzinne",
+  "apartament dwupokojowy"
+ ],
+ "rooms": 56,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.4776512,
+  "lon": 19.9341143,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.ie",
+  "hotelscorfuisland.com",
+  "rossisbeachhotel.com",
+  "thomascook.com",
+  "mapcarta.com",
+  "booking.com",
+  "onthebeach.ie",
+  "tui.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,135 @@
+{
+ "id": 3555,
+ "slug": "serita-beach",
+ "name": "Serita Beach",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Anissaras"
+ ],
+ "stars": 5,
+ "photo": "/no-index/hotel/serita-beach-obiekt-1824095502-570-428.jpg",
+ "city": "Anissaras",
+ "intro": [
+  "Hotel Serita Beach, który od 2026 roku będzie działał pod nazwą Oya Beach Resort po gruntownym remoncie w 2025 roku, położony jest w miejscowości Anissaras, w regionie Hersonissos na północnym wybrzeżu Krety. Obiekt znajduje się bezpośrednio przy piaszczysto-żwirowej plaży z prywatną częścią hotelową.",
+  "Hotel jest rekomendowany dla rodzin z dziećmi oraz par, oferując różnorodne udogodnienia, takie jak baseny, zjeżdżalnie wodne, mini klub dla dzieci oraz program animacyjny. Po renowacji hotel zyska nowoczesny charakter i nowe udogodnienia, w tym odnowione pokoje, baseny i restauracje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Serita Beach usytuowany jest bezpośrednio przy piaszczysto-żwirowej plaży w Anissaras, z kamieniami przy wejściu do wody. Posiada prywatną część plaży. Odległość od lotniska w Heraklionie wynosi około 21-22 km, a do centrum Hersonissos jest około 2-3,5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 269 lub 276 pokojami, w tym pokojami standardowymi, rodzinnymi oraz bungalowami, również z prywatnym basenem. Wszystkie pokoje wyposażone są w indywidualnie sterowaną klimatyzację, łazienkę z suszarką do włosów, mini lodówkę, telewizję satelitarną oraz balkon lub taras. W 2025 roku wszystkie pokoje przejdą gruntowną renowację."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z restauracji głównej (bufetowej) oraz trzech restauracji à la carte (greckiej/śródziemnomorskiej, włoskiej i azjatyckiej/chińskiej). Dostępne są również bary przy basenie, lobby bar i lounge bar oraz punkty z przekąskami. Pakiet obejmuje posiłki, lokalne napoje alkoholowe i bezalkoholowe, kawę, herbatę, lody i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa odkryte baseny z wodą morską, a także zjeżdżalnie wodne, w tym w basenie dla dzieci. Dla najmłodszych dostępny jest oddzielny basen, plac zabaw i mini klub (dla dzieci w wieku 4-12 lat). Hotel zapewnia program animacyjny 6 dni w tygodniu, a po renowacji planowane są spokojniejsze animacje i sesje DJ-skie."
+  },
+  {
+   "title": "Sport i relaks",
+   "text": "Na terenie hotelu znajdują się dwa korty tenisowe, stół do tenisa, boisko do siatkówki plażowej oraz siłownia zewnętrzna (po renowacji wewnętrzna). Na plaży dostępne są sporty wodne, niektóre za dodatkową opłatą. Spa jest dostępne za dodatkową opłatą, a bezpłatne Wi-Fi jest dostępne w lobby i na terenie hotelu."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Prywatna część plaży",
+  "Urozmaicone wyżywienie w ramach All Inclusive",
+  "Dobre baseny i udogodnienia dla dzieci",
+  "Gruntowna renowacja w 2025 roku"
+ ],
+ "cons": [
+  "Kamienie przy wejściu do morza mogą utrudniać pływanie",
+  "Sejf w pokoju za dodatkową opłatą",
+  "Spa za dodatkową opłatą",
+  "Starsze wyposażenie przed renowacją (do 2025 roku)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Serita Beach położony jest bezpośrednio przy piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada zjeżdżalnie wodne, w tym w basenie dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko w Heraklionie (HER) znajduje się około 21-22 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje mini klub, basen dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w lobby i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt rodzinny."
+  }
+ ],
+ "address": "Anissaras, Hersonissos, 70014, Kreta, Grecja",
+ "adultsOnly": false,
+ "airportKm": 21,
+ "airportName": "Międzynarodowy Port Lotniczy Heraklion \"Nikos Kazantzakis\" (HER)",
+ "amenities": [
+  "Klimatyzacja",
+  "Mini lodówka",
+  "Telewizja satelitarna",
+  "Balkon lub taras",
+  "Suszarka do włosów"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Hersonissos",
+ "bars": 4,
+ "beachDistanceM": 0,
+ "beachType": "Piaszczysto-żwirowa z kamieniami",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1993,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2004,
+ "restaurants": 4,
+ "roomTypes": [
+  "Pokój standardowy",
+  "Pokój rodzinny",
+  "Bungalow",
+  "Bungalow rodzinny",
+  "Bungalow z prywatnym basenem"
+ ],
+ "rooms": 269,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.3378629,
+  "lon": 25.3647621,
+  "src": "osm"
+ },
+ "sources": [
+  "oyabeach.com",
+  "reserve-online.net",
+  "adorehotels.com",
+  "kalamaki-travel.gr",
+  "quierohotel.com",
+  "bookhotelflight.com",
+  "xo.gr",
+  "grhotels.gr"
+ ],
+ "updated": "2026-11-27"
+}
