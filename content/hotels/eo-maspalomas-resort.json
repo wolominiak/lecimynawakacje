@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:eo maspalomas resort",
+ "slug": "eo-maspalomas-resort",
+ "name": "Eo Maspalomas Resort",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Maspalomas"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/maspalomas/eo-maspalomas-resort/f05849_imageconverter.jpg",
+ "city": "Maspalomas",
+ "intro": [
+  "Eo Maspalomas Resort to trzygwiazdkowy kompleks apartamentów i willi, położony w spokojnej dzielnicy Campo Internacional Maspalomas na Gran Canarii, tuż obok pola golfowego. Obiekt, otwarty w 1990 roku i odnowiony w 2010, oferuje wygodne zakwaterowanie z aneksami kuchennymi, idealne dla osób ceniących niezależność i domową atmosferę.",
+  "Hotel jest polecany dla rodzin z dziećmi, par, singli oraz aktywnych wczasowiczów, którzy szukają relaksu w otoczeniu zieleni i mają możliwość korzystania z transportu do dalszych atrakcji. Sprawdzi się dla tych, którzy chcą połączyć wypoczynek przy basenie z aktywnościami sportowymi, takimi jak golf czy tenis."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Eo Maspalomas Resort znajduje się w dzielnicy Campo Internacional Maspalomas, bezpośrednio przy polu golfowym. Do piaszczystej plaży Maspalomas, słynącej z wydm, jest około 2.2-3 km, co wymaga skorzystania z transportu. Centrum Maspalomas oddalone jest o około 1.3 km, a do centrum handlowego Yumbo Centre w Playa del Inglés można dojść w około 20 minut."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 84 apartamenty z jedną sypialnią oraz wille, często dwupoziomowe (duplex). Każdy apartament wyposażony jest w aneks kuchenny z kuchenką, mikrofalówką, lodówką i ekspresem do kawy, klimatyzację (często w sypialniach na piętrze), telewizor z płaskim ekranem oraz balkon lub taras. W łazience znajduje się prysznic, suszarka do włosów i ręczniki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie obiektu działa restauracja \"Mi Leon\", serwująca śniadania i kolacje w formie bufetu oraz lunche à la carte. Dostępna jest również kawiarnia/snack bar oraz bar/lounge. Hotel oferuje opcje wyżywienia takie jak \"Bed and Breakfast\", \"Half Board\" oraz \"Self Catering\" (apartamenty z aneksem kuchennym)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji dwa odkryte baseny, w tym płytki basen dla dzieci. Przy basenach dostępne są leżaki i parasole. Hotel oferuje kort tenisowy, bilard oraz wypożyczalnię rowerów. W odległości około 350 metrów znajduje się \"Health Club Open Air Gym\". Wieczorami organizowane są sezonowe programy animacyjne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano płytki basen. Na życzenie dostępne są łóżeczka dziecięce oraz specjalne menu dla dzieci. Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, choć brak tu typowego mini klubu czy aquaparku."
+  }
+ ],
+ "pros": [
+  "Przestronne apartamenty z aneksem kuchennym",
+  "Spokojna okolica obok pola golfowego",
+  "Czyste baseny z dostępnymi leżakami",
+  "Przyjazny i pomocny personel",
+  "Dobra wartość za pieniądze"
+ ],
+ "cons": [
+  "Wymagany transport do plaży i centrum",
+  "Niektóre obszary i apartamenty mogą być starsze",
+  "Ograniczone sprzątanie (np. 2 razy na 10 dni)",
+  "Brak parkingu na terenie obiektu",
+  "Możliwy hałas między sąsiednimi apartamentami"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Maspalomas znajduje się około 2.2-3 km od hotelu, co wymaga skorzystania z transportu."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Hotel nie oferuje opcji All Inclusive. Dostępne są wyżywienie ze śniadaniami (Bed and Breakfast), śniadaniami i kolacjami (Half Board) oraz opcja Self Catering z aneksem kuchennym."
+  },
+  {
+   "q": "Czy na terenie hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu nie ma aquaparku ani zjeżdżalni. Dostępne są dwa odkryte baseny, w tym jeden dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje płytki basen dla dzieci, łóżeczka dziecięce na życzenie oraz menu dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Gran Canaria (LPA) oddalone jest o około 27.7-27.8 km, co zajmuje około 20-35 minut jazdy."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w częściach wspólnych hotelu."
+  }
+ ],
+ "address": "Av. Touroperador Neckermann, 3, 35100 Maspalomas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 27.7,
+ "airportName": "Lotnisko Gran Canaria (LPA)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Telewizor z płaskim ekranem",
+  "Sejf (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Campo Internacional Maspalomas",
+ "bars": 1,
+ "beachDistanceM": 2200,
+ "beachType": "piaszczysta",
+ "centerKm": 1.3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Single",
+  "Aktywni wczasowicze"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartamenty z jedną sypialnią (z aneksem kuchennym, klimatyzacją, balkonem/tarasem)",
+  "Wille (często dwupoziomowe, z aneksem kuchennym, klimatyzacją, balkonem/tarasem)"
+ ],
+ "rooms": 84,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 27.756511,
+  "lon": -15.5875489,
+  "src": "osm"
+ },
+ "sources": [
+  "canary-islands-hotels.com",
+  "grancanaria-hotels.com",
+  "skyscanner.qa",
+  "trivago.com",
+  "trivago.co.uk",
+  "destinia.com",
+  "trip.com",
+  "tui.dk"
+ ],
+ "updated": "2026-11-27"
+}

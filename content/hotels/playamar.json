@@ -1,0 +1,91 @@
+{
+ "id": "x:hiszpania:playamar",
+ "slug": "playamar",
+ "name": "Playamar",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/playamar/2678/31b6682a02dabf4044396-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Playamar to dwugwiazdkowy obiekt położony w popularnej dzielnicy Rincon de Loix w Benidorm na wybrzeżu Costa Blanca w Hiszpanii. Oferuje on zakwaterowanie w apartamentach z wyżywieniem we własnym zakresie, co czyni go atrakcyjnym wyborem dla osób ceniących niezależność podczas wakacji.",
+  "Obiekt jest polecany dla par, rodzin, grup przyjaciół oraz osób podróżujących z ograniczonym budżetem, które szukają spokojnej atmosfery, ale jednocześnie chcą mieć łatwy dostęp do centrum rozrywki i plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Playamar znajduje się w Benidorm, w dzielnicy Rincon de Loix, około 600 metrów od piaszczystej plaży Levante. W odległości 600-800 metrów od obiektu znajduje się centrum turystyczne, a do głównej ulicy z barami i restauracjami można dojść w 10-15 minut. Najbliższe lotnisko w Alicante (ALC) oddalone jest o około 58 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 46 apartamentów, w tym apartamenty z jedną sypialnią (z dwoma pojedynczymi łóżkami) oraz salonem/jadalnią z rozkładaną sofą. Dostępne są również dwuosobowe apartamenty standardowe. Wszystkie apartamenty wyposażone są w aneks kuchenny z lodówką, kuchenką mikrofalową, tosterem i czajnikiem, a także łazienkę z prysznicem i suszarką do włosów. Do dyspozycji gości jest również balkon lub taras, telewizor z płaskim ekranem oraz klimatyzacja (często za dodatkową opłatą i dostępna sezonowo)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Playamar oferuje zakwaterowanie z wyżywieniem we własnym zakresie (self-catering), co pozwala gościom na samodzielne przygotowywanie posiłków w pełni wyposażonych aneksach kuchennych. Na terenie obiektu znajduje się bar, a tuż przy wejściu do budynku mieści się Coconut Bar, serwujący tapas i lokalne dania."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą oraz oddzielny brodzik dla dzieci. Goście mogą korzystać z bilarda. Bezpłatne Wi-Fi jest dostępne w całym obiekcie i przy basenie. Sporty wodne są dostępne około 600 metrów od hotelu u lokalnych dostawców, a pole golfowe znajduje się około 7 km od obiektu."
+  }
+ ],
+ "pros": [
+  "Czyste i przestronne apartamenty",
+  "Duże balkony z widokiem",
+  "Dobrze wyposażona kuchnia",
+  "Miła i pomocna obsługa",
+  "Dobra lokalizacja, blisko plaży i centrum"
+ ],
+ "cons": [
+  "Klimatyzacja dodatkowo płatna i może działać sezonowo",
+  "Brak codziennego sprzątania lub sprzątanie ograniczone",
+  "Wymagany zwrotny depozyt przy zameldowaniu",
+  "Hotel nie jest polecany na wieczory kawalerskie/panieńskie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Playamar znajduje się około 600 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Hotel jest oddalony o około 58 km od lotniska w Alicante (ALC)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Dostępny jest jeden odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i posiada oddzielny brodzik dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i przy basenie."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje zakwaterowanie z wyżywieniem we własnym zakresie (self-catering)."
+  }
+ ],
+ "geo": {
+  "lat": 39.165203,
+  "lon": -0.2430908,
+  "src": "osm"
+ },
+ "sources": [
+  "hotels-costa-blanca.com",
+  "clickbenidorm.com",
+  "trivago.ie",
+  "sunshine.co.uk",
+  "skyscanner.qa",
+  "booking.com",
+  "tui.co.uk",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

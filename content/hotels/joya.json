@@ -1,0 +1,133 @@
+{
+ "id": "x:hiszpania:joya",
+ "slug": "joya",
+ "name": "Joya",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/joya/225ba3aeb54762e76fbc7-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Joya to trzygwiazdkowy obiekt położony w centralnej części Benidormu, na słonecznym wybrzeżu Costa Blanca w Hiszpanii. Hotel znajduje się w spokojnej okolicy, jednocześnie oferując łatwy dostęp do atrakcji miasta i plaży. Jest to idealne miejsce dla osób szukających kameralnej atmosfery oraz aktywnego wypoczynku.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki dostępności udogodnień takich jak wydzielona strefa dla najmłodszych przy basenie oraz animacje w sezonie letnim. Hotel oferuje również komfortowe pokoje oraz podstawowe wyżywienie, co czyni go dobrą bazą wypadową do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Joya usytuowany jest w centrum Benidormu, w pobliżu parku L'Aiguera. Od piaszczystej plaży Levante, wyróżnionej Błękitną Flagą, dzieli go około 500 metrów, co przekłada się na około 10-18 minut spaceru. Plaża jest publiczna, a leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 130 lub 133 pokojami, w tym standardowymi pokojami dwu- i trzyosobowymi. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę z prysznicem lub wanną, toaletą i suszarką do włosów. Większość pokoi posiada również balkon z meblami, telewizor z płaskim ekranem, telefon, sejf (dodatkowo płatny), biurko i ogrzewanie. W pokojach nie ma lodówek ani czajników elektrycznych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni europejskiej w formie bufetu, z opcjami wegańskimi, bezglutenowymi i bezmlecznymi. Goście mogą korzystać z baru przy basenie oraz kawiarni. Hotel oferuje wyżywienie w opcjach: tylko nocleg, śniadania oraz śniadania i obiadokolacje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada sezonowy odkryty basen, który jest podgrzewany w maju-czerwcu oraz we wrześniu-październiku. Przy basenie wydzielono część dla dzieci. Dla dorosłych dostępne jest solarium i jacuzzi. Hotel oferuje całoroczny program rozrywkowy, a animacje dla dzieci odbywają się w sezonie letnim (lipiec-sierpień). Dodatkowo, goście mogą skorzystać z płatnego bilarda."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część basenu oraz pokój zabaw. W sezonie letnim (lipiec-sierpień) dostępne są animacje dla dzieci, co sprawia, że hotel jest dobrym wyborem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko centrum i plaży",
+  "Czystość w obiekcie",
+  "Miła i pomocna obsługa",
+  "Podgrzewany basen w wybranych miesiącach",
+  "Animacje dla dzieci w sezonie letnim"
+ ],
+ "cons": [
+  "Wyposażenie pokoi może być przestarzałe",
+  "Brak lodówek i czajników w pokojach",
+  "Możliwy hałas z wind hotelowych",
+  "Jedzenie bywa monotonne (szczególnie śniadania)",
+  "Brak ręczników basenowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Joya jest oddalony o około 500 metrów od piaszczystej plaży Levante, co zajmuje około 10-18 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Alicante-Elche Miguel Hernández (ALC), oddalone o około 60 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje wydzieloną część basenu dla dzieci, pokój zabaw oraz animacje w sezonie letnim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w pokojach i pomieszczeniach ogólnodostępnych. Niektóre źródła wskazują, że jest bezpłatne, inne, że płatne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje opcje wyżywienia takie jak tylko nocleg, śniadania oraz śniadania i obiadokolacje. Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Av. de Andalucía, 2, 03502 Benidorm, Alicante, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Alicante-Elche Miguel Hernández (ALC)",
+ "amenities": [
+  "solarium",
+  "jacuzzi",
+  "bilard (płatny)",
+  "pokój zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "centralna część Benidormu",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby szukające kameralnej atmosfery",
+  "grupy preferujące aktywny wypoczynek"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1970,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy/twin z klimatyzacją, łazienką, balkonem, TV, telefonem, sejfem (płatny), biurkiem, ogrzewaniem",
+  "pokój trzyosobowy z klimatyzacją, łazienką, balkonem, TV, telefonem, sejfem (płatny), biurkiem, ogrzewaniem"
+ ],
+ "rooms": 133,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5427257,
+  "lon": -0.1249301,
+  "src": "osm"
+ },
+ "sources": [
+  "hoteljoya.com",
+  "benidormehotel.com",
+  "visitbenidorm.es",
+  "trivago.pl",
+  "hotels-costa-blanca.com",
+  "wakacje.pl",
+  "guestreservations.com",
+  "expedia.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,129 @@
+{
+ "id": "x:hiszpania:cordial judoca beach",
+ "slug": "cordial-judoca-beach",
+ "name": "Cordial Judoca Beach (Adults Only)",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/cordial-judoca-beach-adults-only/8195/362b52840fdc1c9f8de81ac137d8c146_judoca1-244.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Cordial Judoca Beach (Adults Only) to kameralny kompleks apartamentów położony w popularnej miejscowości Playa del Inglés na Gran Canarii. Obiekt, przeznaczony wyłącznie dla dorosłych, oferuje spokojny wypoczynek w bliskości słynnych wydm Maspalomas.",
+  "To idealne miejsce dla par i przyjaciół, którzy cenią sobie niezależność i komfort przestronnych apartamentów z w pełni wyposażoną kuchnią. Dogodna lokalizacja w centrum miejscowości zapewnia łatwy dostęp do plaży, sklepów, restauracji i życia nocnego, jednocześnie oferując cichą i relaksującą atmosferę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Cordial Judoca Beach znajduje się w Playa del Inglés, zaledwie około 200 metrów od piaszczystej plaży oraz wydm Maspalomas. W bliskiej odległości, około 400-700 metrów, znajdują się centra handlowe Yumbo i Cita, a także liczne bary i restauracje. Lotnisko Gran Canaria (LPA) oddalone jest o około 25-35 km."
+  },
+  {
+   "title": "Apartamenty",
+   "text": "Kompleks składa się z 12 przestronnych apartamentów z jedną sypialnią, każdy o powierzchni około 40 m². Wszystkie apartamenty są dla niepalących i wyposażone w oddzielną sypialnię z podwójnym łóżkiem, salon z jadalnią i rozkładaną sofą, a także w pełni wyposażoną kuchnię. Do dyspozycji gości jest również prywatny balkon lub taras."
+  },
+  {
+   "title": "Wyposażenie apartamentów",
+   "text": "Każdy apartament posiada klimatyzację, wentylator sufitowy oraz bezpłatny sejf. W kuchni znajdują się: lodówka, toster, ekspres do kawy, płyta ceramiczna i mikrofalówka. W salonie dostępny jest telewizor z kanałami satelitarnymi. Łazienka wyposażona jest w prysznic i suszarkę do włosów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden odkryty basen, wokół którego dostępne są bezpłatne leżaki i parasole. Hotel nie posiada aquaparku ani podgrzewanych basenów. Goście mogą skorzystać z wypożyczalni rowerów (za dodatkową opłatą)."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel Cordial Judoca Beach nie posiada własnych restauracji ani barów, co jest typowe dla kompleksów apartamentowych. W każdym apartamencie znajduje się w pełni wyposażona kuchnia, umożliwiająca samodzielne przygotowywanie posiłków. W sezonie zimowym oferowane jest codzienne świeże pieczywo."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "W całym obiekcie oraz w apartamentach dostępne jest bezpłatne Wi-Fi. Hotel jest przeznaczony wyłącznie dla dorosłych, co zapewnia spokojną atmosferę. Ręczniki są zmieniane 3 razy w tygodniu."
+  }
+ ],
+ "pros": [
+  "Cicha lokalizacja blisko wydm Maspalomas",
+  "Przestronne i dobrze wyposażone apartamenty",
+  "Bezpłatne Wi-Fi w całym obiekcie",
+  "Bliskość plaży i centrów handlowych",
+  "Codzienne świeże pieczywo w sezonie zimowym"
+ ],
+ "cons": [
+  "Brak własnych restauracji i barów",
+  "Brak animacji i udogodnień dla dzieci",
+  "Brak siłowni i spa",
+  "Brak podgrzewanego basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Playa del Inglés znajduje się około 200 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (Adults Only)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Gran Canaria (LPA), oddalone o około 25-35 km."
+  },
+  {
+   "q": "Czy w hotelu są restauracje?",
+   "a": "Hotel nie posiada własnych restauracji ani barów, ale w okolicy znajduje się wiele lokali gastronomicznych. Apartamenty posiadają w pełni wyposażone kuchnie."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel posiada jeden odkryty basen z leżakami."
+  }
+ ],
+ "address": "Calle Roma, 20 - 35100, Playa del Inglés",
+ "adultsOnly": true,
+ "airportKm": 25,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Wypożyczalnia rowerów (płatna)",
+  "Leżaki i parasole przy basenie"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Playa del Inglés",
+ "bars": 0,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Przyjaciele"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (ok. 40 m²): oddzielna sypialnia z podwójnym łóżkiem, sejf (bezpłatny), wentylator sufitowy, klimatyzacja, w pełni wyposażona kuchnia (lodówka, toster, ekspres do kawy, płyta ceramiczna, mikrofalówka), salon z jadalnią, rozkładana sofa, telewizor z kanałami satelitarnymi i klimatyzacją, łazienka z prysznicem i suszarką do włosów, balkon lub taras ze stołem i krzesłami."
+ ],
+ "rooms": 12,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "reserving.com",
+  "sunshine.co.uk",
+  "booking.com",
+  "becordial.com",
+  "travelyalla.com",
+  "onthebeach.ie",
+  "cordialresortholidays.com",
+  "youtube.com"
+ ],
+ "updated": "2026-11-27"
+}

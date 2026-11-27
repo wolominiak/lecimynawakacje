@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:hotel nayra only adults",
+ "slug": "hotel-nayra-only-adults",
+ "name": "Hotel Nayra Only Adults",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/hotel-nayra-only-adults-pl/dc5d3f89bbf32407e6627.JPG",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Hotel Nayra Only Adults to nowoczesny obiekt położony w sercu Playa del Inglés na Gran Canarii, otwarty w 2017 roku. Znajduje się naprzeciwko popularnego centrum handlowego Yumbo, oferując jednocześnie spokojne otoczenie dla wypoczynku.",
+  "Ten czterogwiazdkowy hotel jest przeznaczony wyłącznie dla osób dorosłych (powyżej 18 lat), co czyni go idealnym wyborem dla par i osób podróżujących samotnie, szukających relaksu, komfortu i wysokiej jakości obsługi w tętniącej życiem okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Nayra Only Adults mieści się w centrum Playa del Inglés, bezpośrednio naprzeciwko centrum handlowego Yumbo. Do piaszczystej plaży Playa del Inglés można dojść w około 15 minut (1 km). Lotnisko Gran Canaria (LPA) oddalone jest o 28-34 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 46 nowoczesnych i dźwiękoszczelnych pokoi o powierzchni około 25 m². Wszystkie są klimatyzowane i wyposażone w telewizor 4K UHD, bezpłatne Wi-Fi, sejf, minibar oraz prywatną łazienkę z prysznicem, suszarką do włosów i kosmetykami. Pokoje posiadają duży taras, niektóre z bezpośrednim dostępem do basenu lub widokiem na basen."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny ze słodką wodą. Jeden z nich jest podgrzewany w miesiącach zimowych. Goście mogą korzystać z w pełni wyposażonej siłowni oraz pokoju masażu oferującego zabiegi terapeutyczne. W pobliżu hotelu (do 3 km) znajduje się pole golfowe."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu Nayra Only Adults serwowane są śniadania w formie bufetu. Dostępne są również posiłki à la carte. Do dyspozycji gości jest bar przy basenie, który oferuje szeroki wybór napojów, koktajli oraz menu przekąsek z daniami ciepłymi i zimnymi."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu oraz w pokojach. Ręczniki basenowe są dostępne bezpłatnie i bez depozytu, z możliwością wymiany w dowolnym momencie. Obiekt składa się z budynku głównego i aneksu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum, blisko Yumbo, ale cicho",
+  "Bardzo miła i pomocna obsługa",
+  "Czyste i komfortowe, nowoczesne pokoje",
+  "Dobre śniadania",
+  "Ładny i spokojny basen"
+ ],
+ "cons": [
+  "Brak transferu z lotniska",
+  "Odległość do plaży około 1 km (15 minut spacerem)",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Playa del Inglés znajduje się około 1 km od hotelu, co zajmuje około 15 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony dla rodzin z dziećmi?",
+   "a": "Nie, Hotel Nayra Only Adults jest przeznaczony wyłącznie dla dorosłych (powyżej 18 lat)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu oraz w pokojach."
+  },
+  {
+   "q": "Jakie udogodnienia oferuje hotel?",
+   "a": "Hotel oferuje dwa odkryte baseny (jeden podgrzewany zimą), siłownię, pokój masażu, bar przy basenie oraz bezpłatne ręczniki basenowe."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Lotnisko Gran Canaria (LPA) jest oddalone od hotelu o około 28-34 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "Calle Irlanda, 25, Playa del Inglés, 35100",
+ "adultsOnly": true,
+ "airportKm": 28,
+ "airportName": "Lotnisko Gran Canaria (LPA)",
+ "amenities": [
+  "Siłownia",
+  "Spa (pokój masażu)",
+  "Wifi",
+  "Bar przy basenie"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Playa del Inglés (centrum)",
+ "bars": 1,
+ "beachDistanceM": 1000,
+ "beachType": "Piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące samotnie"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2017,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z tarasem (dwa łóżka pojedyncze lub jedno duże podwójne, klimatyzacja, TV 4K UHD, Wi-Fi, sejf, minibar, łazienka z prysznicem, suszarka do włosów, kosmetyki)",
+  "Pokój z 2 łóżkami pojedynczymi w aneksie (klimatyzacja, TV 4K UHD, Wi-Fi, sejf, minibar, łazienka z prysznicem, suszarka do włosów, kosmetyki)",
+  "Pokój jednoosobowy z tarasem (klimatyzacja, TV 4K UHD, Wi-Fi, sejf, minibar, łazienka z prysznicem, suszarka do włosów, kosmetyki)",
+  "Pokój jednoosobowy w aneksie (klimatyzacja, TV 4K UHD, Wi-Fi, sejf, minibar, łazienka z prysznicem, suszarka do włosów, kosmetyki)"
+ ],
+ "rooms": 46,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "playadelinglesweb.com",
+  "thomascook.com",
+  "tui.pl",
+  "ving.se",
+  "trip.com",
+  "snaptrip.com",
+  "hotelnayra.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,143 @@
+{
+ "id": "x:hiszpania:los amigos beach club",
+ "slug": "los-amigos-beach-club",
+ "name": "Los Amigos Beach Club",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Fuengirola"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/fuengirola/los-amigos-beach-club/d13e22667d956d721ff94.jpg",
+ "city": "Fuengirola",
+ "intro": [
+  "Los Amigos Beach Club to hotel apartamentowy położony w Mijas Costa, w spokojnej dzielnicy Urbanizacion Playamarina, niedaleko piaszczystej plaży. Obiekt oferuje przestronne zakwaterowanie z pełnym wyposażeniem, idealne dla osób ceniących niezależność i komfort.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, oferując szereg udogodnień i atrakcji, takich jak baseny, mini klub i program animacji. Dogodna lokalizacja umożliwia łatwy dostęp do plaży oraz centrów handlowych, a także szybki dojazd do centrum Fuengiroli i lotniska w Maladze."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Los Amigos Beach Club znajduje się w Mijas Costa, przy głównej drodze N-340. Piaszczysta plaża oddalona jest o 80-350 metrów od obiektu. Do centrum Fuengiroli jest około 6-8 km, a do centrum Mijas Costa około 4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 140 przestronnych studiów oraz apartamentów z 1, 2 lub 3 sypialniami. Wszystkie pokoje posiadają prywatny balkon lub taras, w pełni wyposażoną kuchnię (z czajnikiem, mikrofalówką, lodówką, zmywarką, płytą grzewczą, piekarnikiem, tosterem i naczyniami), pralkę, telewizor oraz klimatyzację. Sejf dostępny jest za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się dwa baseny zewnętrzne oraz jeden podgrzewany basen kryty. Goście mogą korzystać z centrum fitness, kortu tenisowego, tenisa stołowego, badmintona, koszykówki, siatkówki plażowej, bilarda oraz mini golfa. W pobliżu dostępne są również pola golfowe."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik, plac zabaw oraz mini klub z programem animacji. Dzieci mogą również korzystać z mini golfa."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działają trzy restauracje: restauracja à la carte z daniami lokalnymi, restauracja Martirio Limón (serwująca śniadania, brunche, obiady i kolacje) oraz restauracja \"Las Casitas\" z kuchnią śródziemnomorską. Dostępne są także bary, w tym bar w lobby i bar przy basenie. Hotel oferuje opcję all inclusive, jednak szczegóły oferty nie są podane."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Hotelowe spa oferuje saunę, masaże, hydroterapię, jacuzzi i zabiegi na ciało. Na terenie całego obiektu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Przestronne i dobrze wyposażone pokoje z kuchnią",
+  "Bliskość plaży i centrów handlowych",
+  "Świetne baseny, w tym podgrzewany basen kryty",
+  "Wiele atrakcji dla dzieci i dorosłych",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Możliwość słyszenia ruchu ulicznego w niektórych apartamentach",
+  "Baseny zewnętrzne mogą być zbyt zimne poza sezonem",
+  "Korzystanie z basenu krytego jest płatne i wymaga czepków",
+  "Trwające prace remontowe (do 2028 roku)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża znajduje się około 80-350 metrów od hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Malaga (AGP), oddalone o około 27-37 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując brodzik, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu oraz w pokojach."
+  },
+  {
+   "q": "Czy basen kryty jest płatny?",
+   "a": "Tak, korzystanie z basenu krytego wiąże się z opłatą 10 EUR za 24h za pokój i wymaga noszenia czepków."
+  }
+ ],
+ "address": "Urb. Playamarina, Carretera de Cádiz (N-340), km 204, 29649 Las Lagunas de Mijas, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Port lotniczy Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Badminton",
+  "Koszykówka",
+  "Siatkówka plażowa",
+  "Bilard",
+  "Mini golf",
+  "Mini klub",
+  "Plac zabaw"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Mijas Costa, Urbanizacion Playamarina",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 6,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2028,
+ "restaurants": 3,
+ "roomTypes": [
+  "Studio (z balkonem/tarasem, kuchnią, pralką, TV, klimatyzacją)",
+  "Apartament z 1 sypialnią (z balkonem/tarasem, kuchnią, pralką, TV, klimatyzacją)",
+  "Apartament z 2 sypialniami (z balkonem/tarasem, kuchnią, pralką, TV, klimatyzacją)",
+  "Apartament z 3 sypialniami (z balkonem/tarasem, kuchnią, pralką, TV, klimatyzacją)"
+ ],
+ "rooms": 140,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.50883,
+  "lon": -4.64645,
+  "src": "web"
+ },
+ "sources": [
+  "hiltongrandvacations.com",
+  "wakacjeamigos.pl",
+  "mapcarta.com",
+  "google.com.ng",
+  "wakacje.pl",
+  "exim.pl",
+  "travelplanet.pl",
+  "travelpunkt.pl"
+ ],
+ "updated": "2026-11-27"
+}

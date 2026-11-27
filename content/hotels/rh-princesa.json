@@ -1,0 +1,175 @@
+{
+ "id": "x:hiszpania:rh princesa",
+ "slug": "rh-princesa",
+ "name": "Rh Princesa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/rh-princesa-pl/3576/84a29_princesafachada-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel RH Princesa to czterogwiazdkowy obiekt położony w centrum Benidormu na Costa Blanca, idealny dla rodzin z dziećmi oraz osób szukających komfortu i rozrywki. Oferuje szeroki zakres udogodnień, w tym baseny, strefy dla dzieci i animacje, zapewniając aktywny wypoczynek w hiszpańskim słońcu.",
+  "Zlokalizowany w pobliżu piaszczystej plaży Levante oraz tętniącego życiem centrum miasta, hotel stanowi dobrą bazę wypadową do zwiedzania okolicy i korzystania z lokalnych atrakcji. Odnowiony w 2019 roku, RH Princesa łączy nowoczesne udogodnienia z przyjazną atmosferą.",
+  "sections",
+  "pros",
+  "cons",
+  "faq",
+  "address",
+  "adultsOnly",
+  "airportKm",
+  "airportName",
+  "amenities",
+  "animations",
+  "aquapark",
+  "area",
+  "bars",
+  "beachDistanceM",
+  "beachType",
+  "centerKm",
+  "goodFor",
+  "gym",
+  "heatedPool",
+  "kidsClub",
+  "lat",
+  "lon",
+  "opened",
+  "pools",
+  "privateBeach",
+  "renovated",
+  "restaurants",
+  "roomTypes",
+  "rooms",
+  "spa",
+  "wifi"
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel RH Princesa znajduje się w centrum Benidormu, w pobliżu Starego Miasta i Plaza Triangular. Piaszczysta plaża Levante oddalona jest o około 400-700 metrów. Wokół hotelu dostępne są liczne sklepy, bary i restauracje."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 229 pokoi, w tym pokoje dwuosobowe superior, trzyosobowe, jednoosobowe i rodzinne. Wszystkie wyposażone są w klimatyzację, telewizor, minibar, prywatną łazienkę z suszarką do włosów oraz bezpłatne Wi-Fi. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny zewnętrzne (w tym brodzik dla dzieci ze zjeżdżalniami) oraz dwa podgrzewane baseny kryte w strefie spa. Hotel oferuje również strefę splash, plac zabaw, mini klub dla dzieci (w sezonie) oraz codzienne animacje rodzinne. Dostępna jest siłownia, a także bilard, rzutki, tenis stołowy i mini golf."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja bufetowa La Buganvilla z pokazami gotowania oraz kawiarnia Mirador z tarasem. Goście mogą również korzystać z coffee baru i piano lounge. Opcja all inclusive jest dostępna przy minimalnym pobycie 5 nocy i obejmuje lokalne napoje."
+  },
+  {
+   "title": "Strefa Spa",
+   "text": "Club Termal Princesa Spa oferuje podgrzewany basen kryty, jacuzzi, saunę fińską, łaźnię parową i gabinety zabiegowe. Wejście do spa jest dodatkowo płatne i wymaga rezerwacji. Dzieci poniżej 14 lat mogą korzystać ze spa w wyznaczonych godzinach pod opieką dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała obsługa i przyjazny personel.",
+  "Wysoki poziom czystości w całym hotelu.",
+  "Dobre jedzenie z dużym wyborem w restauracji bufetowej.",
+  "Dobra lokalizacja blisko plaży i centrum.",
+  "Bogate udogodnienia dla rodzin z dziećmi.",
+  "Bezpłatne Wi-Fi w całym hotelu."
+ ],
+ "cons": [
+  "Dodatkowa opłata za korzystanie ze strefy spa.",
+  "Możliwy hałas z zewnątrz i słabe wygłuszenie pokoi.",
+  "Konieczność walki o leżaki przy basenie w szczycie sezonu.",
+  "Hotel położony na lekkim wzniesieniu.",
+  "Zewnętrzny basen jest nieogrzewany."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel RH Princesa znajduje się około 400-700 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Alicante-Elche (ALC), oddalone o około 47.7 km do 60 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada dwie zjeżdżalnie i strefę splash dla dzieci przy basenie zewnętrznym, czynne od maja do października."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi w wieku 4-12 lat, oferując mini klub, plac zabaw i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Calle Mirador 3, 03501 Benidorm",
+ "adultsOnly": false,
+ "airportKm": 47.7,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "wifi",
+  "mini klub dla dzieci",
+  "plac zabaw",
+  "animacje",
+  "bilard",
+  "rzutki",
+  "tenis stołowy",
+  "mini golf",
+  "joga",
+  "gry zręcznościowe",
+  "escape room"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Centrum Benidormu",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.16,
+ "goodFor": [
+  "Rodziny z dziećmi (w wieku 4-12 lat)",
+  "Osoby szukające komfortu i rozrywki"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe superior (27m², dwa łóżka 90cm, klimatyzacja, drewniana podłoga, telewizor, minibar, łazienka, suszarka do włosów, telefon, sejf, Wi-Fi, większość z tarasem/balkonem)",
+  "Pokoje trzyosobowe (klimatyzacja, drewniana podłoga, telewizor, minibar, łazienka, suszarka do włosów, telefon, sejf, Wi-Fi, większość z tarasem/balkonem)",
+  "Pokoje jednoosobowe (klimatyzacja, drewniana podłoga, telewizor, minibar, łazienka, suszarka do włosów, telefon, sejf, Wi-Fi, większość z tarasem/balkonem)",
+  "Pokoje rodzinne (29m², dwa łóżka 135cm, klimatyzacja, drewniana podłoga, telewizor, minibar, łazienka, suszarka do włosów, telefon, sejf, Wi-Fi, większość z tarasem/balkonem)"
+ ],
+ "rooms": 229,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5402666,
+  "lon": -0.1267373,
+  "src": "osm"
+ },
+ "sources": [
+  "onbenidorm.com",
+  "thomascook.com",
+  "kayak.co.uk",
+  "benidorm-hotels.net",
+  "booking.com",
+  "onthebeach.co.uk",
+  "tui.co.uk",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

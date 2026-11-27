@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:hipotels hipocampo playa",
+ "slug": "hipotels-hipocampo-playa",
+ "name": "Hipotels Hipocampo Playa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Cala Millor"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/cala-millor/hipotels-hipocampo-playa-pl/2c1803b4c0288d26d1ce1.jpg",
+ "city": "Cala Millor",
+ "intro": [
+  "Hipotels Hipocampo Playa to czterogwiazdkowy hotel położony bezpośrednio przy piaszczystej plaży w miejscowości Cala Millor na Majorce. Obiekt oferuje komfortowe zakwaterowanie i szeroki zakres udogodnień, idealnych zarówno dla rodzin z dziećmi, jak i par czy osób szukających relaksu.",
+  "Hotel polecany jest również miłośnikom golfa, dzięki zniżkom na pobliskie pola golfowe. Zapewnia spokojny wypoczynek, jednocześnie oferując łatwy dostęp do lokalnych atrakcji i centrum miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hipotels Hipocampo Playa znajduje się bezpośrednio przy piaszczystej plaży Cala Millor, zaledwie około 25 metrów od brzegu. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, gdyż nie jest to plaża prywatna hotelu. Obiekt jest oddalony o około 20 minut spacerem od centrum miejscowości i około 5 minut od lokalnego pasażu turystycznego."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 204 pokojami, w tym pokojami dwuosobowymi (około 24-27 m²), jednoosobowymi oraz pokojami z widokiem na morze lub basen. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę z wanną lub prysznicem, bidetem, suszarką do włosów oraz balkon. Do dyspozycji gości jest także telewizor z płaskim ekranem, minibar (płatny), sejf (płatny), Wi-Fi, biurko i telefon."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny: jeden odkryty i jeden kryty, który jest podgrzewany. Dla najmłodszych przygotowano sezonowy brodzik oraz plac zabaw. Dorośli mogą korzystać z programu animacyjnego obejmującego wieczorne pokazy i muzykę na żywo. Hotel oferuje również pełne centrum spa z masażami, zabiegami, hammamem, jacuzzi i sauną, a także siłownię. Aktywni goście mogą zagrać w tenis stołowy, bilard, wypożyczyć rowery lub skorzystać ze zniżek na pobliskie pola golfowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, która serwuje śniadania i kolacje. Goście mogą korzystać również z baru przy basenie oraz baru w lobby/lounge baru. Hotel oferuje opcje wyżywienia ze śniadaniem (BB) i niepełnym wyżywieniem (HB). Brak potwierdzonych informacji o opcji all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla dzieci przygotowano brodzik (sezonowy) oraz plac zabaw. Dostępny jest również program zajęć dla dzieci pod nadzorem, co czyni hotel odpowiednim dla rodzin."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bardzo dobre i różnorodne jedzenie",
+  "Czysty hotel z przyjaznym personelem",
+  "Dostęp do pełnego centrum spa i siłowni",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Minibary i sejfy w pokojach są dodatkowo płatne",
+  "Taras przy basenie bywa zatłoczony",
+  "Siłownia jest mała",
+  "Leżaki i parasole na plaży są płatne",
+  "Część rozrywki może być w języku niemieckim"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy piaszczystej plaży Cala Millor, około 25 metrów od brzegu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska Palma de Mallorca (PMI)?",
+   "a": "Odległość od lotniska Palma de Mallorca (PMI) wynosi około 65-70 km drogą."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Hotel oferuje opcje wyżywienia ze śniadaniem (BB) i niepełnym wyżywieniem (HB). Brak potwierdzonych informacji o opcji all inclusive."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik, plac zabaw oraz program zajęć dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "address": "Avinguda Sa Coma, 45, 07560 Cala Millor",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wypożyczalnia rowerów",
+  "Tenis stołowy",
+  "Bilard",
+  "Zniżki na pola golfowe"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "",
+ "bars": 2,
+ "beachDistanceM": 25,
+ "beachType": "Piaszczysta",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające relaksu",
+  "Miłośnicy golfa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1985,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (ok. 24-27 m², klimatyzacja, łazienka, balkon, TV satelitarna, minibar, sejf, Wi-Fi, biurko, telefon)",
+  "Pokój jednoosobowy (klimatyzacja, łazienka, balkon, TV satelitarna, minibar, sejf, Wi-Fi, biurko, telefon)",
+  "Pokój z widokiem na morze (bocznym lub frontalnym, klimatyzacja, łazienka, balkon, TV satelitarna, minibar, sejf, Wi-Fi, biurko, telefon)",
+  "Pokój z widokiem na basen (klimatyzacja, łazienka, balkon, TV satelitarna, minibar, sejf, Wi-Fi, biurko, telefon)"
+ ],
+ "rooms": 204,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.5893311,
+  "lon": 3.3843844,
+  "src": "osm"
+ },
+ "sources": [
+  "h-rez.com",
+  "hipotels.com",
+  "booking.com",
+  "google.es",
+  "hotelscalamillor.com",
+  "thomascook.com",
+  "travelweekly.com",
+  "hotelmallorca.org"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,145 @@
+{
+ "id": "x:hiszpania:golden port salou and spa",
+ "slug": "golden-port-salou-spa",
+ "name": "Golden Port Salou & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Dorada",
+  "Salou"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-dorada/salou/golden-port-salou-a-spa-pl/8918/na-hotel-costa-dorada-244.jpg",
+ "city": "Salou",
+ "intro": [
+  "Golden Port Salou & Spa to czterogwiazdkowy hotel położony w spokojnej części Salou na wybrzeżu Costa Dorada w Hiszpanii. Obiekt znajduje się blisko centrum miasta, co zapewnia łatwy dostęp do sklepów, restauracji i Parku Miejskiego. Hotel jest idealnym wyborem dla rodzin z dziećmi, par oraz osób aktywnych, poszukujących zarówno relaksu, jak i rozrywki.",
+  "Hotel oferuje bogatą infrastrukturę rekreacyjną, w tym kompleks basenów, mini park wodny oraz strefę spa. Dzięki różnorodnym animacjom i mini klubowi dla dzieci, jest to doskonałe miejsce na rodzinne wakacje. Goście doceniają centralną lokalizację, smaczne wyżywienie i nowoczesne wnętrza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Golden Port Salou & Spa zlokalizowany jest w spokojnej części Salou, zaledwie 300 metrów od centrum miasta. Do piaszczystej, publicznej plaży Llevant jest około 900 metrów. Na plaży leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 348 pokojami, w tym pokojami standardowymi, rodzinnymi, Privilege oraz apartamentami. Wszystkie pokoje są dźwiękoszczelne i wyposażone w klimatyzację (sezonowo), łazienkę z suszarką do włosów, telewizor, telefon, lodówkę, sejf (płatny) oraz umeblowany balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni śródziemnomorskiej i międzynarodowej, z pokazami gotowania na żywo. Dostępne są opcje dla wegetarian, wegan i osób z celiakią. Na terenie hotelu znajdują się również Lounge Bar Garbí z przekąskami oraz Casual Food & Drinks Gregal - bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje trzy baseny zewnętrzne, w tym jeden typu laguna, oraz dwa płytkie baseny dla dzieci. Goście mogą korzystać z mini parku wodnego ze zjeżdżalniami. W strefie spa znajduje się podgrzewany basen kryty. Dostępne są również siłownia, boisko multifunkcyjne, mini-golf i tenis stołowy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano dwa płytkie baseny, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Hotel zapewnia również dzienne i wieczorne animacje, a także mini-disco."
+  },
+  {
+   "title": "Spa i sport",
+   "text": "Strefa spa (płatna, tylko dla dorosłych) obejmuje basen kryty, jacuzzi, saunę i łaźnię turecką. Dostępne są również zabiegi na twarz i ciało. Hotel oferuje siłownię z bezpłatnym wstępem oraz różnorodne aktywności sportowe, takie jak pétanque, badminton i tenis stołowy."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko centrum Salou",
+  "Bogata infrastruktura sportowo-rekreacyjna",
+  "Atrakcje dla dzieci, w tym mini park wodny i mini klub",
+  "Smaczne wyżywienie z opcjami dietetycznymi",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Plaża oddalona o około 900 metrów",
+  "Płatne leżaki i parasole na plaży",
+  "Płatny sejf w pokoju",
+  "Płatny parking",
+  "Strefa spa płatna i tylko dla dorosłych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Golden Port Salou & Spa znajduje się około 900 metrów od piaszczystej plaży Llevant."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel oferuje mini park wodny ze zjeżdżalniami i instalacjami wodnymi (mini splash)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując mini klub, dwa płytkie baseny, plac zabaw oraz animacje."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Reus (REU), oddalone o około 12-13 km. Lotnisko Barcelona El Prat (BCN) znajduje się około 97-98 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, w całym hotelu i w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest obiektem rodzinnym. Strefa spa jest przeznaczona wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Av. de Pompeu Fabra, 32, 43840 Salou, Tarragona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Reus (REU)",
+ "amenities": [
+  "klimatyzacja",
+  "łazienka z suszarką do włosów",
+  "telewizor satelitarny",
+  "telefon",
+  "lodówka",
+  "sejf (płatny)",
+  "balkon",
+  "zestaw do parzenia kawy/herbaty",
+  "biurko",
+  "łóżeczka dla dzieci (na potwierdzenie)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Costa Dorada",
+ "bars": 2,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające aktywnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1989,
+ "pools": 6,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (dwuosobowy, trzyosobowy, czteroosobowy)",
+  "pokój rodzinny",
+  "pokój Privilege (na najwyższym piętrze)",
+  "apartament"
+ ],
+ "rooms": 348,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0740196,
+  "lon": 1.1515743,
+  "src": "osm"
+ },
+ "sources": [
+  "goldenhotels.com",
+  "tui.pl",
+  "coraltravel.pl",
+  "hotelssalou.net",
+  "spahotel.pl",
+  "wakacje.pl",
+  "r.pl",
+  "holidaycafe.pl"
+ ],
+ "updated": "2026-11-27"
+}

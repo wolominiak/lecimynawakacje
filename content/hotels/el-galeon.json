@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:el galeon",
+ "slug": "el-galeon",
+ "name": "El Galeon",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "La Palma",
+  "Santa Cruz"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/la-palma/santa-cruz/el-galeon/990c047f834550b8424fe075c93731d7_1.jpg",
+ "city": "Santa Cruz de la Palma",
+ "intro": [
+  "Aparthotel El Galeón to trzygwiazdkowy obiekt położony na południowym skraju Santa Cruz de la Palma na wyspie La Palma, oferujący malownicze widoki na port i okoliczne góry. Hotel jest doskonałą bazą wypadową do zwiedzania wyspy, z łatwym dostępem do centrum miasta i lokalnych atrakcji.",
+  "Obiekt jest odpowiedni dla rodzin, par oraz osób podróżujących służbowo, a także dla miłośników aktywnego wypoczynku, w tym pieszych wędrówek. Oferuje przestronne apartamenty z aneksem kuchennym, co sprzyja samodzielnemu przygotowywaniu posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel El Galeón znajduje się w Santa Cruz de la Palma, na wzniesieniu z widokiem na port. Do centrum miasta można dojść w około 10 minut (0.9 km), co zapewnia łatwy dostęp do sklepów i restauracji. Najbliższe lotnisko La Palma (SPC) oddalone jest o około 7-10 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Plaża Santa Cruz de La Palma Beach oddalona jest od hotelu o około 8 minut spacerem (0.7-1 km). Nie jest to plaża prywatna hotelu. Brak informacji na temat dostępności leżaków na plaży, jednak hotel udostępnia ręczniki basenowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 25 apartamentów, w tym studia oraz apartamenty z jedną lub dwiema sypialniami. Każdy apartament wyposażony jest w prywatną łazienkę, aneks kuchenny lub pełną kuchnię, jadalnię, telewizor z płaskim ekranem, lodówkę, czajnik elektryczny, toster oraz sejf (za opłatą). Niektóre apartamenty posiadają balkony lub tarasy z widokiem na port i góry. W pokojach brak klimatyzacji, dostępne jest jedynie przenośne urządzenie w sypialni."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja dla niepalących oraz sala śniadaniowa, a także bar. Hotel nie oferuje opcji all inclusive. Goście mogą skorzystać ze śniadania w formie bufetu kontynentalnego, z dostępnymi opcjami wegetariańskimi i bezglutenowymi."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel dysponuje tarasem słonecznym/solarium z pięknymi widokami. Informacje na temat basenów są sprzeczne - niektóre źródła wskazują na brak basenu, inne wspominają o basenie zewnętrznym. Na terenie obiektu dostępne jest bezpłatne Wi-Fi. Hotel oferuje również udogodnienia dla rodzin i jest polecany dla dzieci. W okolicy można uprawiać piesze wycieczki, windsurfing, nurkowanie i wędkarstwo."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Aparthotel El Galeón jest idealny dla rodzin, par oraz osób podróżujących służbowo. Docenią go również miłośnicy aktywnego wypoczynku, zwłaszcza pieszych wędrówek, oraz ci, którzy szukają wygodnej bazy do zwiedzania wyspy La Palma."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko centrum miasta i portu",
+  "Przestronne i czyste apartamenty z aneksem kuchennym",
+  "Dobre śniadania z opcjami wegetariańskimi i bezglutenowymi",
+  "Bezpłatny prywatny parking/garaż",
+  "Taras słoneczny z pięknymi widokami"
+ ],
+ "cons": [
+  "Brak basenu (informacje sprzeczne)",
+  "Brak klimatyzacji w apartamentach (tylko przenośne urządzenie w sypialni)",
+  "Potencjalny hałas z pobliskiej drogi",
+  "Niektóre meble mogą być starsze",
+  "Niższa ocena Wi-Fi w opiniach gości"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Santa Cruz de La Palma Beach znajduje się około 8 minut spacerem od hotelu (0.7-1 km)."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Informacje są sprzeczne. Jedno źródło podaje, że hotel nie ma basenów, inne wspominają o basenie zewnętrznym. Hotel posiada taras słoneczny/solarium."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje pokoje rodzinne i jest polecany dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko La Palma (SPC) oddalone jest o około 6.9 km do 10 km."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "W apartamentach brak klimatyzacji, dostępne jest jedynie przenośne urządzenie w sypialni."
+  }
+ ],
+ "address": "Carretera El Galeón, 10, 38700 Santa Cruz de la Palma, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 6.9,
+ "airportName": "La Palma Airport (SPC)",
+ "amenities": [
+  "taras słoneczny",
+  "parking prywatny",
+  "pralnia",
+  "przechowalnia bagażu",
+  "winda"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 700,
+ "beachType": "",
+ "centerKm": 0.9,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "podróżujący służbowo",
+  "miłośnicy pieszych wędrówek"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2005,
+ "pools": null,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartamenty (studia, apartamenty z 1 sypialnią, apartamenty z 2 sypialniami) z prywatną łazienką, aneksem kuchennym/pełną kuchnią, jadalnią, TV, lodówką, czajnikiem, tosterem, szafą, sejfem (za opłatą), rozkładaną sofą, suszarką do włosów. Niektóre z balkonem/tarasem."
+ ],
+ "rooms": 25,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 28.6784171,
+  "lon": -17.7713954,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "trivago.ie",
+  "agoda.com",
+  "lapalmabiosfera.es",
+  "skyscanner.gg",
+  "alltours.de",
+  "holidaycheck.de",
+  "destinia.com"
+ ],
+ "updated": "2026-11-27"
+}

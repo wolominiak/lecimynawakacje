@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:catalonia gracia",
+ "slug": "catalonia-gracia",
+ "name": "Catalonia Gracia (Ex La Pedrera)",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Barcelona i okolice",
+  "Barcelona"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/barcelona/barcelona/catalonia-gracia-ex-la-pedrera/alapedrerarestaurante.jpg",
+ "city": "Barcelona",
+ "intro": [
+  "Hotel Catalonia Gracia (Ex La Pedrera) to czterogwiazdkowy obiekt położony w sercu Barcelony, w dzielnicy Eixample, blisko modernistycznej trasy architektonicznej. Jest to idealna baza wypadowa dla par, osób podróżujących służbowo oraz turystów pragnących zwiedzać miasto i korzystać z jego atrakcji.",
+  "Hotel został otwarty w 2001 roku i odnowiony w 2017 roku, oferując 79 komfortowych pokoi w ośmiopiętrowym budynku. Obiekt jest przyjazny rodzinom, a także akceptuje zwierzęta domowe, co czyni go wszechstronnym wyborem dla różnych typów podróżnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Catalonia Gracia znajduje się w Barcelonie, w dzielnicy Eixample, w pobliżu dzielnicy Gràcia. Jest to doskonała lokalizacja, z łatwym dostępem do głównych atrakcji miasta, restauracji, barów oraz transportu publicznego. Obiekt leży blisko skrzyżowania Passeig de Gràcia i Avinguda Diagonal, wzdłuż modernistycznej trasy architektonicznej."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 79 dźwiękoszczelnych pokoi, w tym pokoje dwuosobowe, Premium, trzyosobowe, Superior z tarasem oraz apartamenty z tarasem. Wszystkie pokoje wyposażone są w klimatyzację, ogrzewanie, minibar, bezpłatne Wi-Fi, telewizor z płaskim ekranem, sejf oraz prywatną łazienkę. Niektóre pokoje posiadają balkon lub umeblowany taras, a także dodatkowe udogodnienia, takie jak czajnik czy szlafroki."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się odkryty basen z widokiem na miasto, będący miejscem relaksu dla gości. Należy jednak pamiętać, że basen jest mały i ma ograniczoną liczbę leżaków. Hotel nie oferuje zjeżdżalni, aquaparku ani specjalnych stref dla dzieci czy animacji."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu działa restauracja serwująca śniadania w formie bufetu, często za dodatkową opłatą. Na parterze znajduje się Gastrobar, który oferuje kawę, wino, koktajle, przekąski oraz dania kuchni śródziemnomorskiej. Dostępny jest również bar przy basenie. Hotel nie oferuje pakietu all inclusive, ale dostępny jest serwis pokojowy."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach i na terenie całego obiektu. Dostępne są usługi opieki nad dziećmi za dodatkową opłatą. Hotel akceptuje zwierzęta domowe (do 20 kg, za dodatkową opłatą)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Catalonia Gracia jest polecany dla par, osób podróżujących służbowo oraz turystów zwiedzających miasto, ceniących sobie doskonałą lokalizację i łatwy dostęp do atrakcji. Hotel jest również odpowiedni dla rodzin, oferując udogodnienia takie jak łóżeczka dziecięce na życzenie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Barcelony",
+  "Łatwy dostęp do atrakcji i transportu publicznego",
+  "Przyjazny i pomocny personel",
+  "Czystość i komfort pokoi",
+  "Basen na dachu z widokiem na miasto"
+ ],
+ "cons": [
+  "Basen na dachu jest mały i ma ograniczoną liczbę leżaków",
+  "Trwające prace remontowe na fasadzie mogą wpływać na niektóre pokoje",
+  "Brak informacji o spa i siłowni",
+  "Brak zjeżdżalni i aquaparku",
+  "Plaża oddalona o około 4 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża znajduje się około 4 km od hotelu. Plaże miejskie w Barcelonie są zazwyczaj piaszczyste."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel oddalony jest od Portu lotniczego Barcelona-El Prat (BCN) o około 13.3 km w linii prostej, co przekłada się na około 25 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu all inclusive. Dostępne są śniadania w formie bufetu (często za dodatkową opłatą) oraz serwis pokojowy."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, na dachu hotelu znajduje się jeden odkryty basen z widokiem na miasto."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje łóżeczka dziecięce na życzenie oraz usługi opieki nad dziećmi (za dodatkową opłatą)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego hotelu."
+  }
+ ],
+ "address": "Carrer de Còrsega, 368, 08037 Barcelona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 13.3,
+ "airportName": "Port lotniczy Barcelona-El Prat (BCN)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "usługi opieki nad dziećmi (płatne)",
+  "akceptacja zwierząt domowych (płatne)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Eixample, w pobliżu dzielnicy Gràcia",
+ "bars": 2,
+ "beachDistanceM": 4000,
+ "beachType": "piaszczysta",
+ "centerKm": 1.3,
+ "goodFor": [
+  "pary",
+  "osoby podróżujące służbowo",
+  "turyści zwiedzający miasto",
+  "rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2001,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój Premium",
+  "Pokój Premium z balkonem",
+  "Pokój trzyosobowy",
+  "Pokój Superior z tarasem",
+  "Apartament z tarasem"
+ ],
+ "rooms": 79,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3986858,
+  "lon": 2.1623957,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "booking.com",
+  "trivago.sg",
+  "barcelonabesthotels.com",
+  "waze.com",
+  "cataloniahotels.com",
+  "mapy.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,131 @@
+{
+ "id": "x:hiszpania:pimar and spa",
+ "slug": "pimar-spa",
+ "name": "Pimar & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Blanes"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/blanes/pimar-a-spa/73963631b704c96a64d0a.jpg",
+ "city": "Blanes",
+ "intro": [
+  "Hotel Pimar & Spa to trzygwiazdkowy obiekt położony w miejscowości Blanes na wybrzeżu Costa Brava w Hiszpanii. Znajduje się bezpośrednio przy najdłuższej plaży regionu, S'Abanell, oddzielony od niej jedynie ulicą i promenadą. Hotel jest dobrym wyborem dla osób ceniących sobie bliskość morza oraz łatwy dostęp do centrum miasta.",
+  "Obiekt polecany jest zarówno dla rodzin z dziećmi, par, jak i osób podróżujących solo. Oferuje komfortowe zakwaterowanie, dostęp do strefy spa oraz basen na dachu z widokiem na okolicę. Dzięki swojej lokalizacji stanowi dobrą bazę wypadową do zwiedzania Blanes i okolic."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Pimar & Spa usytuowany jest w Blanes, bezpośrednio przy piaszczysto-żwirowej, publicznej plaży S'Abanell. Odległość do plaży wynosi od 10 do 150 metrów, a dojście do niej prowadzi przez ulicę i promenadę. Centrum Blanes znajduje się w odległości około 0,5-1 km od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 168 pokojami, w tym pokojami Double Standard Balcony or Terrace (około 14 m²) oraz większymi pokojami Family (około 25 m²) z oddzielną sypialnią i pokojem dziennym. Wszystkie pokoje wyposażone są w klimatyzację, TV-SAT, Wi-Fi, łazienkę z suszarką do włosów oraz balkon lub taras. Dostępne są również pokoje z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście hotelu mogą korzystać z restauracji głównej serwującej posiłki w formie bufetu. Dostępne opcje wyżywienia to Bed&Breakfast, Half Board oraz Full Board. Na terenie obiektu znajduje się również bar/salon klubowy. Należy pamiętać, że napoje do obiadu i kolacji w opcjach HB i FB są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden basen zewnętrzny ze słodką wodą, zlokalizowany na 6. piętrze, oraz kryty basen z podgrzewaną wodą i hydromasażem w strefie spa. Strefa spa, dostępna za opłatą dla osób powyżej 16 roku życia, obejmuje również łaźnię parową, saunę, jacuzzi i leżanki termalne. Na miejscu dostępna jest bezpłatna siłownia, a wieczorami organizowane są rozrywki."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie oraz w pokojach. Dla aktywnych dostępne są płatne korty tenisowe w pobliskim Tennis and Padel Blanes oraz bilard. Obiekt przeszedł częściową renowację w 2024 roku, a pokoje i części wspólne zostały odnowione w 2016 roku."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży S'Abanell",
+  "Bliskość centrum Blanes",
+  "Bezpłatne Wi-Fi w całym hotelu",
+  "Basen na dachu z widokiem",
+  "Dostęp do siłowni"
+ ],
+ "cons": [
+  "Pokoje mogą być małe",
+  "Brak zjeżdżalni wodnych",
+  "Brak mini klubu dla dzieci",
+  "Napoje do posiłków w opcjach HB/FB są płatne",
+  "Wstęp do spa płatny i tylko dla dorosłych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Pimar & Spa znajduje się bezpośrednio przy plaży S'Abanell, około 10-150 metrów od niej, oddzielony ulicą i promenadą."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona (GRO), oddalone o około 25-32 km. Lotnisko w Barcelonie (BCN) znajduje się w odległości około 70-86 km."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest polecany dla rodzin, choć brak informacji o mini klubie czy specjalnych strefach dla dzieci. Posiada jednak pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych, ale wstęp do strefy spa jest ograniczony dla osób powyżej 16 roku życia."
+  }
+ ],
+ "address": "Passeig de s'Abanell, 8, 17300 Blanes, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Girona (GRO)",
+ "amenities": [
+  "Wi-Fi",
+  "Siłownia",
+  "Spa",
+  "Basen zewnętrzny",
+  "Basen kryty",
+  "Bar/salon klubowy"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Costa Brava",
+ "bars": 1,
+ "beachDistanceM": 10,
+ "beachType": "piaszczysta lub piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "podróżujący solo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1966,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 1,
+ "roomTypes": [
+  "Double Standard Balcony or Terrace (około 14 m², klimatyzacja, TV-SAT, telefon, Wi-Fi, sejf (płatny), minibar (płatny), łazienka (wanna/prysznic, WC, suszarka do włosów), balkon/taras)",
+  "Family (około 25 m², z oddzielną sypialnią i pokojem dziennym z sofą, klimatyzacja, TV-SAT, telefon, Wi-Fi, sejf (płatny), minibar (płatny), łazienka (wanna/prysznic, WC, suszarka do włosów), balkon/taras)"
+ ],
+ "rooms": 168,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "exim.pl",
+  "trivago.nl",
+  "travelplanet.pl",
+  "booking.com",
+  "mapy.com",
+  "holidaycheck.de",
+  "trivago.pl",
+  "ohotel.com.pl"
+ ],
+ "updated": "2026-11-27"
+}

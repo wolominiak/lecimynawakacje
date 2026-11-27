@@ -1,0 +1,150 @@
+{
+ "id": "x:hiszpania:me marbella",
+ "slug": "me-marbella",
+ "name": "Me Marbella",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Marbella"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/marbella/me-marbella-spanelsko/a0a6ba82f0b4aae71adbae7483dc0373_4-244.jpg",
+ "city": "Marbella",
+ "intro": [
+  "Hotel ME Marbella to czterogwiazdkowy obiekt położony w prestiżowej dzielnicy Nueva Andalucía, tuż przy piaszczystych plażach Playa Puerto Banús i Playa Rio Verde. Po gruntownej renowacji w 2025 roku, hotel prezentuje nowoczesny i stylowy design, oferując luksusowe udogodnienia w odświeżonych wnętrzach.",
+  "Obiekt jest doskonałym wyborem zarówno dla par szukających romantycznego wypoczynku, rodzin z dziećmi (dzięki udogodnieniom basenowym), jak i osób podróżujących solo, ceniących sobie komfort, kulturę oraz bliskość rozrywkowego Puerto Banús. Hotel łączy relaks z możliwościami aktywnego spędzania czasu, oferując jednocześnie spokojną atmosferę.",
+  "sections\":[{\"title\":\"Położenie i plaża\",\"text\":\"Hotel ME Marbella znajduje się w dzielnicy Nueva Andalucía / Puerto Banús, zaledwie około 50-180 metrów od piaszczystej plaży Playa Puerto Banús. Do centrum Marbelli jest około 6-7 km. Najbliższe lotnisko to Malaga (AGP), oddalone o około 45 km, co zajmuje 30-45 minut jazdy samochodem.\"},{\"title\":\"Pokoje\",\"text\":\"Hotel oferuje 200 pokoi i 24 apartamenty, które zostały gruntownie odnowione w 2025 roku. Pokoje są klimatyzowane i wyposażone w balkon lub taras, minibar, sejf, telewizor Smart TV, suszarkę do włosów, zestaw do parzenia kawy/herbaty oraz luksusowe kosmetyki. Dostępne są pokoje z widokiem na morze, góry lub ogrody.\"},{\"title\":\"Baseny i rekreacja\",\"text\":\"Na terenie hotelu znajdują się trzy baseny zewnętrzne, w tym jeden z wydzieloną sekcją dla dzieci oraz jeden basen przeznaczony wyłącznie dla dorosłych. Do dyspozycji gości jest również podgrzewany basen kryty, dostępny przez cały rok. Hotel oferuje całodobowe centrum fitness, a w pobliżu znajduje się pole golfowe.\"},{\"title\":\"Wyżywienie i restauracje\",\"text\":\"Hotel ME Marbella dysponuje trzema restauracjami: Barlume Restaurant i Oasis Grill serwują kuchnię śródziemnomorską, a La Neta oferuje dania kuchni meksykańskiej. Dodatkowo dostępne są bary i kluby, takie jak Chiringuito, La Terraza Del Med oraz Oasis Pool Club, gdzie można skosztować lokalnych specjałów i koktajli. Hotel oferuje śniadania w formie bufetu.\"},{\"title\":\"Udogodnienia i usługi\",\"text\":\"Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu. Goście mogą korzystać ze \"wellness sanctuary\" z pięcioma gabinetami oferującymi masaże i zabiegi. Hotel organizuje również sesje muzyczne, wydarzenia kulturalne i zajęcia wellness. Na plaży dostępne są parasole i leżaki.\"}],\"pros\":[\"Doskonała lokalizacja blisko plaży i Puerto Banús.\",\"Stylowy i nowoczesny design po gruntownym remoncie w 2025 roku.\",\"Wyjątkowa obsługa i bardzo przyjazny personel.\",\"Pyszne i urozmaicone jedzenie, zwłaszcza śniadania.\",\"Dostęp do wielu basenów, w tym podgrzewanego krytego i strefy tylko dla dorosłych.\"],\"cons\":[\"Brak formalnego mini klubu dla dzieci.\",\"Brak bezpłatnego parkingu (dodatkowa opłata).\"]",
+  "faq\":[{\"q\":\"Jak daleko jest hotel ME Marbella od plaży?\",\"a\":\"Hotel ME Marbella znajduje się około 50-180 metrów od piaszczystej plaży Playa Puerto Banús.\"},{\"q\":\"Jak daleko jest hotel od lotniska?\",\"a\":\"Najbliższe lotnisko to Malaga (AGP), oddalone o około 45 km (30-45 minut jazdy samochodem).\"},{\"q\":\"Czy hotel ME Marbella ma aquapark lub zjeżdżalnie?\",\"a\":\"Nie, hotel nie posiada aquaparku ani zjeżdżalni.\"},{\"q\":\"Czy hotel jest odpowiedni dla rodzin z dziećmi?\",\"a\":\"Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje wydzieloną sekcję dla dzieci w basenie zewnętrznym, choć nie ma formalnego mini klubu.\"},{\"q\":\"Czy w hotelu jest dostęp do Wi-Fi?\",\"a\":\"Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu.\"},{\"q\":\"Czy hotel jest tylko dla dorosłych?\",\"a\":\"Nie, hotel jest odpowiedni dla par, rodzin i podróżujących solo, ale posiada strefę basenową przeznaczoną wyłącznie dla dorosłych.\"}],\"address\":\"C/ Mario Vargas Llosa, s/n, 29660 Marbella, Puerto Banús.\",\"adultsOnly\":false,\"airportKm\":45,\"airportName\":\"Malaga (AGP)\",\"amenities\":[\"Spa\",\"Siłownia\",\"Wi-Fi\",\"Basen kryty\",\"Baseny zewnętrzne\",\"Restauracje\",\"Bary\",\"Klimatyzacja\",\"Balkon/taras\",\"Minibar\",\"Sejf\",\"TV Smart TV\",\"Suszarka do włosów\",\"Zestaw do parzenia kawy/herbaty\",\"Menu poduszkowe\",\"Luksusowe kosmetyki łazienkowe\",\"Żelazko/deska do prasowania\"],\"animations\":true,\"aquapark\":false,\"area\":\"Nueva Andalucía / Puerto Banús\",\"bars\":3,\"beachDistanceM\":50,\"beachType\":\"Piaszczysta (złoty piasek)\",\"centerKm\":6,\"goodFor\":[\"Pary\",\"Rodziny z dziećmi\",\"Podróżujący solo\"],\"gym\":true,\"heatedPool\":true,\"kidsClub\":false,\"lat\":null,\"lon\":null,\"opened\":1977,\"pools\":4,\"privateBeach\":null,\"renovated\":2025,\"restaurants\":3,\"roomTypes\":[\"Always ME Double (35m²)\",\"Always ME Pool View Double (35m²)\",\"Junior Suite Superior ME+ Lateral Sea View (70m²)\",\"Junior Suite Superior ME+ Pool View (47m²)\",\"Extra ME+ Junior Suite Oasis Access (z prywatnym ogrodem i bezpośrednim dostępem do basenu)\",\"Beyond ME+ Suite\",\"Ultimate ME+ Two Bedroom Suite (105m², z widokiem na morze, sauną i matą do jogi)\"],\"rooms\":200,\"spa\":true,\"wifi\":true}"
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel ME Marbella znajduje się w dzielnicy Nueva Andalucía / Puerto Banús, zaledwie około 50-180 metrów od piaszczystej plaży Playa Puerto Banús. Do centrum Marbelli jest około 6-7 km. Najbliższe lotnisko to Malaga (AGP), oddalone o około 45 km, co zajmuje 30-45 minut jazdy samochodem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 200 pokoi i 24 apartamenty, które zostały gruntownie odnowione w 2025 roku. Pokoje są klimatyzowane i wyposażone w balkon lub taras, minibar, sejf, telewizor Smart TV, suszarkę do włosów, zestaw do parzenia kawy/herbaty oraz luksusowe kosmetyki. Dostępne są pokoje z widokiem na morze, góry lub ogrody."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się trzy baseny zewnętrzne, w tym jeden z wydzieloną sekcją dla dzieci oraz jeden basen przeznaczony wyłącznie dla dorosłych. Do dyspozycji gości jest również podgrzewany basen kryty, dostępny przez cały rok. Hotel oferuje całodobowe centrum fitness, a w pobliżu znajduje się pole golfowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel ME Marbella dysponuje trzema restauracjami: Barlume Restaurant i Oasis Grill serwują kuchnię śródziemnomorską, a La Neta oferuje dania kuchni meksykańskiej. Dodatkowo dostępne są bary i kluby, takie jak Chiringuito, La Terraza Del Med oraz Oasis Pool Club, gdzie można skosztować lokalnych specjałów i koktajli. Hotel oferuje śniadania w formie bufetu."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu. Goście mogą korzystać ze \"wellness sanctuary\" z pięcioma gabinetami oferującymi masaże i zabiegi. Hotel organizuje również sesje muzyczne, wydarzenia kulturalne i zajęcia wellness. Na plaży dostępne są parasole i leżaki."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i Puerto Banús.",
+  "Stylowy i nowoczesny design po gruntownym remoncie w 2025 roku.",
+  "Wyjątkowa obsługa i bardzo przyjazny personel.",
+  "Pyszne i urozmaicone jedzenie, zwłaszcza śniadania.",
+  "Dostęp do wielu basenów, w tym podgrzewanego krytego i strefy tylko dla dorosłych."
+ ],
+ "cons": [
+  "Brak formalnego mini klubu dla dzieci.",
+  "Brak bezpłatnego parkingu (dodatkowa opłata)."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel ME Marbella od plaży?",
+   "a": "Hotel ME Marbella znajduje się około 50-180 metrów od piaszczystej plaży Playa Puerto Banús."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (AGP), oddalone o około 45 km (30-45 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel ME Marbella ma aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje wydzieloną sekcję dla dzieci w basenie zewnętrznym, choć nie ma formalnego mini klubu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest odpowiedni dla par, rodzin i podróżujących solo, ale posiada strefę basenową przeznaczoną wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "C/ Mario Vargas Llosa, s/n, 29660 Marbella, Puerto Banús.",
+ "adultsOnly": false,
+ "airportKm": 45,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wi-Fi",
+  "Basen kryty",
+  "Baseny zewnętrzne",
+  "Restauracje",
+  "Bary",
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Minibar",
+  "Sejf",
+  "TV Smart TV",
+  "Suszarka do włosów",
+  "Zestaw do parzenia kawy/herbaty",
+  "Menu poduszkowe",
+  "Luksusowe kosmetyki łazienkowe",
+  "Żelazko/deska do prasowania"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Nueva Andalucía / Puerto Banús",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta (złoty piasek)",
+ "centerKm": 6,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi",
+  "Podróżujący solo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1977,
+ "pools": 4,
+ "privateBeach": null,
+ "renovated": 2025,
+ "restaurants": 3,
+ "roomTypes": [
+  "Always ME Double (35m²)",
+  "Always ME Pool View Double (35m²)",
+  "Junior Suite Superior ME+ Lateral Sea View (70m²)",
+  "Junior Suite Superior ME+ Pool View (47m²)",
+  "Extra ME+ Junior Suite Oasis Access (z prywatnym ogrodem i bezpośrednim dostępem do basenu)",
+  "Beyond ME+ Suite",
+  "Ultimate ME+ Two Bedroom Suite (105m², z widokiem na morze, sauną i matą do jogi)"
+ ],
+ "rooms": 200,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 20.2838784,
+  "lon": -96.8268449,
+  "src": "osm"
+ },
+ "sources": [
+  "melia.com",
+  "trivago.ie",
+  "marbella.es",
+  "hotel.info",
+  "agoda.com",
+  "outthere.travel",
+  "marbellashotel.com",
+  "planetofhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

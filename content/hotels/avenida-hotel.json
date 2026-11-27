@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:avenida hotel",
+ "slug": "avenida-hotel",
+ "name": "Avenida Hotel",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/avenida-hotel-pl/7245/avenidafachadanombre1-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Avenida Hotel to czterogwiazdkowy obiekt położony w samym sercu Benidorm na Costa Blanca, w tętniącej życiem starej hiszpańskiej dzielnicy. Jego centralna lokalizacja na deptakowej ulicy Calle Gambo sprawia, że jest to idealne miejsce dla osób ceniących sobie bliskość miejskich atrakcji, sklepów, barów tapas i kawiarni.",
+  "Hotel, gruntownie odnowiony w 2016 roku, oferuje komfortowy wypoczynek dla par, przyjaciół, rodzin oraz osób starszych i singli. Zaledwie 75 metrów dzieli go od piaszczystej plaży Levante, co czyni go atrakcyjnym wyborem dla tych, którzy chcą połączyć relaks na plaży z dostępem do rozrywek miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Avenida znajduje się w centrum Benidorm, na Starym Mieście, przy ruchliwej ulicy deptakowej Calle Gambo. Zaledwie 75 metrów dzieli go od publicznej, piaszczystej plaży Levante. W okolicy hotelu znajdują się liczne sklepy, bary i restauracje."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje od 156 do 197 pokojami, które są klimatyzowane/ogrzewane i wyposażone w łazienkę z prysznicem lub wanną, suszarkę do włosów, telewizję satelitarną, telefon oraz bezpłatne Wi-Fi. Większość pokoi posiada balkon lub taras. Dostępne są różne typy, od Singular Avenida po przestronne Comfort Suite z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu serwuje śniadania, obiady i kolacje w formie bufetu, oferując dania kuchni hiszpańskiej, międzynarodowej i wegetariańskiej. Do dyspozycji gości są również bar główny/lounge bar, bar przekąskowy oraz sezonowy bar przy basenie. Program All Inclusive obejmuje posiłki w formie bufetu oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada jeden zewnętrzny basen na dachu z jacuzzi i tarasem słonecznym, który jest podgrzewany zimą. W basenie na dachu znajduje się również zintegrowana sekcja dla dzieci. Dostępna jest mini siłownia, sauna (dodatkowo płatna) oraz solarium. Hotel oferuje sezonowe animacje dzienne i wieczorne, w tym mini disco dla dzieci."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Avenida Hotel jest polecany dla par, przyjaciół i rodzin, a także osób starszych i singli, którzy szukają spokojnego wypoczynku, ale jednocześnie chcą cieszyć się tętniącym życiem miasta. Jego centralna lokalizacja sprawia, że jest to dobry wybór dla osób aktywnych, ceniących bliskość atrakcji i plaży."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum, blisko plaży i atrakcji",
+  "Wysoka czystość w całym hotelu",
+  "Przyjazny i pomocny personel",
+  "Dobre i urozmaicone jedzenie, zwłaszcza śniadania",
+  "Basen na dachu z widokiem i dużą ilością leżaków"
+ ],
+ "cons": [
+  "Hałas związany z centralną lokalizacją na deptaku",
+  "Basen na dachu jest stosunkowo mały",
+  "Niektóre pokoje mogą być małe lub mieć widok na wewnętrzne patio",
+  "Brak czajników w standardowych pokojach",
+  "Sejf i minibar dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Avenida znajduje się około 75 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jaka jest jego odległość od hotelu?",
+   "a": "Najbliższe lotnisko to Alicante-Elche (ALC), oddalone o około 55-65 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest otwarty dla rodzin i oferuje udogodnienia dla dzieci, takie jak zintegrowana sekcja dla dzieci w basenie na dachu oraz mini disco w ramach wieczornych animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych i jest otwarty dla wszystkich gości, w tym rodzin z dziećmi."
+  }
+ ],
+ "address": "C/ Gambo, 2, 03503 Benidorm, Alicante, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 58,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "Mini siłownia",
+  "Sauna (płatna)",
+  "Jacuzzi",
+  "Solarium",
+  "Taras słoneczny"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Stare Miasto, centrum Benidorm",
+ "bars": 3,
+ "beachDistanceM": 75,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Przyjaciele",
+  "Rodziny",
+  "Osoby starsze",
+  "Single"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1959,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Singular Avenida (do 12 m², łóżko 135 cm)",
+  "Singular Avenida z balkonem (do 12 m²)",
+  "Mi Avenida (12-18 m², łóżko podwójne lub dwa 100 cm)",
+  "Mi Avenida z balkonem (12-18 m²)",
+  "Doble Avenida (15-20 m², dwa łóżka 100 cm)",
+  "Doble Avenida z balkonem (15-20 m²)",
+  "Junior Comfort Suite (dwa pokoje, rozkładana sofa plus łóżka)",
+  "Comfort Suite (26 m² plus taras 26 m² i balkon 9 m², dwa łóżka plus rozkładana sofa, widok na morze)"
+ ],
+ "rooms": 176,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5362903,
+  "lon": -0.1284234,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.ie",
+  "agoda.com",
+  "onbenidorm.com",
+  "travelisto.com",
+  "visitbenidorm.es",
+  "trivago.co.uk",
+  "marenysol.com",
+  "thebenidormguide.com"
+ ],
+ "updated": "2026-11-27"
+}

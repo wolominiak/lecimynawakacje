@@ -1,0 +1,143 @@
+{
+ "id": "x:hiszpania:catalonia sagrada familia",
+ "slug": "catalonia-sagrada-familia",
+ "name": "Catalonia Sagrada Familia",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Barcelona i okolice",
+  "Barcelona"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/barcelona/barcelona/catalonia-sagrada-familia/1858/2e83bd74cfc701be5c0828839494a827_1-244.jpg",
+ "city": "Barcelona",
+ "intro": [
+  "Hotel Catalonia Sagrada Familia to obiekt położony w Barcelonie, w dzielnicy Sant Martí, idealny dla osób planujących zwiedzanie miasta. Dzięki bliskości słynnej Sagrada Familia oraz stacji metra Clot, stanowi doskonałą bazę wypadową do odkrywania uroków stolicy Katalonii.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, które docenią dostępne łóżeczka i pokoje trzyosobowe, jak i dla turystów indywidualnych oraz podróżujących służbowo. Oferuje komfortowe zakwaterowanie, udogodnienia takie jak basen i siłownia, a także bezpłatne Wi-Fi, co czyni go praktycznym wyborem na pobyt w Barcelonie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Catalonia Sagrada Familia znajduje się w Barcelonie, w dzielnicy Sant Martí, przy ulicy Carrer d'Aragó. Jest oddalony o około 3-4 km od centrum miasta i około 2,5 km od publicznej, piaszczystej plaży z łagodnym zejściem do morza. Najbliższe lotnisko, Barcelona - El Prat (BCN), znajduje się w odległości około 16-20 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 205-211 pokojami, rozmieszczonymi w dziewięciopiętrowym budynku. W ofercie znajdują się pokoje jednoosobowe, dwuosobowe, premium, superior, deluxe oraz junior suite. Standardowe wyposażenie obejmuje klimatyzację/ogrzewanie, łazienkę, bezpłatne Wi-Fi, telewizor, sejf i minibar. Niektóre pokoje, w tym premium i superior, zostały odnowione i oferują dodatkowe udogodnienia, takie jak zestaw do kawy i herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni katalońskiej i śródziemnomorskiej, gdzie podawane są śniadania w formie bufetu. Goście mogą również korzystać z hotelowego baru oraz kawiarni-baru, które oferują napoje i przekąski przez cały dzień. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą o powierzchni około 30 m² i głębokości 1 m, czynny sezonowo. Dostępna jest również siłownia z bezpłatnym dostępem dla wszystkich gości, wyposażona w maszyny cardio i stację do podnoszenia ciężarów. Hotel oferuje solarium. Brak informacji o aquaparku, zjeżdżalniach czy animacjach."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie i we wszystkich pokojach. Dostępne są łóżeczka dla dzieci na życzenie. Dla podróżujących służbowo hotel oferuje sale konferencyjne i parking. Goście mogą korzystać z bezpłatnych leżaków i ręczników przy basenie."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko Sagrada Familia i stacji metra Clot",
+  "Dobre i urozmaicone śniadania",
+  "Czystość i miły personel",
+  "Bezpłatne Wi-Fi w całym hotelu",
+  "Dostęp do basenu i siłowni"
+ ],
+ "cons": [
+  "Możliwy hałas z ulicy i sąsiednich pokoi",
+  "Wolne windy",
+  "Małe łazienki w niektórych pokojach",
+  "Plaża oddalona o około 2,5 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od plaży o około 2,5 km. Jest to publiczna, piaszczysta plaża z łagodnym zejściem do morza."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 16-20 km od najbliższego lotniska Barcelona - El Prat (BCN)."
+  },
+  {
+   "q": "Czy hotel oferuje basen?",
+   "a": "Tak, hotel posiada jeden odkryty basen ze słodką wodą, czynny sezonowo."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Dostępne są pokoje trzyosobowe oraz łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu i we wszystkich pokojach dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Carrer d'Aragó, 577-579, 08026 Barcelona",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Barcelona - El Prat (BCN)",
+ "amenities": [
+  "Siłownia",
+  "Basen zewnętrzny",
+  "Solarium",
+  "Wi-Fi",
+  "Łóżeczka dla dzieci",
+  "Sale konferencyjne",
+  "Parking"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Sant Martí",
+ "bars": 2,
+ "beachDistanceM": 2500,
+ "beachType": "publiczna, piaszczysta, z łagodnym zejściem do morza",
+ "centerKm": 3.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Turyści zwiedzający miasto",
+  "Podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy (klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)",
+  "Pokój dwuosobowy (z 1 lub 2 łóżkami, klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)",
+  "Pokój premium (odnowiony, klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, zestaw do kawy i herbaty, parkiet)",
+  "Pokój premium superior (odnowiony, klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, zestaw do kawy i herbaty, parkiet)",
+  "Pokój superior (odnowiony, klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, zestaw do kawy i herbaty, parkiet)",
+  "Pokój triple (klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)",
+  "Pokój deluxe (klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)",
+  "Junior suite (klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)",
+  "Deluxe terrace room (klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)",
+  "Deluxe junior suite room (klimatyzacja/ogrzewanie, łazienka, Wi-Fi, TV, sejf, biurko, minibar, parkiet)"
+ ],
+ "rooms": 208,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.4078874,
+  "lon": 2.1852929,
+  "src": "osm"
+ },
+ "sources": [
+  "cataloniahotels.com",
+  "hoteles.com",
+  "agoda.com",
+  "hotelsbarcelonaes.com",
+  "wakacje.pl",
+  "booking.com",
+  "barcelonabesthotels.com",
+  "barcelonashotel.com"
+ ],
+ "updated": "2026-11-27"
+}

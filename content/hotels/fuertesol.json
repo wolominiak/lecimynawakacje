@@ -1,0 +1,122 @@
+{
+ "id": "x:hiszpania:fuertesol",
+ "slug": "fuertesol",
+ "name": "Fuertesol",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Caleta de Fuste"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/caleta-de-fuste/fuertesol/6335/cd2546520116fca0983fca6d3d0b335a_282053056-244.jpg",
+ "city": "Caleta de Fuste",
+ "intro": [
+  "Casthotels Fuertesol Bungalows to kompleks parterowych bungalowów położony na obrzeżach Caleta de Fuste na Fuerteventurze. Obiekt, zbudowany w 1989 roku i ostatnio remontowany w 2008 roku, oferuje spokojną lokalizację, jednocześnie zapewniając bliskość do centrum miejscowości, sklepów, restauracji i barów.",
+  "Hotel jest polecany dla rodzin i par, które cenią sobie swobodę i relaks, a także dla osób szukających bazy wypadowej do zwiedzania wyspy. Oferuje dobrze wyposażone aneksy kuchenne w każdym z 110 bungalowów, co pozwala na samodzielne przygotowywanie posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Fuertesol znajduje się w spokojnej części Caleta de Fuste, blisko lokalnych udogodnień. Piaszczysta plaża El Castillo jest oddalona o około 550 m do 1 km, a centrum miejscowości o 200 m do 900 m. Lotnisko Fuerteventura (FUE) oddalone jest o około 7-8 km."
+  },
+  {
+   "title": "Bungalowy",
+   "text": "Obiekt składa się ze 110 parterowych bungalowów, które są apartamentami z jedną sypialnią. Każdy bungalow posiada oddzielną sypialnię z dwoma łóżkami, salon z rozkładaną sofą oraz aneks kuchenny wyposażony w mikrofalówkę, toster, czajnik i lodówkę. Do dyspozycji gości jest również łazienka z wanną lub prysznicem, WC oraz taras lub balkon."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży odkryty basen ze słodką lub słoną wodą, a także wydzielona część lub brodzik dla dzieci. Przy basenie dostępne są bezpłatne leżaki i parasole. Dla najmłodszych przygotowano plac zabaw. W okolicy dostępne są liczne aktywności, takie jak minigolf, golf, squash, tenis stołowy, bilard, wypożyczalnia rowerów oraz sporty wodne."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "W hotelu Fuertesol dostępna jest restauracja, bar oraz snack bar przy basenie. Goście mogą wybrać opcję bez wyżywienia (Self Catering) lub ze śniadaniem (Bed&Breakfast), często w formie bufetu angielskiego. Niektóre oferty mogą obejmować pełne wyżywienie z napojami do posiłków."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja",
+  "Bliskość plaży, sklepów i restauracji",
+  "Dobrze wyposażone aneksy kuchenne",
+  "Duży basen zewnętrzny"
+ ],
+ "cons": [
+  "Potrzeba renowacji w niektórych obszarach",
+  "Niekonsekwentne sprzątanie",
+  "Brak klimatyzacji",
+  "Płatne Wi-Fi, TV, sejf i wentylator",
+  "Możliwy hałas samolotów"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża El Castillo znajduje się w odległości około 550 m do 1 km od hotelu."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko Fuerteventura (FUE) jest oddalone o około 7-8 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada brodzik dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Wi-Fi jest dostępne, jednak w niektórych źródłach jest ono płatne (np. 10 EUR za tydzień)."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "Nie, w bungalowach nie ma klimatyzacji."
+  }
+ ],
+ "address": "Avenida Virgen de la Peña, 2, 35610 Caleta de Fuste",
+ "adultsOnly": false,
+ "airportKm": 7.5,
+ "airportName": "Fuerteventura (FUE)",
+ "amenities": [
+  "plac zabaw",
+  "leżaki przy basenie",
+  "parasole przy basenie"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "obrzeża Caleta de Fuste",
+ "bars": 2,
+ "beachDistanceM": 750,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "zwiedzanie wyspy"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1989,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Bungalow standard (apartament z 1 sypialnią): oddzielna sypialnia z dwoma pojedynczymi łóżkami, salon z rozkładaną sofą, aneks kuchenny (z kuchenką mikrofalową, tosterem, czajnikiem/ekspresem do kawy/herbaty, lodówką), łazienka (z wanną lub prysznicem, WC, suszarką do włosów - często za opłatą), taras lub balkon. Dodatkowe wyposażenie (często za opłatą): telewizor (TV-SAT), sejf, wentylator/wiatrak. Brak klimatyzacji."
+ ],
+ "rooms": 110,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "travelplanet.pl",
+  "nekera.pl",
+  "casthotels.com",
+  "trivago.co.uk",
+  "wakacje.pl",
+  "onthebeach.co.uk",
+  "thomascook.com",
+  "mareando.it"
+ ],
+ "updated": "2026-11-27"
+}

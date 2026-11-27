@@ -1,0 +1,150 @@
+{
+ "id": "x:hiszpania:caserio",
+ "slug": "caserio",
+ "name": "Caserio",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/caserio/d0a8_hotel_exterior_2.JPG",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Hotel Caserio to czterogwiazdkowy obiekt położony w sercu Playa del Inglés na Gran Canarii, zaledwie kilka minut spacerem od tętniącego życiem centrum miejscowości, pełnego barów, sklepów i restauracji. Jego centralna, lecz spokojna lokalizacja zapewnia łatwy dostęp zarówno do miejskich atrakcji, jak i do piaszczystych plaż.",
+  "Hotel, odnowiony w 2016 roku, oferuje nowoczesne udogodnienia w wielopiętrowym budynku. Jest to dobry wybór dla par i osób podróżujących indywidualnie, które cenią sobie wysoką jakość obsługi, smaczną kuchnię oraz komfortowe zakwaterowanie. Dzięki basenowi dla dzieci i pokojom rodzinnym, hotel może być również odpowiedni dla rodzin."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Caserio znajduje się w centrum Playa del Inglés, blisko głównych centrów handlowych i promenady. Odległość do piaszczystej plaży wynosi od 300 do 800 metrów. W okolicy dostępne są plaże takie jak Playa del Inglés czy Playa El Veril \"Del Cochino\"."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 170 pokojami, w tym jednoosobowymi, dwuosobowymi, trzyosobowymi, Junior Suitami i pokojami rodzinnymi Deluxe. Wszystkie pokoje wyposażone są w łazienkę, suszarkę do włosów, telefon, telewizor LED, klimatyzację oraz umeblowany balkon. Dostępny jest również minibar (płatny) i sejf do wynajęcia."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa z pokazami gotowania i wieczorami tematycznymi. Goście mogą korzystać z baru oraz baru przy basenie. Dostępne są opcje wyżywienia, w tym śniadania, niepełne wyżywienie oraz pakiety all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden odkryty podgrzewany basen dla dorosłych i jeden basen dla dzieci, otoczone ogrodami. Na dachu hotelu znajduje się taras z jacuzzi, leżakami i strefą dla nudystów, oferujący panoramiczne widoki. Hotel oferuje animacje i wieczorne programy rozrywkowe."
+  },
+  {
+   "title": "Wellness i sport",
+   "text": "Strefa wellness obejmuje saunę, jacuzzi, gabinet zabiegowy i usługi masażu. Na terenie hotelu dostępna jest również dobrze wyposażona siłownia. Goście mogą korzystać z rzutek, tenisa stołowego i aerobiku. W okolicy dostępne są sporty wodne, golf (3 km) i park wodny (5 km)."
+  }
+ ],
+ "pros": [
+  "Centralna, ale spokojna lokalizacja z łatwym dostępem do plaży i udogodnień.",
+  "Wysokiej jakości, urozmaicone jedzenie, w tym śniadania i kolacje tematyczne.",
+  "Czyste, przestronne i nowoczesne pokoje z wygodnymi łóżkami.",
+  "Wyjątkowa obsługa i przyjazny personel.",
+  "Podgrzewany basen zewnętrzny i taras na dachu z jacuzzi i widokami."
+ ],
+ "cons": [
+  "Słaby i przerywany sygnał Wi-Fi, zwłaszcza w pokojach.",
+  "Niektóre udogodnienia mogą być sezonowe lub dodatkowo płatne.",
+  "Sporadyczne problemy z uzupełnianiem jedzenia w bufecie.",
+  "Wymagany depozyt w wysokości 150 € przy zameldowaniu."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Caserio jest położony około 300-800 metrów od piaszczystej plaży, takiej jak Playa del Inglés lub Playa El Veril \"Del Cochino\"."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Gran Canaria (LPA) oddalone jest o około 30-34 km, a czas transferu wynosi około 25-30 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni. Dostępne są dwa baseny: jeden dla dorosłych (podgrzewany) i jeden dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel posiada basen dla dzieci i oferuje pokoje rodzinne, co sprawia, że jest odpowiedni również dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, w tym w pokojach, choć niektórzy goście zgłaszają słaby lub przerywany sygnał w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych. Posiada basen dla dzieci i oferuje pokoje rodzinne."
+  }
+ ],
+ "address": "Avenida de Italia 8, 35100 Playa del Inglés",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "Recepcja",
+  "Basen zewnętrzny",
+  "Basen dla dzieci",
+  "Taras na dachu z jacuzzi",
+  "Strefa dla nudystów",
+  "Restauracja bufetowa",
+  "Bar",
+  "Bar przy basenie",
+  "Strefa wellness",
+  "Sauna",
+  "Gabinet zabiegowy",
+  "Masaże",
+  "Siłownia",
+  "Rzutki",
+  "Tenis stołowy",
+  "Aerobik",
+  "Animacje",
+  "Wieczorne programy rozrywkowe",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "centrum Playa del Inglés",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące indywidualnie",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1974,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje jednoosobowe (Single Rooms): łazienka, suszarka do włosów, telefon, telewizor LED, minibar (płatny), sejf do wynajęcia, klimatyzacja, umeblowany balkon.",
+  "Pokoje dwuosobowe (Double Rooms): łazienka, suszarka do włosów, telefon, telewizor LED, minibar (płatny), sejf do wynajęcia, klimatyzacja, umeblowany balkon.",
+  "Pokoje trzyosobowe (Triple Rooms): łazienka, suszarka do włosów, telefon, telewizor LED, minibar (płatny), sejf do wynajęcia, klimatyzacja, umeblowany balkon.",
+  "Junior Suity: łazienka, suszarka do włosów, telefon, telewizor LED, minibar (płatny), sejf do wynajęcia, klimatyzacja, umeblowany balkon.",
+  "Pokoje rodzinne Deluxe (Deluxe Family Rooms): łazienka, suszarka do włosów, telefon, telewizor LED, minibar (płatny), sejf do wynajęcia, klimatyzacja, umeblowany balkon."
+ ],
+ "rooms": 170,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7633553,
+  "lon": -15.5633655,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "playadelinglesweb.com",
+  "oyster.com",
+  "travelweekly.com",
+  "grancanaria.com",
+  "besthotelsgrancanaria.com",
+  "firstchoice.co.uk",
+  "holidaycheck.at"
+ ],
+ "updated": "2026-11-27"
+}

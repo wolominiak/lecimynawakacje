@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:servatur montebello",
+ "slug": "servatur-montebello",
+ "name": "Servatur Montebello",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Portoryko"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/puerto-rico/servatur-montebello/3973/9f_imageconverter-php-244.jpg",
+ "city": "Puerto Rico",
+ "intro": [
+  "Servatur Montebello to kompleks apartamentów położony na wzgórzu w Puerto Rico na Gran Canarii, oferujący malownicze widoki na dolinę i Ocean Atlantycki. Jest to idealne miejsce dla osób szukających spokojnego wypoczynku, zarówno dla par, rodzin, jak i niezależnych podróżników, ceniących sobie możliwość samodzielnego przygotowywania posiłków.",
+  "Hotel, otwarty w 1985 roku, przeszedł częściowe remonty, w tym basenu w 2019 roku i łazienek w 2021 roku. Oferuje 113-114 przestronnych apartamentów z dobrze wyposażonymi aneksami kuchennymi, co sprzyja swobodnemu planowaniu dnia i posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel Servatur Montebello jest usytuowany na wzniesieniu w Puerto Rico, co zapewnia piękne widoki na okolicę i ocean. Do piaszczystej, publicznej plaży Puerto Rico jest około 700 metrów do 1,5 km, a do centrum miejscowości zaledwie 300-500 metrów. Najbliższe lotnisko, Port lotniczy Gran Canaria (LPA), znajduje się w odległości około 48-50 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje studia dla 1-2 osób oraz apartamenty z jedną sypialnią dla 3-4 osób. Wszystkie pokoje wyposażone są w aneks kuchenny z pełnym wyposażeniem, łazienkę, salon, telewizor z kanałami satelitarnymi oraz prywatny taras lub balkon. W pokojach nie ma klimatyzacji, a sejf jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen, który jest podgrzewany w wybranych miesiącach. Goście mogą korzystać z bezpłatnego Wi-Fi w całym obiekcie. Dostępne są również takie aktywności jak bilard, tenis (płatny, w pobliżu), kolarstwo górskie oraz squash. W okolicy znajduje się pole golfowe i możliwość uprawiania sportów wodnych."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Hotel oferuje zakwaterowanie z własnym wyżywieniem (Self Catering) lub ze śniadaniami. Na terenie obiektu działa restauracja Montebello, otwarta na kolacje w sezonie zimowym, oraz bar przy basenie, serwujący napoje i lekkie posiłki."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Servatur Montebello jest polecany dla osób szukających spokojnego wypoczynku z pięknymi widokami. Jego lokalizacja na wzgórzu może być atutem dla ceniących ciszę, ale wymaga pokonywania schodów lub korzystania z transportu, aby dotrzeć do plaży czy centrum. Hotel jest przyjazny rodzinom, choć brak szczegółowych animacji czy mini klubu."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera i piękne widoki na ocean",
+  "Przestronne apartamenty z dobrze wyposażonymi aneksami kuchennymi",
+  "Duży basen z dużą liczbą leżaków",
+  "Bezpłatne Wi-Fi w całym obiekcie",
+  "Pomocna i miła obsługa"
+ ],
+ "cons": [
+  "Położenie na wzgórzu wymaga pokonywania schodów lub korzystania z taksówek",
+  "Brak klimatyzacji w pokojach",
+  "Możliwy hałas z nocnego życia w okolicy lub muzyka z baru",
+  "Obiekt może być \"zużyty\"",
+  "Brak pakietu all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta, publiczna plaża Puerto Rico znajduje się około 700 metrów do 1,5 km od hotelu, co zajmuje około 10-15 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Gran Canaria (LPA), jest oddalone o około 48-50 km od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. W pobliżu (około 400-600 m) znajduje się park rozrywki Angry Birds Activity Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest przyjazny rodzinom, oferuje pokój gier, ale brak szczegółowych informacji o mini klubie czy animacjach dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "Nie, w pokojach hotelowych nie ma klimatyzacji."
+  }
+ ],
+ "address": "Avenida de la Cornisa, 5, 35130 Puerto Rico, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 49,
+ "airportName": "Port lotniczy Gran Canaria (LPA)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "solarium",
+  "bilard",
+  "tenis (płatny, w pobliżu)",
+  "kolarstwo górskie",
+  "squash",
+  "pole golfowe (w pobliżu)",
+  "sporty wodne (płatne, na plaży)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Puerto Rico",
+ "bars": 1,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.4,
+ "goodFor": [
+  "pary",
+  "rodziny",
+  "niezależni podróżnicy"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio (dla 1-2 osób) z aneksem kuchennym, łazienką, salonem, TV, tarasem/balkonem",
+  "Apartament z jedną sypialnią (dla 3-4 osób) z aneksem kuchennym, łazienką, salonem, TV, tarasem/balkonem"
+ ],
+ "rooms": 114,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7907736,
+  "lon": -15.7118279,
+  "src": "osm"
+ },
+ "sources": [
+  "servatur.com",
+  "grancanaria.com",
+  "google.co.ve",
+  "hjertingrejser.dk",
+  "firstchoice.co.uk",
+  "ving.se",
+  "easyjet.com",
+  "tjareborg.fi"
+ ],
+ "updated": "2026-11-27"
+}

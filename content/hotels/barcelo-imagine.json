@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:barcelo imagine",
+ "slug": "barcelo-imagine",
+ "name": "Barcelo Imagine",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Madryt i okolice",
+  "Madryt"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/madrid/madrid/barcelo-imagine-pl/6718/8f12be825fd52df10e05c-244.jpg",
+ "city": "Madryt",
+ "intro": [
+  "Hotel Barceló Imagine to nowoczesny, pięciogwiazdkowy obiekt położony w północnej części Madrytu, w dzielnicy Chamartín, niedaleko Plaza Castilla i wież KIO. Wyróżnia się awangardowym stylem i motywem muzycznym, co czyni go unikalnym miejscem na pobyt w stolicy Hiszpanii.",
+  "Obiekt jest odpowiedni zarówno dla rodzin z dziećmi, par, jak i osób podróżujących służbowo oraz turystów. Oferuje szeroki zakres udogodnień, w tym baseny, centrum fitness, spa oraz specjalną strefę dla najmłodszych, zapewniając komfortowy wypoczynek w miejskim otoczeniu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i dojazd",
+   "text": "Hotel Barceló Imagine znajduje się w Madrycie, w dzielnicy Chamartín. Jest to dogodna lokalizacja w północnej części miasta, blisko stacji Chamartín, co zapewnia łatwy dostęp do komunikacji miejskiej. Odległość od lotniska Adolfo Suárez Madrid-Barajas (MAD) wynosi około 10-12 km, a dojazd pociągiem zajmuje 15-20 minut. Centrum Madrytu oddalone jest o około 6-7 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 156 tematycznych pokoi, inspirowanych różnymi gatunkami muzycznymi i artystami. Dostępne są pokoje Deluxe, Premium, Junior Suite oraz pokoje rodzinne dla maksymalnie 4 osób. Wyposażenie obejmuje klimatyzację, telewizor, minibar, sejf, zestaw do parzenia kawy i herbaty, a także prywatną łazienkę z kosmetykami i suszarką do włosów. Goście mogą również wypożyczyć instrument muzyczny lub gramofon."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: odkryty basen na dachu, czynny sezonowo, oraz basen kryty. Na dachu znajduje się również Sky Lounge, gdzie w miesiącach wiosenno-letnich odbywają się koncerty i imprezy. Hotel oferuje całodobowe centrum fitness oraz płatne spa z sauną, solarium i możliwością skorzystania z masaży."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja Eat & Roll, serwująca kuchnię śródziemnomorską, oraz kawiarnia. Goście mogą korzystać ze śniadań w formie bufetu (koncept B-Likeat), z opcjami wegańskimi i bezglutenowymi. Dostępne są trzy bary: lobby bar Studio 32, sezonowy Sky Lounge na dachu oraz bar przy basenie Food Truck Terrace. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Barceló Imagine to hotel przyjazny rodzinom. Posiada specjalną strefę dla dzieci, w tym brodzik oraz wewnętrzny plac zabaw. Dla najmłodszych gości dostępny jest również mini klub."
+  }
+ ],
+ "pros": [
+  "Przestronne i czyste pokoje",
+  "Doskonałe i różnorodne śniadania",
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko stacji Chamartín i metra",
+  "Nowoczesny design z motywem muzycznym",
+  "Basen na dachu i dobrze wyposażona siłownia"
+ ],
+ "cons": [
+  "Potencjalny hałas uliczny w pokojach od strony ulicy",
+  "Hotel jest nieco oddalony od ścisłego centrum miasta",
+  "Subiektywne opinie o wygodzie materacy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel Barceló Imagine jest od lotniska?",
+   "a": "Hotel Barceló Imagine znajduje się około 10-12 km od lotniska Adolfo Suárez Madrid-Barajas (MAD)."
+  },
+  {
+   "q": "Czy hotel Barceló Imagine ma basen?",
+   "a": "Tak, hotel posiada jeden odkryty basen na dachu (sezonowy) oraz jeden basen kryty."
+  },
+  {
+   "q": "Czy hotel Barceló Imagine jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje strefę dla dzieci, brodzik, wewnętrzny plac zabaw oraz mini klub."
+  },
+  {
+   "q": "Czy w hotelu Barceló Imagine jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel Barceló Imagine znajduje się blisko plaży?",
+   "a": "Nie, Madryt jest miastem śródlądowym, więc hotel nie znajduje się przy plaży morskiej."
+  },
+  {
+   "q": "Jak daleko hotel Barceló Imagine jest od centrum Madrytu?",
+   "a": "Hotel Barceló Imagine jest oddalony o około 6.1-7 km od centrum Madrytu."
+  }
+ ],
+ "address": "Calle de Agustín de Foxá 32, 28036 Madryt, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 11,
+ "airportName": "Adolfo Suárez Madrid-Barajas (MAD)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Basen kryty",
+  "Basen na dachu",
+  "Mini klub dla dzieci",
+  "Strefa dla dzieci",
+  "Bar na dachu",
+  "Kawiarnia"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Chamartín",
+ "bars": 3,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 6.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby podróżujące służbowo",
+  "Turyści"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2018,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój Deluxe",
+  "Pokój Premium",
+  "Junior Suite",
+  "Pokoje rodzinne (do 4 osób) - wyposażone w klimatyzację, część wypoczynkową, telewizor z płaskim ekranem/telewizję satelitarną, zestaw do parzenia kawy i herbaty, minibar, sejf, biurko, dźwiękoszczelne ściany/okna, prywatną łazienkę z bezpłatnymi kosmetykami i suszarką do włosów, szlafroki i kapcie."
+ ],
+ "rooms": 156,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.4703523,
+  "lon": -3.684993,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "checkmego.com",
+  "michelin.com",
+  "esmadrid.com",
+  "mapcarta.com",
+  "britishairways.com",
+  "barcelo.com",
+  "easyjet.com"
+ ],
+ "updated": "2026-11-27"
+}

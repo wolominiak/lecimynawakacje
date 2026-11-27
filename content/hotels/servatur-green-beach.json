@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:servatur green beach",
+ "slug": "servatur-green-beach",
+ "name": "Servatur Green Beach",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Patalavaca"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/patalavaca/servatur-green-beach-pl/8159/2e2_green-beach-pool1-244.jpg",
+ "city": "Patalavaca",
+ "intro": [
+  "Servatur Green Beach to trzygwiazdkowy hotel położony w południowo-zachodniej części Gran Canarii, bezpośrednio przy nadmorskiej promenadzie w Patalavaca. Obiekt, odnowiony w 2004 roku, oferuje komfortowe studia i apartamenty z aneksami kuchennymi, co sprzyja niezależnemu wypoczynkowi.",
+  "Hotel jest idealnym wyborem dla par i rodzin z dziećmi, poszukujących spokojnego miejsca z pięknymi widokami na ocean i łatwym dostępem do plaży oraz lokalnych atrakcji. Bliskość miasteczka Arguineguín pozwala na korzystanie z jego uroków, a dogodne położenie umożliwia odkrywanie uroków wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Servatur Green Beach znajduje się w pierwszej linii brzegowej, z bezpośrednim zejściem na promenadę. Piaszczysto-żwirowa plaża Patalavaca z łagodnym wejściem do wody oddalona jest o około 50 metrów. Plaża jest publiczna, a leżaki i parasole dostępne są za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 232 lub 234 studiami i apartamentami z jedną sypialnią. Wszystkie pokoje wyposażone są w aneks kuchenny (lodówka, czajnik, mikrofalówka, ekspres do kawy), łazienkę z suszarką do włosów, telefon oraz telewizję satelitarną. Większość pokoi posiada balkon lub taras z widokiem na ocean."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się zewnętrzny basen z sezonowo podgrzewaną wodą oraz wydzielona część dla dzieci. Na 9. piętrze dostępny jest solarium z jacuzzi. Goście mogą korzystać z rzutek i tenisa stołowego, a wieczorami (zimą) w barze fortepianowym odbywają się występy muzyczne i animacje."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje wyżywienie w formie śniadań i obiadokolacji (Half Board). Restauracja \"Sunset\" na 9. piętrze z tarasem widokowym serwuje śniadania w formie bufetu oraz kolacje à la carte lub w formie bufetu. Do dyspozycji gości jest również bar przekąskowy przy basenie oraz bar fortepianowy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część w basenie głównym lub osobny basen dla dzieci oraz plac zabaw. Dostępne są również łóżeczka dla niemowląt na zamówienie."
+  }
+ ],
+ "pros": [
+  "Idylliczna lokalizacja w pierwszej linii brzegowej",
+  "Spektakularne widoki na ocean",
+  "Bliskość plaży i miasteczka Arguineguín",
+  "Podgrzewany basen",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Brak klimatyzacji w niektórych pokojach",
+  "Płatne leżaki i parasole na plaży",
+  "Płatne ręczniki basenowe",
+  "Brak własnego parkingu",
+  "Brak muzyki/rozrywki poza sezonem zimowym"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysto-żwirowa plaża Patalavaca znajduje się około 50 metrów od obiektu, z bezpośrednim zejściem z hotelu."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy Gran Canaria oddalony jest o około 40-45 km, a czas transferu wynosi około 40-60 minut."
+  },
+  {
+   "q": "Czy hotel oferuje animacje?",
+   "a": "W barze fortepianowym odbywają się występy muzyczne i animacje wieczorne, szczególnie w sezonie zimowym."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje wydzieloną część basenu dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, Wi-Fi jest bezpłatne na terenie całego obiektu."
+  }
+ ],
+ "address": "Avenida Los Canarios, 23, 35120 Arguineguín, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 42.5,
+ "airportName": "Gran Canaria (Aeropuerto de Las Palmas)",
+ "amenities": [
+  "Aneks kuchenny w pokojach",
+  "Balkon/taras w większości pokoi",
+  "Solarium z jacuzzi"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Patalavaca",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 0.9,
+ "goodFor": [
+  "Osoby poszukujące niezależnego wypoczynku",
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2004,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, łazienką, telefonem, TV satelitarną, sejfem (płatny), balkonem/tarasem",
+  "Apartament z jedną sypialnią, aneksem kuchennym, łazienką, telefonem, TV satelitarną, sejfem (płatny), balkonem/tarasem"
+ ],
+ "rooms": 233,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "travelpunkt.pl",
+  "tui.pl",
+  "servatur.com",
+  "grancanaria.com",
+  "grancanariablue.com",
+  "google.com",
+  "grancanariatravel.es",
+  "luksusowe-wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:bahia calma beach",
+ "slug": "bahia-calma-beach",
+ "name": "Bahia Calma Beach",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Costa Calma"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/costa-calma/bahia-calma-beach-pl/4722/485fbecbccbda91cc81ea73e97fb3adb_piscina86-244.jpg",
+ "city": "Costa Calma",
+ "intro": [
+  "Bahia Calma Beach to trzygwiazdkowy kompleks bungalowów i apartamentów, położony w miejscowości Costa Calma na słonecznej Fuerteventurze. Obiekt oferuje zakwaterowanie z opcją samoobsługową, co czyni go idealnym wyborem dla osób ceniących niezależność i domową atmosferę podczas wakacji.",
+  "Hotel jest polecany dla rodzin, par oraz grup przyjaciół, którzy szukają relaksującego wypoczynku blisko piaszczystych plaż i lokalnych udogodnień. Otoczony ogrodami i palmami, zapewnia spokojne otoczenie, a jednocześnie łatwy dostęp do tętniącego życiem centrum miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bahia Calma Beach znajduje się w Costa Calma, około 200 metrów od piaszczystych plaż, w tym słynnej plaży Sotavento. Obiekt oferuje bezpośredni dostęp do plaży, która nie jest prywatna. Centrum miejscowości z licznymi restauracjami, barami i supermarketem oddalone jest o około 5 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje różnorodne typy zakwaterowania, w tym studia, apartamenty (jedno- i dwupokojowe), bungalowy (jedno- i dwupokojowe) oraz penthousy. Wszystkie pokoje wyposażone są w kuchnię lub aneks kuchenny, salon, telewizor z płaskim ekranem oraz łazienkę. Większość posiada również balkon lub taras, a niektóre oferują widok na morze lub basen."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny, z których jeden jest podgrzewany. W jednym z basenów wydzielono płytką strefę dla dzieci. Przy basenach dostępne są leżaki i parasole, a także ręczniki basenowe. W pobliżu hotelu można skorzystać z oferty sportów wodnych, takich jak skutery wodne czy przejażdżki motorówką."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel oferuje zakwaterowanie z opcją samoobsługową, a wszystkie apartamenty i bungalowy wyposażone są w kuchnie lub aneksy kuchenne. Na terenie obiektu znajduje się bar przy basenie. W bezpośrednim sąsiedztwie dostępne są liczne restauracje, bary i supermarket, co umożliwia samodzielne przygotowywanie posiłków lub korzystanie z lokalnej gastronomii."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Goście mają dostęp do bezpłatnego Wi-Fi, które jest dostępne w niektórych pokojach oraz na terenie obiektu, np. w ogrodach i na tarasach. Hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych. Dostępny jest bezpłatny parking publiczny na ulicy w pobliżu obiektu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Dobrze wyposażone apartamenty z kuchniami",
+  "Czystość i komfort obiektu",
+  "Zadbany teren basenowy z podgrzewanym basenem",
+  "Przyjazny personel"
+ ],
+ "cons": [
+  "Brak bagażowni i parkingu na terenie hotelu",
+  "Niektóre studia mogą mieć ograniczony widok",
+  "Konieczność przejścia przez ulicę do basenu (krótki dystans)",
+  "Brak informacji o roku otwarcia i remontu",
+  "Brak siłowni i spa na terenie obiektu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 200 metrów od piaszczystych plaż Costa Calma, w tym plaży Sotavento."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje zakwaterowanie z opcją samoobsługową, a apartamenty i bungalowy wyposażone są w kuchnie. Na terenie obiektu znajduje się bar przy basenie, a w pobliżu dostępne są liczne restauracje i supermarket."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu. Dostępne są dwa odkryte baseny, w tym jeden podgrzewany i strefa dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. W jednym z basenów wydzielono płytką strefę dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Fuerteventura (FUE), oddalony o około 63 km (około 55 minut jazdy samochodem/taksówką)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, dostępne jest bezpłatne Wi-Fi, w niektórych pokojach i na terenie obiektu (np. w ogrodach i na tarasach)."
+  }
+ ],
+ "address": "Calle Angostura, 3, 35627 Costa Calma",
+ "adultsOnly": false,
+ "airportKm": 63,
+ "airportName": "Port lotniczy Fuerteventura (FUE)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "bar przy basenie",
+  "ręczniki basenowe",
+  "leżaki i parasole przy basenach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Costa Calma",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, łazienką, balkonem/tarasem (niektóre z klimatyzacją, sejfem płatnym, widokiem na morze/basen)",
+  "Apartament jednopokojowy z kuchnią, salonem, łazienką, balkonem/tarasem (niektóre z sejfem płatnym, widokiem na morze/basen)",
+  "Apartament dwupokojowy z kuchnią, salonem, łazienką, balkonem/tarasem (niektóre z sejfem płatnym, widokiem na morze/basen)",
+  "Bungalow jednopokojowy z kuchnią, salonem, łazienką, balkonem/tarasem (niektóre z sejfem płatnym, widokiem na morze/basen)",
+  "Bungalow dwupokojowy z kuchnią, salonem, łazienką, balkonem/tarasem (niektóre z sejfem płatnym, widokiem na morze/basen)",
+  "Penthousy z kuchnią, salonem, łazienką, balkonem/tarasem (niektóre z sejfem płatnym, widokiem na morze/basen)",
+  "Pokoje rodzinne z kuchnią, salonem, łazienką, balkonem/tarasem (niektóre z sejfem płatnym, widokiem na morze/basen)"
+ ],
+ "rooms": null,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.1579846,
+  "lon": -14.229221,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "canariaslovers.com",
+  "loveholidays.com",
+  "onthebeach.co.uk",
+  "hotelsfuerteventura.org",
+  "fuerteventurabesthotels.com",
+  "bahia-calma.com",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

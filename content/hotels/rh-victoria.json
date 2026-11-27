@@ -1,0 +1,151 @@
+{
+ "id": "x:hiszpania:rh victoria",
+ "slug": "rh-victoria",
+ "name": "Rh Victoria",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/rh-victoria-pl/9780/piscinadesdeescaleras-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel RH Victoria to czterogwiazdkowy obiekt położony w samym sercu Benidorm na wybrzeżu Costa Blanca w Hiszpanii, tuż obok Starego Miasta. Jego centralna lokalizacja sprawia, że jest doskonałą bazą wypadową do zwiedzania miasta i korzystania z uroków plaży Levante.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, dzięki udogodnieniom takim jak mini klub i basen dla najmłodszych, jak i dla par czy osób podróżujących solo, ceniących sobie bliskość atrakcji, opcję all-inclusive oraz dostęp do strefy spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel RH Victoria znajduje się w centrum Benidorm, zaledwie 5-10 minut spacerem od Starego Miasta. Plaża Levante, piaszczysta i popularna, oddalona jest o około 300-500 metrów. Adres hotelu to Vía Emilio Ortuño 20, 03501 Benidorm."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 132 lub 133 pokoje, choć inne źródła podają 202. Pokoje zostały odnowione w 2020 roku. Wszystkie posiadają balkon lub taras, łazienkę, suszarkę do włosów, telewizor satelitarny, klimatyzację, bezpłatne Wi-Fi i sejf. Dostępne są różne typy pokoi, w tym Standard, Junior Suite, z widokiem na morze oraz Family Room."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa Don Jaime, serwująca dania kuchni lokalnej i międzynarodowej. Goście mogą korzystać z kilku barów, w tym bar-kawiarni, sezonowego baru przy basenie oraz Night Bar. Dostępna jest opcja all-inclusive, obejmująca posiłki i wybrane napoje od 10:00 do 00:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem z hydromasażem oraz oddzielnym basenem dla dzieci. W strefie spa znajduje się podgrzewany basen z hydromasażem. Goście mogą korzystać z centrum fitness, a także z bilarda (płatnego) i tenisa stołowego. Sezonowy program animacyjny oferuje rozrywki dla dorosłych i dzieci."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano oddzielny basen oraz dedykowane place zabaw. Sezonowy mini klub RH Kids, działający 4 razy w tygodniu w lipcu i sierpniu, oferuje zajęcia na świeżym powietrzu dla dzieci w wieku 2-12 lat. Hotel zapewnia również animacje dla dzieci."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "W 2021 roku hotel wzbogacił się o pełne spa, które oferuje podgrzewany basen z hydromasażem, jacuzzi, saunę, łaźnię turecką, prysznice sensoryczne i gabinet masażu. Korzystanie z części wodnej spa jest dodatkowo płatne, a dzieci poniżej 16 lat mogą korzystać ze spa tylko w wyznaczonych godzinach rodzinnych i pod opieką dorosłego."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaży i Starego Miasta",
+  "Przestronne, odnowione pokoje z balkonami",
+  "Dobre jedzenie w formie bufetu",
+  "Miła i pomocna obsługa",
+  "Udogodnienia dla dzieci (basen, mini klub)"
+ ],
+ "cons": [
+  "Mały obszar basenowy, który może być zacieniony",
+  "Basen bywa mały lub zimny",
+  "Ograniczona pojemność i prędkość wind",
+  "Zabiegi spa są dodatkowo płatne",
+  "Niektóre łazienki mogą być przestarzałe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel RH Victoria znajduje się około 300-500 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Alicante-Elche (ALC), oddalone o około 47-64 km, co przekłada się na około 45 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu RH Victoria nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje basen dla dzieci, place zabaw oraz sezonowy mini klub z animacjami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel RH Victoria jest hotelem tylko dla dorosłych?",
+   "a": "Nie, hotel RH Victoria jest hotelem rodzinnym. Siostrzany hotel RH Royal jest hotelem tylko dla dorosłych."
+  }
+ ],
+ "address": "Vía Emilio Ortuño 20, 03501 Benidorm",
+ "adultsOnly": false,
+ "airportKm": 54,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Mini klub",
+  "Basen dla dzieci",
+  "Program animacyjny",
+  "Restauracja bufetowa",
+  "Bary",
+  "Bilard",
+  "Tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Centrum Benidorm, tuż przy Starym Mieście",
+ "bars": 4,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Podróżujący solo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard",
+  "Standard Superior",
+  "Single",
+  "Junior Suite",
+  "Sea View",
+  "Superior Sea View",
+  "Deluxe Room",
+  "Deluxe Room Sea View",
+  "Twin Room Pool View",
+  "Family Room Sea View (Happy Family)"
+ ],
+ "rooms": 132,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5388693,
+  "lon": -0.1260216,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.co.uk",
+  "onbenidorm.com",
+  "oyster.com",
+  "tui.co.uk",
+  "google.com",
+  "booking.com",
+  "travelisto.com",
+  "kayak.com"
+ ],
+ "updated": "2026-11-27"
+}

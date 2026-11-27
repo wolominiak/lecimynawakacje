@@ -1,0 +1,127 @@
+{
+ "id": "x:hiszpania:suitopia sol y mar suites hotel",
+ "slug": "suitopia-sol-y-mar-suites-hotel",
+ "name": "Suitopia Sol Y Mar Suites Hotel",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Calpe"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/calpe/suitopia-sol-y-mar-suites-hotel-pl/d0bb872b754629684375b.jpg",
+ "city": "Calpe",
+ "intro": [
+  "Suitopia Sol Y Mar Suites Hotel to nowoczesny, czterogwiazdkowy obiekt położony w centrum Calpe na wybrzeżu Costa Blanca, tuż obok urokliwego Starego Miasta. Hotel, otwarty w 2017 roku, wyróżnia się swoją wysokością, oferując spektakularne widoki na okolicę i morze.",
+  "Obiekt jest idealnym wyborem dla rodzin z dziećmi, dzięki bogatej ofercie atrakcji, w tym parkowi wodnemu ze zjeżdżalniami, brodzikom i mini klubowi. Bliskość piaszczystej plaży oraz liczne udogodnienia sprawiają, że jest to doskonałe miejsce na komfortowy wypoczynek dla całej rodziny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Suitopia Sol Y Mar Suites Hotel znajduje się w centrum Calpe, tuż przy Starym Mieście. W odległości około 40-100 metrów od hotelu mieści się publiczna, piaszczysta plaża Platja del Cantal Roig z łagodnym zejściem do morza. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, gdyż plaża nie jest hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 232 przestronne apartamenty typu Suite, często z widokiem na morze lub miasto, o powierzchni około 75 m². Każdy pokój wyposażony jest w telewizor, część wypoczynkową, balkon lub taras (często 20 m²), łazienkę z podwójnym prysznicem i wanną, klimatyzację oraz bezpłatne Wi-Fi. W niektórych apartamentach dostępne są aneksy kuchenne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się 4 baseny zewnętrzne, czynne przez cały rok, oraz 1 basen kryty w strefie spa. Dla dzieci przygotowano bezpłatny park wodny ze zjeżdżalniami, wodny plac zabaw oraz 2 brodziki z atrakcjami. Hotel oferuje również animacje dzienne i wieczorne, a także mini klub dla najmłodszych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Market Place serwuje dania kuchni śródziemnomorskiej w formie bufetu i à la carte. Do dyspozycji gości są trzy bary: Sky Lounge Bar na 29. piętrze z panoramicznym widokiem, bar w lobby oraz sezonowy Pool Bar. Hotel oferuje opcje wyżywienia takie jak śniadania, półpensjonat czy pełne wyżywienie."
+  },
+  {
+   "title": "Spa i sport",
+   "text": "Hotel dysponuje centrum spa i wellness z wanną z hydromasażem, sauną, łaźnią parową, masażami i krytym basenem (dostęp za dodatkową opłatą). Na miejscu dostępna jest siłownia. W okolicy można uprawiać jazdę na rowerze, kajakarstwo, nurkowanie oraz piesze wędrówki."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum miasta.",
+  "Spektakularne widoki, zwłaszcza ze Sky Baru.",
+  "Przestronne apartamenty z dużymi tarasami.",
+  "Bogata oferta atrakcji dla rodzin z dziećmi, w tym park wodny.",
+  "Dobre jedzenie i pomocny personel."
+ ],
+ "cons": [
+  "Duży ruch podczas śniadań.",
+  "Leżaki i parasole na plaży są płatne.",
+  "Dostęp do strefy spa jest dodatkowo płatny.",
+  "Parking na terenie hotelu jest płatny."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa publiczna, piaszczysta plaża (Platja del Cantal Roig) znajduje się około 40-100 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Odległość od lotniska Alicante-Elche (ALC) wynosi około 67-78 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel dysponuje bezpłatnym parkiem wodnym ze zjeżdżalniami i wodnym placem zabaw."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując liczne udogodnienia takie jak brodziki, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest polecany dla rodzin."
+  }
+ ],
+ "address": "Avenida de Europa 2, Calpe, Alicante, 03710",
+ "adultsOnly": false,
+ "airportKm": 72.5,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "wifi",
+  "mini klub dla dzieci",
+  "park wodny",
+  "animacje"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum Calpe",
+ "bars": 3,
+ "beachDistanceM": 70,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2017,
+ "pools": 5,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament typu Suite (ok. 75 m²) z widokiem na morze lub miasto, telewizorem, częścią wypoczynkową, balkonem/tarasem (często 20 m²), łazienką z podwójnym prysznicem i wanną, bezpłatnym zestawem kosmetyków, suszarką do włosów, klimatyzacją, bezpłatnym Wi-Fi, stołem, żelazkiem, mini barem, lodówką. Niektóre apartamenty posiadają aneks kuchenny/zmywarkę."
+ ],
+ "rooms": 232,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "youtube.com",
+  "wakacje.pl",
+  "costablanca-hotels.com",
+  "hoteles.com",
+  "kayak.pl",
+  "itaka.pl",
+  "tui.pl"
+ ],
+ "updated": "2026-11-27"
+}

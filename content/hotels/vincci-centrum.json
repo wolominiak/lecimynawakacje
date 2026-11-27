@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:vincci centrum",
+ "slug": "vincci-centrum",
+ "name": "Vincci Centrum",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Madryt i okolice",
+  "Madryt"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/madrid/madrid/vincci-centrum/1250/7a0ee9075356f9dfc856e-244.jpg",
+ "city": "Madryt",
+ "intro": [
+  "Hotel Vincci Centrum to czterogwiazdkowy obiekt położony w samym sercu Madrytu, w dzielnicy Centro, co czyni go idealną bazą wypadową do zwiedzania miasta pieszo. Mieści się w odrestaurowanym budynku z początku XX wieku, łącząc historyczny urok z nowoczesnymi udogodnieniami.",
+  "Ten hotel jest doskonałym wyborem zarówno dla osób podróżujących służbowo, jak i dla turystów planujących kulturalne wypady. Sprawdzi się również dla par, grup przyjaciół oraz rodzin z dziećmi, oferując komfortowe zakwaterowanie i dogodny dostęp do atrakcji Madrytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Vincci Centrum znajduje się w centralnej dzielnicy Madrytu - Centro, w obszarze Cortes (Barrio de las Letras). Jest oddalony o zaledwie 100 metrów od ścisłego centrum, 300 metrów od Gran Vía i 10 minut spacerem od Puerta del Sol. Najbliższe lotnisko, Madryt-Barajas (MAD), oddalone jest o około 12.4 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 87 pokoi, w tym pokoje dwuosobowe i apartamenty. Pokoje zostały całkowicie odnowione w 2025 roku, a ich wyposażenie obejmuje klimatyzację, minibar, sejf, telewizor z płaskim ekranem, bezpłatne Wi-Fi oraz łazienkę z prysznicem i bidetem. Dostępne są również pokoje z ekspresem do kawy Nespresso, czajnikiem, oddzielnym salonem lub prywatnym tarasem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja Bellini Food & Bar, serwująca dania kuchni fusion, tapas i koktajle. Goście mogą również skorzystać z baru/lounge oraz kawiarni. Hotel oferuje śniadania w formie bufetu, w tym produkty bezglutenowe, które są dodatkowo płatne."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i pomieszczeniach ogólnodostępnych. Na życzenie dostępne są łóżeczka dziecięce i krzesełka do karmienia, a także płatne usługi opieki nad dziećmi. Hotel nie posiada basenów, aquaparku ani siłowni, choć istnieje możliwość skorzystania z siłowni poza obiektem na podstawie porozumienia."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, umożliwiająca zwiedzanie pieszo",
+  "Przyjazny i pomocny personel",
+  "Czyste i komfortowe pokoje",
+  "Dobre i urozmaicone śniadania",
+  "Cicha atmosfera pomimo centralnego położenia"
+ ],
+ "cons": [
+  "Sporadyczny hałas",
+  "Zdarzają się pokoje bez okien lub z widokiem na wewnętrzny dziedziniec",
+  "Niektóre pokoje mogą być małe",
+  "Słabe Wi-Fi w niektórych pokojach",
+  "Brak basenu i siłowni na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Vincci Centrum znajduje się w Madrycie, który jest miastem śródlądowym i nie ma dostępu do plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Madryt-Barajas (MAD), oddalone o około 12.4 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje łóżeczka dziecięce na życzenie i krzesełka do karmienia, a także płatne usługi opieki nad dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Kiedy hotel był ostatnio remontowany?",
+   "a": "Pokoje zostały całkowicie odnowione w 2025 roku, a renowacja części wspólnych miała miejsce w 2016 roku."
+  }
+ ],
+ "address": "Calle de Cedaceros, 4, 28014 Madryt, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 12.4,
+ "airportName": "Międzynarodowy Port Lotniczy Madryt-Barajas (MAD)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Łóżeczka dziecięce na życzenie",
+  "Krzesełka do karmienia",
+  "Usługi opieki nad dziećmi (płatne)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centro, obszar Cortes (lub Barrio de las Letras)",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Kulturalne wypady",
+  "Pary",
+  "Przyjaciele",
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2004,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Vincci Room XS",
+  "Vincci Room",
+  "Superior Room",
+  "Deluxe Room",
+  "Deluxe Room with Terrace",
+  "Grand Deluxe",
+  "Junior Suite with Terrace",
+  "Connecting Deluxe Room"
+ ],
+ "rooms": 87,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.4175566,
+  "lon": -3.6987167,
+  "src": "osm"
+ },
+ "sources": [
+  "vinccicentrum.com",
+  "hrs.com",
+  "guidavera.com",
+  "google.com.ng",
+  "esmadrid.com",
+  "mapy.com",
+  "yandex.com",
+  "travel.spb.ru"
+ ],
+ "updated": "2026-11-27"
+}

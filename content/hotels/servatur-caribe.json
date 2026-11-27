@@ -1,0 +1,124 @@
+{
+ "id": "x:hiszpania:servatur caribe",
+ "slug": "servatur-caribe",
+ "name": "Servatur Caribe",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/servatur-caribe/72175bcde481a2b1c1a5757b2dc9d60c_scr-pool-2-244.jpg",
+ "city": "Playa de las Américas",
+ "intro": [
+  "Servatur Caribe to kompleks apartamentów położony w turystycznym centrum Playa de las Américas na Teneryfie. Oferuje on komfortowe zakwaterowanie w apartamentach z aneksem kuchennym, co czyni go idealnym wyborem dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Hotel jest polecany dla rodzin oraz osób szukających dogodnej lokalizacji blisko plaż, sklepów, barów i restauracji. Bliskość popularnego parku wodnego Siam Park to dodatkowy atut dla rodzin z dziećmi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Servatur Caribe znajduje się w miejscowości Playa de las Américas, w gminie Adeje. Najbliższa piaszczysta plaża, Playa de Troya, oddalona jest o około 450-800 metrów, co oznacza 5-10 minut spacerem. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, gdyż nie jest to plaża hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 108 do 126 apartamentów rozmieszczonych na 7 piętrach. Dostępne są studia z tarasem i widokiem na basen, apartamenty Classic z 1 sypialnią oraz apartamenty Premium z 1 sypialnią. Wszystkie apartamenty wyposażone są w umeblowany balkon lub taras, w pełni wyposażony aneks kuchenny, telewizor z kanałami satelitarnymi, telefon oraz sejf. Łazienki posiadają wannę z prysznicem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Servatur Caribe dostępny jest bar przy basenie/snack bar, który serwuje śniadania (kontynentalne lub amerykańskie) oraz lekkie posiłki i napoje w ciągu dnia. Hotel oferuje opcje zakwaterowania \"tylko pokój\" (Room Only) oraz \"bez wyżywienia\" (Self Catering), co oznacza brak oferty all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą. Goście mogą korzystać z centrum zdrowia i odnowy biologicznej oferującego masaże i zabiegi kosmetyczne (za opłatą). Dostępny jest również odkryty kort tenisowy (wymagany depozyt za sprzęt) oraz pokój gier."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Czyste i dobrze wyposażone apartamenty",
+  "Pomocna i przyjazna obsługa",
+  "Czysty basen z dużą ilością leżaków",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Brak klimatyzacji w pokojach",
+  "Brak oferty all inclusive",
+  "Godziny otwarcia basenu mogą być niedogodnością",
+  "Leżaki i parasole na plaży są płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa piaszczysta plaża, Playa de Troya, znajduje się około 450-800 metrów od hotelu (5-10 minut spacerem)."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife South Airport (TFS), oddalone o około 16-17.6 km, co zajmuje około 19 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Servatur Caribe nie oferuje wyżywienia all inclusive. Dostępne są opcje \"tylko pokój\" lub \"bez wyżywienia\"."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Jest jeden odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"przyjazny rodzinom\" i jest polecany dla rodzin ze względu na centralną lokalizację i bliskość atrakcji takich jak Siam Park."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach (prędkość powyżej 50 Mbps) i w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "address": "Avenida 5º Centenario 3, 38660 Playa de Las Américas, Teneryfa",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "Tenerife South Airport (TFS)",
+ "amenities": [
+  "Aneks kuchenny w każdym apartamencie",
+  "Kort tenisowy",
+  "Pokój gier",
+  "Centrum zdrowia i odnowy biologicznej"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Playa de las Américas",
+ "bars": 1,
+ "beachDistanceM": 450,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Osoby szukające centralnej lokalizacji"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1971,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": null,
+ "roomTypes": [
+  "Studio z tarasem i widokiem na basen",
+  "Apartament Classic z 1 sypialnią",
+  "Apartament Premium z 1 sypialnią (z balkonem, widokiem na basen lub widokiem na morze, butelka wina musującego i przekąski na powitanie)"
+ ],
+ "rooms": 108,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "giatadrive.com",
+  "servatur.com",
+  "holidaygems.co.uk",
+  "jet2holidays.com",
+  "onthebeach.ie",
+  "trivago.co.uk",
+  "hotelscombined.co.uk",
+  "rome2rio.com"
+ ],
+ "updated": "2026-11-27"
+}

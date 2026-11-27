@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:cay beach caleta",
+ "slug": "cay-beach-caleta",
+ "name": "Cay Beach Caleta",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Caleta de Fuste"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/caleta-de-fuste/cay-beach-caleta-pl/1316/d08468f9538d57a6c915381af908977c_1-244.jpg",
+ "city": "Caleta de Fuste",
+ "intro": [
+  "Cay Beach Caleta to trzygwiazdkowy hotel położony w spokojnej dzielnicy Castillo w Caleta de Fuste na Fuerteventurze. Obiekt, zaprojektowany w stylu wioski turystycznej z parterowymi bungalowami, otoczony jest palmowym ogrodem. Jest to idealna propozycja dla rodzin z dziećmi oraz osób szukających spokojnego wypoczynku, ceniących sobie przestronne apartamenty z aneksami kuchennymi i bliskość plaży.",
+  "Hotel znajduje się zaledwie 300-350 metrów od publicznej, piaszczystej plaży Playa el Castillo z łagodnym zejściem do morza. Bliskość centrum miejscowości (200-400 metrów) oraz lotniska (około 8 km) sprawiają, że jest to dobra baza wypadowa do zwiedzania wyspy, oferująca jednocześnie łatwy dostęp do lokalnych atrakcji, sklepów i restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Cay Beach Caleta usytuowany jest w spokojnej dzielnicy Castillo w Caleta de Fuste, około 200-400 metrów od centrum miejscowości. Publiczna, piaszczysta plaża Playa el Castillo z łagodnym zejściem do morza znajduje się w odległości 300-350 metrów. Leżaki i parasole na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 174 apartamenty z jedną sypialnią (dla maksymalnie 4 osób, ok. 31-45 m²) oraz apartamenty z dwiema sypialniami. Każdy apartament wyposażony jest w indywidualnie sterowaną klimatyzację (płatną), łazienkę, pokój dzienny z sofą, sypialnię, telewizję satelitarną (większość kanałów płatna), telefon, lodówkę, zestaw do kawy/herbaty oraz w pełni wyposażony aneks kuchenny. Do dyspozycji gości jest również sejf (płatny) oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni międzynarodowej w formie bufetu, z dostępnymi opcjami dla dzieci i wegetarian. Dodatkowo, goście mogą skorzystać z płatnej restauracji à la carte z kuchnią kanaryjską. Na terenie obiektu dostępne są również dwa snack-bary oraz bar przy basenie. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, przekąski, lody oraz wybrane napoje bezalkoholowe i lokalne napoje alkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa odkryte baseny, w tym jeden ze słoną wodą. Hotel oferuje również brodzik dla dzieci, plac zabaw, pokój zabaw oraz mini klub. Dla aktywnych dostępna jest siłownia, boisko wielofunkcyjne, badminton, tenis stołowy, siatkówka i rzutki. Animacje dla dorosłych i dzieci odbywają się w sezonie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Cay Beach Caleta jest hotelem przyjaznym rodzinom. Oferuje brodzik, plac zabaw, pokój zabaw oraz mini klub. Przestronne apartamenty z aneksami kuchennymi są praktycznym rozwiązaniem dla rodzin. Animacje dla dzieci w sezonie oraz bezpieczna, piaszczysta plaża w zatoce sprawiają, że jest to dobry wybór na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja, blisko plaży, centrum i sklepów",
+  "Przestronne apartamenty z aneksami kuchennymi",
+  "Hotel w formie wioski turystycznej z bungalowami",
+  "Ładny basen i brodzik dla dzieci",
+  "Dobra baza wypadowa do zwiedzania wyspy"
+ ],
+ "cons": [
+  "Jedzenie bywa monotonne, zwłaszcza śniadania",
+  "Baseny mogą być niepodgrzewane lub słabo podgrzewane",
+  "Słychać samoloty startujące z pobliskiego lotniska",
+  "Płatne Wi-Fi w pokojach i płatna klimatyzacja",
+  "Pokoje mogą być stare i wymagać renowacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 300-350 metrów od publicznej, piaszczystej plaży Playa el Castillo."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 8 km od portu lotniczego Fuerteventura (Puerto del Rosario)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Na terenie hotelu nie ma aquaparku. Park wodny poza obiektem jest płatny."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi ze względu na przestronne apartamenty z aneksami kuchennymi, brodzik, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w ogólnodostępnych częściach hotelu. W apartamentach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy baseny są podgrzewane?",
+   "a": "Niektóre źródła wskazują, że baseny są podgrzewane w okresie od listopada do kwietnia, jednak opinie gości bywają sprzeczne w tej kwestii."
+  }
+ ],
+ "address": "C/ Tabaiba s/n, 35610 Caleta de Fuste, Spain",
+ "adultsOnly": false,
+ "airportKm": 8,
+ "airportName": "Fuerteventura (Puerto del Rosario)",
+ "amenities": [
+  "Siłownia",
+  "Boisko wielofunkcyjne",
+  "Badminton",
+  "Tenis stołowy",
+  "Siatkówka",
+  "Rzutki",
+  "Plac zabaw",
+  "Pokój zabaw"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Castillo",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "publiczna, piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "spokojny wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1988,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2004,
+ "restaurants": 2,
+ "roomTypes": [
+  "Apartamenty z 1 sypialnią (dla maksymalnie 4 osób, ok. 31-45 m², indywidualnie sterowana klimatyzacja, łazienka, pokój dzienny z sofą, sypialnia, telewizja satelitarna, telefon, lodówka, zestaw do kawy/herbaty, aneks kuchenny, sejf, balkon lub taras)",
+  "Apartamenty z 2 sypialniami"
+ ],
+ "rooms": 174,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "exim.pl",
+  "itaka.pl",
+  "caybeach.com",
+  "booking.com",
+  "traveligo.pl",
+  "wakacje.pl",
+  "giatadrive.com",
+  "fly.pl"
+ ],
+ "updated": "2026-11-27"
+}

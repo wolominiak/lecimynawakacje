@@ -1,0 +1,147 @@
+{
+ "id": "x:hiszpania:sun palace albir",
+ "slug": "sun-palace-albir",
+ "name": "Sun Palace Albir",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "El Albir"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/el-albir/sun-palace-albir-pl/4401/4cd4325bb563474b512800e1a6240899_pool1-244.jpg",
+ "city": "El Albir",
+ "intro": [
+  "Hotel Sun Palace Albir to czterogwiazdkowy obiekt położony w spokojnej części El Albir na wybrzeżu Costa Blanca w Hiszpanii, pomiędzy malowniczymi miejscowościami Altea i Benidorm. Jest to idealne miejsce dla osób szukających relaksu w eleganckim otoczeniu, z łatwym dostępem do lokalnych atrakcji.",
+  "Hotel oferuje szeroki zakres udogodnień, które sprawiają, że jest odpowiedni zarówno dla par, jak i rodzin. Dzięki stylowemu zakwaterowaniu, bogatej ofercie gastronomicznej oraz strefie spa, Sun Palace Albir zapewnia komfortowy pobyt w słonecznej Hiszpanii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sun Palace Albir znajduje się w spokojnej części miejscowości El Albir, około 700-800 metrów od żwirowej plaży Platja de l'Albir. Obiekt oferuje bezpłatny, godzinny transfer wahadłowy na plażę, co ułatwia dostęp do wybrzeża. W okolicy dostępne są leżaki i parasole do wynajęcia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 216 pokojami, w tym pokojami Standard, Premium, Suity oraz pokojami rodzinnymi. Wszystkie pokoje są wyposażone w łazienkę z suszarką do włosów, telewizję satelitarną, Wi-Fi, minibar (za opłatą), sejf (za opłatą) oraz umeblowany balkon lub taras. Dostępna jest indywidualnie sterowana klimatyzacja."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa \"El Far\", serwująca śniadania, obiady i kolacje z kuchnią śródziemnomorską. Goście mogą również skorzystać z restauracji à la carte \"El Privado\" z kuchnią europejską. Na terenie obiektu działają trzy bary: bar przy basenie, Rick's Café oraz panoramiczny bar na dachu \"Rooftop 360\"."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen, basen dla dzieci oraz kryty basen w strefie spa (za dodatkową opłatą). Hotel oferuje program rozrywkowy/animacyjny. W okolicy można uprawiać sporty wodne, piesze wycieczki, golf oraz jazdę na rowerze. Dostępna jest również siłownia."
+  },
+  {
+   "title": "Spa i wellness",
+   "text": "Strefa Tahara Spa oferuje kryty basen (za opłatą), hydromasaże, jacuzzi, saunę fińską, łaźnię turecką i termalne łóżka relaksacyjne. Dostępne są również zabiegi na ciało i twarz oraz usługi fryzjerskie. Strefa spa jest przeznaczona dla osób powyżej 12 roku życia."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera i stylowe zakwaterowanie",
+  "Dobre spa i baseny",
+  "Panoramiczne widoki z baru na dachu",
+  "Dobre śniadania i kolacje w formie bufetu",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Plaża żwirowa, niehotelowa",
+  "Położenie na wzgórzu, choć jest transfer na plażę",
+  "Dostęp do spa za dodatkową opłatą",
+  "Brak aquaparku i dużych zjeżdżalni",
+  "Niektóre opinie wskazują na \"zmęczony\" wystrój (sprzeczne z innymi informacjami)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sun Palace Albir znajduje się około 700-800 metrów od żwirowej plaży Albir. Hotel oferuje bezpłatny, godzinny transfer wahadłowy na plażę i z powrotem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Alicante-Elche (ALC), oddalone o około 68 km. Czas dojazdu samochodem to około 45 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada dedykowanego aquaparku ani dużych zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i par. Posiada basen dla dzieci, a także oferuje zestawy dla niemowląt za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Istnieją sprzeczne informacje. Niektóre źródła opisują hotel jako \"Adults Only\", jednak dostępne udogodnienia, takie jak basen dla dzieci czy łóżeczka dziecięce, sugerują, że jest to również miejsce przyjazne rodzinom."
+  }
+ ],
+ "address": "Calle Hércules, 1, 03581 L'Alfàs del Pi, Alicante, Hiszpania",
+ "adultsOnly": null,
+ "airportKm": 68,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "Basen odkryty",
+  "Basen dla dzieci",
+  "Kryty basen (w spa, płatny)",
+  "Spa",
+  "Siłownia",
+  "Restauracja bufetowa",
+  "Restauracja a la carte",
+  "Bary (przy basenie, Rick's Café, Rooftop 360)",
+  "Program rozrywkowy/animacyjny",
+  "Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Costa Blanca",
+ "bars": 3,
+ "beachDistanceM": 700,
+ "beachType": "żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2004,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój Standard",
+  "Pokój Premium",
+  "Suita (w tym Casablanca Sensual Suite z jacuzzi)",
+  "Pokój Basic King Size",
+  "Pokój Sea View King Size",
+  "Pokój Double Twin",
+  "Pokój Triple",
+  "Pokój Twin",
+  "Pokój Rodzinny",
+  "Junior Suite z widokiem na morze",
+  "Suita z wanną z hydromasażem"
+ ],
+ "rooms": 216,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.571,
+  "lon": -0.082,
+  "src": "web"
+ },
+ "sources": [
+  "hotel-in-valencia.com",
+  "albirhotels.com",
+  "agoda.com",
+  "travelweekly.com",
+  "hotels-costa-blanca.com",
+  "h-rez.com",
+  "hotelplanner.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

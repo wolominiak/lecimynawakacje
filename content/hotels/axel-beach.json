@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:axel beach",
+ "slug": "axel-beach",
+ "name": "Axel Beach",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/axel-beach/xel_beach_htl_0513_01-244.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Axel Beach Maspalomas - Adults Only to hotel apartamentowy położony w centrum popularnej miejscowości Playa del Inglés na Gran Canarii. Obiekt, przeznaczony wyłącznie dla osób dorosłych (18+), jest szczególnie polecany dla par, grup przyjaciół oraz osób poszukujących miejsca przyjaznego społeczności LGBTQ+.",
+  "Hotel oferuje 92 komfortowe apartamenty z aneksami kuchennymi, co czyni go idealnym wyborem dla gości ceniących niezależność i możliwość samodzielnego przygotowywania posiłków. Centralna lokalizacja zapewnia łatwy dostęp do życia nocnego, restauracji i centrum handlowego Yumbo Centrum."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Axel Beach Maspalomas znajduje się w centrum Playa del Inglés, zaledwie 350 metrów od centrum miejscowości. W odległości 5 minut spacerem znajduje się popularne centrum handlowe Yumbo Centrum. Piaszczysta plaża Playa del Inglés oddalona jest o około 1 do 1.2 km, co oznacza około 18-20 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 92 apartamentami, w tym opcjami z widokiem na ogród, basen lub ulicę. Każdy apartament wyposażony jest w klimatyzację, bezpłatne Wi-Fi, część dzienną z sofą i telewizorem, aneks kuchenny (lodówka, mikrofalówka, toster, ekspres do kawy/czajnik) oraz prywatny balkon lub taras. Niektóre pokoje mogą wymagać odświeżenia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się duży basen zewnętrzny w kształcie litery L, solarium oraz jacuzzi. Hotel oferuje również dobrze wyposażoną siłownię i centrum fitness, kort tenisowy oraz zajęcia fitness. W Axel Wellness goście mogą skorzystać z masaży, zabiegów na ciało, sauny, łaźni tureckiej i solarium."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja Lounge Club, bar przy basenie, kawiarnia oraz Sky Bar. Opcja all inclusive nie jest dostępna, ale goście mogą wykupić śniadanie kontynentalne lub w formie bufetu. Aneksy kuchenne w apartamentach umożliwiają samodzielne przygotowywanie posiłków."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Axel Beach Maspalomas to hotel wyłącznie dla dorosłych (18+), co czyni go idealnym miejscem dla par i grup przyjaciół szukających spokojnego wypoczynku lub aktywnego życia nocnego. Jest to również miejsce przyjazne społeczności LGBTQ+, co podkreśla jego otwartą i inkluzywną atmosferę. Okazjonalne imprezy przy basenie z DJ-em dodają rozrywki."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko Yumbo Centrum",
+  "Przyjazna i pomocna obsługa",
+  "Przestronne apartamenty z aneksami kuchennymi",
+  "Dobrze wyposażone spa i siłownia",
+  "Dostępne bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Pokoje mogą wymagać modernizacji",
+  "Plaża oddalona o około 1 km",
+  "Hałaśliwa klimatyzacja",
+  "Dodatkowe opłaty za sejf i łóżka balijskie",
+  "Muzyka przy basenie bywa zbyt głośna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Piaszczysta plaża Playa del Inglés znajduje się około 1 do 1.2 km od hotelu, co stanowi około 18-20 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, Axel Beach Maspalomas jest hotelem przeznaczonym wyłącznie dla osób dorosłych (18+)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Gran Canaria (LPA), jest oddalone o około 30-32 km (około 20-25 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest przyjazny dla społeczności LGBTQ+?",
+   "a": "Tak, hotel jest przyjazny społeczności LGBTQ+."
+  }
+ ],
+ "address": "Avenida de Tirajana, 32 (wejście od Calle Timple), 35100 Playa del Inglés",
+ "adultsOnly": true,
+ "airportKm": 30,
+ "airportName": "Port lotniczy Gran Canaria (LPA)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Jacuzzi",
+  "Sauna",
+  "Łaźnia turecka",
+  "Solarium",
+  "Zajęcia fitness"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa del Inglés",
+ "bars": 3,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 0.35,
+ "goodFor": [
+  "Pary",
+  "Grupy przyjaciół",
+  "Osoby dorosłe (18+)",
+  "Społeczność LGBTQ+"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament jednoosobowy",
+  "Apartament z widokiem na ogród",
+  "Apartament z widokiem na basen",
+  "Apartament z widokiem na ulicę"
+ ],
+ "rooms": 92,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7611029,
+  "lon": -15.5786312,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.com",
+  "tui.com",
+  "trabber.ie",
+  "mapcarta.com",
+  "booking.com",
+  "grancanaria.com",
+  "oyster.com",
+  "expedia.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

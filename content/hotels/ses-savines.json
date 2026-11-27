@@ -1,0 +1,148 @@
+{
+ "id": "x:hiszpania:ses savines",
+ "slug": "ses-savines",
+ "name": "Ses Savines",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Ibiza",
+  "San Antonio"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/ibiza/san-antonio/ses-savines-pl/1430/scinahotelsessavines2-244.JPG",
+ "city": "San Antonio",
+ "intro": [
+  "Hotel Ses Savines to trzygwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w Zatoce San Antonio na Ibizie. Zbudowany w 1936 roku i odnowiony w 1999 roku, oferuje 154 lub 155 pokoi w pięciopiętrowym budynku, otoczonym ogrodem o powierzchni 500 mkw.",
+  "Hotel jest dogodnie usytuowany, zaledwie 10 minut spacerem od centrum San Antonio, co czyni go atrakcyjnym wyborem dla rodzin, par i grup przyjaciół poszukujących zarówno relaksu przy morzu, jak i dostępu do lokalnych atrakcji, sklepów i życia nocnego."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ses Savines znajduje się w Zatoce San Antonio, bezpośrednio przy piaszczystej plaży s'Arenal de San Antonio. Obiekt oferuje bezpośredni dostęp do morza, a do centrum San Antonio z licznymi sklepami i restauracjami można dojść w około 10 minut. W odległości około 200 metrów znajduje się również prywatna plaża."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 154 lub 155 pokojami dwuosobowymi, w tym opcjami z widokiem na morze lub na ląd. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, balkon lub taras, telewizor z płaskim ekranem, telefon oraz lodówkę. Sejf w pokoju jest dostępny za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, serwująca śniadania i kolacje z daniami lokalnymi i międzynarodowymi oraz pokazami gotowania. Goście mogą również skorzystać z restauracji à la carte z widokiem na ocean, oferującej dania kuchni międzynarodowej. Na terenie obiektu działają także bar przy basenie oraz bar/lounge. Hotel oferuje wyżywienie w opcji Bed and Breakfast oraz Half Board."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Ses Savines posiada odkryty basen oraz brodzik dla dzieci. Dostępny jest również kryty basen, a także podgrzewany kryty basen w siostrzanym hotelu Arenal, oddalonym o około 5 minut spacerem. Na terenie obiektu znajduje się plac zabaw dla dzieci. Hotel oferuje również sezonowy program animacyjny dla dorosłych, w tym wieczorne rozrywki, pokazy i muzykę na żywo."
+  },
+  {
+   "title": "Sport i Wellness",
+   "text": "Dla aktywnych hotel oferuje bezpłatne centrum fitness/siłownię oraz korty tenisowe, tenis stołowy, squash, bilard, minigolf. Możliwe są również nurkowanie i żeglarstwo. Strefa wellness obejmuje saunę i solarium, a goście mogą również korzystać z sauny w siostrzanym hotelu Arenal."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja tuż przy plaży i promenadzie",
+  "Bliskość centrum San Antonio z atrakcjami",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie w restauracji bufetowej",
+  "Szeroki zakres udogodnień sportowych i rekreacyjnych"
+ ],
+ "cons": [
+  "Dodatkowe opłaty za sejf w pokoju",
+  "Wi-Fi w pokojach może być płatne",
+  "Niektóre udogodnienia mogą być sezonowe",
+  "Ostatni remont w 1999 roku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest usytuowany tuż przy piaszczystej plaży s'Arenal de San Antonio, z bezpośrednim dostępem do niej. Niektóre źródła podają odległość około 50 metrów lub 6 metrów. Prywatna plaża znajduje się około 200 metrów od hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Ibiza (IBZ), oddalony o około 18 km lub 21-22 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada brodzik dla dzieci, plac zabaw oraz jest blisko piaszczystej plaży."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w miejscach publicznych. Wi-Fi w pokojach może być płatne."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada aquaparku ani zjeżdżalni. Oferuje odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest polecany dla rodzin, par i grup przyjaciół."
+  }
+ ],
+ "address": "Avinguda Del Doctor Fleming, 22, San Antonio (Ibiza), Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Port lotniczy Ibiza (IBZ)",
+ "amenities": [
+  "Odkryty basen",
+  "Kryty basen",
+  "Brodzik dla dzieci",
+  "Plac zabaw dla dzieci",
+  "Restauracja bufetowa",
+  "Restauracja à la carte",
+  "Bar przy basenie",
+  "Bar/lounge",
+  "Sauna",
+  "Solarium",
+  "Siłownia",
+  "Korty tenisowe",
+  "Tenis stołowy",
+  "Squash",
+  "Bilard",
+  "Minigolf",
+  "Nurkowanie",
+  "Żeglarstwo"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Zatoka San Antonio",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1936,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 1999,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (Guest Room) z klimatyzacją, łazienką, balkonem/tarasem, TV, telefonem, lodówką",
+  "Pokój dwuosobowy (Twin Room) z klimatyzacją, łazienką, balkonem/tarasem, TV, telefonem, lodówką",
+  "Pokój dwuosobowy z widokiem na morze z klimatyzacją, łazienką, balkonem/tarasem, TV, telefonem, lodówką",
+  "Pokój dwuosobowy z widokiem na ląd z klimatyzacją, łazienką, balkonem/tarasem, TV, telefonem, lodówką"
+ ],
+ "rooms": 154,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.9729147,
+  "lon": 1.3076574,
+  "src": "osm"
+ },
+ "sources": [
+  "thesanantoniohotels.com",
+  "theibizahotels.com",
+  "reserving.com",
+  "booking.com",
+  "ibiza-spotlight.com",
+  "loveholidays.ie",
+  "onthebeach.co.uk",
+  "firstchoice.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

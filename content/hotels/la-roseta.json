@@ -1,0 +1,127 @@
+{
+ "id": "x:hiszpania:la roseta",
+ "slug": "la-roseta",
+ "name": "La Roseta",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "La Gomera"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/la-gomera/valle-gran-rey/la-roseta/2935fc6b9290e8799f537.jpg",
+ "city": "Valle Gran Rey",
+ "intro": [
+  "Hotel La Roseta to kameralny kompleks apartamentowy położony w malowniczej miejscowości Valle Gran Rey na wyspie La Gomera, w dzielnicy Borbalan. Obiekt, otoczony plantacjami bananów, oferuje spokojną atmosferę, idealną dla osób poszukujących relaksu z dala od zgiełku.",
+  "Zlokalizowany w tropikalnym ogrodzie, hotel jest doskonałym wyborem dla par i osób podróżujących samotnie, ceniących sobie niezależność i możliwość samodzielnego przygotowywania posiłków. Bliskość naturalnych plaż i centrum miejscowości sprawia, że jest to dobra baza wypadowa do odkrywania uroków wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel La Roseta znajduje się w dzielnicy Borbalan w Valle Gran Rey, około 400 metrów od naturalnej plaży z czarnym piaskiem lub żwirem. Do centrum miejscowości jest około 500 metrów, a w pobliżu obiektu znajduje się typowa restauracja El Palmar. Hotel jest położony wśród plantacji bananów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Kompleks składa się z dwóch części: Finca La Roseta (12 apartamentów o powierzchni 40-46 m²) oraz Apartamentos Borbolán (7 apartamentów o powierzchni około 35 m²). Każdy apartament posiada salon z rozkładaną sofą, oddzielną sypialnię z dwoma pojedynczymi łóżkami oraz dobrze wyposażony aneks kuchenny. Do dyspozycji gości jest telewizor satelitarny, marmurowa łazienka oraz umeblowany balkon, niektóre z bocznym widokiem na morze. W wybranych apartamentach dostępna jest również pralka."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden basen zewnętrzny, przy którym dostępne są bezpłatne leżaki i parasole. Brak informacji o podgrzewanych basenach, zjeżdżalniach czy aquaparku. Hotel nie oferuje animacji ani udogodnień takich jak spa czy siłownia."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne WiFi dostępne we wszystkich apartamentach. Goście mogą korzystać z pięknego tropikalnego ogrodu owocowego. Obiekt nie jest przystosowany dla osób z trudnościami w poruszaniu się."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja wśród plantacji bananów",
+  "Przestronne i dobrze wyposażone apartamenty",
+  "Przyjazny i pomocny personel",
+  "Zadbany tropikalny ogród",
+  "Bezpłatne WiFi w apartamentach"
+ ],
+ "cons": [
+  "Brak udogodnień dla osób z trudnościami w poruszaniu się",
+  "Brak udogodnień dla dzieci (mini klub, animacje)",
+  "Brak wyżywienia (self-catering)",
+  "Plaża kamienista/żwirowa, niehotelowa",
+  "Brak informacji o spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel La Roseta znajduje się około 400 metrów od naturalnej plaży z czarnym piaskiem lub żwirem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko, La Gomera (GMZ), oddalone jest od hotelu o około 14 km."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie?",
+   "a": "Hotel La Roseta oferuje zakwaterowanie bez wyżywienia (self-catering), co oznacza, że goście samodzielnie przygotowują posiłki w aneksach kuchennych."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel La Roseta nie posiada aquaparku ani zjeżdżalni. Do dyspozycji gości jest jeden basen zewnętrzny."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Apartamenty posiadają rozkładane sofy, co umożliwia zakwaterowanie trzeciej osoby, jednak hotel nie oferuje dedykowanych udogodnień dla dzieci, takich jak mini klub czy animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w hotelu La Roseta dostępne jest bezpłatne WiFi we wszystkich apartamentach."
+  }
+ ],
+ "address": "Calle de la Roseta, s/n, 38813 Valle Gran Rey, La Gomera, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 14,
+ "airportName": "La Gomera (GMZ)",
+ "amenities": [
+  "Bezpłatne WiFi",
+  "Tropikalny ogród",
+  "Aneks kuchenny w pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Borbalan",
+ "bars": null,
+ "beachDistanceM": 400,
+ "beachType": "Naturalna, z czarnym piaskiem lub kamienista/żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Osoby szukające spokoju i ciszy",
+  "Osoby podróżujące samotnie",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Apartamenty La Roseta (ok. 40-46 m², salon z rozkładaną sofą, oddzielna sypialnia z 2 pojedynczymi łóżkami, aneks kuchenny, TV sat, łazienka, balkon)",
+  "Apartamenty Borbolán (ok. 35 m², salon z rozkładaną sofą, oddzielna sypialnia z 2 pojedynczymi łóżkami, aneks kuchenny, TV sat, łazienka, balkon)"
+ ],
+ "rooms": 19,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0902133,
+  "lon": -17.3353489,
+  "src": "osm"
+ },
+ "sources": [
+  "centraldevacaciones.com",
+  "suntip.nl",
+  "tui.com",
+  "holidaycheck.de",
+  "gomeralive.de",
+  "agoda.com",
+  "tjingo.nl",
+  "wakacjeamigos.pl"
+ ],
+ "updated": "2026-11-27"
+}

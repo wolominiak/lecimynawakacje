@@ -1,0 +1,131 @@
+{
+ "id": "x:hiszpania:haciendas village tenerife",
+ "slug": "haciendas-village-tenerife",
+ "name": "Haciendas Village Tenerife",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/haciendas-village-tenerife/2074/8eeed8d10224f6503cdd8-244.jpg",
+ "city": "Costa Adeje",
+ "intro": [
+  "Haciendas Village Tenerife to trzygwiazdkowy kompleks położony w spokojnej dzielnicy San Eugenio Alto w Costa Adeje na Teneryfie. Obiekt oferuje komfortowe apartamenty, bungalowy i wille z własnym wyżywieniem, co czyni go idealnym wyborem dla rodzin i par poszukujących niezależnego wypoczynku. Dzięki przestronnym zakwaterowaniom i dogodnej lokalizacji, goście mogą cieszyć się relaksem oraz łatwym dostępem do atrakcji wyspy.",
+  "Hotel charakteryzuje się przyjemną atmosferą i jest ceniony za czystość oraz pomocny personel. Położenie na wzgórzu zapewnia widoki na morze i spokojne otoczenie, choć może być wyzwaniem dla osób z ograniczoną mobilnością. Bliskość aquaparku i plaż sprawia, że jest to dobra baza wypadowa do aktywnego spędzania czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Kompleks Haciendas Village Tenerife znajduje się w San Eugenio Alto w Costa Adeje. Do najbliższej piaszczystej plaży jest około 1,1 km, a dojście zajmuje około 30 minut pieszo. W okolicy dostępne są piaszczyste plaże, na których leżaki i parasole są płatne. Obiekt jest oddalony o około 1,8 km od centrum Costa Adeje."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 63 lub 80 pokoi w postaci apartamentów z jedną i dwiema sypialniami, bungalowów oraz willi. Wszystkie jednostki są wyposażone w kuchnię lub aneks kuchenny, łazienkę z prysznicem, telewizor z płaskim ekranem oraz balkon lub taras. Dostępne są również bungalowy Superior z dużym tarasem typu chill-out i jacuzzi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się trzy odkryte baseny ze słodką wodą, w tym jeden podgrzewany i dostępny przez cały rok. Wille 401 i 407 dysponują prywatnymi, podgrzewanymi basenami. Hotel jest położony bardzo blisko Aqualand Costa Adeje, a na jego terenie znajduje się aquapark. Dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Haciendas Village Tenerife oferuje zakwaterowanie z własnym wyżywieniem. Na terenie obiektu znajduje się snack bar i bar przy basenie. W bliskiej odległości od hotelu goście znajdą liczne restauracje i bary, co pozwala na swobodne odkrywanie lokalnej kuchni."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest polecany dla rodzin i par, które szukają komfortowego zakwaterowania z możliwością samodzielnego przygotowywania posiłków. Przestronne apartamenty i bungalowy, a także bliskość atrakcji, takich jak Aqualand, sprawiają, że jest to dobra opcja dla osób ceniących niezależność i aktywny wypoczynek. Spokojna okolica sprzyja relaksowi."
+  }
+ ],
+ "pros": [
+  "Przestronne apartamenty i bungalowy",
+  "Duże balkony/tarasy",
+  "Czystość i pomocny personel",
+  "Dobra lokalizacja, blisko Aqualand",
+  "Dobra jakość do ceny"
+ ],
+ "cons": [
+  "Brak klimatyzacji w niektórych pokojach",
+  "Wzgórzyste położenie, utrudnienia dla osób z ograniczoną mobilnością",
+  "Płatne leżaki i parasole na plaży",
+  "Brak zorganizowanych animacji",
+  "Sporadyczny hałas poranny związany z pracami porządkowymi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Do najbliższej plaży jest około 1,1 km, a do piaszczystej plaży około 1,5 km lub 2 km. Dojście pieszo zajmuje około 30 minut."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife South (TFS), oddalone o około 15,5 km do 20 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Tak, hotel oferuje aquapark, a także znajduje się bardzo blisko Aqualand Costa Adeje (około 2 minuty spacerem)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i parom, oferuje przestronne zakwaterowanie oraz baseny, w tym jeden podgrzewany."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje zakwaterowanie z własnym wyżywieniem (self-catering). Na terenie obiektu znajduje się snack bar i bar przy basenie."
+  }
+ ],
+ "address": "Avenida Europa 31, 38660, Adeje, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 15.5,
+ "airportName": "Tenerife South (TFS)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "pralnia",
+  "kuchnia w pokojach",
+  "taras/balkon w pokojach",
+  "ręczniki basenowe"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "San Eugenio Alto",
+ "bars": 2,
+ "beachDistanceM": 1100,
+ "beachType": "piaszczysta",
+ "centerKm": 1.8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 0,
+ "roomTypes": [
+  "Apartamenty z jedną i dwiema sypialniami z kuchnią, łazienką, TV, balkonem/tarasem",
+  "Bungalowy z jedną i dwiema sypialniami z kuchnią, łazienką, TV, balkonem/tarasem",
+  "Bungalowy Superior z bardzo dużym tarasem typu chill-out, łóżkami balijskimi i jacuzzi",
+  "Wille (np. Luxury Villa z prywatnym basenem)"
+ ],
+ "rooms": 63,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "lastminute.com",
+  "trivago.co.uk",
+  "toptenerifehotels.com",
+  "jet2holidays.com",
+  "planetofhotels.com",
+  "onthebeach.co.uk",
+  "vakantiediscounter.nl",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:vibra del mar apartments",
+ "slug": "vibra-del-mar-apartments",
+ "name": "Vibra Del Mar Apartments",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Ibiza",
+  "San Antonio"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/ibiza/san-antonio/vibra-del-mar-apartments/7170/73f000001dc61d8a9aab6890e7bae1cf_mar_fach-244.jpg",
+ "city": "San Antonio",
+ "intro": [
+  "Vibra Del Mar Apartments to dwugwiazdkowy obiekt położony w samym sercu San Antonio na Ibizie, zaledwie kilka kroków od promenady i tętniącej życiem dzielnicy West End. Hotel, przeznaczony wyłącznie dla dorosłych, oferuje komfortowe apartamenty z aneksami kuchennymi, co czyni go idealnym wyborem dla osób ceniących niezależność i bliskość atrakcji kurortu.",
+  "Obiekt jest szczególnie polecany dla dorosłych, którzy pragną aktywnie spędzić czas, korzystając z uroków życia nocnego oraz licznych restauracji i barów w centrum San Antonio. Centralne położenie umożliwia łatwy dostęp do plaży, portu oraz komunikacji miejskiej, zapewniając wygodną bazę wypadową do zwiedzania wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Vibra Del Mar Apartments znajduje się w centrum San Antonio, zaledwie 50-100 metrów od serca kurortu i 50 metrów od promenady Paseo Marítimo. W bezpośrednim sąsiedztwie obiektu mieści się dzielnica West End oraz port Port de Sant Antoni. Piaszczysta plaża San Antonio oddalona jest o około 450 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje od 54 do 61 apartamentów i studiów, rozmieszczonych w jednym pięciopiętrowym budynku. Pokoje są klimatyzowane i wyposażone w łazienkę, telewizor z kanałami satelitarnymi, sejf oraz bezpłatne Wi-Fi. Każdy apartament posiada aneks kuchenny z lodówką, mikrofalówką, czajnikiem elektrycznym, płytą grzewczą i naczyniami. Dostępne są studia z widokiem na morze, z balkonem oraz bez balkonu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na pierwszym piętrze hotelu znajduje się odkryty basen z tarasem słonecznym, z którego roztacza się widok na port. Hotel jest przeznaczony wyłącznie dla dorosłych, co gwarantuje spokojny wypoczynek. Na miejscu dostępny jest bilard, a w recepcji można wypożyczyć skutery lub samochody. Na pobliskiej plaży dostępne są różnorodne sporty wodne."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Vibra Del Mar Apartments nie oferuje opcji all inclusive, a goście mogą wybrać zakwaterowanie bez wyżywienia (self-catering). Na terenie obiektu znajduje się snack bar. Dzięki aneksom kuchennym w apartamentach goście mogą samodzielnie przygotowywać posiłki. W bliskiej odległości od hotelu, w dzielnicy West End, znajduje się wiele restauracji i barów."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, bliskość życia nocnego",
+  "Czystość obiektu i przyjazny personel",
+  "Wygodne łóżka",
+  "Basen z widokiem na port",
+  "Dobre Wi-Fi"
+ ],
+ "cons": [
+  "Cienkie ściany i słaba izolacja akustyczna",
+  "Brak opcji all inclusive",
+  "Brak animacji i udogodnień dla dzieci",
+  "Częściowy remont w 2003 roku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Piaszczysta plaża San Antonio znajduje się około 450 metrów od hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Lotnisko Ibiza (IBZ), oddalone jest od hotelu o około 18-22 km."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Tak, Vibra Del Mar Apartments to hotel wyłącznie dla dorosłych (Adults Only)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępna jest opcja bez wyżywienia (self-catering)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen."
+  }
+ ],
+ "address": "Carrer de la Mar, 1, 07820 San Antonio, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 20,
+ "airportName": "Lotnisko Ibiza (IBZ)",
+ "amenities": [
+  "Basen odkryty",
+  "Snack bar",
+  "Bilard",
+  "Wypożyczalnia skuterów/samochodów w recepcji",
+  "Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum San Antonio",
+ "bars": 1,
+ "beachDistanceM": 450,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Dorośli",
+  "Aktywny wypoczynek",
+  "Życie nocne"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2003,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio z klimatyzacją, łazienką, TV sat, aneksem kuchennym (lodówka, mikrofalówka, czajnik, płyta grzewcza, naczynia), sejfem, Wi-Fi",
+  "Studio z widokiem na morze",
+  "Studio z balkonem",
+  "Studio bez balkonu (Promo studio)",
+  "Studio jednoosobowe"
+ ],
+ "rooms": 57,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "trivago.co.uk",
+  "travelyalla.com",
+  "agoda.com",
+  "vibrahotels.com",
+  "google.com",
+  "onthebeach.ie",
+  "expedia.com",
+  "sonnenklar.tv"
+ ],
+ "updated": "2026-11-27"
+}

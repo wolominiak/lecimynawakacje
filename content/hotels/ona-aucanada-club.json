@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:ona aucanada club",
+ "slug": "ona-aucanada-club",
+ "name": "Ona Aucanada Club",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Alcudia"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/alcudia/ona-aucanada-club-pl/2155/e2fbf17c67e0fe15f5dc024559f31cc9_aucanada3-244.jpg",
+ "city": "Alcudia",
+ "intro": [
+  "Ona Aucanada Club to trzygwiazdkowy aparthotel położony w spokojnej, mieszkalnej dzielnicy Alcanada w Alcudii na Majorce. Obiekt składa się z budynku głównego i dwupiętrowych budynków bocznych, oferując przestronne apartamenty i wille. Jest to idealne miejsce dla rodzin, par oraz wszystkich, którzy szukają relaksu w cichej okolicy, blisko natury.",
+  "Hotel stanowi dobrą bazę wypadową do zwiedzania północnej części Majorki, a także oferuje udogodnienia takie jak baseny, siłownia i centrum spa. Bliskość publicznych, piaszczystych plaż oraz pola golfowego Club de Golf Alcanada sprawia, że jest to atrakcyjna opcja dla różnych typów podróżnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Ona Aucanada Club znajduje się w Alcanada, spokojnej dzielnicy Alcudii, około 2 km od centrum miejscowości. Najbliższa mała, piaszczysta plaża jest oddalona o około 300-600 metrów, a do większej Playa de Sant Joan można dojść w 8-10 minut. Wszystkie pobliskie plaże są publiczne, a leżaki i parasole są tam dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 72-74 klimatyzowane apartamenty z jedną lub dwiema sypialniami oraz wille z trzema sypialniami. Każdy pokój wyposażony jest w aneks kuchenny z pełnym wyposażeniem, łazienkę z suszarką do włosów, pokój dzienny z sofą, telewizor z płaskim ekranem, sejf (płatny) oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie obiektu znajduje się restauracja główna \"Mediterráneo\" serwująca dania kuchni międzynarodowej w formie bufetu i a la carte. Goście mogą wybierać spośród opcji Self Catering (bez wyżywienia), Bed & Breakfast (śniadanie w formie bufetu) oraz Half Board (śniadanie i kolacja w formie bufetu). Do dyspozycji są również bar, bar przy basenie oraz snack bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje trzema zewnętrznymi basenami ze słodką wodą, otwartymi sezonowo od czerwca do września, z wydzieloną częścią dla dzieci w głównym basenie. Goście mogą korzystać z siłowni oraz centrum spa z sauną, jacuzzi i masażami (za dopłatą). W okolicy dostępne jest pole golfowe oraz wypożyczalnia rowerów. Wieczorami organizowane są okazjonalne występy na żywo."
+  }
+ ],
+ "pros": [
+  "Przestronne apartamenty",
+  "Spokojna lokalizacja",
+  "Dobra baza wypadowa",
+  "Dostępność basenów i spa",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Droga powrotna z plaży pod górę",
+  "Częściowo przestarzałe umeblowanie/wyposażenie",
+  "Płatne Wi-Fi (według niektórych źródeł)",
+  "Sezonowe działanie niektórych udogodnień",
+  "Opłaty za sejf i leżaki na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 300-600 metrów od najbliższej piaszczystej plaży i około 8-10 minut spacerem od plaży Playa de Sant Joan."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Palma de Mallorca (PMI), oddalone o około 47.71 km, co zajmuje około 40-45 minut samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada wydzieloną część dla dzieci w głównym basenie."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Wi-Fi jest dostępne, jednak niektóre źródła wskazują, że może być płatne."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Brak informacji o opcji all inclusive. Dostępne są Self Catering, Bed & Breakfast oraz Half Board."
+  }
+ ],
+ "address": "Carrer D es Mirador, 5, 07410 Alcudia, Mallorca, Baleary, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 47.71,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Recepcja",
+  "Restauracja",
+  "Bar",
+  "Bar przy basenie",
+  "Snack bar",
+  "3 baseny zewnętrzne",
+  "Siłownia",
+  "Spa",
+  "Sauna",
+  "Jacuzzi",
+  "Masaże (płatne)",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów (w pobliżu)",
+  "Parking",
+  "Wifi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Alcanada",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające spokoju",
+  "Miłośnicy natury"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (klimatyzacja, łazienka, aneks kuchenny, pokój dzienny, TV-SAT, sejf płatny, telefon, balkon/taras)",
+  "Apartament z dwiema sypialniami (klimatyzacja, łazienka, aneks kuchenny, pokój dzienny, TV-SAT, sejf płatny, telefon, balkon/taras)",
+  "Willa z trzema sypialniami (klimatyzacja, łazienka, aneks kuchenny, pokój dzienny, TV-SAT, sejf płatny, telefon, balkon/taras)"
+ ],
+ "rooms": 74,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.83791723720457,
+  "lon": 3.151338047361742,
+  "src": "web"
+ },
+ "sources": [
+  "amimir.com",
+  "tui.pl",
+  "onavacationclub.com",
+  "holidaycheck.de",
+  "agoda.com",
+  "onahotels.com",
+  "exim.pl",
+  "travelplanet.pl"
+ ],
+ "updated": "2026-11-27"
+}

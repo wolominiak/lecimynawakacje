@@ -1,0 +1,143 @@
+{
+ "id": "x:hiszpania:occidental fuengirola",
+ "slug": "occidental-fuengirola",
+ "name": "Occidental Fuengirola",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Fuengirola"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/fuengirola/occidental-fuengirola-pl/5964/89175f02125f46abdb216cbb9e72c7df_4-244.jpg",
+ "city": "Fuengirola",
+ "intro": [
+  "Occidental Fuengirola to czterogwiazdkowy hotel położony w samym sercu Costa del Sol, bezpośrednio przy nadmorskiej promenadzie i piaszczystej plaży Fuengirola. Obiekt znajduje się w centrum miejscowości, w dzielnicy handlowej, co zapewnia łatwy dostęp do lokalnych atrakcji i udogodnień.",
+  "Hotel jest doskonałym wyborem zarówno dla rodzin, jak i par, które pragną połączyć relaks na plaży z aktywnym wypoczynkiem, korzystając z bogatej oferty gastronomicznej i rekreacyjnej. Położenie sprzyja również miłośnikom golfa, dzięki bliskości licznych pól golfowych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Occidental Fuengirola usytuowany jest bezpośrednio przy piaszczystej plaży Fuengirola, zaledwie 50 metrów od brzegu morza. Znajduje się w centrum miejscowości, przy nadmorskiej promenadzie, co zapewnia łatwy dostęp do sklepów i restauracji. Najbliższe lotnisko w Maladze (AGP) oddalone jest o około 20 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 316 pokoi w różnych kategoriach, w tym Superior, Junior Suite oraz Deluxe. Większość pokoi wyposażona jest w balkon, często z widokiem na morze, klimatyzację, telewizor, minibar oraz bezpłatne Wi-Fi. Pokoje są regularnie odnawiane, a ostatni kompletny remont miał miejsce w 2019 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mają do dyspozycji pięć punktów gastronomicznych: Restaurację Buffet, restaurację Arrozante (specjalizującą się w kuchni hiszpańskiej), Lobby Bar, bar Breeze oraz Pool Bar. Hotel oferuje opcje wyżywienia takie jak śniadania w formie bufetu oraz półwyżywienie, które obejmuje śniadanie i kolację."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Occidental Fuengirola dysponuje dwoma odkrytymi basenami, z których jeden jest podgrzewany. Na terenie hotelu znajduje się również bezpłatne studio fitness oraz spa z centrum urody. W okolicy dostępne są 24 pola golfowe, a hotel oferuje także ping-pong, bilard i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak basen dla najmłodszych oraz usługi opieki nad dziećmi. W hotelu odbywają się również występy na żywo, które mogą być atrakcją dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i w centrum",
+  "Wysoka jakość i różnorodność śniadań",
+  "Czyste pokoje i udogodnienia",
+  "Przyjazny i pomocny personel",
+  "Dostęp do spa i siłowni"
+ ],
+ "cons": [
+  "Brak zjeżdżalni w hotelu",
+  "Płatny parking",
+  "Ograniczona pojemność i prędkość wind",
+  "Sporadyczne uwagi dotyczące personelu przy basenie",
+  "Problem z rezerwowaniem leżaków ręcznikami"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Occidental Fuengirola jest położony bezpośrednio przy plaży, około 50 metrów od piaszczystej plaży Fuengirola."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 19.9 km od lotniska Malaga (AGP), co oznacza około 25 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. W pobliżu znajdują się parki wodne Aquamijas i Costa Water Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje udogodnienia takie jak basen dla dzieci oraz usługi opieki nad dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Hotel oferuje śniadania w formie bufetu oraz półwyżywienie (śniadanie i kolacja). Brak szczegółowych informacji o pełnym pakiecie all inclusive."
+  }
+ ],
+ "address": "Calle Miguel Márquez, 43, 29640 Fuengirola, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 19.9,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Basen dla dzieci",
+  "Usługi opieki nad dziećmi",
+  "Występy na żywo"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum Fuengiroli",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy golfa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1973,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 2,
+ "roomTypes": [
+  "Superior",
+  "Superior Single Use",
+  "Superior Side Sea View",
+  "Superior Side Sea View Single Use",
+  "Junior Suite Frontal Sea View",
+  "Deluxe Side Sea View Room",
+  "Seafront Family Junior Suite",
+  "pokoje łączone",
+  "Junior Suite z tarasem i widokiem na morze (rodzinne)",
+  "Deluxe Double Room z tarasem i częściowym widokiem na morze"
+ ],
+ "rooms": 316,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5318849,
+  "lon": -4.6255662,
+  "src": "osm"
+ },
+ "sources": [
+  "barcelo.com",
+  "what-son.com",
+  "malaga-directory.com",
+  "mapcarta.com",
+  "fuengirolahotels.net",
+  "hotelfuengirola.net",
+  "britishairways.com",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

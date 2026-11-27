@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:camposol",
+ "slug": "camposol",
+ "name": "Camposol",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/camposol/43_fachadacamposolnew.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Camposol to dwugwiazdkowy obiekt położony w sercu Benidorm, w dzielnicy Stare Miasto, co czyni go idealną bazą wypadową do zwiedzania miasta i korzystania z uroków Costa Blanca. Hotel oferuje komfortowe zakwaterowanie w przystępnej cenie, zaledwie kilka minut spacerem od piaszczystych plaż Poniente i Llevant.",
+  "Obiekt jest polecany dla osób szukających dobrej lokalizacji, ceniących sobie czystość i przyjazną obsługę. Ze względu na swoje położenie i podstawowe udogodnienia, hotel sprawdzi się dla par, singli oraz rodzin z dziećmi, które preferują aktywny wypoczynek i eksplorację okolicy, a hotel traktują jako wygodne miejsce do noclegu i posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Camposol znajduje się w centralnej części Benidorm, w dzielnicy Stare Miasto, przy ulicy Carrer Apolo XI 17. Od piaszczystej plaży Poniente dzieli go około 200-700 metrów, a do plaży Llevant można dojść w około 10 minut. Obiekt jest oddalony o 0.3-1 km od ścisłego centrum miejscowości."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 123 lub 130 pokoi, w tym pokoje dwuosobowe/twin oraz jednoosobowe. Wszystkie pokoje wyposażone są w klimatyzację (lub centralne ogrzewanie sezonowo), prywatną łazienkę, telewizor, telefon, sejf (do wynajęcia), biurko i szafę. Niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Camposol dostępna jest restauracja bufetowa, kawiarnia oraz bar i bar przy basenie. Goście mogą wybrać opcję ze śniadaniami i obiadokolacjami (half board) lub pełnym wyżywieniem (full board). Śniadanie bufetowe jest dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen ze słodką wodą dla dorosłych z płytkim końcem. W obiekcie dostępny jest również pokój gier/salon gier. W okolicy hotelu można uprawiać kolarstwo/kolarstwo górskie oraz grać w golfa."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach. Obiekt został otwarty w 1972 roku, a ostatnie remonty miały miejsce w latach 2000, 2002 lub 2003. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w Starym Mieście, blisko plaży i atrakcji.",
+  "Czystość i przyjazny personel.",
+  "Dobry stosunek jakości do ceny.",
+  "Dobre jedzenie w formie bufetu.",
+  "Bezpłatne Wi-Fi w całym hotelu."
+ ],
+ "cons": [
+  "Basen często znajduje się w cieniu, brak leżaków przy basenie.",
+  "Jedzenie bywa powtarzalne, zimne lub o ograniczonej różnorodności.",
+  "Pokoje i łazienki mogą być przestarzałe i wymagać remontu.",
+  "Hałas z sąsiednich pokoi lub od sprzątaczek.",
+  "Długie oczekiwanie na windy."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 200-700 metrów od piaszczystej plaży Poniente i do 10 minut spacerem od plaży Llevant."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 56.8 km do 65 km od lotniska Alicante (ALC-Alicante Intl.), co oznacza około 38-45 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu nie ma aquaparku ani zjeżdżalni. Parki wodne Aqualandia i Terra Mitica są oddalone o około 13 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel nie jest przeznaczony wyłącznie dla dorosłych. Posiada pokój gier/salon gier, ale nie oferuje mini klubu ani rozbudowanych animacji dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "Nie, hotel nie posiada siłowni ani spa."
+  }
+ ],
+ "address": "Carrer Apolo XI 17, 03501 Benidorm, Alicante, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 56.8,
+ "airportName": "Lotnisko Alicante (ALC-Alicante Intl.)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Pokój gier",
+  "Bilard",
+  "Kawiarnia"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Benidorm Centro / Stare Miasto",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Goście ceniący dobrą lokalizację",
+  "Czystość",
+  "Stosunek jakości do ceny",
+  "Baza wypadowa"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1972,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2003,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy/twin (z balkonem/tarasem lub widokiem na dziedziniec, klimatyzacja, prywatna łazienka, TV, telefon, sejf, biurko, szafa)",
+  "Pokój jednoosobowy (z tarasem lub widokiem na dziedziniec, klimatyzacja, prywatna łazienka, TV, telefon, sejf, biurko, szafa)"
+ ],
+ "rooms": 123,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5392363,
+  "lon": -0.1334017,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotelston.com",
+  "mapcarta.com",
+  "reserving.com",
+  "expedia.co.uk",
+  "costablanca-hotels.com",
+  "hotelcamposol.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

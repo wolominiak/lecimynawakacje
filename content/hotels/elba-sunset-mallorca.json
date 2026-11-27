@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:elba sunset mallorca",
+ "slug": "elba-sunset-mallorca",
+ "name": "Elba Sunset Mallorca",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Magalluf"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/magalluf/elba-sunset-mallorca-pl/93e146f4117c908549747.JPG",
+ "city": "Magaluf",
+ "intro": [
+  "Hotel Elba Sunset Mallorca to czterogwiazdkowy obiekt położony w miejscowości Torrenova, na malowniczym cyplu między kurortami Magaluf i Palmanova na Majorce. Jest to idealne miejsce dla dorosłych szukających spokojnego wypoczynku w nowoczesnym otoczeniu.",
+  "Odnowiony w 2019 roku hotel oferuje wysoki standard usług, elegancki design i piękne widoki na morze, szczególnie z basenu typu infinity na dachu. To doskonały wybór dla par, przyjaciół oraz osób aktywnych, ceniących komfort i dobrą kuchnię."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Elba Sunset Mallorca znajduje się w Torrenova, na cyplu oddzielającym Magaluf od Palmanovy. Do piaszczystej, publicznej plaży jest około 320-650 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Centrum Torrenova zlokalizowane jest 300 metrów od hotelu, a do centrum Palmanovy jest około 900 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 252 nowocześnie urządzonymi pokojami, rozmieszczonymi na ośmiu piętrach. Standardowe wyposażenie obejmuje klimatyzację, telewizor LED, sejf (płatny), zestaw do parzenia kawy i herbaty, ekspres Nespresso, minibar (płatny) oraz bezpłatne Wi-Fi. Dostępne są różne kategorie pokoi, w tym Double Standard Rodas, Double Comfort Lemnos z tarasem, Double Deluxe Artemisa z widokiem na morze oraz pokoje rodzinne Family Apollo."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, w tym podgrzewany basen typu infinity na dachu, przeznaczony wyłącznie dla dorosłych, z panoramicznym widokiem na morze. Przy basenach dostępne są bezpłatne leżaki i parasole. Hotel nie oferuje animacji, ale wieczorami w barze organizowana jest rozrywka, taka jak muzyka na żywo. Goście mogą korzystać z siłowni oraz zajęć sportowych, takich jak aerobik, pilates, joga i zumba."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje dwie restauracje: główną restaurację bufetową \"The Galley\" z pokazami gotowania oraz restaurację à la carte \"The Bow\", otwartą na lunch i kolację. Do dyspozycji gości są również dwa bary: lobby bar \"The Promenade\" i bar przy basenie. Dostępne opcje wyżywienia to śniadania (BB) lub śniadania i obiadokolacje (HB), przy czym napoje do obiadokolacji są dodatkowo płatne. Przy pobycie HB na minimum 7 nocy przysługuje jedna kolacja w restauracji à la carte."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "W hotelu znajduje się płatne centrum Elba Thalasso Spa, dostępne dla osób powyżej 16 roku życia. Oferuje ono saunę, łaźnię turecką, hammam, masaże, talasoterapię, jacuzzi i salon piękności. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi. Hotel jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Piękne widoki, zwłaszcza z basenu na dachu",
+  "Spokojna lokalizacja",
+  "Nowoczesny design i wysoki standard",
+  "Dobra kuchnia, szczególnie śniadania",
+  "Czystość w całym obiekcie"
+ ],
+ "cons": [
+  "Brak animacji",
+  "Brak klimatyzowanej windy",
+  "Płatne spa",
+  "Nie jest położony bezpośrednio przy plaży",
+  "Sporadyczne problemy ze szczelnością pryszniców"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od piaszczystej, publicznej plaży o około 320-650 metrów."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Tak, hotel jest przeznaczony wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko Palma de Mallorca (PMI) jest oddalone o około 25-30 km."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Hotel oferuje wyżywienie w opcji ze śniadaniami (BB) lub ze śniadaniami i obiadokolacjami (HB). Nie ma opcji all inclusive."
+  }
+ ],
+ "address": "Carrer Torrenova, 25 - 27, 07181 Palmanova, Illes Balears, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 25,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "Wifi",
+  "Zestaw do parzenia kawy i herbaty w pokoju",
+  "Ekspres Nespresso w pokoju",
+  "Szlafroki i kapcie w pokoju"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Torrenova",
+ "bars": 2,
+ "beachDistanceM": 320,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Dorośli szukający spokojnego wypoczynku",
+  "Pary",
+  "Przyjaciele",
+  "Osoby aktywne"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2019,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 2,
+ "roomTypes": [
+  "Double Standard Rodas (20-23 m², widok na ulicę)",
+  "Double Comfort Lemnos (20-23 m², z tarasem, widok na ulicę lub boczny widok na morze)",
+  "Double Deluxe Artemisa (25-28 m², z widokiem na morze)",
+  "Family Apollo (z widokiem na morze)"
+ ],
+ "rooms": 252,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.509916,
+  "lon": 2.5447983,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.pl",
+  "iziwakacje.pl",
+  "jet2holidays.com",
+  "google.com",
+  "booking.com",
+  "hotelplan.ch",
+  "ohotel.com.pl",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

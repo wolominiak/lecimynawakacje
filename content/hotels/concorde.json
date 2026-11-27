@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:concorde",
+ "slug": "concorde",
+ "name": "Concorde",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Las Palmas"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/las-palmas/concorde-pl/1645/a791fe2e29aa4810180cb61d841927cc_12-244.jpg",
+ "city": "Las Palmas de Gran Canaria",
+ "intro": [
+  "Hotel Concorde to czterogwiazdkowy obiekt położony w Las Palmas de Gran Canaria, w dzielnicy Santa Catalina-Canteras. Jego centralna lokalizacja sprawia, że jest to idealne miejsce dla osób ceniących sobie bliskość miejskich atrakcji oraz piaszczystej plaży Las Canteras, oddalonej o zaledwie 50-55 metrów.",
+  "Obiekt, otwarty w 1969 roku i częściowo odnowiony w 2022 roku, oferuje komfortowe zakwaterowanie w 258 pokojach. Hotel jest polecany zarówno dla podróżujących służbowo, jak i dla par czy rodzin z dziećmi, poszukujących dogodnej bazy wypadowej do zwiedzania miasta i korzystania z uroków plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Concorde znajduje się w centrum Las Palmas de Gran Canaria, w dzielnicy Santa Catalina-Canteras, zaledwie 50-55 metrów od piaszczystej plaży Las Canteras. Do Parku Santa Catalina można dojść w 3-4 minuty. Centrum miasta oddalone jest o około 10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 258 pokojami, w tym Junior Suity, rozmieszczonymi na 8 piętrach. Pokoje były remontowane w 2022 roku i są wyposażone w klimatyzację, prywatną łazienkę, telewizor Smart TV, minibar, bezpłatny sejf oraz biurko. Niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja „Mirador” na 6. piętrze, serwująca śniadania i kolacje w formie bufetu z widokiem na morze, oferująca kuchnię hiszpańską i międzynarodową. Goście mogą również skorzystać z baru „La Columna” z tarasem, dostępnego z lobby i ulicy. Hotel oferuje wyżywienie ze śniadaniami, obiadokolacjami lub pełne wyżywienie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się jeden odkryty basen z panoramicznym widokiem na okolicę. Hotel oferuje ręczniki plażowe oraz leżaki i parasole przy basenie. Na plaży Las Canteras leżaki i parasole są dostępne do wynajęcia. W obiekcie dostępna jest również siłownia oraz solarium."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Concorde jest polecany dla osób ceniących sobie centralną lokalizację i bliskość plaży. To dobry wybór dla podróżujących służbowo, par oraz rodzin z dziećmi, dla których dostępne są łóżeczka na życzenie. Obiekt jest dogodną bazą do zwiedzania miasta i korzystania z uroków Gran Canarii."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży Las Canteras i centrum miasta.",
+  "Przyjazny i pomocny personel.",
+  "Czystość pokoi i części wspólnych.",
+  "Dobre śniadania z widokiem na morze.",
+  "Basen na dachu z panoramicznym widokiem."
+ ],
+ "cons": [
+  "Niektóre pokoje i meble mogą być przestarzałe.",
+  "Możliwy hałas uliczny w pokojach.",
+  "Ograniczona różnorodność i jakość kolacji w formie bufetu.",
+  "Brak balkonów lub widoków na morze w niektórych pokojach."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Concorde znajduje się około 50-55 metrów od piaszczystej plaży Las Canteras."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Gran Canaria (LPA), oddalone jest o około 25-30 km, co zajmuje około 20-30 minut jazdy samochodem lub autobusem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen na dachu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje łóżeczka na życzenie, choć nie ma wydzielonej strefy dla dzieci, mini klubu ani animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Jakie opcje wyżywienia oferuje hotel?",
+   "a": "Hotel oferuje śniadania, obiadokolacje (half board) i pełne wyżywienie (full board). Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "C. Tomás Miller, 85, 35007 Las Palmas de Gran Canaria, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "Basen na dachu",
+  "Solarium",
+  "Siłownia",
+  "Bezpłatne Wi-Fi",
+  "Ręczniki plażowe"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Santa Catalina-Canteras",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby ceniące centralną lokalizację"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1969,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (standardowy, do pojedynczego wykorzystania, z dodatkowym łóżkiem): klimatyzacja, prywatna łazienka (prysznic, suszarka do włosów, zestaw kosmetyków), telewizor (Smart TV/telewizja satelitarna), minibar, bezpłatny sejf, biurko, telefon. Niektóre pokoje posiadają balkon/taras.",
+  "Junior Suita: klimatyzacja, prywatna łazienka (prysznic, suszarka do włosów, zestaw kosmetyków), telewizor (Smart TV/telewizja satelitarna), minibar, bezpłatny sejf, biurko, telefon. Niektóre pokoje posiadają balkon/taras."
+ ],
+ "rooms": 258,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.1415639,
+  "lon": -15.4338731,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotelconcorde.org",
+  "hotels.com",
+  "trip.com",
+  "hotelplanner.com",
+  "onthebeach.co.uk",
+  "h-rez.com",
+  "hotelesasequibles.es"
+ ],
+ "updated": "2026-11-27"
+}

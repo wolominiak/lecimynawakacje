@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:celeste",
+ "slug": "celeste",
+ "name": "Celeste",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Lanzarote",
+  "Costa Teguise"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/lanzarote/costa-teguise/celeste/7364/2980e773a058c1e709f5dbbf8bae7064_4580111-244.jpg",
+ "city": "Costa Teguise",
+ "intro": [
+  "Apartamenty Celeste to obiekt położony w sercu Costa Teguise na Lanzarote, zaledwie 80 metrów od piaszczystej plaży Las Cucharas. To idealne miejsce dla osób ceniących sobie niezależność i bliskość lokalnych atrakcji.",
+  "Hotel zbudowany w 1986 lub 1987 roku, został kompleksowo odnowiony w 2014 roku, oferując komfortowe warunki zakwaterowania dla par i rodzin. Obiekt charakteryzuje się spokojną atmosferą, jednocześnie zapewniając łatwy dostęp do tętniącego życiem centrum miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Apartamenty Celeste zlokalizowane są w centrum Costa Teguise, obok Pueblo Marinero. Do piaszczystej plaży Las Cucharas jest zaledwie około 80 metrów. W bezpośrednim sąsiedztwie obiektu znajduje się szeroki wybór barów i restauracji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 85 apartamentów, w tym 57 z jedną sypialnią i 28 z dwiema sypialniami. Dostępne są również niedawno odnowione apartamenty typu Superior. Każdy apartament posiada w pełni wyposażony aneks kuchenny, salon z telewizorem, łazienkę oraz balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się trzy odkryte baseny ze słodką wodą, z których jeden jest podgrzewany. Każdy z trzech bloków budynków ma swój własny basen. W pobliżu dostępne są liczne aktywności, takie jak windsurfing, nurkowanie, tenis, squash, a także pole golfowe oddalone o 2 km."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Apartamenty Celeste oferują zakwaterowanie bez wyżywienia (self-catering), co pozwala na pełną swobodę w przygotowywaniu posiłków. Istnieje możliwość wykupienia opcji ze śniadaniem, obiadokolacją lub pełnym wyżywieniem. W bliskiej odległości od hotelu znajduje się wiele restauracji i barów."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i na terenie całego obiektu. W apartamentach dostępny jest sejf do wynajęcia. Goście mogą korzystać z udogodnień takich jak suszarka do włosów i w pełni wyposażony aneks kuchenny."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Czyste i przestronne apartamenty",
+  "Przyjazny i pomocny personel",
+  "Dobra cena",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Brak restauracji na terenie obiektu",
+  "Brak animacji",
+  "Brak siłowni i spa na miejscu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Las Cucharas znajduje się około 80 metrów od hotelu."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Lotnisko Lanzarote (ACE) jest oddalone o około 14 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Na terenie hotelu nie ma aquaparku. Aquapark Costa Teguise znajduje się około 1 km od obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i par."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen podgrzewany?",
+   "a": "Tak, jeden z trzech odkrytych basenów jest podgrzewany."
+  }
+ ],
+ "address": "Islas Canarias, 8, Costa Teguise",
+ "adultsOnly": false,
+ "airportKm": 14,
+ "airportName": "Lotnisko Lanzarote (ACE)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Telewizor",
+  "Sejf (płatny)",
+  "Balkon/taras",
+  "Suszarka do włosów"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "W sercu Costa Teguise, w pobliżu Pueblo Marinero",
+ "bars": null,
+ "beachDistanceM": 80,
+ "beachType": "Piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 0,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (dla 2-3 osób) z aneksem kuchennym, salonem, łazienką, balkonem/tarasem",
+  "Apartament z dwiema sypialniami (dla 4-5 osób) z aneksem kuchennym, salonem, łazienką, balkonem/tarasem",
+  "Apartament typu Superior (niedawno odnowiony)"
+ ],
+ "rooms": 85,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.9982966,
+  "lon": -13.4904103,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.co.uk",
+  "lanzarote-resorts.com",
+  "holidaycheck.de",
+  "tui.co.uk",
+  "tuiholidays.ie",
+  "apartmentsceleste.com",
+  "guestreservations.com",
+  "centraldereservas.com"
+ ],
+ "updated": "2026-11-27"
+}

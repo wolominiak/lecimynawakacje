@@ -1,0 +1,147 @@
+{
+ "id": "x:hiszpania:cabana",
+ "slug": "cabana",
+ "name": "Cabana",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/cabana/5097/_galeria_02_fotos_001-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Cabana to trzygwiazdkowy obiekt położony w spokojnej dzielnicy mieszkaniowej Benidorm, po stronie Poniente. Jest to idealne miejsce dla rodzin oraz starszych gości, którzy szukają relaksu w przyjemnej atmosferze, jednocześnie mając dostęp do atrakcji miasta.",
+  "Hotel, zbudowany w 1971 roku i corocznie odświeżany, oferuje komfortowe zakwaterowanie w jednym z 247 lub 264 pokoi. Dzięki udogodnieniom dla dzieci i programowi animacyjnemu, Cabana jest doskonałym wyborem na rodzinne wakacje, a także dla osób ceniących sobie dobrą relację jakości do ceny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Cabana znajduje się w Benidorm, około 700-800 metrów od piaszczystej plaży Poniente, co oznacza około 10-minutowy spacer. Do Playa de Mal Pas można dojść w około 6 minut. Centrum Benidorm oddalone jest o około 0.9 km, a stare miasto o 20 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje dwuosobowe standardowe, rodzinne czteroosobowe oraz dwuosobowe dla gości powyżej 55 roku życia. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, prywatną łazienkę z wanną, telewizor, biurko, sejf (płatny), telefon i ogrzewanie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca śniadania, obiady i kolacje. Dostępna jest również restauracja à la carte z daniami kuchni lokalnej i międzynarodowej. Goście mogą korzystać z baru/lounge, kawiarni oraz baru przy basenie. Hotel oferuje opcje wyżywienia takie jak śniadania, obiadokolacje (Half Board) i pełne wyżywienie (Full Board)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden sezonowy odkryty basen z brodzikiem dla dzieci. Przy basenie dostępne są leżaki i parasole (mogą być płatne). W sezonie letnim organizowane są gry na świeżym powietrzu dla dzieci oraz wieczorne zajęcia muzyczne i taneczne dla dorosłych. W pobliżu hotelu można uprawiać windsurfing, nurkowanie, kajakarstwo, jazdę na rowerze i bilard, a także skorzystać z pola golfowego."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, plac zabaw oraz letni mini klub. W sezonie letnim organizowane są również gry na świeżym powietrzu, zapewniające rozrywkę dla dzieci."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w miejscach publicznych. Dostępny jest płatny garaż dla zmotoryzowanych gości. Hotel nie akceptuje grup typu wieczory kawalerskie/panieńskie czy urodzinowe, co sprzyja spokojnemu wypoczynkowi."
+  }
+ ],
+ "pros": [
+  "Dobra wartość za pieniądze",
+  "Smaczne jedzenie w restauracji bufetowej",
+  "Pomocny i przyjazny personel",
+  "Czysty basen z dużą ilością leżaków",
+  "Animacje dla dzieci i dorosłych w sezonie"
+ ],
+ "cons": [
+  "Lokalizacja nieco oddalona od ścisłego centrum",
+  "Ograniczona liczba kanałów telewizyjnych",
+  "Brak bezpłatnego parkingu",
+  "Sejf w pokoju jest płatny",
+  "Brak siłowni i spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Cabana od plaży?",
+   "a": "Hotel znajduje się około 700-800 metrów od piaszczystej plaży Poniente, co oznacza około 10 minut spacerem. Do Playa de Mal Pas jest około 6 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Alicante-Elche Miguel Hernández (ALC), oddalone o około 55-58 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Cabana ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje brodzik, plac zabaw oraz letni mini klub dla dzieci, a także animacje w sezonie letnim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w miejscach publicznych. Niektóre źródła wspominają o opcji płatnego Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych. Jest przyjazny rodzinom i posiada udogodnienia dla dzieci. Hotel nie akceptuje grup typu wieczory kawalerskie/panieńskie czy urodzinowe."
+  },
+  {
+   "q": "Czy hotel posiada parking?",
+   "a": "Hotel nie posiada bezpłatnego parkingu, dostępny jest płatny garaż."
+  }
+ ],
+ "address": "Calle Perú, 33, 03502 Benidorm, Alicante, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 55,
+ "airportName": "Alicante-Elche Miguel Hernández (ALC)",
+ "amenities": [
+  "klimatyzacja",
+  "balkon/taras",
+  "prywatna łazienka z wanną",
+  "telewizor",
+  "biurko",
+  "sejf (płatny)",
+  "telefon",
+  "ogrzewanie",
+  "bezpłatne Wi-Fi w miejscach publicznych",
+  "płatny garaż"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Spokojna dzielnica mieszkaniowa, po stronie Poniente",
+ "bars": 3,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 0.9,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "starsi goście"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1971,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 2,
+ "roomTypes": [
+  "standardowe pokoje dwuosobowe",
+  "pokoje rodzinne czteroosobowe",
+  "pokoje dwuosobowe dla gości powyżej 55 roku życia"
+ ],
+ "rooms": 247,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5415481,
+  "lon": -0.1388215,
+  "src": "osm"
+ },
+ "sources": [
+  "benidorm-hotels.org",
+  "onbenidorm.com",
+  "hotelcabana.es",
+  "visitbenidorm.es",
+  "benidormehotel.com",
+  "skyscanner.gg",
+  "myhotels.sa",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-27"
+}

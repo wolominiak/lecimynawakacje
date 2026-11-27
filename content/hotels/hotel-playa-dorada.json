@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:hotel playa dorada",
+ "slug": "hotel-playa-dorada",
+ "name": "Hotel Playa Dorada",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "S Illot"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/s-illot/hotel-playa-dorada/563840d6c7580ee9600e7b027fa124b7_playa_dorada4-244.jpg",
+ "city": "S'Illot",
+ "intro": [
+  "Aparthotel Playa Dorada to trzygwiazdkowy obiekt położony na wschodnim wybrzeżu Majorki, w miejscowości S'Illot, na granicy z Sa Coma. Hotel znajduje się tuż przy promenadzie, co zapewnia łatwy dostęp do plaży i lokalnych atrakcji. Jest to idealne miejsce dla rodzin i par poszukujących relaksującego wypoczynku nad morzem.",
+  "Hotel oferuje zakwaterowanie w studiach i apartamentach, zapewniając komfortowy pobyt z opcją wyżywienia All Inclusive. Dzięki programowi animacji dla dorosłych i dzieci, a także bliskości piaszczystej plaży, Aparthotel Playa Dorada stanowi dobrą bazę do odkrywania uroków Majorki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Aparthotel Playa Dorada usytuowany jest w S'Illot, przy promenadzie, około 150 metrów od publicznej, piaszczystej plaży. W pobliżu znajdują się plaże Sa Coma i Cala Moreia. Centrum miejscowości oddalone jest o około 10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 153 jednostki zakwaterowania, w tym studia i apartamenty. Wszystkie pokoje posiadają balkon, klimatyzację, telewizor, minibar/lodówkę, czajnik oraz sejf (dodatkowo płatny). Łazienki wyposażone są w prysznic i suszarkę do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa oraz bar przy basenie. Opcja All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, lokalne napoje alkoholowe i bezalkoholowe, a także kawę, herbatę, ciastka i przekąski. Restauracja oferuje również opcje bezglutenowe, bezlaktozowe, wegetariańskie i wegańskie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest duży odkryty basen ze słodką wodą dla dorosłych oraz oddzielny brodzik dla dzieci. Hotel zapewnia program animacji dziennych i wieczornych, w tym aerobik, piłkę wodną, bule, mini disco, muzykę na żywo i pokazy. Dostępne są również bilard (płatny), tenis stołowy, siatkówka, rzutki i strzelanie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano oddzielny brodzik oraz mini klub dla dzieci w wieku 4-12 lat (Goldy Club). Hotel oferuje również mini disco i animacje dostosowane do potrzeb dzieci, zapewniając rozrywkę przez cały dzień."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Czystość i pomocny personel",
+  "Dobre i urozmaicone jedzenie w formie bufetu",
+  "Przestronne balkony w pokojach",
+  "Program animacji dla dorosłych i dzieci"
+ ],
+ "cons": [
+  "Hotel jest",
+  "nieco w latach",
+  "i wymaga dalszych remontów",
+  "Płatne Wi-Fi w pokojach",
+  "Problem z rezerwowaniem leżaków przy basenie ręcznikami",
+  "Dodatkowe opłaty za klimatyzację/TV (według niektórych źródeł)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 150 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik i mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest bezpłatne w częściach wspólnych, natomiast w pokojach dostępne jest za dodatkową opłatą."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Palma de Mallorca (PMI), oddalone o około 62-70 km."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie All Inclusive?",
+   "a": "Tak, hotel oferuje opcję wyżywienia All Inclusive, obejmującą posiłki w formie bufetu oraz lokalne napoje."
+  }
+ ],
+ "address": "Carrer Aritja, 7, 07560 Sa Coma, Illes Balears, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 62,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "restauracja bufetowa",
+  "bar przy basenie",
+  "mini klub dla dzieci",
+  "animacje",
+  "bilard (płatny)",
+  "tenis stołowy",
+  "siatkówka",
+  "piłka wodna",
+  "gimnastyka",
+  "rzutki",
+  "strzelanie z pistoletu i wiatrówki"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "wschodnie wybrzeże Majorki",
+ "bars": 1,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.883,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": 1989,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (z dwoma pojedynczymi łóżkami)",
+  "studio (z dwoma pojedynczymi łóżkami i rozkładaną sofą)",
+  "apartament (z dwoma oddzielnymi łóżkami i dwiema rozkładanymi sofami)"
+ ],
+ "rooms": 153,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.5694893,
+  "lon": 3.3739463,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "google.com",
+  "expedia.co.uk",
+  "planetofhotels.com",
+  "playadorada.es",
+  "onthebeach.co.uk",
+  "onthebeach.ie",
+  "majorca-mallorca.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

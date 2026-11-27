@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:volga",
+ "slug": "volga",
+ "name": "Volga",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Calella"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/calella/volga-pl/2378/00e3f9255a7e3e2c48800-244.jpg",
+ "city": "Calella",
+ "intro": [
+  "Hotel Volga to czterogwiazdkowy obiekt położony w popularnej miejscowości Calella na wybrzeżu Costa Brava w Hiszpanii. Jego centralna lokalizacja sprawia, że jest idealną bazą wypadową do zwiedzania okolicy i korzystania z uroków plaży. Hotel, choć zbudowany w 1973 roku, przeszedł gruntowny remont w 2010 roku, a pokoje odświeżono w 2020 roku, co zapewnia komfortowy pobyt.",
+  "Obiekt jest polecany zarówno parom i grupom szukającym relaksujących wakacji nad morzem, jak i rodzinom z dziećmi, dzięki dostępnym udogodnieniom i programom animacyjnym. Bliskość plaży, centrum miasta oraz stacji kolejowej to kluczowe atuty hotelu Volga."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Volga znajduje się w centrum Calelli, zaledwie 100 metrów od długiej, piaszczystej plaży. Goście mogą dojść na plażę w kilka minut. Hotel posiada własny Beach Club - NUI Beach, gdzie goście mogą wynająć leżaki i parasole na preferencyjnych warunkach, a osoby z pakietem All Inclusive otrzymują je w cenie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 168-172 pokojami, które były remontowane w 2020 roku. W ofercie są pokoje dwuosobowe, rodzinne, trzyosobowe, deluxe oraz Superior z jacuzzi. Standardowe wyposażenie obejmuje klimatyzację, łazienkę, telewizor, minibar (częściowo płatny) i balkon/taras. Dostępne są również pokoje dla niepalących i przystosowane dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa oferująca dania kuchni hiszpańskiej i międzynarodowej, z pokazami gotowania. Dostępne są opcje dla osób z alergiami pokarmowymi oraz dla wegetarian. Na terenie obiektu funkcjonuje również bar główny i bar przy basenie. Opcja All Inclusive obejmuje posiłki, napoje oraz przekąski, a także darmowe Wi-Fi i pakiet Beach Club."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada jeden odkryty basen z wydzieloną strefą dla dzieci oraz jeden basen kryty. W miesiącach letnich organizowane są animacje dla dzieci i dorosłych, w tym wieczorne występy. Goście mogą korzystać z bilarda (płatnego), rzutek, tenisa stołowego, a także wypożyczalni rowerów. W pobliżu dostępne są również sporty wodne i golf. Hotel oferuje saunę i usługi masażu."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum miasta",
+  "Bardzo dobre i urozmaicone jedzenie",
+  "Czyste pokoje i ogólna czystość hotelu",
+  "Pomocna i przyjazna obsługa",
+  "Dostępność basenu i Beach Clubu"
+ ],
+ "cons": [
+  "Widok z niektórych pokoi może być zasłonięty przez tory kolejowe, hałas pociągu",
+  "Słabe wyciszenie pokoi",
+  "Leżaki i parasole na plaży dodatkowo płatne (poza All Inclusive)",
+  "Basen może być mały w stosunku do liczby gości",
+  "Sprzeczne informacje dotyczące dostępności siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się około 100 metrów od hotelu, co zajmuje kilka minut spacerem."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Girona-Costa Brava (GRO) oddalone o około 32-46 km oraz Barcelona-El Prat (BCN) oddalone o około 70-73 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje oddzielną strefę dla dzieci przy basenie oraz program animacyjny dla dzieci w miesiącach letnich."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, darmowe Wi-Fi jest dostępne w pokojach i we wszystkich częściach wspólnych hotelu."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są wliczone w cenę?",
+   "a": "Leżaki i parasole na plaży są dodatkowo płatne, chyba że goście korzystają z opcji All Inclusive, która obejmuje pakiet Beach Club."
+  }
+ ],
+ "address": "Jovara 350, 08370 Calella",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "restauracja bufetowa",
+  "bar",
+  "bar przy basenie",
+  "masaże",
+  "sauna",
+  "bilard",
+  "rzutki",
+  "tenis stołowy",
+  "wypożyczalnia rowerów",
+  "klimatyzacja",
+  "centralne ogrzewanie"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Costa Brava y Maresme",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 0.05,
+ "goodFor": [
+  "pary",
+  "grupy",
+  "rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1973,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój dwuosobowy do pojedynczego wykorzystania",
+  "pokój rodzinny",
+  "pokój trzyosobowy",
+  "pokój deluxe",
+  "pokój deluxe z widokiem na morze",
+  "pokój Superior z jacuzzi"
+ ],
+ "rooms": 172,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.6153784,
+  "lon": 2.6670483,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "kaktushotels.com",
+  "travelweekly.com",
+  "calellabarcelona.com",
+  "sunshine.co.uk",
+  "onthebeach.co.uk",
+  "loveholidays.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

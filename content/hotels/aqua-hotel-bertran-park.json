@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:aqua hotel bertran park",
+ "slug": "aqua-hotel-bertran-park",
+ "name": "Aqua Hotel Bertran Park",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Lloret de Mar"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/lloret-de-mar/aqua-hotel-bertran-park-pl/6622/41_imageconverter-php-244.jpg",
+ "city": "Lloret de Mar",
+ "intro": [
+  "Aqua Hotel Bertran Park to czterogwiazdkowy obiekt położony w centrum popularnego kurortu Lloret de Mar na wybrzeżu Costa Brava w Hiszpanii. Hotel oferuje spokojny wypoczynek, jednocześnie zapewniając łatwy dostęp do plaży oraz miejskich atrakcji, sklepów i restauracji. Jest to idealna propozycja dla osób ceniących sobie zarówno relaks, jak i bliskość tętniącego życiem centrum.",
+  "Hotel jest rekomendowany głównie dla dorosłych i par, choć oferuje również udogodnienia dla rodzin z dziećmi, takie jak mini klub. Odnowione pokoje oraz różnorodne wyżywienie sprawiają, że obiekt jest dobrym wyborem dla tych, którzy szukają komfortowego pobytu w dobrej lokalizacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Aqua Hotel Bertran Park znajduje się w spokojnej części centrum Lloret de Mar, około 350 metrów od piaszczystej, publicznej plaży z łagodnym zejściem do morza. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Ścisłe centrum miejscowości oddalone jest o około 400-500 metrów, co zapewnia łatwy dostęp do lokalnych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 147 pokoi, które były remontowane w 2014 roku, a niektóre źródła wskazują na odnowienie w 2024 roku. Dostępne są pokoje Standard, Premium z widokiem na basen oraz Junior Suite z oddzielną sypialnią i salonem. Wszystkie pokoje wyposażone są w klimatyzację, TV-SAT, minibar (płatny), łazienkę oraz balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa \"El Mercat\" serwuje dania kuchni śródziemnomorskiej i międzynarodowej z pokazami gotowania. Na terenie hotelu znajdują się także bar-kawiarnia oraz bar przy basenie. Opcja All Inclusive obejmuje śniadania, obiady, kolacje, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe, jednak jest niedostępna w lipcu i sierpniu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden zewnętrzny basen ze słodką wodą, otoczony tarasem słonecznym z bezpłatnymi leżakami i parasolami. Hotel nie posiada aquaparku ani zjeżdżalni. Dostępna jest bezpłatna siłownia, nastawiona głównie na trening cardio, oraz bilard (płatny)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub. Istnieje również możliwość zamówienia łóżeczka dziecięcego na życzenie. W okresie od 1 lipca do 31 sierpnia obowiązują specjalne zasady zakwaterowania dla osób poniżej 21 roku życia."
+  },
+  {
+   "title": "Udogodnienia i rozrywka",
+   "text": "Hotel oferuje bezpłatne Wi-Fi na terenie całego obiektu. Dostępne są animacje dla dorosłych oraz wieczorne rozrywki. Obiekt jest klasyfikowany jako \"Adults Recommended\", co oznacza, że jest szczególnie polecany dla dorosłych, zwłaszcza poza sezonem letnim."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum Lloret de Mar",
+  "Miła i pomocna obsługa",
+  "Różnorodne i smaczne jedzenie, zwłaszcza śniadania",
+  "Czyste i komfortowe pokoje",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Brak zjeżdżalni i aquaparku",
+  "Siłownia nastawiona głównie na cardio, bez ciężarów",
+  "All Inclusive niedostępne w lipcu i sierpniu",
+  "W niektórych pokojach prysznic połączony z pokojem oknem, które się nie zamyka",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża znajduje się około 350 metrów od hotelu. Jest to piaszczysta, publiczna plaża z łagodnym zejściem do morza."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona (GRO), oddalone o około 29-30 km. Lotnisko w Barcelonie (BCN) znajduje się około 91-93 km od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel Aqua Hotel Bertran Park nie posiada aquaparku ani zjeżdżalni na swoim terenie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel oferuje mini klub dla dzieci oraz możliwość zamówienia łóżeczka dziecięcego. Jednak jest klasyfikowany jako \"Adults Recommended\", a w lipcu i sierpniu obowiązują ograniczenia wiekowe dla osób podróżujących bez opieki rodziców."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje opcję All Inclusive?",
+   "a": "Tak, hotel oferuje opcję All Inclusive, która obejmuje posiłki, przekąski i lokalne napoje. Należy jednak pamiętać, że opcja ta jest niedostępna w terminie od 1 lipca do 31 sierpnia."
+  }
+ ],
+ "address": "Carrer Sant Josep, 49, 17310 Lloret de Mar, Girona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 29,
+ "airportName": "Girona (GRO)",
+ "amenities": [
+  "Mini klub dla dzieci",
+  "Animacje dla dorosłych",
+  "Wieczorne rozrywki",
+  "Bilard (płatny)",
+  "Sporty wodne na plaży (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum Lloret de Mar",
+ "bars": 2,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.4,
+ "goodFor": [
+  "pary",
+  "dorośli",
+  "osoby szukające spokojnego pobytu w centrum"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1972,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój Standard (ok. 22 m²)",
+  "Pokój Premium (ok. 24 m² z widokiem na basen)",
+  "Junior Suite (ok. 32 m² z sypialnią i salonem, z balkonem francuskim)"
+ ],
+ "rooms": 147,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.7022694,
+  "lon": 2.8460546,
+  "src": "osm"
+ },
+ "sources": [
+  "exim.pl",
+  "aquahotel.com",
+  "booking.com",
+  "coraltravel.pl",
+  "thomascook.com",
+  "wakacje.pl",
+  "rafatravel.pl",
+  "fly.pl"
+ ],
+ "updated": "2026-11-27"
+}

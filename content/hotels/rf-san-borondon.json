@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:rf san borondon",
+ "slug": "rf-san-borondon",
+ "name": "Rf San Borondon",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Puerto de la Cruz"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/puerto-de-la-cruz/rf-san-borondon-pl/1242/e6b_piscina-escaleras-244.jpg",
+ "city": "Puerto de la Cruz",
+ "intro": [
+  "Hotel Rf San Borondon to trzygwiazdkowy obiekt położony w centrum Puerto de la Cruz na Teneryfie, w dzielnicy La Ranilla, tuż obok Plaza del Charco. Odnowiony w 2024 roku, składa się z dwóch budynków w stylu kolonialnym, otoczonych zadbanymi ogrodami.",
+  "Hotel jest polecany dla rodzin, par oraz osób szukających spokojnego wypoczynku. Bliskość plaż, centrum miasta oraz atrakcji sprawia, że jest to dobra baza wypadowa do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w centrum Puerto de la Cruz, około 700-800 metrów od ścisłego centrum. Najbliższe piaszczyste plaże, takie jak Playa Jardín, Playa del Castillo i Playa Punta Brava, oddalone są o 200-600 metrów. Na publicznych plażach leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 114 pokoi, w tym pokoje dwuosobowe, rodzinne oraz studia z kuchnią. Wszystkie pokoje wyposażone są w prywatną łazienkę, telewizor z płaskim ekranem, sejf, balkon lub taras oraz zestaw do parzenia kawy/herbaty. Studia posiadają dodatkowo lodówkę, kuchenkę mikrofalową i naczynia kuchenne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja à la carte serwująca dania kuchni międzynarodowej oraz restauracja bufetowa, gdzie podawane są śniadania i kolacje. Goście mogą również korzystać z baru przy basenie, baru/kawiarni oraz lounge baru. Hotel oferuje różne opcje wyżywienia, w tym śniadania i obiadokolacje w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden duży basen zewnętrzny ze słoną wodą. Hotel posiada również w pełni wyposażone centrum fitness/siłownię, saunę i solarium. Goście mogą aktywnie spędzać czas, grając w bilard lub korzystając z kortu tenisowego. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny dzieciom i oferuje udogodnienia dla rodzin, takie jak wysokie krzesełka w restauracji oraz łóżeczka dla dzieci (na zapytanie). Brak jest informacji o mini klubie czy animacjach dla dzieci."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum, blisko plaż i atrakcji.",
+  "Wysoka czystość w pokojach i częściach wspólnych.",
+  "Przyjazny i pomocny personel.",
+  "Duży basen ze słoną wodą i zadbane ogrody.",
+  "Smaczne i urozmaicone posiłki (śniadania i kolacje)."
+ ],
+ "cons": [
+  "Brak klimatyzacji w pokojach.",
+  "Jedzenie w formie bufetu może stać się monotonne.",
+  "Brak parkingu na terenie hotelu.",
+  "Hotel nie oferuje głośnych imprez.",
+  "Brak zjeżdżalni i aquaparku."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 200-600 metrów od piaszczystej plaży Playa Jardín."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Hotel jest oddalony o około 20-29 km od lotniska Teneryfa Północna (TFN) i około 90-100 km od lotniska Teneryfa Południowa (TFS)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje udogodnienia dla rodzin, takie jak wysokie krzesełka i łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych i jest przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "C. Agustin Espinosa, 2, 38400 Puerto de la Cruz - Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Teneryfa Północna (TFN)",
+ "amenities": [
+  "siłownia",
+  "sauna",
+  "solarium",
+  "bilard",
+  "kort tenisowy",
+  "bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "La Ranilla",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta, wulkaniczna, z ciemnym piaskiem",
+ "centerKm": 0.7,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "spokojny wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy (widok na ogród)",
+  "pokój rodzinny (widok na ogród, superior)",
+  "studio (z kuchnią)"
+ ],
+ "rooms": 114,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "holidaycheck.de",
+  "booking.com",
+  "com-tenerife.com",
+  "hoteles.com",
+  "rfhoteles.com",
+  "trivago.de",
+  "hotels.com",
+  "wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

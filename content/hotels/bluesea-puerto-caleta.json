@@ -1,0 +1,129 @@
+{
+ "id": "x:hiszpania:bluesea puerto caleta",
+ "slug": "bluesea-puerto-caleta",
+ "name": "Bluesea Puerto Caleta",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Caleta de Fuste"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/caleta-de-fuste/bluesea-puerto-caleta/8179d8d55a5ba3636cfae55e43af6371_1-244.jpg",
+ "city": "Caleta de Fuste",
+ "intro": [
+  "Bluesea Puerto Caleta to kompleks apartamentów położony w turystycznej miejscowości Caleta de Fuste na Fuerteventurze. Hotel charakteryzuje się dogodną lokalizacją, blisko piaszczystej plaży oraz centrum miasta, co czyni go atrakcyjnym wyborem dla osób ceniących sobie łatwy dostęp do lokalnych atrakcji.",
+  "Obiekt jest szczególnie polecany dla rodzin, par oraz turystów poszukujących ekonomicznego zakwaterowania w słonecznej Hiszpanii. Oferuje podstawowe udogodnienia, w tym baseny i apartamenty z aneksem kuchennym, co sprzyja samodzielnemu przygotowywaniu posiłków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bluesea Puerto Caleta znajduje się w Caleta de Fuste, zaledwie 250-450 metrów od piaszczystej plaży Caleta de Fuste (Playa del Castillo). Dojście do plaży zajmuje około 5 minut spacerem. Centrum miejscowości, z licznymi sklepami i restauracjami, oddalone jest o około 0.3-0.7 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 90 lub 91 apartamentów, w tym opcje z jedną sypialnią, przeznaczone dla 1-3 osób dorosłych lub rodzin z dziećmi. Każdy apartament wyposażony jest w balkon lub taras, prywatną łazienkę, salon z rozkładaną sofą oraz aneks kuchenny z lodówką i mikrofalówką. Telewizor, toster, czajnik, wentylator i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest duży odkryty basen oraz oddzielny basen dla dzieci. W częściach wspólnych hotelu można korzystać z bezpłatnego Wi-Fi. Dla aktywnych dostępny jest bilard, a w odległości 5-10 minut jazdy samochodem znajduje się klub golfowy Fuerteventura Golf Club."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja „El Capitan” oraz bar przy basenie, który pełni funkcję snack baru. Posiłki w opcjach Bed & Breakfast i Half Board serwowane są w siostrzanym hotelu Caleta Garden, położonym w odległości 100-200 metrów. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Bluesea Puerto Caleta to dobry wybór dla rodzin z dziećmi, par oraz osób szukających niedrogiego wypoczynku. Hotel oferuje udogodnienia dla dzieci, takie jak basen, a apartamenty z aneksem kuchennym pozwalają na elastyczność w planowaniu posiłków. Centralna lokalizacja sprzyja zwiedzaniu okolicy i korzystaniu z lokalnych atrakcji."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaży i centrum",
+  "Przyjazny personel, szczególnie w recepcji",
+  "Dobra strefa basenowa z oddzielnym basenem dla dzieci",
+  "Apartamenty z aneksem kuchennym",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Pokoje bywają określane jako podstawowe i przestarzałe",
+  "Dodatkowe opłaty za niektóre udogodnienia (czajnik, toster, wentylator, sejf)",
+  "Ograniczony dostęp do Wi-Fi w apartamentach",
+  "Obiekt zbudowany na zboczu, liczne schody i rampy",
+  "Brak informacji o animacjach i mini klubie dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel jest oddalony o około 250-450 metrów od piaszczystej plaży Caleta de Fuste, co stanowi około 5-minutowy spacer."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Port lotniczy Fuerteventura (FUE) znajduje się około 5-6 km od hotelu (około 10 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w tym hotelu. Dostępne są baseny, w tym jeden dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje oddzielny basen dla dzieci oraz apartamenty z aneksem kuchennym."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Darmowe Wi-Fi jest dostępne w częściach wspólnych hotelu. W apartamentach dostęp do internetu bezprzewodowego jest ograniczony."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "C. Alcalde Juan Évora Suárez, 35, 35610 Caleta de Fuste, Fuerteventura, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Port lotniczy Fuerteventura (FUE)",
+ "amenities": [
+  "bilard"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające niedrogiego wypoczynku"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1989,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2002,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (balkon/taras, łazienka, salon z rozkładaną sofą, aneks kuchenny z lodówką i mikrofalówką)"
+ ],
+ "rooms": 90,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.398247,
+  "lon": -13.857167,
+  "src": "web"
+ },
+ "sources": [
+  "hotel-ds.com",
+  "fuerteventurahotelsmix.com",
+  "canary-islands-hotels.com",
+  "trivago.ie",
+  "blueseahotels.com",
+  "skyscanner.com",
+  "hotelplanner.com",
+  "wanderlog.com"
+ ],
+ "updated": "2026-11-27"
+}

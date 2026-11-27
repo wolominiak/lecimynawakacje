@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:valle aridane",
+ "slug": "valle-aridane",
+ "name": "Valle Aridane",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "La Palma",
+  "Los Llanos"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/la-palma/los-llanos/valle-aridane/7230/91a252ce341006254a46ba6ce1246f56_11-244.jpg",
+ "city": "Los Llanos de Aridane",
+ "intro": [
+  "Hotel Valle Aridane to trzygwiazdkowy obiekt położony w centrum Los Llanos de Aridane na wyspie La Palma, w Hiszpanii. Jest to idealna propozycja dla osób poszukujących funkcjonalnego i komfortowego zakwaterowania, które będzie stanowić doskonałą bazę wypadową do odkrywania uroków wyspy.",
+  "Obiekt, odnowiony w 2012 roku, oferuje 43 pokoje i jest szczególnie polecany dla miłośników pieszych wycieczek, natury oraz podróżujących służbowo. Hotel akceptuje dzieci w każdym wieku, zapewniając udogodnienia takie jak łóżeczka dziecięce."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Valle Aridane znajduje się w samym sercu Los Llanos de Aridane, co zapewnia łatwy dostęp do lokalnych atrakcji. Najbliższe plaże, takie jak Puerto Naos czy Tazacorte, oddalone są o około 3 km. Lotnisko La Palma (SPC) znajduje się w odległości 30-35 km od hotelu."
+  },
+  {
+   "title": "Plaża",
+   "text": "Hotel nie leży bezpośrednio przy plaży. Najbliższa plaża, Puerto Naos, to naturalna plaża z czarnym piaskiem, oddalona o około 3 km. Hotel nie zapewnia prywatnej plaży ani leżaków czy ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 43 funkcjonalne pokoje dwuosobowe, w tym opcje z dodatkowym łóżkiem. Każdy pokój wyposażony jest w telewizję satelitarną, prywatną łazienkę z prysznicem lub wanną, bezpłatne kosmetyki, telefon i biurko. Pokoje są codziennie sprzątane."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, kawiarnia/bar oraz małe bistro. Śniadania serwowane są w formie kontynentalnego bufetu na tarasie na 6. piętrze, często za dodatkową opłatą. Na terenie obiektu dostępne są również automaty z napojami i przekąskami. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Goście hotelu mogą korzystać z centrum fitness oraz bezpłatnego Wi-Fi dostępnego w całym obiekcie i w pokojach. Na dachu hotelu znajduje się duży taras słoneczny (solarium) z prysznicami i leżakami, oferujący widoki na okolicę. Hotel oferuje wypożyczalnię rowerów, a okolica sprzyja pieszym wycieczkom."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w Los Llanos de Aridane",
+  "Bezpłatne Wi-Fi w całym hotelu",
+  "Duży taras słoneczny na dachu z widokami",
+  "Pomocna i czysta obsługa",
+  "Dobre śniadanie (za dopłatą)"
+ ],
+ "cons": [
+  "Brak basenów na terenie hotelu",
+  "Oddalony od plaży (około 3 km)",
+  "Pokoje mogą być nieco starsze i słabo wentylowane",
+  "Brak lodówki i klimatyzacji (w starszych opiniach)",
+  "Trudności ze znalezieniem bezpłatnego parkingu w okolicy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do najbliższej plaży?",
+   "a": "Najbliższa plaża, Puerto Naos, znajduje się około 3 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Nie, hotel nie posiada basenów. Oferuje duży taras słoneczny na dachu z prysznicami i leżakami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel akceptuje dzieci w każdym wieku i oferuje łóżeczka oraz dodatkowe łóżka (za opłatą)."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 30-35 km od lotniska La Palma (SPC)."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Tak, hotel posiada centrum fitness."
+  }
+ ],
+ "address": "Glorieta Castillo Olivares, 3, 38760 Los Llanos de Aridane",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "La Palma (SPC)",
+ "amenities": [
+  "Centrum fitness",
+  "Wypożyczalnia rowerów",
+  "Taras słoneczny",
+  "Automaty z napojami i przekąskami"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum Los Llanos de Aridane",
+ "bars": 1,
+ "beachDistanceM": 3000,
+ "beachType": "naturalna, z czarnym piaskiem",
+ "centerKm": 0,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Miłośnicy pieszych wycieczek",
+  "Miłośnicy natury",
+  "Turyści zwiedzający wyspę"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 0,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin Room) z telewizją satelitarną, łazienką z prysznicem/wanną, telefonem, biurkiem",
+  "Pokój dwuosobowy z dodatkowym łóżkiem"
+ ],
+ "rooms": 43,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.6582593,
+  "lon": -17.9161012,
+  "src": "osm"
+ },
+ "sources": [
+  "holidaycheck.de",
+  "travelyalla.com",
+  "booking.com",
+  "hotelvallearidane.com",
+  "onthebeach.co.uk",
+  "reserving.com",
+  "agoda.com",
+  "zcalosllanos.com"
+ ],
+ "updated": "2026-11-27"
+}

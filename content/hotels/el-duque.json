@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:el duque",
+ "slug": "el-duque",
+ "name": "El Duque",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/el-duque/5336/d96_piscina_caribe_01-244.jpg",
+ "city": "Costa Adeje",
+ "intro": [
+  "Hotel El Duque to czterogwiazdkowy obiekt położony w handlowej dzielnicy El Duque w Costa Adeje na Teneryfie. Zbudowany w 1999 roku i regularnie odnawiany, oferuje komfortowe warunki dla par i rodzin szukających relaksu oraz dostępu do atrakcji turystycznych. Jego lokalizacja umożliwia łatwy dostęp do piaszczystych plaż oraz centrum miejscowości.",
+  "Obiekt składa się z budynku głównego i kilku budynków bocznych, oferując 200-210 pokoi i apartamentów. Goście mogą korzystać z basenów, siłowni oraz programu animacyjnego. Hotel jest przyjazny rodzinom, zapewniając udogodnienia dla dzieci, takie jak mini klub i plac zabaw, co czyni go dobrą opcją na wakacje z najmłodszymi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel El Duque znajduje się w handlowej dzielnicy El Duque w Costa Adeje, około 600 m do 1 km od piaszczystych plaż Playa del Duque i Fañabé. Plaże są publiczne, z łagodnym zejściem do morza, a leżaki i parasole są na nich płatne. Centrum Costa Adeje oddalone jest o około 750 m do 2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia i apartamenty z jedną sypialnią (Superior). Wszystkie pokoje wyposażone są w wiatrak sufitowy (lub wentylator), łazienkę z wanną lub prysznicem, WC i suszarką do włosów, bezprzewodowy internet, telewizję satelitarną, telefon oraz płatny sejf. Do dyspozycji gości jest także aneks kuchenny z lodówką, mikrofalówką, tosterem, czajnikiem, płytą grzewczą oraz naczyniami. Pokoje posiadają również taras lub balkon z meblami ogrodowymi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa Atlantida, serwująca dania kuchni międzynarodowej oraz wieczory tematyczne. Goście mogą korzystać z dwóch barów przy basenie (Caribe i Montecarlo) oraz snack baru. Opcja All Inclusive, dostępna od 1 maja 2026, obejmuje śniadania, obiady i kolacje w formie bufetu, lokalne napoje w wyznaczonym barze (10:00-23:00), lody oraz słodkie przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje 2-3 odkrytymi basenami ze słodką wodą, z czego dwa są podgrzewane od listopada do marca. Dla dzieci wydzielono część w basenie oraz plac zabaw. Dostępny jest płatny aquapark. Hotel oferuje również siłownię/centrum fitness dla osób od 16 lat oraz animacje dla dorosłych i dzieci, w tym wieczorne przedstawienia, muzykę na żywo i quizy."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel El Duque jest polecany dla rodzin z dziećmi oraz par. Oferuje udogodnienia dla najmłodszych, takie jak mini klub i animacje, a także spokojną atmosferę i dobrą lokalizację blisko plaż i centrum. Aneksy kuchenne w pokojach stanowią dodatkowy atut dla rodzin."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaż i centrum",
+  "Czyste i zadbane pokoje/apartamenty z aneksem kuchennym",
+  "Miła i pomocna obsługa",
+  "Dobre i różnorodne jedzenie",
+  "Podgrzewane baseny w sezonie zimowym",
+  "Rozrywka i animacje dla dzieci i dorosłych"
+ ],
+ "cons": [
+  "Położenie na pagórkowatym terenie, co może oznaczać strome dojście do plaży",
+  "Aquapark jest dodatkowo płatny",
+  "Sejf w pokoju jest płatny",
+  "W pokojach zazwyczaj wiatrak sufitowy zamiast klimatyzacji",
+  "Potencjalny hałas w zależności od lokalizacji apartamentu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel El Duque położony jest około 600 m do 1 km od piaszczystych plaż Playa del Duque i Fañabé."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Tenerife South Airport (TFS), oddalone jest o około 18-21 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Tak, hotel posiada aquapark, jednak jest on dodatkowo płatny."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje mini klub, plac zabaw oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych, jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Avenida De Bruselas, 14, 38679 Costa Adeje, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Tenerife South Airport (Reina Sofia, TFS)",
+ "amenities": [
+  "siłownia",
+  "bilard",
+  "tenis stołowy",
+  "rzutki",
+  "aerobik",
+  "aqua aerobik"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "El Duque",
+ "bars": 3,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta",
+ "centerKm": 0.75,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1999,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio: wiatrak sufitowy (lub wentylator), łazienka (wanna lub prysznic, WC, suszarka do włosów), bezprzewodowy internet, telewizja satelitarna/płaski telewizor, telefon, sejf (płatny), aneks kuchenny (mała lodówka/lodówka, mikrofalówka, toster, zestaw do kawy/herbaty, czajnik, płyta grzewcza, naczynia/przybory kuchenne), taras lub balkon z meblami ogrodowymi, część dzienna, stół i krzesła, łóżka pojedyncze.",
+  "Apartament (jedna sypialnia, Superior): wiatrak sufitowy (lub wentylator), łazienka (wanna lub prysznic, WC, suszarka do włosów), bezprzewodowy internet, telewizja satelitarna/płaski telewizor, telefon, sejf (płatny), aneks kuchenny (mała lodówka/lodówka, mikrofalówka, toster, zestaw do kawy/herbaty, czajnik, płyta grzewcza, naczynia/przybory kuchenne), taras lub balkon z meblami ogrodowymi, część dzienna, stół i krzesła, łóżka pojedyncze."
+ ],
+ "rooms": 200,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.5394776,
+  "lon": -4.1631651,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.com",
+  "itaka.pl",
+  "jet2holidays.com",
+  "mapcarta.com",
+  "hotelelduque.com",
+  "hotelsadeje.com",
+  "adejehotel.com",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-27"
+}

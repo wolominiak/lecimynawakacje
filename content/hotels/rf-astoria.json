@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:rf astoria",
+ "slug": "rf-astoria",
+ "name": "Rf Astoria",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Puerto de la Cruz"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/puerto-de-la-cruz/rf-astoria-pl/8253/c81c96eae6e043409b0432e2752c7b85_1-244.jpg",
+ "city": "Puerto de la Cruz",
+ "intro": [
+  "Rf Astoria to kameralny aparthotel tylko dla dorosłych, położony w samym sercu turystycznego centrum Puerto de la Cruz na Teneryfie. Oferuje komfortowe zakwaterowanie w apartamentach z aneksami kuchennymi, co czyni go idealnym wyborem dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków. Obiekt jest doskonałą bazą wypadową do odkrywania uroków miasta i okolic.",
+  "Hotel jest szczególnie polecany parom oraz osobom podróżującym samotnie, które szukają spokojnego miejsca na wypoczynek bez dzieci. Dzięki centralnej lokalizacji, goście mają łatwy dostęp do piaszczystych plaż, lokalnych restauracji, barów i sklepów, a także do głównych atrakcji Puerto de la Cruz."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Rf Astoria znajduje się w dzielnicy San Telmo, w centrum Puerto de la Cruz, zaledwie 200 metrów od piaszczystej plaży Playa de San Telmo. W odległości około 450 metrów znajduje się Playa Martianez, a do Playa del Muelle można dojść w około 8 minut. Hotel jest świetnie skomunikowany z resztą miasta."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 33 apartamenty typu Studio i Junior Suite, wyposażone w aneks kuchenny z płytą grzewczą, lodówką i mikrofalówką. W każdym pokoju znajduje się prywatna łazienka z wanną, telewizor z płaskim ekranem, sejf (płatny) oraz suszarka do włosów. Niektóre pokoje posiadają umeblowany balkon, inne francuski balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu dostępna jest kawiarnia oraz sala śniadaniowa, gdzie serwowane są śniadania. Goście mogą zdecydować się na opcję ze śniadaniem wliczonym w cenę lub za dopłatą. Dzięki aneksom kuchennym w pokojach, istnieje możliwość samodzielnego przygotowywania posiłków."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen, idealny do relaksu i orzeźwienia. Obiekt nie oferuje zjeżdżalni ani aquaparku. Do dyspozycji gości jest również bilard. Bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Rf Astoria to hotel przeznaczony wyłącznie dla dorosłych, co czyni go idealnym wyborem dla par i osób podróżujących samotnie, poszukujących spokojnego wypoczynku. Centralna lokalizacja i dobrze wyposażone apartamenty sprzyjają samodzielnemu odkrywaniu uroków Teneryfy."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum, blisko plaży i atrakcji",
+  "Czystość pokoi i części wspólnych",
+  "Pomocna i przyjazna obsługa",
+  "Dobrze wyposażone aneksy kuchenne",
+  "Dobra relacja jakości do ceny"
+ ],
+ "cons": [
+  "Brak klimatyzacji, co może prowadzić do gorących pokoi",
+  "Małe balkony, często tylko z miejscem do stania",
+  "Ciasny parking, utrudniony dla większych samochodów",
+  "Śniadania otrzymują mieszane recenzje",
+  "Możliwy hałas z zewnątrz"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 200 metrów od piaszczystej plaży Playa de San Telmo, co zajmuje około 2 minuty spacerem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife North (TFN), oddalone o około 27-28 km. Lotnisko Tenerife South (TFS) znajduje się około 91-92 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel Rf Astoria jest przeznaczony wyłącznie dla dorosłych (Adults Only) i nie oferuje udogodnień dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy pokoje posiadają aneks kuchenny?",
+   "a": "Tak, wszystkie pokoje typu Studio i Junior Suite wyposażone są w aneks kuchenny z płytą grzewczą, lodówką, mikrofalówką i naczyniami."
+  }
+ ],
+ "address": "Calle Enrique Talg, 15, 38400 Puerto de la Cruz",
+ "adultsOnly": true,
+ "airportKm": 27,
+ "airportName": "Tenerife North (TFN)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Bilard",
+  "Ręczniki",
+  "Sejf (płatny)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "San Telmo",
+ "bars": 1,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące samotnie"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2001,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio: aneks kuchenny, łazienka z wanną, TV sat, sejf (płatny), suszarka, telefon, część wypoczynkowa, jadalnia, szafa, niektóre z balkonem",
+  "Junior Suite: aneks kuchenny, łazienka z wanną, TV sat, sejf (płatny), suszarka, telefon, część wypoczynkowa, jadalnia, szafa, niektóre z balkonem"
+ ],
+ "rooms": 33,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "puertodelacruz-es.com",
+  "reserving.com",
+  "hotels.com",
+  "expedia.com",
+  "yandex.ru",
+  "booking.com",
+  "hotelspuertodelacruz.com",
+  "loveholidays.com"
+ ],
+ "updated": "2026-11-27"
+}

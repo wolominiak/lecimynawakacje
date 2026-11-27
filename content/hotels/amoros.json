@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:amoros",
+ "slug": "amoros",
+ "name": "Amoros",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Cala Ratjada"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/cala-ratjada/amoros-pl/5153/eb_imageconverter-php-244.jpg",
+ "city": "Cala Ratjada",
+ "intro": [
+  "Hotel Amoros to trzygwiazdkowy obiekt położony w centrum tętniącej życiem miejscowości Cala Ratjada na Majorce. Jest idealnym wyborem dla osób poszukujących relaksującego wypoczynku, zarówno dla rodzin z dziećmi, par, jak i grup przyjaciół. Jego centralna lokalizacja zapewnia łatwy dostęp do portu rybackiego, lokalnych atrakcji oraz piaszczystych plaż.",
+  "Obiekt oferuje komfortowe zakwaterowanie w odnowionych pokojach, dostęp do dwóch basenów, w tym jednego podgrzewanego, oraz strefę spa i siłownię. Dzięki programowi rozrywkowemu i bliskości plaż, Hotel Amoros stanowi dobrą bazę wypadową do odkrywania uroków Majorki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Amoros znajduje się w centrum Cala Ratjada, zaledwie około 100 metrów od centrum miejscowości. Najbliższa piaszczysta plaża Son Moll oddalona jest o około 400-450 metrów (około 10 minut spacerem). W pobliżu znajdują się również plaże Cala Agulla (około 1,8 km) i Cala Gat. Hotel zapewnia dostęp do plaży, jednak parasole i leżaki mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 79 lub 80 odnowionymi pokojami, w tym jednoosobowymi, dwuosobowymi i apartamentami. Wszystkie pokoje wyposażone są w klimatyzację/ogrzewanie, minibar, telewizor z płaskim ekranem i kanałami satelitarnymi, sejf oraz prywatną łazienkę z prysznicem lub wanną, suszarką do włosów i zestawem kosmetyków. Każdy pokój posiada również balkon lub taras, a niektóre oferują widok na basen lub miasto."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej i lokalne specjały na śniadania, obiady i kolacje. Śniadanie w formie bufetu jest wliczone w cenę pokoju. Do dyspozycji gości są również bar oraz snack bar przy basenie. W sobotnie wieczory organizowane są specjalne kolacje z lokalnymi przysmakami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa baseny: jeden odkryty z wydzieloną strefą dla dzieci oraz jeden kryty, sezonowy i podgrzewany. Goście mogą korzystać ze spa i masaży (dodatkowo płatnych) oraz centrum fitness/siłowni. Dostępne są również aktywności takie jak golf, bilard (płatny), tenis (lekcje płatne), tenis stołowy, rzutki, joga, piesze wycieczki, jazda konna i rowerowa. Hotel organizuje sezonowy program rozrywkowy, w tym cotygodniowe wieczory taneczne."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Amoros jest polecany dla rodzin z dziećmi, par oraz grup szukających relaksującego wypoczynku w centrum miejscowości. Jego udogodnienia, takie jak strefa dla dzieci przy basenie i różnorodne aktywności, sprawiają, że jest to odpowiednie miejsce dla gości w każdym wieku. Przyjazna atmosfera i pomocny personel dodatkowo podnoszą komfort pobytu."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko portu i centrum",
+  "Bardzo przyjazny i pomocny personel",
+  "Czystość w całym obiekcie",
+  "Dobre i urozmaicone śniadania w formie bufetu",
+  "Dostępne baseny, w tym podgrzewany kryty"
+ ],
+ "cons": [
+  "Odległość od lotniska w Palmie",
+  "Hotel może wydawać się nieco \"wiekowy\"",
+  "Słaba klimatyzacja w pokojach",
+  "Słabe wyciszenie pokoi",
+  "Jakość jedzenia (niektóre opinie)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa piaszczysta plaża Son Moll znajduje się około 400-450 metrów od hotelu, co zajmuje około 10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Palma de Mallorca (PMI), jest oddalone o około 64,1 km w linii prostej (76-81 km drogą). Transfer trwa około 1 godziny 5 minut do 1 godziny 30 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel posiada dwa baseny, w tym jeden odkryty z wydzieloną strefą dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest przyjazny dzieciom i posiada wydzieloną strefę dla dzieci przy basenie. Jest polecany dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest przyjazny dzieciom i polecany dla rodzin."
+  }
+ ],
+ "address": "Carrer de Ses Llegitimes, 37, 07590 Cala Ratjada, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 64.1,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard (płatny)",
+  "Tenis (lekcje płatne)",
+  "Tenis stołowy",
+  "Rzutki",
+  "Joga",
+  "Piesze wycieczki",
+  "Jazda konna",
+  "Jazda rowerowa"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "centrum",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy",
+  "pokój dwuosobowy (dwa łóżka pojedyncze lub jedno podwójne)",
+  "pokój dwuosobowy dla 2 dorosłych i 1 dziecka",
+  "apartament (suite)"
+ ],
+ "rooms": 80,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.710233,
+  "lon": 3.4583772,
+  "src": "osm"
+ },
+ "sources": [
+  "hotels-in-mallorca.net",
+  "onthebeach.ie",
+  "booking.com",
+  "hotelamoros.com",
+  "jump2spain.com",
+  "thomascook.com",
+  "check24.de",
+  "loveholidays.com"
+ ],
+ "updated": "2026-11-27"
+}

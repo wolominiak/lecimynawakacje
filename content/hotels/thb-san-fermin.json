@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:thb san fermin",
+ "slug": "thb-san-fermin",
+ "name": "Thb San Fermin",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Benalmadena"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/benalmadena-costa/san-fermin-by-dorobe-spanelsko/5536fec60ff3aa90b6dc1af4cfb47915_3-244.jpg",
+ "city": "Benalmadena",
+ "intro": [
+  "THB San Fermin to 3-gwiazdkowy hotel położony w turystycznej miejscowości Benalmadena na wybrzeżu Costa del Sol w Hiszpanii. Obiekt usytuowany jest w zadbanym ogrodzie, w niedużej odległości od centrum miasta, piaszczystej plaży oraz popularnej mariny.",
+  "Hotel, otwarty w 1976 roku i oferujący odnowione pokoje, jest odpowiedni dla par, rodzin z dziećmi oraz grup przyjaciół, poszukujących komfortowego zakwaterowania z dostępem do udogodnień rekreacyjnych i bliskością lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel THB San Fermin znajduje się w dzielnicy Benalmadena Costa, przy ulicy San Fermin 21. Obiekt usytuowany jest w rozległym ogrodzie o powierzchni 4000 m², w pobliżu centrum Benalmadeny. Piaszczysta plaża publiczna, np. Torre Bermeja, oddalona jest o około 300-400 metrów, a dojście do niej wymaga przejścia przez ulicę. Port Puerto Marina znajduje się w odległości 1-1.5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 316 komfortowych pokoi rozmieszczonych w dwóch budynkach o wysokości do 5 i 9 pięter. Pokoje zostały odnowione i dostępne są w wariantach dwuosobowych (standard, superior, classic), z widokiem na basen lub morze, wyposażone w balkon lub taras. Standardowe udogodnienia obejmują klimatyzację, telewizor z płaskim ekranem, prywatną łazienkę z suszarką do włosów, lodówkę, czajnik elektryczny oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen oraz oddzielny brodzik dla dzieci. Do dyspozycji gości jest również siłownia/centrum fitness, boisko wielofunkcyjne, sala do squasha oraz stół do tenisa stołowego. Bilard dostępny jest za dodatkową opłatą. Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja bufetowa oferująca dania kuchni międzynarodowej z opcją show cooking. Goście mogą korzystać także z kawiarni-baru z tarasem, baru przy basenie oraz food trucka serwującego dania międzynarodowe. Dostępne opcje wyżywienia to śniadania, śniadania i obiadokolacje (HB) oraz pełne wyżywienie (FB)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik oraz plac zabaw. Dostępny jest również miniklub, co czyni hotel odpowiednim miejscem na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko centrum, plaży i mariny",
+  "Smaczne i urozmaicone jedzenie",
+  "Zadbany ogród i basen",
+  "Miła i pomocna obsługa",
+  "Bezpłatne Wi-Fi na terenie całego obiektu"
+ ],
+ "cons": [
+  "Położenie na stromym wzgórzu, utrudniające poruszanie się osobom z ograniczoną mobilnością",
+  "Potencjalny hałas z drzwi pokojowych i ograniczona dźwiękoszczelność",
+  "Brak informacji o leżakach i ręcznikach na plaży",
+  "Niektóre udogodnienia mogą być płatne lub sezonowe"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Publiczna piaszczysta plaża znajduje się około 300-400 metrów od hotelu. Dojście do niej wymaga przejścia przez ulicę."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska w Maladze (AGP) wynosi około 8-14 km, co zajmuje około 15-20 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu. Dostępny jest odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując brodzik, plac zabaw oraz miniklub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Calle San Fermin 21, Benalmadena",
+ "adultsOnly": false,
+ "airportKm": 11,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "siłownia",
+  "boisko wielofunkcyjne",
+  "sala do squasha",
+  "bilard (za opłatą)",
+  "tenis stołowy"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Benalmadena Costa",
+ "bars": 3,
+ "beachDistanceM": 350,
+ "beachType": "piaszczysta",
+ "centerKm": 0.875,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1976,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe (standardowe, superior, classic) z widokiem na basen lub morze, z balkonem lub tarasem, klimatyzacją, telewizorem z płaskim ekranem, prywatną łazienką z suszarką do włosów, lodówką, czajnikiem elektrycznym i bezpłatnym Wi-Fi."
+ ],
+ "rooms": 316,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "wakacje.pl",
+  "hotelscombined.co.uk",
+  "lastminute.com",
+  "esky.pl",
+  "itaka.pl",
+  "trivago.co.uk",
+  "kayak.pl",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

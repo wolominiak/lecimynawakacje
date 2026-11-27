@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:livvo koala garden",
+ "slug": "livvo-koala-garden",
+ "name": "Livvo Koala Garden",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Maspalomas"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/maspalomas/livvo-koala-garden/8957/b31768cc3d672eccc0c98-244.jpg",
+ "city": "Maspalomas",
+ "intro": [
+  "Livvo Koala Garden to czterogwiazdkowy hotel położony w spokojnej części Maspalomas na południu Gran Canarii. Obiekt, odnowiony w 2017 roku, oferuje komfortowe zakwaterowanie w dwupiętrowych blokach lub bungalowach, otoczonych tropikalnymi ogrodami.",
+  "Hotel jest idealnym miejscem na rodzinne wakacje oraz dla par, które cenią sobie zarówno relaks przy basenie, jak i dostęp do licznych atrakcji. Bliskość parku rozrywki Holiday World oraz bezpłatny transport na plażę to dodatkowe atuty tego miejsca."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Livvo Koala Garden znajduje się w Maspalomas, około 3 km od centrum miejscowości i 200 m od parku rozrywki Holiday World. Odległość od publicznej, piaszczystej plaży Maspalomas wynosi około 3,5 km. Hotel zapewnia bezpłatny bus na plażę, jednak leżaki i parasole na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 160-162 odnowionymi pokojami, w tym pokojami dwuosobowymi, rodzinnymi i Superior Double. Wszystkie pokoje wyposażone są w klimatyzację, TV-SAT, Wi-Fi, sejf, mini-bar/lodówkę, zestaw do parzenia kawy i herbaty oraz łazienkę z suszarką do włosów. Każdy pokój posiada również balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: bufetowa Eucalyptus z daniami międzynarodowymi oraz włoska restauracja Joey's. Goście mogą korzystać z trzech barów: baru przy basenie, snack baru oraz sport baru Surf & Sail. Pakiet All Inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu dostępnych jest kilka basenów zewnętrznych ze słodką wodą, w tym baseny dla dzieci oraz część sezonowo podgrzewana. Dla najmłodszych przygotowano strefę water-splash, mini klub (4-12 lat) i plac zabaw. Dorośli i dzieci mogą korzystać z animacji, gier, zajęć, pokazów i muzyki na żywo. Hotel oferuje również siłownię, boisko wielofunkcyjne, tenis stołowy, bilard, rzutki i mini golfa. W pobliżu znajduje się pole golfowe Maspalomas."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu i w pokojach. Goście mogą skorzystać z usług masażu i zabiegów kosmetycznych. Obiekt jest hotelem rodzinnym i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja",
+  "Dobre i urozmaicone jedzenie",
+  "Czystość i przestronne, odnowione pokoje",
+  "Liczne baseny, w tym podgrzewane",
+  "Bezpłatny bus na plażę",
+  "Bliskość parku rozrywki Holiday World"
+ ],
+ "cons": [
+  "Odległość od plaży wymaga transportu",
+  "Ostatni bus na plażę odjeżdża zbyt wcześnie (16:30)",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 3 km od morza i 3,5 km od publicznej, piaszczystej plaży Maspalomas. Hotel oferuje bezpłatny bus na plażę."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada kilka basenów dla dzieci, strefę water-splash, mini klub (4-12 lat), plac zabaw oraz animacje dla dzieci i dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "W hotelu dostępna jest strefa water-splash dla dzieci, ale nie ma pełnowymiarowego aquaparku ani dużych zjeżdżalni."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Gran Canaria Airport (LPA), oddalone o około 22-33 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to hotel rodzinny."
+  }
+ ],
+ "address": "Calle Géminis 2, 35100 Maspalomas, San Bartolomé de Tirajana, Las Palmas, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 22,
+ "airportName": "Gran Canaria Airport (LPA)",
+ "amenities": [
+  "siłownia",
+  "masaże",
+  "zabiegi kosmetyczne",
+  "boisko wielofunkcyjne",
+  "tenis stołowy",
+  "bilard",
+  "rzutki",
+  "mini golf"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Maspalomas",
+ "bars": 3,
+ "beachDistanceM": 3500,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój dwuosobowy (Double) z klimatyzacją, TV-SAT, telefonem, Wi-Fi, sejfem, mini-barem/lodówką, zestawem do parzenia kawy i herbaty, łazienką (wanna/prysznic, WC, suszarka do włosów) oraz balkonem lub tarasem",
+  "pokój rodzinny (Family) z klimatyzacją, TV-SAT, telefonem, Wi-Fi, sejfem, mini-barem/lodówką, zestawem do parzenia kawy i herbaty, łazienką (wanna/prysznic, WC, suszarka do włosów) oraz balkonem lub tarasem, przestronniejszy, może mieć oddzielną sypialnię lub pokój dzienny",
+  "pokój Superior Double z klimatyzacją, TV-SAT, telefonem, Wi-Fi, sejfem, mini-barem/lodówką, zestawem do parzenia kawy i herbaty, łazienką (wanna/prysznic, WC, suszarka do włosów) oraz balkonem lub tarasem, przestronniejszy, może mieć oddzielną sypialnię lub pokój dzienny"
+ ],
+ "rooms": 160,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7627755,
+  "lon": -15.5922199,
+  "src": "osm"
+ },
+ "sources": [
+  "livvohotels.com",
+  "aptokoalagarden.com",
+  "wakacje.pl",
+  "yandex.com",
+  "booking.com",
+  "tui.pl",
+  "tui.co.uk",
+  "hotelsingrancanaria.net"
+ ],
+ "updated": "2026-11-27"
+}

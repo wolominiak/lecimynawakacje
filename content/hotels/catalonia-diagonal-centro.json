@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:catalonia diagonal centro",
+ "slug": "catalonia-diagonal-centro",
+ "name": "Catalonia Diagonal Centro",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Barcelona i okolice",
+  "Barcelona"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/barcelona/barcelona/catalonia-diagonal-centro/diagonalcentroentrada.jpg",
+ "city": "Barcelona",
+ "intro": [
+  "Hotel Catalonia Diagonal Centro to czterogwiazdkowy obiekt położony w sercu barcelońskiej dzielnicy Eixample. Jest to idealna baza wypadowa dla turystów pragnących zwiedzać miasto, par, rodzin oraz osób podróżujących służbowo. Bliskość kluczowych atrakcji oraz komunikacji miejskiej sprawia, że hotel jest doskonałym wyborem dla tych, którzy cenią sobie wygodę i łatwy dostęp do najważniejszych punktów Barcelony.",
+  "Obiekt, otwarty w 1991 roku i częściowo odnowiony w 2018 roku, oferuje komfortowe zakwaterowanie w nowoczesnych pokojach. Goście docenią sezonowy basen ze słoną wodą, centrum fitness oraz bezpłatne Wi-Fi. Hotel nie oferuje pakietu all inclusive, ale na miejscu znajduje się restauracja serwująca dania sezonowe oraz bar."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Catalonia Diagonal Centro mieści się w prestiżowej dzielnicy Eixample w Barcelonie, przy Carrer de Balmes. Jego centralna lokalizacja zapewnia łatwy dostęp do takich atrakcji jak Passeig de Gràcia, Rambla de Catalunya oraz słynna Casa Milà (La Pedrera). Do centrum Barcelony jest zaledwie około 1,3 km, a najbliższe lotnisko - Barcelona El Prat Airport (BCN) - oddalone jest o około 15-17 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje od 84 do 112 nowocześnie urządzonymi pokojami, w tym pokojami jednoosobowymi, dwuosobowymi, trzyosobowymi, Premium, Superior, Executive oraz Suite, a także pokojami rodzinnymi. Wszystkie pokoje wyposażone są w klimatyzację/ogrzewanie, Smart TV z Chromecast, minibar, sejf oraz łazienkę z suszarką do włosów. Niektóre pokoje oferują dodatkowo zestaw do parzenia kawy/herbaty, szlafroki i żelazko."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się sezonowy basen zewnętrzny ze słoną wodą, idealny do relaksu po dniu zwiedzania miasta. Goście mogą również korzystać z centrum fitness/siłowni. Hotel nie posiada aquaparku ani animacji, ale oferuje usługi masażu oraz solarium."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "W hotelu Catalonia Diagonal Centro znajduje się restauracja Gastrobar, która serwuje lunche i kolacje oparte na sezonowych daniach. Do dyspozycji gości jest również bar/lounge oraz snack bar/deli. Hotel nie oferuje opcji all inclusive, ale istnieje możliwość wykupienia śniadań w formie bufetu za dodatkową opłatą."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest polecany dla szerokiego grona podróżnych - od turystów zwiedzających miasto, przez rodziny i pary, po osoby podróżujące służbowo. Jego doskonała lokalizacja i komfortowe udogodnienia sprawiają, że jest to idealne miejsce dla tych, którzy szukają wygodnej bazy wypadowej do odkrywania Barcelony."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Barcelony",
+  "Bliskość stacji metra Diagonal i głównych atrakcji",
+  "Pomocny i uprzejmy personel",
+  "Czyste i przestronne pokoje",
+  "Sezonowy basen zewnętrzny"
+ ],
+ "cons": [
+  "Możliwy hałas z ulicy/metra na niższych piętrach",
+  "Brak all inclusive",
+  "Parking dodatkowo płatny",
+  "Brak aquaparku i animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Brak informacji o bezpośredniej odległości od plaży, ponieważ jest to hotel miejski."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 15-17 km od lotniska Barcelona El Prat Airport (BCN)."
+  },
+  {
+   "q": "Czy hotel posiada baseny lub aquapark?",
+   "a": "Hotel posiada sezonowy basen zewnętrzny ze słoną wodą, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dzieci w wieku 6-11 lat mogą przebywać bezpłatnie w pokoju rodziców, a hotel oferuje usługi opieki nad dziećmi (babysitting)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu all inclusive. Dostępne jest śniadanie w formie bufetu za dodatkową opłatą."
+  }
+ ],
+ "address": "Carrer de Balmes, 142-146, 08008 Barcelona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Barcelona El Prat Airport (BCN)",
+ "amenities": [
+  "Recepcja 24h",
+  "Przechowalnia bagażu",
+  "Usługi pralni (za opłatą)",
+  "Usługi opieki nad dziećmi (babysitting)"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Eixample",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 1.3,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści zwiedzający miasto",
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1991,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Premium Double or Twin",
+  "Superior",
+  "Pokój z tarasem",
+  "Executive",
+  "Suite",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 84,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3939068,
+  "lon": 2.1568633,
+  "src": "osm"
+ },
+ "sources": [
+  "barcelonahotels.it",
+  "expedia.com",
+  "hotels.com",
+  "barcelona.cat",
+  "cataloniahotels.com",
+  "barcelonashotel.com",
+  "agoda.com",
+  "h-rez.com"
+ ],
+ "updated": "2026-11-27"
+}

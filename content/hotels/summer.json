@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:summer",
+ "slug": "summer",
+ "name": "Summer",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Calella"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/calella/summer/5d2736f35c61a2a8941b7.jpg",
+ "city": "Calella",
+ "intro": [
+  "Hotel Summer to czterogwiazdkowy obiekt położony w popularnej miejscowości Calella na wybrzeżu Costa del Maresme w Hiszpanii. Jest to idealne miejsce dla osób szukających połączenia relaksu na plaży z dostępem do miejskich atrakcji.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par, oferując szereg udogodnień i programów animacyjnych dostosowanych do różnych grup wiekowych. Dzięki odnowionym udogodnieniom i dogodnej lokalizacji, stanowi dobrą bazę wypadową do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Summer znajduje się w Calella, około 400-500 metrów od piaszczystej plaży Calella, co zajmuje około 5 minut spacerem. Centrum miejscowości oddalone jest o około 700 metrów, czyli 5-10 minut spacerem. Najbliższe lotnisko to Girona-Costa Brava (GRO), w odległości 33-42 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 74 pokojami, które zostały wyremontowane w 2012 roku. Dostępne są pokoje dwuosobowe, trzyosobowe, rodzinne (dla 2 dorosłych + 2 dzieci) i czteroosobowe. Wszystkie pokoje są klimatyzowane i ogrzewane, wyposażone w prywatną łazienkę, telewizor z płaskim ekranem, sejf (płatny), lodówkę/minibar oraz prywatny taras lub balkon."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje odkryty basen, dostępny sezonowo lub przez cały rok. Dla dzieci przygotowano strefę zjeżdżalni i splash zone, otwartą od maja do września, oraz plac zabaw i wewnętrzną strefę zabaw. Hotel prowadzi program animacyjny dla dorosłych i dzieci, a także oferuje tenis stołowy i bilard."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni hiszpańskiej, międzynarodowej i śródziemnomorskiej. Do dyspozycji gości są również bar, bar przy basenie oraz kawiarnia. Pakiet All Inclusive obejmuje śniadanie, obiad, kolację oraz napoje, a także przekąski i koktajle w barze przy basenie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub dla dzieci od 4 roku życia, salę gier, plac zabaw oraz wewnętrzną strefę zabaw. Dodatkowo, w sezonie działa strefa zjeżdżalni i splash zone, a także program animacyjny dostosowany do potrzeb dzieci."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Udogodnienia odnowione w 2012 roku",
+  "Program animacyjny dla dorosłych i dzieci",
+  "Dostępne zjeżdżalnie dla dzieci"
+ ],
+ "cons": [
+  "Standard bliższy 3 gwiazdkom niż 4",
+  "Problemy z czystością (pościel, prysznice)",
+  "Jedzenie bywa zimne, powtarzalne i słabo uzupełniane",
+  "Mały basen z ograniczoną liczbą leżaków",
+  "Hałas z części wspólnych lub od innych gości"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 400-500 metrów od piaszczystej plaży Calella, co stanowi 5 minut spacerem."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO) oddalone o około 33-42 km. Lotnisko Barcelona-El Prat (BCN) znajduje się w odległości około 59-74 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel dysponuje strefą zjeżdżalni i splash zone, która jest otwarta od maja do września (zjeżdżalnie od czerwca do września)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje mini klub, plac zabaw, wewnętrzną strefę zabaw, zjeżdżalnie oraz program animacyjny dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, a w niektórych pokojach również."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Carrer Montnegre, 15, 08370 Calella, Barcelona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 33,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Tenis stołowy",
+  "Bilard",
+  "Wypożyczalnia rowerów",
+  "Sala gier",
+  "Plac zabaw",
+  "Wewnętrzna strefa zabaw"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Costa del Maresme",
+ "bars": 3,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 0.7,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1969,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, łazienką, TV, sejfem (płatnym), lodówką/minibarem, balkonem/tarasem",
+  "Pokój trzyosobowy z klimatyzacją, łazienką, TV, sejfem (płatnym), lodówką/minibarem, balkonem/tarasem",
+  "Pokój rodzinny (dla 2 dorosłych + 2 dzieci) z klimatyzacją, łazienką, TV, sejfem (płatnym), lodówką/minibarem, balkonem/tarasem",
+  "Pokój czteroosobowy z klimatyzacją, łazienką, TV, sejfem (płatnym), lodówką/minibarem, balkonem/tarasem"
+ ],
+ "rooms": 74,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.6138825,
+  "lon": 2.6503173,
+  "src": "osm"
+ },
+ "sources": [
+  "thomascook.com",
+  "h-rez.com",
+  "booking.com",
+  "momondo.com",
+  "calella-hotels.com",
+  "lastminute.com",
+  "kayak.sg",
+  "reserving.com"
+ ],
+ "updated": "2026-11-27"
+}

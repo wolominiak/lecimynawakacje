@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:h10 delfin adults only",
+ "slug": "h10-delfin-adults-only",
+ "name": "H10 Delfin Adults Only",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Dorada",
+  "Salou"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-dorada/salou/h10-delfin-adults-only-pl/4686/cina-principal_0004hd-244.jpg",
+ "city": "Salou",
+ "intro": [
+  "H10 Delfin Adults Only to czterogwiazdkowy hotel położony w centrum Salou na Costa Dorada, w największej dzielnicy handlowej. Jest to obiekt przeznaczony wyłącznie dla dorosłych, co gwarantuje spokojną atmosferę i jest idealnym wyborem dla par oraz osób szukających relaksu.",
+  "Hotel znajduje się zaledwie 200-250 metrów od piaszczystej plaży Levante i około 200 metrów od ścisłego centrum miejscowości. Oferuje komfortowe zakwaterowanie, różnorodne opcje gastronomiczne oraz program animacyjny dostosowany do potrzeb dorosłych gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel H10 Delfin Adults Only zlokalizowany jest w sercu Salou, w dynamicznej dzielnicy handlowej, co zapewnia łatwy dostęp do sklepów, barów i restauracji. Od piaszczystej plaży Levante dzieli go krótki spacer o długości około 200-250 metrów. Najbliższe lotnisko w Reus oddalone jest o około 10-12 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 242 pokojami, rozmieszczonymi w jednym sześciopiętrowym budynku. W ofercie znajdują się pokoje dwuosobowe, trzyosobowe, Superior oraz jednoosobowe, niektóre z widokiem na basen. Standardowe wyposażenie obejmuje klimatyzację, prywatny balkon, telewizor z płaskim ekranem oraz łazienkę z suszarką do włosów. Sejf jest bezpłatny, a lodówka/mini-bar dostępna często za opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, w tym jeden z fontanną i tarasem słonecznym, a także unikalny basen typu \"plunge pool\" na dachu z widokiem na morze. Hotel oferuje program animacyjny dla dorosłych, obejmujący dzienne aktywności takie jak aquagym czy zumba, oraz wieczorne rozrywki z muzyką na żywo i karaoke. Goście mogą również korzystać z centrum fitness, usług masażu, bilarda (za opłatą) i tenisa stołowego."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "Główna restauracja bufetowa Blancafort serwuje dania kuchni śródziemnomorskiej i międzynarodowej z pokazami gotowania. Do dyspozycji gości są również liczne bary: Pool Bar przy basenie, elegancki lobby bar Dry & Blue Bar z tarasem, kawiarnia Mike's Coffee oraz Rooftop Bar Blue View na dachu. Hotel oferuje opcje wyżywienia takie jak śniadania, obiadokolacje i pełne wyżywienie, jednak napoje do posiłków nie są wliczone."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Salou, blisko plaży i atrakcji.",
+  "Czystość hotelu i pomocny personel.",
+  "Urozmaicony program animacyjny dla dorosłych.",
+  "Basen na dachu z widokiem na morze.",
+  "Dobre jedzenie z dużym wyborem."
+ ],
+ "cons": [
+  "Cienkie ściany między pokojami.",
+  "Mniej nowoczesny wystrój pokoi w porównaniu do części wspólnych.",
+  "Dodatkowe opłaty za lodówki/mini-bary i czajniki w pokojach.",
+  "Mieszane opinie na temat jakości jedzenia.",
+  "Ograniczona pojemność wind."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel H10 Delfin Adults Only znajduje się około 200-250 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel jest przeznaczony wyłącznie dla dorosłych, zazwyczaj od 16 roku życia."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Reus (REU), oddalone o około 10-12 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych, więc nie jest odpowiedni dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Carrer de La Rioja, 4-6, 43840 Salou, Tarragona, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 10,
+ "airportName": "Reus (REU)",
+ "amenities": [
+  "siłownia",
+  "spa (masaże)",
+  "bilard (za opłatą)",
+  "tenis stołowy",
+  "program animacyjny dla dorosłych"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "centrum Salou",
+ "bars": 4,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "pary",
+  "osoby dorosłe szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2006,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy z klimatyzacją, balkonem, TV, łazienką, suszarką do włosów, bezpłatnym sejfem",
+  "pokój dwuosobowy z widokiem na basen z klimatyzacją, balkonem, TV, łazienką, suszarką do włosów, bezpłatnym sejfem",
+  "pokój trzyosobowy z klimatyzacją, balkonem, TV, łazienką, suszarką do włosów, bezpłatnym sejfem",
+  "pokój Superior z klimatyzacją, balkonem, TV, łazienką, suszarką do włosów, bezpłatnym sejfem, ekspresem Nespresso",
+  "pokój jednoosobowy z klimatyzacją, balkonem, TV, łazienką, suszarką do włosów, bezpłatnym sejfem"
+ ],
+ "rooms": 242,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "atsalouhotels.com",
+  "holidaygems.co.uk",
+  "google.com",
+  "h10hotels.com",
+  "oyster.com",
+  "dnatatravel.com",
+  "onthebeach.ie"
+ ],
+ "updated": "2026-11-27"
+}

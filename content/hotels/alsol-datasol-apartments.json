@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:alsol datasol apartments",
+ "slug": "alsol-datasol-apartments",
+ "name": "Alsol Datasol Apartments",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/alsol-datasol-apartments/75ac7f2c59b693cba6b01.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Alsol Datasol Apartments to kameralny aparthotel położony w centrum tętniącego życiem Playa del Inglés na Gran Canarii. Obiekt oferuje niezależne apartamenty z aneksem kuchennym, co czyni go idealnym wyborem dla osób ceniących swobodę i możliwość samodzielnego przygotowywania posiłków. Bliskość plaży oraz licznych atrakcji sprawia, że jest to dobra baza wypadowa do odkrywania uroków wyspy.",
+  "Hotel jest polecany dla par, małych grup przyjaciół, rodzin z dziećmi oraz singli, którzy szukają spokojnego miejsca do wypoczynku, jednocześnie mając łatwy dostęp do rozrywki i udogodnień kurortu. Sprawdzi się dla tych, którzy preferują niezależny styl podróżowania i chcą poczuć lokalny klimat."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Alsol Datasol Apartments znajduje się w dzielnicy La Luna, tuż przy głównej drodze w Playa del Inglés. Obiekt jest oddalony o około 400 metrów od piaszczystej plaży Playa del Inglés. W bezpośrednim sąsiedztwie aparthotelu, w promieniu 5 minut spacerem, znajduje się wiele barów, sklepów i restauracji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Aparthotel oferuje 11 apartamentów z jedną lub dwiema sypialniami. Każdy apartament wyposażony jest w balkon, aneks kuchenny z lodówką, mikrofalówką, płytą grzewczą, czajnikiem i tosterem. W łazience znajduje się prysznic i suszarka do włosów, a w salonie telewizor z płaskim ekranem i kanałami satelitarnymi. Dostępne są wentylatory, sejf jest dodatkowo płatny. Sprzątanie odbywa się raz na pobyt."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden wspólny odkryty basen, który jest podgrzewany w miesiącach zimowych. W okolicy dostępne są liczne możliwości aktywnego spędzania czasu, takie jak minigolf, parasailing, skutery wodne, windsurfing, nurkowanie czy wędkarstwo. Klub golfowy Maspalomas Golf Club oddalony jest o 5 minut jazdy samochodem."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Goście mogą korzystać z bezpłatnego Wi-Fi dostępnego w całym obiekcie, choć w opiniach pojawiają się wzmianki o sporadycznych problemach z połączeniem. Na życzenie dostępne są bezpłatne łóżeczka dziecięce. Recepcja czynna jest w ograniczonych godzinach, a w weekendy jest nieczynna."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży, sklepów i restauracji",
+  "Czyste i przestronne apartamenty",
+  "Dobrze wyposażony aneks kuchenny",
+  "Spokojna atmosfera i przyjazny personel",
+  "Basen podgrzewany zimą"
+ ],
+ "cons": [
+  "Może być głośno (słychać sąsiadów)",
+  "Sporadyczne problemy z Wi-Fi",
+  "Brak klimatyzacji (dostępne wentylatory)",
+  "Recepcja czynna w ograniczonych godzinach",
+  "Brak niemieckich kanałów TV"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża Playa del Inglés znajduje się około 400 metrów od aparthotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Gran Canaria Airport (LPA), jest oddalone o około 31-33 km. Dojazd samochodem zajmuje około 19-25 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie obiektu nie ma aquaparku ani zjeżdżalni. Aquaparki, takie jak Aqualand, znajdują się w okolicy."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Dostępne są łóżeczka dziecięce na życzenie bez dodatkowych opłat."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, choć niektórzy goście zgłaszali sporadyczne problemy z połączeniem."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "W pokojach nie ma klimatyzacji, ale dostępne są wentylatory."
+  }
+ ],
+ "address": "Calle Luna 2, ES35100 Playa del Inglés, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 31,
+ "airportName": "Gran Canaria Airport (LPA)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Odkryty basen (podgrzewany zimą)",
+  "Aneks kuchenny w apartamentach",
+  "Balkon w apartamentach",
+  "Łóżeczka dziecięce na życzenie"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "La Luna",
+ "bars": null,
+ "beachDistanceM": 400,
+ "beachType": "Piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Małe grupy",
+  "Rodziny",
+  "Single z dziećmi",
+  "Osoby szukające niezależnego wypoczynku"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1973,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament z jedną sypialnią z balkonem, aneksem kuchennym (lodówka, mikrofalówka, płyta grzewcza/kuchenka, czajnik, toster), łazienką (prysznic, suszarka do włosów), TV satelitarną, wentylatorem (sejf płatny)",
+  "Apartament z dwiema sypialniami z balkonem, aneksem kuchennym (lodówka, mikrofalówka, płyta grzewcza/kuchenka, czajnik, toster), łazienką (prysznic, suszarka do włosów), TV satelitarną, wentylatorem (sejf płatny)"
+ ],
+ "rooms": 11,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "holidaycheck.de",
+  "reserving.com",
+  "tui.com",
+  "vakantiediscounter.nl",
+  "centraldereservas.com",
+  "alsolturismo.com",
+  "trivago.co.uk",
+  "loveholidays.com"
+ ],
+ "updated": "2026-11-27"
+}

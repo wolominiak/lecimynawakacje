@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:osiris ibiza",
+ "slug": "osiris-ibiza",
+ "name": "Osiris Ibiza",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Ibiza",
+  "San Antonio"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/ibiza/san-antonio/osiris-ibiza/41b1538af2515459a70e9.JPG",
+ "city": "San Antonio",
+ "intro": [
+  "Hotel Osiris Ibiza to trzygwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Es Puet w Zatoce San Antonio. Jest to idealne miejsce dla par i rodzin, które szukają spokojnego wypoczynku, jednocześnie ceniąc sobie bliskość centrum miasta i łatwy dostęp do atrakcji Ibizy. Hotel oferuje relaksującą atmosferę i dogodną lokalizację, umożliwiającą zarówno plażowanie, jak i zwiedzanie okolicy.",
+  "Zbudowany w 1958 roku i odnowiony w 2019 roku, hotel dysponuje 97 pokojami rozmieszczonymi w trzypiętrowym budynku. Goście mogą korzystać z odkrytego basenu, małej siłowni oraz bezpłatnego Wi-Fi. Hotel jest polecany dla osób, które pragną połączyć wypoczynek na plaży ze zwiedzaniem, a także dla rodzin z dziećmi, choć brak tu rozbudowanych animacji czy mini klubu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Osiris Ibiza znajduje się w miejscowości Sant Antoni de Portmany, w dzielnicy San Antonio Bay, bezpośrednio przy piaszczystej plaży Es Puet. Odległość od plaży wynosi zaledwie 50-70 metrów. Plaża nie jest hotelowa, ale leżaki i parasole są dostępne przy basenie hotelowym, a ręczniki można wypożyczyć. Do centrum San Antonio jest około 1.2-1.5 km, co stanowi przyjemny 15-minutowy spacer promenadą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 97 pokoi, w tym jednoosobowe, dwuosobowe (z dwoma łóżkami pojedynczymi lub jednym podwójnym) oraz pokoje ekonomiczne na parterze. Większość pokoi posiada umeblowany balkon lub taras z widokiem na morze lub ogród. Wszystkie pokoje są klimatyzowane i wyposażone w wentylator sufitowy, telewizor z płaskim ekranem, telefon, łazienkę z prysznicem i suszarką do włosów, mini lodówkę, sejf (płatny) oraz bezpłatne Wi-Fi. Dostępne są również bezpłatne łóżeczka dziecięce."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, która serwuje śniadania (08:00-10:00) i kolacje (19:15-21:30) z kuchnią międzynarodową. Goście mogą wybrać opcję wyżywienia Bed & Breakfast (BB) lub Half Board (HB). Na terenie obiektu dostępny jest również bar w lobby z tarasem, idealny na wieczorny relaks. Hotel nie oferuje opcji All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje jednym odkrytym basenem ze słodką wodą, przy którym dostępne są leżaki i parasole. Na terenie obiektu znajduje się mała siłownia, kort tenisowy oraz boisko do siatkówki plażowej. Goście mogą również skorzystać z bilarda w salonie lub wypożyczyć rowery. Raz w tygodniu organizowane są wieczorne występy muzyczne na żywo."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży Es Puet",
+  "Przyjazny i pomocny personel",
+  "Wysoki standard czystości",
+  "Dobre śniadania",
+  "Spokojna, relaksująca atmosfera"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być małe",
+  "Sporadyczne uwagi dotyczące hałasu lub przestarzałego wystroju",
+  "Brak rozbudowanych animacji dla dzieci i dorosłych",
+  "Brak aquaparku",
+  "Brak opcji All Inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 50-70 metrów od piaszczystej plaży Es Puet."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Ibiza (IBZ), oddalone jest o około 12-20 km. Podróż taksówką trwa około 25 minut, a autobusem około 30 minut."
+  },
+  {
+   "q": "Czy hotel ma basen?",
+   "a": "Tak, hotel posiada jeden odkryty basen ze słodką wodą."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin, choć nie oferuje mini klubu ani rozbudowanych animacji dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w częściach wspólnych."
+  }
+ ],
+ "address": "Platja Es Pouet, 1, 07820 Sant Antoni de Portmany, Ibiza, Balearic Islands, Spain",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Port lotniczy Ibiza (IBZ)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizor z płaskim ekranem",
+  "Mini lodówka",
+  "Sejf (płatny)",
+  "Suszarka do włosów",
+  "Balkon/taras"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "San Antonio Bay (Zatoka San Antonio), Es Moli",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "Piaszczysta",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1958,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje jednoosobowe",
+  "Pokoje dwuosobowe (z dwoma pojedynczymi łóżkami lub jednym podwójnym)",
+  "Pokoje ekonomiczne na parterze (mniejsze, z ograniczonym widokiem)",
+  "Pokoje z widokiem na ogród",
+  "Pokoje z widokiem na morze"
+ ],
+ "rooms": 97,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.9703314,
+  "lon": 1.3055891,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "ibizatophotels.com",
+  "momondo.com.au",
+  "hotelosiris.com",
+  "onthebeach.co.uk",
+  "hotel-osiris.com",
+  "zoover.nl",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:villa de adeje beach",
+ "slug": "villa-de-adeje-beach",
+ "name": "Villa De Adeje Beach",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/villa-de-adeje-beach-pl/2804/78475321_1047035719_n-244.jpg",
+ "city": "Costa Adeje",
+ "intro": [
+  "Hotel Villa De Adeje Beach to trzygwiazdkowy obiekt położony w centrum popularnej miejscowości Costa Adeje na Teneryfie. Oferuje zakwaterowanie w studiach i apartamentach z aneksem kuchennym, co czyni go praktycznym wyborem dla osób ceniących sobie niezależność.",
+  "Ze względu na swoją lokalizację blisko plaż i głównych atrakcji, a także program animacyjny, hotel jest polecany zarówno rodzinom z dziećmi, jak i parom szukającym przystępnego cenowo zakwaterowania z dostępem do udogodnień i rozrywki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Villa De Adeje Beach znajduje się w centrum Costa Adeje, zaledwie 5 minut spacerem od głównych atrakcji. Do piaszczystych plaż Torviscas i La Pinta jest około 500 metrów, a do plaży Fañabé około 900 metrów. Plaże są miejskie, dobrze wyposażone i odpowiednie dla rodzin. Hotel nie posiada prywatnej plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 460 pokoi typu studio i apartamentów z jedną sypialnią. Wszystkie wyposażone są w aneks kuchenny z lodówką i płytą grzewczą, balkon lub taras, łazienkę oraz suszarkę do włosów. Należy pamiętać, że wiele udogodnień, takich jak klimatyzacja, telewizor, sejf czy czajnik, może być dodatkowo płatnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni lokalnej i międzynarodowej na śniadania, obiady i kolacje. Do dyspozycji gości są również dwa bary: bar przy basenie oferujący przekąski oraz lounge bar. Pakiet all inclusive obejmuje posiłki w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe w godzinach 10:00-23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami zewnętrznymi, z których jeden jest podgrzewany. Dla dzieci wydzielono specjalną sekcję w jednym z basenów. Obiekt oferuje program animacji dziennych i wieczornych, a także dostęp do centrum fitness, solarium, jacuzzi i sauny. Goście mogą korzystać z bilarda, rzutek, tenisa stołowego, squasha oraz zajęć takich jak aerobik w wodzie i pilates."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną sekcję w basenie. W pobliżu hotelu znajdują się popularne parki wodne: Aqualand Costa Adeje (ok. 350 m) i Siam Park (ok. 1.5 km), które stanowią dodatkową atrakcję dla rodzin."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaż i atrakcji",
+  "Dobre jedzenie w formie bufetu",
+  "Programy animacyjne dla dorosłych i dzieci",
+  "Aneks kuchenny w każdym pokoju"
+ ],
+ "cons": [
+  "Wiele dodatkowych opłat (Wi-Fi, klimatyzacja, sejf, TV)",
+  "Pokoje mogą być podstawowe i nieco przestarzałe",
+  "Jedzenie w bufecie może stać się monotonne",
+  "Brak mini klubu dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 500 metrów od plaż Torviscas i La Pinta, a do plaży Fañabé jest około 900 metrów (10 minut spacerem)."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife South (TFS), oddalone o około 16-20 km. Czas transferu wynosi około 25-30 minut."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma zjeżdżalni ani aquaparku. W pobliżu znajdują się Aqualand Costa Adeje (ok. 350 m) i Siam Park (ok. 1.5 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada wydzieloną sekcję dla dzieci w basenie oraz program animacji. W pobliżu znajdują się parki wodne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w całym obiekcie lub w miejscach publicznych, ale jest płatne."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Tak, hotel oferuje pakiet all inclusive, który obejmuje śniadania, obiady, kolacje w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe od 10:00 do 23:00."
+  }
+ ],
+ "address": "Avenida de los Pueblos, 41, Adeje, Tenerife, Canary Islands, Spain, 38660",
+ "adultsOnly": false,
+ "airportKm": 15.96,
+ "airportName": "Tenerife South (TFS)",
+ "amenities": [
+  "Solarium",
+  "Jacuzzi",
+  "Sauna",
+  "Centrum fitness",
+  "Bilard",
+  "Rzutki",
+  "Tenis stołowy",
+  "Squash",
+  "Golf (w pobliżu)",
+  "Aerobik w wodzie",
+  "Pilates"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Costa Adeje",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1996,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2007,
+ "restaurants": 1,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, balkonem/tarasem, łazienką",
+  "Apartament z jedną sypialnią, aneksem kuchennym, balkonem/tarasem, łazienką"
+ ],
+ "rooms": 460,
+ "spa": true,
+ "wifi": false,
+ "geo": {
+  "lat": 28.0906,
+  "lon": -16.7364,
+  "src": "web"
+ },
+ "sources": [
+  "agoda.com",
+  "toptenerifehotels.com",
+  "tui.co.uk",
+  "cvent.com",
+  "thomascook.com",
+  "adejehotel.com",
+  "adeje-hotels.com",
+  "hotelsadeje.com"
+ ],
+ "updated": "2026-11-27"
+}

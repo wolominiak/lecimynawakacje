@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:stella maris",
+ "slug": "stella-maris-blanes",
+ "name": "Stella Maris",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Blanes"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/blanes/stella-maris/otel-stella-maris__6_.jpg",
+ "city": "Blanes",
+ "intro": [
+  "Hotel Stella Maris to trzygwiazdkowy obiekt położony w miejscowości Blanes na Costa Brava w Hiszpanii. Znajduje się w spokojnej dzielnicy mieszkalnej El Pins, zaledwie 100 metrów od najdłuższej piaszczystej plaży S'Abanell.",
+  "Obiekt, otwarty w latach 60. lub 70. i odnowiony w 2006 roku, jest idealnym wyborem dla rodzin i par szukających komfortowego zakwaterowania blisko morza, z dostępem do udogodnień rekreacyjnych i wieczornej rozrywki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Stella Maris usytuowany jest w Blanes, w dzielnicy El Pins, około 100 metrów od długiej, piaszczystej plaży S'Abanell. Do centrum miejscowości Blanes jest około 1-1.8 km, co stanowi około 20-minutowy spacer. Najbliższe lotnisko, Girona (GRO-Costa Brava), oddalone jest o 26-31 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 98 pokoi, w tym pokoje dwuosobowe, jednoosobowe oraz apartamenty. Większość pokoi wyposażona jest w klimatyzację, prywatny balkon, telewizor, łazienkę z prysznicem lub wanną oraz suszarką do włosów. Dostępne są również sejfy (często płatne) i telefony."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni tradycyjnej i międzynarodowej. Do dyspozycji gości jest także bar z tarasem. Śniadania są dostępne i często pozytywnie oceniane przez gości."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen oraz brodzik dla dzieci. Goście mogą korzystać z kortu tenisowego, tenisa stołowego i wypożyczalni rowerów. Wieczorami organizowana jest rozrywka z muzyką na żywo, a także dostępny jest bilard i pokój gier."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował brodzik oraz pokój gier/arkadę. Dzieci do 12 roku życia mogą przebywać w hotelu bezpłatnie, korzystając z istniejących łóżek. Hotel jest przyjazny rodzinom."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży",
+  "Przyjazny i pomocny personel",
+  "Czystość w hotelu i pokojach",
+  "Smaczne i urozmaicone śniadania",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Hotel jest nieco oddalony od ścisłego centrum miasta",
+  "Pokoje i łazienki bywają opisywane jako małe lub przestarzałe",
+  "Zróżnicowane opinie na temat różnorodności jedzenia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Stella Maris znajduje się około 100 metrów od piaszczystej plaży S'Abanell."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Girona (GRO-Costa Brava), jest oddalone o około 26-31 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu. Dostępny jest odkryty basen i brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada brodzik dla dzieci i pokój gier. Dzieci do 12 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. W pokojach Wi-Fi jest również dostępne, choć niektóre źródła wskazują, że może być płatne."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "Brak informacji o siłowni. W hotelu dostępna jest wanna z hydromasażem/jacuzzi."
+  }
+ ],
+ "address": "Avenida Villa de Madrid 18, 17300 Blanes, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 26,
+ "airportName": "Girona (GRO-Costa Brava)",
+ "amenities": [
+  "Brodzik dla dzieci",
+  "Pokój gier/arkada",
+  "Wanna z hydromasażem/jacuzzi",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów",
+  "Wieczorna rozrywka",
+  "Muzyka na żywo wieczorami",
+  "Bilard"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "El Pins",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "Piaszczysta, złoty piasek",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1965,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2006,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy ekonomiczny (bez balkonu)",
+  "Pokój dwuosobowy z balkonem",
+  "Pokój jednoosobowy",
+  "Pokój typu Twin z balkonem",
+  "Pokój dwuosobowy z dostawką (dla 2 dorosłych + 1 dziecka lub 3 dorosłych)",
+  "Apartament rodzinny",
+  "Apartament z dwiema sypialniami"
+ ],
+ "rooms": 98,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.6626383,
+  "lon": 2.7811313,
+  "src": "osm"
+ },
+ "sources": [
+  "esquiades.com",
+  "lastminute.com",
+  "visitblanes.com",
+  "hotelscostabrava.net",
+  "booking.com",
+  "housity.net",
+  "travelweekly.com",
+  "hotelplanner.com"
+ ],
+ "updated": "2026-11-27"
+}

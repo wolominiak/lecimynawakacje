@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:parque de las americas",
+ "slug": "parque-de-las-americas",
+ "name": "Parque De Las Americas",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/parque-de-las-americas-pl/9858/7f9b1aa13ef5a6165beeaf93201fea63_2-244.jpg",
+ "city": "Costa Adeje",
+ "intro": [
+  "Parque De Las Americas to kompleks apartamentów położony w popularnej miejscowości Costa Adeje na Teneryfie, blisko centrum Playa de las Americas. Obiekt, składający się z dwupiętrowych budynków, jest dobrym wyborem dla osób ceniących sobie niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Hotel jest polecany dla rodzin i par szukających relaksujących wakacji na plaży, a także dla tych, którzy chcą mieć łatwy dostęp do lokalnych atrakcji, sklepów i restauracji. Bliskość plaży i podgrzewany basen zimą to dodatkowe atuty tego miejsca."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Kompleks znajduje się w Costa Adeje, na południowym wybrzeżu Teneryfy, w niewielkiej odległości od centrum Playa de las Americas. Do najbliższej plaży, Playa de El Bobo, z wulkanicznym piaskiem, jest zaledwie 100-200 metrów. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje przestronne apartamenty, w tym z jedną sypialnią, wyposażone w aneks kuchenny z lodówką, piekarnikiem/płytą grzewczą i mikrofalówką. W każdym pokoju znajduje się łazienka, taras lub balkon oraz część wypoczynkowa. Telewizor z płaskim ekranem i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen z wydzieloną sekcją dla dzieci, podgrzewany w miesiącach zimowych. Hotel oferuje strefę wellness ze spa, sauną i masażami (dodatkowo płatne) oraz siłownię (za opłatą). Dostępne są również tenis stołowy, bilard i rzutki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano wydzieloną sekcję w basenie oraz plac zabaw. Hotel dysponuje również mini klubem dla dzieci. W pokojach dostępne są łóżeczka dziecięce."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, bar oraz bar przy basenie/snack bar. Goście mogą wybrać opcję zakwaterowania bez wyżywienia (Room Only) lub ze śniadaniem (Bed & Breakfast). Brak jest oferty all inclusive."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży, sklepów i restauracji",
+  "Przestronne pokoje z dużymi balkonami",
+  "Przyjazny personel i czystość",
+  "Spokojna atmosfera wokół basenu",
+  "Basen podgrzewany zimą"
+ ],
+ "cons": [
+  "Brak wind i wiele schodów (nie dla osób z trudnościami w poruszaniu się)",
+  "Hałas z pobliskich barów w weekendy",
+  "Niska ocena Wi-Fi w opiniach gości",
+  "Brak klimatyzacji we wszystkich pokojach",
+  "Leżaki i parasole na plaży są płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 100-200 metrów od plaży Playa de El Bobo."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Tenerife South Airport (TFS), jest oddalone o około 16-20 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada własnych zjeżdżalni ani aquaparku, ale w pobliżu znajdują się Siam Park i Aqualand Costa Adeje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Darmowe Wi-Fi jest dostępne w miejscach publicznych oraz w pokojach bez dodatkowych opłat."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin, oferuje wydzieloną sekcję basenową dla dzieci, plac zabaw i mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia i spa?",
+   "a": "Tak, na terenie hotelu znajduje się strefa wellness ze spa, sauną i możliwością masaży (dodatkowo płatne) oraz siłownia (za opłatą)."
+  }
+ ],
+ "address": "Av. Rafael Puig Lluvina, 16, 38660 Costa Adeje, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 18,
+ "airportName": "Tenerife South Airport (TFS)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Taras/balkon",
+  "Basen zewnętrzny",
+  "Basen dla dzieci",
+  "Plac zabaw",
+  "Mini klub",
+  "Spa",
+  "Sauna",
+  "Siłownia",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Wypożyczalnia rowerów",
+  "Restauracja",
+  "Bar",
+  "Bar przy basenie/snack bar"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Costa Adeje",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "wulkaniczny piasek",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby preferujące samodzielne wyżywienie"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią: łazienka (wanna/prysznic), aneks kuchenny (lodówka, piekarnik/płyta grzewcza, mikrofalówka, naczynia, czajnik, ekspres do kawy/herbaty), taras/balkon, telewizor z płaskim ekranem (płatny), sejf (płatny), część wypoczynkowa z sofą, suszarka do włosów, bezpłatne kosmetyki, łóżeczko dziecięce. Niektóre z klimatyzacją i wentylatorem."
+ ],
+ "rooms": 66,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "feyoey.com",
+  "onthebeach.ie",
+  "travelodeal.ie",
+  "wanderlog.com",
+  "travelrepublic.co.uk",
+  "agoda.com",
+  "sunshine.co.uk",
+  "loveholidays.com"
+ ],
+ "updated": "2026-11-27"
+}

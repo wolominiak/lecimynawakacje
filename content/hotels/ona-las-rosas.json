@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:ona las rosas",
+ "slug": "ona-las-rosas",
+ "name": "Ona Las Rosas",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Playa de la Arena - Los Gigantes"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/playa-de-la-arena-los-gigantes/ona-las-rosas/b6f1ae84374e4d7c679ea.jpg",
+ "city": "Puerto de Santiago",
+ "intro": [
+  "Ona Las Rosas to aparthotel położony w malowniczej miejscowości Puerto de Santiago na Teneryfie, w pobliżu słynnych klifów Los Gigantes. Obiekt oferuje przestronne apartamenty z widokiem na ocean, co czyni go idealnym miejscem dla osób ceniących sobie niezależność i komfort.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz osób szukających zarówno relaksu, jak i aktywnego wypoczynku. Dzięki dogodnej lokalizacji stanowi dobrą bazę wypadową do zwiedzania zachodniego wybrzeża Teneryfy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Ona Las Rosas znajduje się w Puerto de Santiago, około 800 metrów od centrum miejscowości i 600 metrów od Los Gigantes. Najbliższa plaża jest oddalona o około 500 metrów, a do plaż Playa La Arena (z ciemnym, wulkanicznym piaskiem) i Playa de los Guíos można dojść w 15-20 minut. Plaża nie jest hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 101 apartamentów z jedną lub dwiema sypialniami, mogących pomieścić odpowiednio do 4 lub 6 osób. Każdy apartament wyposażony jest w klimatyzację (w sypialniach), w pełni wyposażoną kuchnię, salon z rozkładaną sofą i telewizorem, łazienkę oraz prywatny taras, często z widokiem na ocean."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się podgrzewany odkryty basen ze słodką wodą oraz oddzielny basen dla dzieci. Hotel posiada również aquapark. Goście mogą korzystać ze spa, siłowni oraz wielu aktywności sportowych, takich jak bilard, tenis, joga czy sporty wodne (windsurfing, nurkowanie, kajakarstwo)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W aparthotelu działa restauracja serwująca śniadania, obiady i kolacje, z daniami kuchni europejskiej i lokalnej, z widokiem na ocean. Dostępny jest również bar/lounge, bar przy basenie oraz kawiarnia/snack bar. Większość apartamentów posiada w pełni wyposażone kuchnie, umożliwiające samodzielne przygotowywanie posiłków."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje oddzielny basen oraz aquapark. Na życzenie dostępne są łóżeczka, krzesełka do karmienia i bramki zabezpieczające. Hotel jest przyjazny rodzinom, co czyni go dobrym wyborem na wakacje z dziećmi."
+  }
+ ],
+ "pros": [
+  "Przestronne i dobrze wyposażone apartamenty",
+  "Piękne widoki na morze i klify Los Gigantes",
+  "Podgrzewany basen i aquapark",
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja do zwiedzania okolicy"
+ ],
+ "cons": [
+  "Położenie na wzgórzu, strome podejścia do plaży",
+  "Płatne Wi-Fi (często)",
+  "Ograniczony parking uliczny",
+  "Brak windy w budynku",
+  "Możliwy hałas z zewnątrz w niektórych apartamentach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża znajduje się około 500 metrów od hotelu. Do plaż Playa La Arena i Playa de los Guíos jest około 15-20 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife South Airport (TFS), oddalone o około 41-43 km. Czas dojazdu samochodem to około 35-40 minut."
+  },
+  {
+   "q": "Czy hotel ma aquapark?",
+   "a": "Tak, hotel posiada aquapark oraz oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest dobry dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje basen dla dzieci, aquapark oraz udogodnienia takie jak łóżeczka i krzesełka do karmienia."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne na terenie całego obiektu, jednak często za dodatkową opłatą."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom."
+  }
+ ],
+ "address": "C. las Rosas, 2, 38683 Puerto de Santiago, Los Gigantes - Teneryfa, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 41,
+ "airportName": "Tenerife South Airport (TFS)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard",
+  "Windsurfing",
+  "Nurkowanie",
+  "Snorkeling",
+  "Kajakarstwo",
+  "Tenis",
+  "Kręgle",
+  "Joga",
+  "Wędkarstwo"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "Puerto de Santiago, Los Gigantes",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "wulkaniczny piasek",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu",
+  "Miłośnicy sportów wodnych"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1984,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (dla maksymalnie 4 osób): klimatyzacja (w sypialniach), w pełni wyposażona kuchnia, salon z rozkładaną sofą i telewizorem, łazienka z wanną lub prysznicem, suszarka do włosów, prywatny taras.",
+  "Apartament z dwoma sypialniami (dla maksymalnie 6 osób): klimatyzacja (w sypialniach), w pełni wyposażona kuchnia, salon z rozkładaną sofą i telewizorem, łazienka z wanną lub prysznicem, suszarka do włosów, prywatny taras."
+ ],
+ "rooms": 101,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.2410865,
+  "lon": -16.841167,
+  "src": "osm"
+ },
+ "sources": [
+  "holidaygems.co.uk",
+  "booking.com",
+  "dnatatravel.com",
+  "onahotels.com",
+  "trivago.co.uk",
+  "mapcarta.com",
+  "thomascook.com",
+  "toptenerifehotels.com"
+ ],
+ "updated": "2026-11-27"
+}

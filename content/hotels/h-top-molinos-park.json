@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:h top molinos park",
+ "slug": "h-top-molinos-park",
+ "name": "H-Top Molinos Park",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Dorada",
+  "Salou"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-dorada/salou/h-top-molinos-park-pl/9838/52d8b9c1eb8e78d37bf2feb5ca374b6b_sdgds-244.jpg",
+ "city": "Salou",
+ "intro": [
+  "H-Top Molinos Park to trzygwiazdkowy hotel położony w spokojnej dzielnicy Cap Salou na Costa Dorada, otoczony śródziemnomorskim lasem. Obiekt jest idealnym wyborem dla rodzin, grup przyjaciół oraz osób szukających komfortowego wypoczynku w przystępnej cenie.",
+  "Hotel oferuje szeroki zakres udogodnień, w tym baseny, programy animacyjne oraz mini klub dla dzieci, co czyni go doskonałym miejscem na wakacje dla całej rodziny. Bliskość piaszczystych plaż i dogodny dostęp do centrum Salou zapewniają różnorodne możliwości spędzania wolnego czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel H-Top Molinos Park znajduje się w dzielnicy Cap Salou, w otoczeniu lasu, około 400-500 metrów od piaszczystych plaż Cala Font i Cala Penya Tallada. Plaże są publiczne, a leżaki i parasole są dostępne za dodatkową opłatą. Centrum Salou oddalone jest o około 2 km, natomiast najbliższe lotnisko w Reus o 9-16 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 246 pokojami, w tym dwuosobowymi, rodzinnymi, trzyosobowymi i jednoosobowymi, o powierzchni około 19 m². Wszystkie pokoje wyposażone są w klimatyzację, umeblowany balkon, łazienkę z prysznicem lub wanną, telewizor satelitarny i telefon. Sejf jest dostępny za dodatkową opłatą, a łóżeczka dziecięce są bezpłatne na życzenie. Należy jednak pamiętać, że pokoje i łazienki mogą być nieco przestarzałe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej i regionalnej, z kolacjami tematycznymi i pokazami gotowania. Goście mogą korzystać z baru, baru przy basenie oraz baru na dachu. Pakiet all inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, a także gorące i zimne przekąski oraz lody w wyznaczonych godzinach. Lokalne napoje alkoholowe i bezalkoholowe serwowane są od 10:00 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "H-Top Molinos Park oferuje odkryty basen dla dorosłych i dzieci. Na dachu hotelu znajduje się taras z jacuzzi, dostępny tylko dla dorosłych w wysokim sezonie, z którego roztacza się panoramiczny widok. Dla aktywnych dostępne są bilard (płatny), tenis stołowy, gry w basenie, gimnastyka i aerobik. Hotel zapewnia również bezpłatne Wi-Fi w całym obiekcie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen dla dzieci, plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat. Codzienny program animacyjny dla dzieci i dorosłych, wieczorne występy, muzyka na żywo i bingo zapewniają rozrywkę przez cały pobyt."
+  }
+ ],
+ "pros": [
+  "Przyjazny personel",
+  "Dobre animacje dla dzieci i dorosłych",
+  "Dobra wartość za pieniądze",
+  "Duży basen i taras na dachu z jacuzzi",
+  "Spokojna lokalizacja blisko plaż"
+ ],
+ "cons": [
+  "Pokoje i łazienki mogą być przestarzałe",
+  "Sporadyczne problemy z czystością",
+  "Kolejki w restauracji i mała różnorodność bufetu",
+  "Hotel położony na wzgórzu, co może być utrudnieniem",
+  "Brak ręczników plażowych/basenowych w cenie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel H-Top Molinos Park jest oddalony o około 400-500 metrów od najbliższych piaszczystych plaż Cala Font i Cala Penya Tallada."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko się znajduje?",
+   "a": "Najbliższe lotnisko to Lotnisko Reus (REU), oddalone o około 9-16 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie wodne?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni wodnych. W pobliżu znajduje się Aquopolis Costa Dorada (park wodny)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferuje basen dla dzieci, plac zabaw, mini klub oraz programy animacyjne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w częściach wspólnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Carrer del Bosc del Qüec, 1-9, 43840 Salou",
+ "adultsOnly": false,
+ "airportKm": 9,
+ "airportName": "Reus (REU)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon",
+  "Telewizor satelitarny",
+  "Telefon",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Cap Salou",
+ "bars": 3,
+ "beachDistanceM": 400,
+ "beachType": "Piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Grupy przyjaciół",
+  "Wypoczynek"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (ok. 19 m², do 4 osób, klimatyzacja, balkon, łazienka, TV sat, telefon, sejf płatny)",
+  "Pokój rodzinny",
+  "Pokój trzyosobowy",
+  "Pokój jednoosobowy"
+ ],
+ "rooms": 246,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "holidaygems.co.uk",
+  "travelyalla.com",
+  "thomascook.com",
+  "top10reisipakkumised.com",
+  "agoda.com",
+  "hotels-in-catalonia.com",
+  "almosafer.com",
+  "atsalouhotels.com"
+ ],
+ "updated": "2026-11-27"
+}

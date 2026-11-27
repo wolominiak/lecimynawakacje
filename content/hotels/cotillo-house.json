@@ -1,0 +1,131 @@
+{
+ "id": "x:hiszpania:cotillo house",
+ "slug": "cotillo-house",
+ "name": "Cotillo House",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "El Cotillo"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/el-cotillo/cotillo-house/19_imageconverter-php.jpg",
+ "city": "El Cotillo",
+ "intro": [
+  "Cotillo House to dwugwiazdkowy hotel położony w centrum urokliwej miejscowości El Cotillo na Fuerteventurze, zaledwie kilka kroków od plaży Playa de Los Lagos. Obiekt, odnowiony w 2021 roku, oferuje komfortowe zakwaterowanie w 18 pokojach, łącząc spokojną atmosferę z dogodnym dostępem do lokalnych atrakcji.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych gości (minimum 18 lat), co czyni go idealnym wyborem dla par i osób szukających relaksu oraz miłośników sportów wodnych i jogi. Centralne położenie umożliwia łatwy dostęp do piaszczystych i skalistych plaż oraz naturalnych lagun, a także do lokalnych restauracji i barów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Cotillo House znajduje się w centrum El Cotillo, zaledwie 100 metrów od plaży Playa de Los Lagos. Do plaży Cotillo Beach można dojść w około 6 minut. W okolicy dostępne są zarówno piaszczyste, jak i skaliste plaże oraz naturalne laguny, co zapewnia różnorodność możliwości spędzania czasu nad wodą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 18 pokoi, w tym pokoje dwuosobowe oraz duże pokoje dwuosobowe. Wszystkie pokoje wyposażone są w prywatną łazienkę z prysznicem, suszarką do włosów i bezpłatnymi kosmetykami. Do udogodnień należą również telewizor z płaskim ekranem, lodówka, czajnik elektryczny, biurko, szafa, sejf, klimatyzacja, ogrzewanie i minibar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji odkryty basen na dachu hotelu, przy którym dostępne są leżaki. Na życzenie można skorzystać z masaży, a także z sesji jogi na dachu. Hotel oferuje wypożyczalnię rowerów, a w okolicy dostępne są liczne sporty wodne, takie jak surfing, windsurfing, kitesurfing, nurkowanie i snorkeling."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, z czego jedna serwuje kolacje z grillem. Śniadanie podawane jest w formie kontynentalnej lub à la carte. Na dachu, przy basenie, działa również bar, oferujący napoje i przekąski w przyjemnej atmosferze."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Cotillo House to hotel wyłącznie dla dorosłych (od 18 lat), polecany osobom szukającym relaksu w spokojnym otoczeniu. Jest to również doskonała baza dla miłośników sportów wodnych, takich jak surfing czy nurkowanie, oraz dla osób zainteresowanych jogą. Dogodna lokalizacja w centrum miejscowości i bliskość plaż sprawiają, że jest to idealne miejsce na aktywny wypoczynek."
+  }
+ ],
+ "pros": [
+  "Uważny i przyjazny personel",
+  "Dogodna lokalizacja w centrum El Cotillo",
+  "Basen na dachu",
+  "Czystość i spokojna atmosfera",
+  "Dobre śniadania"
+ ],
+ "cons": [
+  "Brak strefy dla dzieci i animacji",
+  "Brak informacji o podgrzewanym basenie",
+  "Niektóre elementy łazienek mogą wymagać odnowienia (np. rdzawe chromy, fugi)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Playa de Los Lagos znajduje się zaledwie około 100 metrów od hotelu. Do plaży Cotillo Beach jest około 6 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Tak, hotel Cotillo House jest przeznaczony wyłącznie dla dorosłych. Minimalny wiek zameldowania to 18 lat."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Fuerteventura (FUE), oddalone jest o około 44 km. Czas dojazdu to około 38-45 minut."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, hotel dysponuje jednym odkrytym basenem na dachu."
+  },
+  {
+   "q": "Czy hotel oferuje Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy w hotelu są zjeżdżalnie lub aquapark?",
+   "a": "Nie, brak informacji o zjeżdżalniach czy aquaparku w hotelu."
+  }
+ ],
+ "address": "Calle San Pedro 2, 35650 El Cotillo, Las Palmas",
+ "adultsOnly": true,
+ "airportKm": 44,
+ "airportName": "Port lotniczy Fuerteventura (FUE)",
+ "amenities": [
+  "Wypożyczalnia rowerów",
+  "Masaże na życzenie",
+  "Sesje jogi na dachu"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta i skalista",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Dorośli",
+  "Miłośnicy sportów wodnych",
+  "Miłośnicy jogi",
+  "Osoby szukające relaksu"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double Room) z prywatną łazienką, widokiem na miasto, TV, lodówką, czajnikiem, biurkiem, szafą, sejfem, klimatyzacją, ogrzewaniem i minibarem.",
+  "Duży pokój dwuosobowy (Large Double Room/Large Queen Room) z prywatną łazienką, widokiem na miasto, TV, lodówką, czajnikiem, biurkiem, szafą, sejfem, klimatyzacją, ogrzewaniem i minibarem."
+ ],
+ "rooms": 18,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.6849833,
+  "lon": -14.0119281,
+  "src": "osm"
+ },
+ "sources": [
+  "fuerteventurahotelsmix.com",
+  "hotelscombined.com",
+  "islascanarias-hoteles.com",
+  "fuerteventurahotel24.com",
+  "islandspots.io",
+  "tui.com",
+  "holidaycheck.de",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

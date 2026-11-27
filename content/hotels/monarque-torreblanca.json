@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:monarque torreblanca",
+ "slug": "monarque-torreblanca",
+ "name": "Monarque Torreblanca",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Fuengirola"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/fuengirola/monarque-torreblanca-pl/2875/955cfa7e72c39be745d622f8641657f3_2-244.jpg",
+ "city": "Fuengirola",
+ "intro": [
+  "Hotel Monarque Torreblanca to czterogwiazdkowy obiekt położony w miejscowości Fuengirola na słonecznym wybrzeżu Costa del Sol w Hiszpanii. Usytuowany w centrum kurortu Torreblanca, oferuje łatwy dostęp do piaszczystej plaży oraz dogodne połączenia komunikacyjne, dzięki bliskości stacji kolejowej.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, par, jak i osób nastawionych na zwiedzanie. Oferuje komfortowe zakwaterowanie, różnorodne wyżywienie oraz animacje, stanowiąc dobrą bazę wypadową do odkrywania uroków regionu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Monarque Torreblanca znajduje się w dzielnicy Torreblanca w Fuengiroli, około 100-400 metrów od piaszczystej plaży Torreblanca, wyróżnionej Błękitną Flagą. Dojście do plaży zajmuje około 5 minut spacerem. Obiekt jest dogodnie położony około 2-3 km od centrum Fuengiroli, a najbliższe lotnisko w Maladze (AGP) oddalone jest o około 20-30 minut jazdy samochodem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 184-200 przestronnych pokoi jednoosobowych, dwuosobowych, trzyosobowych oraz rodzinnych. Wszystkie pokoje posiadają balkony, a niektóre z nich oferują widok na morze. Wyposażenie obejmuje klimatyzację, ogrzewanie, telewizor z kanałami satelitarnymi, minibar/lodówkę, sejf (często płatny), suszarkę do włosów oraz bezpłatne kosmetyki. Pokoje są odnawiane i posiadają parkiet."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, w tym jeden z jacuzzi, a także basen kryty. Dla dzieci dostępny jest brodzik oraz plac zabaw. Hotel oferuje animacje dzienne i wieczorne, w tym muzykę na żywo i pokazy. Goście mogą korzystać z tenisa stołowego, bilarda, rzutek oraz kortu tenisowego (płatnego lokalnie)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu działa restauracja bufetowa serwująca dania kuchni krajowej i międzynarodowej z pokazami gotowania. Dostępne są również bar, bar przy basenie (sezonowo z przekąskami i napojami) oraz kawiarnia/coffee shop z tarasem. Hotel oferuje opcje wyżywienia all inclusive, które obejmuje m.in. piwo, wino, kawę, herbatę, przekąski i lody."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i pomieszczeniach ogólnodostępnych. Goście mogą korzystać ze strefy wellness z wanną z hydromasażem. Hotel nie posiada własnej siłowni ani spa, ale istnieje możliwość skorzystania ze spa w pobliskim Hotelu Monarque Fuengirola Park."
+  }
+ ],
+ "pros": [
+  "Bliskość piaszczystej plaży Torreblanca",
+  "Dogodna lokalizacja blisko stacji kolejowej",
+  "Przestronne i czyste pokoje z balkonami",
+  "Dobre jedzenie w formie bufetu, zwłaszcza śniadania i obiady",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Wnętrza hotelu mogą być nieco przestarzałe",
+  "Mieszane opinie na temat różnorodności i jakości jedzenia",
+  "Brak siłowni i mini klubu",
+  "Hotel położony na wzniesieniu, co może być utrudnieniem",
+  "Brak serwisu pokojowego i zestawów do parzenia kawy/herbaty w pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Monarque Torreblanca znajduje się około 100-400 metrów od piaszczystej plaży Torreblanca, co oznacza około 5 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (AGP), oddalone o około 20-30 minut jazdy samochodem (około 20-27 km)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel nie posiada aquaparku ani zjeżdżalni dla dorosłych. Dostępny jest brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje brodzik dla dzieci, plac zabaw oraz pokój gier/zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel posiada siłownię?",
+   "a": "Nie, hotel nie posiada siłowni."
+  }
+ ],
+ "address": "C. Torreblanca del Sol, s/n, 29640 Fuengirola, Málaga, Hiszpania.",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Balkony w pokojach",
+  "Klimatyzacja",
+  "Ogrzewanie",
+  "Telewizor z kanałami satelitarnymi",
+  "Minibar/lodówka",
+  "Sejf",
+  "Suszarka do włosów",
+  "Bezpłatne kosmetyki",
+  "Biurko",
+  "Telefon",
+  "Parkiet w pokojach"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Torreblanca",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "Piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby zwiedzające"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1970,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy/twin",
+  "Pokój rodzinny",
+  "Pokój trzyosobowy"
+ ],
+ "rooms": 184,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5646251,
+  "lon": -4.6059615,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.es",
+  "monarquehotels.com",
+  "golf4uspain.com",
+  "travelyalla.com",
+  "onthebeach.co.uk",
+  "malaga-directory.com",
+  "booking.com",
+  "viamichelin.fr"
+ ],
+ "updated": "2026-11-27"
+}

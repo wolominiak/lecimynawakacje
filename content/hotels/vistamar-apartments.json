@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:vistamar apartments",
+ "slug": "vistamar-apartments",
+ "name": "Vistamar Apartments",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/vistamar-apartments/90192df0b46b74db8f372-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Vistamar Apartments to dwugwiazdkowy obiekt apartamentowy położony w spokojnej części Benidorm, w pobliżu popularnej plaży Levante na Costa Blanca. Hotel oferuje zakwaterowanie z wyżywieniem we własnym zakresie, co czyni go idealnym wyborem dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Obiekt jest polecany dla rodzin, par, osób podróżujących samodzielnie oraz grup przyjaciół, którzy szukają komfortowych apartamentów w dogodnej lokalizacji, blisko atrakcji miasta, ale jednocześnie z dala od największego zgiełku. Vistamar Apartments to dobra propozycja dla tych, którzy chcą połączyć relaks na plaży z dostępem do miejskich rozrywek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Apartamenty Vistamar znajdują się w Benidorm, w spokojnej okolicy przy Avenida de Europa, niedaleko plaży Levante. Do piaszczystej plaży ze złotym piaskiem jest około 700-900 metrów, co zajmuje 7-15 minut spacerem. Centrum handlowo-rozrywkowe Benidorm jest oddalone o około 8-10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 80 apartamentów z jedną sypialnią, które mogą pomieścić do 4 osób. Każdy apartament składa się z sypialni z dwoma łóżkami pojedynczymi, salonu z podwójną rozkładaną sofą i telewizorem, a także w pełni wyposażonego aneksu kuchennego. Do dyspozycji gości jest również łazienka z prysznicem i suszarką do włosów oraz balkon lub taras, często z widokiem na morze, miasto lub góry."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Vistamar Apartments to obiekt z wyżywieniem we własnym zakresie (self-catering), co oznacza, że goście mogą samodzielnie przygotowywać posiłki w aneksach kuchennych. Na terenie kompleksu znajduje się również bar (Coconut Bar) oraz restauracja, gdzie można zjeść posiłek lub napić się drinka."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się duży odkryty basen ze słodką wodą, który jest współdzielony z sąsiednim kompleksem Paraiso 10. Basen posiada wydzieloną część dla dzieci. Dla aktywnych dostępne są kort tenisowy i stoły bilardowe. Bezpłatne Wi-Fi jest dostępne w całym budynku, ogrodach i pokojach."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną część basenu oraz plac zabaw. Dzięki temu rodziny z dziećmi mogą cieszyć się wspólnym wypoczynkiem i zabawą na świeżym powietrzu."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Czyste i przestronne apartamenty",
+  "Duże balkony z ładnymi widokami",
+  "Przyjazny personel",
+  "Dobra wartość za pieniądze",
+  "Dobre Wi-Fi"
+ ],
+ "cons": [
+  "Brak cienia przy basenie",
+  "Płatne leżaki przy basenie",
+  "Wymagany zwrotny depozyt przy zameldowaniu",
+  "Minimalne wyposażenie kuchni (np. brak piekarnika)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Levante znajduje się około 700-900 metrów od apartamentów, co oznacza krótki spacer trwający 7-15 minut."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Alicante (ALC), oddalone o około 58-65 km od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Posiada wydzieloną część basenu dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym budynku, w ogrodach oraz w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest klimatyzacja?",
+   "a": "Klimatyzacja jest dostępna, ale jest dodatkowo płatna lub dostępna w apartamentach typu superior."
+  }
+ ],
+ "address": "C/ Cuenca, 26, 03503 Benidorm, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 61.5,
+ "airportName": "Alicante (ALC)",
+ "amenities": [
+  "kort tenisowy",
+  "stoły bilardowe",
+  "plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "rejon plaży Levante",
+ "bars": 1,
+ "beachDistanceM": 800,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby podróżujące samodzielnie",
+  "grupy"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią: sypialnia z dwoma łóżkami pojedynczymi, salon/jadalnia z podwójną rozkładaną sofą i telewizorem, aneks kuchenny (elektryczne płyty grzewcze, lodówka, mikrofalówka, toster, czajnik, naczynia), łazienka z prysznicem i suszarką do włosów, balkon/taras, ogrzewanie, klimatyzacja (dodatkowo płatna), sejf (dodatkowo płatny)."
+ ],
+ "rooms": 80,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "benidorm-hotels.net",
+  "holidaygems.co.uk",
+  "almosafer.com",
+  "thebenidormguide.com",
+  "easyjet.com",
+  "thomascook.com",
+  "expedia.co.uk",
+  "clickbenidorm.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:beverly park and spa",
+ "slug": "beverly-park-spa",
+ "name": "Beverly Park & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Blanes"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/blanes/beverly-park-a-spa/rincipal_beverly_park.jpg",
+ "city": "Blanes",
+ "intro": [
+  "Hotel Beverly Park & Spa to czterogwiazdkowy obiekt położony w turystycznej części Blanes, Los Pinos, na słonecznym wybrzeżu Costa Brava w Hiszpanii. Hotel znajduje się w niewielkiej odległości od piaszczystej plaży Platja de S'Abanell, co czyni go atrakcyjnym miejscem dla osób ceniących bliskość morza.",
+  "Obiekt jest polecany zarówno dla rodzin z dziećmi, jak i dla par szukających relaksu. Oferuje szeroki zakres udogodnień, w tym centrum spa, baseny oraz program animacyjny w sezonie letnim, zapewniając komfortowy wypoczynek w spokojnej okolicy, z łatwym dostępem do atrakcji miejscowości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Beverly Park & Spa usytuowany jest w dzielnicy Los Pinos w Blanes, zaledwie 150-200 metrów od publicznej plaży Platja de S'Abanell. Jest to długa, piaszczysta plaża ze złotym, grubym piaskiem, gdzie można wynająć leżaki i parasole. Wejście do wody jest dość szybko głębokie, co warto wziąć pod uwagę w przypadku małych dzieci. Centrum Blanes oddalone jest o około 1.2 do 2.2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 168 lub 248 pokojami oraz apartamentami w aneksie. W ofercie znajdują się pokoje dwuosobowe, trzyosobowe, Superior, Suity oraz pokoje rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, telewizor z kanałami satelitarnymi, suszarkę do włosów, minibar, sejf (płatny) oraz balkon lub taras. Niektóre pokoje Superior i apartamenty zostały odnowione w 2014 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa, serwująca dania kuchni lokalnej i międzynarodowej, z opcją gotowania na żywo. Goście mogą również korzystać z baru/lounge, baru przy basenie oraz snack baru/deli. Brak szczegółowych informacji na temat oferty all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen dla dorosłych oraz basen dla dzieci. Dodatkowo, w strefie spa dostępny jest kryty, podgrzewany basen. Na terenie obiektu znajduje się plac zabaw dla dzieci oraz mini klub działający w sezonie letnim. W sezonie letnim organizowany jest również program animacyjny dla dorosłych i dzieci. Goście mogą korzystać z bezpłatnej siłowni oraz kortu tenisowego. Dostępne jest również centrum spa (dodatkowo płatne) z hydromasażami, sauną, łaźnią parową i jacuzzi."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Beverly Park & Spa jest idealnym miejscem dla rodzin z dziećmi oraz par, które poszukują relaksującego wypoczynku blisko plaży. Obiekt oferuje szereg udogodnień, w tym strefę spa i baseny, co sprawia, że jest odpowiedni dla osób ceniących sobie zarówno aktywny wypoczynek, jak i chwile relaksu. Bliskość centrum Blanes pozwala na łatwy dostęp do lokalnych atrakcji."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i w spokojnej okolicy",
+  "Czystość w hotelu",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie i urozmaicone śniadania",
+  "Bezpłatne Wi-Fi w całym hotelu i pokojach"
+ ],
+ "cons": [
+  "Niektóre pokoje i części wspólne mogą być przestarzałe",
+  "Dodatkowe opłaty za dostęp do spa i sejf",
+  "Mały basen",
+  "Problemy z wyciszeniem pokoi",
+  "Jedzenie w formie bufetu bywa monotonne lub o zmiennej jakości"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Beverly Park & Spa znajduje się około 150-200 metrów od piaszczystej plaży Platja de S'Abanell."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona - Costa Brava (GRO), oddalone o około 32-33 km. Lotnisko Barcelona El Prat (BCN) znajduje się około 85-89 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Posiada basen dla dzieci, plac zabaw, mini klub (w sezonie letnim) oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych, jest to hotel rodzinny."
+  }
+ ],
+ "address": "Carrer de Mercè Rodoreda, 7, 17300 Blanes, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Girona - Costa Brava (GRO)",
+ "amenities": [
+  "Klimatyzacja",
+  "Prywatna łazienka",
+  "Telewizor z kanałami satelitarnymi",
+  "Suszarka do włosów",
+  "Minibar",
+  "Sejf (płatny)",
+  "Balkon/taras",
+  "Zestaw do parzenia kawy/herbaty (w niektórych pokojach)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Los Pinos",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "Piaszczysta, z grubym, złotym piaskiem",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu blisko plaży"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój Superior",
+  "Suita",
+  "Pokój rodzinny"
+ ],
+ "rooms": 168,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "onthebeach.co.uk",
+  "trivago.com",
+  "blanescostabrava.cat",
+  "solmar.nl",
+  "booking.com",
+  "youtube.com",
+  "holidaycheck.de",
+  "jump2spain.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:servigroup orange",
+ "slug": "servigroup-orange",
+ "name": "Servigroup Orange",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/servigroup-orange/cd709452fdefcf6a07276.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Servigroup Orange to 3-gwiazdkowy obiekt położony w tętniącej życiem, rozrywkowej części Benidormu na Costa Blanca, zaledwie kilka minut spacerem od piaszczystej plaży Levante. Jest to idealne miejsce dla osób szukających aktywnego wypoczynku i bliskości atrakcji miejskich.",
+  "Obiekt jest szczególnie polecany dla dorosłych, par i grup przyjaciół, którzy cenią sobie łatwy dostęp do barów, sklepów i życia nocnego. Mimo udogodnień dla dzieci, ze względu na głośną okolicę, może być mniej odpowiedni dla rodzin z małymi dziećmi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Servigroup Orange znajduje się w Benidormie, w ruchliwej dzielnicy, zaledwie 250-400 metrów od piaszczystej plaży Levante. Do centrum miasta jest około 250 metrów. Lotnisko w Alicante (ALC) oddalone jest o około 48-60 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 247 do 264 pokoi, w tym dwuosobowe, jednoosobowe i trzyosobowe, a także pokoje łączone i przystosowane dla osób niepełnosprawnych. Wszystkie pokoje są dźwiękoszczelne, wyposażone w klimatyzację, prywatną łazienkę, telewizor, mini lodówkę i biurko. Większość pokoi posiada balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni śródziemnomorskiej i międzynarodowej, z pokazami gotowania oraz opcjami wegetariańskimi i bezglutenowymi. Na terenie hotelu znajdują się również dwa bary: bar przy basenie oraz bar/salon \"The Sanctuary\". Hotel oferuje wyżywienie w opcjach Bed and Breakfast, Half Board i Full Board, nie ma opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest duży odkryty basen z tarasem słonecznym, leżakami i parasolami. W basenie wydzielono sekcję dla dzieci oraz dostępny jest zewnętrzny plac zabaw. Wieczorami hotel zapewnia program rozrywkowy z muzyką na żywo i tańcami. Na terenie obiektu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "title": "Udogodnienia i aktywności",
+   "text": "Hotel oferuje bezpłatne Wi-Fi w całym obiekcie. Dostępne aktywności to bilard, tenis stołowy, a w okolicy można uprawiać łucznictwo, jazdę konną, nurkowanie czy kajakarstwo. Najbliższy klub golfowy znajduje się około 3 km od hotelu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i rozrywki",
+  "Wysoka jakość i różnorodność jedzenia",
+  "Czystość hotelu i pokoi",
+  "Przyjazny i pomocny personel",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Pokoje mogą być postrzegane jako nieco przestarzałe lub małe",
+  "Hałas z zewnątrz, zwłaszcza w pokojach z widokiem na basen",
+  "Słabe wygłuszenie pokoi",
+  "Wczesne godziny kolacji",
+  "Dodatkowa opłata za sejf"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Servigroup Orange znajduje się około 250-400 metrów od piaszczystej plaży Levante, co oznacza około 5 minut spacerem."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Alicante (ALC), oddalone o około 48-60 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu Servigroup Orange nie ma aquaparku ani zjeżdżalni wodnych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel posiada sekcję dla dzieci w basenie i plac zabaw, ale ze względu na swoją lokalizację w tętniącej życiem i głośnej okolicy, jest mniej rekomendowany dla rodzin z małymi dziećmi. Jest bardziej polecany dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu, włączając w to tereny zewnętrzne, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Jakie opcje wyżywienia oferuje hotel?",
+   "a": "Hotel oferuje wyżywienie w opcjach Bed and Breakfast (śniadania), Half Board (dwa posiłki) i Full Board (trzy posiłki). Nie ma opcji all inclusive."
+  }
+ ],
+ "address": "C/ Mallorca 11, 03503 Benidorm, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Alicante (ALC)",
+ "amenities": [
+  "Restauracja bufetowa",
+  "Bary",
+  "Odkryty basen",
+  "Taras słoneczny",
+  "Plac zabaw dla dzieci",
+  "Program rozrywkowy wieczorem"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "brytyjska strefa, blisko centrum",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.25,
+ "goodFor": [
+  "Dorośli",
+  "Pary",
+  "Grupy przyjaciół"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1970,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój jednoosobowy",
+  "Pokój trzyosobowy",
+  "Pokoje łączone",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 264,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "servigroup.com",
+  "reserving.com",
+  "benidormehotel.com",
+  "haystravel.co.uk",
+  "oyster.com",
+  "sunshine.co.uk",
+  "travelweekly.com",
+  "trivago.com"
+ ],
+ "updated": "2026-11-27"
+}

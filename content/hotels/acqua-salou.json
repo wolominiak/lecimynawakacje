@@ -1,0 +1,130 @@
+{
+ "id": "x:hiszpania:acqua salou",
+ "slug": "acqua-salou",
+ "name": "Acqua Salou",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Dorada",
+  "Salou"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-dorada/salou/acqua-salou-pl/2814/c42611f87d09381ff1fd47db696f4ec5_1-244.jpg",
+ "city": "Salou",
+ "intro": [
+  "Hotel Golden Acqua Salou to nowoczesny obiekt położony w centrum popularnego kurortu Salou na Costa Dorada, otwarty w 2024 roku. Jego dogodna lokalizacja blisko piaszczystych plaż Llevant i Capellans, a także promenady Paseo Maritimo i Parku Miejskiego, sprawia, że jest to atrakcyjna propozycja dla osób szukających zarówno relaksu, jak i dostępu do miejskich atrakcji.",
+  "Obiekt jest idealnym miejscem dla par, rodzin z dziećmi oraz grup przyjaciół, oferując szeroki wachlarz udogodnień i aktywności. Od komfortowych pokoi, przez różnorodne opcje wyżywienia, po baseny i program animacyjny - hotel zapewnia kompleksową ofertę na udane wakacje w Hiszpanii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Golden Acqua Salou znajduje się w centrum Salou, zaledwie około 200 metrów od piaszczystych plaż Llevant i Capellans. Do plaży Llenguadets można dojść w około 10 minut (350 metrów). W bliskiej odległości od hotelu znajduje się również promenada Paseo Maritimo oraz Park Miejski."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje około 95-100 nowoczesnych pokoi, w tym pokoje standardowe (22 m² dla maksymalnie 3 osób) oraz pokoje rodzinne. Każdy pokój wyposażony jest w klimatyzację, umeblowany balkon lub taras, telewizor z płaskim ekranem, sejf (płatny), mini-bar, zestaw do parzenia kawy i herbaty oraz w pełni wyposażoną łazienkę z prysznicem i suszarką do włosów. Na życzenie dostępne jest bezpłatne łóżeczko dla dziecka."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa \"Acqua Restaurant\", serwująca dania kuchni śródziemnomorskiej i międzynarodowej na śniadania, obiady i kolacje, z opcjami dla osób z różnymi preferencjami dietetycznymi. Goście mogą korzystać również z baru/kawiarni oraz snack baru. Pakiet All Inclusive obejmuje pełne wyżywienie, wybrane napoje alkoholowe i bezalkoholowe oraz przekąski w ciągu dnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest sezonowy basen zewnętrzny, brodzik dla dzieci oraz podgrzewany basen kryty. Hotel oferuje strefę wellness ze spa i sauną, a także dobrze wyposażoną siłownię. Program animacyjny obejmuje zajęcia dzienne dla całej rodziny oraz wieczorne występy, takie jak muzyka na żywo i pokazy."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości dostępny jest mini klub \"Goldy Club\" dla dzieci w wieku 4-12 lat, oferujący różnorodne warsztaty, gry i imprezy tematyczne. Hotel dysponuje również brodzikiem dla dzieci oraz oferuje animacje rodzinne, zapewniając rozrywkę dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Bardzo czysty obiekt i pomocny personel",
+  "Dobre i świeże jedzenie, zwłaszcza śniadania",
+  "Przestronne i nowoczesne pokoje",
+  "Dostępne baseny zewnętrzne i wewnętrzny"
+ ],
+ "cons": [
+  "Konieczność płacenia za sejf w pokoju"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 200 metrów od piaszczystych plaż Llevant i Capellans. Plaża Llenguadets znajduje się około 350 metrów od hotelu."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Reus Airport (REU), oddalone o około 5-15 km. Lotnisko w Barcelonie (BCN) znajduje się około 102-103 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku bezpośrednio w hotelu. Dostępny jest sezonowy basen zewnętrzny, brodzik dla dzieci oraz podgrzewany basen kryty."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje mini klub dla dzieci (Goldy Club), brodzik oraz animacje dzienne i wieczorne dla całej rodziny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Golden Acqua Salou nie jest przeznaczony wyłącznie dla dorosłych; jest to hotel rodzinny."
+  }
+ ],
+ "address": "C/ Alfons V, 9, 43840 Salou, Tarragona",
+ "adultsOnly": false,
+ "airportKm": 5,
+ "airportName": "Reus Airport (REU)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard",
+  "Wypożyczalnia rowerów",
+  "Mini klub dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "centrum Salou",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2024,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy (22 m², max 3 osoby, klimatyzacja, balkon/taras, TV sat, sejf, mini-bar, zestaw do kawy/herbaty, łazienka z prysznicem, suszarka do włosów)",
+  "pokój rodzinny"
+ ],
+ "rooms": 95,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0709243,
+  "lon": 1.1444867,
+  "src": "web"
+ },
+ "sources": [
+  "loveholidays.com",
+  "esquiades.com",
+  "goldenhotels.com",
+  "yandex.com",
+  "atsalouhotels.com",
+  "saloushotel.com",
+  "sunshine.co.uk",
+  "catalunya.com"
+ ],
+ "updated": "2026-11-27"
+}

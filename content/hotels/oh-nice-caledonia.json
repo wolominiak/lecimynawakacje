@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:oh nice caledonia",
+ "slug": "oh-nice-caledonia",
+ "name": "Oh Nice Caledonia",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Estepona"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/estepona/oh-nice-caledonia/5709/a32c15560afb6301ca7e8-244.jpg",
+ "city": "Estepona",
+ "intro": [
+  "Oh Nice Caledonia, znany również jako Bakour Oh Nice Costa del Sol, to czterogwiazdkowy hotel położony w Esteponie, w malowniczej dzielnicy New Golden Mile na Costa del Sol. Obiekt, niedawno wyremontowany, oferuje komfortowe zakwaterowanie w dużym kompleksie hotelowym, idealnym dla osób poszukujących spokojnego wypoczynku w otoczeniu pól golfowych.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, par oraz miłośników golfa. Dzięki bogatemu programowi animacyjnemu, mini klubowi dla najmłodszych oraz licznym udogodnieniom, zapewnia rozrywkę i relaks dla gości w każdym wieku, choć warto pamiętać o konieczności posiadania samochodu ze względu na odległość od plaży i centrum miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Oh Nice Caledonia znajduje się w Esteponie, w dzielnicy New Golden Mile, pomiędzy San Pedro de Alcántara a Esteponą. Obiekt jest usytuowany w pobliżu pola golfowego Los Flamingos. Najbliższa plaża, Playa del Saladillo, oddalona jest o około 1 do 2.1 km, a dojazd samochodem zajmuje około 10 minut. Centrum Estepony znajduje się około 10 km od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 292 do 301 klimatyzowanymi pokojami w kilku kategoriach: Standard, Comfort, Premium, Baku Room oraz Baku Room 2 Bedrooms. Wszystkie pokoje wyposażone są w prywatną łazienkę z suszarką do włosów i markowymi kosmetykami, telewizor z płaskim ekranem, bezpłatne Wi-Fi, sejf oraz balkon lub taras. Pokoje Comfort oferują dodatkowo salon z rozkładaną sofą, a niektóre apartamenty posiadają w pełni wyposażoną kuchnię."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży basen zewnętrzny oraz kryty basen, który jest podgrzewany. Dla najmłodszych gości dostępny jest plac zabaw i mini klub dla dzieci w wieku 4-12 lat. Hotel oferuje także program animacyjny dla całej rodziny, obejmujący dzienne i wieczorne aktywności oraz występy muzyczne. Goście mogą korzystać z w pełni wyposażonej siłowni oraz stołu do tenisa stołowego."
+  },
+  {
+   "title": "Spa i wellness",
+   "text": "Hotel posiada spa z pełnym zakresem usług i obwodem termalnym. Dostęp do spa może być dodatkowo płatny, a korzystanie z sauny jest dozwolone tylko dla osób powyżej 18 roku życia. Siłownia jest czynna w godzinach 10:00-18:00."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej z pokazami gotowania. Do dyspozycji gości są również dwa bary: lounge bar, bar przy basenie i lobby bar. Pakiet all inclusive obejmuje śniadania, obiady, kolacje w formie bufetu, a także napoje, koktajle i przekąski przez cały dzień, do godziny 23:00."
+  }
+ ],
+ "pros": [
+  "Ładny obszar basenowy",
+  "Dobre animacje dla całej rodziny",
+  "Przestronne pokoje, niektóre z kuchnią",
+  "Spokojna lokalizacja",
+  "Mini klub dla dzieci"
+ ],
+ "cons": [
+  "Konieczność posiadania samochodu do dojazdu na plażę i do miasta",
+  "Słaba jakość i mała różnorodność jedzenia",
+  "Basen może być zatłoczony",
+  "Dodatkowa opłata za spa",
+  "Cienkie ściany/słaba izolacja akustyczna"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża, Playa del Saladillo, znajduje się około 1 km do 2.1 km od hotelu. Dojazd samochodem zajmuje około 10 minut."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Malaga (AGP), oddalony o około 68-70 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje plac zabaw, mini klub dla dzieci (4-12 lat) oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt rodzinny."
+  }
+ ],
+ "address": "Urbanización Bel Air Carretera Cadiz N340, km 166, Calle Hinojo, S/N, 29679 Benahavís Estepona Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 68,
+ "airportName": "Port lotniczy Malaga (AGP)",
+ "amenities": [
+  "podgrzewany basen kryty",
+  "plac zabaw",
+  "mini klub",
+  "program animacyjny",
+  "siłownia",
+  "spa",
+  "tenis stołowy",
+  "golf w pobliżu",
+  "bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "New Golden Mile (Nueva Milla de Oro)",
+ "bars": 2,
+ "beachDistanceM": 1000,
+ "beachType": "brak danych",
+ "centerKm": 10,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy golfa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard",
+  "Comfort (z salonem i rozkładaną sofą)",
+  "Premium",
+  "Baku Room (tematyczne dla dzieci, z łóżkami piętrowymi)",
+  "Baku Room 2 Bedrooms (tematyczne dla dzieci, z łóżkami piętrowymi)",
+  "Apartamenty z kuchnią"
+ ],
+ "rooms": 292,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4726386,
+  "lon": -5.0469911,
+  "src": "osm"
+ },
+ "sources": [
+  "momondo.co.uk",
+  "hrs.com",
+  "holidaycheck.at",
+  "viajeselcorteingles.es",
+  "thomascook.com",
+  "bakourhotels.com",
+  "travelyalla.com",
+  "expedia.com"
+ ],
+ "updated": "2026-11-27"
+}

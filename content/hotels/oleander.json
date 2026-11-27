@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:oleander",
+ "slug": "oleander",
+ "name": "Oleander",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Playa de Palma"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/playa-de-palma/oleander-pl/1060/d2e73edc6486d75b2a5b5-244.jpg",
+ "city": "Playa de Palma",
+ "intro": [
+  "Hotel Oleander to trzygwiazdkowy obiekt położony w miejscowości Playa de Palma na Majorce, w dzielnicy La Maravillas. Oferuje komfortowe zakwaterowanie zaledwie 200 metrów od długiej, piaszczystej plaży. Dzięki swojej lokalizacji i udogodnieniom, hotel jest dobrym wyborem zarówno dla rodzin z dziećmi, jak i par, w tym osób starszych.",
+  "Zbudowany w latach 70. i gruntownie odnowiony w 2016 roku, hotel składa się z siedmiopiętrowego budynku głównego i niższego bloku, otoczonego ogrodem o powierzchni 1500 m². Bliskość lotniska i centrum miejscowości sprawia, że jest to wygodna baza wypadowa do zwiedzania Majorki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Oleander znajduje się w Playa de Palma, w dzielnicy La Maravillas, zaledwie 200 metrów (około 5 minut spacerem) od publicznej, piaszczystej plaży Playa de Palma. W pobliżu hotelu znajdują się przystanki autobusowe, restauracje i sklepy. Lotnisko Palma de Mallorca (PMI) oddalone jest o 3-5 km, a centrum Playa de Palma o około 15 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 273 pokojami, które zostały odnowione w 2016 roku. Pokoje są przestronne i jasne, wyposażone w klimatyzację/ogrzewanie, telewizor satelitarny, telefon, łazienkę z prysznicem, suszarką do włosów i bezpłatnymi kosmetykami. Każdy pokój posiada balkon lub taras, a także bezpłatne Wi-Fi. Mała lodówka/minibar i sejf są dostępne na życzenie i za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny: jeden zewnętrzny (sezonowy) i jeden kryty, podgrzewany, przeznaczony dla dorosłych. Dla dzieci przygotowano oddzielny basen i plac zabaw. Hotel oferuje wieczorny program rozrywkowy, w tym muzykę na żywo i flamenco. Dostępne są również tenis stołowy, bilard (za opłatą) i bocce. W pobliżu można wypożyczyć rowery lub skorzystać z pola golfowego."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Oleander znajduje się restauracja bufetowa, serwująca śniadania i kolacje z kuchnią śródziemnomorską, oraz restauracja à la carte z daniami śródziemnomorskimi i międzynarodowymi. Do dyspozycji gości są również bar przy basenie, snack bar oferujący szybkie przekąski, takie jak kanapki, hot dogi, burgery i pizzę, oraz kawiarnia."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Goście mogą korzystać z bezpłatnego Wi-Fi dostępnego w pokojach i we wszystkich pomieszczeniach ogólnodostępnych. Hotel oferuje również jacuzzi i saunę (za dodatkową opłatą) oraz solarium. Ręczniki kąpielowe są dostępne w pokojach, a leżaki i parasole przy basenie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i komunikacji",
+  "Czyste i komfortowe pokoje",
+  "Urozmaicone i smaczne śniadania",
+  "Przyjazny i pomocny personel",
+  "Dobra jakość w stosunku do ceny"
+ ],
+ "cons": [
+  "Kawa na śniadanie bywa słabej jakości",
+  "Łazienki mogą być nieco przestarzałe",
+  "Sejf i minibar w pokojach są dodatkowo płatne",
+  "Brak zjeżdżalni wodnych w hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Oleander znajduje się około 200 metrów od piaszczystej plaży Playa de Palma, co stanowi około 5 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 3-5 km od lotniska Palma de Mallorca (PMI), co oznacza około 10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu Oleander nie ma zjeżdżalni. Najbliższy park wodny, Aqualand El Arenal, znajduje się około 10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i dzieciom. Posiada basen dla dzieci oraz plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach oraz we wszystkich pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje animacje?",
+   "a": "Hotel oferuje wieczorny program rozrywkowy, w tym muzykę na żywo i flamenco, minimum pięć wieczorów w tygodniu (sezonowo)."
+  }
+ ],
+ "address": "Carrer d'Acaia, 12, 07610 Playa de Palma, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 3,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Jacuzzi",
+  "Sauna",
+  "Solarium",
+  "Tenis stołowy",
+  "Bilard",
+  "Bocce",
+  "Wynajem rowerów",
+  "Jazda konna (w pobliżu)",
+  "Pole golfowe (w pobliżu)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "La Maravillas",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.75,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby starsze"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1973,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy (ok. 17 m², klimatyzacja/ogrzewanie, TV sat, telefon, łazienka z prysznicem, suszarka, kosmetyki, balkon/taras, Wi-Fi)",
+  "Pokój dwuosobowy Twin (ok. 21 m², klimatyzacja/ogrzewanie, TV sat, telefon, łazienka z prysznicem, suszarka, kosmetyki, balkon/taras, Wi-Fi)",
+  "Pokój trzyosobowy (dla 2 dorosłych + 1 dziecko, ok. 23 m², klimatyzacja/ogrzewanie, TV sat, telefon, łazienka z prysznicem, suszarka, kosmetyki, balkon/taras, Wi-Fi)",
+  "Pokój Superior (na wyższych piętrach, z bocznym widokiem na morze lub basen, klimatyzacja/ogrzewanie, TV sat, telefon, łazienka z prysznicem, suszarka, kosmetyki, balkon/taras, Wi-Fi)"
+ ],
+ "rooms": 273,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.5258551,
+  "lon": 2.737636,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelmallorca.org",
+  "booking.com",
+  "trivago.com",
+  "hoteloleander.com",
+  "thomascook.com",
+  "oyster.com",
+  "mapcarta.com",
+  "wego.com"
+ ],
+ "updated": "2026-11-27"
+}

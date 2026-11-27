@@ -1,0 +1,131 @@
+{
+ "id": "x:hiszpania:h10 cubik",
+ "slug": "h10-cubik",
+ "name": "H10 Cubik",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Barcelona i okolice",
+  "Barcelona"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/barcelona/barcelona/h10-cubik/ca6ff06c796f89929a153.jpg",
+ "city": "Barcelona",
+ "intro": [
+  "H10 Cubik to czterogwiazdkowy hotel położony w centrum Barcelony, na skraju Dzielnicy Gotyckiej. Obiekt wyróżnia się nowoczesnym designem inspirowanym brutalizmem z połowy XX wieku. Jest to idealne miejsce dla par, osób podróżujących służbowo oraz turystów, którzy cenią sobie możliwość zwiedzania miasta pieszo.",
+  "Hotel oferuje 101 pokoi, bezpłatne Wi-Fi oraz taras na dachu z niewielkim basenem i panoramicznym widokiem na miasto. Ze względu na brak udogodnień dla dzieci, hotel jest rekomendowany głównie dla dorosłych gości, poszukujących stylowego i komfortowego zakwaterowania w sercu Barcelony."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel H10 Cubik znajduje się w centralnej części Barcelony, w dzielnicy Ciutat Vella, tuż przy Dzielnicy Gotyckiej. W odległości około 340-400 metrów znajduje się Plaça de Catalunya, a w pobliżu dostępne są liczne atrakcje turystyczne, takie jak Katedra w Barcelonie czy Las Ramblas. Do plaży Barceloneta jest około 2,2 km, co zajmuje około 20 minut metrem lub 19 minut transportem publicznym."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 101 pokojami rozmieszczonymi na dziesięciu piętrach, w siedmiu różnych kategoriach. Pokoje są wyposażone w 48-calowy Smart TV, minibar, zestaw do parzenia kawy i herbaty, suszarkę do włosów, szlafrok i kapcie. Dodatkowo w pokojach znajdują się dźwiękoszczelne okna, zasłony zaciemniające oraz bezpłatne Wi-Fi. Niektóre pokoje oferują widok na miasto lub wewnętrzne atrium, a wybrane kategorie posiadają taras lub głośnik Bluetooth Marshall."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje i dwa bary. Market Restaurant serwuje śniadania w formie bufetu i à la carte, oferując dania kuchni lokalnej. Restauracja Atik à la carte, położona na dachu, specjalizuje się w lokalnych tapas i paelli. Goście mogą również skorzystać z Robotik Bar w lobby oraz Atik Rooftop Bar & Terrace na dachu, który oferuje koktajle i przekąski z widokiem na miasto. Hotel nie oferuje opcji all inclusive, a śniadanie może być dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się sezonowy, podgrzewany basen typu „plunge pool”, idealny do ochłody. Wokół basenu dostępny jest taras słoneczny z leżakami, z którego roztacza się panoramiczny widok na Barcelonę. Hotel nie posiada własnej siłowni, ale goście mogą bezpłatnie korzystać z pobliskiego centrum fitness oddalonego o około 100 metrów."
+  }
+ ],
+ "pros": [
+  "Doskonała centralna lokalizacja",
+  "Stylowy, nowoczesny design",
+  "Przyjazny i pomocny personel",
+  "Czyste i komfortowe pokoje",
+  "Taras na dachu z basenem i widokami"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być małe i wychodzić na wewnętrzny dziedziniec",
+  "Brak siłowni na miejscu (dostęp do pobliskiej)",
+  "Parking jest ograniczony i płatny",
+  "Brak specjalnych udogodnień dla rodzin/dzieci",
+  "Basen na dachu jest mały, służy do ochłody"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel H10 Cubik znajduje się około 2,2 km od plaży Barceloneta. Dojazd transportem publicznym zajmuje około 19-20 minut."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotnisko to Barcelona-El Prat (BCN), oddalone o około 13-15,7 km. Czas dojazdu samochodem to około 22-30 minut, a transportem publicznym około 45 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Na dachu znajduje się mały basen typu \"plunge pool\"."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie oferuje specjalnych udogodnień dla rodzin z dziećmi, takich jak mini klub czy animacje. Brak również pokoi dla czterech osób, co może wymagać rezerwacji dwóch pokoi dla rodzin z dwójką dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest przeznaczony tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych, choć jest często polecany parom."
+  }
+ ],
+ "address": "Via Laietana, 69, 08003 Barcelona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Barcelona-El Prat (BCN)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "taras na dachu",
+  "podgrzewany basen typu \"plunge pool\"",
+  "dostęp do pobliskiego centrum fitness"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Ciutat Vella, na skraju Dzielnicy Gotyckiej",
+ "bars": 2,
+ "beachDistanceM": 2200,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "pary",
+  "osoby podróżujące służbowo",
+  "osoby zwiedzające miasto pieszo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2015,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2015,
+ "restaurants": 2,
+ "roomTypes": [
+  "Classic Room: 21-22 m², niektóre z widokiem na wewnętrzne atrium/dziedziniec, inne z widokiem na ulicę/miasto, niektóre z tarasem, wyposażone w TV, minibar, zestaw do parzenia kawy i herbaty, oddzielna toaleta i prysznic, suszarka do włosów, ręczniki kąpielowe, szlafrok i kapcie, sejf, klimatyzacja, żelazko i deska do prasowania, parasol, bezpłatna butelka wody, dźwiękoszczelne okna, zasłony zaciemniające.",
+  "Superior Barcelona Room: 28 m², z widokiem na miasto (Via Laietana lub Dzielnica Gotycka), wyposażenie jak Classic Room.",
+  "Junior Suite: 34 m², z wydzieloną częścią dzienną, niektóre z tarasem lub widokiem na miasto, wyposażenie jak Classic Room plus głośnik Bluetooth Marshall.",
+  "Suite: 44 m², niektóre z widokiem na miasto, w tym Cathedral Suites z widokiem na Katedrę w Barcelonie, wyposażenie jak Classic Room plus głośnik Bluetooth Marshall."
+ ],
+ "rooms": 101,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3880202,
+  "lon": 2.1731612,
+  "src": "osm"
+ },
+ "sources": [
+  "barcelonabesthotels.com",
+  "aircanada.com",
+  "trip.com",
+  "h10hotels.com",
+  "h10cubikbarcelonaguide.us",
+  "oyster.com",
+  "michelin.com",
+  "loveholidays.com"
+ ],
+ "updated": "2026-11-27"
+}

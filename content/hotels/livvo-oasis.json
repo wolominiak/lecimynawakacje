@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:livvo oasis",
+ "slug": "livvo-oasis",
+ "name": "Livvo Oasis",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Lanzarote",
+  "Puerto del Carmen"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/lanzarote/puerto-del-carmen/livvo-oasis/2226/82fc335b72035f06aa24c-244.jpg",
+ "city": "Puerto del Carmen",
+ "intro": [
+  "Livvo Oasis to dwugwiazdkowy kompleks apartamentów położony w spokojnej, choć turystycznej okolicy Puerto del Carmen na Lanzarote. Obiekt, składający się z dwóch jasnych bloków otaczających basen, oferuje komfortowe warunki dla osób szukających relaksującego i niedrogiego wypoczynku.",
+  "Hotel jest polecany zarówno dla par, jak i rodzin z dziećmi, a także dla podróżujących z ograniczonym budżetem. Jego dogodna lokalizacja blisko plaży Playa Grande i głównej ulicy sprawia, że jest dobrą bazą wypadową do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Livvo Oasis znajduje się w Puerto del Carmen, około 300 metrów od piaszczystej plaży Playa Grande (inne źródła podają odległość 500 m lub 1 km). Obiekt położony jest w spokojnej dzielnicy, jednocześnie blisko głównych atrakcji turystycznych. Do centrum Puerto del Carmen jest około 2,3 km, a do starego miasta około 2 km. Najbliższe lotnisko, Lanzarote (ACE), oddalone jest o około 8 kilometrów."
+  },
+  {
+   "title": "Apartamenty",
+   "text": "Kompleks oferuje 55 apartamentów typu Standard i Superior. Wszystkie apartamenty wyposażone są w salon z rozkładaną sofą, łazienkę, kuchnię lub aneks kuchenny z pełnym wyposażeniem (lodówka, kuchenka, mikrofalówka, ekspres do kawy, czajnik, toster, naczynia), telewizor z kanałami satelitarnymi, telefon oraz umeblowany balkon lub taras. Apartamenty Superior dodatkowo posiadają klimatyzację i odnowione łazienki. W apartamentach Superior ręczniki zmieniane są 3 razy w tygodniu, a sprzątanie odbywa się 5 razy w tygodniu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen z wydzieloną sekcją dla dzieci. Goście mogą korzystać z solarium oraz zrelaksować się podczas masaży (za dodatkową opłatą). Hotel oferuje również możliwość gry w bilard i rzutki, a także wypożyczalnię rowerów (za dodatkową opłatą). W okolicy dostępne są sporty wodne, takie jak wędkarstwo i nurkowanie."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu Livvo Oasis dostępny jest bar przy basenie (Oasis Pool Bar), który serwuje śniadania i napoje przez cały dzień. Oferowane są również śniadania angielskie za dodatkową opłatą. Hotel działa w formule samoobsługowej (self-catering), z opcją \"tylko śniadanie\"."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne zarówno w pokojach, jak i w miejscach publicznych. Na terenie obiektu dostępny jest bezpłatny parking. Recepcja ma ograniczone godziny pracy. W apartamentach Standardowych brak jest klimatyzacji, a spiralne schody do apartamentów na piętrze mogą stanowić utrudnienie dla osób z ograniczoną mobilnością."
+  }
+ ],
+ "pros": [
+  "Spokojna i cicha atmosfera",
+  "Duży, czysty basen z dużą ilością leżaków",
+  "Wyjątkowa obsługa i przyjazny personel",
+  "Dogodna lokalizacja blisko plaży i głównej ulicy",
+  "Czyste i nowoczesne apartamenty",
+  "Dobre śniadania i rozsądne ceny w barze przy basenie",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Ograniczone godziny pracy recepcji",
+  "Brak klimatyzacji w apartamentach standardowych",
+  "Spiralne schody mogą być problemem dla osób z ograniczoną mobilnością",
+  "Ograniczona izolacja akustyczna między apartamentami",
+  "Niektóre części obiektu mogą wymagać remontu/napraw",
+  "Problem z rezerwowaniem leżaków ręcznikami",
+  "Brak mikrofalówki w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Livvo Oasis jest oddalony o około 300 metrów od piaszczystej plaży Playa Grande. Niektóre źródła podają odległość 500 metrów lub 1 kilometr."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Lanzarote (ACE) - César Manrique-Lanzarote Airport, znajduje się około 8 kilometrów od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "W hotelu Livvo Oasis nie ma aquaparku ani zjeżdżalni. Dostępny jest jeden odkryty basen z wydzieloną sekcją dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel Livvo Oasis jest polecany dla rodzin z dziećmi. Posiada basen z wydzieloną sekcją dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy w hotelu jest klimatyzacja?",
+   "a": "Klimatyzacja jest dostępna w Apartamentach Superior. W Apartamentach Standardowych brak jest klimatyzacji."
+  }
+ ],
+ "address": "C. Arpón, 5, 35510, Puerto del Carmen, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 8,
+ "airportName": "Lotnisko Lanzarote (ACE) - César Manrique-Lanzarote Airport",
+ "amenities": [
+  "Solarium",
+  "Bilard",
+  "Rzutki",
+  "Wypożyczalnia rowerów",
+  "Bezpłatny parking"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Spokojna okolica, jednocześnie będąca jednym z ważniejszych punktów turystycznych Lanzarote",
+ "bars": 1,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 2.3,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące z ograniczonym budżetem",
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2026,
+ "restaurants": 0,
+ "roomTypes": [
+  "Apartament Standardowy (salon z rozkładaną sofą, łazienka, kuchnia/aneks kuchenny z lodówką, kuchenką, mikrofalówką, ekspresem do kawy, czajnikiem, tosterem, naczyniami, telewizor z kanałami satelitarnymi, telefon, sejf (za dodatkową opłatą), umeblowany balkon lub taras)",
+  "Apartament Superior (salon z rozkładaną sofą, odnowiona łazienka, kuchnia/aneks kuchenny z lodówką, kuchenką, mikrofalówką, ekspresem do kawy, czajnikiem, tosterem, naczyniami, telewizor z kanałami satelitarnymi, telefon, sejf (za dodatkową opłatą), umeblowany balkon lub taras, klimatyzacja)"
+ ],
+ "rooms": 55,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "trivago.ie",
+  "livvohotels.com",
+  "agoda.com",
+  "oasislanzarote.com",
+  "onthebeach.ie",
+  "booking.com",
+  "thomascook.com",
+  "sunway.ie"
+ ],
+ "updated": "2026-11-27"
+}

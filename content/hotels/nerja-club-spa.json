@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:nerja club and spa",
+ "slug": "nerja-club-spa",
+ "name": "Nerja Club & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Nerja"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/nerja/nerja-club-a-spa/3bc273bd2e7269f434d95.jpg",
+ "city": "Nerja",
+ "intro": [
+  "Hotel Nerja Club & Spa to trzygwiazdkowy obiekt położony w spokojnej okolicy Nerja, na obrzeżach kurortu, blisko Capistrano. Jest to idealne miejsce dla osób szukających relaksu, par oraz podróżujących z ograniczonym budżetem, którzy cenią sobie spokój i możliwość zwiedzania okolic.",
+  "Hotel oferuje komfortowe zakwaterowanie w 102 pokojach, a także dostęp do basenów, strefy spa i siłowni. Bliskość plaży Burriana oraz centrum miejscowości sprawia, że jest to dobra baza wypadowa do odkrywania uroków Costa del Sol."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nerja Club & Spa znajduje się w spokojnej dzielnicy Nerja, około 1 km od piaszczystej plaży Burriana, wyróżnionej Błękitną Flagą. Spacer do plaży zajmuje około 15 minut. Do centrum miejscowości jest również około 1 km, co przekłada się na 12-15 minut spaceru, jednak powrót do hotelu jest pod górę."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 102 pokojami, w tym pokojami ekonomicznymi, dwuosobowymi (z balkonem lub widokiem) oraz trzyosobowymi. Większość pokoi posiada balkon lub prywatny taras z widokiem na basen, góry lub morze. Wyposażenie obejmuje klimatyzację, ogrzewanie, bezpłatne Wi-Fi, mini-lodówkę, czajnik oraz telewizor plazmowy/satelitarny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen z tarasem słonecznym, podgrzewany basen (czynny przez cały rok) oraz kryty basen relaksacyjny w strefie spa (wstęp od 14 lat). Goście mogą korzystać ze spa z jacuzzi i sauną oraz siłowni (od 18 lat). Wieczorami organizowane są animacje, w tym muzyka na żywo i flamenco."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotelowa restauracja bufetowa serwuje śniadania i kolacje z daniami kuchni międzynarodowej i lokalnej śródziemnomorskiej. Do dyspozycji gości są również trzy bary: Sports Bar, bar Canapé przy basenie oraz Main Lounge. Hotel oferuje wyżywienie w opcjach Bed & Breakfast oraz Half Board."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Nerja Club & Spa jest polecany dla osób szukających spokojnego wypoczynku, par oraz podróżujących z ograniczonym budżetem. Ze względu na dostępność krzesełek dla dzieci i przedszkola, hotel jest również przyjazny rodzinom. Nie jest to jednak obiekt przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja",
+  "Ładny basen zewnętrzny",
+  "Dostępne spa i siłownia",
+  "Bezpłatne Wi-Fi",
+  "Wieczorne rozrywki i pomocny personel"
+ ],
+ "cons": [
+  "15-minutowy spacer do centrum Nerja (powrót pod górę)",
+  "Cienkie ściany i hałas z pokoi w pobliżu baru/basenu",
+  "Przestarzały wystrój i pościel w pokojach",
+  "Łazienki wymagające odświeżenia",
+  "Brak bezpośredniej bliskości wielu restauracji i sklepów"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Burriana znajduje się około 1 km od hotelu, co oznacza 15-minutowy spacer."
+  },
+  {
+   "q": "Czy hotel oferuje animacje?",
+   "a": "Tak, hotel oferuje wieczorne animacje, w tym muzykę na żywo, kabaret i flamenco."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje krzesełka dla dzieci i przedszkole. Należy jednak pamiętać, że dzieci poniżej 14 lat nie mają wstępu do strefy spa."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 50-55 km od lotniska w Maladze (AGP)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  }
+ ],
+ "address": "Av. de Pescia, s/n, 29780 Nerja, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Krzesełka dla dzieci",
+  "Przedszkole"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "na obrzeżach kurortu, blisko Capistrano",
+ "bars": 3,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "spokojny wypoczynek",
+  "pary",
+  "podróżujący z ograniczonym budżetem",
+  "zwiedzający"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1984,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje ekonomiczne",
+  "Pokoje dwuosobowe z balkonem",
+  "Pokoje dwuosobowe z widokiem",
+  "Pokoje trzyosobowe",
+  "Pokoje dwuosobowe/twin z tarasem lub balkonem, z widokiem na basen, góry lub morze"
+ ],
+ "rooms": 102,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.75776,
+  "lon": -3.86972,
+  "src": "web"
+ },
+ "sources": [
+  "tui.co.uk",
+  "sunway.ie",
+  "broadwaytravel.com",
+  "mapcarta.com",
+  "nerjaclub.com",
+  "thomascook.com",
+  "booking.com",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

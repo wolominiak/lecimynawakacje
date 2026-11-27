@@ -1,0 +1,135 @@
+{
+ "id": 8838,
+ "slug": "club-drago-park",
+ "name": "Club Drago Park",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Fuerteventura",
+  "Costa Calma"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/club-drago-park-basen-teren-hotelu-obiekt-1013616081-570-428.jpg",
+ "city": "Costa Calma",
+ "intro": [
+  "Club Drago Park to czterogwiazdkowy hotel położony w spokojnej okolicy na obrzeżach kurortu Costa Calma na Fuerteventurze. Obiekt, zbudowany w latach 2000-2002 i odnowiony w 2020 roku, składa się z niskich budynków otoczonych rozległymi ogrodami.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi oraz par poszukujących wakacji all-inclusive w przystępnej cenie. Oferuje szeroki wachlarz udogodnień i aktywności, zapewniając komfortowy pobyt w malowniczej scenerii Wysp Kanaryjskich."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Club Drago Park znajduje się na wzgórzu, około 1.2 do 1.5 km od najbliższej piaszczystej plaży Costa Calma. Dojście pieszo zajmuje około 30 minut, jednak hotel zapewnia bezpłatny autobus wahadłowy do plaż Costa Calma lub Sotavento Beach. Centrum miejscowości Costa Calma oddalone jest o 500 metrów do 1.2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 219 do 246 pokojami, w tym pokojami dwuosobowymi, rodzinnymi, typu duplex i suitami. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, łazienkę z suszarką do włosów, telewizor, telefon oraz sejf (często płatny). W niektórych pokojach dostępne są również zestawy do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W ramach pakietu All Inclusive goście mogą korzystać z dwóch restauracji bufetowych serwujących kuchnię międzynarodową, w tym jedną meksykańską. Przekąski dostępne są między posiłkami, a lokalne napoje alkoholowe i bezalkoholowe serwowane są przez minimum 12 godzin dziennie, zazwyczaj do godziny 23:00. Na terenie obiektu znajdują się również bar przy basenie, lounge bar oraz dyskoteka."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje duży odkryty basen ze słodką wodą, podgrzewany w sezonie zimowym, oraz oddzielny, podgrzewany basen dla dzieci. Dla aktywnych dostępne są siłownia, piłka nożna, koszykówka, siatkówka, squash, tenis stołowy, rzutki, aerobik i joga. Wieczorami organizowane są regularne animacje, a w ciągu dnia program aktywności prowadzony przez zespół animatorów."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano plac zabaw oraz mini klub dla dzieci w wieku od 4 do 16 lat (lub 6-14 lat). Dostępny jest również oddzielny, podgrzewany basen, co czyni hotel atrakcyjnym wyborem dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Duży, czysty basen, często podgrzewany",
+  "Dobre jedzenie w formie bufetu",
+  "Czyste i przestronne pokoje",
+  "Uprzejma i pomocna obsługa",
+  "Codzienne sprzątanie"
+ ],
+ "cons": [
+  "Słaba jakość napojów alkoholowych w all-inclusive",
+  "Ograniczone animacje dla dorosłych",
+  "Lokalizacja na wzgórzu wymagająca podejść",
+  "Odległość od plaży (ok. 1.2-1.5 km)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 1.2 do 1.5 km od najbliższej piaszczystej plaży. Hotel oferuje bezpłatny autobus wahadłowy do plaży Costa Calma lub Sotavento Beach."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Fuerteventura (FUE), oddalone o około 71 km, co zajmuje około godziny jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada mini klub dla dzieci, plac zabaw oraz oddzielny, podgrzewany basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz w pokojach."
+  },
+  {
+   "q": "Czy baseny są podgrzewane?",
+   "a": "Tak, duży odkryty basen ze słodką wodą jest podgrzewany w sezonie zimowym, podobnie jak oddzielny basen dla dzieci."
+  }
+ ],
+ "address": "Calle Punta Pesebre 5, 35627 Costa Calma, Fuerteventura, Canary Islands, Spain",
+ "adultsOnly": false,
+ "airportKm": 71,
+ "airportName": "Port lotniczy Fuerteventura (FUE)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon/taras",
+  "TV satelitarna",
+  "Telefon",
+  "Sejf (płatny)",
+  "Suszarka do włosów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Costa Calma",
+ "bars": 3,
+ "beachDistanceM": 1200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2000,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2020,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokoje dwuosobowe (klimatyzacja, balkon/taras, łazienka z wanną/prysznicem i suszarką, TV satelitarna, telefon, sejf, sofa)",
+  "Pokoje rodzinne (wyposażenie jak pokoje dwuosobowe)",
+  "Pokoje typu duplex (wyposażenie jak pokoje dwuosobowe)",
+  "Suity (wyposażenie jak pokoje dwuosobowe, niektóre z zestawem do parzenia kawy/herbaty i systemem muzycznym)"
+ ],
+ "rooms": 219,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.1729473,
+  "lon": -14.2231033,
+  "src": "osm"
+ },
+ "sources": [
+  "stewarttravel.co.uk",
+  "tui.co.uk",
+  "sunshine.co.uk",
+  "agoda.com",
+  "trip.com",
+  "mitmagazine.co.uk",
+  "mapcarta.com",
+  "via.com"
+ ],
+ "updated": "2026-11-27"
+}

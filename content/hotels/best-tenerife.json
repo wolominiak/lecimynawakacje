@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:best tenerife",
+ "slug": "best-tenerife",
+ "name": "Best Tenerife",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Playa de Las Américas"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/playa-de-las-americas/best-tenerife-pl/6346/dec9a97a035da620ae78cb1d8e2f29f8_32-244.jpg",
+ "city": "Playa de Las Américas",
+ "intro": [
+  "Hotel Best Tenerife to czterogwiazdkowy obiekt położony w popularnej i spokojnej części Playa de Las Américas na słonecznej Teneryfie. Oferuje komfortowe zakwaterowanie w odnowionych pokojach, dogodną lokalizację blisko plaży i centrum, a także bogate zaplecze rekreacyjne.",
+  "Obiekt jest idealnym wyborem zarówno dla rodzin z dziećmi, jak i dla par szukających relaksu oraz aktywnego wypoczynku. Dzięki różnorodnym atrakcjom, animacjom i wydzielonym strefom wypoczynkowym, każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Best Tenerife znajduje się w Playa de Las Américas, około 300-450 metrów od piaszczystej, publicznej plaży Las Vistas. Leżaki i parasole na plaży są dostępne za dodatkową opłatą. Centrum miejscowości oddalone jest o około 1 km, a lotnisko Tenerife Sur (TFS) Reina Sofia o 17-18 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 365 pokojami, które zostały odnowione w 2018 roku. Dostępne są pokoje Dwuosobowe Standard, Superior, Senator oraz Senator Pool View. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, łazienkę z wanną lub prysznicem i suszarką do włosów, TV/SAT, telefon, a także minibar i sejf (dodatkowo płatne)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się trzy baseny, w tym dwa odkryte dla dorosłych oraz jeden podgrzewany zimą. Do dyspozycji gości są również dwa odkryte jacuzzi oraz brodzik dla dzieci. Hotel oferuje program animacyjny dla dzieci i dorosłych, mini klub dla dzieci w wieku 6-12 lat oraz plac zabaw. Dostępna jest siłownia, a także tenis stołowy i bilard (płatny)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa Vista Cuisine, serwująca dania kuchni lokalnej i międzynarodowej, oraz opcjonalna, płatna restauracja Mediterraneo. Goście mogą korzystać z baru La Choza, baru przy basenie oraz dwóch kawiarni. Opcja All Inclusive obejmuje śniadanie, obiad, kolację w formie bufetu, przekąski, kawę, herbatę oraz wybrane lokalne napoje alkoholowe i bezalkoholowe w wyznaczonych godzinach."
+  },
+  {
+   "title": "Spa i udogodnienia",
+   "text": "Hotel oferuje kompleksową strefę spa z jacuzzi, sauną, łaźnią turecką, strefą relaksu, brodzikiem do masażu stóp oraz gabinetami masażu (zabiegi płatne). Na terenie całego hotelu dostępne jest bezpłatne Wi-Fi. Dla dorosłych gości dostępna jest płatna strefa Premium Terrace z leżakami, łóżkami balijskimi i jacuzzi."
+  }
+ ],
+ "pros": [
+  "Dobra i różnorodna kuchnia",
+  "Ciekawe animacje dla dzieci i dorosłych",
+  "Estetyczny wystrój i zadbana zieleń",
+  "Bardzo dobra lokalizacja blisko centrum i plaży",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Plaża publiczna z płatnymi leżakami i parasolami",
+  "Brak aquaparku/zjeżdżalni",
+  "Minibar i sejf w pokojach płatne dodatkowo"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Best Tenerife jest położony około 300-450 metrów od piaszczystej plaży Las Vistas."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko, Tenerife Sur (TFS) Reina Sofia, znajduje się około 17-18 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni, ale dostępny jest brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje brodzik, plac zabaw, mini klub dla dzieci (6-12 lat) oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest obiektem rodzinnym. Istnieje jednak płatna strefa Premium Terrace przeznaczona wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "C/ Antonio Domínguez Alfonso, 6, 38660 Arona, Tenerife",
+ "adultsOnly": false,
+ "airportKm": 17,
+ "airportName": "Tenerife Sur (TFS) Reina Sofia",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "wifi",
+  "mini klub dla dzieci",
+  "plac zabaw",
+  "animacje",
+  "jacuzzi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa de Las Américas",
+ "bars": 4,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1985,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój Dwuosobowy Standard: klimatyzacja, balkon/taras, łazienka (wanna/prysznic, suszarka), TV/SAT, telefon, minibar (płatny), sejf (płatny), dwa łóżka typu Queen Size, możliwość zakwaterowania do 4 osób.",
+  "Pokój Dwuosobowy Superior: na najwyższych piętrach (4, 5, 6), wyposażenie jak Standard, dodatkowo zestaw do kawy rozpuszczalnej i naparów.",
+  "Pokój Senator: wyposażenie jak Standard.",
+  "Pokój Senator Pool View: wyposażenie jak Standard z widokiem na basen.",
+  "Apartamenty (Suites): wyposażenie jak Standard, dodatkowo szlafroki i kapcie."
+ ],
+ "rooms": 365,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0568092,
+  "lon": -16.7318092,
+  "src": "osm"
+ },
+ "sources": [
+  "nekera.pl",
+  "coraltravel.pl",
+  "toptenerifehotels.com",
+  "besthotels.es",
+  "islas.co.uk",
+  "tui.pl",
+  "booking.com",
+  "wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}

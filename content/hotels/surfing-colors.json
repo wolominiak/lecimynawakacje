@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:surfing colors",
+ "slug": "surfing-colors",
+ "name": "Surfing Colors",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Coralejo"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/corralejo/surfing-colors/6462/4366007d1aa6b0d81457497d2a9ab205_budynki_widok-244.jpg",
+ "city": "Corralejo",
+ "intro": [
+  "Hotel Surfing Colors to trzygwiazdkowy obiekt położony na północnym wybrzeżu Corralejo na Fuerteventurze, zaledwie 50 metrów od plaży Bristol Beach. Jest to idealne miejsce dla osób aktywnych, miłośników sportów wodnych, a także par i rodzin szukających swobodnej bazy wypadowej do odkrywania uroków wyspy.",
+  "Obiekt oferuje komfortowe zakwaterowanie w apartamentach i pokojach, większość z aneksem kuchennym, co sprzyja niezależności. Bliskość centrum miejscowości oraz licznych restauracji i barów sprawia, że jest to dogodna opcja dla tych, którzy cenią sobie łatwy dostęp do lokalnych atrakcji i gastronomii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Surfing Colors znajduje się w Corralejo, zaledwie 50 metrów od plaży Bristol Beach. Do głównej piaszczystej plaży Corralejo jest około 1 km, a do centrum miejscowości około 1.2 km. W bezpośrednim sąsiedztwie hotelu znajdują się sklepy, bary i restauracje."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 208 jednostek zakwaterowania, w tym pokoje dwuosobowe, studia, apartamenty rodzinne oraz junior i sky suite. Większość z nich posiada aneks kuchenny z mikrofalówką, lodówką i płytą ceramiczną. Wyposażenie obejmuje telewizor z płaskim ekranem, bezpłatne Wi-Fi, sejf oraz balkon lub patio. Należy pamiętać, że nie wszystkie pokoje posiadają klimatyzację."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny, w tym jeden podgrzewany brodzik dla dzieci. Dostępne są leżaki i łóżka balijskie. Hotel oferuje również lekcje surfingu, wypożyczalnię desek surfingowych i rowerów, a także bezpłatne lekcje jogi i aqua aerobik. Okazjonalnie organizowane są wieczorne rozrywki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu dostępny jest bar przy basenie serwujący przekąski i napoje. Oferowane są śniadania w formie bufetu za dodatkową opłatą. Hotel nie posiada własnej restauracji na kolacje, jednak w odległości 75 metrów od obiektu znajduje się wiele lokali gastronomicznych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował dedykowany brodzik oraz plac zabaw z huśtawkami, zjeżdżalniami i drabinkami. W pobliżu, około 1.7 km od hotelu, znajduje się park wodny Acua Water Park."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czyste i przestronne pokoje/apartamenty",
+  "Dostęp do basenów i strefy relaksu",
+  "Możliwość wypożyczenia sprzętu sportowego i lekcje surfingu"
+ ],
+ "cons": [
+  "Brak restauracji na kolacje w hotelu",
+  "Siłownia płatna i poza terenem obiektu",
+  "Brak klimatyzacji w niektórych pokojach",
+  "Potencjalny hałas z ulicy",
+  "Brak aquaparku na terenie hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Surfing Colors znajduje się 50 metrów od plaży Bristol Beach. Do głównej plaży Corralejo jest około 1 km."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 40-45 km od lotniska Fuerteventura (FUE)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Hotel nie posiada aquaparku, ale w pobliżu (1.7 km) znajduje się Acua Water Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik i plac zabaw dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są śniadania w formie bufetu za dodatkową opłatą."
+  }
+ ],
+ "address": "Calle Pejín 2, 35660 Corralejo, Las Palmas",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Fuerteventura (FUE)",
+ "amenities": [
+  "Wypożyczalnia sprzętu sportowego",
+  "Szafki na sprzęt do sportów wodnych",
+  "Lekcje jogi",
+  "Aqua aerobik"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "północne wybrzeże Corralejo, blisko promenady Bristol Beach",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Aktywni",
+  "Surferzy",
+  "Miłośnicy sportów wodnych",
+  "Pary",
+  "Cyfrowi nomadzi",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 1981,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 0,
+ "roomTypes": [
+  "Surfing Dreams Rooms (z widokiem na morze lub basen)",
+  "Sweet Home Rooms (z aneksem kuchennym)",
+  "Studia (z aneksem kuchennym)",
+  "Pokoje Dwuosobowe (z widokiem na basen lub morze, z balkonem i dostępem do tarasu na dachu)",
+  "Apartamenty Rodzinne (dla maksymalnie 4 osób)",
+  "Junior Suites",
+  "Sky Suite (z jacuzzi)"
+ ],
+ "rooms": 208,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.7423604,
+  "lon": -13.8702545,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "surfingcolors.com",
+  "loveholidays.com",
+  "h-rez.com",
+  "booking.com",
+  "mapy.com",
+  "onthebeach.ie",
+  "jet2holidays.com"
+ ],
+ "updated": "2026-11-27"
+}

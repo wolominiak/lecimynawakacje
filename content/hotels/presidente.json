@@ -1,0 +1,149 @@
+{
+ "id": "x:hiszpania:presidente",
+ "slug": "presidente",
+ "name": "Presidente",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/presidente-pl/1111/5c221b8d6c88aaebee3d4-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Presidente to czterogwiazdkowy obiekt położony w popularnej miejscowości Benidorm na wybrzeżu Costa Blanca w Hiszpanii. Znajduje się w dzielnicy Levante Beach, zaledwie kilkaset metrów od piaszczystej plaży. Hotel, który obchodził swoje 50-lecie, został całkowicie odnowiony i oferuje komfortowe warunki pobytu.",
+  "Obiekt jest idealnym wyborem dla rodzin, par oraz grup przyjaciół, którzy szukają połączenia relaksu na plaży z dostępem do rozrywki i atrakcji miejskich. Dzięki udogodnieniom dla dzieci oraz programom animacyjnym, hotel sprawdzi się zarówno dla osób szukających aktywnego wypoczynku, jak i tych pragnących spokojnego relaksu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Presidente usytuowany jest w Benidormie, w dzielnicy Levante Beach, przy Avda. Filipinas, 10. Odległość od piaszczystej, publicznej plaży Levante wynosi około 250-400 metrów. Plaża charakteryzuje się łagodnym zejściem do morza, a na miejscu dostępne są prysznice. Leżaki i parasole na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 319-320 całkowicie odnowionymi pokojami, rozmieszczonymi w jednym budynku. W ofercie znajdują się pokoje dwuosobowe (z widokiem na miasto lub basen), pokoje z dwoma łóżkami pojedynczymi, pokoje trzyosobowe, pokoje jednoosobowe (z widokiem na basen) oraz apartamenty typu Junior Suite z balkonem. Wszystkie pokoje wyposażone są w prywatny taras lub balkon, klimatyzację, łazienkę z prysznicem lub wanną, suszarkę do włosów, zestaw kosmetyków, biurko, minibar (dodatkowo płatny), telewizor z płaskim ekranem i kanałami satelitarnymi, telefon, czajnik, małą lodówkę oraz dźwiękoszczelne okna. Dostępne są również pokoje dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa, która serwuje dania kuchni międzynarodowej i tematyczne. Do dyspozycji gości są również cztery bary, w tym popularny bar Philippines 10 Club z muzyką na żywo, bar wewnętrzny (czynny przez cały rok) oraz bar zewnętrzny (sezonowy). Hotel oferuje opcję all inclusive, jednak szczegóły nie są podane. Należy pamiętać, że napoje nie są wliczone w opcje wyżywienia HB (śniadania i obiadokolacje) ani FB (pełne wyżywienie)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się odkryty basen z leżakami i parasolami, który nie jest podgrzewany zimą. Goście mogą korzystać z dwóch jacuzzi umieszczonych na dużym tarasie słonecznym. W centrum spa Benicaldea dostępny jest kryty basen, jacuzzi i sauna. Hotel oferuje także salę fitness/siłownię. W sezonie letnim organizowane są animacje dla dzieci oraz programy animacyjne i wieczory z muzyką na żywo dla dorosłych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, plac zabaw, ogród oraz bibliotekę. W sezonie letnim dostępne są animacje dla dzieci. Hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci w różnym wieku."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "Centrum spa Benicaldea, dostępne za dodatkową opłatą, oferuje szeroki zakres usług, w tym basen kryty, jacuzzi, saunę oraz różnorodne masaże i zabiegi na twarz i ciało."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży i atrakcji rozrywkowych",
+  "Smaczne i różnorodne jedzenie",
+  "Czyste i odnowione pokoje",
+  "Pomocna i przyjazna obsługa",
+  "Dobra lokalizacja"
+ ],
+ "cons": [
+  "Parking za dodatkową opłatą",
+  "Leżaki i parasole na plaży płatne",
+  "Napoje nie są wliczone w opcje HB/FB"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Presidente znajduje się około 250-400 metrów od piaszczystej plaży Levante."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Alicante-Elche (ALC), oddalone o około 47-60 km (około 40-45 minut jazdy)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W faktach nie ma informacji o aquaparku ani zjeżdżalniach w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje brodzik, plac zabaw, ogród, bibliotekę oraz animacje dla dzieci w sezonie letnim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i częściach wspólnych hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych. Jest to obiekt przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "Avda. Filipinas, 10",
+ "adultsOnly": false,
+ "airportKm": 47,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "Basen odkryty",
+  "Jacuzzi",
+  "Kryty basen (w spa)",
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Brodzik dla dzieci",
+  "Plac zabaw",
+  "Ogród",
+  "Biblioteka",
+  "Animacje dla dzieci (sezonowo)",
+  "Programy animacyjne",
+  "Muzyka na żywo"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Levante Beach (Playa de Levante) lub Rincon de Loix",
+ "bars": 4,
+ "beachDistanceM": 250,
+ "beachType": "Piaszczysta, publiczna",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Przyjaciele",
+  "Podróżujący solo"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1973,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój Dwuosobowy (z widokiem na miasto lub basen) z prywatnym tarasem/balkonem, klimatyzacją, łazienką z prysznicem/wanną, suszarką do włosów, zestawem kosmetyków, biurkiem, minibarem (za dopłatą), TV z płaskim ekranem i kanałami satelitarnymi, telefonem, czajnikiem, małą lodówką, dźwiękoszczelnymi oknami",
+  "Pokój z 2 łóżkami pojedynczymi z prywatnym tarasem/balkonem, klimatyzacją, łazienką z prysznicem/wanną, suszarką do włosów, zestawem kosmetyków, biurkiem, minibarem (za dopłatą), TV z płaskim ekranem i kanałami satelitarnymi, telefonem, czajnikiem, małą lodówką, dźwiękoszczelnymi oknami",
+  "Pokój Trzyosobowy z prywatnym tarasem/balkonem, klimatyzacją, łazienką z prysznicem/wanną, suszarką do włosów, zestawem kosmetyków, biurkiem, minibarem (za dopłatą), TV z płaskim ekranem i kanałami satelitarnymi, telefonem, czajnikiem, małą lodówką, dźwiękoszczelnymi oknami",
+  "Pokój Jednoosobowy (z widokiem na basen) z prywatnym tarasem/balkonem, klimatyzacją, łazienką z prysznicem/wanną, suszarką do włosów, zestawem kosmetyków, biurkiem, minibarem (za dopłatą), TV z płaskim ekranem i kanałami satelitarnymi, telefonem, czajnikiem, małą lodówką, dźwiękoszczelnymi oknami",
+  "Apartament typu Junior Suite z balkonem z prywatnym tarasem/balkonem, klimatyzacją, łazienką z prysznicem/wanną, suszarką do włosów, zestawem kosmetyków, biurkiem, minibarem (za dopłatą), TV z płaskim ekranem i kanałami satelitarnymi, telefonem, czajnikiem, małą lodówką, dźwiękoszczelnymi oknami",
+  "Pokoje dla osób niepełnosprawnych"
+ ],
+ "rooms": 319,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": -34.5984749,
+  "lon": -58.3829505,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "loveholidays.com",
+  "coraltravel.pl",
+  "visitbenidorm.es",
+  "hotels-costa-blanca.com",
+  "expedia.com",
+  "hoteles.com",
+  "travelyalla.com"
+ ],
+ "updated": "2026-11-27"
+}

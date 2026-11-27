@@ -1,0 +1,145 @@
+{
+ "id": "x:hiszpania:mareny benidorm",
+ "slug": "mareny-benidorm",
+ "name": "Mareny Benidorm",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/mareny-benidorm/395adf30ff326989a586649405a47850_condal_011.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Mareny Benidorm to trzygwiazdkowy obiekt położony w centralnej, mieszkalnej dzielnicy Benidorm na Costa Blanca, w Hiszpanii. Jego atutem jest bliskość Starego Miasta, parku Elche oraz piaszczystych plaż Poniente i Levante, co czyni go idealną bazą wypadową do zwiedzania i wypoczynku.",
+  "Hotel jest polecany dla par, rodzin, osób podróżujących samotnie oraz seniorów, którzy cenią sobie dobrą lokalizację i przyjazną atmosferę. Obiekt oferuje komfortowe zakwaterowanie z podstawowym wyposażeniem, a także dostęp do basenu na dachu i centrum fitness."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mareny Benidorm znajduje się w centrum Benidorm, zaledwie 300-400 metrów od piaszczystej plaży Poniente i około 650 metrów od plaży Levante. W bliskiej odległości (5-10 minut spacerem) znajduje się Stare Miasto oraz liczne sklepy, bary i restauracje. Najbliższe lotnisko w Alicante (ALC) oddalone jest o około 47-64 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 66 pokojami, w tym jedno- i dwuosobowymi, wyposażonymi w klimatyzację, ogrzewanie, telewizor z płaskim ekranem, telefon oraz sejf (płatny). Większość pokoi posiada umeblowany balkon lub taras, a łazienki wyposażone są w wannę lub prysznic. Dostępne są łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja bufetowa, która serwuje śniadania, obiady i kolacje z daniami kuchni śródziemnomorskiej i międzynarodowej. Na życzenie dostępne są dania bezglutenowe i mleko bez laktozy. Do dyspozycji gości są również bar-kawiarnia, bar w lobby oraz snack bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się odkryty basen z tarasem słonecznym, leżakami i parasolami, czynny przez cały rok. Hotel oferuje również centrum fitness. Sezonowo organizowane są wieczorne animacje. W okolicy dostępne są pola golfowe oraz możliwość jazdy konnej."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie. Jest przyjazny dzieciom, oferując krzesełka w restauracji i bufet dla dzieci. Personel jest ceniony za swoją pomoc i życzliwość. Hotel nie akceptuje wieczorów kawalerskich/panieńskich ani grup młodzieżowych."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czystość w całym obiekcie",
+  "Dobre śniadania i różnorodność jedzenia",
+  "Darmowe Wi-Fi"
+ ],
+ "cons": [
+  "Przestarzały wystrój i wyposażenie",
+  "Mały basen na dachu",
+  "Mała i czasem klaustrofobiczna winda",
+  "Niektóre pokoje mogą być głośne i gorące",
+  "Trudności z parkowaniem w okolicy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Mareny Benidorm jest oddalony o około 300-400 metrów od piaszczystej plaży Poniente i około 650 metrów od plaży Levante."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel posiada jeden odkryty basen na dachu z tarasem słonecznym, leżakami i parasolami. Basen jest czynny przez cały rok."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Mareny Benidorm nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom ("
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi w całym obiekcie, w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Alicante (ALC), oddalone o około 46.7 km do 64 km. Czas dojazdu samochodem to około 40 minut."
+  }
+ ],
+ "address": "Carrer de la Garita, 17, 03501 Benidorm, Alacant",
+ "adultsOnly": false,
+ "airportKm": 46.7,
+ "airportName": "Alicante (ALC)",
+ "amenities": [
+  "Klimatyzacja",
+  "Ogrzewanie",
+  "Telewizor z płaskim ekranem",
+  "Telefon",
+  "Sejf (płatny)",
+  "Biurko",
+  "Łóżeczka dla dzieci (na życzenie)",
+  "Krzesełka dla dzieci w restauracji",
+  "Bufet dla dzieci",
+  "Dania bezglutenowe (na życzenie)",
+  "Mleko bez laktozy (na życzenie)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centralna, mieszkalna, blisko Starego Miasta i parku Elche",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Osoby podróżujące samotnie",
+  "Grupy",
+  "Seniorzy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy (Standard)",
+  "Pokój dwuosobowy do pojedynczego wykorzystania (Double for Single Use)",
+  "Pokój Singular Mareny",
+  "Pokój Doble Mareny"
+ ],
+ "rooms": 66,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5387644,
+  "lon": -0.1331897,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "booking.com",
+  "marenysol.com",
+  "mercuryholidays.co.uk",
+  "visitbenidorm.es",
+  "jump2spain.com",
+  "kayak.com",
+  "yandex.ru"
+ ],
+ "updated": "2026-11-27"
+}

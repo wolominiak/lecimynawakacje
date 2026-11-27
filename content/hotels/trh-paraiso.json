@@ -1,0 +1,150 @@
+{
+ "id": "x:hiszpania:trh paraiso",
+ "slug": "trh-paraiso",
+ "name": "Trh Paraiso",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Estepona"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/estepona/trh-paraiso/658825a1a68cfafc8d822e3b99d8796f_10034802.jpg",
+ "city": "Estepona",
+ "intro": [
+  "Hotel TRH Paraiso to czterogwiazdkowy obiekt położony w spokojnej, mieszkalnej dzielnicy El Paraiso, znanej jako New Golden Mile, między Marbellą a Esteponą na słonecznym wybrzeżu Costa del Sol. Otwarty w 1973 roku i odnowiony w 2017 roku, hotel oferuje relaksujący wypoczynek w otoczeniu zadbanych ogrodów.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, golfistów oraz osób szukających aktywnego wypoczynku połączonego z relaksem. Dzięki swojej lokalizacji, stanowi dobrą bazę wypadową do zwiedzania regionu, choć dojazd do plaży i centrum wymaga transportu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel TRH Paraiso znajduje się w Esteponie, w dzielnicy El Paraiso, około 13 km od centrum miejscowości. Do najbliższej plaży jest około 2.7 km, a do plaży Atalaya około 4 km. Hotel oferuje bezpłatny transfer na plażę. Najbliższe lotniska to Malaga (około 65 km drogą) i Gibraltar (około 45.7 km w linii prostej)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 171 lub 176 pokojami, w tym dwuosobowymi, trzyosobowymi, rodzinnymi, jednoosobowymi oraz Junior Suite. Pokoje mogą oferować widok na morze, góry lub pole golfowe. Wyposażenie obejmuje klimatyzację (sezonowo), ogrzewanie, telewizor z płaskim ekranem, minibar (płatny), sejf (płatny), suszarkę do włosów oraz łazienkę. Niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajdują się trzy restauracje: à la carte z kuchnią międzynarodową, La Pergola serwująca śniadania śródziemnomorskie oraz La Pirámide z daniami kuchni śródziemnomorskiej i międzynarodowej oraz live cooking. Goście mogą korzystać z dwóch barów, w tym piano baru i baru przy basenie, a także snack baru. Dostępne są pakiety all inclusive, obejmujące posiłki, przekąski oraz napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje dwa baseny zewnętrzne, w tym jeden dla dzieci, oraz sezonowy basen kryty. Dostępne jest centrum wellness/spa z sauną, łaźnią parową i jacuzzi, a także masaże (dodatkowo płatne). Dla aktywnych gości przygotowano klimatyzowaną siłownię (dla dorosłych, sezonowo), korty tenisowe, tenis stołowy, bilard, rzutki i siatkówkę. W pobliżu znajdują się pola golfowe, na które hotel oferuje zniżki."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen dla dzieci, plac zabaw oraz bezpłatny mini klub, który działa w sezonie wysokim. W sezonie (od czerwca do sierpnia) organizowane są dzienne animacje, a także okazjonalne animacje wieczorne, zapewniające rozrywkę dla całej rodziny."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "W hotelu dostępne jest bezpłatne Wi-Fi w pomieszczeniach ogólnodostępnych. Wi-Fi w pokojach może być płatne. Hotel oferuje również usługi spa, siłownię oraz szereg aktywności sportowych. Dla wygody gości dostępny jest bezpłatny transfer na plażę."
+  }
+ ],
+ "pros": [
+  "Przestronny basen",
+  "Dobre i urozmaicone śniadania",
+  "Uprzejma i pomocna obsługa",
+  "Czystość w pokojach i częściach wspólnych",
+  "Spokojna lokalizacja i piękne ogrody"
+ ],
+ "cons": [
+  "Przestarzałe udogodnienia i wystrój (szczególnie łazienki)",
+  "Niewygodne łóżka",
+  "Problemy z klimatyzacją",
+  "Lokalizacja wymagająca samochodu ze względu na odległość od plaży i sklepów",
+  "Płatne Wi-Fi w pokojach i płatny sejf"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 2.7 km od najbliższej plaży. Hotel oferuje bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Lotnisko Malaga (AGP), oddalone o około 65 km drogą. Lotnisko Gibraltar znajduje się około 45.7 km w linii prostej."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje basen dla dzieci, plac zabaw oraz mini klub (w sezonie wysokim)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. Wi-Fi w pokojach może być płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom."
+  }
+ ],
+ "address": "Ctra Cadiz Km 167 Urb Paraiso, Estepona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Petanque",
+  "Siatkówka",
+  "Mini klub dla dzieci",
+  "Plac zabaw dla dzieci",
+  "Bezpłatny transfer na plażę",
+  "Zniżki na green fee na pobliskie pola golfowe"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "El Paraiso (New Golden Mile)",
+ "bars": 2,
+ "beachDistanceM": 2700,
+ "beachType": "brak danych",
+ "centerKm": 13,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Golfiści",
+  "Aktywny wypoczynek",
+  "Relaks",
+  "Grupy"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1973,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój dwuosobowy/twin z klimatyzacją (sezonowo), ogrzewaniem centralnym, telewizorem z płaskim ekranem i kanałami satelitarnymi, minibarem (płatny), sejfem (płatny), biurkiem, zestawem do parzenia kawy/herbaty, suszarką do włosów oraz łazienką z wanną lub prysznicem, z widokiem na morze, góry lub pole golfowe.",
+  "Pokój trzyosobowy z klimatyzacją (sezonowo), ogrzewaniem centralnym, telewizorem z płaskim ekranem i kanałami satelitarnymi, minibarem (płatny), sejfem (płatny), biurkiem, zestawem do parzenia kawy/herbaty, suszarką do włosów oraz łazienką z wanną lub prysznicem, z widokiem na morze, góry lub pole golfowe.",
+  "Pokój rodzinny z klimatyzacją (sezonowo), ogrzewaniem centralnym, telewizorem z płaskim ekranem i kanałami satelitarnymi, minibarem (płatny), sejfem (płatny), biurkiem, zestawem do parzenia kawy/herbaty, suszarką do włosów oraz łazienką z wanną lub prysznicem, z widokiem na morze, góry lub pole golfowe.",
+  "Pokój jednoosobowy z klimatyzacją (sezonowo), ogrzewaniem centralnym, telewizorem z płaskim ekranem i kanałami satelitarnymi, minibarem (płatny), sejfem (płatny), biurkiem, zestawem do parzenia kawy/herbaty, suszarką do włosów oraz łazienką z wanną lub prysznicem, z widokiem na morze, góry lub pole golfowe.",
+  "Junior Suite z klimatyzacją (sezonowo), ogrzewaniem centralnym, telewizorem z płaskim ekranem i kanałami satelitarnymi, minibarem (płatny), sejfem (płatny), biurkiem, zestawem do parzenia kawy/herbaty, suszarką do włosów oraz łazienką z wanną lub prysznicem, z widokiem na morze, góry lub pole golfowe."
+ ],
+ "rooms": 171,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4755164,
+  "lon": -5.0291266,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelscombined.com",
+  "agoda.com",
+  "myhotels.sa",
+  "padelbreaks.es",
+  "oyster.com",
+  "booking.com",
+  "reserving.com",
+  "jet2holidays.com"
+ ],
+ "updated": "2026-11-27"
+}

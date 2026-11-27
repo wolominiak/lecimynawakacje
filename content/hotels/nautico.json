@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:nautico",
+ "slug": "nautico",
+ "name": "Nautico",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Santa Cruz de Tenerife"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/d4bd2efc7186188fd10fc.JPG",
+ "city": "Santa Cruz de Tenerife",
+ "intro": [
+  "Hotel Nautico to dwugwiazdkowy obiekt położony w spokojnej dzielnicy Residencial Anaga w Santa Cruz de Tenerife, na Teneryfie. Charakteryzuje się kameralną atmosferą, oferując 40 pokoi w odnowionym, dwupiętrowym budynku. Jego lokalizacja blisko morza i Klubu Nautico sprawia, że jest to dobra baza wypadowa do odkrywania uroków stolicy Teneryfy.",
+  "Obiekt jest szczególnie polecany dla par poszukujących spokojnego wypoczynku w miejskim otoczeniu. Dzięki dogodnemu położeniu, goście mają łatwy dostęp do centrum miasta, portu oraz lokalnych restauracji i sklepów, co czyni go atrakcyjnym wyborem dla osób ceniących sobie niezależność i możliwość eksploracji okolicy we własnym tempie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Nautico znajduje się w Santa Cruz de Tenerife, w spokojnej dzielnicy Residencial Anaga, niedaleko morza i Klubu Nautico. Do piaszczystej plaży Las Teresitas jest około 7 km, natomiast do plaży Playa Club Náutico około 700 metrów. Centrum miasta oddalone jest o 10-15 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 40 pokoi jedno- i dwuosobowych, często wyposażonych w balkon lub taras. Wszystkie pokoje są klimatyzowane, dźwiękoszczelne i posiadają minibar, telewizor Smart TV, bezpłatne Wi-Fi, sejf oraz prywatną łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu mieści się kawiarnia-restauracja, gdzie serwowane są śniadania kontynentalne oraz inne posiłki w ciągu dnia. Do dyspozycji gości jest również bar/snack bar. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi dostępne zarówno w pokojach, jak i w miejscach publicznych. Wśród udogodnień rekreacyjnych wymieniane są zajęcia jogi oraz pokój telewizyjny. Obiekt nie dysponuje basenami, aquaparkiem ani strefą spa czy siłownią."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Nautico jest idealnym wyborem dla par szukających relaksu i spokojnego wypoczynku. Jego miejskie położenie umożliwia łatwy dostęp do atrakcji Santa Cruz de Tenerife, co docenią osoby nastawione na zwiedzanie i korzystanie z lokalnej oferty gastronomicznej."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko centrum i portu",
+  "Czyste i przestronne pokoje z balkonami",
+  "Miła i pomocna obsługa",
+  "Dobre Wi-Fi i klimatyzacja",
+  "Dobra relacja jakości do ceny"
+ ],
+ "cons": [
+  "Proste i mało urozmaicone śniadania",
+  "Brak basenów",
+  "Plaża Las Teresitas oddalona o około 7 km",
+  "Brak udogodnień dla dzieci",
+  "Brak spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Las Teresitas oddalona jest o około 7 km (10 minut jazdy samochodem). Bliżej, bo około 700 metrów, znajduje się plaża Playa Club Náutico, a plaża Valleseco jest oddalona o około 1.9 km pieszo."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Tenerife North (Los Rodeos), oddalone o około 9.5 km w linii prostej (10-20 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. W hotelu znajduje się kawiarnia-restauracja serwująca śniadania kontynentalne oraz bar/snack bar."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie jest przeznaczony wyłącznie dla dorosłych, ale brak jest informacji o udogodnieniach dla dzieci, takich jak mini klub, strefa dla dzieci czy animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, hotel oferuje bezpłatne Wi-Fi zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Brak dostępnych publicznych informacji o basenach, zjeżdżalniach czy aquaparku."
+  }
+ ],
+ "address": "Avda. Profesor Peraza de Ayala 13, 38001 Santa Cruz de Tenerife",
+ "adultsOnly": false,
+ "airportKm": 9.5,
+ "airportName": "Tenerife North (Los Rodeos)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "klimatyzacja",
+  "minibar",
+  "telewizor Smart TV",
+  "sejf",
+  "biurko",
+  "prywatna łazienka z prysznicem i suszarką do włosów",
+  "zajęcia jogi",
+  "pokój telewizyjny"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Residencial Anaga",
+ "bars": 1,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta (Las Teresitas)",
+ "centerKm": 0.8,
+ "goodFor": [
+  "pary",
+  "spokojny wypoczynek"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1990,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2006,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy z klimatyzacją, minibarem, Smart TV, Wi-Fi, sejfem, biurkiem, łazienką z prysznicem i suszarką do włosów, dźwiękoszczelny",
+  "pokój dwuosobowy z balkonem/tarasem, klimatyzacją, minibarem, Smart TV, Wi-Fi, sejfem, biurkiem, łazienką z prysznicem i suszarką do włosów, dźwiękoszczelny"
+ ],
+ "rooms": 40,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": -33.0253211,
+  "lon": -71.5660773,
+  "src": "osm"
+ },
+ "sources": [
+  "tenerifehotel.net",
+  "loveholidays.com",
+  "hotelnautico.es",
+  "centraldereservas.com",
+  "expedia.com.sg",
+  "wego.qa",
+  "flyandbed.com",
+  "islascanarias-hoteles.com"
+ ],
+ "updated": "2026-11-27"
+}

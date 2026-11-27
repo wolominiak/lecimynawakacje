@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:holiday club puerto calma",
+ "slug": "holiday-club-puerto-calma",
+ "name": "Holiday Club Puerto Calma",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Portoryko"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/puerto-rico/holiday-club-puerto-calma/7799/136c9915c1c108f7a40bede1f90dd58e_1-244.jpg",
+ "city": "Puerto Rico",
+ "intro": [
+  "Holiday Club Puerto Calma to czterogwiazdkowy aparthotel położony w malowniczej miejscowości Puerto Rico, na słonecznym południowym wybrzeżu Gran Canarii. Usytuowany w skale wulkanicznej, oferuje panoramiczne widoki na przystań i ocean, stanowiąc idealne miejsce na relaksujący wypoczynek.",
+  "Obiekt jest rekomendowany dla rodzin, par, przyjaciół oraz osób podróżujących samotnie, którzy cenią sobie przestronne zakwaterowanie z pełnym wyposażeniem kuchennym oraz bliskość lokalnych atrakcji, plaży i restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Holiday Club Puerto Calma znajduje się w Puerto Rico, w gminie Mogán, blisko przystani. Najbliższa piaszczysta plaża, Playa de Puerto Rico, oddalona jest o około 0.9 km, co zajmuje około 10 minut spacerem. Plaża nie jest hotelowa."
+  },
+  {
+   "title": "Apartamenty",
+   "text": "Obiekt dysponuje 114 apartamentami z jedną lub dwiema sypialniami, które mogą pomieścić odpowiednio do 4 lub 6 osób. Wszystkie apartamenty posiadają w pełni wyposażoną kuchnię, klimatyzację, balkon lub taras (często z widokiem na morze), salon z rozkładaną sofą oraz łazienkę. Hotel został zbudowany w 1992 roku i ostatni remont przeszedł w 2012 roku."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje duży basen z punktami do masażu wodnego oraz oddzielny basen dla dzieci. Baseny są podgrzewane poza miesiącami letnimi. Do dyspozycji gości jest również mała siłownia, strefa spa z sauną oraz plac zabaw dla dzieci. Hotel zapewnia rozrywkę w postaci tenisa stołowego, bilarda i muzyki na żywo."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Na terenie hotelu znajdują się dwie restauracje a la carte, w tym Vibe Pool Bar, serwujące dania lokalne i międzynarodowe. Dostępne są również dwa bary, w tym bar przy basenie oferujący przekąski. Hotel oferuje opcje wyżywienia takie jak \"Room Only\", \"Self Catering\" i \"Bed and Breakfast\"."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "W całym obiekcie, zarówno w pokojach, jak i w miejscach publicznych, dostępne jest bezpłatne Wi-Fi. Goście mogą korzystać z pralek i suszarek dostępnych w częściach wspólnych. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko przystani, plaży i sklepów",
+  "Przestronne, dobrze wyposażone apartamenty z widokiem",
+  "Wysoka czystość obiektu i pomocny personel",
+  "Podgrzewany basen",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Apartamenty mogą wydawać się nieco przestarzałe",
+  "Klimatyzacja bywa niewystarczająco silna",
+  "Basen zamykany o 19:00",
+  "Możliwy hałas uliczny w pokojach na niższych piętrach",
+  "Brak bezpłatnego transferu lotniskowego"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa piaszczysta plaża, Playa de Puerto Rico, znajduje się około 0.9 km od hotelu, co oznacza około 10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest duży basen główny oraz oddzielny basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje oddzielny basen dla dzieci oraz plac zabaw. Nie ma informacji o mini klubie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w apartamentach, jak i w miejscach publicznych na terenie całego obiektu."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Hotel jest oddalony od lotniska Gran Canaria (LPA) o około 46-50 km, co zajmuje około 32-40 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są opcje \"Room Only\", \"Self Catering\" oraz \"Bed and Breakfast\"."
+  }
+ ],
+ "address": "Avenida Joaquín Blanco Torrent 2, 35130 Puerto Rico, Mogán, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 46,
+ "airportName": "Gran Canaria Airport (LPA)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Bilard",
+  "Rzutki",
+  "Muzyka na żywo",
+  "Plac zabaw dla dzieci",
+  "Pralnia (w częściach wspólnych)",
+  "Pole golfowe w pobliżu"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Puerto Rico",
+ "bars": 2,
+ "beachDistanceM": 900,
+ "beachType": "piaszczysta",
+ "centerKm": 0.6,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "przyjaciele",
+  "osoby podróżujące samotnie"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1992,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 2,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (max 4 osoby): w pełni wyposażona kuchnia, klimatyzacja, balkon/taras, salon z rozkładaną sofą, łazienka, TV, sejf, żelazko.",
+  "Apartament z dwiema sypialniami (max 6 osób): w pełni wyposażona kuchnia, klimatyzacja, balkon/taras, salon z rozkładaną sofą, łazienka, TV, sejf, żelazko.",
+  "Apartament z widokiem na morze/ocean: dostępne w opcjach z jedną lub dwiema sypialniami."
+ ],
+ "rooms": 114,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7828186,
+  "lon": -15.7078691,
+  "src": "osm"
+ },
+ "sources": [
+  "holidayclubresorts.com",
+  "holidayclubcanarias.com",
+  "holidaygems.co.uk",
+  "reserving.com",
+  "clubmahindra.com",
+  "thatvacation.com",
+  "agoda.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}

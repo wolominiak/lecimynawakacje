@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:alameda",
+ "slug": "alameda",
+ "name": "Alameda",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/alameda/eb484d389f6c03d701aca.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Alameda to kameralny obiekt o standardzie trzech gwiazdek, położony w sercu Starego Miasta w Benidormie, na słonecznym wybrzeżu Costa Blanca. Jego centralna lokalizacja na ulicy pieszej sprawia, że jest idealnym miejscem dla osób ceniących bliskość atrakcji, sklepów, restauracji i tętniącego życia miasta.",
+  "Obiekt polecany jest zarówno parom, osobom podróżującym samotnie, jak i rodzinom, oferując komfortowe zakwaterowanie i łatwy dostęp do piaszczystych plaż. Hotel jest dobrym wyborem dla turystów nastawionych na zwiedzanie i korzystanie z uroków Benidormu, którzy nie oczekują rozbudowanej infrastruktury basenowej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Alameda szczyci się doskonałą lokalizacją w historycznym centrum Benidormu, zaledwie około 50 metrów od piaszczystej plaży Levante. W odległości około 200 metrów znajduje się plaża Mal Pas i port, a plaża Poniente oddalona jest o około 350 metrów. Obiekt znajduje się na ulicy pieszej, co zapewnia łatwy dostęp do lokalnych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 68 pokoi, w tym pokoje Standard, Superior, Historic Center oraz Superior z widokiem na morze. Wszystkie są klimatyzowane i ogrzewane, wyposażone w telewizor z płaskim ekranem, bezpłatne Wi-Fi oraz prywatną łazienkę z prysznicem i suszarką do włosów. Niektóre pokoje posiadają balkon lub taras, jednak część pokoi standardowych może mieć ograniczony dostęp do światła dziennego."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa Alameda Gourmet, serwująca dania kuchni hiszpańskiej i międzynarodowej na śniadania, obiady i kolacje. Na życzenie dostępne są specjalne menu dla osób z celiakią, alergiami i cukrzycą. Goście mogą również skorzystać z kawiarni i baru koktajlowego z tarasem na poziomie ulicy oraz baru na dachu. Pakiety wyżywienia nie obejmują napojów."
+  },
+  {
+   "title": "Relaks i udogodnienia",
+   "text": "Hotel nie posiada basenu, ale na dachu znajduje się solarium z wanną z hydromasażem, gdzie można zrelaksować się na leżakach z widokiem na morze. W całym obiekcie dostępne jest bezpłatne Wi-Fi. W pobliżu hotelu można skorzystać z wypożyczalni rowerów oraz aktywności plażowych, a także zagrać w golfa na pobliskim polu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Starego Miasta, blisko plaż",
+  "Czyste, komfortowe i odnowione pokoje",
+  "Przyjazny i pomocny personel",
+  "Dobre i urozmaicone śniadania",
+  "Taras na dachu z jacuzzi i widokiem na morze"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Niektóre pokoje standardowe bez widoku/balkonu, wychodzące na wewnętrzny dziedziniec",
+  "Potencjalny hałas z ulicy pieszej/barów",
+  "Jadalnia w podziemiach bez naturalnego światła",
+  "Brak parkingu na miejscu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Alameda znajduje się około 50 metrów od piaszczystej plaży Levante. Plaża Mal Pas jest oddalona o około 200 metrów, a plaża Poniente o około 350 metrów."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Alameda nie posiada basenu ani aquaparku. Na dachu znajduje się solarium z wanną z hydromasażem."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Alicante-Elche (ALC), oddalone o około 57-65 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany również dla rodzin. Dostępne są łóżeczka dziecięce na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie ma informacji o pakiecie all inclusive. Dostępne są pakiety niepełnego i pełnego wyżywienia, które nie obejmują napojów."
+  }
+ ],
+ "address": "Calle Alameda, 34, 03501 Benidorm, Alicante, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 61,
+ "airportName": "Alicante-Elche (ALC)",
+ "amenities": [
+  "Solarium na dachu z wanną z hydromasażem",
+  "Bezpłatne Wi-Fi",
+  "Kawiarnia i bar koktajlowy",
+  "Restauracja bufetowa"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Stare Miasto",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące samotnie",
+  "Turyści zwiedzający Stare Miasto",
+  "Rodziny"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1967,
+ "pools": 0,
+ "privateBeach": false,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje Standard",
+  "Pokoje Superior",
+  "Pokoje Historic Center",
+  "Pokoje Superior z widokiem na morze"
+ ],
+ "rooms": 68,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": -35.3323113,
+  "lon": -72.4163631,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.ie",
+  "booking.com",
+  "guestreservations.com",
+  "mitmagazine.co.uk",
+  "daysoutnow.co.uk",
+  "google.com",
+  "thomascook.com",
+  "trivago.com"
+ ],
+ "updated": "2026-11-27"
+}

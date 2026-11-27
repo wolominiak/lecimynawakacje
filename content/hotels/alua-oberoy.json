@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:alua oberoy",
+ "slug": "alua-oberoy",
+ "name": "Alua Oberoy",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Paguera"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/paguera/alua-oberoy-pl/8528/c3c716d76c9224b2c863aa0103a60eef_basen_z_gory-244.jpg",
+ "city": "Paguera",
+ "intro": [
+  "Hotel Alua Oberoy to czterogwiazdkowy obiekt położony w spokojnej części miejscowości Paguera na zachodnim wybrzeżu Majorki. Jest to idealne miejsce dla dorosłych (powyżej 16 lat), którzy szukają relaksującego wypoczynku w otoczeniu pięknych piaszczystych plaż.",
+  "Obiekt, odnowiony w 2019 roku, oferuje komfortowe zakwaterowanie i szereg udogodnień, zapewniając kameralną atmosferę z dala od zgiełku. Bliskość centrum Paguery oraz dogodny dostęp do plaż sprawiają, że jest to doskonała baza wypadowa do odkrywania uroków wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Alua Oberoy znajduje się w Paguera, zaledwie około 150 metrów od piaszczystych plaż Palmira, Torà i La Romana, co oznacza krótki, 3-5 minutowy spacer. Do centrum miejscowości jest około 300 metrów. Najbliższe lotnisko w Palma de Mallorca (PMI) oddalone jest o 29-33 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 75 pokojami, w tym dwuosobowymi z widokiem na basen lub tarasem, a także dwoma pokojami przystosowanymi dla osób niepełnosprawnych. Wszystkie pokoje wyposażone są w klimatyzację, balkon lub taras, łazienkę z suszarką do włosów, telewizor z płaskim ekranem, telefon oraz bezpłatne Wi-Fi. Sejf i minibar są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, serwująca śniadania i kolacje z daniami kuchni lokalnej oraz wieczorami tematycznymi. Goście mogą korzystać również z baru/lounge oraz baru przy basenie. Dostępne opcje wyżywienia to Bed & Breakfast, Half Board (śniadania i obiadokolacje) oraz All Inclusive, które obejmuje również przekąski w wyznaczonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Alua Oberoy oferuje jeden odkryty basen ze słodką wodą. Hotel jest przeznaczony wyłącznie dla dorosłych, dlatego nie ma udogodnień dla dzieci. Goście mogą korzystać z bezpłatnej sauny i jacuzzi, a masaże są dostępne za dodatkową opłatą. Wieczorami organizowane są animacje, takie jak muzyka na żywo i występy."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Alua Oberoy jest idealnym wyborem dla par i dorosłych podróżujących, którzy poszukują spokojnego i relaksującego wypoczynku. Jego kameralna atmosfera, bliskość plaż i centrum Paguery, a także udogodnienia takie jak sauna i wieczorne animacje, sprzyjają odprężeniu i komfortowemu pobytowi."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera, tylko dla dorosłych",
+  "Bliskość plaż i centrum miejscowości",
+  "Uprzejma i efektywna obsługa",
+  "Urozmaicone śniadania i obiadokolacje",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Dodatkowe opłaty za sejf i zmianę ręczników basenowych",
+  "Mieszane opinie na temat różnorodności lunchu i kolacji w opcji All Inclusive",
+  "Brak siłowni",
+  "Brak zjeżdżalni i aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 150 metrów od piaszczystych plaż Palmira, Torà i La Romana, co zajmuje 3-5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel Alua Oberoy jest przeznaczony wyłącznie dla dorosłych (od 16 lat)."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Palma de Mallorca (PMI), oddalone jest o około 29-33 km, a czas przejazdu to około 24-30 minut."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel ma baseny?",
+   "a": "Tak, hotel dysponuje jednym odkrytym basenem ze słodką wodą."
+  },
+  {
+   "q": "Czy w hotelu są animacje?",
+   "a": "Tak, hotel oferuje wieczorne animacje, takie jak muzyka na żywo i występy."
+  }
+ ],
+ "address": "Carrer dels Ametllers, 5, 07160 Paguera, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 31,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Sauna",
+  "Jacuzzi",
+  "Muzyka na żywo",
+  "Występy",
+  "Bar/lounge",
+  "Bar przy basenie"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary",
+  "Dorośli podróżujący"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1972,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój dwuosobowy z widokiem na basen",
+  "Pokój dwuosobowy z widokiem na basen i tarasem",
+  "Pokój przystosowany dla osób niepełnosprawnych (2 sztuki)"
+ ],
+ "rooms": 75,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.5370931,
+  "lon": 2.4589081,
+  "src": "web"
+ },
+ "sources": [
+  "trivago.ie",
+  "coral.ge",
+  "roc-hotels.com",
+  "mallorca.com",
+  "trivago.co.uk",
+  "mapy.com",
+  "planmytour.co.uk",
+  "tui.com"
+ ],
+ "updated": "2026-11-27"
+}

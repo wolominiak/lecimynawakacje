@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:innside calvia beach",
+ "slug": "innside-calvia-beach",
+ "name": "Innside Calvia Beach",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Magalluf"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/magalluf/innside-calvia-beach-pl/5025/abeach-rooftop_9_pool-244.jpg",
+ "city": "Magaluf",
+ "intro": [
+  "Innside Calvia Beach to nowoczesny, czterogwiazdkowy hotel położony w tętniącej życiem miejscowości Magaluf na Majorce, zaledwie 50-200 metrów od piaszczystej plaży Calvià. Obiekt, otwarty w 2018 roku, wyróżnia się współczesnym designem i jest częścią projektu rewitalizacji Magaluf. Hotel oferuje szeroki zakres udogodnień, w tym unikalne baseny na dachu z panoramicznym widokiem, co czyni go atrakcyjnym miejscem na wakacje.",
+  "Hotel jest idealnym wyborem dla par, grup przyjaciół, młodzieży, a także rodzin z dziećmi, które szukają aktywnego wypoczynku w bliskiej odległości od rozrywek i centrum miasta. Dzięki swojej lokalizacji w pobliżu centrum handlowego Momentum Plaza oraz licznych barów i restauracji, Innside Calvia Beach stanowi doskonałą bazę wypadową do odkrywania uroków Majorki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Innside Calvia Beach znajduje się w Magaluf, zaledwie 50-200 metrów od publicznej, piaszczystej plaży Calvià. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, natomiast hotel zapewnia ręczniki. Obiekt jest dogodnie usytuowany około 100-200 metrów od centrum Magaluf oraz w pobliżu centrum handlowego Momentum Plaza."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 270-272 klimatyzowane pokoje, w tym typy Innside, Loft, Beach House oraz te z widokiem na morze. Wszystkie pokoje wyposażone są w telewizor z płaskim ekranem, umeblowany balkon lub taras, prywatną łazienkę z prysznicem oraz bezpłatnym zestawem kosmetyków. W pokojach znajdują się również minibar, sejf na laptopa, a w niektórych apartamentach Loft Junior Suite - kuchenka mikrofalowa."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się 4 baseny, w tym spektakularny wiszący basen ze szklanym dnem oraz baseny na dachu z widokiem na okolicę. Goście mogą korzystać z przestronnych tarasów słonecznych z leżakami oraz strefy VIP z łóżkami balijskimi. Hotel zapewnia animacje i muzykę na żywo, a także dostęp do centrum fitness czynnego całą dobę. Dostępne jest również spa oferujące masaże i zabiegi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Innside Calvia Beach oferuje wyżywienie w formie śniadań lub śniadań i kolacji. Główna restauracja bufetowa „Food Factory” serwuje dania kuchni śródziemnomorskiej. Do dyspozycji gości są również bary, w tym „Rooftop Nine Bar” na dachu z widokiem na morze, gdzie można delektować się koktajlami i daniami śródziemnomorskimi przy muzyce DJ-ów, oraz bar „Shallow Sun Club”."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Innside Calvia Beach to hotel polecany dla szerokiego grona gości - zarówno dla par i grup przyjaciół szukających rozrywki, jak i dla rodzin z dziećmi oraz młodzieży. Jego nowoczesne udogodnienia, bliskość plaży i centrum Magaluf, a także dostęp do animacji sprawiają, że jest to atrakcyjne miejsce na wakacje dla osób ceniących aktywny wypoczynek i dobrą zabawę."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum Magaluf",
+  "Nowoczesny design i czyste pokoje",
+  "Spektakularne baseny na dachu",
+  "Dobre śniadania i urozmaicone jedzenie",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Bliskość nocnych rozrywek może generować hałas",
+  "Szklane ściany w łazienkach niektórych pokoi ograniczają prywatność",
+  "Ograniczona różnorodność śniadań (według niektórych opinii)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Innside Calvia Beach jest położony około 50-200 metrów od piaszczystej plaży Calvià."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni, ale w pobliżu znajduje się Western Water Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, par, grup oraz młodzieży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Palma de Mallorca (PMI) wynosi około 24-27 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w miejscach publicznych."
+  },
+  {
+   "q": "Czy leżaki na plaży są płatne?",
+   "a": "Tak, leżaki i parasole na publicznej plaży są płatne."
+  }
+ ],
+ "address": "Avinguda S'Olivera, 4, 07181 Magaluf, Baleary, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 24,
+ "airportName": "Palma de Mallorca (PMI)",
+ "amenities": [
+  "Centrum fitness",
+  "Spa",
+  "Wypożyczalnia rowerów",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Pary",
+  "Grupy",
+  "Rodziny z dziećmi",
+  "Młodzież"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2018,
+ "pools": 4,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Innside",
+  "Loft",
+  "Loft z panoramicznym widokiem",
+  "Beach House",
+  "Innside z widokiem na morze",
+  "Loft z widokiem na morze",
+  "Loft przy basenie"
+ ],
+ "rooms": 270,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.5063982,
+  "lon": 2.5324415,
+  "src": "osm"
+ },
+ "sources": [
+  "ohotel.com.pl",
+  "mapcarta.com",
+  "calvia.com",
+  "coraltravel.pl",
+  "google.es",
+  "seemallorca.com",
+  "travelagentcentral.com",
+  "meliahotelsinternational.com"
+ ],
+ "updated": "2026-11-27"
+}

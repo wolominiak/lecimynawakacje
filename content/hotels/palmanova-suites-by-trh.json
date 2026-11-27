@@ -1,0 +1,128 @@
+{
+ "id": "x:hiszpania:palmanova suites by trh",
+ "slug": "palmanova-suites-by-trh",
+ "name": "Palmanova Suites By Trh",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Magalluf"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/magalluf/palmanova-suites-by-trh-pl/5702/4b5a57304080ae2bd3565d4caabcd11f_1-244.jpg",
+ "city": "Magaluf",
+ "intro": [
+  "Palmanova Suites By Trh to czterogwiazdkowy hotel położony w tętniącym życiem Magaluf na Majorce, w Hiszpanii. Usytuowany na wzgórzu, oferuje dogodny dostęp zarówno do piaszczystej plaży Magaluf, jak i do centrum rozrywkowego miejscowości.",
+  "Hotel jest polecany dla szerokiego grona gości - od młodych dorosłych i grup przyjaciół, szukających bliskości życia nocnego, po pary i rodziny z dziećmi, ceniące sobie przestronne zakwaterowanie i dostęp do basenów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Palmanova Suites By Trh znajduje się w Magaluf na Majorce, około 150 metrów od szerokiej, piaszczystej plaży Magaluf. Obiekt jest położony na wzgórzu, co zapewnia dogodny dostęp do centrum Magaluf i Palmanova, a także do licznych restauracji i sklepów. Najbliższe lotnisko Palma de Mallorca (PMI) oddalone jest o około 25-28 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 211 lub 212 przestronnych suit i apartamentów. Wszystkie pokoje są klimatyzowane i wyposażone w prywatny balkon lub taras, łazienkę z prysznicem i suszarką do włosów, sejf oraz telewizor. Apartamenty posiadają dodatkowo aneks kuchenny z mikrofalówką i lodówką, natomiast suity wyposażone są w mini lodówkę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej. Do dyspozycji gości są również bar przy basenie, bar/lounge oraz kawiarnia/snack bar. Pakiet pełnego wyżywienia (Full Board) obejmuje śniadanie, lunch i kolację w formie bufetu, a także przekąski w określonych godzinach. Do lunchu i kolacji serwowane są po 3 napoje alkoholowe (wino lub piwo), a napoje bezalkoholowe dostępne są od 11:00 do 19:00 w barze przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje trzema basenami: basenem zewnętrznym w stylu laguny, basenem krytym oraz brodzikiem dla dzieci. Na terenie obiektu znajduje się również centrum fitness/siłownia, sauna i solarium. Goście mogą korzystać z kortu tenisowego, bilarda, tenisa stołowego oraz wypożyczalni rowerów. Hotel oferuje także program rozrywkowy z występami na żywo i wieczorami tematycznymi."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i życia nocnego",
+  "Przestronne i czyste pokoje",
+  "Duży i czysty basen",
+  "Dostępne udogodnienia sportowe i rekreacyjne",
+  "Dobre śniadania"
+ ],
+ "cons": [
+  "Potencjalny hałas z powodu bliskości życia nocnego",
+  "Mieszane opinie na temat jakości i różnorodności kolacji",
+  "Brak czajników lub ekspresów do kawy w pokojach",
+  "Położenie na wzgórzu może być wyzwaniem dla niektórych gości"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 150 metrów od piaszczystej plaży Magaluf."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Palma de Mallorca Airport (PMI), znajduje się około 25-28 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni, ale w pobliżu znajdują się parki wodne, takie jak Western Water Park i Aqualand Water Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik dla dzieci oraz program rozrywkowy."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych, a w pokojach może być dostępne za dodatkową opłatą."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i posiada udogodnienia dla rodzin."
+  }
+ ],
+ "address": "Carrer Martín Ros García, 15, 07181 Magaluf, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Palma de Mallorca Airport (PMI)",
+ "amenities": [
+  "sauna",
+  "solarium",
+  "centrum fitness",
+  "kort tenisowy",
+  "bilard",
+  "tenis stołowy",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Magaluf",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.8,
+ "goodFor": [
+  "młodzi dorośli",
+  "grupy przyjaciół",
+  "pary",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Suity z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, sejfem, sofą, telewizorem i mini lodówką",
+  "Apartamenty z klimatyzacją, balkonem/tarasem, łazienką z prysznicem i suszarką do włosów, sejfem, sofą, telewizorem i aneksem kuchennym z mikrofalówką i lodówką"
+ ],
+ "rooms": 211,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "trivago.co.uk",
+  "guestreservations.com",
+  "hotels-in-mallorca.net",
+  "routeyou.com",
+  "hotelston.com",
+  "travelmyth.co.uk",
+  "holidaygems.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

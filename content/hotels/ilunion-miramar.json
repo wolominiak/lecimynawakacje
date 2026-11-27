@@ -1,0 +1,143 @@
+{
+ "id": "x:hiszpania:ilunion miramar",
+ "slug": "ilunion-miramar",
+ "name": "Ilunion Miramar",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Fuengirola"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/fuengirola/myramar-fuengirola-pl/3595/c30aa47e08d43abcdb3d690bf620e584_1-244.jpg",
+ "city": "Fuengirola",
+ "intro": [
+  "Hotel Ilunion Miramar to trzygwiazdkowy aparthotel położony w Fuengiroli na Costa del Sol w Hiszpanii. Obiekt został niedawno przejęty i przemianowany w czerwcu 2024 roku, oferując odświeżone zakwaterowanie w przestronnych apartamentach.",
+  "To idealne miejsce dla rodzin, par i grup przyjaciół, którzy cenią sobie niezależność dzięki aneksom kuchennym, a jednocześnie chcą korzystać z bogatej oferty udogodnień hotelowych. Hotel jest przyjazny dla zwierząt i oferuje wiele atrakcji dla dzieci, co czyni go dobrym wyborem na rodzinne wakacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ilunion Miramar znajduje się przy ulicy San Miguel 1, obok centrum handlowego Parque Miramar. Do piaszczystej plaży Castillo Beach/Fuengirola Beach jest około 10 minut spacerem (około 1 km). Centrum miejscowości oddalone jest o 10-15 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 229 apartamentów, w tym studia, apartamenty z jedną sypialnią (dla 2-4 osób) oraz apartamenty z dwiema sypialniami (dla 5-6 osób). Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, telewizor z płaskim ekranem, sejf oraz w pełni wyposażony aneks kuchenny. W niektórych apartamentach dostępny jest balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się trzy baseny: jeden kryty i podgrzewany oraz dwa zewnętrzne (jeden dla dorosłych, jeden dla dzieci). Dla najmłodszych przygotowano małą strefę splash z brodzikiem i zjeżdżalniami. Hotel oferuje również plac zabaw, siłownię, spa (sauna, jacuzzi, solarium) oraz 7 kortów do padla, tenis stołowy, bilard i mini golfa."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Ilunion Miramar znajdują się trzy restauracje: Olea serwująca kuchnię hiszpańską/andaluzyjską, Colonial z bufetami śniadaniowymi i kolacyjnymi oraz Aquabar/pool bar oferujący napoje i przekąski. Hotel oferuje opcje wyżywienia własnego, a śniadanie w formie bufetu jest dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla dzieci przygotowano brodzik, małą strefę splash z małymi zjeżdżalniami, wewnętrzny i zewnętrzny plac zabaw oraz mini klub z zajęciami kreatywnymi. W miesiącach letnich dostępny jest program animacyjny dla dzieci."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko centrum handlowego, plaży i centrum miasta.",
+  "Przestronne i czyste apartamenty z aneksem kuchennym.",
+  "Bogate udogodnienia: baseny, siłownia, spa, korty do padla.",
+  "Przyjazny i pomocny personel.",
+  "Dobra wartość za pieniądze i bezpłatne Wi-Fi."
+ ],
+ "cons": [
+  "Zewnętrzny basen może być niepodgrzewany i zimny.",
+  "Rzadsze sprzątanie pokoi (np. co 3 dni).",
+  "Możliwy hałas z ulicy na balkonach w ciągu dnia.",
+  "Lokalizacja nieco oddalona od głównych kawiarni/restauracji.",
+  "Siłownia, sauna i jacuzzi mogą być dodatkowo płatne."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Castillo Beach/Fuengirola Beach znajduje się około 1 km od hotelu, czyli około 10 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (AGP), oddalone o około 26-29 km (23-30 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada małą strefę splash z małymi zjeżdżalniami dla dzieci (dla maluchów do około 9 lat) oraz brodzik."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje basen dla dzieci, strefę splash, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i akceptuje dzieci."
+  }
+ ],
+ "address": "San Miguel 1, Fuengirola",
+ "adultsOnly": false,
+ "airportKm": 26,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Klimatyzacja",
+  "Prywatna łazienka",
+  "Telewizor z płaskim ekranem",
+  "Sejf",
+  "Aneks kuchenny",
+  "Część wypoczynkowa",
+  "Szafa",
+  "Biurko",
+  "Balkon/taras (w niektórych apartamentach)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "obok centrum handlowego Parque Miramar",
+ "bars": 1,
+ "beachDistanceM": 1000,
+ "beachType": "Piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Grupy przyjaciół",
+  "Osoby szukające dobrego stosunku jakości do ceny",
+  "Osoby preferujące zakwaterowanie typu apartamentowego",
+  "Osoby aktywne",
+  "Rodziny z małymi dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2024,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2024,
+ "restaurants": 3,
+ "roomTypes": [
+  "Studia (dla 2 osób dorosłych)",
+  "Apartamenty z jedną sypialnią (dla 2-4 osób dorosłych, w tym rodzinne)",
+  "Apartamenty z dwiema sypialniami (dla 5-6 osób dorosłych)"
+ ],
+ "rooms": 229,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5307049,
+  "lon": -4.6334911,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "ilunionhotels.com",
+  "broadwaytravel.com",
+  "britishairways.com",
+  "holidaycheck.de",
+  "fuengirolahotels.net",
+  "hotelfuengirola.net",
+  "mapy.com"
+ ],
+ "updated": "2026-11-27"
+}

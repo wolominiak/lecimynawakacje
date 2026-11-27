@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:metropol",
+ "slug": "metropol-lloret-de-mar",
+ "name": "Metropol",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Lloret de Mar"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/lloret-de-mar/metropol/3896/eab9bc0dcc1688e84952f625cd5a1f4b_1-244.JPG",
+ "city": "Lloret de Mar",
+ "intro": [
+  "Hotel Metropol to czterogwiazdkowy obiekt położony w samym sercu Lloret de Mar, na słynnym wybrzeżu Costa Brava w Hiszpanii. Jego strategiczna lokalizacja sprawia, że jest idealnym wyborem dla osób ceniących sobie bliskość plaży oraz łatwy dostęp do miejskich atrakcji, sklepów i restauracji.",
+  "Obiekt jest polecany zarówno dla rodzin, jak i par, które szukają komfortowego wypoczynku z doskonałą obsługą. Odnowione pokoje oraz dogodne udogodnienia, takie jak basen z widokiem na morze i siłownia, zapewniają przyjemny pobyt w tętniącym życiem kurorcie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Metropol znajduje się zaledwie 30 metrów od głównej, piaszczystej plaży Lloret de Mar. Położenie w centrum miejscowości zapewnia łatwy dostęp do promenady, sklepów i lokalnych atrakcji. Plaża nie jest prywatna, ale hotel oferuje bezpośredni dostęp do niej."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje od 80 do 100 pokojami, które zostały całkowicie odnowione w 2019 roku. Dostępne są pokoje dwuosobowe (Standard, Premium, z tarasem i widokiem na morze) oraz trzyosobowe (Standard, Premium). Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, telewizor z płaskim ekranem, telefon, sejf (często płatny), minibar/lodówkę oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, która serwuje dania kuchni międzynarodowej na śniadania, obiady i kolacje. Goście mogą również korzystać z kilku barów, w tym baru z widokiem na promenadę, baru/lounge, snack baru oraz kawiarni. Hotel oferuje głównie noclegi ze śniadaniem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Metropol posiada sezonowy odkryty basen, często usytuowany na dachu lub pierwszym piętrze, z widokiem na morze. Na tarasie słonecznym przy basenie dostępne są leżaki. Na terenie obiektu znajduje się również centrum fitness/siłownia. Brak informacji o aquaparku czy zjeżdżalniach."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest rekomendowany dla rodzin i par, które cenią sobie komfort, spokój oraz doskonałą obsługę. Jego centralna lokalizacja i bliskość plaży sprawiają, że jest to idealne miejsce dla osób chcących aktywnie spędzić czas, jednocześnie mając łatwy dostęp do rozrywek i udogodnień miasta."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum, blisko plaży",
+  "Czyste, nowoczesne i przestronne pokoje",
+  "Bardzo przyjazny i pomocny personel",
+  "Dobre i urozmaicone śniadania",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Możliwy hałas w nocy z ulicy",
+  "Stosunkowo mały basen",
+  "Brak parkingu na miejscu (dostępny płatny parking w pobliżu)",
+  "Brak informacji o pakiecie all inclusive",
+  "Brak prywatnej plaży hotelowej"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Metropol znajduje się zaledwie 30 metrów od piaszczystej plaży Lloret de Mar."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o 23-31 km. Lotnisko w Barcelonie (BCN) znajduje się w odległości 92-95 km."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Brak informacji o pakiecie all inclusive. Oferty często obejmują nocleg ze śniadaniem (Bed & Breakfast)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. W restauracji dostępne są krzesełka dla dzieci, choć brak informacji o mini klubie czy animacjach."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu i w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel dysponuje sezonowym odkrytym basenem, często zlokalizowanym na dachu lub pierwszym piętrze, z widokiem na morze."
+  }
+ ],
+ "address": "Plaça de la Torre, 2, 17310 Lloret de Mar, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 23,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Klimatyzacja",
+  "Prywatna łazienka",
+  "Telewizor z płaskim ekranem",
+  "Telefon",
+  "Sejf (płatny)",
+  "Minibar/lodówka",
+  "Balkon lub taras (w niektórych pokojach)",
+  "Krzesełka dla dzieci w restauracji"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum Lloret de Mar",
+ "bars": 4,
+ "beachDistanceM": 30,
+ "beachType": "Piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy Standard",
+  "Pokój dwuosobowy Premium",
+  "Pokój dwuosobowy z tarasem i widokiem na morze",
+  "Pokój trzyosobowy Standard",
+  "Pokój trzyosobowy Premium"
+ ],
+ "rooms": 80,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.6988639,
+  "lon": 2.8474077,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.com",
+  "hotelesasequibles.es",
+  "trivago.com",
+  "hotel-rez.com",
+  "onthebeach.ie",
+  "hotelsoflloretdemar.com",
+  "metropolmiramar.com",
+  "hotels-in-catalonia.com"
+ ],
+ "updated": "2026-11-27"
+}

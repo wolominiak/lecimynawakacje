@@ -1,0 +1,133 @@
+{
+ "id": "x:hiszpania:globales cala bona suites",
+ "slug": "globales-cala-bona-suites",
+ "name": "Globales Cala Bona Suites",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Cala Millor"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/cala-millor/globales-cala-bona-suites/379187e371cb845fd93a1.jpg",
+ "city": "Cala Bona",
+ "intro": [
+  "Hotel Globales Cala Bona Suites to czterogwiazdkowy obiekt położony w spokojnej miejscowości Cala Bona, na wschodnim wybrzeżu Majorki. Znajduje się na obrzeżach kurortu Cala Millor, w bliskiej odległości od malowniczego portu rybackiego. Hotel jest idealnym miejscem dla rodzin z dziećmi oraz par, które szukają relaksu i komfortowego wypoczynku w odnowionym otoczeniu.",
+  "Obiekt oferuje przestronne apartamenty, liczne udogodnienia rekreacyjne oraz dostęp do piaszczystej plaży. Dzięki gruntownemu remontowi w 2021 roku, hotel zapewnia nowoczesne i zadbane wnętrza, a także bogaty program animacyjny dla dorosłych i dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Globales Cala Bona Suites położony jest w miejscowości Cala Bona na Majorce, około 100-500 metrów od centrum. Do centrum Cala Millor jest około 1.3-1.5 km. Obiekt znajduje się w odległości 100-200 metrów od publicznej, piaszczystej plaży Cala Bona, gdzie leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 86 całkowicie odnowionymi apartamentami typu Suite o powierzchni około 38 m². Każdy apartament jest klimatyzowany i wyposażony w prywatny balkon, telewizor z płaskim ekranem, łazienkę z prysznicem, telefon, sejf (płatny), aneks kuchenny z lodówką i płytą elektryczną, zestaw do parzenia kawy/herbaty oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się trzy baseny: odkryty basen ze słodką wodą, kryty podgrzewany basen (w strefie spa) oraz brodzik dla dzieci. Dostępna jest również strefa Spa & Wellness (płatna) z jacuzzi, sauną fińską i łaźnią turecką, a także nowoczesna siłownia. Hotel oferuje tenis stołowy, rzutki, aqua aerobik oraz wypożyczalnię rowerów (płatna)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik, plac zabaw oraz mini klub dla dzieci w wieku 2-12 lat (sezonowo). Wieczorami organizowane jest minidisco. Hotel prowadzi również międzynarodowe animacje dla dzieci i dorosłych, w tym dzienny i wieczorny program animacyjny, wieczorne przedstawienia i muzykę na żywo."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna serwująca dania kuchni międzynarodowej w formie bufetu, z tarasem zewnętrznym. Goście mogą korzystać z baru przy basenie i snack baru. Jeden z barów jest czynny do północy. Hotel oferuje wyżywienie w opcjach: bez wyżywienia, śniadania, śniadania i kolacje oraz pakiety all inclusive."
+  }
+ ],
+ "pros": [
+  "Bliskość piaszczystej plaży",
+  "Odnowione, przestronne apartamenty",
+  "Miła i pomocna obsługa (w tym polskojęzyczna)",
+  "Smaczne i urozmaicone jedzenie",
+  "Bogaty program animacyjny dla dzieci i dorosłych"
+ ],
+ "cons": [
+  "Leżaki przy basenie bywają wcześnie zajęte",
+  "Leżaki i parasole na plaży są płatne",
+  "Basen wewnętrzny bywa pełen dzieci, mimo że miał być tylko dla dorosłych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 100-200 metrów od publicznej, piaszczystej plaży Cala Bona."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi i oferuje brodzik, plac zabaw, mini klub oraz animacje."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Palma de Mallorca Airport (PMI), oddalone o około 56-72 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu (w pokojach i częściach wspólnych) dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Avenida Magnolia S/N, Son Servera, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 64,
+ "airportName": "Palma de Mallorca Airport (PMI)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "Kryty basen",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Minidisco",
+  "Tenis stołowy",
+  "Bilard (płatny)",
+  "Rzutki",
+  "Aqua aerobik",
+  "Wypożyczalnia rowerów (płatna)",
+  "Pole golfowe w okolicy (płatne)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Cala Bona",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "Suite (ok. 38 m²) z klimatyzacją, balkonem, TV, łazienką z prysznicem, telefonem, sejfem (płatnym), aneksem kuchennym z lodówką i płytą elektryczną, zestawem do parzenia kawy/herbaty, ogrzewaniem i bezpłatnym Wi-Fi."
+ ],
+ "rooms": 86,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "travelplanet.pl",
+  "sunshine.co.uk",
+  "hotels-in-mallorca.net",
+  "tui.pl",
+  "hotelsmallorca24.com",
+  "quierohotel.com",
+  "iziwakacje.pl",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

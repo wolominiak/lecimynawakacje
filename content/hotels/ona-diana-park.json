@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:ona diana park",
+ "slug": "ona-diana-park",
+ "name": "Ona Diana Park",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Estepona"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/estepona/ona-diana-park/4f25769acc989e6e9cbfc.jpg",
+ "city": "Estepona",
+ "intro": [
+  "Ona Diana Park to trzygwiazdkowy hotel położony w Esteponie, na słonecznym wybrzeżu Costa del Sol w Hiszpanii. Obiekt znajduje się w dzielnicy Nueva Atalaya, znanej jako Nowa Złota Mila, co czyni go dobrą bazą wypadową do zwiedzania Andaluzji i okolicznych miejscowości, takich jak Marbella. Hotel, zbudowany w 1996 roku w stylu andaluzyjskiego cortijo i częściowo odnowiony w 2014 roku, oferuje komfortowe warunki pobytu w spokojnej okolicy.",
+  "Hotel jest polecany dla rodzin, par i grup przyjaciół, którzy cenią sobie aktywny wypoczynek i planują eksplorować region. Dzięki udogodnieniom dla dzieci, takim jak brodziki oraz sezonowym programom rozrywkowym, jest to również odpowiednie miejsce dla rodzin z młodszymi podróżnikami. Bliskość pól golfowych oraz możliwość korzystania z siłowni i wypożyczalni rowerów zadowoli miłośników sportu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Ona Diana Park usytuowany jest w Esteponie, w dzielnicy Nueva Atalaya, około 18 km od centrum miasta. Obiekt znajduje się w odległości około 2 km od plaży Salduna i około 3 km od innej plaży. Najbliższe lotniska to Malaga (AGP) i Gibraltar (GIB), oba oddalone o około 60 km, z czasem dojazdu samochodem wynoszącym około 40 minut."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 90 jasnymi i komfortowymi pokojami, w tym pokojami dwuosobowymi (z tarasem lub balkonem), pokojami dwuosobowymi z widokiem na basen oraz pokojami trzyosobowymi typu Superior z widokiem na basen. Wszystkie pokoje są klimatyzowane/ogrzewane i wyposażone w telefon, sejf (dodatkowo płatny), telewizor z płaskim ekranem i kanałami satelitarnymi, minibar oraz łazienkę z wanną lub prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja, która serwuje śniadania i kolacje w formie bufetu z pokazami gotowania, a na lunch oferuje dania z menu. Goście mogą korzystać również z baru hotelowego oraz baru przy basenie. Dostępne są opcje wyżywienia ze śniadaniami lub niepełnym wyżywieniem (half board), przy czym napoje nie są wliczone w cenę posiłków."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Ona Diana Park oferuje odkryty basen dla dorosłych oraz dwa brodziki dla dzieci. Hotel zapewnia sezonowe programy rozrywkowe. Miłośnicy aktywności fizycznej mogą korzystać z centrum fitness/siłowni, tenisa stołowego, bilarda oraz wypożyczalni rowerów. W okolicy, około 2 km od hotelu, znajduje się pole golfowe."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "W całym obiekcie, w tym w pokojach i częściach wspólnych, dostępny jest bezpłatny bezprzewodowy internet Wi-Fi. Hotel oferuje również usługi masażu w pokoju na życzenie. Obiekt jest otoczony polami golfowymi, co stanowi dodatkową atrakcję dla graczy."
+  }
+ ],
+ "pros": [
+  "Bardzo miły i pomocny personel",
+  "Czyste pokoje",
+  "Smaczne i urozmaicone śniadania",
+  "Dobry stosunek jakości do ceny",
+  "Ładny basen z wystarczającą liczbą leżaków",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Hotel jest zamknięty od 15 października do 15 marca",
+  "Brak windy na drugim piętrze",
+  "Około 2 km od plaży",
+  "Napoje nie są wliczone w cenę niepełnego wyżywienia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 2 km od plaży Salduna i około 3 km od innej plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 60 km od lotniska w Maladze (AGP) i lotniska w Gibraltarze (GIB), co oznacza około 40 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Dostępne są dwa brodziki dla dzieci."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Dostępne są śniadania i opcja niepełnego wyżywienia (half board), przy czym napoje nie są wliczone w cenę."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje dwa brodziki dla dzieci oraz sezonowe programy rozrywkowe."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie, w tym w pokojach i częściach wspólnych."
+  }
+ ],
+ "address": "Nueva Atalaya S/N, 29688 Estepona - Málaga",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Malaga (AGP), Gibraltar (GIB)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Centrum fitness/siłownia",
+  "Tenis stołowy",
+  "Bilard",
+  "Wypożyczalnia rowerów",
+  "Masaże w pokoju (na życzenie)",
+  "Sezonowe programy rozrywkowe"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Nueva Atalaya (Nowa Złota Mila)",
+ "bars": 2,
+ "beachDistanceM": 2000,
+ "beachType": "",
+ "centerKm": 18,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Grupy przyjaciół",
+  "Osoby zwiedzające Andaluzję",
+  "Miłośnicy golfa"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1996,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2014,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (zewnętrzny z tarasem lub balkonem)",
+  "Pokój dwuosobowy z widokiem na basen",
+  "Pokój trzyosobowy Superior z widokiem na basen"
+ ],
+ "rooms": 90,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4686635,
+  "lon": -5.0195637,
+  "src": "osm"
+ },
+ "sources": [
+  "onahotels.com",
+  "sembo.pl",
+  "mapcarta.com",
+  "travelyalla.com",
+  "onthebeach.co.uk",
+  "booking.com",
+  "estepona.es",
+  "wejoinin.org"
+ ],
+ "updated": "2026-11-27"
+}

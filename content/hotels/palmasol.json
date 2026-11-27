@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:palmasol",
+ "slug": "palmasol",
+ "name": "Palmasol",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Benalmadena"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/benalmadena-costa/palmasol-pl/1218/8a62f1e21d3fa409042e76c22f4f02f2_25-244.jpg",
+ "city": "Benalmádena",
+ "intro": [
+  "Hotel Palmasol to czterogwiazdkowy obiekt położony na słonecznym wybrzeżu Costa del Sol w Hiszpanii, w malowniczej miejscowości Benalmádena. Jego atutem jest doskonała lokalizacja naprzeciwko słynnej przystani Puerto Marina, co czyni go idealnym miejscem dla osób ceniących bliskość atrakcji, restauracji i życia nocnego.",
+  "Hotel jest rekomendowany zarówno dla rodzin z dziećmi, jak i dla par, które szukają relaksu oraz dogodnego dostępu do plaży i centrum miejscowości. Oferuje kompleksowe udogodnienia, w tym baseny, animacje i strefę spa, zapewniając komfortowy pobyt w tętniącym życiem kurorcie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Palmasol mieści się w Benalmádenie, zaledwie 50 do 350 metrów od piaszczystych plaż z ciemnym piaskiem. Bezpośrednie sąsiedztwo Puerto Marina zapewnia łatwy dostęp do promenady, sklepów i restauracji. Lotnisko w Maladze (AGP) oddalone jest o około 11-12.9 km, a centrum Benalmádeny o krótki spacer."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 269 pokojami rozmieszczonymi na pięciu piętrach, w tym pokojami dwuosobowymi, rodzinnymi, Junior Suites oraz pokojami Superior i Budget. Większość pokoi posiada balkon lub taras, klimatyzację, łazienkę, telewizję satelitarną i telefon. Sejf, minibar i czajnik są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja bufetowa \"The Palm Restaurant\", bar przy basenie \"La Choza\" oraz \"Mambo Bar\". Pakiet all inclusive obejmuje posiłki w formie bufetu, przekąski rano i po południu oraz lokalne napoje alkoholowe i bezalkoholowe serwowane od 11:00 do 23:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z dużego basenu zewnętrznego, brodzika dla dzieci oraz jacuzzi zewnętrznego. Dostępny jest również sezonowy basen kryty, czynny od lutego do maja. Hotel oferuje mini klub dla dzieci oraz całoroczny program animacyjny i rozrywkowy dla całej rodziny."
+  },
+  {
+   "title": "Spa i sport",
+   "text": "Strefa spa w hotelu Palmasol obejmuje saunę, solarium, jacuzzi i gabinety masażu. Dostępna jest także mini siłownia z podstawowym wyposażeniem. Aktywności sportowe to tenis stołowy, jazda na rowerze, a w pobliżu hotelu istnieje możliwość gry w golfa."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko Puerto Marina i plaży",
+  "Czystość i pomocny personel",
+  "Dobre jedzenie w formie bufetu",
+  "Spokojna atmosfera",
+  "Całoroczne animacje dla całej rodziny"
+ ],
+ "cons": [
+  "Pokoje mogą być uznawane za przestarzałe",
+  "Dodatkowe opłaty za Wi-Fi w pokojach, sejf, minibar, czajnik i ręczniki basenowe",
+  "Ograniczony wybór przekąsek i jakość kawy",
+  "Małe windy w godzinach szczytu",
+  "Potencjalny hałas z powodu budowy w okolicy (do marca 2026)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża znajduje się w odległości od 50 do 350 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Hotel jest oddalony o około 11-12.9 km od lotniska w Maladze (AGP)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach na terenie hotelu Palmasol."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje brodzik dla dzieci, mini klub oraz całoroczne animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne, często bezpłatnie w pokojach lub za dodatkową opłatą w niektórych częściach wspólnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest obiektem rodzinnym."
+  }
+ ],
+ "address": "Avenida del Mar, 7, Benalmádena",
+ "adultsOnly": false,
+ "airportKm": 11,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Mini klub dla dzieci",
+  "Animacje",
+  "Spa",
+  "Siłownia",
+  "Tenis stołowy",
+  "Możliwość gry w golfa w pobliżu"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Costa del Sol",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1.4,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby ceniące relaks",
+  "Osoby ceniące bliskość plaży i mariny"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1970,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój rodzinny (dla 3 lub 4 osób)",
+  "Junior Suite (dwupokojowy z salonem i rozkładaną sofą)",
+  "Superior Room",
+  "Guest Room",
+  "Budget Room"
+ ],
+ "rooms": 269,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4185038,
+  "lon": 28.1673053,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "reserving.com",
+  "golfinspain.com",
+  "mapcarta.com",
+  "thomascook.com",
+  "hotelplanner.com",
+  "skyscanner.net",
+  "mitmagazine.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

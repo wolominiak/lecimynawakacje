@@ -1,0 +1,145 @@
+{
+ "id": "x:hiszpania:sahara playa",
+ "slug": "sahara-playa",
+ "name": "Sahara Playa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/sahara-playa/9c0abe6c3ea79be02942b61bb4dcb2b9_exterior_2.JPG",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Hotel Sahara Playa to czterogwiazdkowy obiekt położony w samym sercu Playa del Inglés na Gran Canarii, zaledwie 50 metrów od szerokiej, piaszczystej plaży. Dzięki centralnej lokalizacji i bliskości głównych atrakcji, hotel stanowi dobrą bazę wypadową do zwiedzania okolicy.",
+  "Hotel jest polecany zarówno dla par i grup szukających relaksującego wypoczynku nad morzem, jak i dla rodzin z dziećmi, dzięki dostępnym udogodnieniom i animacjom. Obiekt oferuje komfortowe zakwaterowanie i różnorodne opcje wyżywienia, w tym pakiet All Inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sahara Playa usytuowany jest w centrum Playa del Inglés, zaledwie 50 metrów od plaży Playa del Inglés, która posiada certyfikat Błękitnej Flagi. Jest to długa, piaszczysta plaża publiczna, gdzie leżaki i parasole są dostępne za dodatkową opłatą. Lotnisko Gran Canaria (LPA) oddalone jest o około 27-33 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 163 pokoje, w tym pokoje dwuosobowe, Junior Suity, Apartamenty oraz Pokoje Superior. Wszystkie pokoje są klimatyzowane i wyposażone w sejf, telewizor, balkon lub taras, prywatną łazienkę oraz zestaw do kawy/herbaty. Ostatni remont pokoi i części wspólnych miał miejsce w 2025 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania lokalne i międzynarodowe, z pokazami gotowania. Dostępne są również dania kuchni włoskiej, azjatyckiej i indyjskiej. Goście mogą korzystać z baru przy basenie i lounge baru. Pakiet All Inclusive obejmuje posiłki w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma zewnętrznymi basenami ze słodką wodą, z których jeden jest podgrzewany w sezonie zimowym. Na terenie obiektu dostępne są codzienne animacje, muzyka na żywo oraz program rozrywkowy dla dorosłych. W marcu 2026 roku planowane jest otwarcie siłowni STARK FITNESS CLUB oraz sauny i łaźni tureckiej."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje łóżeczka niemowlęce na życzenie oraz animacje. Hotel nie jest przeznaczony wyłącznie dla dorosłych, co czyni go odpowiednim dla rodzin z dziećmi."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "W hotelu znajduje się centrum spa, które oferuje masaże i zabiegi upiększające za dodatkową opłatą. Goście mogą korzystać z sauny i wanny z hydromasażem. Planowane jest otwarcie sauny i łaźni tureckiej w marcu 2026 roku."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja tuż przy plaży",
+  "Bliskość centrum i atrakcji",
+  "Czyste pokoje",
+  "Dobre jedzenie",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Małe baseny",
+  "Mało ambitne atrakcje wieczorne",
+  "Bliskość centrum może generować hałas",
+  "Plaża publiczna, leżaki płatne",
+  "Brak aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sahara Playa znajduje się około 50 metrów od piaszczystej plaży Playa del Inglés."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Gran Canaria (LPA), oddalone o około 27-33 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku w hotelu Sahara Playa."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje udogodnienia dla dzieci, takie jak łóżeczka niemowlęce na życzenie oraz animacje, co czyni go odpowiednim dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w całym obiekcie, w tym w lobby i w pokojach, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Av. 8 de Marzo, 1, 35100 Maspalomas, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Lotnisko Gran Canaria (LPA)",
+ "amenities": [
+  "Klimatyzacja",
+  "Sejf",
+  "Telewizor",
+  "Balkon/taras",
+  "Zestaw do kawy/herbaty",
+  "Mini lodówka/minibar",
+  "Suszarka do włosów",
+  "Wanna/prysznic"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa del Inglés",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary",
+  "Grupy",
+  "Rodziny z dziećmi",
+  "Podróżujący międzynarodowo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1990,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Junior Suita",
+  "Apartament (z oddzielnym salonem i balkonem/tarasem)",
+  "Pokój Superior (na piątym piętrze z lepszymi widokami i większą łazienką)",
+  "Pokój przystosowany dla osób z ograniczoną mobilnością"
+ ],
+ "rooms": 163,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7557761,
+  "lon": -15.5688912,
+  "src": "osm"
+ },
+ "sources": [
+  "grancanaria-hotels.com",
+  "wakacje.pl",
+  "travelplanet.pl",
+  "hotelsingrancanaria.net",
+  "loveholidays.com",
+  "itaka.pl",
+  "coraltravel.pl",
+  "tui.pl"
+ ],
+ "updated": "2026-11-27"
+}

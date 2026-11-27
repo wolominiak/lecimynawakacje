@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:ms aguamarina",
+ "slug": "ms-aguamarina",
+ "name": "Ms Aguamarina",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Torremolinos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/torremolinos/ms-aguamarina-spanelsko/895b6b77d801181656099-244.jpg",
+ "city": "Torremolinos",
+ "intro": [
+  "Hotel MS Aguamarina Costa del Sol to czterogwiazdkowy obiekt położony w Torremolinos, w dzielnicy Bajondillo, zaledwie kilkaset metrów od piaszczystej plaży Playa del Bajondillo. Jest to idealne miejsce dla rodzin, par oraz osób szukających relaksu, oferujące ciepłą i przyjazną atmosferę.",
+  "Hotel, niedawno odnowiony, dysponuje 130 przestronnymi Junior Suitami i Suitami, rozmieszczonymi na 8 piętrach. Goście docenią doskonałą lokalizację blisko centrum miasta, dostęp do spa, siłowni oraz różnorodne opcje wyżywienia, w tym all inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel MS Aguamarina Costa del Sol znajduje się w Torremolinos, w dzielnicy Bajondillo, przy ulicy El Bajondillo 57. Od piaszczystej plaży Playa del Bajondillo dzieli go od 100 do 250 metrów. Plaża jest publiczna, a leżaki i parasole dostępne są przy basenie hotelowym."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 130 przestronnych Junior Suit i Suit. Wszystkie pokoje są klimatyzowane i ogrzewane, wyposażone w łazienkę, suszarkę do włosów, minibar, telewizor, sejf i bezpłatne Wi-Fi. Niektóre pokoje posiadają balkon lub taras, a wybrane typy, jak Premium Junior Suity, oferują dodatkowe udogodnienia."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca śniadania i kolacje, a także restauracje tematyczne z pokazami gotowania. Goście mogą również skorzystać z restauracji à la carte z kuchnią śródziemnomorską. Na terenie obiektu dostępne są kawiarnia, bar przy basenie z przekąskami i napojami oraz bar w lobby. Hotel oferuje opcję all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma basenami: odkrytym ze słodką wodą oraz podgrzewanym krytym basenem w strefie spa. Na dachu znajduje się taras słoneczny z jacuzzi. Dla dzieci wydzielono strefę w basenie odkrytym oraz organizowane są działania w sezonie wysokim. Goście mogą korzystać ze spa z sauną, łaźnią parową i zabiegami, a także z siłowni. Wieczorami odbywają się występy na żywo."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel MS Aguamarina Costa del Sol jest polecany dla rodzin z dziećmi, par oraz osób szukających relaksu. Oferuje udogodnienia dla dzieci, takie jak wydzielona strefa w basenie i animacje w sezonie wysokim, a także bogate zaplecze rekreacyjne dla dorosłych, w tym spa i siłownię."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przestronne Junior Suity i Suity",
+  "Dobre jedzenie i urozmaicone bufety",
+  "Dobre udogodnienia spa z podgrzewanym basenem",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Niektóre pokoje bez balkonu lub z ograniczonym widokiem",
+  "Ograniczone wyposażenie aneksu kuchennego",
+  "Możliwy hałas z powodu cienkich ścian lub wentylacji",
+  "Brak zjeżdżalni/aquaparku na terenie hotelu",
+  "Publiczna plaża bez hotelowych leżaków/ręczników"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się od 100 do 250 metrów od piaszczystej plaży Playa del Bajondillo."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 5-7 km od lotniska Malaga (AGP)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada zjeżdżalni ani aquaparku na swoim terenie."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje wydzieloną strefę dla dzieci w basenie oraz animacje w sezonie wysokim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest tylko dla dorosłych i jest przyjazny rodzinom."
+  }
+ ],
+ "address": "C/ El Bajondillo, 57, 29620 Torremolinos",
+ "adultsOnly": false,
+ "airportKm": 6,
+ "airportName": "Lotnisko Malaga (AGP)",
+ "amenities": [
+  "spa",
+  "siłownia",
+  "wypożyczalnia rowerów",
+  "taras słoneczny",
+  "jacuzzi"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Bajondillo",
+ "bars": 3,
+ "beachDistanceM": 175,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standard Junior Suite",
+  "Classic Junior Suite",
+  "Junior Suite z widokiem na basen",
+  "Junior Suite z częściowym widokiem na morze",
+  "Premium Junior Suite",
+  "Relax Junior Suite (bez widoku)",
+  "Eco Junior Suites (bez widoku lub tarasu)",
+  "Two Bedroom Suite"
+ ],
+ "rooms": 130,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "tui.co.uk",
+  "msaguamarinasuites.com",
+  "aurinkomatkat.fi",
+  "mshoteles.com",
+  "onthebeach.co.uk",
+  "hrs.com",
+  "google.com.ng",
+  "visitcostadelsol.com"
+ ],
+ "updated": "2026-11-27"
+}

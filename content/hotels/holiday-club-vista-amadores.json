@@ -1,0 +1,134 @@
+{
+ "id": "x:hiszpania:holiday club vista amadores",
+ "slug": "holiday-club-vista-amadores",
+ "name": "Holiday Club Vista Amadores",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa Amadores"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-amadores/holiday-club-vista-amadores-pl/3252/d175ba35a10801a3a5903-244.jpg",
+ "city": "Amadores",
+ "intro": [
+  "Holiday Club Vista Amadores to czterogwiazdkowy aparthotel położony na wzgórzu w miejscowości Amadores na Gran Canarii. Obiekt oferuje panoramiczne widoki na morze i jest idealnym miejscem dla osób szukających spokojnego wypoczynku, zarówno dla par, jak i rodzin z dziećmi, planujących dłuższe pobyty.",
+  "Hotel oferuje przestronne apartamenty z w pełni wyposażonymi kuchniami, co pozwala na samodzielne przygotowywanie posiłków. Dzięki swojej lokalizacji i udogodnieniom, takim jak podgrzewany basen i siłownia, jest to dobra baza do zwiedzania wyspy i relaksu w komfortowych warunkach."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Holiday Club Vista Amadores znajduje się w miejscowości Amadores, na Gran Canarii, na wzgórzu z widokiem na piaszczystą plażę Amadores. Plaża oddalona jest o około 1 do 1,4 km, a hotel zapewnia bezpłatny transfer autobusem. Leżaki i parasole na plaży są płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 36-39 przestronnymi apartamentami z jedną lub dwiema sypialniami, często z widokiem na morze. Każdy apartament wyposażony jest w aneks kuchenny, klimatyzację, łazienkę, balkon lub taras, telewizor satelitarny i sejf. Niektóre apartamenty posiadają prywatne jacuzzi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden zewnętrzny basen, podgrzewany w wybranych miesiącach, oraz oddzielny basen dla dzieci. Goście mogą korzystać z siłowni (często czynnej 24h), sauny i solarium. Dostępne są również squash, tenis stołowy, bilard i rzutki, a w pobliżu znajduje się pole golfowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni kanaryjskiej i międzynarodowej, oferująca śniadania w formie bufetu oraz obiady i kolacje à la carte. Do dyspozycji gości są również bar hotelowy i bar przy basenie. Hotel działa głównie w formule apartamentów z własnym wyżywieniem."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości dostępny jest oddzielny basen oraz łóżeczka dla dzieci w apartamentach. Hotel oferuje animacje, takie jak aqua aerobik i gry basenowe, które mogą być atrakcją dla rodzin."
+  }
+ ],
+ "pros": [
+  "Piękne widoki na morze i zatokę Amadores",
+  "Przestronne i dobrze wyposażone apartamenty z kuchniami",
+  "Wysoka czystość i miły personel",
+  "Podgrzewany basen",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Położenie na wzgórzu wymaga podejścia z plaży (zalecany samochód lub autobus hotelowy)",
+  "Basen może być częściowo w cieniu rano",
+  "Ograniczona liczba parasoli przy basenie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża Amadores oddalona jest o około 1 do 1,4 km. Hotel oferuje bezpłatny transfer autobusem na plażę."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Gran Canaria Airport (LPA), znajduje się w odległości około 36-51 km (około 38 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Posiada oddzielny basen dla dzieci, oferuje animacje i możliwość dostawienia łóżeczek dla dzieci w apartamentach."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada basen dla dzieci, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest odpowiedni dla par, rodzin i osób planujących dłuższe pobyty."
+  }
+ ],
+ "address": "Avda. Ministra Anna Lindh 1, 35130 Mogán, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 36,
+ "airportName": "Gran Canaria Airport (LPA)",
+ "amenities": [
+  "sauna",
+  "solarium",
+  "squash",
+  "tenis stołowy",
+  "bilard",
+  "rzutki"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Amadores",
+ "bars": 2,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "dłuższe pobyty"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (z widokiem na morze, w pełni wyposażoną kuchnią, klimatyzacją, łazienką, balkonem/tarasem, TV sat, sejfem)",
+  "Apartament z dwiema sypialniami (z widokiem na morze, w pełni wyposażoną kuchnią, klimatyzacją, łazienką, balkonem/tarasem, TV sat, sejfem)",
+  "Apartament z prywatnym jacuzzi (z widokiem na morze, w pełni wyposażoną kuchnią, klimatyzacją, łazienką, balkonem/tarasem, TV sat, sejfem)"
+ ],
+ "rooms": 36,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7905187,
+  "lon": -15.7189248,
+  "src": "osm"
+ },
+ "sources": [
+  "holidayclubcanarias.com",
+  "holidayclubresorts.com",
+  "ving.se",
+  "google.com",
+  "booking.com",
+  "exim.pl",
+  "wakacjeamigos.pl",
+  "wakacje.pl"
+ ],
+ "updated": "2026-11-27"
+}
