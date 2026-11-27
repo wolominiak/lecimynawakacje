@@ -1,0 +1,150 @@
+{
+ "id": 60825,
+ "slug": "sea-view-hotel",
+ "name": "Sea View Hotel",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/sea-view-hotel-basen-1533007658-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Sea View Hotel to czterogwiazdkowy obiekt położony w Glyfadzie, w regionie Attyka, na malowniczej Riwierze Ateńskiej. Hotel, otwarty w 1973 roku i całkowicie odnowiony w 2012 roku, oferuje komfortowe zakwaterowanie w siedmiopiętrowym budynku.",
+  "Jest to idealne miejsce zarówno dla par szukających relaksującej atmosfery i bliskości życia nocnego, jak i dla podróżujących służbowo ze względu na dogodną lokalizację oraz dla rodzin z dziećmi, dzięki dostępności odpowiednich pokoi i udogodnień."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Glyfadzie, zaledwie 3 minuty spacerem od plaży. Bezpośrednio naprzeciwko hotelu mieści się prywatna plaża (dodatkowo płatna), a publiczna plaża Asteras oddalona jest o około 7-15 minut spacerem. Hotel jest również dobrze skomunikowany z centrum Aten, oddalonym o około 14.5-15 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 71 pokojami, które zostały całkowicie odnowione w 2012 roku, a niektóre typy pokoi w 2024 roku. W ofercie znajdują się pokoje Premium, Superior, Deluxe, a także apartamenty Penthouse i Master Suite. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, balkon, TV satelitarną, Wi-Fi oraz mini-bar."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja „Sea View”, która serwuje śniadania, obiady i kolacje. Goście mogą korzystać ze śniadań w formie bufetu, obejmujących dania kuchni greckiej i międzynarodowej. Dostępna jest również restauracja à la carte oraz bar/salon i bar-kawiarnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden sezonowy odkryty basen z tarasem słonecznym, czynny zazwyczaj od połowy kwietnia do października. Na terenie obiektu znajduje się również centrum fitness/siłownia. Leżaki i parasole przy basenie są dostępne bezpłatnie, natomiast na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla rodzin z dziećmi hotel oferuje krzesełka w restauracji oraz możliwość dostawienia dodatkowych łóżek dla dzieci do 12 lat. Apartamenty Master Suite i pokoje Deluxe są szczególnie polecane dla rodzin. Na życzenie dostępna jest usługa opieki nad dziećmi."
+  }
+ ],
+ "pros": [
+  "Bardzo przyjazny i pomocny personel.",
+  "Doskonała lokalizacja blisko sklepów, restauracji i plaży.",
+  "Czyste pokoje i wygodne łóżka.",
+  "Świetne śniadania w formie bufetu.",
+  "Ładny basen z obsługą."
+ ],
+ "cons": [
+  "Niektóre pokoje mogą nie mieć bezpośredniego widoku na morze.",
+  "Dojście do plaży może wymagać krótkiego spaceru.",
+  "Słaba izolacja akustyczna w niektórych pokojach.",
+  "Bliskość stacji benzynowej i autostrady miejskiej może wiązać się z hałasem i zapachem.",
+  "Leżaki na plaży są dodatkowo płatne."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się po drugiej stronie ulicy od plaży, około 3 minuty spacerem. Prywatna plaża jest bezpośrednio naprzeciwko hotelu, a publiczna plaża Asteras około 7-15 minut spacerem."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Międzynarodowy Port Lotniczy w Atenach (ATH) oddalony jest o około 19.28 km do 25 km, co oznacza około 30-35 minut jazdy taksówką."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje udogodnienia dla rodzin, takie jak krzesełka w restauracji, możliwość dostawienia dodatkowych łóżek dla dzieci oraz odpowiednie apartamenty Master Suite i pokoje Deluxe."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni. Dostępny jest jeden sezonowy odkryty basen."
+  },
+  {
+   "q": "Czy hotel oferuje Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pomieszczeniach hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin."
+  }
+ ],
+ "address": "4, Xanthou & Lazaraki Street, Glyfada 166 74, Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 19.28,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (ATH)",
+ "amenities": [
+  "klimatyzacja",
+  "prywatna łazienka",
+  "lodówka/mini-bar",
+  "prywatny taras/balkon",
+  "telewizor z kanałami satelitarnymi",
+  "dostęp do Wi-Fi",
+  "biurko",
+  "wanna (w niektórych pokojach)",
+  "sejf",
+  "telefon",
+  "suszarka do włosów",
+  "żelazko i deska do prasowania (na życzenie)",
+  "ekspres Nespresso (pokoje Deluxe)",
+  "szlafroki i kapcie (pokoje Deluxe)",
+  "krzesełka w restauracji",
+  "opieka nad dziećmi (na życzenie)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Glyfada, Riwiera Ateńska",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "prywatna (płatna) i publiczna piaszczysta",
+ "centerKm": 14.5,
+ "goodFor": [
+  "Pary",
+  "Podróżujący służbowo",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1973,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Special Offer - Cityscape Premium Room",
+  "Premium Double or Twin Room",
+  "Premium Double or Twin Room with Side Sea View",
+  "Superior Room",
+  "Deluxe Double Room with Terrace",
+  "Penthouse Suite",
+  "Master Suite"
+ ],
+ "rooms": 71,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.7365402,
+  "lon": 20.8956856,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "reserve-online.net",
+  "seaview.gr",
+  "atticahotels.net",
+  "google.gr",
+  "greekislandtours.gr",
+  "coral.ge",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-27"
+}

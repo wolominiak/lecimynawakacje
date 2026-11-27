@@ -1,0 +1,131 @@
+{
+ "id": 37792,
+ "slug": "360-degrees-pop-art",
+ "name": "360 Degrees Pop Art",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001405240-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Hotel 360 Degrees Pop Art to trzygwiazdkowy obiekt położony w samym sercu Aten, w historycznej dzielnicy Psiri / Monastiraki. Jest to idealna baza wypadowa do zwiedzania najważniejszych atrakcji miasta, z uwagi na bliskość Akropolu, Placu Monastiraki oraz ulicy Ermou. Hotel został otwarty w 2018 roku i oferuje 31 nowocześnie urządzonych pokoi.",
+  "Obiekt polecany jest zarówno dla par, jak i rodzin z dziećmi, a także dla osób podróżujących służbowo oraz wszystkich, którzy pragną aktywnie zwiedzać Ateny. Hotel wyróżnia się butikowym charakterem i dogodnym położeniem, umożliwiającym łatwy dostęp do transportu publicznego i głównych punktów turystycznych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel 360 Degrees Pop Art znajduje się w Atenach, w dzielnicy Psiri / Monastiraki, co zapewnia doskonały dostęp do historycznego centrum miasta. Z obiektu łatwo dotrzeć do najważniejszych atrakcji, takich jak Akropol czy Plac Monastiraki. Najbliższe lotnisko, Elefthérios Venizélos (ATH), oddalone jest o około 37 km, natomiast ścisłe centrum Aten znajduje się w odległości około 0.8-1.0 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 31 dźwiękoszczelnymi pokojami o nowoczesnym wystroju, wyposażonymi w klimatyzację, drewniane podłogi oraz eleganckie meble. W każdym pokoju znajduje się telewizor z płaskim ekranem, ekspres do kawy, czajnik, minibar, sejf oraz biurko. Goście mają do dyspozycji nowoczesne łazienki z kabiną prysznicową, suszarką do włosów, szlafrokami, kapciami i bezpłatnymi kosmetykami. Dostępne są również pokoje łączone oraz apartamenty typu suite z wanną z hydromasażem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja à la carte, która serwuje dania kuchni śródziemnomorskiej. Codziennie rano oferowane jest bezpłatne śniadanie w formie bufetu, które często serwowane jest w pobliskim siostrzanym hotelu z widokiem na Akropol. Na terenie obiektu dostępny jest bar/lounge, a także bar na dachu, który również często znajduje się w siostrzanym hotelu i oferuje widoki na Akropol."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi dostępne w całym obiekcie oraz w pokojach. Goście mogą skorzystać z masaży za dodatkową opłatą, a niektóre apartamenty typu suite wyposażone są w wannę z hydromasażem. Hotel nie posiada basenu, aquaparku ani siłowni. Nie są również dostępne animacje ani mini klub dla dzieci."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w historycznym centrum Aten",
+  "Bliskość głównych atrakcji turystycznych i transportu publicznego",
+  "Nowoczesne, czyste i wygodne pokoje",
+  "Pomocna i przyjazna obsługa",
+  "Smaczne śniadanie, często z widokiem na Akropol"
+ ],
+ "cons": [
+  "Śniadanie serwowane jest w pobliskim siostrzanym hotelu",
+  "Brak basenu na terenie obiektu",
+  "Brak widoku z niektórych pokoi",
+  "Brak łóżeczek dziecięcych",
+  "Hotel nie jest położony bezpośrednio przy plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel nie znajduje się bezpośrednio przy plaży. Najbliższe plaże, takie jak Vouliagmeni Beach, są oddalone o około 18-19 km."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Elefthérios Venizélos (ATH), jest oddalone od hotelu o około 37 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel oferuje pokoje rodzinne ("
+  }
+ ],
+ "address": "5 Miaouli, 105 54, Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 37,
+ "airportName": "Elefthérios Venizélos Airport (ATH)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Masaże (za opłatą)",
+  "Wanna z hydromasażem w niektórych apartamentach typu suite",
+  "Restauracja à la carte",
+  "Bar/lounge",
+  "Bar na dachu (często w siostrzanym hotelu)",
+  "Pokoje dźwiękoszczelne",
+  "Pokoje łączone/sąsiadujące"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Psiri / Monastiraki",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.9,
+ "goodFor": [
+  "Osoby zwiedzające",
+  "Pary",
+  "Podróżujący służbowo",
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2018,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Deluxe Double Room",
+  "Standard Triple Room",
+  "Junior Suite",
+  "Junior Suite with Balcony",
+  "Suite with Spa Bath",
+  "Family Connected Room"
+ ],
+ "rooms": 31,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.977222442627,
+  "lon": 23.72546005249,
+  "src": "web"
+ },
+ "sources": [
+  "reserve-online.net",
+  "athens-hotels.co",
+  "booking.com",
+  "hotelsathens.org",
+  "skyscanner.qa",
+  "avistratravel.com",
+  "athenshotels24.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

@@ -1,0 +1,134 @@
+{
+ "id": 260519,
+ "slug": "akti-lesvos",
+ "name": "Akti (Lesvos)",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Lesbos"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/akti-lesvos-pokoj-1758784510-570-428.jpg",
+ "city": "Molyvos (Mithymna)",
+ "intro": [
+  "Hotel Akti (Lesvos) to kameralny obiekt położony w spokojnej, nadmorskiej okolicy miejscowości Molyvos na greckiej wyspie Lesbos. Oferuje komfortowe zakwaterowanie w hotelu, bungalowach i apartamentach, z pięknymi widokami na morze i okolicę. Jest to idealne miejsce dla osób szukających relaksu w otoczeniu natury.",
+  "Obiekt polecany jest zarówno rodzinom z dziećmi, jak i parom ceniącym sobie spokojną atmosferę oraz doskonałą obsługę. Dzięki bliskości plaży i możliwości korzystania z lokalnych produktów, hotel Akti zapewnia autentyczne greckie doświadczenie wypoczynkowe."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Akti znajduje się w miejscowości Molyvos (Mithymna) na wyspie Lesbos, około 1 km od centrum. Obiekt jest oddalony o około 150 metrów od plaży. W pobliżu (2 minuty jazdy) znajdują się plaże Eftalou, wyróżnione Błękitną Flagą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 30 lub 31 pokojami, w tym pokojami typu Standard Double/Twin z widokiem na morze (25 mkw), odnowionymi pokojami Superior, apartamentami i pokojami trzyosobowymi. Wszystkie pokoje wyposażone są w balkon lub patio, klimatyzację, łazienkę z suszarką do włosów, lodówkę, sejf oraz telewizor plazmowy. Na życzenie dostępne są bezpłatne łóżeczka dziecięce."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca lokalne produkty, w tym organiczne warzywa i oliwę z oliwek z własnych ogrodów. Dostępny jest również bar, bar przy basenie oraz kawiarnia. Śniadanie w formie bufetu jest wliczone w cenę lub dostępne za dopłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje sezonowy odkryty basen oraz mniejszy basen dla dzieci, dostępne w godzinach 10:00-20:00. Dla aktywnych gości dostępny jest kort tenisowy oraz możliwość jazdy na rowerze. Obiekt posiada również plac zabaw dla dzieci."
+  },
+  {
+   "title": "Usługi i udogodnienia",
+   "text": "Goście mogą korzystać z usług spa, takich jak masaże oraz manicure/pedicure. Na terenie całego obiektu, w pokojach i miejscach publicznych, dostępne jest bezpłatne Wi-Fi. Hotel akceptuje zwierzęta domowe do 5 kg (za opłatą, z wyłączeniem części wspólnych)."
+  }
+ ],
+ "pros": [
+  "Spokojna i przyjazna atmosfera",
+  "Doskonała obsługa",
+  "Piękne widoki",
+  "Bliskość plaży (ok. 150 m)",
+  "Świeże produkty z własnych ogrodów"
+ ],
+ "cons": [
+  "Brak informacji o dacie ostatniego remontu całego hotelu",
+  "Brak pakietu all inclusive",
+  "Brak informacji o leżakach i ręcznikach na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Akti jest oddalony o około 150 metrów od plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy Mytilene (MJT), znajduje się około 68 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje plac zabaw oraz mniejszy basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje usługi spa?",
+   "a": "Tak, hotel oferuje usługi spa, w tym masaże oraz manicure/pedicure."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  }
+ ],
+ "address": "Molivos, 81108 Lesvos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 68,
+ "airportName": "Międzynarodowy Port Lotniczy Mytilene (MJT)",
+ "amenities": [
+  "Spa",
+  "Kort tenisowy",
+  "Możliwość jazdy na rowerze",
+  "Plac zabaw dla dzieci",
+  "Menu poduszkowe",
+  "Hipoalergiczna pościel",
+  "Łóżeczka dziecięce na życzenie"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "wiejska okolica nadmorska",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1992,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double lub Twin z widokiem na morze (25 mkw)",
+  "Superior (odnowione)",
+  "Apartamenty",
+  "Pokoje trzyosobowe"
+ ],
+ "rooms": 30,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.3745003,
+  "lon": 26.1845671,
+  "src": "osm"
+ },
+ "sources": [
+  "greenkey.gr",
+  "theotheraegean.com",
+  "welcometolesvos.com",
+  "kayak.com",
+  "filoxeno.com",
+  "ticati.com",
+  "agoda.com",
+  "reallesvos.com"
+ ],
+ "updated": "2026-11-27"
+}

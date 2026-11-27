@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:gloria palace royal hotel and spa",
+ "slug": "gloria-palace-royal-hotel-spa",
+ "name": "Gloria Palace Royal Hotel & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "San Agustin"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/san-agustin/gloria-palace-royal-hotel-a-spa-pl/2408/5b8d1b26474accdfff3f15f09b8bdff2_1-244.jpg",
+ "city": "Playa de Amadores",
+ "intro": [
+  "Gloria Palace Royal Hotel & Spa to czterogwiazdkowy obiekt położony w miejscowości Playa de Amadores na Gran Canarii, malowniczo wtopiony w klif i oferujący spektakularne widoki na zatokę Amadores. Jest to idealne miejsce dla osób poszukujących luksusowego wypoczynku w otoczeniu natury.",
+  "Hotel, otwarty w 2008 roku, dysponuje 197 pokojami i apartamentami z widokiem na morze. Jest rekomendowany zarówno dla par, jak i rodzin z dziećmi, które docenią bogatą ofertę gastronomiczną, strefę spa oraz codzienne animacje."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się około 200-250 metrów od plaży Amadores, znanej z białego piasku i spokojnych wód. Do centrum Puerto Rico jest około 1.2 km, co stanowi przyjemny 15-minutowy spacer. Obiekt jest oddalony o 36-51 km od lotniska Gran Canaria (LPA)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Gloria Palace Royal Hotel & Spa oferuje różnorodne typy pokoi, w tym dwuosobowe, Junior Suity, Suity oraz Suity Prezydenckie i Królewskie, wszystkie z widokiem na morze. Każdy pokój wyposażony jest w klimatyzację, balkon lub taras, telewizor, minibar (płatny), sejf (płatny) oraz bezpłatne Wi-Fi. Łazienki posiadają prysznic i/lub wannę, suszarkę do włosów, lusterko powiększające, szlafroki i kapcie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje restauracją bufetową oraz restauracją à la carte Kaia, zlokalizowaną na dachu z panoramicznym widokiem. Do dyspozycji gości są również cztery bary/lounge, dwa bary przy basenie oraz bar z przekąskami. Pakiet All Inclusive obejmuje śniadania, lunche i kolacje w formie bufetu, przekąski, lody dla dzieci, ciasto dnia oraz wybrane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny dla dorosłych, w tym podgrzewany basen typu infinity z widokiem na morze, oraz dwa baseny ze słodką wodą dla dzieci. Dla najmłodszych przygotowano mini klub Tina's Club i plac zabaw. Goście mogą korzystać ze strefy Wellness & Spa z krytym basenem, jacuzzi, sauną i łaźnią turecką, a także z siłowni. Hotel oferuje dzienne i wieczorne animacje dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Spektakularne widoki na ocean",
+  "Przestronne i czyste pokoje z dużymi balkonami",
+  "Miła i pomocna obsługa",
+  "Dobre i urozmaicone jedzenie",
+  "Doskonałe udogodnienia spa"
+ ],
+ "cons": [
+  "Brak zjeżdżalni czy aquaparku",
+  "Wymiana ręczników basenowych jest płatna",
+  "Minibar i sejf w pokojach są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 200-250 metrów od plaży Amadores."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje mini klub dla dzieci, oddzielne baseny i plac zabaw, a także dzienne i wieczorne animacje."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 36-51 km od lotniska Gran Canaria (LPA), co zajmuje około 30-40 minut jazdy."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom i oferuje udogodnienia dla dzieci."
+  }
+ ],
+ "address": "C/ Tamara 1, Urb Playa de Amadores, 35130 Puerto Rico, Gran Canaria, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 36,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Spa",
+  "Siłownia",
+  "Mini klub dla dzieci",
+  "Animacje",
+  "Restauracje à la carte"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa de Amadores",
+ "bars": 4,
+ "beachDistanceM": 200,
+ "beachType": "biały piasek",
+ "centerKm": 1.2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające luksusowego wypoczynku",
+  "Miłośnicy spa",
+  "Smakosze"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2008,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin Room)",
+  "Junior Suita",
+  "Suita",
+  "Suita Prezydencka",
+  "Suita Królewska",
+  "Pokój rodzinny"
+ ],
+ "rooms": 197,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.79216,
+  "lon": -15.72171,
+  "src": "web"
+ },
+ "sources": [
+  "firstchoice.co.uk",
+  "booking.com",
+  "canarias-lovers.com",
+  "besthotelsgrancanaria.com",
+  "gloriapalaceth.com",
+  "geoview.info",
+  "meetings-conventions.com",
+  "amimagazine.global"
+ ],
+ "updated": "2026-11-27"
+}

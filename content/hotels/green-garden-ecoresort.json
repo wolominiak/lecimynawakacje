@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:green garden ecoresort",
+ "slug": "green-garden-ecoresort",
+ "name": "Green Garden Ecoresort",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Playa de Las Américas"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/playa-de-las-americas/green-garden-ecoresort/404cfb803a59ce2d00c3e.jpg",
+ "city": "Playa de las Américas, Teneryfa",
+ "intro": [
+  "Green Garden Ecoresort to czterogwiazdkowy obiekt położony w spokojnej części Playa de las Américas na Teneryfie, tuż obok pola golfowego Golf Las Américas. Hotel składa się z przestronnych willi i apartamentów w kolonialnym stylu, otoczonych tropikalnymi ogrodami, co sprzyja relaksowi i wypoczynkowi.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz miłośników golfa. Dzięki bogatej ofercie rekreacyjnej i bliskości atrakcji, takich jak park wodny Siam Park, hotel stanowi dobrą bazę dla osób poszukujących zarówno aktywnego wypoczynku, jak i spokojnego relaksu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Playa de las Américas, około 1 km od centrum miejscowości. Najbliższa piaszczysta plaża jest oddalona o około 1,3 km do 2 km. Hotel oferuje bezpłatny autobus na plażę, co jest udogodnieniem dla gości."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Resort dysponuje 115 willami i apartamentami z jedną lub dwiema sypialniami, a także ekskluzywnymi willami z prywatnymi, podgrzewanymi basenami. Wszystkie pokoje są klimatyzowane i wyposażone w salon z TV, aneks kuchenny, jadalnię oraz prywatną łazienkę. Większość posiada umeblowany balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje: bufetowa „Las Palmeras”, a la carte oraz azjatycka. Opcja All Inclusive obejmuje śniadania, obiady i kolacje w restauracji bufetowej, a także przekąski, kawę, herbatę oraz lokalne napoje alkoholowe i bezalkoholowe dostępne w barach w określonych godzinach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się 3 baseny zewnętrzne, w tym jeden dla dzieci. Co najmniej jeden z głównych basenów jest podgrzewany zimą. Hotel oferuje centrum spa z sauną, jacuzzi i zabiegami, a także zewnętrzną siłownię. Bliskość pola golfowego Golf Las Américas to atut dla miłośników tego sportu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości dostępny jest brodzik, plac zabaw oraz Mini Club „La Casita del Árbol” z codziennymi programami animacyjnymi. Hotel zapewnia również animacje dla dzieci i wieczorne mini disco, co czyni go atrakcyjnym wyborem dla rodzin."
+  }
+ ],
+ "pros": [
+  "Spokojna atmosfera i piękne ogrody",
+  "Przestronne wille/apartamenty",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie, zwłaszcza kolacje tematyczne",
+  "Podgrzewany basen w zimie",
+  "Bliskość pola golfowego i parku wodnego Siam Park"
+ ],
+ "cons": [
+  "Hotel jest oddalony od plaży i centrum (choć jest transfer)",
+  "Ograniczona różnorodność jedzenia, zwłaszcza śniadań i deserów",
+  "Brak zjeżdżalni na terenie hotelu",
+  "Tradycyjny wystrój pokoi może nie odpowiadać każdemu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel znajduje się około 1,3 km do 2 km od najbliższej piaszczystej plaży. Hotel oferuje bezpłatny autobus na plażę."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Lotnisko Tenerife South (TFS) jest oddalone o około 16-17 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma zjeżdżalni ani aquaparku. W pobliżu, około 1 km, znajduje się park wodny Siam Park."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje brodzik, plac zabaw, mini klub dla dzieci oraz animacje i mini disco."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "C. Landa Golf, 1, 38650 Playa de las Américas, Arona, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 16.5,
+ "airportName": "Tenerife South (TFS)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Animacje",
+  "Kids Club",
+  "Podgrzewany basen",
+  "Restauracja a la carte",
+  "Bar przy basenie",
+  "Lounge bar",
+  "Plac zabaw",
+  "Bilard",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "obok pola golfowego Golf Las Américas",
+ "bars": 2,
+ "beachDistanceM": 1650,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "miłośnicy golfa",
+  "osoby szukające relaksu"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1999,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 3,
+ "roomTypes": [
+  "Apartament z jedną sypialnią: klimatyzowany, salon z TV, rozkładana sofa, aneks kuchenny (lodówka, mikrofalówka, czajnik, ekspres do kawy), jadalnia, łazienka z prysznicem, suszarką do włosów i zestawem kosmetyków, balkon lub taras.",
+  "Apartament z dwiema sypialniami: klimatyzowany, salon z TV, rozkładana sofa, aneks kuchenny (lodówka, mikrofalówka, czajnik, ekspres do kawy), jadalnia, łazienka z prysznicem, suszarką do włosów i zestawem kosmetyków, balkon lub taras.",
+  "Willa z prywatnym, podgrzewanym basenem: klimatyzowana, salon z TV, rozkładana sofa, aneks kuchenny (lodówka, mikrofalówka, czajnik, ekspres do kawy), jadalnia, łazienka z prysznicem, suszarką do włosów i zestawem kosmetyków, balkon lub taras."
+ ],
+ "rooms": 115,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "toptenerifehotels.com",
+  "trivago.co.uk",
+  "trivago.com",
+  "coraltravel.pl",
+  "tui.com",
+  "youtube.com",
+  "thomascook.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

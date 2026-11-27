@@ -1,0 +1,133 @@
+{
+ "id": "x:hiszpania:ona club benavista",
+ "slug": "ona-club-benavista",
+ "name": "Ona Club Benavista",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Estepona"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/estepona/ona-club-benavista/6773/9752238c90cc89a49d328-244.jpg",
+ "city": "Estepona",
+ "intro": [
+  "Ona Club Benavista to kompleks apartamentów położony w Esteponie, w malowniczej dzielnicy New Golden Mile na słonecznym wybrzeżu Costa del Sol. Obiekt, utrzymany w tradycyjnym andaluzyjskim stylu z bielonymi ścianami i terakotowymi dachami, otoczony jest zadbanymi ogrodami, co tworzy spokojną i relaksującą atmosferę.",
+  "Hotel jest idealnym wyborem dla rodzin oraz par poszukujących komfortowego zakwaterowania z możliwością samodzielnego przygotowywania posiłków. Dzięki przestronnym apartamentom i udogodnieniom takim jak baseny oraz bliskość plaży i lokalnych atrakcji, Ona Club Benavista oferuje wygodną bazę do zwiedzania regionu lub spędzenia spokojnych wakacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Ona Club Benavista znajduje się w Esteponie, w dzielnicy New Golden Mile, około 400 metrów od plaży Saladillo Beach, co stanowi około 5-minutowy spacer. Obiekt jest dogodnie położony w pobliżu lokalnych kawiarni, restauracji i supermarketów. Od centrum Estepony dzieli go około 16.5 km."
+  },
+  {
+   "title": "Apartamenty",
+   "text": "Kompleks oferuje 49 apartamentów z jedną lub dwiema sypialniami, mogących pomieścić odpowiednio do 4 lub 6 osób. Wszystkie apartamenty są klimatyzowane i posiadają w pełni wyposażoną kuchnię lub aneks kuchenny, łazienkę oraz balkon lub taras z widokiem na ogród. Na wyposażeniu znajduje się również telewizor z płaskim ekranem i kanałami satelitarnymi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajdują się dwa odkryte baseny, w tym jeden specjalnie przeznaczony dla dzieci. Goście mogą korzystać z leżaków dostępnych w strefie basenowej. Dla aktywnych dostępna jest siłownia, a w promieniu około 3.2 km znajduje się pole golfowe."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Ona Club Benavista nie oferuje opcji all inclusive. Apartamenty wyposażone są w kuchnie, co umożliwia samodzielne przygotowywanie posiłków. Na terenie obiektu działa bar, a w bliskiej okolicy znajduje się wiele kawiarni i restauracji, oferujących różnorodne opcje gastronomiczne."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Goście mają dostęp do bezpłatnego Wi-Fi w pomieszczeniach ogólnodostępnych. Wi-Fi w apartamentach jest dostępne za dodatkową opłatą. Hotel jest przyjazny rodzinom, oferując basen dla dzieci. Dostępne są również ręczniki basenowe/plażowe."
+  }
+ ],
+ "pros": [
+  "Przestronne i czyste apartamenty",
+  "Dobrze wyposażone kuchnie",
+  "Dobra lokalizacja blisko restauracji i supermarketów",
+  "Dwa odkryte baseny, w tym jeden dla dzieci",
+  "Klimatyzacja w apartamentach"
+ ],
+ "cons": [
+  "Hałas drogowy z autostrady A7",
+  "Płatne Wi-Fi w pokojach",
+  "Brak windy w kompleksie",
+  "Ograniczone godziny pracy recepcji",
+  "Sporadyczne problemy z czystością/konserwacją"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 400 metrów od plaży Saladillo Beach, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Malaga Airport, oddalone o około 52-53 km, czyli 40-50 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel oferuje Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. W apartamentach Wi-Fi jest dostępne za dodatkową opłatą (5 EUR dziennie)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i posiada basen dla dzieci. Apartamenty są przestronne, co jest wygodne dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie obiektu."
+  },
+  {
+   "q": "Czy w hotelu jest opcja all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Apartamenty są wyposażone w kuchnie do samodzielnego przygotowywania posiłków."
+  }
+ ],
+ "address": "Centro Comercial Bena Vista, Carretera de Cadiz Km. 167 esquina con calle Azahar, El Paraiso, Estepona, Andalusia, Spain, 29688",
+ "adultsOnly": false,
+ "airportKm": 52.5,
+ "airportName": "Malaga Airport",
+ "amenities": [
+  "Klimatyzacja",
+  "Kuchnia/aneks kuchenny",
+  "Telewizor z płaskim ekranem",
+  "Balkon/taras",
+  "Sejf",
+  "Suszarka do włosów",
+  "Bezpłatne kosmetyki",
+  "Ręczniki na basen/plażę"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "New Golden Mile",
+ "bars": 1,
+ "beachDistanceM": 400,
+ "beachType": "",
+ "centerKm": 16.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament z 1 sypialnią (dla maks. 4 osób, z wyposażoną kuchnią, łazienką, TV, balkonem/tarasem)",
+  "Apartament z 2 sypialniami (dla maks. 6 osób, z wyposażoną kuchnią, łazienką, TV, balkonem/tarasem)",
+  "Apartament z 3 sypialniami (dostępność w niektórych źródłach)"
+ ],
+ "rooms": 49,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "estepona-es.com",
+  "travelyalla.com",
+  "trivago.ie",
+  "booking.com",
+  "onahotels.com",
+  "broadwaytravel.com",
+  "top10reisipakkumised.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-27"
+}

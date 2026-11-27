@@ -1,0 +1,135 @@
+{
+ "id": 34886,
+ "slug": "mirage",
+ "name": "Mirage",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kreta",
+  "Malia"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/mirage-teren-hotelu-basen-801455823-570-428.jpg",
+ "city": "Malia",
+ "intro": [
+  "Mirage Studios to aparthotel położony w centrum Malii na Krecie, w Grecji. Obiekt, często klasyfikowany jako 1-gwiazdkowy, oferuje zakwaterowanie w bliskiej odległości od \"Malia Strip\", znanej z barów i klubów nocnych.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych i polecany jest dla par szukających relaksu, grup przyjaciół oraz młodych dorosłych, którzy cenią sobie centralną lokalizację i łatwy dostęp do rozrywki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mirage Studios znajduje się w centrum Malii, przy ulicy Dimokratias 81. Centralna plaża w Malii, piaszczysta i ogólnodostępna, oddalona jest o około 600-700 metrów, co zajmuje 8-10 minut spacerem. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 41 pokoi typu Standard Studio oraz Superior Studio, dostępne w wariantach podwójnych, typu twin lub potrójnych. Każdy pokój wyposażony jest w aneks kuchenny, prywatną łazienkę, telewizor z płaskim ekranem oraz balkon lub taras. Klimatyzacja i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, która serwuje śniadania w formie bufetu za dodatkową opłatą. Goście mogą również korzystać z baru przy basenie/snack baru oraz kawiarni. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie Mirage Studios dostępny jest jeden sezonowy odkryty basen. Hotel oferuje również masaże i jacuzzi za dodatkową opłatą. Goście mogą skorzystać z bilarda oraz wypożyczalni rowerów (obie opcje płatne), a w pobliżu znajduje się pole golfowe."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i ogólnodostępnych częściach. Jest to obiekt tylko dla dorosłych. Personel hotelu jest często doceniany za swoją pomoc i przyjazne nastawienie."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko barów, restauracji i sklepów",
+  "Niedaleka odległość do piaszczystej plaży",
+  "Przyjazny i pomocny personel (hotel rodzinny)",
+  "Czystość obiektu",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Potencjalny hałas z pobliskich klubów nocnych",
+  "Śniadania (dodatkowo płatne) bywają oceniane jako słabe",
+  "Klimatyzacja i sejf dostępne za dodatkową opłatą",
+  "Brak opcji all inclusive",
+  "Brak udogodnień dla dzieci"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Centralna plaża w Malii znajduje się około 600-700 metrów od hotelu, co odpowiada 8-10 minutom spaceru."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowe Lotnisko Heraklion (Nikos Kazantzakis Airport), oddalone o około 26-33 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, Mirage Studios to hotel przeznaczony wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są śniadania w formie bufetu za dodatkową opłatą."
+  }
+ ],
+ "address": "Dimokratias 81, Malia, 700 07, Grecja",
+ "adultsOnly": true,
+ "airportKm": 26,
+ "airportName": "Międzynarodowe Lotnisko Heraklion (Nikos Kazantzakis Airport)",
+ "amenities": [
+  "Basen zewnętrzny",
+  "Jacuzzi",
+  "Masaże (płatne)",
+  "Bilard (płatny)",
+  "Wypożyczalnia rowerów (płatna)",
+  "Aneks kuchenny w pokojach"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Malii, blisko \"Malia Strip\"",
+ "bars": 1,
+ "beachDistanceM": 600,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary szukające relaksu",
+  "Grupy przyjaciół",
+  "Młodzi dorośli"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Studio (podwójne, twin, potrójne) z łazienką, aneksem kuchennym, stołem jadalnym, TV, suszarką, balkonem/tarasem",
+  "Superior Studio (podwójne, twin, potrójne) z łazienką, aneksem kuchennym, stołem jadalnym, TV, suszarką, balkonem/tarasem"
+ ],
+ "rooms": 41,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": -33.9261838,
+  "lon": 151.054281,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "myhotels.sa",
+  "sunshine.co.uk",
+  "kayak.com",
+  "booking.com",
+  "miragestudios.gr",
+  "maliacrete.com",
+  "skyscanner.qa"
+ ],
+ "updated": "2026-11-27"
+}

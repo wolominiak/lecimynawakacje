@@ -1,0 +1,137 @@
+{
+ "id": 44351,
+ "slug": "brown-acropol",
+ "name": "Brown Acropol",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001760775-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Brown Acropol to czterogwiazdkowy hotel miejski, położony w samym sercu Aten, tuż przy Placu Omonia i stacji metra. Obiekt, odnowiony w stylu retro inspirowanym latami 60. i 70., oferuje komfortowe zakwaterowanie dla osób ceniących miejski styl życia i bliskość atrakcji turystycznych.",
+  "Hotel jest idealnym wyborem dla zwiedzających, par oraz tych, którzy poszukują życia nocnego i łatwego dostępu do rynków. Z dachu hotelu roztaczają się widoki na Akropol, co czyni go atrakcyjnym miejscem dla turystów chcących odkrywać uroki stolicy Grecji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Brown Acropol mieści się w centrum Aten, bezpośrednio przy Placu Omonia i stacji metra. Dzięki tej lokalizacji goście mają łatwy dostęp do głównych atrakcji miasta, takich jak Akropol, Monastiraki i Plac Syntagma. Najbliższe lotnisko, Athens International Airport (ATH), oddalone jest o około 28-40 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 164 lub 165 klimatyzowanych pokoi i apartamentów, urządzonych w stylu retro. Każdy pokój wyposażony jest w marmurową łazienkę, ekspres do kawy Nespresso, gramofon winylowy, minibar, sejf, telewizor z płaskim ekranem oraz bezpłatne Wi-Fi. Dostępne są również szlafroki i kapcie, a niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "Na terenie hotelu znajdują się dwie restauracje - główna oraz restauracja na dachu, a także dwa bary: lobby bar i bar na dachu. Śniadania serwowane są w formie bufetu. Hotel oferuje również opcje wyżywienia typu \"half board\", obejmujące śniadanie oraz obiad lub kolację."
+  },
+  {
+   "title": "Rekreacja i udogodnienia",
+   "text": "Goście mogą korzystać z czterech zewnętrznych wanien z hydromasażem (jacuzzi) na dachu hotelu. Dostępne jest także spa z pełnym zakresem usług, oferujące masaże, łaźnię parową, łaźnię turecką, saunę i wanny z hydromasażem (jacuzzi) - usługi te są dodatkowo płatne. Hotel dysponuje również siłownią czynną całą dobę. Bezpłatne Wi-Fi jest dostępne w całym obiekcie. Hotel akceptuje zwierzęta na życzenie, bez dodatkowych opłat."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Aten, blisko metra",
+  "Widoki na Akropol z dachu hotelu",
+  "Przyjazny i pomocny personel",
+  "Design inspirowany latami 60. i 70.",
+  "Dobre śniadania"
+ ],
+ "cons": [
+  "Hałas z pokoi wychodzących na ulicę",
+  "Okolica Placu Omonia bywa mniej komfortowa w nocy",
+  "Możliwe problemy z czystością i konserwacją łazienek",
+  "Słabe wygłuszenie pokoi",
+  "Spa obsługiwane zewnętrznie, możliwe problemy z obsługą"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 45 km od plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Athens International Airport (ATH) wynosi około 28-40 km."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Hotel nie posiada tradycyjnego basenu, ale na dachu znajdują się cztery zewnętrzne wanny z hydromasażem (jacuzzi)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie jest przeznaczony wyłącznie dla dorosłych, jednak brak informacji o specjalnych udogodnieniach dla dzieci, takich jak mini klub czy animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel akceptuje zwierzęta?",
+   "a": "Tak, zwierzęta są akceptowane na życzenie, bez dodatkowych opłat."
+  }
+ ],
+ "address": "1 Panagi Tsaldari (Pireos) Street, 105 52 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 28,
+ "airportName": "Athens International Airport (ATH)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wi-Fi",
+  "Wanny z hydromasażem na dachu",
+  "Akceptacja zwierząt"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Omonia Square (Plac Omonia), centrum Aten",
+ "bars": 2,
+ "beachDistanceM": 45000,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Osoby ceniące styl miejski",
+  "Zwiedzający",
+  "Pary",
+  "Nowożeńcy",
+  "Poszukujący życia nocnego",
+  "Poszukujący bliskości rynków"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1976,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2021,
+ "restaurants": 2,
+ "roomTypes": [
+  "Solo Room (13 m²)",
+  "Cozy Room (17 m²)",
+  "Classic Room (25 m²)",
+  "Superior Room (41 m²)",
+  "Deluxe Room with Balcony (26 m²)",
+  "Presidential Suite (90 m²)"
+ ],
+ "rooms": 164,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9836154,
+  "lon": 23.7273098,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "jet2holidays.com",
+  "thomascook.com",
+  "hotels.com",
+  "google.com.gi",
+  "hospitalitynet.org",
+  "mapcarta.com",
+  "sleepermagazine.com"
+ ],
+ "updated": "2026-11-27"
+}

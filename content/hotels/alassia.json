@@ -1,0 +1,143 @@
+{
+ "id": 41227,
+ "slug": "alassia",
+ "name": "Alassia",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/alassia-teren-hotelu-1806578229-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Hotel Alassia to trzygwiazdkowy obiekt butikowy, położony w samym sercu Aten, w tętniącej życiem dzielnicy Omonia. Jest to idealna baza wypadowa dla osób pragnących zwiedzać miasto, dzięki bliskości głównych atrakcji turystycznych i doskonałemu połączeniu komunikacyjnemu.",
+  "Obiekt jest polecany zarówno dla podróżujących służbowo, jak i turystów indywidualnych, par oraz rodzin z dziećmi. Hotel został gruntownie wyremontowany i ponownie otwarty pod koniec 2024 roku, oferując nowoczesne i komfortowe warunki pobytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Alassia znajduje się w centrum Aten, zaledwie minutę spacerem od Placu Omonia. Dzielnica Omonia jest dobrze skomunikowana, co ułatwia dostęp do innych części miasta. Najbliższe lotnisko, Międzynarodowy Port Lotniczy w Atenach (ATH), oddalone jest o około 40,5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 82 pokojami, które zostały odnowione w 2024 roku. W ofercie znajdują się pokoje jednoosobowe, dwuosobowe, typu Twin, trzyosobowe, typu King oraz Superior Double z sofą, niektóre z balkonem. Wyposażenie obejmuje klimatyzację, minibar, sejf, 50-calowy telewizor z płaskim ekranem, zestaw do parzenia kawy i herbaty oraz żelazko. Łazienki wyposażone są w prysznic typu walk-in i suszarkę do włosów."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Na terenie hotelu znajduje się jedna restauracja, która serwuje śniadania w formie bufetu, często wliczone w cenę pobytu. Goście mogą również korzystać z nowoczesnego lobby baru. Hotel nie oferuje pakietów all inclusive."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach i w miejscach publicznych. Obiekt nie posiada basenów, aquaparku, strefy spa ani siłowni. Dostępne są pokoje rodzinne i łóżeczka dla dzieci."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Aten, blisko metra",
+  "Przyjazny i pomocny personel",
+  "Czyste i odnowione pokoje z nowoczesnymi udogodnieniami",
+  "Dobre i różnorodne śniadanie w formie bufetu",
+  "Dobra jakość w stosunku do ceny"
+ ],
+ "cons": [
+  "Okolica wokół hotelu (Omonia) bywa opisywana jako zaniedbana",
+  "Małe windy o ograniczonej pojemności",
+  "Możliwy hałas uliczny i z korytarzy",
+  "Brak parkingu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Alassia jest położony w centrum Aten i nie ma bezpośredniego dostępu do plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowy Port Lotniczy w Atenach (ATH), znajduje się około 40,5 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Alassia nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje pokoje rodzinne i łóżeczka dla dzieci, co czyni go odpowiednim dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi we wszystkich pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada parking?",
+   "a": "Nie, hotel nie posiada parkingu."
+  }
+ ],
+ "address": "Sokratous 50, 10431, Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 40.5,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (Eleftherios Venizelos Airport - ATH)",
+ "amenities": [
+  "Wi-Fi",
+  "Klimatyzacja",
+  "Minibar",
+  "Sejf",
+  "Telewizor z płaskim ekranem",
+  "Zestaw do parzenia kawy i herbaty",
+  "Żelazko i deska do prasowania",
+  "Dźwiękoszczelne pokoje",
+  "Prysznic typu walk-in",
+  "Suszarka do włosów",
+  "Lusterko do makijażu",
+  "Bezpłatne kosmetyki"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Omonia",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści",
+  "Osoby zwiedzające miasto",
+  "Podróżujący z ograniczonym budżetem",
+  "Pary",
+  "Rodziny"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2024,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": 2024,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy",
+  "Pokój typu Twin",
+  "Pokój trzyosobowy",
+  "Pokój typu King",
+  "Pokój Superior Double z sofą (niektóre z balkonem)"
+ ],
+ "rooms": 82,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.984987,
+  "lon": 23.7270647,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "trivago.com",
+  "alassiahotel.eu",
+  "grhotels.gr",
+  "yandex.ru",
+  "trivago.ca",
+  "trip.com",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-27"
+}

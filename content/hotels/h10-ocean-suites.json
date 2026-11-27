@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:h10 ocean suites",
+ "slug": "h10-ocean-suites",
+ "name": "H10 Ocean Suites",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Fuerteventura",
+  "Coralejo"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/fuerteventura/corralejo/h10-ocean-suites/6e7f27692db3809a4e2b0.jpg",
+ "city": "Corralejo",
+ "intro": [
+  "H10 Ocean Suites to czterogwiazdkowy hotel położony w miejscowości Corralejo na północy Fuerteventury, w pobliżu głównej alei. Obiekt, całkowicie wyremontowany w 2015 roku, oferuje nowoczesne zakwaterowanie w apartamentach typu junior suite, rozmieszczonych w rozległych ogrodach.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par oraz osób poszukujących zarówno relaksu, jak i nocnego życia. Bliskość centrum Corralejo oraz Parku Naturalnego Dunas de Corralejo sprawia, że jest to doskonała baza wypadowa do zwiedzania okolicy i korzystania z uroków wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel H10 Ocean Suites znajduje się w Corralejo, na północy Fuerteventury, w sąsiedztwie Parku Naturalnego Dunas de Corralejo. Odległość od centrum miejscowości wynosi od 50 m do 700 m. Piaszczysta, publiczna plaża z łagodnym zejściem do morza oddalona jest od 300 m do 900 m, a serwis plażowy jest dodatkowo płatny."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 200 pokoi typu Junior Suite o powierzchni około 35 m², z możliwością wyboru widoku na basen lub z balkonem/tarasem. Pokoje są nowoczesne, urządzone w jasnych tonach z morskimi motywami, wyposażone w klimatyzację, telewizor z płaskim ekranem, rozkładaną sofę oraz prywatną łazienkę z prysznicem. Minibar i sejf są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z restauracji bufetowej \"Parrots\" serwującej dania międzynarodowe i lokalne, a także z restauracji à la carte \"Mamma Mia\" z kuchnią włoską. Hotel dysponuje 4-5 barami, w tym Lobby Barem, Pool Barem (La Choza) oraz Blue Barem z muzyką na żywo. Pakiet All Inclusive obejmuje posiłki w formie bufetu, przekąski oraz wybrane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się 2 podgrzewane baseny dla dorosłych (jeden ze strefą ciszy) oraz 2 brodziki dla dzieci, w tym jeden podgrzewany, ze statkiem pirackim i zjeżdżalniami. Hotel oferuje międzynarodowe animacje dla dorosłych i dzieci, zajęcia sportowe, wieczorne przedstawienia i muzykę na żywo. Dostępne są również siłownia zewnętrzna, kort tenisowy i strefa spa."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował plac zabaw, miniklub Daisy Club (dla dzieci w wieku 4-12 lat) oraz minidyskotekę. Dwa brodziki, w tym jeden podgrzewany, ze statkiem pirackim i zjeżdżalniami zapewniają wodną rozrywkę. Hotel oferuje również animacje dostosowane do potrzeb dzieci."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko centrum i plaży",
+  "Nowoczesne i komfortowe wnętrza po remoncie",
+  "Duży i zadbany ogród",
+  "Różnorodne i smaczne jedzenie",
+  "Dobre animacje dla całej rodziny"
+ ],
+ "cons": [
+  "Duże zapotrzebowanie na leżaki przy basenie",
+  "Potencjalny hałas z sąsiednich pokoi (cienkie ściany)",
+  "Brak windy do pokoi (winda tylko w recepcji)",
+  "Serwis plażowy dodatkowo płatny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Piaszczysta plaża znajduje się w odległości od około 300 m do 900 m od hotelu."
+  },
+  {
+   "q": "Czy hotel jest blisko centrum miejscowości?",
+   "a": "Tak, hotel jest położony od około 50 m do 700 m od centrum Corralejo."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada zjeżdżalnie dla dzieci oraz statek piracki w wodzie w brodzikach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje miniklub, plac zabaw, brodziki ze zjeżdżalniami i animacje."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Odległość od lotniska Fuerteventura (FUE) wynosi około 35-40 km, a czas dojazdu to około 55 minut."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  }
+ ],
+ "address": "C/ Las Palmeras, 1, 35660 - Corralejo, Fuerteventura, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Fuerteventura (FUE)",
+ "amenities": [
+  "Strefa spa z dynamicznym obiegiem wodnym",
+  "Solarium",
+  "Zewnętrzna siłownia",
+  "Kort tenisowy",
+  "Boisko wielofunkcyjne",
+  "Tenis stołowy",
+  "Rzutki",
+  "Łucznictwo",
+  "Bilard"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Corralejo",
+ "bars": 5,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.05,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające nocnego życia"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2015,
+ "restaurants": 2,
+ "roomTypes": [
+  "Junior Suite (ok. 35 m², klimatyzacja, TV satelitarna, rozkładana sofa, minibar płatny, sejf płatny, łazienka z prysznicem, suszarka do włosów, bezpłatne kosmetyki, drewniane podłogi)",
+  "Junior Suite z widokiem na basen (ok. 35 m², wyposażenie jak Junior Suite)",
+  "Junior Suite z balkonem lub tarasem (ok. 35 m², wyposażenie jak Junior Suite)"
+ ],
+ "rooms": 200,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.7316672,
+  "lon": -13.8721284,
+  "src": "osm"
+ },
+ "sources": [
+  "h10hotels.com",
+  "tui.co.uk",
+  "trivago.co.uk",
+  "tui.pl",
+  "traveligo.pl",
+  "nekera.pl",
+  "booking.com",
+  "coraltravel.pl"
+ ],
+ "updated": "2026-11-27"
+}

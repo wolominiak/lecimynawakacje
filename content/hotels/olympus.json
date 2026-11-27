@@ -1,0 +1,148 @@
+{
+ "id": "x:hiszpania:olympus",
+ "slug": "olympus",
+ "name": "Olympus",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/olympus-pl/7446/b1542d6086236ac1d6039-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Olympus to czterogwiazdkowy obiekt położony w centralnej, lecz spokojnej części Benidormu na wybrzeżu Costa Blanca. Jest to idealne miejsce dla osób ceniących sobie bliskość atrakcji miasta oraz dostęp do piaszczystej plaży Poniente.",
+  "Obiekt, odnowiony w 2011 roku, oferuje komfortowe zakwaterowanie dla par, rodzin z dziećmi oraz grup przyjaciół. Goście mogą korzystać z bogatej oferty gastronomicznej, w tym kuchni bezglutenowej, a także z dwóch basenów, w tym jednego podgrzewanego na dachu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Olympus znajduje się w Benidormie, w centralnej, ale cichej okolicy, blisko starego miasta. Do piaszczystej plaży Poniente można dojść w około 10-15 minut (około 1-1,4 km). Centrum Benidormu i Stare Miasto są oddalone o 5-20 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 148 pokoi jedno-, dwu- i trzyosobowych, w tym pokoje Basic Double, Superior Queen, Junior Suite oraz pokoje rodzinne. Wszystkie pokoje wyposażone są w łazienkę z suszarką do włosów, TV, telefon, klimatyzację/ogrzewanie, Wi-Fi oraz sejf (dodatkowo płatny). Niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni śródziemnomorskiej z pokazami gotowania na żywo oraz cotygodniowymi kolacjami galowymi. Hotel specjalizuje się w kuchni bezglutenowej. Na terenie obiektu znajdują się również bar/lounge, snack bar oraz kawiarnia. Pakiet All Inclusive obejmuje posiłki w formie bufetu, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: sezonowy basen zewnętrzny oraz podgrzewany zimą basen na dachu z widokiem na miasto. Hotel oferuje również centrum fitness/siłownię, solarium i masaże. W pobliżu dostępne są bilard i golf."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych przygotowano wydzieloną strefę przy basenie, plac zabaw oraz mini klub dla dzieci w wieku od 4 lat. Program animacyjny obejmuje gry grupowe, warsztaty i zajęcia kreatywne sześć dni w tygodniu. Codziennie po kolacji odbywa się dziecięca dyskoteka."
+  },
+  {
+   "title": "Rozrywka i udogodnienia",
+   "text": "Hotel zapewnia codzienny program animacyjny dla dorosłych i dzieci (w lecie) oraz wieczorne rozrywki, takie jak kabarety, musicale i pokazy. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Centralna, ale spokojna lokalizacja",
+  "Bliskość plaży Poniente i centrum miasta",
+  "Dobra oferta gastronomiczna, w tym kuchnia bezglutenowa",
+  "Basen na dachu z widokiem",
+  "Przyjazny personel i czystość"
+ ],
+ "cons": [
+  "Hałas od hiszpańskich gości i muzyka do późnych godzin nocnych",
+  "Ograniczona znajomość języka angielskiego przez personel recepcji (w starszych opiniach)",
+  "Słabe lub powtarzalne jedzenie (w starszych opiniach), szczególnie dla wegetarian",
+  "Ograniczona pojemność wind w godzinach szczytu",
+  "Pokoje mogą być",
+  "trochę przestarzałe",
+  ""
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Poniente znajduje się około 10-15 minut spacerem od hotelu (około 1-1,4 km)."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Alicante (ALC), oddalone o około 60-65 km (38-45 minut jazdy)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach dla dorosłych. W basenie znajduje się płytka strefa dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje wydzieloną strefę dla dzieci przy basenie, plac zabaw oraz mini klub z animacjami."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu lub w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przeznaczony dla par, rodzin i grup przyjaciół."
+  }
+ ],
+ "address": "P.º de las Acacias, 11, 03502 Benidorm, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Lotnisko Alicante (ALC)",
+ "amenities": [
+  "Solarium",
+  "Masaże",
+  "Bilard",
+  "Golf (w pobliżu lub na terenie hotelu)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centralna, w pobliżu dzielnicy mieszkalnej i hiszpańskiego starego miasta",
+ "bars": 3,
+ "beachDistanceM": 1000,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi",
+  "Grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1998,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje jednoosobowe",
+  "Pokoje dwuosobowe",
+  "Pokoje trzyosobowe",
+  "Basic Double Room",
+  "Superior Queen Room",
+  "Junior Suite",
+  "Standard Double Room",
+  "Superior Room (z balkonem)",
+  "Junior Studio Suite (z tarasem, widokiem na miasto)",
+  "Superior Double Room Single Use (z balkonem)",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 148,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.5437807,
+  "lon": -0.1346202,
+  "src": "osm"
+ },
+ "sources": [
+  "benidorm-hotels.net",
+  "thomascook.com",
+  "visitbenidorm.es",
+  "booking.com",
+  "mercuryholidays.co.uk",
+  "trivago.ie",
+  "hotelolympus.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

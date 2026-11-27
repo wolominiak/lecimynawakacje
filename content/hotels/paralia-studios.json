@@ -1,0 +1,131 @@
+{
+ "id": 43829,
+ "slug": "paralia-studios",
+ "name": "Paralia Studios",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Korfu",
+  "Kavos"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/paralia-studios-plaza-1772967656-570-428.jpg",
+ "city": "Kavos",
+ "intro": [
+  "Paralia Studios to dwugwiazdkowy obiekt położony w sercu Kavos na Korfu, znanej z tętniącego życia okolicy. Hotel oferuje kameralną atmosferę zaledwie 15 indywidualnie urządzonych pokoi typu studio, co czyni go idealnym wyborem dla osób szukających spokojnego wypoczynku bez dzieci.",
+  "Obiekt jest przeznaczony wyłącznie dla dorosłych (adults-only) i rekomendowany jest dla par lub osób ceniących bliskość plaży oraz dostęp do lokalnych atrakcji i rozrywki, którą oferuje centrum Kavos."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Paralia Studios usytuowany jest bezpośrednio przy plaży Kavos Beach, około 600 metrów od obiektu, co zapewnia łatwy dostęp do morza. W pobliżu znajduje się centrum Kavos, oddalone o około 10 minut spacerem. Odległość od lotniska Korfu wynosi około 44 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 15 indywidualnie urządzonych pokoi typu Standard Twin Room. Każdy pokój wyposażony jest w klimatyzację (dodatkowo płatną), balkon lub taras, czajnik elektryczny, łazienkę z prysznicem i suszarką do włosów, lodówkę oraz żelazko i deskę do prasowania (na życzenie)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden sezonowy odkryty basen. W pobliżu obiektu dostępny jest aquapark, a także możliwość uprawiania sportów wodnych, takich jak nurkowanie, jazda konna oraz wypożyczalnia rowerów i samochodów. Hotel nie posiada siłowni ani spa."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mają do dyspozycji bar/lounge oraz bar przy plaży, a także restaurację na terenie obiektu. Istnieje możliwość zamówienia śniadań przygotowywanych na zamówienie (za dodatkową opłatą). Dodatkowo, goście mogą korzystać z restauracji i snack baru w pobliskim Island Beach Resort."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Paralia Studios to hotel przeznaczony wyłącznie dla dorosłych, nie akceptujący dzieci poniżej 16 roku życia. Jest to idealna propozycja dla par oraz osób, które szukają relaksu w spokojnej atmosferze, jednocześnie ceniąc sobie bliskość tętniącego życiem centrum Kavos z jego licznymi atrakcjami."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do plaży Kavos Beach",
+  "Bliskość centrum Kavos i lokalnych atrakcji",
+  "Hotel tylko dla dorosłych",
+  "Dostęp do basenu i baru",
+  "Wi-Fi dostępne w całym obiekcie"
+ ],
+ "cons": [
+  "Klimatyzacja dodatkowo płatna",
+  "Brak parkingu na miejscu",
+  "Brak recepcji na miejscu (zameldowanie w innym obiekcie)",
+  "Brak informacji o rodzaju plaży",
+  "Brak spa i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Paralia Studios ma bezpośredni dostęp do plaży Kavos Beach, która znajduje się około 600 metrów od obiektu, czyli około 2 minuty spacerem."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, Paralia Studios to hotel przeznaczony wyłącznie dla dorosłych (adults-only) i nie akceptuje dzieci w wieku 15 lat i młodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark?",
+   "a": "Na terenie obiektu lub w jego pobliżu znajduje się aquapark, który może być poza obiektem i za dodatkową opłatą."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Korfu (CFU), oddalony o około 44 km, co oznacza około 42-70 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "Tak, pokoje posiadają klimatyzację, jednak jest ona dodatkowo płatna (około 7 euro za jednostkę dziennie)."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "address": "Kavos, Lefkimmi, 49080, Kavos, Grecja",
+ "adultsOnly": true,
+ "airportKm": 44,
+ "airportName": "Międzynarodowy Port Lotniczy Korfu (Ioannis Kapodistrias Airport - CFU)",
+ "amenities": [
+  "bar",
+  "restauracja",
+  "basen odkryty",
+  "Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "Kavos",
+ "bars": 2,
+ "beachDistanceM": 600,
+ "beachType": "",
+ "centerKm": 0.8,
+ "goodFor": [
+  "pary",
+  "osoby szukające rozrywki"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Twin Room: pokój dwuosobowy z dwoma łóżkami pojedynczymi, klimatyzacją (dodatkowo płatną), balkonem lub tarasem, czajnikiem elektrycznym, łazienką z prysznicem i suszarką do włosów, lodówką oraz żelazkiem/deską do prasowania (na życzenie)."
+ ],
+ "rooms": 15,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.2767894,
+  "lon": 22.5956935,
+  "src": "osm"
+ },
+ "sources": [
+  "corfugreecehotels.com",
+  "gohotels.com",
+  "toppochivka.bg",
+  "sembo.ie",
+  "travelhorizont.bg",
+  "hotels.com",
+  "broadwaytravel.com",
+  "islandkavos.com"
+ ],
+ "updated": "2026-11-27"
+}

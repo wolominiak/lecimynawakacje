@@ -1,0 +1,134 @@
+{
+ "id": 45094,
+ "slug": "achilleas",
+ "name": "Achilleas",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001639848-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Hotel Achilleas to trzygwiazdkowy obiekt położony w samym sercu Aten, w tętniącej życiem dzielnicy Syntagma/Plaka. Jego centralna lokalizacja sprawia, że jest doskonałą bazą wypadową do zwiedzania najważniejszych atrakcji miasta pieszo. Jest to idealne miejsce dla osób poszukujących komfortowego zakwaterowania blisko historycznych zabytków i miejskiego życia.",
+  "Obiekt jest polecany dla szerokiego grona podróżnych - od rodzin i par, przez przyjaciół, po osoby podróżujące służbowo czy samotnie. Po ostatnim remoncie w 2019 roku hotel oferuje nowoczesne i czyste pokoje, zapewniając wygodę po dniu pełnym zwiedzania.",
+  "sections",
+  "sections"
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Achilleas znajduje się w centrum Aten, zaledwie 2-5 minut spacerem od Placu Syntagma. Akropol jest oddalony o około 950 metrów do 2 km, co zajmuje około 20 minut pieszo. Bliskość Plaki, Monastiraki, sklepów i restauracji sprawia, że jest to idealne miejsce do eksplorowania miasta. Adres hotelu to Lekka 21, 105 54 Ateny."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 31 do 35 pokoi, w tym Standard Room, Superior Room (niektóre z balkonem), Junior Suite (z balkonem) i Quadruple Room. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, mini-lodówkę, sejf oraz bezpłatne Wi-Fi. Łazienki posiadają prysznic, bezpłatne kosmetyki i suszarkę do włosów. Niektóre pokoje posiadają balkony."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "W hotelu serwowane jest amerykańskie śniadanie w formie bufetu, które jest wliczone w cenę pokoju. Na terenie obiektu znajduje się również bar, gdzie goście mogą zrelaksować się przy napoju. Hotel nie oferuje opcji wyżywienia all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Achilleas nie posiada basenu ani siłowni na miejscu, jednak oferuje bezpłatne Wi-Fi we wszystkich pokojach i pomieszczeniach ogólnodostępnych. Goście mogą skorzystać z wypożyczalni rowerów. Hotel współpracuje również z pobliskim centrum odnowy biologicznej Holmes Place, oferując 10% zniżki na usługi spa, a także możliwość zamówienia masażu do pokoju."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko głównych atrakcji",
+  "Czyste i nowoczesne pokoje po remoncie",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadanie w formie bufetu",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Brak basenu i siłowni na miejscu",
+  "Małe windy, mogą być problematyczne dla osób na wózkach",
+  "Brak zestawów do parzenia kawy/herbaty w pokojach",
+  "Parking jest dodatkowo płatny i ograniczony w centrum Aten"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od Akropolu?",
+   "a": "Akropol znajduje się w odległości około 950 m do 2 km od hotelu, co stanowi około 20 minut spacerem."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Nie, hotel Achilleas nie posiada basenu na terenie obiektu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Serwowane jest amerykańskie śniadanie w formie bufetu, wliczone w cenę pokoju."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy w Atenach (ATH), oddalony o około 19.56 km do 40 km, w zależności od trasy."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest opisywany jako przyjazny rodzinom i jest polecany dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "address": "Lekka 21, 105 54 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 19.56,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (ATH)",
+ "amenities": [
+  "Bar",
+  "Wypożyczalnia rowerów",
+  "Zniżka na spa w pobliskim centrum",
+  "Masaże w pokoju"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Syntagma/Plaka",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Rodziny",
+  "Przyjaciele",
+  "Pary",
+  "Osoby podróżujące służbowo",
+  "Podróżujący samotnie"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1960,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2019,
+ "restaurants": null,
+ "roomTypes": [
+  "Standard Room",
+  "Superior Room (niektóre z balkonem)",
+  "Junior Suite (z balkonem)",
+  "Quadruple Room"
+ ],
+ "rooms": 31,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9769689,
+  "lon": 23.7318105,
+  "src": "osm"
+ },
+ "sources": [
+  "reserve-online.net",
+  "hrs.com",
+  "kimkim.com",
+  "oyster.com",
+  "britishairways.com",
+  "grecia365.it",
+  "achilleashotel.gr",
+  "mapcarta.com"
+ ],
+ "updated": "2026-11-27"
+}

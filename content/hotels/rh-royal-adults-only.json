@@ -1,0 +1,132 @@
+{
+ "id": "x:hiszpania:rh royal adults only",
+ "slug": "rh-royal-adults-only",
+ "name": "Rh Royal - Adults Only",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/rh-royal-adults-only/c866dcd9aabcfca6fc0000e2668c32bd_1.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel RH Royal - Adults Only to czterogwiazdkowy obiekt położony w samym sercu Benidorm na Costa Blanca, zaledwie kilkaset metrów od piaszczystej plaży Levante. Jest to idealne miejsce dla osób szukających spokojnego, ale jednocześnie towarzyskiego wypoczynku, z łatwym dostępem do atrakcji miasta.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych (powyżej 16 roku życia), co gwarantuje relaksującą atmosferę bez zgiełku. To doskonały wybór dla par i grup przyjaciół, którzy cenią sobie centralną lokalizację, wysoką jakość usług i smaczną kuchnię."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel RH Royal - Adults Only znajduje się w centrum Benidorm, przy ulicy Emilio Ortuño 11. Zaledwie 400-500 metrów dzieli go od popularnej piaszczystej plaży Levante, a do plaży Mal Pas jest około 900 metrów. Bliskość Starego Miasta z licznymi barami tapas sprawia, że jest to świetna baza wypadowa do odkrywania lokalnych atrakcji. Najbliższe lotnisko, Alicante-Elche Miguel Hernández (ALC), oddalone jest o około 60-64 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 94 lub 95 pokoi, w tym pokoje jednoosobowe, dwuosobowe, małe pokoje dwuosobowe oraz Junior Suite, Standard Queen Room i Superior Queen Room. Wszystkie pokoje są wyposażone w klimatyzację, telewizor HD, minibar, bezpłatne Wi-Fi oraz prywatną łazienkę z suszarką do włosów i zestawem kosmetyków. Niektóre pokoje posiadają taras lub balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, która serwuje dania kuchni międzynarodowej i śródziemnomorskiej, z pokazami gotowania na żywo. Dostępne są również specjalne menu dla osób z celiakią i diabetyków. Goście mogą korzystać z lounge baru oraz baru przy basenie. Hotel oferuje opcję all inclusive, obejmującą krajowe napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest jeden odkryty basen ze słodką wodą. Do dyspozycji gości jest również solarium, sauna oraz zewnętrzne jacuzzi (czynne od maja). Za dodatkową opłatą można skorzystać z masaży i zabiegów kosmetycznych. Hotel posiada siłownię, a także oferuje bilard, rzutki i wypożyczalnię rowerów. W pobliżu, około 3 km od hotelu, znajduje się pole golfowe. Wieczorami organizowane są animacje, przedstawienia i muzyka na żywo."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko plaży i Starego Miasta",
+  "Wysoka czystość i jakość posiłków",
+  "Przyjazny i pomocny personel",
+  "Przestronne pokoje",
+  "Hotel tylko dla dorosłych"
+ ],
+ "cons": [
+  "Ograniczona dostępność leżaków przy basenie",
+  "Wolne windy w godzinach szczytu",
+  "Plaża publiczna, leżaki płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 400-500 metrów od piaszczystej plaży Levante i około 900 metrów od plaży Mal Pas."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (goście w wieku 16 lat i starsi)."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 60-64 km od lotniska Alicante-Elche Miguel Hernández (ALC)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy na terenie hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu nie ma zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy hotel posiada siłownię?",
+   "a": "Tak, hotel posiada centrum fitness/siłownię."
+  }
+ ],
+ "address": "Calle Emilio Ortuño 11, 03501 Benidorm",
+ "adultsOnly": true,
+ "airportKm": 60,
+ "airportName": "Alicante-Elche Miguel Hernández (ALC)",
+ "amenities": [
+  "Solarium",
+  "Sauna",
+  "Jacuzzi zewnętrzne (od maja)",
+  "Masaże (płatne)",
+  "Zabiegi kosmetyczne (płatne)",
+  "Bilard",
+  "Rzutki",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centrum miasta",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "Piaszczysta, publiczna",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Grupy przyjaciół",
+  "Osoby podróżujące samotnie"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1969,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2007,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy",
+  "Mały pokój dwuosobowy",
+  "Junior Suite",
+  "Standard Queen Room",
+  "Superior Queen Room",
+  "Pokoje z tarasem/balkonem"
+ ],
+ "rooms": 94,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "travelisto.com",
+  "onbenidorm.com",
+  "tui.co.uk",
+  "visitbenidorm.es",
+  "wakacje.pl",
+  "comunitatvalenciana.com",
+  "trivago.co.uk",
+  "booking.com"
+ ],
+ "updated": "2026-11-27"
+}

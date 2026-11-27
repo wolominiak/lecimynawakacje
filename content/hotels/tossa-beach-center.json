@@ -1,0 +1,130 @@
+{
+ "id": "x:hiszpania:tossa beach center",
+ "slug": "tossa-beach-center",
+ "name": "Tossa Beach Center",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Tossa de Mar"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/tossa-de-mar/tossa-beach-center/b1a42abacf8a45c4491a9.JPG",
+ "city": "Tossa de Mar",
+ "intro": [
+  "Tossa Beach Center to czterogwiazdkowy hotel położony w samym sercu malowniczej miejscowości Tossa de Mar na wybrzeżu Costa Brava. Obiekt, zarządzany wspólnie z Tossa Center Hotel, składa się z dwóch budynków i oferuje komfortowy pobyt w bliskiej odległości od głównej plaży miejskiej Platja Gran.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi oraz par szukających relaksującego urlopu w urokliwym otoczeniu. Dzięki centralnej lokalizacji, goście mają łatwy dostęp do lokalnych atrakcji, barów, restauracji i sklepów, co czyni go atrakcyjnym miejscem dla osób ceniących sobie wygodę i dostępność.",
+  "",
+  ""
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Tossa Beach Center znajduje się w centrum Tossa de Mar, zaledwie około 150 metrów od głównej plaży miejskiej Platja Gran. Plaża charakteryzuje się grubym piaskiem, który nie klei się nadmiernie. W pobliżu hotelu, w odległości około 200 metrów, znajduje się również centrum miejscowości z licznymi sklepami i restauracjami."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje łącznie 198 pokoi, w tym pokoje dwuosobowe/twin z balkonem, pokoje rodzinne, pokoje trzyosobowe oraz budżetowe pokoje dwuosobowe bez balkonu. Wszystkie pokoje wyposażone są w sezonową klimatyzację, telewizor z płaskim ekranem, prywatną łazienkę z suszarką do włosów i telefon. Sejf i minibar są dostępne za dodatkową opłatą, a niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej na śniadania, obiady i kolacje, z usługą show cooking. Do dyspozycji gości są również bar-kawiarnia, snack bar i bar przy basenie. Pakiet All Inclusive obejmuje posiłki w restauracji bufetowej, przekąski oraz lokalne napoje alkoholowe i bezalkoholowe w wyznaczonych godzinach. Dla dzieci dostępne są lody."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dwoma małymi odkrytymi basenami oraz brodzikiem dla dzieci. Na terenie obiektu nie ma zjeżdżalni ani aquaparku. Goście mogą korzystać z centrum spa i wellness, jacuzzi (płatnego, otwartego sezonowo), sauny oraz siłowni. Dostępne są również rzutki, tenis stołowy i bilard. W sezonie wysokim organizowane są dzienne animacje dla dorosłych oraz wieczorne rozrywki, a także mini klub i mini-disco dla dzieci."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum miasta",
+  "Wysoka czystość w całym obiekcie",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie w formie bufetu z różnorodnością dań",
+  "Dobre udogodnienia i stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Płatne Wi-Fi w pokojach",
+  "Jedzenie w pakiecie all-inclusive bywa powtarzalne",
+  "Jakość napojów w all-inclusive może nie być najwyższa",
+  "Restauracja w piwnicy może być duszna",
+  "Jacuzzi jest płatne i nieogrzewane"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 150 metrów od głównej plaży miejskiej Platja Gran."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 24.1 km do 25 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, na terenie hotelu nie ma zjeżdżalni wodnych ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik, mini klub w sezonie wysokim oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych. W pokojach Wi-Fi jest płatne."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Avinguda La Palma 9/20, 17320 Tossa de Mar, Girona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 24.1,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Jacuzzi",
+  "Sauna",
+  "Tenis stołowy",
+  "Bilard"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Costa Brava",
+ "bars": 3,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1982,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy/twin z balkonem",
+  "pokój rodzinny (dla 2 dorosłych + 2 dzieci)",
+  "pokój trzyosobowy z balkonem",
+  "budżetowy pokój dwuosobowy bez balkonu"
+ ],
+ "rooms": 198,
+ "spa": true,
+ "wifi": false,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "oxfordtravels.com",
+  "thomascook.com",
+  "tossabeach.com",
+  "google.es",
+  "oyster.com",
+  "mapcarta.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

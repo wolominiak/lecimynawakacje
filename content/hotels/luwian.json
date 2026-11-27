@@ -1,0 +1,140 @@
+{
+ "id": 265772,
+ "slug": "luwian",
+ "name": "Luwian",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001643232-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "Luwian Athens Boutique Hotel to czterogwiazdkowy obiekt położony w samym sercu Aten, zaledwie 2 minuty spacerem od Placu Omonia. Jest to idealne miejsce dla osób pragnących zwiedzać miasto, zarówno dla rodzin, par, jak i podróżujących służbowo. Hotel wyróżnia się nowoczesnym designem i komfortowymi warunkami.",
+  "Obiekt oferuje 40 nowocześnie urządzonych pokoi, zapewniając komfortowy pobyt w miejskim otoczeniu. Goście doceniają centralną lokalizację, która umożliwia łatwy dostęp do głównych atrakcji Aten oraz komunikacji miejskiej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Luwian Athens Boutique Hotel znajduje się w centrum Aten, zaledwie 0.2 km od ścisłego centrum i 2 minuty spacerem od Placu Omonia. Jest to doskonała baza wypadowa do zwiedzania miasta. Odległość od międzynarodowego lotniska Eleftherios Venizelos (ATH) wynosi około 20.1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 40 pokoi w różnych kategoriach, w tym Economy, Standard, Superior, Family Connecting Rooms oraz Suite. Wszystkie pokoje są klimatyzowane i wyposażone w bezpłatne Wi-Fi, anatomiczne materace, interaktywny telewizor satelitarny, mini lodówkę, ekspres do kawy oraz sejf. Niektóre pokoje posiadają sterowanie oświetleniem za pomocą głosu (Alexa Voice control)."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "Na terenie hotelu znajdują się dwie restauracje, w tym Bronze Restaurant serwująca dania kuchni greckiej i azjatyckiej. Goście mogą również skorzystać z baru/lounge oraz Bronze Rooftop Bar z widokiem na Akropol. Hotel nie oferuje opcji all inclusive, dostępne jest śniadanie, czasem za dodatkową opłatą."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi we wszystkich pokojach i częściach wspólnych. Dostępne są pokoje rodzinne oraz możliwość dostawienia łóżeczka dla dziecka. Hotel może również organizować wycieczki po winnicach."
+  }
+ ],
+ "pros": [
+  "Nowoczesny design i czystość",
+  "Komfortowe pokoje z dobrym wyposażeniem",
+  "Doskonałe i urozmaicone śniadania",
+  "Przyjazny i pomocny personel",
+  "Dobra centralna lokalizacja z łatwym dostępem do metra"
+ ],
+ "cons": [
+  "Okolica Omonia może być postrzegana jako zaniedbana lub niebezpieczna",
+  "Otwarte prysznice w pokojach mogą być problematyczne",
+  "Potencjalny hałas uliczny ze względu na centralne położenie",
+  "Brak basenów i udogodnień rekreacyjnych typowych dla hoteli wypoczynkowych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony w centrum Aten, nie przy plaży. Informacje o plaży nie mają zastosowania."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 20.1 km od międzynarodowego lotniska Eleftherios Venizelos (ATH)."
+  },
+  {
+   "q": "Czy hotel posiada baseny lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów, zjeżdżalni ani aquaparku. Jest to hotel miejski."
+  },
+  {
+   "q": "Czy hotel Luwian Athens Boutique Hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje pokoje rodzinne i możliwość dostawienia łóżeczka dla dziecka."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i częściach wspólnych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne jest śniadanie, czasami za dodatkową opłatą."
+  }
+ ],
+ "address": "P. Tsaldari 10, 10431, Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 20.1,
+ "airportName": "Eleftherios Venizelos (ATH)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Pokoje rodzinne",
+  "Łóżeczka dla dzieci",
+  "Ładowarka do telefonu/tabletu",
+  "Ekspres do kawy w pokoju",
+  "Zestaw do parzenia kawy/herbaty",
+  "Sejf w pokoju",
+  "Klimatyzacja/ogrzewanie",
+  "Interaktywny telewizor satelitarny",
+  "Suszarka do włosów",
+  "Kapcie"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum Aten, w pobliżu Placu Omonia",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Podróżujący służbowo"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Economy Room",
+  "Standard Room",
+  "Standard Triple Room",
+  "Accessible Room",
+  "Superior Room",
+  "Family Connecting Rooms (dwa połączone pokoje)",
+  "Suite"
+ ],
+ "rooms": 40,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.983441,
+  "lon": 23.726206,
+  "src": "osm"
+ },
+ "sources": [
+  "hoteles.com",
+  "booking.com",
+  "trivago.com",
+  "luwian.gr",
+  "reserve-online.net",
+  "trip.com",
+  "atticahotels.net",
+  "hotelsathens.org"
+ ],
+ "updated": "2026-11-27"
+}

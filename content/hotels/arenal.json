@@ -1,0 +1,138 @@
+{
+ "id": "x:hiszpania:arenal",
+ "slug": "arenal",
+ "name": "Arenal",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Ibiza",
+  "San Antonio"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/ibiza/san-antonio/arenal-pl/6692/69dc618b26948e4e1bc7cb29850bbb65__mg_0982-244.JPG",
+ "city": "San Antonio",
+ "intro": [
+  "Hotel Arenal to trzygwiazdkowy obiekt położony w Zatoce San Antonio na Ibizie, bezpośrednio przy piaszczystej plaży S'Arenal. Hotel jest dobrym wyborem dla rodzin i par szukających relaksującego wypoczynku w bliskiej odległości od morza i centrum miejscowości.",
+  "Obiekt oferuje komfortowe zakwaterowanie w 130 pokojach, dysponuje dwoma basenami oraz programem animacyjnym. Goście doceniają jego dogodną lokalizację oraz przyjazną obsługę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Arenal znajduje się w miejscowości San Antonio (Sant Antoni de Portmany) na Ibizie, bezpośrednio przy piaszczystej plaży S'Arenal de San Antonio. Od plaży oddziela go jedynie promenada, a dojście do niej zajmuje około 30-34 metry. Plaża jest publiczna, a hotel oferuje na niej leżaki i parasole (dodatkowo płatne). Centrum San Antonio oddalone jest o około 1 km, a lotnisko Ibiza (IBZ) o 18-22 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 130-131 pokojami, w tym pokojami jednoosobowymi i dwuosobowymi, niektóre z widokiem na morze. Każdy pokój wyposażony jest w klimatyzację, wentylator sufitowy, prywatną łazienkę z wanną/prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami. Na wyposażeniu znajduje się również telewizor z płaskim ekranem, telefon, sejf (płatny), lodówka oraz ogrzewanie. W niektórych pokojach dostępny jest balkon."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny: jeden odkryty (sezonowy) oraz jeden kryty, podgrzewany w maju i październiku. Goście mogą korzystać z centrum fitness/siłowni (dla osób powyżej 18 lat, czynnej od maja do października) oraz sauny. Dostępne są również korty tenisowe, tenis stołowy, bilard (płatny), squash, minigolf. Na plaży dostępne są sporty wodne (dodatkowo płatne)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, serwująca śniadania i kolacje, oraz restauracja à la carte z daniami kuchni hiszpańskiej, śródziemnomorskiej i brytyjskiej. Do dyspozycji gości są również bar przy basenie oraz bar/kawiarnia. Hotel oferuje opcje wyżywienia takie jak Bed & Breakfast oraz Half Board (śniadania i kolacje w formie bufetu)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik, plac zabaw oraz program zajęć dla dzieci. Hotel jest odpowiedni dla rodzin."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bliskość centrum San Antonio",
+  "Przyjazny i profesjonalny personel",
+  "Dobre jedzenie, zwłaszcza bufet śniadaniowy",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Niektóre meble i udogodnienia są przestarzałe",
+  "Basen może być głośny ze względu na bliskość drogi",
+  "Jedzenie w restauracji może być powtarzalne",
+  "Leżaki i parasole na plaży mogą być dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Arenal znajduje się bezpośrednio przy piaszczystej plaży S'Arenal, oddzielony jedynie promenadą. Odległość do plaży wynosi około 30-34 metry."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Lotnisko Ibiza (IBZ) jest oddalone od hotelu o około 18-22 km. Dojazd autobusem zajmuje około 40 minut, a samochodem/taksówką około 21 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin. Oferuje brodzik dla dzieci, plac zabaw oraz program zajęć dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest odpowiedni dla rodzin i par."
+  }
+ ],
+ "address": "Avenida Doctor Fleming, 16, San Antonio (Ibiza), Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Ibiza (IBZ)",
+ "amenities": [
+  "Sauna",
+  "Siłownia",
+  "Tenis",
+  "Tenis stołowy",
+  "Bilard",
+  "Squash",
+  "Minigolf",
+  "Nurkowanie (płatne)",
+  "Sporty wodne na plaży (płatne)",
+  "Plac zabaw",
+  "Program zajęć dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Zatoka San Antonio",
+ "bars": 2,
+ "beachDistanceM": 30,
+ "beachType": "Piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1967,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2000,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy/typu twin (niektóre z widokiem na morze, klimatyzacja, wentylator sufitowy, prywatna łazienka z wanną/prysznicem, bidetem, suszarką do włosów i bezpłatnymi kosmetykami, telewizor z płaskim ekranem i kanałami satelitarnymi, telefon, sejf (płatny), lodówka, ogrzewanie, balkon)"
+ ],
+ "rooms": 130,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.9754627,
+  "lon": 1.3082239,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "onthebeach.co.uk",
+  "firstchoice.co.uk",
+  "ibizaislandhotels.net",
+  "thesanantoniohotels.com",
+  "booking.com",
+  "laterooms.com",
+  "lastminute.ie"
+ ],
+ "updated": "2026-11-27"
+}

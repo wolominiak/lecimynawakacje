@@ -1,0 +1,123 @@
+{
+ "id": "x:hiszpania:baobab suites",
+ "slug": "baobab-suites",
+ "name": "Baobab Suites",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Costa Adeje"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/costa-adeje/baobab-suites/aobab_suites_adeje_25-png.jpg",
+ "city": "Costa Adeje",
+ "intro": [
+  "Domes Baobab Suites, dawniej znany jako Baobab Suites, to pięciogwiazdkowy hotel położony w spokojnej, rezydencyjnej dzielnicy Costa Adeje na Teneryfie. Charakteryzuje się nowoczesną, minimalistyczną architekturą i oferuje przestronne apartamenty, idealne dla rodzin, par oraz osób ceniących luksus, prywatność i niezależność połączoną z udogodnieniami hotelowymi.",
+  "Obiekt jest doskonałym wyborem dla tych, którzy szukają relaksu w eleganckim otoczeniu, a także dla aktywnych podróżników, dzięki rozbudowanemu zapleczu sportowemu i wellness. Hotel jest przyjazny rodzinom, oferując udogodnienia dla dzieci, choć jego położenie na wzgórzu może wymagać krótkiego spaceru do plaży i centrum."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Costa Adeje, około 700 m do 1 km od piaszczystej, publicznej plaży Playa del Duque. Dojście do plaży zajmuje około 10 minut spacerem, ale hotel zapewnia bezpłatny, codzienny transfer. Na terenie obiektu dostępna jest również mała, sztuczna plaża z białym piaskiem i luksusowymi leżakami. Najbliższe lotnisko, Tenerife South (TFS), oddalone jest o około 20 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Domes Baobab Suites oferuje 125-127 przestronnych apartamentów typu suite z jedną do czterech sypialni oraz studia. Wiele z nich posiada prywatne podgrzewane baseny, jacuzzi lub prywatne tarasy, pełniące funkcję \"plaż\". Wszystkie apartamenty są klimatyzowane i wyposażone w telewizor, w pełni wyposażoną kuchnię, łazienkę, suszarkę do włosów, sejf oraz umeblowany taras/balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel dysponuje kilkoma restauracjami i barami, w tym restauracją bufetową Bite, restauracją à la carte BB Lounge Club z widokiem na basen i morze, autorską Sucás oraz Fuel RestoBar w Activate Sports Club. Dostępne opcje wyżywienia to"
+  }
+ ],
+ "pros": [
+  "Przestronne, nowoczesne apartamenty z pełnym wyposażeniem",
+  "Wiele apartamentów z prywatnymi basenami lub jacuzzi",
+  "Wysoki standard usług i udogodnień 5-gwiazdkowych",
+  "Doskonałe zaplecze sportowe i wellness",
+  "Klub dla dzieci Saplings",
+  "Cicha, spokojna lokalizacja z widokami"
+ ],
+ "cons": [
+  "Położenie na wzgórzu, wymagające spaceru lub transportu do plaży/centrum",
+  "Ograniczona liczba leżaków przy wspólnych basenach w szczycie sezonu",
+  "Niektóre apartamenty mogą wykazywać oznaki zużycia",
+  "Brak rozbudowanych animacji dla nastolatków",
+  "Brak opcji all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 700 m do 1 km od piaszczystej plaży Playa del Duque. Dojście zajmuje około 10 minut spacerem, ale hotel oferuje bezpłatny transfer."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w opcjach"
+  }
+ ],
+ "address": "Calle Roques del Salmor, 5, 38679 Costa Adeje, Santa Cruz de Tenerife, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 20,
+ "airportName": "Tenerife South Airport (Reina Sofía, TFS)",
+ "amenities": [
+  "Klub dla dzieci",
+  "Plac zabaw",
+  "Siłownia",
+  "Spa",
+  "Zajęcia sportowe",
+  "Squash",
+  "Joga",
+  "Pilates",
+  "Spinning",
+  "Aerobik",
+  "Paddle tenis",
+  "Siatkówka plażowa",
+  "Boules",
+  "Bezpłatny parking",
+  "Transfer na plażę"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Costa Adeje, spokojna, rezydencyjna dzielnica",
+ "bars": null,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby aktywne",
+  "Miłośnicy luksusu",
+  "Ceniący prywatność i nowoczesny design"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2013,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 5,
+ "roomTypes": [
+  "Apartamenty (suites) z jedną do czterech sypialni: klimatyzacja, telewizor z płaskim ekranem, w pełni wyposażona kuchnia (piekarnik, mikrofalówka, zmywarka, pralka, lodówka, płyta indukcyjna, ekspres do kawy/herbaty), łazienka z prysznicem i/lub wanną, suszarka do włosów, szlafroki, ręczniki kąpielowe, zestaw kosmetyków, sejf, żelazko i deska do prasowania, umeblowany taras/balkon.",
+  "Studia: wyposażenie podobne do apartamentów."
+ ],
+ "rooms": 125,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.0956919,
+  "lon": -16.7399239,
+  "src": "web"
+ },
+ "sources": [
+  "toptenerifehotels.com",
+  "booking.com",
+  "sunway.ie",
+  "trivago.co.uk",
+  "britishairways.com",
+  "domesresorts.com",
+  "mapy.com",
+  "firstchoice.co.uk"
+ ],
+ "updated": "2026-11-27"
+}

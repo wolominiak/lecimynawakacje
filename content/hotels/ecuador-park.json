@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:ecuador park",
+ "slug": "ecuador-park",
+ "name": "Ecuador Park",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Benalmadena"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/benalmadena-costa/ecuador-park/ce9b46a8d196ebd0948ca.jpg",
+ "city": "Torremolinos",
+ "intro": [
+  "Apartamenty Ecuador Park to dwugwiazdkowy obiekt położony w Torremolinos, na granicy z Benalmádeną, w spokojnej, mieszkalno-turystycznej dzielnicy Montemar bajo. Kompleks składa się z jednego budynku w kształcie litery L i oferuje 50 apartamentów z możliwością samodzielnego przygotowywania posiłków.",
+  "Obiekt jest idealnym wyborem dla par, rodzin oraz grup dorosłych, którzy szukają spokojnego miejsca z dobrą lokalizacją, blisko plaży i lokalnych atrakcji. Ze względu na ograniczoną ofertę rozrywkową dla dzieci, jest szczególnie polecany osobom nastawionym na zwiedzanie i relaks."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Ecuador Park znajduje się w Torremolinos, w dzielnicy Montemar bajo, około 50-150 metrów od piaszczystych plaż Montemar i La Carihuela. Do centrum Torremolinos jest około 2-3 km, a do przystani Benalmádena Marina można dojść w 10 minut (około 1 km). Najbliższe lotnisko w Maladze (AGP) oddalone jest o około 7.6-10 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 50 apartamentów typu studio, z jedną lub dwiema sypialniami, w tym apartamenty superior. Wszystkie wyposażone są w aneks kuchenny, prywatną łazienkę, salon z rozkładaną sofą oraz balkon lub taras. W pokojach znajduje się telewizor, telefon i sejf (za opłatą). Niektóre apartamenty zostały niedawno odnowione, jednak część może mieć przestarzały wystrój, a niektóre pokoje nie posiadają klimatyzacji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Ecuador Park oferuje zakwaterowanie z wyżywieniem we własnym zakresie (self-catering). Każdy apartament posiada w pełni wyposażony aneks kuchenny, co umożliwia samodzielne przygotowywanie posiłków. Na terenie obiektu działa sezonowy bar przy basenie, serwujący napoje i lekkie przekąski. W pobliżu znajdują się supermarkety."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie kompleksu znajduje się jeden odkryty basen ze słodką lub słoną wodą, a także brodzik dla dzieci. Basen nie jest podgrzewany. Hotel nie posiada aquaparku ani zjeżdżalni, jednak w odległości około 3 km znajduje się park wodny. Brak siłowni i spa, ale istnieje możliwość wypożyczenia rowerów."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "W całym obiekcie oraz w apartamentach dostępne jest bezpłatne Wi-Fi. Hotel nie oferuje animacji ani mini klubu dla dzieci. Ze względu na swój charakter i ofertę, jest bardziej polecany dla par i grup dorosłych, choć rodziny z dziećmi również są mile widziane."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży, sklepów i przystani",
+  "Czyste i przestronne apartamenty z dobrze wyposażonymi aneksami kuchennymi",
+  "Spokojna atmosfera i przyjazny personel",
+  "Dobry stosunek jakości do ceny",
+  "Bezpłatne Wi-Fi w całym obiekcie"
+ ],
+ "cons": [
+  "Basen nie jest podgrzewany",
+  "Niektóre pokoje nie mają klimatyzacji",
+  "Przestarzały wystrój w części apartamentów",
+  "Brak windy w niektórych blokach/piętrach",
+  "Ograniczone opcje rozrywki dla dzieci (brak animacji, mini klubu)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 50-150 metrów od piaszczystych plaż Montemar i La Carihuela."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko w Maladze (AGP) oddalone jest o około 7.6 km do 10 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Nie, na terenie hotelu nie ma aquaparku ani zjeżdżalni. Najbliższy aquapark znajduje się około 3 km od obiektu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest odpowiedni dla rodzin, oferuje brodzik dla dzieci. Jednak ze względu na ograniczoną ofertę rozrywkową dla najmłodszych (brak animacji i mini klubu), jest bardziej polecany dla par i grup dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w apartamentach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy w hotelu jest restauracja?",
+   "a": "Hotel oferuje zakwaterowanie z wyżywieniem we własnym zakresie. Na terenie obiektu działa sezonowy bar przy basenie serwujący napoje i lekkie przekąski. W apartamentach znajdują się aneksy kuchenne, a w pobliżu są supermarkety."
+  }
+ ],
+ "address": "Avenida de España, 14, 29620 Torremolinos (Malaga), Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 7.6,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Balkon/taras",
+  "Bezpłatne Wi-Fi",
+  "Basen zewnętrzny",
+  "Brodzik dla dzieci",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Montemar bajo",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 2.1,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Grupy dorosłych",
+  "Osoby zwiedzające",
+  "Podróżujący z ograniczonym budżetem"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio z aneksem kuchennym, łazienką, salonem i balkonem/tarasem",
+  "Apartament z jedną sypialnią, aneksem kuchennym, łazienką, salonem i balkonem/tarasem",
+  "Apartament superior z aneksem kuchennym, łazienką, salonem i balkonem/tarasem",
+  "Apartament z dwiema sypialniami, aneksem kuchennym, łazienką, salonem i balkonem/tarasem"
+ ],
+ "rooms": 50,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 0.8039618,
+  "lon": -77.7275265,
+  "src": "osm"
+ },
+ "sources": [
+  "ecuadorpark.com",
+  "vakantiediscounter.nl",
+  "traveloka.com",
+  "thomascook.com",
+  "trivago.ie",
+  "malagaholidays.com",
+  "mercuryholidays.co.uk",
+  "jet2holidays.com"
+ ],
+ "updated": "2026-11-27"
+}

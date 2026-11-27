@@ -1,0 +1,129 @@
+{
+ "id": 36634,
+ "slug": "anthoula-kos",
+ "name": "Anthoula Kos",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kos",
+  "Kefalos"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/anthoula-kos-basen-844285542-570-428.jpg",
+ "city": "Kefalos",
+ "intro": [
+  "Anthoula Kos to dwugwiazdkowy hotel położony na wzgórzu w miejscowości Kefalos na greckiej wyspie Kos, oferujący malownicze widoki na Zatokę Kamari. Obiekt jest idealnym wyborem dla par i rodzin poszukujących spokojnego wypoczynku w urokliwej scenerii.",
+  "Hotel, otwarty w 1988 roku i odnowiony w 2005 roku, dysponuje 60 pokojami i zapewnia kameralną, rodzinną atmosferę. Goście docenią dogodną lokalizację, umożliwiającą łatwy dostęp do centrum Kefalos oraz pobliskich plaż, a także bezpłatny bus wahadłowy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Anthoula Kos znajduje się w obszarze Kefalos, na wzgórzu z widokiem na Zatokę Kamari. Do najbliższej piaszczystej plaży Kamari Beach jest od 500 m do 1 km. Hotel oferuje bezpłatny bus wahadłowy na plażę Kamari, kursujący co dwie godziny. Centrum Kefalos oddalone jest o około 300-750 m."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 60 niedawno odnowionymi pokojami, w tym dwuosobowymi, typu twin oraz studiami z aneksem kuchennym. Wszystkie pokoje wyposażone są w klimatyzację (często płatną), telewizor, telefon, prywatną łazienkę z prysznicem, sejf (często płatny), czajnik i lodówkę. Większość pokoi posiada balkon lub taras, a niektóre oferują widok na morze lub góry."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja, sala śniadaniowa oraz kawiarnia. Serwowane jest śniadanie kontynentalne w ramach opcji Bed & Breakfast. Goście mogą również korzystać z baru oraz baru przy basenie, który oferuje lekkie posiłki i przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen z wydzieloną częścią dla dzieci. Przy basenie dostępne są bezpłatne leżaki i parasole. Dla aktywnych gości dostępna jest siłownia/sala fitness oraz możliwość uprawiania windsurfingu i jazdy na rowerze (wypożyczalnia rowerów)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw. Dostępna jest również wydzielona część basenu dla dzieci. Hotel jest polecany dla rodzin."
+  }
+ ],
+ "pros": [
+  "Rodzinna atmosfera i przyjazny personel",
+  "Piękne widoki na Zatokę Kamari",
+  "Czysty basen z bezpłatnymi leżakami",
+  "Dobra lokalizacja, blisko centrum Kefalos",
+  "Bezpłatny bus na plażę Kamari"
+ ],
+ "cons": [
+  "Położenie na wzgórzu może być wyzwaniem dla osób z ograniczoną mobilnością",
+  "Klimatyzacja i sejf często za dodatkową opłatą",
+  "Podstawowe śniadanie kontynentalne",
+  "Ceny w barze przy basenie mogą być wysokie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Anthoula Kos znajduje się około 500 m do 1 km od najbliższej piaszczystej plaży Kamari Beach. Hotel oferuje bezpłatny bus wahadłowy na plażę."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach w hotelu Anthoula Kos."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada plac zabaw dla dzieci oraz wydzieloną część basenu dla najmłodszych."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel Anthoula Kos oferuje opcję Bed & Breakfast (śniadania)."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel jest oddalony o około 16-19 km od Międzynarodowego Portu Lotniczego Kos (KGS)."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne, często bezpłatnie w lobby, a w pokojach za dodatkową opłatą."
+  }
+ ],
+ "address": "KEFALOS KOS 85300 / Kefalos, 85301 Kos Island, Grecja",
+ "adultsOnly": false,
+ "airportKm": 16,
+ "airportName": "Międzynarodowy Port Lotniczy Kos (KGS)",
+ "amenities": [
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Obszar Kefalos (Kefalos Area)",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary",
+  "Rodziny szukające relaksującego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1988,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój typu twin",
+  "Studio z aneksem kuchennym"
+ ],
+ "rooms": 60,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7416439,
+  "lon": 26.9704367,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.ie",
+  "sunshine.co.uk",
+  "hotholidays.co.uk",
+  "kayak.co.uk",
+  "reserving.com",
+  "hotelskosisland.com",
+  "dnatatravel.com",
+  "grhotels.gr"
+ ],
+ "updated": "2026-11-27"
+}

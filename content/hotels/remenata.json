@@ -1,0 +1,140 @@
+{
+ "id": 265868,
+ "slug": "remenata",
+ "name": "Remenata",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Kefalonia",
+  "Lixouri"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/remenata-teren-hotelu-1785313257-570-428.jpg",
+ "city": "Lixouri",
+ "intro": [
+  "Hotel Remenata to kameralny obiekt położony na półwyspie Paliki w miejscowości Lixouri na Kefalonii. Oferuje apartamenty i studia z widokiem na Morze Jońskie, co czyni go idealnym miejscem dla osób szukających spokoju i relaksu w cichej okolicy.",
+  "Jest to propozycja dla par, które cenią sobie intymną atmosferę, wygodę oraz autentyczne doświadczenia związane z grecką gościnnością. Hotel nie posiada udogodnień dla osób o ograniczonej sprawności ruchowej i nie jest nastawiony na rozrywkę, lecz na wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Remenata znajduje się w dzielnicy Kolona w Lixouri, około 1,5 km od centrum miejscowości, co stanowi około 14-15 minut spacerem. Z obiektu roztacza się widok na Morze Jońskie. Najbliższe lotnisko Kefalonia (EFL) oddalone jest o około 41-43 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Piaszczysta plaża Variko z łagodnym wejściem do morza znajduje się około 3,5 km od hotelu. Do plaży Lixouri można dojść w około 20 minut. Leżaki i parasole na plażach są płatne, hotel nie posiada prywatnej plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje studia i apartamenty, w tym studia z widokiem na morze (ok. 30m²), apartamenty z jedną sypialnią oraz apartamenty z tarasem, balkonem i częścią dzienną. Wszystkie pokoje wyposażone są w indywidualnie sterowaną klimatyzację, TV, lodówkę, w pełni wyposażony aneks kuchenny, sejf, zestaw do parzenia kawy/herbaty oraz łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden odkryty basen ze słodką wodą. Brak jest informacji o podgrzewanych lub krytych basenach, a także o zjeżdżalniach, aquaparku czy strefach dla dzieci. Hotel nie oferuje również spa, siłowni ani animacji."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel Remenata oferuje śniadania w formie bufetu. Na terenie obiektu dostępny jest bar przy basenie. Brak jest informacji o pakiecie all inclusive."
+  }
+ ],
+ "pros": [
+  "Kameralna atmosfera",
+  "Spokojna okolica",
+  "Widoki na Morze Jońskie",
+  "Bezpłatne Wi-Fi",
+  "Pokoje z aneksem kuchennym"
+ ],
+ "cons": [
+  "Brak udogodnień dla osób o ograniczonej sprawności ruchowej",
+  "Dość duża odległość do piaszczystej plaży Variko",
+  "Brak basenu dla dzieci i innych udogodnień dla rodzin z dziećmi",
+  "Brak udogodnień sportowych i spa",
+  "Leżaki i parasole na plaży płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Piaszczysta plaża Variko znajduje się około 3,5 km od hotelu. Do plaży Lixouri można dojść w około 20 minut."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Kefalonia (EFL) jest oddalone o około 41-43 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie oferuje udogodnień dla dzieci, takich jak mini klub, strefa dla dzieci czy animacje, co sugeruje, że jest bardziej odpowiedni dla par szukających spokoju."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Brak informacji, że hotel jest przeznaczony wyłącznie dla dorosłych, jednak jego charakter i brak udogodnień dla dzieci sugerują, że jest bardziej odpowiedni dla dorosłych."
+  }
+ ],
+ "address": "Kolona, Lixouri, 28200, Grecja",
+ "adultsOnly": null,
+ "airportKm": 42,
+ "airportName": "Lotnisko Kefalonia (EFL)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Klimatyzacja",
+  "TV",
+  "Lodówka",
+  "Sejf",
+  "Zestaw do parzenia kawy/herbaty",
+  "Suszarka do włosów",
+  "Patio",
+  "Meble ogrodowe",
+  "Stół jadalny"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Kolona, Półwysep Paliki",
+ "bars": 1,
+ "beachDistanceM": 3500,
+ "beachType": "Piaszczysta z łagodnym wejściem do morza",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Pary",
+  "Osoby szukające spokoju i relaksu"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Studio z widokiem na morze (około 30m²)",
+  "Apartamenty (z jedną sypialnią)",
+  "Apartamenty z tarasem, balkonem i częścią dzienną",
+  "Apartamenty na parterze"
+ ],
+ "rooms": 10,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.21391,
+  "lon": 20.435133,
+  "src": "web"
+ },
+ "sources": [
+  "hotelsinkefalonia.com",
+  "hotelplanner.com",
+  "travelmyth.ru",
+  "grecos.pl",
+  "wakacje.pl",
+  "hotels-kefalonia.net",
+  "rome2rio.com",
+  "asteria-apartments.gr"
+ ],
+ "updated": "2026-11-27"
+}

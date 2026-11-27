@@ -1,0 +1,136 @@
+{
+ "id": 260267,
+ "slug": "nlh-monastiraki",
+ "name": "NLH Monastiraki",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/nlh-monastiraki-obiekt-1757297358-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "NLH Monastiraki to czterogwiazdkowy hotel butikowy położony w samym sercu Aten, w historycznej dzielnicy Monastiraki/Psiri. Mieści się w odrestaurowanym, trzypiętrowym budynku neoklasycystycznym z początku XIX wieku, otwartym w 2021 roku. Jego centralne położenie sprawia, że jest idealną bazą wypadową do zwiedzania najważniejszych atrakcji miasta.",
+  "Hotel jest polecany dla osób podróżujących solo, par, rodzin (z uwagi na dostępne pokoje rodzinne i usługi opieki nad dziećmi za opłatą), a także dla podróżujących służbowo. Docenią go wszyscy, którzy szukają komfortowego zakwaterowania z łatwym dostępem do kultury, gastronomii i życia nocnego Aten."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel NLH Monastiraki znajduje się w centrum Aten, zaledwie 3 minuty spacerem od Placu Monastiraki. W bezpośrednim sąsiedztwie hotelu znajdują się liczne restauracje, kawiarnie, targi oraz główne atrakcje turystyczne, takie jak Akropol, Starożytna Agora i Plac Syntagma. Do Międzynarodowego Portu Lotniczego w Atenach (ATH) jest około 32 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 36 pokoi i apartamentów w 12 różnych typach, od Cozy Double po Grand Loft Suite z balkonem. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę, telewizor z płaskim ekranem, minibar, zestaw do parzenia kawy i herbaty oraz bezpłatne WiFi. Pokoje posiadają dźwiękoszczelne ściany, pościel premium oraz materace Sealy."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu serwowane jest śniadanie kontynentalne w formie bufetu w holu (za dodatkową opłatą) lub w formie \"Breakfast Box\". Na terenie obiektu znajduje się lobby bar/kawiarnia. Sezonowo działa również bar \"The Neighbors Upstairs\" na dachu, oferujący widoki na Akropol."
+  },
+  {
+   "title": "Rekreacja i udogodnienia",
+   "text": "NLH Monastiraki dysponuje centrum fitness/siłownią oraz oferuje usługi spa, w tym masaże i zabiegi na ciało i twarz. Goście mogą również skorzystać z wypożyczalni rowerów. Bezpłatne WiFi dostępne jest w całym obiekcie."
+  }
+ ],
+ "pros": [
+  "Doskonała, centralna lokalizacja w Monastiraki",
+  "Bar na dachu z widokiem na Akropol",
+  "Czyste, nowoczesne i komfortowe pokoje",
+  "Stylowy design w odrestaurowanym budynku",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Hałas z ulicy, zwłaszcza w nocy",
+  "Brak pełnej restauracji (tylko śniadania i lobby bar)",
+  "Brak basenu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest hotelem miejskim i nie ma bezpośredniego dostępu do plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy w Atenach (ATH), oddalone o około 32 km. Podróż metrem zajmuje około 41-55 minut."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel przyjmuje gości w każdym wieku, oferuje pokoje rodzinne i usługi opieki nad dziećmi za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do WiFi?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive. Hotel serwuje śniadania."
+  }
+ ],
+ "address": "Athinas 35, 105 54 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (ATH) im. Eleftheriosa Venizelosa",
+ "amenities": [
+  "centrum biznesowe",
+  "sale konferencyjne"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Monastiraki / Psiri",
+ "bars": 2,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "osoby podróżujące solo",
+  "pary",
+  "rodziny z dziećmi",
+  "podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2021,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": 2021,
+ "restaurants": 0,
+ "roomTypes": [
+  "Cozy Double",
+  "Standard Double/Twin",
+  "Comfort Room",
+  "Classic Double",
+  "Deluxe Double z balkonem",
+  "Deluxe Suite",
+  "Junior Suite Veranda",
+  "Premium Suite",
+  "Superior Loft Suite z balkonem",
+  "Family Loft Suite",
+  "Grand Loft Suite z balkonem",
+  "Lifestyle Suite Veranda"
+ ],
+ "rooms": 36,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9789179,
+  "lon": 23.726569,
+  "src": "osm"
+ },
+ "sources": [
+  "myboutiquehotel.com",
+  "agoda.com",
+  "nlh.gr",
+  "xo.gr",
+  "google.com.ng",
+  "athenshotels.it",
+  "rkeytect.com",
+  "pima-group.com"
+ ],
+ "updated": "2026-11-27"
+}

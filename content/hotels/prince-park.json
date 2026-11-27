@@ -1,0 +1,141 @@
+{
+ "id": "x:hiszpania:prince park",
+ "slug": "prince-park",
+ "name": "Prince Park",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Benidorm"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/benidorm/prince-park-pl/3794/8c243a9c28ea347451bd2-244.jpg",
+ "city": "Benidorm",
+ "intro": [
+  "Hotel Prince Park to trzygwiazdkowy obiekt położony w Benidormie na Costa Blanca, tuż przy malowniczym Parku L'Aigüera. Jego dogodna lokalizacja, blisko centrum miasta i starego miasta, sprawia, że jest to atrakcyjne miejsce dla osób ceniących sobie łatwy dostęp do miejskich atrakcji, restauracji i sklepów.",
+  "Hotel jest polecany zarówno dla par, rodzin z dziećmi, jak i grup przyjaciół, oferując spokojną atmosferę oraz szereg udogodnień. Od piaszczystej plaży Levante dzieli go około 800 metrów, co umożliwia piesze spacery do morza. Obiekt zapewnia komfortowe zakwaterowanie i różnorodne opcje wyżywienia, w tym możliwość wyboru pakietu All Inclusive."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Prince Park znajduje się w Benidormie, bezpośrednio przy Parku L'Aigüera, w niewielkiej odległości od starego miasta. Do publicznej, piaszczystej plaży Levante jest około 800 metrów, a do plaży Poniente około 1 km. Leżaki i parasole na plaży są płatne, natomiast przy hotelowym basenie są dostępne bezpłatnie."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 208 pokojami, w tym dwuosobowymi, trzyosobowymi i rodzinnymi. Większość z nich posiada prywatny balkon lub taras. Wyposażenie obejmuje klimatyzację, telewizor, telefon, łazienkę z suszarką do włosów, sejf (płatny) oraz minilodówkę (płatną)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca dania kuchni międzynarodowej na śniadania, obiady i kolacje. Do dyspozycji gości są również bar/lounge, bar przy basenie oraz snack bar. Hotel oferuje opcję wyżywienia All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest odkryty basen zewnętrzny z brodzikiem dla dzieci. Goście mogą korzystać z centrum fitness/siłowni oraz uprawiać tenis stołowy, bilard, rzutki, łucznictwo i aerobik. Wieczorami organizowane są animacje dla dorosłych, w tym muzyka na żywo i karaoke."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik oraz sezonowe animacje. Na życzenie dostępne są również łóżeczka i zabawki dla dzieci. Hotel jest odpowiedni dla rodzin."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko parku, centrum i plaży",
+  "Czystość w pokojach i częściach wspólnych",
+  "Miła i pomocna obsługa",
+  "Dobre i różnorodne jedzenie w formie bufetu",
+  "Przestronne pokoje z balkonami i widokiem"
+ ],
+ "cons": [
+  "Małe i często oblegane windy",
+  "Brak czajnika w pokojach",
+  "Słaba akustyka w pokojach",
+  "Płatny parking i minilodówka",
+  "Rozrywka wieczorna może być rozczarowująca"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 800 metrów od publicznej, piaszczystej plaży Levante."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to lotnisko w Alicante (ALC), oddalone o około 60 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel posiada siłownię?",
+   "a": "Tak, na terenie hotelu znajduje się centrum fitness/siłownia."
+  }
+ ],
+ "address": "Primavera, 3, Benidorm, Hiszpania, 03501",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Alicante (ALC)",
+ "amenities": [
+  "basen zewnętrzny",
+  "brodzik dla dzieci",
+  "siłownia",
+  "tenis stołowy",
+  "bilard",
+  "rzutki",
+  "łucznictwo",
+  "aerobik",
+  "muzyka na żywo",
+  "karaoke",
+  "bezpłatne Wi-Fi"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "przy Parku L'Aigüera",
+ "bars": 3,
+ "beachDistanceM": 800,
+ "beachType": "piaszczysta",
+ "centerKm": 0.7,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "grupy przyjaciół"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 1992,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (z łóżkiem podwójnym lub dwoma pojedynczymi) z klimatyzacją, telewizorem, telefonem, łazienką, sejfem (płatnym), minilodówką (płatną), balkonem/tarasem",
+  "pokój trzyosobowy z klimatyzacją, telewizorem, telefonem, łazienką, sejfem (płatnym), minilodówką (płatną), balkonem/tarasem",
+  "pokój rodzinny z klimatyzacją, telewizorem, telefonem, łazienką, sejfem (płatnym), minilodówką (płatną), balkonem/tarasem"
+ ],
+ "rooms": 208,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.542918,
+  "lon": -0.1301962,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "ohotel.com.pl",
+  "travelplanet.pl",
+  "benidormehotel.com",
+  "costablanca-hotels.com",
+  "esky.pl",
+  "booking.com",
+  "hotelprincepark.com"
+ ],
+ "updated": "2026-11-27"
+}

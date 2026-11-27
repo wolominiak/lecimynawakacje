@@ -1,0 +1,138 @@
+{
+ "id": 260590,
+ "slug": "nlh-kerameikos",
+ "name": "NLH Kerameikos",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Attyka",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001643951-570-428.jpg",
+ "city": "Ateny",
+ "intro": [
+  "NLH Kerameikos to trzygwiazdkowy hotel miejski położony w tętniącej życiem dzielnicy Kerameikos w Atenach, Grecja. Jest to nowoczesny obiekt, idealny dla osób poszukujących bazy wypadowej do zwiedzania miasta, zarówno w celach biznesowych, jak i turystycznych. Hotel jest dobrze skomunikowany, co umożliwia łatwy dostęp do głównych atrakcji Aten.",
+  "Obiekt jest polecany dla par, rodzin oraz miłośników sztuki, którzy cenią sobie centralną lokalizację i możliwość pieszych wycieczek. Hotel oferuje komfortowe warunki pobytu, darmowe WiFi oraz udogodnienia takie jak siłownia, co czyni go atrakcyjnym wyborem dla różnorodnych grup podróżnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel NLH Kerameikos znajduje się w centralnej części Aten, w dzielnicy Kerameikos, zaledwie około 0.7 km od ścisłego centrum miasta. Jest to dogodna lokalizacja do pieszych wycieczek do takich atrakcji jak Akropol, Monastiraki czy Starożytna Agora. W pobliżu hotelu znajdują się liczne restauracje, bary oraz stacja metra, co ułatwia poruszanie się po mieście."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 35 dźwiękoszczelnych pokoi, w tym Economy Room, Standard Double, Comfort Room, Family Room oraz różne apartamenty, w tym z widokiem na Akropol. Wszystkie pokoje są wyposażone w klimatyzację, prywatną łazienkę z prysznicem, telewizor z płaskim ekranem, sejf, minibar, czajnik elektryczny oraz zestaw do parzenia kawy/herbaty. Goście doceniają wygodne materace Sealy."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu NLH Kerameikos serwowane jest codzienne śniadanie kontynentalne w formie bufetu, dostępne w lobby. Na terenie obiektu znajduje się również bar w lobby, gdzie można zrelaksować się po dniu pełnym zwiedzania. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel dysponuje centrum fitness/siłownią, wyposażoną w bieżnie i sprzęt, zlokalizowaną w piwnicy. Goście mogą również skorzystać z bezpłatnego WiFi dostępnego w całym hotelu i we wszystkich pokojach. Istnieje możliwość wypożyczenia rowerów, co stanowi dodatkową opcję aktywnego spędzania czasu."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko atrakcji i metra",
+  "Czyste i nowoczesne pokoje z wygodnymi łóżkami",
+  "Pomocna i przyjazna obsługa",
+  "Dobre śniadania",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Bezpośrednia okolica może być postrzegana jako zaniedbana lub niebezpieczna w nocy",
+  "Brak basenów i aquaparku",
+  "Mała winda i niewielkich rozmiarów siłownia",
+  "Hotel nie znajduje się przy plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest hotelem miejskim i nie znajduje się przy plaży."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 33-35 km od Międzynarodowego Portu Lotniczego w Atenach (Eleftherios Venizelos Airport - ATH)."
+  },
+  {
+   "q": "Czy hotel posiada baseny lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów, zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu all inclusive. Dostępne jest codzienne śniadanie kontynentalne."
+  }
+ ],
+ "address": "Psaromiligkou & S. Kalogirou 6, 105 53 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 33,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (Eleftherios Venizelos Airport - ATH)",
+ "amenities": [
+  "Bezpłatne WiFi",
+  "Siłownia",
+  "Wypożyczalnia rowerów",
+  "Bar w lobby",
+  "Śniadanie kontynentalne"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Kerameikos",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.7,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści",
+  "Pary",
+  "Rodziny",
+  "Miłośnicy sztuki"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Room (Economy A.D.A)",
+  "Standard Double",
+  "Comfort Room",
+  "Family Room",
+  "Deluxe Room Veranda",
+  "Superior Suite Veranda",
+  "Executive Suite Veranda",
+  "Acropolis View Suite",
+  "Grand Suite"
+ ],
+ "rooms": 35,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9799544,
+  "lon": 23.7206534,
+  "src": "osm"
+ },
+ "sources": [
+  "nlh.gr",
+  "skyscanner.gg",
+  "toppeakhotels.com",
+  "agoda.com",
+  "reserve-online.net",
+  "mapcarta.com",
+  "pima-group.com",
+  "athenshotels24.com"
+ ],
+ "updated": "2026-11-27"
+}

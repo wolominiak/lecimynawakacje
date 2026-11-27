@@ -1,0 +1,141 @@
+{
+ "id": 33516,
+ "slug": "portego",
+ "name": "Portego",
+ "country": "grecja",
+ "place": [
+  "Grecja",
+  "Zakynthos",
+  "Laganas"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/portego-basen-780452717-570-428.jpg",
+ "city": "Laganas",
+ "intro": [
+  "Hotel Portego to kameralny aparthotel położony na greckiej wyspie Zakynthos, w spokojnej okolicy Laganas. Obiekt, otoczony ogrodem, oferuje komfortowe zakwaterowanie w apartamentach, co czyni go idealnym miejscem dla osób szukających relaksu w otoczeniu natury.",
+  "Hotel Portego jest szczególnie polecany dla rodzin i par, które cenią sobie swobodną atmosferę i chcą odpocząć z dala od zgiełku. Obiekt oferuje udogodnienia dla dzieci, a bliskość piaszczystej plaży Laganas sprawia, że jest to dobra baza wypadowa do odkrywania uroków wyspy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Portego znajduje się w Laganas na Zakynthos. Jest oddalony o około 2 do 3,4 km od piaszczystej plaży Laganas. Najbliższe lotnisko, Międzynarodowe Lotnisko Zakynthos (ZTH), znajduje się w odległości około 1,9 km do 7 km. Centrum Laganas jest oddalone o około 2 do 5 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 29 lub 36 pokoi, w tym pokoje rodzinne, dwuosobowe i czteroosobowe. Wszystkie pokoje są klimatyzowane i posiadają balkon lub werandę. Na wyposażeniu znajduje się prywatna łazienka z wanną lub prysznicem, lodówka, telewizor, sejf i telefon. Niektóre pokoje dysponują aneksem kuchennym."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden sezonowy odkryty basen, a także oddzielny basen dla dzieci. Goście mogą korzystać z bilarda w salonie oraz nurkowania. Hotel organizuje również sezonowe „greckie wieczory” z muzyką i tańcem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Portego znajduje się bar/lounge oraz bar przekąskowy przy basenie. Codziennie serwowane jest śniadanie kontynentalne. Dostępne są opcje zakwaterowania bez wyżywienia (Room Only) lub ze śniadaniem."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne w całym obiekcie i w pokojach. Jest to obiekt przyjazny rodzinom, bez ograniczeń wiekowych przy zameldowaniu. Na terenie hotelu znajduje się ogród."
+  }
+ ],
+ "pros": [
+  "Dobry basen z dużą ilością leżaków",
+  "Miły personel i czystość",
+  "Spokojna atmosfera",
+  "Dobre śniadanie",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Pokoje mogą być proste",
+  "Brak łóżeczek/dostawek dla dzieci",
+  "Położony nieco na uboczu",
+  "Brak informacji o plaży hotelowej",
+  "Brak zjeżdżalni/aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Portego jest położony około 2 do 3,4 km od piaszczystej plaży Laganas."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Międzynarodowe Lotnisko Zakynthos (ZTH), jest oddalone o około 1,9 km do 7 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest sezonowy odkryty basen oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i posiada oddzielny basen dla dzieci. Jest polecany dla rodzin i par."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje wyżywienia all inclusive. Dostępne są opcje zakwaterowania bez wyżywienia (Room Only) lub ze śniadaniem kontynentalnym."
+  }
+ ],
+ "address": "Laganas 29092 Zakynthos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 1.9,
+ "airportName": "Międzynarodowe Lotnisko Zakynthos (ZTH)",
+ "amenities": [
+  "Balkon",
+  "Weranda",
+  "Prywatna łazienka",
+  "Lodówka",
+  "Telewizor",
+  "Sejf",
+  "Telefon",
+  "Klimatyzacja",
+  "Suszarka do włosów",
+  "Czajnik elektryczny",
+  "Aneks kuchenny (w niektórych pokojach)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 2,
+ "beachDistanceM": 2000,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby szukające relaksu na łonie natury"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 0,
+ "roomTypes": [
+  "Pokój rodzinny",
+  "Pokój dwuosobowy (Double)",
+  "Pokój czteroosobowy (Quadruple)"
+ ],
+ "rooms": 29,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.749355,
+  "lon": 20.863628,
+  "src": "web"
+ },
+ "sources": [
+  "canadianhotellaganas.online",
+  "hrs.com",
+  "wego.qa",
+  "webzakynthoshotels.com",
+  "travelhorizont.bg",
+  "onthebeach.co.uk",
+  "hotels.com",
+  "zoover.nl"
+ ],
+ "updated": "2026-11-27"
+}
