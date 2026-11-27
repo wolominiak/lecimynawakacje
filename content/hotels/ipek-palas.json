@@ -1,0 +1,136 @@
+{
+ "id": 38828,
+ "slug": "ipek-palas",
+ "name": "Ipek Palas",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/ipek-palas-recepcja-lobby-obiekt-1615063063-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Ipek Palas to czterogwiazdkowy obiekt położony w samym sercu historycznego Starego Miasta Stambułu, w dzielnicy Sultanahmet/Sirkeci. Jest to idealna baza wypadowa dla turystów pragnących zwiedzać najważniejsze atrakcje miasta, takie jak Hagia Sophia czy Pałac Topkapi, które znajdują się w zasięgu spaceru.",
+  "Hotel, otwarty w 1948 roku i odnowiony w latach 2008-2010, oferuje komfortowe zakwaterowanie w 79 pokojach. Ze względu na swoją lokalizację i udogodnienia, jest polecany zarówno parom, rodzinom z dziećmi, jak i podróżującym służbowo."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Ipek Palas mieści się w historycznym centrum Stambułu, w dzielnicy Sirkeci, zaledwie kilka kroków od Bosforu i Morza Marmara. Z tarasu restauracji roztacza się panoramiczny widok na cieśninę. W pobliżu znajdują się główne atrakcje turystyczne oraz przystanki komunikacji miejskiej."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 79 pokojami w różnych kategoriach, w tym Economy, Superior, Triple, Family, Palace oraz Sultan Suite. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, telewizor z płaskim ekranem, minibar, sejf, czajnik elektryczny oraz bezpłatne Wi-Fi. Niektóre pokoje posiadają balkon lub część wypoczynkową."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "Główna restauracja hotelu, Payitaht, znajduje się na tarasie na 6. piętrze i oferuje śniadania w formie bufetu oraz dania à la carte kuchni tureckiej i międzynarodowej na lunch i kolację. Goście mogą również skorzystać z baru w lobby. Hotel nie oferuje opcji all inclusive, dostępne są noclegi ze śniadaniem lub niepełnym wyżywieniem."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Ipek Palas nie posiada basenu ani aquaparku. W obiekcie dostępne jest bezpłatne Wi-Fi. Wspomniano o możliwości skorzystania z usług Health Spa/Massage, jednak brak szczegółowych informacji na temat pełnego spa czy siłowni. Hotel jest przyjazny rodzinom, oferując łóżeczka dla dzieci na życzenie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznym centrum Stambułu",
+  "Bliskość głównych atrakcji turystycznych i transportu publicznego",
+  "Przyjazny i pomocny personel",
+  "Widok na Bosfor z tarasu restauracji",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Małe pokoje i łazienki (według niektórych opinii)",
+  "Mieszane opinie na temat jakości śniadań",
+  "Problemy ze słabym połączeniem Wi-Fi",
+  "Brak prywatnego parkingu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Ipek Palas znajduje się około 43.8 km od lotniska Istanbul Airport (IST) i około 65 km od lotniska Sabiha Gökçen International Airport (SAW)."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Nie, hotel Ipek Palas nie posiada basenu dla gości."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są noclegi ze śniadaniem lub niepełnym wyżywieniem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dzieci w wieku 0-6 lat mogą przebywać bezpłatnie, a na życzenie dostępne są łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych, choć zdarzają się opinie o słabym połączeniu."
+  },
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel jest obiektem miejskim, położonym w historycznym centrum Stambułu, a nie bezpośrednio przy plaży. Brak informacji o plaży hotelowej."
+  }
+ ],
+ "address": "Orhaniye Caddesi No:7 Sirkeci, Fatih, Stambuł, Turcja, 34110",
+ "adultsOnly": false,
+ "airportKm": 43.8,
+ "airportName": "Istanbul Airport (IST)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Restauracja na tarasie z widokiem na Bosfor",
+  "Bar w lobby",
+  "Sale konferencyjne",
+  "Centrum biznesowe",
+  "Usługi masażu"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Sultanahmet, Sirkeci",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Turyści zwiedzający miasto",
+  "Pary",
+  "Rodziny",
+  "Podróżujący służbowo"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1948,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Double Room",
+  "Superior Double Room",
+  "Triple Room",
+  "Family Room",
+  "Palace Room",
+  "Sultan Suite",
+  "Standard Twin Room"
+ ],
+ "rooms": 79,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0135685,
+  "lon": 28.976212,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotelipekpalas.com",
+  "holidaycheck.de",
+  "yandex.com.tr",
+  "travelweekly.com",
+  "multitour.ru",
+  "agoda.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}

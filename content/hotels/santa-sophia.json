@@ -1,0 +1,132 @@
+{
+ "id": 38813,
+ "slug": "santa-sophia",
+ "name": "Santa Sophia",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001730936-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Santa Sophia to urokliwy, trzygwiazdkowy obiekt położony w samym sercu historycznej dzielnicy Sultanahmet w Stambule. Mieści się w XIX-wiecznym budynku, oferując kameralną atmosferę i doskonałą bazę wypadową do zwiedzania najważniejszych zabytków miasta.",
+  "Obiekt jest idealnym wyborem dla par, turystów indywidualnych oraz rodzin, które pragną zanurzyć się w kulturze i historii Stambułu. Ze względu na swoje miejskie położenie, hotel skupia się na zapewnieniu komfortowego pobytu w centrum miasta, a nie na typowych udogodnieniach kurortowych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Santa Sophia znajduje się w historycznej dzielnicy Sultanahmet, zaledwie kilka minut spacerem od takich atrakcji jak Hagia Sophia, Błękitny Meczet i Pałac Topkapi. Jest to idealna lokalizacja dla osób pragnących zwiedzać Stambuł pieszo. Odległość od centrum Sultanahmet to zaledwie około 300 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 42 do 46 pokoi, w tym pokoje dwuosobowe standardowe, ekonomiczne, trzyosobowe i czteroosobowe. Każdy pokój wyposażony jest w klimatyzację, telewizor z płaskim ekranem, minibar, sejf oraz zestaw do parzenia kawy/herbaty. Pokoje są dźwiękoszczelne i posiadają prywatne łazienki z suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji Ronis Corner Restaurant BAR serwowane są dania kuchni amerykańskiej, owoce morza, a także specjały kuchni tureckiej i międzynarodowej. Goście mogą korzystać z baru typu lounge. Hotel oferuje śniadania w formie bufetu lub à la carte, z możliwością wykupienia wyżywienia częściowego lub pełnego."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi dostępne w pokojach i częściach wspólnych. Na terenie obiektu znajdują się urządzenia fitness, a w okolicy dostępne są szlaki turystyczne i możliwość wypożyczenia rowerów. Hotel akceptuje zwierzęta domowe za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznym centrum Sultanahmet",
+  "Bliskość głównych atrakcji turystycznych",
+  "Uprzejmy i pomocny personel",
+  "Dobre śniadania",
+  "Czyste pokoje"
+ ],
+ "cons": [
+  "Pokoje mogą być małe i hałaśliwe",
+  "Niektóre pokoje ekonomiczne nie mają okien",
+  "Widoczne oznaki wieku w pokojach i częściach wspólnych",
+  "Sporadyczne problemy z klimatyzacją lub telewizorem",
+  "Hałas z ulicy i wezwania do modlitwy mogą być słyszalne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Santa Sophia to obiekt miejski, położony w historycznym centrum Stambułu, nie w pobliżu plaży w typowym rozumieniu kurortu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Istanbul International Airport (IST) wynosi około 47 km, a od lotniska Sabiha Gökçen (SAW) również około 47 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Santa Sophia nie posiada basenów ani aquaparku. Jest to hotel miejski, skupiający się na zwiedzaniu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin, oferuje pokoje rodzinne i nie jest przeznaczony wyłącznie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel posiada siłownię?",
+   "a": "Tak, na terenie hotelu dostępne są urządzenia fitness."
+  }
+ ],
+ "address": "Emin Sinan, Emin Sinan Hamamı Sk. No:2, 34126 Sultanahmet/Fatih/Fatih/İstanbul",
+ "adultsOnly": false,
+ "airportKm": 47,
+ "airportName": "Istanbul International Airport (IST)",
+ "amenities": [
+  "Fitness",
+  "Wypożyczalnia rowerów",
+  "Bezpłatne Wi-Fi",
+  "Pokoje rodzinne",
+  "Akceptacja zwierząt domowych"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Stare Miasto Sultanahmet",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary szukające kulturalnego wypoczynku",
+  "Turyści i podróżujący solo",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1999,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room z klimatyzacją, TV, minibarem, sejfem, łazienką z suszarką, Wi-Fi, biurkiem, zestawem do kawy/herbaty",
+  "Economy Double Room z klimatyzacją, TV, minibarem, sejfem, łazienką z suszarką, Wi-Fi, biurkiem, zestawem do kawy/herbaty (niektóre bez okien)",
+  "Standard Triple Room z klimatyzacją, TV, minibarem, sejfem, łazienką z suszarką, Wi-Fi, biurkiem, zestawem do kawy/herbaty",
+  "Standard Quadruple Room z klimatyzacją, TV, minibarem, sejfem, łazienką z suszarką, Wi-Fi, biurkiem, zestawem do kawy/herbaty",
+  "Economy Single Room z klimatyzacją, TV, minibarem, sejfem, łazienką z suszarką, Wi-Fi, biurkiem, zestawem do kawy/herbaty (niektóre bez okien)"
+ ],
+ "rooms": 42,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0070836,
+  "lon": 28.9706285,
+  "src": "osm"
+ },
+ "sources": [
+  "istanbul-turkeyhotels.com",
+  "loveholidays.com",
+  "hotel-istanbul.net",
+  "expedia.com",
+  "yandex.com.tr",
+  "agoda.com",
+  "trivago.com",
+  "santasophiahotel.com"
+ ],
+ "updated": "2026-11-27"
+}

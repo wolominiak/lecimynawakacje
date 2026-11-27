@@ -1,0 +1,135 @@
+{
+ "id": 43625,
+ "slug": "istanbul-holiday",
+ "name": "Istanbul Holiday",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Stambuł"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/istanbul-holiday-recepcja-lobby-obiekt-1413081523-570-428.jpg",
+ "city": "Stambuł",
+ "intro": [
+  "Hotel Istanbul Holiday to trzygwiazdkowy obiekt położony w samym sercu historycznej dzielnicy Sultanahmet w Stambule. Jest to idealna propozycja dla podróżnych, którzy cenią sobie bliskość najważniejszych atrakcji turystycznych i szukają przystępnego cenowo zakwaterowania.",
+  "Obiekt, otwarty w 2008 roku i odnowiony w 2015, oferuje 30 pokoi i jest szczególnie polecany dla osób podróżujących z ograniczonym budżetem, samotnych podróżników oraz tych, dla których priorytetem jest zwiedzanie Starego Miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Istanbul Holiday znajduje się w dzielnicy Sultanahmet, zaledwie 200-484 metry od centrum miasta. W zasięgu krótkiego spaceru znajdują się takie ikony Stambułu jak Plac Sultanahmet, Błękitny Meczet, Hagia Sophia czy Cysterna Bazyliki. Hotel nie jest położony przy plaży."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 30 pokoi w różnych konfiguracjach, w tym pokoje dwuosobowe, trzyosobowe, czteroosobowe, rodzinne oraz apartamenty typu Queen i Family Suite. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę, telewizor z płaskim ekranem, mini-bar, sejf oraz bezpłatne Wi-Fi. Należy pamiętać, że pokoje Economy Double mogą nie posiadać okien."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się jedna restauracja à la carte, która serwuje dania kuchni tureckiej, w tym dania halal. Goście mogą korzystać z bezpłatnego śniadania w formie bufetu. Dodatkowo, hotel dysponuje kawiarnią oraz barem/salonem, a także tarasem na dachu."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne we wszystkich pokojach i pomieszczeniach ogólnodostępnych. Dla wygody gości dostępny jest parking dla rowerów oraz możliwość ich wypożyczenia. Hotel akceptuje dzieci."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w historycznym centrum Stambułu",
+  "Bezpłatne śniadanie w formie bufetu",
+  "Dostępne bezpłatne Wi-Fi",
+  "Taras na dachu z widokiem",
+  "Możliwość wypożyczenia rowerów"
+ ],
+ "cons": [
+  "Pokoje mogą być małe, niektóre bez okien",
+  "Problemy z klimatyzacją i ciśnieniem wody",
+  "Hałas z zewnątrz i cienkie ściany",
+  "Śniadanie bywa oceniane jako ubogie",
+  "Mieszane opinie na temat obsługi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od głównych atrakcji?",
+   "a": "Hotel znajduje się w odległości krótkiego spaceru od głównych atrakcji, takich jak Błękitny Meczet, Hagia Sophia i Plac Sultanahmet."
+  },
+  {
+   "q": "Czy hotel jest położony przy plaży?",
+   "a": "Nie, hotel nie jest położony przy plaży, znajduje się w historycznym centrum Stambułu."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotniska to Stambuł Sabiha Gökçen (SAW) - około 30.5 km i Lotnisko w Stambule (IST) - około 34.51 km."
+  },
+  {
+   "q": "Czy w hotelu jest basen lub aquapark?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel akceptuje dzieci, a dzieci w wieku 2 lat i starsze są traktowane jako dorośli w kwestii dodatkowych łóżek."
+  }
+ ],
+ "address": "Küçük Ayasofya Cd. No:28, 34122 Stambuł, Turcja",
+ "adultsOnly": false,
+ "airportKm": 30.5,
+ "airportName": "Międzynarodowy Port Lotniczy Stambuł Sabiha Gökçen (SAW)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Taras na dachu",
+  "Kawiarnia",
+  "Parking dla rowerów",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Sultanahmet (Old City Sultanahmet, Fatih)",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Podróżujący z ograniczonym budżetem",
+  "Samotni podróżnicy",
+  "Osoby ceniące lokalizację do zwiedzania Sultanahmet"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2008,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double)",
+  "Pokój trzyosobowy (Triple)",
+  "Pokój czteroosobowy (Quadruple)",
+  "Pokój rodzinny (Family)",
+  "Apartament typu Queen Suite",
+  "Apartament typu Family Suite",
+  "Pokój Standard",
+  "Pokój Economy Double (niektóre bez okien)"
+ ],
+ "rooms": 30,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 40.9926199,
+  "lon": 28.8469171,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.com",
+  "inistanbulhotels.com",
+  "istanbul-turkeyhotels.com",
+  "planetofhotels.com",
+  "agoda.com",
+  "trivago.ie",
+  "hotel-istanbul.net",
+  "istanbulahotel.com"
+ ],
+ "updated": "2026-11-27"
+}

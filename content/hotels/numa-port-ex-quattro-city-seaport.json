@@ -1,0 +1,129 @@
+{
+ "id": 38401,
+ "slug": "numa-port-ex-quattro-city-seaport",
+ "name": "Numa Port (ex Quattro City Seaport)",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/numa-port-ex-quattro-city-seaport-zwiedzanie-855754665-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Numa Port (ex Quattro City Seaport) to czterogwiazdkowy hotel położony w samym sercu Alanyi, w dzielnicy Çarşı, tuż nad portem. Obiekt, otwarty w 2003 roku i odnowiony w 2023, charakteryzuje się nowoczesnym wystrojem i kameralną atmosferą, oferując 58 pokoi.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych, co czyni go idealnym wyborem dla par, osób podróżujących solo oraz wszystkich, którzy szukają luksusowego wypoczynku w komfortowych warunkach, z łatwym dostępem do miejskich atrakcji i plaży."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Numa Port znajduje się w centrum Alanyi, zaledwie około 200 metrów od centrum kurortu i bezpośrednio nad portem. Publiczna, piaszczysta plaża Alanya Public Beach oddalona jest o około 400 metrów, czyli 9 minut spacerem. Na plaży dostępne są bezpłatne leżaki i parasole, a hotel zapewnia ręczniki plażowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje 58 pokoi, w tym Standard Room (z widokiem na ląd lub morze), Deluxe King Room, Junior Suite z jacuzzi, Suite z widokiem na morze i jacuzzi oraz Economy Room. Wszystkie pokoje są klimatyzowane, dźwiękoszczelne i wyposażone w telewizor z płaskim ekranem, minibar, zestaw do parzenia kawy/herbaty, sejf, suszarkę do włosów oraz bezpłatne kosmetyki. W pokojach dostępne są również szlafroki, kapcie, pościel premium i menu poduszkowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje bezpłatne śniadania w formie bufetu. Na terenie obiektu znajduje się główna restauracja bufetowa, a także restauracja à la carte serwująca owoce morza i kuchnię włoską. Goście mogą również skorzystać z restauracji Noa Rooftop na dachu. Do dyspozycji są dwa bary: lobby bar i cocktail bar, a także bar przy basenie i Midtown Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Numa Port dysponuje jednym odkrytym, podgrzewanym basenem typu infinity, zlokalizowanym na dachu, z którego rozpościerają się piękne widoki. W hotelu znajduje się również centrum fitness/siłownia z klimatyzacją, sprzętem cardio i wolnymi ciężarami. Goście mogą korzystać z usług spa, w tym sauny."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest przeznaczony wyłącznie dla dorosłych (Adults Only) i nie akceptuje gości poniżej 12 roku życia. Jest to idealne miejsce dla par i osób podróżujących solo, które cenią sobie luksus, komfort oraz centralną lokalizację z dostępem do miejskich atrakcji i życia nocnego Alanyi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Alanyi, blisko portu i atrakcji",
+  "Piękne widoki na morze i port z pokoi oraz basenu na dachu",
+  "Czyste, nowoczesne i dobrze wyposażone pokoje",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadania w formie bufetu z dużym wyborem"
+ ],
+ "cons": [
+  "Możliwy hałas z zewnątrz ze względu na centralną lokalizację",
+  "Brak zjeżdżalni czy aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Numa Port od plaży?",
+   "a": "Hotel Numa Port znajduje się około 400 metrów od publicznej, piaszczystej plaży Alanya Public Beach, co daje około 9 minut spacerem."
+  },
+  {
+   "q": "Czy hotel Numa Port jest hotelem tylko dla dorosłych?",
+   "a": "Tak, hotel Numa Port jest hotelem tylko dla dorosłych (Adults Only) i nie akceptuje gości poniżej 12 roku życia."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya Airport (GZP), oddalone o około 40-41.82 km. Lotnisko Antalya (AYT) znajduje się około 120-128 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, hotel posiada jeden odkryty, podgrzewany basen typu infinity, zlokalizowany na dachu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Czy w hotelu Numa Port są zjeżdżalnie lub aquapark?",
+   "a": "Nie, w hotelu Numa Port nie ma zjeżdżalni ani aquaparku."
+  }
+ ],
+ "address": "Çarşı, İskele Cd. No:82, 07400 Alanya, Antalya, Türkiye",
+ "adultsOnly": true,
+ "airportKm": 40,
+ "airportName": "Gazipaşa-Alanya Airport (GZP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Sauna",
+  "Bezpłatne Wi-Fi",
+  "Parking"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Çarşı",
+ "bars": 4,
+ "beachDistanceM": 400,
+ "beachType": "publiczna, piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące solo"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2003,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2023,
+ "restaurants": 3,
+ "roomTypes": [
+  "Standard Room (z widokiem na ląd lub morze)",
+  "Deluxe King Room",
+  "Junior Suite z jacuzzi",
+  "Suite z widokiem na morze i jacuzzi",
+  "Economy Room"
+ ],
+ "rooms": 58,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "hotels-alanya.net",
+  "antalyatransferry.com",
+  "wakacje.pl",
+  "numaport.com",
+  "skyscanner.qa",
+  "jet2holidays.com",
+  "booking.com",
+  "trip.com"
+ ],
+ "updated": "2026-11-27"
+}

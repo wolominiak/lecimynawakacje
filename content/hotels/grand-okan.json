@@ -1,0 +1,135 @@
+{
+ "id": 16924,
+ "slug": "grand-okan",
+ "name": "Grand Okan",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Riwiera Turecka",
+  "Alanya"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/grand-okan-budynek-glowny-obiekt-1616346267-570-428.jpg",
+ "city": "Alanya",
+ "intro": [
+  "Grand Okan to czterogwiazdkowy hotel położony w dzielnicy Saray w Alanyi, tuż przy słynnej Plaży Kleopatry. Obiekt, otwarty w 1998 roku i częściowo odnowiony w 2019, oferuje komfortowe zakwaterowanie w sześciopiętrowym budynku.",
+  "Hotel jest idealnym wyborem dla par i starszych gości ceniących spokojną atmosferę, a także dla rodzin z dziećmi. Jego dogodna lokalizacja blisko centrum miasta i plaży sprawia, że jest doskonałą bazą wypadową do zwiedzania i relaksu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Grand Okan znajduje się w Alanyi, w dzielnicy Saray, zaledwie 50-100 metrów od piaszczysto-żwirowej Plaży Kleopatry. Przejście na plażę odbywa się przez ulicę, a hotel posiada prywatną część na publicznej plaży. Leżaki i parasole na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 146 do 157 pokoi, w tym pokoje Standard Double/Twin z różnymi widokami, pokoje Single, Executive One-Bedroom Suite oraz Family Room. Wszystkie pokoje wyposażone są w telewizor LCD, bezpłatne Wi-Fi, minibar (płatny), klimatyzację, balkon, suszarkę do włosów, elektroniczny sejf (płatny) i telefon. Dostępne są również pokoje przystosowane dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa odkryte baseny: jeden dla dorosłych o głębokości 140-160 cm oraz jeden basen dla dzieci o głębokości 40 cm. Hotel oferuje również klimatyzowaną siłownię (dla osób powyżej 18 lat), rzutki i tenis stołowy. Od czerwca do października organizowane są regularne animacje wieczorne, a poza sezonem - okazjonalne."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Grand Okan dysponuje dwiema restauracjami (jedna bufetowa, jedna à la carte) serwującymi dania kuchni międzynarodowej i tureckiej. Do dyspozycji gości są także trzy bary: bar na plaży, bar w lobby i bar przy basenie. Śniadania są wliczone w cenę pokoju, natomiast napoje do kolacji, w tym woda, są dodatkowo płatne."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest polecany dla par i starszych gości szukających spokojnej atmosfery, jak również dla rodzin. Jego dogodna lokalizacja oraz udogodnienia sprawiają, że jest odpowiedni dla osób ceniących bliskość plaży i centrum miasta."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko Plaży Kleopatry i centrum Alanyi.",
+  "Przyjazny i pomocny personel.",
+  "Czyste pokoje i dobre jedzenie.",
+  "Bezpłatne Wi-Fi w całym hotelu."
+ ],
+ "cons": [
+  "Potencjalny hałas uliczny w pokojach od strony ulicy.",
+  "Dodatkowe opłaty za leżaki i parasole na plaży, sejf i napoje do kolacji.",
+  "Twarde materace w niektórych pokojach (według opinii).",
+  "Brak zjeżdżalni wodnych dla dorosłych."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Grand Okan znajduje się około 50-100 metrów od piaszczysto-żwirowej Plaży Kleopatry. Przejście na plażę odbywa się przez ulicę."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Gazipaşa-Alanya Airport (GZP), oddalone o około 39.5 - 45 km. Lotnisko Antalya (AYT) znajduje się około 120 - 135 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada dwa odkryte baseny, w tym jeden dla dzieci, ale brak jest informacji o zjeżdżalniach wodnych dla dorosłych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferując oddzielny basen dla dzieci. Jest polecany dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są wliczone w cenę?",
+   "a": "Nie, leżaki i parasole na plaży są dodatkowo płatne."
+  }
+ ],
+ "address": "Saray Mah. Atatürk Bulv. No139, 07400 Alanya, Turcja",
+ "adultsOnly": false,
+ "airportKm": 39.5,
+ "airportName": "Gazipaşa-Alanya Airport (GZP)",
+ "amenities": [
+  "Siłownia",
+  "Spa",
+  "Rzutki",
+  "Tenis stołowy",
+  "Siatkówka plażowa"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Saray",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta i żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "pary",
+  "starsi goście",
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1998,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2019,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Double/Twin (widok na ląd, częściowy widok na morze, widok na morze, widok na góry)",
+  "Single (widok na góry, częściowy widok na morze)",
+  "Executive One-Bedroom Suite",
+  "Family Room (widok na ogród)",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 146,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.5476095,
+  "lon": 31.9834148,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "quierohotel.com",
+  "trivago.com",
+  "tui.no",
+  "coral.ge",
+  "aurinkomatkat.fi",
+  "hotelsguidealanya.com",
+  "admiral.travel"
+ ],
+ "updated": "2026-11-27"
+}

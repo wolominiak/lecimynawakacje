@@ -1,0 +1,133 @@
+{
+ "id": 37819,
+ "slug": "by-karaaslan-inn",
+ "name": "By Karaaslan Inn",
+ "country": "turcja",
+ "place": [
+  "Turcja",
+  "Wybrzeże Egejskie",
+  "Kusadasi"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/by-karaaslan-inn-plaza-budynek-glowny-obiekt-846005942-570-428.jpg",
+ "city": "Kuşadası",
+ "intro": [
+  "Hotel By Karaaslan Inn to czterogwiazdkowy obiekt położony w samym sercu Kuşadası na Tureckim Wybrzeżu Egejskim. Zlokalizowany jest naprzeciwko mariny i miejskiej plaży, co czyni go idealnym wyborem dla osób ceniących sobie bliskość atrakcji miasta i łatwy dostęp do morza.",
+  "Hotel polecany jest zarówno dla par, osób podróżujących solo, jak i rodzin z dziećmi. Oferuje komfortowe zakwaterowanie oraz szereg udogodnień, w tym baseny, spa i siłownię, zapewniając wygodną bazę wypadową do zwiedzania okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel By Karaaslan Inn znajduje się w centrum Kuşadası, w dzielnicy Türkmen Mahallesi, zaledwie 10-50 metrów od publicznej, piaszczystej plaży miejskiej. W bliskiej odległości (około 0,5 km) znajduje się ścisłe centrum miasta. Leżaki i parasole na plaży są dodatkowo płatne, a ręczniki plażowe dostępne są w hotelu za kaucją."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 65 pokojami, w tym standardowymi (19-20 m²), apartamentami (30 m²) oraz dwoma pokojami przystosowanymi dla osób niepełnosprawnych (24 m²). Wszystkie pokoje są klimatyzowane, dźwiękoszczelne i wyposażone w telewizor, minibar, sejf, czajnik oraz łazienkę z prysznicem. Większość posiada balkon, często z widokiem na morze lub miasto."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje różnorodne opcje wyżywienia, w tym śniadania (BB), śniadania i obiadokolacje (HB), pełne wyżywienie (FB) oraz All Inclusive. Na terenie obiektu znajduje się restauracja główna, restauracja à la carte Panorama, snack bar, bar/lounge, bar przy basenie oraz kawiarnia. Śniadania serwowane są w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest sezonowy odkryty basen dla dorosłych oraz oddzielny basen dla dzieci. Basen zewnętrzny nie jest podgrzewany. Hotel oferuje również centrum spa z sauną, hammamem oraz płatnymi masażami i zabiegami kosmetycznymi, a także centrum fitness/siłownię. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel By Karaaslan Inn jest rekomendowany dla par, osób podróżujących solo oraz rodzin z dziećmi (dzieci w wieku 1-12 lat mogą przebywać bezpłatnie). Jego centralna lokalizacja sprawia, że jest to dobry wybór dla osób szukających łatwego dostępu do miejskich atrakcji, restauracji i życia nocnego."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko plaży i mariny",
+  "Przyjazny i pomocny personel",
+  "Czyste i komfortowe pokoje",
+  "Dobre śniadania",
+  "Piękny widok na morze z wielu pokoi"
+ ],
+ "cons": [
+  "Basen zewnętrzny nie jest podgrzewany",
+  "Brak ręczników basenowych (dostępne za kaucją)",
+  "Pokoje bywają małe",
+  "Możliwy hałas z ulicy",
+  "Brak parkingu na miejscu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bardzo blisko plaży, w odległości od 10 do 50 metrów od publicznej, piaszczystej plaży miejskiej."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Izmir Adnan Menderes Airport (ADB), oddalone o około 65-85 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni. Dostępny jest sezonowy odkryty basen dla dorosłych i basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Dzieci w wieku od 1 do 12 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy basen jest podgrzewany?",
+   "a": "Nie, basen zewnętrzny nie jest podgrzewany."
+  }
+ ],
+ "address": "Rıza Saraç Caddesi No: 2, 09400 Kuşadası / Aydın",
+ "adultsOnly": false,
+ "airportKm": 75,
+ "airportName": "Izmir Adnan Menderes Airport (ADB)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bezpłatne Wi-Fi",
+  "Klimatyzacja",
+  "Minibar",
+  "Sejf",
+  "Czajnik elektryczny"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Türkmen Mahallesi",
+ "bars": 3,
+ "beachDistanceM": 30,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary",
+  "Podróżujący solo",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1985,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój standardowy (ok. 19-20 m², klimatyzacja, TV, minibar, sejf, łazienka, suszarka, czajnik, telefon, większość z balkonem)",
+  "Apartament (ok. 30 m², klimatyzacja, TV, minibar, sejf, łazienka, suszarka, czajnik, telefon, większość z balkonem)",
+  "Pokój dla osób niepełnosprawnych (24 m², klimatyzacja, TV, minibar, sejf, łazienka, suszarka, czajnik, telefon, większość z balkonem)"
+ ],
+ "rooms": 65,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "enuygun.com",
+  "kompastour.com",
+  "karaaslanhotels.com",
+  "1agreen.rs",
+  "planetofhotels.com",
+  "booking.com",
+  "loveholidays.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-27"
+}
