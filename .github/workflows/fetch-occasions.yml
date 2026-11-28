@@ -1,0 +1,38 @@
+# Oferty na sylwestra i walentynki (skan API wakacje.pl), kilka razy dziennie.
+name: Oferty sylwester i walentynki
+
+on:
+  schedule:
+    - cron: '41 3,11,17 * * *'
+  workflow_dispatch:
+  push:
+    paths: ['scripts/fetch-occasions.mjs']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-occasions
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+      - run: node scripts/fetch-occasions.mjs
+      - name: Commit i push
+        run: |
+          git config user.name "wolominiak"
+          git config user.email "228559845+wolominiak@users.noreply.github.com"
+          git add public/occasions
+          git diff --cached --quiet && exit 0
+          git commit -m "Oferty sylwester i walentynki"
+          for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin main && exit 0; sleep $((i*5)); done
+          exit 1

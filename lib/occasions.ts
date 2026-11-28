@@ -12,6 +12,7 @@ export type Occasion = {
   month: string;              // miesiąc cen lotów, np. 2026-12
   dep: string; ret: string; datesLabel: string;
   allHref: string; allLabel: string;
+  offersTitle: string; offersLabel: string; offersNote: string;
   warmTitle: string; warmEyebrow: string; warmNote: string; offerLabel: string; offerHref: (w: OccWarm) => string;
   cityTitle: string; cityNote: string;
   warm: OccWarm[]; cities: OccCity[];
@@ -31,6 +32,8 @@ export const SYLWESTER: Occasion = {
   metaDesc: 'Gdzie na sylwestra za granicę? Oferty biur podróży na przełom roku w Egipcie, na Kanarach, w Dubaju i na Maderze oraz tanie loty na sylwestra do Rzymu, Pragi, Barcelony i Londynu.',
   until: '2027-01-01', month: '2026-12', dep: '2026-12-30', ret: '2027-01-02', datesLabel: '30.12-02.01',
   allHref: '/go/sylwester/', allLabel: 'Wszystkie oferty sylwestrowe',
+  offersTitle: 'Oferty na sylwestra', offersLabel: 'sylwestrowych',
+  offersNote: 'Wyjazdy, w których pobyt obejmuje noc z 31 grudnia na 1 stycznia, od kilkudziesięciu biur podróży. Lista odświeża się kilka razy dziennie, aktualną cenę zobaczysz po kliknięciu.',
   warmEyebrow: 'Ciepłe kraje', warmTitle: 'Sylwester na plaży',
   warmNote: 'Przycisk "Oferty na sylwestra" otwiera wyszukiwarkę wakacje.pl z terminami na przełom roku od kilkudziesięciu biur podróży.',
   offerLabel: 'Oferty na sylwestra', offerHref: (w) => `/go/sylwester/${w.path}/`,
@@ -88,6 +91,8 @@ export const WALENTYNKI: Occasion = {
   metaDesc: 'Gdzie na walentynki za granicę? Romantyczne miasta na długi weekend 12-15 lutego (Paryż, Wenecja, Rzym, Lizbona, Praga) i ciepłe kraje dla par: Madera, Kanary, Egipt, Malediwy.',
   until: '2027-02-14', month: '2027-02', dep: '2027-02-12', ret: '2027-02-15', datesLabel: '12-15.02',
   allHref: '/go/walentynki/', allLabel: 'Walentynkowe oferty biur',
+  offersTitle: 'Oferty na walentynki', offersLabel: 'walentynkowych',
+  offersNote: 'Wyjazdy, w których pobyt obejmuje 14 lutego, od kilkudziesięciu biur podróży. Lista odświeża się kilka razy dziennie, aktualną cenę zobaczysz po kliknięciu.',
   warmEyebrow: 'Słońce zimą', warmTitle: 'Walentynki w ciepłych krajach',
   warmNote: 'Przycisk "Oferty wyjazdów" otwiera wyszukiwarkę wakacje.pl z ofertami do danego kraju od kilkudziesięciu biur podróży. Wybierz termin w lutym.',
   offerLabel: 'Oferty wyjazdów', offerHref: (w) => `/go/wakacje/${w.path}/`,

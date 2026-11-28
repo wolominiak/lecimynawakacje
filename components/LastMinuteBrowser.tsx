@@ -29,6 +29,7 @@ export type DealCfg = {
   label: string;                // "last minute", "all inclusive"...
   cmp: string;                  // znacznik w linku /go/oferta/?c=
   allLink: string;              // link "zobacz wszystkie na wakacje.pl"
+  source?: string;              // gotowa lista ofert (JSON z GitHub Actions) zamiast zapytań do API
 };
 const LM_CFG: DealCfg = { mode: 'lastminute', label: 'last minute', cmp: 'last-minute', allLink: '/go/last-minute/' };
 const isObjazd = (o: { placeName: string[] }) => /objazd/i.test(o.placeName?.[1] || '');
@@ -128,6 +129,11 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
     };
     // najpierw ogólna pula, potem kraje po kilka naraz; wyniki pokazujemy, gdy tylko przyjdą
     (async () => {
+      if (cfg.source) {
+        try { const j = await (await fetch(cfg.source)).json(); add(Array.isArray(j.offers) ? j.offers : []); } catch { add([]); }
+        if (!cancel) setDone(true);
+        return;
+      }
       if (globalPool) add(await load({ limit: 100 }, cfg));
       const queue = [...countries];
       const per = lm ? 30 : 40;

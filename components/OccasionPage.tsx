@@ -1,6 +1,7 @@
 import Crumbs from './Crumbs';
 import Faq from './Faq';
 import CategoryBar from './CategoryBar';
+import LastMinuteBrowser from './LastMinuteBrowser';
 import { imageFor } from '@/lib/images';
 import { monthFlight, type Occasion } from '@/lib/occasions';
 
@@ -19,13 +20,19 @@ export default function OccasionPage({ o }: { o: Occasion }) {
             <h1>{o.h1}</h1>
             <p className="lead">{o.lead}</p>
             <div className="hero-cta">
-              <a className="btn" href={o.allHref} target="_blank" rel="sponsored nofollow noopener">{o.allLabel}</a>
+              <a className="btn" href="#oferty">Zobacz oferty</a>
               <a className="btn btn-ghost" href="#miasta">{o.cityTitle}</a>
             </div>
           </div>
         </div>
       </section>
       <div className="wrap"><CategoryBar active={o.slug} /></div>
+
+      <section className="wrap section-sm" id="oferty">
+        <div className="sec-head"><div><span className="eyebrow">{o.eyebrow}</span><h2>{o.offersTitle}</h2></div></div>
+        <p className="ny-note">{o.offersNote}</p>
+        <LastMinuteBrowser countries={[]} globalPool={false} cfg={{ mode: 'all', label: o.offersLabel, cmp: o.slug, allLink: o.allHref, source: `/occasions/${o.slug}.json` }} />
+      </section>
 
       <section className="wrap section-sm">
         <div className="sec-head"><div><span className="eyebrow">{o.warmEyebrow}</span><h2>{o.warmTitle}</h2></div></div>
