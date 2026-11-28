@@ -28,6 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     u('/wakacje/', 0.9),
     u('/gdzie-na-wakacje/', 0.8),
     u('/last-minute/', 0.9, { daily: true }),
+    u('/sylwester/', 0.9, { daily: true }),
     u('/rejsy/', 0.9, { daily: true, img: imageFor('rejsy') }),
     u('/asystent/', 0.8),
     u('/o-serwisie/', 0.3),
