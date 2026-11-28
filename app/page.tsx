@@ -5,11 +5,12 @@ import Search from '@/components/Search';
 import { DestCard } from '@/components/Cards';
 import { CONTINENTS, MONTHS, getCountries, getByContinent, popular, warmIn } from '@/lib/data';
 import { SITE } from '@/lib/affiliate';
-import { nyActive } from '@/lib/sylwester';
+import { currentOccasion } from '@/lib/occasions';
 
 const MONTH_TAG = ['Ferie', 'Ferie', 'Przedwiośnie', 'Wielkanoc', 'Majówka', 'Początek lata', 'Wakacje', 'Wakacje', 'Po sezonie', 'Złota jesień', 'Ucieczka od szarości', 'Święta'];
 
 export default function Home() {
+  const occ = currentOccasion();
   const all = getCountries();
   const withGuide = all.filter((c) => c.content);
   const regions = withGuide.reduce((n, c) => n + (c.content!.regions?.length || 0), 0);
@@ -83,11 +84,11 @@ export default function Home() {
       <section className="section">
         <div className="wrap">
           <div className="feat">
-            {nyActive() && (
-              <a href="/sylwester/" className="hot">
-                <b>Sylwester za granicą</b>
-                <span>Nowy Rok na plaży w Egipcie, pod fajerwerkami w Dubaju albo na city breaku w Rzymie i Pradze.</span>
-                <em>Zobacz oferty &rarr;</em>
+            {occ && (
+              <a href={`/${occ.slug}/`} className="hot">
+                <b>{occ.home.title}</b>
+                <span>{occ.home.text}</span>
+                <em>Zobacz pomysły &rarr;</em>
               </a>
             )}
             <a href="/all-inclusive/">
@@ -100,7 +101,7 @@ export default function Home() {
               <span>Wyloty w najbliższych dniach z polskich lotnisk, często w dużo niższej cenie.</span>
               <em>Zobacz wyloty &rarr;</em>
             </a>
-            <a href="/kontynenty/azja/" className={nyActive() ? undefined : 'hot'}>
+            <a href="/kontynenty/azja/" className={occ ? undefined : 'hot'}>
               <b>Egzotyka na zimę</b>
               <span>Tajlandia, Malediwy, Dominikana, Zanzibar i inne kierunki, gdzie w grudniu jest 30 stopni.</span>
               <em>Wybierz kierunek &rarr;</em>

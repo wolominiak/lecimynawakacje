@@ -2,13 +2,14 @@ import { getCountry, wakacjeCountryId } from './data';
 import type { DealCfg, LmCountry } from '@/components/LastMinuteBrowser';
 
 // Kategorie wyjazdów: pasek z ikonami na stronie głównej + strony z wyszukiwarką ofert.
-export type CatIcon = 'bolt' | 'infinity' | 'wallet' | 'beach' | 'palm' | 'bus' | 'ship' | 'plane' | 'bed' | 'car' | 'ticket' | 'spark' | 'party';
+export type CatIcon = 'bolt' | 'infinity' | 'wallet' | 'beach' | 'palm' | 'bus' | 'ship' | 'plane' | 'bed' | 'car' | 'ticket' | 'spark' | 'party' | 'heart';
 export type Cat = { slug: string; label: string; href: string; icon: CatIcon };
 
-const NY_ON = new Date().toISOString().slice(0, 10) <= '2027-01-01';
+const TODAY = new Date().toISOString().slice(0, 10);
 
 export const CATEGORIES: Cat[] = [
-  ...(NY_ON ? [{ slug: 'sylwester', label: 'Sylwester', href: '/sylwester/', icon: 'party' as CatIcon }] : []),
+  ...(TODAY <= '2027-01-01' ? [{ slug: 'sylwester', label: 'Sylwester', href: '/sylwester/', icon: 'party' as CatIcon }] : []),
+  ...(TODAY <= '2027-02-14' ? [{ slug: 'walentynki', label: 'Walentynki', href: '/walentynki/', icon: 'heart' as CatIcon }] : []),
   { slug: 'last-minute', label: 'Last minute', href: '/last-minute/', icon: 'bolt' },
   { slug: 'all-inclusive', label: 'All inclusive', href: '/all-inclusive/', icon: 'infinity' },
   { slug: 'tanie-wakacje', label: 'Do 2000 zł', href: '/tanie-wakacje/', icon: 'wallet' },

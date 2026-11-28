@@ -26,6 +26,7 @@ const nextConfig = {
       { source: '/go/all-inclusive/:path', destination: `https://www.wakacje.pl/wczasy/:path/?all-inclusive&${W}`, permanent: false },
       { source: '/go/sylwester', destination: `https://www.wakacje.pl/wczasy/?sylwester&${W}`, permanent: false },
       { source: '/go/sylwester/:path', destination: `https://www.wakacje.pl/wczasy/:path/?sylwester&${W}`, permanent: false },
+      { source: '/go/walentynki', destination: `https://www.wakacje.pl/p/walentynki.html?${W}`, permanent: false },
       { source: '/go/rejsy', destination: `https://www.wakacje.pl/rejsy/?${W}`, permanent: false },
       { source: '/go/last-minute', destination: `https://www.wakacje.pl/lastminute/?${W}`, permanent: false },
       { source: '/go/esim/:handle', destination: 'https://esimgo.is/pl/products/:handle?utm_source=lecimynawakacje&utm_medium=referral&utm_campaign=esim', permanent: false },
