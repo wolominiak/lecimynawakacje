@@ -1,0 +1,153 @@
+{
+ "id": "x:wlochy:flamingo",
+ "slug": "flamingo",
+ "name": "Flamingo",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia",
+  "Pula/Santa Margherita di Pula"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/pula-santa-margherita-di-pula/flamingo/hotel_flamingo_hr_110.jpg",
+ "city": "Santa Margherita di Pula",
+ "intro": [
+  "Hotel Flamingo Resort to czterogwiazdkowy obiekt położony bezpośrednio przy prywatnej, piaszczystej plaży w Santa Margherita di Pula, na południowym krańcu Sardynii. Otoczony prywatnym parkiem eukaliptusowym, oferuje spokojny wypoczynek w malowniczej scenerii. Hotel składa się z budynku głównego oraz kilku mniejszych willi i aneksów, co zapewnia kameralną atmosferę.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, dzięki płytkiemu wejściu do morza, mini klubowi i basenowi dla najmłodszych, a także dla par szukających romantycznego miejsca na wakacje. Miłośnicy plażowania i sportów wodnych również znajdą tu coś dla siebie, choć wejście do morza bywa kamieniste, co warto wziąć pod uwagę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Flamingo Resort leży w miejscowości Santa Margherita di Pula, bezpośrednio przy prywatnej, piaszczystej plaży. Wejście do morza jest początkowo kamieniste/żwirowe, a po kilku metrach piaszczyste, dlatego zalecane są buty do wody. Na plaży dostępne są leżaki i zacienione miejsca, zazwyczaj w trzecim rzędzie bezpłatnie, natomiast w pierwszych dwóch rzędach są one dodatkowo płatne. Najbliższe lotnisko Cagliari Elmas (CAG) znajduje się w odległości około 30-50 km, a centrum Puli około 4-7 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 166 do 188 pokoi w różnorodnych typach, od Standard po Suite, rozmieszczonych w budynku głównym oraz mniejszych willach i aneksach. Wszystkie pokoje wyposażone są w klimatyzację, minibar, telewizor z płaskim ekranem, sejf, suszarkę do włosów oraz zestaw do parzenia kawy/herbaty. Większość posiada balkon, patio lub taras z meblami."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje. Główna restauracja I Coralli serwuje kuchnię regionalną, międzynarodową i sardyńską. Restauracja Le Lanterne przy basenie oferuje śniadania w formie bufetu i obiady a la carte. Ekskluzywna restauracja Wild Duck jest zarezerwowana dla gości pokoi Nidi Superior i Nidi Suites. Hotel oferuje wyżywienie w opcji śniadań (B&B) oraz obiadokolacji (HB), napoje do obiadokolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym odkrytym basenem ze słodką wodą oraz oddzielnym, płytkim basenem dla dzieci. Dostępny jest również kryty basen, który jest dodatkowo płatny. Na terenie obiektu znajduje się centrum Wellness Ippocampo (otwarte od czerwca do września) z podgrzewanym basenem z hydromasażem, sauną i łaźnią turecką. Dostępne są korty tenisowe (płatne), boisko do siatkówki plażowej, minigolf oraz tenis stołowy. Sporty wodne są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw i mini-golf. Mini klub dla dzieci w wieku 3-12 lat działa od połowy czerwca do połowy września, oferując animacje. Dostępny jest również płytki basen dla dzieci. Hotel jest przyjazny rodzinom."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Duży basen i zadbany teren zielony",
+  "Różnorodność typów pokoi",
+  "Dobrej jakości jedzenie, szczególnie kolacje",
+  "Animacje i mini klub dla dzieci"
+ ],
+ "cons": [
+  "Wejście do morza bywa kamieniste, zalecane buty do wody",
+  "Płatne leżaki i parasole w pierwszych rzędach na plaży",
+  "Płatne ręczniki plażowe",
+  "Niektóre udogodnienia lub wyposażenie mogą być przestarzałe",
+  "Dodatkowo płatne wejścia do krytego basenu i siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Hotel oferuje wyżywienie w opcji śniadań (B&B) oraz obiadokolacji (HB). Brak informacji o pakiecie all inclusive."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje płytki basen, plac zabaw, mini-golf oraz mini klub dla dzieci."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Cagliari Elmas (CAG) znajduje się w odległości około 30-50 km, co oznacza około 40-50 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy Wi-Fi jest dostępne w hotelu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu: w pokojach, lobby, barze i restauracjach."
+  }
+ ],
+ "address": "SS 195, Km 33,800, 09010 Santa Margherita di Pula (Cagliari), Sardynia, Włochy",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Cagliari Elmas Airport (CAG)",
+ "amenities": [
+  "Klimatyzacja",
+  "Minibar",
+  "Sejf",
+  "Suszarka do włosów",
+  "Zestaw do parzenia kawy/herbaty",
+  "Spersonalizowane kosmetyki łazienkowe",
+  "Szlafroki i kapcie",
+  "Balkon/patio/taras (w większości pokoi)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Santa Margherita di Pula",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "Piaszczysta, z kamienistym/żwirowym wejściem do morza",
+ "centerKm": 5.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Nowożeńcy",
+  "Miłośnicy plażowania",
+  "Miłośnicy sportów wodnych"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1969,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 3,
+ "roomTypes": [
+  "Double",
+  "Suite",
+  "Twin/Double",
+  "Family",
+  "Standard",
+  "Standard Sea View",
+  "Superior Sea View",
+  "Executive",
+  "Executive Lateral Sea View",
+  "Executive Family",
+  "Executive Suite",
+  "Junior Suite Sea View",
+  "Suite Sea View",
+  "I Nidi Deluxe",
+  "I Nidi Suite",
+  "I Nidi Garden View"
+ ],
+ "rooms": 176,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.0087314,
+  "lon": 28.9500509,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "holidaycheck.de",
+  "hotelflamingo.it",
+  "italytraveller.com",
+  "reserving.com",
+  "cateringflamingo.it",
+  "wikimapia.org",
+  "mapy.com"
+ ],
+ "updated": "2026-11-28"
+}

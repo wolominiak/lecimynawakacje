@@ -1,0 +1,138 @@
+{
+ "id": 35358,
+ "slug": "tonicello-resort",
+ "name": "Tonicello Resort",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Kalabria",
+  "Capo Vaticano"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/tonicello-resort-basen-1785297748-570-428.jpg",
+ "city": "Capo Vaticano",
+ "intro": [
+  "Tonicello Resort to czterogwiazdkowy obiekt położony w malowniczej miejscowości Capo Vaticano, na słynnym \"Wybrzeżu Bogów\" w Kalabrii. Hotel oferuje spektakularne widoki na Wyspy Liparyjskie, co czyni go idealnym miejscem dla osób poszukujących relaksu w otoczeniu pięknej przyrody.",
+  "Hotel jest rekomendowany dla rodzin, par oraz wszystkich gości, którzy cenią sobie spokój, kontakt z naturą i lokalną kuchnię. Dzięki bogatej ofercie rekreacyjnej i udogodnieniom dla dzieci, obiekt zapewnia komfortowy pobyt dla gości w każdym wieku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Tonicello Resort & SPA znajduje się w Capo Vaticano, w gminie Ricadi, z widokiem na Wyspy Liparyjskie. Hotel dysponuje prywatną, piaszczystą plażą, oddaloną o około 550 metrów. Goście mogą korzystać z bezpłatnych leżaków i parasoli oraz bezpłatnego transferu busem na plażę."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 45 klimatyzowanych pokoi, wille i apartamenty, w tym pokoje Classic, Comfort, Junior Suite i Suite. Wszystkie są wyposażone w telewizor z płaskim ekranem, minibar, sejf, Wi-Fi oraz prywatną łazienkę. Niektóre typy pokoi posiadają balkon lub taras, a apartamenty mogą składać się z dwóch połączonych pokoi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja Le Macine, Xanthos Bistrot, która serwuje typową kuchnię kalabryjską, przygotowywaną z lokalnych produktów. Śniadania podawane są w formie bufetu z domowymi i lokalnymi specjałami. Goście mają do dyspozycji również bar oraz bar przekąskowy przy basenie. Dostępna jest opcja wyżywienia HB (śniadania i kolacje)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen oraz brodzik dla dzieci, a także leżaki i parasole. Hotel oferuje centrum spa \"Tempio di Aphrodite\" z sauną, łaźnią parową i jacuzzi, a także siłownię. Dostępne są liczne aktywności, takie jak tenis, tenis stołowy, wycieczki rowerowe oraz sporty wodne (za dodatkową opłatą)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Tonicello Resort to hotel przyjazny rodzinom. Dla najmłodszych gości przygotowano mini klub, plac zabaw oraz brodzik. Codziennie organizowane są programy animacyjne dla dzieci i dorosłych, zapewniające rozrywkę przez cały dzień."
+  }
+ ],
+ "pros": [
+  "Piękna lokalizacja z widokiem na morze i Wyspy Liparyjskie",
+  "Prywatna, piaszczysta plaża z bezpłatnym serwisem",
+  "Przyjazny i pomocny personel",
+  "Dobra restauracja z lokalną kuchnią",
+  "Bezpłatny transfer na plażę i parking"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą wymagać odnowienia",
+  "Sporadyczne problemy z wyposażeniem i konserwacją",
+  "Twarde łóżka i potencjalny hałas",
+  "Brak informacji o roku otwarcia i ostatniego remontu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Prywatna piaszczysta plaża hotelowa znajduje się około 550 metrów od obiektu. Hotel oferuje bezpłatny transfer busem na plażę."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada mini klub, plac zabaw, brodzik dla dzieci oraz codzienne animacje."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Lamezia Terme International Airport (SUF), oddalone o około 64 km."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, na terenie obiektu znajduje się odkryty basen oraz brodzik dla dzieci. Basen jest otwarty od 1 marca do 31 października."
+  },
+  {
+   "q": "Czy hotel oferuje spa lub siłownię?",
+   "a": "Tak, hotel dysponuje centrum spa \"Tempio di Aphrodite\" z sauną, łaźnią parową i jacuzzi, a także siłownią/centrum fitness."
+  }
+ ],
+ "address": "Località Capo Vaticano, 89866 Capo Vaticano VV, Włochy",
+ "adultsOnly": false,
+ "airportKm": 64,
+ "airportName": "Lamezia Terme International Airport (SUF)",
+ "amenities": [
+  "prywatna plaża",
+  "bezpłatne leżaki i parasole na plaży",
+  "bezpłatny transfer na plażę",
+  "mini klub dla dzieci",
+  "plac zabaw",
+  "centrum spa",
+  "siłownia",
+  "Wi-Fi",
+  "parking"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Capo Vaticano, Costa degli Dei",
+ "bars": 2,
+ "beachDistanceM": 550,
+ "beachType": "piaszczysta",
+ "centerKm": 1.6,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu",
+  "miłośnicy natury"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój Classic z widokiem na ogród",
+  "Villetta",
+  "pokój Comfort z widokiem na basen lub morze",
+  "Junior Suite",
+  "Suite",
+  "Classic Suite z widokiem na ogród, basen lub morze"
+ ],
+ "rooms": 45,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "tonicello.it",
+  "fischer.cz",
+  "youtube.com",
+  "loveholidays.com",
+  "amimir.com",
+  "kayak.ie",
+  "google.com.ng"
+ ],
+ "updated": "2026-11-28"
+}

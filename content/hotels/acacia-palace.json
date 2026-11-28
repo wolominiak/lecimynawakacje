@@ -1,0 +1,135 @@
+{
+ "id": "x:wlochy:acacia palace",
+ "slug": "acacia-palace",
+ "name": "Acacia Palace",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sycylia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sicilie/marina-di-ragusa/acacia-palace/9752/470771ac7006cd3ae06b1fa8c6217b11_202184989-244.jpg",
+ "city": "Marina di Ragusa",
+ "intro": [
+  "Acacia Palace to czterogwiazdkowy hotel położony w spokojnej części Marina di Ragusa na Sycylii, bezpośrednio przy promenadzie Lungomare Andrea Doria. Obiekt charakteryzuje się nowoczesnym designem i dużym, zadbanym ogrodem śródziemnomorskim. Jest to idealne miejsce dla osób poszukujących relaksu i spokojnego wypoczynku w otoczeniu natury.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych (od 12 lub 13 lat), co czyni go doskonałym wyborem dla par oraz osób ceniących sobie ciszę i spokój. Bliskość piaszczystej plaży oraz centrum Marina di Ragusa sprawia, że jest to również dobra baza wypadowa do zwiedzania barokowych miast Sycylii, wpisanych na listę UNESCO."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Acacia Palace znajduje się w Marina di Ragusa, bezpośrednio przy promenadzie Lungomare Andrea Doria. Piaszczysta plaża Spiaggia di Marina di Ragusa, z drobnym, złotym piaskiem, oddalona jest o zaledwie 50-200 metrów. Hotel dysponuje prywatną, wyposażoną częścią plaży, gdzie leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 60 nowocześnie urządzonych pokoi, w tym Pokoje Deluxe i Suite. Każdy pokój wyposażony jest w klimatyzację, telewizor z płaskim ekranem, bezpłatne Wi-Fi, balkon lub taras, minibar oraz zestaw do parzenia kawy/herbaty. W łazienkach znajdują się prysznice, bidet, suszarka do włosów i zestaw kosmetyków, a łóżka wyposażono w pościel z egipskiej bawełny i materace z pianki memory."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, w tym jeden sezonowy i jeden typu infinity z hydromasażem, z których jeden jest przeznaczony wyłącznie dla dorosłych. Goście mogą korzystać ze spa oferującego solarium, saunę, łaźnię parową, jacuzzi oraz różnorodne zabiegi. Dostępne jest również centrum fitness z wyposażeniem Technogym oraz kort tenisowy."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Acacia Palace oferuje wyżywienie w opcjach Bed & Breakfast oraz Half Board. Restauracja hotelowa serwuje dania kuchni sycylijskiej i międzynarodowej, z bufetem na śniadanie i kolacjami a la carte. Na terenie obiektu znajdują się również bar/lounge, bar przy basenie oraz snack bar/deli."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Acacia Palace to hotel przeznaczony wyłącznie dla dorosłych (minimum 12 lub 13 lat), co czyni go idealnym miejscem dla par i osób szukających spokojnego wypoczynku. Bliskość plaży, centrum miasta oraz barokowych miast Sycylii sprawia, że jest to doskonała opcja zarówno dla miłośników relaksu, jak i kultury."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Piękne i zadbane baseny",
+  "Wysoka czystość i nowoczesne pokoje",
+  "Obfite i różnorodne śniadania",
+  "Pomocna obsługa",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Dodatkowe opłaty za leżaki i parasole na plaży",
+  "Sporadycznie mniej przyjazny personel recepcji",
+  "Ograniczony wybór świeżych owoców/warzyw na śniadanie",
+  "Małe, choć funkcjonalne łazienki"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Spiaggia di Marina di Ragusa znajduje się około 50-200 metrów od hotelu, czyli 1-5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną, wyposażoną część plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Comiso (CIY), oddalone o około 25 km. Lotnisko Catania Fontanarossa (CTA) znajduje się około 118-120 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (minimum 12 lub 13 lat) i nie oferuje udogodnień dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "Via delle Sirene, 27, 97010 Marina di Ragusa RG, Italy",
+ "adultsOnly": true,
+ "airportKm": 25,
+ "airportName": "Comiso (CIY)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Baseny zewnętrzne",
+  "Bezpłatne Wi-Fi",
+  "Prywatna plaża"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Lungomare Andrea Doria",
+ "bars": 3,
+ "beachDistanceM": 200,
+ "beachType": "Piaszczysta, z drobnym, złotym piaskiem",
+ "centerKm": 0.8,
+ "goodFor": [
+  "Pary",
+  "Osoby szukające relaksu",
+  "Miłośnicy kultury"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje Deluxe (z widokiem na dziedziniec, częściowym widokiem na morze, z wanną spa)",
+  "Suite z widokiem na morze",
+  "Pokoje Palace (niektóre z widokiem na morze i wanną jacuzzi)"
+ ],
+ "rooms": 60,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7827382,
+  "lon": 14.5645612,
+  "src": "osm"
+ },
+ "sources": [
+  "sicilyhotelsitaly.net",
+  "booking.com",
+  "hotelsonsicily.com",
+  "acaciapalace.com",
+  "citalia.com",
+  "onthebeach.ie",
+  "trivago.co.uk",
+  "agoda.com"
+ ],
+ "updated": "2026-11-28"
+}

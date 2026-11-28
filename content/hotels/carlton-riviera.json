@@ -1,0 +1,132 @@
+{
+ "id": 74848,
+ "slug": "carlton-riviera",
+ "name": "Carlton Riviera",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sycylia",
+  "Cefalu"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001397101-570-428.jpg",
+ "city": "Cefalù",
+ "intro": [
+  "Hotel Carlton Riviera, położony w malowniczej miejscowości Cefalù na Sycylii, to czterogwiazdkowy obiekt usytuowany w spokojnej, wiejskiej okolicy Contrada Capo Plaja, bezpośrednio na klifach z widokiem na Morze Tyrreńskie. Obiekt składa się z dwóch budynków i oferuje komfortowy wypoczynek w odnowionych pokojach.",
+  "Carlton Riviera to idealne miejsce dla rodzin z dziećmi oraz osób poszukujących relaksu, słońca i komfortu z dostępem do prywatnych plaż. Hotel zapewnia szeroki wachlarz udogodnień, w tym baseny, animacje oraz różnorodne aktywności sportowe, co czyni go atrakcyjnym wyborem na wakacje na Sycylii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Carlton Riviera znajduje się w Cefalù, w dzielnicy Contrada Capo Plaja, około 7 km od centrum miejscowości. Obiekt jest położony bezpośrednio przy morzu i dysponuje dwiema prywatnymi, kamienistymi plażami ze skalistym dnem. Na plażach dostępne są leżaki, parasole oraz ręczniki plażowe. Zaleca się używanie obuwia ochronnego."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 135-144 pokoje, w tym standardowe, dwuosobowe, trzyosobowe, rodzinne oraz King, z których część została niedawno odnowiona. Pokoje wyposażone są w klimatyzację, bezpłatne Wi-Fi, telewizor z płaskim ekranem, minibar, sejf oraz prywatną łazienkę z bidetem i suszarką do włosów. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje serwujące dania kuchni międzynarodowej i sycylijskiej, w tym jedna na świeżym powietrzu w gaju oliwnym. Śniadania w formie bufetu dostępne są również na panoramicznym tarasie na czwartym piętrze. Do dyspozycji gości są także bar/lounge oraz bar przy basenie. Formuła All Inclusive obejmuje napoje do posiłków oraz Open Bar z wybranymi napojami od 10:00 do 23:00, a także przekąski w ciągu dnia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Carlton Riviera oferuje dwa sezonowe baseny zewnętrzne, w tym jeden ze słoną wodą i jeden z widokiem na morze. Dostępny jest również oddzielny basen dla dzieci. Goście mogą korzystać z centrum fitness/siłowni, jacuzzi oraz uprawiać sporty takie jak tenis ziemny, ping-pong, kajakarstwo, siatkówka plażowa i piłka nożna."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował plac zabaw, mini klub dla dzieci w wieku 4-12 lat oraz junior klub dla młodzieży 12-18 lat. W ramach animacji organizowane są dzienne i wieczorne zajęcia, w tym baby dance i wieczorne show."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do dwóch prywatnych plaż",
+  "Dwa baseny, w tym jeden z widokiem na morze",
+  "Taras na dachu ze śniadaniami i widokiem",
+  "Szeroki wybór aktywności sportowych i animacji",
+  "Mini klub dla dzieci i udogodnienia dla rodzin"
+ ],
+ "cons": [
+  "Hotel jest oddalony o około 7 km od centrum Cefalù",
+  "Plaże są kamieniste, zalecane obuwie ochronne",
+  "Brak aquaparku lub zjeżdżalni",
+  "Hotel jest zamknięty od 19 września do 15 maja"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy morzu i posiada dwie prywatne, kamieniste plaże."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Palermo (PMO), oddalone o około 76-95 km (około 1 godziny 10 minut jazdy)."
+  },
+  {
+   "q": "Czy hotel Carlton Riviera jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, plac zabaw oraz basen dla dzieci, a także animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni, ale oferuje dwa baseny zewnętrzne i basen dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Jest przyjazny rodzinom i akceptuje zwierzęta za dodatkową opłatą."
+  }
+ ],
+ "address": "Contrada Capo Plaja, Cefalu, Sicily, 90015, Italy",
+ "adultsOnly": false,
+ "airportKm": 76,
+ "airportName": "Palermo Falcone-Borsellino (PMO)",
+ "amenities": [
+  "Jacuzzi",
+  "Plac zabaw",
+  "Bezpłatny parking",
+  "Akceptacja zwierząt (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Contrada Capo Plaja",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "kamienista, skalista",
+ "centerKm": 7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "osoby szukające spokoju i komfortu"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój standardowy z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami, balkonem lub tarasem",
+  "pokój dwuosobowy z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami, balkonem lub tarasem",
+  "pokój trzyosobowy z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami, balkonem lub tarasem",
+  "pokój rodzinny z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami, balkonem lub tarasem",
+  "pokój typu King z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami, balkonem lub tarasem",
+  "Economy Twin Room z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami",
+  "pokój z widokiem na morze z klimatyzacją, Wi-Fi, TV, minibarem, sejfem, łazienką z bidetem, prysznicem, suszarką do włosów, bezpłatnymi kosmetykami, balkonem lub tarasem"
+ ],
+ "rooms": 135,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "sicilyhotelsitaly.net",
+  "trip.com",
+  "kiwitravel.it",
+  "alltours.it",
+  "hotelsonsicily.com",
+  "corendon.nl",
+  "hotels.com",
+  "stayoverhere.com"
+ ],
+ "updated": "2026-11-28"
+}

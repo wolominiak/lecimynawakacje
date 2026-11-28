@@ -1,0 +1,134 @@
+{
+ "id": 16568,
+ "slug": "grand-hotel-la-torre",
+ "name": "Grand Hotel La Torre",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Via Lattea",
+  "Sauze d'Oulx"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001459345-570-428.jpg",
+ "city": "Sauze d'Oulx",
+ "intro": [
+  "Grand Hotel La Torre to czterogwiazdkowy obiekt położony w centrum górskiej miejscowości Sauze d'Oulx we włoskim Piemoncie. Hotel mieści się w charakterystycznym, cylindrycznym budynku i jest idealnym wyborem dla miłośników aktywnego wypoczynku, szczególnie narciarzy, ze względu na bliskość wyciągów.",
+  "Całkowicie odnowiony w 2025 roku, hotel oferuje komfortowe warunki pobytu zarówno dla rodzin z dziećmi, jak i grup znajomych. Położenie na wysokości około 1509 m n.p.m. zapewnia piękne widoki na dolinę i sprzyja aktywnościom na świeżym powietrzu, takim jak narciarstwo, turystyka piesza czy golf."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Grand Hotel La Torre znajduje się w centrum Sauze d'Oulx, około 250 m od serca miejscowości, na wysokości 1509 m n.p.m. Hotel jest dobrze skomunikowany z wyciągami narciarskimi, oddalonymi o 400-450 m, do których kursują bezpłatne skibusy hotelowe. Najbliższe lotnisko w Turynie (TRN) oddalone jest o około 95 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 114 całkowicie odnowionymi pokojami, w tym dwuosobowymi oraz z możliwością dwóch dostawek, a także suite. Każdy pokój wyposażony jest w łazienkę z prysznicem lub wanną, suszarkę do włosów, telewizor z płaskim ekranem, bezpłatny sejf, telefon, ogrzewanie i zestaw kosmetyków. Niektóre pokoje oferują widok na góry lub dolinę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji serwowane są dania kuchni włoskiej, piemonckiej i regionalne specjały, zarówno w formie bufetu, jak i à la carte. Obiekt oferuje wyżywienie typu śniadania i obiadokolacje (half board), ze śniadaniami kontynentalnymi w formie bufetu. Goście mogą korzystać z czterech barów: Wine Lounge Bar, Bar Hall, Disco Pub oraz Black Knight."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada centrum wellness&spa, odnowione w 2025 roku, które oferuje kryty podgrzewany basen, saunę fińską, łaźnię parową, jacuzzi, prysznice aromatyczne, tepidarium i strefę relaksu. Dostępne są również masaże i zabiegi pielęgnacyjne. Na terenie obiektu znajduje się siłownia, przechowalnia sprzętu narciarskiego oraz wypożyczalnia nart."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel oferuje mini klub. Łóżeczko dla dziecka jest dostępne na zapytanie za dodatkową opłatą. Dzieci w wieku 8-16 lat mogą korzystać ze strefy spa do godziny 14:00 w towarzystwie osoby dorosłej, natomiast dzieci poniżej 8 lat mają zakaz wstępu do spa."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w miejscowości",
+  "Bliskość wyciągów narciarskich i bezpłatny skibus",
+  "Całkowicie odnowiony hotel (2025)",
+  "Przyjazny personel",
+  "Dobre śniadania w formie bufetu"
+ ],
+ "cons": [
+  "Potencjalny hałas z innych pokoi i korytarza",
+  "Dodatkowo płatne spa i wypożyczenie ręczników/klapek",
+  "Późna godzina kolacji (od 19:30)",
+  "Brak czajnika i szklanek w pokojach",
+  "Pokoje mogą być zbyt małe dla 3 dorosłych osób"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko, w Turynie (TRN), znajduje się około 95 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest blisko plaży?",
+   "a": "Hotel położony jest w górach, w ośrodku narciarskim, więc nie ma dostępu do plaży."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel posiada kryty, podgrzewany basen w centrum spa, dostępny za dodatkową opłatą."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel akceptuje rodziny z dziećmi i oferuje mini klub. Dzieci w wieku 8-16 lat mogą korzystać ze spa do godziny 14:00 w towarzystwie osoby dorosłej."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu i w pokojach."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Tak, siłownia jest dostępna w centrum wellness&spa."
+  }
+ ],
+ "address": "Via della Torre, 4, 10050 Sauze d'Oulx TO, Włochy",
+ "adultsOnly": false,
+ "airportKm": 95,
+ "airportName": "Turyn (TRN)",
+ "amenities": [
+  "przechowalnia sprzętu narciarskiego",
+  "wypożyczalnia nart",
+  "skibus hotelowy"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Via Lattea",
+ "bars": 4,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.25,
+ "goodFor": [
+  "miłośnicy aktywnego wypoczynku",
+  "rodziny z dziećmi",
+  "grupy znajomych",
+  "narciarze"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1937,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2025,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje dwuosobowe: łazienka z prysznicem lub wanną, suszarka do włosów, telewizor z płaskim ekranem/TV satelitarna, bezpłatny sejf, telefon, ogrzewanie, mini-bar (w niektórych pokojach), zestaw kosmetyków, bidet.",
+  "Pokoje dwuosobowe z możliwością 2 dostawek: łazienka z prysznicem lub wanną, suszarka do włosów, telewizor z płaskim ekranem/TV satelitarna, bezpłatny sejf, telefon, ogrzewanie, mini-bar (w niektórych pokojach), zestaw kosmetyków, bidet.",
+  "Suite: łazienka z prysznicem lub wanną, suszarka do włosów, telewizor z płaskim ekranem/TV satelitarna, bezpłatny sejf, telefon, ogrzewanie, mini-bar (w niektórych pokojach), zestaw kosmetyków, bidet."
+ ],
+ "rooms": 114,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 45.0287697,
+  "lon": 6.8578984,
+  "src": "osm"
+ },
+ "sources": [
+  "piemonteitalia.eu",
+  "wakacje.pl",
+  "travelpunkt.pl",
+  "amimagazine.global",
+  "travelweekly.com",
+  "hotelspa.eu",
+  "ohotel.uk",
+  "google.com"
+ ],
+ "updated": "2026-11-28"
+}

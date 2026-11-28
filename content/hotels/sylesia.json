@@ -1,0 +1,129 @@
+{
+ "id": "x:wlochy:sylesia",
+ "slug": "sylesia",
+ "name": "Sylesia",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sycylia",
+  "Listy"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/italie/sicilie/letojani/sylesia-pl/5182/2df_esterni-5-med__1_-244.jpg",
+ "city": "Letojanni",
+ "intro": [
+  "Hotel Sylesia to kameralny, trzygwiazdkowy obiekt położony w miejscowości Letojanni na Sycylii, we Włoszech. Znajduje się w środku zatoki Letojanni, zaledwie kilkadziesiąt metrów od Morza Jońskiego, co czyni go idealnym miejscem dla osób ceniących bliskość plaży.",
+  "Obiekt polecany jest zarówno dla par, jak i rodzin z dziećmi, które szukają spokojnego wypoczynku w rodzinnej atmosferze. Dzięki swojej lokalizacji stanowi również dobrą bazę wypadową do zwiedzania uroków wschodniej Sycylii, w tym pobliskiej Taorminy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sylesia usytuowany jest w Letojanni, około 30-40 metrów od publicznej plaży piaszczysto-żwirkowej lub piaszczysto-kamienistej. Zejście do morza jest łagodne, jednak zalecane jest obuwie ochronne. Hotel posiada wydzieloną część na plaży publicznej, gdzie leżaki i parasole dostępne są za dodatkową opłatą. Centrum Letojanni, ze sklepami, restauracjami i barami, oddalone jest o około 600 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 15-16 pokoi, które są regularnie odnawiane. Pokoje klasyczne dwuosobowe mają około 17 m². Dostępne są również pokoje trzyosobowe oraz pokoje Superior z podwójną sypialnią. Wszystkie pokoje są klimatyzowane (indywidualnie sterowana klimatyzacja/ogrzewanie) i wyposażone w łazienkę z prysznicem, telewizję satelitarną, telefon, sejf, minibar (płatny) oraz umeblowany balkon. W pokojach dostępne są ręczniki kąpielowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Sylesia serwowane są śniadania w formie bufetu, obejmujące śniadania kontynentalne lub amerykańskie z lokalnymi przysmakami. Na terenie obiektu znajduje się sala śniadaniowa oraz bar. Hotel oferuje pobyty ze śniadaniem (bed and breakfast)."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel Sylesia to trzypiętrowy budynek z windą, który przyjmuje gości od ponad 20 lat. W całym hotelu oraz w pokojach dostępny jest bezpłatny internet Wi-Fi, choć niektóre źródła wskazują, że może być on płatny. Hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje możliwość zamówienia łóżeczek dziecięcych."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Sylesia jest idealnym wyborem dla rodzin, par oraz osób szukających kameralnego wypoczynku nad morzem w spokojnej i rodzinnej atmosferze. Jego położenie sprawia, że jest to również dobra baza wypadowa do zwiedzania Taorminy i wschodniej Sycylii."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum Letojanni.",
+  "Kameralny charakter i rodzinna atmosfera.",
+  "Gościnna i pomocna obsługa.",
+  "Odnowione pokoje.",
+  "Taras z widokiem na morze."
+ ],
+ "cons": [
+  "Brak basenu i innych udogodnień rekreacyjnych.",
+  "Plaża publiczna, leżaki i parasole płatne.",
+  "Zalecane obuwie ochronne na plaży (piaszczysto-kamienista)."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Sylesia znajduje się około 30-40 metrów od plaży."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży przy hotelu?",
+   "a": "Plaża jest publiczna, piaszczysto-żwirkowa lub piaszczysto-kamienista, z łagodnym zejściem do morza. Zalecane jest obuwie ochronne."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Sylesia nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi. Istnieje możliwość zamówienia łóżeczek dziecięcych."
+  },
+  {
+   "q": "Jak daleko jest hotel od najbliższego lotniska?",
+   "a": "Hotel Sylesia jest oddalony o około 60-66 km od lotniska Catania-Fontanarossa (CTA)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w pokojach i na terenie całego hotelu dostępny jest bezpłatny internet bezprzewodowy. Niektóre źródła wskazują, że Wi-Fi może być dostępne za opłatą."
+  }
+ ],
+ "address": "Corso Vittorio Emanuele 301, 98037 Letojanni, Sycylia, Włochy",
+ "adultsOnly": false,
+ "airportKm": 60,
+ "airportName": "Catania-Fontanarossa (CTA)",
+ "amenities": [
+  "taras z widokiem na morze",
+  "winda",
+  "pokoje antyalergiczne",
+  "łóżeczka dziecięce (na życzenie)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "zatoka Letojanni",
+ "bars": 1,
+ "beachDistanceM": 30,
+ "beachType": "piaszczysto-żwirkowa lub piaszczysto-kamienista",
+ "centerKm": 0.6,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "osoby szukające wypoczynku nad morzem",
+  "osoby szukające bazy wypadowej do zwiedzania"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2003,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój klasyczny dwuosobowy (ok. 17 m², klimatyzacja, łazienka z prysznicem, TV sat., telefon, sejf, minibar, balkon)",
+  "pokój trzyosobowy (klimatyzacja, łazienka z prysznicem, TV sat., telefon, sejf, minibar, balkon)",
+  "pokój Superior (podwójna sypialnia, dodatkowy pokój dwuosobowy, klimatyzacja, łazienka z prysznicem, TV sat., telefon, sejf, minibar, balkon)"
+ ],
+ "rooms": 15,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "sicilyhotelsitaly.net",
+  "wakacje.pl",
+  "hotelsonsicily.com",
+  "quierohotel.com",
+  "sicily.co.uk",
+  "hotelsylesia.it",
+  "itaka.pl",
+  "kayak.pl"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,135 @@
+{
+ "id": "x:wlochy:sant elmo beach",
+ "slug": "sant-elmo-beach",
+ "name": "Sant'elmo Beach",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/castiadas/santelmo-beach/ol_piscina_view_vista.jpg",
+ "city": "Castiadas",
+ "intro": [
+  "Sant'Elmo Beach Hotel to czterogwiazdkowy obiekt położony na południowo-wschodnim wybrzeżu Sardynii, w malowniczej okolicy Castiadas, pomiędzy znanymi miejscowościami Costa Rei i Villasimius. Hotel jest idealnym miejscem dla osób poszukujących spokojnego wypoczynku w otoczeniu natury, z łatwym dostępem do pięknej, piaszczystej plaży.",
+  "Obiekt składa się z budynku głównego i bungalowów, rozmieszczonych w zadbanych ogrodach, co sprzyja relaksowi. Dzięki udogodnieniom dla dzieci, takim jak mini klub i animacje, hotel jest szczególnie polecany dla rodzin, ale także dla par ceniących sobie komfort i bliskość morza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sant'Elmo Beach znajduje się na południowo-wschodnim wybrzeżu Sardynii, około 400 metrów od piaszczystej plaży z białym, drobnym piaskiem i płytką, turkusową wodą. Plaża jest osłonięta przez Monte Turnu, a hotel dysponuje prywatną częścią z bezpłatnym serwisem plażowym (od czwartego rzędu). Najbliższe lotnisko w Cagliari (CAG) oddalone jest o około 56 km, a do centrum Villasimius jest około 9 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 178 pokoi w różnych kategoriach, w tym Cottage, Family, Deluxe Sea View i Suites. Pokoje Cottage znajdują się w willach z widokiem na park i prywatnym patio. Pokoje Family są dwupoziomowe i mogą pomieścić do czterech osób. Wszystkie pokoje są wyposażone w klimatyzację, telewizor, sejf, minibar i prywatną łazienkę. Pokoje Superior Cottage zostały odnowione w 2024 roku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja główna z bufetem, serwująca dania kuchni włoskiej i międzynarodowej. Goście mogą wybrać opcję ze śniadaniami, obiadokolacjami (Half Board) lub pełnym wyżywieniem (Full Board), które obejmuje wodę i wino domowe do posiłków. Pakiet All Inclusive oferuje napoje bezalkoholowe, piwo, lokalne alkohole oraz lody dla dzieci w barze \"Le Kentie\" od 11:00 do 22:00. Na terenie obiektu dostępne są również bar przy basenie i bar na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym odkrytym basenem ze słodką wodą o powierzchni około 300 m², z tarasem słonecznym wyposażonym w bezpłatne leżaki i parasole. Dla aktywnych dostępne są dwa korty tenisowe, boisko do piłki nożnej, koszykówki i siatkówki. Za dodatkową opłatą można korzystać ze sportów wodnych, takich jak narty wodne, surfing czy nurkowanie."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub dla dzieci w wieku 4-11 lat oraz klub dla nastolatków (12-16 lat), działający od czerwca do sierpnia. Dostępne są również animacje dzienne i wieczorne, w tym mini disco. W sezonie letnim wymagana jest opłata za kartę klubową, która obejmuje dostęp do animacji, klubów i obiektów sportowych."
+  }
+ ],
+ "pros": [
+  "Piękna lokalizacja i otoczenie",
+  "Czysta i ciepła woda w morzu",
+  "Uprzejmy i pomocny personel",
+  "Dobre jedzenie, szczególnie śniadania",
+  "Zadbany teren zielony"
+ ],
+ "cons": [
+  "Płatna woda do posiłków w opcji HB/FB",
+  "Niektóre pokoje mogą być przestarzałe",
+  "Plaża oddalona o 10 minut spacerem w pełnym słońcu",
+  "Hotel jest nieco odizolowany, wymaga samochodu do zwiedzania",
+  "Powtarzalność menu po kilku dniach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 400 metrów od piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną część plaży."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko w Cagliari (CAG) jest oddalone o około 56 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach. Hotel posiada duży odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje mini klub dla dzieci oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne bezpłatnie."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 56,
+ "airportName": "Cagliari (CAG)",
+ "amenities": [
+  "Korty tenisowe",
+  "Boisko do piłki nożnej",
+  "Boisko do koszykówki",
+  "Boisko do siatkówki",
+  "Sporty wodne (płatne)"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Castiadas",
+ "bars": 2,
+ "beachDistanceM": 400,
+ "beachType": "piaszczysta",
+ "centerKm": 9,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1970,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": 2000,
+ "restaurants": 1,
+ "roomTypes": [
+  "Cottage: pokoje w willach z widokiem na park i prywatnym patio",
+  "Family: pokoje na parterze z antresolą, mogą pomieścić do czterech osób",
+  "Deluxe Sea View",
+  "Suites",
+  "Superior Cottage: odnowione w 2024 roku, na parterze w domkach szeregowych z widokiem na park i prywatnym patio"
+ ],
+ "rooms": 178,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 39.2127544,
+  "lon": 9.5655348,
+  "src": "osm"
+ },
+ "sources": [
+  "sardinia4all.co.uk",
+  "sardiniamagazine.com",
+  "mapcarta.com",
+  "inspiredluxuryescapes.com",
+  "trivago.com",
+  "quierohotel.com",
+  "castiadasturismo.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,141 @@
+{
+ "id": "x:wlochy:acacia marina",
+ "slug": "acacia-marina",
+ "name": "Acacia Marina",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sycylia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sicilie/marina-di-ragusa/acacia-marina/4637/97d986fb94f2e3af3b9cef7471634495_50261112-244.jpg",
+ "city": "Marina di Ragusa",
+ "intro": [
+  "Acacia Marina to czterogwiazdkowy hotel położony na południowo-wschodnim wybrzeżu Sycylii, w miejscowości Marina di Ragusa. Obiekt, otoczony rozległym śródziemnomorskim ogrodem, oferuje spokojny wypoczynek blisko piaszczystej plaży.",
+  "Hotel jest idealnym wyborem dla osób poszukujących relaksu, par oraz rodzin, które cenią sobie dogodną lokalizację i dostęp do centrum spa. Mimo braku typowych udogodnień dla dzieci, takich jak mini klub, hotel zapewnia komfortowe warunki pobytu dla wszystkich gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Acacia Marina znajduje się przy promenadzie Lungomare Andrea Doria, około 100 metrów od piaszczystej plaży z drobnym, złotym piaskiem, oznaczonej Błękitną Flagą. Do centrum Marina di Ragusa można dojść w 5-10 minut. Najbliższe lotnisko Comiso (CIY) oddalone jest o 24-30 km, natomiast lotnisko Catania Fontanarossa (CTA) o około 120 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 81 lub 103 pokojami, w tym typami Standard, Superior i Deluxe, z możliwością wyboru widoku na morze. Wszystkie pokoje są klimatyzowane i wyposażone w prywatną łazienkę, telewizor z płaskim ekranem, lodówkę/minibar, zestaw do parzenia kawy/herbaty, bezpłatne Wi-Fi, suszarkę do włosów, sejf oraz umeblowany balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji Terraqua serwowane są śniadania i kolacje w formie bufetu, oferujące dania kuchni sycylijskiej. Na lunch dostępne są lekkie posiłki à la carte. Goście mogą korzystać także z baru przy basenie, lobby baru oraz kawiarni. Hotel oferuje opcje wyżywienia: śniadanie, dwa posiłki oraz All Inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "W hotelu znajduje się sezonowy odkryty basen otoczony ogrodem, z tarasem i leżakami, a także wanna z hydromasażem ze zjeżdżalniami. Obiekt posiada centrum spa z sauną, łaźnią parową i gabinetami zabiegowymi, siłownię oraz kort tenisowy. Organizowane są wieczory z muzyką na żywo."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Acacia Marina jest polecany dla osób szukających relaksu, par oraz rodzin. Jego spokojny charakter i brak animacji sprawiają, że jest to idealne miejsce na wypoczynek. Dogodna lokalizacja blisko plaży i centrum miejscowości to dodatkowy atut."
+  }
+ ],
+ "pros": [
+  "Dogodna lokalizacja blisko plaży i centrum",
+  "Piękne i zadbane ogrody",
+  "Czyste pokoje",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadania",
+  "Ładny basen",
+  "Bezpłatny parking"
+ ],
+ "cons": [
+  "Starszy wystrój w niektórych częściach hotelu",
+  "Brak naturalnego światła w niektórych pokojach",
+  "Dodatkowe opłaty za serwis plażowy",
+  "Brak animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 100 metrów od piaszczystej plaży, co zajmuje około 2 minuty spacerem."
+  },
+  {
+   "q": "Czy hotel oferuje prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną strefę plażową dla gości, dostępną za dodatkową opłatą od czerwca do września, obejmującą parasol i dwa leżaki."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Comiso (CIY), oddalone o około 24-30 km. Lotnisko Catania Fontanarossa (CTA) znajduje się około 120 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest polecany dla rodzin, choć nie oferuje specjalnych udogodnień dla dzieci, takich jak mini klub czy animacje. Dostępne są wysokie krzesełka w restauracji i łóżeczka dziecięce (za opłatą)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu, w pokojach i w częściach wspólnych, dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel dysponuje wanną z hydromasażem ze zjeżdżalniami, ale nie ma pełnowymiarowego aquaparku."
+  }
+ ],
+ "address": "Via Delle Sirene 35, 97010 Marina di Ragusa, Włochy",
+ "adultsOnly": false,
+ "airportKm": 24,
+ "airportName": "Comiso (CIY)",
+ "amenities": [
+  "Centrum spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Sporty wodne (niemotorowe)",
+  "Windsurfing",
+  "Nurkowanie",
+  "Wędkowanie",
+  "Piesze wycieczki",
+  "Bezpłatny parking"
+ ],
+ "animations": false,
+ "aquapark": true,
+ "area": "południowo-wschodnie wybrzeże Sycylii",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta, z drobnym, złotym piaskiem",
+ "centerKm": 0.8,
+ "goodFor": [
+  "relaks",
+  "pary",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double or Twin Room",
+  "Superior Double Room",
+  "Double Room with Sea View",
+  "Deluxe Room",
+  "Deluxe Double Room with Sea View - wszystkie z klimatyzacją, prywatną łazienką, TV, lodówką/minibarem, zestawem do kawy/herbaty, Wi-Fi, suszarką do włosów, sejfem, balkonem/tarasem"
+ ],
+ "rooms": 81,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7827382,
+  "lon": 14.5645612,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "trip.com",
+  "lastminute.com",
+  "hotelmarinadiragusa.it",
+  "acaciapalace.com",
+  "thomascook.com",
+  "jet2holidays.com",
+  "ita.travel"
+ ],
+ "updated": "2026-11-28"
+}

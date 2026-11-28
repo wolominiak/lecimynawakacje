@@ -1,0 +1,139 @@
+{
+ "id": 6977,
+ "slug": "san-pietro-letojanni",
+ "name": "San Pietro (Letojanni)",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sycylia",
+  "Letojanni"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/san-pietro-letojanni-teren-hotelu-budynek-glowny-obiekt-843650668-570-428.jpg",
+ "city": "Letojanni",
+ "intro": [
+  "Hotel San Pietro to trzygwiazdkowy obiekt położony w samym sercu Letojanni na Sycylii, bezpośrednio przy żwirowo-kamienistej plaży Spiaggia di Letojanni. Jest to idealna propozycja dla osób szukających relaksu nad morzem oraz dogodnej bazy wypadowej do zwiedzania okolicznych atrakcji, takich jak Taormina czy Etna.",
+  "Hotel jest szczególnie polecany parom oraz turystom nastawionym na aktywny wypoczynek połączony z odkrywaniem uroków Sycylii. Oferuje komfortowe zakwaterowanie w odnowionych pokojach z bezpłatnym WiFi, a także tradycyjną kuchnię włoską w hotelowej restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel San Pietro znajduje się w centrum Letojanni, zaledwie kilka kroków od plaży Spiaggia di Letojanni nad Morzem Jońskim. Obiekt posiada prywatną część plaży (Lido), gdzie dostępne są leżaki i parasole, często za dodatkową opłatą. Odległość od centrum miejscowości to około 160-320 metrów, czyli 5 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 90 lub 94 pokojami, odnowionymi w 2001 roku, rozmieszczonymi na 5 lub 6 piętrach. Pokoje wyposażone są w klimatyzację, prywatną łazienkę z prysznicem i bidetem, Smart TV, bezpłatne WiFi, sejf, telefon, minibar oraz biurko. Większość pokoi posiada balkon, a niektóre oferują widok na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca tradycyjną kuchnię włoską, z opcjami wegetariańskimi, wegańskimi i bezglutenowymi. Goście mogą korzystać ze śniadań w formie bufetu oraz obiadokolacji z ustalonym menu. Na terenie obiektu dostępne są również bar hotelowy oraz bar na plaży. Hotel nie oferuje opcji all inclusive, a napoje do kolacji są dodatkowo płatne."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel zapewnia bezpłatne WiFi w całym obiekcie i w pokojach. Brak jest basenu, aquaparku, siłowni czy animacji. Dostępne są zabiegi masażu. Okolica sprzyja turystyce pieszej. Hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży",
+  "Bliskość centrum Letojanni",
+  "Piękne widoki na morze z niektórych pokoi",
+  "Miła i pomocna obsługa",
+  "Dobra baza wypadowa do Taorminy i na Etnę"
+ ],
+ "cons": [
+  "Brak basenu i animacji",
+  "Monotonne śniadania",
+  "Pokoje mogą być postrzegane jako przestarzałe",
+  "Dodatkowe opłaty za leżaki i parasole na plaży",
+  "Brak parkingu bezpośrednio przy hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel San Pietro położony jest bezpośrednio przy plaży, zaledwie kilka kroków od niej."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży przy hotelu?",
+   "a": "Plaża w Letojanni jest żwirowa/kamienista. Hotel posiada prywatną część plaży (Lido)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani zjeżdżalni/aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel nie jest przeznaczony wyłącznie dla dorosłych, a dla dzieci na dodatkowym łóżku przewidziano zniżki. Brak jest jednak specjalnych udogodnień dla dzieci, takich jak mini klub czy animacje."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Catania Fontanarossa (CTA), oddalone o około 50-58 km, co oznacza około 50 minut jazdy."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do WiFi?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w całym hotelu oraz w pokojach."
+  }
+ ],
+ "address": "Via Luigi Rizzo, 10, 98037 Letojanni (ME)",
+ "adultsOnly": false,
+ "airportKm": 54,
+ "airportName": "Catania Fontanarossa (CTA)",
+ "amenities": [
+  "WiFi",
+  "Restauracja",
+  "Bar",
+  "Bar na plaży",
+  "Prywatna plaża",
+  "Sejf w pokoju",
+  "Klimatyzacja w pokoju",
+  "Telewizor z płaskim ekranem",
+  "Lodówka/minibar w pokoju",
+  "Balkon w większości pokoi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Letojanni, u podnóża Taorminy",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "żwirowa/kamienista",
+ "centerKm": 0.24,
+ "goodFor": [
+  "Osoby nastawione na zwiedzanie",
+  "Relaks",
+  "Pary"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": true,
+ "renovated": 2001,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Triple Room",
+  "Double Room with Balcony",
+  "Double Room with Sea View",
+  "Quadruple Room",
+  "Economy Double Room"
+ ],
+ "rooms": 92,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.8807162,
+  "lon": 15.3074225,
+  "src": "osm"
+ },
+ "sources": [
+  "reserving.com",
+  "holidaycheck.de",
+  "booking.com",
+  "hotelsonsicily.com",
+  "onthebeach.ie",
+  "hotelsletojanni.com",
+  "hotelsanpietrobeach.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-28"
+}

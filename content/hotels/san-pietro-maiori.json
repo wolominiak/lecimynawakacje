@@ -1,0 +1,138 @@
+{
+ "id": "x:wlochy:san pietro maiori",
+ "slug": "san-pietro-maiori",
+ "name": "San Pietro - Maiori",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Kampania",
+  "Maiori"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/kampanie/maiori/san-pietro-maiori-pl/6361/00c0ef9645998ae079081e8133c29f87_4-244.jpg",
+ "city": "Maiori",
+ "intro": [
+  "Hotel San Pietro - Maiori to czterogwiazdkowy obiekt położony w spokojnej dolinie Maiori, w regionie Kampania we Włoszech. Oferuje komfortowe zakwaterowanie w budynku głównym, apartamentach i bungalowach, co czyni go odpowiednim wyborem dla różnych typów podróżnych.",
+  "Hotel jest idealny dla rodzin, par oraz osób szukających bazy wypadowej do zwiedzania malowniczego Wybrzeża Amalfitańskiego. Dzięki bliskości centrum Maiori i dogodnemu dostępowi do plaż, łączy relaks z możliwością aktywnego spędzania czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel San Pietro - Maiori znajduje się w Maiori, w spokojnej dolinie, zaledwie 350 metrów od centrum miejscowości. W pobliżu znajduje się Zatoka Salerno. Obiekt jest dobrą bazą do odkrywania uroków Wybrzeża Amalfitańskiego."
+  },
+  {
+   "title": "Plaża",
+   "text": "Hotel oddalony jest o około 700 metrów od plaży kamienistej i około 800 metrów od piaszczystej plaży Maiori. Leżaki i parasole na plaży są płatne, gdyż nie jest to plaża hotelowa."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 38 pokoi w budynku głównym, 17 apartamentów i 5 bungalowów. Pokoje są klimatyzowane i wyposażone w prywatną łazienkę, minibar, sejf, telewizor z płaskim ekranem oraz czajnik elektryczny. Niektóre pokoje rodzinne posiadają aneks kuchenny."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa sezonowe baseny zewnętrzne ze słodką wodą - jeden olimpijski dla dorosłych i jeden dla dzieci z brodzikiem oraz zjeżdżalnią wodną. Goście mogą korzystać z dwóch kortów tenisowych i dwóch kortów do padla. Dostępna jest również wypożyczalnia rowerów, samochodów i motocykli."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "W hotelowej restauracji serwowane są dania kuchni włoskiej i międzynarodowej. Śniadania podawane są w formie bufetu kontynentalnego i włoskiego, z możliwością zamówienia do pokoju. Na terenie obiektu znajdują się dwa bary, w tym jeden przy basenie. Hotel oferuje noclegi ze śniadaniem."
+  }
+ ],
+ "pros": [
+  "Przyjazna i pomocna obsługa",
+  "Czyste pokoje",
+  "Ładny basen",
+  "Dobra lokalizacja do zwiedzania",
+  "Smaczne śniadania",
+  "Spokojna atmosfera"
+ ],
+ "cons": [
+  "Płatny parking",
+  "Płatne leżaki i parasole na plaży",
+  "Niektóre apartamenty w stylu retro",
+  "Brak siłowni",
+  "Brak pełnego spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel znajduje się około 700 metrów od plaży kamienistej i około 800 metrów od piaszczystej plaży Maiori."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko Salerno - Costa d'Amalfi oddalone jest o około 41 km. Lotnisko w Neapolu (NAP) znajduje się około 58 km od hotelu."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Tak, na terenie hotelu jest dostępna zjeżdżalnia wodna przy basenie dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje brodzik dla dzieci i możliwość skorzystania z płatnej opiekunki."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel oferuje noclegi ze śniadaniem (B&B)."
+  }
+ ],
+ "address": "Via Nuova Chiunzi 147, Maiori",
+ "adultsOnly": false,
+ "airportKm": 41,
+ "airportName": "Salerno - Costa d'Amalfi",
+ "amenities": [
+  "bilard",
+  "klimatyzacja",
+  "sejf",
+  "minibar",
+  "czajnik elektryczny"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "dolina Maiori",
+ "bars": 2,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta i kamienista",
+ "centerKm": 0.35,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "zwiedzanie Wybrzeża Amalfitańskiego"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1975,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy z klimatyzacją, łazienką, biurkiem, minibarem, sejfem, TV, czajnikiem",
+  "Pokój dwuosobowy z klimatyzacją, łazienką, biurkiem, minibarem, sejfem, TV, czajnikiem",
+  "Pokój rodzinny z klimatyzacją, łazienką, biurkiem, minibarem, sejfem, TV, czajnikiem, niektóre z aneksem kuchennym",
+  "Pokój trzyosobowy z klimatyzacją, łazienką, biurkiem, minibarem, sejfem, TV, czajnikiem",
+  "Pokój z dwoma łóżkami pojedynczymi z klimatyzacją, łazienką, biurkiem, minibarem, sejfem, TV, czajnikiem"
+ ],
+ "rooms": 60,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 40.6537748,
+  "lon": 14.6428502,
+  "src": "osm"
+ },
+ "sources": [
+  "guestreservations.com",
+  "sanpietro.it",
+  "tui.co.uk",
+  "tui.se",
+  "hotelsmaiori.com",
+  "hotels-in-it.com",
+  "wakacje.pl",
+  "booking.com"
+ ],
+ "updated": "2026-11-28"
+}

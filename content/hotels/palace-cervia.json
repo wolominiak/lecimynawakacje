@@ -1,0 +1,147 @@
+{
+ "id": "x:wlochy:palace",
+ "slug": "palace-cervia",
+ "name": "Palace",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Środkowe wybrzeże Adriatyku",
+  "Cervia"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/italie/stredni-jadranske-pobrezi/cervia/palace-pl/4971/9adf65eee35819c0f2c36-244.jpg",
+ "city": "Cervia",
+ "intro": [
+  "Hotel Palace, położony w dzielnicy Milano Marittima w Cervi, to pięciogwiazdkowy obiekt usytuowany bezpośrednio przy piaszczystej plaży. Zbudowany w 2005 roku, oferuje 135 pokoi i jest idealnym miejscem zarówno dla osób podróżujących służbowo, jak i dla rodzin oraz par szukających luksusu i komfortu.",
+  "Obiekt wyróżnia się prywatną plażą, bogatym zapleczem rekreacyjnym, w tym spa i siłownią, a także restauracjami serwującymi kuchnię śródziemnomorską. Bliskość centrum Milano Marittima zapewnia łatwy dostęp do sklepów i życia nocnego, co czyni go atrakcyjnym wyborem na wakacyjny wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Palace znajduje się w Cervi, w dzielnicy Milano Marittima, zaledwie 30 metrów od morza. Obiekt dysponuje prywatną, piaszczystą plażą, na której dostępne są leżaki, parasole i ręczniki plażowe. Centrum Milano Marittima z licznymi sklepami i lokalami rozrywkowymi oddalone jest o około 3 minuty spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 135 pokoi, w tym Classic Double Room Single Use, Classic Triple Room, Deluxe Room, Junior Suite i Suite, często z widokiem na morze. Wszystkie pokoje są klimatyzowane i wyposażone w balkon, telewizor z płaskim ekranem, minibar, sejf oraz bezpłatne Wi-Fi. W łazienkach znajdują się prysznic lub wanna, bidet, bezpłatne kosmetyki i suszarka do włosów, a w niektórych pokojach również szlafroki i kapcie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: \"I Venini\", serwująca kuchnię śródziemnomorską na śniadania, obiady i kolacje z widokiem na ogród, oraz restauracja na plaży \"La Spiaggia\" z menu à la carte lub bufetem. Goście mogą korzystać z baru/lounge oraz baru na plaży. W cenę zakwaterowania wliczone jest bezpłatne śniadanie w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt dysponuje odkrytym basenem z hydromasażem oraz wydzieloną, płytką częścią dla dzieci. Dla relaksu dostępna jest pełna strefa spa \"Dolce Vita\" z masażami, zabiegami na ciało, sauną, łaźnią turecką i jacuzzi. Na terenie hotelu znajduje się również centrum fitness/siłownia, a w pobliżu dostępne jest pole golfowe (Adriatic Golf Club Cervia)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Palace jest przyjazny rodzinom i oferuje mini klub na plaży (czynny rano i po południu od lipca do sierpnia) oraz płytką część basenu przeznaczoną dla dzieci. Wieczorami organizowane są animacje z piano barem lub muzyką na żywo (od lipca do sierpnia), które mogą być atrakcją również dla młodszych gości."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Wysoka jakość obsługi i doskonałe jedzenie",
+  "Bogaty bufet śniadaniowy",
+  "Kompleksowe spa i siłownia",
+  "Bliskość centrum Milano Marittima"
+ ],
+ "cons": [
+  "Płatny parking (około 35 EUR za dzień)",
+  "Animacje i mini klub dostępne tylko w sezonie (lipiec-sierpień)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy piaszczystej plaży, około 30 metrów od morza."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną plażę z dostępnymi leżakami, parasolami i ręcznikami plażowymi."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotniska to Forli (FRL) około 24 km i Rimini (RMI) około 35 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje mini klub na plaży i płytką część basenu dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w pokojach i miejscach publicznych dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "W cenę zakwaterowania wliczone jest bezpłatne śniadanie w formie bufetu. Brak informacji o pełnym pakiecie all inclusive."
+  }
+ ],
+ "address": "Viale 2 Giugno, 60, 48015 Cervia (Ravenna), Włochy",
+ "adultsOnly": false,
+ "airportKm": 24,
+ "airportName": "Forli (FRL)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Mini klub",
+  "Basen odkryty",
+  "Hydromasaż",
+  "Bar na plaży",
+  "Leżaki i parasole na plaży",
+  "Ręczniki plażowe",
+  "Klimatyzacja",
+  "Balkon",
+  "Telewizor z płaskim ekranem",
+  "Minibar",
+  "Sejf",
+  "Bidet",
+  "Bezpłatne kosmetyki",
+  "Suszarka do włosów",
+  "Szlafroki i kapcie (w niektórych pokojach)"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Milano Marittima",
+ "bars": 2,
+ "beachDistanceM": 30,
+ "beachType": "piaszczysta",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Luksus",
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2005,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Classic Double Room Single Use",
+  "Classic Triple Room",
+  "Deluxe Room",
+  "Junior Suite",
+  "Suite"
+ ],
+ "rooms": 135,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 44.2782573,
+  "lon": 12.3513429,
+  "src": "osm"
+ },
+ "sources": [
+  "comunecervia.it",
+  "myhotels.sa",
+  "h-rez.com",
+  "matrimonio.com",
+  "waze.com",
+  "ita.travel",
+  "hpalace.it",
+  "luxuryhotel.world"
+ ],
+ "updated": "2026-11-28"
+}

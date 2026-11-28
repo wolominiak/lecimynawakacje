@@ -1,0 +1,135 @@
+{
+ "id": "x:wlochy:gambrinus hotel",
+ "slug": "gambrinus-hotel",
+ "name": "Gambrinus Hotel",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Rzym i okolice",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/rim/rim/gambrinus-hotel-pl/0fcd_street-v4528760.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Gambrinus Hotel to czterogwiazdkowy obiekt położony w cichej, mieszkalnej dzielnicy Horti Sallustiani w Rzymie, niedaleko Porta Pia. Mieści się w odnowionym, prestiżowym budynku z XIX wieku, który w latach 70. XX wieku został przekształcony w hotel.",
+  "Hotel jest polecany zarówno dla osób podróżujących w celach wypoczynkowych, jak i biznesowych, a także dla rodzin z dziećmi. Oferuje komfortowe zakwaterowanie i dogodny dostęp do transportu publicznego, co ułatwia zwiedzanie Wiecznego Miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Gambrinus znajduje się w Rzymie, około 1.1 km od tętniącego życiem centrum miasta. Wyróżnia go lokalizacja w spokojnej, mieszkalnej dzielnicy Horti Sallustiani. Przystanek autobusowy znajduje się tuż przy hotelu, co ułatwia poruszanie się po mieście. W bliskiej odległości znajdują się Villa Borghese i Via Veneto."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 57 pokojami i apartamentami, urządzonymi w tradycyjnym stylu. Do wyboru są różne typy pokoi, w tym Classic Double, Superior Double, Suite czy Family Room. Wszystkie pokoje są wyposażone w minibar, sejf, telewizor LCD/Smart TV z kanałami satelitarnymi, klimatyzację, suszarkę do włosów oraz zestaw do parzenia kawy i herbaty. Pokoje są dźwiękoszczelne, co zapewnia komfortowy wypoczynek."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Gambrinus serwowane są bezpłatne śniadania w formie bufetu, podawane w eleganckiej sali śniadaniowej z oryginalnymi sklepieniami z XIX wieku. Na miejscu znajduje się również mały Lounge Bar. Hotel nie oferuje pakietu all inclusive, a w jego bezpośrednim sąsiedztwie znajduje się wiele lokali gastronomicznych."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi dostępne w całym obiekcie i we wszystkich pokojach, choć należy pamiętać, że połączenie bywa wolne i przerywane. Do dyspozycji gości są również dwie stacje komputerowe w lobby. Hotel nie posiada basenu, spa ani siłowni, jednak oferuje usługi opieki nad dziećmi."
+  }
+ ],
+ "pros": [
+  "Eleganckie lobby",
+  "Przystanek autobusowy tuż przy hotelu",
+  "Bezpłatne śniadanie w formie bufetu",
+  "Bardzo pomocna i profesjonalna obsługa",
+  "Dobra lokalizacja, blisko transportu publicznego"
+ ],
+ "cons": [
+  "Wolne i przerywane Wi-Fi",
+  "Brak udogodnień fitness (siłownia, spa)",
+  "Niektóre pokoje są małe",
+  "Lokalizacja może być nieco niewygodna dla pieszych wycieczek do dalszych atrakcji",
+  "Dozowniki na mydło w płynie w łazienkach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Gambrinus znajduje się w centrum Rzymu, nie nad morzem, więc nie ma bezpośredniego dostępu do plaży."
+  },
+  {
+   "q": "Jakie są najbliższe lotniska?",
+   "a": "Najbliższe lotniska to Rzym Ciampino (CIA) oddalone o około 13.6-26.8 km oraz Rzym Fiumicino (FCO) oddalone o około 23.9-24.17 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Gambrinus nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dzieci w wieku 1-6 lat mogą przebywać bezpłatnie, korzystając z istniejących łóżek. Dostępne są również usługi opieki nad dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach, choć niektórzy goście zgłaszają, że połączenie bywa wolne i przerywane."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Gambrinus nie oferuje pakietu all inclusive. Serwowane są śniadania w formie bufetu."
+  }
+ ],
+ "address": "Via Piave, 35, 00187 Roma RM, Włochy",
+ "adultsOnly": false,
+ "airportKm": 13.6,
+ "airportName": "Rzym Ciampino (CIA)",
+ "amenities": [
+  "Lounge Bar",
+  "Bezpłatne Wi-Fi",
+  "Dwie stacje komputerowe dla gości",
+  "Usługi opieki nad dziećmi"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Horti Sallustiani",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 1.1,
+ "goodFor": [
+  "Podróżujący w celach wypoczynkowych",
+  "Podróżujący w celach biznesowych",
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1970,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2003,
+ "restaurants": 0,
+ "roomTypes": [
+  "Classic Double",
+  "Double Room for Single Use",
+  "Small Double",
+  "Economy Single",
+  "Superior Double",
+  "Classic Triple",
+  "Suite",
+  "Family Room (z minibarem, prysznicem, sejfem, TV satelitarną, klimatyzacją, suszarką do włosów, żelazkiem, biurkiem, zestawem do kawy/herbaty)"
+ ],
+ "rooms": 57,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.9096098,
+  "lon": 12.4984985,
+  "src": "osm"
+ },
+ "sources": [
+  "gambrinushotel.com",
+  "reserving.com",
+  "ohotel.uk",
+  "google.com",
+  "rome2rio.com",
+  "agoda.com",
+  "bedandbreakfast-rome.com",
+  "oyster.com"
+ ],
+ "updated": "2026-11-28"
+}

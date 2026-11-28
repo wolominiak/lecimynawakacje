@@ -1,0 +1,135 @@
+{
+ "id": 26079,
+ "slug": "elihotel",
+ "name": "Elihotel",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sycylia"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/elihotel-obiekt-894996-570-428.jpg",
+ "city": "Sant'Alessio Siculo",
+ "intro": [
+  "Elihotel to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczysto-żwirowej plaży Morza Jońskiego, w malowniczej miejscowości Sant'Alessio Siculo na Sycylii. Hotel, odnowiony w 2013 roku, oferuje kameralną atmosferę z 72 pokojami w jednym, kilkupiętrowym budynku. Jest to idealne miejsce dla par, rodzin oraz osób podróżujących samotnie, poszukujących relaksu nad morzem i dogodnej bazy do zwiedzania wschodniej Sycylii.",
+  "Obiekt jest przyjazny rodzinom z dziećmi, oferując możliwość opieki nad najmłodszymi. Elihotel to dobra propozycja dla tych, którzy cenią sobie bezpośredni dostęp do morza i prywatną plażę z serwisem plażowym, a jednocześnie chcą odkrywać uroki regionu, w tym pobliską Taorminę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Elihotel znajduje się bezpośrednio przy piaszczysto-żwirowej plaży Morza Jońskiego, zaledwie 0.5-1 km od centrum Sant'Alessio Siculo. Hotel dysponuje prywatną plażą, na której dostępne są leżaki i parasole. Jest to doskonała baza wypadowa do zwiedzania Taorminy i innych atrakcji Sycylii."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 72 pokoje, w tym standardowe i superior, dwu-, trzy- oraz czteroosobowe. Wiele z nich posiada balkon z widokiem na Morze Jońskie. Wszystkie pokoje są wyposażone w klimatyzację, minibar, telewizor z płaskim ekranem, sejf oraz bezpłatne Wi-Fi. Prywatne łazienki dysponują prysznicem, bidetem i suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca dania kuchni sycylijskiej. Goście mogą również korzystać z hotelowego baru/lounge. Śniadanie w formie bufetu jest dostępne codziennie rano za dodatkową opłatą. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Elihotel zapewnia bezpłatne Wi-Fi w pokojach i miejscach publicznych. W okolicy dostępne są możliwości uprawiania turystyki pieszej oraz wypożyczalnia rowerów. Hotel nie posiada basenu ani strefy spa czy siłowni. Usługa opieki nad dziećmi jest dostępna za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej plaży",
+  "Przyjazny i pomocny personel",
+  "Czystość w hotelu",
+  "Przestronne pokoje, często z balkonem i widokiem na morze",
+  "Dobra baza wypadowa do zwiedzania Taorminy i okolic"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Śniadania oceniane jako słabe lub poniżej standardu 4-gwiazdkowego",
+  "Łazienki mogą wymagać modernizacji, małe kabiny prysznicowe",
+  "Twarde materace w niektórych pokojach",
+  "Brak innych opcji gastronomicznych w bezpośredniej bliskości (według niektórych opinii)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Elihotel jest położony bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotniska to Reggio Calabria Tito Menniti (REG) oddalone o około 31.9 km w linii prostej oraz Catania Fontanarossa (CTA) oddalone o około 60-65 km (1 godzina jazdy samochodem)."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi. Dostępna jest usługa opieki nad dziećmi za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Nie, w hotelu Elihotel nie ma basenu."
+  }
+ ],
+ "address": "Via Lungomare 274, 98030 Sant'Alessio Siculo, ME",
+ "adultsOnly": false,
+ "airportKm": 31.9,
+ "airportName": "Reggio Calabria Tito Menniti (REG)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Prywatna plaża",
+  "Leżaki i parasole na plaży",
+  "Bar/lounge",
+  "Restauracja",
+  "Opieka nad dziećmi (płatna)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Morze Jońskie",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Osoby podróżujące samotnie",
+  "Osoby szukające relaksu na plaży",
+  "Osoby szukające bazy do eksploracji kulturowej"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": true,
+ "renovated": 2013,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standardowe pokoje dwuosobowe/typu twin z klimatyzacją, minibarem, TV, Wi-Fi, sejfem, łazienką z prysznicem",
+  "Standardowe pokoje trzyosobowe z klimatyzacją, minibarem, TV, Wi-Fi, sejfem, łazienką z prysznicem",
+  "Pokoje superior dwuosobowe/typu twin z klimatyzacją, minibarem, TV, Wi-Fi, sejfem, łazienką z prysznicem (często z balkonem i widokiem na morze)",
+  "Pokoje superior trzyosobowe z klimatyzacją, minibarem, TV, Wi-Fi, sejfem, łazienką z prysznicem (często z balkonem i widokiem na morze)",
+  "Pokoje superior czteroosobowe z klimatyzacją, minibarem, TV, Wi-Fi, sejfem, łazienką z prysznicem (często z balkonem i widokiem na morze)"
+ ],
+ "rooms": 72,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9167344,
+  "lon": 15.3446241,
+  "src": "osm"
+ },
+ "sources": [
+  "hrs.com",
+  "directbooking.ro",
+  "skyscanner.gg",
+  "elihotel.it",
+  "reserving.com",
+  "sicilyhotelsitaly.net",
+  "booking.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-28"
+}

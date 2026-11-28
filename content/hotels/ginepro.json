@@ -1,0 +1,137 @@
+{
+ "id": 37428,
+ "slug": "ginepro",
+ "name": "Ginepro",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Alta Valtellina",
+  "Bormio"
+ ],
+ "stars": 2,
+ "photo": "/no-index/hotel/ginepro-obiekt-budynek-glowny-1553797042-570-428.jpg",
+ "city": "Bormio",
+ "intro": [
+  "Hotel Ginepro to dwugwiazdkowy obiekt położony w górskiej miejscowości San Pietro, Valdisotto, w pobliżu Bormio, we włoskim regionie Alta Valtellina. Jest to idealna baza wypadowa dla miłośników sportów zimowych, oferując bezpośredni dostęp do stoków narciarskich.",
+  "Obiekt charakteryzuje się spokojną lokalizacją z panoramicznymi widokami na góry i dolinę. Hotel jest szczególnie polecany dla narciarzy, rodzin, a także rowerzystów i motocyklistów, którzy docenią bliskość słynnej przełęczy Stelvio oraz dostępny zadaszony parking."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Ginepro znajduje się w miejscowości San Pietro, Valdisotto, zaledwie 50 metrów od stoku narciarskiego Stelvio. Do centrum Bormio jest około 2-5 km, co zajmuje około 20 minut spacerem. Najbliższe lotniska to Bolzano (około 73-129 km), Bergamo (102 km) i Werona (126 km)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 13 pokojami rozmieszczonymi na trzech piętrach. W ofercie znajdują się pokoje dwuosobowe, trzyosobowe, czteroosobowe, a także pokoje rodzinne i ekonomiczne. Wyposażenie obejmuje prywatną łazienkę z bidetem, suszarkę do włosów, ogrzewanie, telewizor z płaskim ekranem, sejf oraz biurko. Niektóre pokoje posiadają balkon z widokiem na góry."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji serwowane są dania kuchni regionalnej (Valtellina), włoskiej i międzynarodowej. Menu zmienia się codziennie, a goście mają możliwość wyboru z menu stałego lub à la carte. Śniadania w formie bufetu (kontynentalne i włoskie) są wliczone w cenę, a niektóre oferty obejmują również dwudaniową kolację. Na terenie obiektu znajduje się także bar typu lounge z tarasem."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne w pokojach i pomieszczeniach ogólnodostępnych. Ze względu na lokalizację w rejonie narciarskim, hotel zapewnia przechowalnię sprzętu narciarskiego. Dostępny jest również bezpłatny parking, w tym zadaszony dla motocykli."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja dla narciarzy (ski-in/ski-out)",
+  "Piękne widoki na góry i dolinę",
+  "Spokojna i panoramiczna okolica",
+  "Dobre i obfite śniadania w formie bufetu"
+ ],
+ "cons": [
+  "Problemy z parkowaniem (ograniczona liczba miejsc)",
+  "Starsze/podstawowe wyposażenie pokoi",
+  "Sporadyczne problemy z ogrzewaniem lub ciepłą wodą",
+  "Nieco oddalony od centrum Bormio",
+  "Zdarzają się opinie o niedostatecznej czystości w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od centrum Bormio?",
+   "a": "Hotel jest oddalony od centrum Bormio o około 2-5 km, co stanowi około 20 minut spacerem."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Bolzano (około 73-129 km), Bergamo (102 km) i Werona (126 km)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje pokoje rodzinne, choć informacje o łóżeczkach dziecięcych są sprzeczne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w pokojach i pomieszczeniach ogólnodostępnych jest dostępne bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Via San Pietro 7, 23030 Valdisotto (SO), Włochy",
+ "adultsOnly": false,
+ "airportKm": 73,
+ "airportName": "Bolzano (BZO)",
+ "amenities": [
+  "Restauracja",
+  "Bar typu lounge",
+  "Przechowalnia sprzętu narciarskiego",
+  "Bezpłatny parking",
+  "Zadaszony parking dla motocykli"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Alta Valtellina",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 2,
+ "goodFor": [
+  "Narciarze",
+  "Rodziny",
+  "Rowerzyści",
+  "Motocykliści"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój gościnny",
+  "Pokój czteroosobowy",
+  "Pokój ekonomiczny dwuosobowy",
+  "Pokój dwuosobowy lub typu twin",
+  "Pokój trzyosobowy",
+  "Pokój rodzinny",
+  "Standardowy pokój rodzinny"
+ ],
+ "rooms": 13,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 46.4558212,
+  "lon": 10.3818976,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelginepro.com",
+  "europe-mountains.com",
+  "bormio.eu",
+  "skyscanner.gg",
+  "hotels-in-it.com",
+  "ita.travel",
+  "bormiotophotels.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-28"
+}

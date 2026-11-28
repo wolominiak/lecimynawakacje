@@ -1,0 +1,79 @@
+{
+ "id": "x:wlochy:milton",
+ "slug": "milton",
+ "name": "Milton",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Rzym i okolice",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/rim/rim/milton/e5be37e5f9407609cbf3e.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Milton to czterogwiazdkowy obiekt położony w sercu Rzymu, w historycznej dzielnicy Esquilino. Mieści się w odnowionym XVIII-wiecznym budynku, który niegdyś był klasztorem, co nadaje mu unikalny charakter. Dzięki doskonałej lokalizacji, zaledwie kilka kroków od stacji metra Manzoni, hotel stanowi idealną bazę wypadową do zwiedzania Wiecznego Miasta.",
+  "Obiekt jest polecany zarówno dla turystów indywidualnych, par, jak i rodzin z dziećmi, a także dla osób podróżujących służbowo. Bliskość kluczowych atrakcji, takich jak Koloseum, oraz dogodny dostęp do transportu publicznego sprawiają, że hotel jest praktycznym wyborem dla każdego, kto chce komfortowo odkrywać Rzym."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i komunikacja",
+   "text": "Hotel Milton znajduje się w centrum Rzymu, w dzielnicy Esquilino, pod adresem Via Emanuele Filiberto 155. Jego lokalizacja jest jednym z głównych atutów - obiekt jest oddalony zaledwie o 15-40 metrów od stacji metra Manzoni (linia A), co umożliwia szybkie przemieszczanie się po mieście. Koloseum jest w zasięgu 10-15 minut spacerem, a dworzec Termini to zaledwie dwie stacje metra lub około 800 m - 1.58 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 85 pokoi w różnych kategoriach, w tym Classic, Superior, Deluxe, Deluxe Suite, Small Double Room oraz Family Room. Wszystkie pokoje są wyposażone w parkiet, telewizor z płaskim ekranem i kanałami satelitarnymi, czajnik elektryczny z zestawem do parzenia herbaty i kawy, minibar, sejf, telefon, klimatyzację, suszarkę do włosów i biurko. Materace z pianki memory i hipoalergiczna pościel zapewniają komfortowy wypoczynek, a łazienki posiadają wannę lub prysznic, bidet i bezpłatne kosmetyki."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji codziennie serwowane jest obfite międzynarodowe śniadanie w formie bufetu (od 7:00 do 10:30). W ofercie znajdują się zarówno słodkie, jak i słone opcje, takie jak jajecznica, włoskie wędliny, świeże owoce i sałatki. Dodatkowo, w ogrodzie w stylu Art Deco znajduje się bar, gdzie można zamówić lekkie posiłki i koktajle. Dostępny jest również room service do północy."
+  },
+  {
+   "title": "Relaks i udogodnienia",
+   "text": "W hotelu planowane jest otwarcie"
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy stacji metra, blisko Koloseum i Termini.",
+  "Przyjazny i pomocny personel.",
+  "Czyste i wygodne pokoje.",
+  "Dobre śniadania w formie bufetu.",
+  "Bezpłatne, szybkie Wi-Fi w całym hotelu."
+ ],
+ "cons": [
+  "Pokoje wychodzące na ulicę mogą być głośne.",
+  "Ciepłe dania na śniadanie bywają zimne.",
+  "Obsługa ekspresu do kawy może być chaotyczna.",
+  "Pokoje bywają określane jako małe."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od Koloseum?",
+   "a": "Koloseum znajduje się w odległości 10-15 minut spacerem od hotelu."
+  },
+  {
+   "q": "Czy hotel jest blisko stacji metra?",
+   "a": "Tak, hotel jest zlokalizowany zaledwie 15-40 metrów od stacji metra Manzoni (linia A)."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "W hotelu planowane jest otwarcie"
+  }
+ ],
+ "geo": {
+  "lat": 41.8905439,
+  "lon": 12.5064071,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "mapcarta.com",
+  "kurdoff.com",
+  "top-romehotels.com",
+  "rometophotels.com",
+  "trivago.com",
+  "miltonroma.com",
+  "mapy.com"
+ ],
+ "updated": "2026-11-28"
+}

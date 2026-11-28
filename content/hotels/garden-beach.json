@@ -1,0 +1,146 @@
+{
+ "id": "x:wlochy:garden beach",
+ "slug": "garden-beach",
+ "name": "Garden Beach",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/castiadas/garden-beach/927cf9a4fe585af578df4.jpg",
+ "city": "Castiadas",
+ "intro": [
+  "Hotel Garden Beach to nowoczesny, czterogwiazdkowy obiekt położony na południowo-wschodnim wybrzeżu Sardynii, w malowniczej zatoce Cala Sinzias. Rozległy teren hotelu, zajmujący siedem hektarów, porośnięty jest zadbanymi trawnikami i tropikalną roślinnością, a zabudowa w stylu bungalowów harmonijnie wtapia się w otoczenie.",
+  "Obiekt jest doskonałym wyborem dla rodzin z dziećmi oraz par szukających relaksu w spokojnym otoczeniu, ceniących sobie piękną plażę i dobrą kuchnię. Hotel oferuje szereg udogodnień i aktywności, które zapewnią komfortowy wypoczynek zarówno dorosłym, jak i najmłodszym gościom."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Garden Beach usytuowany jest bezpośrednio przy piaszczystej plaży Cala Sinzias, charakteryzującej się drobnym białym piaskiem i czystą, płytką wodą. Obiekt posiada wydzieloną strefę plażową z leżakami i parasolami, a ręczniki plażowe są zapewnione. Odległość od lotniska Cagliari-Elmas wynosi około 60-70 km, a od centrum Castiadas około 7 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje od 104 do 113 pokojami urządzonymi w typowym sardyńskim stylu. Wszystkie pokoje wyposażone są w klimatyzację, telewizję satelitarną, sejf, minibar oraz łazienkę z prysznicem. Dostępne są pokoje typu Classic, Superior, Prestige oraz przestronne Junior Suite, z których niektóre oferują widok na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Do dyspozycji gości są dwie restauracje: główna restauracja bufetowa \"La Bahia\" oraz restauracja à la carte \"Sunset Lounge\" przy plaży, otwarta w wybranych terminach. Hotel posiada również dwa bary: American Bar przy basenie i Beach Bar przy plaży. Należy pamiętać, że hotel nie oferuje pełnego pakietu all inclusive, a napoje do posiłków są zazwyczaj dodatkowo płatne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się duży odkryty basen o powierzchni 2000 m² z wydzieloną strefą dla dzieci. Hotel oferuje szeroki zakres aktywności sportowych, w tym kort tenisowy, boisko do piłki nożnej, siatkówkę plażową oraz kajaki. Dostępne są również codzienne i wieczorne animacje dla dorosłych i dzieci, a także nowoczesna siłownia i centrum spa Garden Beauty Center."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował mini klub (4-12 lat) z dedykowanym obszarem, prywatnym basenem i grami. Starsze dzieci (12-16 lat) mogą korzystać z Young Club. Wieczorami organizowane są baby dance i inne rozrywki dla dzieci."
+  }
+ ],
+ "pros": [
+  "Piękna lokalizacja bezpośrednio przy piaszczystej plaży",
+  "Duży basen i zadbane ogrody",
+  "Zakwaterowanie w stylu bungalowów zapewniające prywatność",
+  "Dobre jedzenie, szczególnie dla rodzin",
+  "Szeroka oferta sportowa i animacyjna"
+ ],
+ "cons": [
+  "Pokoje mogą być małe i czasem przestarzałe",
+  "Napoje do posiłków często dodatkowo płatne",
+  "Ograniczona różnorodność śniadań",
+  "Izolowana lokalizacja utrudniająca wycieczki",
+  "Brak ożywionego życia wieczornego"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Garden Beach leży bezpośrednio przy piaszczystej plaży Cala Sinzias."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Cagliari-Elmas (CAG), oddalone o około 60-70 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Wspomniano o \"water park\" jako jednej z aktywności, jednak brak szczegółów na temat konkretnych zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje mini klub, Young Club, wydzieloną strefę dla dzieci w basenie oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne w całej strukturze, jednak nie jest gwarantowane w pokojach. Bezpłatne Wi-Fi jest dostępne w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Hotel nie oferuje pełnego pakietu all inclusive. Posiłki są zazwyczaj w formie bufetu, a napoje są zazwyczaj dodatkowo płatne."
+  }
+ ],
+ "address": "Via Cala Sinzias, 29, Castiadas, CA, 09040",
+ "adultsOnly": false,
+ "airportKm": 65,
+ "airportName": "Cagliari-Elmas (CAG)",
+ "amenities": [
+  "siłownia",
+  "spa",
+  "mini klub dla dzieci",
+  "animacje",
+  "kort tenisowy",
+  "boisko do piłki nożnej",
+  "siatkówka plażowa",
+  "kajaki",
+  "aerobik",
+  "gimnastyka",
+  "tenis stołowy",
+  "piłkarzyki",
+  "nurkowanie",
+  "snorkeling",
+  "jazda na rowerze",
+  "piesze wycieczki",
+  "jazda konna"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Cala Sinzias",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 6.96,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Classic (15-18 m²): Łóżko podwójne, możliwość dostawki (łóżko piętrowe). Zlokalizowane w drugim rzędzie od morza/od strony gór, z oknem lub drzwiami francuskimi i małym patio.",
+  "Superior (15 m²): Łóżko podwójne, zlokalizowane przy basenie, z drzwiami francuskimi i małym patio.",
+  "Prestige (15-18 m²): Podobne do Classic, ale z dodatkowymi usługami, takimi jak szlafroki, kapcie, wieczorne sprzątanie i serwis plażowy w drugim rzędzie. Zlokalizowane w pierwszym rzędzie od ogrodów prowadzących do morza.",
+  "Junior Suite (25 m², 2-6 miejsc): Dwa oddzielne pokoje z łóżkiem podwójnym/dwoma pojedynczymi i podwójną rozkładaną sofą (możliwość dodatkowego łóżka typu pufa). Mogą znajdować się na parterze z ogrodem lub na pierwszym piętrze (niektóre z widokiem na morze, bez balkonu). Obejmują usługi Prestige i serwis plażowy w pierwszym rzędzie."
+ ],
+ "rooms": 108,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 39.1958771,
+  "lon": 9.5609811,
+  "src": "osm"
+ },
+ "sources": [
+  "charmingsardinia.com",
+  "justsardinia.co.uk",
+  "costarei.com",
+  "booking.com",
+  "reserving.com",
+  "fatravel.it",
+  "onthebeach.co.uk",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-28"
+}

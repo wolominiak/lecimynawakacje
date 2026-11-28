@@ -1,0 +1,146 @@
+{
+ "id": "x:wlochy:universal",
+ "slug": "universal",
+ "name": "Universal",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Środkowe wybrzeże Adriatyku",
+  "Cervia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/stredni-jadranske-pobrezi/cervia/universal/8d9aa947fe85e67f2cd8e.jpg",
+ "city": "Cervia",
+ "intro": [
+  "Hotel Universal to czterogwiazdkowy obiekt położony w miejscowości Cervia, w dzielnicy Centro Storico, bezpośrednio przy nadmorskiej promenadzie. Oferuje widok na morze i bezpośredni dostęp do piaszczystej plaży. To idealne miejsce dla rodzin z dziećmi, par oraz osób szukających aktywnego wypoczynku.",
+  "Hotel Universal, odnowiony w 2001 roku, z niedawno remontowanymi pokojami Deluxe, dysponuje 94 pokojami. Położenie blisko centrum Cervii oraz udogodnienia dla dzieci sprawiają, że jest to atrakcyjny wybór na wakacje we Włoszech."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Universal znajduje się w Cervii, w dzielnicy Centro Storico, bezpośrednio przy nadmorskiej promenadzie. Do piaszczystej plaży jest zaledwie 20 metrów, a hotel posiada na niej prywatną strefę z leżakami. Centrum Cervii oddalone jest o około 2.1 km, co pozwala na krótki spacer do głównych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 94 pokoje w różnych kategoriach, w tym Classic, Superior, Deluxe i Family Room. Większość pokoi posiada balkon, klimatyzację, prywatną łazienkę, minibar, bezpłatne WiFi, telewizję satelitarną i sejf. Pokoje Deluxe na ostatnim piętrze są przestronne i oferują widok na morze, a pokoje rodzinne składają się z dwóch sypialni."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa podgrzewane baseny - jeden kryty i jeden odkryty. Kryty basen jest zadaszony w okresie zimowym. Hotel posiada również strefę fitness ze sprzętem Technogym i jacuzzi. W pobliżu dostępne są liczne aktywności, takie jak golf, kajakarstwo, windsurfing oraz wypożyczalnia rowerów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, serwująca tradycyjną kuchnię włoską ze świeżych, lokalnych produktów. Oferowane są śniadania, obiady i kolacje. W cenę zakwaterowania wliczone jest bezpłatne śniadanie w formie bufetu. Goście mogą również skorzystać z American Baru, oferującego alkohole i koktajle."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował pokój zabaw oraz pokój telewizyjny. Od czerwca do sierpnia działa mini klub dla dzieci powyżej 3 lat, a także mini klub na plaży. Na życzenie dostępne są łóżeczka dziecięce (za dopłatą)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Universal jest szczególnie polecany dla rodzin z dziećmi ze względu na liczne udogodnienia i animacje. Jego dogodna lokalizacja sprawia, że jest również odpowiedni dla osób uczestniczących w wydarzeniach IRONMAN. Bliskość plaży i centrum miasta docenią wszyscy szukający komfortowego wypoczynku."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do piaszczystej plaży",
+  "Dwa podgrzewane baseny (kryty i odkryty)",
+  "Mini klub dla dzieci i animacje w sezonie",
+  "Dobra lokalizacja blisko centrum i promenady",
+  "Urozmaicone i smaczne śniadania"
+ ],
+ "cons": [
+  "Sporadyczne uwagi o małych pokojach i łazienkach",
+  "Brak aquaparku na terenie hotelu",
+  "Minibar nie zawsze uzupełniany",
+  "Muzyka do późnych godzin nocnych (sporadycznie)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Universal jest oddalony o zaledwie 20 metrów od piaszczystej plaży i posiada prywatną strefę z leżakami."
+  },
+  {
+   "q": "Czy hotel jest przyjazny dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokój zabaw, pokój telewizyjny, mini klub dla dzieci (w sezonie) oraz łóżeczka dziecięce na życzenie."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Forlì Luigi Ridolfi (FRL), oddalone o około 24.3 km. Międzynarodowe lotnisko Bologna Guglielmo Marconi (BLQ) znajduje się w odległości około 89.4 km."
+  },
+  {
+   "q": "Czy hotel posiada baseny?",
+   "a": "Tak, hotel ma dwa podgrzewane baseny: jeden kryty (zadaszony zimą) i jeden odkryty."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, darmowe Wi-Fi jest dostępne zarówno w pokojach, jak i w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "W cenę zakwaterowania wliczone jest bezpłatne śniadanie w formie bufetu. Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Lungomare Deledda, 118, 48015 Cervia, Ravenna, Włochy",
+ "adultsOnly": false,
+ "airportKm": 24.3,
+ "airportName": "Forlì Luigi Ridolfi (FRL)",
+ "amenities": [
+  "prywatna strefa na plaży",
+  "leżaki na plaży",
+  "pokój zabaw dla dzieci",
+  "pokój telewizyjny dla dzieci",
+  "strefa fitness",
+  "jacuzzi",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Centro Storico",
+ "bars": 1,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 2.1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby aktywne",
+  "uczestnicy wydarzeń IRONMAN"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2001,
+ "restaurants": 1,
+ "roomTypes": [
+  "Classic Double or Twin",
+  "Superior Double or Twin (z widokiem na morze)",
+  "Classic Single",
+  "Classic Triple",
+  "Superior Triple",
+  "Quadruple",
+  "Deluxe (z łóżkiem king-size, częścią wypoczynkową, łazienką z prysznicem i wanną z hydromasażem, niektóre z tarasem-solarium z widokiem na morze)",
+  "Family Room (z przedpokojem i dwiema sypialniami z balkonem i widokiem na morze)"
+ ],
+ "rooms": 94,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 44.2501952,
+  "lon": 12.3652396,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.com",
+  "hotel-cervia.org",
+  "hotelscombined.co.uk",
+  "momondo.com",
+  "travelweekly.com",
+  "hoteluniversalcervia.it",
+  "booking.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-28"
+}

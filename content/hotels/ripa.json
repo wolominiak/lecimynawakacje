@@ -1,0 +1,136 @@
+{
+ "id": "x:wlochy:ripa",
+ "slug": "ripa",
+ "name": "Ripa",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Rzym i okolice",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/rim/rim/ripa/_worldhotel-ripa-roma.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Ripa Roma to czterogwiazdkowy obiekt położony w historycznej dzielnicy Trastevere w Rzymie. Charakteryzuje się nowoczesnym, designerskim wystrojem i oferuje komfortowe zakwaterowanie w przestronnych pokojach. Jest to idealne miejsce dla par, osób poszukujących kulturalnych wrażeń, podróżujących służbowo, a także dla rodzin z dziećmi.",
+  "Obiekt został otwarty w 1972 roku, a ostatnie częściowe remonty miały miejsce w 2016 roku, z wcześniejszymi modernizacjami w latach 1993-1998, 2002-2004 i 2010. Hotel Ripa Roma to jeden ośmiopiętrowy budynek, który zapewnia łatwy dostęp do uroków Rzymu, choć do niektórych głównych atrakcji może być potrzebny transport publiczny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie",
+   "text": "Hotel Ripa Roma znajduje się w malowniczej dzielnicy Trastevere w Rzymie, co zapewnia łatwy dostęp do lokalnych restauracji, barów i transportu publicznego. Odległość od ścisłego centrum Rzymu wynosi około 5 km. Najbliższe lotniska to Fiumicino (FCO) około 20-25 km i Ciampino (CIA) około 13-14 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 199 przestronnych pokoi i apartamentów, w tym pokoje standardowe, superior, executive, junior suite, suite oraz mini-apartamenty z własnym wyżywieniem. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor LCD/satelitarny, minibar, sejf oraz prywatną łazienkę. Większość pokoi posiada balkon lub taras."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu znajduje się restauracja \"Ripa Place\", serwująca dania kuchni włoskiej i międzynarodowej, z naciskiem na nowoczesne interpretacje tradycyjnych rzymskich potraw. Restauracja jest otwarta na śniadania, obiady i kolacje. Goście mogą również skorzystać z hotelowego baru \"Ripa Place\", który pełni funkcję baru koktajlowego. Hotel nie oferuje pakietu all inclusive, ale możliwe jest wykupienie śniadań (często w formie bufetu) lub obiadokolacji."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Ripa Roma nie posiada basenu ani spa, ale oferuje bezpłatną siłownię Technogym, czynną 24 godziny na dobę. Dostępne jest bezpłatne Wi-Fi w całym hotelu. Obiekt jest przyjazny rodzinom, oferując udogodnienia dla dzieci, takie jak wózki, podgrzewacze do butelek i specjalne menu w restauracji. Hotel organizuje również wieczory tematyczne z muzyką na żywo i pokazami gotowania."
+  }
+ ],
+ "pros": [
+  "Duże, nowoczesne pokoje, często z balkonem.",
+  "Dobra lokalizacja w dzielnicy Trastevere.",
+  "Pomocna i miła obsługa.",
+  "Dostęp do siłowni 24/7.",
+  "Unikalny, designerski wystrój."
+ ],
+ "cons": [
+  "Brak basenu i spa.",
+  "Niektóre pokoje mogą być starsze i wykazywać oznaki zużycia.",
+  "Wi-Fi bywa wolne lub niestabilne.",
+  "Mała siłownia z ograniczonym sprzętem.",
+  "Śniadania bywają zatłoczone."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Rzym jest miastem położonym w głębi lądu, więc hotel nie ma dostępu do plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotniska to Międzynarodowy Port Lotniczy Leonardo da Vinci-Fiumicino (FCO) około 20-25 km i Międzynarodowy Port Lotniczy Ciampino-G. B. Pastine (CIA) około 13-14 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci, takie jak wózki, podgrzewacze do butelek i specjalne menu w restauracji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi, choć niektórzy goście zgłaszają, że bywa ono wolne lub niestabilne."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu all inclusive. Dostępne jest śniadanie w formie bufetu (często za dodatkową opłatą) oraz możliwość wykupienia obiadokolacji."
+  }
+ ],
+ "address": "Via degli Orti di Trastevere, 3, 00153 Roma RM, Włochy",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Międzynarodowy Port Lotniczy Ciampino-G. B. Pastine (CIA)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "siłownia 24/7",
+  "parking (płatny)",
+  "udogodnienia dla rodzin z dziećmi",
+  "wypożyczalnia rowerów (w pobliżu)",
+  "pola golfowe (w pobliżu)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Trastevere",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 5,
+ "goodFor": [
+  "pary",
+  "osoby poszukujące kultury",
+  "podróżujący służbowo",
+  "rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1972,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój superior",
+  "pokój executive",
+  "junior suite",
+  "suite",
+  "mini-apartament z własnym wyżywieniem (z klimatyzacją, TV LCD/sat, minibar/lodówka, sejf, łazienka z kosmetykami, suszarką, bidetem, większość z balkonem/tarasem)"
+ ],
+ "rooms": 199,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2609544,
+  "lon": -2.9253142,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "travelweekly.com",
+  "hotelriparoma.com",
+  "booking.com",
+  "hotelsone.com",
+  "guestreservations.com",
+  "trip.com",
+  "oyster.com"
+ ],
+ "updated": "2026-11-28"
+}

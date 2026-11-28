@@ -1,0 +1,129 @@
+{
+ "id": "x:wlochy:hotel nautilus excelsior adults only",
+ "slug": "hotel-nautilus-excelsior-adults-only",
+ "name": "Hotel Nautilus Excelsior - Adults Only",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/cagliari/hotel-nautilus-excelsior-adults-only/b4612fa2f819e60cb9c1.jpeg",
+ "city": "Cagliari",
+ "intro": [
+  "Hotel Nautilus Excelsior - Adults Only to butikowy obiekt położony w Cagliari na Sardynii, zaledwie kilka kroków od złotej, piaszczystej plaży Poetto. Ten nowoczesny hotel oferuje komfortowy pobyt w eleganckim otoczeniu, idealnym do relaksu i wypoczynku.",
+  "Obiekt jest przeznaczony wyłącznie dla dorosłych (minimum 15 lat), co czyni go doskonałym wyborem dla par szukających romantycznego wypadu, osób ceniących spokój i styl, a także dla tych, którzy chcą połączyć pracę zdalną z nadmorskim relaksem."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nautilus Excelsior - Adults Only znajduje się w dzielnicy Poetto w Cagliari, zaledwie 20 metrów od plaży Poetto. Jest to długa, piaszczysta plaża, na której hotel oferuje bezpłatne leżaki i ręczniki plażowe. Centrum Cagliari oddalone jest o około 4.7 km, a lotnisko Cagliari Elmas (CAG) o około 15 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 17 lub 18 nowoczesnymi i komfortowymi pokojami, w tym Classic Double Room, Double Room with Sea View, Deluxe Room with Spa Bath and Sea View. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę z bidetem, czajnik elektryczny, minibar, ekspres do kawy, sejf oraz telewizor z płaskim ekranem. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna nowoczesna restauracja, która serwuje kuchnię śródziemnomorską. Oferuje ona brunch i lunch, natomiast śniadanie dostępne jest w formie bufetu lub może być podane do pokoju. Goście mogą również skorzystać z hotelowego baru/lounge."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się sezonowy odkryty basen typu infinity. Obiekt oferuje również udogodnienia wellness, w tym jacuzzi z hydromasażem oraz centrum fitness. Goście mają do dyspozycji bezpłatne rowery, a w pobliżu plaży Poetto istnieje możliwość uprawiania windsurfingu."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja tuż przy plaży Poetto",
+  "Wysoka czystość i nowoczesne, komfortowe pokoje",
+  "Pomocna i przyjazna obsługa",
+  "Bardzo dobre śniadania",
+  "Dostęp do basenu, jacuzzi i centrum fitness"
+ ],
+ "cons": [
+  "Restauracja na dachu nie serwuje pełnych kolacji",
+  "Brak leżaków na balkonach w niektórych pokojach",
+  "Brak parkingu na miejscu",
+  "Hotel tylko dla dorosłych (minimalny wiek 15 lat)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Nautilus Excelsior - Adults Only znajduje się zaledwie kilka kroków od plaży Poetto, około 20 metrów."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Port lotniczy Cagliari Elmas (CAG), oddalone o około 15 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych i nie oferuje aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych (Adults Only), z minimalnym wiekiem zameldowania 15 lat."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje leżaki na plaży?",
+   "a": "Tak, hotel oferuje bezpłatne leżaki plażowe oraz ręczniki plażowe."
+  }
+ ],
+ "address": "Viale Lungo Mare Poetto, 136, 09126 Cagliari, Włochy",
+ "adultsOnly": true,
+ "airportKm": 15,
+ "airportName": "Cagliari Elmas (CAG)",
+ "amenities": [
+  "jacuzzi",
+  "centrum fitness",
+  "bezpłatne rowery",
+  "bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Poetto",
+ "bars": 1,
+ "beachDistanceM": 20,
+ "beachType": "piaszczysta",
+ "centerKm": 4.7,
+ "goodFor": [
+  "pary",
+  "osoby szukające relaksu",
+  "romantyczne wypady",
+  "praca zdalna"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Classic Double Room",
+  "Double Room with Sea View",
+  "Double Room with Spa Bath",
+  "Deluxe Room with Spa Bath and Sea View",
+  "Double Room without Balcony",
+  "Classic Queen Room",
+  "Deluxe King Room"
+ ],
+ "rooms": 18,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "icastelli.net",
+  "agoda.com",
+  "cagliariluxuryhotels.com",
+  "hotelcagliari.org",
+  "skyscanner.com",
+  "hotelnautiluspoetto.com",
+  "odysseus-app.com"
+ ],
+ "updated": "2026-11-28"
+}

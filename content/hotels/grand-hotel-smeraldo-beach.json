@@ -1,0 +1,134 @@
+{
+ "id": "x:wlochy:grand hotel smeraldo beach",
+ "slug": "grand-hotel-smeraldo-beach",
+ "name": "Grand Hotel Smeraldo Beach",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia",
+  "Baja Sardinia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/baja-sardinia/grand-hotel-smeraldo-beach/aldo_esterni5_gallery.jpg",
+ "city": "Baja Sardinia",
+ "intro": [
+  "Grand Hotel Smeraldo Beach to czterogwiazdkowy obiekt położony w malowniczej miejscowości Baja Sardinia, na słynnym Szmaragdowym Wybrzeżu Sardynii. Hotel usytuowany jest na wzgórzu, bezpośrednio przy morzu, oferując widoki na Archipelag La Maddalena. Otacza go śródziemnomorski ogród, a do dyspozycji gości jest prywatna, piaszczysta plaża.",
+  "Hotel jest polecany zarówno dla par szukających urokliwej atmosfery i pięknych widoków, jak i dla rodzin z małymi dziećmi, ze względu na płytkie wody plaży. Obiekt oferuje spokojny wypoczynek, z dala od zgiełku, jednocześnie zapewniając łatwy dostęp do centrum miejscowości i pobliskich atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Grand Hotel Smeraldo Beach znajduje się bezpośrednio przy morzu, około 10 metrów od prywatnej, piaszczystej plaży. Do dyspozycji gości są również małe, intymne zatoczki. Dno morskie jest piaszczysto-skaliste, a woda krystalicznie czysta, co sprzyja snorkelingowi. W sezonie letnim leżaki i parasole są dostępne bezpłatnie na plaży i przy basenach."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 160 pokoi, w tym typy Standard, z częściowym lub frontalnym widokiem na morze, z widokiem na wzgórze/ogród oraz pokoje trzyosobowe. Wszystkie pokoje wyposażone są w balkon lub taras, klimatyzację, bezpłatne Wi-Fi, telewizor, minibar, sejf oraz prywatną łazienkę z prysznicem/wanną i suszarką do włosów. Istnieje możliwość dostawienia dodatkowego łóżka lub łóżeczka dla dziecka."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mają do dyspozycji dwie restauracje: \"Smeraldo\" z widokiem na basen, serwującą dania kuchni lokalnej i międzynarodowej, oraz \"Pagoda\" przy plaży, oferującą obiady w formie bufetu z grillowanymi potrawami. Na terenie hotelu znajdują się również dwa bary - jeden na tarasie i drugi przy basenie/plaży. Hotel oferuje opcje wyżywienia Bed & Breakfast, Half Board oraz Full Board."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje czterema zewnętrznymi basenami rozmieszczonymi na różnych poziomach, w tym jednym z jacuzzi. Na terenie obiektu znajduje się bezpłatna sala fitness/siłownia. Za dodatkową opłatą dostępne są masaże, dwa korty tenisowe (200 m od hotelu) oraz wypożyczalnia rowerów."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest rekomendowany dla rodzin z małymi dziećmi, głównie ze względu na płytkie wody plaży. Dostępna jest usługa opieki nad dziećmi, świadczona za dodatkową opłatą. Brak informacji o mini klubie, animacjach czy zjeżdżalniach."
+  }
+ ],
+ "pros": [
+  "Fantastyczna lokalizacja przy prywatnej plaży z pięknymi widokami",
+  "Miła i pomocna obsługa",
+  "Dobre jedzenie, zwłaszcza kolacje",
+  "Duży kompleks basenów",
+  "Czystość obiektu"
+ ],
+ "cons": [
+  "Pokoje mogą być małe i przestarzałe, wymagające renowacji",
+  "Śniadania oceniane jako proste",
+  "Leżaki przy basenie i na plaży bywają zajmowane wcześnie rano",
+  "Hotel nie jest w pełni przystosowany dla osób z ograniczoną mobilnością (liczne schody)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy prywatnej, piaszczystej plaży, około 10 metrów od niej."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od lotniska Olbia Costa Smeralda (OLB) wynosi około 35 km, a czas dojazdu to około 40 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z małymi dziećmi, głównie ze względu na płytkie wody plaży. Dostępna jest płatna usługa opieki nad dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i wspólnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje opcje Bed & Breakfast, Half Board oraz Full Board. Brak informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Via Tre Monti, 07021, Baja Sardinia, Włochy",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Olbia Costa Smeralda (OLB)",
+ "amenities": [
+  "Jacuzzi",
+  "Masaże (za opłatą)",
+  "Korty tenisowe (200 m od hotelu, za opłatą)",
+  "Wypożyczalnia rowerów (za opłatą)"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Costa Smeralda",
+ "bars": 2,
+ "beachDistanceM": 10,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Pary",
+  "Rodziny z małymi dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 4,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard",
+  "Side Sea View (częściowy widok na morze)",
+  "Front Sea View (frontalny widok na morze)",
+  "Hill View/Garden View (widok na wzgórze/ogród)",
+  "Pokoje trzyosobowe"
+ ],
+ "rooms": 160,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.1409537,
+  "lon": 9.4748398,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "itihotels.it",
+  "charmingsardinia.com",
+  "r.pl",
+  "trivago.com",
+  "guestreservations.com",
+  "booking.com",
+  "grandhotelsmeraldobeach.it"
+ ],
+ "updated": "2026-11-28"
+}

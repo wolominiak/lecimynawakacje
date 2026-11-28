@@ -1,0 +1,141 @@
+{
+ "id": "x:wlochy:caravel",
+ "slug": "caravel",
+ "name": "Caravel",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Kampania",
+  "Sorrento"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/kampanie/sorrento/caravel-pl/4335/18c8d14c930d6fd119e729ec5b714b88_img_8023-244.jpg",
+ "city": "Sant'Agnello",
+ "intro": [
+  "Hotel Caravel to czterogwiazdkowy obiekt położony w spokojnej, zielonej miejscowości Sant'Agnello, niedaleko Sorrento na malowniczym Wybrzeżu Sorrento we Włoszech. Oferuje on relaksujący pobyt z dala od zgiełku, jednocześnie zapewniając łatwy dostęp do atrakcji regionu.",
+  "Hotel jest polecany zarówno dla par, jak i rodzin z dziećmi, które szukają komfortowego miejsca na wypoczynek. Dzięki dogodnej lokalizacji i udogodnieniom, stanowi dobrą bazę wypadową do zwiedzania Zatoki Neapolitańskiej i Wybrzeża Amalfi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Caravel znajduje się w Sant'Agnello, około 1,5 km od centrum Sorrento, do którego kursuje bezpłatny autobus wahadłowy. Do plaży Marinella jest około 200-400 metrów, a dostęp do niej ułatwiają schody lub winda wbudowana w skały. Na plaży dostępne są leżaki i parasole za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 88-91 pokojami, w tym pokojami jednoosobowymi, standardowymi, komfortowymi, superior, trzyosobowymi i rodzinnymi. Wszystkie pokoje są klimatyzowane (sezonowo) i wyposażone w telewizor z płaskim ekranem, minibar, sejf oraz prywatną łazienkę. Wiele pokoi posiada balkon lub taras, często z widokiem na morze lub Wezuwiusza."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu, \"Il Fiocco\", serwuje dania kuchni regionalnej i włoskiej. Śniadania podawane są w formie bufetu, a kolacje z obsługą kelnerską. Na terenie obiektu znajduje się również bar w ogrodzie/bar typu lounge. Hotel oferuje wyżywienie w opcji śniadań lub śniadań i kolacji (Half Board)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada sezonowy odkryty basen, czynny od kwietnia do października, otoczony leżakami i parasolami. Dostępne jest również zewnętrzne jacuzzi. Goście mogą korzystać z centrum fitness/siłowni, bilarda oraz wypożyczalni rowerów. Wieczorami organizowana jest muzyka na żywo dwa razy w tygodniu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje menu dla dzieci oraz pokój gier z grami planszowymi. Dostępna jest również usługa opieki nad dziećmi za dodatkową opłatą. Hotel jest polecany dla rodzin."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne w pokojach i miejscach publicznych. Na terenie obiektu znajduje się strefa spa z jacuzzi i wanną na świeżym powietrzu, a także możliwość skorzystania z masaży (za dodatkową opłatą). Hotel zapewnia również bezpłatny autobus wahadłowy do centrum Sorrento."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja w Sant'Agnello",
+  "Bezpłatny autobus wahadłowy do Sorrento",
+  "Przyjazny i pomocny personel",
+  "Dobrze oceniane śniadania w formie bufetu",
+  "Duży basen zewnętrzny i taras słoneczny"
+ ],
+ "cons": [
+  "Niektóre elementy wystroju mogą być przestarzałe",
+  "Pokoje mogą być małe, zwłaszcza jednoosobowe i standardowe",
+  "Wolny i przerywany dostęp do internetu w niektórych opiniach",
+  "Brak wielu atrakcji w bezpośredniej okolicy hotelu",
+  "Słabe wygłuszenie między pokojami"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 200-400 metrów od plaży Marinella. Dostęp do plaży jest możliwy schodami lub windą."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Neapol (NAP), oddalony o około 50 km (około 1 godzina jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są śniadania lub opcja Half Board (śniadania i kolacje)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje menu dla dzieci, pokój gier oraz usługę opieki nad dziećmi (za dodatkową opłatą)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "Corso M. Crawford, 61, 80065 Sant'Agnello (Sorrento Coast, NA), Włochy",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Międzynarodowy Port Lotniczy Neapol (NAP)",
+ "amenities": [
+  "Recepcja 24h",
+  "Winda",
+  "Przechowalnia bagażu",
+  "Usługi pralnicze (za opłatą)",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Wybrzeże Sorrento",
+ "bars": 1,
+ "beachDistanceM": 300,
+ "beachType": "Plaża Sorrento",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Pary",
+  "Rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój standardowy",
+  "Pokój komfortowy",
+  "Pokój superior dwuosobowy",
+  "Pokój trzyosobowy",
+  "Pokój rodzinny"
+ ],
+ "rooms": 90,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.6327745,
+  "lon": 14.3921502,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "hotelcaravel.com",
+  "tui.co.uk",
+  "topflight.ie",
+  "hotel.info",
+  "oyster.com",
+  "mapcarta.com",
+  "travelyalla.com"
+ ],
+ "updated": "2026-11-28"
+}

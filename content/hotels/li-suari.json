@@ -1,0 +1,127 @@
+{
+ "id": 29226,
+ "slug": "li-suari",
+ "name": "Li Suari",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sardynia",
+  "San Teodoro"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/li-suari-basen-teren-hotelu-1738278074-570-428.jpg",
+ "city": "San Teodoro",
+ "intro": [
+  "Hotel Li Suari Club Village to czterogwiazdkowy obiekt położony w malowniczej zatoce Cala d'Ambra w San Teodoro na Sardynii. Rozległy teren o powierzchni pięciu hektarów, porośnięty śródziemnomorskimi ogrodami, skrywa niezależne, parterowe wille, co zapewnia kameralną atmosferę. Hotel oferuje bezpośredni dostęp do prywatnej plaży, a także znajduje się w niewielkiej odległości od centrum miejscowości.",
+  "Obiekt jest idealnym wyborem dla rodzin z dziećmi, par oraz grup przyjaciół, którzy szukają zarówno relaksu, jak i aktywnego wypoczynku. Dzięki bogatemu programowi animacyjnemu, mini klubowi dla dzieci i różnorodnym zajęciom sportowym, każdy znajdzie tu coś dla siebie."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Li Suari Club Village znajduje się w dzielnicy Punta Isuledda, w zatoce Cala d'Ambra, około 1 km od centrum San Teodoro. Obiekt oferuje bezpośredni dostęp do prywatnej, koncesjonowanej plaży piaszczysto-żwirowej, oddalonej o 250-350 metrów. W pobliżu znajduje się także plaża L'Isuledda z białym piaskiem i krystalicznie czystą wodą. Leżaki i parasole są dostępne przy basenie i na plaży (pierwszy rząd płatny dodatkowo)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 85-90 klimatyzowanymi pokojami, rozmieszczonymi w parterowych willach. W ofercie są pokoje standardowe, rodzinne oraz typu comfort. Każdy pokój wyposażony jest w prywatną łazienkę z prysznicem i suszarką do włosów, telewizor, minibar (płatny), sejf, telefon oraz patio lub zadaszoną werandę. Należy jednak pamiętać, że niektóre pokoje mogą być podstawowe i wymagają odnowienia."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna klimatyzowana restauracja serwująca posiłki w formie bufetu. Goście mogą korzystać z baru przy basenie i snack baru. Oferta"
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Dogodna lokalizacja blisko plaży i centrum",
+  "Bardzo dobre i urozmaicone jedzenie",
+  "Czysty basen",
+  "Dobre animacje dla dorosłych i dzieci"
+ ],
+ "cons": [
+  "Pokoje mogą być przestarzałe i wymagać remontu",
+  "Problem z komarami",
+  "Dozwolone palenie w wielu miejscach",
+  "Plaża przy hotelu bywa kamienista/żwirowa i mniej odpowiednia dla dzieci",
+  "Płatna karta klubowa w sezonie i płatne ręczniki plażowe za każdą zmianę"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Li Suari Club Village znajduje się około 250-350 metrów od prywatnej, piaszczysto-żwirowej plaży w zatoce Cala d'Ambra."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko, Olbia Costa Smeralda Airport (OLB), oddalone jest od hotelu o około 28-35 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje brodzik, plac zabaw, mini klub (5-11 lat) i junior klub (12-16 lat) oraz program animacyjny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Bezpłatne Wi-Fi jest dostępne w ogólnodostępnych częściach hotelu (recepcja, basen). W pokojach dostęp do internetu może być ograniczony."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje formułę"
+  }
+ ],
+ "address": "Via Rattulongu 1, 08020 San Teodoro (OT), Sardegna, Włochy",
+ "adultsOnly": false,
+ "airportKm": 31.5,
+ "airportName": "Olbia Costa Smeralda Airport (OLB)",
+ "amenities": [
+  "Kort tenisowy",
+  "Boisko do piłki nożnej",
+  "Tenis stołowy",
+  "Wypożyczalnia rowerów",
+  "Massage Corner"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Punta Isuledda, w zatoce Cala d'Ambra",
+ "bars": 2,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1996,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje standardowe",
+  "Pokoje rodzinne (mogą być z łóżkami piętrowymi)",
+  "Pokoje typu comfort (dwuosobowe, trzyosobowe, czteroosobowe)"
+ ],
+ "rooms": 85,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.7662973,
+  "lon": 9.6822883,
+  "src": "osm"
+ },
+ "sources": [
+  "lisuariclubvillage.it",
+  "nexushotels.it",
+  "sardinianatour.com",
+  "holidaycheck.de",
+  "loveholidays.com",
+  "tui.com",
+  "kayak.co.uk",
+  "mapy.com"
+ ],
+ "updated": "2026-11-28"
+}

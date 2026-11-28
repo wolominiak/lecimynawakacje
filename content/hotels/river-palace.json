@@ -1,0 +1,143 @@
+{
+ "id": "x:wlochy:river palace",
+ "slug": "river-palace",
+ "name": "River Palace",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Rzym i okolice",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/rim/rim/river-palace-pl/9756/d3f62b49ce44410e4f8ce-244.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel River Palace to elegancki, czterogwiazdkowy obiekt położony w sercu Rzymu, w dzielnicy Flaminio i Parioli. Jest to idealna baza wypadowa do zwiedzania Wiecznego Miasta, zaledwie kilka kroków od Piazza del Popolo i ogrodów Villa Borghese.",
+  "Hotel łączy tradycyjny włoski urok z nowoczesnymi udogodnieniami, oferując komfortowe zakwaterowanie dla par, przyjaciół, a także podróżujących służbowo. Goście doceniają jego centralną lokalizację oraz wysoką jakość obsługi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel River Palace cieszy się doskonałą lokalizacją w Rzymie, zaledwie 120-150 metrów od stacji metra Flaminio - Piazza del Popolo, co zapewnia łatwy dostęp do wszystkich głównych atrakcji miasta. W bezpośrednim sąsiedztwie znajduje się słynny Piazza del Popolo oraz wejście do malowniczych ogrodów Villa Borghese. Odległość od lotniska Ciampino wynosi około 16 km, a od lotniska Fiumicino około 30-35 km drogą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 58 do 72 pokoi w różnych kategoriach, w tym Classic, Deluxe, Junior Suite i Duplex Suite. Wszystkie pokoje są wyposażone w telewizor z płaskim ekranem i kanałami satelitarnymi, bezpłatne Wi-Fi, minibar oraz klimatyzację. Łazienki wykończone marmurem posiadają bidet, prysznic oraz suszarkę do włosów. Niektóre apartamenty dysponują balkonami."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Codziennie rano serwowane jest obfite śniadanie w formie bufetu, które obejmuje domowe ciasta, świeże owoce, wędliny i sery. Hotel nie oferuje pakietu all inclusive. Goście mogą zrelaksować się w Lounge Barze, gdzie dostępne są koktajle, w tym 22 rodzaje whisky, oraz bezpłatne przekąski. Bar oferuje również Happy Hour."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel River Palace zapewnia bezpłatne Wi-Fi we wszystkich pokojach i miejscach publicznych. Na terenie obiektu znajduje się siłownia, dostępna dla gości bez dodatkowych opłat. Hotel nie dysponuje basenami ani aquaparkiem. Dzieci są mile widziane, choć mogą obowiązywać dodatkowe opłaty."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel jest szczególnie polecany dla par, przyjaciół oraz osób podróżujących służbowo, ceniących sobie centralną lokalizację i łatwy dostęp do atrakcji turystycznych Rzymu. Jego elegancka atmosfera i komfortowe udogodnienia sprawiają, że jest to doskonały wybór dla osób zwiedzających miasto."
+  }
+ ],
+ "pros": [
+  "Doskonała centralna lokalizacja, blisko metra i Piazza del Popolo",
+  "Bardzo pomocna i przyjazna obsługa",
+  "Czyste pokoje i elegancka atmosfera",
+  "Dobre i urozmaicone śniadania w formie bufetu",
+  "Dostępna siłownia i bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Pokoje mogą być małe/kompaktowe",
+  "Hotel może wydawać się nieco staromodny",
+  "Brak basenów i aquaparku",
+  "Brak pakietu all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel River Palace znajduje się w Rzymie, w głębi lądu, więc nie ma dostępu do plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotniska to Ciampino-G. B. Pastine International Airport (CIA) oddalone o około 16 km oraz Leonardo da Vinci-Fiumicino Airport (FCO) oddalone o około 30-35 km drogą."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel River Palace nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, dzieci są mile widziane w hotelu, choć mogą obowiązywać dodatkowe opłaty."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel River Palace nie oferuje pakietu all inclusive. Serwowane są śniadania w formie bufetu."
+  }
+ ],
+ "address": "Via Flaminia 33, 00196 Roma-Italy",
+ "adultsOnly": false,
+ "airportKm": 15.91,
+ "airportName": "Ciampino-G. B. Pastine International Airport (CIA)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "siłownia",
+  "Lounge Bar",
+  "śniadania w formie bufetu"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Flaminio i Parioli",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": null,
+ "goodFor": [
+  "pary",
+  "przyjaciele",
+  "osoby zwiedzające miasto",
+  "podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Classic Double Room",
+  "Deluxe Double or Twin Room",
+  "Classic Single Room",
+  "One-Bedroom Suite with City View",
+  "Junior Suite",
+  "Duplex Suite",
+  "Premium Duplex Double Room",
+  "Prestige Queen Room",
+  "Economy Double Room",
+  "Superior Room",
+  "Villa Suite",
+  "Smart Double Room"
+ ],
+ "rooms": 64,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 41.9132853,
+  "lon": 12.4751059,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "it-romehotels.com",
+  "oyster.com",
+  "booking.com",
+  "jet2holidays.com",
+  "riverpalacehotel.it",
+  "trivago.co.uk",
+  "romadihotel.com"
+ ],
+ "updated": "2026-11-28"
+}

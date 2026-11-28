@@ -1,0 +1,134 @@
+{
+ "id": 19914,
+ "slug": "athenaeum-palermo",
+ "name": "Athenaeum (Palermo)",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sycylia",
+  "Palermo"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/athenaeum-palermo-obiekt-1237042190-570-428.jpg",
+ "city": "Palermo",
+ "intro": [
+  "Hotel Athenaeum to trzygwiazdkowy obiekt położony w Palermo na Sycylii, w dzielnicy uniwersyteckiej Montegrappa-Santa Rosalia. Jest to idealna propozycja dla osób poszukujących komfortowego zakwaterowania w przystępnej cenie, blisko kampusu uniwersyteckiego oraz z dobrym dojazdem do centrum miasta i głównych dróg.",
+  "Hotel jest polecany zarówno dla rodzin z dziećmi, par, jak i podróżujących służbowo czy studentów. Oferuje dobrą bazę wypadową do zwiedzania Palermo, a także dogodne warunki dla osób ceniących sobie spokój i funkcjonalność."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Athenaeum znajduje się w Palermo, naprzeciwko kampusu Uniwersytetu w Palermo. Do centrum miasta jest około 1.8-2 km, co zajmuje 15-20 minut spacerem. Najbliższa plaża oddalona jest o 5.5 km, natomiast popularna plaża Mondello o około 20 km. Obiekt jest dobrze skomunikowany z autostradą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 80 pokojami rozmieszczonymi w jednym, 6- lub 7-piętrowym budynku. Pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar z bezpłatną wodą, telefon, sejf oraz prywatną łazienkę z prysznicem i suszarką do włosów. Dostępne są pokoje jedno-, dwu-, trzyosobowe oraz rodzinne. Niektóre pokoje na wyższych piętrach posiadają prywatne tarasy z widokiem na miasto."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja serwująca dania kuchni włoskiej, międzynarodowej i sycylijskiej. Goście mogą korzystać z bezpłatnego śniadania w formie bufetu. Na terenie obiektu dostępny jest również bar/lounge oraz snack bar."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne w całym obiekcie i w pokojach. Dla zmotoryzowanych gości dostępny jest bezpłatny, bezpieczny parking podziemny. Hotel nie posiada basenów, aquaparku, strefy dla dzieci ani animacji. Możliwe jest wypożyczenie rowerów za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Bezpłatny, bezpieczny parking podziemny",
+  "Dobre śniadanie w formie bufetu",
+  "Pomocna i przyjazna obsługa",
+  "Czyste i przestronne pokoje",
+  "Dobra wartość za pieniądze",
+  "Bliskość uniwersytetu i dobry dojazd do autostrady",
+  "Dostępne bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Lokalizacja może być uznana za nieidealną przez niektórych (daleko od plaży, niektórzy uważają ją za nieciekawą)",
+  "Pokoje mogą wymagać remontu, cienkie ściany (słaba izolacja akustyczna)",
+  "Wolna winda i małe prysznice",
+  "Może być głośno z powodu grup studentów",
+  "Śniadanie bywa określane jako podstawowe lub nudne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża znajduje się 5.5 km od hotelu. Plaża Mondello oddalona jest o około 20 km."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Odległość od lotniska Falcone-Borsellino (PMO) wynosi od 23.4 km do 34 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i często gości grupy studentów."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje bezpłatne śniadanie w formie bufetu. Brak informacji o ofercie all inclusive."
+  }
+ ],
+ "address": "Via Luigi Giannettino, 4, 90128 Palermo",
+ "adultsOnly": false,
+ "airportKm": 23.4,
+ "airportName": "Falcone-Borsellino Airport (PMO)",
+ "amenities": [
+  "Parking podziemny",
+  "Wypożyczalnia rowerów (płatna)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "University Area / Montegrappa-Santa Rosalia",
+ "bars": 2,
+ "beachDistanceM": 5500,
+ "beachType": "",
+ "centerKm": 1.8,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Podróżujący służbowo",
+  "Studenci",
+  "Osoby zwiedzające miasto",
+  "Osoby z ograniczonym budżetem"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1994,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy (double/twin)",
+  "Pokój trzyosobowy",
+  "Pokój rodzinny"
+ ],
+ "rooms": 80,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 51.5047391,
+  "lon": -0.1475561,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "reserving.com",
+  "planetofhotels.com",
+  "albergoathenaeum.it",
+  "mapy.com",
+  "onthebeach.ie",
+  "trip.com",
+  "rome2rio.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,134 @@
+{
+ "id": "x:wlochy:una hotels club hotel ancora",
+ "slug": "una-hotels-club-hotel-ancora",
+ "name": "Una Hotels Club Hotel Ancora",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia",
+  "Stintino"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/stintino/una-hotels-club-hotel-ancora/bb36fbd6e27d147865543.jpg",
+ "city": "Stintino",
+ "intro": [
+  "UNAHOTELS Club Hotel Ancora to czterogwiazdkowy obiekt położony na północno-zachodnim wybrzeżu Sardynii, w malowniczej Zatoce Asinara. Hotel, otoczony rozległym parkiem, oferuje spokojny wypoczynek w typowo sardyńskiej zabudowie z lokalnego kamienia. Jego lokalizacja sprawia, że jest to idealne miejsce dla osób ceniących bliskość natury i piękne widoki.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi oraz par szukających zarówno relaksu, jak i aktywnego spędzania czasu. Dzięki bogatej ofercie sportowej i animacyjnej, każdy znajdzie tu coś dla siebie, a prywatna plaża i dogodne udogodnienia zapewniają komfortowy pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Stintino, około 300 metrów od prywatnej, piaszczysto-żwirowej plaży Yacht Club Ancora. Do plaży prowadzi ścieżka przez park oraz podziemne przejście. Plaża jest wyposażona w leżaki i parasole, a ręczniki plażowe są zapewnione bezpłatnie. Centrum miejscowości Stintino oddalone jest o około 2-3 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 48 lub 55 pokoi rozmieszczonych w czterech dwupiętrowych budynkach. Dostępne są pokoje Standard, Superior (odnowione) oraz Rodzinne. Wszystkie pokoje wyposażone są w klimatyzację, telewizję satelitarną, Wi-Fi, telefon, sejf, minibar oraz balkon lub taras z widokiem na ogród."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje śniadania i kolacje z daniami kuchni sardyńskiej. W sezonie wysokim organizowane są wieczorne grille, a także dostępne jest menu dla dzieci oraz dania wegetariańskie i bezglutenowe na życzenie. Na terenie obiektu znajdują się również duży bar z muzyką na żywo, bar przy basenie i bar na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden odkryty basen z wodą morską o wymiarach półolimpijskich, zlokalizowany przy plaży. Hotel oferuje szeroki zakres aktywności sportowych, takich jak tenis, piłka nożna, windsurfing, kajakarstwo, rowery, siatkówka plażowa, aqua gym i aerobik. W parku znajduje się również „ścieżka wellness”."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował plac zabaw w ogrodzie i na plaży. Mini klub dla dzieci w wieku 4-12 lat działa w sezonie wysokim (od czerwca do września). Zespół animatorów organizuje codzienne i wieczorne zajęcia, w tym mini disco i wieczory tematyczne, zapewniając rozrywkę dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko prywatnej plaży",
+  "Zadbane ogrody i typowo sardyńska architektura",
+  "Bardzo dobra kuchnia z lokalnymi produktami",
+  "Szeroki zakres zajęć sportowych i animacyjnych",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Ograniczone wygłuszenie pokoi",
+  "Obowiązkowa karta klubowa w sezonie wysokim (dodatkowo płatna)",
+  "Serwis plażowy dla pokoi Standard jest dodatkowo płatny",
+  "Brak aquaparku/zjeżdżalni",
+  "Różne źródła podają różną liczbę pokoi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 300 metrów od prywatnej, piaszczysto-żwirowej plaży Yacht Club Ancora."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko to Alghero-Fertilia (AHO), oddalone o około 45-50 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, plac zabaw i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy serwis plażowy jest wliczony w cenę?",
+   "a": "Serwis plażowy (1 parasol + 2 leżaki) jest wliczony w cenę dla pokoi Superior przy minimalnym pobycie 7 nocy. Dla pozostałych pokoi jest dodatkowo płatny."
+  }
+ ],
+ "address": "Via l'Ancora, 31, 07040 Stintino, Włochy",
+ "adultsOnly": false,
+ "airportKm": 45,
+ "airportName": "Alghero-Fertilia (AHO)",
+ "amenities": [
+  "Klimatyzacja",
+  "Telewizja satelitarna",
+  "Sejf",
+  "Minibar",
+  "Balkon/taras",
+  "Plac zabaw",
+  "Bilard"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Zatoka Asinara",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 2.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu",
+  "Osoby aktywne"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard: klimatyzacja, telewizja satelitarna, Wi-Fi, telefon, sejf, minibar, balkon/taras z widokiem na ogród",
+  "Superior: odnowione, klimatyzacja, telewizja satelitarna, Wi-Fi, telefon, sejf, minibar (jednorazowo uzupełniony), balkon/taras z widokiem na ogród, szlafrok i kapcie, kosz owoców na powitanie, drink powitalny, ręcznik plażowy w pokoju, serwis plażowy (1 parasol + 2 leżaki przy min. 7 nocach)",
+  "Rodzinne (Family): dwa połączone pokoje (dla 4-6 osób), podwójne łóżko, pokój z 2-3 łóżkami, jedna łazienka, dwa telewizory, dwa balkony/tarasy (niektóre dwupoziomowe)"
+ ],
+ "rooms": 51,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "unaitalianhospitality.com",
+  "charmingsardinia.com",
+  "hotelancora.info",
+  "allinclusivehotels.it",
+  "trivago.com",
+  "trivago.co.uk",
+  "justsardinia.co.uk",
+  "arcadiaviaggi.it"
+ ],
+ "updated": "2026-11-28"
+}

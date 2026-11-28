@@ -1,0 +1,139 @@
+{
+ "id": "x:wlochy:ariston hotel roma",
+ "slug": "ariston-hotel-roma",
+ "name": "Ariston Hotel Roma",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Rzym i okolice",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/rim/rim/ariston-hotel-roma/eb62352e8657ba3e6faa3.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Ariston Hotel Roma to czterogwiazdkowy hotel miejski, położony w historycznym centrum Rzymu, w dzielnicy Esquilino. Jest to elegancki, siedmiopiętrowy budynek z 1950 roku, który przeszedł generalny remont w 2004 roku, a niektóre pokoje były niedawno odnawiane. Obiekt jest idealnym wyborem dla osób podróżujących służbowo, turystów, w tym rodzin, szukających komfortowego zakwaterowania na krótki wypad do miasta.",
+  "Hotel oferuje od 84 do 91 pokoi, zapewniając nowoczesne udogodnienia i stylowe wnętrza. Dzięki swojej dogodnej lokalizacji w pobliżu dworca Roma Termini, stanowi doskonałą bazę wypadową do zwiedzania głównych atrakcji kulturalnych Rzymu, które znajdują się w zasięgu spaceru. Hotel jest przyjazny dzieciom i oferuje bezpłatne Wi-Fi na terenie całego obiektu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Ariston Hotel Roma znajduje się w Rzymie, w dzielnicy Esquilino, w samym sercu historycznego centrum miasta. Jego największym atutem jest bliskość głównego dworca kolejowego Roma Termini, oddalonego o zaledwie 100-130 metrów. Dzięki temu goście mają łatwy dostęp do komunikacji miejskiej i wielu głównych atrakcji kulturalnych Rzymu w zasięgu spaceru."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje od 84 do 91 pokoi, w tym Smart Single, Budget Double, Queen, Deluxe Double or Twin, Superior Double or Twin, Standard Triple, Standard Quadruple, Executive oraz City Single. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, prywatną łazienkę z bidetem, dźwiękoszczelne okna, minibar, bezpłatne Wi-Fi i sejf. W niektórych odnowionych pokojach dostępne są czajniki elektryczne i zestawy do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja TTwenty, serwująca dania kuchni włoskiej à la carte, oraz kawiarnia. Goście mogą również skorzystać ze stylowego lounge baru. Hotel nie oferuje opcji all inclusive, ale śniadanie jest dostępne, często wliczone w cenę pokoju lub za dodatkową opłatą."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Ariston Hotel Roma dysponuje nowoczesnym centrum fitness/siłownią z bieżniami i ciężarkami, z bezpłatnym dostępem dla gości. Na terenie całego obiektu dostępne jest bezpłatne Wi-Fi. Hotel nie posiada basenów ani spa, ale oferuje komfortowe warunki dla podróżujących służbowo i turystów."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko dworca Termini",
+  "Czystość i nowoczesne wnętrza",
+  "Przyjazny i pomocny personel",
+  "Dobre śniadanie",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Okolica dworca Termini bywa zaniedbana",
+  "Pokoje mogą być kompaktowe/małe",
+  "Niektóre pokoje mogą być przestarzałe",
+  "Ograniczona kontrola temperatury w pokojach",
+  "Hałas uliczny w pokojach od strony ulicy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest hotelem miejskim, więc informacje o plaży nie mają zastosowania."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotniska to Rzym Fiumicino (Leonardo da Vinci) i Rzym Ciampino. Hotel znajduje się bardzo blisko dworca Roma Termini, co ułatwia dojazd z lotnisk."
+  },
+  {
+   "q": "Czy hotel posiada baseny lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako „przyjazny dzieciom” i przyjmuje rodziny."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne jest śniadanie, często wliczone w cenę pokoju."
+  }
+ ],
+ "address": "Via Filippo Turati, 16, 00185 Roma RM, Włochy",
+ "adultsOnly": false,
+ "airportKm": null,
+ "airportName": "Rzym Fiumicino (Leonardo da Vinci), Rzym Ciampino",
+ "amenities": [
+  "siłownia",
+  "bezpłatne Wi-Fi",
+  "restauracja à la carte",
+  "lounge bar",
+  "kawiarnia"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Esquilino (Esquilino district) lub Municipio Roma I, w historycznym centrum Rzymu",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": null,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści",
+  "Rodziny",
+  "Krótkie wypady do miasta"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1950,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2004,
+ "restaurants": 1,
+ "roomTypes": [
+  "Smart Single Room",
+  "Budget Double Room",
+  "Queen Room",
+  "Deluxe Double or Twin Room",
+  "Superior Double or Twin Room",
+  "Standard Triple Room",
+  "Standard Quadruple Room",
+  "Executive Room",
+  "City Single Room",
+  "Pokoje antyalergiczne"
+ ],
+ "rooms": 84,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 41.8968192,
+  "lon": 12.5048055,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.com",
+  "booking.com",
+  "romadihotel.com",
+  "it-romehotels.com",
+  "oyster.com",
+  "agoda.com",
+  "thomascook.com",
+  "hotelariston.it"
+ ],
+ "updated": "2026-11-28"
+}

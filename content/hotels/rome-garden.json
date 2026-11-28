@@ -1,0 +1,136 @@
+{
+ "id": 42487,
+ "slug": "rome-garden",
+ "name": "Rome Garden",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Lazio",
+  "Rzym"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001456112-570-428.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Rome Garden to urokliwy obiekt mieszczący się w odrestaurowanej XIX-wiecznej willi, położony w eleganckiej dzielnicy Nomentano w Rzymie. Otoczony prywatnym ogrodem, oferuje spokojną atmosferę, jednocześnie zapewniając łatwy dostęp do głównych atrakcji miasta.",
+  "Obiekt jest doskonałym wyborem zarówno dla turystów indywidualnych, par, jak i osób podróżujących służbowo, ceniących sobie komfort, dogodną lokalizację oraz kameralny charakter. Hotel akceptuje również zwierzęta, co czyni go atrakcyjnym dla właścicieli czworonogów."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Rome Garden znajduje się w Rzymie, w dzielnicy Nomentano, w pobliżu Porta Pia i Via Veneto. Jest to elegancka okolica konsularna i dyplomatyczna. Obiekt jest oddalony o około 1.4 km od centrum Rzymu i około 1 km od dworca kolejowego Roma Termini. Stacja metra Policlinico znajduje się około 10 minut spacerem od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 34 pokojami, w tym pokojami dwuosobowymi, trzyosobowymi, czteroosobowymi, jednoosobowymi oraz junior suite. Niektóre pokoje mieszczą się w aneksie, oddalonym od głównego budynku. Wszystkie pokoje są wyposażone w klimatyzację, telewizor z płaskim ekranem, minibar, sejf oraz prywatną łazienkę z prysznicem, bidetem i suszarką do włosów. Dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się bar/salon oraz sala śniadaniowa. Codziennie serwowane jest śniadanie w formie bufetu, często z domowymi wypiekami, które w sprzyjających warunkach można zjeść w ogrodzie. Hotel oferuje również room service. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Rome Garden nie posiada basenu, aquaparku ani animacji. Goście mogą korzystać z całodobowej sali fitness (siłowni). W okolicy dostępne są szlaki turystyczne. W całym obiekcie i w pokojach zapewnione jest bezpłatne Wi-Fi."
+  }
+ ],
+ "pros": [
+  "Przyjazny i pomocny personel",
+  "Smaczne śniadania w formie bufetu",
+  "Czyste i komfortowe pokoje",
+  "Spokojny, prywatny ogród",
+  "Dobra lokalizacja, blisko metra i dworca"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Potencjalny hałas z sąsiednich pokoi",
+  "Twarde łóżka (wg niektórych opinii)",
+  "Rzym jest miastem śródlądowym, brak dostępu do plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Rome Garden znajduje się w Rzymie, który jest miastem śródlądowym. Najbliższa popularna plaża, Lido di Ostia, jest oddalona o około 30 km."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 15 km od lotniska Rzym-Ciampino (CIA) i około 30-31 km od lotniska Rzym-Fiumicino (FCO)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Rome Garden nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, dzieci są mile widziane w hotelu, choć mogą obowiązywać dodatkowe opłaty. Brak jest jednak udogodnień takich jak mini klub czy animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu i we wszystkich pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia?",
+   "a": "Tak, w hotelu dostępna jest sala fitness (siłownia) czynna 24 godziny."
+  }
+ ],
+ "address": "Via Nomentana, 28, 00161 Rzym",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Rzym-Ciampino (CIA)",
+ "amenities": [
+  "room service",
+  "bar",
+  "sala śniadaniowa",
+  "ogród",
+  "pralnia (płatna)",
+  "parking (płatny)",
+  "przechowalnia bagażu",
+  "windy"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Nomentano",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 1.4,
+ "goodFor": [
+  "pary",
+  "podróże służbowe",
+  "turyści indywidualni"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1870,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2020,
+ "restaurants": null,
+ "roomTypes": [
+  "pokój dwuosobowy",
+  "pokój trzyosobowy",
+  "pokój czteroosobowy",
+  "junior suite",
+  "pokój jednoosobowy",
+  "pokój typu annex"
+ ],
+ "rooms": 34,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.9114107,
+  "lon": 12.505349,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "romegardenhotel.com",
+  "hrs.com",
+  "reserve-online.net",
+  "thomascook.com",
+  "it-romehotels.com",
+  "ohotel.uk",
+  "spies.dk"
+ ],
+ "updated": "2026-11-28"
+}

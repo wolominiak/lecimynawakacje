@@ -1,0 +1,135 @@
+{
+ "id": "x:wlochy:colonna park",
+ "slug": "colonna-park",
+ "name": "Colonna Park",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia",
+  "Porto Cervo/Golfo Fretero"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/porto-cervo-golfo-pevero/colonna-park/b593d845c86ea541fa965265655cc53a_hall.jpg",
+ "city": "Porto Cervo",
+ "intro": [
+  "Hotel Colonna Park to czterogwiazdkowy obiekt położony w sercu Costa Smeralda na Sardynii, we Włoszech, w malowniczej miejscowości Porto Cervo. Otoczony zielonym parkiem o powierzchni 20 000 m², hotel oferuje spokojny wypoczynek w stylu willi, idealny dla osób ceniących sobie relaks w otoczeniu natury.",
+  "Obiekt jest doskonałym wyborem zarówno dla par poszukujących ucieczki od zgiełku, jak i dla rodzin z dziećmi. Dzięki udogodnieniom takim jak menu dla dzieci i krzesełka w restauracji, hotel stara się zapewnić komfortowy pobyt dla wszystkich gości, choć brak tu typowych animacji czy mini klubu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i transport",
+   "text": "Hotel Colonna Park znajduje się w Porto Cervo, około 300 metrów od przystani Porto Cervo Marina. Najbliższa piaszczysta plaża Cala Granu oddalona jest o około 1 km, natomiast do plaży Pevero są 3 km. Hotel oferuje bezpłatny transfer busem na plażę Pevero (3 razy dziennie) oraz do centrum Porto Cervo (jeden kurs powrotny wieczorem, od czerwca do połowy września). Najbliższe lotnisko Olbia Costa Smeralda (OLB) znajduje się w odległości około 30 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 74 pokojami, w tym Standard Double Room, Superior Double Room oraz Economy Double/Twin Room, rozmieszczonymi na trzech piętrach. Wszystkie pokoje są klimatyzowane i wyposażone w minibar (płatny), sejf, telefon, telewizor z płaskim ekranem i kanałami satelitarnymi. Każdy pokój posiada łazienkę z prysznicem i suszarką do włosów, a także balkon lub taras. Goście zwracają uwagę, że wnętrza mogą być przestarzałe i wymagać renowacji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, Bella Blu Restaurant, serwująca dania kuchni lokalnej, narodowej i międzynarodowej. Śniadania podawane są w formie bufetu, a kolacje z menu, przy czym w restauracji wymagany jest strój formalny. Do dyspozycji gości są również dwa bary: Pool Bar przy basenie oraz Smeraldo Bar/Terrace Bar z tarasem. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje duży odkryty basen ze słodką wodą oraz taras słoneczny, gdzie dostępne są bezpłatne ręczniki. Na terenie obiektu brak jest podgrzewanych lub krytych basenów, zjeżdżalni czy aquaparku. Goście mogą skorzystać z wypożyczalni samochodów, rowerów i łodzi. W odległości około 3-7 km znajduje się pole golfowe Pevero Golf Club. W całym hotelu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom z dziećmi, oferując krzesełka dla dzieci i specjalne menu w restauracji. Należy jednak pamiętać, że w obiekcie nie ma mini klubu ani animacji dla dzieci, co może być istotne dla rodzin szukających rozbudowanych atrakcji dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja w otoczeniu zieleni",
+  "Ładny basen i zadbane ogrody",
+  "Miła i pomocna obsługa",
+  "Dobre śniadania",
+  "Bezpłatny bus na plażę i do centrum"
+ ],
+ "cons": [
+  "Pokoje i wnętrza mogą być przestarzałe i wymagać remontu",
+  "Łazienki bywają wąskie",
+  "Plaża oddalona o około 1 km, wymaga spaceru lub dojazdu",
+  "Brak animacji i mini klubu dla dzieci",
+  "Brak siłowni i spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Cala Granu znajduje się około 1 km od hotelu, a plaża Pevero około 3 km. Hotel oferuje bezpłatny transfer busem na plażę Pevero."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko, Olbia Costa Smeralda (OLB), oddalone jest o około 30 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu Colonna Park nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje krzesełka i menu dla dzieci w restauracji. Należy jednak pamiętać, że brak tu mini klubu i animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu oraz w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych, jest otwarty dla wszystkich gości, w tym rodzin z dziećmi."
+  }
+ ],
+ "address": "Via della Marineria, S/N, Liscia di Vacca, Porto Cervo, Sardinia, 07020, Italy",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Olbia Costa Smeralda Airport (OLB)",
+ "amenities": [
+  "bezpłatne Wi-Fi",
+  "wypożyczalnia samochodów",
+  "wypożyczalnia rowerów",
+  "wypożyczalnia łodzi",
+  "krzesełka dla dzieci w restauracji",
+  "menu dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Costa Smeralda",
+ "bars": 2,
+ "beachDistanceM": 1000,
+ "beachType": "piaszczysta",
+ "centerKm": 1.2,
+ "goodFor": [
+  "pary szukające spokoju i relaksu",
+  "rodziny"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room: klimatyzacja, minibar (płatny), sejf, telefon, telewizor (płaski ekran, satelitarny), łazienka z prysznicem i suszarką do włosów, balkon lub taras",
+  "Superior Double Room: klimatyzacja, minibar (płatny), sejf, telefon, telewizor (płaski ekran, satelitarny), łazienka z prysznicem i suszarką do włosów, balkon lub taras",
+  "Economy Double/Twin Room: klimatyzacja, minibar (płatny), sejf, telefon, telewizor (płaski ekran, satelitarny), łazienka z prysznicem i suszarką do włosów, balkon lub taras"
+ ],
+ "rooms": 74,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.1374969,
+  "lon": 9.5229035,
+  "src": "osm"
+ },
+ "sources": [
+  "colonnaparkhotel.it",
+  "itihotels.it",
+  "agoda.com",
+  "trip.com",
+  "jet2holidays.com",
+  "booking.com",
+  "trivago.com",
+  "holidaycheck.de"
+ ],
+ "updated": "2026-11-28"
+}

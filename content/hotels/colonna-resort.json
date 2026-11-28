@@ -1,0 +1,148 @@
+{
+ "id": "x:wlochy:colonna resort",
+ "slug": "colonna-resort",
+ "name": "Colonna Resort",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sardynia",
+  "Porto Cervo/Golfo Fretero"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/italie/sardinie/porto-cervo-golfo-pevero/colonna-resort/b97f158b9036216545189f3a5bc493f9_esterno08.jpg",
+ "city": "Porto Cervo",
+ "intro": [
+  "Colonna Resort to pięciogwiazdkowy hotel położony w sercu luksusowego Costa Smeralda na Sardynii, z widokiem na Zatokę Porto Cervo. Obiekt, otoczony rozległym parkiem, oferuje eleganckie zakwaterowanie i szeroki zakres udogodnień w śródziemnomorskim stylu.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par szukających spokoju i luksusu, a także dla miłośników żeglarstwa. Zapewnia relaksujący wypoczynek z bezpośrednim dostępem do prywatnej plaży i imponującymi basenami z wodą morską."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Colonna Resort znajduje się w Porto Cervo, zaledwie 2-3.5 km od centrum miejscowości, do którego hotel oferuje bezpłatny transfer. Obiekt położony jest bezpośrednio przy prywatnej, piaszczystej plaży z leżakami, parasolami i drewnianym solarium. W pobliżu, około 500 metrów pieszo, znajduje się również plaża Cala Granu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 220 lub 250 pokojami, urządzonymi w sardyńskim stylu śródziemnomorskim. Standardowe wyposażenie obejmuje klimatyzację, telewizor z płaskim ekranem, minibar, sejf, suszarkę do włosów oraz łazienkę z wanną lub prysznicem. Wszystkie pokoje posiadają umeblowany balkon lub taras, a niektóre oferują widok na morze."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się siedem odkrytych basenów typu infinity z wodą morską, o łącznej powierzchni około 8500 m². Dostępne jest również centrum fitness z wyposażeniem cardio-fitness. Goście mogą korzystać z driving range do golfa na miejscu, a w pobliżu (7 km) znajduje się Pevero Golf Club. Hotel nie posiada aquaparku ani zjeżdżalni."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Colonna Restaurant, serwująca śniadania w formie bufetu i kolacje à la carte z kuchnią sardyńską i międzynarodową, oraz Pagoda Restaurant, oferująca bufet lunchowy przy basenie i plaży. Do dyspozycji gości są także dwa bary: Colonna Caffè z muzyką na żywo oraz Pool Bar. Hotel oferuje opcje wyżywienia takie jak Bed & Breakfast, Half Board lub Full Board."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom i oferuje dedykowany plac zabaw dla dzieci. W sezonie (lipiec i sierpień) działa mini klub z dziennym programem rozrywkowym dla dzieci w wieku 4-12 lat, prowadzony przez wielojęzyczny personel."
+  },
+  {
+   "title": "Wellness i Spa",
+   "text": "Centrum Wellness & SPA o powierzchni około 600 m² oferuje thalassoterapię, prysznice sensoryczne, łaźnię turecką, saunę fińską oraz gabinety zabiegowe. Wejście do strefy wellness jest dodatkowo płatne."
+  }
+ ],
+ "pros": [
+  "Oszałamiająca lokalizacja nad morzem",
+  "Spektakularne baseny z wodą morską",
+  "Prywatna plaża z leżakami i parasolami",
+  "Czyste i przestronne pokoje",
+  "Uprzejma i pomocna obsługa",
+  "Bezpłatny transfer do Porto Cervo"
+ ],
+ "cons": [
+  "Ograniczenia w spa, dodatkowe opłaty za wejście",
+  "Powtarzalność posiłków przy dłuższym pobycie",
+  "Wysokie ceny w sezonie (sierpień)",
+  "Pokoje mogą być przestarzałe",
+  "Brak rozbudowanych animacji dla dorosłych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy prywatnej, piaszczystej plaży. Plaża Cala Granu znajduje się około 500 metrów pieszo lub 1.2 km od hotelu."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Olbia Costa Smeralda Airport (OLB), oddalone o około 30-34 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje plac zabaw oraz mini klub dla dzieci w wieku 4-12 lat (sezonowo)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i oferuje udogodnienia dla dzieci."
+  }
+ ],
+ "address": "Via Capo Ferro Km 1,8 - Loc. Cala Granu - Porto Cervo (Olbia Tempio)",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Olbia Costa Smeralda Airport (OLB)",
+ "amenities": [
+  "Prywatna plaża",
+  "7 basenów typu infinity z wodą morską",
+  "Centrum Wellness & SPA",
+  "Siłownia",
+  "Driving range do golfa",
+  "Bezpłatne Wi-Fi",
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Bezpłatny transfer do Porto Cervo",
+  "Room service 24h"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Costa Smeralda, Zatoka Porto Cervo",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta, prywatna",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary szukające luksusu i spokoju",
+  "Miłośnicy żeglarstwa"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2007,
+ "pools": 7,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard (z widokiem na ogród/morze) z umeblowanym balkonem/tarasem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką, Wi-Fi",
+  "Superior (z widokiem na morze) z umeblowanym balkonem/tarasem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką, Wi-Fi",
+  "Executive Suites z umeblowanym balkonem/tarasem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką, Wi-Fi",
+  "Royal Suites z umeblowanym balkonem/tarasem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką, Wi-Fi",
+  "Presidential Suite z umeblowanym balkonem/tarasem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką, Wi-Fi",
+  "Imperial Suite z umeblowanym balkonem/tarasem, klimatyzacją, TV, minibarem, sejfem, suszarką do włosów, łazienką, Wi-Fi"
+ ],
+ "rooms": 220,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.1511096,
+  "lon": 9.5278145,
+  "src": "osm"
+ },
+ "sources": [
+  "charmingsardinia.com",
+  "colonnaresort.com",
+  "citalia.com",
+  "mapy.com",
+  "tui.co.uk",
+  "resorthotel.co.uk",
+  "kayak.com.au",
+  "thomascook.com"
+ ],
+ "updated": "2026-11-28"
+}

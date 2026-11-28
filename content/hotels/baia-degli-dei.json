@@ -1,0 +1,127 @@
+{
+ "id": 11169,
+ "slug": "baia-degli-dei",
+ "name": "Baia Degli Dei",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sycylia",
+  "Giardini Naxos"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/baia-degli-dei-zwiedzanie-844317080-570-428.jpg",
+ "city": "Giardini Naxos",
+ "intro": [
+  "Hotel Baia Degli Dei to trzygwiazdkowy obiekt położony bezpośrednio przy piaszczysto-żwirowej plaży Recanati w Giardini Naxos na Sycylii. Oferuje relaksujący pobyt z dogodnym dostępem do morza i lokalnych atrakcji.",
+  "Obiekt jest odpowiedni dla osób poszukujących spokojnego wypoczynku z możliwością łatwego dostępu do centrum miejscowości oraz zwiedzania okolicznych atrakcji, takich jak Taormina. Hotel akceptuje zwierzęta i jest przystosowany również dla rodzin z dziećmi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Baia Degli Dei znajduje się w dzielnicy Recanati, zaledwie kilka kroków od publicznej plaży piaszczysto-żwirowej. Odległość od centrum Giardini Naxos wynosi około 700 m do 1.2 km. Na hotelowym tarasie dostępne są leżaki i parasole, natomiast na plaży publicznej istnieje możliwość skorzystania z płatnego lido."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 47 pokojami standardowymi, mieszczącymi od 1 do 4 osób. Wszystkie pokoje wyposażone są w prywatną łazienkę z prysznicem, zestawem kosmetyków i suszarką do włosów, a także w klimatyzację, telewizor z płaskim ekranem, sejf oraz płatny minibar. Niektóre pokoje oferują balkon lub taras, a także częściowy widok na morze lub Etnę. Dostępne są również pokoje przystosowane dla osób niepełnosprawnych."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, która serwuje śniadania w formie bufetu oraz kolacje. Opcja niepełnego wyżywienia obejmuje śniadanie i kolację serwowaną do stołu z wyborem menu, przy czym napoje do posiłków są dodatkowo płatne. Goście mogą również skorzystać z hotelowego baru/lounge."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest zewnętrzny basen. W okolicy, lub za pośrednictwem hotelu, można uprawiać różnorodne aktywności fizyczne, takie jak jazda na rowerze, tenis, golf, jazda konna, kajakarstwo czy nurkowanie. Bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "pros": [
+  "Znakomita lokalizacja bezpośrednio przy plaży",
+  "Bliskość centrum Giardini Naxos i Taorminy",
+  "Bardzo sympatyczna i pomocna obsługa",
+  "Dobre śniadania"
+ ],
+ "cons": [
+  "Niektóre wnętrza i infrastruktura mogą być przestarzałe",
+  "Brak hotelowych leżaków i parasoli na plaży",
+  "Napoje do kolacji są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy plaży, około 10 metrów."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jaka jest odległość od niego?",
+   "a": "Najbliższe lotnisko to Catania-Fontanarossa (CTA), oddalone o około 42.6 km do 62 km."
+  },
+  {
+   "q": "Czy hotel oferuje basen?",
+   "a": "Tak, na terenie hotelu dostępny jest basen zewnętrzny."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak potwierdzonych informacji o aquaparku lub zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel akceptuje dzieci, a te do 2 lat mogą przebywać bezpłatnie w pokoju rodziców."
+  },
+  {
+   "q": "Czy hotel oferuje Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych oraz w pokojach."
+  }
+ ],
+ "address": "Contrada Recanati, snc, 98035, Giardini-Naxos, Włochy",
+ "adultsOnly": false,
+ "airportKm": 42.6,
+ "airportName": "Catania-Fontanarossa (CTA)",
+ "amenities": [
+  "minibar",
+  "sejf",
+  "klimatyzacja",
+  "telewizor z płaskim ekranem",
+  "prywatna łazienka",
+  "zestaw kosmetyków",
+  "suszarka do włosów",
+  "telefon"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Recanati",
+ "bars": 1,
+ "beachDistanceM": 10,
+ "beachType": "Piaszczysto-żwirowa/kamienista",
+ "centerKm": 0.7,
+ "goodFor": [
+  "Osoby szukające relaksującego pobytu"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1970,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje standardowe (dla 1 do 4 osób) z prywatną łazienką z prysznicem, zestawem kosmetyków, suszarką do włosów, telefonem, płatnym minibarem, sejfem, klimatyzacją, telewizorem z płaskim ekranem i Wi-Fi. Niektóre z balkonem/tarasem i widokiem na morze/Etnę."
+ ],
+ "rooms": 47,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.8150397,
+  "lon": 15.2643666,
+  "src": "osm"
+ },
+ "sources": [
+  "1atravel.rs",
+  "agoda.com",
+  "trivago.co.uk",
+  "holidaycheck.de",
+  "ulissetravel.it",
+  "reserving.com",
+  "vali.rs",
+  "flyin.com"
+ ],
+ "updated": "2026-11-28"
+}

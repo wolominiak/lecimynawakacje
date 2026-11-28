@@ -1,0 +1,124 @@
+{
+ "id": "x:wlochy:bay village",
+ "slug": "bay-village",
+ "name": "Bay Village",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Środkowe wybrzeże Adriatyku"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/stredni-jadranske-pobrezi/lido-di-classe/bay-village/4ed6a30ac793246992851.jpg",
+ "city": "Milano Marittima",
+ "intro": [
+  "Hotel Color Bay Village to czterogwiazdkowy obiekt położony w centrum Milano Marittima, w otoczeniu lasu sosnowego. Jest to idealne miejsce dla rodzin z dziećmi, oferujące liczne udogodnienia i programy animacyjne dostosowane do potrzeb najmłodszych, jak również dla osób szukających spokojnego wypoczynku.",
+  "Hotel znajduje się zaledwie 50 metrów od prywatnej, piaszczystej plaży z łagodnym wejściem do morza, co czyni go atrakcyjnym wyborem dla miłośników morskich kąpieli. Bliskość centrum miejscowości zapewnia łatwy dostęp do barów, restauracji i sklepów, a bezpłatny wieczorny transfer wahadłowy ułatwia poruszanie się po okolicy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Color Bay Village usytuowany jest w centrum Milano Marittima, w otoczeniu lasu sosnowego, co zapewnia spokojną atmosferę. Obiekt znajduje się około 50 metrów od prywatnej, piaszczystej plaży z łagodnym wejściem do morza. W ramach formuły All Inclusive goście mają zapewniony serwis plażowy z parasolem i dwoma leżakami, a leżaki i parasole przy basenie są bezpłatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Pokoje w hotelu Color Bay Village są komfortowe i zostały całkowicie odnowione, podobnie jak łazienki. Każdy pokój wyposażony jest w klimatyzację, balkon, prywatną łazienkę, telewizor, szafę oraz bezpłatne Wi-Fi. Dostępne są między innymi pokoje czteroosobowe z łóżkiem piętrowym i łóżkiem queen-size, z możliwością dostawienia bezpłatnego łóżeczka."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje formułę \"Color All Inclusive\", która obejmuje śniadania, lunche i kolacje serwowane w rodzinnej restauracji z daniami kuchni włoskiej. Śniadania podawane są w formie bufetu. Goście mogą korzystać z nielimitowanych napojów z kranu, soków, piwa, wina i kawy przez cały dzień, a także przekąsek i lodów. Na terenie obiektu znajdują się również trzy bary: w lobby, w ogrodzie i na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest odkryty basen zewnętrzny z aquasplash, grami wodnymi, gejzerami i fontannami, idealny dla dzieci. Dostępne są również zjeżdżalnie wodne. Hotel oferuje całodzienne programy animacyjne dla dzieci i dorosłych, a także wypożyczalnię rowerów. Na terenie obiektu znajduje się plac zabaw, brodzik dla dzieci, pokój gier, Color Racing (tor dla samochodzików) oraz Color Game Room (pokój gier wideo)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Color Bay Village jest szczególnie polecany dla rodzin z dziećmi, oferując bogate zaplecze rozrywkowe. Oprócz basenu z aquasplash i zjeżdżalniami, dzieci mogą korzystać z placu zabaw, brodzika, pokoju gier, toru dla samochodzików Color Racing oraz pokoju gier wideo Color Game Room. Dostępny jest miniklub i klub dla nastolatków (za opłatą), a także liczne imprezy tematyczne, takie jak Foam Party czy Candy Night."
+  }
+ ],
+ "pros": [
+  "Bliskość prywatnej, piaszczystej plaży z łagodnym wejściem do morza.",
+  "Pokoje i łazienki zostały całkowicie odnowione.",
+  "Bogata oferta udogodnień i animacji dla rodzin z dziećmi.",
+  "Formuła All Inclusive z nielimitowanymi napojami i serwisem plażowym.",
+  "Wysoka ocena personelu i stosunku jakości do ceny."
+ ],
+ "cons": [
+  "Potencjalnie utrudniony dostęp do leżaków na plaży w szczycie sezonu.",
+  "Menu może być powtarzalne przy dłuższym pobycie.",
+  "Brak informacji o siłowni i spa."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 50 metrów od prywatnej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel oferuje serwis plażowy?",
+   "a": "Tak, w ramach formuły All Inclusive zapewniony jest serwis plażowy obejmujący 1 parasol i 2 leżaki."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, basen hotelowy wyposażony jest w aquasplash z grami wodnymi, gejzerami i fontannami, a także zjeżdżalnie wodne."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest szczególnie polecany dla rodzin z dziećmi, oferując liczne udogodnienia, takie jak plac zabaw, brodzik, miniklub, pokój gier oraz programy animacyjne."
+  },
+  {
+   "q": "Jakie lotniska znajdują się najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Forlì (FRL) oddalone o około 31.9-33 km oraz Rimini (RMI-Federico Fellini Intl.) oddalone o około 44 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, hotel oferuje bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Viale Matteotti, 180, 48015 Cervia, Włochy",
+ "adultsOnly": false,
+ "airportKm": 31.9,
+ "airportName": "Forlì (FRL)",
+ "amenities": [
+  "wypożyczalnia rowerów"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum",
+ "bars": 3,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta, prywatna",
+ "centerKm": 0,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "spokojny wypoczynek",
+  "mało wymagający goście"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje czteroosobowe (Quadruple Room) z łóżkiem piętrowym i łóżkiem queen-size, z możliwością dostawienia bezpłatnego łóżeczka, klimatyzacją, balkonem, prywatną łazienką, telewizorem, szafą i bezpłatnym Wi-Fi."
+ ],
+ "rooms": null,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": -16.9135303,
+  "lon": 145.7679491,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "colorbayvillagemilanomarittima.it",
+  "google.com",
+  "waze.com",
+  "superzajezdy.cz",
+  "alberghi.it"
+ ],
+ "updated": "2026-11-28"
+}

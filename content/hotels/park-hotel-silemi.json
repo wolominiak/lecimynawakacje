@@ -1,0 +1,131 @@
+{
+ "id": "x:wlochy:park hotel silemi",
+ "slug": "park-hotel-silemi",
+ "name": "Park Hotel Silemi",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sycylia",
+  "Listy"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sicilie/letojani/park-hotel-silemi-pl/9950/fd2d5f5374f026acbd53960c126c03c9_1-244.jpg",
+ "city": "Letojanni",
+ "intro": [
+  "Park Hotel Silemi to czterogwiazdkowy obiekt położony bezpośrednio przy plaży Letojanni na Sycylii, oferujący malownicze widoki na Zatokę Taorminy. Hotel, otwarty w 1967 roku i niedawno całkowicie odnowiony, dysponuje 48 pokojami rozmieszczonymi na trzech piętrach.",
+  "Hotel jest rekomendowany dla par, rodzin oraz osób poszukujących spokojnego wypoczynku. Dzięki swojej lokalizacji stanowi doskonałą bazę wypadową do zwiedzania pobliskiej Taorminy, do której regularnie kursują autobusy sprzed hotelu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Park Hotel Silemi znajduje się w miejscowości Letojanni, na wybrzeżu Jońskim. Jest usytuowany bezpośrednio przy plaży Letojanni, oferując prywatną strefę z bezpłatnymi leżakami i parasolami (od czerwca do września) oraz ręcznikami plażowymi (od kwietnia do października)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 48 pokojami, w tym typami Economy, Double/Twin z widokiem na morze, Deluxe oraz Corner Room. Wszystkie pokoje są klimatyzowane (od czerwca do września) i wyposażone w balkon, minibar, telewizor, łazienkę z bidetem oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się jeden sezonowy odkryty basen z wodą morską, dostępny od maja do października. Basen jest wyposażony w leżaki i parasole. W hotelu dostępny jest również bilard."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja z tarasem z widokiem na Zatokę Taorminy, która jest otwarta sezonowo. Goście mogą korzystać ze śniadań kontynentalnych w formie bufetu. Do dyspozycji są również bar/lounge, bar przy basenie oraz snack bar."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Piękne widoki na morze i Zatokę Taorminy",
+  "Przyjazny i pomocny personel",
+  "Czyste i przestronne pokoje",
+  "Łatwy dojazd do Taorminy"
+ ],
+ "cons": [
+  "Sezonowe działanie klimatyzacji i usług gastronomicznych",
+  "Hotel może wydawać się nieco \"w starym stylu\"",
+  "Brak aquaparku i animacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Park Hotel Silemi jest położony bezpośrednio przy plaży Letojanni i posiada prywatną strefę plażową."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Catania Fontanarossa (CTA), oddalone o około 50-58 km. Lotnisko Reggio di Calabria (REG) jest w odległości około 71 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"family-friendly\" i oferuje pokoje rodzinne oraz łóżeczka dla niemowląt na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel ma jeden sezonowy odkryty basen z wodą morską, otwarty od maja do października."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "Via Sillemi 2, 98037 Letojanni ME, Włochy",
+ "adultsOnly": false,
+ "airportKm": 50,
+ "airportName": "Catania Fontanarossa (CTA)",
+ "amenities": [
+  "prywatna plaża",
+  "bezpłatne leżaki i parasole na plaży (sezonowo)",
+  "ręczniki plażowe (sezonowo)",
+  "bilard",
+  "pokoje rodzinne",
+  "łóżeczka dla niemowląt"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "wybrzeże Jońskie",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "żwirowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "pary",
+  "osoby szukające relaksu",
+  "rodziny"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1967,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Twin/Double (widok na ogród/góry)",
+  "Double/Twin (widok na morze)",
+  "Deluxe Room (łóżko king-size, widok na morze/basen/punkt orientacyjny, niektóre z zestawem do kawy/herbaty i sejfem)",
+  "Corner Room (widok na morze i Zatokę Taorminy)"
+ ],
+ "rooms": 48,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.8874619,
+  "lon": 15.3164697,
+  "src": "osm"
+ },
+ "sources": [
+  "parkhotelsilemi.com",
+  "google.com.bz",
+  "bookstaygo.com",
+  "trivago.com",
+  "metro.rest",
+  "booking.com",
+  "holidaycheck.de",
+  "hotels.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,139 @@
+{
+ "id": "x:wlochy:mahara",
+ "slug": "mahara",
+ "name": "Mahara",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Sycylia"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/sicilie/mazara-del-vallo/mahara/02a8eda8b8c8f390cf84e.jpg",
+ "city": "Mazara del Vallo",
+ "intro": [
+  "Hotel Mahara to czterogwiazdkowy obiekt położony na południowo-zachodnim wybrzeżu Sycylii, w miejscowości Mazara del Vallo. Zbudowany w 2007 roku w miejscu XVIII-wiecznej winiarni, wyróżnia się architekturą przypominającą klasztor, z pokojami rozmieszczonymi wokół wewnętrznego dziedzińca.",
+  "Obiekt jest idealnym miejscem dla osób pragnących połączyć relaks ze zwiedzaniem zachodniej Sycylii. Hotel sprawdzi się zarówno dla par, jak i rodzin, oferując udogodnienia takie jak basen, plac zabaw dla dzieci oraz cenioną restaurację. Jest również popularnym wyborem na organizację wesel i konferencji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mahara znajduje się przy nadmorskiej promenadzie w Mazara del Vallo. Do centrum miejscowości można dojść spacerem w 5-10 minut. Najbliższa piaszczysta plaża oddalona jest o około 2,5 km, a hotel oferuje bezpłatny, sezonowy transfer do partnerskich plaż. Leżaki dostępne są przy basenie zewnętrznym."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 77 pokojami, w tym 20 z widokiem na morze i 4 apartamentami. Pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, sejf oraz prywatną łazienkę. Dostępne są pokoje jednoosobowe, dwuosobowe Classic i Superior, a także apartamenty. Wiele z nich oferuje balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja Ghilbi, znana z tradycyjnych dań kuchni sycylijskiej, polecana przez przewodniki kulinarne. Na miejscu jest również lounge bar La Piazzetta, serwujący lekkie lunche i koktajle. W cenę pobytu wliczone jest bezpłatne śniadanie w formie bufetu. Istnieje możliwość wykupienia wyżywienia HB (half-board), jednak napoje do kolacji nie są wliczone."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden odkryty basen, czynny od kwietnia do października, z tarasem słonecznym i leżakami. Hotel oferuje również centrum fitness z zajęciami jogi i pilatesu. W pobliżu obiektu można uprawiać nurkowanie, windsurfing i żeglarstwo. Na terenie hotelu znajduje się także centrum odnowy biologicznej z łaźnią turecką, wanną z hydromasażem, sauną i gabinetami masażu (dodatkowo płatne)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości dostępny jest plac zabaw. Hotel oferuje również usługi opieki nad dziećmi za dodatkową opłatą. Brak informacji o mini klubie czy aquaparku."
+  }
+ ],
+ "pros": [
+  "Bliskość centrum Mazara del Vallo",
+  "Wysoko oceniana restauracja Ghilbi",
+  "Bezpłatny transfer na plażę",
+  "Spa i centrum fitness",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Plaże kąpielowe oddalone o około 2,5 km",
+  "Prosty wystrój pokoi i twarde łóżka (wg opinii)",
+  "Możliwy hałas z imprez prywatnych na dziedzińcu",
+  "Sezonowy basen",
+  "Sporadyczne problemy z zasięgiem Wi-Fi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel leży nad morzem przy promenadzie. Piaszczysta plaża znajduje się około 2,5 km od hotelu, a obiekt oferuje bezpłatny, sezonowy transfer do partnerskich plaż."
+  },
+  {
+   "q": "Jak daleko jest od lotniska?",
+   "a": "Najbliższe lotnisko to Vincenzo Florio Airport Trapani-Birgi (TPS), oddalone o około 30-39 km (około 40-56 minut jazdy samochodem). Lotnisko Palermo Punta Raisi jest oddalone o 98,1 km."
+  },
+  {
+   "q": "Czy hotel ma aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku czy zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje plac zabaw dla dzieci oraz usługi opieki nad dziećmi (za dodatkową opłatą)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w miejscach publicznych, choć niektórzy goście zgłaszali sporadyczne problemy z zasięgiem."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o opcji all inclusive. Hotel oferuje bezpłatne śniadanie w formie bufetu oraz możliwość wykupienia wyżywienia HB (half-board), bez napojów do kolacji."
+  }
+ ],
+ "address": "Lungomare San Vito, 3, 91026 Mazara del Vallo, Włochy",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Vincenzo Florio Airport Trapani-Birgi (TPS)",
+ "amenities": [
+  "Plac zabaw dla dzieci",
+  "Usługi opieki nad dziećmi (płatne)",
+  "Sale konferencyjne",
+  "Parking",
+  "Lounge bar",
+  "Taras słoneczny"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "południowo-zachodnie wybrzeże Sycylii",
+ "bars": 1,
+ "beachDistanceM": 2500,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "zwiedzanie",
+  "relaksujące wakacje",
+  "rodziny",
+  "pary",
+  "wesela",
+  "konferencje"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2007,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój jednoosobowy Classic",
+  "pokój dwuosobowy/twin Classic",
+  "pokój dwuosobowy/twin Superior",
+  "apartament (Suite)"
+ ],
+ "rooms": 77,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 37.6474741,
+  "lon": 12.596951,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "holidaycheck.de",
+  "skyscanner.gg",
+  "maharahotel.it",
+  "oyster.com",
+  "odysseus-app.com",
+  "agoda.com",
+  "trivago.co.uk"
+ ],
+ "updated": "2026-11-28"
+}

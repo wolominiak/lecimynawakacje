@@ -1,0 +1,141 @@
+{
+ "id": "x:wlochy:pietra di luna",
+ "slug": "pietra-di-luna",
+ "name": "Pietra Di Luna",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Kampania",
+  "Maiori"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/kampanie/maiori/pietra-di-luna-pl/7692/2c4643bfe2e9bf79e07a9e51da57c3f3_hotel_calosc-244.jpg",
+ "city": "Maiori",
+ "intro": [
+  "Hotel Pietra Di Luna to czterogwiazdkowy obiekt położony bezpośrednio przy nadmorskiej promenadzie w malowniczej miejscowości Maiori, na słynnym Wybrzeżu Amalfitańskim. Jego lokalizacja sprawia, że jest to doskonała baza wypadowa do odkrywania uroków regionu, z łatwym dostępem do plaży i centrum miasta.",
+  "Hotel jest polecany zarówno dla par, jak i rodzin z dziećmi, a także dla osób ceniących sobie zwiedzanie i poznawanie włoskiej kultury. Oferuje udogodnienia dla dzieci, a jednocześnie pozwala na relaks i podziwianie pięknych widoków na zatokę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Pietra Di Luna znajduje się w Maiori, bezpośrednio przy promenadzie. Odległość do piaszczysto-żwirowej lub kamienistej plaży z łagodnym zejściem do morza wynosi od 30 do 100 metrów. Hotel dysponuje prywatną częścią plaży. Leżaki i parasole są bezpłatne dla gości pokoi superior i deluxe (czerwiec-wrzesień), dla pozostałych gości są dostępne za opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 88 lub 96 klimatyzowanych pokoi, wszystkie z balkonem. Wśród dostępnych typów są Economy Single, Standard Double, Superior Double/Twin z widokiem na morze oraz Deluxe Double z częściowym widokiem na morze. Wyposażenie obejmuje minibar, telewizor LCD/satelitarny, sejf, biurko oraz prywatną łazienkę z bidetem, oddzielną toaletą, suszarką do włosów i ręcznikami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny zewnętrzne, w tym jeden przeznaczony dla dzieci. Przy basenach dostępne są bezpłatne parasole i leżaki. Goście mogą skorzystać z sauny (za dodatkową opłatą). Hotel oferuje również muzykę na żywo. Brak informacji o zjeżdżalniach czy aquaparku."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu, \"Mediterraneo\", serwuje dania kuchni śródziemnomorskiej na śniadania, obiady i kolacje. Śniadania podawane są w formie bufetu, natomiast obiadokolacje serwowane są przez kelnerów z wyborem dań z ustalonego menu. Na terenie obiektu dostępny jest również American Bar. Brak oferty all inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował basen dla dzieci oraz wysokie krzesełka w restauracji. Istnieje możliwość zamówienia łóżeczka dla dziecka na zapytanie. Brak informacji o mini klubie dla dzieci."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Dobra baza wypadowa do zwiedzania Wybrzeża Amalfitańskiego",
+  "Smaczne obiadokolacje",
+  "Czystość w pokojach i hotelu",
+  "Pomocna i przyjazna obsługa",
+  "Prywatna plaża z leżakami i parasolami"
+ ],
+ "cons": [
+  "Śniadania bywają mało urozmaicone",
+  "Wystrój pokoi może być nieco przestarzały",
+  "Słabe ciśnienie pod prysznicem i zmienna temperatura wody",
+  "Klimatyzacja bywa słaba"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony około 30-100 metrów od plaży."
+  },
+  {
+   "q": "Czy hotel ma prywatną plażę?",
+   "a": "Tak, hotel posiada wydzieloną, prywatną część plaży."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 67 km od lotniska w Neapolu (NAP)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin i oferuje basen dla dzieci, wysokie krzesełka w restauracji oraz łóżeczko na zapytanie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i częściach wspólnych."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  }
+ ],
+ "address": "Via Gaetano Capone 27, 84010 Maiori, Włochy",
+ "adultsOnly": false,
+ "airportKm": 67,
+ "airportName": "Neapol (NAP)",
+ "amenities": [
+  "Balkon w pokojach",
+  "Minibar",
+  "Telewizor LCD/satelitarny",
+  "Sejf",
+  "Biurko",
+  "Bidet",
+  "Oddzielna toaleta",
+  "Suszarka do włosów",
+  "Ręczniki"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Wybrzeże Amalfitańskie",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysto-żwirowa lub kamienista",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Koneserzy Włoch",
+  "Osoby chcące zwiedzać Wybrzeże Amalfitańskie",
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2012,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Single",
+  "Standard Double",
+  "Superior Double/Twin z widokiem na morze",
+  "Deluxe Double z częściowym widokiem na morze"
+ ],
+ "rooms": 96,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.6473284,
+  "lon": 14.643398,
+  "src": "osm"
+ },
+ "sources": [
+  "orizzonteitalia.com",
+  "wakacje.pl",
+  "travelplanet.pl",
+  "tui.pl",
+  "mapy.com",
+  "trivago.com.au",
+  "pietradilunahotel.it",
+  "booking.com"
+ ],
+ "updated": "2026-11-28"
+}

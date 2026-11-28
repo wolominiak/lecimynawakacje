@@ -1,0 +1,136 @@
+{
+ "id": 1672,
+ "slug": "hopps",
+ "name": "Hopps",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Sycylia",
+  "Mazara del Vallo"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001414144-570-428.jpg",
+ "city": "Mazara del Vallo",
+ "intro": [
+  "Hotel Hopps to czterogwiazdkowy obiekt położony bezpośrednio przy promenadzie w Mazara del Vallo na Sycylii, naprzeciwko Morza Śródziemnego. Jego lokalizacja blisko zabytkowej dzielnicy Casbah sprawia, że jest to dobra baza wypadowa do zwiedzania miasta i zachodniej Sycylii.",
+  "Hotel Hopps jest szczególnie polecany dla rodzin, oferując udogodnienia takie jak mini klub i animacje. Goście doceniają centralne położenie hotelu, czystość oraz przyjazny personel. Obiekt zapewnia żywą atmosferę dzięki programowi animacyjnemu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Hopps znajduje się bezpośrednio przy promenadzie w Mazara del Vallo, w pobliżu zabytkowej dzielnicy Casbah. Najbliższe wybrzeże jest skaliste i nie nadaje się do pływania. Hotel oferuje dostęp do partnerskiej plaży oddalonej o 100 metrów, a także bezpłatny transfer na piaszczystą plażę Tonnarella, oddaloną o około 4 km, gdzie dostępne są bezpłatne leżaki i parasole."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel Hopps dysponuje od 130 do 234 pokojami, w tym pokojami standardowymi, rodzinnymi, dwu-, trzy- i czteroosobowymi. Wszystkie pokoje wyposażone są w klimatyzację, suszarkę do włosów, biurko, telefon, telewizor, sejf oraz minibar/lodówkę. Dostępne są również pokoje z balkonem i/lub widokiem na morze za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się główna restauracja serwująca dania kuchni międzynarodowej i sycylijskiej w formie bufetu oraz Pizzeria & Grill z daniami à la carte. Do dyspozycji gości są również bar przy basenie z tarasem panoramicznym, bar w lobby, snack bar i kawiarnia. Opcja All Inclusive obejmuje wybrane napoje i lokalne alkohole w godzinach 10:00-22:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje jeden odkryty, niepodgrzewany basen z wydzieloną strefą dla dzieci. Wokół basenu dostępne są leżaki i parasole. Dla rozrywki gości przygotowano dzienne i wieczorne animacje, w tym pokazy, aqua gym i gry. Dostępny jest również mini klub dla dzieci i plac zabaw."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Hopps jest idealnym miejscem dla rodzin z dziećmi, dzięki dostępnym udogodnieniom takim jak mini klub, brodzik i animacje. Centralna lokalizacja sprzyja zwiedzaniu miasta i okolic. Jest to również dobra opcja dla osób szukających aktywnego wypoczynku z programem rozrywkowym."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja blisko centrum i promenady",
+  "Przyjazny i pomocny personel",
+  "Dobre jedzenie, szczególnie śniadania i bufet",
+  "Basen z wydzieloną strefą dla dzieci",
+  "Animacje dla dorosłych i dzieci"
+ ],
+ "cons": [
+  "Niewygodne łóżka/poduszki",
+  "Hałas wieczorny z powodu muzyki",
+  "Płatne Wi-Fi (w zależności od źródła)",
+  "Brak ręczników na basen",
+  "Bezpośrednie wybrzeże skaliste, piaszczysta plaża oddalona o 4 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża partnerska znajduje się 100m od hotelu. Na piaszczystą plażę Tonnarella, oddaloną o około 4 km, hotel zapewnia bezpłatny transfer."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Trapani-Birgi (TPS), oddalone o około 29.5-37.7 km. Lotnisko Palermo (PMO) znajduje się około 97 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Hopps posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach. Hotel posiada jeden odkryty basen z wydzielonym brodzikiem dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferując mini klub, plac zabaw oraz dzienne i wieczorne animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Wi-Fi jest dostępne we wszystkich obszarach. Niektóre źródła podają, że jest bezpłatne, inne, że płatne (około 2 EUR za 24 godziny na urządzenie) lub płatne w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel posiada siłownię lub spa?",
+   "a": "Brak informacji o siłowni lub spa w hotelu."
+  }
+ ],
+ "address": "Via Giacomo Hopps 29, 91026 Mazara del Vallo",
+ "adultsOnly": false,
+ "airportKm": 29.51,
+ "airportName": "Trapani-Birgi",
+ "amenities": [
+  "Mini klub dla dzieci",
+  "Plac zabaw",
+  "Wypożyczalnia rowerów",
+  "Rzutki"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Promenada",
+ "bars": 4,
+ "beachDistanceM": 100,
+ "beachType": "Skaliste wybrzeże, piaszczysta plaża partnerska 4 km dalej",
+ "centerKm": 0.7,
+ "goodFor": [
+  "Rodziny z dziećmi"
+ ],
+ "gym": null,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój standardowy z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną",
+  "Pokój rodzinny z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną",
+  "Pokój dwuosobowy z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną",
+  "Pokój trzyosobowy z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną",
+  "Pokój czteroosobowy z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną",
+  "Pokój z balkonem z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną",
+  "Pokój z widokiem na morze z klimatyzacją, suszarką do włosów, biurkiem, telefonem, telewizorem, sejfem, minibarem/lodówką, łazienką z prysznicem lub wanną"
+ ],
+ "rooms": 130,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 37.6484447,
+  "lon": 12.5959185,
+  "src": "osm"
+ },
+ "sources": [
+  "kayak.com",
+  "trivago.com",
+  "arcadiaviaggi.it",
+  "agoda.com",
+  "mapcarta.com",
+  "hoppshotel.com",
+  "click2go.travel",
+  "google.com"
+ ],
+ "updated": "2026-11-28"
+}

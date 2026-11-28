@@ -1,0 +1,133 @@
+{
+ "id": "x:wlochy:lungomare",
+ "slug": "lungomare",
+ "name": "Lungomare",
+ "country": "wlochy",
+ "place": [
+  "wlochy",
+  "Środkowe wybrzeże Adriatyku",
+  "Gatteo i Mare"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/italie/stredni-jadranske-pobrezi/gatteo-a-mare/lungomare/73bd877cec2fb63d606fe.jpg",
+ "city": "Gatteo a Mare",
+ "intro": [
+  "Hotel Lungomare to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w miejscowości Gatteo a Mare, w dzielnicy Villamarina, na środkowym wybrzeżu Adriatyku we Włoszech. Odnowiony w 2015 roku, oferuje komfortowe warunki pobytu w nowoczesnym, czteropiętrowym budynku.",
+  "Hotel jest idealnym wyborem dla rodzin z dziećmi, par, a także miłośników aktywnego wypoczynku, w szczególności kolarstwa, dzięki swoim udogodnieniom dla rowerzystów. Osoby szukające relaksu docenią centrum odnowy biologicznej i baseny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lungomare usytuowany jest w Gatteo a Mare, w dzielnicy Villamarina, zaledwie około 50 metrów od piaszczystej plaży. Do centrum Gatteo a Mare jest około 500 metrów, a do Cesenatico około 3-3,5 km. W ramach formuły All Inclusive goście mają zapewniony serwis plażowy w partnerskim lido, obejmujący parasol i dwa leżaki na pokój."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 60 pokoi, w tym standardowe, rodzinne oraz apartamenty typu suite, niektóre z jacuzzi. Wszystkie pokoje są klimatyzowane, dźwiękoszczelne, posiadają drewniane podłogi, telewizor, sejf, minibar, zestaw do parzenia kawy/herbaty oraz łazienkę z prysznicem i suszarką do włosów. Większość pokoi dysponuje balkonem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji serwowane są dania kuchni tradycyjnej romagnolskiej oraz międzynarodowej w formie bufetu. Do dyspozycji gości jest również bar. Formuła All Inclusive obejmuje pełne wyżywienie, napoje do posiłków i soft drinki, lody, serwis plażowy, animacje oraz wieczory tematyczne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym, podgrzewanym basenem z hydromasażem oraz strefą dla dzieci, a także basenem krytym. Na terenie obiektu nie ma aquaparku, ale w odległości 1 km znajduje się Acquapark. Goście mogą korzystać z centrum odnowy biologicznej (Spa) z sauną i łaźnią turecką, siłowni z widokiem na morze oraz wypożyczalni rowerów. Dostępne są również animacje dla dzieci i dorosłych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował strefę w basenie, mini klub, plac zabaw oraz animacje. Hotel jest przyjazny rodzinom i oferuje liczne udogodnienia dla dzieci, zapewniając im rozrywkę i bezpieczny wypoczynek."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Podgrzewany basen z hydromasażem",
+  "Dobre jedzenie i bogaty bufet",
+  "Udogodnienia dla rodzin z dziećmi",
+  "Centrum wellness i siłownia z widokiem na morze"
+ ],
+ "cons": [
+  "Płatny parking",
+  "Brak aquaparku na terenie hotelu (dostępny 1 km dalej)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Lungomare jest położony bezpośrednio przy piaszczystej plaży, około 50 metrów, co odpowiada około 3 minutom spaceru."
+  },
+  {
+   "q": "Jakie są najbliższe lotniska?",
+   "a": "Najbliższe lotniska to Rimini (RMI) - około 23-26 km, Forlì (FRL) - 41 km, Bolonia (BLQ) - około 99-108 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark?",
+   "a": "Na terenie hotelu nie ma aquaparku, ale w odległości 1 km znajduje się Acquapark."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi, oferuje mini klub, plac zabaw, strefę dla dzieci w basenie oraz animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom i oferuje liczne udogodnienia dla dzieci."
+  }
+ ],
+ "address": "Viale G. Carducci, 299, 47042 Villamarina FC, Włochy",
+ "adultsOnly": false,
+ "airportKm": 23,
+ "airportName": "Rimini (RMI)",
+ "amenities": [
+  "Centrum odnowy biologicznej (Spa)",
+  "Siłownia",
+  "Wypożyczalnia rowerów",
+  "Bezpłatne Wi-Fi",
+  "Serwis plażowy (1 parasol + 2 leżaki na pokój w All Inclusive)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Villamarina",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Miłośnicy sportów (szczególnie kolarstwa)",
+  "Osoby szukające relaksu i wellness"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1955,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2015,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje standardowe (klimatyzacja, dźwiękoszczelne, drewniane podłogi, TV, sejf, minibar, zestaw do parzenia kawy/herbaty, łazienka z prysznicem, suszarka do włosów, kosmetyki, większość z balkonem)",
+  "Pokoje rodzinne (klimatyzacja, dźwiękoszczelne, drewniane podłogi, TV, sejf, minibar, zestaw do parzenia kawy/herbaty, łazienka z prysznicem, suszarka do włosów, kosmetyki, większość z balkonem)",
+  "Apartamenty typu suite (klimatyzacja, dźwiękoszczelne, drewniane podłogi, TV, sejf, minibar, zestaw do parzenia kawy/herbaty, łazienka z prysznicem, suszarka do włosów, kosmetyki, większość z balkonem, niektóre z jacuzzi)"
+ ],
+ "rooms": 60,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 40.4424784,
+  "lon": 19.4957445,
+  "src": "osm"
+ },
+ "sources": [
+  "wlochyonline.pl",
+  "google.it",
+  "guestreservations.com",
+  "arcadiaviaggi.it",
+  "hlungomare.com",
+  "trivago.pl",
+  "hotels-in-it.com",
+  "directbooking.ro"
+ ],
+ "updated": "2026-11-28"
+}
