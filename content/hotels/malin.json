@@ -1,0 +1,137 @@
+{
+ "id": 21234,
+ "slug": "malin",
+ "name": "Malin",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Krk",
+  "Malinska"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/malin-obiekt-basen-844937614-570-428.jpg",
+ "city": "Malinska",
+ "intro": [
+  "Hotel Malin to czterogwiazdkowy obiekt położony w malowniczej miejscowości Malinska, na wyspie Krk w Chorwacji. Usytuowany na północno-zachodnim wybrzeżu wyspy, w zatoce, tuż przy prywatnej plaży Malin, otoczony jest morzem i bujną zielenią.",
+  "Hotel Malin jest idealnym miejscem dla rodzin z dziećmi, par oraz osób szukających relaksu i aktywnego wypoczynku. Oferuje szeroki zakres udogodnień, od animacji i klubu dla dzieci po centrum wellness i możliwości uprawiania sportów wodnych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Malin znajduje się zaledwie 50-100 metrów od żwirowo-kamienistej plaży Mulino Beach, która jest częściowo wybetonowana i posiada udogodnienia dla dzieci. Obiekt oddalony jest o około 500-800 metrów od centrum Malinskiej, co zapewnia łatwy dostęp do lokalnych atrakcji. Najbliższe lotnisko w Rijece (RJK) znajduje się około 15-16 km od hotelu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 161 pokoi w trzech połączonych budynkach, w tym pokoje standardowe, komfortowe, superior, rodzinne oraz apartamenty. Pokoje mogą mieć widok na morze, atrium lub park. Wyposażenie obejmuje klimatyzację, telewizor satelitarny, minibar, sejf, telefon, biurko oraz zestaw do parzenia kawy i herbaty. Większość pokoi posiada balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Malin znajduje się restauracja bufetowa, a także restauracje a la carte, takie jak Restauracja Mulino przy plaży i Restauracja Royal na najwyższym piętrze. Goście mogą korzystać z kilku barów, w tym drink barów, baru przy basenie i Mul Beach Bar. Hotel oferuje śniadania w formie bufetu oraz opcję śniadań i obiadokolacji, z napojami bezalkoholowymi i wodą wliczonymi w cenę obiadokolacji."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje podgrzewanym basenem krytym oraz basenem zewnętrznym z tarasem słonecznym. Dla dzieci dostępny jest zewnętrzny brodzik, plac zabaw i Kids Club. W sezonie letnim organizowane są animacje dla dzieci i dorosłych, a także wieczory z muzyką na żywo. Na terenie obiektu znajduje się również centrum wellness & spa z saunami i gabinetami zabiegowymi, siłownia oraz możliwość uprawiania sportów wodnych."
+  }
+ ],
+ "pros": [
+  "Bliskość morza i prywatnej plaży",
+  "Cisza i spokój w okolicy",
+  "Duże i dobrze wyposażone pokoje, często po remoncie",
+  "Smaczne i urozmaicone śniadania",
+  "Miła i pomocna obsługa"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży",
+  "Płatny parking",
+  "Dodatkowe opłaty za niektóre usługi spa/krytego basenu",
+  "Kryty basen jest mały"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony od plaży o około 50-100 metrów, co odpowiada minucie spacerem."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża jest żwirowo-kamienista, częściowo wybetonowana, z platformami i udogodnieniami dla dzieci. Hotel posiada prywatną plażę (Mulino Beach)."
+  },
+  {
+   "q": "Czy hotel Malin jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje zewnętrzny brodzik, plac zabaw, salę zabaw oraz Kids Club dla dzieci w wieku 4-12 lat, a także animacje w sezonie letnim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu i w pokojach dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko w Rijece (RJK) jest oddalone o około 15-16 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Fakty nie wspominają o aquaparku ani zjeżdżalniach, ale hotel dysponuje basenami i brodzikiem dla dzieci."
+  }
+ ],
+ "address": "Kralja Tomislava 23, 51511 Malinska",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Rijeka (RJK)",
+ "amenities": [
+  "Centrum wellness & spa",
+  "Siłownia",
+  "Wypożyczalnia rowerów",
+  "Sporty wodne",
+  "Nurkowanie",
+  "Minigolf"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Zatoka w Malinskiej",
+ "bars": 5,
+ "beachDistanceM": 50,
+ "beachType": "żwirowo-kamienista, wybetonowana",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Osoby szukające relaksu",
+  "Miłośnicy sportów wodnych"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1970,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2016,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój standardowy",
+  "Pokój komfortowy",
+  "Pokój superior",
+  "Pokój rodzinny",
+  "Apartament (suite)",
+  "Family Deluxe Suite",
+  "Presidential Suite",
+  "Mulino/Malin suite"
+ ],
+ "rooms": 161,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 45.1192106,
+  "lon": 14.52137,
+  "src": "osm"
+ },
+ "sources": [
+  "malin-krk.com",
+  "triverna.pl",
+  "booking.com",
+  "wakacje.pl",
+  "r.pl",
+  "mountvacation.co.uk",
+  "reserving.com",
+  "primorsko-goranska-hotels.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,145 @@
+{
+ "id": 37005,
+ "slug": "noemia",
+ "name": "Noemia",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Baska Voda"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001511148-570-428.jpg",
+ "city": "Baška Voda",
+ "intro": [
+  "Butikowy hotel Noemia, położony w sercu Riwiery Makarskiej w miejscowości Baška Voda, to nowoczesny obiekt otwarty w 2020 roku. Charakteryzuje się butikowym stylem i jest idealnym miejscem dla osób szukających spokojnego wypoczynku.",
+  "Hotel jest polecany głównie dla par i małych grup, które cenią sobie kameralną atmosferę i wysoki poziom obsługi. Oferuje komfortowe zakwaterowanie z osobistym akcentem, choć niektóre źródła wskazują na możliwość pobytu rodzin z dziećmi, to jednak jest reklamowany jako Adults Only."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Noemia znajduje się w centrum Baška Voda, blisko promenady i około 260-300 metrów od żwirowej plaży Glavna plaža (Nikolina Beach). Plaża nie jest prywatna, ale hotel zapewnia bezpłatne leżaki i serwis ręcznikowy dla swoich gości. Leżaki i parasole na plaży są dostępne do wynajęcia."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 50 nowocześnie urządzonymi pokojami, w tym pokojami dwuosobowymi, rodzinnymi i apartamentami. Wszystkie pokoje są klimatyzowane i wyposażone w część wypoczynkową, telewizor, sejf, minibar, czajnik elektryczny oraz prywatną łazienkę z prysznicem. Niektóre pokoje posiadają balkon z widokiem na miasto lub morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się nowoczesna restauracja serwująca dania kuchni międzynarodowej, w tym opcje wegetariańskie. Śniadania dostępne są w formie bufetu, a la carte lub jako opcje kontynentalne. Hotel oferuje również bar/lounge, lobby bar i snack bar. Dostępna jest opcja niepełnego wyżywienia (śniadania i obiadokolacje)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać z sezonowego odkrytego basenu oraz krytego, podgrzewanego basenu z rozsuwanym dachem. Hotelowe centrum spa i wellness oferuje saunę, łaźnię parową i strefę relaksu. Dostęp do pobliskiego centrum fitness jest możliwy, a w okolicy dostępne są sporty wodne."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Noemia jest rekomendowany dla par i małych grup szukających spokojnego wypoczynku w butikowym stylu. Jest to obiekt przeznaczony głównie dla dorosłych, choć niektóre informacje wspominają o pokojach rodzinnych. Brak jest natomiast udogodnień typowo dla dzieci, takich jak mini klub czy animacje."
+  }
+ ],
+ "pros": [
+  "Wyjątkowa obsługa i życzliwy personel",
+  "Wysoki poziom czystości i nowoczesny wystrój",
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Smaczne i urozmaicone śniadania",
+  "Dostępność basenów i strefy spa"
+ ],
+ "cons": [
+  "Ograniczona i płatna dostępność miejsc parkingowych",
+  "Potencjalny hałas między pokojami z powodu izolacji akustycznej",
+  "Otwarta koncepcja pryszniców w niektórych łazienkach",
+  "Sezonowe zamknięcie niektórych udogodnień poza sezonem",
+  "Hotel reklamowany jako Adults Only, co może być mylące w kontekście pokojów rodzinnych"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Noemia od plaży?",
+   "a": "Hotel znajduje się około 260-300 metrów od żwirowej plaży Glavna plaža (Nikolina Beach)."
+  },
+  {
+   "q": "Czy hotel Noemia jest tylko dla dorosłych?",
+   "a": "Hotel jest reklamowany jako Adults Only (tylko dla dorosłych), z zakazem wstępu dla osób poniżej 16 roku życia, choć niektóre źródła wspominają o pokojach rodzinnych."
+  },
+  {
+   "q": "Jakie udogodnienia dla dzieci oferuje hotel?",
+   "a": "Brak jest informacji o mini klubie, animacjach czy aquaparku dla dzieci. Hotel jest przeznaczony głównie dla dorosłych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska do hotelu?",
+   "a": "Najbliższe lotnisko to Lotnisko Split (SPU), oddalone o około 67.8 km drogą."
+  },
+  {
+   "q": "Czy hotel posiada baseny?",
+   "a": "Tak, hotel dysponuje sezonowym odkrytym basenem oraz krytym, podgrzewanym basenem z rozsuwanym dachem."
+  }
+ ],
+ "address": "Ulica Stjepana Radića 13, 21320 Baška Voda, Chorwacja",
+ "adultsOnly": true,
+ "airportKm": 67.8,
+ "airportName": "Lotnisko Split (SPU)",
+ "amenities": [
+  "Centrum spa i wellness",
+  "Sauna",
+  "Łaźnia parowa",
+  "Strefa relaksu z łóżkami wodnymi",
+  "Masaże i zabiegi na ciało",
+  "Dostęp do pobliskiego centrum fitness",
+  "Tenis stołowy",
+  "Sporty wodne w okolicy (windsurfing, snorkeling)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Riwiera Makarska",
+ "bars": 3,
+ "beachDistanceM": 260,
+ "beachType": "żwirowa (kamienista)",
+ "centerKm": 0.25,
+ "goodFor": [
+  "Pary",
+  "Małe grupy",
+  "Osoby szukające spokojnego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 2020,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Double Room",
+  "Double or Twin Room with Balcony",
+  "Superior Double Room with Balcony and Sea View",
+  "Family Room with Balcony",
+  "Standard Family Room (3 People)",
+  "Economy Double Room",
+  "Junior Suite",
+  "Suite with Balcony",
+  "Standard Single Room",
+  "Single Room with Balcony"
+ ],
+ "rooms": 50,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.355785,
+  "lon": 16.9518207,
+  "src": "osm"
+ },
+ "sources": [
+  "split-dalmatia-hotels.com",
+  "booking.com",
+  "loveholidays.com",
+  "jadran-crikvenica.hr",
+  "trivago.co.uk",
+  "holidaycheck.de",
+  "mapy.com",
+  "travelmaniac.org"
+ ],
+ "updated": "2026-11-28"
+}

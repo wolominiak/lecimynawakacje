@@ -1,0 +1,137 @@
+{
+ "id": 60759,
+ "slug": "liberty-plaza",
+ "name": "Liberty Plaza",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Pag",
+  "Novalja"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/liberty-plaza-teren-hotelu-1532088709-570-428.jpg",
+ "city": "Novalja",
+ "intro": [
+  "Hotel Liberty Plaza to czterogwiazdkowy obiekt położony w samym sercu Novalji na wyspie Pag w Chorwacji, bezpośrednio przy piaszczysto-żwirowej plaży Lokunje. Odnowiony w 2020 roku, oferuje nowoczesne udogodnienia i komfortowe zakwaterowanie w trzech budynkach.",
+  "Obiekt jest idealnym wyborem dla par i grup szukających relaksującego wypoczynku nad morzem, a także dla rodzin z dziećmi, ceniących sobie bliskość plaży i centrum miasta z jego atrakcjami."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Liberty Plaza cieszy się doskonałą lokalizacją w Novalji, zaledwie kilka kroków od piaszczysto-żwirowej plaży Lokunje. Do centrum miasta można dojść w kilka minut (około 400-500 metrów). Hotel oferuje prywatną strefę plażową, a leżaki i parasole są dostępne przy basenie, na plaży mogą być płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 68 indywidualnie urządzonymi pokojami, rozmieszczonymi w budynku głównym oraz dwóch przyległych (Liberty Plaza Black i Liberty Plaza White). Pokoje są klimatyzowane i wyposażone w minibar, telewizor z płaskim ekranem, bezpłatne WiFi, sejf, czajnik elektryczny oraz prywatną łazienkę. Większość pokoi posiada umeblowany balkon lub taras, często z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca śniadania w formie bufetu oraz obiadokolacje. Menu obejmuje kuchnię włoską, japońską i śródziemnomorską, z opcjami wegetariańskimi, wegańskimi i bezglutenowymi. Goście mogą również korzystać z kawiarni, snack baru, lounge baru oraz kilku barów na plaży. Hotel oferuje wyżywienie ze śniadaniem lub niepełne wyżywienie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa sezonowe odkryte baseny ze słodką wodą, w tym jeden typu infinity pool, oraz jacuzzi. Dostępne jest centrum fitness/siłownia, sauna i wanna z hydromasażem. Hotel oferuje wieczorne rozrywki i występy na żywo dla dorosłych. W pobliżu dostępne są liczne sporty wodne, wypożyczalnia rowerów, tenis, piesze wycieczki i wędkarstwo."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Liberty Plaza jest polecany dla par i grup poszukujących relaksującego wypoczynku nad morzem, ceniących sobie komfort i bliskość atrakcji. Dzięki pokojom rodzinnym i dogodnej lokalizacji, hotel jest również odpowiedni dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży i blisko centrum",
+  "Urozmaicone i smaczne posiłki, zwłaszcza śniadania",
+  "Nowoczesne i komfortowe pokoje, odnowione w 2020 roku",
+  "Dwa baseny, w tym basen infinity",
+  "Bezpłatne WiFi w całym hotelu"
+ ],
+ "cons": [
+  "Możliwy hałas z pobliskich imprez (Novalja znana z życia nocnego)",
+  "Brak aquaparku lub rozbudowanych animacji dla dzieci",
+  "Leżaki i parasole na plaży mogą być płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Liberty Plaza znajduje się bezpośrednio przy plaży Lokunje, zaledwie 10-50 metrów od niej."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Zadar (ZAD) około 62-98 km, Rijeka (RJK) około 115-117 km oraz Split (SPU) około 180-187 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu Liberty Plaza."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako odpowiedni dla rodzin z dziećmi i oferuje pokoje rodzinne."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w pokojach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive; dostępne są opcje ze śniadaniem lub niepełnym wyżywieniem."
+  }
+ ],
+ "address": "Lokunje 7, 53291 Novalja, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 62,
+ "airportName": "Zadar (ZAD)",
+ "amenities": [
+  "siłownia",
+  "sauna",
+  "wanna z hydromasażem",
+  "wypożyczalnia rowerów",
+  "sporty wodne w pobliżu",
+  "wieczorne rozrywki",
+  "występy na żywo"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "",
+ "bars": 5,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysto-żwirowa lub żwirowa",
+ "centerKm": 0.4,
+ "goodFor": [
+  "pary",
+  "grupy",
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2020,
+ "restaurants": 1,
+ "roomTypes": [
+  "Standard Park View",
+  "Superior Sea View z balkonem",
+  "Deluxe Room (z widokiem na park lub morze)",
+  "Gallery Room (z widokiem na morze)",
+  "Presidential Suite (z widokiem na morze i prywatnym jacuzzi na tarasie)"
+ ],
+ "rooms": 68,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6485555,
+  "lon": -73.7513149,
+  "src": "osm"
+ },
+ "sources": [
+  "wego.qa",
+  "liberty-novalja.com",
+  "trivago.ie",
+  "rentl.io",
+  "hrvaska.net",
+  "booking.com",
+  "eurowings.com",
+  "zrce.eu"
+ ],
+ "updated": "2026-11-28"
+}

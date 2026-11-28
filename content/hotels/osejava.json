@@ -1,0 +1,137 @@
+{
+ "id": 21233,
+ "slug": "osejava",
+ "name": "Osejava",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Makarska"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001627694-570-428.jpg",
+ "city": "Makarska",
+ "intro": [
+  "Hotel Osejava to czterogwiazdkowy obiekt położony w samym sercu Makarskiej, w Dalmacji Środkowej, bezpośrednio przy nadmorskiej promenadzie. Jego lokalizacja zapewnia łatwy dostęp do trzech pobliskich plaż oraz centrum miasta, co czyni go atrakcyjnym wyborem dla osób ceniących sobie bliskość atrakcji i morza.",
+  "Hotel o nowoczesnym charakterze, otwarty w 2009 roku, oferuje komfortowe warunki pobytu. Jest polecany zarówno dla par szukających romantycznego wypoczynku, rodzin z dziećmi, jak i osób aktywnych, zainteresowanych sportami czy relaksem w centrum spa."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Osejava znajduje się w centrum Makarskiej, bezpośrednio przy promenadzie, w otoczeniu trzech plaż. Najbliższa plaża jest oddalona o zaledwie 10-100 metrów. W pobliżu dostępne są publiczne plaże żwirowo-skaliste, kamieniste oraz betonowe platformy do opalania. Leżaki i parasole na plaży są dodatkowo płatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 50 nowocześnie urządzonymi pokojami. W ofercie są pokoje dwuosobowe, apartamenty typu suite oraz pokoje ekonomiczne, z widokiem na park lub morze, niektóre z balkonem. Standardowe wyposażenie obejmuje klimatyzację, minibar, telewizor LCD, sejf, telefon, suszarkę do włosów oraz łazienkę z wanną lub prysznicem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje, w tym jedna a la carte, oraz bar. Restauracja \"Parangal\" serwuje dania kuchni śródziemnomorskiej, a także sushi bar \"Osejava\". Goście mogą korzystać z opcji wyżywienia ze śniadaniami lub śniadaniami i obiadokolacjami. Codziennie serwowane jest bezpłatne śniadanie w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen z bezpłatnymi leżakami i parasolami. Na terenie obiektu znajduje się również centrum spa z masażami, zabiegami na ciało i twarz, a także płatna sauna i łaźnia parowa. Dla aktywnych dostępne są 3 odkryte korty tenisowe oraz wypożyczalnia rowerów. W pobliżu hotelu znajduje się centrum sportowe."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Na terenie całego obiektu oraz w pokojach dostępne jest bezpłatne Wi-Fi. Hotel nie jest przeznaczony wyłącznie dla dorosłych i oferuje udogodnienia dla rodzin, takie jak łóżeczka niemowlęce za dodatkową opłatą. Hotel nie akceptuje zwierząt domowych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Makarskiej, przy promenadzie",
+  "Bliskość plaż i piękne widoki na morze",
+  "Nowoczesne, przestronne i komfortowe pokoje",
+  "Smaczne i bogate śniadania z widokiem",
+  "Dostępność basenu i centrum spa"
+ ],
+ "cons": [
+  "Możliwy hałas w nocy ze względu na centralne położenie",
+  "Brak ekspresu do kawy/herbaty w pokojach",
+  "Płatne leżaki i parasole na plaży",
+  "Brak pakietu all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża znajduje się w odległości od około 10 do 100 metrów od hotelu."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu i jaka jest odległość?",
+   "a": "Najbliższe lotnisko to Split (SPU), oddalone o około 70-80 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi i oferuje łóżeczka niemowlęce za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje opcje ze śniadaniami lub śniadaniami i obiadokolacjami. Brak jest informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Šetalište dr. Fra Jure Radića 3, 21300 Makarska, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 75,
+ "airportName": "Split (SPU)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Korty tenisowe",
+  "Wypożyczalnia rowerów",
+  "Kawiarnia/Cukiernia"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Dalmacja Środkowa",
+ "bars": 1,
+ "beachDistanceM": 100,
+ "beachType": "żwirowo-skaliste, kamieniste, betonowe platformy",
+ "centerKm": 0.45,
+ "goodFor": [
+  "Wypoczynek na plaży",
+  "Romantyczne wypady",
+  "Relaksujące wakacje spa",
+  "Rodziny",
+  "Grupy sportowe"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2009,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2009,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy z klimatyzacją, minibarem, TV LCD, sejfem, telefonem, suszarką do włosów, zestawem kosmetyków, biurkiem, łazienką z wanną lub prysznicem, bidetem i oddzielną toaletą",
+  "Apartament typu suite z klimatyzacją, minibarem, TV LCD, sejfem, telefonem, suszarką do włosów, zestawem kosmetyków, biurkiem, łazienką z wanną lub prysznicem, bidetem i oddzielną toaletą",
+  "Pokój z widokiem na park lub morze, niektóre z balkonem",
+  "Pokój ekonomiczny"
+ ],
+ "rooms": 50,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.2906167,
+  "lon": 17.019488,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "wakacje.pl",
+  "hrvaska.net",
+  "myhotels.sa",
+  "hotel-makarska.com",
+  "traveligo.pl",
+  "coraltravel.pl",
+  "kompastour.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,135 @@
+{
+ "id": 26608,
+ "slug": "splendid",
+ "name": "Splendid",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Dubrovnik"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001426848-570-428.jpg",
+ "city": "Dubrownik",
+ "intro": [
+  "Hotel Splendid to trzygwiazdkowy obiekt położony w malowniczej dzielnicy Lapad w Dubrowniku, bezpośrednio nad Zatoką Lapad. Oferuje kameralną atmosferę i dogodny dostęp do prywatnej żwirowej plaży, co czyni go idealnym miejscem dla osób szukających relaksu w pięknej scenerii.",
+  "Obiekt jest szczególnie polecany parom, osobom podróżującym służbowo oraz turystom nastawionym na zwiedzanie, którzy docenią połączenie spokoju z łatwym dostępem do atrakcji Dubrownika. Hotel, choć sezonowy, zapewnia komfortowe warunki i przyjazną obsługę, będąc dobrą bazą wypadową do odkrywania Dalmacji Południowej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Splendid usytuowany jest w Dubrowniku, w spokojnej dzielnicy Lapad, z bezpośrednim dostępem do prywatnej, żwirowej plaży. Plaża jest niewielka, wyposażona w prysznice, a leżaki i parasole są dostępne za dodatkową opłatą. Odległość od centrum Dubrownika (Starego Miasta) wynosi około 3.5-4 km, z łatwym dojazdem autobusem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 59 pokoi w trzypiętrowym lub czteropiętrowym budynku. Dostępne są pokoje jedno-, dwu- i trzyosobowe, w tym warianty z balkonem i widokiem na morze. Wszystkie pokoje wyposażone są w klimatyzację (sezonowo), bezpłatne Wi-Fi, minibar oraz telewizor satelitarny. Należy pamiętać, że hotel nie posiada windy, a niektóre pokoje mogą mieć starszy wystrój."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: Glorijet w ogrodzie oraz Tramonto, która serwuje śniadania, obiady i kolacje w formie bufetu, z daniami kuchni dalmatyńskiej. Goście mogą korzystać również z dwóch barów: Splendid Beach Bar i Lounge Bar. Hotel nie oferuje opcji all inclusive, ale dostępne są śniadania i obiadokolacje (half-board)."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Splendid nie posiada własnego basenu ani siłowni, jednak goście mogą skorzystać ze zniżki na centrum odnowy biologicznej w pobliskim Hotelu Uvala. Na terenie obiektu dostępny jest zewnętrzny kort tenisowy, a w okolicy można uprawiać sporty wodne. Bezpłatne Wi-Fi jest dostępne w całym hotelu i w pokojach."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, żwirowej plaży",
+  "Malownicza lokalizacja w spokojnej zatoce",
+  "Dobra komunikacja autobusowa ze Starym Miastem",
+  "Wygodne pokoje z klimatyzacją i balkonami",
+  "Przyjazny i pomocny personel"
+ ],
+ "cons": [
+  "Brak basenu i siłowni na terenie hotelu",
+  "Niektóre pokoje mogą mieć przestarzały wystrój",
+  "Brak windy w hotelu",
+  "Leżaki i parasole na plaży są dodatkowo płatne",
+  "Hotel jest obiektem sezonowym"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Splendid ma bezpośredni dostęp do prywatnej, żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada własnego basenu ani aquaparku."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska w Dubrowniku?",
+   "a": "Hotel jest oddalony od Portu lotniczego Dubrownik (DBV) o około 19-23 km, co zajmuje około 30-35 minut jazdy."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel akceptuje dzieci, jednak nie posiada specjalnych udogodnień takich jak mini klub czy animacje. Za dodatkowe łóżka/łóżeczka mogą być naliczane opłaty."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są śniadania i obiadokolacje (half-board)."
+  }
+ ],
+ "address": "Masarykov Put 6, 20000 Dubrownik, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 21,
+ "airportName": "Port lotniczy Dubrownik (DBV)",
+ "amenities": [
+  "kort tenisowy",
+  "prywatna plaża",
+  "restauracja",
+  "bar",
+  "bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Lapad",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "żwirowa",
+ "centerKm": 3.5,
+ "goodFor": [
+  "pary",
+  "osoby szukające wypoczynku",
+  "podróżujący służbowo",
+  "osoby zwiedzające"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1938,
+ "pools": 0,
+ "privateBeach": true,
+ "renovated": 2025,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój jednoosobowy standardowy",
+  "pokój dwuosobowy/typu twin",
+  "pokój trzyosobowy",
+  "pokój dwuosobowy/typu twin z balkonem i widokiem na morze",
+  "pokój dwuosobowy standardowy z balkonem",
+  "pokój dwuosobowy romantyczny z widokiem na morze i balkonem"
+ ],
+ "rooms": 59,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6538772,
+  "lon": 18.0655308,
+  "src": "osm"
+ },
+ "sources": [
+  "oyster.com",
+  "hotelsdubrovnik.net",
+  "booking.com",
+  "expedia.com",
+  "agoda.com",
+  "hotelscombined.com",
+  "mapcarta.com",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-28"
+}

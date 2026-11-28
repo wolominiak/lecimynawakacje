@@ -1,0 +1,141 @@
+{
+ "id": 16210,
+ "slug": "lapad-dubrovnik",
+ "name": "Lapad (Dubrovnik)",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Dubrovnik"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001449342-570-428.jpg",
+ "city": "Dubrownik",
+ "intro": [
+  "Hotel Lapad w Dubrowniku to czterogwiazdkowy obiekt położony w malowniczej dzielnicy Lapad, na półwyspie o tej samej nazwie, z widokiem na Zatokę Gruz. Hotel mieści się w zabytkowym budynku z 1914 roku, rozbudowanym w 1987 roku, co nadaje mu elegancki i unikalny charakter. Jest to idealne miejsce dla par szukających słońca oraz rodzin.",
+  "Obiekt charakteryzuje się dobrą lokalizacją, umożliwiającą łatwy dostęp do plaż, restauracji i portu, a także sprawny dojazd do słynnego Starego Miasta Dubrownika. Hotel oferuje komfortowe zakwaterowanie, smaczną kuchnię i szereg udogodnień, zapewniając przyjemny pobyt w Chorwacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lapad znajduje się w Dubrowniku, w dzielnicy Lapad, nad Zatoką Gruz. Plaża Lapad oddalona jest o około 1,2 km (14 minut spacerem), a żwirowa plaża Uvala Lapad o około 1,6 km. Do Starego Miasta Dubrownika są około 3 km, z dogodnym połączeniem autobusem numer 6."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 162 lub 163 pokoje w różnych kategoriach, w tym Classic, Family Room i Junior Suite. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, zestaw do parzenia kawy/herbaty, suszarkę do włosów oraz sejf. Niektóre pokoje posiadają balkon, a pokoje Superior z widokiem na basen i morze nie mają balkonów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Lapad serwuje śniadania, obiady i kolacje w formie bufetu, z opcjami dietetycznymi. Na terenie hotelu znajdują się również bar/lounge, bar przy basenie oraz kawiarnia. Opcja all inclusive jest wspomniana przez jednego dostawcę, jednak hotel głównie oferuje wyżywienie ze śniadaniami i obiadokolacjami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości jest jeden odkryty basen z leżakami. Hotel nie posiada aquaparku ani zjeżdżalni. W sezonie letnim (od czerwca do września) organizowane są imprezy przy basenie i muzyka na żywo pięć dni w tygodniu. Dostępne są również usługi spa i masaże oraz dobrze wyposażone centrum fitness."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Lapad jest polecany dla par szukających relaksu w słońcu oraz dla rodzin. Oferuje pokoje rodzinne i możliwość dostawienia łóżeczek dla dzieci. Brak jest jednak mini klubu czy zorganizowanych animacji dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Doskonałe i urozmaicone śniadania",
+  "Czysty basen z leżakami",
+  "Świetna lokalizacja blisko plaż i z łatwym dojazdem do Starego Miasta",
+  "Bardzo czyste i komfortowe pokoje",
+  "Miła i pomocna obsługa",
+  "Elegancki, zabytkowy budynek"
+ ],
+ "cons": [
+  "Oddalony od Starego Miasta, wymaga transportu",
+  "Taksówki do Starego Miasta mogą być drogie",
+  "Ograniczona liczba miejsc parkingowych",
+  "Hotel jest zamknięty sezonowo od listopada do marca"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża Lapad znajduje się około 1,2 km (14 minut spacerem) od hotelu, a żwirowa plaża Uvala Lapad około 1,6 km."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Lotnisko Dubrownik (DBV), oddalone jest o około 18-23 km. Czas podróży samochodem to około 24-35 minut."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada własnych zjeżdżalni wodnych ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje pokoje rodzinne i możliwość dostawienia łóżeczek dla dzieci. Brak jest jednak mini klubu czy zorganizowanych animacji dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel jest przyjazny rodzinom i nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Lapadska Obala 37, HR-20000 Dubrownik, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 18.16,
+ "airportName": "Lotnisko Dubrownik (DBV)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bezpłatne Wi-Fi",
+  "Minibar",
+  "Zestaw do parzenia kawy/herbaty",
+  "Sejf w pokoju",
+  "Klimatyzacja"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Lapad",
+ "bars": 3,
+ "beachDistanceM": 1200,
+ "beachType": "żwirowa",
+ "centerKm": 3,
+ "goodFor": [
+  "Pary szukające słońca",
+  "Rodziny"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1914,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Classic Balcony Room (22 m²)",
+  "Classic Double Room with Balcony (20 m²)",
+  "Family Room (40 m², dla 2 dorosłych i 2 dzieci, często jako 2 połączone pokoje)",
+  "Junior Suite (40 m²)",
+  "Standard Double/Twin Room",
+  "Standard Single Room",
+  "Superior Double Room z dodatkowym łóżkiem",
+  "Superior Pool and Sea View room"
+ ],
+ "rooms": 163,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6570167,
+  "lon": 18.081654,
+  "src": "osm"
+ },
+ "sources": [
+  "hoteles.com",
+  "agoda.com",
+  "hotel-lapad.hr",
+  "booking.com",
+  "hotels.com",
+  "britishairways.com",
+  "expedia.com",
+  "rome2rio.com"
+ ],
+ "updated": "2026-11-28"
+}

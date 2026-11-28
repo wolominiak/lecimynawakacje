@@ -1,0 +1,127 @@
+{
+ "id": 12922,
+ "slug": "mansion-nazaret",
+ "name": "Mansion Nazaret",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Lanzarote",
+  "Costa Teguise"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001458561-570-428.jpg",
+ "city": "Costa Teguise",
+ "intro": [
+  "Mansion Nazaret to trzygwiazdkowy hotel położony w turystycznej miejscowości Costa Teguise na wschodnim wybrzeżu Lanzarote, zaledwie kilka minut spacerem od piaszczystej plaży Playa de las Cucharas. Obiekt, zbudowany w 1997 roku i odnowiony w tym samym czasie, oferuje zakwaterowanie w apartamentach rozmieszczonych wokół centralnego basenu, w niskich budynkach utrzymanych w kanaryjskim stylu.",
+  "Hotel jest polecany dla par i rodzin, które szukają spokojnego wypoczynku w dobrej lokalizacji, z możliwością samodzielnego przygotowywania posiłków. Dzięki przestronnym apartamentom z aneksami kuchennymi oraz bliskością centrum miejscowości, Mansion Nazaret stanowi dobrą bazę do eksplorowania wyspy i korzystania z lokalnych atrakcji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mansion Nazaret znajduje się w Costa Teguise, około 250-600 metrów, czyli 5 minut spacerem, od piaszczystej plaży Playa de las Cucharas. Obiekt jest również dogodnie położony blisko centrum miejscowości, w odległości od 50 metrów do 1 km. Najbliższe lotnisko, Port lotniczy Lanzarote (ACE), oddalone jest o około 12-16 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 57 do 60 pokoi/apartamentów w kategoriach studio, apartament z jedną sypialnią oraz apartament z dwiema sypialniami. Każdy apartament posiada prywatną łazienkę z prysznicem i suszarką do włosów, aneks kuchenny (z lodówką, mikrofalówką, czajnikiem, ekspresem do kawy/herbaty, tosterem, płytą grzewczą), telewizor z płaskim ekranem, bezpłatne Wi-Fi, sejf (płatny) oraz balkon lub taras. W apartamentach brakuje klimatyzacji, a ich wystrój jest uznawany za przestarzały."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, która serwuje dania kuchni międzynarodowej, hiszpańskiej i wegetariańskiej. Goście mogą wybrać opcję ze śniadaniami i kolacjami lub bez wyżywienia (self-catering). Na terenie obiektu dostępny jest również bar przy basenie, oferujący przekąski."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Mansion Nazaret dysponuje jednym dużym odkrytym basenem ze słodką wodą dla dorosłych, który jest podgrzewany w miesiącach zimowych. Goście mają także możliwość korzystania z większego basenu w sąsiednim kompleksie Nazaret Apartments. Na terenie hotelu brak jest zjeżdżalni wodnych, ale w odległości 1-2 km znajduje się Aquapark Costa Teguise. Dostępne udogodnienia to bilard i wypożyczalnia rowerów. Hotel nie posiada spa ani siłowni."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom, jednak oferuje ograniczone udogodnienia dla dzieci. Brak jest mini klubu i animacji. Dostępny jest brodzik dla dzieci w siostrzanym obiekcie Apartamentos Nazaret."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Przestronne apartamenty z aneksem kuchennym",
+  "Podgrzewany basen w zimie",
+  "Bezpłatne Wi-Fi",
+  "Czystość i zadbane ogrody"
+ ],
+ "cons": [
+  "Brak klimatyzacji w apartamentach",
+  "Przestarzały wystrój pokoi",
+  "Brak windy",
+  "Ograniczone udogodnienia dla dzieci",
+  "Recepcja z ograniczonymi godzinami otwarcia"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Playa de las Cucharas znajduje się około 250-600 metrów od hotelu, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest daleko od lotniska?",
+   "a": "Najbliższe lotnisko, Port lotniczy Lanzarote (ACE), jest oddalone o około 12-16 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Aquapark Costa Teguise znajduje się w odległości około 1-2 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest przyjazny rodzinom, jednak oferuje ograniczone udogodnienia dla dzieci, takie jak brak mini klubu i animacji. Dostępny jest brodzik w siostrzanym obiekcie Apartamentos Nazaret."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie i we wszystkich apartamentach."
+  },
+  {
+   "q": "Czy w pokojach jest klimatyzacja?",
+   "a": "Nie, w apartamentach hotelu Mansion Nazaret brakuje klimatyzacji."
+  }
+ ],
+ "address": "Avenida Islas Canarias, 1, 35509 Costa Teguise, Lanzarote, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 12,
+ "airportName": "Port lotniczy Lanzarote (ACE)",
+ "amenities": [
+  "bilard",
+  "wypożyczalnia rowerów"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "Costa Teguise",
+ "bars": 1,
+ "beachDistanceM": 250,
+ "beachType": "piaszczysta",
+ "centerKm": 0.05,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1997,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 1997,
+ "restaurants": 1,
+ "roomTypes": [
+  "studio (prywatna łazienka z prysznicem i suszarką do włosów, aneks kuchenny, TV, Wi-Fi, sejf, salon/jadalnia, balkon/taras)",
+  "apartament z jedną sypialnią (prywatna łazienka z prysznicem i suszarką do włosów, aneks kuchenny, TV, Wi-Fi, sejf, salon/jadalnia, balkon/taras)",
+  "apartament z dwiema sypialniami (prywatna łazienka z prysznicem i suszarką do włosów, aneks kuchenny, TV, Wi-Fi, sejf, salon/jadalnia, balkon/taras)"
+ ],
+ "rooms": 57,
+ "spa": false,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "onthebeach.co.uk",
+  "thomascook.com",
+  "booking.com",
+  "kayak.com",
+  "islas.co.uk",
+  "nazarethotels.com",
+  "expedia.com",
+  "trip.com"
+ ],
+ "updated": "2026-11-28"
+}

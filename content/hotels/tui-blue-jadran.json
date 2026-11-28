@@ -1,0 +1,141 @@
+{
+ "id": 33402,
+ "slug": "tui-blue-jadran",
+ "name": "TUI BLUE Jadran",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Tucepi"
+ ],
+ "stars": 5,
+ "photo": "/no-index/zdjecie/id/20001395426-570-428.jpg",
+ "city": "Tučepi",
+ "intro": [
+  "TUI BLUE Jadran to pięciogwiazdkowy hotel położony bezpośrednio nad Morzem Adriatyckim, w malowniczej miejscowości Tučepi na Riwierze Makarskiej w Chorwacji. Obiekt, który został całkowicie odnowiony i ponownie otwarty w 2017 roku, łączy nowoczesny design z urokami dalmatyńskiego wybrzeża.",
+  "Hotel jest idealnym miejscem dla par oraz osób szukających luksusowego wypoczynku z autentycznymi lokalnymi doświadczeniami. Oferuje szeroki zakres udogodnień, od strefy spa po centrum fitness, zapewniając komfortowy pobyt w pięknej scenerii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel TUI BLUE Jadran znajduje się w Tučepi, bezpośrednio przy żwirowej, publicznej plaży. Goście mogą korzystać z leżaków i parasoli na plaży za dodatkową opłatą. Najbliższe lotnisko Brac (BWK) oddalone jest o około 37,9 km, a do centrum Tučepi jest zaledwie 1-2 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 161 lub 162 nowocześnie urządzonymi pokojami, w tym pokojami dwuosobowymi, Junior Suites oraz Deluxe Junior Suites z bezpośrednim dostępem do basenu. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, sejf, zestaw do parzenia kawy/herbaty, szlafroki, kapcie oraz prywatną łazienkę. Większość pokoi posiada balkon lub taras z widokiem na morze, ogród lub góry."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się trzy restauracje serwujące dania kuchni lokalnej i chorwackiej, w tym opcje wegetariańskie i wegańskie. Hotel oferuje wyżywienie w formule Half Board, obejmującej śniadania w formie bufetu (do godziny 11:00) oraz kolacje. Na terenie obiektu dostępne są również trzy bary: w lobby, przy basenie i na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mają do dyspozycji trzy odkryte baseny, w tym basen typu infinity z widokiem na morze oraz basen ogrodowy, czynne sezonowo od kwietnia do października. Hotel oferuje również centrum spa z sauną, łaźnią parową i pokojem relaksacyjnym (wstęp od 16 lat), siłownię oraz różnorodne aktywności, takie jak tenis, joga na plaży, piesze wycieczki i sporty wodne."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży",
+  "Nowoczesne wnętrza i wysoki standard",
+  "Wysoka jakość jedzenia, zwłaszcza śniadań",
+  "Bardzo pomocny i uprzejmy personel",
+  "Dobre udogodnienia: spa, siłownia, baseny"
+ ],
+ "cons": [
+  "Dodatkowe opłaty za leżaki i parasole na plaży",
+  "Brak pełnego pakietu all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy żwirowej plaży."
+  },
+  {
+   "q": "Czy na plaży są dostępne leżaki i parasole?",
+   "a": "Tak, leżaki i parasole są dostępne na plaży, ale są dodatkowo płatne."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Brac (BWK), oddalone o około 37,9 km. Lotnisko Split (SPU) znajduje się w odległości około 81-101,8 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Dzieci w każdym wieku są akceptowane, jednak hotel nie posiada aquaparku ani mini klubu, a strefa spa jest dostępna dla osób powyżej 16 roku życia."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje wyżywienie w formule Half Board (śniadania i kolacje). Brak informacji o pełnym pakiecie all inclusive."
+  }
+ ],
+ "address": "Slatina 1, Tučepi, 21325, Split-Dalmatia, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 37.9,
+ "airportName": "Lotnisko Brac (BWK)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Baseny zewnętrzne",
+  "Restauracje a la carte",
+  "Bary",
+  "Tenis",
+  "Tenis stołowy",
+  "Piesze wycieczki",
+  "Jazda na rowerze",
+  "Sporty wodne",
+  "Siatkówka plażowa",
+  "Joga na plaży",
+  "Sauna",
+  "Łaźnia parowa",
+  "Fontanna lodowa",
+  "Pokój relaksacyjny",
+  "Masaże",
+  "Zabiegi na twarz",
+  "Manicure",
+  "Pedicure"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Riwiera Makarska",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "żwirowa (kamienista)",
+ "centerKm": 1,
+ "goodFor": [
+  "Pary",
+  "Osoby szukające luksusowego wypoczynku"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1948,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2017,
+ "restaurants": 3,
+ "roomTypes": [
+  "Pokój dwuosobowy Standard",
+  "Pokój dwuosobowy Superior",
+  "Pokój dwuosobowy Classic",
+  "Junior Suite",
+  "Deluxe Junior Suite z bezpośrednim dostępem do basenu (swim-up suites)"
+ ],
+ "rooms": 161,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "travelmaniac.org",
+  "croatiaweek.com",
+  "tui.co.uk",
+  "planetofhotels.com",
+  "hotels-split-dalmatia.com",
+  "bluesunhotels.com",
+  "booking.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,133 @@
+{
+ "id": 19220,
+ "slug": "htop-palm-beach-ex-ancla",
+ "name": "HTop Palm Beach (ex. Ancla)",
+ "country": "hiszpania",
+ "place": [
+  "Hiszpania",
+  "Costa Brava",
+  "Lloret de Mar"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/htop-palm-beach-ex-ancla-basen-1660412786-570-428.jpg",
+ "city": "Lloret de Mar",
+ "intro": [
+  "Hotel HTop Palm Beach (ex. Ancla) to trzygwiazdkowy obiekt położony w Lloret de Mar, w dzielnicy Fenals lub na jej obrzeżach. Znajduje się w odległości około 700-800 metrów od plaż Lloret de Mar i Fenals, a także blisko centrum miejscowości. Jest to propozycja dla osób szukających zakwaterowania w spokojniejszej okolicy, ale z łatwym dostępem do atrakcji.",
+  "Hotel jest polecany dla rodzin, par i grup. Oferuje udogodnienia takie jak baseny, mini klub dla dzieci oraz program animacyjny, co czyni go odpowiednim wyborem dla różnych typów podróżnych, którzy cenią sobie dobrą lokalizację i podstawowy komfort."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel HTop Palm Beach znajduje się w Lloret de Mar, w dzielnicy Fenals, około 700-800 metrów od piaszczystej plaży Lloret de Mar i Fenals. W pobliżu hotelu znajduje się publiczna plaża, na której leżaki i parasole są płatne. Centrum Lloret de Mar oddalone jest o około 250-500 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 153 pokojami, które zostały odnowione w 2005 roku. Dostępne są pokoje dwuosobowe, trzyosobowe, rodzinne i jednoosobowe, o powierzchni standardowo 19 m². Każdy pokój wyposażony jest w prywatny balkon lub taras, łazienkę, klimatyzację, telewizor satelitarny i bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca śniadania, obiady i kolacje, z możliwością zamówienia kolacji tematycznych i menu dietetycznego. Goście mogą korzystać z baru oraz baru przy basenie. Dostępna jest opcja All Inclusive, która obejmuje posiłki w formie bufetu oraz lokalne napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Obiekt oferuje trzy baseny: odkryty, kryty (podgrzewany) oraz brodzik dla dzieci. Dla najmłodszych przygotowano również plac zabaw i mini klub. Hotel zapewnia program animacyjny dla dorosłych i dzieci, obejmujący dzienne aktywności oraz wieczorne pokazy. Na terenie obiektu znajduje się także centrum spa z sauną, jacuzzi i łaźnią turecką."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży i centrum",
+  "Przyjazny i pomocny personel",
+  "Czystość w hotelu",
+  "Smaczne śniadania w formie bufetu",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Basen może wydawać się mniejszy niż na zdjęciach",
+  "Podstawowe udogodnienia i skromne pokoje",
+  "Możliwy hałas związany z życiem nocnym w okolicy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 700-800 metrów od plaż Lloret de Mar i Fenals."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 22.7-30.2 km. Lotnisko Barcelona El Prat (BCN) znajduje się około 77.3-92.7 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Park wodny Water World jest oddalony o około 1 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Posiada brodzik dla dzieci, plac zabaw oraz mini klub i animacje dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i we wszystkich pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest opisywany jako hotel rodzinny."
+  }
+ ],
+ "address": "Carrer Aribau, 3, 17310 Lloret de Mar, Gerona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 22.7,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Centrum spa",
+  "Sauna",
+  "Jacuzzi",
+  "Łaźnia turecka",
+  "Masaże (dodatkowo płatne)",
+  "Sala gier",
+  "Bilard",
+  "Tenis stołowy"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Fenals",
+ "bars": 2,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta lub kamienista (publiczna)",
+ "centerKm": 0.25,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Grupy"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1985,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 2005,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin, Standard, Superior)",
+  "Pokój rodzinny (Family, Superior Family)",
+  "Pokój trzyosobowy (Triple, Superior Triple)",
+  "Pokój jednoosobowy (Single)"
+ ],
+ "rooms": 153,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.7003486,
+  "lon": 2.8324196,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "reserving.com",
+  "zoover.nl",
+  "thomascook.com",
+  "htophotels.com",
+  "hotelscombined.com",
+  "maptons.com",
+  "hoteles.com"
+ ],
+ "updated": "2026-11-28"
+}

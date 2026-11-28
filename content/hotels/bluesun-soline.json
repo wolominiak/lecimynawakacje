@@ -1,0 +1,140 @@
+{
+ "id": 17712,
+ "slug": "bluesun-soline",
+ "name": "Bluesun Soline",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Brela"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001438099-570-428.jpg",
+ "city": "Brela",
+ "intro": [
+  "Hotel Bluesun Soline to czterogwiazdkowy obiekt położony w malowniczej miejscowości Brela, w środkowej Dalmacji, bezpośrednio przy żwirowo-kamienistej plaży Soline. Odnowiony w 2022 roku, hotel charakteryzuje się nowoczesną architekturą i oferuje szeroki zakres udogodnień, w tym rozbudowaną strefę wellness.",
+  "Obiekt jest doskonałym wyborem zarówno dla rodzin z dziećmi, dzięki miniklubowi i animacjom, jak i dla par czy osób szukających relaksu i spokoju. Bliskość centrum Breli oraz piękne widoki na morze i góry Biokovo sprawiają, że jest to idealne miejsce na wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Bluesun Soline znajduje się w Breli, na Riwierze Makarskiej, bezpośrednio przy publicznej plaży Soline. Plaża jest żwirowo-kamienista z łagodnym zejściem do morza, zaleca się obuwie ochronne. Do centrum miejscowości jest około 150-300 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 208 klimatyzowanych pokoi różnych typów, w tym Classic, Standard, Superior, Premium, Deluxe oraz Junior Suite i Family. Każdy pokój wyposażony jest w balkon lub taras, minibar, telewizor LCD, bezpłatne Wi-Fi, sejf, czajnik elektryczny oraz łazienkę z suszarką do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Goście mogą korzystać z dwóch restauracji: głównej restauracji bufetowej (śniadania i kolacje) oraz restauracji à la carte SOL Mediterranean Dining, serwującej kuchnię śródziemnomorską. Na terenie hotelu znajdują się również cztery bary, w tym Timun Bar z przekąskami i ciastami, Maestral Beach Club na plaży, Pool Bar i Lobby Bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "W hotelu dostępne są dwa baseny: jeden zewnętrzny i jeden kryty ze słodką wodą, z częścią wellness. Dla dzieci przygotowano brodzik. Strefa spa i wellness o powierzchni 1500 m² oferuje kryty basen, jacuzzi, sauny, hammam oraz płatne masaże i zabiegi. Dostępna jest również siłownia i zajęcia fitness."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował miniklub dla dzieci w wieku 4-12 lat, salę zabaw oraz animacje organizowane kilka razy w tygodniu. W lipcu i sierpniu odbywa się również minidyskoteka."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży Soline",
+  "Nowoczesna architektura i niedawny remont (2022)",
+  "Rozbudowana strefa wellness i baseny",
+  "Piękne widoki na morze i góry Biokovo",
+  "Dobre jedzenie i uprzejmy personel"
+ ],
+ "cons": [
+  "Leżaki i parasole na plaży są płatne",
+  "Parking jest płatny",
+  "Niektóre udogodnienia i atrakcje mogą być płatne lub sezonowe",
+  "Brak opcji pełnego all inclusive",
+  "Zalecane obuwie ochronne na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy publicznej plaży Soline, żwirowo-kamienistej."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Hotel oferuje wyżywienie w formule śniadań lub śniadań i obiadokolacji. Brak informacji o opcji pełnego all inclusive."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Odległość od lotniska w Splicie (SPU) wynosi około 70 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu. Dostępny jest brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje miniklub, salę zabaw i animacje dla najmłodszych."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Trg Gospe od Karmela 1, Brela 21322",
+ "adultsOnly": false,
+ "airportKm": 70,
+ "airportName": "Split (SPU)",
+ "amenities": [
+  "minibar",
+  "telewizor LCD",
+  "sejf",
+  "czajnik elektryczny",
+  "suszarka do włosów",
+  "zestaw kosmetyków"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Riwiera Makarska",
+ "bars": 4,
+ "beachDistanceM": 10,
+ "beachType": "żwirowo-kamienista",
+ "centerKm": 0.15,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby ceniące spokój i relaks"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1983,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 2,
+ "roomTypes": [
+  "Classic",
+  "Standard",
+  "Superior",
+  "Premium",
+  "Deluxe",
+  "Junior Suite",
+  "Family"
+ ],
+ "rooms": 208,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3679427,
+  "lon": 16.9289894,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "bluesunhotels.com",
+  "triverna.pl",
+  "itaka.pl",
+  "momondo.pl",
+  "seemice.com",
+  "r.pl",
+  "traveligo.pl"
+ ],
+ "updated": "2026-11-28"
+}

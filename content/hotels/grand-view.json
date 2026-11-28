@@ -1,0 +1,137 @@
+{
+ "id": 42472,
+ "slug": "grand-view",
+ "name": "Grand View",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Brac",
+  "Postira"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001635202-570-428.jpg",
+ "city": "Postira",
+ "intro": [
+  "Grand View to nowoczesny, czterogwiazdkowy hotel położony bezpośrednio nad morzem w malowniczej miejscowości Postira na wyspie Brač w Chorwacji. Otwarty w 2022 roku, oferuje komfortowe warunki wypoczynku w eleganckim otoczeniu, z pięknymi widokami na Adriatyk.",
+  "Obiekt jest idealnym wyborem zarówno dla rodzin z dziećmi, jak i dla par szukających luksusowego relaksu. Dzięki bogatej ofercie rekreacyjnej, obejmującej baseny, spa oraz animacje, Grand View zapewnia udany urlop dla gości w każdym wieku."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Grand View znajduje się bezpośrednio przy morzu, w odległości około 50 metrów od żwirowej plaży Prvija. Do centrum Postiry można dojść spacerem w około 5 minut (300-700 m). Hotel dysponuje własną plażą, na której leżaki i parasole są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 230 nowocześnie urządzonych pokoi, w tym Superior Double or Twin Room, Premium Double or Twin Room, Panorama Suite, Bay Suite oraz Interconnecting Family Room. Wszystkie pokoje wyposażone są w klimatyzację, prywatną łazienkę z prysznicem, suszarkę do włosów, minibar, sejf, telewizor LCD SAT TV, czajnik elektryczny oraz bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Mediterraneo serwuje dania kuchni amerykańskiej, brytyjskiej, włoskiej, śródziemnomorskiej, lokalnej i chorwackiej. Dostępne są opcje wegetariańskie, wegańskie, bezglutenowe, bezlaktozowe i halal na życzenie. Hotel oferuje wyżywienie typu śniadanie (bufet, kontynentalne, angielskie/irlandzkie) oraz obiadokolacje (Half Board), w ramach których napoje bezalkoholowe do kolacji (z dystrybutora) są wliczone. Na terenie obiektu znajdują się również dwa bary: Brentos bar i Elaphos bar."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są trzy baseny: kryty podgrzewany, sezonowy zewnętrzny typu infinity oraz brodzik dla dzieci. Hotel posiada pełne spa z sauną, łaźnią parową, jacuzzi, pokojem solnym i lodowym (za dodatkową opłatą, wiek min. 16 lat). Dostępna jest również siłownia/centrum fitness (wiek min. 16 lat). W okolicy można uprawiać piesze wycieczki i jazdę na rowerze, a także korzystać z kortu tenisowego."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano brodzik oraz mini klub dla dzieci w wieku 4-12 lat, który działa 6 dni w tygodniu od czerwca do września. W sezonie wysokim dostępne są również animacje dla dzieci i dorosłych. Łóżeczka dziecięce są dostępne na życzenie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy morzu",
+  "Nowoczesne i przestronne pokoje z pięknymi widokami",
+  "Bogate udogodnienia: baseny, spa, siłownia",
+  "Dobre jedzenie z różnorodnymi opcjami dietetycznymi",
+  "Profesjonalna i pomocna obsługa"
+ ],
+ "cons": [
+  "Leżaki przy basenie i na plaży są ograniczone i często zajmowane",
+  "Płatny parking",
+  "Pokoje mogą mieć widok na parking zamiast na morze",
+  "Płatne leżaki i parasole na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy morzu, a do żwirowej plaży Prvija jest około 50 metrów (2 minuty spacerem)."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Brač (BWK), oddalone o około 32 km. Lotnisko Split (SPU) jest oddalone o około 52 km, a transfer z niego trwa około 2-3 godzin, wliczając przeprawę promową."
+  },
+  {
+   "q": "Czy hotel Grand View ma aquapark lub zjeżdżalnie?",
+   "a": "W hotelu Grand View nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Oferuje brodzik dla dzieci, mini klub dla dzieci w wieku 4-12 lat oraz animacje w sezonie wysokim."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel Grand View oferuje wyżywienie typu śniadanie oraz obiadokolacje (Half Board), w ramach których napoje bezalkoholowe do kolacji są wliczone. Nie ma informacji o pakiecie all inclusive."
+  }
+ ],
+ "address": "Vrilo 42, 21410 Postira",
+ "adultsOnly": false,
+ "airportKm": 32,
+ "airportName": "Brač (BWK)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Mini klub dla dzieci",
+  "Kort tenisowy"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "wyspa Brač",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "żwirowa",
+ "centerKm": 0.3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "luksusowy wypoczynek",
+  "rekreacja"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2022,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Superior Double or Twin Room (z widokiem na morze, częściowym widokiem na morze, bocznym widokiem na morze, z balkonem, z możliwością 2 dostawek)",
+  "Premium Double or Twin Room (z sofą i widokiem na morze, z balkonem)",
+  "Panorama Suite",
+  "Bay Suite",
+  "Interconnecting Family Room"
+ ],
+ "rooms": 230,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3774075,
+  "lon": 16.6246811,
+  "src": "osm"
+ },
+ "sources": [
+  "hotels.com",
+  "jadran-crikvenica.hr",
+  "trivago.com",
+  "agoda.com",
+  "jet2holidays.com",
+  "travelisto.com",
+  "booking.com",
+  "reserving.com"
+ ],
+ "updated": "2026-11-28"
+}

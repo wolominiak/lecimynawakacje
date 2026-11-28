@@ -1,0 +1,126 @@
+{
+ "id": 14181,
+ "slug": "brzet",
+ "name": "Brzet",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Omis"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/brzet-plaza-gory-124854-570-428.jpg",
+ "city": "Omiš",
+ "intro": [
+  "Hotel Brzet to trzygwiazdkowy obiekt położony w malowniczej miejscowości Omiš, w sercu Dalmacji Środkowej. Usytuowany jest bezpośrednio przy żwirowej plaży, w otoczeniu sosnowego lasu, co zapewnia spokojny wypoczynek blisko natury.",
+  "Hotel Brzet jest idealnym wyborem dla osób poszukujących relaksu w kameralnej atmosferze oraz dla rodzin z dziećmi. Bliskość centrum Omiša pozwala na łatwy dostęp do lokalnych atrakcji, jednocześnie oferując ucieczkę od zgiełku w otoczeniu zieleni i morza."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Brzet znajduje się w Omišu, zaledwie 30 metrów od żwirowej plaży. Obiekt usytuowany jest w sosnowym lesie, co gwarantuje przyjemny cień i bliskość natury. Do centrum Omiša można dojść w około 10-15 minut spacerem (800 metrów) wzdłuż promenady."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 88 dwuosobowych pokoi, z możliwością dostawki w formie fotela. Wszystkie pokoje są klimatyzowane i wyposażone w łazienkę z prysznicem lub wanną, suszarkę do włosów, telewizję satelitarną, telefon oraz mini lodówkę. Każdy pokój dysponuje balkonem z widokiem na morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Brzet dostępna jest restauracja z zacienionym tarasem oraz kawiarnia/bar. Oferowane jest wyżywienie typu Half Board (HB), które obejmuje śniadania w formie bufetu oraz kolacje z wyborem z trzech menu. Do kolacji wliczone są nielimitowane napoje: woda, napoje bezalkoholowe oraz wino (białe i czerwone)."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Brzet nie posiada basenów, a rekreacja wodna skupia się na bezpośrednim dostępie do morza i plaży. Na terenie całego hotelu dostępne jest bezpłatne Wi-Fi. W okolicy można skorzystać z oferty sportów wodnych, takich jak nurkowanie i snorkeling."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży i morza",
+  "Widok na morze z każdego pokoju",
+  "Czyste pokoje",
+  "Miła obsługa, często mówiąca po polsku",
+  "Dobre śniadania",
+  "Bliskość centrum Omiša"
+ ],
+ "cons": [
+  "Brak basenu",
+  "Proste i funkcjonalne wyposażenie, bez luksusów",
+  "W niektórych opiniach wspomina się o zużytych elementach w łazienkach",
+  "Kolacje bywają mało urozmaicone"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Hotel Brzet jest usytuowany około 30 metrów od żwirowej plaży."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Brzet nie posiada basenów ani aquaparku. Rekreacja wodna opiera się na bezpośrednim dostępie do morza."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Dzieci poniżej 1.99 roku życia mogą przebywać bezpłatnie, a łóżeczka dziecięce są dostępne na życzenie za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, zarówno w pokojach, jak i w częściach wspólnych."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Najbliższe lotnisko to Split (SPU), oddalone o około 43-46 km od hotelu."
+  },
+  {
+   "q": "Jakie wyżywienie oferuje hotel?",
+   "a": "Hotel oferuje wyżywienie typu Half Board (HB), obejmujące śniadania w formie bufetu i kolacje z wyborem z trzech menu. Do kolacji wliczone są napoje."
+  }
+ ],
+ "address": "Brzet 13, Omiš",
+ "adultsOnly": false,
+ "airportKm": 44.5,
+ "airportName": "Split (SPU)",
+ "amenities": [
+  "Wi-Fi",
+  "Restauracja",
+  "Kawiarnia/bar"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "",
+ "bars": 1,
+ "beachDistanceM": 30,
+ "beachType": "żwirowa/kamienista",
+ "centerKm": 0.8,
+ "goodFor": [
+  "spokojny wypoczynek",
+  "rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (ok. 18-20 m²) z możliwością dostawki (fotel), klimatyzacją, łazienką (prysznic/wanna, suszarka do włosów), TV satelitarną, telefonem, mini lodówką i balkonem z widokiem na morze."
+ ],
+ "rooms": 88,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 43.4343214,
+  "lon": 16.7039369,
+  "src": "osm"
+ },
+ "sources": [
+  "radesko.com",
+  "trivago.co.uk",
+  "google.com.gh",
+  "visitomis.hr",
+  "r.pl",
+  "wakacje.pl",
+  "hotels-split-dalmatia.com",
+  "travelyalla.com"
+ ],
+ "updated": "2026-11-28"
+}

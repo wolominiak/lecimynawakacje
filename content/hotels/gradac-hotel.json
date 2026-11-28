@@ -1,0 +1,128 @@
+{
+ "id": 30726,
+ "slug": "gradac-hotel",
+ "name": "Gradac Hotel",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Gradac"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/gradac-hotel-obiekt-1449465955-570-428.jpg",
+ "city": "Gradac",
+ "intro": [
+  "Hotel Gradac to trzygwiazdkowy obiekt położony w miejscowości Gradac, na malowniczej Riwierze Makarskiej w Dalmacji Środkowej. Jest to idealne miejsce dla osób szukających bazy wypadowej do aktywnego zwiedzania regionu, a także dla tych, którzy cenią sobie bliskość plaży i głównego deptaka.",
+  "Hotel został całkowicie wyremontowany w 2016 roku, oferując komfortowe zakwaterowanie w odnowionych wnętrzach. Obiekt jest polecany dla niewymagających klientów, którzy poszukują czystego i dobrze zlokalizowanego miejsca na wakacje w Chorwacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Gradac znajduje się w miejscowości Gradac, około 100-150 metrów od publicznej, żwirowej lub piaszczysto-żwirowej plaży z łagodnym zejściem do morza. Leżaki i parasole są dostępne na plaży za dodatkową opłatą. W pobliżu hotelu znajduje się przystanek autobusowy, co ułatwia podróżowanie po okolicy."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje dwuosobowe z możliwością jednej dostawki oraz większe pokoje trzyosobowe z dodatkowym, jednoosobowym łóżkiem. Wszystkie pokoje wyposażone są w łazienkę z prysznicem, TV-sat, lodówkę oraz klimatyzację. Większość z nich posiada również balkon lub taras, z których rozciągają się widoki na góry i morze."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja, która serwuje posiłki w formie bufetu - śniadania, obiady i kolacje. Do obiadu i kolacji goście mogą korzystać z napojów bezalkoholowych (woda, soki) oraz alkoholowych (0,5 l piwa lub 0,25 l wina na osobę). Należy pamiętać, że hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest jeden basen zewnętrzny z leżakami. Goście hotelu Gradac mają również możliwość korzystania z basenu w pobliskim hotelu Sunce, oddalonego o około 100 metrów. W okolicy dostępne są liczne trasy rowerowe i górskie, a także możliwość uprawiania sportów wodnych."
+  }
+ ],
+ "pros": [
+  "Dobre położenie blisko plaży i deptaka",
+  "Czyste pokoje i miła obsługa",
+  "Bezpłatne Wi-Fi na terenie całego obiektu",
+  "Odnowiony w 2016 roku",
+  "Widoki na góry i morze z balkonów"
+ ],
+ "cons": [
+  "Jedzenie bywa monotonne",
+  "Brak atrakcji dla dzieci bezpośrednio w hotelu",
+  "Plaża publiczna, leżaki i parasole płatne",
+  "Brak informacji o barach w hotelu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Gradac znajduje się około 100-150 metrów od publicznej plaży."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu Gradac?",
+   "a": "Najbliższe lotniska to Mostar (około 45 km), Brac Island (około 50 km), Dubrownik (około 135 km) i Split (około 160 km)."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w formie bufetu (śniadanie, obiad, kolacja) z napojami do obiadu i kolacji, ale nie jest to pakiet all inclusive."
+  },
+  {
+   "q": "Czy w hotelu jest Wi-Fi?",
+   "a": "Tak, na terenie całego obiektu dostępny jest bezpłatny internet Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel oferuje możliwość dostawek dla dzieci w pokojach, jednak brak jest konkretnych informacji o udogodnieniach takich jak mini klub czy animacje dla dzieci."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel ma jeden basen zewnętrzny. Goście mogą również korzystać z basenu w pobliskim hotelu Sunce."
+  }
+ ],
+ "address": "Jadranska 139 A, 21330 Gradac",
+ "adultsOnly": false,
+ "airportKm": 45,
+ "airportName": "Mostar",
+ "amenities": [
+  "Wi-Fi",
+  "Klimatyzacja",
+  "Lodówka",
+  "TV-sat"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Riwiera Makarska",
+ "bars": null,
+ "beachDistanceM": 100,
+ "beachType": "żwirowa lub piaszczysto-żwirowa",
+ "centerKm": 0,
+ "goodFor": [
+  "Aktywne zwiedzanie",
+  "Baza wypadowa",
+  "Niewymagający klienci"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (z łóżkiem małżeńskim i możliwością jednej dostawki)",
+  "Pokój trzyosobowy (większy, z wydzieloną częścią z dodatkowym, jednoosobowym łóżkiem)"
+ ],
+ "rooms": null,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 43.1024253,
+  "lon": 17.3476902,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "r.pl",
+  "gradac.hr",
+  "map-of-croatia.com",
+  "fly.pl",
+  "tat.ua",
+  "smartcroatiatravel.com",
+  "agoda.com"
+ ],
+ "updated": "2026-11-28"
+}

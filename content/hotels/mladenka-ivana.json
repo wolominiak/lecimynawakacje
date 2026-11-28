@@ -1,0 +1,128 @@
+{
+ "id": 28643,
+ "slug": "mladenka-ivana",
+ "name": "Mladenka Ivana",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Makarska"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/mladenka-ivana-obiekt-829302522-570-428.jpg",
+ "city": "Makarska",
+ "intro": [
+  "Willa Mladenka Ivana to kameralny obiekt położony w spokojnej dzielnicy Zelenka w Makarskiej, u podnóża malowniczego masywu Biokovo. Jest to idealne miejsce dla osób szukających wyciszenia, z dala od zgiełku centrum, a jednocześnie z łatwym dostępem do uroków chorwackiego wybrzeża.",
+  "Obiekt, składający się z dwóch korpusów - Mladenka i Ivana, oferuje komfortowe studia z aneksami kuchennymi, co czyni go doskonałym wyborem dla rodzin z dziećmi oraz grup przyjaciół, którzy cenią sobie niezależność i domową atmosferę podczas wakacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Willa Mladenka Ivana usytuowana jest w Makarskiej, około 600 metrów od morza i nadmorskiej promenady. Dojście do miejskiej, żwirkowo-kamienistej plaży zajmuje około 10 minut spacerem w dół. Należy pamiętać, że powrót może być bardziej męczący ze względu na strome podejście. Serwis plażowy jest dodatkowo płatny."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje dwu-, trzy- i czteroosobowe studia, każde z balkonem lub patio. Pokoje wyposażone są w aneks kuchenny (czajnik, płyta grzewcza, lodówka, przybory kuchenne), prywatną łazienkę oraz bezpłatne Wi-Fi. Klimatyzacja sterowana indywidualnie jest dostępna za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Willa Mladenka Ivana oferuje zakwaterowanie bez wyżywienia, co pozwala gościom na pełną swobodę w planowaniu posiłków. W pobliżu obiektu znajdują się sklepy i piekarnie, gdzie można zaopatrzyć się w niezbędne produkty. Na terenie obiektu nie ma restauracji ani barów."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Na terenie willi dostępny jest bezpłatny internet Wi-Fi. Obiekt jest położony w cichej okolicy, blisko tras rowerowych i ścieżek spacerowych, co sprzyja aktywnemu wypoczynkowi. Brak informacji o basenach, spa czy siłowni."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Mladenka Ivana jest szczególnie polecany dla rodzin z dziećmi oraz grup przyjaciół. Komfortowe studia z aneksami kuchennymi zapewniają swobodę i niezależność, a spokojna okolica sprzyja relaksowi. Lokalizacja blisko tras rowerowych i spacerowych docenią osoby aktywne."
+  }
+ ],
+ "pros": [
+  "Nowy i czysty obiekt",
+  "Komfortowe pokoje z aneksem kuchennym i balkonem/tarasem",
+  "Cicha i spokojna okolica",
+  "Bliskość tras rowerowych i ścieżek spacerowych",
+  "Miła i pomocna właścicielka",
+  "Dobre warunki w stosunku do ceny"
+ ],
+ "cons": [
+  "Strome podejście pod górkę z plaży i centrum",
+  "Dodatkowo płatna klimatyzacja",
+  "Brak basenów i innych udogodnień rekreacyjnych na miejscu",
+  "Pokoje mogą być małe (np. pokój nr 6)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża znajduje się około 600 metrów od obiektu, co stanowi około 10 minut spacerem w dół."
+  },
+  {
+   "q": "Czy hotel jest blisko centrum Makarskiej?",
+   "a": "Hotel jest oddalony o około 2 km od ścisłego centrum Makarskiej, do którego można dojść w około 25 minut."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Bol (BWK), oddalone o około 27,6 km. Lotnisko w Splicie (SPU) znajduje się w odległości około 64,3 km."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny internet Wi-Fi?",
+   "a": "Tak, na terenie obiektu dostępny jest darmowy internet Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi ze względu na komfortowe studia z aneksami kuchennymi."
+  },
+  {
+   "q": "Czy w hotelu jest basen lub aquapark?",
+   "a": "Brak informacji o basenach, zjeżdżalniach czy aquaparku na terenie obiektu."
+  }
+ ],
+ "address": "",
+ "adultsOnly": false,
+ "airportKm": 27.6,
+ "airportName": "Bol (BWK)",
+ "amenities": [
+  "Wi-Fi",
+  "Aneks kuchenny w pokojach",
+  "Balkon/patio w pokojach",
+  "Indywidualnie sterowana klimatyzacja (płatna)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Zelenka",
+ "bars": null,
+ "beachDistanceM": 600,
+ "beachType": "żwirkowo-kamienista",
+ "centerKm": 2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2000,
+ "pools": null,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Studio dwuosobowe z aneksem kuchennym, łazienką i balkonem/patio",
+  "Studio trzyosobowe z aneksem kuchennym, łazienką i balkonem/patio",
+  "Studio czteroosobowe z aneksem kuchennym, łazienką i balkonem/patio"
+ ],
+ "rooms": null,
+ "spa": null,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "wakacje.pl",
+  "oskar.com.pl",
+  "travelplanet.pl",
+  "trip.com",
+  "valamar.com",
+  "turpravda.ua",
+  "novatour.pl"
+ ],
+ "updated": "2026-11-28"
+}

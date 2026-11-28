@@ -1,0 +1,134 @@
+{
+ "id": "x:chorwacja:slaven",
+ "slug": "slaven",
+ "name": "Slaven",
+ "country": "chorwacja",
+ "place": [
+  "chorwacja",
+  "Kvarner",
+  "Selce"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/chorvatsko/kvarner/selce/slaven-pl/3715/41f91696fbead34bbead9-244.jpg",
+ "city": "Selce",
+ "intro": [
+  "Hotel Slaven to trzygwiazdkowy obiekt położony w malowniczej miejscowości Selce, na Riwierze Kvarner w Chorwacji. Obiekt, składający się z budynku głównego i trzech pawilonów, usytuowany jest zaledwie kilkadziesiąt metrów od głównej plaży miejskiej Poli Mora, co czyni go idealnym miejscem dla osób ceniących sobie bliskość morza i łatwy dostęp do atrakcji.",
+  "Hotel Slaven jest szczególnie polecany dla rodzin z dziećmi oraz osób szukających spokojnego wypoczynku nad Adriatykiem. Bliskość centrum miejscowości, dostęp do sportów wodnych oraz udogodnienia dla najmłodszych sprawiają, że jest to dobra baza wypadowa do odkrywania uroków regionu Kvarner."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Slaven znajduje się w Selce, zaledwie 50 metrów od głównej plaży miejskiej Poli Mora. Plaża jest żwirowa i betonowa, a w pobliżu znajdują się również plaże piaszczyste. Leżaki i parasole są dostępne do wynajęcia za dodatkową opłatą. Centrum miejscowości oddalone jest o około 200 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 49 pokoi w budynku głównym oraz 158 pokoi w trzech pawilonach. Pokoje są klimatyzowane i wyposażone w prywatną łazienkę z prysznicem, telewizor z kanałami satelitarnymi, telefon i biurko. Pokoje z widokiem na morze często posiadają balkon, podobnie jak wiele pokoi w pawilonach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Slaven goście mogą korzystać z opcji Half Board Plus, która obejmuje śniadania i kolacje w formie bufetu. Do kolacji wliczone są napoje z dystrybutora, takie jak woda, wino, piwo i napoje bezalkoholowe. Na terenie obiektu znajduje się restauracja bufetowa, restauracja à la carte \"Rokan\", bar aperitifowy oraz bar zewnętrzny."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Slaven oferuje bezpłatne Wi-Fi we wszystkich pokojach i na terenie całego obiektu. Dostępne są również mini golf i tenis stołowy. W pobliżu hotelu znajduje się centrum nurkowe oraz możliwości uprawiania sportów wodnych i jazdy na rowerze."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom, oferując kącik dla dzieci oraz plac zabaw. W pobliżu hotelu znajduje się zjeżdżalnia wodna (aqua gun) oraz \"Children City\". Dzieci do 11 lub 12 lat mogą przebywać bezpłatnie na istniejących łóżkach lub dostawkach."
+  }
+ ],
+ "pros": [
+  "Świetna lokalizacja blisko plaży i centrum",
+  "Dobre i urozmaicone wyżywienie (Half Board Plus)",
+  "Przyjazny i pomocny personel",
+  "Bezpłatne Wi-Fi",
+  "Możliwość zakwaterowania ze zwierzętami"
+ ],
+ "cons": [
+  "Pokoje mogą być małe, a łazienki wymagać remontu",
+  "Brak lodówki lub sejfu w niektórych pokojach",
+  "Brak windy w budynku hotelowym i pawilonach",
+  "Plaża w sezonie może być zatłoczona",
+  "Niska jakość jedzenia według niektórych opinii"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Slaven znajduje się około 50 metrów od głównej plaży miejskiej Poli Mora."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko, Rijeka (RJK), oddalone jest o około 24-30 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Brak informacji o basenach należących bezpośrednio do Hotelu Slaven. W pobliżu znajduje się zjeżdżalnia wodna (aqua gun)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje kącik dla dzieci i plac zabaw, a dzieci do 11 lub 12 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i w całym obiekcie."
+  },
+  {
+   "q": "Jaki rodzaj wyżywienia oferuje hotel?",
+   "a": "Hotel oferuje opcję Half Board Plus, która obejmuje śniadania i kolacje w formie bufetu z napojami do kolacji."
+  }
+ ],
+ "address": "Šetalište Ivana Jeličića 37, 51266 Selce",
+ "adultsOnly": false,
+ "airportKm": 24,
+ "airportName": "Rijeka (RJK)",
+ "amenities": [
+  "Mini golf",
+  "Tenis stołowy",
+  "Kącik dla dzieci",
+  "Plac zabaw"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "Kvarner",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "żwirowa i betonowa",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby szukające relaksu",
+  "Miłośnicy nurkowania"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1963,
+ "pools": null,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój jednoosobowy (klimatyzacja, łazienka z prysznicem/WC, TV sat, telefon, biurko)",
+  "Pokój dwuosobowy (klimatyzacja, łazienka z prysznicem/WC, TV sat, telefon, biurko)",
+  "Pokój dwuosobowy z dostawką (klimatyzacja, łazienka z prysznicem/WC, TV sat, telefon, biurko)"
+ ],
+ "rooms": 207,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 45.1541554,
+  "lon": 14.7179461,
+  "src": "osm"
+ },
+ "sources": [
+  "jadran-crikvenica.hr",
+  "agoda.com",
+  "rivieracrikvenica.com",
+  "hrvaska.net",
+  "planetofhotels.com",
+  "primorsko-goranska-hotels.com",
+  "reserving.com",
+  "eholidays.hr"
+ ],
+ "updated": "2026-11-28"
+}

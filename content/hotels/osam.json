@@ -1,0 +1,133 @@
+{
+ "id": 27906,
+ "slug": "osam",
+ "name": "Osam",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Brac",
+  "Supetar"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/osam-teren-hotelu-budynek-glowny-obiekt-1810166411-570-428.jpg",
+ "city": "Supetar",
+ "intro": [
+  "Hotel Osam to czterogwiazdkowy obiekt położony w samym sercu Supetaru na wyspie Brač w Chorwacji. Jego wyjątkowa lokalizacja w historycznym centrum, tuż nad portem, zapewnia malownicze widoki i łatwy dostęp do lokalnych atrakcji. Hotel łączy zabytkowy styl palazzo z nowoczesną architekturą, oferując komfortowy pobyt w eleganckim otoczeniu.",
+  "Obiekt jest przeznaczony wyłącznie dla dorosłych (powyżej 16 lat), co gwarantuje spokojną i relaksującą atmosferę. Jest to idealne miejsce dla par, osób podróżujących solo oraz grup przyjaciół, którzy szukają wytchnienia i wysokiej jakości usług, ceniących sobie zarówno bliskość natury, jak i miejskie udogodnienia."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Osam znajduje się w historycznym centrum Supetaru, bezpośrednio nad portem, oferując widoki na przystań. Najbliższa plaża oddalona jest o około 50 metrów. W bezpośrednim sąsiedztwie hotelu znajdują się liczne restauracje, sklepy i prom. Lotnisko Brač (BWK) jest oddalone o około 15 km, a lotnisko Split (SPU) o około 70 km, z koniecznością przeprawy promowej."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 24 pokojami i apartamentami. W ofercie są pokoje dwuosobowe (z balkonem, widokiem na morze lub ogród) oraz apartamenty (jednosypialniane, dwusypialniane, luksusowe z widokiem na port). Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, minibar, zestaw do parzenia kawy/herbaty, sejf oraz prywatną łazienkę z prysznicem i suszarką do włosów."
+  },
+  {
+   "title": "Baseny i strefa wellness",
+   "text": "Na terenie hotelu znajduje się kryty/zewnętrzny basen z widokiem na morze, podgrzewany sezonowo (do końca maja i od końca września), a także sezonowy basen zewnętrzny. Hotel oferuje również pełne spa z sauną i masażami, zapewniając gościom możliwość relaksu i odprężenia."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W cenę zakwaterowania wliczone jest bezpłatne śniadanie w formie bufetu. Hotelowa restauracja à la carte"
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Supetaru, blisko plaży i promu.",
+  "Bardzo przyjazny i profesjonalny personel.",
+  "Wysoka jakość jedzenia, zwłaszcza śniadań i restauracji Otok.",
+  "Czystość pokoi i całego obiektu.",
+  "Spokojna i relaksująca atmosfera (hotel tylko dla dorosłych).",
+  "Piękne widoki z baru na dachu.",
+  "Nowoczesny i stylowy design."
+ ],
+ "cons": [
+  "Basen może być uważany za mały przez niektórych gości.",
+  "Ograniczona liczba miejsc parkingowych w hotelu (dodatkowy parking 500m dalej).",
+  "Brak informacji o rodzaju plaży i dostępności leżaków/ręczników."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża znajduje się około 50 metrów od hotelu."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, hotel jest przeznaczony wyłącznie dla dorosłych (minimum 16 lat)."
+  },
+  {
+   "q": "Czy hotel ma basen?",
+   "a": "Tak, hotel dysponuje krytym/zewnętrznym basenem z widokiem na morze, który jest podgrzewany sezonowo, oraz sezonowym basenem zewnętrznym."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w pokojach i miejscach publicznych dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Brač (BWK), oddalone o około 15 km. Lotnisko Split (SPU) znajduje się około 70 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia lub spa?",
+   "a": "Hotel oferuje pełne spa, saunę i masaże. Brak bezpośrednich informacji o siłowni."
+  }
+ ],
+ "address": "Vlačica 3, Supetar, 21400, Chorwacja",
+ "adultsOnly": true,
+ "airportKm": 15,
+ "airportName": "Lotnisko Brač (BWK)",
+ "amenities": [
+  "spa",
+  "sauna",
+  "masaż",
+  "wypożyczalnia rowerów",
+  "tenis",
+  "padel",
+  "nurkowanie",
+  "piesze wycieczki"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Supetaru",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "pary",
+  "podróżujący solo",
+  "grupy przyjaciół"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2018,
+ "pools": 2,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy (z balkonem, z widokiem na morze, z widokiem na ogród, promo, luksusowy)",
+  "apartament (jednosypialniany, luksusowy z widokiem na port, dwusypialniany, z widokiem na morze)"
+ ],
+ "rooms": 24,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.3842664,
+  "lon": 16.5527444,
+  "src": "osm"
+ },
+ "sources": [
+  "trip.com",
+  "agoda.com",
+  "hotel-osam.com",
+  "booking.com",
+  "michelin.com",
+  "adultyhotels.com",
+  "google.com.gh",
+  "hotels.com"
+ ],
+ "updated": "2026-11-28"
+}

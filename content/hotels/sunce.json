@@ -1,0 +1,130 @@
+{
+ "id": 25245,
+ "slug": "sunce",
+ "name": "Sunce",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Gradac"
+ ],
+ "stars": 3.5,
+ "photo": "/no-index/hotel/sunce-teren-hotelu-basen-1247048824-570-428.jpg",
+ "city": "Gradac",
+ "intro": [
+  "Hotel Sunce to 3.5-gwiazdkowy obiekt położony w centrum Gradaca, w malowniczej Dalmacji Środkowej, bezpośrednio przy długiej, żwirkowej plaży i nadmorskiej promenadzie. Jego lokalizacja sprawia, że jest idealnym miejscem dla osób ceniących bliskość morza oraz dostęp do lokalnych atrakcji i sklepów.",
+  "Hotel Sunce jest szczególnie polecany dla rodzin z dziećmi oraz osób szukających spokojnych i niedrogich wakacji. Oferuje rodzinną atmosferę, możliwość aktywnego wypoczynku, takiego jak pływanie czy nurkowanie, a także wieczorne spacery wzdłuż promenady."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sunce znajduje się w centrum Gradaca, bezpośrednio przy żwirkowej plaży z łagodnym zejściem do wody. Plaża jest publiczna, a leżaki i parasole są dostępne za dodatkową opłatą. W okolicy hotelu rozciąga się nadmorska promenada, idealna do spacerów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje łącznie 35 pokojami i 5 apartamentami. Wszystkie pokoje wyposażone są w łazienkę z WC, TV-sat, małą lodówkę oraz klimatyzację. Należy pamiętać, że niektóre pokoje nie posiadają balkonu, a telewizor może mieć ograniczoną funkcjonalność."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel oferuje opcję \"All Inclusive Light\", która obejmuje śniadania, lunche i kolacje w formie bufetu. Do posiłków serwowane są nielimitowane napoje bezalkoholowe oraz wybrane napoje alkoholowe. Na terenie obiektu znajduje się restauracja serwująca dania kuchni dalmatyńskiej i międzynarodowej, a także bar i kawiarnia z tarasem tanecznym."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się basen dla dorosłych, brodzik dla dzieci oraz jacuzzi. Brak informacji o basenach podgrzewanych czy krytych. Dla dzieci dostępny jest również plac zabaw. W okolicy hotelu można uprawiać sporty wodne (dodatkowo płatne) oraz korzystać z górskich tras pieszych i rowerowych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik oraz plac zabaw. W restauracji dostępne są krzesełka dla dzieci, a także oferowane są usługi opieki nad dziećmi."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy plaży i promenadzie",
+  "Czystość hotelu i rodzinna atmosfera",
+  "Duży, zamykany parking",
+  "Bliskość sklepów i restauracji",
+  "Możliwość spożywania posiłków na świeżym powietrzu"
+ ],
+ "cons": [
+  "Mała liczba leżaków przy basenie",
+  "Brak toalety, prysznica i przebieralni przy basenie",
+  "Występowanie komarów i mrówek w pokojach",
+  "Skromne wyżywienie, mały wybór dań",
+  "Pokoje mogą być małe, niektóre bez balkonu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się bezpośrednio przy plaży, w pierwszej linii brzegowej."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Mostar International Airport (około 45 km), lotnisko w Dubrowniku (około 135-136 km) i lotnisko w Splicie (około 160 km)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin, oferuje brodzik dla dzieci i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny internet Wi-Fi?",
+   "a": "Tak, bezpłatny internet Wi-Fi jest dostępny na terenie obiektu."
+  },
+  {
+   "q": "Czy leżaki i parasole na plaży są wliczone w cenę?",
+   "a": "Nie, leżaki i parasole na plaży są dodatkowo płatne."
+  }
+ ],
+ "address": "Obala 36, 21330 Gradac, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 45.1,
+ "airportName": "Mostar International Airport",
+ "amenities": [
+  "Parking",
+  "Ogród palmowy",
+  "Krzesełka dla dzieci w restauracji",
+  "Opieka nad dziećmi"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Centrum Gradaca, Riwiera Makarska",
+ "bars": 1,
+ "beachDistanceM": 0,
+ "beachType": "Żwirkowa",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Osoby szukające niedrogich, uroczych wakacji",
+  "Osoby lubiące pływanie, nurkowanie i wieczorne spacery",
+  "Osoby ceniące ciszę i spokój"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój standardowy z łazienką z WC, TV-sat, małą lodówką i klimatyzacją",
+  "Apartament z łazienką z WC, TV-sat, małą lodówką i klimatyzacją (większy niż pokój standardowy)"
+ ],
+ "rooms": 35,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 42.9255123,
+  "lon": 17.6124463,
+  "src": "osm"
+ },
+ "sources": [
+  "mapcarta.com",
+  "gradac.hr",
+  "mapy.com",
+  "google.com"
+ ],
+ "updated": "2026-11-28"
+}

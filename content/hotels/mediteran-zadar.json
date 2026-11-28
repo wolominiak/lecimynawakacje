@@ -1,0 +1,134 @@
+{
+ "id": 25352,
+ "slug": "mediteran-zadar",
+ "name": "Mediteran (Zadar)",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Północna",
+  "Zadar"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/mediteran-zadar-budynek-glowny-1114695649-570-428.jpg",
+ "city": "Zadar",
+ "intro": [
+  "Hotel Mediteran w Zadarze to trzygwiazdkowy obiekt położony w Dalmacji Północnej, oferujący komfortowy wypoczynek w spokojnej okolicy, jednocześnie blisko miejskich atrakcji. Jest to idealne miejsce zarówno dla par szukających romantycznego wyjazdu, jak i dla rodzin z dziećmi, a także dla osób aktywnych, zainteresowanych zwiedzaniem regionu czy sportami wodnymi.",
+  "Obiekt charakteryzuje się kameralną atmosferą dzięki niewielkiej liczbie pokoi i jest ceniony za czystość oraz pomocną obsługę. Hotel jest przyjazny dzieciom, oferując udogodnienia takie jak łóżeczka i krzesełka do karmienia. Bliskość publicznej plaży Borik oraz centrum Zadaru sprawia, że jest to dobra baza wypadowa do odkrywania uroków Chorwacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mediteran znajduje się w Zadarze, w spokojnej części miasta, jednocześnie zapewniając łatwy dostęp do sklepów, barów i restauracji. Publiczna, żwirowa plaża Borik oddalona jest o około 1 km od hotelu, a dojście do niej prowadzi przez miasto. Odległość od centrum Zadaru wynosi około 2.5 km, a od lotniska Zadar (ZAD) około 14-15 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 30 pokoi typu Standard, Comfort i Premium, wszystkie wyposażone w klimatyzację i bezpłatne Wi-Fi. Każdy pokój posiada balkon (część z widokiem na morze, ogród lub basen), prywatną łazienkę z prysznicem, suszarką do włosów i ręcznikami. Dodatkowo w pokojach znajduje się telewizor LCD, minibar (za opłatą w niektórych) i sejf (za opłatą w niektórych)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja z tarasem, serwująca dania kuchni dalmackiej i międzynarodowej, w tym dania a la carte. Codziennie rano goście mogą korzystać z bogatego śniadania w formie bufetu. Obiekt oferuje wyżywienie ze śniadaniem lub z dwoma posiłkami (śniadanie i obiadokolacja). Na terenie hotelu dostępny jest również bar w lobby."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden sezonowy basen zewnętrzny, który jest podgrzewany do temperatury 20-25 °C. Przy basenie dostępne są bezpłatne leżaki. Goście mogą korzystać z centrum fitness/siłowni oraz wypożyczalni rowerów (za opłatą). Hotel oferuje również stół bilardowy, a w okolicy dostępne są możliwości nurkowania i pływania łódką."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w całym obiekcie i we wszystkich pokojach. Dostępny jest bezpłatny parking. Dla rodzin z dziećmi hotel oferuje łóżeczka na życzenie oraz krzesełka do karmienia. Ręczniki kąpielowe są dostępne w pokojach."
+  }
+ ],
+ "pros": [
+  "Wysoka czystość obiektu",
+  "Pomocna i miła obsługa",
+  "Czysty i cichy basen z podgrzewaną wodą",
+  "Dobre śniadania w formie bufetu",
+  "Bezpłatny parking i Wi-Fi"
+ ],
+ "cons": [
+  "Plaża oddalona o około 1 km",
+  "Brak opcji all inclusive",
+  "Brak aquaparku i animacji",
+  "Brak informacji o roku otwarcia i ostatniego remontu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Publiczna, żwirowa plaża Borik oddalona jest o około 1 km od hotelu. Dojście do plaży prowadzi przez miasto."
+  },
+  {
+   "q": "Jaka jest odległość hotelu od lotniska?",
+   "a": "Hotel jest oddalony o około 14-15 km od lotniska w Zadarze (ZAD). Czas dojazdu wynosi około 17-20 minut."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, na terenie hotelu znajduje się jeden sezonowy basen zewnętrzny, który jest podgrzewany do temperatury 20-25 °C."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest określany jako \"child-friendly\" i oferuje łóżeczka na życzenie oraz krzesełka do karmienia dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i we wszystkich pokojach."
+  }
+ ],
+ "address": "Matije Gupca 19, 23000 Zadar",
+ "adultsOnly": false,
+ "airportKm": 14,
+ "airportName": "Zadar (ZAD)",
+ "amenities": [
+  "Parking",
+  "Wypożyczalnia rowerów",
+  "Stół bilardowy"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Dalmacja Północna",
+ "bars": 1,
+ "beachDistanceM": 1000,
+ "beachType": "żwirowa",
+ "centerKm": 2.5,
+ "goodFor": [
+  "Romantyczne wyjazdy",
+  "Aktywne zwiedzanie",
+  "Rodziny z dziećmi",
+  "Nurkowie",
+  "Miłośnicy łodzi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój Standard: klimatyzacja, balkon, łazienka z prysznicem, TV LCD, minibar (za opłatą w niektórych), sejf (za opłatą w niektórych), biurko, Wi-Fi.",
+  "Pokój Comfort: klimatyzacja, balkon, łazienka z prysznicem, TV LCD, minibar (za opłatą w niektórych), sejf (za opłatą w niektórych), biurko, Wi-Fi.",
+  "Pokój Premium (Standard PLUS): klimatyzacja, balkon, łazienka z prysznicem, TV LCD, minibar (za opłatą w niektórych), sejf (za opłatą w niektórych), biurko, Wi-Fi."
+ ],
+ "rooms": 30,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 44.1368575,
+  "lon": 15.2212708,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "travelpunkt.pl",
+  "trip.com",
+  "kayak.pl",
+  "trivago.hr",
+  "meetings-conventions.com",
+  "mediteran.hr",
+  "fly.pl"
+ ],
+ "updated": "2026-11-28"
+}
