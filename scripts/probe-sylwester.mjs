@@ -8,31 +8,28 @@ async function q(extra) {
     const r = await fetch(API, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ terms: { ...base, ...extra } }) });
     const j = await r.json();
     const d = Array.isArray(j.data) ? j.data : [];
-    const months = {}; d.forEach((o) => { const k = o.departureDate.slice(0, 7); months[k] = (months[k] || 0) + 1; });
-    return { n: d.length, span: d.filter(span).length, months, err: j.error || j.message || null };
+    const months = {}; const ex = d.filter(span).slice(0,2).map((o)=>[o.name,o.departureDate,o.returnDate,o.price]); d.forEach((o) => { const k = o.departureDate.slice(0, 7); months[k] = (months[k] || 0) + 1; });
+    return { n: d.length, span: d.filter(span).length, months, err: j.error || j.message || null, ex };
   } catch (e) { return { err: String(e) }; }
 }
 const out = {};
 const variants = {
   plain: {},
-  dateFrom: { dateFrom: '2026-12-27', dateTo: '2027-01-02' },
-  departureDateFrom: { departureDateFrom: '2026-12-27', departureDateTo: '2026-12-31' },
-  date_from: { date_from: '2026-12-27', date_to: '2027-01-02' },
-  departureDate: { departureDate: ['2026-12-27', '2026-12-31'] },
-  dates: { dates: { from: '2026-12-27', to: '2027-01-02' } },
-  departureFrom: { departureFrom: '2026-12-27', departureTo: '2026-12-31' },
-  from: { from: '2026-12-27', to: '2027-01-02' },
-  dateRange: { dateRange: ['2026-12-27', '2027-01-02'] },
-  termFrom: { termFrom: '2026-12-27', termTo: '2027-01-02' },
-  departureDateRange: { departureDate: { from: '2026-12-27', to: '2026-12-31' } },
-  lastminute: { searchType: 'lastminute' },
+  st_sylwester: { searchType: 'sylwester' },
+  st_newyear: { searchType: 'newyear' },
+  st_firstminute: { searchType: 'firstminute' },
+  st_holiday: { searchType: 'holiday' },
+  tag: { tags: ['sylwester'] },
+  attributes: { attributes: ['sylwester'] },
+  occasion: { occasion: 'sylwester' },
+  theme: { theme: 'sylwester' },
+  category: { category: 'sylwester' },
+  query: { query: 'sylwester' },
+  minPrice: { minPrice: 3500 },
+  sort: { sort: 'date' },
+  order: { orderBy: 'departureDate' },
+  egSyl: { searchType: 'sylwester', countries: [JSON.parse(fs.readFileSync('data/wakacje-ids.json','utf8')).countries.egipt] },
 };
 for (const [k, v] of Object.entries(variants)) out[k] = await q(v);
-// pokrycie per kraj bez filtra dat (id krajów jak na stronie)
-const all = JSON.parse(fs.readFileSync('data/wakacje-ids.json', 'utf8')).countries;
-const pick = ['egipt','turcja','hiszpania','zjednoczone-emiraty-arabskie','tajlandia','tanzania','dominikana','meksyk','malediwy','sri-lanka','wyspy-zielonego-przyladka','oman','portugalia','grecja','cypr','tunezja','maroko','kenia','wietnam','jordania','wlochy','francja','austria','czechy','malta'];
-const countries = Object.fromEntries(pick.filter((k) => all[k]).map((k) => [k, all[k]]));
-out.perCountry = {};
-for (const [slug, id] of Object.entries(countries)) out.perCountry[slug] = (await q({ countries: [id] }));
 fs.writeFileSync('data/probe-sylwester.json', JSON.stringify(out, null, 1));
 console.log(JSON.stringify(out, null, 1).slice(0, 4000));
