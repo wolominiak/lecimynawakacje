@@ -1,0 +1,146 @@
+{
+ "id": 261080,
+ "slug": "petram-resort-residence",
+ "name": "Petram Resort & Residence",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Istria",
+  "Savudrija"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/petram-resort-residence-teren-hotelu-basen-1764933020-570-428.jpg",
+ "city": "Savudrija",
+ "intro": [
+  "Petram Resort & Residence to nowoczesny, czterogwiazdkowy obiekt położony w chorwackiej Istrii, w malowniczej miejscowości Savudrija. Resort rozciąga się na powierzchni 9 hektarów, oferując zakwaterowanie w apartamentach i luksusowych willach, z widokiem na Zatokę Pirańską.",
+  "Ten elegancki kompleks jest idealnym miejscem dla rodzin z dziećmi, par oraz osób aktywnych, które cenią sobie wysoki standard, komfort i niezależność. To także doskonały wybór dla tych, którzy szukają relaksu w spokojnej atmosferze, z dostępem do bogatej infrastruktury rekreacyjnej."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w dzielnicy Crveni Vrh na półwyspie Savudrija, około 1 km od centrum Savudriji i 9 km od Umagu. Plaża żwirowo-kamienista z platformami oddalona jest o około 200 metrów od obiektu. Resort dysponuje prywatną strefą plaży, a leżaki, parasole i ręczniki są dostępne bezpłatnie."
+  },
+  {
+   "title": "Pokoje i wille",
+   "text": "Kompleks składa się ze 179 apartamentów i 55 luksusowych willi. Wszystkie zakwaterowania są klimatyzowane i wyposażone w prywatną łazienkę, w pełni wyposażony aneks kuchenny, sejf, Smart TV oraz Wi-Fi. Większość pokoi posiada balkon lub taras, a niektóre oferują widok na morze lub ogród."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie resortu dostępne są trzy baseny: zewnętrzny, kryty podgrzewany oraz imponujący 105-metrowy basen infinity na dachu aparthotelu. Goście mogą korzystać z dobrze wyposażonej siłowni, dwóch kortów tenisowych (płatnych) oraz wypożyczalni rowerów (płatnej)."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W resorcie znajdują się trzy restauracje: rodzinna z kuchnią włoską, śródziemnomorską i lokalną, restauracja na dachu z kuchnią międzynarodową oraz Trattoria 35 z pizzą i makaronami (czynna sezonowo). Dostępne są również bary, w tym Torii Snack Bar przy basenie. Hotel oferuje wyżywienie w opcjach bez wyżywienia, ze śniadaniami lub z obiadokolacjami."
+  },
+  {
+   "title": "Spa i Wellness",
+   "text": "Centrum spa i wellness oferuje sauny (fińską, ekstremalną fińską, saunarium), łaźnie (parową, aromatyczną), whirlpool/jacuzzi oraz pokój relaksacyjny. Goście mają bezpłatny, dwugodzinny dostęp dziennie do strefy wellness. Dostępne są również gabinety masażu i zabiegów."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom z dziećmi, oferując plac zabaw, pokój zabaw oraz mini klub. Dla najmłodszych organizowane są liczne animacje. Resort nie jest obiektem tylko dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Nowoczesny i czysty obiekt o wysokim standardzie",
+  "Imponujący basen infinity na dachu z widokiem",
+  "Bogate centrum spa i dobrze wyposażona siłownia",
+  "Smaczne jedzenie i różnorodne restauracje",
+  "Przyjazny rodzinom z dziećmi, z mini klubem i animacjami"
+ ],
+ "cons": [
+  "Brak oferty all inclusive",
+  "Niektórzy goście wskazują na wysokie ceny poza promocjami",
+  "Baseny zewnętrzne nie są podgrzewane"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Plaża znajduje się około 200 metrów od kompleksu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "W hotelu nie ma aquaparku ani zjeżdżalni, ale są trzy baseny, w tym basen infinity na dachu."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Portorož (Słowenia), oddalone o około 15-17 km. Lotnisko w Puli (Chorwacja) znajduje się około 90-92 km dalej."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini klub, plac zabaw, pokój zabaw i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest przyjazny rodzinom z dziećmi."
+  }
+ ],
+ "address": "Vila Cijani 35, 52475 Savudrija, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Portorož (Słowenia)",
+ "amenities": [
+  "prywatna plaża",
+  "spa",
+  "siłownia",
+  "wifi",
+  "mini klub dla dzieci",
+  "plac zabaw",
+  "pokój zabaw",
+  "korty tenisowe (płatne)",
+  "wypożyczalnia rowerów (płatna)",
+  "aneks kuchenny w pokojach"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Crveni Vrh, półwysep Savudrija",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "żwirowa lub kamienista z platformami",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby aktywne",
+  "szukający relaksu",
+  "ceniący wysoki standard",
+  "ceniący niezależność"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 3,
+ "roomTypes": [
+  "Studio Deluxe (ok. 32-34 m², klimatyzacja, łazienka, aneks kuchenny, sejf, Smart TV, Wi-Fi, biurko, jadalnia, balkon/taras)",
+  "Deluxe Apartment (ok. 60-67 m², klimatyzacja, łazienka, aneks kuchenny, sejf, Smart TV, Wi-Fi, biurko, jadalnia, balkon/taras)",
+  "Premium Family Apartment (ok. 90-103 m², klimatyzacja, łazienka, aneks kuchenny, sejf, Smart TV, Wi-Fi, biurko, jadalnia, balkon/taras)",
+  "Exclusive Apartment (122 m², klimatyzacja, łazienka, aneks kuchenny, sejf, Smart TV, Wi-Fi, biurko, jadalnia, balkon/taras)"
+ ],
+ "rooms": 179,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 45.4988419,
+  "lon": 13.5191869,
+  "src": "web"
+ },
+ "sources": [
+  "wakacje.pl",
+  "travelplanet.pl",
+  "planetofhotels.com",
+  "mapy.com",
+  "olympic.rs",
+  "atlantis-travel.hr",
+  "petramresort.com",
+  "seemice.com"
+ ],
+ "updated": "2026-11-28"
+}

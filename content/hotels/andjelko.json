@@ -1,0 +1,126 @@
+{
+ "id": 66944,
+ "slug": "andjelko",
+ "name": "Andjelko",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Północna",
+  "Zadar"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/andjelko-pokoj-1750086400-570-428.jpg",
+ "city": "Zadar",
+ "intro": [
+  "Apartamenty Andjelko to 3-gwiazdkowy obiekt położony w spokojnej dzielnicy Diklo w Zadarze, w otoczeniu zieleni. Jest to idealne miejsce dla osób szukających relaksu z dala od zgiełku miasta, oferujące komfortowe warunki do samodzielnego przygotowywania posiłków.",
+  "Obiekt jest szczególnie polecany dla rodzin oraz wszystkich ceniących sobie niezależność i bliskość plaży. Dzięki w pełni wyposażonym apartamentom i bezpłatnemu parkingowi, Andjelko stanowi dobrą bazę wypadową do zwiedzania Zadaru i okolic."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Apartamenty Andjelko znajdują się w dzielnicy Diklo w Zadarze, około 150-200 metrów od plaży Diklovac, do której można dojść w zaledwie 2 minuty. W pobliżu dostępne są również inne plaże, takie jak Borik (z piaszczystym wejściem do wody), Puntamika i Narrow Beach. Wszystkie plaże w Zadarze są publiczne i bezpłatne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt oferuje klimatyzowane apartamenty, w tym jedno- i dwupokojowe. Każdy apartament wyposażony jest w pełni funkcjonalną kuchnię z piekarnikiem, płytą grzewczą, ekspresem do kawy i lodówką. Do dyspozycji gości jest także prywatna łazienka, telewizor oraz przestronny balkon z widokiem na morze, wzgórza lub ogród. Pościel, ręczniki i kosmetyki są zapewnione bezpłatnie."
+  },
+  {
+   "title": "Gastronomia",
+   "text": "Apartamenty Andjelko nie posiadają własnych restauracji ani barów. Goście mogą samodzielnie przygotowywać posiłki w w pełni wyposażonych kuchniach dostępnych w każdym apartamencie. Na terenie obiektu dostępne są również udogodnienia do grillowania."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Na terenie obiektu dostępny jest bezpłatny parking oraz bezpłatne Wi-Fi. Obiekt nie oferuje basenów, aquaparku ani animacji. Istnieje możliwość wypożyczenia rowerów, a w okolicy znajdują się korty tenisowe. Dostępne jest łóżeczko dla dziecka, co czyni obiekt odpowiednim dla rodzin."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży Diklovac (150-200 m)",
+  "W pełni wyposażone kuchnie w apartamentach",
+  "Balkony z widokiem na morze, wzgórza lub ogród",
+  "Bezpłatny parking i Wi-Fi",
+  "Spokojna lokalizacja, z dala od tłumów"
+ ],
+ "cons": [
+  "Brak restauracji i barów na terenie obiektu",
+  "Brak całodobowej recepcji",
+  "Brak basenu i animacji",
+  "Ogrzewanie i klimatyzacja mogą być dodatkowo płatne",
+  "Brak leżaków i ręczników plażowych od obiektu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Plaża Diklovac znajduje się około 150-200 metrów od obiektu, co oznacza 2 minuty spacerem."
+  },
+  {
+   "q": "Czy na terenie obiektu jest basen lub aquapark?",
+   "a": "Nie, obiekt Apartamenty Andjelko nie posiada basenów, zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy obiekt jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, obiekt jest odpowiedni dla rodzin i oferuje łóżeczko dla dziecka. Jest polecany na spokojny wypoczynek."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Najbliższe lotnisko w Zadarze (ZAD) znajduje się około 15,5 km od obiektu."
+  },
+  {
+   "q": "Czy w apartamentach jest dostęp do internetu?",
+   "a": "Tak, na terenie całego obiektu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy obiekt posiada własną restaurację lub bar?",
+   "a": "Nie, na terenie obiektu nie ma restauracji ani barów. Apartamenty wyposażone są w kuchnie do samodzielnego przygotowywania posiłków."
+  }
+ ],
+ "address": "Poljana D. Domjanica 11, 23000 Zadar, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 15.5,
+ "airportName": "Zadar (ZAD)",
+ "amenities": [
+  "Wypożyczalnia rowerów",
+  "Udogodnienia do grillowania",
+  "Bezpłatny parking"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Diklo",
+ "bars": null,
+ "beachDistanceM": 150,
+ "beachType": "żwirowa z betonowymi płytami (Diklovac), piaszczyste wejście do wody (Borik)",
+ "centerKm": 3.4,
+ "goodFor": [
+  "Rodziny",
+  "Spokojny wypoczynek"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": null,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament (jedno- lub dwupokojowy) z w pełni wyposażoną kuchnią (piekarnik, płyta grzewcza, ekspres do kawy, lodówka), klimatyzacją, prywatną łazienką, balkonem z widokiem, telewizorem, pościelą, ręcznikami i kosmetykami."
+ ],
+ "rooms": 4,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 43.271956,
+  "lon": 17.054248,
+  "src": "osm"
+ },
+ "sources": [
+  "skytravel.jp",
+  "vrbo.com",
+  "trip.com",
+  "agoda.com",
+  "fibula-ks.com",
+  "skyscanner.gg",
+  "admiral.travel",
+  "skyscanner.co.in"
+ ],
+ "updated": "2026-11-28"
+}

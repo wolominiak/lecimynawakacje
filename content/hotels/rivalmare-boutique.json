@@ -1,0 +1,134 @@
+{
+ "id": 45128,
+ "slug": "rivalmare-boutique",
+ "name": "Rivalmare Boutique",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Istria",
+  "Novigrad"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/rivalmare-boutique-plaza-1810462759-570-428.jpg",
+ "city": "Novigrad",
+ "intro": [
+  "Rivalmare Boutique Hotel to kameralny, czterogwiazdkowy obiekt położony bezpośrednio przy promenadzie Rivarela w malowniczym Novigradzie na Istrii w Chorwacji. Otwarty w 2015 roku, hotel oferuje zaledwie 13 pokoi, co gwarantuje intymną i spokojną atmosferę.",
+  "Obiekt jest idealnym wyborem dla par szukających romantycznego wypoczynku, osób ceniących relaks oraz miłośników butikowych hoteli. Bliskość morza i centrum miasta, w połączeniu z nowoczesnym designem i przyjazną obsługą, sprawia, że jest to doskonałe miejsce na kameralne wakacje. Hotel akceptuje również zwierzęta domowe."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Rivalmare Boutique szczyci się doskonałą lokalizacją bezpośrednio przy morzu, zaledwie 10 metrów od brzegu. Goście mają do dyspozycji prywatną plażę z bezpłatnymi leżakami i parasolami. Centrum Novigradu znajduje się w odległości około 375 metrów, co umożliwia łatwy dostęp do lokalnych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 13 pokoi, w tym 12 dwuosobowych i 1 apartament, rozmieszczonych w głównym budynku i aneksie oddalonym o około 200 metrów. Pokoje są klimatyzowane i dźwiękoszczelne, wyposażone w telewizor z płaskim ekranem, minibar, sejf oraz bezpłatne kosmetyki. Dostępne są różne typy pokoi, od Economy Double Room po luksusowe Grand Luxury Suite z prywatnym jacuzzi i sauną."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja Libeccio, która serwuje dania kuchni śródziemnomorskiej, oferując jednocześnie taras z widokiem na morze. Goście mogą korzystać z bezpłatnego śniadania w formie bufetu. Dodatkowo, dostępny jest bar/lounge z tarasem, idealny na wieczorny relaks."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel Rivalmare Boutique zapewnia bezpłatne Wi-Fi we wszystkich pokojach i na terenie całego obiektu. Chociaż brak tu basenów czy aquaparku, hotel oferuje wypożyczalnię rowerów, a okolica jest popularna wśród miłośników jazdy na dwóch kółkach. Luksusowe suity wyposażone są w prywatne jacuzzi i saunę."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja tuż przy morzu i blisko centrum",
+  "Wyjątkowo przyjazny i pomocny personel",
+  "Wysoki poziom czystości",
+  "Śniadanie z widokiem na morze",
+  "Nowoczesny design i komfortowe pokoje"
+ ],
+ "cons": [
+  "Brak ogólnodostępnego basenu",
+  "Standardowe pokoje dwuosobowe nie posiadają balkonu",
+  "Pokoje w aneksie są oddalone od głównego budynku",
+  "Ograniczona przestrzeń do przechowywania w niektórych pokojach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy morzu, zaledwie 10 metrów od brzegu i posiada własną plażę."
+  },
+  {
+   "q": "Jakie lotniska znajdują się najbliżej hotelu?",
+   "a": "Najbliższe lotniska to Portorož (około 18.1 km), Pula (około 69 km) i Triest (około 92 km)."
+  },
+  {
+   "q": "Czy hotel Rivalmare Boutique jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom w każdym wieku."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny basen lub aquapark?",
+   "a": "Nie, w hotelu nie ma ogólnodostępnych basenów ani aquaparku. Niektóre luksusowe suity posiadają prywatne jacuzzi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu."
+  },
+  {
+   "q": "Czy hotel akceptuje zwierzęta domowe?",
+   "a": "Tak, hotel akceptuje psy i koty do 10 kg za dodatkową opłatą."
+  }
+ ],
+ "address": "Rivarela ul. 19, 52466 Novigrad, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 18.1,
+ "airportName": "Portorož",
+ "amenities": [
+  "wypożyczalnia rowerów",
+  "przechowywalnia bagażu",
+  "usługi pralnicze",
+  "sejf",
+  "minibar"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Istria",
+ "bars": 1,
+ "beachDistanceM": 10,
+ "beachType": "",
+ "centerKm": 0.375,
+ "goodFor": [
+  "pary",
+  "relaks",
+  "romantyczne wypady",
+  "miłośnicy jazdy na rowerze"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 2015,
+ "pools": null,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Economy Double Room (widok na miasto/ulicę)",
+  "Superior Double Room (z balkonem, widok na park/miasto/las)",
+  "Deluxe Double Room (z balkonem i widokiem na morze)",
+  "Premium Double Room (w nowym budynku, z balkonem i widokiem na morze)",
+  "Junior Suite (penthouse, z widokiem na morze, tarasem)",
+  "Grand Luxury Suite (penthouse, z tarasem, jacuzzi, sauną, widokiem na morze)"
+ ],
+ "rooms": 13,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 45.3151,
+  "lon": 13.5595,
+  "src": "web"
+ },
+ "sources": [
+  "rivalmare.hr",
+  "trivago.co.uk",
+  "istra.hr",
+  "northistria.com",
+  "planetofhotels.com",
+  "travelistica.ae",
+  "kayak.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-28"
+}

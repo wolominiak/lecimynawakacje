@@ -1,0 +1,135 @@
+{
+ "id": 32211,
+ "slug": "plaza-duce",
+ "name": "Plaza (Duce)",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Środkowa",
+  "Omis"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001472048-570-428.jpg",
+ "city": "Omiš",
+ "intro": [
+  "Hotel Plaza (Duce) to nowoczesny, czterogwiazdkowy obiekt położony w miejscowości Duće, będącej częścią Omiša w Dalmacji Środkowej. Zbudowany tarasowo, oferuje panoramiczne widoki na Adriatyk i wyspę Brač, co czyni go atrakcyjnym miejscem dla osób ceniących piękne krajobrazy.",
+  "Hotel jest rekomendowany dla rodzin, par oraz grup szukających zarówno relaksu, jak i aktywnego wypoczynku. Dzięki bliskości plaży, centrum spa oraz możliwościom uprawiania sportów wodnych i aktywności w okolicy, Plaza (Duce) stanowi dobrą bazę do odkrywania uroków Chorwacji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Plaza (Duce) znajduje się w miejscowości Duće, około 3 km od centrum Omiša. Obiekt jest położony zaledwie 50 metrów od publicznej, piaszczystej plaży, do której dojście zajmuje około 5 minut. Na plaży dostępne są leżaki i parasole za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 103 nowocześnie urządzonymi pokojami typu Superior, Premium, Deluxe oraz Suites. Wszystkie pokoje oferują widok na morze oraz balkon. Standardowe wyposażenie obejmuje klimatyzację, minibar, telewizor Smart TV, bezpłatne Wi-Fi, łazienkę z wanną i oddzielnym prysznicem, suszarkę do włosów, szlafroki, kapcie, sejf oraz zestaw do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: odkryty ze słodką wodą (110 m²), czynny sezonowo od kwietnia do października, oraz kryty basen (60 m²). Przy basenach dostępne są bezpłatne leżaki i parasole. Dla dzieci wydzielono brodziki przy obu basenach. Hotel oferuje także centrum spa z saunami i jacuzzi oraz siłownię. W okolicy dostępne są płatne sporty wodne i inne aktywności."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Plaza (Duce) oferuje wyżywienie w opcjach Bed&Breakfast (BB), HalfBoard (HB) oraz FullBoard (FB). Śniadania serwowane są w formie bufetu w głównej restauracji \"Plaža\". Dodatkowo, na terenie obiektu znajduje się restauracja a'la carte \"Sunset\" z kuchnią śródziemnomorską oraz dwa bary: przy basenie i na plaży."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Obiekt zapewnia bezpłatne Wi-Fi na terenie całego hotelu i w pokojach. Goście mogą korzystać z centrum spa \"Wellness & Spa Bai Bien\" oferującego sauny, łaźnię turecką i jacuzzi, a także z siłowni. Hotel dysponuje wypożyczalnią rowerów. Jest to obiekt rodzinny, nieprzeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży z pięknymi widokami.",
+  "Nowoczesny, czysty i zadbany obiekt.",
+  "Bardzo pomocny personel i dobra obsługa.",
+  "Dobre i różnorodne śniadania w formie bufetu.",
+  "Pokoje z widokiem na morze i balkonem."
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na plaży.",
+  "Wiele schodów na terenie hotelu ze względu na tarasowe położenie.",
+  "Bliskość kempingu i drogi w okolicy plaży.",
+  "Brak informacji o animacjach hotelowych i mini klubie dla dzieci."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 50 metrów od piaszczystej plaży, co zajmuje około 5 minut spacerem."
+  },
+  {
+   "q": "Czy na plaży są dostępne leżaki i parasole?",
+   "a": "Tak, leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Split (SPU), oddalone o około 35-45 km, czyli około 45 minut jazdy."
+  },
+  {
+   "q": "Czy hotel posiada baseny?",
+   "a": "Tak, hotel oferuje odkryty basen ze słodką wodą oraz kryty basen. Przy basenach dostępne są bezpłatne leżaki i parasole."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest obiektem rodzinnym. Posiada brodziki dla dzieci przy basenach. Brak informacji o mini klubie czy animacjach."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu i w pokojach dostępne jest bezpłatne Wi-Fi."
+  }
+ ],
+ "address": "Poljička cesta 79, Luka III, Duće, 21315 Omiš, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Lotnisko Split (SPU)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wypożyczalnia rowerów",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Duće, Dalmacja Środkowa",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "grupy",
+  "aktywny wypoczynek"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2017,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Superior (widok na morze, balkon, klimatyzacja, minibar, TV, Wi-Fi, łazienka z wanną i prysznicem, suszarka, szlafroki, kapcie, sejf, żelazko, zestaw do kawy/herbaty, porty USB)",
+  "Premium (widok na morze, balkon, klimatyzacja, minibar, TV, Wi-Fi, łazienka z wanną i prysznicem, suszarka, szlafroki, kapcie, sejf, żelazko, zestaw do kawy/herbaty, porty USB)",
+  "Deluxe (widok na morze, balkon, klimatyzacja, minibar, TV, Wi-Fi, łazienka z wanną i prysznicem, suszarka, szlafroki, kapcie, sejf, żelazko, zestaw do kawy/herbaty, porty USB)",
+  "Suites (widok na morze, balkon, klimatyzacja, minibar, TV, Wi-Fi, łazienka z wanną i prysznicem, suszarka, szlafroki, kapcie, sejf, żelazko, zestaw do kawy/herbaty, porty USB)"
+ ],
+ "rooms": 103,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 50.114617,
+  "lon": 8.6502909,
+  "src": "osm"
+ },
+ "sources": [
+  "hotels-split-dalmatia.com",
+  "hrs.com",
+  "wego.qa",
+  "youtube.com",
+  "agoda.com",
+  "booking.com",
+  "tui.co.uk",
+  "hotelplaza.hr"
+ ],
+ "updated": "2026-11-28"
+}

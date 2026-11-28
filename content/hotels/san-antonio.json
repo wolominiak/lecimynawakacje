@@ -1,0 +1,147 @@
+{
+ "id": 41825,
+ "slug": "san-antonio",
+ "name": "San Antonio",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Podstrana"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/san-antonio-plaza-obiekt-1720761697-570-428.jpg",
+ "city": "Podstrana",
+ "intro": [
+  "Hotel San Antonio to czterogwiazdkowy obiekt położony w malowniczej Podstranie, bezpośrednio przy żwirowej plaży. Składa się z kilku budynków, w tym głównego oraz pawilonów Gala i Jona, oferując komfortowe zakwaterowanie z widokiem na Adriatyk.",
+  "Obiekt jest idealnym miejscem zarówno dla rodzin z dziećmi, par szukających relaksu, jak i osób podróżujących służbowo. Zapewnia spokojną atmosferę, jednocześnie oferując dostęp do udogodnień takich jak baseny, spa i siłownia."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel San Antonio znajduje się bezpośrednio przy plaży w Podstranie, około 0.7-0.9 km od centrum miejscowości. Plaża jest prywatna, żwirowa z betonową platformą i zejściem do wody po drabinkach. Leżaki na plaży są bezpłatne, natomiast ręczniki dostępne za opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym Deluxe z balkonem i widokiem na morze, apartamenty Comfort oraz pokoje w aneksie. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z płaskim ekranem, łazienkę, suszarkę do włosów, minibar, sejf oraz bezpłatne Wi-Fi. Niektóre pokoje posiadają jacuzzi, szlafroki i ogrzewanie podłogowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja a la carte na parterze głównego budynku, z tarasem i widokiem na morze, serwująca dania kuchni lokalnej i międzynarodowej. Goście mogą korzystać z bogatych śniadań w formie bufetu. Do dyspozycji są również bar oraz bar na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym basenem na najwyższym piętrze z widokiem na morze oraz krytym basenem ze słodką wodą, czynnym od maja do września. Na terenie obiektu znajduje się centrum spa z sauną i bezpłatną salą fitness. Dostępny jest również bezpłatny bilard. W pobliżu hotelu można skorzystać z pól golfowych oraz zorganizować wycieczki z raftingiem, canyoningiem i jazdą konną."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel San Antonio jest polecany dla rodzin z dziećmi, par szukających relaksu i romantycznego wypoczynku, osób pragnących spokoju oraz podróżujących służbowo. Oferuje udogodnienia dla różnych grup gości, zapewniając komfortowy pobyt w malowniczej okolicy."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja bezpośrednio przy plaży",
+  "Czysta, prywatna plaża z bezpłatnymi leżakami",
+  "Dobre i urozmaicone śniadania w formie bufetu",
+  "Piękne widoki na morze z pokoi i basenu na dachu",
+  "Miła i pomocna obsługa",
+  "Cisza i spokój",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Śniadania bywają monotonne",
+  "Problemy z jacuzzi w pokojach",
+  "Niektóre pokoje w aneksie mogą nie mieć widoku na morze i być bliżej drogi",
+  "Ograniczone i drogie opcje gastronomiczne w najbliższej okolicy",
+  "Możliwy hałas (muzyka) w niektórych porach",
+  "Brak bezpośredniego połączenia autobusowego z lotniska"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel San Antonio jest położony bezpośrednio przy plaży (pierwsza linia brzegowa), niektóre źródła podają odległość 40-50 metrów."
+  },
+  {
+   "q": "Czy plaża jest prywatna i czy są dostępne leżaki?",
+   "a": "Tak, hotel dysponuje prywatną plażą, a leżaki na plaży są bezpłatne. Ręczniki są dostępne za opłatą."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska w Splicie?",
+   "a": "Odległość od Lotniska Split (SPU) wynosi około 26-34 km (drogowo 26.2 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Posiada baseny, a aquapark jest wymieniony jako dostępna aktywność."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym obiekcie dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje śniadania (BB). Brak informacji o ofercie all inclusive."
+  }
+ ],
+ "address": "Grljevačka 30, 21312 Podstrana",
+ "adultsOnly": false,
+ "airportKm": 26.2,
+ "airportName": "Lotnisko Split (SPU)",
+ "amenities": [
+  "restauracja a la carte",
+  "bar",
+  "bar na plaży",
+  "centrum spa",
+  "sauna",
+  "sala fitness",
+  "bilard",
+  "pola golfowe w pobliżu",
+  "wycieczki (rafting, canyoning, jazda konna)"
+ ],
+ "animations": null,
+ "aquapark": true,
+ "area": "Dalmacja Południowa",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "żwirowa z betonową platformą",
+ "centerKm": 0.7,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary szukające relaksu",
+  "osoby pragnące spokoju",
+  "podróżujący służbowo"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 2006,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 2010,
+ "restaurants": 1,
+ "roomTypes": [
+  "Deluxe z balkonem i widokiem na morze (32 m²)",
+  "Deluxe dla czterech osób z balkonem i widokiem na morze (32 m²)",
+  "Apartamenty Comfort z balkonem i widokiem na morze (45 m²)",
+  "Deluxe Double Room with Sea View and Jacuzzi",
+  "Classic Double Room - Annex",
+  "Standard Double Room - Annex",
+  "Comfort Suite"
+ ],
+ "rooms": null,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 43.4886779,
+  "lon": 16.5429939,
+  "src": "osm"
+ },
+ "sources": [
+  "hotel-sanantonio.com",
+  "wakacje.pl",
+  "visitpodstrana.hr",
+  "onthebeach.co.uk",
+  "hotel.info",
+  "booking.com",
+  "hoteliusporedba.com",
+  "pojedzznami.pl"
+ ],
+ "updated": "2026-11-28"
+}

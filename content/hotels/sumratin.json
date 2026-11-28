@@ -1,0 +1,134 @@
+{
+ "id": 260660,
+ "slug": "sumratin",
+ "name": "Sumratin",
+ "country": "chorwacja",
+ "place": [
+  "Chorwacja",
+  "Dalmacja Południowa",
+  "Dubrovnik"
+ ],
+ "stars": 5,
+ "photo": "/no-index/zdjecie/id/20001696225-570-428.jpg",
+ "city": "Dubrownik",
+ "intro": [
+  "Hotel Sumratin to pięciogwiazdkowy obiekt położony w malowniczej dzielnicy Lapad w Dubrowniku, tuż przy promenadzie i w pobliżu Zatoki Lapad. Jest to luksusowy hotel o nowoczesnym designie, oferujący wysoki standard usług i udogodnień.",
+  "Obiekt jest idealnym wyborem dla osób poszukujących relaksu w stylowym otoczeniu, zarówno dla par, jak i rodzin. Dzięki dogodnej lokalizacji stanowi doskonałą bazę wypadową do zwiedzania Starego Miasta Dubrownika, a także do organizacji spotkań i konferencji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Sumratin znajduje się w dzielnicy Lapad, wzdłuż promenady, zaledwie 300-500 metrów od piaszczysto-żwirowej plaży Uvala Lapad Beach. Z hotelu jest łatwy dostęp do plaży, a także do licznych restauracji i kawiarni w okolicy. Do Starego Miasta Dubrownika jest około 3-4 km, co zajmuje około 15 minut taksówką."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 216-217 nowocześnie urządzonych pokoi, w tym pokoje standardowe, superior, deluxe, premium oraz apartamenty Junior i Owner Suite. Większość pokoi posiada balkon, a wszystkie wyposażone są w klimatyzację, Smart TV z Netflixem, minibar, zestaw do kawy/herbaty, sejf oraz luksusową łazienkę z prysznicem deszczowym."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Sumratin znajdują się od dwóch do czterech restauracji, serwujących dania kuchni chorwackiej, europejskiej i międzynarodowej, z opcjami wegetariańskimi i bezglutenowymi. Śniadania podawane są w formie bufetu. Do dyspozycji gości są również dwa bary/lounge oraz bar przy basenie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje sezonowym basenem zewnętrznym na dachu, który jest podgrzewany i oferuje panoramiczne widoki na Adriatyk. Goście mogą korzystać z kompleksowego centrum spa i wellness, wyposażonego w saunę, solankę oraz gabinety masażu i zabiegów. Dostępna jest również nowoczesna siłownia, a obok hotelu znajduje się kort tenisowy. Hotel oferuje rozrywkę na żywo."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w dzielnicy Lapad, blisko promenady i plaży",
+  "Nowoczesny design i luksusowe udogodnienia",
+  "Basen na dachu z panoramicznym widokiem",
+  "Kompleksowe centrum spa i fitness",
+  "Wysoka jakość obsługi i przyjazny personel"
+ ],
+ "cons": [
+  "Konieczność rezerwacji leżaków przy basenie na dachu",
+  "Ograniczone godziny obsługi pokoju"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 300-500 metrów od piaszczysto-żwirowej plaży Uvala Lapad Beach."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Dubrownik (DBV), oddalone o około 21-25 km od hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje basen?",
+   "a": "Tak, hotel posiada sezonowy, podgrzewany basen zewnętrzny na dachu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Hotel jest polecany również dla rodzin, choć brak informacji o mini klubie czy specjalnej strefie dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne, szybkie WiFi (ponad 500 Mbps)."
+  }
+ ],
+ "address": "Ul. Mata Vodopića 1a, 20000, Dubrownik, Chorwacja",
+ "adultsOnly": null,
+ "airportKm": 21,
+ "airportName": "Lotnisko Dubrownik (DBV)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Rozrywka na żywo",
+  "Bezpłatne WiFi"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Lapad",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "Piaszczysto-żwirowa",
+ "centerKm": 3,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Osoby ceniące styl i relaks",
+  "Spotkania i konferencje"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": 2026,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Double Room (z balkonem lub bez, przystosowane dla osób niepełnosprawnych)",
+  "Superior Double Room",
+  "Superior Family Room",
+  "Deluxe Room (widok na park lub częściowy widok na morze)",
+  "Premium Room (widok na morze)",
+  "Junior Suite",
+  "Owner Suite (widok na morze)",
+  "Interconnecting Room (pokoje łączone)"
+ ],
+ "rooms": 216,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 42.6559092,
+  "lon": 18.0740774,
+  "src": "osm"
+ },
+ "sources": [
+  "britishairways.com",
+  "booking.com",
+  "tui.co.uk",
+  "thedubrovnikhotels.net",
+  "hotelsdubrovnik.net",
+  "hotels-hr.com",
+  "trivago.co.uk",
+  "hotel-sumratin.com"
+ ],
+ "updated": "2026-11-28"
+}
