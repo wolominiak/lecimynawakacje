@@ -1,0 +1,146 @@
+{
+ "id": "x:hiszpania:samba",
+ "slug": "samba",
+ "name": "Samba",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Lloret de Mar"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/lloret-de-mar/samba/5342/0f_imageconverter__1_-244.jpg",
+ "city": "Lloret de Mar",
+ "intro": [
+  "Hotel Samba to obiekt o standardzie trzech gwiazdek, położony w popularnej miejscowości Lloret de Mar na wybrzeżu Costa Brava. Znajduje się w dzielnicy Fenals, w niewielkiej odległości od dwóch piaszczystych plaż. Jest to idealna propozycja dla rodzin z dziećmi, par oraz grup szukających aktywnego wypoczynku w Hiszpanii.",
+  "Obiekt oferuje szeroki wachlarz udogodnień, w tym basen, animacje i różnorodne opcje zakwaterowania, od pokoi standardowych po apartamenty rodzinne. Jego lokalizacja umożliwia łatwy dostęp zarówno do spokojniejszej plaży Fenals, jak i do tętniącego życiem centrum Lloret de Mar."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Samba usytuowany jest w Lloret de Mar, w dzielnicy Fenals, około 300-500 metrów od piaszczystej plaży Fenals, wyróżnionej Błękitną Flagą. Do głównej plaży Lloret de Mar jest około 500-800 metrów. Obie plaże są publiczne, a leżaki i parasole dostępne są za dodatkową opłatą. Centrum miejscowości znajduje się w odległości 200-800 metrów, co oznacza około 10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 434 lub 441 pokojami, rozmieszczonymi w sześciopiętrowym budynku. Oferuje różnorodne typy zakwaterowania, w tym pokoje jedno- i dwuosobowe (Standard, Superior, Economy), pokoje rodzinne (Standard, Superior, Large Family do 6 osób) oraz apartamenty. Wszystkie pokoje wyposażone są w łazienkę, telewizję satelitarną, telefon, centralne ogrzewanie (zimą), klimatyzację (z wyjątkiem pokoi Budget) oraz balkon lub taras z widokiem na basen, morze lub góry. Sejf dostępny jest do wynajęcia, a suszarka do włosów w niektórych pokojach."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja hotelu serwuje posiłki w formie bufetu, oferując kuchnię lokalną i międzynarodową, a latem organizowane są kolacje tematyczne. Na terenie obiektu znajdują się również bar, angielski pub, sezonowy bar przekąskowy (maj-wrzesień) oraz bar przy basenie. Opcja All Inclusive obejmuje śniadanie, obiad i kolację w formie bufetu, wybrane lokalne napoje alkoholowe i bezalkoholowe (10:00-23:00) oraz przekąski (10:00-18:00)."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje sezonowy odkryty basen dla dorosłych i dzieci, a także taras słoneczny z jacuzzi. Dostępne jest centrum fitness/siłownia. Goście mogą korzystać z boiska sportowego (do siatkówki), bilarda (płatny) i tenisa stołowego (płatny). W pobliżu hotelu można uprawiać golf i jazdę na rowerze. Hotel zapewnia międzynarodowy program animacyjny, muzykę na żywo i wieczorne show."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował plac zabaw ze zjeżdżalniami oraz salę gier. W sezonie letnim działa mini klub dla dzieci w wieku od 2 do 12 lat. Hotel jest certyfikowany jako obiekt rodzinny, oferując liczne udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży Fenals (300-500 m)",
+  "Duży sezonowy basen odkryty",
+  "Dostępność pokoi rodzinnych",
+  "Międzynarodowe animacje dla dorosłych i dzieci",
+  "Dobra lokalizacja, blisko centrum, ale poza zgiełkiem"
+ ],
+ "cons": [
+  "Pokoje bywają opisywane jako stare i słabo utrzymane",
+  "Niska jakość bufetu i mały wybór dla dzieci (według niektórych opinii)",
+  "Głośna atmosfera, zwłaszcza w jadalni i wokół basenu",
+  "System \"szklanka za szklankę\" w all inclusive może generować kolejki",
+  "Brak podgrzewanych basenów"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Samba jest położony około 300-500 metrów od plaży Fenals i około 500-800 metrów od głównej plaży Lloret de Mar."
+  },
+  {
+   "q": "Jakie lotniska są najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 30 km. Lotnisko Barcelona El Prat (BCN) znajduje się w odległości około 83-95 km."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada plac zabaw ze zjeżdżalniami dla dzieci, ale nie ma pełnowymiarowego aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest certyfikowany jako obiekt rodzinny, oferuje mini klub, plac zabaw ze zjeżdżalniami oraz animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pomieszczeniach ogólnodostępnych (lobby) oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony tylko dla dorosłych. Jest to obiekt rodzinny, odpowiedni również dla par i grup."
+  }
+ ],
+ "address": "Carrer de Francesc Cambó, 10, 17310 Lloret de Mar, Girona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 30,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Jacuzzi",
+  "Siłownia",
+  "Plac zabaw dla dzieci",
+  "Sala gier",
+  "Boisko sportowe (siatkówka)",
+  "Bilard (płatny)",
+  "Tenis stołowy (płatny)"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Fenals",
+ "bars": 4,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta, publiczna",
+ "centerKm": 0.2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "grupy"
+ ],
+ "gym": true,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": 1972,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy Standard (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Pokój dwuosobowy Superior (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Pokój dwuosobowy Economy (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Pokój rodzinny Standard (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Pokój rodzinny Superior (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Pokój rodzinny Large Family (do 6 osób, łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Apartament Silver (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Apartament Gold (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Apartament Superior z widokiem na morze (łazienka, TV sat, telefon, ogrzewanie, klimatyzacja, balkon/taras)",
+  "Pokoje łączone",
+  "Pokoje przystosowane dla osób niepełnosprawnych"
+ ],
+ "rooms": 441,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.6988535,
+  "lon": 2.8369336,
+  "src": "osm"
+ },
+ "sources": [
+  "hoteleokazje.pl",
+  "travelplanet.pl",
+  "almosafer.com",
+  "hrs.com",
+  "allinclusive.eu",
+  "google.es",
+  "yandex.com",
+  "waze.com"
+ ],
+ "updated": "2026-11-28"
+}

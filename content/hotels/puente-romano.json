@@ -1,0 +1,146 @@
+{
+ "id": "x:hiszpania:puente romano",
+ "slug": "puente-romano",
+ "name": "Puente Romano",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Marbella"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/marbella/puente-romano/661a9d11b0451fd98a45.jpeg",
+ "city": "Marbella",
+ "intro": [
+  "Hotel Puente Romano to pięciogwiazdkowy obiekt położony na słynnej Złotej Mili Costa del Sol w Hiszpanii. Zaprojektowany w stylu andaluzyjskiej wioski, otoczony jest bujnymi, subtropikalnymi ogrodami, co tworzy wyjątkową atmosferę.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi, par, miłośników golfa, sportowców oraz osób poszukujących luksusowego wypoczynku z bogatą ofertą gastronomiczną i sportową. Oferuje bezpośredni dostęp do piaszczystej plaży Nagüeles."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Puente Romano znajduje się na Złotej Mili w Marbelli, pomiędzy centrum miasta a Puerto Banús. Obiekt oferuje bezpośredni dostęp do piaszczystej plaży Nagüeles, gdzie goście mogą korzystać z bezpłatnych leżaków, parasoli i ręczników. Odległość od centrum Marbelli wynosi około 3-4 km, a od Puerto Banús również około 3 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje różnorodnymi typami pokoi i apartamentów, od Junior Suite po luksusowe wille, o powierzchni od około 55 m² do 190 m². Wszystkie pokoje są wyposażone w klimatyzację, TV-SAT/telewizor LCD, bezpłatne Wi-Fi, minibar, ekspres do kawy, zestaw kosmetyków, łazienkę z wanną lub prysznicem, część dzienną oraz balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje 3 odkryte baseny, z czego co najmniej jeden jest podgrzewany sezonowo. Dostępne są dwa bezpłatne baseny dla gości hotelowych (Doñana Pool i Kenia Pool). Na terenie obiektu znajduje się również Six Senses Spa z sauną, łaźnią turecką i szeroką gamą zabiegów, a także centrum fitness z siłownią wewnętrzną i zewnętrzną. Goście mogą korzystać z 10 kortów tenisowych i 8 kortów do padla w Puente Romano Tennis Club oraz uprawiać sporty wodne na plaży."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Puente Romano wyróżnia się bogatą ofertą gastronomiczną, obejmującą ponad 15-20 restauracji i barów. Goście mogą wybierać spośród różnorodnych kuchni, takich jak hiszpańska, japońska (Nobu), włoska (Cipriani), grecko-śródziemnomorska (GAIA, COYA) oraz wiele innych. Hotel oferuje wyżywienie typu Bed&Breakfast ze śniadaniem w formie bufetu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel jest przyjazny rodzinom z dziećmi. Dostępny jest mini klub dla dzieci w wieku 4-10 lat, czynny sezonowo. Dla najmłodszych organizowane są również animacje. Obiekt posiada strefy i udogodnienia dostosowane do potrzeb rodzin."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do piaszczystej plaży z bezpłatnymi leżakami",
+  "Bogata oferta gastronomiczna z ponad 15 restauracjami",
+  "Luksusowe spa i rozbudowane zaplecze sportowe (tenis, golf)",
+  "Bujne ogrody i architektura andaluzyjskiej wioski",
+  "Przyjazny rodzinom z dziećmi (mini klub, animacje)"
+ ],
+ "cons": [
+  "Niektórzy goście narzekali na łazienki",
+  "Brak typowego aquaparku ze zjeżdżalniami",
+  "Część basenów dostępna za dodatkową opłatą lub rezerwacją"
+ ],
+ "faq": [
+  {
+   "q": "Jaka jest odległość hotelu od plaży?",
+   "a": "Hotel ma bezpośredni dostęp do piaszczystej plaży Nagüeles, z bezpłatnymi leżakami i parasolami dla gości."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (AGP), oddalone o około 50-61 km (około 45 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie ma informacji o aquaparku ani zjeżdżalniach na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje mini klub (4-10 lat) i animacje dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Ile basenów ma hotel?",
+   "a": "Hotel posiada 3 odkryte baseny, w tym co najmniej jeden podgrzewany. Dwa baseny są bezpłatne dla gości hotelowych."
+  }
+ ],
+ "address": "Bulevar Príncipe Alfonso von Hohenlohe, s/n, 29602 Marbella, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 55,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Klub tenisowy",
+  "Pola golfowe w pobliżu",
+  "Sporty wodne",
+  "Mini klub dla dzieci",
+  "Bezpłatne Wi-Fi",
+  "Restauracje i bary",
+  "Prywatna plaża"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Złota Mila (Golden Mile)",
+ "bars": 15,
+ "beachDistanceM": 10,
+ "beachType": "Piaszczysta, z łagodnym zejściem do morza",
+ "centerKm": 3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary",
+  "Miłośnicy golfa",
+  "Osoby szukające luksusowego wypoczynku",
+  "Sportowcy",
+  "Miłośnicy gastronomii",
+  "Miłośnicy życia nocnego"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1974,
+ "pools": 3,
+ "privateBeach": true,
+ "renovated": 2023,
+ "restaurants": 15,
+ "roomTypes": [
+  "Junior Suite (ok. 55 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Deluxe Junior Suite (ok. 60 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Suite Garden View (ok. 65 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Deluxe One Bedroom Suite (65 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Mediterranean Suite (125 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Royal Suite (140 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Imperial Suite (190 m², klimatyzacja, TV-SAT, Wi-Fi, minibar, ekspres do kawy, łazienka, balkon/taras)",
+  "Prywatne wille"
+ ],
+ "rooms": 155,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.504509,
+  "lon": -4.9241547,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "planetescape.pl",
+  "realista.com",
+  "fischer.cz",
+  "lhw.com",
+  "fivestaralliance.com",
+  "ajtransfersmalaga.com",
+  "puenteromanomarbella.com"
+ ],
+ "updated": "2026-11-28"
+}

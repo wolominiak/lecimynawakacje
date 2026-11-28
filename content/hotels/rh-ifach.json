@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:rh ifach",
+ "slug": "rh-ifach",
+ "name": "Rh Ifach",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Calpe"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/calpe/rh-ifach-spanelsko/el-rh-ifach-piscina-2-244.jpg",
+ "city": "Calpe",
+ "intro": [
+  "Hotel RH Ifach to czterogwiazdkowy obiekt położony w malowniczej miejscowości Calpe na wybrzeżu Costa Blanca w Hiszpanii. Jego dogodna lokalizacja pomiędzy piaszczystymi plażami a mariną, z widokiem na słynną skałę Peñón de Ifach, czyni go atrakcyjnym miejscem na wypoczynek. Hotel jest idealnym wyborem zarówno dla rodzin z dziećmi, jak i par, oferując relaksującą atmosferę i szeroki wachlarz udogodnień.",
+  "Obiekt, otwarty w 2003 roku, dysponuje 193-199 pokojami rozmieszczonymi w 15-piętrowym budynku. Goście mogą korzystać z dwóch basenów, centrum spa, siłowni oraz zróżnicowanej oferty gastronomicznej. Dzięki programom animacyjnym i mini klubowi dla dzieci, hotel zapewnia rozrywkę dla całej rodziny, a bliskość plaży i centrum miejscowości sprzyja aktywnemu spędzaniu czasu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel RH Ifach znajduje się w Calpe, około 150-250 metrów od piaszczystej plaży La Fossa, znanej z łagodnego zejścia do wody. Obiekt jest usytuowany między plażą a mariną, w pobliżu solnisk Salinas de Calpe, oferując widoki na Peñón de Ifach. Do centrum Calpe jest około 1 km, co zajmuje 15-25 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje pokoje typu Standard Double, Superior Double, Premium Room oraz Suite, a także pokoje rodzinne. Wszystkie wyposażone są w klimatyzację (sezonowo), ogrzewanie, balkon lub taras, telewizor z płaskim ekranem, bezpłatne Wi-Fi oraz sejf i minibar (dodatkowo płatne). Łazienki posiadają wannę lub prysznic i suszarkę do włosów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny: duży odkryty basen w stylu laguny oraz kryty basen z podgrzewaną wodą, dostępny w chłodniejszych miesiącach. Hotel posiada również centrum spa z sauną, łaźnią parową i jacuzzi, a także w pełni wyposażoną siłownię. Oferowane są animacje dla dorosłych i dzieci, mini golf oraz możliwość wypożyczenia rowerów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni międzynarodowej i hiszpańskiej, często z pokazami gotowania. Sezonowo działa restauracja à la carte Palapa Grill przy basenie. Na terenie hotelu znajduje się również bar przy basenie oraz kawiarnia/bar. Hotel oferuje opcje wyżywienia od Bed & Breakfast po All Inclusive."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował wydzieloną strefę przy basenie zewnętrznym oraz mini klub. W ofercie hotelu znajdują się również programy animacyjne dla dzieci, zapewniające rozrywkę i zajęcia w ciągu dnia."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i mariny",
+  "Urozmaicone jedzenie w formie bufetu",
+  "Dostępność dwóch basenów (zewnętrznego i podgrzewanego wewnętrznego)",
+  "Przyjazna i pomocna obsługa",
+  "Dobre udogodnienia dla rodzin z dziećmi"
+ ],
+ "cons": [
+  "Długi czas oczekiwania na windy w godzinach szczytu",
+  "Ograniczona dostępność płatnego parkingu",
+  "Niektóre pokoje mogą wymagać odświeżenia",
+  "Wymóg noszenia czepka kąpielowego w krytym basenie"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest oddalony o około 150-250 metrów od piaszczystej plaży La Fossa."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Lotnisko Alicante, oddalone o około 79-85 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje mini klub oraz wydzieloną strefę dla dzieci przy basenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu jest siłownia i spa?",
+   "a": "Tak, hotel posiada w pełni wyposażoną siłownię oraz centrum spa z sauną, łaźnią parową i jacuzzi."
+  }
+ ],
+ "address": "Av. Juan Carlos I, s/n, 03710 Calpe, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 79,
+ "airportName": "Lotnisko Alicante",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Mini golf",
+  "Wypożyczalnia rowerów",
+  "Kolarstwo/kolarstwo górskie",
+  "Sporty wodne (w pobliżu)",
+  "Nurkowanie (w pobliżu)"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Costa Blanca",
+ "bars": 2,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 1,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Osoby aktywne",
+  "Rowerzyści",
+  "Miłośnicy spacerów"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 2003,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2003,
+ "restaurants": 2,
+ "roomTypes": [
+  "Standard Double",
+  "Superior Double",
+  "Premium Room (z ekspresem Nespresso, niektóre z wanną z hydromasażem)",
+  "Suite",
+  "Pokoje rodzinne"
+ ],
+ "rooms": 193,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "trivago.co.uk",
+  "super.com",
+  "tui.co.uk",
+  "travelisto.com",
+  "wanderlog.com",
+  "calpe.es",
+  "booking.com",
+  "sunshine.co.uk"
+ ],
+ "updated": "2026-11-28"
+}

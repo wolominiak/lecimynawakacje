@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:lanzarote village",
+ "slug": "lanzarote-village",
+ "name": "Lanzarote Village",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Lanzarote",
+  "Playa de los Pocillos"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/lanzarote/playa-de-los-pocillos/lanzarote-village-pl/7906/f7a0423fdf7ee010fadeadfd272501ec_3-244.jpg",
+ "city": "Puerto del Carmen",
+ "intro": [
+  "Hotel Lanzarote Village to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży Playa de los Pocillos na Lanzarote. Zbudowany w 1990 roku i odnowiony w 2021 roku, oferuje nowoczesne udogodnienia w niskiej zabudowie, rozmieszczonej wokół centralnego basenu.",
+  "Obiekt jest idealnym wyborem dla rodzin z małymi dziećmi oraz par, a także dla miłośników plażowania. Położenie blisko promenady i centrum Puerto del Carmen zapewnia łatwy dostęp do lokalnych atrakcji, jednocześnie oferując spokojny wypoczynek."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Lanzarote Village znajduje się w miejscowości Puerto del Carmen, w dzielnicy Playa de los Pocillos, bezpośrednio przy piaszczystej plaży o tej samej nazwie. Jest to plaża publiczna z drobnym, jasnym piaskiem wulkanicznym, gdzie leżaki i parasole są dostępne do wynajęcia. Obiekt jest oddalony o około 7-8 km od lotniska Lanzarote (ACE) i zaledwie kilka minut spacerem od głównej promenady Puerto del Carmen."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 215 pokojami, rozmieszczonymi na trzech piętrach. Dostępne są różne typy, w tym pokoje dwuosobowe standardowe, z widokiem na morze, rodzinne, jednoosobowe oraz przystosowane dla osób z ograniczoną mobilnością, a także Junior Suites. Wszystkie pokoje wyposażone są w klimatyzację, lodówkę, zestaw do parzenia kawy/herbaty, telewizor satelitarny, sejf (płatny) oraz bezpłatne Wi-Fi. Pokoje rodzinne posiadają oddzielną sypialnię."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja bufetowa serwuje dania kuchni międzynarodowej, oferując show cooking i wieczory tematyczne. Na terenie hotelu znajdują się również dwa bary: Pool Bar i Cocktail Bar. Dostępny jest pakiet all inclusive, obejmujący śniadania, obiady i kolacje w formie bufetu, przekąski w ciągu dnia oraz wybrane napoje alkoholowe i bezalkoholowe."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje duży odkryty basen ze słodką wodą, podgrzewany w zimie, oraz zintegrowany brodzik dla dzieci z elementem w kształcie statku pirackiego. Do dyspozycji gości jest również w pełni wyposażona siłownia, kort tenisowy, boiska sportowe oraz bilard, tenis stołowy i rzutki. Hotel zapewnia program dziennych i wieczornych animacji dla dorosłych i dzieci, w tym mini disco."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel przygotował oddzielny brodzik, plac zabaw, pokój gier oraz mini klub dla dzieci w wieku od 4 do 10 lat. Wieczorne animacje obejmują mini disco, co sprawia, że hotel jest bardzo polecany dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy piaszczystej plaży",
+  "Bliskość promenady i centrum Puerto del Carmen",
+  "Przestronne i czyste pokoje",
+  "Wysokiej jakości restauracja bufetowa",
+  "Podgrzewany basen dla dorosłych w zimie"
+ ],
+ "cons": [
+  "Wystrój pokoi może wymagać odświeżenia",
+  "Brak pełnego spa (dostępna sauna, jacuzzi i masaże)",
+  "Plaża publiczna, leżaki i parasole płatne",
+  "Problem z rezerwowaniem leżaków przy basenie wcześnie rano"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Lanzarote Village jest położony bezpośrednio przy plaży Playa de los Pocillos, mniej niż 50 metrów."
+  },
+  {
+   "q": "Jaki jest rodzaj plaży?",
+   "a": "Plaża jest piaszczysta, z drobnym, jasnym piaskiem pochodzenia wulkanicznego."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Brak dużych zjeżdżalni czy aquaparku. W brodziku dla dzieci znajduje się element w kształcie statku pirackiego."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z małymi dziećmi, oferując brodzik, plac zabaw, mini klub i animacje."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 7-8 km od lotniska Lanzarote (ACE)."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i miejscach publicznych."
+  }
+ ],
+ "address": "Calle Suiza 2, 35510 Puerto del Carmen",
+ "adultsOnly": false,
+ "airportKm": 7.5,
+ "airportName": "Lanzarote (ACE)",
+ "amenities": [
+  "sauna",
+  "jacuzzi",
+  "masaż (płatny)",
+  "kort tenisowy",
+  "boiska sportowe",
+  "bilard",
+  "tenis stołowy",
+  "rzutki",
+  "koszykówka",
+  "siatkówka"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Playa de los Pocillos",
+ "bars": 2,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 1.2,
+ "goodFor": [
+  "rodziny z małymi dziećmi",
+  "pary",
+  "miłośnicy plażowania"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1990,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2021,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój dwuosobowy standardowy",
+  "pokój dwuosobowy z widokiem na morze",
+  "pokój rodzinny",
+  "pokój jednoosobowy",
+  "pokój przystosowany dla osób z ograniczoną mobilnością",
+  "Junior Suite"
+ ],
+ "rooms": 215,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 28.9258742,
+  "lon": -13.6407141,
+  "src": "osm"
+ },
+ "sources": [
+  "lanzarotehotelguide.com",
+  "thomascook.com",
+  "hotellanzarotevillage.com",
+  "lanzarote-resorts.co.uk",
+  "turismolanzarote.com",
+  "booking.com",
+  "onthebeach.ie",
+  "google.com"
+ ],
+ "updated": "2026-11-28"
+}

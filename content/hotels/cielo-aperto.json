@@ -1,0 +1,128 @@
+{
+ "id": 6477,
+ "slug": "cielo-aperto",
+ "name": "Cielo Aperto",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Val di Sole"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/cielo-aperto-budynek-glowny-843874338-570-428.jpg",
+ "city": "Vason (Monte Bondone)",
+ "intro": [
+  "Residence Cielo Aperto to kompleks apartamentów położony w malowniczej miejscowości Vason, w gminie Trento, na wysokości 1650 m n.p.m. Ten obiekt, usytuowany bezpośrednio przy stoku narciarskim, jest idealnym wyborem dla miłośników sportów zimowych oraz osób poszukujących spokoju i relaksu w górskim otoczeniu.",
+  "Hotel jest szczególnie polecany dla rodzin z dziećmi, oferując przestronne apartamenty z aneksami kuchennymi oraz udogodnienia takie jak miniklub i program animacyjny. Mimo że wyposażenie obiektu może być starsze, goście doceniają czystość oraz piękne widoki na góry."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Residence Cielo Aperto znajduje się w Vason (Monte Bondone), zaledwie 50-300 metrów od centrum miejscowości. Obiekt usytuowany jest bezpośrednio przy stoku narciarskim, co stanowi dużą zaletę dla narciarzy. Do miasta Trento jest około 15 km, a najbliższe lotnisko oddalone jest o około 120 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje apartamenty typu studio (Mono 2, 3, 4-osobowe), apartamenty z jedną sypialnią (Bilo 4, 5-osobowe) oraz apartamenty z dwiema sypialniami (Trilo 6-osobowe), a także większe apartamenty 7-osobowe. Każdy apartament wyposażony jest w aneks kuchenny, prywatną łazienkę, TV SAT, sejf i telefon. Większość apartamentów posiada balkon."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się duży, kryty i podgrzewany basen, dostępny za dodatkową opłatą. Dla dzieci przygotowano brodzik w strefie basenowej oraz miniklub (dla dzieci w wieku 3-10 lat). Hotel oferuje również lekki program dziennych i wieczornych animacji oraz salę gier z bilardem, tenisem stołowym i piłkarzykami. Dostępna jest przechowalnia nart."
+  },
+  {
+   "title": "Wellness",
+   "text": "Goście mogą skorzystać z sauny oraz zarezerwować masaże, obie usługi są dodatkowo płatne. Hotel akceptuje małe zwierzęta domowe (do 15 kg) za dodatkową opłatą."
+  }
+ ],
+ "pros": [
+  "Bardzo dobra lokalizacja bezpośrednio przy stoku narciarskim.",
+  "Piękne widoki na góry.",
+  "Czystość w apartamentach.",
+  "Przestronne apartamenty z dobrze wyposażonym aneksem kuchennym.",
+  "Serdeczny i kompetentny personel."
+ ],
+ "cons": [
+  "Stare i zużyte wyposażenie apartamentów oraz balkonów.",
+  "Dodatkowe opłaty za basen i saunę.",
+  "Brak niektórych podstawowych artykułów kuchennych i toaletowych.",
+  "Problemy z oznakowaniem dojazdu i strome podjazdy zimą.",
+  "Długi czas oczekiwania na zameldowanie."
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się w regionie górskim i nie ma dostępu do plaży. Najbliższe jezioro (Lago di Garda) jest oddalone o około 50 km."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, w hotelu znajduje się duży, kryty i podgrzewany basen, który jest dodatkowo płatny."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi. Oferuje miniklub dla dzieci (3-10 lat), brodzik oraz program animacji."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, Wi-Fi jest dostępne bezpłatnie w strefach ogólnodostępnych (lobby) oraz w apartamentach."
+  },
+  {
+   "q": "Czy hotel akceptuje zwierzęta?",
+   "a": "Tak, hotel akceptuje małe zwierzęta (do 15 kg) za dodatkową opłatą."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotnisko znajduje się około 120 km od hotelu."
+  }
+ ],
+ "address": "Strada di Vason 117, 38040 Monte Bondone (Trento), Włochy",
+ "adultsOnly": false,
+ "airportKm": 120,
+ "airportName": "",
+ "amenities": [
+  "przechowalnia nart",
+  "sala gier"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Monte Bondone",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.05,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pasjonaci sportów zimowych",
+  "narciarze"
+ ],
+ "gym": null,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Apartament typu studio (Mono 2, 3, 4-osobowe) z aneksem kuchennym, łazienką, TV SAT, sejfem, telefonem, balkonem.",
+  "Apartament z jedną sypialnią (Bilo 4, 5-osobowe) z aneksem kuchennym, łazienką, TV SAT, sejfem, telefonem, balkonem.",
+  "Apartament z dwiema sypialniami (Trilo 6-osobowe) z aneksem kuchennym, łazienką, TV SAT, sejfem, telefonem, balkonem.",
+  "Apartamenty 2, 3, 4, 5 i 7-osobowe z aneksem kuchennym, łazienką, TV SAT, sejfem, telefonem, balkonem."
+ ],
+ "rooms": null,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 46.0377157,
+  "lon": 11.0559262,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "residencecieloaperto.it",
+  "italtourist.com",
+  "zajezdy.cz",
+  "booking.com",
+  "trip.com",
+  "agoda.com",
+  "europe-mountains.com"
+ ],
+ "updated": "2026-11-28"
+}

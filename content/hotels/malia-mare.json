@@ -1,0 +1,136 @@
+{
+ "id": "x:grecja:malia mare",
+ "slug": "malia-mare",
+ "name": "Malia Mare",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Kreta",
+  "Malia"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/recko/kreta/malia/malia-mare/1cd4c795a2425f95e6287.jpg",
+ "city": "Malia",
+ "intro": [
+  "Hotel Malia Mare to kameralny, rodzinny obiekt położony w centrum Malii na Krecie, oferujący zakwaterowanie w tradycyjnym kreteńskim stylu. Zlokalizowany w spokojnej strefie dla pieszych, jednocześnie zapewnia łatwy dostęp do tętniącego życiem centrum miejscowości i Malia Strip.",
+  "Hotel jest polecany zarówno parom szukającym bliskości rozrywki, jak i rodzinom z dziećmi. Ze względu na swoją centralną lokalizację, w miesiącach letnich cieszy się popularnością wśród młodszych osób. Oferuje zakwaterowanie ze śniadaniem, co pozwala na swobodne odkrywanie lokalnej kuchni."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Malia Mare znajduje się w centrum Malii, zaledwie 2 minuty spacerem od Starego Miasta. Hotel jest usytuowany w spokojnej strefie dla pieszych, co zapewnia ciszę pomimo bliskości dzielnicy nocnego życia. Piaszczysta plaża oddalona jest o około 700 metrów, czyli około 10 minut spacerem."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 35 pokojami rozmieszczonymi na dwóch piętrach. Oferowane są pokoje dwuosobowe, trzyosobowe, superior, deluxe oraz apartamenty z jedną sypialnią. Standardowe wyposażenie obejmuje prywatną łazienkę z prysznicem, balkon lub taras, mini-lodówkę oraz klimatyzację i sejf, które mogą być dodatkowo płatne."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "Malia Mare oferuje wyżywienie w formule Bed & Breakfast, obejmujące obfite śniadanie kontynentalne w formie bufetu. Na terenie obiektu znajduje się restauracja, bar przy basenie z barem typu swim-up oraz bar przekąskowy. Raz w tygodniu organizowany jest wieczór z grillem."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada duży odkryty basen typu infinity z płytką częścią, idealną dla dzieci. Dostępne jest również jacuzzi/wanna z hydromasażem. Goście mogą korzystać z bilarda oraz wypożyczalni rowerów. Bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Malia Mare jest dobrym wyborem dla par i rodzin, które cenią sobie centralną, ale spokojną lokalizację. Bliskość życia nocnego sprawia, że jest atrakcyjny również dla młodszych osób w sezonie letnim. Autentyczny kreteński styl i przyjazna atmosfera to dodatkowe atuty."
+  }
+ ],
+ "pros": [
+  "Centralna, a jednocześnie cicha lokalizacja",
+  "Przyjazny personel i właściciele",
+  "Czyste pokoje i teren basenowy",
+  "Piękny, zadbany ogród/dziedziniec",
+  "Imponujący basen z jacuzzi i barem swim-up"
+ ],
+ "cons": [
+  "Klimatyzacja i sejf mogą być dodatkowo płatne",
+  "Śniadania bywają monotonne z ograniczonym wyborem",
+  "Basen może być zimny (szczególnie we wrześniu)",
+  "Hotel może wydawać się nieco przestarzały",
+  "Małe prysznice z zasłonami"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Malia Mare jest oddalony o około 700 metrów od piaszczystej plaży, co stanowi około 10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest blisko lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Heraklion (HER), oddalone o około 32-35 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie dysponuje aquaparkiem ani zjeżdżalniami. Posiada duży odkryty basen z płytką częścią."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla dzieci?",
+   "a": "Tak, dzieci w każdym wieku są mile widziane. W basenie znajduje się płytka część dla dzieci, a łóżeczka dziecięce są dostępne na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich obszarach hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel oferuje wyżywienie w formule Bed & Breakfast, obejmujące śniadanie kontynentalne w formie bufetu. Nie ma oferty all inclusive."
+  }
+ ],
+ "address": "10 Dimokratias St, Malia, Kreta, 70007, Grecja",
+ "adultsOnly": false,
+ "airportKm": 33.5,
+ "airportName": "Międzynarodowy Port Lotniczy Heraklion im. Nikosa Kazantzakisa (HER)",
+ "amenities": [
+  "Jacuzzi",
+  "Bilard",
+  "Wypożyczalnia rowerów"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "centrum Malii",
+ "bars": 2,
+ "beachDistanceM": 700,
+ "beachType": "piaszczysta",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Młodsi goście (w sezonie letnim)"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1986,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2011,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy lub typu twin (z prywatną łazienką z prysznicem i toaletą, balkonem lub tarasem, klimatyzacją, mini-lodówką/lodówką, sejfem)",
+  "Pokój superior dwuosobowy (z prywatną łazienką z prysznicem i toaletą, balkonem lub tarasem, klimatyzacją, mini-lodówką/lodówką, sejfem)",
+  "Pokój deluxe dwuosobowy (z prywatną łazienką z prysznicem i toaletą, balkonem lub tarasem, klimatyzacją, mini-lodówką/lodówką, sejfem)",
+  "Pokój trzyosobowy (z prywatną łazienką z prysznicem i toaletą, balkonem lub tarasem, klimatyzacją, mini-lodówką/lodówką, sejfem)",
+  "Apartament z jedną sypialnią i widokiem na ogród (z prywatną łazienką z prysznicem i toaletą, balkonem lub tarasem, klimatyzacją, mini-lodówką/lodówką, sejfem, telewizorem z kanałami satelitarnymi, czajnikiem elektrycznym)",
+  "Pokój jednoosobowy (z prywatną łazienką z prysznicem i toaletą, balkonem lub tarasem, klimatyzacją, mini-lodówką/lodówką, sejfem)"
+ ],
+ "rooms": 35,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 35.2946484,
+  "lon": 25.479637,
+  "src": "osm"
+ },
+ "sources": [
+  "hotel-rez.com",
+  "booking.com",
+  "sunshine.co.uk",
+  "maliamare.gr",
+  "xo.gr",
+  "google.com.ng",
+  "hotelscrete.net",
+  "maliacrete.com"
+ ],
+ "updated": "2026-11-28"
+}

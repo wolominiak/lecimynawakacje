@@ -1,0 +1,131 @@
+{
+ "id": 30941,
+ "slug": "torino",
+ "name": "Torino",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Lazio",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/torino-budynek-glowny-521237947-570-428.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Torino to czterogwiazdkowy obiekt położony w samym sercu Rzymu, w historycznej dzielnicy Esquilino. Zlokalizowany jest w odrestaurowanym budynku z 1925 roku, co nadaje mu klasyczny charakter. Hotel jest idealnym wyborem dla osób pragnących zwiedzać miasto, zarówno dla turystów, jak i podróżujących służbowo.",
+  "Dzięki centralnemu położeniu, bliskości Dworca Termini i głównych atrakcji, hotel stanowi doskonałą bazę wypadową do odkrywania Rzymu. Oferuje komfortowe zakwaterowanie dla par, rodzin z dziećmi oraz osób ceniących sobie łatwy dostęp do komunikacji miejskiej i zabytków."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Torino znajduje się w centrum Rzymu, zaledwie około 100 metrów od ścisłego centrum miasta. Jest usytuowany w dzielnicy Esquilino, blisko Bazyliki Santa Maria Maggiore i Opery. Dworzec kolejowy Roma Termini oddalony jest o zaledwie 200-330 metrów, co zapewnia doskonałe połączenia komunikacyjne."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 103 pokoje w różnych konfiguracjach: jednoosobowe, dwuosobowe, trzyosobowe i czteroosobowe. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, minibar, sejf oraz prywatną łazienkę z prysznicem i suszarką do włosów. Niektóre większe apartamenty posiadają wanny z hydromasażem."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się bar/salon, gdzie goście mogą zrelaksować się po dniu zwiedzania. Codziennie serwowane jest śniadanie w formie bufetu, często na tarasie na dachu, z którego roztacza się widok na miasto. W bliskiej okolicy Monti dostępnych jest wiele tradycyjnych restauracji i kawiarni."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi na terenie całego obiektu. Na dachu znajduje się taras z panoramicznym widokiem, idealny na poranne śniadanie. Hotel nie posiada basenów ani strefy spa, skupiając się na zapewnieniu komfortowej bazy do zwiedzania miasta."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja, blisko Dworca Termini i metra",
+  "Taras na dachu z widokiem na miasto",
+  "Dobre śniadanie w formie bufetu",
+  "Przyjazny i pomocny personel",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Pokoje i wystrój są często opisywane jako przestarzałe",
+  "Możliwy hałas uliczny w pokojach od strony ulicy",
+  "Kompaktowe łazienki i układy pokoi",
+  "Brak parkingu na miejscu",
+  "Ograniczona różnorodność śniadania"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Rzym jest miastem śródlądowym, hotel nie znajduje się przy plaży."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotniska to Rzym-Fiumicino (FCO) około 40-42 minuty jazdy samochodem i Rzym-Ciampino (CIA) około 20-30 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje łóżeczka dziecięce, a dzieci w wieku 2-3 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w całym hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel posiada siłownię lub spa?",
+   "a": "Nie, w hotelu nie ma siłowni ani spa."
+  }
+ ],
+ "address": "Via Principe Amedeo 8, 00185 Rzym, RM",
+ "adultsOnly": false,
+ "airportKm": null,
+ "airportName": "Rzym-Fiumicino (FCO), Rzym-Ciampino (CIA)",
+ "amenities": [
+  "Bar/salon",
+  "Taras na dachu",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Esquilino",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.1,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Turyści",
+  "Rodziny z dziećmi"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1925,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2000,
+ "restaurants": null,
+ "roomTypes": [
+  "Pokój jednoosobowy: klimatyzacja, telewizor z płaskim ekranem, prywatna łazienka, minibar, sejf, ogrzewanie, bezpłatne kosmetyki",
+  "Pokój dwuosobowy: klimatyzacja, telewizor z płaskim ekranem, prywatna łazienka, minibar, sejf, ogrzewanie, bezpłatne kosmetyki",
+  "Pokój trzyosobowy: klimatyzacja, telewizor z płaskim ekranem, prywatna łazienka, minibar, sejf, ogrzewanie, bezpłatne kosmetyki",
+  "Pokój czteroosobowy: klimatyzacja, telewizor z płaskim ekranem, prywatna łazienka, minibar, sejf, ogrzewanie, bezpłatne kosmetyki",
+  "Apartamenty: wanny z hydromasażem (niektóre większe apartamenty)"
+ ],
+ "rooms": 103,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 37.3354798,
+  "lon": -121.8981881,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.ie",
+  "agoda.com",
+  "expedia.com",
+  "hoteltorinoroma.it",
+  "romadihotel.com",
+  "hrs.com",
+  "leonardihotels.com",
+  "hotels.com"
+ ],
+ "updated": "2026-11-28"
+}

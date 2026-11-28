@@ -1,0 +1,143 @@
+{
+ "id": "x:hiszpania:marsol",
+ "slug": "marsol",
+ "name": "Marsol",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Lloret de Mar"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/lloret-de-mar/marsol-pl/7684/9ac2fce7d60aa1e6cc1d4d1275a6fb40_3-244.jpg",
+ "city": "Lloret de Mar",
+ "intro": [
+  "Hotel Marsol to czterogwiazdkowy obiekt położony bezpośrednio przy nadmorskiej promenadzie w centrum Lloret de Mar na wybrzeżu Costa Brava. Zapewnia łatwy dostęp do piaszczystej plaży Lloret de Mar oraz licznych atrakcji miasta.",
+  "Hotel jest polecany dla par szukających romantycznego wypoczynku, rodzin z nastolatkami oraz osób ceniących sobie bliskość plaży i centrum. Oferuje udogodnienia takie jak baseny, spa i centrum fitness, a także mini klub dla dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Marsol znajduje się w centrum Lloret de Mar, bezpośrednio przy nadmorskiej promenadzie. Piaszczysta plaża Lloret de Mar oddalona jest o około 50 metrów. Plaża nie jest hotelowa, ale obiekt oferuje leżaki, parasole i ręczniki plażowe."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 114 klimatyzowanymi pokojami, w tym dwuosobowymi, trzyosobowymi, junior suitami i apartamentami. Wszystkie pokoje wyposażone są w bezpłatne Wi-Fi, telewizor z płaskim ekranem, łazienkę z suszarką do włosów, sejf, minibar oraz zestaw do parzenia kawy/herbaty. Niektóre pokoje posiadają balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Marsol dostępne są dwie restauracje: bufetowa, serwująca śniadania, obiady i kolacje z daniami międzynarodowymi, oraz restauracja à la carte z kuchnią międzynarodową i katalońską. Hotel oferuje bezpłatne śniadania w formie bufetu. Goście mogą również skorzystać z baro-kawiarni z tarasem przy promenadzie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel posiada dwa baseny: odkryty na dachu z tarasem słonecznym oraz kryty, podgrzewany basen. Na terenie obiektu znajduje się również pełne centrum spa z sauną, łaźnią turecką, solarium, jacuzzi oraz gabinetami masażu i zabiegów. Dostępne jest także centrum fitness/siłownia. W okolicy można uprawiać sporty wodne, grać w golfa lub wypożyczyć rowery."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel oferuje mini klub, w którym dzieci powyżej 6 lat mogą przebywać samodzielnie, a młodsze pod opieką dorosłych. Hotel jest przyjazny rodzinom i akceptuje zwierzęta domowe (psy do 7 kg)."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i w centrum miasta",
+  "Bardzo dobre i różnorodne śniadania",
+  "Wysoka czystość i komfort",
+  "Uprzejma i pomocna obsługa",
+  "Basen na dachu z pięknymi widokami"
+ ],
+ "cons": [
+  "Pokoje bywają małe lub słabo rozplanowane",
+  "Możliwy hałas z zewnątrz ze względu na centralne położenie",
+  "Sporadycznie nieprzyjemne zapachy w łazienkach",
+  "Płatny parking zewnętrzny, oddalony od hotelu",
+  "Brak aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel Marsol od plaży?",
+   "a": "Hotel Marsol jest położony tuż przy plaży, około 50 metrów od piaszczystej plaży Lloret de Mar."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 23-42 km. Lotnisko Barcelona El Prat (BCN) znajduje się około 92-100 km od hotelu."
+  },
+  {
+   "q": "Czy hotel Marsol posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel Marsol nie posiada własnych zjeżdżalni ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi i posiada mini klub. Jest polecany szczególnie dla rodzin z nastolatkami."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego hotelu."
+  },
+  {
+   "q": "Czy hotel Marsol jest tylko dla dorosłych?",
+   "a": "Nie, hotel Marsol nie jest obiektem tylko dla dorosłych. Jest przyjazny rodzinom i akceptuje zwierzęta (psy do 7 kg)."
+  }
+ ],
+ "address": "Passeig Jacint Verdaguer, 7, Lloret de Mar, 17310",
+ "adultsOnly": false,
+ "airportKm": 23,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Wifi",
+  "Mini klub",
+  "Basen kryty",
+  "Basen odkryty na dachu",
+  "Restauracja à la carte",
+  "Bar-kawiarnia"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum Lloret de Mar",
+ "bars": 1,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Pary (romantyczne wypady)",
+  "Rodziny (szczególnie z nastolatkami)",
+  "Osoby szukające relaksu i bliskości plaży oraz centrum miasta"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1965,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2002,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy",
+  "Pokój dwuosobowy z widokiem na morze",
+  "Pokój trzyosobowy",
+  "Junior suita",
+  "Junior suita z widokiem na morze",
+  "Apartament",
+  "Pokój superior z widokiem na morze (z łóżkiem typu king-size)",
+  "Pokoje łączone"
+ ],
+ "rooms": 114,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.7005256,
+  "lon": 2.829743,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "onthebeach.co.uk",
+  "thomascook.com",
+  "quierohotel.com",
+  "lloretdemar.org",
+  "marsolhotels.com",
+  "amimir.com",
+  "mapcarta.com"
+ ],
+ "updated": "2026-11-28"
+}

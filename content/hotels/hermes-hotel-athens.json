@@ -1,0 +1,137 @@
+{
+ "id": "x:grecja:hermes hotel athens",
+ "slug": "hermes-hotel-athens",
+ "name": "Hermes Hotel Athens",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Ateny i okolice",
+  "Ateny"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/ateny/ateny/hermes-hotel-athens-pl/9245/cb1c_hotel_exterior_2-244.JPG",
+ "city": "Ateny",
+ "intro": [
+  "Hermes Hotel Athens to trzygwiazdkowy obiekt położony w samym sercu Aten, w urokliwej dzielnicy Plaka, zaledwie kilka minut spacerem od Placu Syntagma i Akropolu. Jest to idealna baza wypadowa dla turystów pragnących zwiedzać miasto, oferując jednocześnie spokojne otoczenie pomimo centralnej lokalizacji.",
+  "Hotel jest polecany dla rodzin, par i starszych podróżnych, którzy szukają wygodnego i bezpiecznego miejsca do odpoczynku po dniu pełnym wrażeń. Obiekt oferuje udogodnienia dla dzieci, co czyni go dobrym wyborem również dla rodzin z najmłodszymi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Hermes Athens znajduje się w centrum Aten, w malowniczej dzielnicy Plaka, przy ulicy Apollonos. Zaledwie 200 metrów dzieli go od Placu Syntagma, a do Akropolu można dojść w około 15 minut (0.8 km). Najbliższe lotnisko, Międzynarodowy Port Lotniczy w Atenach (ATH), jest oddalone o około 20-30 km, z dogodnym połączeniem metrem."
+  },
+  {
+   "title": "Plaża",
+   "text": "Hotel nie jest obiektem plażowym. Najbliższa plaża znajduje się w odległości około 10 km od hotelu. Brak informacji o tym, aby plaża była hotelowa, ani o dostępności leżaków czy ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 45 pokojami, które zostały odnowione w 2016 roku. Dostępne są pokoje Economy/Standard, Superior Double/Twin oraz Pokoje Rodzinne z drzwiami łączącymi. Wszystkie pokoje wyposażone są w indywidualnie sterowaną klimatyzację, bezpłatne Wi-Fi, łazienkę, telewizor, minilodówkę i sejf. Niektóre pokoje posiadają balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu serwowane są śniadania w formie bogatego bufetu amerykańskiego z greckimi specjałami. Dla osób wcześnie wyjeżdżających dostępne jest śniadanie kontynentalne przez całą noc. W lobby znajduje się bar, a na dachu hotelu dostępny jest taras (roof garden), gdzie można napić się drinka, podziwiając widok na miasto."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel oferuje bezpłatne Wi-Fi na terenie całego obiektu oraz w pokojach. Dostępny jest również kącik internetowy z komputerem i drukarką. Dla najmłodszych gości przygotowano pokój zabaw oraz mini klub dla dzieci. Hotel nie posiada basenu ani siłowni."
+  }
+ ],
+ "pros": [
+  "Doskonała, centralna lokalizacja w dzielnicy Plaka",
+  "Bardzo dobre i obfite śniadania z greckimi specjałami",
+  "Przyjazny i pomocny personel",
+  "Bezpłatne i stabilne Wi-Fi w całym hotelu",
+  "Taras na dachu z widokiem na miasto i Akropol",
+  "Pokój zabaw i mini klub dla dzieci"
+ ],
+ "cons": [
+  "Pokoje mogą być małe",
+  "Bardzo mała winda (mieści jedną osobę)",
+  "Brak basenu",
+  "Brak bezpłatnej wody butelkowanej w pokojach",
+  "Niektóre elementy wystroju mogą sprawiać wrażenie \"zmęczonych\""
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża znajduje się około 10 km od hotelu. Hotel nie jest obiektem plażowym."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Międzynarodowy Port Lotniczy w Atenach (ATH) jest oddalony o około 20-30 km drogą. Podróż metrem zajmuje około 45 minut."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom i oferuje pokój zabaw dla dzieci oraz mini klub."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu oraz w pokojach."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. W cenę pobytu wliczone jest śniadanie w formie bufetu."
+  }
+ ],
+ "address": "19 Apollonos Street, Plaka, 105 57 Ateny, Grecja",
+ "adultsOnly": false,
+ "airportKm": 25,
+ "airportName": "Międzynarodowy Port Lotniczy w Atenach (ATH)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Kącik internetowy",
+  "Pokój zabaw dla dzieci",
+  "Mini klub dla dzieci",
+  "Taras na dachu"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Plaka, Syntagma",
+ "bars": 1,
+ "beachDistanceM": 10000,
+ "beachType": "",
+ "centerKm": 0.2,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Starsi podróżni",
+  "Osoby szukające cichej i wygodnej lokalizacji do zwiedzania miasta"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 1965,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2016,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje Economy/Standard (klimatyzacja, Wi-Fi, łazienka, TV, minilodówka, sejf, telefon, drewniane podłogi)",
+  "Pokoje Superior Double/Twin (klimatyzacja, Wi-Fi, łazienka, TV, minilodówka, sejf, telefon, drewniane podłogi)",
+  "Pokoje Rodzinne z drzwiami łączącymi (klimatyzacja, Wi-Fi, łazienka, TV, minilodówka, sejf, telefon, drewniane podłogi)"
+ ],
+ "rooms": 45,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 37.9745952,
+  "lon": 23.7312825,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "hermeshotel.gr",
+  "oyster.com",
+  "myboutiquehotel.com",
+  "reserve-online.net",
+  "athens-greecehotels.com",
+  "onthebeach.ie",
+  "google.com"
+ ],
+ "updated": "2026-11-28"
+}

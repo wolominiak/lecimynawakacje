@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:mur hotel neptuno",
+ "slug": "mur-hotel-neptuno",
+ "name": "Mur Hotel Neptuno",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Gran Canaria",
+  "Playa del Inglés"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/gran-canaria/playa-del-ingles/mur-hotel-neptuno-pl/5474/1fe4c372c354f419aa4e2f5dae1abdb5_22-244.jpg",
+ "city": "Playa del Inglés",
+ "intro": [
+  "Mur Hotel Neptuno to czterogwiazdkowy obiekt położony w samym sercu Playa del Inglés na Gran Canarii, tuż obok popularnego centrum handlowo-rozrywkowego Yumbo Centre. Hotel oferuje komfortowe warunki zakwaterowania w odnowionych wnętrzach, zapewniając jednocześnie łatwy dostęp do atrakcji miasta.",
+  "Ten hotel jest przeznaczony wyłącznie dla dorosłych (16+/18+), co czyni go idealnym wyborem dla par, singli oraz grup przyjaciół szukających spokojnego wypoczynku bez dzieci. Jest to również doskonałe miejsce dla nowożeńców oraz osób ceniących bliskość życia nocnego i rozrywki."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Mur Neptuno znajduje się w centrum Playa del Inglés, zaledwie około 100 metrów od centrum miasta i bezpośrednio przy Yumbo Centre. Do publicznej, piaszczystej plaży jest około 900 metrów do 1,2 km. Leżaki i parasole na plaży są dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 166 nowoczesnych i odnowionych pokoi, rozmieszczonych na pięciu piętrach. Wszystkie pokoje są klimatyzowane i wyposażone w TV SAT, telefon, lodówkę/minibar (za opłatą), zestaw do parzenia kawy/herbaty, sejf (za opłatą) oraz łazienkę z wanną/prysznicem, WC i suszarką do włosów. Każdy pokój posiada również balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Główna restauracja Nautilus serwuje dania kuchni lokalnej i międzynarodowej w formie bufetu, z wieczorami tematycznymi i pokazami gotowania. Do dyspozycji gości są również bar przekąskowy La Sirena przy basenie oraz Bar Sotavento z szeroką ofertą napojów. Pakiet all inclusive obejmuje śniadania, lunche i kolacje, a także napoje dostępne od 10:00 do 24:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajduje się jeden odkryty basen, który jest sezonowo podgrzewany i wyposażony w zjeżdżalnię. Goście mogą korzystać z centrum spa & wellness oferującego saunę, łaźnię parową, masaże i zabiegi kosmetyczne (za opłatą) oraz z całodobowej siłowni. Hotel oferuje również muzykę na żywo, wieczorne pokazy i karaoke."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko Yumbo Centre",
+  "Bardzo przyjazna i pomocna obsługa",
+  "Dobre jedzenie",
+  "Czyste i nowoczesne pokoje",
+  "Podgrzewany basen z bezpłatnymi leżakami"
+ ],
+ "cons": [
+  "Niektóre obszary hotelu mogą wydawać się nieco przestarzałe",
+  "Zdawkowe animacje",
+  "Odległość od plaży (około 900m-1km)",
+  "Płatne leżaki i parasole na plaży",
+  "Niektóre balkony mogą być połączone z innymi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 900 metrów do 1,2 km od publicznej, piaszczystej plaży."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, Mur Hotel Neptuno jest hotelem przeznaczonym wyłącznie dla osób powyżej 16 lub 18 roku życia."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Na terenie basenu znajduje się jedna zjeżdżalnia."
+  },
+  {
+   "q": "Jak daleko jest do lotniska?",
+   "a": "Hotel jest oddalony o około 30-32 km od lotniska Gran Canaria (LPA)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel jest przeznaczony wyłącznie dla dorosłych, więc nie ma udogodnień dla dzieci."
+  }
+ ],
+ "address": "Avenida 8 de Marzo, 29 - 35100 - Playa del Inglés - Gran Canaria",
+ "adultsOnly": true,
+ "airportKm": 30,
+ "airportName": "Gran Canaria (LPA)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Bilard (za opłatą)",
+  "Golf (w okolicy)",
+  "Bocce (w okolicy)",
+  "Muzyka na żywo",
+  "Wieczorne pokazy",
+  "Karaoke"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "centrum Playa del Inglés",
+ "bars": 2,
+ "beachDistanceM": 900,
+ "beachType": "publiczna, piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "pary",
+  "podróżujący solo",
+  "grupy przyjaciół",
+  "nowożeńcy"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1987,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2022,
+ "restaurants": 1,
+ "roomTypes": [
+  "pokój standardowy",
+  "pokój z widokiem na basen",
+  "pokój preferencyjny (lepsze widoki, większy balkon)"
+ ],
+ "rooms": 166,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 27.7594128,
+  "lon": -15.576326,
+  "src": "osm"
+ },
+ "sources": [
+  "exim.pl",
+  "hotel-playa-de-lingles.com",
+  "wakacje.pl",
+  "coraltravel.pl",
+  "murhotels.com",
+  "thomascook.com",
+  "playadelinglesweb.com",
+  "booking.com"
+ ],
+ "updated": "2026-11-28"
+}

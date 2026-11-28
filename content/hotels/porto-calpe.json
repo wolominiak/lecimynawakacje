@@ -1,0 +1,133 @@
+{
+ "id": "x:hiszpania:porto calpe",
+ "slug": "porto-calpe",
+ "name": "Porto Calpe",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Blanca",
+  "Calpe"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-blanca/calpe/porto-calpe/49300826406ec758f74b3328acf604c2_1.jpg",
+ "city": "Calpe",
+ "intro": [
+  "Hotel Porto Calpe to trzygwiazdkowy obiekt położony w malowniczej miejscowości Calpe na wybrzeżu Costa Blanca w Hiszpanii. Jego atutem jest lokalizacja tuż przy porcie rybackim, co zapewnia piękne widoki na marinę, słynną skałę Peñón de Ifach oraz zatokę. To idealne miejsce dla osób ceniących sobie bliskość morza i lokalnego życia.",
+  "Obiekt jest polecany zarówno dla par, jak i rodzin, a także dla turystów szukających aktywnego wypoczynku. Dzięki dogodnemu położeniu, goście mają łatwy dostęp do plaż, restauracji i możliwości uprawiania sportów wodnych, a jednocześnie mogą cieszyć się spokojem z dala od zgiełku centrum miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Porto Calpe znajduje się bezpośrednio przy porcie w Calpe, oferując widoki na port rybacki i Park Naturalny Peñón de Ifach. Zaledwie 100 metrów, czyli około 3 minuty spacerem, dzieli go od szerokiej, piaszczystej plaży Cantal Roig. W pobliżu, około 6 minut spacerem, znajduje się również plaża Playa de la Fossa, a plaża Levante oddalona jest o około 500 metrów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 72 pokojami, które były częściowo odnawiane w 2014 roku. Oferowane są pokoje dwuosobowe (z jednym lub dwoma łóżkami), typu Comfort oraz Superior, często z balkonem i widokiem na morze, port lub skałę Ifach. Wyposażenie obejmuje klimatyzację, telewizor z płaskim ekranem, prywatną łazienkę z prysznicem i suszarką do włosów, minibar/lodówkę oraz sejf."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni śródziemnomorskiej, w tym śniadania w formie bufetu. Dostępny jest również bar kawowy z lokalnymi napojami oraz bar hotelowy. W ciągu 5 minut spacerem od obiektu goście znajdą wiele innych barów i restauracji."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest odkryty basen z płytką częścią, otoczony tarasem słonecznym z leżakami. Hotel oferuje udogodnienia wellness oraz centrum fitness/siłownię, czynne od 8:00 do 21:00, wyposażone w sprzęt cardio i wolne ciężary. W okolicy można uprawiać sporty wodne, takie jak żeglarstwo i nurkowanie, a także wspinaczkę czy paralotniarstwo."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel zapewnia wysokie krzesełka w restauracji oraz specjalne menu dla dzieci. Płytka część basenu również jest przystosowana dla dzieci."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaż, portu i restauracji",
+  "Pomocna i miła obsługa",
+  "Czyste i komfortowe pokoje",
+  "Piękne widoki na morze, port i skałę Ifach",
+  "Dobre śniadania"
+ ],
+ "cons": [
+  "Ograniczona liczba publicznych miejsc parkingowych",
+  "Niektóre udogodnienia mogą być sezonowe lub płatne",
+  "Brak czajników standardowo w pokojach (dostępne na życzenie)",
+  "Ostatni remont generalny w 2000 roku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Hotel Porto Calpe jest położony około 100 metrów od piaszczystej plaży Cantal Roig, co zajmuje około 3 minuty spacerem. Plaża Playa de la Fossa znajduje się około 6 minut spacerem, a plaża Levante około 500 metrów."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Port lotniczy Alicante-Elche (ALC), oddalone o około 62-80 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o aquaparku lub zjeżdżalniach na terenie hotelu. Dostępny jest odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. Oferuje wysokie krzesełka w restauracji, menu dla dzieci oraz płytką część basenu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, na terenie całego hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych. Brak jest ograniczeń wiekowych przy zameldowaniu."
+  }
+ ],
+ "address": "Av. Del Puerto 7, 03710 Calpe, Alicante",
+ "adultsOnly": false,
+ "airportKm": 71,
+ "airportName": "Port lotniczy Alicante-Elche (ALC)",
+ "amenities": [
+  "Wellness",
+  "Centrum fitness/siłownia",
+  "Bezpłatne Wi-Fi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Port Calpe",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "Pary",
+  "Rodziny",
+  "Osoby szukające relaksu",
+  "Aktywni turyści"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": 2014,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (z jednym lub dwoma łóżkami, klimatyzacja, TV, łazienka, minibar/lodówka, sejf)",
+  "Pokój Comfort (klimatyzacja, TV, łazienka, minibar/lodówka, sejf)",
+  "Pokój Superior (często z widokiem na morze/port/Ifach, balkon, klimatyzacja, TV, łazienka, minibar/lodówka, sejf)"
+ ],
+ "rooms": 72,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 38.6400916,
+  "lon": 0.0702021,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotelportocalpe.com",
+  "wakacje.pl",
+  "hotel.info",
+  "portocalpe.com",
+  "trivago.pl",
+  "google.com.gh",
+  "onthebeach.co.uk"
+ ],
+ "updated": "2026-11-28"
+}

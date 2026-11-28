@@ -1,0 +1,142 @@
+{
+ "id": "x:hiszpania:h10 croma malaga",
+ "slug": "h10-croma-malaga",
+ "name": "H10 Croma Malaga",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Malaga"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/malaga/h10-croma-malaga/9001/13f3c8af74d5e84fc19e3-244.jpg",
+ "city": "Malaga",
+ "intro": [
+  "H10 Croma Malaga to nowoczesny, czterogwiazdkowy hotel położony w samym sercu Malagi, w dzielnicy Málaga-Centro. Otwarty w 2022 roku, obiekt wyróżnia się współczesnym designem autorstwa architekta Rafaela Moneo. Jego centralna lokalizacja sprawia, że jest idealnym wyborem dla osób pragnących zwiedzać miasto i korzystać z jego atrakcji.",
+  "Hotel jest polecany zarówno dla turystów, jak i osób podróżujących służbowo. Dzięki komfortowym pokojom i udogodnieniom, takim jak basen na dachu z widokiem na miasto, stanowi atrakcyjną bazę wypadową do odkrywania uroków Malagi. Obiekt jest również przyjazny rodzinom, oferując łóżeczka dla dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel H10 Croma Malaga znajduje się w centrum Malagi, obok Centralnego Targu Atarazanas i blisko ulicy Marqués de Larios. Odległość od ścisłego centrum miasta wynosi około 400 metrów. Najbliższe lotnisko, Malaga (AGP), oddalone jest o 9-10 km."
+  },
+  {
+   "title": "Plaża",
+   "text": "Plaża Playa de la Malagueta, piaszczysta i publiczna, znajduje się w odległości około 1.9 km do 2.5 km od hotelu. Na plaży dostępne są parasole i leżaki za dodatkową opłatą. Hotel zapewnia ręczniki w pokojach."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 138 klimatyzowanych i dźwiękoszczelnych pokoi, w tym typy Superior, Deluxe, Rodzinny, Superior Double Cathedral i Junior Suite. Każdy pokój wyposażony jest w prywatną łazienkę, telewizor z płaskim ekranem, telefon, minibar (płatny), sejf oraz biurko. Większość pokoi posiada umeblowany balkon lub taras."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na dachu hotelu znajduje się podgrzewany basen typu „plunge pool” z widokiem na miasto. Obiekt dysponuje również centrum fitness/siłownią. W hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "title": "Restauracje i bary",
+   "text": "W hotelu znajduje się restauracja główna serwująca śniadania w formie bufetu. Na dachu mieści się restauracja i bar oferujący przekąski, tapas i koktajle. Do dyspozycji gości są również Lobby Bar oraz La Mundial Bar z tarasem na parterze."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Malagi",
+  "Nowoczesny design i architektura",
+  "Basen na dachu z widokiem na miasto",
+  "Komfortowe i czyste pokoje",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Płatne leżaki i parasole na publicznej plaży",
+  "Brak aquaparku i animacji",
+  "Brak spa"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest z hotelu do plaży?",
+   "a": "Plaża Playa de la Malagueta jest oddalona o około 1.9 km do 2.5 km od hotelu."
+  },
+  {
+   "q": "Jak daleko jest z hotelu do lotniska?",
+   "a": "Lotnisko Malaga (AGP) znajduje się około 9-10 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, na dachu hotelu znajduje się podgrzewany basen typu \"plunge pool\" z widokiem na miasto."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje łóżeczka dla dzieci. Brak jest jednak mini klubu czy animacji dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Brak informacji o ofercie all inclusive jako standardowej opcji. Hotel posiada restaurację główną serwującą śniadania w formie bufetu oraz bary."
+  }
+ ],
+ "address": "Calle Prim, 4, 29005 Málaga",
+ "adultsOnly": false,
+ "airportKm": 9.5,
+ "airportName": "Lotnisko Malaga (AGP)",
+ "amenities": [
+  "Klimatyzacja",
+  "Dźwiękoszczelne pokoje",
+  "Telewizor z płaskim ekranem",
+  "Minibar (płatny)",
+  "Sejf",
+  "Biurko",
+  "Łazienka z prysznicem lub wanną",
+  "Suszarka do włosów",
+  "Szlafroki i kapcie",
+  "Umeblowany balkon lub taras (w większości pokoi)",
+  "Łóżeczka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Málaga-Centro",
+ "bars": 3,
+ "beachDistanceM": 2200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Zwiedzanie miasta",
+  "Podróże służbowe",
+  "Turyści",
+  "Nowożeńcy"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 2022,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Superior",
+  "Deluxe",
+  "Rodzinny",
+  "Superior Double Cathedral",
+  "Junior Suite"
+ ],
+ "rooms": 138,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.718015,
+  "lon": -4.4253077,
+  "src": "osm"
+ },
+ "sources": [
+  "wakacje.pl",
+  "malagahotels.org",
+  "booking.com",
+  "travelplanet.pl",
+  "h10hotels.com",
+  "malaga-online.com",
+  "agoda.com",
+  "exim.pl"
+ ],
+ "updated": "2026-11-28"
+}

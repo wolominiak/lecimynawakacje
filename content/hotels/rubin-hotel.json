@@ -1,0 +1,137 @@
+{
+ "id": "x:chorwacja:rubin hotel",
+ "slug": "rubin-hotel",
+ "name": "Rubin Hotel",
+ "country": "chorwacja",
+ "place": [
+  "chorwacja",
+  "Istria",
+  "Poreč"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/chorvatsko/istrie/porec/rubin-sunny-hotel-by-valamar-pl/8781/nny_hotel_by_valamar1-244.jpg",
+ "city": "Poreč",
+ "intro": [
+  "Hotel Rubin w Poreču na chorwackiej Istrii to trzygwiazdkowy obiekt położony w malowniczej dzielnicy Brulo, zaledwie 100 metrów od plaży. Jest to idealne miejsce dla rodzin, par oraz osób szukających spokojnego wypoczynku w otoczeniu pięknej przyrody i bliskości morza.",
+  "Hotel oferuje komfortowe zakwaterowanie w 258 pokojach, liczne udogodnienia rekreacyjne, w tym baseny ze zjeżdżalniami, oraz różnorodne opcje wyżywienia. Dzięki bliskości centrum Poreča, goście mają łatwy dostęp do lokalnych atrakcji i uroków miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Rubin znajduje się w dzielnicy Brulo w Poreču, zaledwie około 100 metrów od plaży Brulo. Plaża jest publiczna i oferuje różnorodne nawierzchnie - żwirową, skalistą, trawiastą oraz utwardzoną. Leżaki i parasole na plaży są dostępne za dodatkową opłatą, natomiast przy basenie można z nich korzystać bezpłatnie (w ograniczonej liczbie)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 258 pokojami, które zostały odnowione w 2007 roku. W ofercie znajdują się pokoje jednoosobowe, dwuosobowe, trzyosobowe oraz pokoje rodzinne. Wszystkie pokoje są klimatyzowane i wyposażone w telewizor z kanałami satelitarnymi lub LCD oraz łazienkę. Wiele pokoi posiada balkon, a niektóre dodatkowo suszarkę do włosów, sejf, minibar, biurko i zestaw do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajdują się dwie restauracje: bufetowa „Sunny Restaurant” serwująca dania wegetariańskie, lokalne i międzynarodowe, oraz restauracja à la carte „Jedro Beach Restaurant” na plaży, oferująca kuchnię śródziemnomorską. Goście mogą wybrać opcję wyżywienia „HB Plus” lub „Sunny Breakfast & Lunch”, która obejmuje obfite śniadanie i lunch w formie bufetu (od 8:00 do 14:00) z napojami bezalkoholowymi. Dostępne są również przekąski Valfresco Grab & Go przez całą dobę. Na terenie obiektu działają trzy bary: lobby bar, bar przy basenie oraz bar na plaży."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje odkryty basen słodkowodny o powierzchni około 450 m² z hydromasażem oraz oddzielny basen dla dzieci. Na basenach zewnętrznych dostępne są zjeżdżalnie, a na plaży znajduje się dmuchany park wodny (za dopłatą). Goście mogą korzystać z podgrzewanego basenu krytego oraz siłowni w sąsiednim Valamar Diamant Hotel (usługi dostępne od 4 czerwca 2027 r.). Hotel zapewnia również kort tenisowy, mini golfa, tenis stołowy, siatkówkę plażową oraz animacje dla dzieci i dorosłych. Dla najmłodszych dostępny jest mini klub (4-12 lat), plac zabaw i piaskownica."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Rubin jest rekomendowany dla rodzin z dziećmi, par oraz osób ceniących sobie spokojny wypoczynek. Bliskość plaży, liczne atrakcje dla dzieci, animacje oraz możliwość korzystania z udogodnień sąsiedniego hotelu Valamar Diamant sprawiają, że jest to dobre miejsce na wakacje dla osób w różnym wieku."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko morza i centrum Poreča",
+  "Smaczne i obfite śniadania i lunche",
+  "Czysty basen ze zjeżdżalniami",
+  "Miły i pomocny personel",
+  "Czystość w pokojach i częsta wymiana ręczników"
+ ],
+ "cons": [
+  "Pokoje mogą być postrzegane jako przestarzałe i wymagające remontu",
+  "Śniadanie serwowane jest dopiero od godziny 8:00",
+  "Leżaki i parasole na plaży są dodatkowo płatne"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 100 metrów od plaży Brulo."
+  },
+  {
+   "q": "Czy na terenie hotelu jest aquapark?",
+   "a": "Na basenach zewnętrznych dostępne są zjeżdżalnie, a na plaży znajduje się dmuchany park wodny (za dopłatą). Park wodny Aquacolors Poreč jest oddalony o około 2 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje basen dla dzieci, plac zabaw, piaskownicę, mini klub oraz animacje."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Pula (PUY), oddalone o około 58 km (lub 44 km według innych źródeł)."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Hotel oferuje opcję wyżywienia „HB Plus” lub „Sunny Breakfast & Lunch”, która obejmuje obfite śniadanie i lunch w formie bufetu z napojami bezalkoholowymi, a także przekąski Valfresco Grab & Go."
+  }
+ ],
+ "address": "Brulo 3, 52440 Poreč, Chorwacja",
+ "adultsOnly": false,
+ "airportKm": 58,
+ "airportName": "Pula (PUY)",
+ "amenities": [
+  "kort tenisowy",
+  "mini golf",
+  "tenis stołowy",
+  "siatkówka plażowa",
+  "centrum nurkowe (za opłatą)",
+  "wypożyczalnia rowerów (za opłatą)",
+  "sporty wodne (za opłatą)"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Brulo",
+ "bars": 3,
+ "beachDistanceM": 100,
+ "beachType": "żwirowa, skalista, trawiasta i utwardzona",
+ "centerKm": 0.8,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby ceniące spokój"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2007,
+ "restaurants": 2,
+ "roomTypes": [
+  "pokój jednoosobowy z klimatyzacją, TV, łazienką",
+  "pokój dwuosobowy z klimatyzacją, TV, łazienką, wiele z balkonem",
+  "pokój trzyosobowy z klimatyzacją, TV, łazienką, wiele z balkonem",
+  "Standard Family Room z klimatyzacją, TV, łazienką, wiele z balkonem",
+  "Superior Family Suite z klimatyzacją, TV, łazienką, wiele z balkonem"
+ ],
+ "rooms": 258,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 45.2157496,
+  "lon": 13.5966639,
+  "src": "osm"
+ },
+ "sources": [
+  "hotelporec.net",
+  "valamar.com",
+  "hotels-istria.net",
+  "hotelsinporec.com",
+  "lastminute.com",
+  "trip.com",
+  "wakacje.pl",
+  "mountvacation.hr"
+ ],
+ "updated": "2026-11-28"
+}

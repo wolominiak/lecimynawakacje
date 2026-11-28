@@ -1,0 +1,139 @@
+{
+ "id": "x:hiszpania:toboso chaparil",
+ "slug": "toboso-chaparil",
+ "name": "Toboso Chaparil",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Nerja"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/nerja/toboso-chaparil/d004ae5fbaae1a9db4c31.jpg",
+ "city": "Nerja",
+ "intro": [
+  "Hotel Toboso Chaparil to trzygwiazdkowy obiekt położony w samym sercu Nerji, na malowniczym wybrzeżu Costa del Sol w Hiszpanii. Jego centralna lokalizacja sprawia, że jest doskonałą bazą wypadową do zwiedzania miasta i okolic, a także do korzystania z uroków pobliskiej plaży. Hotel jest przyjazny rodzinom, parom oraz turystom indywidualnym, oferując komfortowe zakwaterowanie w przystępnej cenie.",
+  "Obiekt jest idealnym wyborem dla osób ceniących sobie bliskość atrakcji turystycznych, restauracji i barów, a także łatwy dostęp do piaszczystej plaży. Hotel Toboso Chaparil oferuje podstawowe udogodnienia, takie jak odkryty basen i bezpłatne Wi-Fi, co czyni go praktycznym miejscem na wakacyjny pobyt."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Toboso Chaparil znajduje się w centrum Nerji, zaledwie około 300 metrów od piaszczystej plaży Torrecilla. W bliskiej odległości od obiektu mieści się również słynny punkt widokowy Balcón de Europa. Hotel jest oddalony o około 0,6 km od ścisłego centrum miejscowości, co zapewnia łatwy dostęp do lokalnych atrakcji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 61 komfortowych pokoi, w tym pokoje dwuosobowe (również ekonomiczne i z balkonem) oraz trzyosobowe. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, prywatną łazienkę z prysznicem i suszarką do włosów, telefon oraz sejf. Niektóre pokoje posiadają balkon, a czajniki elektryczne można wypożyczyć z recepcji."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja bufetowa, która serwuje śniadania i kolacje, oferując dania kuchni międzynarodowej i śródziemnomorskiej, w tym lokalne specjały. Goście mogą również skorzystać z kawiarni/baru. W cenę pokoju zazwyczaj wliczone jest śniadanie w formie bufetu."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje odkrytym basenem, często opisywanym jako basen na dachu lub sezonowy basen zewnętrzny, przy którym dostępne są leżaki. W okresie letnim w kawiarni Dada garden mogą odbywać się występy na żywo. Brak informacji o aquaparku czy dodatkowych udogodnieniach rekreacyjnych."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Toboso Chaparil jest polecany dla rodzin, par, turystów oraz osób podróżujących z ograniczonym budżetem, szukających centralnej bazy wypadowej. Jest to obiekt przyjazny rodzinom, z możliwością zamówienia łóżeczka dla dzieci na życzenie. Jego lokalizacja sprzyja zwiedzaniu i korzystaniu z uroków miasta."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum",
+  "Czystość w całym obiekcie",
+  "Dobre i urozmaicone śniadania",
+  "Pomocna i przyjazna obsługa",
+  "Dobry stosunek jakości do ceny"
+ ],
+ "cons": [
+  "Brak lodówek w pokojach",
+  "Zmienna wielkość pokoi i widok",
+  "Potencjalny hałas z sąsiednich pokoi",
+  "Ograniczona dostępność parkingu (tylko na ulicy)",
+  "W niektórych opiniach wspomina się o potrzebie remontu części udogodnień"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Toboso Chaparil jest oddalony o około 300 metrów od piaszczystej plaży Torrecilla."
+  },
+  {
+   "q": "Jakie są najbliższe lotniska?",
+   "a": "Najbliższe lotniska to Grenada Federico Garcia Lorca (GRX) oddalone o około 50,2 km oraz Malaga (AGP) oddalone o około 50-70 km."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni. Dostępny jest odkryty basen."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Dostępne są łóżeczka dla dzieci na życzenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi zarówno w miejscach publicznych, jak i w pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych i jest przyjazny rodzinom."
+  },
+  {
+   "q": "Czy w pokojach są lodówki?",
+   "a": "Nie, w pokojach standardowo nie ma lodówek. Czajniki elektryczne można wypożyczyć z recepcji."
+  }
+ ],
+ "address": "Calle Chaparil, 16, 29780 Nerja, Andaluzja",
+ "adultsOnly": false,
+ "airportKm": 50.2,
+ "airportName": "Grenada Federico Garcia Lorca",
+ "amenities": [
+  "Wi-Fi",
+  "Basen zewnętrzny",
+  "Restauracja bufetowa",
+  "Kawiarnia/bar"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Costa del Sol",
+ "bars": 1,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 0.6,
+ "goodFor": [
+  "rodziny",
+  "pary",
+  "turyści",
+  "osoby z ograniczonym budżetem"
+ ],
+ "gym": false,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (ekonomiczny)",
+  "Pokój dwuosobowy (z balkonem)",
+  "Pokój trzyosobowy"
+ ],
+ "rooms": 61,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7452029,
+  "lon": -3.8817427,
+  "src": "osm"
+ },
+ "sources": [
+  "tobosohotels.com",
+  "costadelsol-hotels.net",
+  "andalucia.org",
+  "trivago.ie",
+  "nerjashotel.com",
+  "nerja-hotels.com",
+  "hoo.travel",
+  "momondo.pl"
+ ],
+ "updated": "2026-11-28"
+}

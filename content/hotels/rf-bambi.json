@@ -1,0 +1,135 @@
+{
+ "id": "x:hiszpania:rf bambi",
+ "slug": "rf-bambi",
+ "name": "Rf Bambi",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Puerto de la Cruz"
+ ],
+ "stars": 2,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/puerto-de-la-cruz/rf-bambi-pl/cina-2-e1433496675965.jpg",
+ "city": "Puerto de la Cruz",
+ "intro": [
+  "Rf Bambi to aparthotel położony w samym sercu Puerto de la Cruz na Teneryfie, zaledwie 50 metrów od piaszczystej plaży San Telmo. Obiekt, odnowiony w 2019 roku, oferuje praktyczne zakwaterowanie w apartamentach i studiach, idealne dla osób ceniących sobie niezależność i dostęp do miejskich atrakcji.",
+  "Hotel jest przeznaczony wyłącznie dla dorosłych, co czyni go doskonałym wyborem dla par i podróżujących samodzielnie, szukających spokojnego wypoczynku w centralnej lokalizacji. Bliskość restauracji, barów i sklepów sprawia, że jest to idealna baza wypadowa do odkrywania uroków miasta."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Aparthotel Rf Bambi mieści się w centralnej części Puerto de la Cruz, tuż przy promenadzie San Telmo i w pobliżu centrum handlowego Martianez. Do piaszczystej plaży San Telmo można dojść w około 5 minut, a do centrum miejscowości jest zaledwie 200 metrów. W okolicy znajduje się wiele restauracji, barów i sklepów."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 44 lub 46 apartamentami i studiami, w tym wariantami Deluxe. Wszystkie pokoje wyposażone są w prywatny balkon lub taras, aneks kuchenny z lodówką, płytą grzejną, mikrofalówką, czajnikiem i ekspresem do kawy. W łazience znajduje się prysznic, suszarka do włosów i ręczniki, a do dyspozycji gości jest także telewizor z płaskim ekranem i sejf."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen oraz kryty basen. Dodatkowo, goście mogą korzystać z podgrzewanego basenu na dachu, sauny, solarium i jacuzzi. Dla rozrywki dostępny jest również bilard, a w pobliżu hotelu znajduje się pole golfowe."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Rf Bambi oferuje opcje zakwaterowania „tylko pokój” lub „ze śniadaniem” w formie bufetu (za dodatkową opłatą). W hotelu działa kawiarnia. Dzięki aneksom kuchennym w pokojach, goście mają możliwość samodzielnego przygotowywania posiłków, a w okolicy dostępnych jest wiele restauracji i barów."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi zarówno w pomieszczeniach ogólnodostępnych, jak i w pokojach. Jest to obiekt przeznaczony wyłącznie dla dorosłych, co gwarantuje spokojny wypoczynek. Ostatni remont hotelu miał miejsce w 2019 roku."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum i blisko plaży",
+  "Przyjazny personel",
+  "Czyste pokoje z aneksem kuchennym",
+  "Podgrzewany basen na dachu",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Brak klimatyzacji",
+  "Ograniczony dostęp do parkingu",
+  "Brak strefy dla dzieci i animacji",
+  "Brak opcji all inclusive",
+  "Brak siłowni"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony 50 metrów od plaży San Telmo, do której można dojść w około 5 minut."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Tak, Rf Bambi to hotel przeznaczony wyłącznie dla dorosłych (Adults Only)."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, hotel posiada odkryty basen, kryty basen oraz podgrzewany basen na dachu."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Dostępne są opcje „tylko zakwaterowanie” oraz „ze śniadaniem”."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel znajduje się około 28 km od lotniska Tenerife North (TFN) i około 92 km od lotniska Tenerife South (TFS)."
+  },
+  {
+   "q": "Czy w pokojach jest Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w pomieszczeniach ogólnodostępnych."
+  }
+ ],
+ "address": "Calle Enrique Talg 15, 38400 Puerto de la Cruz",
+ "adultsOnly": true,
+ "airportKm": 27.8,
+ "airportName": "Tenerife North (TFN)",
+ "amenities": [
+  "Aneks kuchenny",
+  "Balkon/taras",
+  "Sejf",
+  "Telewizor z płaskim ekranem",
+  "Sauna",
+  "Solarium",
+  "Jacuzzi",
+  "Bilard"
+ ],
+ "animations": false,
+ "aquapark": false,
+ "area": "centralna część Puerto de la Cruz",
+ "bars": null,
+ "beachDistanceM": 50,
+ "beachType": "piaszczysta",
+ "centerKm": 0.2,
+ "goodFor": [
+  "dorośli",
+  "pary",
+  "osoby podróżujące samodzielnie"
+ ],
+ "gym": false,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": 1980,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2019,
+ "restaurants": null,
+ "roomTypes": [
+  "Studio Deluxe z balkonem/tarasem, aneksem kuchennym, TV, sejfem",
+  "Apartament Deluxe z balkonem/tarasem, aneksem kuchennym, TV, sejfem",
+  "Studio z balkonem/tarasem, aneksem kuchennym, TV, sejfem",
+  "Apartament z balkonem/tarasem, aneksem kuchennym, TV, sejfem"
+ ],
+ "rooms": 44,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "booking.com",
+  "hotels.com",
+  "kayak.co.uk",
+  "reserving.com",
+  "easemytrip.com",
+  "rfhoteles.com",
+  "google.com.ng",
+  "tui.com"
+ ],
+ "updated": "2026-11-28"
+}

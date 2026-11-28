@@ -1,0 +1,134 @@
+{
+ "id": 42492,
+ "slug": "concordia-rzym",
+ "name": "Concordia (Rzym)",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Lazio",
+  "Rzym"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/concordia-rzym-obiekt-1812181414-570-428.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Concordia to kameralny, trzygwiazdkowy obiekt położony w samym sercu Rzymu, w dzielnicy Spagna, zaledwie kilkaset metrów od słynnych Schodów Hiszpańskich. Mieści się w zabytkowym, XVIII-wiecznym budynku, co nadaje mu wyjątkowego charakteru. Ostatni remont hotelu miał miejsce w 2004 roku.",
+  "Obiekt jest idealnym wyborem dla par, osób podróżujących służbowo oraz turystów nastawionych na zwiedzanie miasta. Dzięki centralnej lokalizacji i dobremu połączeniu z komunikacją miejską, stanowi doskonałą bazę wypadową do odkrywania uroków Wiecznego Miasta. Hotel jest również odpowiedni dla rodzin, oferując komfortowe zakwaterowanie w historycznej scenerii."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Concordia znajduje się w Rzymie, w regionie Lazio, we Włoszech. Jego centralna lokalizacja w dzielnicy Spagna, zaledwie 300-900 metrów od ścisłego centrum, sprawia, że jest doskonałym punktem startowym do zwiedzania miasta. W pobliżu znajdują się takie atrakcje jak Schody Hiszpańskie i Fontanna di Trevi."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 21 lub 24 pokoje, w tym pokoje dwuosobowe (Double, Twin/Double, Economy Double, Standard Double, Small Double, Deluxe Double) oraz trzyosobowe (Triple). Niektóre pokoje Deluxe posiadają balkon. Wszystkie pokoje wyposażone są w klimatyzację, telewizor z płaskim ekranem, minibar, suszarkę do włosów, sejf oraz zestaw do parzenia kawy/herbaty."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel Concordia serwuje śniadanie w formie bufetu, które podawane jest w charakterystycznej sali z kamiennymi ścianami. W okresie letnim goście mogą cieszyć się śniadaniem na tarasie na dachu, skąd rozpościera się widok na miasto. Na tarasie dostępny jest również bar. Hotel nie oferuje opcji all inclusive."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel nie posiada basenów, aquaparku ani siłowni. Goście mogą korzystać z bezpłatnego Wi-Fi dostępnego w pokojach i w miejscach publicznych. Jedną z głównych atrakcji jest taras na dachu, który oferuje panoramiczne widoki na historyczne centrum Rzymu i Bazylikę św. Piotra."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Rzymu, blisko głównych atrakcji",
+  "Pomocny i przyjazny personel",
+  "Czystość w całym obiekcie",
+  "Dobre śniadania, często serwowane na tarasie z widokiem",
+  "Taras na dachu z widokiem na historyczne centrum"
+ ],
+ "cons": [
+  "Pokoje bywają małe lub ciasne",
+  "Pokoje w aneksie mogą być niewygodne ze względu na odległość od recepcji",
+  "Możliwy hałas uliczny w pokojach wychodzących na główną ulicę",
+  "Śniadanie bywa monotonne, pojawiały się uwagi dotyczące higieny",
+  "Niektóre pokoje mogą wymagać renowacji"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od centrum Rzymu?",
+   "a": "Hotel znajduje się około 300-900 metrów od ścisłego centrum Rzymu."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotniska to Fiumicino (FCO) w odległości 28-32 km oraz Ciampino (CIA) w odległości 25-29 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenów ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni również dla rodzin z dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi w pokojach i miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Serwowane są śniadania w formie bufetu."
+  }
+ ],
+ "address": "Via di Capo le Case, 14, 00187 Roma RM, Włochy",
+ "adultsOnly": false,
+ "airportKm": 28,
+ "airportName": "Fiumicino (FCO)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Taras na dachu",
+  "Bar na tarasie"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Spagna (Hiszpańskie Schody)",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0.3,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące służbowo",
+  "Turyści zwiedzający miasto",
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2004,
+ "restaurants": null,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double)",
+  "Pokój dwuosobowy (Twin/Double)",
+  "Pokój dwuosobowy ekonomiczny (Economy Double)",
+  "Pokój dwuosobowy standardowy (Standard Double)",
+  "Mały pokój dwuosobowy (Small Double)",
+  "Pokój dwuosobowy Deluxe (Deluxe Double)",
+  "Pokój trzyosobowy (Triple)"
+ ],
+ "rooms": 21,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 48.0004547,
+  "lon": 0.196442,
+  "src": "osm"
+ },
+ "sources": [
+  "agoda.com",
+  "it-romehotels.com",
+  "romadihotel.com",
+  "dnatatravel.com",
+  "google.com",
+  "guestreservations.com",
+  "booking.com",
+  "trivago.com"
+ ],
+ "updated": "2026-11-28"
+}

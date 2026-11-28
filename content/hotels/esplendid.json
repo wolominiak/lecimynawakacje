@@ -1,0 +1,147 @@
+{
+ "id": "x:hiszpania:esplendid",
+ "slug": "esplendid",
+ "name": "Esplendid",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Blanes"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/blanes/esplendid/004_aesbcbb9v6_766386.jpg",
+ "city": "Blanes",
+ "intro": [
+  "Hotel Esplendid to trzygwiazdkowy obiekt położony w turystycznej dzielnicy Los Pinos w Blanes, na słonecznym wybrzeżu Costa Brava w Hiszpanii. Jest to idealne miejsce dla rodzin szukających relaksującego wypoczynku blisko piaszczystej plaży i lokalnych atrakcji.",
+  "Obiekt oferuje szeroki wachlarz udogodnień, w tym baseny, mini klub dla dzieci oraz program rozrywkowy w sezonie letnim. Ze względu na swoją lokalizację i wyposażenie, Esplendid jest rekomendowany przede wszystkim rodzinom z dziećmi, które cenią sobie aktywny wypoczynek i łatwy dostęp do miejskich udogodnień."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Esplendid znajduje się w Blanes, w turystycznej dzielnicy Los Pinos, zaledwie około 300 metrów (mniej niż 5 minut spacerem) od piaszczystej plaży Platja de S'Abanell. Do centrum Blanes i przystani jest około 1.5 km. Najbliższe lotnisko, Girona-Costa Brava (GRO), oddalone jest o około 30-33 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 400 pokojami rozmieszczonymi na 4 piętrach. W ofercie są pokoje dwuosobowe, trzyosobowe oraz pokoje typu Superior z balkonem. Wszystkie wyposażone są w klimatyzację, prywatny taras lub balkon, łazienkę, telewizor, telefon oraz bezpłatne Wi-Fi. Na życzenie dostępne są bezpłatne łóżeczka dziecięce."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa, która serwuje śniadania, obiady i kolacje, oferując dania kuchni europejskiej i halal, a także kolacje tematyczne w sezonie letnim. Goście mogą korzystać z trzech barów, w tym baru przy basenie. Hotel nie serwuje napojów alkoholowych ani produktów wieprzowych. Dostępne opcje wyżywienia to: tylko pokój, śniadanie, obiadokolacja i pełne wyżywienie."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa odkryte baseny oraz jeden kryty i podgrzewany basen. Dla dzieci przygotowano oddzielny basen, plac zabaw oraz sprzęt do zabaw na świeżym powietrzu. W sezonie letnim hotel oferuje program animacyjny. Obiekt posiada również centrum fitness, kort tenisowy, tenis stołowy, bilard, squash, saunę i solarium. Niektóre z tych udogodnień są sezonowo zamknięte poza szczytem sezonu."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Hotel Esplendid jest bardzo przyjazny rodzinom. Oferuje basen dla dzieci, plac zabaw, sprzęt do zabaw na świeżym powietrzu oraz bezpłatny mini klub dla dzieci (sezonowo zamknięty poza sezonem letnim). Program animacyjny w sezonie letnim zapewnia rozrywkę dla najmłodszych."
+  }
+ ],
+ "pros": [
+  "Bliskość plaży, sklepów i restauracji",
+  "Przyjazny personel i rodzinna atmosfera",
+  "Duże baseny",
+  "Dobra relacja jakości do ceny",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Hotel jest nieco przestarzały i wymaga modernizacji",
+  "Brak alkoholu i wieprzowiny w ofercie gastronomicznej",
+  "Możliwy hałas, zwłaszcza przy grupach młodzieży",
+  "Ograniczona różnorodność jedzenia",
+  "Dodatkowe opłaty za niektóre usługi (np. sejf)"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Esplendid znajduje się około 300 metrów od piaszczystej plaży Platja de S'Abanell, co zajmuje mniej niż 5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie wodne?",
+   "a": "Brak informacji o zjeżdżalniach wodnych lub aquaparku w hotelu Esplendid."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest bardzo polecany dla rodzin z dziećmi. Posiada basen dla dzieci, plac zabaw, mini klub i program animacyjny w sezonie letnim."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Port lotniczy Girona-Costa Brava (GRO), oddalone o około 30-33 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w pokojach i pomieszczeniach ogólnodostępnych dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy w hotelu serwowane są napoje alkoholowe?",
+   "a": "Nie, hotel nie serwuje napojów alkoholowych ani produktów wieprzowych."
+  }
+ ],
+ "address": "Avinguda del Mediterrani, 17, 17300 Blanes, Girona",
+ "adultsOnly": false,
+ "airportKm": 30.8,
+ "airportName": "Girona - Costa Brava (GRO)",
+ "amenities": [
+  "Klimatyzacja",
+  "Balkon/taras",
+  "Prywatna łazienka",
+  "Telewizor",
+  "Telefon",
+  "Sejf (płatny)",
+  "Łóżeczko dziecięce na życzenie",
+  "Sauna",
+  "Solarium",
+  "Centrum fitness",
+  "Kort tenisowy",
+  "Tenis stołowy",
+  "Bilard",
+  "Squash",
+  "Aerobik w wodzie",
+  "Plac zabaw",
+  "Sprzęt do zabaw na świeżym powietrzu"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Los Pinos",
+ "bars": 3,
+ "beachDistanceM": 300,
+ "beachType": "piaszczysta",
+ "centerKm": 1.5,
+ "goodFor": [
+  "Rodziny",
+  "Relaksujące wakacje na plaży"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": 1987,
+ "pools": 3,
+ "privateBeach": false,
+ "renovated": 1996,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy z balkonem",
+  "Pokój trzyosobowy",
+  "Pokój dwuosobowy typu Superior z balkonem",
+  "Pokój standardowy"
+ ],
+ "rooms": 400,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.6673,
+  "lon": 2.7831,
+  "src": "web"
+ },
+ "sources": [
+  "booking.com",
+  "hotelesplendid.com",
+  "reserving.com",
+  "yandex.com",
+  "travelyalla.com",
+  "hrs.com",
+  "holidaycheck.de",
+  "guestreservations.com"
+ ],
+ "updated": "2026-11-28"
+}

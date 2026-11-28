@@ -1,0 +1,137 @@
+{
+ "id": "x:hiszpania:augusta club hotel and spa adults only",
+ "slug": "augusta-club-hotel-spa-adults-only",
+ "name": "Augusta Club Hotel & Spa - Adults Only",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa Brava",
+  "Lloret de Mar"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/costa-brava/lloret-de-mar/augusta-club-hotel-a-spa-adults-only-pl/3589/98b21d11a924bbc06f8d4260abca89e8_6-244.jpg",
+ "city": "Lloret de Mar",
+ "intro": [
+  "Augusta Club Hotel & Spa - Adults Only to czterogwiazdkowy obiekt położony w spokojnej, ale centralnej części Lloret de Mar na wybrzeżu Costa Brava w Hiszpanii. Hotel, przeznaczony wyłącznie dla osób dorosłych (powyżej 16 lat), oferuje kameralną atmosferę i jest idealnym wyborem dla par oraz osób poszukujących relaksu i spokoju, zgodnie z koncepcją \"Slow Travel\".",
+  "Obiekt znajduje się w dogodnej lokalizacji, umożliwiającej łatwy dostęp do plaży, centrum miasta, sklepów i restauracji. Goście mogą korzystać z bogatej oferty spa i wellness, a także z udogodnień sportowych, co czyni go atrakcyjnym miejscem na wypoczynek bez dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Augusta Club & Spa usytuowany jest w Lloret de Mar, około 500 metrów od piaszczystej plaży Lloret de Mar, co przekłada się na około 10-minutowy spacer. Plaża Fenals oddalona jest o około 17 minut spacerem. Obiekt znajduje się w spokojnej okolicy, jednocześnie blisko centrum miasta, co zapewnia łatwy dostęp do lokalnych atrakcji, sklepów i restauracji."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 172 pokojami (niektóre źródła podają 310), w tym pokojami dwuosobowymi, jednoosobowymi, trzyosobowymi, czteroosobowymi oraz superior z tarasem. Wszystkie pokoje wyposażone są w klimatyzację, ogrzewanie, bezpłatne Wi-Fi, telewizor z płaskim ekranem, minilodówkę oraz łazienkę. Większość pokoi posiada balkon, a pokoje superior oferują dodatkowo zestaw do parzenia kawy/herbaty, szlafroki i kapcie."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa z opcją show cooking, serwująca dania kuchni śródziemnomorskiej, międzynarodowej i wegetariańskie na śniadania i kolacje. Goście mają do dyspozycji również bar/lounge oraz bar przy basenie, w tym swim-up bar. Śniadanie jest dostępne za dodatkową opłatą."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się odkryty basen oraz podgrzewany basen kryty. Hotel oferuje centrum spa i wellness z sauną, łaźnią turecką, gabinetami zabiegowymi i masażami (dodatkowo płatne). Dostępna jest również siłownia, a bezpłatne zajęcia jogi i pilates są organizowane dla gości. Wieczorami hotel zapewnia rozrywkę na żywo."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Augusta Club Hotel & Spa jest hotelem wyłącznie dla dorosłych (Adults Only +16), co czyni go idealnym wyborem dla par i osób szukających ciszy i spokoju. Filozofia \"Slow Travel\" podkreśla jego przeznaczenie dla gości ceniących relaks i wypoczynek. Dogodna lokalizacja blisko plaży i centrum, w połączeniu z ofertą spa i siłowni, sprawia, że jest to doskonałe miejsce na odprężający urlop."
+  }
+ ],
+ "pros": [
+  "Czystość hotelu i przyjazny personel",
+  "Dobra lokalizacja blisko centrum i plaży",
+  "Różnorodne i smaczne jedzenie z show cooking",
+  "Dostęp do spa, siłowni i zajęć jogi/pilates",
+  "Bezpłatne Wi-Fi w całym hotelu"
+ ],
+ "cons": [
+  "Pokoje mogą być małe, podstawowe lub nieco przestarzałe",
+  "Możliwy hałas z ulicy lub rozrywki",
+  "Parking jest dodatkowo płatny i ma ograniczoną liczbę miejsc",
+  "Dostęp do spa jest dodatkowo płatny",
+  "Brak informacji o ofercie all inclusive"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Augusta Club & Spa znajduje się około 500 metrów od plaży Lloret de Mar, co oznacza około 10 minut spacerem."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Nie, hotel Augusta Club & Spa jest hotelem wyłącznie dla dorosłych (Adults Only +16 lat) i nie posiada udogodnień dla dzieci."
+  },
+  {
+   "q": "Jakie lotnisko jest najbliżej hotelu?",
+   "a": "Najbliższe lotnisko to Girona-Costa Brava (GRO), oddalone o około 30 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne zarówno w pokojach, jak i w ogólnodostępnych częściach hotelu."
+  },
+  {
+   "q": "Czy hotel posiada basen?",
+   "a": "Tak, hotel oferuje odkryty basen oraz kryty basen, który jest podgrzewany."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "Carrer dels Mestres, 6, 17310 Lloret de Mar, Girona, Hiszpania",
+ "adultsOnly": true,
+ "airportKm": 30,
+ "airportName": "Girona-Costa Brava (GRO)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kryty basen",
+  "Odkryty basen",
+  "Restauracja bufetowa",
+  "Bar/lounge",
+  "Bar przy basenie",
+  "Rozrywka na żywo",
+  "Joga",
+  "Pilates"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Spokojna okolica, blisko centrum miasta",
+ "bars": 2,
+ "beachDistanceM": 500,
+ "beachType": "Piaszczysta",
+ "centerKm": 0.75,
+ "goodFor": [
+  "Pary",
+  "Osoby szukające relaksu i spokoju"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy/twin",
+  "Pokój jednoosobowy",
+  "Pokój trzyosobowy",
+  "Pokój czteroosobowy",
+  "Pokój superior z tarasem"
+ ],
+ "rooms": 172,
+ "spa": true,
+ "wifi": true,
+ "geo": null,
+ "sources": [
+  "lloretdemarehotel.com",
+  "agoda.com",
+  "ststravels.no",
+  "trivago.co.uk",
+  "mapstr.com",
+  "booking.com",
+  "hotels.com",
+  "jump2spain.com"
+ ],
+ "updated": "2026-11-28"
+}

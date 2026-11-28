@@ -1,0 +1,135 @@
+{
+ "id": "x:grecja:atma beach room and suites",
+ "slug": "atma-beach-room-and-suites",
+ "name": "Atma Beach Room And Suites",
+ "country": "grecja",
+ "place": [
+  "grecja",
+  "Rodos",
+  "Faliraki"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/recko/rhodos/faliraki/atma-beach-room-and-suites/3e3f979f917615661dc87.JPG",
+ "city": "Faliraki",
+ "intro": [
+  "Atma Beach Room And Suites to 3-gwiazdkowy hotel położony w samym sercu Faliraki na Rodos, tuż przy głównym placu miejscowości. Obiekt charakteryzuje się unikalną zabudową, składającą się z pięciu budynków o różnym stylu, co nadaje mu indywidualny charakter. Hotel jest rekomendowany dla par, rodzin oraz grup przyjaciół, szukających komfortowego zakwaterowania blisko plaży i centrum rozrywkowego.",
+  "Hotel oferuje nowocześnie wyremontowane pokoje i apartamenty, zapewniające wysoki standard wypoczynku. Dzięki dogodnej lokalizacji, goście mają łatwy dostęp do lokalnych atrakcji, restauracji i sklepów, a jednocześnie mogą cieszyć się spokojem i relaksem. Bliskość plaży Faliraki sprawia, że jest to idealne miejsce dla miłośników słońca i morskich kąpieli."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Atma Beach Room And Suites znajduje się w Faliraki, bezpośrednio przy głównym placu miejscowości. Zaledwie 3 minuty spacerem (około 100-150 metrów) dzieli obiekt od piaszczystej plaży Faliraki. Do centrum miejscowości jest około 100 metrów, a międzynarodowe lotnisko Rodos (RHO) oddalone jest o około 15 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 26 nowo wyremontowanymi pokojami i apartamentami, rozmieszczonymi w pięciu budynkach. Wszystkie pokoje są klimatyzowane i ogrzewane, wyposażone w prywatną łazienkę z prysznicem, telewizor z płaskim ekranem, bezpłatne WiFi, sejf, zestaw do parzenia kawy/herbaty, lodówkę i bezpłatny minibar. Niektóre pokoje posiadają prywatne baseny typu \"plunge pool\" oraz balkony lub tarasy."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu Atma Beach Room And Suites codziennie serwowane jest bezpłatne śniadanie w formie bufetu, które obejmuje opcje kontynentalne, pełne angielskie/irlandzkie oraz wegetariańskie. Na terenie obiektu znajduje się również bar i kawiarnia z miejscami do siedzenia na świeżym powietrzu. Brak informacji o ofercie all inclusive."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Goście mogą korzystać ze wspólnego basenu na terenie obiektu. Dodatkowo, wybrane pokoje i apartamenty oferują prywatne baseny typu \"plunge pool\". Hotel umożliwia wypożyczenie rowerów, co stanowi dobrą opcję na zwiedzanie okolicy. Na terenie całego obiektu dostępne jest bezpłatne WiFi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży i centrum Faliraki",
+  "Czyste, komfortowe i nowo wyremontowane pokoje",
+  "Przyjazny i pomocny personel",
+  "Smaczne śniadania w formie bufetu",
+  "Dostępne pokoje z prywatnymi basenami \"plunge pool\""
+ ],
+ "cons": [
+  "Niektóre pokoje mogą być małe i brakować w nich szafy",
+  "Sugerowano lepszą organizację przestrzeni w pokojach",
+  "Brak zasłon zaciemniających w niektórych pokojach",
+  "Brak informacji o spa i siłowni",
+  "Brak informacji o leżakach na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Atma Beach Room And Suites jest położony około 100-150 metrów od plaży Faliraki, co oznacza około 3 minuty spacerem."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Odległość od międzynarodowego lotniska Rodos (RHO) wynosi około 15 km."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje bezpłatne śniadanie w formie bufetu. Brak jest informacji o ofercie all inclusive."
+  },
+  {
+   "q": "Czy hotel posiada baseny?",
+   "a": "Tak, na terenie obiektu znajduje się co najmniej jeden wspólny basen. Niektóre pokoje i apartamenty posiadają również prywatne baseny typu \"plunge pool\"."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do WiFi?",
+   "a": "Tak, na terenie całego obiektu oraz w pokojach dostępne jest bezpłatne WiFi."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, par i grup przyjaciół. Oferuje pokoje typu Family Suite."
+  }
+ ],
+ "address": "Faliraki Main Square, Rodos, Grecja",
+ "adultsOnly": false,
+ "airportKm": 15,
+ "airportName": "Rodos (RHO)",
+ "amenities": [
+  "bezpłatne WiFi",
+  "wypożyczalnia rowerów",
+  "bar",
+  "kawiarnia",
+  "bezpłatne śniadania"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Faliraki",
+ "bars": 1,
+ "beachDistanceM": 150,
+ "beachType": "piaszczysta",
+ "centerKm": 0.1,
+ "goodFor": [
+  "pary",
+  "rodziny z dziećmi",
+  "grupy przyjaciół"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": null,
+ "restaurants": null,
+ "roomTypes": [
+  "Bohemian Double Room",
+  "Deluxe Double Room z basenem typu plunge pool",
+  "Junior Suite z basenem typu plunge pool",
+  "Junior Suite z widokiem na morze",
+  "Family Suite",
+  "Family Suite z prywatnym basenem typu plunge pool",
+  "Apartamenty"
+ ],
+ "rooms": 26,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 36.340299,
+  "lon": 28.203282,
+  "src": "web"
+ },
+ "sources": [
+  "travelmyth.co.uk",
+  "atmasuites.gr",
+  "reserve-online.net",
+  "mapy.com",
+  "booking.com",
+  "planetofhotels.com",
+  "holidaycheck.de",
+  "kayak.com"
+ ],
+ "updated": "2026-11-28"
+}

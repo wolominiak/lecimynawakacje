@@ -1,0 +1,134 @@
+{
+ "id": 44965,
+ "slug": "genio",
+ "name": "Genio",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Lazio",
+  "Rzym"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/genio-restauracja-1627864594-570-428.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Genio to czterogwiazdkowy obiekt położony w samym sercu Rzymu, w zabytkowej dzielnicy Ponte, naprzeciwko słynnego Piazza Navona. Mieści się w pięciopiętrowym budynku z 1905 roku, łączącym klasyczny styl z nowoczesnymi udogodnieniami. Jest to idealne miejsce dla osób pragnących zwiedzać miasto pieszo, mając najważniejsze atrakcje na wyciągnięcie ręki.",
+  "Obiekt jest szczególnie polecany parom, osobom podróżującym samotnie, małym rodzinom oraz grupom przyjaciół, którzy cenią sobie bliskość historycznych zabytków i komfortowe warunki pobytu. Hotel oferuje bezpłatne Wi-Fi oraz śniadania z widokiem na miasto, co stanowi dodatkowy atut dla gości."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Genio usytuowany jest w centrum Rzymu, w dzielnicy Ponte, tuż przy Piazza Navona. Z obiektu łatwo dotrzeć pieszo do Panteonu (około 0.3-0.42 km) oraz Fontanny di Trevi (około 0.6-0.9 km). Lokalizacja ta zapewnia doskonałą bazę wypadową do zwiedzania najważniejszych zabytków Wiecznego Miasta."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 60-68 pokojami, które zostały odnowione w 2005 roku. Dostępne są pokoje jedno-, dwu-, trzy- i czteroosobowe, wyposażone w klimatyzację, telewizor z płaskim ekranem, minibar, sejf, biurko oraz prywatną łazienkę z suszarką do włosów i zestawem kosmetyków. Wystrój pokoi jest klasyczny i elegancki, a niektóre z nich oferują widok na okolicę."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja oraz bar/lounge. W cenę pobytu wliczone jest śniadanie kontynentalne w formie bufetu, które serwowane jest na tarasie na dachu. Goście mogą cieszyć się posiłkiem, podziwiając panoramiczny widok na Rzym. Hotel nie oferuje pełnego pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel Genio oferuje bezpłatne Wi-Fi dostępne zarówno w pokojach, jak i w pomieszczeniach ogólnodostępnych. Na miejscu znajduje się również centrum fitness/siłownia. Obiekt nie posiada basenów, aquaparku ani spa. Dostępne są łóżeczka dla dzieci, co sprawia, że hotel jest odpowiedni również dla rodzin."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Rzymu",
+  "Śniadanie na tarasie z widokiem na miasto",
+  "Pomocna i profesjonalna obsługa",
+  "Czyste i przestronne pokoje",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Mała winda",
+  "Pokoje mogą być postrzegane jako przestarzałe lub małe",
+  "Hałas z ulicy w niektórych pokojach",
+  "Brak basenu i spa",
+  "Brak parkingu na miejscu lub parking płatny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel Genio znajduje się około 27.9 km od lotniska Fiumicino (FCO) i około 16.9 km od lotniska Ciampino (CIA)."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Genio nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje łóżeczka dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu Genio dostępne jest bezpłatne Wi-Fi w pokojach i pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje śniadanie w formie bufetu kontynentalnego, ale nie jest to pełny pakiet all inclusive."
+  },
+  {
+   "q": "Jak daleko jest hotel od głównych atrakcji Rzymu?",
+   "a": "Hotel znajduje się naprzeciwko Piazza Navona, około 0.3-0.42 km od Panteonu i około 0.6-0.9 km od Fontanny di Trevi."
+  }
+ ],
+ "address": "Via Giuseppe Zanardelli 28, 00186 Rzym, RM, Włochy",
+ "adultsOnly": false,
+ "airportKm": 27.9,
+ "airportName": "Fiumicino - Leonardo da Vinci (FCO)",
+ "amenities": [
+  "Wi-Fi",
+  "Siłownia",
+  "Bar",
+  "Restauracja",
+  "Łóżeczka dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Ponte",
+ "bars": 1,
+ "beachDistanceM": null,
+ "beachType": "",
+ "centerKm": 0,
+ "goodFor": [
+  "Pary",
+  "Osoby podróżujące samotnie",
+  "Rodziny z dziećmi",
+  "Grupy przyjaciół",
+  "Zwiedzający miasto"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": 1930,
+ "pools": null,
+ "privateBeach": null,
+ "renovated": 2005,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój jednoosobowy",
+  "Pokój dwuosobowy (Standard, do pojedynczego wykorzystania)",
+  "Pokój trzyosobowy",
+  "Pokój czteroosobowy"
+ ],
+ "rooms": 66,
+ "spa": null,
+ "wifi": true,
+ "geo": {
+  "lat": 41.9007436,
+  "lon": 12.4722684,
+  "src": "osm"
+ },
+ "sources": [
+  "expedia.com",
+  "hotels.com",
+  "agoda.com",
+  "thatfilmspot.com",
+  "hotelgenioroma.it",
+  "mapcarta.com",
+  "leonardihotels.com",
+  "oddviser.com"
+ ],
+ "updated": "2026-11-28"
+}

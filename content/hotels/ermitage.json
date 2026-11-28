@@ -1,0 +1,139 @@
+{
+ "id": 19060,
+ "slug": "ermitage",
+ "name": "Ermitage",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Wybrzeże Adriatyku",
+  "Lido di Jesolo"
+ ],
+ "stars": 4,
+ "photo": "/no-index/zdjecie/id/20001747600-570-428.jpg",
+ "city": "Lido di Jesolo",
+ "intro": [
+  "Park Hotel Ermitage Resort & Spa to czterogwiazdkowy obiekt położony bezpośrednio przy piaszczystej plaży w spokojnej dzielnicy Pineta, w otoczeniu lasu sosnowego. Hotel, o architekturze przypominającej statek wycieczkowy, jest idealnym miejscem dla osób szukających relaksu w otoczeniu natury, a jednocześnie ceniących sobie bliskość morza i udogodnienia nowoczesnego resortu.",
+  "Obiekt jest szczególnie polecany dla rodzin z dziećmi, par oraz wszystkich, którzy pragną wypocząć z dala od zgiełku, korzystając z prywatnej plaży, podgrzewanego basenu oraz bogatej oferty spa. Dzięki licznym udogodnieniom dla najmłodszych, hotel zapewnia komfortowy pobyt również rodzinom."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się w Lido di Jesolo, w dzielnicy Pineta, bezpośrednio przy morzu, otoczony lasem sosnowym. Posiada prywatną, piaszczystą plażę, oddaloną o około 5 minut spacerem od głównego budynku. Goście mogą bezpłatnie korzystać z parasoli, leżaków i ręczników plażowych."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 33 pokoje i apartamenty o różnym standardzie, w tym Single Classic, Superior Double, Junior Suite oraz Family Room. Wszystkie pokoje wyposażone są w klimatyzację, minibar, telewizor z kanałami satelitarnymi (Sky), bezpłatne Wi-Fi oraz balkon lub taras, często z widokiem na morze. Na życzenie dostępne są łóżeczka dziecięce."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu działa restauracja à la carte, serwująca kuchnię śródziemnomorską, lokalną i międzynarodową. Śniadania, obiady i kolacje podawane są w formie bogatego bufetu z opcją show cooking na tarasie z widokiem na morze. Do dyspozycji gości są również bar przy basenie oraz Lounge Restaurant & Bar, oferujące przekąski i aperitify."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel dysponuje dużym, sezonowym basenem zewnętrznym z hydromasażem, podgrzewanym do około 28 stopni, z płytką częścią. Goście mogą korzystać z centrum spa i odnowy biologicznej, siłowni oraz bezpłatnych rowerów. Na plaży dostępne są sporty wodne, takie jak windsurfing i parasailing."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował plac zabaw oraz mini klub. W ofercie hotelu znajdują się również rozrywki na żywo, takie jak muzyka na żywo po kolacji oraz aperitif z muzyką w niedzielne wieczory. Hotel jest przyjazny rodzinom i nie jest obiektem wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Bezpośrednie położenie przy prywatnej, piaszczystej plaży",
+  "Podgrzewany basen zewnętrzny z hydromasażem",
+  "Bogata oferta spa i centrum fitness",
+  "Bezpłatne Wi-Fi, rowery i parking",
+  "Bardzo dobre śniadania i kolacje z show cooking"
+ ],
+ "cons": [
+  "Brak aquaparku na terenie hotelu",
+  "Sporadyczne uwagi dotyczące hałasu",
+  "Wspomniane w jednej opinii małe pokoje i przestarzałe łazienki",
+  "Centrum miejscowości oddalone o 3 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel jest położony bezpośrednio przy prywatnej, piaszczystej plaży, około 5 minut spacerem od prywatnej części."
+  },
+  {
+   "q": "Czy hotel posiada basen z podgrzewaną wodą?",
+   "a": "Tak, hotel oferuje duży, sezonowy basen zewnętrzny z hydromasażem, podgrzewany do około 28 stopni."
+  },
+  {
+   "q": "Czy w hotelu jest dostępny aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu brak zjeżdżalni czy aquaparku, ale w pobliżu znajdują się Aqualandia (9 km) i Caribe Bay (9.3 km)."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom z dziećmi, oferuje plac zabaw i mini klub."
+  },
+  {
+   "q": "Jaka jest odległość od najbliższego lotniska?",
+   "a": "Najbliższe lotnisko to Wenecja Marco Polo (VCE), oddalone o około 39 km (około 39 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i na terenie całego obiektu."
+  }
+ ],
+ "address": "Viale Oriente, 72, 30016 Jesolo VE, Włochy",
+ "adultsOnly": false,
+ "airportKm": 39,
+ "airportName": "Wenecja Marco Polo (VCE)",
+ "amenities": [
+  "Spa i centrum odnowy biologicznej",
+  "Centrum fitness",
+  "Bezpłatne rowery",
+  "Parking",
+  "Rozrywka na żywo"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Pineta",
+ "bars": 2,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 3,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "osoby szukające relaksu i kontaktu z naturą"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Single Classic",
+  "Superior Double",
+  "Junior Suite Superior",
+  "Junior Suite Bellevue",
+  "Junior Suite Prestige",
+  "Family Room Classic",
+  "Family Room Elegance",
+  "Family Suite Deluxe"
+ ],
+ "rooms": 33,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 50.8580147,
+  "lon": 4.3463563,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "hotels-veneto.com",
+  "jesolobeach.com",
+  "isoladiburano.it",
+  "parkhotelermitage.com",
+  "jeka.ro",
+  "google.com.ng",
+  "lidodijesolohotel.com"
+ ],
+ "updated": "2026-11-28"
+}

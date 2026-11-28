@@ -1,0 +1,137 @@
+{
+ "id": 27545,
+ "slug": "le-playe",
+ "name": "Le Playe",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Kalabria",
+  "Tropea"
+ ],
+ "stars": 3,
+ "photo": "/no-index/zdjecie/id/20001428230-570-428.jpg",
+ "city": "Santa Domenica di Ricadi",
+ "intro": [
+  "Hotel Le Playe to trzygwiazdkowy obiekt położony na malowniczym Wybrzeżu Bogów w Kalabrii, w pobliżu Tropei i Capo Vaticano. Obiekt oferuje zarówno pokoje hotelowe, jak i przestronne apartamenty, rozmieszczone wśród śródziemnomorskiej roślinności na terenie o powierzchni 14 000 m². Z hotelu roztacza się widok na Morze Tyrreńskie i Wyspy Liparyjskie.",
+  "Le Playe to idealne miejsce dla rodzin oraz osób szukających spokojnego wypoczynku w otoczeniu natury, z możliwością aktywnego spędzania czasu. Hotel łączy relaks z dostępem do lokalnych atrakcji, oferując jednocześnie komfortowe zakwaterowanie i udogodnienia dla dzieci."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Le Playe znajduje się w Santa Domenica di Ricadi, około 3 km od centrum Tropei. Obiekt jest usytuowany 70 metrów nad poziomem morza, oferując prywatną, białą plażę dostępną ścieżką. Dodatkowo, hotel zapewnia bezpłatny transfer na pobliską plażę Formicoli."
+  },
+  {
+   "title": "Pokoje i apartamenty",
+   "text": "Hotel oferuje 16 pokoi hotelowych oraz 18 apartamentów (dwu- i trzypokojowych). Pokoje hotelowe wyposażone są w klimatyzację, telewizor LCD, łazienkę, umeblowaną werandę, Wi-Fi, minibar, sejf i telefon. Apartamenty posiadają werandę, Wi-Fi, kuchnię, łazienkę, telewizor LCD, lodówkę i płytę grzewczą, a klimatyzacja jest dostępna za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni włoskiej. Goście mogą korzystać również z baru oraz baru przy basenie. W cenę zakwaterowania wliczone jest śniadanie, a opcja niepełnego wyżywienia (half board) nie obejmuje napojów."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu dostępne są jeden lub dwa baseny zewnętrzne z solarium. Dla dzieci przygotowano plac zabaw oraz oddzielny basen. Hotel oferuje także kort tenisowy, boisko do piłki nożnej (calcetto), tenis stołowy i bilard. Od lipca do końca sierpnia organizowane są animacje i zorganizowane zajęcia."
+  },
+  {
+   "title": "Udogodnienia i usługi",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach, apartamentach i miejscach publicznych. W okolicy dostępne są liczne aktywności wodne, takie jak nurkowanie, kajakarstwo, wędkarstwo i snorkeling. Hotel jest przyjazny rodzinom i oferuje udogodnienia dla najmłodszych gości."
+  }
+ ],
+ "pros": [
+  "Spokojna lokalizacja z pięknym widokiem na morze",
+  "Prywatna, biała plaża w pobliżu",
+  "Bezpłatne Wi-Fi w całym obiekcie",
+  "Udogodnienia dla rodzin z dziećmi (plac zabaw, basen)",
+  "Możliwość uprawiania sportów i aktywności wodnych"
+ ],
+ "cons": [
+  "Brak informacji o bezpłatnych leżakach i ręcznikach na plaży",
+  "Klimatyzacja w apartamentach jest dodatkowo płatna",
+  "Brak opcji all inclusive",
+  "Brak siłowni i spa",
+  "Brak zjeżdżalni czy aquaparku"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Le Playe znajduje się 70 metrów nad poziomem morza, z dostępem do prywatnej, białej plaży ścieżką. Dostępny jest również bezpłatny transfer na pobliską plażę Formicoli."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Lamezia Terme (SUF), oddalony o około 39.6 km."
+  },
+  {
+   "q": "Czy hotel oferuje animacje dla dzieci?",
+   "a": "Tak, animacje odbywają się od lipca do końca sierpnia. Dostępne są również zorganizowane zajęcia i rozrywka."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do internetu?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach hotelowych, apartamentach i w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada plac zabaw dla dzieci oraz basen dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Nie, w hotelu nie ma aquaparku ani zjeżdżalni."
+  }
+ ],
+ "address": "C/da Biluscia frazione Santa Domenica, 89865/89866 Ricadi (VV), Włochy",
+ "adultsOnly": false,
+ "airportKm": 39.6,
+ "airportName": "Lamezia Terme (SUF)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Plac zabaw dla dzieci",
+  "Basen dla dzieci",
+  "Tenis stołowy",
+  "Bilard",
+  "Kort tenisowy",
+  "Boisko do piłki nożnej"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Wybrzeże Bogów (Costa degli Dei)",
+ "bars": 2,
+ "beachDistanceM": 70,
+ "beachType": "biała",
+ "centerKm": 3,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Osoby szukające spokoju",
+  "Osoby szukające zdrowej rozrywki"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokoje hotelowe: klimatyzacja, telewizor LCD, łazienka z prysznicem, umeblowana weranda, Wi-Fi, minibar, sejf, telefon",
+  "Apartamenty dwupokojowe: weranda, Wi-Fi, kuchnia, łazienka z prysznicem, telewizor LCD, lodówka, płyta grzewcza (klimatyzacja za opłatą)",
+  "Apartamenty trzypokojowe: weranda, Wi-Fi, kuchnia, łazienka z prysznicem, telewizor LCD, lodówka, płyta grzewcza (klimatyzacja za opłatą)"
+ ],
+ "rooms": 34,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.6614177,
+  "lon": 15.8543444,
+  "src": "web"
+ },
+ "sources": [
+  "leplaye.it",
+  "maema-viaggi.it",
+  "dltviaggi.it",
+  "trivago.co.uk",
+  "vivehotels.com",
+  "reserving.com",
+  "hotels.com",
+  "hotels-in-it.com"
+ ],
+ "updated": "2026-11-28"
+}

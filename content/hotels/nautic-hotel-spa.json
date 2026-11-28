@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:nautic hotel and spa",
+ "slug": "nautic-hotel-spa",
+ "name": "Nautic Hotel & Spa",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Majorka",
+  "Can Pastilla"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/mallorca/can-pastilla/nautic-hotel-a-spa-pl/1631/8539c36a826ee33452e4b-244.jpg",
+ "city": "Can Pastilla",
+ "intro": [
+  "Nautic Hotel & Spa to czterogwiazdkowy obiekt położony w miejscowości Can Pastilla na Majorce, bezpośrednio przy nadmorskiej promenadzie i z widokiem na Zatokę Palma. Hotel charakteryzuje się nowoczesnym, minimalistycznym stylem architektonicznym i oferuje komfortowe warunki do wypoczynku.",
+  "Hotel jest szczególnie polecany dla osób szukających relaksu, miłośników plażowania, rowerzystów oraz tych, którzy cenią sobie aktywny wypoczynek. Dzięki udogodnieniom dla dzieci i pokojom rodzinnym, sprawdzi się również dla rodzin, choć jego główny charakter sprzyja raczej spokojniejszemu urlopowi."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Nautic Hotel & Spa usytuowany jest w Can Pastilla, zaledwie 75-150 metrów od piaszczystej plaży Platja de Can Pastilla. Bezpośrednie sąsiedztwo promenady zapewnia łatwy dostęp do lokalnych atrakcji. Lotnisko Palma de Mallorca (PMI) oddalone jest o zaledwie 2-3 km, a centrum Can Pastilla o 0,2-0,7 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 140 nowoczesnymi pokojami, w tym pokojami dwuosobowymi, junior suitami z widokiem na morze oraz pokojami rodzinnymi. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę, balkon lub taras, telewizor, sejf oraz bezpłatne Wi-Fi. Pokoje są dźwiękoszczelne, co zapewnia komfortowy wypoczynek."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu znajdują się dwa baseny, w tym basen zewnętrzny i basen na dachu z widokiem na zatokę. Dostępny jest również podgrzewany basen oraz brodzik dla dzieci. Hotel oferuje rozrywkę na żywo, a także centrum rowerowe z udogodnieniami dla rowerzystów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Hotel posiada restaurację serwującą dania kuchni śródziemnomorskiej i międzynarodowej w formie bufetu, a także bistro à la carte. Do dyspozycji gości są również bary, w tym bar przy basenie i bar na dachu. Woda do kolacji może być dodatkowo płatna, a wybór posiłków na kolację bywa skromny."
+  },
+  {
+   "title": "Spa i aktywności",
+   "text": "W hotelu znajduje się pełne centrum spa \"Spa Nautic\" z sauną, łaźnią turecką, jacuzzi i pokojem relaksacyjnym (wstęp płatny). Goście mogą korzystać z siłowni oraz uprawiać sporty takie jak jazda na rowerze, windsurfing czy aqua gym. Bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja przy plaży i promenadzie",
+  "Nowoczesne i czyste pokoje",
+  "Basen na dachu z widokiem",
+  "Dobre zaplecze spa i siłownia",
+  "Przyjazny personel"
+ ],
+ "cons": [
+  "Możliwy hałas samolotów w niektórych pokojach",
+  "Ograniczona liczba miejsc parkingowych",
+  "Ograniczony wybór/jakość kolacji",
+  "Płatna woda do kolacji",
+  "Wstęp do spa jest płatny"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Nautic Hotel & Spa położony jest bezpośrednio przy plaży, zaledwie 75-150 metrów od piaszczystej plaży Platja de Can Pastilla."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Hotel znajduje się około 2-3 km od Portu lotniczego Palma de Mallorca (PMI), co oznacza około 10 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Na terenie hotelu nie ma aquaparku ani zjeżdżalni. Park wodny Aqualand El Arenal znajduje się około 6 km od hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel oferuje pokoje rodzinne, brodzik dla dzieci oraz plac zabaw na świeżym powietrzu, co czyni go odpowiednim dla rodzin."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie oraz we wszystkich pokojach."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Nautic Hotel & Spa nie jest hotelem wyłącznie dla dorosłych. Oferuje udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "address": "Carrer de Virgili 24, 07610 Can Pastilla",
+ "adultsOnly": false,
+ "airportKm": 2.5,
+ "airportName": "Port lotniczy Palma de Mallorca (PMI)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Centrum rowerowe",
+  "Rozrywka na żywo",
+  "Plac zabaw dla dzieci"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Can Pastilla",
+ "bars": 2,
+ "beachDistanceM": 100,
+ "beachType": "piaszczysta",
+ "centerKm": 0.45,
+ "goodFor": [
+  "relaks",
+  "aktywny wypoczynek",
+  "miłośnicy plażowania",
+  "rowerzyści",
+  "podróżujący służbowo",
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": true,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": null,
+ "restaurants": 2,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double Room) z klimatyzacją, łazienką, balkonem, TV, Wi-Fi",
+  "Junior Suita z widokiem na morze (ok. 22 m²) z klimatyzacją, łazienką, balkonem, TV, Wi-Fi",
+  "Pokój rodzinny (dla maksymalnie czterech osób) z klimatyzacją, łazienką, balkonem, TV, Wi-Fi",
+  "Pokój jednoosobowy (Single Room) z klimatyzacją, łazienką, balkonem, TV, Wi-Fi",
+  "Pokój typu Twin z widokiem na morze z klimatyzacją, łazienką, balkonem, TV, Wi-Fi"
+ ],
+ "rooms": 140,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 54.0507097,
+  "lon": 13.9972771,
+  "src": "osm"
+ },
+ "sources": [
+  "trivago.de",
+  "mallorca.com",
+  "illabeachhotels.com",
+  "joinup.ee",
+  "trivago.se",
+  "holidaycheck.at",
+  "thomascook.com",
+  "r.pl"
+ ],
+ "updated": "2026-11-28"
+}

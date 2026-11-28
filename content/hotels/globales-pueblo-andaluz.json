@@ -1,0 +1,136 @@
+{
+ "id": "x:hiszpania:globales pueblo andaluz",
+ "slug": "globales-pueblo-andaluz",
+ "name": "Globales Pueblo Andaluz",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Costa del Sol",
+  "Marbella"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/andalusie/marbella/globales-pueblo-andaluz/1312/c57394e095cb6a1a9160a-263.jpg",
+ "city": "Marbella",
+ "intro": [
+  "Globales Pueblo Andaluz to urokliwy hotel stylizowany na andaluzyjską wioskę, położony w San Pedro de Alcántara na słonecznym wybrzeżu Costa del Sol. Obiekt oferuje komfortowe zakwaterowanie w niskiej zabudowie, otoczonej malowniczymi uliczkami i placami, co nadaje mu wyjątkowy, lokalny charakter.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi oraz par szukających relaksu i aktywnego wypoczynku. Dzięki bogatej ofercie animacji, basenom i bliskości plaży, zapewnia różnorodne atrakcje dla gości w każdym wieku, jednocześnie oferując spokojną atmosferę."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i otoczenie",
+   "text": "Hotel Globales Pueblo Andaluz znajduje się w San Pedro de Alcántara, części Marbelli, około 800 metrów od kamienistej plaży z promenadą. Centrum Marbelli oddalone jest o około 8,5-9,6 km, a popularna marina Puerto Banús o około 2,5 km. Najbliższe lotnisko w Maladze (AGP) znajduje się w odległości 48-62 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 211 pokojami, które zostały odnowione w 2008 roku. Dostępne są pokoje dwuosobowe, trzyosobowe i jednoosobowe. Każdy pokój wyposażony jest w klimatyzację, prywatną łazienkę, telewizor z płaskim ekranem, telefon, sejf (płatny) oraz bezpłatne WiFi. Większość pokoi posiada również balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa oraz kilka barów, w tym bar przy basenie, snack bar i kawiarnia. Goście mogą wybrać opcję ze śniadaniem, obiadokolacją lub all inclusive, która obejmuje posiłki, napoje i przekąski. Oferta all inclusive jest chwalona za jakość jedzenia."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen dostępny przez cały rok oraz oddzielny basen dla dzieci. Hotel oferuje również plac zabaw dla najmłodszych oraz animacje dzienne i wieczorne, w tym muzykę na żywo. Dla aktywnych dostępne są korty tenisowe, siłownia, bilard, tenis stołowy i łucznictwo. Strefa wellness obejmuje spa i solarium."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne WiFi w całym obiekcie. Goście mogą korzystać z siłowni, kortu tenisowego oraz wypożyczalni rowerów. Na terenie obiektu znajduje się również spa z solarium. Hotel jest przyjazny rodzinom, oferując udogodnienia dla dzieci, takie jak plac zabaw i basen."
+  }
+ ],
+ "pros": [
+  "Czystość i przyjazny personel",
+  "Basen i atmosfera andaluzyjskiej wioski",
+  "Dobre śniadania i opcja all inclusive",
+  "Lokalizacja blisko plaży i przystanku autobusowego",
+  "Przestronne i komfortowe pokoje"
+ ],
+ "cons": [
+  "Animacje często ukierunkowane na gości francuskojęzycznych",
+  "Ograniczona różnorodność i powtarzalność jedzenia",
+  "Słabe działanie płatnego WiFi",
+  "Pokoje mogą być przestarzałe lub słabo wyciszone"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do plaży?",
+   "a": "Najbliższa plaża, kamienista z promenadą, znajduje się około 800 metrów od hotelu."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Malaga (AGP), oddalone o około 48-62 km (około 35 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel oferuje aquapark lub zjeżdżalnie?",
+   "a": "Nie, hotel nie posiada aquaparku ani zjeżdżalni wodnych."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom, oferuje basen dla dzieci, plac zabaw oraz animacje. Dzieci w wieku 0-12 lat mogą przebywać bezpłatnie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do WiFi?",
+   "a": "Tak, bezpłatne WiFi jest dostępne w całym obiekcie, w tym w pokojach i miejscach publicznych, choć niektórzy goście zgłaszali problemy z jego jakością."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel Globales Pueblo Andaluz nie jest przeznaczony wyłącznie dla dorosłych. Jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Avda. Jose Luis Carrillo Benitez, s/n, 29670 San Pedro Alcántara, Málaga, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 48,
+ "airportName": "Malaga (AGP)",
+ "amenities": [
+  "Spa",
+  "Siłownia",
+  "Kort tenisowy",
+  "Bilard",
+  "Tenis stołowy",
+  "Łucznictwo",
+  "Wypożyczalnia rowerów",
+  "Solarium"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "San Pedro de Alcántara",
+ "bars": 4,
+ "beachDistanceM": 800,
+ "beachType": "kamienista",
+ "centerKm": 8.5,
+ "goodFor": [
+  "rodziny",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2008,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój dwuosobowy (Twin, Double) z klimatyzacją, łazienką, TV, telefonem, sejfem (płatnym), WiFi, balkonem/tarasem",
+  "Pokój trzyosobowy (Triple) z klimatyzacją, łazienką, TV, telefonem, sejfem (płatnym), WiFi, balkonem/tarasem",
+  "Pokój jednoosobowy (Single, Double - Single Use) z klimatyzacją, łazienką, TV, telefonem, sejfem (płatnym), WiFi, balkonem/tarasem"
+ ],
+ "rooms": 211,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.4852136,
+  "lon": -4.976604,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "thomascook.com",
+  "globales.com",
+  "super.com",
+  "wego.com",
+  "google.com.ng",
+  "agoda.com",
+  "skyscanner.net"
+ ],
+ "updated": "2026-11-28"
+}

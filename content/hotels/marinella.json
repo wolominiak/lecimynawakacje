@@ -1,0 +1,138 @@
+{
+ "id": 24645,
+ "slug": "marinella",
+ "name": "Marinella",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Kalabria",
+  "Capo Vaticano"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/marinella-basen-1759190430-570-428.jpg",
+ "city": "Capo Vaticano",
+ "intro": [
+  "Hotel Marinella to czterogwiazdkowy obiekt położony w malowniczej miejscowości Ricadi, w dzielnicy Capo Vaticano, w Kalabrii we Włoszech. Znajduje się w spokojnej okolicy, blisko słynnej plaży Grotticelle, oferując jednocześnie łatwy dostęp do centrum Capo Vaticano i innych atrakcji regionu.",
+  "Hotel jest idealnym wyborem dla rodzin, par oraz osób poszukujących relaksu i możliwości zwiedzania urokliwych zakątków Kalabrii. Dzięki swojej lokalizacji i udogodnieniom, stanowi dobrą bazę wypadową do odkrywania piękna włoskiego wybrzeża."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel Marinella usytuowany jest około 200-300 metrów od plaży Grotticelle, znanej z drobnego, białego piasku. Obiekt oferuje prywatną, wyposażoną plażę z parasolami i leżakami, a także bezpłatny transfer na plażę. W pobliżu hotelu znajduje się centrum Capo Vaticano (około 0.5-0.6 km) oraz malownicza Tropea (około 8 km)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje różnymi typami pokoi, w tym Basic Double/Twin, Basic Triple, Economy Quadruple oraz Panoramic Double z widokiem na morze. Pokoje i studia są klimatyzowane i wyposażone w prywatny balkon, łazienkę z prysznicem i suszarką do włosów, telefon, lodówkę, telewizor z kanałami satelitarnymi oraz sejf."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Na terenie hotelu znajduje się restauracja serwująca klasyczne dania kuchni włoskiej na lunch i kolację. Goście mogą korzystać z 2 barów/salonów oraz baru przy basenie. Hotel oferuje śniadania kontynentalne w formie bufetu, a także opcje niepełnego (HB) i pełnego wyżywienia (FB) z menu do wyboru."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel Marinella posiada 2 odkryte baseny, w tym basen sezonowy i brodzik dla dzieci. Dla najmłodszych dostępny jest plac zabaw oraz programy rozrywkowe. Na miejscu można korzystać z tenisa stołowego, piłkarzyków i tenisa (za opłatą). W okolicy dostępne są również sporty wodne takie jak kajakarstwo, nurkowanie czy windsurfing."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi dostępne w pokojach i pomieszczeniach ogólnodostępnych. Do dyspozycji gości jest także bezpłatny prywatny parking. Obiekt nie jest przeznaczony wyłącznie dla dorosłych i jest przyjazny rodzinom."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży Grotticelle",
+  "Wygodny bezpłatny transfer na plażę",
+  "Czyste i funkcjonalne pokoje",
+  "Urozmaicona i obfita kuchnia",
+  "Wyjątkowa obsługa tworząca rodzinną atmosferę"
+ ],
+ "cons": [
+  "Strome podejście do plaży",
+  "Niektóre pokoje mogą być przestarzałe",
+  "Sporadyczne problemy z klimatyzacją lub instalacją wodno-kanalizacyjną"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel oddalony jest od plaży Grotticelle o około 200-300 metrów. Dostępny jest bezpłatny transfer na plażę."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko się znajduje?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Lamezia Terme (SUF), oddalony o około 47.7 km do 70 km (około 59 minut jazdy samochodem)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu. Hotel posiada 2 odkryte baseny, w tym brodzik dla dzieci."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny rodzinom. Posiada brodzik dla dzieci, plac zabaw oraz oferuje programy rozrywkowe dla dzieci."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w pomieszczeniach ogólnodostępnych."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Hotel oferuje wyżywienie w formie śniadań kontynentalnych, a także opcje niepełnego wyżywienia (HB) i pełnego wyżywienia (FB). Brak informacji o pakiecie all inclusive w typowym rozumieniu."
+  }
+ ],
+ "address": "Località Grotticelle, 89866 Capo Vaticano VV, Włochy",
+ "adultsOnly": false,
+ "airportKm": 47.7,
+ "airportName": "Lamezia Terme (SUF)",
+ "amenities": [
+  "Prywatna plaża",
+  "Bezpłatny transfer na plażę",
+  "Bezpłatny parking",
+  "Brodzik dla dzieci",
+  "Plac zabaw",
+  "Tenis stołowy",
+  "Piłkarzyki",
+  "Tenis"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Capo Vaticano",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "piaszczysta",
+ "centerKm": 0.5,
+ "goodFor": [
+  "Rodziny",
+  "Pary",
+  "Relaks",
+  "Zwiedzanie"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": false,
+ "opened": 1979,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": 1992,
+ "restaurants": 1,
+ "roomTypes": [
+  "Basic Double/Twin",
+  "Basic Triple",
+  "Economy Quadruple",
+  "Panoramic Double (z widokiem na morze)"
+ ],
+ "rooms": 63,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 43.9672329,
+  "lon": 12.7558208,
+  "src": "osm"
+ },
+ "sources": [
+  "tui.com",
+  "reserving.com",
+  "skyscanner.qa",
+  "expedia.it",
+  "google.com",
+  "google.com.bz",
+  "marinellahotel.com",
+  "trivago.ie"
+ ],
+ "updated": "2026-11-28"
+}

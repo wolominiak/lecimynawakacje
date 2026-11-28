@@ -1,0 +1,140 @@
+{
+ "id": "x:hiszpania:dragos del sur",
+ "slug": "dragos-del-sur",
+ "name": "Dragos Del Sur",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Teneryfa",
+  "Puerto Santiago"
+ ],
+ "stars": 3,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/tenerife/puerto-santiago/dragos-del-sur/f9a3146ed6600456345fad875b8803c8_1.jpg",
+ "city": "Puerto de Santiago",
+ "intro": [
+  "Aparthotel Los Dragos del Sur to trzygwiazdkowy obiekt położony w turystycznym centrum Puerto de Santiago na Teneryfie, w Hiszpanii. Jest to idealne miejsce dla osób szukających zakwaterowania w apartamentach z możliwością samodzielnego przygotowywania posiłków, z łatwym dostępem do lokalnych atrakcji.",
+  "Hotel jest szczególnie polecany dla rodzin, oferując przestronne apartamenty i udogodnienia dla dzieci. Położenie blisko plaży i centrum miejscowości sprawia, że jest to dobra baza wypadowa do zwiedzania okolicy i korzystania z uroków Teneryfy."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Aparthotel Dragos del Sur znajduje się w centrum turystycznym Puerto de Santiago, zaledwie około 200 metrów od plaży Playa la Arena, znanej z czarnego piasku. Dojście do plaży zajmuje około 5 minut spacerem. Hotel nie posiada prywatnej plaży, ale w okolicy dostępne są sporty wodne. Centrum miejscowości oddalone jest o około 1 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 78-79 apartamentów, w tym apartamenty z jedną, dwiema lub trzema sypialniami oraz apartamenty typu Junior Suite. Wszystkie wyposażone są w aneks kuchenny z lodówką, mikrofalówką i ekspresem do kawy, a także balkon lub prywatny taras. W pokojach znajduje się również klimatyzacja, telewizja satelitarna oraz prywatna łazienka."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się jedna restauracja serwująca śniadania i kolacje. Dostępny jest również bar przy basenie/strefa relaksu oraz bar/salon. Hotel nie oferuje opcji all inclusive, a śniadanie jest zazwyczaj dodatkowo płatne. Goście mogą korzystać z aneksu kuchennego w apartamentach."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie obiektu znajduje się odkryty basen oraz oddzielny basen dla dzieci. Dla relaksu dostępne są jacuzzi, sauna i zabiegi masażu (za dodatkową opłatą). Hotel dysponuje również siłownią, często bezpłatną. Dostępne są stoły bilardowe (za opłatą), a na plaży można uprawiać sporty wodne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości przygotowano oddzielny basen dla dzieci, mały domek zabaw oraz plac zabaw. Hotel jest popularny wśród rodzin, co podkreśla jego przyjazny charakter dla dzieci."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel oferuje bezpłatne Wi-Fi na terenie całego obiektu. Goście mogą wypożyczyć ręczniki plażowe/basenowe. Na miejscu dostępna jest siłownia. W pobliżu hotelu znajduje się pole golfowe Abama (10 km), a także możliwość wypożyczenia samochodu lub roweru."
+  }
+ ],
+ "pros": [
+  "Dobra lokalizacja blisko plaży, sklepów i restauracji",
+  "Przestronne apartamenty z balkonami/tarasami",
+  "Bezpłatne Wi-Fi na terenie całego obiektu",
+  "Dobrze wyposażona siłownia",
+  "Przyjazny i profesjonalny personel"
+ ],
+ "cons": [
+  "Śniadanie często dodatkowo płatne",
+  "Brak pełnej restauracji na lunch i kolację",
+  "Basen może być mały lub zimny",
+  "Pokoje mogą wykazywać ślady zużycia",
+  "Trudności ze znalezieniem parkingu w pobliżu"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 200 metrów od plaży Playa la Arena, co oznacza około 5 minut spacerem."
+  },
+  {
+   "q": "Czy hotel oferuje opcję all inclusive?",
+   "a": "Nie, hotel nie oferuje opcji all inclusive. Śniadanie jest zazwyczaj dodatkowo płatne."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach czy aquaparku na terenie hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest popularny wśród rodzin, oferuje oddzielny basen dla dzieci, plac zabaw i domek zabaw."
+  },
+  {
+   "q": "Jak daleko jest hotel od lotniska?",
+   "a": "Hotel jest oddalony o około 40-45 km od lotniska Tenerife South (TFS), co oznacza około 35-45 minut jazdy samochodem."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne na terenie całego obiektu."
+  }
+ ],
+ "address": "Avenida Marítima Puerto Santiago, s/n, Puerto de Santiago, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 40,
+ "airportName": "Tenerife South (TFS)",
+ "amenities": [
+  "Jacuzzi",
+  "Sauna",
+  "Masaże (za opłatą)",
+  "Wypożyczalnia samochodów",
+  "Wypożyczalnia rowerów",
+  "Bilard (za opłatą)",
+  "Sporty wodne na plaży"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Centrum turystyczne Puerto de Santiago",
+ "bars": 2,
+ "beachDistanceM": 200,
+ "beachType": "czarny piasek",
+ "centerKm": 1,
+ "goodFor": [
+  "rodziny z dziećmi"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1999,
+ "pools": 2,
+ "privateBeach": false,
+ "renovated": 2004,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (salon/sypialnia, oddzielna sypialnia, łazienka, aneks kuchenny, balkon/taras, klimatyzacja, TV sat, telefon, radio, sejf)",
+  "Apartament z dwiema sypialniami (salon/sypialnia, oddzielne sypialnie, łazienka, aneks kuchenny, balkon/taras, klimatyzacja, TV sat, telefon, radio, sejf)",
+  "Apartament z trzema sypialniami (salon/sypialnia, oddzielne sypialnie, łazienka, aneks kuchenny, balkon/taras, klimatyzacja, TV sat, telefon, radio, sejf)",
+  "Junior Suite (salon/sypialnia, oddzielne sypialnie, łazienka, aneks kuchenny, balkon/taras, klimatyzacja, TV sat, telefon, radio, sejf)"
+ ],
+ "rooms": 79,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 28.2357748,
+  "lon": -16.8413731,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "thomascook.com",
+  "booking.com",
+  "oyster.com",
+  "toptenerifehotels.com",
+  "hrs.com",
+  "hoteles-losdragos.com",
+  "broadwaytravel.com"
+ ],
+ "updated": "2026-11-28"
+}

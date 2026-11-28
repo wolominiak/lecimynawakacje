@@ -1,0 +1,154 @@
+{
+ "id": "x:turcja:starlight resort",
+ "slug": "starlight-resort",
+ "name": "Starlight Resort",
+ "country": "turcja",
+ "place": [
+  "turcja",
+  "Riwiera Turecka",
+  "Kizilot"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/turecko/turecka-riviera/kizilot/starlight-resort/os_starlight_4__copy_.jpg",
+ "city": "Kizilagac",
+ "intro": [
+  "Starlight Resort to pięciogwiazdkowy hotel położony w miejscowości Kizilagac, w regionie Manavgat na Riwierze Tureckiej. Obiekt wyróżnia się rozległym terenem o powierzchni 160 000 m², będącym częścią kompleksu World of Sunrise. Hotel oferuje bogate zaplecze rekreacyjne i gastronomiczne, co czyni go atrakcyjnym miejscem na wypoczynek.",
+  "Hotel jest idealnym wyborem zarówno dla rodzin z dziećmi, dzięki licznym udogodnieniom dla najmłodszych, jak i dla par poszukujących relaksu oraz różnorodnych form rozrywki. Bezpośrednie położenie przy prywatnej plaży oraz kompleksowe centrum spa to dodatkowe atuty tego obiektu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Starlight Resort znajduje się bezpośrednio przy prywatnej, piaszczysto-żwirowej plaży o długości 540 metrów. Goście mają do dyspozycji leżaki, parasole i ręczniki plażowe. Hotel jest oddalony o około 8 km od centrum Manavgat i 10-15 km od Side. Najbliższe lotnisko w Antalyi (AYT) znajduje się w odległości około 68-84 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 811 pokojami, rozmieszczonymi w ośmiopiętrowym budynku głównym oraz 18 dwupiętrowych budynkach klubowych. Pokoje są wyposażone w prywatną łazienkę, suszarkę do włosów, telewizor, minibar, zestaw do parzenia kawy i herbaty, sejf, klimatyzację oraz Wi-Fi. Większość pokoi posiada umeblowany balkon."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "Starlight Resort działa w formule Ultra All Inclusive, oferując bogatą ofertę gastronomiczną. Do dyspozycji gości jest od 9 do 16 restauracji, w tym bufetowe i à la carte, oraz 9 barów. Pakiet obejmuje śniadania, późne śniadania, obiady, kolacje, przekąski o północy, ciasta oraz napoje bezalkoholowe i lokalne alkohole w godzinach 10:00-00:00."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Hotel oferuje liczne baseny - od 6 do 11 basenów zewnętrznych oraz 1 lub 2 baseny kryte. Na terenie obiektu znajduje się aquapark z 11 zjeżdżalniami, w tym dedykowane strefy dla dzieci. Goście mogą korzystać z obszernego centrum spa, siłowni (dla osób powyżej 16 lat) oraz wielu aktywności sportowych, takich jak tenis, koszykówka, siatkówka plażowa i sporty wodne."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował dedykowany basen oraz mini klub (Wosy Kids Club) dla dzieci w wieku 4-12 lat. Klub oferuje program zajęć, plac zabaw, wewnętrzną strefę zabaw, mini disco i pokazy. Profesjonalny zespół animacyjny zapewnia dzienne i wieczorne programy rozrywkowe dla całej rodziny."
+  }
+ ],
+ "pros": [
+  "Bezpośredni dostęp do prywatnej, piaszczysto-żwirowej plaży",
+  "Rozległy, zielony teren z ogrodami botanicznymi",
+  "Bogata oferta basenów i aquapark ze zjeżdżalniami",
+  "Różnorodne restauracje i bary w ramach Ultra All Inclusive",
+  "Kompleksowe centrum spa i szeroki wybór aktywności sportowych"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą nosić ślady zużycia, mimo renowacji",
+  "Odległość od centrów Side i Manavgat może być uznana za wadę",
+  "Ograniczona przepustowość bezpłatnego Wi-Fi",
+  "Siłownia dostępna tylko dla osób powyżej 16 roku życia",
+  "Zwierzęta nie są akceptowane"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel Starlight Resort jest położony bezpośrednio przy prywatnej plaży (0 metrów)."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko i jak daleko jest od hotelu?",
+   "a": "Najbliższe lotnisko to Antalya (AYT), oddalone o około 68-84 km od hotelu."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Tak, hotel posiada aquapark z 11 zjeżdżalniami, w tym dedykowanymi dla dzieci."
+  },
+  {
+   "q": "Czy Starlight Resort jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest wyraźnie polecany dla rodzin z dziećmi, oferując mini klub, baseny dla dzieci i animacje."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne we wszystkich pokojach i na terenie całego obiektu, choć z ograniczoną przepustowością (VIP internet jest płatny)."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych; jest to obiekt przyjazny rodzinom."
+  }
+ ],
+ "address": "Kızılağaç mevkii, Side - Manavgat-Antalya / Türkiye",
+ "adultsOnly": false,
+ "airportKm": 68.1,
+ "airportName": "Antalya (AYT)",
+ "amenities": [
+  "prywatna plaża",
+  "leżaki i parasole",
+  "ręczniki plażowe",
+  "centrum spa",
+  "siłownia",
+  "korty tenisowe",
+  "mini golf",
+  "bilard",
+  "squash",
+  "kręgle",
+  "jazda konna",
+  "sporty wodne",
+  "sklepy",
+  "fryzjer",
+  "pralnia",
+  "opieka medyczna"
+ ],
+ "animations": true,
+ "aquapark": true,
+ "area": "Kizilagac",
+ "bars": 9,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysto-żwirowa",
+ "centerKm": 0.727,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": true,
+ "opened": 2008,
+ "pools": 6,
+ "privateBeach": true,
+ "renovated": 2021,
+ "restaurants": 9,
+ "roomTypes": [
+  "Standard Land View (pokój standardowy z widokiem na ląd)",
+  "Standard Sea View (pokój standardowy z widokiem na morze)",
+  "Junior Suite",
+  "Deluxe Suite",
+  "Corner Jacuzzi Suite Land View (apartament narożny z jacuzzi i widokiem na ląd)",
+  "Corner Jacuzzi Suite Sea View (apartament narożny z jacuzzi i widokiem na morze)",
+  "King Suite",
+  "Presidential Suite",
+  "Handicap Accessible Room (pokój przystosowany dla osób niepełnosprawnych)",
+  "Club Single Room (pokój klubowy jednoosobowy)",
+  "Club Standard Room (pokój klubowy standardowy)",
+  "Club Duplex Room with Spa Bath (pokój klubowy dwupoziomowy z wanną spa)"
+ ],
+ "rooms": 811,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 36.7244416,
+  "lon": 31.5325481,
+  "src": "osm"
+ },
+ "sources": [
+  "loveholidays.com",
+  "planetofhotels.com",
+  "sno.com",
+  "trbnb.com",
+  "easyjet.com",
+  "holidaycheck.at",
+  "coral.ge",
+  "vas.al"
+ ],
+ "updated": "2026-11-28"
+}

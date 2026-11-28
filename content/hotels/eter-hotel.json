@@ -1,0 +1,145 @@
+{
+ "id": "x:albania:eter hotel",
+ "slug": "eter-hotel",
+ "name": "Eter Hotel",
+ "country": "albania",
+ "place": [
+  "albania",
+  "Durrës",
+  "Golem"
+ ],
+ "stars": 5,
+ "photo": "https://img.exim.pl/hotels/720/albanie/durres/golem/eter-hotel-pl/5736/dc9-b959-1f6a116d2eab-244.JPG",
+ "city": "Golem",
+ "intro": [
+  "Eter Hotel to nowoczesny, pięciogwiazdkowy obiekt położony bezpośrednio przy prywatnej, piaszczystej plaży Mali I Robit w Golem, w Albanii. Hotel charakteryzuje się nowoczesnym designem i jest doskonałym wyborem dla osób szukających komfortowego wypoczynku blisko morza, z łatwym dostępem do lokalnych atrakcji.",
+  "Obiekt jest odpowiedni zarówno dla par, jak i rodzin z dziećmi, oferując udogodnienia dla najmłodszych oraz strefy relaksu dla dorosłych. Jego dogodna lokalizacja pozwala na cieszenie się spokojem, jednocześnie zapewniając bliskość do centrum Golem i Durrës."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Eter Hotel znajduje się w miejscowości Golem, bezpośrednio przy prywatnej, piaszczystej plaży Mali I Robit. Wejście do morza jest łagodne, a dla gości dostępne są bezpłatne leżaki, parasole i ręczniki plażowe. Obiekt jest oddalony o około 2 km od centrum Golem i około 11 minut jazdy samochodem od centrum Durrës."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 76 pokoi i apartamentów z widokiem na morze lub sosny. Standardowe wyposażenie obejmuje klimatyzację, prywatny balkon (często z bocznym widokiem na morze), telewizor z płaskim ekranem, minibar/mini lodówkę, sejf, czajnik elektryczny oraz nowoczesną łazienkę z prysznicem i suszarką do włosów. Dostępne są m.in. pokoje Deluxe Double, Family Room oraz Superior i Penthouse Suite."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja bufetowa serwująca kuchnię śródziemnomorską i lokalne specjały. Śniadania oferowane są w formie kontynentalnej, bufetu i à la carte. Obiekt posiada również kilka barów, w tym bar na plaży i bar na dachu. Pakiet All Inclusive obejmuje śniadania, obiady i kolacje w formie bufetu, wybrane lokalne napoje alkoholowe i bezalkoholowe oraz przekąski między posiłkami."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Eter Hotel dysponuje dwoma basenami: sezonowym zewnętrznym (często na dachu z widokiem na wybrzeże) oraz krytym. Basen zewnętrzny jest otwarty zazwyczaj od połowy maja do końca września. Hotel oferuje okazjonalną muzykę wieczorną. Do dyspozycji gości jest również centrum fitness/siłownia oraz strefa spa z masażami, jacuzzi, sauną i łaźnią parową (spa jest zamknięte od czerwca do września)."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych gości hotel przygotował brodzik oraz plac zabaw. Hotel nie jest przeznaczony wyłącznie dla dorosłych i posiada udogodnienia dla rodzin z dziećmi."
+  }
+ ],
+ "pros": [
+  "Piękny, nowoczesny i czysty hotel",
+  "Doskonała lokalizacja bezpośrednio przy prywatnej plaży",
+  "Życzliwy i pomocny personel",
+  "Dobre jedzenie w restauracji",
+  "Fantastyczny basen, zwłaszcza na dachu"
+ ],
+ "cons": [
+  "Śniadania bywają przeciętne lub mało urozmaicone",
+  "Strefa SPA jest zamknięta w sezonie letnim",
+  "Pojawiają się uwagi dotyczące problemów z uszczelkami pod prysznicem w niektórych łazienkach"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel położony jest bezpośrednio przy prywatnej, piaszczystej plaży Mali I Robit."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko to Międzynarodowy Port Lotniczy Tirana (TIA), oddalone o około 35 km (około 40 minut jazdy taksówką)."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Brak informacji o zjeżdżalniach lub aquaparku w hotelu."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest odpowiedni dla rodzin z dziećmi, oferuje brodzik i plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet All Inclusive?",
+   "a": "Tak, hotel oferuje pakiet All Inclusive obejmujący śniadania, obiady, kolacje, wybrane lokalne napoje alkoholowe i bezalkoholowe oraz przekąski."
+  }
+ ],
+ "address": "Blvd Pishave, Mali Robit, 2504, Golem",
+ "adultsOnly": false,
+ "airportKm": 35,
+ "airportName": "Międzynarodowy Port Lotniczy Tirana im. Matki Teresy (TIA)",
+ "amenities": [
+  "prywatna plaża",
+  "leżaki i parasole na plaży",
+  "ręczniki plażowe",
+  "spa",
+  "siłownia",
+  "jacuzzi",
+  "sauna",
+  "łaźnia parowa",
+  "basen kryty",
+  "basen zewnętrzny",
+  "restauracja bufetowa",
+  "bar na plaży",
+  "bar na dachu",
+  "plac zabaw dla dzieci"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Mali I Robit",
+ "bars": 3,
+ "beachDistanceM": 0,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "wypoczynek przy plaży"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Deluxe Double Room with Sea View (klimatyzacja, balkon, TV sat, minibar, sejf, łazienka z prysznicem, suszarka, czajnik)",
+  "Family Room with Sea View (klimatyzacja, balkon, TV sat, minibar, sejf, łazienka z prysznicem, suszarka, czajnik)",
+  "Standard Double Room (klimatyzacja, balkon, TV sat, minibar, sejf, łazienka z prysznicem, suszarka, czajnik)",
+  "Deluxe Double Room with Side Sea View (klimatyzacja, balkon, TV sat, minibar, sejf, łazienka z prysznicem, suszarka, czajnik)",
+  "Superior Suite with Sea View (klimatyzacja, balkon, TV sat, minibar, sejf, łazienka z prysznicem, suszarka, czajnik)",
+  "Penthouse Suite with Sea View (klimatyzacja, balkon, TV sat, minibar, sejf, łazienka z prysznicem, suszarka, czajnik)"
+ ],
+ "rooms": 76,
+ "spa": true,
+ "wifi": true,
+ "geo": {
+  "lat": 41.2412844,
+  "lon": 19.5178004,
+  "src": "osm"
+ },
+ "sources": [
+  "planetofhotels.com",
+  "trivago.com",
+  "mapcarta.com",
+  "vtours.com",
+  "thomascook.com",
+  "booking.com",
+  "loveholidays.com",
+  "capitalglobaltravel.com"
+ ],
+ "updated": "2026-11-28"
+}

@@ -1,0 +1,132 @@
+{
+ "id": 44403,
+ "slug": "valle",
+ "name": "Valle",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Lazio",
+  "Rzym"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/valle-pokoj-1512644454-570-428.jpg",
+ "city": "Rzym",
+ "intro": [
+  "Hotel Valle to trzygwiazdkowy obiekt położony w sercu Rzymu, w malowniczej dzielnicy Monti. Mieści się w odrestaurowanym XVIII-wiecznym budynku, oferując dogodną bazę wypadową do zwiedzania Wiecznego Miasta. Jego centralna lokalizacja sprawia, że jest to idealne miejsce dla osób pragnących odkrywać historyczne atrakcje Rzymu pieszo.",
+  "Obiekt jest odpowiedni zarówno dla turystów indywidualnych, par, rodzin, jak i osób podróżujących służbowo. Hotel charakteryzuje się kameralną atmosferą, oferując 42 pokoje. Bliskość dworca Termini oraz głównych zabytków, takich jak Koloseum, czyni go atrakcyjnym wyborem dla tych, którzy cenią sobie łatwy dostęp do komunikacji miejskiej i najważniejszych punktów turystycznych."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Valle znajduje się w centrum Rzymu, w urokliwej dzielnicy Monti, znanej z wąskich uliczek i lokalnych restauracji. Jest oddalony o zaledwie 0.4-0.62 km od ścisłego centrum miasta. W bliskiej odległości, około 300-330 metrów, znajduje się dworzec główny Termini, co zapewnia doskonałe połączenia komunikacyjne. Hotel jest również położony blisko Koloseum i Forum Romanum."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel dysponuje 42 pokojami, które zostały odnowione w 2004 roku, z częściowym remontem w 2008 roku. Dostępne są pokoje jedno-, dwu-, trzy- i czteroosobowe, a także King Room. Każdy pokój wyposażony jest w klimatyzację, ogrzewanie, minibar, telewizor z płaskim ekranem, zestaw do parzenia kawy/herbaty, sprzęt do prasowania oraz prywatną łazienkę z bezpłatnymi kosmetykami. Pokoje posiadają również dźwiękoszczelne ściany i sejf."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu Valle serwowane jest śniadanie kontynentalne w formie bufetu. Obiekt nie posiada własnej restauracji, jednak w bezpośredniej okolicy znajduje się wiele lokali gastronomicznych oferujących różnorodne dania. Na terenie hotelu dostępny jest bar, gdzie goście mogą zrelaksować się przy napojach."
+  },
+  {
+   "title": "Udogodnienia i rekreacja",
+   "text": "Hotel nie posiada basenu ani aquaparku. Na terenie obiektu dostępne jest bezpłatne Wi-Fi, zarówno w pokojach, jak i w miejscach publicznych. Hotel oferuje udogodnienia dla rodzin, takie jak łóżeczka dziecięce na życzenie oraz usługi opieki nad dziećmi."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Rzymu",
+  "Bliskość dworca Termini i głównych atrakcji",
+  "Przyjazny i pomocny personel",
+  "Dobra wartość za pieniądze",
+  "Czyste pokoje"
+ ],
+ "cons": [
+  "Ograniczone śniadanie",
+  "Pokoje i łazienki mogą być małe",
+  "Wyposażenie pokoi bywa przestarzałe",
+  "Problemy z ciepłą wodą i wygłuszeniem",
+  "Klimatyzacja wyłączana w nocy"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko hotel jest od plaży?",
+   "a": "Hotel Valle znajduje się około 25 km od plaży."
+  },
+  {
+   "q": "Jakie są najbliższe lotniska?",
+   "a": "Najbliższe lotniska to Ciampino (CIA) oddalone o około 13-14.7 km oraz Fiumicino (FCO) oddalone o około 23.27-30 km."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje łóżeczka dziecięce na życzenie oraz usługi opieki nad dziećmi."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi w pokojach i/lub w miejscach publicznych."
+  },
+  {
+   "q": "Czy hotel jest tylko dla dorosłych?",
+   "a": "Nie, hotel nie jest przeznaczony wyłącznie dla dorosłych."
+  }
+ ],
+ "address": "Via Cavour 134, 00184 Rzym, Włochy",
+ "adultsOnly": false,
+ "airportKm": 13,
+ "airportName": "Międzynarodowy Port Lotniczy Ciampino-G. B. Pastine (CIA)",
+ "amenities": [
+  "Bezpłatne Wi-Fi",
+  "Łóżeczka dziecięce na życzenie",
+  "Usługi opieki nad dziećmi"
+ ],
+ "animations": null,
+ "aquapark": false,
+ "area": "Monti",
+ "bars": 1,
+ "beachDistanceM": 25000,
+ "beachType": "",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Podróżujący służbowo",
+  "Podróżujący prywatnie",
+  "Rodziny"
+ ],
+ "gym": null,
+ "heatedPool": null,
+ "kidsClub": false,
+ "opened": 1850,
+ "pools": 0,
+ "privateBeach": null,
+ "renovated": 2004,
+ "restaurants": 0,
+ "roomTypes": [
+  "Pokój dwuosobowy (Double Room)",
+  "Pokój trzyosobowy (Triple Room)",
+  "Pokój czteroosobowy (Quadruple Room)",
+  "Pokój jednoosobowy (Single Room)",
+  "King Room",
+  "Double Room Single Use"
+ ],
+ "rooms": 42,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": -22.757793,
+  "lon": -45.1437044,
+  "src": "osm"
+ },
+ "sources": [
+  "booking.com",
+  "it-romehotels.com",
+  "trivago.com",
+  "guestreservations.com",
+  "hrs.com",
+  "expedia.com",
+  "hotelvalle.it",
+  "google.com"
+ ],
+ "updated": "2026-11-28"
+}

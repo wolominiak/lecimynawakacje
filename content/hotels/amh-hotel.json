@@ -1,0 +1,142 @@
+{
+ "id": "x:albania:amh hotel",
+ "slug": "amh-hotel",
+ "name": "Amh Hotel",
+ "country": "albania",
+ "place": [
+  "albania",
+  "Durrës"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/albanie/durres/drac/amh-hotel/9915/5fec1083f423fc13c0ffc5e619de707e_1-244.jpg",
+ "city": "Durrës",
+ "intro": [
+  "AMH Hotel to czterogwiazdkowy obiekt położony w popularnej dzielnicy Plazh w Durrës, Albania. Hotel jest dogodnie usytuowany blisko piaszczystej plaży z łagodnym zejściem do morza, co czyni go atrakcyjnym wyborem dla rodzin z dziećmi oraz par szukających relaksu.",
+  "Hotel oferuje szereg udogodnień, w tym prywatną strefę plażową, sezonowy basen odkryty oraz zaplecze rekreacyjne dla dzieci. Goście mogą korzystać z bezpłatnego Wi-Fi oraz delektować się kuchnią śródziemnomorską w hotelowej restauracji."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "AMH Hotel znajduje się w dzielnicy Plazh w Durrës, zaledwie 50-100 metrów od piaszczystej plaży. Plaża charakteryzuje się płytkim wejściem do morza, co jest idealne dla rodzin z dziećmi. Hotel posiada prywatną strefę plażową z dostępnymi leżakami, natomiast ręczniki plażowe są dostępne za dodatkową opłatą. Centrum Durrës oddalone jest o około 3.5-5 km, a lotnisko w Tiranie o 34-35 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje różnorodne typy pokoi, w tym pokoje rodzinne, dwuosobowe, typu twin, trzyosobowe, czteroosobowe oraz jednoosobowe, dostępne w wariantach standardowych i deluxe. Większość pokoi posiada balkon, klimatyzację, telewizor z płaskim ekranem oraz prywatną łazienkę z prysznicem. Pokoje są dźwiękoszczelne i wyposażone w sejf (za dodatkową opłatą) oraz suszarkę do włosów."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelu znajduje się restauracja serwująca dania kuchni włoskiej, śródziemnomorskiej, pizzę i owoce morza. Goście mogą korzystać z baru, kawiarni oraz baru na plaży. Hotel oferuje opcje wyżywienia takie jak Bed & Breakfast, Half Board (śniadania i kolacje) oraz Full Board (śniadania, obiady i kolacje). Śniadania serwowane są w formie bufetu, à la carte lub kontynentalne."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na terenie hotelu dostępny jest sezonowy basen odkryty z leżakami. Dla aktywnych gości przygotowano centrum fitness/siłownię oraz możliwość gry w rzutki. Hotel oferuje również wieczorne rozrywki, takie jak wieczory filmowe, wieczory tematyczne z kolacją, muzykę na żywo oraz zajęcia z kultury lokalnej."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "AMH Hotel jest przyjazny rodzinom i oferuje udogodnienia dla najmłodszych. Dostępny jest plac zabaw dla dzieci, zarówno wewnętrzny, jak i zewnętrzny, a także gry planszowe i puzzle. Należy pamiętać, że dzieci nie mogą przebywać bezpłatnie i mogą obowiązywać dodatkowe opłaty."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja blisko plaży, sklepów i restauracji",
+  "Czystość i pomocna obsługa",
+  "Dobre śniadania i jedzenie",
+  "Dostępność basenu i prywatnej plaży",
+  "Bezpłatne Wi-Fi i parking"
+ ],
+ "cons": [
+  "Niektóre pokoje mogą wymagać odświeżenia",
+  "Sejf i ręczniki plażowe za dodatkową opłatą",
+  "Brak informacji o aquaparku",
+  "Rozbieżne informacje o liczbie pokoi"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel AMH znajduje się około 50-100 metrów od piaszczystej plaży Durrës, zaledwie 1 minutę spacerem."
+  },
+  {
+   "q": "Czy hotel posiada prywatną plażę?",
+   "a": "Tak, hotel posiada prywatną strefę plażową z dostępnymi leżakami."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko, Tirana (TIA) im. Matki Teresy, oddalone jest od hotelu o około 34-35 km."
+  },
+  {
+   "q": "Czy w hotelu jest aquapark lub zjeżdżalnie?",
+   "a": "Brak jest informacji o aquaparku lub zjeżdżalniach w hotelu."
+  },
+  {
+   "q": "Czy AMH Hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi ze względu na bliskość piaszczystej plaży z łagodnym zejściem do morza oraz udogodnienia takie jak plac zabaw."
+  },
+  {
+   "q": "Czy w hotelu jest dostępne Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym obiekcie."
+  }
+ ],
+ "address": "Lagjja 13, Rruga Paraësia Plazh, Durrës, Albania",
+ "adultsOnly": false,
+ "airportKm": 34,
+ "airportName": "Tirana (TIA) im. Matki Teresy",
+ "amenities": [
+  "Plac zabaw dla dzieci",
+  "Sprzęt do zabawy na świeżym powietrzu",
+  "Gry planszowe/puzzle",
+  "Wypożyczalnia rowerów",
+  "Wypożyczalnia samochodów",
+  "Wieczorne rozrywki",
+  "Wieczory filmowe",
+  "Wieczory tematyczne z kolacją",
+  "Muzyka na żywo/występy",
+  "Zajęcia z kultury lokalnej"
+ ],
+ "animations": true,
+ "aquapark": null,
+ "area": "Plazh",
+ "bars": 2,
+ "beachDistanceM": 75,
+ "beachType": "Piaszczysta z płytkim wejściem",
+ "centerKm": 4.25,
+ "goodFor": [
+  "Rodziny z dziećmi",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Pokój rodzinny z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój dwuosobowy z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój typu twin z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój trzyosobowy z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój czteroosobowy z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój jednoosobowy z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój standardowy z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny",
+  "Pokój deluxe z klimatyzacją, biurkiem, sejfem, TV, balkonem, łazienką z prysznicem, szafą, kosmetykami, suszarką do włosów, ogrzewaniem, dźwiękoszczelny"
+ ],
+ "rooms": null,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3069969,
+  "lon": 19.4902893,
+  "src": "osm"
+ },
+ "sources": [
+  "lastminute.com",
+  "trabber.es",
+  "agoda.com",
+  "amimir.com",
+  "mapy.com",
+  "skytravel.jp",
+  "amaratravel.al",
+  "unit.travel"
+ ],
+ "updated": "2026-11-28"
+}

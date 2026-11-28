@@ -1,0 +1,129 @@
+{
+ "id": 21652,
+ "slug": "pineta-petto-bianco",
+ "name": "Pineta Petto Bianco",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Kalabria"
+ ],
+ "stars": 4,
+ "photo": "/no-index/hotel/pineta-petto-bianco-korty-tenisowe-basen-1784719275-570-428.jpg",
+ "city": "Ricadi",
+ "intro": [
+  "Villaggio Pineta Petto Bianco to czterogwiazdkowy hotel położony w malowniczej Kalabrii, w rejonie Capo Vaticano, niedaleko słynnej Tropei. Obiekt, składający się z budynku głównego i części \"Residence\", oferuje spokojny wypoczynek w otoczeniu zadbanej zieleni.",
+  "Hotel jest idealnym miejscem dla rodzin z dziećmi oraz par szukających relaksu w pięknej scenerii. Zapewnia udogodnienia dla najmłodszych, takie jak mini-klub i plac zabaw, a także animacje dla całej rodziny."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i plaża",
+   "text": "Hotel znajduje się około 500-600 metrów od prywatnej, piaszczystej plaży z łagodnym zejściem. Zejście na plażę jest strome, jednak hotel zapewnia bezpłatny bus. Na plaży dostępne są bezpłatne leżaki i parasole. Wejście do wody może być utrudnione z powodu kamieni i skał. Najbliższe centrum Ricadi jest oddalone o około 2 km, a Tropea o 12 km."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje apartamenty z jedną lub dwiema sypialniami, wyposażone w aneks kuchenny, prywatną łazienkę z prysznicem, wentylator i telewizor z płaskim ekranem. Niektóre apartamenty posiadają taras lub balkon. Dostępne są również pokoje dwuosobowe."
+  },
+  {
+   "title": "Wyżywienie i restauracje",
+   "text": "W hotelowej restauracji serwowane są śniadania kontynentalne, obiady i kolacje z kuchnią śródziemnomorską. Raz w tygodniu organizowane są wieczory tematyczne z daniami kalabryjskimi. Na terenie obiektu znajduje się również bar z panoramicznym tarasem. Dostępne są oferty w formule All Inclusive (często w wariancie Soft lub Light), obejmujące posiłki i wybrane napoje."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Do dyspozycji gości są dwa baseny, w tym jeden z hydromasażem oraz wydzielona strefa dla dzieci. Na terenie obiektu znajduje się plac zabaw, kort tenisowy oraz dostępne są animacje dzienne i wieczorne. Za dodatkową opłatą można skorzystać ze sportów wodnych."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "Dla najmłodszych hotel oferuje mini-klub, plac zabaw oraz wydzieloną strefę w basenie. Dostępne są również animacje dla dzieci, co sprawia, że jest to dobre miejsce na rodzinne wakacje."
+  }
+ ],
+ "pros": [
+  "Piękne i zadbane otoczenie",
+  "Duży basen z sekcją dla dzieci",
+  "Smaczna kuchnia kalabryjska",
+  "Przyjazny i pomocny personel",
+  "Dobra lokalizacja z dala od zgiełku"
+ ],
+ "cons": [
+  "Położenie na wzgórzu, wymagające samochodu do zwiedzania",
+  "Strome zejście na plażę (dostępny bus)",
+  "Kamieniste wejście do wody na plaży"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Hotel znajduje się około 500-600 metrów od prywatnej, piaszczystej plaży. Dostępny jest bus hotelowy na plażę."
+  },
+  {
+   "q": "Jakie jest najbliższe lotnisko?",
+   "a": "Najbliższe lotnisko to Lamezia Terme (SUF), oddalone o około 70-75 km."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin z dziećmi, oferuje mini-klub, plac zabaw i strefę dla dzieci w basenie."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w całym hotelu, w lobby i pokojach."
+  },
+  {
+   "q": "Czy hotel posiada aquapark lub zjeżdżalnie?",
+   "a": "Hotel posiada dwa baseny, w tym jeden z hydromasażem oraz strefę dla dzieci w basenie, ale nie ma aquaparku ani zjeżdżalni."
+  },
+  {
+   "q": "Czy wejście do wody na plaży jest łatwe?",
+   "a": "Wejście do wody na plaży może być utrudnione z powodu kamieni i skał."
+  }
+ ],
+ "address": "C.da Campia, 89866 Ricadi - Vibo Valentia, Kalabria, Włochy",
+ "adultsOnly": false,
+ "airportKm": 70,
+ "airportName": "Lamezia Terme (SUF)",
+ "amenities": [
+  "Kort tenisowy",
+  "Bus na plażę"
+ ],
+ "animations": true,
+ "aquapark": false,
+ "area": "Capo Vaticano",
+ "bars": 1,
+ "beachDistanceM": 550,
+ "beachType": "piaszczysta",
+ "centerKm": 2,
+ "goodFor": [
+  "rodziny z dziećmi",
+  "pary",
+  "szukający relaksu"
+ ],
+ "gym": false,
+ "heatedPool": false,
+ "kidsClub": true,
+ "opened": null,
+ "pools": 2,
+ "privateBeach": true,
+ "renovated": null,
+ "restaurants": 1,
+ "roomTypes": [
+  "Apartament z jedną sypialnią (aneks kuchenny, łazienka z prysznicem, wentylator, TV, taras/balkon)",
+  "Apartament z dwiema sypialniami (aneks kuchenny, łazienka z prysznicem, wentylator, TV, taras/balkon)",
+  "Pokój dwuosobowy (TV)"
+ ],
+ "rooms": null,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 38.6144379,
+  "lon": 15.8530202,
+  "src": "osm"
+ },
+ "sources": [
+  "exim.pl",
+  "villaggiopettobianco.it",
+  "gotravel.ee",
+  "kayak.com",
+  "agoda.com",
+  "fischer.cz",
+  "eximtours.cz",
+  "novatours.ee"
+ ],
+ "updated": "2026-11-28"
+}

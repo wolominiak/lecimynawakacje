@@ -1,0 +1,145 @@
+{
+ "id": "x:hiszpania:catalonia gran via bcn",
+ "slug": "catalonia-gran-via-bcn",
+ "name": "Catalonia Gran Via Bcn",
+ "country": "hiszpania",
+ "place": [
+  "hiszpania",
+  "Barcelona i okolice",
+  "Barcelona"
+ ],
+ "stars": 4,
+ "photo": "https://img.exim.pl/hotels/720/spanelsko/barcelona/barcelona/catalonia-gran-via-bcn/2954/19de15fa030366a779299698a36ca76e_2-244.jpg",
+ "city": "Barcelona",
+ "intro": [
+  "Hotel Catalonia Gran Via Bcn to czterogwiazdkowy obiekt położony w centralnej Barcelonie, w dzielnicy Eixample, co czyni go idealną bazą wypadową do zwiedzania miasta. Hotel charakteryzuje się nowoczesnym wystrojem i komfortowymi udogodnieniami, zapewniając gościom przyjemny pobyt w sercu katalońskiej stolicy.",
+  "Obiekt jest polecany zarówno dla par, jak i rodzin z dziećmi, oferując pokoje rodzinne oraz szereg udogodnień, które sprzyjają relaksowi po dniu pełnym wrażeń. Goście doceniają doskonałą lokalizację, która umożliwia łatwy dostęp do głównych atrakcji Barcelony."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i okolica",
+   "text": "Hotel Catalonia Gran Via Bcn znajduje się w Barcelonie, w dzielnicy Eixample, zaledwie 0.4-1 km od centrum miasta i około 10 minut spacerem od Plaça Catalunya. Najbliższa plaża oddalona jest o około 3.5 km. Dojazd z lotniska Barcelona-El Prat (BCN) zajmuje około 14-19 minut taksówką (12.7-14.7 km)."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Hotel oferuje 63 pokoje rozmieszczone na 10 piętrach. Pokoje, takie jak Double, Terrace, Superior, Triple, Family, Suites i Junior Suites, są tematyczne, nawiązując do miast i podróży lotniczych. Wyposażenie obejmuje klimatyzację, sejf, minibar, telewizor z płaskim ekranem, suszarkę do włosów oraz bezpłatne Wi-Fi. Pokoje Superior i Junior Suite mogą oferować dodatkowe udogodnienia, takie jak zestaw do parzenia kawy/herbaty czy szlafroki."
+  },
+  {
+   "title": "Baseny i rekreacja",
+   "text": "Na tarasie hotelu znajduje się jeden odkryty basen, który jest sezonowy i czynny od 1 kwietnia do 30 października. Hotel nie posiada zjeżdżalni ani aquaparku. Goście mogą skorzystać z siłowni/centrum fitness oraz masaży dostępnych za dodatkową opłatą."
+  },
+  {
+   "title": "Wyżywienie i bary",
+   "text": "W hotelu działa restauracja \"La Terminal\", gdzie serwowane są śniadania w formie bufetu (za dodatkową opłatą). Do dyspozycji gości jest również \"Gourmet Corner Bar\" z piwami, koktajlami i przekąskami, a także ogólny bar/lounge. Hotel nie oferuje pakietu all inclusive."
+  },
+  {
+   "title": "Udogodnienia",
+   "text": "Hotel zapewnia bezpłatne Wi-Fi w pokojach i miejscach publicznych. Obiekt jest przyjazny dzieciom i oferuje pokoje rodzinne. Akceptuje również zwierzęta domowe (psy i koty do 20 kg, za dodatkową opłatą i po wcześniejszym uzgodnieniu)."
+  },
+  {
+   "title": "Dla kogo ten hotel",
+   "text": "Hotel Catalonia Gran Via Bcn jest polecany dla osób ceniących centralną lokalizację i łatwy dostęp do atrakcji Barcelony. Ze względu na pokoje rodzinne i udogodnienia, jest dobrym wyborem zarówno dla par, jak i rodzin z dziećmi, które szukają komfortowego miejsca na pobyt w mieście."
+  }
+ ],
+ "pros": [
+  "Doskonała lokalizacja w centrum Barcelony",
+  "Pomocna i przyjazna obsługa",
+  "Wysoki standard czystości",
+  "Komfortowe i nowoczesne pokoje",
+  "Bezpłatne Wi-Fi"
+ ],
+ "cons": [
+  "Basen sezonowy, zamknięty w miesiącach zimowych",
+  "Niektórzy goście wskazywali na małe rozmiary pokoi",
+  "Brak prywatności w łazienkach",
+  "Brak pakietu all inclusive",
+  "Plaża oddalona o 3.5 km"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest hotel od plaży?",
+   "a": "Najbliższa plaża znajduje się około 3.5 km od hotelu."
+  },
+  {
+   "q": "Czy hotel oferuje pakiet all inclusive?",
+   "a": "Nie, hotel nie oferuje pakietu all inclusive. Śniadanie w formie bufetu jest dostępne za dodatkową opłatą."
+  },
+  {
+   "q": "Czy w hotelu jest basen?",
+   "a": "Tak, hotel dysponuje jednym odkrytym basenem na tarasie, który jest sezonowy i czynny od 1 kwietnia do 30 października."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest przyjazny dzieciom i oferuje pokoje rodzinne."
+  },
+  {
+   "q": "Jaka jest odległość od lotniska?",
+   "a": "Najbliższe lotnisko Barcelona-El Prat (BCN) znajduje się około 12.7 km do 14.7 km od hotelu."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, bezpłatne Wi-Fi jest dostępne w pokojach i w miejscach publicznych."
+  }
+ ],
+ "address": "Gran Via de les Corts Catalanes, 550, 08011 Barcelona, Hiszpania",
+ "adultsOnly": false,
+ "airportKm": 12.7,
+ "airportName": "Barcelona-El Prat (BCN)",
+ "amenities": [
+  "Siłownia",
+  "Masaże (za opłatą)",
+  "Pokoje rodzinne",
+  "Akceptacja zwierząt (za opłatą)"
+ ],
+ "animations": null,
+ "aquapark": null,
+ "area": "Eixample (lub Downtown Barcelona)",
+ "bars": 2,
+ "beachDistanceM": 3500,
+ "beachType": "",
+ "centerKm": 0.4,
+ "goodFor": [
+  "Rodziny",
+  "Pary"
+ ],
+ "gym": true,
+ "heatedPool": null,
+ "kidsClub": null,
+ "opened": null,
+ "pools": 1,
+ "privateBeach": null,
+ "renovated": 2018,
+ "restaurants": 1,
+ "roomTypes": [
+  "Double Rooms",
+  "Terrace Rooms",
+  "Superior Rooms",
+  "Superior Terrace Rooms",
+  "Triple Rooms",
+  "Family Rooms",
+  "Suites",
+  "Junior Suites",
+  "Double Room with View",
+  "Double Room Single Use",
+  "Suite with Private Pool"
+ ],
+ "rooms": 63,
+ "spa": false,
+ "wifi": true,
+ "geo": {
+  "lat": 41.3845953,
+  "lon": 2.1611705,
+  "src": "osm"
+ },
+ "sources": [
+  "onthebeach.co.uk",
+  "barcelonabesthotels.com",
+  "trivago.ie",
+  "hotelscombined.com",
+  "expedia.com",
+  "trip.com",
+  "guestreservations.com",
+  "barcelonahotels.it"
+ ],
+ "updated": "2026-11-28"
+}

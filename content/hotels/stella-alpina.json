@@ -1,0 +1,96 @@
+{
+ "id": 10474,
+ "slug": "stella-alpina",
+ "name": "Stella Alpina",
+ "country": "wlochy",
+ "place": [
+  "Włochy",
+  "Lombardia",
+  "Aprica"
+ ],
+ "stars": 3,
+ "photo": "/no-index/hotel/stella-alpina-kuchnia-aneks-kuchenny-pokoj-8327-570-428.jpg",
+ "city": "Aprica",
+ "intro": [
+  "Hotel Stella Alpina to trzygwiazdkowy obiekt położony w centrum górskiej miejscowości Aprica w Lombardii, we Włoszech. Oferuje on przestronne apartamenty z aneksem kuchennym, co czyni go idealnym wyborem dla osób ceniących niezależność i możliwość samodzielnego przygotowywania posiłków.",
+  "Hotel jest szczególnie polecany dla rodzin oraz miłośników sportów zimowych, którzy szukają komfortowego zakwaterowania z łatwym dostępem do stoków narciarskich za pośrednictwem skibusa. Obiekt przeszedł częściowy remont, w tym budowę strefy SPA i siłowni, co podnosi komfort pobytu."
+ ],
+ "sections": [
+  {
+   "title": "Położenie i dojazd",
+   "text": "Hotel Stella Alpina znajduje się w samym sercu miejscowości Aprica, przy Corso Roma 3. Jest to lokalizacja dogodna dla turystów, z licznymi barami, restauracjami i sklepami w pobliżu. Najbliższe wyciągi narciarskie oddalone są o około 450-500 metrów, a przystanek skibusa znajduje się zaledwie 30-50 metrów od obiektu."
+  },
+  {
+   "title": "Pokoje",
+   "text": "Obiekt dysponuje 36 apartamentami rozmieszczonymi na 3 piętrach. Dostępne są apartamenty Bilo 4 (około 48-50 m²) z jedną sypialnią i pokojem dziennym z aneksem kuchennym oraz apartamenty Trilo 6 (około 45-70 m²) z dwiema sypialniami i pokojem dziennym z aneksem. Wszystkie apartamenty wyposażone są w telewizor, suszarkę do włosów, sejf oraz w pełni wyposażony aneks kuchenny. Większość z nich posiada również balkon lub taras."
+  },
+  {
+   "title": "Wyżywienie",
+   "text": "Hotel Stella Alpina oferuje zakwaterowanie bez wyżywienia (Self Catering). W każdym apartamencie znajduje się w pełni wyposażony aneks kuchenny, co umożliwia samodzielne przygotowywanie posiłków. W bezpośrednim sąsiedztwie obiektu znajdują się liczne restauracje, bary i sklepy spożywcze."
+  },
+  {
+   "title": "Relaks i sport",
+   "text": "W hotelu dostępna jest nowa, niewielka strefa SPA z sauną i łaźnią parową (dodatkowo płatna) oraz mała siłownia (bezpłatna). Dla narciarzy przygotowano przechowalnię sprzętu narciarskiego z suszarkami do butów. Goście mogą również korzystać ze zniżek na wypożyczenie sprzętu i rezerwację lekcji narciarskich. Bezpośrednio z obiektu można dostać się na trasy narciarstwa biegowego."
+  },
+  {
+   "title": "Dla dzieci",
+   "text": "W sezonie zimowym hotel organizuje zajęcia dla dzieci, w tym „SKI Funtazie Academy” dla dzieci w wieku 5-11 lat z czeskojęzycznymi instruktorami. Hotel nie jest obiektem wyłącznie dla dorosłych."
+  }
+ ],
+ "pros": [
+  "Centralna lokalizacja w Aprice",
+  "Przestronne apartamenty z aneksem kuchennym",
+  "Bezpłatne Wi-Fi",
+  "Przechowalnia sprzętu narciarskiego z suszarkami",
+  "Dostęp do małej siłowni"
+ ],
+ "cons": [
+  "Spa dodatkowo płatne",
+  "Brak basenu w obiekcie",
+  "Nieco większa odległość od stoków narciarskich",
+  "Brak wspólnej sali/pomieszczenia",
+  "Brak najmniejszych apartamentów typu mono"
+ ],
+ "faq": [
+  {
+   "q": "Jak daleko jest do najbliższych wyciągów narciarskich?",
+   "a": "Najbliższe wyciągi narciarskie znajdują się około 450-500 metrów od hotelu. Przystanek skibusa jest około 30-50 metrów od obiektu."
+  },
+  {
+   "q": "Czy hotel posiada basen lub aquapark?",
+   "a": "Nie, hotel Stella Alpina nie posiada basenu ani aquaparku."
+  },
+  {
+   "q": "Czy w hotelu jest dostęp do Wi-Fi?",
+   "a": "Tak, w hotelu dostępne jest bezpłatne Wi-Fi."
+  },
+  {
+   "q": "Czy hotel jest odpowiedni dla rodzin z dziećmi?",
+   "a": "Tak, hotel jest polecany dla rodzin. W sezonie zimowym organizowane są zajęcia dla dzieci, w tym „SKI Funtazie Academy”."
+  },
+  {
+   "q": "Czy hotel oferuje wyżywienie all inclusive?",
+   "a": "Nie, hotel Stella Alpina oferuje zakwaterowanie bez wyżywienia (Self Catering). W apartamentach dostępne są aneksy kuchenne."
+  },
+  {
+   "q": "Jak daleko jest do najbliższego lotniska?",
+   "a": "Najbliższe lotniska to Port Lotniczy St. Moritz Engadin (46,8 km) oraz Port Lotniczy Bergamo-Orio al Serio (około 63,3 km do 109 km)."
+  }
+ ],
+ "geo": {
+  "lat": 45.6508537,
+  "lon": 10.8545047,
+  "src": "osm"
+ },
+ "sources": [
+  "travelpunkt.pl",
+  "wakacje.pl",
+  "nev-dama.pl",
+  "kayak.pl",
+  "agoda.com",
+  "exim.pl",
+  "skyscanner.gg",
+  "viaggidipoli.it"
+ ],
+ "updated": "2026-11-28"
+}
