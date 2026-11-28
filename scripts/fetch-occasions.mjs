@@ -62,6 +62,7 @@ await Promise.all(Array.from({ length: 10 }, async () => {
   }
 }));
 
+fs.mkdirSync('public/occasions', { recursive: true });
 for (const oc of active) {
   const offers = [...found[oc.slug].values()].sort((x, y) => Number(String(x.price).replace(/\s/g, '')) - Number(String(y.price).replace(/\s/g, '')));
   const file = `public/occasions/${oc.slug}.json`;
