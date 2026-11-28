@@ -55,7 +55,7 @@ await Promise.all(Array.from({ length: 10 }, async () => {
     const [c, [a, b]] = jobs.shift();
     const list = await q({ countries: [ids[c]], minPrice: a, maxPrice: b });
     for (const o of list) {
-      if (!o.departureDate || o.departureDate < today || o.placeName?.[0] === 'Polska' || (o.transport && o.transport.value !== 1)) continue;
+      if (!o.departureDate || o.departureDate < today || o.placeName?.[0] === 'Polska' || /^przelot/i.test(o.name || '') || (o.transport && o.transport.value !== 1)) continue;
       for (const oc of active) if (oc.match(o)) found[oc.slug].set(o.id, slim(o));
     }
     if (++done % 100 === 0) console.log(`${done} zapytań, ${Math.round((Date.now() - t0) / 1000)} s`, Object.fromEntries(active.map((o) => [o.slug, found[o.slug].size])));

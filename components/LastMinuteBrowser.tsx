@@ -109,6 +109,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
   const [sort, setSort] = useState('price');
   const [shown, setShown] = useState(12);
   const [done, setDone] = useState(false);
+  const [loadErr, setLoadErr] = useState(false);
 
   useEffect(() => {
     // ?kraj=egipt w adresie ustawia filtr (linki z innych stron)
@@ -130,7 +131,7 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
     // najpierw ogólna pula, potem kraje po kilka naraz; wyniki pokazujemy, gdy tylko przyjdą
     (async () => {
       if (cfg.source) {
-        try { const j = await (await fetch(cfg.source)).json(); add(Array.isArray(j.offers) ? j.offers : []); } catch { add([]); }
+        try { const r = await fetch(cfg.source, { cache: 'no-store' }); if (!r.ok) throw new Error(String(r.status)); const j = await r.json(); add(Array.isArray(j.offers) ? j.offers : []); } catch { if (!cancel) { setLoadErr(true); add([]); } }
         if (!cancel) setDone(true);
         return;
       }
@@ -256,7 +257,13 @@ export default function LastMinuteBrowser({ countries, initialCountry = '', cfg 
           {active && <button type="button" className="lm-reset" onClick={reset}>Wyczyść filtry</button>}
         </div>
       )}
-      {pool !== null && list.length === 0 && (
+      {pool !== null && list.length === 0 && loadErr && (
+        <div className="ob-empty">
+          Nie udało się wczytać ofert. Odśwież stronę za chwilę albo{' '}
+          <a href={cfg.allLink} target="_blank" rel="sponsored nofollow noopener">zobacz oferty na wakacje.pl</a>.
+        </div>
+      )}
+      {pool !== null && list.length === 0 && !loadErr && (
         <div className="ob-empty">
           Brak ofert dla wybranych filtrów. <button type="button" className="lm-reset" onClick={reset}>Wyczyść filtry</button> albo{' '}
           <a href={cfg.allLink} target="_blank" rel="sponsored nofollow noopener">zobacz wszystkie oferty na wakacje.pl</a>.
